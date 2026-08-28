@@ -1,0 +1,90 @@
+<?xml version="1.0" ?>
+<tv generator-info-name="CCMA-EPG-Scraper">
+  <channel id="tvi">
+    <display-name>TVI</display-name>
+  </channel>
+  <programme start="20260828234208 +0200" stop="20260829011917 +0200" channel="tvi">
+    <title lang="ca">Pel·lícula</title>
+    <sub-title lang="ca">Falses aparences</sub-title>
+    <desc lang="ca">FALSES APARENCES 'Faux-semblants'Direcció: Akim IskerGuió: Isabelle Polin, Frédéric J. LozetProducció: Les Films du Printemps, France TV, BE-FILMS, RTBF (Télévision Belge), Radio Télévision Suisse (RTS), Région des Pays-de-la-Loire, CNCAny: 2020Durada: 97País: FrançaMúsica: Éric NeveuxFotografia: Emmanuel de FleuryIntèrprets: Thierry Godard, Noémie Schmidt, Francis Renaud, Marc Ruchmann, Laurent Bateau, Steve Tientcheu, Thor Schenker, Thomas Drelon, Gigi Ledron, Florence Janas, Félicien Juttner, Elisa Sergent, Caroline Piette, Erika Vandelet, Étienne MénardLa jove capitana Valentine Ventura, de la divisió econòmica de la policia, s'incorpora a la brigada criminal per treballar al costat del famós comandant Antoine Thomas, que acaba de reprendre l'activitat després d'un terrible accident de cotxe que el va deixar en cadira de rodes. Tots dos policies investiguen l'assassinat d'una jove periodista de Nantes, que sembla que estigui relacionat amb dues altres morts. Tot indica que es troben davant d'un assassí en sèrie, però la Valentine aviat sospita que les aparences enganyen.</desc>
+    <category lang="ca">FICCIÓ</category>
+  </programme>
+  <programme start="20260829011917 +0200" stop="20260829043000 +0200" channel="tvi">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <category lang="ca">ACTUALITAT</category>
+    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
+  </programme>
+  <channel id="324">
+    <display-name>324</display-name>
+  </channel>
+  <programme start="20260828230000 +0200" stop="20260829003000 +0200" channel="324">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <category lang="ca">ACTUALITAT</category>
+    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
+  </programme>
+  <programme start="20260829003000 +0200" stop="20260829010000 +0200" channel="324">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <category lang="ca">ACTUALITAT</category>
+    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
+  </programme>
+  <channel id="esport3">
+    <display-name>ESPORT3</display-name>
+  </channel>
+  <programme start="20260828230001 +0200" stop="20260829003057 +0200" channel="esport3">
+    <title lang="ca">Onze</title>
+    <sub-title lang="ca">Barça, líder golejador; la batussa per Julián; Delmàs, Fàbregas i Nin</sub-title>
+    <desc lang="ca">Jordi Gil condueix la tertúlia amb Santi Ovalle, Irati Vidal, Paula Reverter i David Ibáñez. Amb David Sánchez comentem la batussa dialèctica entre l'Atlètic de Madrid i el Barça per Julián Álvarez. Àlex Delmàs ens porta la clau del Rayo-Barça. Amb Joan Fàbregas comentem les polèmiques arbitrals de la setmana i acabem amb l'1X1 d'Òscar Nin. </desc>
+    <category lang="ca">ESPORTS</category>
+    <icon src="https://img.ccma.cat/multimedia/jpg/1/1/1688543515711.jpg"/>
+  </programme>
+  <programme start="20260829003057 +0200" stop="20260829005129 +0200" channel="esport3">
+    <title lang="ca">3CatInfo Esports</title>
+    <desc lang="ca">Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.</desc>
+    <category lang="ca">ESPORTS</category>
+    <icon src="https://img.ccma.cat/multimedia/jpg/9/7/1758888682179.jpg"/>
+  </programme>
+  <channel id="sx3">
+    <display-name>SX3</display-name>
+  </channel>
+  <programme start="20260829001120 +0200" stop="20260829003129 +0200" channel="sx3">
+    <title lang="ca">Els germans Kratt</title>
+    <sub-title lang="ca">La gran 'cuaconfusió'</sub-title>
+    <desc lang="ca">La nau Tortuga té un polissó: un esquirol vermell que ara, accidentalment, campa lliure per la sabana africana. Els germans Kratt activen el poder de guepard per atrapar-la, però de sobte s'adonen que els falta la cua adequada per mantenir l'equilibri. El modulador automàtic de cua que incorporen els vestits no funciona correctament. En l'aventura per tornar la Cueta, l'esquirol, a l'Amèrica del Nord, la colla descobrirà la increïble varietat i funcions diferents que poden tenir les cues animals.</desc>
+    <category lang="ca">FICCIÓ</category>
+  </programme>
+  <programme start="20260829003129 +0200" stop="20260829005139 +0200" channel="sx3">
+    <title lang="ca">Els germans Kratt</title>
+    <sub-title lang="ca">El coiot Adapto</sub-title>
+    <desc lang="ca">a colla d'exploradors són a la nau Tortuga mirant de posar-se d'acord sobre on anar. Sense que pràcticament se n'adonin, un cadell de coiot entra i s'endú l'últim tall de pizza d'en Jimmy. És així com començaran a descobrir la increïble adaptabilitat d'aquest animal, capaç de viure en llocs molt diferents i d'alimentar-se també de fonts molt variades. I tot plegat sense perdre de vista en Zach, no fos cas que en tornés a fer alguna de les seves!</desc>
+    <category lang="ca">FICCIÓ</category>
+  </programme>
+  <channel id="c33">
+    <display-name>C33</display-name>
+  </channel>
+  <programme start="20260828234515 +0200" stop="20260829002957 +0200" channel="c33">
+    <title lang="ca">Illes d'Austràlia, amb Martin Clunes</title>
+    <desc lang="ca">Martin Clunes continua el seu viatge al voltant d'Austràlia anant d'illa en illa. Alguna illa només està habitada per aborígens, altres estan deshabitades, en algunes hi viuen pescadors, i l'última és un centre turístic amb una història sinistra. El mar que les envolta, en canvi, sempre és ple de vida. El Martin se submergeix per veure de prop els esculls de corall i els peixos grans i petits que hi viuen.</desc>
+    <category lang="ca">DIVULGACIÓ</category>
+  </programme>
+  <programme start="20260829002957 +0200" stop="20260829012238 +0200" channel="c33">
+    <title lang="ca">Llocs recòndits</title>
+    <sub-title lang="ca">L'Aràbia Saudita</sub-title>
+    <desc lang="ca">Acompanyeu en Peter Greenberg, el presentador, mentre explora les joies ocultes del regne de l'Aràbia Saudita que ben pocs coneixen, incloent-hi Riad, Jidda, Al-Ula, el mar Roig, les Dunes Vermelles i molt més.</desc>
+    <category lang="ca">DIVULGACIÓ</category>
+  </programme>
+  <channel id="oca1">
+    <display-name>OCA1</display-name>
+  </channel>
+  <channel id="oca2">
+    <display-name>OCA2</display-name>
+  </channel>
+  <channel id="oca3">
+    <display-name>OCA3</display-name>
+  </channel>
+  <channel id="oca4">
+    <display-name>OCA4</display-name>
+  </channel>
+</tv>
