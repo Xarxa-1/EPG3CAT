@@ -3,70 +3,35 @@
   <channel id="tvi">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20260828234208 +0200" stop="20260829011917 +0200" channel="tvi">
-    <title lang="ca">Pel·lícula</title>
-    <sub-title lang="ca">Falses aparences</sub-title>
-    <desc lang="ca">FALSES APARENCES 'Faux-semblants'Direcció: Akim IskerGuió: Isabelle Polin, Frédéric J. LozetProducció: Les Films du Printemps, France TV, BE-FILMS, RTBF (Télévision Belge), Radio Télévision Suisse (RTS), Région des Pays-de-la-Loire, CNCAny: 2020Durada: 97País: FrançaMúsica: Éric NeveuxFotografia: Emmanuel de FleuryIntèrprets: Thierry Godard, Noémie Schmidt, Francis Renaud, Marc Ruchmann, Laurent Bateau, Steve Tientcheu, Thor Schenker, Thomas Drelon, Gigi Ledron, Florence Janas, Félicien Juttner, Elisa Sergent, Caroline Piette, Erika Vandelet, Étienne MénardLa jove capitana Valentine Ventura, de la divisió econòmica de la policia, s'incorpora a la brigada criminal per treballar al costat del famós comandant Antoine Thomas, que acaba de reprendre l'activitat després d'un terrible accident de cotxe que el va deixar en cadira de rodes. Tots dos policies investiguen l'assassinat d'una jove periodista de Nantes, que sembla que estigui relacionat amb dues altres morts. Tot indica que es troben davant d'un assassí en sèrie, però la Valentine aviat sospita que les aparences enganyen.</desc>
-    <credits>
-      <director>Akim Isker</director>
-      <writer>Isabelle</writer>
-      <actor>Thierry Godard</actor>
-      <actor>Noémie Schmidt</actor>
-      <actor>Francis Renaud</actor>
-      <actor>Marc Ruchmann</actor>
-      <actor>Laurent Bateau</actor>
-      <actor>Steve Tientcheu</actor>
-      <actor>Thor Schenker</actor>
-      <actor>Thomas Drelon</actor>
-      <actor>Gigi Ledron</actor>
-      <actor>Florence Janas</actor>
-      <actor>Félicien Juttner</actor>
-      <actor>Elisa Sergent</actor>
-      <actor>Caroline Piette</actor>
-      <actor>Erika Vandelet</actor>
-      <actor>Étienne MénardLa jove capitana Valentine Ventura</actor>
-      <actor>de la divisió econòmica de la policia</actor>
-      <actor>s'incorpora a la brigada criminal per treballar al costat del famós comandant Antoine Thomas</actor>
-      <actor>que acaba de reprendre l'activitat després d'un terrible accident de cotxe que el va deixar en cadira de rodes. Tots dos policies investiguen l'assassinat d'una jove periodista de Nantes</actor>
-      <actor>que sembla que estigui relacionat amb dues altres morts. Tot indica que es troben davant d'un assassí en sèrie</actor>
-      <actor>però la Valentine aviat sospita que les aparences enganyen.</actor>
-    </credits>
-    <length units="seconds">5829</length>
-    <episode-num system="onscreen">1</episode-num>
-    <category lang="ca">FICCIÓ</category>
-    <category lang="ca">PEL·LÍCULA / TELEFILM</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-  </programme>
-  <programme start="20260829011917 +0200" stop="20260829043000 +0200" channel="tvi">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">11443</length>
-    <episode-num system="onscreen">11028</episode-num>
-    <category lang="ca">ACTUALITAT</category>
-    <category lang="ca">INFORMATIU DIÀRI</category>
+  <programme start="20260829051057 +0200" stop="20260829055830 +0200" channel="tvi">
+    <title lang="ca">Cava de Blues</title>
+    <sub-title lang="ca">Dani Nel·lo &amp; Mario Cobo</sub-title>
+    <desc lang="ca">Cava de Blues és un espai dedicat a les noves creacions de 14 grups del país que es dediquen a aquest gènere musical.En aquesta edició, els grups que hi trobareu són: -A contrablues-Blas Picón &amp; The Junk Espress-Bullfrog Electric Blues Experience-Dusa'ns Flying Blues Band-Dani Baraldés &amp; The XX Band-Emili Baleriola Blues Quartet-Dani Nel·lo &amp; Mario Cobo-Ivan Kovacevic 5 Spots-JG Acoustic Gang-John Big Stone &amp; The Blues Workers-Legacaster! The Hillbilly Trio-Martini Surfers-Susan Santos &amp; The Papa's Red Band-The Paparellos</desc>
+    <length units="seconds">2853</length>
+    <episode-num system="onscreen">7</episode-num>
+    <category lang="ca">MUSICALS</category>
+    <category lang="ca">JAZZ</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <previously-shown/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
+    <icon src="https://img.3cat.cat/multimedia/jpg/0/2/1754910826220.jpg"/>
+  </programme>
+  <programme start="20260829055830 +0200" stop="20260829060000 +0200" channel="tvi">
+    <title lang="ca">Videoclips catalans</title>
+    <sub-title lang="ca">P.A.W.N. Gang - No maspliquis</sub-title>
+    <length units="seconds">90</length>
+    <episode-num system="onscreen">1713</episode-num>
+    <category lang="ca">MUSICALS</category>
+    <category lang="ca">ALTRES</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <previously-shown/>
   </programme>
   <channel id="324">
     <display-name>324</display-name>
   </channel>
-  <programme start="20260829003000 +0200" stop="20260829010000 +0200" channel="324">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">1800</length>
-    <episode-num system="onscreen">11028</episode-num>
-    <category lang="ca">ACTUALITAT</category>
-    <category lang="ca">INFORMATIU DIÀRI</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
-  </programme>
   <programme start="20260829010000 +0200" stop="20260829060000 +0200" channel="324">
     <title lang="ca">Notícies 3CatInfo</title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
@@ -80,59 +45,74 @@
     <previously-shown/>
     <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
-  <channel id="esport3">
-    <display-name>ESPORT3</display-name>
-  </channel>
-  <programme start="20260829003439 +0200" stop="20260829005236 +0200" channel="esport3">
-    <title lang="ca">3CatInfo Esports</title>
-    <desc lang="ca">Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.</desc>
-    <length units="seconds">1077</length>
-    <episode-num system="onscreen">5492</episode-num>
-    <category lang="ca">ESPORTS</category>
+  <programme start="20260829060000 +0200" stop="20260829070000 +0200" channel="324">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="seconds">3600</length>
+    <episode-num system="onscreen">11028</episode-num>
+    <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <icon src="https://img.ccma.cat/multimedia/jpg/9/7/1758888682179.jpg"/>
+    <previously-shown/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
-  <programme start="20260829005236 +0200" stop="20260829025323 +0200" channel="esport3">
-    <title lang="ca">Onze</title>
-    <sub-title lang="ca">Barça, líder golejador; la batussa per Julián; Delmàs, Fàbregas i Nin</sub-title>
-    <desc lang="ca">Jordi Gil condueix la tertúlia amb Santi Ovalle, Irati Vidal, Paula Reverter i David Ibáñez. Amb David Sánchez comentem la batussa dialèctica entre l'Atlètic de Madrid i el Barça per Julián Álvarez. Àlex Delmàs ens porta la clau del Rayo-Barça. Amb Joan Fàbregas comentem les polèmiques arbitrals de la setmana i acabem amb l'1X1 d'Òscar Nin. </desc>
-    <length units="seconds">7247</length>
-    <episode-num system="onscreen">1240</episode-num>
+  <channel id="esport3">
+    <display-name>ESPORT3</display-name>
+  </channel>
+  <programme start="20260829054020 +0200" stop="20260829062639 +0200" channel="esport3">
+    <title lang="ca">E3</title>
+    <sub-title lang="ca">Monster Jam / Seattle / 9</sub-title>
+    <desc lang="ca">La gran competició de motor amb els vehicles de quatre rodes més espectaculars. Monster Jam posa a prova la velocitat i la destresa dels pilots en un circuit ple d'obstacles. </desc>
+    <length units="seconds">2779</length>
+    <episode-num system="onscreen">2376</episode-num>
     <category lang="ca">ESPORTS</category>
-    <category lang="ca">MAGAZINE</category>
+    <category lang="ca">REPORTATGES</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/1/1/1688543515711.jpg"/>
+    <icon src="https://img.3cat.cat/multimedia/jpg/3/4/1781782901343.jpg"/>
+  </programme>
+  <programme start="20260829062639 +0200" stop="20260829065135 +0200" channel="esport3">
+    <title lang="ca">E3</title>
+    <sub-title lang="ca">Monster Jam / Los Angeles / 11</sub-title>
+    <desc lang="ca">La gran competició de motor amb els vehicles de quatre rodes més espectaculars. Monster Jam posa a prova la velocitat i la destresa dels pilots en un circuit ple d'obstacles. </desc>
+    <length units="seconds">1496</length>
+    <episode-num system="onscreen">2378</episode-num>
+    <category lang="ca">ESPORTS</category>
+    <category lang="ca">REPORTATGES</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <subtitles type="teletext"/>
+    <previously-shown/>
+    <icon src="https://img.3cat.cat/multimedia/jpg/3/4/1781782901343.jpg"/>
   </programme>
   <channel id="sx3">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20260829003129 +0200" stop="20260829005139 +0200" channel="sx3">
-    <title lang="ca">Els germans Kratt</title>
-    <sub-title lang="ca">El coiot Adapto</sub-title>
-    <desc lang="ca">a colla d'exploradors són a la nau Tortuga mirant de posar-se d'acord sobre on anar. Sense que pràcticament se n'adonin, un cadell de coiot entra i s'endú l'últim tall de pizza d'en Jimmy. És així com començaran a descobrir la increïble adaptabilitat d'aquest animal, capaç de viure en llocs molt diferents i d'alimentar-se també de fonts molt variades. I tot plegat sense perdre de vista en Zach, no fos cas que en tornés a fer alguna de les seves!</desc>
-    <length units="seconds">1210</length>
-    <episode-num system="onscreen">155</episode-num>
+  <programme start="20260829054210 +0200" stop="20260829054829 +0200" channel="sx3">
+    <title lang="ca">El xai Shaun</title>
+    <sub-title lang="ca">El roncaire</sub-title>
+    <desc lang="ca">Fa unes quantes nits que no hi ha manera de dormir a l'estable de la granja. La Shirley no para de roncar i té totes les altres ovelles despertes... i desesperades! En Shaun té clara una cosa: l'única manera de poder dormir tranquils una nit és fent fora la Shirley de l'estable. Tampoc no deu ser tan difícil... O sí?!</desc>
+    <length units="seconds">379</length>
+    <episode-num system="onscreen">38</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
       <value>INFANTIL</value>
     </rating>
-    <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20260829005139 +0200" stop="20260829011217 +0200" channel="sx3">
-    <title lang="ca">Els germans Kratt</title>
-    <sub-title lang="ca">Oh-oh, estruç!</sub-title>
-    <desc lang="ca">L'Aviva està radiant ara que ha descobert la fórmula secreta, però, ai las! Una ràfega d'aire se l'endú i el paper on la tenia apuntada es perd enmig de la sabana africana. Gràcies als vestits de poder animal i al seu bon olfacte, els germans localitzen el paper enmig d'un niu d'estruços, però, esclar, ni el mascle ni la femella estan disposats que ningú s'acosti a les seves cries. Aquestes enormes aus són, a més de ràpides, molt forçudes, com bé podran comprovar en Chris i en Martin.</desc>
-    <length units="seconds">1238</length>
-    <episode-num system="onscreen">156</episode-num>
+  <programme start="20260829054829 +0200" stop="20260829054938 +0200" channel="sx3">
+    <title lang="ca">Looloo Kids (cançons)</title>
+    <sub-title lang="ca">Fes un pastís</sub-title>
+    <desc lang="ca">Un pastisser ha de fer un pastís molt de pressa perquè un nen i la seva mare tenen gana.</desc>
+    <length units="seconds">69</length>
+    <episode-num system="onscreen">117</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
@@ -144,33 +124,33 @@
   <channel id="c33">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20260829002957 +0200" stop="20260829012240 +0200" channel="c33">
-    <title lang="ca">Llocs recòndits</title>
-    <sub-title lang="ca">L'Aràbia Saudita</sub-title>
-    <desc lang="ca">Acompanyeu en Peter Greenberg, el presentador, mentre explora les joies ocultes del regne de l'Aràbia Saudita que ben pocs coneixen, incloent-hi Riad, Jidda, Al-Ula, el mar Roig, les Dunes Vermelles i molt més.</desc>
-    <length units="seconds">3163</length>
-    <episode-num system="onscreen">5</episode-num>
-    <category lang="ca">DIVULGACIÓ</category>
-    <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
+  <programme start="20260829054448 +0200" stop="20260829055018 +0200" channel="c33">
+    <title lang="ca">Xarxa Natura</title>
+    <sub-title lang="ca">Riera de Merlès</sub-title>
+    <desc lang="ca">En la llista d'espais inclosos a la Xarxa Natura 2000 hi ha tots els parcs naturals, però també molts altres espais emblemàtics com ara les Guilleries, l'estany de Banyoles, l'Alta Garrotxa, la serra del Montsec o les Gavarres. La majoria d'aquests espais són autèntics desconeguts i els seus valors naturals i culturals no han estat mai objecte de cap divulgació específica. Aquesta sèrie vol donar a conèixer aquest patrimoni.</desc>
+    <length units="seconds">330</length>
+    <episode-num system="onscreen">21</episode-num>
+    <category lang="ca">ALTRES</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/4/1/1721308939614.jpg"/>
   </programme>
-  <programme start="20260829012240 +0200" stop="20260829021303 +0200" channel="c33">
-    <title lang="ca">El gran camí</title>
-    <sub-title lang="ca">El Camí del Kumano</sub-title>
-    <desc lang="ca">Viatgem est enllà per descobrir el Kumano Kodo, una antiga ruta de pelegrinatge que travessa les muntanyes sagrades i els temples de Kumano, a la península de Kii, i que ens porta pel Japó antic i rural mitjançant un camí espiritual de purificació.</desc>
-    <length units="seconds">3023</length>
-    <episode-num system="onscreen">3</episode-num>
-    <category lang="ca">DIVULGACIÓ</category>
-    <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
+  <programme start="20260829055018 +0200" stop="20260829055540 +0200" channel="c33">
+    <title lang="ca">Xarxa Natura</title>
+    <sub-title lang="ca">Montsant</sub-title>
+    <desc lang="ca">En la llista d'espais inclosos a la Xarxa Natura 2000 hi ha tots els parcs naturals, però també molts altres espais emblemàtics com ara les Guilleries, l'estany de Banyoles, l'Alta Garrotxa, la serra del Montsec o les Gavarres. La majoria d'aquests espais són autèntics desconeguts i els seus valors naturals i culturals no han estat mai objecte de cap divulgació específica. Aquesta sèrie vol donar a conèixer aquest patrimoni.</desc>
+    <length units="seconds">322</length>
+    <episode-num system="onscreen">22</episode-num>
+    <category lang="ca">ALTRES</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/4/1/1721308939614.jpg"/>
   </programme>
   <channel id="oca1">
     <display-name>OCA1</display-name>
