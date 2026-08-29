@@ -3,27 +3,27 @@
   <channel id="tvi">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20260829231321 +0200" stop="20260830000615 +0200" channel="tvi">
-    <title lang="ca">De bon humor</title>
-    <sub-title lang="ca">Els imitadors</sub-title>
-    <desc lang="ca">Hi ha molts humoristes amb capacitat d'imitar personatges d'actualitat. Des que va néixer el programa Polònia fa més d'onze anys, i després amb el Crackòvia, la caricatura dels polítics primer, i dels esportistes després, ens ha fet riure moltes nits. Com s'ho fan per copiar tan bé els gestos, la veu, el físic dels seus personatges? Són imitacions o són creacions de personatges amb vida pròpia? On és el límit entre la paròdia i l'escarni?Anem de visita al plató de Polònia, on en Toni Soler ens parlarà de la sàtira i de la paròdia. I en els camerinos parlarem de la seva professió amb els imitadors Pep Plaza o Manel Lucas. També ens trobarem amb en Queco Novell, amb qui anirem fins al Parlament per parlar dels seus personatges polítics.També en Carlos Latre té una capacitat impressionant de mimetitzar-se en més de 80 personatges, que ha creat amb unes tècniques molt assajades i basades en l'observació. Latre és sens dubte un crac de la imitació.També coneixerem Juan Carlos Ortega, un peculiar imitador de veus de personatges anònims capaç d'enganyar-nos amb les seves trucades. </desc>
-    <length units="seconds">3174</length>
-    <episode-num system="onscreen">8</episode-num>
-    <category lang="ca">ENTRETENIMENT</category>
-    <category lang="ca">ALTRES</category>
+  <programme start="20260830011715 +0200" stop="20260830013645 +0200" channel="tvi">
+    <title lang="ca">Correspondències</title>
+    <sub-title lang="ca">Correspondències entre Míriam Hatibi i Hajar Brown</sub-title>
+    <desc lang="ca">L'escriptora, activista musulmana i feminista Míriam Hatibi ha escollit cartejar-se amb l'actriu feminista, musulmana i influencer Hajar Brown. A la seva primera correspondència la Míriam i l'Hajar reflexionen sobre la identitat. Qui són? D'on vénen? Són la suma de totes les dones que han viscut abans a la seva família? Les dones de la seva vida eren feministes sense etiquetar-se i elles ho han viscut des de petites, simplement, elles ara li han posat nom a la seva manera de viure. A la segona correspondència s'escriuren sobre el fet que a les dones se'ns demana més que als homes, hem de ser el doble per arribar a la meitat. Que és una cosa que han sentit sempre a la seva família i que, ara, elles creuen que ja n'hi ha prou. Que amb elles ja fan, que no cal demostrar a tothom i, sobretot, a una mateixa, que pots amb tot.El capítol acaba amb un manifest-homenatge a Agnès Varda amb diferents dones feministes que es pregunten 'què vol dir ser dona'. </desc>
+    <length units="seconds">1170</length>
+    <episode-num system="onscreen">4</episode-num>
+    <category lang="ca">DIVULGACIÓ</category>
+    <category lang="ca">DOCUMENTAL DE CREACIÓ</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20260830000615 +0200" stop="20260830001900 +0200" channel="tvi">
-    <title lang="ca">Talent creatiu</title>
-    <sub-title lang="ca">Pol Dunyó, pagès ecològic</sub-title>
-    <desc lang="ca">Més que explicar la història del Pol, que també, hem volgut crear una història d'amor. L'amor que sent pel que fa, per una manera de viure, pel respecte als animals i al camp.</desc>
-    <length units="seconds">765</length>
-    <episode-num system="onscreen">18</episode-num>
-    <category lang="ca">ENTRETENIMENT</category>
+  <programme start="20260830013645 +0200" stop="20260830020540 +0200" channel="tvi">
+    <title lang="ca">33 Revolucions</title>
+    <sub-title lang="ca">Joan Colomo, Joan Pons i Mau Boada</sub-title>
+    <desc lang="ca">'33 Revolucions' descobreix les aventures musicals que comparteixen Joan Pons (El Petit de Cal Eril), Joan Colomo i Dalmau Boada (Esperit!). Aquests dos últims van créixer al Montseny i junts van fer el seu primer grup (Zeidun) quan només tenien onze anys.A tots tres els uneix també una adolescència marcada pel hardcore, i han evolucionat respectivament cap a un folk rural conreat a Guissona, una passió per l'experimentació sonora que fa transportar múltiples instruments en una màgica furgoneta, i unes lletres plenes d'humor subtil i intel·ligència.</desc>
+    <length units="seconds">1735</length>
+    <episode-num system="onscreen">1</episode-num>
+    <category lang="ca">MUSICALS</category>
     <category lang="ca">ALTRES</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
@@ -34,38 +34,40 @@
   <channel id="324">
     <display-name>324</display-name>
   </channel>
-  <programme start="20260829230000 +0200" stop="20260830003000 +0200" channel="324">
+  <programme start="20260830010000 +0200" stop="20260830060000 +0200" channel="324">
     <title lang="ca">Notícies 3CatInfo</title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">5400</length>
-    <episode-num system="onscreen">11035</episode-num>
-    <category lang="ca">ACTUALITAT</category>
-    <category lang="ca">INFORMATIU DIÀRI</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
-  </programme>
-  <programme start="20260830003000 +0200" stop="20260830010000 +0200" channel="324">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">1800</length>
+    <length units="seconds">18000</length>
     <episode-num system="onscreen">11036</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
+    <previously-shown/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
+  </programme>
+  <programme start="20260830060000 +0200" stop="20260830070000 +0200" channel="324">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="seconds">3600</length>
+    <episode-num system="onscreen">11036</episode-num>
+    <category lang="ca">ACTUALITAT</category>
+    <category lang="ca">INFORMATIU DIÀRI</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <previously-shown/>
     <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
   <channel id="esport3">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20260829233000 +0200" stop="20260830003108 +0200" channel="esport3">
+  <programme start="20260830005515 +0200" stop="20260830015825 +0200" channel="esport3">
     <title lang="ca">Gol a gol</title>
     <sub-title lang="ca">Anàlisi de la jornada / J3 / Dissabte</sub-title>
     <desc lang="ca">'Gol a gol' us ofereix els resums dels partits de futbol de Primera i Segona Divisió. Presentat per Jordi Grau a Esport3, cada dissabte i cada diumenge podeu veure les millors imatges de la jornada de Lliga amb l'anàlisi dels experts, amb especial atenció als equips catalans, sobretot el Barça, el Girona i l'Espanyol.</desc>
-    <length units="seconds">3668</length>
+    <length units="seconds">3790</length>
     <episode-num system="onscreen">1767</episode-num>
     <category lang="ca">ESPORTS</category>
     <category lang="ca">MAGAZINE</category>
@@ -73,29 +75,31 @@
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
+    <previously-shown/>
     <icon src="https://img.ccma.cat/multimedia/jpg/2/1/1698144123212.jpg"/>
   </programme>
-  <programme start="20260830003108 +0200" stop="20260830005140 +0200" channel="esport3">
+  <programme start="20260830015825 +0200" stop="20260830021959 +0200" channel="esport3">
     <title lang="ca">3CatInfo Esports</title>
     <desc lang="ca">Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.</desc>
-    <length units="seconds">1232</length>
+    <length units="seconds">1294</length>
     <episode-num system="onscreen">5493</episode-num>
     <category lang="ca">ESPORTS</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
+    <previously-shown/>
     <icon src="https://img.ccma.cat/multimedia/jpg/9/7/1758888682179.jpg"/>
   </programme>
   <channel id="sx3">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20260829232908 +0200" stop="20260829234005 +0200" channel="sx3">
-    <title lang="ca">La tropa del corral</title>
-    <sub-title lang="ca">Ple de trampes</sub-title>
-    <desc lang="ca">És un dia de moltes trucades al corral. Avui, els nostres herois investiguen una sèrie de robatoris a Vilanimal, però aviat s'adonen que ha estat cosa d'en Frankie. Els ha parat una trampa i els ha fet anar a casa de l'Albert, que és plena de paranys, per poder robar el galliner en pau!</desc>
-    <length units="seconds">657</length>
-    <episode-num system="onscreen">30</episode-num>
+  <programme start="20260830011510 +0200" stop="20260830013613 +0200" channel="sx3">
+    <title lang="ca">Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
+    <sub-title lang="ca">Kuro Neko</sub-title>
+    <desc lang="ca">Vespèria, Escurçó, Cuirassa, Pigella, Tigressa Porpra, Pegàs... Ladybug ha convocat un equip de superherois impressionant... sense el Gat Noir! Últimament el superheroi se sent una mica oblidat. Convençut que Ladybug ja no el considera important perquè té molts d'altres superherois, acaba tornant-li el seu prodigi. Ladybug no l'hi pot impedir i es troba perduda sense la seva mixeta. Sort que el Plagg l'animarà i l'ajudarà a trobar una solució: li proposa aprofitar l'oportunitat per reclutar un nou Gat Noir.</desc>
+    <length units="seconds">1263</length>
+    <episode-num system="onscreen">101</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
@@ -104,12 +108,12 @@
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20260829234005 +0200" stop="20260829235054 +0200" channel="sx3">
-    <title lang="ca">La gateta Arc iris papallona unicorn</title>
-    <sub-title lang="ca">El borinot del revés</sub-title>
-    <desc lang="ca">A l'Athena i el Miguel els ha picat un borinot que fa que ara parlin al revés. Si no volen que els efectes siguin permanents, hauran d'aconseguir que el borinot els torni a picar abans de dues hores, però ha fugit a Revèrsia, on tot passa al revés.</desc>
-    <length units="seconds">649</length>
-    <episode-num system="onscreen">14</episode-num>
+  <programme start="20260830013613 +0200" stop="20260830015708 +0200" channel="sx3">
+    <title lang="ca">Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
+    <sub-title lang="ca">Penal</sub-title>
+    <desc lang="ca">La senyoreta Bustier organitza un partit de futbol perquè els seus alumnes descobreixin els valors de l'esport i de jugar junts. A la Marinette li encanta el futbol i lluitarà per salvar el partit, encara que la Chloé estigui disposada a fer el que calgui per esguerrar-lo. La Chloé no suporta el futbol, però en topar amb una Marinette molt decidida que la inclou en el joc encara que ella no ho vulgui, la còlera de la Chloé arriba a extrems exagerats. I només espera una cosa: que l'akumatitzin per poder-se venjar.</desc>
+    <length units="seconds">1255</length>
+    <episode-num system="onscreen">102</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
@@ -121,12 +125,12 @@
   <channel id="c33">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20260829230714 +0200" stop="20260830000612 +0200" channel="c33">
-    <title lang="ca">Els caps de setmana llargs d'en Rick Stein</title>
-    <sub-title lang="ca">Viena</sub-title>
-    <desc lang="ca">En aquest episodi, en Rick Stein visita Viena, l'epicentre de l'Imperi austrohongarès i la ciutat que dóna nom a un dels plats més populars d'Europa, el 'wiener schnitzel'. En Rick també tastarà plats reconfortants com el 'tafelspitz' o el 'gulasch', s'endinsarà en la cultura dels cafès vienesos i es deixarà temptar per delícies dolces com el pastís 'sacher'. No es perdrà la pintura de Klimt ni tampoc la música en directe de Strauss. I, a Padstow, ens farà una amanida d'areng i patata, un 'strudel' de poma i un 'gulasch' deliciós.</desc>
-    <length units="seconds">3538</length>
-    <episode-num system="onscreen">4</episode-num>
+  <programme start="20260830005747 +0200" stop="20260830014829 +0200" channel="c33">
+    <title lang="ca">Els quaderns de cuina de la Julie</title>
+    <sub-title lang="ca">La Corresa</sub-title>
+    <desc lang="ca">En aquest episodi la Julie visita el departament de la Corresa. Primer de tot visita el noguerar d'en David, on es produeix una nou molt apreciada. Amb la Karine prepara un magret d'ànec amb crosta de nous. Després visita la Sylvie, que produeix un licor de nous típic de la regió. Tot seguit, amb la Michèle, prepara unes gofres amb nata crua. Finalment, la Laurence li ensenya una recepta de pit de vedella farcit.</desc>
+    <length units="seconds">3042</length>
+    <episode-num system="onscreen">76</episode-num>
     <category lang="ca">DIVULGACIÓ</category>
     <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
     <rating>
@@ -135,12 +139,11 @@
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20260830000612 +0200" stop="20260830005746 +0200" channel="c33">
-    <title lang="ca">Els quaderns de cuina de la Julie</title>
-    <sub-title lang="ca">El Borbonès</sub-title>
-    <desc lang="ca">En Lucien, un enginyer agroalimentari, fa un pastís salat de patata tal com l'ha après de l'àvia Hélène. La Simone i l'Olivier, mare i fill, són fabricants de la famosa mostassa de Charós, que entra en algunes receptes típiques del Borbonès. L'Hubert, editor de llibres de cuina, sap guisar l'ànec a la Duchambais, una salsa de nata amb vi i mostassa. L'Arnaud, horticultor, es dedica a crear noves varietats de pomes i de peres. I la Françoise fa un pastís de peres guarnit per damunt amb peres senceres en almívar.</desc>
-    <length units="seconds">3094</length>
-    <episode-num system="onscreen">75</episode-num>
+  <programme start="20260830014829 +0200" stop="20260830023415 +0200" channel="c33">
+    <title lang="ca">Illes d'Austràlia, amb Martin Clunes</title>
+    <desc lang="ca">En la primera etapa de la seva volta a Austràlia saltant d'illa en illa, Martin Clunes visita l'illa de Lord Howe i l'illa Norfolk, petits trossos de paradís perduts enmig del Pacífic on encara és viu el record de la colonització feta amb presos deportats de la Gran Bretanya. Després visita un Robinson modern que viu sol a l'illa de la Restauració, i salta cap a les illes de l'estret de Torres, on es barregen moltes cultures.</desc>
+    <length units="seconds">2746</length>
+    <episode-num system="onscreen">1</episode-num>
     <category lang="ca">DIVULGACIÓ</category>
     <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
     <rating>
