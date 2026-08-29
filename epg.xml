@@ -3,37 +3,42 @@
   <channel id="tvi">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20260829204844 +0200" stop="20260829210000 +0200" channel="tvi">
-    <title lang="ca">Atrapa'm si pots. Els millors moments.</title>
-    <desc lang="ca">'Atrapa'm si pots' és un 'quiz show' clàssic, de preguntes i respostes, presentat per Llucià Ferrer, en què sis concursants competeixen per arribar a la fase final i guanyar el pot. 'Atrapa'm si pots' és entreteniment pur i on gairebé és més important passar-s'ho bé que els diners. És un concurs en què pesa més la intuïció que no els coneixements acadèmics, més l'estratègia en el joc que no la sort.</desc>
-    <length units="seconds">676</length>
-    <episode-num system="onscreen">982</episode-num>
+  <programme start="20260829231321 +0200" stop="20260830000615 +0200" channel="tvi">
+    <title lang="ca">De bon humor</title>
+    <sub-title lang="ca">Els imitadors</sub-title>
+    <desc lang="ca">Hi ha molts humoristes amb capacitat d'imitar personatges d'actualitat. Des que va néixer el programa Polònia fa més d'onze anys, i després amb el Crackòvia, la caricatura dels polítics primer, i dels esportistes després, ens ha fet riure moltes nits. Com s'ho fan per copiar tan bé els gestos, la veu, el físic dels seus personatges? Són imitacions o són creacions de personatges amb vida pròpia? On és el límit entre la paròdia i l'escarni?Anem de visita al plató de Polònia, on en Toni Soler ens parlarà de la sàtira i de la paròdia. I en els camerinos parlarem de la seva professió amb els imitadors Pep Plaza o Manel Lucas. També ens trobarem amb en Queco Novell, amb qui anirem fins al Parlament per parlar dels seus personatges polítics.També en Carlos Latre té una capacitat impressionant de mimetitzar-se en més de 80 personatges, que ha creat amb unes tècniques molt assajades i basades en l'observació. Latre és sens dubte un crac de la imitació.També coneixerem Juan Carlos Ortega, un peculiar imitador de veus de personatges anònims capaç d'enganyar-nos amb les seves trucades. </desc>
+    <length units="seconds">3174</length>
+    <episode-num system="onscreen">8</episode-num>
     <category lang="ca">ENTRETENIMENT</category>
-    <category lang="ca">CONCURS</category>
+    <category lang="ca">ALTRES</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
+    <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20260829210000 +0200" stop="20260829220106 +0200" channel="tvi">
-    <title lang="ca">Telenotícies vespre</title>
-    <length units="seconds">3666</length>
-    <episode-num system="onscreen">7311</episode-num>
-    <category lang="ca">ACTUALITAT</category>
-    <category lang="ca">INFORMATIU DIÀRI</category>
+  <programme start="20260830000615 +0200" stop="20260830001900 +0200" channel="tvi">
+    <title lang="ca">Talent creatiu</title>
+    <sub-title lang="ca">Pol Dunyó, pagès ecològic</sub-title>
+    <desc lang="ca">Més que explicar la història del Pol, que també, hem volgut crear una història d'amor. L'amor que sent pel que fa, per una manera de viure, pel respecte als animals i al camp.</desc>
+    <length units="seconds">765</length>
+    <episode-num system="onscreen">18</episode-num>
+    <category lang="ca">ENTRETENIMENT</category>
+    <category lang="ca">ALTRES</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <icon src="https://img.ccma.cat/multimedia/jpg/7/2/1758026176427.jpg"/>
+    <subtitles type="teletext"/>
+    <previously-shown/>
   </programme>
   <channel id="324">
     <display-name>324</display-name>
   </channel>
-  <programme start="20260829200000 +0200" stop="20260829210000 +0200" channel="324">
+  <programme start="20260829230000 +0200" stop="20260830003000 +0200" channel="324">
     <title lang="ca">Notícies 3CatInfo</title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">3600</length>
-    <episode-num system="onscreen">11034</episode-num>
+    <length units="seconds">5400</length>
+    <episode-num system="onscreen">11035</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
@@ -41,39 +46,27 @@
     </rating>
     <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
-  <programme start="20260829210000 +0200" stop="20260829230000 +0200" channel="324">
-    <title lang="ca">Telenotícies vespre</title>
-    <length units="seconds">7200</length>
-    <episode-num system="onscreen">7311</episode-num>
+  <programme start="20260830003000 +0200" stop="20260830010000 +0200" channel="324">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="seconds">1800</length>
+    <episode-num system="onscreen">11036</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <icon src="https://img.ccma.cat/multimedia/jpg/7/2/1758026176427.jpg"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
   <channel id="esport3">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20260829202913 +0200" stop="20260829210000 +0200" channel="esport3">
-    <title lang="ca">WRC</title>
-    <sub-title lang="ca">Ral·li del Paraguai / WRC 2026 / J1</sub-title>
-    <desc lang="ca">Onzena de les catorze proves del Campionat del Món. El Ral·li del Paraguai té un recorregut total de 359 quilòmetres cronometrats dividits en 22 trams, majoritàriament sobre carreteres de terra. Us oferim el més destacat de la jornada amb la conducció de Noel Rodríguez i l'assistència de Santi Torres.</desc>
-    <length units="seconds">1847</length>
-    <episode-num system="onscreen">251</episode-num>
-    <category lang="ca">ESPORTS</category>
-    <category lang="ca">RETRANSMISSIONS ESPORTS</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <icon src="https://img.3cat.cat/multimedia/jpg/1/7/1783953384771.jpg"/>
-  </programme>
-  <programme start="20260829210000 +0200" stop="20260829220657 +0200" channel="esport3">
+  <programme start="20260829233000 +0200" stop="20260830003108 +0200" channel="esport3">
     <title lang="ca">Gol a gol</title>
-    <sub-title lang="ca">Post R.Societat-Espanyol / J3</sub-title>
+    <sub-title lang="ca">Anàlisi de la jornada / J3 / Dissabte</sub-title>
     <desc lang="ca">'Gol a gol' us ofereix els resums dels partits de futbol de Primera i Segona Divisió. Presentat per Jordi Grau a Esport3, cada dissabte i cada diumenge podeu veure les millors imatges de la jornada de Lliga amb l'anàlisi dels experts, amb especial atenció als equips catalans, sobretot el Barça, el Girona i l'Espanyol.</desc>
-    <length units="seconds">4017</length>
-    <episode-num system="onscreen">1766</episode-num>
+    <length units="seconds">3668</length>
+    <episode-num system="onscreen">1767</episode-num>
     <category lang="ca">ESPORTS</category>
     <category lang="ca">MAGAZINE</category>
     <rating>
@@ -82,29 +75,41 @@
     <subtitles type="teletext"/>
     <icon src="https://img.ccma.cat/multimedia/jpg/2/1/1698144123212.jpg"/>
   </programme>
+  <programme start="20260830003108 +0200" stop="20260830005140 +0200" channel="esport3">
+    <title lang="ca">3CatInfo Esports</title>
+    <desc lang="ca">Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.</desc>
+    <length units="seconds">1232</length>
+    <episode-num system="onscreen">5493</episode-num>
+    <category lang="ca">ESPORTS</category>
+    <category lang="ca">INFORMATIU DIÀRI</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <icon src="https://img.ccma.cat/multimedia/jpg/9/7/1758888682179.jpg"/>
+  </programme>
   <channel id="sx3">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20260829203930 +0200" stop="20260829210011 +0200" channel="sx3">
-    <title lang="ca">Henry Danger</title>
-    <sub-title lang="ca">Tancats</sub-title>
-    <desc lang="ca">Pel seu superaniversari, en Henry i la Charlotte preparen a en Ray un cap de setmana per fer tot el que no va poder viure de petit.Però un error activa el tancament d'emergència i tots queden atrapats a la Cova Man.</desc>
-    <length units="seconds">1241</length>
-    <episode-num system="onscreen">17</episode-num>
+  <programme start="20260829232908 +0200" stop="20260829234005 +0200" channel="sx3">
+    <title lang="ca">La tropa del corral</title>
+    <sub-title lang="ca">Ple de trampes</sub-title>
+    <desc lang="ca">És un dia de moltes trucades al corral. Avui, els nostres herois investiguen una sèrie de robatoris a Vilanimal, però aviat s'adonen que ha estat cosa d'en Frankie. Els ha parat una trampa i els ha fet anar a casa de l'Albert, que és plena de paranys, per poder robar el galliner en pau!</desc>
+    <length units="seconds">657</length>
+    <episode-num system="onscreen">30</episode-num>
     <category lang="ca">FICCIÓ</category>
-    <category lang="ca">SÈRIE DRAMÀTICA</category>
+    <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
       <value>INFANTIL</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20260829210011 +0200" stop="20260829212104 +0200" channel="sx3">
-    <title lang="ca">Els germans Kratt</title>
-    <sub-title lang="ca">El dragó de Komodo</sub-title>
-    <desc lang="ca">Els germans Kratt i els seus amics van a l'illa de Komodo perquè han vist que el Gormand s'ha posat a robar tots els ous de dragó de Komodo per una recepta malvada. És una missió urgent, perquè d'aquests dragons només n'hi ha en aquesta illa i són una espècie en perill d'extinció. Per dur a terme el rescat, necessiten el vestit de poder de dragó de Komodo, que els farà experimentar totes les capacitats d'aquest animal.</desc>
-    <length units="seconds">1253</length>
-    <episode-num system="onscreen">131</episode-num>
+  <programme start="20260829234005 +0200" stop="20260829235054 +0200" channel="sx3">
+    <title lang="ca">La gateta Arc iris papallona unicorn</title>
+    <sub-title lang="ca">El borinot del revés</sub-title>
+    <desc lang="ca">A l'Athena i el Miguel els ha picat un borinot que fa que ara parlin al revés. Si no volen que els efectes siguin permanents, hauran d'aconseguir que el borinot els torni a picar abans de dues hores, però ha fugit a Revèrsia, on tot passa al revés.</desc>
+    <length units="seconds">649</length>
+    <episode-num system="onscreen">14</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
@@ -116,12 +121,12 @@
   <channel id="c33">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20260829201103 +0200" stop="20260829205947 +0200" channel="c33">
-    <title lang="ca">Vida</title>
-    <sub-title lang="ca">Primats</sub-title>
-    <desc lang="ca">Els primats són excepcionalment intel·ligents i solucionen problemes, es comuniquen, fan servir eines i interaccionen socialment. Al Congo, coneix un grup estretament unit de goril·les de les terres baixes occidentals liderats per un esquena platejada, els cops de pit del qual envien ones expansives a més d'un quilòmetre a través del bosc; observa mares langur de Phayre gris a Tailàndia lluitant pel privilegi de cuidar cries de color taronja brillant; presencia les violentes disputes de mil babuïns sagrats i uneix-te a la caça d'ous de tauró dels babuïns negres a la costa de Sud-àfrica. </desc>
-    <length units="seconds">2924</length>
-    <episode-num system="onscreen">10</episode-num>
+  <programme start="20260829230714 +0200" stop="20260830000612 +0200" channel="c33">
+    <title lang="ca">Els caps de setmana llargs d'en Rick Stein</title>
+    <sub-title lang="ca">Viena</sub-title>
+    <desc lang="ca">En aquest episodi, en Rick Stein visita Viena, l'epicentre de l'Imperi austrohongarès i la ciutat que dóna nom a un dels plats més populars d'Europa, el 'wiener schnitzel'. En Rick també tastarà plats reconfortants com el 'tafelspitz' o el 'gulasch', s'endinsarà en la cultura dels cafès vienesos i es deixarà temptar per delícies dolces com el pastís 'sacher'. No es perdrà la pintura de Klimt ni tampoc la música en directe de Strauss. I, a Padstow, ens farà una amanida d'areng i patata, un 'strudel' de poma i un 'gulasch' deliciós.</desc>
+    <length units="seconds">3538</length>
+    <episode-num system="onscreen">4</episode-num>
     <category lang="ca">DIVULGACIÓ</category>
     <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
     <rating>
@@ -130,10 +135,19 @@
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20260829205947 +0200" stop="20260829210114 +0200" channel="c33">
-    <title lang="ca">SENSE FI CANAL 33</title>
-    <desc lang="ca">Sense Descripció</desc>
-    <length units="seconds">87</length>
+  <programme start="20260830000612 +0200" stop="20260830005746 +0200" channel="c33">
+    <title lang="ca">Els quaderns de cuina de la Julie</title>
+    <sub-title lang="ca">El Borbonès</sub-title>
+    <desc lang="ca">En Lucien, un enginyer agroalimentari, fa un pastís salat de patata tal com l'ha après de l'àvia Hélène. La Simone i l'Olivier, mare i fill, són fabricants de la famosa mostassa de Charós, que entra en algunes receptes típiques del Borbonès. L'Hubert, editor de llibres de cuina, sap guisar l'ànec a la Duchambais, una salsa de nata amb vi i mostassa. L'Arnaud, horticultor, es dedica a crear noves varietats de pomes i de peres. I la Françoise fa un pastís de peres guarnit per damunt amb peres senceres en almívar.</desc>
+    <length units="seconds">3094</length>
+    <episode-num system="onscreen">75</episode-num>
+    <category lang="ca">DIVULGACIÓ</category>
+    <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <subtitles type="teletext"/>
+    <previously-shown/>
   </programme>
   <channel id="oca1">
     <display-name>OCA1</display-name>
