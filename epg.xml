@@ -3,116 +3,108 @@
   <channel id="tvi">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20260829170920 +0200" stop="20260829180351 +0200" channel="tvi">
-    <title lang="ca">Infidels</title>
-    <sub-title lang="ca">Infidels</sub-title>
-    <desc lang="ca">L'Arlet no entén com la seva mare encara continua cuidant-se del seu marit després de tot el mal que li va fer. La Joana està convençuda que el Francesc l'enganya. La Cruz i la Lídia volen ajudar-la a treure'n l'entrellat. La Paula continua trucant al Marc, el seu amant, però ell no li respon. La noia té la primera al·lucinació i comença a sentir veus. La Lídia li deixa clar que això només és el principi. El Jesús torna a insinuar-se a la Cruz. El Toni descobreix l'historial de la seva germana.</desc>
-    <length units="seconds">3271</length>
-    <episode-num system="onscreen">5</episode-num>
-    <category lang="ca">FICCIÓ</category>
-    <category lang="ca">TELESÈRIE</category>
+  <programme start="20260829204844 +0200" stop="20260829210000 +0200" channel="tvi">
+    <title lang="ca">Atrapa'm si pots. Els millors moments.</title>
+    <desc lang="ca">'Atrapa'm si pots' és un 'quiz show' clàssic, de preguntes i respostes, presentat per Llucià Ferrer, en què sis concursants competeixen per arribar a la fase final i guanyar el pot. 'Atrapa'm si pots' és entreteniment pur i on gairebé és més important passar-s'ho bé que els diners. És un concurs en què pesa més la intuïció que no els coneixements acadèmics, més l'estratègia en el joc que no la sort.</desc>
+    <length units="seconds">676</length>
+    <episode-num system="onscreen">982</episode-num>
+    <category lang="ca">ENTRETENIMENT</category>
+    <category lang="ca">CONCURS</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20260829180351 +0200" stop="20260829182946 +0200" channel="tvi">
-    <title lang="ca">Jet lag</title>
-    <sub-title lang="ca">CONFESSIONS</sub-title>
-    <desc lang="ca">La Sílvia, la Mariona, l' Esther, la Carla i també la Diana es preparen per un sopar. Fa 1 any que viuen juntes i han decidit celebrar-ho. Com qui no vol la cosa, es comencen a dir les veritats i a confessar els secrets. La nit acabarà malament.</desc>
-    <length units="seconds">1555</length>
-    <episode-num system="onscreen">6</episode-num>
-    <category lang="ca">FICCIÓ</category>
-    <category lang="ca">TELESÈRIE</category>
+  <programme start="20260829210000 +0200" stop="20260829220106 +0200" channel="tvi">
+    <title lang="ca">Telenotícies vespre</title>
+    <length units="seconds">3666</length>
+    <episode-num system="onscreen">7311</episode-num>
+    <category lang="ca">ACTUALITAT</category>
+    <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <subtitles type="teletext"/>
-    <previously-shown/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/7/2/1758026176427.jpg"/>
   </programme>
   <channel id="324">
     <display-name>324</display-name>
   </channel>
-  <programme start="20260829163000 +0200" stop="20260829183000 +0200" channel="324">
+  <programme start="20260829200000 +0200" stop="20260829210000 +0200" channel="324">
     <title lang="ca">Notícies 3CatInfo</title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">7200</length>
-    <episode-num system="onscreen">11032</episode-num>
+    <length units="seconds">3600</length>
+    <episode-num system="onscreen">11034</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <subtitles type="teletext"/>
     <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
-  <programme start="20260829183000 +0200" stop="20260829200000 +0200" channel="324">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">5400</length>
-    <episode-num system="onscreen">11033</episode-num>
+  <programme start="20260829210000 +0200" stop="20260829230000 +0200" channel="324">
+    <title lang="ca">Telenotícies vespre</title>
+    <length units="seconds">7200</length>
+    <episode-num system="onscreen">7311</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <subtitles type="teletext"/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/7/2/1758026176427.jpg"/>
   </programme>
   <channel id="esport3">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20260829155000 +0200" stop="20260829174340 +0200" channel="esport3">
-    <title lang="ca">Futbol sala</title>
-    <sub-title lang="ca">Lainco Esportiu Rubí FS-AE Les Corts UBAE / Copa Catalunya femenina / Final</sub-title>
-    <desc lang="ca">Final femenina de la Supercopa de Catalunya de futbol sala que es disputa a Santa Coloma de Gramenet.</desc>
-    <length units="seconds">6820</length>
-    <episode-num system="onscreen">8108</episode-num>
+  <programme start="20260829202913 +0200" stop="20260829210000 +0200" channel="esport3">
+    <title lang="ca">WRC</title>
+    <sub-title lang="ca">Ral·li del Paraguai / WRC 2026 / J1</sub-title>
+    <desc lang="ca">Onzena de les catorze proves del Campionat del Món. El Ral·li del Paraguai té un recorregut total de 359 quilòmetres cronometrats dividits en 22 trams, majoritàriament sobre carreteres de terra. Us oferim el més destacat de la jornada amb la conducció de Noel Rodríguez i l'assistència de Santi Torres.</desc>
+    <length units="seconds">1847</length>
+    <episode-num system="onscreen">251</episode-num>
     <category lang="ca">ESPORTS</category>
     <category lang="ca">RETRANSMISSIONS ESPORTS</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <icon src="https://img.ccma.cat/multimedia/jpg/1/5/1699004339351.jpg"/>
+    <icon src="https://img.3cat.cat/multimedia/jpg/1/7/1783953384771.jpg"/>
   </programme>
-  <programme start="20260829174340 +0200" stop="20260829182000 +0200" channel="esport3">
-    <title lang="ca">Sala de Premsa</title>
-    <sub-title lang="ca">Mourinho / Prèvia R. Madrid-Màlaga / J3</sub-title>
-    <desc lang="ca">Esport3 t'ofereix les compareixences de dirigents, jugadors i entrenadors dels equips catalans davant els mitjans de comunicació.</desc>
-    <length units="seconds">2180</length>
-    <episode-num system="onscreen">717</episode-num>
+  <programme start="20260829210000 +0200" stop="20260829220657 +0200" channel="esport3">
+    <title lang="ca">Gol a gol</title>
+    <sub-title lang="ca">Post R.Societat-Espanyol / J3</sub-title>
+    <desc lang="ca">'Gol a gol' us ofereix els resums dels partits de futbol de Primera i Segona Divisió. Presentat per Jordi Grau a Esport3, cada dissabte i cada diumenge podeu veure les millors imatges de la jornada de Lliga amb l'anàlisi dels experts, amb especial atenció als equips catalans, sobretot el Barça, el Girona i l'Espanyol.</desc>
+    <length units="seconds">4017</length>
+    <episode-num system="onscreen">1766</episode-num>
     <category lang="ca">ESPORTS</category>
-    <category lang="ca">INFORMATIU DIÀRI</category>
+    <category lang="ca">MAGAZINE</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
-    <icon src="https://img.3cat.cat/multimedia/jpg/7/4/1778665728847.jpg"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/2/1/1698144123212.jpg"/>
   </programme>
   <channel id="sx3">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20260829172541 +0200" stop="20260829173645 +0200" channel="sx3">
-    <title lang="ca">Ideafix i els irreductibles</title>
-    <sub-title lang="ca">Sense veu ni llei</sub-title>
-    <desc lang="ca">La Polvorina vol aprofitar la festa romana del déu Mart per venjar el seu malaguanyat amo Camulogen tot atacant el general Labiè. Una poció del maldestre mussol Voldenix per retornar-li la veu que ha perdut a força d'escridassar els seus llobatons, li dona un poder imprevist. Per sort, el seny de l'Irreductible Ideafix sempre s'imposa.</desc>
-    <length units="seconds">664</length>
-    <episode-num system="onscreen">92</episode-num>
+  <programme start="20260829203930 +0200" stop="20260829210011 +0200" channel="sx3">
+    <title lang="ca">Henry Danger</title>
+    <sub-title lang="ca">Tancats</sub-title>
+    <desc lang="ca">Pel seu superaniversari, en Henry i la Charlotte preparen a en Ray un cap de setmana per fer tot el que no va poder viure de petit.Però un error activa el tancament d'emergència i tots queden atrapats a la Cova Man.</desc>
+    <length units="seconds">1241</length>
+    <episode-num system="onscreen">17</episode-num>
     <category lang="ca">FICCIÓ</category>
-    <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
+    <category lang="ca">SÈRIE DRAMÀTICA</category>
     <rating>
       <value>INFANTIL</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20260829173645 +0200" stop="20260829174817 +0200" channel="sx3">
-    <title lang="ca">Ideafix i els irreductibles</title>
-    <sub-title lang="ca">Ave, Lutècia!</sub-title>
-    <desc lang="ca">Els romans han instal·lat un sistema d'altaveus per difondre la romanitat pels carrers de Lutècia. La contaminació sonora és insuportable per als lutecians, però els coloms ja comencen a veure's abduïts per la propaganda romana. Els Irreductibles tramen un sabotatge.</desc>
-    <length units="seconds">692</length>
-    <episode-num system="onscreen">103</episode-num>
+  <programme start="20260829210011 +0200" stop="20260829212104 +0200" channel="sx3">
+    <title lang="ca">Els germans Kratt</title>
+    <sub-title lang="ca">El dragó de Komodo</sub-title>
+    <desc lang="ca">Els germans Kratt i els seus amics van a l'illa de Komodo perquè han vist que el Gormand s'ha posat a robar tots els ous de dragó de Komodo per una recepta malvada. És una missió urgent, perquè d'aquests dragons només n'hi ha en aquesta illa i són una espècie en perill d'extinció. Per dur a terme el rescat, necessiten el vestit de poder de dragó de Komodo, que els farà experimentar totes les capacitats d'aquest animal.</desc>
+    <length units="seconds">1253</length>
+    <episode-num system="onscreen">131</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
@@ -124,12 +116,12 @@
   <channel id="c33">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20260829163913 +0200" stop="20260829173816 +0200" channel="c33">
-    <title lang="ca">Els caps de setmana llargs d'en Rick Stein</title>
-    <sub-title lang="ca">Bordeus</sub-title>
-    <desc lang="ca">En Rick visita Bordeus a l'època de la verema. Visita diferents restaurants on menja des d'un plat emblemàtic de la ciutat a un menú del dia en un modest restaurant de poble, passant per un menú sorpresa modern i innovador, una 'côte de bœuf' molt especial en una vinya, o un àpat de musclos a la vora del mar. Entre àpat i àpat, visita algunes vinyes del país, un mercat i fa un tast de vins.</desc>
-    <length units="seconds">3543</length>
-    <episode-num system="onscreen">1</episode-num>
+  <programme start="20260829201103 +0200" stop="20260829205947 +0200" channel="c33">
+    <title lang="ca">Vida</title>
+    <sub-title lang="ca">Primats</sub-title>
+    <desc lang="ca">Els primats són excepcionalment intel·ligents i solucionen problemes, es comuniquen, fan servir eines i interaccionen socialment. Al Congo, coneix un grup estretament unit de goril·les de les terres baixes occidentals liderats per un esquena platejada, els cops de pit del qual envien ones expansives a més d'un quilòmetre a través del bosc; observa mares langur de Phayre gris a Tailàndia lluitant pel privilegi de cuidar cries de color taronja brillant; presencia les violentes disputes de mil babuïns sagrats i uneix-te a la caça d'ous de tauró dels babuïns negres a la costa de Sud-àfrica. </desc>
+    <length units="seconds">2924</length>
+    <episode-num system="onscreen">10</episode-num>
     <category lang="ca">DIVULGACIÓ</category>
     <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
     <rating>
@@ -138,52 +130,17 @@
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20260829173816 +0200" stop="20260829183043 +0200" channel="c33">
-    <title lang="ca">Els quaderns de cuina de la Julie</title>
-    <sub-title lang="ca">La Droma provençal</sub-title>
-    <desc lang="ca">A la Droma provençal, l'Odile conrea moltes varietats d'espígol i en fa tisanes. La Isabelle fa un plat de pasta gratinada. La Frédérique, l'Arnaud i la Sophie són els darrers fabricants de cofins, uns cabassos d'espart per a premsar les olives. En Joël rosteix una pintada farcida d'olives negres i assaonada amb una salsa feta d'olives negres. L'Hervé conrea ametllers i la Virginie fa carquinyolis. En Jean-Luc fa confitura de nous verdes.</desc>
-    <length units="seconds">3147</length>
-    <episode-num system="onscreen">73</episode-num>
-    <category lang="ca">DIVULGACIÓ</category>
-    <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <subtitles type="teletext"/>
-    <previously-shown/>
+  <programme start="20260829205947 +0200" stop="20260829210114 +0200" channel="c33">
+    <title lang="ca">SENSE FI CANAL 33</title>
+    <desc lang="ca">Sense Descripció</desc>
+    <length units="seconds">87</length>
   </programme>
   <channel id="oca1">
     <display-name>OCA1</display-name>
   </channel>
-  <programme start="20260829165800 +0200" stop="20260829185755 +0200" channel="oca1">
-    <title lang="ca">Futbol femení</title>
-    <sub-title lang="ca">- SD Eibar-RCD Espanyol / Lliga F / J1</sub-title>
-    <desc lang="ca">Les blanc-i-blaves van ocupar l'onzena posició final la temporada passada. L'equip basc va acabar en la tretzena, amb 3 punts menys. La narració, a càrrec de Gemma Mallorca i l'anàlisi, de Juli Garcia.  </desc>
-    <length units="seconds">7195</length>
-    <episode-num system="onscreen">44</episode-num>
-    <category lang="ca">ESPORTS</category>
-    <category lang="ca">RETRANSMISSIONS ESPORTS</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <icon src="https://img.ccma.cat/multimedia/jpg/0/8/1730389343680.jpg"/>
-  </programme>
   <channel id="oca2">
     <display-name>OCA2</display-name>
   </channel>
-  <programme start="20260829122508 +0200" stop="20260829180003 +0200" channel="oca2">
-    <title lang="ca">Curses de Muntanya</title>
-    <sub-title lang="ca">- UTMB Mont Blanc</sub-title>
-    <desc lang="ca">Arribades a les curses finals de les UTMB World Series que es disputen al Mont Blanc. És la prova ultra de trail running més important del calendari mundial. Amb la narració de Miquel Ribas.</desc>
-    <length units="seconds">20095</length>
-    <episode-num system="onscreen">35</episode-num>
-    <category lang="ca">ESPORTS</category>
-    <category lang="ca">RETRANSMISSIONS ESPORTS</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <icon src="https://img.3cat.cat/multimedia/jpg/1/7/1787745006771.jpg"/>
-  </programme>
   <channel id="oca3">
     <display-name>OCA3</display-name>
   </channel>
