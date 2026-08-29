@@ -3,103 +3,84 @@
   <channel id="tvi">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20260829051057 +0200" stop="20260829055830 +0200" channel="tvi">
-    <title lang="ca">Cava de Blues</title>
-    <sub-title lang="ca">Dani Nel·lo &amp; Mario Cobo</sub-title>
-    <desc lang="ca">Cava de Blues és un espai dedicat a les noves creacions de 14 grups del país que es dediquen a aquest gènere musical.En aquesta edició, els grups que hi trobareu són: -A contrablues-Blas Picón &amp; The Junk Espress-Bullfrog Electric Blues Experience-Dusa'ns Flying Blues Band-Dani Baraldés &amp; The XX Band-Emili Baleriola Blues Quartet-Dani Nel·lo &amp; Mario Cobo-Ivan Kovacevic 5 Spots-JG Acoustic Gang-John Big Stone &amp; The Blues Workers-Legacaster! The Hillbilly Trio-Martini Surfers-Susan Santos &amp; The Papa's Red Band-The Paparellos</desc>
-    <length units="seconds">2853</length>
-    <episode-num system="onscreen">7</episode-num>
-    <category lang="ca">MUSICALS</category>
-    <category lang="ca">JAZZ</category>
+  <programme start="20260829123759 +0200" stop="20260829143000 +0200" channel="tvi">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="seconds">6721</length>
+    <episode-num system="onscreen">11031</episode-num>
+    <category lang="ca">ACTUALITAT</category>
+    <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <previously-shown/>
-    <icon src="https://img.3cat.cat/multimedia/jpg/0/2/1754910826220.jpg"/>
-  </programme>
-  <programme start="20260829055830 +0200" stop="20260829060000 +0200" channel="tvi">
-    <title lang="ca">Videoclips catalans</title>
-    <sub-title lang="ca">P.A.W.N. Gang - No maspliquis</sub-title>
-    <length units="seconds">90</length>
-    <episode-num system="onscreen">1713</episode-num>
-    <category lang="ca">MUSICALS</category>
-    <category lang="ca">ALTRES</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <previously-shown/>
+    <subtitles type="teletext"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
   <channel id="324">
     <display-name>324</display-name>
   </channel>
-  <programme start="20260829010000 +0200" stop="20260829060000 +0200" channel="324">
+  <programme start="20260829120000 +0200" stop="20260829143000 +0200" channel="324">
     <title lang="ca">Notícies 3CatInfo</title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">18000</length>
-    <episode-num system="onscreen">11028</episode-num>
+    <length units="seconds">9000</length>
+    <episode-num system="onscreen">11031</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <previously-shown/>
     <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
-  <programme start="20260829060000 +0200" stop="20260829070000 +0200" channel="324">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">3600</length>
-    <episode-num system="onscreen">11028</episode-num>
+  <programme start="20260829143000 +0200" stop="20260829163000 +0200" channel="324">
+    <title lang="ca">Telenotícies migdia</title>
+    <length units="seconds">7200</length>
+    <episode-num system="onscreen">7312</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <previously-shown/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
+    <subtitles type="teletext"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/5/4/1758025766345.jpg"/>
   </programme>
   <channel id="esport3">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20260829054020 +0200" stop="20260829062639 +0200" channel="esport3">
-    <title lang="ca">E3</title>
-    <sub-title lang="ca">Monster Jam / Seattle / 9</sub-title>
-    <desc lang="ca">La gran competició de motor amb els vehicles de quatre rodes més espectaculars. Monster Jam posa a prova la velocitat i la destresa dels pilots en un circuit ple d'obstacles. </desc>
-    <length units="seconds">2779</length>
-    <episode-num system="onscreen">2376</episode-num>
+  <programme start="20260829122508 +0200" stop="20260829155500 +0200" channel="esport3">
+    <title lang="ca">Curses de Muntanya</title>
+    <sub-title lang="ca">UTMB Mont Blanc</sub-title>
+    <desc lang="ca">Arribades a les curses finals de les UTMB World Series que es disputen al Mont Blanc. És la prova ultra de trail running més important del calendari mundial. Amb la narració de Miquel Ribas.</desc>
+    <length units="seconds">12592</length>
+    <episode-num system="onscreen">35</episode-num>
     <category lang="ca">ESPORTS</category>
-    <category lang="ca">REPORTATGES</category>
+    <category lang="ca">RETRANSMISSIONS ESPORTS</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <subtitles type="teletext"/>
-    <previously-shown/>
-    <icon src="https://img.3cat.cat/multimedia/jpg/3/4/1781782901343.jpg"/>
+    <icon src="https://img.3cat.cat/multimedia/jpg/1/7/1787745006771.jpg"/>
   </programme>
-  <programme start="20260829062639 +0200" stop="20260829065135 +0200" channel="esport3">
-    <title lang="ca">E3</title>
-    <sub-title lang="ca">Monster Jam / Los Angeles / 11</sub-title>
-    <desc lang="ca">La gran competició de motor amb els vehicles de quatre rodes més espectaculars. Monster Jam posa a prova la velocitat i la destresa dels pilots en un circuit ple d'obstacles. </desc>
-    <length units="seconds">1496</length>
-    <episode-num system="onscreen">2378</episode-num>
+  <programme start="20260829155500 +0200" stop="20260829174840 +0200" channel="esport3">
+    <title lang="ca">Futbol sala</title>
+    <sub-title lang="ca">Lainco Esportiu Rubí FS-AE Les Corts UBAE / Copa Catalunya femenina / Final</sub-title>
+    <desc lang="ca">Final femenina de la Supercopa de Catalunya de futbol sala que es disputa a Santa Coloma de Gramenet.</desc>
+    <length units="seconds">6820</length>
+    <episode-num system="onscreen">8108</episode-num>
     <category lang="ca">ESPORTS</category>
-    <category lang="ca">REPORTATGES</category>
+    <category lang="ca">RETRANSMISSIONS ESPORTS</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <subtitles type="teletext"/>
-    <previously-shown/>
-    <icon src="https://img.3cat.cat/multimedia/jpg/3/4/1781782901343.jpg"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/1/5/1699004339351.jpg"/>
   </programme>
   <channel id="sx3">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20260829054210 +0200" stop="20260829054829 +0200" channel="sx3">
-    <title lang="ca">El xai Shaun</title>
-    <sub-title lang="ca">El roncaire</sub-title>
-    <desc lang="ca">Fa unes quantes nits que no hi ha manera de dormir a l'estable de la granja. La Shirley no para de roncar i té totes les altres ovelles despertes... i desesperades! En Shaun té clara una cosa: l'única manera de poder dormir tranquils una nit és fent fora la Shirley de l'estable. Tampoc no deu ser tan difícil... O sí?!</desc>
-    <length units="seconds">379</length>
-    <episode-num system="onscreen">38</episode-num>
+  <programme start="20260829124631 +0200" stop="20260829125352 +0200" channel="sx3">
+    <title lang="ca">En Grizzy i els Lèmmings</title>
+    <sub-title lang="ca">Un crim gairebé deliciós</sub-title>
+    <desc lang="ca">Els Lèmmings juguen a un joc de misteri on un detectiu dirigeix una investigació per resoldre un fals assassinat. Mentrestant, en Grizzy s'està preparant un aperitiu, però quan es gira, es troba el pot de crema de xocolata trencat. En Grizzy acusa immediatament els Lèmmings, que poden demostrar que estaven jugant al garatge al moment del 'crim'. En Grizzy està desconcertat, però els Lèmmings estan decidits a dur a terme la seva pròpia investigació i desemmascarar el veritable 'assassí' del pot de crema de xocolata.</desc>
+    <length units="seconds">441</length>
+    <episode-num system="onscreen">311</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
@@ -107,12 +88,12 @@
     </rating>
     <previously-shown/>
   </programme>
-  <programme start="20260829054829 +0200" stop="20260829054938 +0200" channel="sx3">
-    <title lang="ca">Looloo Kids (cançons)</title>
-    <sub-title lang="ca">Fes un pastís</sub-title>
-    <desc lang="ca">Un pastisser ha de fer un pastís molt de pressa perquè un nen i la seva mare tenen gana.</desc>
-    <length units="seconds">69</length>
-    <episode-num system="onscreen">117</episode-num>
+  <programme start="20260829125352 +0200" stop="20260829131623 +0200" channel="sx3">
+    <title lang="ca">Dracs: els nou regnes</title>
+    <sub-title lang="ca">Dracs per tot arreu!</sub-title>
+    <desc lang="ca">Ara que tothom a Ciutat Rakke coneix l'existència dels dracs, en Tom s'enfronta a la pressió de ser 'l'ensinistrador de dracs' del centre de recerca. Està desbordat, entre controlar els dracs que es passegen per la ciutat i satisfer els desitjos dels habitants de Ciutat Rakke. Els altres protectors no entenen el seu comportament, però en Tro, com sempre, farà costat al seu amic.</desc>
+    <length units="seconds">1351</length>
+    <episode-num system="onscreen">33</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
@@ -124,33 +105,33 @@
   <channel id="c33">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20260829054448 +0200" stop="20260829055018 +0200" channel="c33">
-    <title lang="ca">Xarxa Natura</title>
-    <sub-title lang="ca">Riera de Merlès</sub-title>
-    <desc lang="ca">En la llista d'espais inclosos a la Xarxa Natura 2000 hi ha tots els parcs naturals, però també molts altres espais emblemàtics com ara les Guilleries, l'estany de Banyoles, l'Alta Garrotxa, la serra del Montsec o les Gavarres. La majoria d'aquests espais són autèntics desconeguts i els seus valors naturals i culturals no han estat mai objecte de cap divulgació específica. Aquesta sèrie vol donar a conèixer aquest patrimoni.</desc>
-    <length units="seconds">330</length>
-    <episode-num system="onscreen">21</episode-num>
+  <programme start="20260829122052 +0200" stop="20260829131328 +0200" channel="c33">
+    <title lang="ca">Experiència Catalana</title>
+    <sub-title lang="ca">Nigel</sub-title>
+    <desc lang="ca">El Nigel Planer és el Neil Pye de la sèrie 'Els joves'. La Ivana Miño el porta a conèixer la Tàrraco romana, el museu Joan Miró, però també l'acompanya a viure la processó de Verges des de dins.</desc>
+    <length units="seconds">3156</length>
+    <episode-num system="onscreen">6</episode-num>
+    <category lang="ca">ENTRETENIMENT</category>
     <category lang="ca">ALTRES</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/4/1/1721308939614.jpg"/>
   </programme>
-  <programme start="20260829055018 +0200" stop="20260829055540 +0200" channel="c33">
-    <title lang="ca">Xarxa Natura</title>
-    <sub-title lang="ca">Montsant</sub-title>
-    <desc lang="ca">En la llista d'espais inclosos a la Xarxa Natura 2000 hi ha tots els parcs naturals, però també molts altres espais emblemàtics com ara les Guilleries, l'estany de Banyoles, l'Alta Garrotxa, la serra del Montsec o les Gavarres. La majoria d'aquests espais són autèntics desconeguts i els seus valors naturals i culturals no han estat mai objecte de cap divulgació específica. Aquesta sèrie vol donar a conèixer aquest patrimoni.</desc>
-    <length units="seconds">322</length>
-    <episode-num system="onscreen">22</episode-num>
-    <category lang="ca">ALTRES</category>
+  <programme start="20260829131328 +0200" stop="20260829134010 +0200" channel="c33">
+    <title lang="ca">Els hotels més remots del món</title>
+    <sub-title lang="ca">Casa de Sao Lourenco -Portugal</sub-title>
+    <desc lang="ca">La Casa de São Lourenço, situada al cim de la vall glacial de Zêzere, és un refugi de muntanya serè, dissenyat al voltant de la històrica Pousada de São Lourenço a Manteigas. Originari de la dècada de 1940, aquest establiment s'erigeix com un dels hotels pioners de Portugal. Després d'arribar a estar en un estat ruïnós, aquesta bella dorment va romandre abandonada durant anys, fins que el 2018, la Isabel Costa i el seu marit, el João Tomás, la van trobar i van decidir rescatar-la i fer-la ressorgir de les seves cendres.L'objectiu principal de la parella va ser preservar la rica història de l'estructura original i la seva perfecta integració amb el paisatge de l'entorn: un punt de vista únic situat al cor de la Reserva Natural de la Serra da Estrela, que compta amb alguns dels cims més alts del país, coberts per les nevades hivernals.Combinant un disseny contemporani i els interiors decorats per la Maria Keil, la Casa de São Lourenço ret homenatge a la llana de burell, un teixit local elaborat en una activa fàbrica propera, també recuperada per la Isabel i el João.En els darrers anys, la Isabel i el João han dedicat de tot cor tots els seus esforços al rescat i la preservació d'aquesta regió, amb una determinació decidida, un sentit de missió clarament definit i, sobretot, un profund compromís amb les estimades comunitats locals.</desc>
+    <length units="seconds">1602</length>
+    <episode-num system="onscreen">9</episode-num>
+    <category lang="ca">DIVULGACIÓ</category>
+    <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/4/1/1721308939614.jpg"/>
   </programme>
   <channel id="oca1">
     <display-name>OCA1</display-name>
@@ -158,6 +139,19 @@
   <channel id="oca2">
     <display-name>OCA2</display-name>
   </channel>
+  <programme start="20260829122508 +0200" stop="20260829180003 +0200" channel="oca2">
+    <title lang="ca">Curses de Muntanya</title>
+    <sub-title lang="ca">- UTMB Mont Blanc</sub-title>
+    <desc lang="ca">Arribades a les curses finals de les UTMB World Series que es disputen al Mont Blanc. És la prova ultra de trail running més important del calendari mundial. Amb la narració de Miquel Ribas.</desc>
+    <length units="seconds">20095</length>
+    <episode-num system="onscreen">35</episode-num>
+    <category lang="ca">ESPORTS</category>
+    <category lang="ca">RETRANSMISSIONS ESPORTS</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <icon src="https://img.3cat.cat/multimedia/jpg/1/7/1787745006771.jpg"/>
+  </programme>
   <channel id="oca3">
     <display-name>OCA3</display-name>
   </channel>
