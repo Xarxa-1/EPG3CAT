@@ -3,32 +3,30 @@
   <channel id="tvi">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20260830011715 +0200" stop="20260830013645 +0200" channel="tvi">
-    <title lang="ca">Correspondències</title>
-    <sub-title lang="ca">Correspondències entre Míriam Hatibi i Hajar Brown</sub-title>
-    <desc lang="ca">L'escriptora, activista musulmana i feminista Míriam Hatibi ha escollit cartejar-se amb l'actriu feminista, musulmana i influencer Hajar Brown. A la seva primera correspondència la Míriam i l'Hajar reflexionen sobre la identitat. Qui són? D'on vénen? Són la suma de totes les dones que han viscut abans a la seva família? Les dones de la seva vida eren feministes sense etiquetar-se i elles ho han viscut des de petites, simplement, elles ara li han posat nom a la seva manera de viure. A la segona correspondència s'escriuren sobre el fet que a les dones se'ns demana més que als homes, hem de ser el doble per arribar a la meitat. Que és una cosa que han sentit sempre a la seva família i que, ara, elles creuen que ja n'hi ha prou. Que amb elles ja fan, que no cal demostrar a tothom i, sobretot, a una mateixa, que pots amb tot.El capítol acaba amb un manifest-homenatge a Agnès Varda amb diferents dones feministes que es pregunten 'què vol dir ser dona'. </desc>
-    <length units="seconds">1170</length>
-    <episode-num system="onscreen">4</episode-num>
-    <category lang="ca">DIVULGACIÓ</category>
-    <category lang="ca">DOCUMENTAL DE CREACIÓ</category>
+  <programme start="20260830022135 +0200" stop="20260830043000 +0200" channel="tvi">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="seconds">7705</length>
+    <episode-num system="onscreen">11036</episode-num>
+    <category lang="ca">ACTUALITAT</category>
+    <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <subtitles type="teletext"/>
     <previously-shown/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
-  <programme start="20260830013645 +0200" stop="20260830020540 +0200" channel="tvi">
-    <title lang="ca">33 Revolucions</title>
-    <sub-title lang="ca">Joan Colomo, Joan Pons i Mau Boada</sub-title>
-    <desc lang="ca">'33 Revolucions' descobreix les aventures musicals que comparteixen Joan Pons (El Petit de Cal Eril), Joan Colomo i Dalmau Boada (Esperit!). Aquests dos últims van créixer al Montseny i junts van fer el seu primer grup (Zeidun) quan només tenien onze anys.A tots tres els uneix també una adolescència marcada pel hardcore, i han evolucionat respectivament cap a un folk rural conreat a Guissona, una passió per l'experimentació sonora que fa transportar múltiples instruments en una màgica furgoneta, i unes lletres plenes d'humor subtil i intel·ligència.</desc>
-    <length units="seconds">1735</length>
-    <episode-num system="onscreen">1</episode-num>
+  <programme start="20260830043000 +0200" stop="20260830050805 +0200" channel="tvi">
+    <title lang="ca">Fusió i swing a l'estudi</title>
+    <sub-title lang="ca">Zona Wells</sub-title>
+    <desc lang="ca">Zona Wells és una formació que viu a cavall entre Barcelona i Lima. Tot i tenir els seus fonaments en el jazz és un amalgama de diferents estils musicals, com el reggae, el folk, la bossa, el hip hop i música electrònica. És en aquest punt de trobada on els múltiples estils es troben i es fusionen per explorar la relació entre ells i esdevenir un llenguatge mestís. Saphie Wells a la veu, Dinguisman a la veu, guitarra i caixó, Toni Pagés a la bateria, Josep Lluí Guart al piano i Joan Subirats l saxo.</desc>
+    <length units="seconds">2285</length>
+    <episode-num system="onscreen">11</episode-num>
     <category lang="ca">MUSICALS</category>
     <category lang="ca">ALTRES</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
   <channel id="324">
@@ -63,25 +61,24 @@
   <channel id="esport3">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20260830005515 +0200" stop="20260830015825 +0200" channel="esport3">
-    <title lang="ca">Gol a gol</title>
-    <sub-title lang="ca">Anàlisi de la jornada / J3 / Dissabte</sub-title>
-    <desc lang="ca">'Gol a gol' us ofereix els resums dels partits de futbol de Primera i Segona Divisió. Presentat per Jordi Grau a Esport3, cada dissabte i cada diumenge podeu veure les millors imatges de la jornada de Lliga amb l'anàlisi dels experts, amb especial atenció als equips catalans, sobretot el Barça, el Girona i l'Espanyol.</desc>
-    <length units="seconds">3790</length>
-    <episode-num system="onscreen">1767</episode-num>
+  <programme start="20260830024634 +0200" stop="20260830041858 +0200" channel="esport3">
+    <title lang="ca">Futbol sala</title>
+    <sub-title lang="ca">Catgas Energia Santa Coloma-Barça / Copa Catalunya masculina / Final</sub-title>
+    <desc lang="ca">Final masculina de la Supercopa de Catalunya de futbol sala que s'està disputant a Santa Coloma de Gramenet. </desc>
+    <length units="seconds">5544</length>
+    <episode-num system="onscreen">8109</episode-num>
     <category lang="ca">ESPORTS</category>
-    <category lang="ca">MAGAZINE</category>
+    <category lang="ca">RETRANSMISSIONS ESPORTS</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <subtitles type="teletext"/>
     <previously-shown/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/2/1/1698144123212.jpg"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/1/5/1699004339351.jpg"/>
   </programme>
-  <programme start="20260830015825 +0200" stop="20260830021959 +0200" channel="esport3">
+  <programme start="20260830041858 +0200" stop="20260830044050 +0200" channel="esport3">
     <title lang="ca">3CatInfo Esports</title>
     <desc lang="ca">Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.</desc>
-    <length units="seconds">1294</length>
+    <length units="seconds">1312</length>
     <episode-num system="onscreen">5493</episode-num>
     <category lang="ca">ESPORTS</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
@@ -94,26 +91,26 @@
   <channel id="sx3">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20260830011510 +0200" stop="20260830013613 +0200" channel="sx3">
-    <title lang="ca">Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
-    <sub-title lang="ca">Kuro Neko</sub-title>
-    <desc lang="ca">Vespèria, Escurçó, Cuirassa, Pigella, Tigressa Porpra, Pegàs... Ladybug ha convocat un equip de superherois impressionant... sense el Gat Noir! Últimament el superheroi se sent una mica oblidat. Convençut que Ladybug ja no el considera important perquè té molts d'altres superherois, acaba tornant-li el seu prodigi. Ladybug no l'hi pot impedir i es troba perduda sense la seva mixeta. Sort que el Plagg l'animarà i l'ajudarà a trobar una solució: li proposa aprofitar l'oportunitat per reclutar un nou Gat Noir.</desc>
-    <length units="seconds">1263</length>
-    <episode-num system="onscreen">101</episode-num>
+  <programme start="20260830033051 +0200" stop="20260830034119 +0200" channel="sx3">
+    <title lang="ca">Com dibuixar còmics amb el Will Sliney</title>
+    <sub-title lang="ca">Stream Samurai</sub-title>
+    <desc lang="ca">Mentre la nova versió del Crònica avança amb una nau espacial cap a la Terra amb la intenció de destruir-la, en Will Sliney utilitza els seus superpoders com a Wil·lustrador per crear herois que puguin fer front a l'amenaça alienígena. En aquest episodi li arriba el torn a la Stream Samurai, una heroïna d'estil manga, i en Will ens ensenyarà a dibuixar un personatge amb aquest inconfusible estil japonès.</desc>
+    <length units="seconds">628</length>
+    <episode-num system="onscreen">23</episode-num>
     <category lang="ca">FICCIÓ</category>
-    <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
+    <category lang="ca">ALTRES</category>
     <rating>
       <value>INFANTIL</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20260830013613 +0200" stop="20260830015708 +0200" channel="sx3">
-    <title lang="ca">Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
-    <sub-title lang="ca">Penal</sub-title>
-    <desc lang="ca">La senyoreta Bustier organitza un partit de futbol perquè els seus alumnes descobreixin els valors de l'esport i de jugar junts. A la Marinette li encanta el futbol i lluitarà per salvar el partit, encara que la Chloé estigui disposada a fer el que calgui per esguerrar-lo. La Chloé no suporta el futbol, però en topar amb una Marinette molt decidida que la inclou en el joc encara que ella no ho vulgui, la còlera de la Chloé arriba a extrems exagerats. I només espera una cosa: que l'akumatitzin per poder-se venjar.</desc>
-    <length units="seconds">1255</length>
-    <episode-num system="onscreen">102</episode-num>
+  <programme start="20260830034119 +0200" stop="20260830035149 +0200" channel="sx3">
+    <title lang="ca">Pop, la ciutat de paper</title>
+    <sub-title lang="ca">El Zip Exprés</sub-title>
+    <desc lang="ca">En l'aventura poptàstica d'avui, la colla d'amics pugen al Zip Exprés, un tren que els durà per tot Pop, la ciutat de paper. El Zip els vol portar a veure unes llums del cel brillants que són espectaculars, i per això tots pugen al tren per anar-hi. Però els sorgeix un imprevist. Arribaran a temps a la seva destinació?</desc>
+    <length units="seconds">630</length>
+    <episode-num system="onscreen">37</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
@@ -125,12 +122,12 @@
   <channel id="c33">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20260830005747 +0200" stop="20260830014829 +0200" channel="c33">
-    <title lang="ca">Els quaderns de cuina de la Julie</title>
-    <sub-title lang="ca">La Corresa</sub-title>
-    <desc lang="ca">En aquest episodi la Julie visita el departament de la Corresa. Primer de tot visita el noguerar d'en David, on es produeix una nou molt apreciada. Amb la Karine prepara un magret d'ànec amb crosta de nous. Després visita la Sylvie, que produeix un licor de nous típic de la regió. Tot seguit, amb la Michèle, prepara unes gofres amb nata crua. Finalment, la Laurence li ensenya una recepta de pit de vedella farcit.</desc>
-    <length units="seconds">3042</length>
-    <episode-num system="onscreen">76</episode-num>
+  <programme start="20260830031825 +0200" stop="20260830041106 +0200" channel="c33">
+    <title lang="ca">Llocs recòndits</title>
+    <sub-title lang="ca">L'Aràbia Saudita</sub-title>
+    <desc lang="ca">Acompanyeu en Peter Greenberg, el presentador, mentre explora les joies ocultes del regne de l'Aràbia Saudita que ben pocs coneixen, incloent-hi Riad, Jidda, Al-Ula, el mar Roig, les Dunes Vermelles i molt més.</desc>
+    <length units="seconds">3161</length>
+    <episode-num system="onscreen">5</episode-num>
     <category lang="ca">DIVULGACIÓ</category>
     <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
     <rating>
@@ -139,13 +136,14 @@
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20260830014829 +0200" stop="20260830023415 +0200" channel="c33">
-    <title lang="ca">Illes d'Austràlia, amb Martin Clunes</title>
-    <desc lang="ca">En la primera etapa de la seva volta a Austràlia saltant d'illa en illa, Martin Clunes visita l'illa de Lord Howe i l'illa Norfolk, petits trossos de paradís perduts enmig del Pacífic on encara és viu el record de la colonització feta amb presos deportats de la Gran Bretanya. Després visita un Robinson modern que viu sol a l'illa de la Restauració, i salta cap a les illes de l'estret de Torres, on es barregen moltes cultures.</desc>
-    <length units="seconds">2746</length>
+  <programme start="20260830041106 +0200" stop="20260830043327 +0200" channel="c33">
+    <title lang="ca">Salut i muntanyes</title>
+    <sub-title lang="ca">Peramola</sub-title>
+    <desc lang="ca">La reportera Eva Clausó Estival ens descobrirà algunes curiositats del poble de Peramola a l'Alt Urgell. Aquí dels donuts en diuen Mola, ens explicarà perquè i se'n lleparà els dits. Són irresistibles al paladar. Amb la Maria anirà a passejar entre corders, li ensenyarà el Roc de Rumbau cita obligada de l'escalada a nivell internacional i la portarà a visitar la casa on va néixer a Tragó que amaga la història de la seva família. També descobrirà un petit taller de motxilles i bosses vegades. La seva propietària, l'Helena, ha conseguit amb els seus dissenys passejar el Pirineu i el poble de Paramola per tot el món.</desc>
+    <length units="seconds">1341</length>
     <episode-num system="onscreen">1</episode-num>
     <category lang="ca">DIVULGACIÓ</category>
-    <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
+    <category lang="ca">ALTRES</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
