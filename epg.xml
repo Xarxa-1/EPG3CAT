@@ -3,102 +3,98 @@
   <channel id="tvi">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20260830185436 +0200" stop="20260830195714 +0200" channel="tvi">
-    <title lang="ca">Temps de silenci</title>
-    <sub-title lang="ca">Destins</sub-title>
-    <desc lang="ca">Les radionovel·les disfressen la realitat quotidiana. La que tothom va vivint com pot mentre, d'alguna manera, progressa. Però de vegades, a algú, la vida li dóna una segona oportunitat. I en Llorenç es retroba amb el món de l'arquitectura. El món que va abandonar per fer-se càrrec de la fàbrica. Altres, com en Joaquim, estan convençuts que les seves oportunitats s'han acabat. La Victòria descobrirà la raó del canvi d'actitud del seu fill.</desc>
-    <length units="seconds">3758</length>
-    <episode-num system="onscreen">10</episode-num>
-    <category lang="ca">FICCIÓ</category>
-    <category lang="ca">SÈRIE DRAMÀTICA</category>
+  <programme start="20260830210016 +0200" stop="20260830220405 +0200" channel="tvi">
+    <title lang="ca">Telenotícies vespre</title>
+    <length units="seconds">3829</length>
+    <episode-num system="onscreen">7312</episode-num>
+    <category lang="ca">ACTUALITAT</category>
+    <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <subtitles type="teletext"/>
-    <previously-shown/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/7/2/1758026176427.jpg"/>
   </programme>
-  <programme start="20260830195714 +0200" stop="20260830205305 +0200" channel="tvi">
-    <title lang="ca">Temps de silenci</title>
-    <sub-title lang="ca">CLANDESTINS</sub-title>
-    <desc lang="ca">Els anys passen. Nous canvis. Arriben els immigrants, mentre a Catalunya hi ha qui es resisteix a perdre la llibertat, ni que sigui valent-se de la cultura prohibida.En Ramon progressa, però la Consol està perdent el seny. Massa coses li han passat...</desc>
-    <length units="seconds">3351</length>
-    <episode-num system="onscreen">11</episode-num>
-    <category lang="ca">FICCIÓ</category>
-    <category lang="ca">SÈRIE DRAMÀTICA</category>
+  <programme start="20260830220037 +0200" stop="20260830225837 +0200" channel="tvi">
+    <title lang="ca">Vosaltres mateixos</title>
+    <sub-title lang="ca">A bon port</sub-title>
+    <desc lang="ca">L'Andreu parla amb el creador de la barretina més llarga del món i amb un valent que s'ha construït una embarcació per travessar l'Atlàntic a rem.</desc>
+    <length units="seconds">3480</length>
+    <episode-num system="onscreen">13</episode-num>
+    <category lang="ca">ENTRETENIMENT</category>
+    <category lang="ca">TALK-SHOW</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
+    <icon src="https://img.ccma.cat/multimedia/png/6/6/1698344358966.png"/>
   </programme>
   <channel id="324">
     <display-name>324</display-name>
   </channel>
-  <programme start="20260830183000 +0200" stop="20260830200000 +0200" channel="324">
+  <programme start="20260830210000 +0200" stop="20260830230000 +0200" channel="324">
+    <title lang="ca">Telenotícies vespre</title>
+    <length units="seconds">7200</length>
+    <episode-num system="onscreen">7312</episode-num>
+    <category lang="ca">ACTUALITAT</category>
+    <category lang="ca">INFORMATIU DIÀRI</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <icon src="https://img.ccma.cat/multimedia/jpg/7/2/1758026176427.jpg"/>
+  </programme>
+  <programme start="20260830230000 +0200" stop="20260831003000 +0200" channel="324">
     <title lang="ca">Notícies 3CatInfo</title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <length units="seconds">5400</length>
-    <episode-num system="onscreen">11041</episode-num>
+    <episode-num system="onscreen">11043</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
-  </programme>
-  <programme start="20260830200000 +0200" stop="20260830210000 +0200" channel="324">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">3600</length>
-    <episode-num system="onscreen">11042</episode-num>
-    <category lang="ca">ACTUALITAT</category>
-    <category lang="ca">INFORMATIU DIÀRI</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
     <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
   <channel id="esport3">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20260830191914 +0200" stop="20260830200020 +0200" channel="esport3">
-    <title lang="ca">E3D</title>
-    <sub-title lang="ca">Màsters de Petanca 2026 / Final</sub-title>
-    <desc lang="ca">Final d'aquesta prestigiosa competició internacional de petanca que es disputa a la població de Santa Susanna, al Maresme.</desc>
-    <length units="seconds">2466</length>
-    <episode-num system="onscreen">8099</episode-num>
+  <programme start="20260830212511 +0200" stop="20260830233000 +0200" channel="esport3">
+    <title lang="ca">Futbol</title>
+    <sub-title lang="ca">Gimnàstic de Tarragona-R. Saragossa / Primera Federació / J1</sub-title>
+    <desc lang="ca">Els tarragonins reben un històric al Nou Estadi Costa Daurada en el primer partit de Lliga. Amb la narració de Jordi Sunyer i l'anàlisi d'Alberto Manga.</desc>
+    <length units="seconds">7489</length>
+    <episode-num system="onscreen">199</episode-num>
     <category lang="ca">ESPORTS</category>
     <category lang="ca">RETRANSMISSIONS ESPORTS</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <subtitles type="teletext"/>
-    <previously-shown/>
-    <icon src="https://img.3cat.cat/multimedia/jpg/4/2/1785408440824.jpg"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/0/7/1698446098170.jpg"/>
   </programme>
-  <programme start="20260830200020 +0200" stop="20260830203613 +0200" channel="esport3">
-    <title lang="ca">Motor a fons</title>
-    <sub-title lang="ca">GP d'Aragó</sub-title>
-    <desc lang="ca">Tretzena prova del Campionat del Món de Motociclisme. Us oferim el més destacat a les curses de MotoGP, Moto2 i Moto3. Amb Xavier Guillén, i l'anàlisi de Montse Sogues i Ramon Forcada.</desc>
-    <length units="seconds">2153</length>
-    <episode-num system="onscreen">954</episode-num>
+  <programme start="20260830233000 +0200" stop="20260831004630 +0200" channel="esport3">
+    <title lang="ca">Gol a gol</title>
+    <sub-title lang="ca">Anàlisi de la jornada / J3 / Diumenge</sub-title>
+    <desc lang="ca">'Gol a gol' us ofereix els resums dels partits de futbol de Primera i Segona Divisió. Presentat per Jordi Grau a Esport3, cada dissabte i cada diumenge podeu veure les millors imatges de la jornada de Lliga amb l'anàlisi dels experts, amb especial atenció als equips catalans, sobretot el Barça, el Girona i l'Espanyol.</desc>
+    <length units="seconds">4590</length>
+    <episode-num system="onscreen">1768</episode-num>
     <category lang="ca">ESPORTS</category>
     <category lang="ca">MAGAZINE</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <icon src="https://img.ccma.cat/multimedia/jpg/5/7/1678886130275.jpg"/>
+    <subtitles type="teletext"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/2/1/1698144123212.jpg"/>
   </programme>
   <channel id="sx3">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20260830190944 +0200" stop="20260830193155 +0200" channel="sx3">
-    <title lang="ca">Espies de veritat</title>
-    <sub-title lang="ca">Supermalvades d’incògnit</sub-title>
-    <desc lang="ca">La Sam, l'Alex i la Clover han de fingir que són dolentes per descobrir en què consisteix l'Operació Revenja dels Malvats de què parlen els informes d'intel·ligència de la WOOHP. Per ajudar-les, la WOOHP ha creat un cau de malvada i una colla d'esbirros al seu servei. L'Alex s'haurà de fer passar per la malvada i la Sam i la Clover seran les seves ajudants.</desc>
-    <length units="seconds">1331</length>
-    <episode-num system="onscreen">168</episode-num>
+  <programme start="20260830214027 +0200" stop="20260830220106 +0200" channel="sx3">
+    <title lang="ca">Els germans Kratt</title>
+    <sub-title lang="ca">El pigarg americà que fa quatre</sub-title>
+    <desc lang="ca">Per estudiar de més a prop el pigarg americà, el Chris i el Martin, amagats a dins d'uns ous d'aquest ocell, van a parar a dins d'un niu. Quan surten de l'ou, els adults els tracten com si fossin dues cries més. Tot va bé fins que el Gormand es disfressa d'os negre per robar ous de pigarg i fer una recepta nova: suflé d'ou de pigarg. L'equip dels germans Kratt farà tot el possible per arreglar-ho.</desc>
+    <length units="seconds">1239</length>
+    <episode-num system="onscreen">136</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
@@ -106,14 +102,13 @@
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/6/9/1781885918096.jpg"/>
   </programme>
-  <programme start="20260830193155 +0200" stop="20260830195505 +0200" channel="sx3">
-    <title lang="ca">El detectiu Conan</title>
-    <sub-title lang="ca">El secret que oculten les cartes</sub-title>
-    <desc lang="ca">En Mitsuhito i en Genta fan una partida amb cartes col·leccionables. Quan ells acaben, ocupen la seva taula dos jugadors molt bons que sovint participen en tornejos, i s'hi afegeixen un jove empresari ric i el seu ajudant. Just abans de començar la partida, mentre l'empresari va al lavabo, cau una prestatgeria. Gairebé al mateix moment salta l'alarma d'incendis. Quan tot es calma, troben un dels jugadors mort sota la prestatgeria.</desc>
-    <length units="seconds">1390</length>
-    <episode-num system="onscreen">1165</episode-num>
+  <programme start="20260830220106 +0200" stop="20260830221201 +0200" channel="sx3">
+    <title lang="ca">Les filles del Dad</title>
+    <sub-title lang="ca">El terrible examen d'Educació Física</sub-title>
+    <desc lang="ca">És diumenge. La Roxane està molt atabalada perquè l'endemà té examen sobrela història del bàsquet. No el vol suspendre, però no aconsegueix estudiar. Aviatl'angoixa s'estén a tota la família. El Dad, l'Ondine i la Panda s'adonen que han detrobar la manera d'ajudar la Roxane o no se'n sortirà!</desc>
+    <length units="seconds">655</length>
+    <episode-num system="onscreen">33</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
@@ -125,26 +120,26 @@
   <channel id="c33">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20260830191431 +0200" stop="20260830200702 +0200" channel="c33">
-    <title lang="ca">Viure amb els volcans</title>
-    <sub-title lang="ca">Volcans beneficiosos</sub-title>
-    <desc lang="ca">Els volcans tenen la imatge de muntanyes de foc que amenacen l'entorn i que periòdicament causen una enorme destrucció. Tot i així, atreuen moltes persones que s'instal·len al seu voltant perquè els donen molt més del que els prenen. Emeten minerals molt importants per a l'agricultura, atreuen les pluges i també són una font d'energia que cada cop s'aprofita més arreu del món. En aquest episodi s'exploren els diversos factors beneficiosos dels volcans.</desc>
-    <length units="seconds">3151</length>
-    <episode-num system="onscreen">2</episode-num>
-    <category lang="ca">DIVULGACIÓ</category>
-    <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
+  <programme start="20260830211311 +0200" stop="20260830220505 +0200" channel="c33">
+    <title lang="ca">Gent de món</title>
+    <sub-title lang="ca">Les illes gregues (Míkonos i Santorí)</sub-title>
+    <desc lang="ca">Heu navegat mai pel cràter d'un volcà? Heu caminat pel continent perdut de l'Atlàntida? Heu descobert l'últim paradís creat per l'home? No? Doncs prepareu-vos, perquè avui viatjarem per les illes Cíclades del mar Egeu.Coneixerem Santorí, famosa al món sencer per les casetes blanques espurnejades de cúpules blaves, pels penya-segats imponents d'un inquietant color volcànic i perquè diuen els geòlegs que aquí hi va haver un dels desastres naturals més descomunals que ha viscut la humanitat. I acabarem a Míkonos, l'illa que durant segles va ser un indret pobre i mancat d'aigua, un racó encantador i oblidat del Mediterrani fins que als anys 50 el turisme britànic la va descobrir. Avui té uns 10.000 habitants i és un paradís per a la comunitat gai de tot el món.</desc>
+    <length units="seconds">3114</length>
+    <episode-num system="onscreen">17</episode-num>
+    <category lang="ca">ENTRETENIMENT</category>
+    <category lang="ca">ALTRES</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20260830200702 +0200" stop="20260830205904 +0200" channel="c33">
-    <title lang="ca">Viure amb els volcans</title>
-    <sub-title lang="ca">Volcans destructius</sub-title>
-    <desc lang="ca">Fa milions d'anys que esventren la terra, abrasen els continents, cobreixen regions senceres sota una catifa de cendra mortal, i nosaltres som al mig. Els últims segles, els volcans han causat prop de 300.000 morts a tot el món. Tot i així, 500 milions d'homes i dones desafien aquests monstres de foc cada dia. En aquest episodi, coneixerem els efectes més devastadors dels volcans i com els afronten els que hi conviuen.</desc>
-    <length units="seconds">3122</length>
-    <episode-num system="onscreen">3</episode-num>
+  <programme start="20260830220505 +0200" stop="20260830225647 +0200" channel="c33">
+    <title lang="ca">La Camarga, salvatge i fràgil</title>
+    <sub-title lang="ca">Entre sal i mar</sub-title>
+    <desc lang="ca">La Baixa Camarga està marcada per la interacció amb el mar i la influència de la sal. La costa és un cordó de platges i dunes al llarg de més de cent quilòmetres, entre Fòs i Lo Grau dau Rei. Al mar de la Camarga hi viuen també espècies emblemàtiques, com ara dofins, cavalls de mar i tortugues. La Camarga de les llacunes i el mar és una interfície vital però fràgil, sotmesa a una erosió espectacular que ha obligat els humans a adaptar-s'hi i a repensar la gestió del litoral.</desc>
+    <length units="seconds">3102</length>
+    <episode-num system="onscreen">1</episode-num>
     <category lang="ca">DIVULGACIÓ</category>
     <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
     <rating>
