@@ -3,51 +3,68 @@
   <channel id="tvi">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20260830070000 +0200" stop="20260830100000 +0200" channel="tvi">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">10800</length>
-    <episode-num system="onscreen">11037</episode-num>
+  <programme start="20260830143000 +0200" stop="20260830153240 +0200" channel="tvi">
+    <title lang="ca">Telenotícies migdia</title>
+    <length units="seconds">3760</length>
+    <episode-num system="onscreen">7313</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/5/4/1758025766345.jpg"/>
   </programme>
-  <programme start="20260830100000 +0200" stop="20260830120000 +0200" channel="tvi">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">7200</length>
-    <episode-num system="onscreen">11038</episode-num>
-    <category lang="ca">ACTUALITAT</category>
-    <category lang="ca">INFORMATIU DIÀRI</category>
+  <programme start="20260830153240 +0200" stop="20260830171051 +0200" channel="tvi">
+    <title lang="ca">Tarda de cine</title>
+    <sub-title lang="ca">Assassinats a Pont-Aven</sub-title>
+    <desc lang="ca">ASSASSINATS A PONT-AVEN 'Meurtres en Berry'Direcció: Floriane CrépinGuió: Natascha Cucheval, Iris DucorpsProducció: Quad Télévision, France TV, AT Production, RTBF (Télévision Belge), Ciclic - Région Centre, CNC, TV5 Monde, Radio Télévision Suisse (RTS)Any: 2021Durada: 95País: FrançaMúsica: Emilien Levistre, Xiaoxi LevistreFotografia: Patrick GhiringhelliIntèrprets: Aurélien Wiik, Fauve Hautot, David Mora, Boris Terral, Julie-Anne Roth, Clarisse Lhoni-Botte, Bérangère McNeese, Niseema Theillaud, Noémie Zeitoun, Arthur Verret. La tinenta Marion Darosa investiga l'assassinat d'un jove galerista que en el passat havia estat condemnat pel tràfic de pintures falses. Formarà equip amb el capità Le Mezec, que torna a la regió després d'haver estat destinat molts anys a París. Precisament el capità Le Mezec va encapçalar la investigació de la mort, en principi accidental, de la mare de la Marion quan ella era petita. El pare de la Marion no ha superat mai la mort de la seva dona, i la tornada de Le Mezec reobrirà antigues ferides.</desc>
+    <credits>
+      <director>Floriane Crépin</director>
+      <writer>Natascha Cucheval</writer>
+      <writer>Iris Ducorps</writer>
+      <actor>Aurélien Wiik</actor>
+      <actor>Fauve Hautot</actor>
+      <actor>David Mora</actor>
+      <actor>Boris Terral</actor>
+      <actor>Julie-Anne Roth</actor>
+      <actor>Clarisse Lhoni-Botte</actor>
+      <actor>Bérangère McNeese</actor>
+      <actor>Niseema Theillaud</actor>
+      <actor>Noémie Zeitoun</actor>
+      <actor>Arthur Verret. La tinenta Marion Darosa investiga l'assassinat d'un jove galerista que en el passat havia estat condemnat pel tràfic de pintures falses. Formarà equip amb el capità Le Mezec</actor>
+      <actor>que torna a la regió després d'haver estat destinat molts anys a París. Precisament el capità Le Mezec va encapçalar la investigació de la mort</actor>
+      <actor>en principi accidental</actor>
+      <actor>de la mare de la Marion quan ella era petita. El pare de la Marion no ha superat mai la mort de la seva dona</actor>
+      <actor>la tornada de Le Mezec reobrirà antigues ferides.</actor>
+    </credits>
+    <length units="seconds">5891</length>
+    <episode-num system="onscreen">1</episode-num>
+    <category lang="ca">FICCIÓ</category>
+    <category lang="ca">PEL·LÍCULA / TELEFILM</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
+    <previously-shown/>
   </programme>
   <channel id="324">
     <display-name>324</display-name>
   </channel>
-  <programme start="20260830070000 +0200" stop="20260830100000 +0200" channel="324">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">10800</length>
-    <episode-num system="onscreen">11037</episode-num>
+  <programme start="20260830143000 +0200" stop="20260830163000 +0200" channel="324">
+    <title lang="ca">Telenotícies migdia</title>
+    <length units="seconds">7200</length>
+    <episode-num system="onscreen">7313</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <subtitles type="teletext"/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/5/4/1758025766345.jpg"/>
   </programme>
-  <programme start="20260830100000 +0200" stop="20260830120000 +0200" channel="324">
+  <programme start="20260830163000 +0200" stop="20260830183000 +0200" channel="324">
     <title lang="ca">Notícies 3CatInfo</title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <length units="seconds">7200</length>
-    <episode-num system="onscreen">11038</episode-num>
+    <episode-num system="onscreen">11040</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
@@ -59,28 +76,27 @@
   <channel id="esport3">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20260830083518 +0200" stop="20260830100741 +0200" channel="esport3">
-    <title lang="ca">Futbol sala</title>
-    <sub-title lang="ca">Catgas Energia Santa Coloma-Barça / Copa Catalunya masculina / Final</sub-title>
-    <desc lang="ca">Final masculina de la Supercopa de Catalunya de futbol sala que s'està disputant a Santa Coloma de Gramenet. </desc>
-    <length units="seconds">5543</length>
-    <episode-num system="onscreen">8109</episode-num>
+  <programme start="20260830140343 +0200" stop="20260830155520 +0200" channel="esport3">
+    <title lang="ca">Futbol</title>
+    <sub-title lang="ca">SD Eibar-RCD Espanyol / Lliga F / J1</sub-title>
+    <desc lang="ca">Les blanc-i-blaves van ocupar l'onzena posició final la temporada passada. L'equip basc va acabar en la tretzena, amb 3 punts menys. La narració, a càrrec de Gemma Mallorca i l'anàlisi, de Juli Garcia.  </desc>
+    <length units="seconds">6697</length>
+    <episode-num system="onscreen">44</episode-num>
     <category lang="ca">ESPORTS</category>
     <category lang="ca">RETRANSMISSIONS ESPORTS</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <previously-shown/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/1/5/1699004339351.jpg"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/0/8/1730389343680.jpg"/>
   </programme>
-  <programme start="20260830100741 +0200" stop="20260830104006 +0200" channel="esport3">
-    <title lang="ca">Zona Zàping Club</title>
-    <sub-title lang="ca">En Zapi canviarà de programa i marxarà amb Xavi Valls a l''Onze'?</sub-title>
-    <desc lang="ca">Xavi Valls posa a prova el seu instint en un concurs en què qualsevol detall pot canviar completament el final.</desc>
-    <length units="seconds">1945</length>
-    <episode-num system="onscreen">7</episode-num>
-    <category lang="ca">ESPORTS</category>
-    <category lang="ca">ESPECIALS</category>
+  <programme start="20260830155520 +0200" stop="20260830165612 +0200" channel="esport3">
+    <title lang="ca">Núñez</title>
+    <sub-title lang="ca">El patrimoni no fa la felicitat</sub-title>
+    <desc lang="ca">Impulsat per l'èxit de Basilea, Núñez intenta fer del Barça el millor club d'Europa. Però malgrat els grans fitxatges d'estrelles com Schuster, Maradona i Quini i la quantitat astronòmica de diners invertits, sempre trobarà un impediment o altre que s'interposarà en el camí cap al seu somni. El segrest de Quini, el caràcter problemàtic de Schuster, l'hepatitis de Maradona i la seva posterior lesió, els problemes del vestidor amb les drogues... Fins que decideix prendre una decisió impopular, vendre al crack argentí, que al cap i a la fi el conduirà contra pronòstic a conquerir l'any següent la seva primera Lliga. Ara, només queda un pas per fer realitat el Barça triomfant que va prometre a les eleccions: guanyar la copa d'Europa en una final a Sevilla, contra un rival desconegut i amb la grada plena d'aficionats del Barça. El somni de Núñez, i de tot el barcelonisme, és més a tocar que mai.</desc>
+    <length units="seconds">3652</length>
+    <episode-num system="onscreen">2</episode-num>
+    <category lang="ca">DIVULGACIÓ</category>
+    <category lang="ca">Docu-Entreteniment</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
@@ -90,27 +106,12 @@
   <channel id="sx3">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20260830085951 +0200" stop="20260830094430 +0200" channel="sx3">
-    <title lang="ca">Doraemon: 100 milles de viatge subterrani</title>
-    <sub-title lang="ca">Doraemon: 100 milles de viatge subterrani</sub-title>
-    <desc lang="ca">En Doraemon està provant una mena de submarí que es desplaça sota terra anomenat 'subterrí'. Tot d'una, una noia misteriosa vinguda del futur i perseguida per uns agents de seguretat es cola dins del subterrí i convenç en Doraemon i en Nobita perquè l'ajudin a buscar un tresor: una papallona irisada. En Nobita hi accedeix entusiasmat perquè troba que aquesta papallona seria el regal d'aniversari perfecte per a en Doraemon.</desc>
-    <length units="seconds">2679</length>
-    <episode-num system="onscreen">1</episode-num>
-    <category lang="ca">FICCIÓ</category>
-    <category lang="ca">PEL·LÍCULA DIBUIXOS ANIMATS</category>
-    <rating>
-      <value>INFANTIL</value>
-    </rating>
-    <subtitles type="teletext"/>
-    <previously-shown/>
-    <icon src="https://img.3cat.cat/multimedia/jpg/0/9/1786541030690.jpg"/>
-  </programme>
-  <programme start="20260830094430 +0200" stop="20260830100559 +0200" channel="sx3">
-    <title lang="ca">Espies de veritat</title>
-    <sub-title lang="ca">La S.P.I.</sub-title>
-    <desc lang="ca">Una nova agència de superespies, que rep el nom de S.P. I (Súper Protecció Internacional) venç la Sam, l'Alex i la Clover en l'àmbit dels crims internacionals més importants. Cada cop, els membres de l'S.P.I salven la situació abans que les noies espies arriben. Així, la nova agència pren molt de prestigi i obté una gran quantitat de publicitat. El públic els estima i WOOHP es veu obligada a tancar.</desc>
-    <length units="seconds">1289</length>
-    <episode-num system="onscreen">42</episode-num>
+  <programme start="20260830150006 +0200" stop="20260830151127 +0200" channel="sx3">
+    <title lang="ca">Les Sisters</title>
+    <sub-title lang="ca">John Kevin Bryan</sub-title>
+    <desc lang="ca">La Wendy està deprimida: el Maxence fa un dia que no li diu res. La Marine està decidida a animar la seva germana. Per això decideix xatejar amb ella fent-se passar per un personatge que s'ha inventat: un noi molt guapo que es diu John Kevin Bryan. Però el noi fictici torna boja la Wendy, que el vol conèixer sigui com sigui.</desc>
+    <length units="seconds">681</length>
+    <episode-num system="onscreen">75</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
@@ -118,34 +119,46 @@
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/6/9/1781885918096.jpg"/>
+  </programme>
+  <programme start="20260830151127 +0200" stop="20260830152249 +0200" channel="sx3">
+    <title lang="ca">Les Sisters</title>
+    <sub-title lang="ca">Quina mala sort!</sub-title>
+    <desc lang="ca">És divendres tretze i la Marine ha trencat un mirall. Ara li esperen set anys de desgràcia! Per protegir-se de la mala sort decideix enganxar com una paparra a la Wendy, que té un trèvol de quatre fulles. Però la seva germana, desesperada, el fa miques per treure`s de sobre la pesada de la Marine. Fatal decisió! Sense el trèvol de la sort, a les germanes els surt tot malament!</desc>
+    <length units="seconds">682</length>
+    <episode-num system="onscreen">76</episode-num>
+    <category lang="ca">FICCIÓ</category>
+    <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
+    <rating>
+      <value>INFANTIL</value>
+    </rating>
+    <subtitles type="teletext"/>
+    <previously-shown/>
   </programme>
   <channel id="c33">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20260830090942 +0200" stop="20260830093356 +0200" channel="c33">
-    <title lang="ca">Riu avall</title>
-    <sub-title lang="ca">Noguera Ribagorçana</sub-title>
-    <desc lang="ca">Marcant la divisòria de Catalunya amb l'Aragó, la Noguera Ribagorçana travessa un paisatge amb un alt patrimoni històric, cultural i natural. En el nostre recorregut coneixem més bé els tresors del romànic de la Vall de Boí o l'espectacular congost de Mont-rebei. Per aquí, el riu travessa el massís del Montsec i dona forma a un dels congostos més impressionants i més ben conservats de tot Europa.</desc>
-    <length units="seconds">1454</length>
-    <episode-num system="onscreen">23</episode-num>
+  <programme start="20260830145714 +0200" stop="20260830154532 +0200" channel="c33">
+    <title lang="ca">Vida</title>
+    <sub-title lang="ca">Plantes</sub-title>
+    <desc lang="ca">L'espectacle del món vegetal no es pot apreciar a simple vista. Però, gràcies a la tecnologia més puntera, tot es revela: una atrapamosques que es tanca de cop sobre la seva presa; els ganxos d'agafada semblants a animals de l'ungla de gat i els coixinets enganxosos de l'heura de Boston en la seva lluita per la llum. Vola amb la llavor que va inspirar el disseny dels planadors i observa com la planta de creixement més ràpid de la Terra s'enfila 60 cm al dia. Descobreix les habilitats per atrapar aigua de l'estrany arbre de sang de drac, que regalima saba vermella de les seves branques.</desc>
+    <length units="seconds">2898</length>
+    <episode-num system="onscreen">9</episode-num>
     <category lang="ca">DIVULGACIÓ</category>
-    <category lang="ca">ALTRES</category>
+    <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/3/4/1719609254043.jpg"/>
   </programme>
-  <programme start="20260830093356 +0200" stop="20260830102432 +0200" channel="c33">
-    <title lang="ca">El Foraster</title>
-    <sub-title lang="ca">Besalú</sub-title>
-    <desc lang="ca">Besalú (Garrotxa) és un dels pobles més visitats de Catalunya, però en Quim no hi ve a fer turisme, sinó a conèixer la gent que hi viu. I de la mà d'en Paco i la Lourdes, ràpidament descobrirà que fins i tot el pont, el gran símbol del poble, genera opinions ben dispars.Però sota l'aparença de postal, també s'hi amaguen aficions imprevisibles: des dels aficionats als duels medievals fins a artesans d'objectes del tot inesperats. La canalla del poble compartirà amb en Quim la frustració de no tenir un parc on poder jugar i en Vicenç, viudo recent, li explicarà com s'ho fa per combatre l'enyorança i la soledat. En Quim també assistirà a l'entrenament d'un equip de futbol sènior femení, amb la Núria com a entrenadora i exemple de força i superació.Finalment, s'aturarà a la plaça Major per endinsar-se en la passió amb què els tambors de manaies i estaferms assagen per mantenir viva la història i l'esperit de Besalú.</desc>
-    <length units="seconds">3036</length>
-    <episode-num system="onscreen">144</episode-num>
-    <category lang="ca">ENTRETENIMENT</category>
-    <category lang="ca">VARIETATS</category>
+  <programme start="20260830154532 +0200" stop="20260830163416 +0200" channel="c33">
+    <title lang="ca">Vida</title>
+    <sub-title lang="ca">Primats</sub-title>
+    <desc lang="ca">Els primats són excepcionalment intel·ligents i solucionen problemes, es comuniquen, fan servir eines i interaccionen socialment. Al Congo, coneix un grup estretament unit de goril·les de les terres baixes occidentals liderats per un esquena platejada, els cops de pit del qual envien ones expansives a més d'un quilòmetre a través del bosc; observa mares langur de Phayre gris a Tailàndia lluitant pel privilegi de cuidar cries de color taronja brillant; presencia les violentes disputes de mil babuïns sagrats i uneix-te a la caça d'ous de tauró dels babuïns negres a la costa de Sud-àfrica. </desc>
+    <length units="seconds">2924</length>
+    <episode-num system="onscreen">10</episode-num>
+    <category lang="ca">DIVULGACIÓ</category>
+    <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
