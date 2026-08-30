@@ -3,69 +3,67 @@
   <channel id="tvi">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20260830022135 +0200" stop="20260830043000 +0200" channel="tvi">
+  <programme start="20260830070000 +0200" stop="20260830100000 +0200" channel="tvi">
     <title lang="ca">Notícies 3CatInfo</title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">7705</length>
-    <episode-num system="onscreen">11036</episode-num>
+    <length units="seconds">10800</length>
+    <episode-num system="onscreen">11037</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <previously-shown/>
     <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
-  <programme start="20260830043000 +0200" stop="20260830050805 +0200" channel="tvi">
-    <title lang="ca">Fusió i swing a l'estudi</title>
-    <sub-title lang="ca">Zona Wells</sub-title>
-    <desc lang="ca">Zona Wells és una formació que viu a cavall entre Barcelona i Lima. Tot i tenir els seus fonaments en el jazz és un amalgama de diferents estils musicals, com el reggae, el folk, la bossa, el hip hop i música electrònica. És en aquest punt de trobada on els múltiples estils es troben i es fusionen per explorar la relació entre ells i esdevenir un llenguatge mestís. Saphie Wells a la veu, Dinguisman a la veu, guitarra i caixó, Toni Pagés a la bateria, Josep Lluí Guart al piano i Joan Subirats l saxo.</desc>
-    <length units="seconds">2285</length>
-    <episode-num system="onscreen">11</episode-num>
-    <category lang="ca">MUSICALS</category>
-    <category lang="ca">ALTRES</category>
+  <programme start="20260830100000 +0200" stop="20260830120000 +0200" channel="tvi">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="seconds">7200</length>
+    <episode-num system="onscreen">11038</episode-num>
+    <category lang="ca">ACTUALITAT</category>
+    <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <previously-shown/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
   <channel id="324">
     <display-name>324</display-name>
   </channel>
-  <programme start="20260830010000 +0200" stop="20260830060000 +0200" channel="324">
+  <programme start="20260830070000 +0200" stop="20260830100000 +0200" channel="324">
     <title lang="ca">Notícies 3CatInfo</title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">18000</length>
-    <episode-num system="onscreen">11036</episode-num>
+    <length units="seconds">10800</length>
+    <episode-num system="onscreen">11037</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <previously-shown/>
+    <subtitles type="teletext"/>
     <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
-  <programme start="20260830060000 +0200" stop="20260830070000 +0200" channel="324">
+  <programme start="20260830100000 +0200" stop="20260830120000 +0200" channel="324">
     <title lang="ca">Notícies 3CatInfo</title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">3600</length>
-    <episode-num system="onscreen">11036</episode-num>
+    <length units="seconds">7200</length>
+    <episode-num system="onscreen">11038</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <previously-shown/>
+    <subtitles type="teletext"/>
     <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
   <channel id="esport3">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20260830024634 +0200" stop="20260830041858 +0200" channel="esport3">
+  <programme start="20260830083518 +0200" stop="20260830100741 +0200" channel="esport3">
     <title lang="ca">Futbol sala</title>
     <sub-title lang="ca">Catgas Energia Santa Coloma-Barça / Copa Catalunya masculina / Final</sub-title>
     <desc lang="ca">Final masculina de la Supercopa de Catalunya de futbol sala que s'està disputant a Santa Coloma de Gramenet. </desc>
-    <length units="seconds">5544</length>
+    <length units="seconds">5543</length>
     <episode-num system="onscreen">8109</episode-num>
     <category lang="ca">ESPORTS</category>
     <category lang="ca">RETRANSMISSIONS ESPORTS</category>
@@ -75,42 +73,44 @@
     <previously-shown/>
     <icon src="https://img.ccma.cat/multimedia/jpg/1/5/1699004339351.jpg"/>
   </programme>
-  <programme start="20260830041858 +0200" stop="20260830044050 +0200" channel="esport3">
-    <title lang="ca">3CatInfo Esports</title>
-    <desc lang="ca">Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.</desc>
-    <length units="seconds">1312</length>
-    <episode-num system="onscreen">5493</episode-num>
+  <programme start="20260830100741 +0200" stop="20260830104006 +0200" channel="esport3">
+    <title lang="ca">Zona Zàping Club</title>
+    <sub-title lang="ca">En Zapi canviarà de programa i marxarà amb Xavi Valls a l''Onze'?</sub-title>
+    <desc lang="ca">Xavi Valls posa a prova el seu instint en un concurs en què qualsevol detall pot canviar completament el final.</desc>
+    <length units="seconds">1945</length>
+    <episode-num system="onscreen">7</episode-num>
     <category lang="ca">ESPORTS</category>
-    <category lang="ca">INFORMATIU DIÀRI</category>
+    <category lang="ca">ESPECIALS</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
+    <subtitles type="teletext"/>
     <previously-shown/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/9/7/1758888682179.jpg"/>
   </programme>
   <channel id="sx3">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20260830033051 +0200" stop="20260830034119 +0200" channel="sx3">
-    <title lang="ca">Com dibuixar còmics amb el Will Sliney</title>
-    <sub-title lang="ca">Stream Samurai</sub-title>
-    <desc lang="ca">Mentre la nova versió del Crònica avança amb una nau espacial cap a la Terra amb la intenció de destruir-la, en Will Sliney utilitza els seus superpoders com a Wil·lustrador per crear herois que puguin fer front a l'amenaça alienígena. En aquest episodi li arriba el torn a la Stream Samurai, una heroïna d'estil manga, i en Will ens ensenyarà a dibuixar un personatge amb aquest inconfusible estil japonès.</desc>
-    <length units="seconds">628</length>
-    <episode-num system="onscreen">23</episode-num>
+  <programme start="20260830085951 +0200" stop="20260830094430 +0200" channel="sx3">
+    <title lang="ca">Doraemon: 100 milles de viatge subterrani</title>
+    <sub-title lang="ca">Doraemon: 100 milles de viatge subterrani</sub-title>
+    <desc lang="ca">En Doraemon està provant una mena de submarí que es desplaça sota terra anomenat 'subterrí'. Tot d'una, una noia misteriosa vinguda del futur i perseguida per uns agents de seguretat es cola dins del subterrí i convenç en Doraemon i en Nobita perquè l'ajudin a buscar un tresor: una papallona irisada. En Nobita hi accedeix entusiasmat perquè troba que aquesta papallona seria el regal d'aniversari perfecte per a en Doraemon.</desc>
+    <length units="seconds">2679</length>
+    <episode-num system="onscreen">1</episode-num>
     <category lang="ca">FICCIÓ</category>
-    <category lang="ca">ALTRES</category>
+    <category lang="ca">PEL·LÍCULA DIBUIXOS ANIMATS</category>
     <rating>
       <value>INFANTIL</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
+    <icon src="https://img.3cat.cat/multimedia/jpg/0/9/1786541030690.jpg"/>
   </programme>
-  <programme start="20260830034119 +0200" stop="20260830035149 +0200" channel="sx3">
-    <title lang="ca">Pop, la ciutat de paper</title>
-    <sub-title lang="ca">El Zip Exprés</sub-title>
-    <desc lang="ca">En l'aventura poptàstica d'avui, la colla d'amics pugen al Zip Exprés, un tren que els durà per tot Pop, la ciutat de paper. El Zip els vol portar a veure unes llums del cel brillants que són espectaculars, i per això tots pugen al tren per anar-hi. Però els sorgeix un imprevist. Arribaran a temps a la seva destinació?</desc>
-    <length units="seconds">630</length>
-    <episode-num system="onscreen">37</episode-num>
+  <programme start="20260830094430 +0200" stop="20260830100559 +0200" channel="sx3">
+    <title lang="ca">Espies de veritat</title>
+    <sub-title lang="ca">La S.P.I.</sub-title>
+    <desc lang="ca">Una nova agència de superespies, que rep el nom de S.P. I (Súper Protecció Internacional) venç la Sam, l'Alex i la Clover en l'àmbit dels crims internacionals més importants. Cada cop, els membres de l'S.P.I salven la situació abans que les noies espies arriben. Així, la nova agència pren molt de prestigi i obté una gran quantitat de publicitat. El públic els estima i WOOHP es veu obligada a tancar.</desc>
+    <length units="seconds">1289</length>
+    <episode-num system="onscreen">42</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
@@ -118,32 +118,34 @@
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/6/9/1781885918096.jpg"/>
   </programme>
   <channel id="c33">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20260830031825 +0200" stop="20260830041106 +0200" channel="c33">
-    <title lang="ca">Llocs recòndits</title>
-    <sub-title lang="ca">L'Aràbia Saudita</sub-title>
-    <desc lang="ca">Acompanyeu en Peter Greenberg, el presentador, mentre explora les joies ocultes del regne de l'Aràbia Saudita que ben pocs coneixen, incloent-hi Riad, Jidda, Al-Ula, el mar Roig, les Dunes Vermelles i molt més.</desc>
-    <length units="seconds">3161</length>
-    <episode-num system="onscreen">5</episode-num>
+  <programme start="20260830090942 +0200" stop="20260830093356 +0200" channel="c33">
+    <title lang="ca">Riu avall</title>
+    <sub-title lang="ca">Noguera Ribagorçana</sub-title>
+    <desc lang="ca">Marcant la divisòria de Catalunya amb l'Aragó, la Noguera Ribagorçana travessa un paisatge amb un alt patrimoni històric, cultural i natural. En el nostre recorregut coneixem més bé els tresors del romànic de la Vall de Boí o l'espectacular congost de Mont-rebei. Per aquí, el riu travessa el massís del Montsec i dona forma a un dels congostos més impressionants i més ben conservats de tot Europa.</desc>
+    <length units="seconds">1454</length>
+    <episode-num system="onscreen">23</episode-num>
     <category lang="ca">DIVULGACIÓ</category>
-    <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
+    <category lang="ca">ALTRES</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/3/4/1719609254043.jpg"/>
   </programme>
-  <programme start="20260830041106 +0200" stop="20260830043327 +0200" channel="c33">
-    <title lang="ca">Salut i muntanyes</title>
-    <sub-title lang="ca">Peramola</sub-title>
-    <desc lang="ca">La reportera Eva Clausó Estival ens descobrirà algunes curiositats del poble de Peramola a l'Alt Urgell. Aquí dels donuts en diuen Mola, ens explicarà perquè i se'n lleparà els dits. Són irresistibles al paladar. Amb la Maria anirà a passejar entre corders, li ensenyarà el Roc de Rumbau cita obligada de l'escalada a nivell internacional i la portarà a visitar la casa on va néixer a Tragó que amaga la història de la seva família. També descobrirà un petit taller de motxilles i bosses vegades. La seva propietària, l'Helena, ha conseguit amb els seus dissenys passejar el Pirineu i el poble de Paramola per tot el món.</desc>
-    <length units="seconds">1341</length>
-    <episode-num system="onscreen">1</episode-num>
-    <category lang="ca">DIVULGACIÓ</category>
-    <category lang="ca">ALTRES</category>
+  <programme start="20260830093356 +0200" stop="20260830102432 +0200" channel="c33">
+    <title lang="ca">El Foraster</title>
+    <sub-title lang="ca">Besalú</sub-title>
+    <desc lang="ca">Besalú (Garrotxa) és un dels pobles més visitats de Catalunya, però en Quim no hi ve a fer turisme, sinó a conèixer la gent que hi viu. I de la mà d'en Paco i la Lourdes, ràpidament descobrirà que fins i tot el pont, el gran símbol del poble, genera opinions ben dispars.Però sota l'aparença de postal, també s'hi amaguen aficions imprevisibles: des dels aficionats als duels medievals fins a artesans d'objectes del tot inesperats. La canalla del poble compartirà amb en Quim la frustració de no tenir un parc on poder jugar i en Vicenç, viudo recent, li explicarà com s'ho fa per combatre l'enyorança i la soledat. En Quim també assistirà a l'entrenament d'un equip de futbol sènior femení, amb la Núria com a entrenadora i exemple de força i superació.Finalment, s'aturarà a la plaça Major per endinsar-se en la passió amb què els tambors de manaies i estaferms assagen per mantenir viva la història i l'esperit de Besalú.</desc>
+    <length units="seconds">3036</length>
+    <episode-num system="onscreen">144</episode-num>
+    <category lang="ca">ENTRETENIMENT</category>
+    <category lang="ca">VARIETATS</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
