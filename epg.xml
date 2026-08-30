@@ -3,68 +3,42 @@
   <channel id="tvi">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20260830143000 +0200" stop="20260830153240 +0200" channel="tvi">
-    <title lang="ca">Telenotícies migdia</title>
-    <length units="seconds">3760</length>
-    <episode-num system="onscreen">7313</episode-num>
-    <category lang="ca">ACTUALITAT</category>
-    <category lang="ca">INFORMATIU DIÀRI</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <icon src="https://img.ccma.cat/multimedia/jpg/5/4/1758025766345.jpg"/>
-  </programme>
-  <programme start="20260830153240 +0200" stop="20260830171051 +0200" channel="tvi">
-    <title lang="ca">Tarda de cine</title>
-    <sub-title lang="ca">Assassinats a Pont-Aven</sub-title>
-    <desc lang="ca">ASSASSINATS A PONT-AVEN 'Meurtres en Berry'Direcció: Floriane CrépinGuió: Natascha Cucheval, Iris DucorpsProducció: Quad Télévision, France TV, AT Production, RTBF (Télévision Belge), Ciclic - Région Centre, CNC, TV5 Monde, Radio Télévision Suisse (RTS)Any: 2021Durada: 95País: FrançaMúsica: Emilien Levistre, Xiaoxi LevistreFotografia: Patrick GhiringhelliIntèrprets: Aurélien Wiik, Fauve Hautot, David Mora, Boris Terral, Julie-Anne Roth, Clarisse Lhoni-Botte, Bérangère McNeese, Niseema Theillaud, Noémie Zeitoun, Arthur Verret. La tinenta Marion Darosa investiga l'assassinat d'un jove galerista que en el passat havia estat condemnat pel tràfic de pintures falses. Formarà equip amb el capità Le Mezec, que torna a la regió després d'haver estat destinat molts anys a París. Precisament el capità Le Mezec va encapçalar la investigació de la mort, en principi accidental, de la mare de la Marion quan ella era petita. El pare de la Marion no ha superat mai la mort de la seva dona, i la tornada de Le Mezec reobrirà antigues ferides.</desc>
-    <credits>
-      <director>Floriane Crépin</director>
-      <writer>Natascha Cucheval</writer>
-      <writer>Iris Ducorps</writer>
-      <actor>Aurélien Wiik</actor>
-      <actor>Fauve Hautot</actor>
-      <actor>David Mora</actor>
-      <actor>Boris Terral</actor>
-      <actor>Julie-Anne Roth</actor>
-      <actor>Clarisse Lhoni-Botte</actor>
-      <actor>Bérangère McNeese</actor>
-      <actor>Niseema Theillaud</actor>
-      <actor>Noémie Zeitoun</actor>
-      <actor>Arthur Verret. La tinenta Marion Darosa investiga l'assassinat d'un jove galerista que en el passat havia estat condemnat pel tràfic de pintures falses. Formarà equip amb el capità Le Mezec</actor>
-      <actor>que torna a la regió després d'haver estat destinat molts anys a París. Precisament el capità Le Mezec va encapçalar la investigació de la mort</actor>
-      <actor>en principi accidental</actor>
-      <actor>de la mare de la Marion quan ella era petita. El pare de la Marion no ha superat mai la mort de la seva dona</actor>
-      <actor>la tornada de Le Mezec reobrirà antigues ferides.</actor>
-    </credits>
-    <length units="seconds">5891</length>
-    <episode-num system="onscreen">1</episode-num>
+  <programme start="20260830185436 +0200" stop="20260830195714 +0200" channel="tvi">
+    <title lang="ca">Temps de silenci</title>
+    <sub-title lang="ca">Destins</sub-title>
+    <desc lang="ca">Les radionovel·les disfressen la realitat quotidiana. La que tothom va vivint com pot mentre, d'alguna manera, progressa. Però de vegades, a algú, la vida li dóna una segona oportunitat. I en Llorenç es retroba amb el món de l'arquitectura. El món que va abandonar per fer-se càrrec de la fàbrica. Altres, com en Joaquim, estan convençuts que les seves oportunitats s'han acabat. La Victòria descobrirà la raó del canvi d'actitud del seu fill.</desc>
+    <length units="seconds">3758</length>
+    <episode-num system="onscreen">10</episode-num>
     <category lang="ca">FICCIÓ</category>
-    <category lang="ca">PEL·LÍCULA / TELEFILM</category>
+    <category lang="ca">SÈRIE DRAMÀTICA</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
+    <subtitles type="teletext"/>
+    <previously-shown/>
+  </programme>
+  <programme start="20260830195714 +0200" stop="20260830205305 +0200" channel="tvi">
+    <title lang="ca">Temps de silenci</title>
+    <sub-title lang="ca">CLANDESTINS</sub-title>
+    <desc lang="ca">Els anys passen. Nous canvis. Arriben els immigrants, mentre a Catalunya hi ha qui es resisteix a perdre la llibertat, ni que sigui valent-se de la cultura prohibida.En Ramon progressa, però la Consol està perdent el seny. Massa coses li han passat...</desc>
+    <length units="seconds">3351</length>
+    <episode-num system="onscreen">11</episode-num>
+    <category lang="ca">FICCIÓ</category>
+    <category lang="ca">SÈRIE DRAMÀTICA</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
   <channel id="324">
     <display-name>324</display-name>
   </channel>
-  <programme start="20260830143000 +0200" stop="20260830163000 +0200" channel="324">
-    <title lang="ca">Telenotícies migdia</title>
-    <length units="seconds">7200</length>
-    <episode-num system="onscreen">7313</episode-num>
-    <category lang="ca">ACTUALITAT</category>
-    <category lang="ca">INFORMATIU DIÀRI</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <icon src="https://img.ccma.cat/multimedia/jpg/5/4/1758025766345.jpg"/>
-  </programme>
-  <programme start="20260830163000 +0200" stop="20260830183000 +0200" channel="324">
+  <programme start="20260830183000 +0200" stop="20260830200000 +0200" channel="324">
     <title lang="ca">Notícies 3CatInfo</title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">7200</length>
-    <episode-num system="onscreen">11040</episode-num>
+    <length units="seconds">5400</length>
+    <episode-num system="onscreen">11041</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
@@ -73,45 +47,58 @@
     <subtitles type="teletext"/>
     <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
+  <programme start="20260830200000 +0200" stop="20260830210000 +0200" channel="324">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="seconds">3600</length>
+    <episode-num system="onscreen">11042</episode-num>
+    <category lang="ca">ACTUALITAT</category>
+    <category lang="ca">INFORMATIU DIÀRI</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
+  </programme>
   <channel id="esport3">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20260830140343 +0200" stop="20260830155520 +0200" channel="esport3">
-    <title lang="ca">Futbol</title>
-    <sub-title lang="ca">SD Eibar-RCD Espanyol / Lliga F / J1</sub-title>
-    <desc lang="ca">Les blanc-i-blaves van ocupar l'onzena posició final la temporada passada. L'equip basc va acabar en la tretzena, amb 3 punts menys. La narració, a càrrec de Gemma Mallorca i l'anàlisi, de Juli Garcia.  </desc>
-    <length units="seconds">6697</length>
-    <episode-num system="onscreen">44</episode-num>
+  <programme start="20260830191914 +0200" stop="20260830200020 +0200" channel="esport3">
+    <title lang="ca">E3D</title>
+    <sub-title lang="ca">Màsters de Petanca 2026 / Final</sub-title>
+    <desc lang="ca">Final d'aquesta prestigiosa competició internacional de petanca que es disputa a la població de Santa Susanna, al Maresme.</desc>
+    <length units="seconds">2466</length>
+    <episode-num system="onscreen">8099</episode-num>
     <category lang="ca">ESPORTS</category>
     <category lang="ca">RETRANSMISSIONS ESPORTS</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <icon src="https://img.ccma.cat/multimedia/jpg/0/8/1730389343680.jpg"/>
+    <subtitles type="teletext"/>
+    <previously-shown/>
+    <icon src="https://img.3cat.cat/multimedia/jpg/4/2/1785408440824.jpg"/>
   </programme>
-  <programme start="20260830155520 +0200" stop="20260830165612 +0200" channel="esport3">
-    <title lang="ca">Núñez</title>
-    <sub-title lang="ca">El patrimoni no fa la felicitat</sub-title>
-    <desc lang="ca">Impulsat per l'èxit de Basilea, Núñez intenta fer del Barça el millor club d'Europa. Però malgrat els grans fitxatges d'estrelles com Schuster, Maradona i Quini i la quantitat astronòmica de diners invertits, sempre trobarà un impediment o altre que s'interposarà en el camí cap al seu somni. El segrest de Quini, el caràcter problemàtic de Schuster, l'hepatitis de Maradona i la seva posterior lesió, els problemes del vestidor amb les drogues... Fins que decideix prendre una decisió impopular, vendre al crack argentí, que al cap i a la fi el conduirà contra pronòstic a conquerir l'any següent la seva primera Lliga. Ara, només queda un pas per fer realitat el Barça triomfant que va prometre a les eleccions: guanyar la copa d'Europa en una final a Sevilla, contra un rival desconegut i amb la grada plena d'aficionats del Barça. El somni de Núñez, i de tot el barcelonisme, és més a tocar que mai.</desc>
-    <length units="seconds">3652</length>
-    <episode-num system="onscreen">2</episode-num>
-    <category lang="ca">DIVULGACIÓ</category>
-    <category lang="ca">Docu-Entreteniment</category>
+  <programme start="20260830200020 +0200" stop="20260830203613 +0200" channel="esport3">
+    <title lang="ca">Motor a fons</title>
+    <sub-title lang="ca">GP d'Aragó</sub-title>
+    <desc lang="ca">Tretzena prova del Campionat del Món de Motociclisme. Us oferim el més destacat a les curses de MotoGP, Moto2 i Moto3. Amb Xavier Guillén, i l'anàlisi de Montse Sogues i Ramon Forcada.</desc>
+    <length units="seconds">2153</length>
+    <episode-num system="onscreen">954</episode-num>
+    <category lang="ca">ESPORTS</category>
+    <category lang="ca">MAGAZINE</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <subtitles type="teletext"/>
-    <previously-shown/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/5/7/1678886130275.jpg"/>
   </programme>
   <channel id="sx3">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20260830150006 +0200" stop="20260830151127 +0200" channel="sx3">
-    <title lang="ca">Les Sisters</title>
-    <sub-title lang="ca">John Kevin Bryan</sub-title>
-    <desc lang="ca">La Wendy està deprimida: el Maxence fa un dia que no li diu res. La Marine està decidida a animar la seva germana. Per això decideix xatejar amb ella fent-se passar per un personatge que s'ha inventat: un noi molt guapo que es diu John Kevin Bryan. Però el noi fictici torna boja la Wendy, que el vol conèixer sigui com sigui.</desc>
-    <length units="seconds">681</length>
-    <episode-num system="onscreen">75</episode-num>
+  <programme start="20260830190944 +0200" stop="20260830193155 +0200" channel="sx3">
+    <title lang="ca">Espies de veritat</title>
+    <sub-title lang="ca">Supermalvades d’incògnit</sub-title>
+    <desc lang="ca">La Sam, l'Alex i la Clover han de fingir que són dolentes per descobrir en què consisteix l'Operació Revenja dels Malvats de què parlen els informes d'intel·ligència de la WOOHP. Per ajudar-les, la WOOHP ha creat un cau de malvada i una colla d'esbirros al seu servei. L'Alex s'haurà de fer passar per la malvada i la Sam i la Clover seran les seves ajudants.</desc>
+    <length units="seconds">1331</length>
+    <episode-num system="onscreen">168</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
@@ -119,13 +106,14 @@
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/6/9/1781885918096.jpg"/>
   </programme>
-  <programme start="20260830151127 +0200" stop="20260830152249 +0200" channel="sx3">
-    <title lang="ca">Les Sisters</title>
-    <sub-title lang="ca">Quina mala sort!</sub-title>
-    <desc lang="ca">És divendres tretze i la Marine ha trencat un mirall. Ara li esperen set anys de desgràcia! Per protegir-se de la mala sort decideix enganxar com una paparra a la Wendy, que té un trèvol de quatre fulles. Però la seva germana, desesperada, el fa miques per treure`s de sobre la pesada de la Marine. Fatal decisió! Sense el trèvol de la sort, a les germanes els surt tot malament!</desc>
-    <length units="seconds">682</length>
-    <episode-num system="onscreen">76</episode-num>
+  <programme start="20260830193155 +0200" stop="20260830195505 +0200" channel="sx3">
+    <title lang="ca">El detectiu Conan</title>
+    <sub-title lang="ca">El secret que oculten les cartes</sub-title>
+    <desc lang="ca">En Mitsuhito i en Genta fan una partida amb cartes col·leccionables. Quan ells acaben, ocupen la seva taula dos jugadors molt bons que sovint participen en tornejos, i s'hi afegeixen un jove empresari ric i el seu ajudant. Just abans de començar la partida, mentre l'empresari va al lavabo, cau una prestatgeria. Gairebé al mateix moment salta l'alarma d'incendis. Quan tot es calma, troben un dels jugadors mort sota la prestatgeria.</desc>
+    <length units="seconds">1390</length>
+    <episode-num system="onscreen">1165</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
@@ -137,12 +125,12 @@
   <channel id="c33">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20260830145714 +0200" stop="20260830154532 +0200" channel="c33">
-    <title lang="ca">Vida</title>
-    <sub-title lang="ca">Plantes</sub-title>
-    <desc lang="ca">L'espectacle del món vegetal no es pot apreciar a simple vista. Però, gràcies a la tecnologia més puntera, tot es revela: una atrapamosques que es tanca de cop sobre la seva presa; els ganxos d'agafada semblants a animals de l'ungla de gat i els coixinets enganxosos de l'heura de Boston en la seva lluita per la llum. Vola amb la llavor que va inspirar el disseny dels planadors i observa com la planta de creixement més ràpid de la Terra s'enfila 60 cm al dia. Descobreix les habilitats per atrapar aigua de l'estrany arbre de sang de drac, que regalima saba vermella de les seves branques.</desc>
-    <length units="seconds">2898</length>
-    <episode-num system="onscreen">9</episode-num>
+  <programme start="20260830191431 +0200" stop="20260830200702 +0200" channel="c33">
+    <title lang="ca">Viure amb els volcans</title>
+    <sub-title lang="ca">Volcans beneficiosos</sub-title>
+    <desc lang="ca">Els volcans tenen la imatge de muntanyes de foc que amenacen l'entorn i que periòdicament causen una enorme destrucció. Tot i així, atreuen moltes persones que s'instal·len al seu voltant perquè els donen molt més del que els prenen. Emeten minerals molt importants per a l'agricultura, atreuen les pluges i també són una font d'energia que cada cop s'aprofita més arreu del món. En aquest episodi s'exploren els diversos factors beneficiosos dels volcans.</desc>
+    <length units="seconds">3151</length>
+    <episode-num system="onscreen">2</episode-num>
     <category lang="ca">DIVULGACIÓ</category>
     <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
     <rating>
@@ -151,12 +139,12 @@
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20260830154532 +0200" stop="20260830163416 +0200" channel="c33">
-    <title lang="ca">Vida</title>
-    <sub-title lang="ca">Primats</sub-title>
-    <desc lang="ca">Els primats són excepcionalment intel·ligents i solucionen problemes, es comuniquen, fan servir eines i interaccionen socialment. Al Congo, coneix un grup estretament unit de goril·les de les terres baixes occidentals liderats per un esquena platejada, els cops de pit del qual envien ones expansives a més d'un quilòmetre a través del bosc; observa mares langur de Phayre gris a Tailàndia lluitant pel privilegi de cuidar cries de color taronja brillant; presencia les violentes disputes de mil babuïns sagrats i uneix-te a la caça d'ous de tauró dels babuïns negres a la costa de Sud-àfrica. </desc>
-    <length units="seconds">2924</length>
-    <episode-num system="onscreen">10</episode-num>
+  <programme start="20260830200702 +0200" stop="20260830205904 +0200" channel="c33">
+    <title lang="ca">Viure amb els volcans</title>
+    <sub-title lang="ca">Volcans destructius</sub-title>
+    <desc lang="ca">Fa milions d'anys que esventren la terra, abrasen els continents, cobreixen regions senceres sota una catifa de cendra mortal, i nosaltres som al mig. Els últims segles, els volcans han causat prop de 300.000 morts a tot el món. Tot i així, 500 milions d'homes i dones desafien aquests monstres de foc cada dia. En aquest episodi, coneixerem els efectes més devastadors dels volcans i com els afronten els que hi conviuen.</desc>
+    <length units="seconds">3122</length>
+    <episode-num system="onscreen">3</episode-num>
     <category lang="ca">DIVULGACIÓ</category>
     <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
     <rating>
