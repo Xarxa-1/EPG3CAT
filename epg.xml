@@ -3,61 +3,35 @@
   <channel id="tvi">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20260831000954 +0200" stop="20260831015418 +0200" channel="tvi">
-    <title lang="ca">Pel·lícula</title>
-    <sub-title lang="ca">Libertad</sub-title>
-    <desc lang="ca">LIBERTADProductores: Lastor Media, Avalon PC i Bulletproof Cupid, 2021Direcció i guió: Clara RoquetDirecció de fotografia: Gris JordanaMúsica: Paul TyanIntèrprets: María Morera (Nora), Nicolle García (Libertad), Vicky Peña (Ángela), Nora Navas (Teresa) i Carol Hurtado (Rosana)La vida de la Nora canviarà quan la Libertad, la filla de la cuidadora colombiana que es fa càrrec de la seva àvia, arriba a la casa d'estiueig de la família. La nova i intensa amistat entre les dues joves, de procedència diferent, marcarà el seu despertar adolescent. </desc>
-    <credits>
-      <actor>María Morera (Nora)</actor>
-      <actor>Nicolle García (Libertad)</actor>
-      <actor>Vicky Peña (Ángela)</actor>
-      <actor>Nora Navas (Teresa)</actor>
-      <actor>Carol Hurtado (Rosana)La vida de la Nora canviarà quan la Libertad</actor>
-      <actor>la filla de la cuidadora colombiana que es fa càrrec de la seva àvia</actor>
-      <actor>arriba a la casa d'estiueig de la família. La nova</actor>
-      <actor>intensa amistat entre les dues joves</actor>
-      <actor>de procedència diferent</actor>
-      <actor>marcarà el seu despertar adolescent.</actor>
-    </credits>
-    <length units="seconds">6264</length>
-    <episode-num system="onscreen">1</episode-num>
-    <category lang="ca">FICCIÓ</category>
-    <category lang="ca">PEL·LÍCULA / TELEFILM</category>
-    <rating>
-      <value>PÚBLIC ADULT</value>
-    </rating>
-    <subtitles type="teletext"/>
-    <previously-shown/>
-  </programme>
-  <programme start="20260831015418 +0200" stop="20260831015959 +0200" channel="tvi">
-    <title lang="ca">Els últims artesans</title>
-    <sub-title lang="ca">Joan Ferré - Cisteller</sub-title>
-    <desc lang="ca">Des del taller situat a Folgueroles, en Joan Ferré fa més de 30 anys que treballa per assolir la perfecta simbiosi entre la tècnica tradicional de cisteller i la innovació del disseny. Els seus projectes amb vímet viu són testimonis de l'èxit del seu propòsit.</desc>
-    <length units="seconds">341</length>
-    <episode-num system="onscreen">7</episode-num>
-    <category lang="ca">DIVULGACIÓ</category>
-    <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <subtitles type="teletext"/>
-    <previously-shown/>
-  </programme>
-  <channel id="324">
-    <display-name>324</display-name>
-  </channel>
-  <programme start="20260831003000 +0200" stop="20260831010000 +0200" channel="324">
+  <programme start="20260831020000 +0200" stop="20260831043000 +0200" channel="tvi">
     <title lang="ca">Notícies 3CatInfo</title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">1800</length>
+    <length units="seconds">9000</length>
     <episode-num system="onscreen">11044</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
+    <previously-shown/>
     <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
+  <programme start="20260831043000 +0200" stop="20260831050833 +0200" channel="tvi">
+    <title lang="ca">Fusió i swing a l'estudi</title>
+    <sub-title lang="ca">Àlex Ventura 'Teràpia de grup'</sub-title>
+    <desc lang="ca">Àlex Ventura entra a l'estudi amb 'Teràpia de grup'. La formació aposta per les composicions pròpies, i pretén donar una visió ben personal i aportar una visió contemporània al latin jazz.Les seves influències: la música cubana, el jazz, la cúmbia, el reggae o el flamenc. Àlex Ventura a la bateria, David Pastor a la trompeta, Vicenç Solsona a la guitarra, Isaac Coll al baix i Lluís Alfonso Guerra a la percussió</desc>
+    <length units="seconds">2313</length>
+    <episode-num system="onscreen">12</episode-num>
+    <category lang="ca">MUSICALS</category>
+    <category lang="ca">ALTRES</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <previously-shown/>
+  </programme>
+  <channel id="324">
+    <display-name>324</display-name>
+  </channel>
   <programme start="20260831010000 +0200" stop="20260831060000 +0200" channel="324">
     <title lang="ca">Notícies 3CatInfo</title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
@@ -71,60 +45,75 @@
     <previously-shown/>
     <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
-  <channel id="esport3">
-    <display-name>ESPORT3</display-name>
-  </channel>
-  <programme start="20260830233101 +0200" stop="20260831004731 +0200" channel="esport3">
-    <title lang="ca">Gol a gol</title>
-    <sub-title lang="ca">Anàlisi de la jornada / J3 / Diumenge</sub-title>
-    <desc lang="ca">'Gol a gol' us ofereix els resums dels partits de futbol de Primera i Segona Divisió. Presentat per Jordi Grau a Esport3, cada dissabte i cada diumenge podeu veure les millors imatges de la jornada de Lliga amb l'anàlisi dels experts, amb especial atenció als equips catalans, sobretot el Barça, el Girona i l'Espanyol.</desc>
-    <length units="seconds">4590</length>
-    <episode-num system="onscreen">1768</episode-num>
-    <category lang="ca">ESPORTS</category>
-    <category lang="ca">MAGAZINE</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <subtitles type="teletext"/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/2/1/1698144123212.jpg"/>
-  </programme>
-  <programme start="20260831004731 +0200" stop="20260831011826 +0200" channel="esport3">
-    <title lang="ca">3CatInfo Esports</title>
-    <desc lang="ca">Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.</desc>
-    <length units="seconds">1855</length>
-    <episode-num system="onscreen">5494</episode-num>
-    <category lang="ca">ESPORTS</category>
+  <programme start="20260831060000 +0200" stop="20260831070000 +0200" channel="324">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="seconds">3600</length>
+    <episode-num system="onscreen">11044</episode-num>
+    <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <icon src="https://img.ccma.cat/multimedia/jpg/9/7/1758888682179.jpg"/>
+    <previously-shown/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
+  </programme>
+  <channel id="esport3">
+    <display-name>ESPORT3</display-name>
+  </channel>
+  <programme start="20260831021427 +0200" stop="20260831040548 +0200" channel="esport3">
+    <title lang="ca">Futbol</title>
+    <sub-title lang="ca">FC Barcelona-CD Tenerife / Lliga F / J1</sub-title>
+    <desc lang="ca">Les blaugranes comencen, a l'Estadi Johan Cruyff, el camí cap a una nova Lliga de futbol. Seria la vuitena consecutiva. Amb la narració de Gemma Mallorca i l'anàlisi de Mireia Vera.</desc>
+    <length units="seconds">6681</length>
+    <episode-num system="onscreen">45</episode-num>
+    <category lang="ca">ESPORTS</category>
+    <category lang="ca">RETRANSMISSIONS ESPORTS</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <subtitles type="teletext"/>
+    <previously-shown/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/0/8/1730389343680.jpg"/>
+  </programme>
+  <programme start="20260831040548 +0200" stop="20260831060258 +0200" channel="esport3">
+    <title lang="ca">Futbol</title>
+    <sub-title lang="ca">Gimnàstic de Tarragona-R. Saragossa / Primera Federació / J1</sub-title>
+    <desc lang="ca">Els tarragonins reben un històric al Nou Estadi Costa Daurada en el primer partit de Lliga. Amb la narració de Jordi Sunyer i l'anàlisi d'Alberto Manga.</desc>
+    <length units="seconds">7030</length>
+    <episode-num system="onscreen">199</episode-num>
+    <category lang="ca">ESPORTS</category>
+    <category lang="ca">RETRANSMISSIONS ESPORTS</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <icon src="https://img.ccma.cat/multimedia/jpg/0/7/1698446098170.jpg"/>
   </programme>
   <channel id="sx3">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20260831003040 +0200" stop="20260831004059 +0200" channel="sx3">
-    <title lang="ca">La gateta Arc iris papallona unicorn</title>
-    <sub-title lang="ca">Els Macarons Mítics</sub-title>
-    <desc lang="ca">El Pollastre Orgànic vol recollir diners amb la venda d'unes galetes per mirar d'evitar el tancament d'un parc. El problema és que són unes galetes molt dolentes i ningú en vol comprar, per molt que s'hi esforcin la Felicity i els seus amics.</desc>
-    <length units="seconds">619</length>
-    <episode-num system="onscreen">28</episode-num>
+  <programme start="20260831024820 +0200" stop="20260831025828 +0200" channel="sx3">
+    <title lang="ca">Com dibuixar còmics amb el Will Sliney</title>
+    <sub-title lang="ca">Guspireta</sub-title>
+    <desc lang="ca">En aquest episodi coneixerem la Guspireta, una altra de les superheroïnes que han de salvar la Terra de la invasió extraterrestre comandada pel Crònica. La Guspireta és una nena dibuixada en estil chibi, un estil de caricatura originari del Japó, i comú a l'anime i el manga, en què els personatges es dibuixen d'una manera exagerada, normalment petits i grassos amb les extremitats curtes, el cap sobredimensionat i detalls mínims.</desc>
+    <length units="seconds">608</length>
+    <episode-num system="onscreen">25</episode-num>
     <category lang="ca">FICCIÓ</category>
-    <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
+    <category lang="ca">ALTRES</category>
     <rating>
       <value>INFANTIL</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20260831004059 +0200" stop="20260831005146 +0200" channel="sx3">
-    <title lang="ca">La gateta Arc iris papallona unicorn</title>
-    <sub-title lang="ca">Units per l'amistat</sub-title>
-    <desc lang="ca">La Felicity i el Miguel van a la fira i es compren uns braçalets de l'amistat. Però resulta que són màgics i, quan se'ls posen, queden tots dos units pel canell. Per desfer l'encanteri hauran de demostrar que són grans amics abans de la posta de sol.</desc>
-    <length units="seconds">647</length>
-    <episode-num system="onscreen">36</episode-num>
+  <programme start="20260831025828 +0200" stop="20260831030842 +0200" channel="sx3">
+    <title lang="ca">Com dibuixar còmics amb el Will Sliney</title>
+    <sub-title lang="ca">El poder de la Guspireta</sub-title>
+    <desc lang="ca">En aquest episodi coneixerem la història de la Guspireta i de la Tribu de Peluix, una raça pacífica i afectuosa... fins que els toquen el voraviu i es transformen en bèsties agressives i perilloses. Per mostrar aquest canvi, el Will ens ensenyarà a dibuixar les emocions i els estats d'ànim a través de les expressions de la cara, la boca, els ulls, els cabells...</desc>
+    <length units="seconds">614</length>
+    <episode-num system="onscreen">26</episode-num>
     <category lang="ca">FICCIÓ</category>
-    <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
+    <category lang="ca">ALTRES</category>
     <rating>
       <value>INFANTIL</value>
     </rating>
@@ -134,12 +123,12 @@
   <channel id="c33">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20260830234809 +0200" stop="20260831003941 +0200" channel="c33">
-    <title lang="ca">Viure amb els volcans</title>
-    <sub-title lang="ca">Els guardians dels volcans</sub-title>
-    <desc lang="ca">Els volcans són una força de la natura. El seu poder indomable es desferma al nostre planeta des de fa milions d'anys, i amenaça cinc-cents milions de persones a tot el món. Davant d'aquest perill, un grup d'homes i dones apassionats s'han proposat la missió de comprendre i protegir. Són els guardians dels volcans, persones que, en col·laboració amb els científics, miren d'entendre aquests gegants de foc i preveure'n el comportament.</desc>
-    <length units="seconds">3092</length>
-    <episode-num system="onscreen">4</episode-num>
+  <programme start="20260831022350 +0200" stop="20260831031137 +0200" channel="c33">
+    <title lang="ca">Vida</title>
+    <sub-title lang="ca">Plantes</sub-title>
+    <desc lang="ca">L'espectacle del món vegetal no es pot apreciar a simple vista. Però, gràcies a la tecnologia més puntera, tot es revela: una atrapamosques que es tanca de cop sobre la seva presa; els ganxos d'agafada semblants a animals de l'ungla de gat i els coixinets enganxosos de l'heura de Boston en la seva lluita per la llum. Vola amb la llavor que va inspirar el disseny dels planadors i observa com la planta de creixement més ràpid de la Terra s'enfila 60 cm al dia. Descobreix les habilitats per atrapar aigua de l'estrany arbre de sang de drac, que regalima saba vermella de les seves branques.</desc>
+    <length units="seconds">2867</length>
+    <episode-num system="onscreen">9</episode-num>
     <category lang="ca">DIVULGACIÓ</category>
     <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
     <rating>
@@ -148,12 +137,12 @@
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20260831003941 +0200" stop="20260831013156 +0200" channel="c33">
-    <title lang="ca">Viure amb els volcans</title>
-    <sub-title lang="ca">Els habitants dels extrems</sub-title>
-    <desc lang="ca">Arreu del món s'han establert societats humanes al peu de volcans actius. Viure en aquestes terres inestables té un preu. D'un dia per l'altre, els volcans es poden endur el que han permès que es construís. Per als homes i dones que viuen en aquestes terres, anar-se'n no és una opció. Estan decidits a continuar vivint on han viscut, passi el que passi. En aquest documental coneixerem aquests habitants dels extrems.</desc>
-    <length units="seconds">3135</length>
-    <episode-num system="onscreen">5</episode-num>
+  <programme start="20260831031137 +0200" stop="20260831040002 +0200" channel="c33">
+    <title lang="ca">Vida</title>
+    <sub-title lang="ca">Primats</sub-title>
+    <desc lang="ca">Els primats són excepcionalment intel·ligents i solucionen problemes, es comuniquen, fan servir eines i interaccionen socialment. Al Congo, coneix un grup estretament unit de goril·les de les terres baixes occidentals liderats per un esquena platejada, els cops de pit del qual envien ones expansives a més d'un quilòmetre a través del bosc; observa mares langur de Phayre gris a Tailàndia lluitant pel privilegi de cuidar cries de color taronja brillant; presencia les violentes disputes de mil babuïns sagrats i uneix-te a la caça d'ous de tauró dels babuïns negres a la costa de Sud-àfrica. </desc>
+    <length units="seconds">2905</length>
+    <episode-num system="onscreen">10</episode-num>
     <category lang="ca">DIVULGACIÓ</category>
     <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
     <rating>
