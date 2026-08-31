@@ -3,101 +3,80 @@
   <channel id="tvi">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20260831220408 +0200" stop="20260831233022 +0200" channel="tvi">
-    <title lang="ca">Pel·lícula</title>
-    <sub-title lang="ca">Mirall, mirall</sub-title>
-    <desc lang="ca">Producció de Rodar y Rodar CineGuió i Direcció: Marc CrehuetDirecció fotografia: Pol OrpinellIntèrprets: Santi Millán (Álvaro), Carlos Areces (Alberto), Malena Alterio (Cristina), Natalia de Molina (Paula)Sinopsis:Quatre empleats d'una oficina es preparen per a la festa de celebració dels 50 anys de l'empresa mentre intenten resoldre els seus conflictes...amb els seus propis reflexes.</desc>
-    <credits>
-      <director>Marc CrehuetDirecció fotografia: Pol OrpinellIntèrprets: Santi Millán (Álvaro)</director>
-      <director>Carlos Areces (Alberto)</director>
-      <director>Malena Alterio (Cristina)</director>
-      <director>Natalia de Molina (Paula)Sinopsis:Quatre empleats d'una oficina es preparen per a la festa de celebració dels 50 anys de l'empresa mentre intenten resoldre els seus conflictes...amb els seus propis reflexes.</director>
-      <actor>Santi Millán (Álvaro)</actor>
-      <actor>Carlos Areces (Alberto)</actor>
-      <actor>Malena Alterio (Cristina)</actor>
-      <actor>Natalia de Molina (Paula)Sinopsis:Quatre empleats d'una oficina es preparen per a la festa de celebració dels 50 anys de l'empresa mentre intenten resoldre els seus conflictes...amb els seus propis reflexes.</actor>
-    </credits>
-    <length units="seconds">5174</length>
-    <episode-num system="onscreen">1</episode-num>
-    <category lang="ca">FICCIÓ</category>
-    <category lang="ca">PEL·LÍCULA / TELEFILM</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <subtitles type="teletext"/>
-    <previously-shown/>
-  </programme>
-  <programme start="20260831232912 +0200" stop="20260901003447 +0200" channel="tvi">
-    <title lang="ca">Nervi</title>
-    <sub-title lang="ca">Cala Vento, El plaer de llegir... passa'l, Bridget Jones, Dame Area</sub-title>
-    <desc lang="ca">Andrea Gumes entrevista el duet empordanès Cala Vento, que ens parlen de la seva carrera i del disc de versions 'Brindis' (2025). És veritat que els joves són els que més llegeixen? Com fomentem la lectura a tota una població distreta per les pantalles? Aquestes i més preguntes sobre el plaer de llegir, a la taula de 'Nervi' amb Júlia Bertran. Jacint Casademont ens donarà 5+1 motius per estimar Bridget Jones. Tanca el programa una actuació del duet d'electrònica industrial Dame Area gravada a la sala Vol de Barcelona.</desc>
-    <length units="seconds">3935</length>
-    <episode-num system="onscreen">31</episode-num>
-    <category lang="ca">ENTRETENIMENT</category>
-    <category lang="ca">ALTRES</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <subtitles type="teletext"/>
-    <previously-shown/>
+  <programme start="20260901004935 +0200" stop="20260901060001 +0200" channel="tvi">
+    <title lang="ca">Emissió sincronitzada amb TVC (amb logo inclòs)</title>
+    <desc lang="ca">Sense Descripció</desc>
+    <length units="seconds">18626</length>
   </programme>
   <channel id="324">
     <display-name>324</display-name>
   </channel>
-  <programme start="20260831210000 +0200" stop="20260831230000 +0200" channel="324">
-    <title lang="ca">Telenotícies vespre</title>
-    <length units="seconds">7200</length>
-    <episode-num system="onscreen">7313</episode-num>
-    <category lang="ca">ACTUALITAT</category>
-    <category lang="ca">INFORMATIU DIÀRI</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <icon src="https://img.ccma.cat/multimedia/jpg/7/2/1758026176427.jpg"/>
-  </programme>
-  <programme start="20260831230000 +0200" stop="20260901003000 +0200" channel="324">
+  <programme start="20260901010000 +0200" stop="20260901060000 +0200" channel="324">
     <title lang="ca">Notícies 3CatInfo</title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">5400</length>
-    <episode-num system="onscreen">11052</episode-num>
+    <length units="seconds">18000</length>
+    <episode-num system="onscreen">11053</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
+    <previously-shown/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
+  </programme>
+  <programme start="20260901060000 +0200" stop="20260901070000 +0200" channel="324">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="seconds">3600</length>
+    <episode-num system="onscreen">11053</episode-num>
+    <category lang="ca">ACTUALITAT</category>
+    <category lang="ca">INFORMATIU DIÀRI</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <previously-shown/>
     <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
   <channel id="esport3">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20260831212353 +0200" stop="20260831232604 +0200" channel="esport3">
-    <title lang="ca">Un dia de partit</title>
-    <sub-title lang="ca">Barça-Rayo</sub-title>
-    <desc lang="ca">A 'Un dia de partit' arreglem el Barça. O no. A cada partit, sis culers hi diuen la seva. Famosos i anònims. Cadascun a casa seva. Davant del televisor. Tot a base de videotrucades, en format Twitch i en rigorós directe. Ah! I a la mitja part no aturem màquines. Amb els jugadors als vestidors, nosaltres seguim fent bullir l'olla! Només sis culers? Negatiu. Durant el partit van apareixent els Jimmy Jump: els espontanis que demanen saltar a 'Un dia de partit' via WhatsApp.</desc>
-    <length units="seconds">7331</length>
-    <episode-num system="onscreen">246</episode-num>
+  <programme start="20260901012551 +0200" stop="20260901024110 +0200" channel="esport3">
+    <title lang="ca">Gol a gol</title>
+    <sub-title lang="ca">Post Barça-Rayo / J3</sub-title>
+    <desc lang="ca">'Gol a gol' us ofereix els resums dels partits de futbol de Primera i Segona Divisió. Presentat per Jordi Grau a Esport3, cada dissabte i cada diumenge podeu veure les millors imatges de la jornada de Lliga amb l'anàlisi dels experts, amb especial atenció als equips catalans, sobretot el Barça, el Girona i l'Espanyol.</desc>
+    <length units="seconds">4519</length>
+    <episode-num system="onscreen">1770</episode-num>
     <category lang="ca">ESPORTS</category>
-    <category lang="ca">RETRANSMISSIONS ESPORTS</category>
+    <category lang="ca">MAGAZINE</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <icon src="https://img.ccma.cat/multimedia/jpg/2/7/1678885232972.jpg"/>
-  </programme>
-  <programme start="20260831232604 +0200" stop="20260831234637 +0200" channel="esport3">
-    <title lang="ca">Al Cotxe: Àlex Palou</title>
-    <desc lang="ca">Sense Descripció</desc>
-    <length units="seconds">1233</length>
     <subtitles type="teletext"/>
+    <previously-shown/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/2/1/1698144123212.jpg"/>
+  </programme>
+  <programme start="20260901024110 +0200" stop="20260901030140 +0200" channel="esport3">
+    <title lang="ca">3CatInfo Esports</title>
+    <desc lang="ca">Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.</desc>
+    <length units="seconds">1230</length>
+    <episode-num system="onscreen">5495</episode-num>
+    <category lang="ca">ESPORTS</category>
+    <category lang="ca">INFORMATIU DIÀRI</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <previously-shown/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/9/7/1758888682179.jpg"/>
   </programme>
   <channel id="sx3">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20260831220301 +0200" stop="20260831222537 +0200" channel="sx3">
-    <title lang="ca">El detectiu Conan</title>
-    <sub-title lang="ca">El cas de l'assassinat del còctel de mel</sub-title>
-    <desc lang="ca">La presidenta de la companyia Yamasaki convida en Kogoro a un hotel de muntanya per proposar-li una feina. El detectiu hi va amb la Ran i en Conan. Allà coneixen el senyor Hachimakoi, alcalde d'Iwami, el poble on la presidenta Yamasaki projecta construir un supercomplex d'oci. El motiu de la reunió és convèncer en Kogoro que protagonitzi la campanya publicitària del complex. Però la presidenta és assassinada durant l'esmorzar.</desc>
-    <length units="seconds">1356</length>
-    <episode-num system="onscreen">127</episode-num>
+  <programme start="20260901015935 +0200" stop="20260901021931 +0200" channel="sx3">
+    <title lang="ca">Viatges Pokémon</title>
+    <sub-title lang="ca">L’ascensió per ser el millor de tots</sub-title>
+    <desc lang="ca">Després de la final de la Sèrie Mundial de Coronació, amb la victòria del Monarca Lionel, apareix un violent Drednaw Gigamax disposat a destruir l'estadi. Els nostres herois passen a l'acció i el Pikachu de sobte es converteix en Gigamax, i salva l'estadi i el públic. El Lionel queda impressionat, i també el sorprèn que l'Ash no tingui una Maxicanellera. Quan l'Ash i el Goh coneixen el Monarca, l'Ash el desafia a un combat, i el Lionel ho accepta. Li deixa a l'Ash una Maxicanellera i comença el combat entre el Pikachu i el Charizard. Amb els dos Pokémon convertits en Gigamax, l'emoció és total. Al final, guanya el Lionel, però l'Ash li agraeix l'oportunitat que li ha donat, i ja espera amb ganes la revenja... en un torneig oficial.</desc>
+    <length units="seconds">1196</length>
+    <episode-num system="onscreen">13</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
@@ -106,12 +85,12 @@
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20260831222537 +0200" stop="20260831224624 +0200" channel="sx3">
-    <title lang="ca">El detectiu Conan</title>
-    <sub-title lang="ca">El cas de l'assassinat enigmàtic al lavabo tancat (1a part)</sub-title>
-    <desc lang="ca">En Kogoro perd l'entrada per a un concert de la Yoko Okino, però té la sort que una noia, la Masayo Aoshima, li regali la seva a canvi que l'acompanyi a buscar la seva germana Mina a casa. Quan hi arriben, descobreixen que la Mina ha precintat el lavabo amb cinta aïllant i s'ha tallat les venes. Tot i semblar un suïcidi, en Conan sospita immediatament que la Masayo l'ha assassinat.</desc>
-    <length units="seconds">1247</length>
-    <episode-num system="onscreen">128</episode-num>
+  <programme start="20260901021931 +0200" stop="20260901023840 +0200" channel="sx3">
+    <title lang="ca">Viatges Pokémon</title>
+    <sub-title lang="ca">Incursió a les Ruïnes!</sub-title>
+    <desc lang="ca">L'Ash i el Goh arriben a la regió de Tessèlia, on senten parlar d'un lloc que han d'explorar tant sí com no: les Ruïnes del Colós! Primer han de travessar l'abrusadora Zona del Desert, cosa que sembla impossible, però una exploradora anomenada Kira els ensenya com arribar-hi lliscant damunt la sorra, i ben aviat arriben a la seva destinació. Després d'un recorregut perillós per les Ruïnes descobreixen la identitat del Colós: un Golurk gegantí! El Golurk, creat per protegir l'antiga ciutat costi el que costi, es desperta i els ataca amb un gran poder destructor. Però l'Ash, el Goh i la resta d'exploradors organitzen una Incursió i el Goh aconsegueix capturar-lo! </desc>
+    <length units="seconds">1149</length>
+    <episode-num system="onscreen">14</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
@@ -123,25 +102,11 @@
   <channel id="c33">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20260831220106 +0200" stop="20260831225311 +0200" channel="c33">
-    <title lang="ca">La Renaixença</title>
-    <sub-title lang="ca">La brúixola</sub-title>
-    <desc lang="ca">Arranquem la segona temporada de 'La Renaixença' parlant de la brúixola, un objecte vital pels mariners i els exploradors que volien arribar al seu destí. Compte perquè l'únic lloc que no us serveix una brúixola seria al pol nord, això és una cosa que aprendrem avui. Per començar la temporada com Déu mana, convidem en Quimi Portet, gran artista i millor persona, perquè ens tregui la mandra de l'estiu amb un bon cop de guitarra. I per acabar-ho d'arrodonir, passegem el gos per Madrid, pel dia que van atemptar contra Carrero Blanco.</desc>
-    <length units="seconds">3125</length>
-    <episode-num system="onscreen">221</episode-num>
-    <category lang="ca">DIVULGACIÓ</category>
-    <category lang="ca">ALTRES</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <subtitles type="teletext"/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/3/3/1756148014833.jpg"/>
-  </programme>
-  <programme start="20260831225311 +0200" stop="20260901002141 +0200" channel="c33">
-    <title lang="ca">L'últim iglú</title>
-    <sub-title lang="ca">L'últim iglú</sub-title>
-    <desc lang="ca">Documentar l'enginyós ofici de la construcció d'iglús abans que sigui massa tard; aquesta pel·lícula és una extraordinària i poètica immersió sensorial en un paisatge de gel i neu. L'últim iglú explica la història d'un dia a la vida d'un caçador inuit a Groenlàndia i l'iglú que construeix a la tundra gelada. Filmades per revelar la bellesa dels detalls del dia a dia del caçador i de la construcció d'iglús, les impressionants imatges es veuen millorades per un disseny sonor que captura cada tros de neu i gel, així com el paisatge sonor del desert àrtic. En el fons, aquesta pel·lícula és una celebració absorbent i meditativa d'una forma d'art juntament amb el seu entorn i un recordatori commovedor del que aviat pot desaparèixer.</desc>
-    <length units="seconds">5310</length>
+  <programme start="20260901011324 +0200" stop="20260901020554 +0200" channel="c33">
+    <title lang="ca">Invasors de l'Everest</title>
+    <sub-title lang="ca">Invasors de l'Everest</sub-title>
+    <desc lang="ca">Des de fa un temps, el mític Everest, que va ser coronat per primera vegada ara fa 70 anys, s'ha convertit en un objectiu a l'abast dels neoalpinistes, milionaris que estan prou en forma per afegir l'ascensió al cim del món a la llista dels desitjos que han pogut complir. Els residus són la part més visible dels problemes que provoca la massificació de l'alpinisme, però la qüestió de fons és l'apropiació i l'explotació d'un espai que abans era lliure i que ara pateix una invasió.</desc>
+    <length units="seconds">3150</length>
     <episode-num system="onscreen">1</episode-num>
     <category lang="ca">DIVULGACIÓ</category>
     <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
@@ -150,7 +115,21 @@
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
-    <icon src="https://img.3cat.cat/multimedia/jpg/6/3/1755044259736.jpg"/>
+    <icon src="https://img.3cat.cat/multimedia/jpg/7/0/1737383470507.jpg"/>
+  </programme>
+  <programme start="20260901020554 +0200" stop="20260901023227 +0200" channel="c33">
+    <title lang="ca">Viure als Pirineus</title>
+    <sub-title lang="ca">Un fotògraf dels Pirineus (Primavera - Estiu)</sub-title>
+    <desc lang="ca">Francesc Guillamet (Met) és un fotògraf de prestigi conegut per la seva vinculació amb els cuiners d'El Bulli. En Met viu a la Catalunya francesa, en una masia a Vilallonga dels Monts, i les muntanyes de l'Albera són el seu refugi i el lloc d'inspiració artística. En Met viu força solitari i només treballa amb gent amb qui té complicitat i que viu a prop de casa seva. De Perpinyà a Figueres ha trobat un territori fet a la seva mida. És un artista que fotografia comestibles de cuina i paisatges del seu territori sota l'òptica del sentit comú. Amb la fotografia de cuina es guanya la vida i amb la del territori gaudeix moltíssim.En Met no és un 'motard' clàssic, sinó que la moto li és essencial per poder fer les fotografies que li agraden. Amb la moto puja fins al coll de Banyuls, on sempre hi ha una instantània a plasmar o fa una excursió amb un amic també apassionat de les motos. En Met ens fa viatjar fins a Figueres, on tria els marcs per a les seves fotos, a Perpinyà, on les revela, a Serrabona, per copsar el millor romànic català, o a Cadaqués, per parlar amb el fuster que feia els marcs per a en Dalí.</desc>
+    <length units="seconds">1593</length>
+    <episode-num system="onscreen">17</episode-num>
+    <category lang="ca">DIVULGACIÓ</category>
+    <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <subtitles type="teletext"/>
+    <previously-shown/>
   </programme>
   <channel id="oca1">
     <display-name>OCA1</display-name>
