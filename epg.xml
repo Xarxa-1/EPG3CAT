@@ -3,51 +3,52 @@
   <channel id="tvi">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20260831070000 +0200" stop="20260831100000 +0200" channel="tvi">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">10800</length>
-    <episode-num system="onscreen">11045</episode-num>
-    <category lang="ca">ACTUALITAT</category>
-    <category lang="ca">INFORMATIU DIÀRI</category>
+  <programme start="20260831162145 +0200" stop="20260831165649 +0200" channel="tvi">
+    <title lang="ca">La Riera</title>
+    <desc lang="ca">Mossèn Esteve ve a parlar amb l'Ignasi i la Mercè està espantada pel que li pugui explicar. A la cuina, la Txell parla d'una oferta de feina a en Marc, que es pensa que el vol fer fora. Mentrestant, la Sònia decideix parlar amb la Lídia i en Claudi sobre l'estranya requalificació de la Pineda. I l'Anna també es presenta a casa d'en Claudi per refregar-li per la cara la seva victòria.</desc>
+    <length units="seconds">2104</length>
+    <episode-num system="onscreen">116</episode-num>
+    <category lang="ca">FICCIÓ</category>
+    <category lang="ca">TELENOVEL·LA</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
+    <subtitles type="teletext"/>
+    <previously-shown/>
   </programme>
-  <programme start="20260831100000 +0200" stop="20260831120000 +0200" channel="tvi">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">7200</length>
-    <episode-num system="onscreen">11046</episode-num>
-    <category lang="ca">ACTUALITAT</category>
-    <category lang="ca">INFORMATIU DIÀRI</category>
+  <programme start="20260831165649 +0200" stop="20260831173458 +0200" channel="tvi">
+    <title lang="ca">La Riera</title>
+    <desc lang="ca">L'Anna encara no està satisfeta i ara amenaça de denunciar en Claudi per violació. La Valeria rep la visita del seu amic Gabi, que li pot crear un problema seriós amb en Sergi. La Maribel nota que en passa alguna. A can Flaquer, la Núria descobreix que la Txell ha marxat de casa i vol fer alguna cosa. I la Mireia i l'Oriol preparen els respectius comiats de solters. Els convidats no estan gaire entusiasmats.</desc>
+    <length units="seconds">2289</length>
+    <episode-num system="onscreen">117</episode-num>
+    <category lang="ca">FICCIÓ</category>
+    <category lang="ca">TELENOVEL·LA</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
+    <subtitles type="teletext"/>
+    <previously-shown/>
   </programme>
   <channel id="324">
     <display-name>324</display-name>
   </channel>
-  <programme start="20260831070000 +0200" stop="20260831100000 +0200" channel="324">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">10800</length>
-    <episode-num system="onscreen">11045</episode-num>
+  <programme start="20260831143000 +0200" stop="20260831163000 +0200" channel="324">
+    <title lang="ca">Telenotícies migdia</title>
+    <length units="seconds">7200</length>
+    <episode-num system="onscreen">7314</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/5/4/1758025766345.jpg"/>
   </programme>
-  <programme start="20260831100000 +0200" stop="20260831120000 +0200" channel="324">
+  <programme start="20260831163000 +0200" stop="20260831170000 +0200" channel="324">
     <title lang="ca">Notícies 3CatInfo</title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">7200</length>
-    <episode-num system="onscreen">11046</episode-num>
+    <length units="seconds">1800</length>
+    <episode-num system="onscreen">11048</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
@@ -59,29 +60,27 @@
   <channel id="esport3">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20260831081528 +0200" stop="20260831100635 +0200" channel="esport3">
-    <title lang="ca">Futbol</title>
-    <sub-title lang="ca">FC Barcelona-CD Tenerife / Lliga F / J1</sub-title>
-    <desc lang="ca">Les blaugranes comencen, a l'Estadi Johan Cruyff, el camí cap a una nova Lliga de futbol. Seria la vuitena consecutiva. Amb la narració de Gemma Mallorca i l'anàlisi de Mireia Vera.</desc>
-    <length units="seconds">6667</length>
-    <episode-num system="onscreen">45</episode-num>
-    <category lang="ca">ESPORTS</category>
-    <category lang="ca">RETRANSMISSIONS ESPORTS</category>
+  <programme start="20260831161701 +0200" stop="20260831170444 +0200" channel="esport3">
+    <title lang="ca">Arxipèlag blau</title>
+    <sub-title lang="ca">Praderies i arenals</sub-title>
+    <desc lang="ca">Miquel Salamanca ens presenta en aquest primer capítol de la sèrie 'Arxipèlag blau' dos dels ambients més característics de les nostres aigües: els arenals i els alguers, el que es coneix tradicionalment com 'el blanc' i 'el negre'. Ens endinsarem als alguers o praderies de posidònia per conèixer el cicle vital d'aquesta planta marina, les seves funcions ecològiques i les espècies que amaga entre les seves fulles. Ens sorprendrà descobrir com els arenals, en aparença extensions desèrtiques, són plens de vida, amb espècies que han desenvolupat complexos sistemes de camuflatge i defensa. Ferrasses, agulletes, serpetons, pedaços, pops i moltes altres criatures marines seran protagonistes d'aquest capítol. Per finalitzar acompanyarem Gàdor Muntaner a la seva visita a s'Espardell, a la reserva marina dels Freus d'Eivissa i Formentera.</desc>
+    <length units="seconds">2863</length>
+    <episode-num system="onscreen">1</episode-num>
+    <category lang="ca">DIVULGACIÓ</category>
+    <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/0/8/1730389343680.jpg"/>
   </programme>
-  <programme start="20260831100635 +0200" stop="20260831110047 +0200" channel="esport3">
-    <title lang="ca">Katalonski</title>
-    <sub-title lang="ca">Amsterdam</sub-title>
-    <desc lang="ca">El Halldor anirà a Amsterdam per conèixer una família que viu en un vaixell, la d'Hugo Niesing, l'home que tot ho fa sostenible; seguirà a l'aigua remant amb Vir Mellado, que li presentarà la seva família nòmada, nombrosa i molt trapella; jugarà al billar a casa de Joris van Santen, tot un bon partit: té el millor pis d'estudiants que es coneix, té una banda de rock que sona de meravella i, a més, és jove, guapo i vol ser president d'Holanda; la seva mare, professora de català, el deixarà entrar a la classe de la universitat, on Halldor coneixerà el primer macedoni de la seva vida; i finalment es relaxarà amb Ezma Luna, de pare holandès i mare italiana, que parla un català perfecte i amb qui acabarà ballant danses africanes i sardanes desconstruïdes.</desc>
-    <length units="seconds">3252</length>
-    <episode-num system="onscreen">21</episode-num>
+  <programme start="20260831170444 +0200" stop="20260831172636 +0200" channel="esport3">
+    <title lang="ca">Thalassa curts</title>
+    <sub-title lang="ca">El regne més petit del món</sub-title>
+    <length units="seconds">1312</length>
+    <episode-num system="onscreen">194</episode-num>
     <category lang="ca">DIVULGACIÓ</category>
-    <category lang="ca">Docu-Entreteniment</category>
+    <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
@@ -91,12 +90,12 @@
   <channel id="sx3">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20260831083139 +0200" stop="20260831084251 +0200" channel="sx3">
-    <title lang="ca">El Mic i els seus amics</title>
-    <sub-title lang="ca">La mà plena de gomets</sub-title>
-    <desc lang="ca">En Cincsegons es desperta de la migdiada i veu que té la mà plena de gomets enganxats. Com ha sigut, això?</desc>
-    <length units="seconds">672</length>
-    <episode-num system="onscreen">654</episode-num>
+  <programme start="20260831162140 +0200" stop="20260831164250 +0200" channel="sx3">
+    <title lang="ca">Espies de veritat</title>
+    <sub-title lang="ca">El capvespre de l'alba</sub-title>
+    <desc lang="ca">Després d'investigar els saquejos i les destrosses que s'estan registrant a Hollywood, l'Alex ha descobert que en Cheston i en Derlock, dos personatges de la pel·lícula 'El capvespre de l'alba', han sortit de la pantalla i estan lluitant per recuperar el Cor Ardent Etern. Però, com s'ho han fet, per sortir de la pel·lícula?! I, pitjor encara, com els hi poden tornar a fer entrar?!</desc>
+    <length units="seconds">1270</length>
+    <episode-num system="onscreen">140</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
@@ -104,13 +103,14 @@
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/6/9/1781885918096.jpg"/>
   </programme>
-  <programme start="20260831084251 +0200" stop="20260831085250 +0200" channel="sx3">
-    <title lang="ca">El Mic i els seus amics</title>
-    <sub-title lang="ca">El Mic fa fotografies a l'hort</sub-title>
-    <desc lang="ca">'El Mic i els seus amics' presenta les històries del Mic agrupades en capítols. Les aventures dels titelles s'acompanyen de petits vídeos protagonitzats per nens i nenes, i separadors amb imatges de natura. És una sèrie pensada perquè els súpers més petits gaudeixin encara més! El Mic i els seus amics es troben cada dia per cantar cançons, explicar contes, dir endevinalles... Viuen en un lloc on hi ha turons, arbres, flors i papallones.Tot està a punt per jugar. Només cal fer... MAC, MEC, MIC, TOCA'T EL MELIC!</desc>
-    <length units="seconds">599</length>
-    <episode-num system="onscreen">538</episode-num>
+  <programme start="20260831164250 +0200" stop="20260831170329 +0200" channel="sx3">
+    <title lang="ca">Espies de veritat</title>
+    <sub-title lang="ca">El gos robot</sub-title>
+    <desc lang="ca">La misteriosa desaparició de diversos gossos d'exhibició arreu del planeta ha portat les Espies a descobrir que el segrestador, a més de no haver deixat cap pista enlloc, no és ni un humà ni un animal. L'única possibilitat que tenen de trobar alguna pista és anant d'incògnit al Concurs de Gossos de West Hollywood, on els esperen un munt de sorpreses robòtiques!</desc>
+    <length units="seconds">1239</length>
+    <episode-num system="onscreen">141</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
@@ -118,42 +118,53 @@
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/6/9/1781885918096.jpg"/>
   </programme>
   <channel id="c33">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20260831074134 +0200" stop="20260831083206 +0200" channel="c33">
-    <title lang="ca">El Foraster</title>
-    <sub-title lang="ca">Masdenverge</sub-title>
-    <desc lang="ca">Aquesta setmana, El Foraster passarà les 48 hores més fantàstiques d'aquesta temporada. A Masdenverge –998 habitants, comarca del Montsià– tot té una màgia i una força especials. Només cal veure les grans històries que Quim Masferrer es trobarà en aquest petit poble de les Terres de l'Ebre, entre el Parc Natural del Ports i el Delta. El Foraster quedarà bocabadat amb el grup de música més original de la zona, els Llomillo; viatjarà per l'espai gràcies als coets d'en Miquel, i coneixerà la dona que, probablement, remuga més de tot Catalunya, la Carmensita. Atenció al seu lema: 'La rabieta va que peta.'</desc>
-    <length units="seconds">3032</length>
-    <episode-num system="onscreen">64</episode-num>
-    <category lang="ca">ENTRETENIMENT</category>
-    <category lang="ca">VARIETATS</category>
+  <programme start="20260831155758 +0200" stop="20260831164422 +0200" channel="c33">
+    <title lang="ca">Arxipèlag blau</title>
+    <sub-title lang="ca">Praderies i arenals</sub-title>
+    <desc lang="ca">Miquel Salamanca ens presenta en aquest primer capítol de la sèrie 'Arxipèlag blau' dos dels ambients més característics de les nostres aigües: els arenals i els alguers, el que es coneix tradicionalment com 'el blanc' i 'el negre'. Ens endinsarem als alguers o praderies de posidònia per conèixer el cicle vital d'aquesta planta marina, les seves funcions ecològiques i les espècies que amaga entre les seves fulles. Ens sorprendrà descobrir com els arenals, en aparença extensions desèrtiques, són plens de vida, amb espècies que han desenvolupat complexos sistemes de camuflatge i defensa. Ferrasses, agulletes, serpetons, pedaços, pops i moltes altres criatures marines seran protagonistes d'aquest capítol. Per finalitzar acompanyarem Gàdor Muntaner a la seva visita a s'Espardell, a la reserva marina dels Freus d'Eivissa i Formentera.</desc>
+    <length units="seconds">2784</length>
+    <episode-num system="onscreen">1</episode-num>
+    <category lang="ca">DIVULGACIÓ</category>
+    <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20260831083206 +0200" stop="20260831091936 +0200" channel="c33">
-    <title lang="ca">La Renaixença</title>
-    <sub-title lang="ca">El mirall</sub-title>
-    <desc lang="ca">Trencar un mirall són 7 anys de mala sort. Algú ens pot confirmar si aquesta superstició és certa perquè ho ha viscut en primera persona? També pots tenir mala sort per defecte, sense haver trencat res. Dediquem aquest capítol al mirall. Ens visita la Regina Rodríguez Sirvent, autora de 'Les calces al sol': ens fa espòilers sobre la seva següent novel·la, i també parlem de diners. I sortim a passejar en Plum, un gos de Cornudella de Montsant, per la Conspiració de la Pólvora del 1606</desc>
-    <length units="seconds">2850</length>
-    <episode-num system="onscreen">61</episode-num>
+  <programme start="20260831164422 +0200" stop="20260831171032 +0200" channel="c33">
+    <title lang="ca">Catalunya salvatge</title>
+    <sub-title lang="ca">Catalunya salvatge 1</sub-title>
+    <desc lang="ca">Visió global del contingut de la sèrie gràcies a una ràpida repassada dels principals ecosistemes de Catalunya.</desc>
+    <length units="seconds">1570</length>
+    <episode-num system="onscreen">1</episode-num>
     <category lang="ca">DIVULGACIÓ</category>
-    <category lang="ca">ALTRES</category>
+    <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/3/3/1756148014833.jpg"/>
   </programme>
   <channel id="oca1">
     <display-name>OCA1</display-name>
   </channel>
+  <programme start="20260831160303 +0200" stop="20260831190258 +0200" channel="oca1">
+    <title lang="ca">La ministra d'Igualtat compareix per informar de la crisi a Ceuta</title>
+    <length units="seconds">10795</length>
+    <episode-num system="onscreen">4091</episode-num>
+    <category lang="ca">ACTUALITAT</category>
+    <category lang="ca">RETRANSMISSIONS ACTUALITAT</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <icon src="https://img.ccma.cat/multimedia/jpg/6/7/1788163867476.jpg"/>
+  </programme>
   <channel id="oca2">
     <display-name>OCA2</display-name>
   </channel>
