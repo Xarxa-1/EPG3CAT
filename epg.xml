@@ -3,26 +3,38 @@
   <channel id="tvi">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20260831162145 +0200" stop="20260831165649 +0200" channel="tvi">
-    <title lang="ca">La Riera</title>
-    <desc lang="ca">Mossèn Esteve ve a parlar amb l'Ignasi i la Mercè està espantada pel que li pugui explicar. A la cuina, la Txell parla d'una oferta de feina a en Marc, que es pensa que el vol fer fora. Mentrestant, la Sònia decideix parlar amb la Lídia i en Claudi sobre l'estranya requalificació de la Pineda. I l'Anna també es presenta a casa d'en Claudi per refregar-li per la cara la seva victòria.</desc>
-    <length units="seconds">2104</length>
-    <episode-num system="onscreen">116</episode-num>
+  <programme start="20260831220408 +0200" stop="20260831233022 +0200" channel="tvi">
+    <title lang="ca">Pel·lícula</title>
+    <sub-title lang="ca">Mirall, mirall</sub-title>
+    <desc lang="ca">Producció de Rodar y Rodar CineGuió i Direcció: Marc CrehuetDirecció fotografia: Pol OrpinellIntèrprets: Santi Millán (Álvaro), Carlos Areces (Alberto), Malena Alterio (Cristina), Natalia de Molina (Paula)Sinopsis:Quatre empleats d'una oficina es preparen per a la festa de celebració dels 50 anys de l'empresa mentre intenten resoldre els seus conflictes...amb els seus propis reflexes.</desc>
+    <credits>
+      <director>Marc CrehuetDirecció fotografia: Pol OrpinellIntèrprets: Santi Millán (Álvaro)</director>
+      <director>Carlos Areces (Alberto)</director>
+      <director>Malena Alterio (Cristina)</director>
+      <director>Natalia de Molina (Paula)Sinopsis:Quatre empleats d'una oficina es preparen per a la festa de celebració dels 50 anys de l'empresa mentre intenten resoldre els seus conflictes...amb els seus propis reflexes.</director>
+      <actor>Santi Millán (Álvaro)</actor>
+      <actor>Carlos Areces (Alberto)</actor>
+      <actor>Malena Alterio (Cristina)</actor>
+      <actor>Natalia de Molina (Paula)Sinopsis:Quatre empleats d'una oficina es preparen per a la festa de celebració dels 50 anys de l'empresa mentre intenten resoldre els seus conflictes...amb els seus propis reflexes.</actor>
+    </credits>
+    <length units="seconds">5174</length>
+    <episode-num system="onscreen">1</episode-num>
     <category lang="ca">FICCIÓ</category>
-    <category lang="ca">TELENOVEL·LA</category>
+    <category lang="ca">PEL·LÍCULA / TELEFILM</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20260831165649 +0200" stop="20260831173458 +0200" channel="tvi">
-    <title lang="ca">La Riera</title>
-    <desc lang="ca">L'Anna encara no està satisfeta i ara amenaça de denunciar en Claudi per violació. La Valeria rep la visita del seu amic Gabi, que li pot crear un problema seriós amb en Sergi. La Maribel nota que en passa alguna. A can Flaquer, la Núria descobreix que la Txell ha marxat de casa i vol fer alguna cosa. I la Mireia i l'Oriol preparen els respectius comiats de solters. Els convidats no estan gaire entusiasmats.</desc>
-    <length units="seconds">2289</length>
-    <episode-num system="onscreen">117</episode-num>
-    <category lang="ca">FICCIÓ</category>
-    <category lang="ca">TELENOVEL·LA</category>
+  <programme start="20260831232912 +0200" stop="20260901003447 +0200" channel="tvi">
+    <title lang="ca">Nervi</title>
+    <sub-title lang="ca">Cala Vento, El plaer de llegir... passa'l, Bridget Jones, Dame Area</sub-title>
+    <desc lang="ca">Andrea Gumes entrevista el duet empordanès Cala Vento, que ens parlen de la seva carrera i del disc de versions 'Brindis' (2025). És veritat que els joves són els que més llegeixen? Com fomentem la lectura a tota una població distreta per les pantalles? Aquestes i més preguntes sobre el plaer de llegir, a la taula de 'Nervi' amb Júlia Bertran. Jacint Casademont ens donarà 5+1 motius per estimar Bridget Jones. Tanca el programa una actuació del duet d'electrònica industrial Dame Area gravada a la sala Vol de Barcelona.</desc>
+    <length units="seconds">3935</length>
+    <episode-num system="onscreen">31</episode-num>
+    <category lang="ca">ENTRETENIMENT</category>
+    <category lang="ca">ALTRES</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
@@ -32,70 +44,60 @@
   <channel id="324">
     <display-name>324</display-name>
   </channel>
-  <programme start="20260831143000 +0200" stop="20260831163000 +0200" channel="324">
-    <title lang="ca">Telenotícies migdia</title>
+  <programme start="20260831210000 +0200" stop="20260831230000 +0200" channel="324">
+    <title lang="ca">Telenotícies vespre</title>
     <length units="seconds">7200</length>
-    <episode-num system="onscreen">7314</episode-num>
+    <episode-num system="onscreen">7313</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <subtitles type="teletext"/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/5/4/1758025766345.jpg"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/7/2/1758026176427.jpg"/>
   </programme>
-  <programme start="20260831163000 +0200" stop="20260831170000 +0200" channel="324">
+  <programme start="20260831230000 +0200" stop="20260901003000 +0200" channel="324">
     <title lang="ca">Notícies 3CatInfo</title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">1800</length>
-    <episode-num system="onscreen">11048</episode-num>
+    <length units="seconds">5400</length>
+    <episode-num system="onscreen">11052</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <subtitles type="teletext"/>
     <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
   <channel id="esport3">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20260831161701 +0200" stop="20260831170444 +0200" channel="esport3">
-    <title lang="ca">Arxipèlag blau</title>
-    <sub-title lang="ca">Praderies i arenals</sub-title>
-    <desc lang="ca">Miquel Salamanca ens presenta en aquest primer capítol de la sèrie 'Arxipèlag blau' dos dels ambients més característics de les nostres aigües: els arenals i els alguers, el que es coneix tradicionalment com 'el blanc' i 'el negre'. Ens endinsarem als alguers o praderies de posidònia per conèixer el cicle vital d'aquesta planta marina, les seves funcions ecològiques i les espècies que amaga entre les seves fulles. Ens sorprendrà descobrir com els arenals, en aparença extensions desèrtiques, són plens de vida, amb espècies que han desenvolupat complexos sistemes de camuflatge i defensa. Ferrasses, agulletes, serpetons, pedaços, pops i moltes altres criatures marines seran protagonistes d'aquest capítol. Per finalitzar acompanyarem Gàdor Muntaner a la seva visita a s'Espardell, a la reserva marina dels Freus d'Eivissa i Formentera.</desc>
-    <length units="seconds">2863</length>
-    <episode-num system="onscreen">1</episode-num>
-    <category lang="ca">DIVULGACIÓ</category>
-    <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
+  <programme start="20260831212353 +0200" stop="20260831232604 +0200" channel="esport3">
+    <title lang="ca">Un dia de partit</title>
+    <sub-title lang="ca">Barça-Rayo</sub-title>
+    <desc lang="ca">A 'Un dia de partit' arreglem el Barça. O no. A cada partit, sis culers hi diuen la seva. Famosos i anònims. Cadascun a casa seva. Davant del televisor. Tot a base de videotrucades, en format Twitch i en rigorós directe. Ah! I a la mitja part no aturem màquines. Amb els jugadors als vestidors, nosaltres seguim fent bullir l'olla! Només sis culers? Negatiu. Durant el partit van apareixent els Jimmy Jump: els espontanis que demanen saltar a 'Un dia de partit' via WhatsApp.</desc>
+    <length units="seconds">7331</length>
+    <episode-num system="onscreen">246</episode-num>
+    <category lang="ca">ESPORTS</category>
+    <category lang="ca">RETRANSMISSIONS ESPORTS</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <subtitles type="teletext"/>
-    <previously-shown/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/2/7/1678885232972.jpg"/>
   </programme>
-  <programme start="20260831170444 +0200" stop="20260831172636 +0200" channel="esport3">
-    <title lang="ca">Thalassa curts</title>
-    <sub-title lang="ca">El regne més petit del món</sub-title>
-    <length units="seconds">1312</length>
-    <episode-num system="onscreen">194</episode-num>
-    <category lang="ca">DIVULGACIÓ</category>
-    <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
+  <programme start="20260831232604 +0200" stop="20260831234637 +0200" channel="esport3">
+    <title lang="ca">Al Cotxe: Àlex Palou</title>
+    <desc lang="ca">Sense Descripció</desc>
+    <length units="seconds">1233</length>
     <subtitles type="teletext"/>
-    <previously-shown/>
   </programme>
   <channel id="sx3">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20260831162140 +0200" stop="20260831164250 +0200" channel="sx3">
-    <title lang="ca">Espies de veritat</title>
-    <sub-title lang="ca">El capvespre de l'alba</sub-title>
-    <desc lang="ca">Després d'investigar els saquejos i les destrosses que s'estan registrant a Hollywood, l'Alex ha descobert que en Cheston i en Derlock, dos personatges de la pel·lícula 'El capvespre de l'alba', han sortit de la pantalla i estan lluitant per recuperar el Cor Ardent Etern. Però, com s'ho han fet, per sortir de la pel·lícula?! I, pitjor encara, com els hi poden tornar a fer entrar?!</desc>
-    <length units="seconds">1270</length>
-    <episode-num system="onscreen">140</episode-num>
+  <programme start="20260831220301 +0200" stop="20260831222537 +0200" channel="sx3">
+    <title lang="ca">El detectiu Conan</title>
+    <sub-title lang="ca">El cas de l'assassinat del còctel de mel</sub-title>
+    <desc lang="ca">La presidenta de la companyia Yamasaki convida en Kogoro a un hotel de muntanya per proposar-li una feina. El detectiu hi va amb la Ran i en Conan. Allà coneixen el senyor Hachimakoi, alcalde d'Iwami, el poble on la presidenta Yamasaki projecta construir un supercomplex d'oci. El motiu de la reunió és convèncer en Kogoro que protagonitzi la campanya publicitària del complex. Però la presidenta és assassinada durant l'esmorzar.</desc>
+    <length units="seconds">1356</length>
+    <episode-num system="onscreen">127</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
@@ -103,14 +105,13 @@
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/6/9/1781885918096.jpg"/>
   </programme>
-  <programme start="20260831164250 +0200" stop="20260831170329 +0200" channel="sx3">
-    <title lang="ca">Espies de veritat</title>
-    <sub-title lang="ca">El gos robot</sub-title>
-    <desc lang="ca">La misteriosa desaparició de diversos gossos d'exhibició arreu del planeta ha portat les Espies a descobrir que el segrestador, a més de no haver deixat cap pista enlloc, no és ni un humà ni un animal. L'única possibilitat que tenen de trobar alguna pista és anant d'incògnit al Concurs de Gossos de West Hollywood, on els esperen un munt de sorpreses robòtiques!</desc>
-    <length units="seconds">1239</length>
-    <episode-num system="onscreen">141</episode-num>
+  <programme start="20260831222537 +0200" stop="20260831224624 +0200" channel="sx3">
+    <title lang="ca">El detectiu Conan</title>
+    <sub-title lang="ca">El cas de l'assassinat enigmàtic al lavabo tancat (1a part)</sub-title>
+    <desc lang="ca">En Kogoro perd l'entrada per a un concert de la Yoko Okino, però té la sort que una noia, la Masayo Aoshima, li regali la seva a canvi que l'acompanyi a buscar la seva germana Mina a casa. Quan hi arriben, descobreixen que la Mina ha precintat el lavabo amb cinta aïllant i s'ha tallat les venes. Tot i semblar un suïcidi, en Conan sospita immediatament que la Masayo l'ha assassinat.</desc>
+    <length units="seconds">1247</length>
+    <episode-num system="onscreen">128</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
@@ -118,30 +119,29 @@
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/6/9/1781885918096.jpg"/>
   </programme>
   <channel id="c33">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20260831155758 +0200" stop="20260831164422 +0200" channel="c33">
-    <title lang="ca">Arxipèlag blau</title>
-    <sub-title lang="ca">Praderies i arenals</sub-title>
-    <desc lang="ca">Miquel Salamanca ens presenta en aquest primer capítol de la sèrie 'Arxipèlag blau' dos dels ambients més característics de les nostres aigües: els arenals i els alguers, el que es coneix tradicionalment com 'el blanc' i 'el negre'. Ens endinsarem als alguers o praderies de posidònia per conèixer el cicle vital d'aquesta planta marina, les seves funcions ecològiques i les espècies que amaga entre les seves fulles. Ens sorprendrà descobrir com els arenals, en aparença extensions desèrtiques, són plens de vida, amb espècies que han desenvolupat complexos sistemes de camuflatge i defensa. Ferrasses, agulletes, serpetons, pedaços, pops i moltes altres criatures marines seran protagonistes d'aquest capítol. Per finalitzar acompanyarem Gàdor Muntaner a la seva visita a s'Espardell, a la reserva marina dels Freus d'Eivissa i Formentera.</desc>
-    <length units="seconds">2784</length>
-    <episode-num system="onscreen">1</episode-num>
+  <programme start="20260831220106 +0200" stop="20260831225311 +0200" channel="c33">
+    <title lang="ca">La Renaixença</title>
+    <sub-title lang="ca">La brúixola</sub-title>
+    <desc lang="ca">Arranquem la segona temporada de 'La Renaixença' parlant de la brúixola, un objecte vital pels mariners i els exploradors que volien arribar al seu destí. Compte perquè l'únic lloc que no us serveix una brúixola seria al pol nord, això és una cosa que aprendrem avui. Per començar la temporada com Déu mana, convidem en Quimi Portet, gran artista i millor persona, perquè ens tregui la mandra de l'estiu amb un bon cop de guitarra. I per acabar-ho d'arrodonir, passegem el gos per Madrid, pel dia que van atemptar contra Carrero Blanco.</desc>
+    <length units="seconds">3125</length>
+    <episode-num system="onscreen">221</episode-num>
     <category lang="ca">DIVULGACIÓ</category>
-    <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
+    <category lang="ca">ALTRES</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
-    <previously-shown/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/3/3/1756148014833.jpg"/>
   </programme>
-  <programme start="20260831164422 +0200" stop="20260831171032 +0200" channel="c33">
-    <title lang="ca">Catalunya salvatge</title>
-    <sub-title lang="ca">Catalunya salvatge 1</sub-title>
-    <desc lang="ca">Visió global del contingut de la sèrie gràcies a una ràpida repassada dels principals ecosistemes de Catalunya.</desc>
-    <length units="seconds">1570</length>
+  <programme start="20260831225311 +0200" stop="20260901002141 +0200" channel="c33">
+    <title lang="ca">L'últim iglú</title>
+    <sub-title lang="ca">L'últim iglú</sub-title>
+    <desc lang="ca">Documentar l'enginyós ofici de la construcció d'iglús abans que sigui massa tard; aquesta pel·lícula és una extraordinària i poètica immersió sensorial en un paisatge de gel i neu. L'últim iglú explica la història d'un dia a la vida d'un caçador inuit a Groenlàndia i l'iglú que construeix a la tundra gelada. Filmades per revelar la bellesa dels detalls del dia a dia del caçador i de la construcció d'iglús, les impressionants imatges es veuen millorades per un disseny sonor que captura cada tros de neu i gel, així com el paisatge sonor del desert àrtic. En el fons, aquesta pel·lícula és una celebració absorbent i meditativa d'una forma d'art juntament amb el seu entorn i un recordatori commovedor del que aviat pot desaparèixer.</desc>
+    <length units="seconds">5310</length>
     <episode-num system="onscreen">1</episode-num>
     <category lang="ca">DIVULGACIÓ</category>
     <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
@@ -150,21 +150,11 @@
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
+    <icon src="https://img.3cat.cat/multimedia/jpg/6/3/1755044259736.jpg"/>
   </programme>
   <channel id="oca1">
     <display-name>OCA1</display-name>
   </channel>
-  <programme start="20260831160303 +0200" stop="20260831190258 +0200" channel="oca1">
-    <title lang="ca">La ministra d'Igualtat compareix per informar de la crisi a Ceuta</title>
-    <length units="seconds">10795</length>
-    <episode-num system="onscreen">4091</episode-num>
-    <category lang="ca">ACTUALITAT</category>
-    <category lang="ca">RETRANSMISSIONS ACTUALITAT</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <icon src="https://img.ccma.cat/multimedia/jpg/6/7/1788163867476.jpg"/>
-  </programme>
   <channel id="oca2">
     <display-name>OCA2</display-name>
   </channel>
