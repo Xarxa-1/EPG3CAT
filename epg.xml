@@ -3,38 +3,40 @@
   <channel id="tvi">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20260901100000 +0200" stop="20260901123000 +0200" channel="tvi">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">9000</length>
-    <episode-num system="onscreen">11055</episode-num>
-    <category lang="ca">ACTUALITAT</category>
-    <category lang="ca">INFORMATIU DIÀRI</category>
+  <programme start="20260901162453 +0200" stop="20260901170327 +0200" channel="tvi">
+    <title lang="ca">La Riera</title>
+    <desc lang="ca">La Lídia entén que, si hi perd en Claudi, també hi perd ella. Per això decideix demanar ajuda al seu pare. Mentrestant, l'Anna col·labora amb la Sònia, però comet un error que la fiscal capta de seguida. La Txell està decidida a marxar a Mallorca i en Joan ho vol evitar. I arriba una visita inesperada per a en Lluís: la Irene.</desc>
+    <length units="seconds">2314</length>
+    <episode-num system="onscreen">118</episode-num>
+    <category lang="ca">FICCIÓ</category>
+    <category lang="ca">TELENOVEL·LA</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
-  </programme>
-  <programme start="20260901123000 +0200" stop="20260901125619 +0200" channel="tvi">
-    <title lang="ca">Roda de premsa posterior al Consell Executiu</title>
-    <length units="seconds">1579</length>
-    <episode-num system="onscreen">143</episode-num>
-    <category lang="ca">ACTUALITAT</category>
-    <category lang="ca">ESPECIALS INFORMATIUS</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
+    <subtitles type="teletext"/>
     <previously-shown/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/7/2/1698684561127.jpg"/>
+  </programme>
+  <programme start="20260901170327 +0200" stop="20260901174050 +0200" channel="tvi">
+    <title lang="ca">La Riera</title>
+    <desc lang="ca">És el dia dels comiats de solters de l'Oriol i la Mireia. El d'ella resulta sorprenentment divertit. El d'ell, avorrit, però amb una sorpresa que no ens podíem imaginar, ja que l'Oriol amaga un secret. Un gran secret. I en Lluís es voldria replantejar el futur comptant amb la Irene, però ella... no.</desc>
+    <length units="seconds">2243</length>
+    <episode-num system="onscreen">119</episode-num>
+    <category lang="ca">FICCIÓ</category>
+    <category lang="ca">TELENOVEL·LA</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <subtitles type="teletext"/>
+    <previously-shown/>
   </programme>
   <channel id="324">
     <display-name>324</display-name>
   </channel>
-  <programme start="20260901100000 +0200" stop="20260901130000 +0200" channel="324">
+  <programme start="20260901163000 +0200" stop="20260901170000 +0200" channel="324">
     <title lang="ca">Notícies 3CatInfo</title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">10800</length>
-    <episode-num system="onscreen">11055</episode-num>
+    <length units="seconds">1800</length>
+    <episode-num system="onscreen">11057</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
@@ -43,11 +45,11 @@
     <subtitles type="teletext"/>
     <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
-  <programme start="20260901130000 +0200" stop="20260901140000 +0200" channel="324">
+  <programme start="20260901170000 +0200" stop="20260901183000 +0200" channel="324">
     <title lang="ca">Notícies 3CatInfo</title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">3600</length>
-    <episode-num system="onscreen">11056</episode-num>
+    <length units="seconds">5400</length>
+    <episode-num system="onscreen">11058</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
@@ -59,93 +61,97 @@
   <channel id="esport3">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20260901114439 +0200" stop="20260901130000 +0200" channel="esport3">
-    <title lang="ca">Gol a gol</title>
-    <sub-title lang="ca">Post Barça-Rayo / J3</sub-title>
-    <desc lang="ca">'Gol a gol' us ofereix els resums dels partits de futbol de Primera i Segona Divisió. Presentat per Jordi Grau a Esport3, cada dissabte i cada diumenge podeu veure les millors imatges de la jornada de Lliga amb l'anàlisi dels experts, amb especial atenció als equips catalans, sobretot el Barça, el Girona i l'Espanyol.</desc>
-    <length units="seconds">4521</length>
-    <episode-num system="onscreen">1770</episode-num>
-    <category lang="ca">ESPORTS</category>
-    <category lang="ca">MAGAZINE</category>
+  <programme start="20260901160441 +0200" stop="20260901165352 +0200" channel="esport3">
+    <title lang="ca">Vida</title>
+    <sub-title lang="ca">Rèptils i amfibis</sub-title>
+    <desc lang="ca">Des de les immensitats de gel fins als deserts més àrids, els rèptils i els amfibis han utilitzat el seu cos peciloterm i prehistòric, juntament amb una sèrie de sofisticades innovacions comportamentals, per dominar els entorns més severs del planeta. Mitjançant tècniques de cacera despietades, un camuflatge extraordinari, astúcia i una resistència física total, habiten còmodament indrets que mamífers i aus no gosen ni trepitjar. Aquesta setmana contemplarem dragons de Komodo caçant búfals, serps marines amb un dels verins més tòxics del món que es reprodueixen en coves, els bots aparentment suïcides d'un gripau (Oreophrynella macconnelli) , la tendra i gegantesca granota bramadora africana, que excava canals d'aigua per salvar les seves cries i també les d'altres espècies i llangardaixos que caminen sobre l'aigua.</desc>
+    <length units="seconds">2951</length>
+    <episode-num system="onscreen">2</episode-num>
+    <category lang="ca">DIVULGACIÓ</category>
+    <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/2/1/1698144123212.jpg"/>
   </programme>
-  <programme start="20260901130000 +0200" stop="20260901140058 +0200" channel="esport3">
-    <title lang="ca">Esport Club</title>
-    <desc lang="ca">En Jordi Sanuy i Víctor Patsi us expliquen l'última hora esportiva i l'analitzen amb el seu equip de col·laboradors. El programa és molt actiu a les xarxes socials. L''Esport Club' té presència a Twitter, a Facebook i a Instagram. L'espai dirigeix moltes accions de participació amb l'audiència a través de les xarxes socials.</desc>
-    <length units="seconds">3658</length>
-    <episode-num system="onscreen">3230</episode-num>
-    <category lang="ca">ESPORTS</category>
-    <category lang="ca">INFORMATIU DIÀRI</category>
+  <programme start="20260901165352 +0200" stop="20260901173759 +0200" channel="esport3">
+    <title lang="ca">Arxipèlag blau</title>
+    <sub-title lang="ca">Albuferes i aigües somes</sub-title>
+    <desc lang="ca">En aquest capítol conduït per Miquel Salamanca seguirem el camí de l'aigua, des de la pluja, passant pels torrents i les zones humides, fins a la vorera de la mar. Ens detindrem a un peculiar ecosistema d'aigua dolça, a s'Albufera, on trobem espècies úniques i amenaçades per la salinització. Seguint el camí de l'anguila arribarem a la mar, on coneixerem les aigües somes, uns ambients litorals resguardats i de poca fondària, de gran importància com a refugi, zona de cria i de creixement dels exemplars juvenils de moltes espècies de peixos. Aquí trobem plantes marines com l'algueró, algues úniques al món i espècies tan peculiars com els serpetons i agulletes. Es tracta d'un ambient fràgil que ha patit molt les transformacions de les nostres costes. Per finalitzar acompanyarem Gàdor Muntaner per la badia de Fornells amb la biòloga Emma Cebrián.</desc>
+    <length units="seconds">2647</length>
+    <episode-num system="onscreen">2</episode-num>
+    <category lang="ca">DIVULGACIÓ</category>
+    <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/7/3/1698145091337.jpg"/>
+    <previously-shown/>
   </programme>
   <channel id="sx3">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20260901114642 +0200" stop="20260901115859 +0200" channel="sx3">
-    <title lang="ca">Ghost Rockers</title>
-    <desc lang="ca">En Jimmy vol salvar l'estrena del musical malgrat la manca de recursos. Mentrestant, en Brandon, la Mila, la Fenne i en Jonas van a la fortalesa a buscar-hi el calze enverinat de Florència. No saben, però, que la banda de la Serp d'Or els segueix de prop. Juntament amb el calze, hi troben una carta de l'Helena adreçada a en Brandon. Per fi coneixeran els motius reals de les seves accions.</desc>
-    <length units="seconds">737</length>
-    <episode-num system="onscreen">154</episode-num>
+  <programme start="20260901161746 +0200" stop="20260901163847 +0200" channel="sx3">
+    <title lang="ca">Espies de veritat</title>
+    <sub-title lang="ca">La interiorista terrorista</sub-title>
+    <desc lang="ca">La desaparició d'algunes de les interioristes més famoses del món ha fet que les Espies es plantessin al Taj Mahal per comprovar que algú l'ha redecorat i l'ha deixat fet un nyap! Més tard, a la Casa Blanca han descobert que la responsable de les desaparicions és la Maggie Demoda, fins fa poc la interiorista més infravalorada de tot el planeta.</desc>
+    <length units="seconds">1261</length>
+    <episode-num system="onscreen">144</episode-num>
     <category lang="ca">FICCIÓ</category>
-    <category lang="ca">SÈRIE DRAMÀTICA</category>
+    <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
       <value>INFANTIL</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/6/9/1781885918096.jpg"/>
   </programme>
-  <programme start="20260901115859 +0200" stop="20260901120927 +0200" channel="sx3">
-    <title lang="ca">Ghost Rockers</title>
-    <desc lang="ca">La identitat del líder de la Serp d'Or és una sorpresa majúscula per a la colla.   Després d'admetre que és ell qui va matar la mare d'en Brandon, els abandona en una sala de tortura de la fortalesa. Mentrestant, en Jimmy prova de seguir el rastre dels seus amics per alliberar-los. És una cursa contra rellotge perquè el sostre on estan tancats comença a enfonsar-se i el temps s'acaba...</desc>
-    <length units="seconds">628</length>
-    <episode-num system="onscreen">155</episode-num>
+  <programme start="20260901163847 +0200" stop="20260901165920 +0200" channel="sx3">
+    <title lang="ca">Espies de veritat</title>
+    <sub-title lang="ca">Woohp a la vista</sub-title>
+    <desc lang="ca">El que havia de ser un creuer de plaer al WHOOPtànic, on en Jerry hi presenta la seva nova línia de dispositius, ha acabat en un assalt pirata amb totes les de la llei. El malvat Capità Goleta ha segrestat el WHOOPtànic! Però és que ara vol fer servir el raig EROS per sobreescalfar el sol, fondre els casquets polars i inundar tot el planeta per convertir-lo en un paradís aquàtic!</desc>
+    <length units="seconds">1233</length>
+    <episode-num system="onscreen">145</episode-num>
     <category lang="ca">FICCIÓ</category>
-    <category lang="ca">SÈRIE DRAMÀTICA</category>
+    <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
       <value>INFANTIL</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/6/9/1781885918096.jpg"/>
   </programme>
   <channel id="c33">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20260901111851 +0200" stop="20260901120604 +0200" channel="c33">
-    <title lang="ca">Aeroport</title>
-    <sub-title lang="ca">L'avió</sub-title>
-    <desc lang="ca">Una de cada quatre persones té por de volar, tot i això, l'avió és un transport molt segur. Fins i tot quan ha d'aterrar amb un sol motor a causa d'un incendi. No és estrany que els SPOTTERS recorrin els aeroports de tot el món per fotografiar avions estel·lars, com l'Airbus A380.</desc>
-    <length units="seconds">2833</length>
-    <episode-num system="onscreen">15</episode-num>
+  <programme start="20260901160834 +0200" stop="20260901165059 +0200" channel="c33">
+    <title lang="ca">Arxipèlag blau</title>
+    <sub-title lang="ca">Albuferes i aigües somes</sub-title>
+    <desc lang="ca">En aquest capítol conduït per Miquel Salamanca seguirem el camí de l'aigua, des de la pluja, passant pels torrents i les zones humides, fins a la vorera de la mar. Ens detindrem a un peculiar ecosistema d'aigua dolça, a s'Albufera, on trobem espècies úniques i amenaçades per la salinització. Seguint el camí de l'anguila arribarem a la mar, on coneixerem les aigües somes, uns ambients litorals resguardats i de poca fondària, de gran importància com a refugi, zona de cria i de creixement dels exemplars juvenils de moltes espècies de peixos. Aquí trobem plantes marines com l'algueró, algues úniques al món i espècies tan peculiars com els serpetons i agulletes. Es tracta d'un ambient fràgil que ha patit molt les transformacions de les nostres costes. Per finalitzar acompanyarem Gàdor Muntaner per la badia de Fornells amb la biòloga Emma Cebrián.</desc>
+    <length units="seconds">2545</length>
+    <episode-num system="onscreen">2</episode-num>
     <category lang="ca">DIVULGACIÓ</category>
-    <category lang="ca">Docu-Entreteniment</category>
+    <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20260901120604 +0200" stop="20260901124138 +0200" channel="c33">
-    <title lang="ca">Tot o res</title>
-    <sub-title lang="ca">Tot o res</sub-title>
-    <length units="seconds">2134</length>
-    <episode-num system="onscreen">22</episode-num>
-    <category lang="ca">ENTRETENIMENT</category>
-    <category lang="ca">CONCURS</category>
+  <programme start="20260901165059 +0200" stop="20260901171709 +0200" channel="c33">
+    <title lang="ca">Catalunya salvatge</title>
+    <sub-title lang="ca">Horitzons esteparis</sub-title>
+    <desc lang="ca">'Catalunya salvatge' és una sèrie documental de 13 capítols que donarà a conèixer als espectadors els ecosistemes més representatius del nostre país. Des dels cims del Pirineu fins a les llacunes del delta de l'Ebre, 'Catalunya salvatge' farà un repàs de la flora i la fauna dels paratges més emblemàtics de Catalunya.Els seguidors de la sèrie tindran, doncs, una finestra privilegiada a la biodiversitat del Parc Nacional d'Aigüestortes, la muntanya de Montserrat, la zona volcànica de la Garrotxa, els aiguamolls de l'Empordà o el món submarí de les illes Medes.El primer ecosistema explorat en profunditat serà el d'alta muntanya, on la supervivència no és gens fàcil.(tardor 2010)</desc>
+    <length units="seconds">1570</length>
+    <episode-num system="onscreen">3</episode-num>
+    <category lang="ca">DIVULGACIÓ</category>
+    <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
-    <icon src="http://statics.ccma.cat/multimedia/jpg/3/7/1487784560073.jpg"/>
   </programme>
   <channel id="oca1">
     <display-name>OCA1</display-name>
