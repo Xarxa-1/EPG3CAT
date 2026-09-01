@@ -3,49 +3,56 @@
   <channel id="tvi">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20260901191536 +0200" stop="20260901195948 +0200" channel="tvi">
-    <title lang="ca">Moments APM?</title>
-    <desc lang="ca">Estàs de vacances i se't possa cara de pastanaga bullida només de pensar que hauràs d'aguantar dos mesos sense el teu programa preferit? Arriba 'APM?, el Multivers de l'estiu'. Durant juliol i agost TV3 emetrà un recull dels millors moments que s'han emès aquesta última temporada. Al loro! No et perdis els vídeos més divertits de la vint-i-unena temporada amb Nerea Sanfe, Joel Díaz, i tots els teus personatges preferits de l''APM?' #APM3CAT</desc>
-    <length units="seconds">2652</length>
-    <category lang="ca">ENTRETENIMENT</category>
-    <category lang="ca">TELEVISIÓ SOBRE TELEVISIÓ</category>
+  <programme start="20260901220731 +0200" stop="20260901232420 +0200" channel="tvi">
+    <title lang="ca">Nits Sense ficció</title>
+    <sub-title lang="ca">L'Àliga vola</sub-title>
+    <desc lang="ca">'I l'àliga vola' narra l'últim repte de Sergi Mingote, fer cim al K2, la segona muntanya més alta del món i una de les més mortíferes, i fer-ho a l'hivern, que és el que en aquell moment encara ningú havia aconseguit.Però el mateix temps el documental també narra totes les vivències que envolten les expedicions així com el dia a dia de la seva família mentre ell intentava aconseguir el seu repte. És doncs, un viatge intern i extern que vindrà acompanyat dels testimonis d'aquells que han format part de la vida del Sergi, acompanyant-lo en els seus reptes.</desc>
+    <length units="seconds">4609</length>
+    <episode-num system="onscreen">1</episode-num>
+    <category lang="ca">ACTUALITAT</category>
+    <category lang="ca">DOCUMENTAL</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <icon src="https://deliverty1.3cat.cat/deliverty/ccrtvi/resources/jpg/8/6/1784831816768.jpg"/>
   </programme>
-  <programme start="20260901195948 +0200" stop="20260901210000 +0200" channel="tvi">
-    <title lang="ca">Atrapa'm si pots, estiu</title>
-    <desc lang="ca">'Atrapa'm si pots' és un 'quiz show' clàssic, de preguntes i respostes, presentat per Llucià Ferrer, en què sis concursants competeixen per arribar a la fase final i guanyar el pot. 'Atrapa'm si pots' és entreteniment pur i on gairebé és més important passar-s'ho bé que els diners. És un concurs en què pesa més la intuïció que no els coneixements acadèmics, més l'estratègia en el joc que no la sort.</desc>
-    <length units="seconds">3612</length>
-    <episode-num system="onscreen">984</episode-num>
-    <category lang="ca">ENTRETENIMENT</category>
-    <category lang="ca">CONCURS</category>
+  <programme start="20260901232004 +0200" stop="20260902001947 +0200" channel="tvi">
+    <title lang="ca">Nits Sense ficció</title>
+    <sub-title lang="ca">265 dies sense onades</sub-title>
+    <desc lang="ca">'265 dies sense onades', (2022) una coproducció de Glassy Films, Elemental Komunika i Kalapa Studio, amb la participació de TV3 i Agència Rider.El documental mostra com l'evolució del surf ha anat en paral·lel al desenvolupament socioeconòmic de Barcelona i les poblacions properes des dels anys 60 fins avui. Entre els seus protagonistes, apassionats i intrèpids, descobrim els pioners que es van atrevir a trencar mites, i també les noves generacions que viuen el surf d'una manera del tot diferent. Fitxa tècnica:Direcció: Julie Gómez Guió: Rebeca Arnal Productor: Yago de la Sotilla Producció executiva TV3: Jordi Ambròs Hortensi Edició continguts TV3: Montse Armengou Martín Realització TV3: Ricard Belis García Producció delegada TV3: Daniel Barea Delgado Director fotografia: Bruno Amaral Muntatge: Jorge Sales Director de producció: Mariona Gea Música: Ultim Cavall Lingüista: Jordi Espinet Grafisme: Palouzié Studio </desc>
+    <credits>
+      <director>Julie</director>
+      <writer>Rebeca Arnal</writer>
+    </credits>
+    <length units="seconds">3583</length>
+    <episode-num system="onscreen">1</episode-num>
+    <category lang="ca">DIVULGACIÓ</category>
+    <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
+    <subtitles type="teletext"/>
+    <previously-shown/>
   </programme>
   <channel id="324">
     <display-name>324</display-name>
   </channel>
-  <programme start="20260901183000 +0200" stop="20260901200000 +0200" channel="324">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">5400</length>
-    <episode-num system="onscreen">11059</episode-num>
+  <programme start="20260901210000 +0200" stop="20260901230000 +0200" channel="324">
+    <title lang="ca">Telenotícies vespre</title>
+    <length units="seconds">7200</length>
+    <episode-num system="onscreen">7314</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/7/2/1758026176427.jpg"/>
   </programme>
-  <programme start="20260901200000 +0200" stop="20260901210000 +0200" channel="324">
+  <programme start="20260901230000 +0200" stop="20260902000000 +0200" channel="324">
     <title lang="ca">Notícies 3CatInfo</title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <length units="seconds">3600</length>
-    <episode-num system="onscreen">11060</episode-num>
+    <episode-num system="onscreen">11061</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
@@ -56,42 +63,35 @@
   <channel id="esport3">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20260901190000 +0200" stop="20260901203043 +0200" channel="esport3">
-    <title lang="ca">Tot Costa</title>
-    <sub-title lang="ca">Final de mercat tranquil al Barça</sub-title>
-    <desc lang="ca">Les últimes hores de mercat seran calmades al Camp Nou. Amb Gabriel Jesus, el Barça tanca el capítol de fitxatges. Pel que fa a les sortides, Marc Casado apunta a sortir en aquest tram final de mercat. Tot plegat després de la tercera victòria a la Lliga, 5 a 2 contra el Rayo.</desc>
-    <length units="seconds">5443</length>
-    <episode-num system="onscreen">999</episode-num>
+  <programme start="20260901224443 +0200" stop="20260901230000 +0200" channel="esport3">
+    <title lang="ca">Presentació Gabriel Jesus</title>
+    <desc lang="ca">Sense Descripció</desc>
+    <length units="seconds">917</length>
+    <subtitles type="teletext"/>
+  </programme>
+  <programme start="20260901230000 +0200" stop="20260902003108 +0200" channel="esport3">
+    <title lang="ca">Onze</title>
+    <sub-title lang="ca">Tancament mercat; Gabriel Jesus culer i 'El colegiado'</sub-title>
+    <desc lang="ca">Carles Fité, Gemma Mallorca, Xavi Torres i Jordi Martí comenten en directe els últims minuts del mercat d'estiu i les primeres paraules de Gabriel Jesus com a barcelonista. El Joan Fàbregas analitza les jugades polèmiques de la jornada.</desc>
+    <length units="seconds">5468</length>
+    <episode-num system="onscreen">1241</episode-num>
     <category lang="ca">ESPORTS</category>
-    <category lang="ca">INFORMATIU DIÀRI</category>
+    <category lang="ca">MAGAZINE</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/0/4/1706209193140.jpg"/>
-  </programme>
-  <programme start="20260901203043 +0200" stop="20260901210109 +0200" channel="esport3">
-    <title lang="ca">Crackòvia</title>
-    <desc lang="ca">El 'Crackòvia' 2015-2016 tornarà a la tardor amb energies renovades. Als personatges ja habituals i consolidats al programa com el trident, Luis Enrique, Collet, Florentino, Cristiano... s'hi sumaran els flamants fitxatges de la temporada encapçalats per Arda Turan o l'entrenador del Reial Madrid Rafa Benítez.El programa seguirà l'intent de sextet del Barça, l'intent de resurrecció del Reial Madrid i l'intent de superar les baixes de l'estiu de l'Espanyol a través de la seva fórmula de sketchos intercalats amb resums del partit, escenes entre les bambolines del plató, peces gràfiques i moltes altres sorpreses.Aconseguirà Luis Enrique igualar a Guardiola? Aconseguirà Florentino quedar-se sol al Reial Madrid? Aconseguirà Collet no patir gaire? Tot això ho veurem en la propera temporada de 'Crackòvia'.</desc>
-    <length units="seconds">1826</length>
-    <episode-num system="onscreen">239</episode-num>
-    <category lang="ca">ENTRETENIMENT</category>
-    <category lang="ca">GAGS. HUMOR</category>
-    <rating>
-      <value>JUVENIL</value>
-    </rating>
-    <subtitles type="teletext"/>
-    <previously-shown/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/1/1/1688543515711.jpg"/>
   </programme>
   <channel id="sx3">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20260901195400 +0200" stop="20260901201735 +0200" channel="sx3">
-    <title lang="ca">Espies de veritat</title>
-    <sub-title lang="ca">Frankenpanda</sub-title>
-    <desc lang="ca">Les espies de veritat, que estan amoïnades per si les seves dots d'espia s'han rovellat durant l'estiu, reben un encàrrec d'una cap nova. Aquesta vegada han d'anar a Singapur a descobrir qui ha atacat un vaixell per robar galledes i estris de cuina. En els carrers de la moderna ciutat asiàtica s'hauran d'enfrontar a un robot molt especial que té forma d'os panda.</desc>
-    <length units="seconds">1415</length>
-    <episode-num system="onscreen">157</episode-num>
+  <programme start="20260901224403 +0200" stop="20260901230449 +0200" channel="sx3">
+    <title lang="ca">El detectiu Conan</title>
+    <sub-title lang="ca">El cas de l'assassinat de la companyia de teatre itinerant (1a part)</sub-title>
+    <desc lang="ca">A la classe de la Ran i la Sonoko hi ha un alumne nou: en Tamanosuke Ido, el jove director d'una companyia teatral itinerant. Al teatre, les noies i la Lliga de Detectius Júnior presencien una baralla entre en Tamanosuke i l'autor de l'obra que han de representar, el mestre Chikaishi. Després de l'assaig general, en Chikaishi apareix mort d'un cop al cap i el disquet amb l'obra no hi és.</desc>
+    <length units="seconds">1246</length>
+    <episode-num system="onscreen">133</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
@@ -99,16 +99,15 @@
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/6/9/1781885918096.jpg"/>
   </programme>
-  <programme start="20260901201735 +0200" stop="20260901203841 +0200" channel="sx3">
-    <title lang="ca">Henry Danger</title>
-    <sub-title lang="ca">Massa nivell</sub-title>
-    <desc lang="ca">En Henry expulsat de l'equip de bàsquet descobreix un engany del seu entrenador i, amb l'ajuda del Capità Man, acaba fent justícia.</desc>
-    <length units="seconds">1266</length>
-    <episode-num system="onscreen">10</episode-num>
+  <programme start="20260901230449 +0200" stop="20260901232624 +0200" channel="sx3">
+    <title lang="ca">El detectiu Conan</title>
+    <sub-title lang="ca">El cas de l'assassinat de la companyia de teatre itinerant (2a part)</sub-title>
+    <desc lang="ca">La Itoe, la comptable de la companyia de teatre, apareix morta al fossat de l'escenari. Segons la policia i en Kogoro, en Tamanosuke és el principal sospitós de les dues morts: s'havia barallat amb el senyor Chikaishi, havia descobert que la Itoe havia estafat la companyia i tenia el disquet a la seva habitació. Però en Conan està segur que l'assassí és una altra persona i que en Tamanosuke corre perill.</desc>
+    <length units="seconds">1295</length>
+    <episode-num system="onscreen">134</episode-num>
     <category lang="ca">FICCIÓ</category>
-    <category lang="ca">SÈRIE DRAMÀTICA</category>
+    <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
       <value>INFANTIL</value>
     </rating>
@@ -118,31 +117,52 @@
   <channel id="c33">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20260901192724 +0200" stop="20260901201341 +0200" channel="c33">
-    <title lang="ca">Illes d'Austràlia, amb Martin Clunes</title>
-    <desc lang="ca">En la primera etapa de la seva volta a Austràlia saltant d'illa en illa, Martin Clunes visita l'illa de Lord Howe i l'illa Norfolk, petits trossos de paradís perduts enmig del Pacífic on encara és viu el record de la colonització feta amb presos deportats de la Gran Bretanya. Després visita un Robinson modern que viu sol a l'illa de la Restauració, i salta cap a les illes de l'estret de Torres, on es barregen moltes cultures.</desc>
-    <length units="seconds">2777</length>
+  <programme start="20260901225025 +0200" stop="20260902010756 +0200" channel="c33">
+    <title lang="ca">Pel·lícula</title>
+    <sub-title lang="ca">El pianista</sub-title>
+    <desc lang="ca">EL PIANISTA (The Pianist)Idiomes versió original: anglès, alemany i rusProducció: Agencja Produkcji Fimowej, Le Studio Canal +, Film FernsehFonds Bayern, 2002 (Polònia, França, Gran Bretanya, Alemanya i Holanda)Direcció: Roman PolanskiDurada: 144 minutsGuió: Ronald Harwood, basat en el llibre de memòries de Wladyslaw SzpilmanFotografia: Pawel Edelman (color)Música: Wojciech KilarIntèrprets: Adrien Brody (Wladyslaw Szpilman), Thomas Kretschmann (capità Wilm Hosenfeld), Frank Finlay (pare), Maureen Lipman (mare), Ed Stoppard (Henryk), Emilia Fox (Dorota)Història verídica del brillant pianista polonès Wladyslaw Szpilman. Davant la invasió nazi de Varsòvia, l'actitud de Wladyslaw evoluciona des del distanciament fins al paper de víctima, primer humiliada i finalment assetjada. La sort i l'ajuda desinteressada dels seus amics, un d'ells alemany, faran que aconsegueixi sobreviure.</desc>
+    <credits>
+      <director>Roman PolanskiDurada: 144 minuts</director>
+      <writer>Ronald Harwood</writer>
+      <writer>basat en el llibre de memòries de Wladyslaw SzpilmanFotografia:</writer>
+      <actor>Adrien Brody (Wladyslaw Szpilman)</actor>
+      <actor>Thomas Kretschmann (capità Wilm Hosenfeld)</actor>
+      <actor>Frank Finlay (pare)</actor>
+      <actor>Maureen Lipman (mare)</actor>
+      <actor>Ed Stoppard (Henryk)</actor>
+      <actor>Emilia Fox (Dorota)Història verídica del brillant pianista polonès Wladyslaw Szpilman. Davant la invasió nazi de Varsòvia</actor>
+      <actor>l'actitud de Wladyslaw evoluciona des del distanciament fins al paper de víctima</actor>
+      <actor>primer humiliada</actor>
+      <actor>finalment assetjada. La sort</actor>
+      <actor>l'ajuda desinteressada dels seus amics</actor>
+      <actor>un d'ells alemany</actor>
+      <actor>faran que aconsegueixi sobreviure.</actor>
+    </credits>
+    <length units="seconds">8251</length>
     <episode-num system="onscreen">1</episode-num>
-    <category lang="ca">DIVULGACIÓ</category>
-    <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
+    <category lang="ca">FICCIÓ</category>
+    <category lang="ca">PEL·LÍCULA / TELEFILM</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
+    <icon src="https://img.3cat.cat/multimedia/jpg/0/8/1786098347680.jpg"/>
   </programme>
-  <programme start="20260901201341 +0200" stop="20260901205958 +0200" channel="c33">
-    <title lang="ca">Illes d'Austràlia, amb Martin Clunes</title>
-    <desc lang="ca">Martin Clunes continua el seu viatge al voltant d'Austràlia anant d'illa en illa. Alguna illa només està habitada per aborígens, altres estan deshabitades, en algunes hi viuen pescadors, i l'última és un centre turístic amb una història sinistra. El mar que les envolta, en canvi, sempre és ple de vida. El Martin se submergeix per veure de prop els esculls de corall i els peixos grans i petits que hi viuen.</desc>
-    <length units="seconds">2777</length>
-    <episode-num system="onscreen">2</episode-num>
-    <category lang="ca">DIVULGACIÓ</category>
-    <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
+  <programme start="20260902010756 +0200" stop="20260902021235 +0200" channel="c33">
+    <title lang="ca">El comboi dels 927</title>
+    <sub-title lang="ca">El comboi dels 927</sub-title>
+    <desc lang="ca">El 24 d'agost de 1940, un tren amb 927 refugiats espanyols -molts d'ells catalans- sortia de l'estació d'Angulema, a la regió francesa de la Charente. Les tropes alemanyes de Hitler acabaven de partir França en dues meitats, i els refugiats creien que els portaven a zona no ocupada. Però aviat es van adonar que enfilaven cap al nord. Quatre dies més tard van arribar al poble de Mauthausen. No els sonava de res el nom d'un camp de concentració que, al cap d'uns anys, seria un dels símbols de l'holocaust i l'extermini. Allà mateix, es va produir una dramàtica separació: els soldats alemanys van obligar a baixar els homes, ja fossin vells o criatures, a partir dels 13 anys. Era l'inici de la tragèdia. 470 persones queden internades al camp de Mauthausen, on en morirà el 87%.Els 457 restants, dones i nens petits, comencen un llarg recorregut de tornada. A la desesperació per veure com els han arrencat els homes dels braços s'hi afegeix la incertesa pel seu destí. La parada en un camp de concentració femení -que podria ser Ravensbrück- feia témer el pitjor. Finalment, i després de 18 dies de viatge en condicions infames, les dones i criatures són retornades a l'Espanya de Franco, la mateixa d'on havien fugit acabada la Guerra Civil. Els espera presó, persecució, i el neguit de no poder preguntar pels seus familiars que s'havien quedat a Mauthausen.Al camp, els espanyols havien estat els primers d'arribar-hi. Es pot dir que pràcticament el van construir. I també van ser els primers de patir les conseqüències de la ira dels nazis: encara no havien arribat ni els jueus ni els russos per descarregar la seva bogeria exterminadora. Però els que van sobreviure no van callar: els més joves d'aquest comboi formaran part del comando dels 'Poschacer', peces clau per treure a l'exterior els clixés i fotografies de Francesc Boix, que van ser proves fonamentals de les crueltats dels nazis al judici de Nuremberg.Aquest comboi es caracteritza per ser el primer</desc>
+    <length units="seconds">3879</length>
+    <episode-num system="onscreen">501</episode-num>
+    <category lang="ca">ACTUALITAT</category>
+    <category lang="ca">REPORTATGES</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
+    <icon src="https://statics.ccma.cat/multimedia/jpg/7/3/1571603193237.jpg"/>
   </programme>
   <channel id="oca1">
     <display-name>OCA1</display-name>
@@ -153,18 +173,6 @@
   <channel id="oca3">
     <display-name>OCA3</display-name>
   </channel>
-  <programme start="20260901185953 +0200" stop="20260901202948 +0200" channel="oca3">
-    <title lang="ca">Tot Costa</title>
-    <desc lang="ca">Les últimes hores de mercat seran calmades al Camp Nou. Amb Gabriel Jesus, el Barça tanca el capítol de fitxatges. Pel que fa a les sortides, Marc Casado apunta a sortir en aquest tram final de mercat. Tot plegat després de la tercera victòria a la Lliga, 5 a 2 contra el Rayo.</desc>
-    <length units="seconds">5395</length>
-    <episode-num system="onscreen">999</episode-num>
-    <category lang="ca">ESPORTS</category>
-    <category lang="ca">INFORMATIU DIÀRI</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <icon src="https://img.ccma.cat/multimedia/jpg/0/4/1706209193140.jpg"/>
-  </programme>
   <channel id="oca4">
     <display-name>OCA4</display-name>
   </channel>
