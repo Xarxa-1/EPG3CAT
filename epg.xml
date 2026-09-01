@@ -3,40 +3,36 @@
   <channel id="tvi">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20260901162453 +0200" stop="20260901170327 +0200" channel="tvi">
-    <title lang="ca">La Riera</title>
-    <desc lang="ca">La Lídia entén que, si hi perd en Claudi, també hi perd ella. Per això decideix demanar ajuda al seu pare. Mentrestant, l'Anna col·labora amb la Sònia, però comet un error que la fiscal capta de seguida. La Txell està decidida a marxar a Mallorca i en Joan ho vol evitar. I arriba una visita inesperada per a en Lluís: la Irene.</desc>
-    <length units="seconds">2314</length>
-    <episode-num system="onscreen">118</episode-num>
-    <category lang="ca">FICCIÓ</category>
-    <category lang="ca">TELENOVEL·LA</category>
+  <programme start="20260901191536 +0200" stop="20260901195948 +0200" channel="tvi">
+    <title lang="ca">Moments APM?</title>
+    <desc lang="ca">Estàs de vacances i se't possa cara de pastanaga bullida només de pensar que hauràs d'aguantar dos mesos sense el teu programa preferit? Arriba 'APM?, el Multivers de l'estiu'. Durant juliol i agost TV3 emetrà un recull dels millors moments que s'han emès aquesta última temporada. Al loro! No et perdis els vídeos més divertits de la vint-i-unena temporada amb Nerea Sanfe, Joel Díaz, i tots els teus personatges preferits de l''APM?' #APM3CAT</desc>
+    <length units="seconds">2652</length>
+    <category lang="ca">ENTRETENIMENT</category>
+    <category lang="ca">TELEVISIÓ SOBRE TELEVISIÓ</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <subtitles type="teletext"/>
-    <previously-shown/>
+    <icon src="https://deliverty1.3cat.cat/deliverty/ccrtvi/resources/jpg/8/6/1784831816768.jpg"/>
   </programme>
-  <programme start="20260901170327 +0200" stop="20260901174050 +0200" channel="tvi">
-    <title lang="ca">La Riera</title>
-    <desc lang="ca">És el dia dels comiats de solters de l'Oriol i la Mireia. El d'ella resulta sorprenentment divertit. El d'ell, avorrit, però amb una sorpresa que no ens podíem imaginar, ja que l'Oriol amaga un secret. Un gran secret. I en Lluís es voldria replantejar el futur comptant amb la Irene, però ella... no.</desc>
-    <length units="seconds">2243</length>
-    <episode-num system="onscreen">119</episode-num>
-    <category lang="ca">FICCIÓ</category>
-    <category lang="ca">TELENOVEL·LA</category>
+  <programme start="20260901195948 +0200" stop="20260901210000 +0200" channel="tvi">
+    <title lang="ca">Atrapa'm si pots, estiu</title>
+    <desc lang="ca">'Atrapa'm si pots' és un 'quiz show' clàssic, de preguntes i respostes, presentat per Llucià Ferrer, en què sis concursants competeixen per arribar a la fase final i guanyar el pot. 'Atrapa'm si pots' és entreteniment pur i on gairebé és més important passar-s'ho bé que els diners. És un concurs en què pesa més la intuïció que no els coneixements acadèmics, més l'estratègia en el joc que no la sort.</desc>
+    <length units="seconds">3612</length>
+    <episode-num system="onscreen">984</episode-num>
+    <category lang="ca">ENTRETENIMENT</category>
+    <category lang="ca">CONCURS</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <subtitles type="teletext"/>
-    <previously-shown/>
   </programme>
   <channel id="324">
     <display-name>324</display-name>
   </channel>
-  <programme start="20260901163000 +0200" stop="20260901170000 +0200" channel="324">
+  <programme start="20260901183000 +0200" stop="20260901200000 +0200" channel="324">
     <title lang="ca">Notícies 3CatInfo</title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">1800</length>
-    <episode-num system="onscreen">11057</episode-num>
+    <length units="seconds">5400</length>
+    <episode-num system="onscreen">11059</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
@@ -45,46 +41,44 @@
     <subtitles type="teletext"/>
     <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
-  <programme start="20260901170000 +0200" stop="20260901183000 +0200" channel="324">
+  <programme start="20260901200000 +0200" stop="20260901210000 +0200" channel="324">
     <title lang="ca">Notícies 3CatInfo</title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">5400</length>
-    <episode-num system="onscreen">11058</episode-num>
+    <length units="seconds">3600</length>
+    <episode-num system="onscreen">11060</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <subtitles type="teletext"/>
     <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
   <channel id="esport3">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20260901160441 +0200" stop="20260901165352 +0200" channel="esport3">
-    <title lang="ca">Vida</title>
-    <sub-title lang="ca">Rèptils i amfibis</sub-title>
-    <desc lang="ca">Des de les immensitats de gel fins als deserts més àrids, els rèptils i els amfibis han utilitzat el seu cos peciloterm i prehistòric, juntament amb una sèrie de sofisticades innovacions comportamentals, per dominar els entorns més severs del planeta. Mitjançant tècniques de cacera despietades, un camuflatge extraordinari, astúcia i una resistència física total, habiten còmodament indrets que mamífers i aus no gosen ni trepitjar. Aquesta setmana contemplarem dragons de Komodo caçant búfals, serps marines amb un dels verins més tòxics del món que es reprodueixen en coves, els bots aparentment suïcides d'un gripau (Oreophrynella macconnelli) , la tendra i gegantesca granota bramadora africana, que excava canals d'aigua per salvar les seves cries i també les d'altres espècies i llangardaixos que caminen sobre l'aigua.</desc>
-    <length units="seconds">2951</length>
-    <episode-num system="onscreen">2</episode-num>
-    <category lang="ca">DIVULGACIÓ</category>
-    <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
+  <programme start="20260901190000 +0200" stop="20260901203043 +0200" channel="esport3">
+    <title lang="ca">Tot Costa</title>
+    <sub-title lang="ca">Final de mercat tranquil al Barça</sub-title>
+    <desc lang="ca">Les últimes hores de mercat seran calmades al Camp Nou. Amb Gabriel Jesus, el Barça tanca el capítol de fitxatges. Pel que fa a les sortides, Marc Casado apunta a sortir en aquest tram final de mercat. Tot plegat després de la tercera victòria a la Lliga, 5 a 2 contra el Rayo.</desc>
+    <length units="seconds">5443</length>
+    <episode-num system="onscreen">999</episode-num>
+    <category lang="ca">ESPORTS</category>
+    <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
-    <previously-shown/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/0/4/1706209193140.jpg"/>
   </programme>
-  <programme start="20260901165352 +0200" stop="20260901173759 +0200" channel="esport3">
-    <title lang="ca">Arxipèlag blau</title>
-    <sub-title lang="ca">Albuferes i aigües somes</sub-title>
-    <desc lang="ca">En aquest capítol conduït per Miquel Salamanca seguirem el camí de l'aigua, des de la pluja, passant pels torrents i les zones humides, fins a la vorera de la mar. Ens detindrem a un peculiar ecosistema d'aigua dolça, a s'Albufera, on trobem espècies úniques i amenaçades per la salinització. Seguint el camí de l'anguila arribarem a la mar, on coneixerem les aigües somes, uns ambients litorals resguardats i de poca fondària, de gran importància com a refugi, zona de cria i de creixement dels exemplars juvenils de moltes espècies de peixos. Aquí trobem plantes marines com l'algueró, algues úniques al món i espècies tan peculiars com els serpetons i agulletes. Es tracta d'un ambient fràgil que ha patit molt les transformacions de les nostres costes. Per finalitzar acompanyarem Gàdor Muntaner per la badia de Fornells amb la biòloga Emma Cebrián.</desc>
-    <length units="seconds">2647</length>
-    <episode-num system="onscreen">2</episode-num>
-    <category lang="ca">DIVULGACIÓ</category>
-    <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
+  <programme start="20260901203043 +0200" stop="20260901210109 +0200" channel="esport3">
+    <title lang="ca">Crackòvia</title>
+    <desc lang="ca">El 'Crackòvia' 2015-2016 tornarà a la tardor amb energies renovades. Als personatges ja habituals i consolidats al programa com el trident, Luis Enrique, Collet, Florentino, Cristiano... s'hi sumaran els flamants fitxatges de la temporada encapçalats per Arda Turan o l'entrenador del Reial Madrid Rafa Benítez.El programa seguirà l'intent de sextet del Barça, l'intent de resurrecció del Reial Madrid i l'intent de superar les baixes de l'estiu de l'Espanyol a través de la seva fórmula de sketchos intercalats amb resums del partit, escenes entre les bambolines del plató, peces gràfiques i moltes altres sorpreses.Aconseguirà Luis Enrique igualar a Guardiola? Aconseguirà Florentino quedar-se sol al Reial Madrid? Aconseguirà Collet no patir gaire? Tot això ho veurem en la propera temporada de 'Crackòvia'.</desc>
+    <length units="seconds">1826</length>
+    <episode-num system="onscreen">239</episode-num>
+    <category lang="ca">ENTRETENIMENT</category>
+    <category lang="ca">GAGS. HUMOR</category>
     <rating>
-      <value>TOTS ELS PÚBLICS</value>
+      <value>JUVENIL</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
@@ -92,12 +86,12 @@
   <channel id="sx3">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20260901161746 +0200" stop="20260901163847 +0200" channel="sx3">
+  <programme start="20260901195400 +0200" stop="20260901201735 +0200" channel="sx3">
     <title lang="ca">Espies de veritat</title>
-    <sub-title lang="ca">La interiorista terrorista</sub-title>
-    <desc lang="ca">La desaparició d'algunes de les interioristes més famoses del món ha fet que les Espies es plantessin al Taj Mahal per comprovar que algú l'ha redecorat i l'ha deixat fet un nyap! Més tard, a la Casa Blanca han descobert que la responsable de les desaparicions és la Maggie Demoda, fins fa poc la interiorista més infravalorada de tot el planeta.</desc>
-    <length units="seconds">1261</length>
-    <episode-num system="onscreen">144</episode-num>
+    <sub-title lang="ca">Frankenpanda</sub-title>
+    <desc lang="ca">Les espies de veritat, que estan amoïnades per si les seves dots d'espia s'han rovellat durant l'estiu, reben un encàrrec d'una cap nova. Aquesta vegada han d'anar a Singapur a descobrir qui ha atacat un vaixell per robar galledes i estris de cuina. En els carrers de la moderna ciutat asiàtica s'hauran d'enfrontar a un robot molt especial que té forma d'os panda.</desc>
+    <length units="seconds">1415</length>
+    <episode-num system="onscreen">157</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
@@ -107,30 +101,28 @@
     <previously-shown/>
     <icon src="https://img.ccma.cat/multimedia/jpg/6/9/1781885918096.jpg"/>
   </programme>
-  <programme start="20260901163847 +0200" stop="20260901165920 +0200" channel="sx3">
-    <title lang="ca">Espies de veritat</title>
-    <sub-title lang="ca">Woohp a la vista</sub-title>
-    <desc lang="ca">El que havia de ser un creuer de plaer al WHOOPtànic, on en Jerry hi presenta la seva nova línia de dispositius, ha acabat en un assalt pirata amb totes les de la llei. El malvat Capità Goleta ha segrestat el WHOOPtànic! Però és que ara vol fer servir el raig EROS per sobreescalfar el sol, fondre els casquets polars i inundar tot el planeta per convertir-lo en un paradís aquàtic!</desc>
-    <length units="seconds">1233</length>
-    <episode-num system="onscreen">145</episode-num>
+  <programme start="20260901201735 +0200" stop="20260901203841 +0200" channel="sx3">
+    <title lang="ca">Henry Danger</title>
+    <sub-title lang="ca">Massa nivell</sub-title>
+    <desc lang="ca">En Henry expulsat de l'equip de bàsquet descobreix un engany del seu entrenador i, amb l'ajuda del Capità Man, acaba fent justícia.</desc>
+    <length units="seconds">1266</length>
+    <episode-num system="onscreen">10</episode-num>
     <category lang="ca">FICCIÓ</category>
-    <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
+    <category lang="ca">SÈRIE DRAMÀTICA</category>
     <rating>
       <value>INFANTIL</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/6/9/1781885918096.jpg"/>
   </programme>
   <channel id="c33">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20260901160834 +0200" stop="20260901165059 +0200" channel="c33">
-    <title lang="ca">Arxipèlag blau</title>
-    <sub-title lang="ca">Albuferes i aigües somes</sub-title>
-    <desc lang="ca">En aquest capítol conduït per Miquel Salamanca seguirem el camí de l'aigua, des de la pluja, passant pels torrents i les zones humides, fins a la vorera de la mar. Ens detindrem a un peculiar ecosistema d'aigua dolça, a s'Albufera, on trobem espècies úniques i amenaçades per la salinització. Seguint el camí de l'anguila arribarem a la mar, on coneixerem les aigües somes, uns ambients litorals resguardats i de poca fondària, de gran importància com a refugi, zona de cria i de creixement dels exemplars juvenils de moltes espècies de peixos. Aquí trobem plantes marines com l'algueró, algues úniques al món i espècies tan peculiars com els serpetons i agulletes. Es tracta d'un ambient fràgil que ha patit molt les transformacions de les nostres costes. Per finalitzar acompanyarem Gàdor Muntaner per la badia de Fornells amb la biòloga Emma Cebrián.</desc>
-    <length units="seconds">2545</length>
-    <episode-num system="onscreen">2</episode-num>
+  <programme start="20260901192724 +0200" stop="20260901201341 +0200" channel="c33">
+    <title lang="ca">Illes d'Austràlia, amb Martin Clunes</title>
+    <desc lang="ca">En la primera etapa de la seva volta a Austràlia saltant d'illa en illa, Martin Clunes visita l'illa de Lord Howe i l'illa Norfolk, petits trossos de paradís perduts enmig del Pacífic on encara és viu el record de la colonització feta amb presos deportats de la Gran Bretanya. Després visita un Robinson modern que viu sol a l'illa de la Restauració, i salta cap a les illes de l'estret de Torres, on es barregen moltes cultures.</desc>
+    <length units="seconds">2777</length>
+    <episode-num system="onscreen">1</episode-num>
     <category lang="ca">DIVULGACIÓ</category>
     <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
     <rating>
@@ -139,12 +131,11 @@
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20260901165059 +0200" stop="20260901171709 +0200" channel="c33">
-    <title lang="ca">Catalunya salvatge</title>
-    <sub-title lang="ca">Horitzons esteparis</sub-title>
-    <desc lang="ca">'Catalunya salvatge' és una sèrie documental de 13 capítols que donarà a conèixer als espectadors els ecosistemes més representatius del nostre país. Des dels cims del Pirineu fins a les llacunes del delta de l'Ebre, 'Catalunya salvatge' farà un repàs de la flora i la fauna dels paratges més emblemàtics de Catalunya.Els seguidors de la sèrie tindran, doncs, una finestra privilegiada a la biodiversitat del Parc Nacional d'Aigüestortes, la muntanya de Montserrat, la zona volcànica de la Garrotxa, els aiguamolls de l'Empordà o el món submarí de les illes Medes.El primer ecosistema explorat en profunditat serà el d'alta muntanya, on la supervivència no és gens fàcil.(tardor 2010)</desc>
-    <length units="seconds">1570</length>
-    <episode-num system="onscreen">3</episode-num>
+  <programme start="20260901201341 +0200" stop="20260901205958 +0200" channel="c33">
+    <title lang="ca">Illes d'Austràlia, amb Martin Clunes</title>
+    <desc lang="ca">Martin Clunes continua el seu viatge al voltant d'Austràlia anant d'illa en illa. Alguna illa només està habitada per aborígens, altres estan deshabitades, en algunes hi viuen pescadors, i l'última és un centre turístic amb una història sinistra. El mar que les envolta, en canvi, sempre és ple de vida. El Martin se submergeix per veure de prop els esculls de corall i els peixos grans i petits que hi viuen.</desc>
+    <length units="seconds">2777</length>
+    <episode-num system="onscreen">2</episode-num>
     <category lang="ca">DIVULGACIÓ</category>
     <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
     <rating>
@@ -162,6 +153,18 @@
   <channel id="oca3">
     <display-name>OCA3</display-name>
   </channel>
+  <programme start="20260901185953 +0200" stop="20260901202948 +0200" channel="oca3">
+    <title lang="ca">Tot Costa</title>
+    <desc lang="ca">Les últimes hores de mercat seran calmades al Camp Nou. Amb Gabriel Jesus, el Barça tanca el capítol de fitxatges. Pel que fa a les sortides, Marc Casado apunta a sortir en aquest tram final de mercat. Tot plegat després de la tercera victòria a la Lliga, 5 a 2 contra el Rayo.</desc>
+    <length units="seconds">5395</length>
+    <episode-num system="onscreen">999</episode-num>
+    <category lang="ca">ESPORTS</category>
+    <category lang="ca">INFORMATIU DIÀRI</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <icon src="https://img.ccma.cat/multimedia/jpg/0/4/1706209193140.jpg"/>
+  </programme>
   <channel id="oca4">
     <display-name>OCA4</display-name>
   </channel>
