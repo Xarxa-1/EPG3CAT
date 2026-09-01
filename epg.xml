@@ -3,77 +3,72 @@
   <channel id="tvi">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20260901220731 +0200" stop="20260901232420 +0200" channel="tvi">
-    <title lang="ca">Nits Sense ficció</title>
-    <sub-title lang="ca">L'Àliga vola</sub-title>
-    <desc lang="ca">'I l'àliga vola' narra l'últim repte de Sergi Mingote, fer cim al K2, la segona muntanya més alta del món i una de les més mortíferes, i fer-ho a l'hivern, que és el que en aquell moment encara ningú havia aconseguit.Però el mateix temps el documental també narra totes les vivències que envolten les expedicions així com el dia a dia de la seva família mentre ell intentava aconseguir el seu repte. És doncs, un viatge intern i extern que vindrà acompanyat dels testimonis d'aquells que han format part de la vida del Sergi, acompanyant-lo en els seus reptes.</desc>
-    <length units="seconds">4609</length>
-    <episode-num system="onscreen">1</episode-num>
-    <category lang="ca">ACTUALITAT</category>
-    <category lang="ca">DOCUMENTAL</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-  </programme>
-  <programme start="20260901232004 +0200" stop="20260902001947 +0200" channel="tvi">
-    <title lang="ca">Nits Sense ficció</title>
-    <sub-title lang="ca">265 dies sense onades</sub-title>
-    <desc lang="ca">'265 dies sense onades', (2022) una coproducció de Glassy Films, Elemental Komunika i Kalapa Studio, amb la participació de TV3 i Agència Rider.El documental mostra com l'evolució del surf ha anat en paral·lel al desenvolupament socioeconòmic de Barcelona i les poblacions properes des dels anys 60 fins avui. Entre els seus protagonistes, apassionats i intrèpids, descobrim els pioners que es van atrevir a trencar mites, i també les noves generacions que viuen el surf d'una manera del tot diferent. Fitxa tècnica:Direcció: Julie Gómez Guió: Rebeca Arnal Productor: Yago de la Sotilla Producció executiva TV3: Jordi Ambròs Hortensi Edició continguts TV3: Montse Armengou Martín Realització TV3: Ricard Belis García Producció delegada TV3: Daniel Barea Delgado Director fotografia: Bruno Amaral Muntatge: Jorge Sales Director de producció: Mariona Gea Música: Ultim Cavall Lingüista: Jordi Espinet Grafisme: Palouzié Studio </desc>
-    <credits>
-      <director>Julie</director>
-      <writer>Rebeca Arnal</writer>
-    </credits>
-    <length units="seconds">3583</length>
-    <episode-num system="onscreen">1</episode-num>
+  <programme start="20260902002226 +0200" stop="20260902011507 +0200" channel="tvi">
+    <title lang="ca">La Renaixença</title>
+    <sub-title lang="ca">La radiografia</sub-title>
+    <desc lang="ca">Ens ha sorprès saber que actualment els metges ja no donen radiografies. Segur que la decisió té algun sentit, però sap greu saber que ja no et pots fer el fatxenda ensenyant les radiografies dels ossos que t'has trencat. Doncs això, que dediquem el programa a la radiografia. També ens visita una sardanista, la Nàdia Cordón. Una visita molt adient. I passegem el gos pel dia del llamp de Brescia, quan es va evidenciar que cal instal·lar parallamps a les esglésies. El motiu que els porta a prendre aquesta decisió no us l'imagineu pas.</desc>
+    <length units="seconds">3161</length>
+    <episode-num system="onscreen">222</episode-num>
     <category lang="ca">DIVULGACIÓ</category>
-    <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
+    <category lang="ca">ALTRES</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <subtitles type="teletext"/>
     <previously-shown/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/3/3/1756148014833.jpg"/>
   </programme>
-  <channel id="324">
-    <display-name>324</display-name>
-  </channel>
-  <programme start="20260901210000 +0200" stop="20260901230000 +0200" channel="324">
-    <title lang="ca">Telenotícies vespre</title>
-    <length units="seconds">7200</length>
-    <episode-num system="onscreen">7314</episode-num>
-    <category lang="ca">ACTUALITAT</category>
-    <category lang="ca">INFORMATIU DIÀRI</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <subtitles type="teletext"/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/7/2/1758026176427.jpg"/>
-  </programme>
-  <programme start="20260901230000 +0200" stop="20260902000000 +0200" channel="324">
+  <programme start="20260902011507 +0200" stop="20260902043000 +0200" channel="tvi">
     <title lang="ca">Notícies 3CatInfo</title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">3600</length>
+    <length units="seconds">11693</length>
     <episode-num system="onscreen">11061</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
+    <previously-shown/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
+  </programme>
+  <channel id="324">
+    <display-name>324</display-name>
+  </channel>
+  <programme start="20260902010000 +0200" stop="20260902060000 +0200" channel="324">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="seconds">18000</length>
+    <episode-num system="onscreen">11062</episode-num>
+    <category lang="ca">ACTUALITAT</category>
+    <category lang="ca">INFORMATIU DIÀRI</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <subtitles type="teletext"/>
+    <previously-shown/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
+  </programme>
+  <programme start="20260902060000 +0200" stop="20260902070000 +0200" channel="324">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="seconds">3600</length>
+    <episode-num system="onscreen">11062</episode-num>
+    <category lang="ca">ACTUALITAT</category>
+    <category lang="ca">INFORMATIU DIÀRI</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <subtitles type="teletext"/>
+    <previously-shown/>
     <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
   <channel id="esport3">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20260901224443 +0200" stop="20260901230000 +0200" channel="esport3">
-    <title lang="ca">Presentació Gabriel Jesus</title>
-    <desc lang="ca">Sense Descripció</desc>
-    <length units="seconds">917</length>
-    <subtitles type="teletext"/>
-  </programme>
-  <programme start="20260901230000 +0200" stop="20260902003108 +0200" channel="esport3">
+  <programme start="20260902004940 +0200" stop="20260902022244 +0200" channel="esport3">
     <title lang="ca">Onze</title>
     <sub-title lang="ca">Tancament mercat; Gabriel Jesus culer i 'El colegiado'</sub-title>
     <desc lang="ca">Carles Fité, Gemma Mallorca, Xavi Torres i Jordi Martí comenten en directe els últims minuts del mercat d'estiu i les primeres paraules de Gabriel Jesus com a barcelonista. El Joan Fàbregas analitza les jugades polèmiques de la jornada.</desc>
-    <length units="seconds">5468</length>
+    <length units="seconds">5584</length>
     <episode-num system="onscreen">1241</episode-num>
     <category lang="ca">ESPORTS</category>
     <category lang="ca">MAGAZINE</category>
@@ -81,17 +76,31 @@
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
+    <previously-shown/>
     <icon src="https://img.ccma.cat/multimedia/jpg/1/1/1688543515711.jpg"/>
+  </programme>
+  <programme start="20260902022244 +0200" stop="20260902025010 +0200" channel="esport3">
+    <title lang="ca">3CatInfo Esports</title>
+    <desc lang="ca">Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.</desc>
+    <length units="seconds">1646</length>
+    <episode-num system="onscreen">5496</episode-num>
+    <category lang="ca">ESPORTS</category>
+    <category lang="ca">INFORMATIU DIÀRI</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <previously-shown/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/9/7/1758888682179.jpg"/>
   </programme>
   <channel id="sx3">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20260901224403 +0200" stop="20260901230449 +0200" channel="sx3">
-    <title lang="ca">El detectiu Conan</title>
-    <sub-title lang="ca">El cas de l'assassinat de la companyia de teatre itinerant (1a part)</sub-title>
-    <desc lang="ca">A la classe de la Ran i la Sonoko hi ha un alumne nou: en Tamanosuke Ido, el jove director d'una companyia teatral itinerant. Al teatre, les noies i la Lliga de Detectius Júnior presencien una baralla entre en Tamanosuke i l'autor de l'obra que han de representar, el mestre Chikaishi. Després de l'assaig general, en Chikaishi apareix mort d'un cop al cap i el disquet amb l'obra no hi és.</desc>
-    <length units="seconds">1246</length>
-    <episode-num system="onscreen">133</episode-num>
+  <programme start="20260902005114 +0200" stop="20260902011245 +0200" channel="sx3">
+    <title lang="ca">Els germans Kratt</title>
+    <sub-title lang="ca">El nostre món blau i verd. 1a part</sub-title>
+    <desc lang="ca">Avui toca fer bugada i els germans Kratt, a partir d'una discrepància per la manera de rentar segons el color de la roba, comencen a discutir si és millor el verd del bosc o el blau del mar. Tots dos es posen a defensar el seu color i acaben distanciats; la resta de l'equip tindrà la difícil missió de mirar que es tornin a ajuntar.</desc>
+    <length units="seconds">1291</length>
+    <episode-num system="onscreen">166</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
@@ -100,12 +109,12 @@
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20260901230449 +0200" stop="20260901232624 +0200" channel="sx3">
-    <title lang="ca">El detectiu Conan</title>
-    <sub-title lang="ca">El cas de l'assassinat de la companyia de teatre itinerant (2a part)</sub-title>
-    <desc lang="ca">La Itoe, la comptable de la companyia de teatre, apareix morta al fossat de l'escenari. Segons la policia i en Kogoro, en Tamanosuke és el principal sospitós de les dues morts: s'havia barallat amb el senyor Chikaishi, havia descobert que la Itoe havia estafat la companyia i tenia el disquet a la seva habitació. Però en Conan està segur que l'assassí és una altra persona i que en Tamanosuke corre perill.</desc>
-    <length units="seconds">1295</length>
-    <episode-num system="onscreen">134</episode-num>
+  <programme start="20260902011245 +0200" stop="20260902012439 +0200" channel="sx3">
+    <title lang="ca">Les Sisters</title>
+    <sub-title lang="ca">Festival de Sisters</sub-title>
+    <desc lang="ca">Jugant a buscar ninos, la Marine troba al garatge una videocàmera vella amb unes quantes cintes. Les germanes en miren una i descobreixen que el seu pare feia pel·lícules de terror amb la seva mare. La Marine i la Wendy es riuen del film del seu pare, que les desafia a fer-ne un de millor. Les germanes faran una pel·lícula i els pares, una altra. A veure qui s'endú la Palma de Pommes les Bains!</desc>
+    <length units="seconds">714</length>
+    <episode-num system="onscreen">113</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
