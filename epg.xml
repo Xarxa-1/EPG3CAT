@@ -3,52 +3,51 @@
   <channel id="tvi">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20260901060001 +0200" stop="20260901070000 +0200" channel="tvi">
+  <programme start="20260901100000 +0200" stop="20260901123000 +0200" channel="tvi">
     <title lang="ca">Notícies 3CatInfo</title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">3599</length>
-    <episode-num system="onscreen">11053</episode-num>
+    <length units="seconds">9000</length>
+    <episode-num system="onscreen">11055</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
+  </programme>
+  <programme start="20260901123000 +0200" stop="20260901125619 +0200" channel="tvi">
+    <title lang="ca">Roda de premsa posterior al Consell Executiu</title>
+    <length units="seconds">1579</length>
+    <episode-num system="onscreen">143</episode-num>
+    <category lang="ca">ACTUALITAT</category>
+    <category lang="ca">ESPECIALS INFORMATIUS</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <previously-shown/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
-  </programme>
-  <programme start="20260901070000 +0200" stop="20260901100000 +0200" channel="tvi">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">10800</length>
-    <episode-num system="onscreen">11054</episode-num>
-    <category lang="ca">ACTUALITAT</category>
-    <category lang="ca">INFORMATIU DIÀRI</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/7/2/1698684561127.jpg"/>
   </programme>
   <channel id="324">
     <display-name>324</display-name>
   </channel>
-  <programme start="20260901060000 +0200" stop="20260901070000 +0200" channel="324">
+  <programme start="20260901100000 +0200" stop="20260901130000 +0200" channel="324">
     <title lang="ca">Notícies 3CatInfo</title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">3600</length>
-    <episode-num system="onscreen">11053</episode-num>
+    <length units="seconds">10800</length>
+    <episode-num system="onscreen">11055</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <previously-shown/>
+    <subtitles type="teletext"/>
     <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
-  <programme start="20260901070000 +0200" stop="20260901100000 +0200" channel="324">
+  <programme start="20260901130000 +0200" stop="20260901140000 +0200" channel="324">
     <title lang="ca">Notícies 3CatInfo</title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">10800</length>
-    <episode-num system="onscreen">11054</episode-num>
+    <length units="seconds">3600</length>
+    <episode-num system="onscreen">11056</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
@@ -60,25 +59,11 @@
   <channel id="esport3">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20260901063920 +0200" stop="20260901073156 +0200" channel="esport3">
-    <title lang="ca">WRC</title>
-    <sub-title lang="ca">Ral·li del Paraguai / WRC 2026 / Resum final</sub-title>
-    <desc lang="ca">Onzena de les catorze proves del Campionat del Món. El Ral·li del Paraguai té un recorregut total de 359 quilòmetres cronometrats dividits en 22 trams, majoritàriament sobre carreteres de terra. Us oferim el més destacat de la cursa amb la conducció de Noel Rodríguez i l'assistència de Santi Torres. </desc>
-    <length units="seconds">3156</length>
-    <episode-num system="onscreen">253</episode-num>
-    <category lang="ca">ESPORTS</category>
-    <category lang="ca">RETRANSMISSIONS ESPORTS</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <previously-shown/>
-    <icon src="https://img.3cat.cat/multimedia/jpg/1/7/1783953384771.jpg"/>
-  </programme>
-  <programme start="20260901073156 +0200" stop="20260901084729 +0200" channel="esport3">
+  <programme start="20260901114439 +0200" stop="20260901130000 +0200" channel="esport3">
     <title lang="ca">Gol a gol</title>
     <sub-title lang="ca">Post Barça-Rayo / J3</sub-title>
     <desc lang="ca">'Gol a gol' us ofereix els resums dels partits de futbol de Primera i Segona Divisió. Presentat per Jordi Grau a Esport3, cada dissabte i cada diumenge podeu veure les millors imatges de la jornada de Lliga amb l'anàlisi dels experts, amb especial atenció als equips catalans, sobretot el Barça, el Girona i l'Espanyol.</desc>
-    <length units="seconds">4533</length>
+    <length units="seconds">4521</length>
     <episode-num system="onscreen">1770</episode-num>
     <category lang="ca">ESPORTS</category>
     <category lang="ca">MAGAZINE</category>
@@ -89,31 +74,42 @@
     <previously-shown/>
     <icon src="https://img.ccma.cat/multimedia/jpg/2/1/1698144123212.jpg"/>
   </programme>
+  <programme start="20260901130000 +0200" stop="20260901140058 +0200" channel="esport3">
+    <title lang="ca">Esport Club</title>
+    <desc lang="ca">En Jordi Sanuy i Víctor Patsi us expliquen l'última hora esportiva i l'analitzen amb el seu equip de col·laboradors. El programa és molt actiu a les xarxes socials. L''Esport Club' té presència a Twitter, a Facebook i a Instagram. L'espai dirigeix moltes accions de participació amb l'audiència a través de les xarxes socials.</desc>
+    <length units="seconds">3658</length>
+    <episode-num system="onscreen">3230</episode-num>
+    <category lang="ca">ESPORTS</category>
+    <category lang="ca">INFORMATIU DIÀRI</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <subtitles type="teletext"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/7/3/1698145091337.jpg"/>
+  </programme>
   <channel id="sx3">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20260901064524 +0200" stop="20260901065645 +0200" channel="sx3">
-    <title lang="ca">L'abella Maia</title>
-    <sub-title lang="ca">En boca d'or</sub-title>
-    <desc lang="ca">En Boca d'Or, el rei de l'intercanvi i enredaire de mena, faria qualsevol cosa per enamorar la Dama Grill, fins i tot robar-li el violí a en Flip per cantar-li un cançó! Els únics que saben on el guarda són la Maia i en Willi. La Maia té molt clar què és guardar un secret. En Willi, en canvi, és més fàcil de convèncer, i en Boca d'Or té molt clar com ho ha de fer!</desc>
-    <length units="seconds">681</length>
-    <episode-num system="onscreen">75</episode-num>
+  <programme start="20260901114642 +0200" stop="20260901115859 +0200" channel="sx3">
+    <title lang="ca">Ghost Rockers</title>
+    <desc lang="ca">En Jimmy vol salvar l'estrena del musical malgrat la manca de recursos. Mentrestant, en Brandon, la Mila, la Fenne i en Jonas van a la fortalesa a buscar-hi el calze enverinat de Florència. No saben, però, que la banda de la Serp d'Or els segueix de prop. Juntament amb el calze, hi troben una carta de l'Helena adreçada a en Brandon. Per fi coneixeran els motius reals de les seves accions.</desc>
+    <length units="seconds">737</length>
+    <episode-num system="onscreen">154</episode-num>
     <category lang="ca">FICCIÓ</category>
-    <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
+    <category lang="ca">SÈRIE DRAMÀTICA</category>
     <rating>
       <value>INFANTIL</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20260901065645 +0200" stop="20260901072131 +0200" channel="sx3">
-    <title lang="ca">Les Tres Bessones</title>
-    <sub-title lang="ca">Les tres bessones i Robin Hood</sub-title>
-    <desc lang="ca">La Bruixa Avorrida ha enviat les Tres Bessones a un bosc preciós, el bosc de Sherwood. Allà és on viuen en Robin Hood i els seus amics, amb qui les nenes compartiran una aventura que l'Avorrida només intenta complicar. Les nenes fins i tot acabaran coneixent el rei Ricard Cor de Lleó!</desc>
-    <length units="seconds">1486</length>
-    <episode-num system="onscreen">34</episode-num>
+  <programme start="20260901115859 +0200" stop="20260901120927 +0200" channel="sx3">
+    <title lang="ca">Ghost Rockers</title>
+    <desc lang="ca">La identitat del líder de la Serp d'Or és una sorpresa majúscula per a la colla.   Després d'admetre que és ell qui va matar la mare d'en Brandon, els abandona en una sala de tortura de la fortalesa. Mentrestant, en Jimmy prova de seguir el rastre dels seus amics per alliberar-los. És una cursa contra rellotge perquè el sostre on estan tancats comença a enfonsar-se i el temps s'acaba...</desc>
+    <length units="seconds">628</length>
+    <episode-num system="onscreen">155</episode-num>
     <category lang="ca">FICCIÓ</category>
-    <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
+    <category lang="ca">SÈRIE DRAMÀTICA</category>
     <rating>
       <value>INFANTIL</value>
     </rating>
@@ -123,33 +119,33 @@
   <channel id="c33">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20260901061632 +0200" stop="20260901064835 +0200" channel="c33">
-    <title lang="ca">Quèquicom</title>
-    <sub-title lang="ca">Accidents infantils</sub-title>
-    <desc lang="ca">La reportera Georgina Pujol té un nen d'un any força entremaliat. Intenta tocar els endolls, enfilar-se a les baranes, llepar tot el que troba... Els accidents són la primera causa de mort en criatures de fins a 14 anys. A l'hospital St. Joan de Déu assisteix a un curset de primers auxilis. Se n'adona que aliments com la fruita seca, les salsitxes de frankfurt o la pastanaga crua poden taponar les vies respiratòries dels infants i provocar ennuegaments. S'ha de saber com es fa la maniobra de Hemlich pot salvar la vida d'una persona.El dia a dia està ple de paranys per a un infant. Accidents de cotxe, ofegaments, cops i cremades són la primera causa de mort en les criatures. La Georgina posa casa seva a prova de nens i es pregunta com podem fer del nostre entorn un lloc més segur.Què s'ha de fer si un infant queda inconscient per una aturada cardiorespiratòria? Tot i que és poc freqüent en infants, és molt greu. El doctor Jordi Pou, especialista en lesions infantils, ensenya com s'ha de practicar la reanimació cardiopulmonar en un nadó, que es fa de manera lleugerament diferent que en els adults.I quan un nen es fa una cremada? En contra de la creença popular, no hem d'aplicar pomades, pasta dentífrica ni cremes hidratants. S'ha d'aplicar aigua freda una bona estona. Si la cremada és extensa o profunda cal anar a un centre.Si l'infant es dona un cop al cap és normal que vomiti a causa de l'ensurt, però si ho fa diverses vegades pot ser conseqüència del traumatisme. En aquest cas, cal portar-lo immediatament a urgències. L'especialista Carles Luaces, cap d'Urgències de l'Hospital de Sant Joan de Deu, explica la importància de deixar el nen en observació i en cas que presenti una manifestació clínica, pot ser necessari fer una TAC per veure si hi ha lesió interna.</desc>
-    <length units="seconds">1923</length>
-    <episode-num system="onscreen">318</episode-num>
+  <programme start="20260901111851 +0200" stop="20260901120604 +0200" channel="c33">
+    <title lang="ca">Aeroport</title>
+    <sub-title lang="ca">L'avió</sub-title>
+    <desc lang="ca">Una de cada quatre persones té por de volar, tot i això, l'avió és un transport molt segur. Fins i tot quan ha d'aterrar amb un sol motor a causa d'un incendi. No és estrany que els SPOTTERS recorrin els aeroports de tot el món per fotografiar avions estel·lars, com l'Airbus A380.</desc>
+    <length units="seconds">2833</length>
+    <episode-num system="onscreen">15</episode-num>
     <category lang="ca">DIVULGACIÓ</category>
-    <category lang="ca">MAGAZINE ESPECIALITZAT</category>
+    <category lang="ca">Docu-Entreteniment</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20260901064835 +0200" stop="20260901071759 +0200" channel="c33">
-    <title lang="ca">Quèquicom</title>
-    <sub-title lang="ca">Viver de científics</sub-title>
-    <desc lang="ca">El centre Món Natura Pirineus, a les Planes de Son, és un viver de joves científics. Des del 2007 la Fundació la Pedrera hi organitza les estades Joves i Ciència. Durant dues setmanes estudiants d'arreu de Catalunya fan classe de teoria, pràctiques al laboratori i treball de camp en les àrees de biologia o astronomia. Per arribar aquí han hagut de superar un exigent procés de selecció. De 800 candidats, se n'han triat 50, en funció de l'expedient acadèmic, una carta de motivació i una entrevista personal. Aquesta experiència els marca positivament per a la resta de la seva vida, tant en l'àmbit personal com professional.</desc>
-    <length units="seconds">1764</length>
-    <episode-num system="onscreen">319</episode-num>
-    <category lang="ca">DIVULGACIÓ</category>
-    <category lang="ca">MAGAZINE ESPECIALITZAT</category>
+  <programme start="20260901120604 +0200" stop="20260901124138 +0200" channel="c33">
+    <title lang="ca">Tot o res</title>
+    <sub-title lang="ca">Tot o res</sub-title>
+    <length units="seconds">2134</length>
+    <episode-num system="onscreen">22</episode-num>
+    <category lang="ca">ENTRETENIMENT</category>
+    <category lang="ca">CONCURS</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
+    <icon src="http://statics.ccma.cat/multimedia/jpg/3/7/1487784560073.jpg"/>
   </programme>
   <channel id="oca1">
     <display-name>OCA1</display-name>
