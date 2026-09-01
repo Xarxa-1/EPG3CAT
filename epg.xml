@@ -3,18 +3,10 @@
   <channel id="tvi">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20260901004935 +0200" stop="20260901060001 +0200" channel="tvi">
-    <title lang="ca">Emissió sincronitzada amb TVC (amb logo inclòs)</title>
-    <desc lang="ca">Sense Descripció</desc>
-    <length units="seconds">18626</length>
-  </programme>
-  <channel id="324">
-    <display-name>324</display-name>
-  </channel>
-  <programme start="20260901010000 +0200" stop="20260901060000 +0200" channel="324">
+  <programme start="20260901060001 +0200" stop="20260901070000 +0200" channel="tvi">
     <title lang="ca">Notícies 3CatInfo</title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">18000</length>
+    <length units="seconds">3599</length>
     <episode-num system="onscreen">11053</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
@@ -24,6 +16,21 @@
     <previously-shown/>
     <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
+  <programme start="20260901070000 +0200" stop="20260901100000 +0200" channel="tvi">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="seconds">10800</length>
+    <episode-num system="onscreen">11054</episode-num>
+    <category lang="ca">ACTUALITAT</category>
+    <category lang="ca">INFORMATIU DIÀRI</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
+  </programme>
+  <channel id="324">
+    <display-name>324</display-name>
+  </channel>
   <programme start="20260901060000 +0200" stop="20260901070000 +0200" channel="324">
     <title lang="ca">Notícies 3CatInfo</title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
@@ -37,14 +44,41 @@
     <previously-shown/>
     <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
+  <programme start="20260901070000 +0200" stop="20260901100000 +0200" channel="324">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="seconds">10800</length>
+    <episode-num system="onscreen">11054</episode-num>
+    <category lang="ca">ACTUALITAT</category>
+    <category lang="ca">INFORMATIU DIÀRI</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <subtitles type="teletext"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
+  </programme>
   <channel id="esport3">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20260901012551 +0200" stop="20260901024110 +0200" channel="esport3">
+  <programme start="20260901063920 +0200" stop="20260901073156 +0200" channel="esport3">
+    <title lang="ca">WRC</title>
+    <sub-title lang="ca">Ral·li del Paraguai / WRC 2026 / Resum final</sub-title>
+    <desc lang="ca">Onzena de les catorze proves del Campionat del Món. El Ral·li del Paraguai té un recorregut total de 359 quilòmetres cronometrats dividits en 22 trams, majoritàriament sobre carreteres de terra. Us oferim el més destacat de la cursa amb la conducció de Noel Rodríguez i l'assistència de Santi Torres. </desc>
+    <length units="seconds">3156</length>
+    <episode-num system="onscreen">253</episode-num>
+    <category lang="ca">ESPORTS</category>
+    <category lang="ca">RETRANSMISSIONS ESPORTS</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <previously-shown/>
+    <icon src="https://img.3cat.cat/multimedia/jpg/1/7/1783953384771.jpg"/>
+  </programme>
+  <programme start="20260901073156 +0200" stop="20260901084729 +0200" channel="esport3">
     <title lang="ca">Gol a gol</title>
     <sub-title lang="ca">Post Barça-Rayo / J3</sub-title>
     <desc lang="ca">'Gol a gol' us ofereix els resums dels partits de futbol de Primera i Segona Divisió. Presentat per Jordi Grau a Esport3, cada dissabte i cada diumenge podeu veure les millors imatges de la jornada de Lliga amb l'anàlisi dels experts, amb especial atenció als equips catalans, sobretot el Barça, el Girona i l'Espanyol.</desc>
-    <length units="seconds">4519</length>
+    <length units="seconds">4533</length>
     <episode-num system="onscreen">1770</episode-num>
     <category lang="ca">ESPORTS</category>
     <category lang="ca">MAGAZINE</category>
@@ -55,28 +89,15 @@
     <previously-shown/>
     <icon src="https://img.ccma.cat/multimedia/jpg/2/1/1698144123212.jpg"/>
   </programme>
-  <programme start="20260901024110 +0200" stop="20260901030140 +0200" channel="esport3">
-    <title lang="ca">3CatInfo Esports</title>
-    <desc lang="ca">Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.</desc>
-    <length units="seconds">1230</length>
-    <episode-num system="onscreen">5495</episode-num>
-    <category lang="ca">ESPORTS</category>
-    <category lang="ca">INFORMATIU DIÀRI</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <previously-shown/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/9/7/1758888682179.jpg"/>
-  </programme>
   <channel id="sx3">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20260901015935 +0200" stop="20260901021931 +0200" channel="sx3">
-    <title lang="ca">Viatges Pokémon</title>
-    <sub-title lang="ca">L’ascensió per ser el millor de tots</sub-title>
-    <desc lang="ca">Després de la final de la Sèrie Mundial de Coronació, amb la victòria del Monarca Lionel, apareix un violent Drednaw Gigamax disposat a destruir l'estadi. Els nostres herois passen a l'acció i el Pikachu de sobte es converteix en Gigamax, i salva l'estadi i el públic. El Lionel queda impressionat, i també el sorprèn que l'Ash no tingui una Maxicanellera. Quan l'Ash i el Goh coneixen el Monarca, l'Ash el desafia a un combat, i el Lionel ho accepta. Li deixa a l'Ash una Maxicanellera i comença el combat entre el Pikachu i el Charizard. Amb els dos Pokémon convertits en Gigamax, l'emoció és total. Al final, guanya el Lionel, però l'Ash li agraeix l'oportunitat que li ha donat, i ja espera amb ganes la revenja... en un torneig oficial.</desc>
-    <length units="seconds">1196</length>
-    <episode-num system="onscreen">13</episode-num>
+  <programme start="20260901064524 +0200" stop="20260901065645 +0200" channel="sx3">
+    <title lang="ca">L'abella Maia</title>
+    <sub-title lang="ca">En boca d'or</sub-title>
+    <desc lang="ca">En Boca d'Or, el rei de l'intercanvi i enredaire de mena, faria qualsevol cosa per enamorar la Dama Grill, fins i tot robar-li el violí a en Flip per cantar-li un cançó! Els únics que saben on el guarda són la Maia i en Willi. La Maia té molt clar què és guardar un secret. En Willi, en canvi, és més fàcil de convèncer, i en Boca d'Or té molt clar com ho ha de fer!</desc>
+    <length units="seconds">681</length>
+    <episode-num system="onscreen">75</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
@@ -85,12 +106,12 @@
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20260901021931 +0200" stop="20260901023840 +0200" channel="sx3">
-    <title lang="ca">Viatges Pokémon</title>
-    <sub-title lang="ca">Incursió a les Ruïnes!</sub-title>
-    <desc lang="ca">L'Ash i el Goh arriben a la regió de Tessèlia, on senten parlar d'un lloc que han d'explorar tant sí com no: les Ruïnes del Colós! Primer han de travessar l'abrusadora Zona del Desert, cosa que sembla impossible, però una exploradora anomenada Kira els ensenya com arribar-hi lliscant damunt la sorra, i ben aviat arriben a la seva destinació. Després d'un recorregut perillós per les Ruïnes descobreixen la identitat del Colós: un Golurk gegantí! El Golurk, creat per protegir l'antiga ciutat costi el que costi, es desperta i els ataca amb un gran poder destructor. Però l'Ash, el Goh i la resta d'exploradors organitzen una Incursió i el Goh aconsegueix capturar-lo! </desc>
-    <length units="seconds">1149</length>
-    <episode-num system="onscreen">14</episode-num>
+  <programme start="20260901065645 +0200" stop="20260901072131 +0200" channel="sx3">
+    <title lang="ca">Les Tres Bessones</title>
+    <sub-title lang="ca">Les tres bessones i Robin Hood</sub-title>
+    <desc lang="ca">La Bruixa Avorrida ha enviat les Tres Bessones a un bosc preciós, el bosc de Sherwood. Allà és on viuen en Robin Hood i els seus amics, amb qui les nenes compartiran una aventura que l'Avorrida només intenta complicar. Les nenes fins i tot acabaran coneixent el rei Ricard Cor de Lleó!</desc>
+    <length units="seconds">1486</length>
+    <episode-num system="onscreen">34</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
@@ -102,29 +123,28 @@
   <channel id="c33">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20260901011324 +0200" stop="20260901020554 +0200" channel="c33">
-    <title lang="ca">Invasors de l'Everest</title>
-    <sub-title lang="ca">Invasors de l'Everest</sub-title>
-    <desc lang="ca">Des de fa un temps, el mític Everest, que va ser coronat per primera vegada ara fa 70 anys, s'ha convertit en un objectiu a l'abast dels neoalpinistes, milionaris que estan prou en forma per afegir l'ascensió al cim del món a la llista dels desitjos que han pogut complir. Els residus són la part més visible dels problemes que provoca la massificació de l'alpinisme, però la qüestió de fons és l'apropiació i l'explotació d'un espai que abans era lliure i que ara pateix una invasió.</desc>
-    <length units="seconds">3150</length>
-    <episode-num system="onscreen">1</episode-num>
+  <programme start="20260901061632 +0200" stop="20260901064835 +0200" channel="c33">
+    <title lang="ca">Quèquicom</title>
+    <sub-title lang="ca">Accidents infantils</sub-title>
+    <desc lang="ca">La reportera Georgina Pujol té un nen d'un any força entremaliat. Intenta tocar els endolls, enfilar-se a les baranes, llepar tot el que troba... Els accidents són la primera causa de mort en criatures de fins a 14 anys. A l'hospital St. Joan de Déu assisteix a un curset de primers auxilis. Se n'adona que aliments com la fruita seca, les salsitxes de frankfurt o la pastanaga crua poden taponar les vies respiratòries dels infants i provocar ennuegaments. S'ha de saber com es fa la maniobra de Hemlich pot salvar la vida d'una persona.El dia a dia està ple de paranys per a un infant. Accidents de cotxe, ofegaments, cops i cremades són la primera causa de mort en les criatures. La Georgina posa casa seva a prova de nens i es pregunta com podem fer del nostre entorn un lloc més segur.Què s'ha de fer si un infant queda inconscient per una aturada cardiorespiratòria? Tot i que és poc freqüent en infants, és molt greu. El doctor Jordi Pou, especialista en lesions infantils, ensenya com s'ha de practicar la reanimació cardiopulmonar en un nadó, que es fa de manera lleugerament diferent que en els adults.I quan un nen es fa una cremada? En contra de la creença popular, no hem d'aplicar pomades, pasta dentífrica ni cremes hidratants. S'ha d'aplicar aigua freda una bona estona. Si la cremada és extensa o profunda cal anar a un centre.Si l'infant es dona un cop al cap és normal que vomiti a causa de l'ensurt, però si ho fa diverses vegades pot ser conseqüència del traumatisme. En aquest cas, cal portar-lo immediatament a urgències. L'especialista Carles Luaces, cap d'Urgències de l'Hospital de Sant Joan de Deu, explica la importància de deixar el nen en observació i en cas que presenti una manifestació clínica, pot ser necessari fer una TAC per veure si hi ha lesió interna.</desc>
+    <length units="seconds">1923</length>
+    <episode-num system="onscreen">318</episode-num>
     <category lang="ca">DIVULGACIÓ</category>
-    <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
+    <category lang="ca">MAGAZINE ESPECIALITZAT</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
-    <icon src="https://img.3cat.cat/multimedia/jpg/7/0/1737383470507.jpg"/>
   </programme>
-  <programme start="20260901020554 +0200" stop="20260901023227 +0200" channel="c33">
-    <title lang="ca">Viure als Pirineus</title>
-    <sub-title lang="ca">Un fotògraf dels Pirineus (Primavera - Estiu)</sub-title>
-    <desc lang="ca">Francesc Guillamet (Met) és un fotògraf de prestigi conegut per la seva vinculació amb els cuiners d'El Bulli. En Met viu a la Catalunya francesa, en una masia a Vilallonga dels Monts, i les muntanyes de l'Albera són el seu refugi i el lloc d'inspiració artística. En Met viu força solitari i només treballa amb gent amb qui té complicitat i que viu a prop de casa seva. De Perpinyà a Figueres ha trobat un territori fet a la seva mida. És un artista que fotografia comestibles de cuina i paisatges del seu territori sota l'òptica del sentit comú. Amb la fotografia de cuina es guanya la vida i amb la del territori gaudeix moltíssim.En Met no és un 'motard' clàssic, sinó que la moto li és essencial per poder fer les fotografies que li agraden. Amb la moto puja fins al coll de Banyuls, on sempre hi ha una instantània a plasmar o fa una excursió amb un amic també apassionat de les motos. En Met ens fa viatjar fins a Figueres, on tria els marcs per a les seves fotos, a Perpinyà, on les revela, a Serrabona, per copsar el millor romànic català, o a Cadaqués, per parlar amb el fuster que feia els marcs per a en Dalí.</desc>
-    <length units="seconds">1593</length>
-    <episode-num system="onscreen">17</episode-num>
+  <programme start="20260901064835 +0200" stop="20260901071759 +0200" channel="c33">
+    <title lang="ca">Quèquicom</title>
+    <sub-title lang="ca">Viver de científics</sub-title>
+    <desc lang="ca">El centre Món Natura Pirineus, a les Planes de Son, és un viver de joves científics. Des del 2007 la Fundació la Pedrera hi organitza les estades Joves i Ciència. Durant dues setmanes estudiants d'arreu de Catalunya fan classe de teoria, pràctiques al laboratori i treball de camp en les àrees de biologia o astronomia. Per arribar aquí han hagut de superar un exigent procés de selecció. De 800 candidats, se n'han triat 50, en funció de l'expedient acadèmic, una carta de motivació i una entrevista personal. Aquesta experiència els marca positivament per a la resta de la seva vida, tant en l'àmbit personal com professional.</desc>
+    <length units="seconds">1764</length>
+    <episode-num system="onscreen">319</episode-num>
     <category lang="ca">DIVULGACIÓ</category>
-    <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
+    <category lang="ca">MAGAZINE ESPECIALITZAT</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
