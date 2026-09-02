@@ -3,40 +3,36 @@
   <channel id="tvi">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20260902162627 +0200" stop="20260902170316 +0200" channel="tvi">
-    <title lang="ca">La Riera</title>
-    <desc lang="ca">La Sònia, que continua investigant, remena el correu electrònic de l'Àngel Parés i hi troba coses que la deixen de pasta de moniato. Abans ha parlat de requalificacions amb el pare de la Lídia i s'ha sentit amenaçada. A can Guitart, la Mercè, que ha promès parlar amb l'Ignasi, no sap què fer quan el seu marit li anuncia que es queda. I la Lídia, que té plans per a en Claudi, ha decidit neutralitzar les amenaces de l'Anna al preu que sigui.</desc>
-    <length units="seconds">2209</length>
-    <episode-num system="onscreen">120</episode-num>
-    <category lang="ca">FICCIÓ</category>
-    <category lang="ca">TELENOVEL·LA</category>
+  <programme start="20260902195937 +0200" stop="20260902210000 +0200" channel="tvi">
+    <title lang="ca">Atrapa'm si pots, estiu</title>
+    <desc lang="ca">'Atrapa'm si pots' és un 'quiz show' clàssic, de preguntes i respostes, presentat per Llucià Ferrer, en què sis concursants competeixen per arribar a la fase final i guanyar el pot. 'Atrapa'm si pots' és entreteniment pur i on gairebé és més important passar-s'ho bé que els diners. És un concurs en què pesa més la intuïció que no els coneixements acadèmics, més l'estratègia en el joc que no la sort.</desc>
+    <length units="seconds">3623</length>
+    <episode-num system="onscreen">985</episode-num>
+    <category lang="ca">ENTRETENIMENT</category>
+    <category lang="ca">CONCURS</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <subtitles type="teletext"/>
-    <previously-shown/>
   </programme>
-  <programme start="20260902170316 +0200" stop="20260902173925 +0200" channel="tvi">
-    <title lang="ca">La Riera</title>
-    <desc lang="ca">En Lluís s'endurà un bon disgust en veure que ha tornat algú a qui no esperava tornar a veure. Mentrestant, es va fent públic que la Mercè i l'Ignasi tornen a estar junts, i mossèn Esteve no ho pot digerir. La Sònia, per la seva banda, es posa en marxa per saber què representen les fotos que ha trobat a l'Àngel. En Sergi no sap què fer després de la confessió de la Valeria, i en Nil vol ser el substitut d'en Marc.</desc>
-    <length units="seconds">2169</length>
-    <episode-num system="onscreen">121</episode-num>
-    <category lang="ca">FICCIÓ</category>
-    <category lang="ca">TELENOVEL·LA</category>
+  <programme start="20260902210000 +0200" stop="20260902220506 +0200" channel="tvi">
+    <title lang="ca">Telenotícies vespre</title>
+    <length units="seconds">3906</length>
+    <episode-num system="onscreen">7315</episode-num>
+    <category lang="ca">ACTUALITAT</category>
+    <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <subtitles type="teletext"/>
-    <previously-shown/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/7/2/1758026176427.jpg"/>
   </programme>
   <channel id="324">
     <display-name>324</display-name>
   </channel>
-  <programme start="20260902163000 +0200" stop="20260902183000 +0200" channel="324">
+  <programme start="20260902200000 +0200" stop="20260902210000 +0200" channel="324">
     <title lang="ca">Notícies 3CatInfo</title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">7200</length>
-    <episode-num system="onscreen">11066</episode-num>
+    <length units="seconds">3600</length>
+    <episode-num system="onscreen">11068</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
@@ -45,59 +41,56 @@
     <subtitles type="teletext"/>
     <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
-  <programme start="20260902183000 +0200" stop="20260902200000 +0200" channel="324">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">5400</length>
-    <episode-num system="onscreen">11067</episode-num>
+  <programme start="20260902210000 +0200" stop="20260902230000 +0200" channel="324">
+    <title lang="ca">Telenotícies vespre</title>
+    <length units="seconds">7200</length>
+    <episode-num system="onscreen">7315</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <subtitles type="teletext"/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/7/2/1758026176427.jpg"/>
   </programme>
   <channel id="esport3">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20260902161635 +0200" stop="20260902170138 +0200" channel="esport3">
-    <title lang="ca">Arxipèlag blau</title>
-    <sub-title lang="ca">Mar pelágica</sub-title>
-    <desc lang="ca">Ens endinsarem a la mar oberta, un univers desconegut i misteriós, on habiten des del microscòpic plàncton fins als grans mamífers marins. Enmig de la mar, la costa és lluny i el fons és gairebé inabastable. Una immensitat que és la llar sense fronteres de grans mamífers marins, intel·ligents i gregaris, com alguns dofins o els caps d'olla. Però cap d'aquests animals podria viure si no existissin uns organismes gairebé invisibles: el plàncton. Més de la meitat de l'oxigen que respirem prové d'uns minúsculs organismes que viuen a la deriva a mars i oceans: és el plàncton vegetal o fitoplàncton. A la mar és la base de la cadena alimentària marina i fa possible que es desenvolupi la resta de diversitat marina.</desc>
-    <length units="seconds">2703</length>
-    <episode-num system="onscreen">3</episode-num>
-    <category lang="ca">DIVULGACIÓ</category>
-    <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
+  <programme start="20260902190000 +0200" stop="20260902202000 +0200" channel="esport3">
+    <title lang="ca">Tot Costa</title>
+    <sub-title lang="ca">El Barça tanca el mercat</sub-title>
+    <desc lang="ca">Analitzem la feina de Deco al mercat d'estiu amb Gerard Autet i Gemma Mallorca. Amb Ramon Salmurri i Laia Tudel, expliquem els últims moviments i amb la 'Caçatalents', Andrea Orts, analitzem els moviments més destacats del mercat global. També entrevistem la primera capitana del Barça femení, Patri Guijarro.</desc>
+    <length units="seconds">4800</length>
+    <episode-num system="onscreen">1000</episode-num>
+    <category lang="ca">ESPORTS</category>
+    <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
-    <previously-shown/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/0/4/1706209193140.jpg"/>
   </programme>
-  <programme start="20260902170138 +0200" stop="20260902172654 +0200" channel="esport3">
-    <title lang="ca">Catalunya salvatge</title>
-    <sub-title lang="ca">La frontera glacial</sub-title>
-    <desc lang="ca">L'alta muntanya és un ecosistema d'extrems. Els seus habitants fan servir diferents tècniques per sobreviure als cims del Pirineu Català.</desc>
-    <length units="seconds">1516</length>
-    <episode-num system="onscreen">2</episode-num>
-    <category lang="ca">DIVULGACIÓ</category>
-    <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
+  <programme start="20260902202000 +0200" stop="20260902222921 +0200" channel="esport3">
+    <title lang="ca">Futbol</title>
+    <sub-title lang="ca">Barça Atlètic-CE Sabadell / Copa Catalunya / Final</sub-title>
+    <desc lang="ca">Final de la Copa Catalunya a la Nova Creu Alta. En el precedent de fa deu anys, entre aquests dos rivals, els arlequinats es van endur el títol. Amb la narració de Jordi Sunyer.</desc>
+    <length units="seconds">7761</length>
+    <episode-num system="onscreen">75</episode-num>
+    <category lang="ca">ESPORTS</category>
+    <category lang="ca">RETRANSMISSIONS ESPORTS</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <subtitles type="teletext"/>
-    <previously-shown/>
+    <icon src="https://img.3cat.cat/multimedia/jpg/4/0/1771252757404.jpg"/>
   </programme>
   <channel id="sx3">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20260902162459 +0200" stop="20260902164609 +0200" channel="sx3">
+  <programme start="20260902195512 +0200" stop="20260902201758 +0200" channel="sx3">
     <title lang="ca">Espies de veritat</title>
-    <sub-title lang="ca">Torna l'intercanvi total!</sub-title>
-    <desc lang="ca">El doctor Gray, un dels presos més perillosos del centre de detenció de la WHOOP, ha fet servir el seu Ajustador de Comportament per intercanviar-se el cos amb el d'en Jerry. Això vol dir que ara volta lliure pel món amb el cos d'en Jerry i amb la intenció d'intercanviar els cossos de tota la població mundial! Avui tot depèn de les Espies... i de la mare d'en Jerry!</desc>
-    <length units="seconds">1270</length>
-    <episode-num system="onscreen">148</episode-num>
+    <sub-title lang="ca">Una cort de porcs</sub-title>
+    <desc lang="ca">La Sam, l'Alex i la Clover han de fingir que són dolentes per descobrir en què consisteix l'Operació Revenja dels Malvats de què parlen els informes d'intel·ligència de la WOOHP. Per ajudar-les, la WOOHP ha creat un cau de malvada i una colla d'esbirros al seu servei. L'Alex s'haurà de fer passar per la malvada i la Sam i la Clover seran les seves ajudants.</desc>
+    <length units="seconds">1366</length>
+    <episode-num system="onscreen">158</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
@@ -107,30 +100,29 @@
     <previously-shown/>
     <icon src="https://img.ccma.cat/multimedia/jpg/6/9/1781885918096.jpg"/>
   </programme>
-  <programme start="20260902164609 +0200" stop="20260902170649 +0200" channel="sx3">
-    <title lang="ca">Espies de veritat</title>
-    <sub-title lang="ca">Pallassades</sub-title>
-    <desc lang="ca">Després de diversos incidents diplomàtics per culpa de gent que va maquillada de pallasso, les Espies han descobert que tots tenien una cosa en comú: tots havien fet servir maquillatge Pallassonique. D'entrada, sembla normal, però al cap d'una estona et deixa la cara de pallasso i no marxa de cap manera! Pot ser que hi tingui res a veure la Bozette, la millor pallassa del món?!</desc>
-    <length units="seconds">1240</length>
-    <episode-num system="onscreen">149</episode-num>
+  <programme start="20260902201758 +0200" stop="20260902203906 +0200" channel="sx3">
+    <title lang="ca">Henry Danger</title>
+    <sub-title lang="ca">En Brad, l'invisible</sub-title>
+    <desc lang="ca">En Brad es torna invisible i provoca el caos fins que en Henry i el Capità Man l'han d'aturar.</desc>
+    <length units="seconds">1268</length>
+    <episode-num system="onscreen">12</episode-num>
     <category lang="ca">FICCIÓ</category>
-    <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
+    <category lang="ca">SÈRIE DRAMÀTICA</category>
     <rating>
       <value>INFANTIL</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/6/9/1781885918096.jpg"/>
   </programme>
   <channel id="c33">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20260902163023 +0200" stop="20260902165632 +0200" channel="c33">
-    <title lang="ca">Catalunya salvatge</title>
-    <sub-title lang="ca">L'accent mediterrani</sub-title>
-    <desc lang="ca">'Catalunya salvatge' és una sèrie documental de 13 capítols que donarà a conèixer als espectadors els ecosistemes més representatius del nostre país. Des dels cims del Pirineu fins a les llacunes del delta de l'Ebre, 'Catalunya salvatge' farà un repàs de la flora i la fauna dels paratges més emblemàtics de Catalunya.Els seguidors de la sèrie tindran, doncs, una finestra privilegiada a la biodiversitat del Parc Nacional d'Aigüestortes, la muntanya de Montserrat, la zona volcànica de la Garrotxa, els aiguamolls de l'Empordà o el món submarí de les illes Medes.El primer ecosistema explorat en profunditat serà el d'alta muntanya, on la supervivència no és gens fàcil.(tardor 2010)</desc>
-    <length units="seconds">1569</length>
-    <episode-num system="onscreen">6</episode-num>
+  <programme start="20260902194917 +0200" stop="20260902201643 +0200" channel="c33">
+    <title lang="ca">Els hotels més remots del món</title>
+    <sub-title lang="ca">El Torridon - Escòcia</sub-title>
+    <desc lang="ca">Emmarcat pels turons ondulats i el paisatge indòmit de les Highlands (*) (ALT.: terres altes) escoceses, aquest hotel victorià és un niu d'amor de conte de fades on el temps sembla haver-se aturat. Una última fortalesa al peu d'una de les últimes terres verges d'Europa.Construït el 1887 per William King-Noel, 1r comte de Lovelace, El Torridon es va utilitzar com a pavelló de caça fins a la dècada dels 60, quan va obrir com a hotel.L'any 1992 els pares dels actuals directors, la Rohaise i el Dan, van comprar l'establiment, que en aquells moments oferia un allotjament molt bàsic. Amb la Rohaise i el Dan dirigint-lo, s'ha convertit en un hotel de cinc estrelles, un èxit sorprenent per una ubicació tan remota. La sostenibilitat també ha estat clau per al seu desenvolupament, perquè la majoria dels productes que fan servir es cultiven en els nombrosos hivernacles o són produïts per agricultors locals. La senzillesa i l'hospitalitat del Dan i la Rohaise contrasten amb la sofisticació de l'hotel, i fan d'aquest documental una autèntica història humana.</desc>
+    <length units="seconds">1646</length>
+    <episode-num system="onscreen">10</episode-num>
     <category lang="ca">DIVULGACIÓ</category>
     <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
     <rating>
@@ -139,12 +131,12 @@
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20260902165632 +0200" stop="20260902174604 +0200" channel="c33">
-    <title lang="ca">Terreny personal</title>
-    <sub-title lang="ca">Santa Coloma de Gramenet</sub-title>
-    <desc lang="ca">Aquest capítol ens porta a un paisatge urbà, a una ciutat densa, complexa i plena de vida.De Fondo a Singuerlín i de Can Franquesa fins al Besòs s'estén una gran ciutat amb ànima de poble: Santa Coloma de Gramenet. Els protagonistes ens mostren els seus barris i ens expliquen la història d'una ciutat que han fet entre tots... i que avui continuen construint.Rodolfo del Hoyo, fill de pare manxec i mare andalusa, va arribar a Santa Coloma quan tenia un any i mig i ara és un escriptor premiat en llengua catalana. M. Teresa Castellví ha viscut a Fondo tota la vida i no canviaria de barri per res del món. Chenchiao Xiang va arribar a Santa Coloma fa quatre anys sense entendre ni una paraula de català i ara és la primera noia xinesa del seu institut que ha arribat a 2n de Batxillerat. I Pedro Cano porta l'empresa que organitza els grans concerts que se celebren a tot l'Estat, com la gira de Bruce Springsteen o el Festival Primavera Sound, i ho fa des del barri de Singuerlín, de Santa Coloma.A més d'aquests testimonis, també participen en aquest capítol els nens i nenes de l'Escola les Palmeres, que, a través de fotos fetes per ells mateixos, ens descobreixen quins són els seus racons preferits. L'escriptor Jordi Valls ens explica com escriu els seus poemes a l'interior del metro de la ciutat i Muchachito Bombo Infierno interpreta una cançó inèdita als carrers de Santa Coloma de Gramenet.</desc>
-    <length units="seconds">2972</length>
-    <episode-num system="onscreen">3</episode-num>
+  <programme start="20260902201643 +0200" stop="20260902205939 +0200" channel="c33">
+    <title lang="ca">Els rius navegables d'Europa</title>
+    <sub-title lang="ca">De Rotterdam a les Ardenes belgues</sub-title>
+    <desc lang="ca">Sempre aigües amunt, el viatge d'avui ens porta als Països Baixos i a Bèlgica. Des del Mar del Nord i la ciutat portuària de Rotterdam viatgem al llarg del Mosa. Passant per Venlo, Maastricht i Lieja, la ruta segueix el riu Ourthe fins a les Àrdenes belgues.Rotterdam i el seu imponent port marítim, el més gran d'Europa. La seva proximitat al mar és alhora una maledicció i una benedicció. Els holandesos han arrabassat terra al mar durant segles, són experts en fer front a l'augment del nivell de l'aigua i són pioners en noves idees. L'arquitecte Koen Olthuis només construeix cases damunt l'aigua. La seva visió de construir barris sencers d'edificis flotants ha creat un gran interès internacional, en aquests temps de canvi climàtic.Des de Rotterdam el viatge continua al llarg del Mosa cap a l'est. Els terrenys agrícoles estan protegits per dics, però en els darrers anys els Països Baixos han començat a replantejar aquestes mesures. El 'Programa Delta', a nivell nacional, se centra en els dics baixos i les zones d'inundació controlada. La propietat del granger Nol Hooijmaaijers vaser reconstruïda d'acord amb aquests principis, igual que una gran zona del municipi d'Oojen-Wanssum.La ruta al llarg del Mosa passa per la històrica estació de bombeig a vapor De Tuut, que en el passat es va utilitzar per drenar aquesta zona. No gaire lluny d'aquí, uns voluntaris recullen escombraries les ribes del riu: és el Dia Mundial de la Neteja. Grans quantitats de plàstic provinents de tot el continent s'acumulen als rius d'Holanda.Arribem a Bèlgica passant per Venlo, Roermond i Maastricht. Mentre la pesca al carrer s'està convertint en tendència a Lieja, els científics de les Àrdenes belgues s'encarreguen de la reintroducció del salmó. La migració d'aquests peixos són un clar exemple clar de com la natura està connectada a través de fronteres i del fet que els enfocaments transnacionals són necessaris per protegir el medi ambient.</desc>
+    <length units="seconds">2576</length>
+    <episode-num system="onscreen">5</episode-num>
     <category lang="ca">DIVULGACIÓ</category>
     <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
     <rating>
@@ -152,6 +144,7 @@
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
+    <icon src="https://img.3cat.cat/multimedia/jpg/4/3/1784274800434.jpg"/>
   </programme>
   <channel id="oca1">
     <display-name>OCA1</display-name>
@@ -162,6 +155,18 @@
   <channel id="oca3">
     <display-name>OCA3</display-name>
   </channel>
+  <programme start="20260902185940 +0200" stop="20260902203035 +0200" channel="oca3">
+    <title lang="ca">Tot Costa</title>
+    <desc lang="ca">Analitzem la feina de Deco al mercat d'estiu amb Gerard Autet i Gemma Mallorca. Amb Ramon Salmurri i Laia Tudel, expliquem els últims moviments i amb la 'Caçatalents', Andrea Orts, analitzem els moviments més destacats del mercat global. També entrevistem la primera capitana del Barça femení, Patri Guijarro.</desc>
+    <length units="seconds">5455</length>
+    <episode-num system="onscreen">1000</episode-num>
+    <category lang="ca">ESPORTS</category>
+    <category lang="ca">INFORMATIU DIÀRI</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <icon src="https://img.ccma.cat/multimedia/jpg/0/4/1706209193140.jpg"/>
+  </programme>
   <channel id="oca4">
     <display-name>OCA4</display-name>
   </channel>
