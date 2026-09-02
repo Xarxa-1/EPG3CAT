@@ -3,94 +3,99 @@
   <channel id="tvi">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20260902195937 +0200" stop="20260902210000 +0200" channel="tvi">
-    <title lang="ca">Atrapa'm si pots, estiu</title>
-    <desc lang="ca">'Atrapa'm si pots' és un 'quiz show' clàssic, de preguntes i respostes, presentat per Llucià Ferrer, en què sis concursants competeixen per arribar a la fase final i guanyar el pot. 'Atrapa'm si pots' és entreteniment pur i on gairebé és més important passar-s'ho bé que els diners. És un concurs en què pesa més la intuïció que no els coneixements acadèmics, més l'estratègia en el joc que no la sort.</desc>
-    <length units="seconds">3623</length>
-    <episode-num system="onscreen">985</episode-num>
-    <category lang="ca">ENTRETENIMENT</category>
-    <category lang="ca">CONCURS</category>
+  <programme start="20260902224043 +0200" stop="20260902231620 +0200" channel="tvi">
+    <title lang="ca">L'un per l'altre</title>
+    <sub-title lang="ca">Hem mort el llop</sub-title>
+    <desc lang="ca">Com cada Festa Major, el Toni, la Rosa, el Poppins, la Joana, el Calafell i la Maria participen en la representació de Terra Baixa que es fa a Horta. La Rosa és la directora, però aquest any hi ha una sorpresa, el director serà el LLuis Pasqual. La seva arribada provoca tants canvis en el repartiment i la forma d'assajar, que s'haurà d'afrontar a una revolta comandada per la pròpia Rosa.</desc>
+    <length units="seconds">2137</length>
+    <episode-num system="onscreen">14</episode-num>
+    <category lang="ca">FICCIÓ</category>
+    <category lang="ca">SITCOM (COMÈDIA DE SITUACIÓ)</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
+    <subtitles type="teletext"/>
+    <previously-shown/>
   </programme>
-  <programme start="20260902210000 +0200" stop="20260902220506 +0200" channel="tvi">
-    <title lang="ca">Telenotícies vespre</title>
-    <length units="seconds">3906</length>
-    <episode-num system="onscreen">7315</episode-num>
-    <category lang="ca">ACTUALITAT</category>
-    <category lang="ca">INFORMATIU DIÀRI</category>
+  <programme start="20260902231620 +0200" stop="20260902234724 +0200" channel="tvi">
+    <title lang="ca">Blanc sobre blanc</title>
+    <sub-title lang="ca">Detall</sub-title>
+    <desc lang="ca">Atenció al detallLa pintora i il·lustradora Sabala ens presenta el seu univers carregat de personatges nassuts i alegres al seu taller de Masdenverge (Tarragona). I Xavier Medina-Campeny ens parla de la seva trajectòria i amb ell descobrim els missatges que amaguen les seves escultures.</desc>
+    <length units="seconds">1864</length>
+    <episode-num system="onscreen">3</episode-num>
+    <category lang="ca">DIVULGACIÓ</category>
+    <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <icon src="https://img.ccma.cat/multimedia/jpg/7/2/1758026176427.jpg"/>
+    <subtitles type="teletext"/>
+    <previously-shown/>
   </programme>
   <channel id="324">
     <display-name>324</display-name>
   </channel>
-  <programme start="20260902200000 +0200" stop="20260902210000 +0200" channel="324">
+  <programme start="20260902230000 +0200" stop="20260903003000 +0200" channel="324">
     <title lang="ca">Notícies 3CatInfo</title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">3600</length>
-    <episode-num system="onscreen">11068</episode-num>
+    <length units="seconds">5400</length>
+    <episode-num system="onscreen">11069</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <subtitles type="teletext"/>
     <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
-  <programme start="20260902210000 +0200" stop="20260902230000 +0200" channel="324">
-    <title lang="ca">Telenotícies vespre</title>
-    <length units="seconds">7200</length>
-    <episode-num system="onscreen">7315</episode-num>
+  <programme start="20260903003000 +0200" stop="20260903010000 +0200" channel="324">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="seconds">1800</length>
+    <episode-num system="onscreen">11070</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <icon src="https://img.ccma.cat/multimedia/jpg/7/2/1758026176427.jpg"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
   <channel id="esport3">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20260902190000 +0200" stop="20260902202000 +0200" channel="esport3">
-    <title lang="ca">Tot Costa</title>
-    <sub-title lang="ca">El Barça tanca el mercat</sub-title>
-    <desc lang="ca">Analitzem la feina de Deco al mercat d'estiu amb Gerard Autet i Gemma Mallorca. Amb Ramon Salmurri i Laia Tudel, expliquem els últims moviments i amb la 'Caçatalents', Andrea Orts, analitzem els moviments més destacats del mercat global. També entrevistem la primera capitana del Barça femení, Patri Guijarro.</desc>
-    <length units="seconds">4800</length>
-    <episode-num system="onscreen">1000</episode-num>
+  <programme start="20260902230000 +0200" stop="20260903003043 +0200" channel="esport3">
+    <title lang="ca">Onze</title>
+    <sub-title lang="ca">Posem nota a Deco; Casadó al Depor i 'El predicador'</sub-title>
+    <desc lang="ca">Lluís Carrasco, Sique Rodriguez, Irati Vidal i Joan Poquí posen nota a la gestió del director esportiu del Barça en el mercat d'estiu. L'Òscar Pérez-Dolz predica la fe del bon culer.</desc>
+    <length units="seconds">5443</length>
+    <episode-num system="onscreen">1242</episode-num>
+    <category lang="ca">ESPORTS</category>
+    <category lang="ca">MAGAZINE</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <subtitles type="teletext"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/1/1/1688543515711.jpg"/>
+  </programme>
+  <programme start="20260903003043 +0200" stop="20260903005138 +0200" channel="esport3">
+    <title lang="ca">3CatInfo Esports</title>
+    <desc lang="ca">Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.</desc>
+    <length units="seconds">1255</length>
+    <episode-num system="onscreen">5497</episode-num>
     <category lang="ca">ESPORTS</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <subtitles type="teletext"/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/0/4/1706209193140.jpg"/>
-  </programme>
-  <programme start="20260902202000 +0200" stop="20260902222921 +0200" channel="esport3">
-    <title lang="ca">Futbol</title>
-    <sub-title lang="ca">Barça Atlètic-CE Sabadell / Copa Catalunya / Final</sub-title>
-    <desc lang="ca">Final de la Copa Catalunya a la Nova Creu Alta. En el precedent de fa deu anys, entre aquests dos rivals, els arlequinats es van endur el títol. Amb la narració de Jordi Sunyer.</desc>
-    <length units="seconds">7761</length>
-    <episode-num system="onscreen">75</episode-num>
-    <category lang="ca">ESPORTS</category>
-    <category lang="ca">RETRANSMISSIONS ESPORTS</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <icon src="https://img.3cat.cat/multimedia/jpg/4/0/1771252757404.jpg"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/9/7/1758888682179.jpg"/>
   </programme>
   <channel id="sx3">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20260902195512 +0200" stop="20260902201758 +0200" channel="sx3">
-    <title lang="ca">Espies de veritat</title>
-    <sub-title lang="ca">Una cort de porcs</sub-title>
-    <desc lang="ca">La Sam, l'Alex i la Clover han de fingir que són dolentes per descobrir en què consisteix l'Operació Revenja dels Malvats de què parlen els informes d'intel·ligència de la WOOHP. Per ajudar-les, la WOOHP ha creat un cau de malvada i una colla d'esbirros al seu servei. L'Alex s'haurà de fer passar per la malvada i la Sam i la Clover seran les seves ajudants.</desc>
-    <length units="seconds">1366</length>
-    <episode-num system="onscreen">158</episode-num>
+  <programme start="20260902224553 +0200" stop="20260902230528 +0200" channel="sx3">
+    <title lang="ca">El detectiu Conan</title>
+    <sub-title lang="ca">El número del ventríloc (2a part)</sub-title>
+    <desc lang="ca">La policia dona per fet que l'assassí és en Haruomi Togawa, però en Conan no les té totes i decideix anar a inspeccionar un cop més l'escenari del crim amb l'inspector Takagi. Allà descobreix que algú va canviar de lloc els trofeus d'en Riichi Tengan per posar el que va servir d'arma homicida al davant i deixar al darrere el guardó més preuat de l'artista. A més, en Takagi li revela que l'homicidi s'ha comès amb guants, perquè s'ha trobat una fibra tèxtil a les ulleres que hi havia a la bossa d'en Togawa. Mentre en Conan passeja pel carrer mirant de lligar caps, veu unes imatges d'en Tengan a la televisió que li donen la pista final que buscava per resoldre el cas.</desc>
+    <length units="seconds">1175</length>
+    <episode-num system="onscreen">862</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
@@ -98,16 +103,15 @@
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/6/9/1781885918096.jpg"/>
   </programme>
-  <programme start="20260902201758 +0200" stop="20260902203906 +0200" channel="sx3">
-    <title lang="ca">Henry Danger</title>
-    <sub-title lang="ca">En Brad, l'invisible</sub-title>
-    <desc lang="ca">En Brad es torna invisible i provoca el caos fins que en Henry i el Capità Man l'han d'aturar.</desc>
-    <length units="seconds">1268</length>
-    <episode-num system="onscreen">12</episode-num>
+  <programme start="20260902230528 +0200" stop="20260902232623 +0200" channel="sx3">
+    <title lang="ca">El detectiu Conan</title>
+    <sub-title lang="ca">L'hostal del Kamaitachi (1a part)</sub-title>
+    <desc lang="ca">En Heiji convida en Conan a visitar-lo en un hostal on s'ha vist un kamaitachi, un estrany animal mitològic que pot córrer damunt de l'aigua i que fa talls a les persones amb una mena de dalla que té. Quan els nostres amics arriben a l'hostal, es troben que també hi van dos periodistes que estan investigant el tema i, en un moment determinat, tots plegats són víctimes de l'atac del kamaitachi.</desc>
+    <length units="seconds">1255</length>
+    <episode-num system="onscreen">863</episode-num>
     <category lang="ca">FICCIÓ</category>
-    <category lang="ca">SÈRIE DRAMÀTICA</category>
+    <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
       <value>INFANTIL</value>
     </rating>
@@ -117,34 +121,55 @@
   <channel id="c33">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20260902194917 +0200" stop="20260902201643 +0200" channel="c33">
-    <title lang="ca">Els hotels més remots del món</title>
-    <sub-title lang="ca">El Torridon - Escòcia</sub-title>
-    <desc lang="ca">Emmarcat pels turons ondulats i el paisatge indòmit de les Highlands (*) (ALT.: terres altes) escoceses, aquest hotel victorià és un niu d'amor de conte de fades on el temps sembla haver-se aturat. Una última fortalesa al peu d'una de les últimes terres verges d'Europa.Construït el 1887 per William King-Noel, 1r comte de Lovelace, El Torridon es va utilitzar com a pavelló de caça fins a la dècada dels 60, quan va obrir com a hotel.L'any 1992 els pares dels actuals directors, la Rohaise i el Dan, van comprar l'establiment, que en aquells moments oferia un allotjament molt bàsic. Amb la Rohaise i el Dan dirigint-lo, s'ha convertit en un hotel de cinc estrelles, un èxit sorprenent per una ubicació tan remota. La sostenibilitat també ha estat clau per al seu desenvolupament, perquè la majoria dels productes que fan servir es cultiven en els nombrosos hivernacles o són produïts per agricultors locals. La senzillesa i l'hospitalitat del Dan i la Rohaise contrasten amb la sofisticació de l'hotel, i fan d'aquest documental una autèntica història humana.</desc>
-    <length units="seconds">1646</length>
-    <episode-num system="onscreen">10</episode-num>
-    <category lang="ca">DIVULGACIÓ</category>
-    <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
+  <programme start="20260902225122 +0200" stop="20260903012105 +0200" channel="c33">
+    <title lang="ca">Pel·lícula</title>
+    <sub-title lang="ca">El pacient anglès</sub-title>
+    <desc lang="ca">EL PACIENT ANGLÈS (The English patient)Al final de la Segona Guerra Mundial, a les ruïnes d'una vil·la de la Toscana, es reuneixen quatre personatges. Un home amb el cos cremat i un passat enigmàtic, una infermera que s'ocupa del pacient, un supervivent cínic i amic del pare de la noia, i un sapador sikh, especialista a desactivar explosius. A través d'una sèrie de records es revelarà una història d'amor i gelosia.Idioma versió original: anglèsProducció: Saul Zaentz per a Miramax International, 1996 (Estats Units)Direcció: Anthony MinghellaDurada: 154 minutsGuió: Anthony Minghella, basat en la novel·la de Michael OndaatjeFotografia: John Seale (color)Música: Gabriel YaredIntèrprets: Ralph Fiennes (Almásy), Juliette Binoche (Hana), Kristin Scott-Thomas (Katharine Clifton), Willem Dafoe (Caravaggio), Naveen Andrews (Kip), Colin Firth (Geoffrey Clifton)</desc>
+    <credits>
+      <director>Anthony MinghellaDurada: 154 minuts</director>
+      <writer>Anthony Minghella</writer>
+      <writer>basat en la novel·la de Michael OndaatjeFotografia: John Seale (color)Música: Gabriel YaredIntèrprets: Ralph Fiennes (Almásy)</writer>
+      <writer>Juliette Binoche (Hana)</writer>
+      <writer>Kristin Scott-Thomas (Katharine Clifton)</writer>
+      <writer>Willem Dafoe (Caravaggio)</writer>
+      <writer>Naveen Andrews (Kip)</writer>
+      <writer>Colin Firth (Geoffrey Clifton)</writer>
+      <actor>Ralph Fiennes (Almásy)</actor>
+      <actor>Juliette Binoche (Hana)</actor>
+      <actor>Kristin Scott-Thomas (Katharine Clifton)</actor>
+      <actor>Willem Dafoe (Caravaggio)</actor>
+      <actor>Naveen Andrews (Kip)</actor>
+      <actor>Colin Firth (Geoffrey Clifton)</actor>
+    </credits>
+    <length units="seconds">8983</length>
+    <episode-num system="onscreen">1</episode-num>
+    <category lang="ca">FICCIÓ</category>
+    <category lang="ca">PEL·LÍCULA / TELEFILM</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
+    <icon src="https://img.3cat.cat/multimedia/jpg/8/1/1787641737218.jpg"/>
   </programme>
-  <programme start="20260902201643 +0200" stop="20260902205939 +0200" channel="c33">
-    <title lang="ca">Els rius navegables d'Europa</title>
-    <sub-title lang="ca">De Rotterdam a les Ardenes belgues</sub-title>
-    <desc lang="ca">Sempre aigües amunt, el viatge d'avui ens porta als Països Baixos i a Bèlgica. Des del Mar del Nord i la ciutat portuària de Rotterdam viatgem al llarg del Mosa. Passant per Venlo, Maastricht i Lieja, la ruta segueix el riu Ourthe fins a les Àrdenes belgues.Rotterdam i el seu imponent port marítim, el més gran d'Europa. La seva proximitat al mar és alhora una maledicció i una benedicció. Els holandesos han arrabassat terra al mar durant segles, són experts en fer front a l'augment del nivell de l'aigua i són pioners en noves idees. L'arquitecte Koen Olthuis només construeix cases damunt l'aigua. La seva visió de construir barris sencers d'edificis flotants ha creat un gran interès internacional, en aquests temps de canvi climàtic.Des de Rotterdam el viatge continua al llarg del Mosa cap a l'est. Els terrenys agrícoles estan protegits per dics, però en els darrers anys els Països Baixos han començat a replantejar aquestes mesures. El 'Programa Delta', a nivell nacional, se centra en els dics baixos i les zones d'inundació controlada. La propietat del granger Nol Hooijmaaijers vaser reconstruïda d'acord amb aquests principis, igual que una gran zona del municipi d'Oojen-Wanssum.La ruta al llarg del Mosa passa per la històrica estació de bombeig a vapor De Tuut, que en el passat es va utilitzar per drenar aquesta zona. No gaire lluny d'aquí, uns voluntaris recullen escombraries les ribes del riu: és el Dia Mundial de la Neteja. Grans quantitats de plàstic provinents de tot el continent s'acumulen als rius d'Holanda.Arribem a Bèlgica passant per Venlo, Roermond i Maastricht. Mentre la pesca al carrer s'està convertint en tendència a Lieja, els científics de les Àrdenes belgues s'encarreguen de la reintroducció del salmó. La migració d'aquests peixos són un clar exemple clar de com la natura està connectada a través de fronteres i del fet que els enfocaments transnacionals són necessaris per protegir el medi ambient.</desc>
-    <length units="seconds">2576</length>
-    <episode-num system="onscreen">5</episode-num>
+  <programme start="20260903012105 +0200" stop="20260903021926 +0200" channel="c33">
+    <title lang="ca">El petit príncep, el naixement d'una estrella</title>
+    <sub-title lang="ca">El Petit Príncep, el naixement d'una estrella.</sub-title>
+    <desc lang="ca">'El Petit Príncep, el naixement d'una estrella' (2023), una producció de BarnaBe Productions en coproducció amb Promenons-nous dans les bois, Les Films d'Ici Méditerranée, ARTE France i 3Cat, la col·laboració de RTVE i el suport de la regió Gran Est d'Estrasburg Eurométropole, en societat amb el CNC, de la regió Occitània – Pirineus Mediterrània, de la PROCIREP - Société des Producteurs, de l'ANGOA.Aquesta pel·lícula conta la història poc coneguda del naixement a Nova York, en plena Segona Guerra Mundial, del llibre més traduït després de la Bíblia.El documental recorre els últims quatre anys de l'extraordinària vida del pilot-escriptor Antoine Saint Exupery, entre el seu exili després de l'armistici francès en 1940 i la seva desaparició al juliol de 1944. Un període intens per a l'escriptor, en el qual es van barrejar les intrigues amoroses, polítiques i artístiques.Equip:Direcció: Vincent NguyenGuió: Vincent Nguyen &amp; Jean-Louis MilesiRealització: Vincent NguyenProductor: Serge Lalou, Katia Pinzon Etienne Jaxell-Truer i Sophie CabonProductor executiu 3Cat: Cristina Muñoz ClotetProductor delegat 3Cat: Daniel Barea DelgadoMuntatge: Anthony SantoroDirector de producció: Ulrik FrémontMúsica: Anthony TouzalinGrafisme: Simon GrauVeu en off: Pep Antón Muñoz</desc>
+    <credits>
+      <director>Vincent Nguyen</director>
+      <writer>Vincent Nguyen &amp; Jean-Louis MilesiRealització: Vincent Nguyen</writer>
+    </credits>
+    <length units="seconds">3501</length>
+    <episode-num system="onscreen">1</episode-num>
     <category lang="ca">DIVULGACIÓ</category>
-    <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
+    <category lang="ca">DOCUMENTAL DE CREACIÓ</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
-    <icon src="https://img.3cat.cat/multimedia/jpg/4/3/1784274800434.jpg"/>
+    <icon src="https://img.3cat.cat/multimedia/jpg/0/4/1713779388740.jpg"/>
   </programme>
   <channel id="oca1">
     <display-name>OCA1</display-name>
@@ -155,18 +180,6 @@
   <channel id="oca3">
     <display-name>OCA3</display-name>
   </channel>
-  <programme start="20260902185940 +0200" stop="20260902203035 +0200" channel="oca3">
-    <title lang="ca">Tot Costa</title>
-    <desc lang="ca">Analitzem la feina de Deco al mercat d'estiu amb Gerard Autet i Gemma Mallorca. Amb Ramon Salmurri i Laia Tudel, expliquem els últims moviments i amb la 'Caçatalents', Andrea Orts, analitzem els moviments més destacats del mercat global. També entrevistem la primera capitana del Barça femení, Patri Guijarro.</desc>
-    <length units="seconds">5455</length>
-    <episode-num system="onscreen">1000</episode-num>
-    <category lang="ca">ESPORTS</category>
-    <category lang="ca">INFORMATIU DIÀRI</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <icon src="https://img.ccma.cat/multimedia/jpg/0/4/1706209193140.jpg"/>
-  </programme>
   <channel id="oca4">
     <display-name>OCA4</display-name>
   </channel>
