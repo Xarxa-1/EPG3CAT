@@ -3,103 +3,99 @@
   <channel id="tvi">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20260902011509 +0200" stop="20260902043000 +0200" channel="tvi">
+  <programme start="20260902070000 +0200" stop="20260902100000 +0200" channel="tvi">
     <title lang="ca">Notícies 3CatInfo</title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">11691</length>
-    <episode-num system="onscreen">11061</episode-num>
+    <length units="seconds">10800</length>
+    <episode-num system="onscreen">11063</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <previously-shown/>
     <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
-  <programme start="20260902043000 +0200" stop="20260902050842 +0200" channel="tvi">
-    <title lang="ca">Fusió i swing a l'estudi</title>
-    <sub-title lang="ca">Andreu Zaragoza Quartet</sub-title>
-    <desc lang="ca">Andreu Zaragoza presenta el seu nou disc 'Quatriometry'. Vuit composicions que aprofiten la versatilitat de l'orgue Hammond, en contrapunt al saxo i a la personal guitarra de Zaragoza. El jazz contemporani amb arrels i la complicitat entre els solistes atrapen el públic. L'acompanyen Vicenç Macián al saxo tenor, Ramon Prats a la bateria i Abel Boquera a l'orgue.</desc>
-    <length units="seconds">2322</length>
-    <episode-num system="onscreen">14</episode-num>
-    <category lang="ca">MUSICALS</category>
-    <category lang="ca">ALTRES</category>
+  <programme start="20260902100000 +0200" stop="20260902120000 +0200" channel="tvi">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="seconds">7200</length>
+    <episode-num system="onscreen">11064</episode-num>
+    <category lang="ca">ACTUALITAT</category>
+    <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <previously-shown/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
   <channel id="324">
     <display-name>324</display-name>
   </channel>
-  <programme start="20260902010000 +0200" stop="20260902060000 +0200" channel="324">
+  <programme start="20260902070000 +0200" stop="20260902100000 +0200" channel="324">
     <title lang="ca">Notícies 3CatInfo</title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">18000</length>
-    <episode-num system="onscreen">11062</episode-num>
+    <length units="seconds">10800</length>
+    <episode-num system="onscreen">11063</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
-    <previously-shown/>
     <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
-  <programme start="20260902060000 +0200" stop="20260902070000 +0200" channel="324">
+  <programme start="20260902100000 +0200" stop="20260902120000 +0200" channel="324">
     <title lang="ca">Notícies 3CatInfo</title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">3600</length>
-    <episode-num system="onscreen">11062</episode-num>
+    <length units="seconds">7200</length>
+    <episode-num system="onscreen">11064</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <subtitles type="teletext"/>
-    <previously-shown/>
     <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
   <channel id="esport3">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20260902023842 +0200" stop="20260902041015 +0200" channel="esport3">
-    <title lang="ca">Tot Costa</title>
-    <sub-title lang="ca">Final de mercat tranquil al Barça</sub-title>
-    <desc lang="ca">Les últimes hores de mercat seran calmades al Camp Nou. Amb Gabriel Jesus, el Barça tanca el capítol de fitxatges. Pel que fa a les sortides, Marc Casado apunta a sortir en aquest tram final de mercat. Tot plegat després de la tercera victòria a la Lliga, 5 a 2 contra el Rayo.</desc>
-    <length units="seconds">5493</length>
-    <episode-num system="onscreen">999</episode-num>
+  <programme start="20260902065649 +0200" stop="20260902083024 +0200" channel="esport3">
+    <title lang="ca">Onze</title>
+    <sub-title lang="ca">Tancament mercat; Gabriel Jesus culer i 'El colegiado'</sub-title>
+    <desc lang="ca">Carles Fité, Gemma Mallorca, Xavi Torres i Jordi Martí comenten en directe els últims minuts del mercat d'estiu i les primeres paraules de Gabriel Jesus com a barcelonista. El Joan Fàbregas analitza les jugades polèmiques de la jornada.</desc>
+    <length units="seconds">5615</length>
+    <episode-num system="onscreen">1241</episode-num>
     <category lang="ca">ESPORTS</category>
-    <category lang="ca">INFORMATIU DIÀRI</category>
+    <category lang="ca">MAGAZINE</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/0/4/1706209193140.jpg"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/1/1/1688543515711.jpg"/>
   </programme>
-  <programme start="20260902041015 +0200" stop="20260902042557 +0200" channel="esport3">
-    <title lang="ca">3CatInfo Esports</title>
-    <desc lang="ca">Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.</desc>
-    <length units="seconds">942</length>
-    <episode-num system="onscreen">5496</episode-num>
+  <programme start="20260902083024 +0200" stop="20260902091341 +0200" channel="esport3">
+    <title lang="ca">Aire Lliure</title>
+    <sub-title lang="ca">Osona</sub-title>
+    <desc lang="ca">Osona En el programa titulat Osona descobrirem la nova passió de l'Àlex Crivillé, els raids hípics. La model Martina Klein confessa els seus secrets a Judit Mascó i la campioníssima Clàudia Galícia li farà una masterclass de BTT. Visitarem l'equip d'hoquei adaptat del Voltregà i sentirem el saxo de Pep Poblet.</desc>
+    <length units="seconds">2597</length>
+    <episode-num system="onscreen">19</episode-num>
     <category lang="ca">ESPORTS</category>
-    <category lang="ca">INFORMATIU DIÀRI</category>
+    <category lang="ca">REPORTATGES</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
+    <subtitles type="teletext"/>
     <previously-shown/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/9/7/1758888682179.jpg"/>
   </programme>
   <channel id="sx3">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20260902025758 +0200" stop="20260902032000 +0200" channel="sx3">
-    <title lang="ca">Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
-    <sub-title lang="ca">Deflagració, la decisió dels kwamis (2a part)</sub-title>
-    <desc lang="ca">Al Monarca se li presenta una oportunitat que no està disposat a deixar passar. El món està a punt de canviar de dalt a baix i no sembla que hi hagi ningú capaç d'impedir-ho, perquè el kwamis han pres una decisió que ha fet que la Marinette i l'Adrien es distreguin completament de les seves responsabilitats. Per bé i per mal.</desc>
-    <length units="seconds">1322</length>
-    <episode-num system="onscreen">115</episode-num>
+  <programme start="20260902074948 +0200" stop="20260902080048 +0200" channel="sx3">
+    <title lang="ca">Els barrufets (3D)</title>
+    <sub-title lang="ca">Barrufu</sub-title>
+    <desc lang="ca">Després d'una gran demostració de l'art marcial del barrufu per part de la Barrufeta, els barrufets li demanen que els n'ensenyi. La Barrufeta, però, és una mestra molt estricta i vol que els seus amics siguin igual de disciplinats que ella. Després d'expulsar-los gairebé a tots del curset, un petit grup decideix venjar-se'n i fer-li passar por. Però amb l'arribada d'un ogre famolenc, la broma s'acaba complicant massa.</desc>
+    <length units="seconds">660</length>
+    <episode-num system="onscreen">3</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
@@ -108,12 +104,12 @@
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20260902032000 +0200" stop="20260902034137 +0200" channel="sx3">
-    <title lang="ca">Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
-    <sub-title lang="ca">Perfecció</sub-title>
-    <desc lang="ca">Què faria la Marinette sense els seus amics? Tota la colla han decidit fer el que puguin per ajudar-la a acostar-se a l'Adrien. Aquesta vegada, els ha de sortir bé. Però la Marinette sempre és capaç de sorprendre. Ningú li ha explicat res i ningú sap que ella també té un pla infal·lible per dir-li a l'Adrien el que sent per ell. Tots descobriran que és millor dir les coses clares als amics per evitar malentesos... que podrien provocar que algú acabés akumatitzat!</desc>
-    <length units="seconds">1297</length>
-    <episode-num system="onscreen">116</episode-num>
+  <programme start="20260902080048 +0200" stop="20260902081152 +0200" channel="sx3">
+    <title lang="ca">Els barrufets (3D)</title>
+    <sub-title lang="ca">Qui és el més fort?</sub-title>
+    <desc lang="ca">El Barrufet Tou s'ha estat entrenant i desafia el Forçut a una competició per determinar qui és el barrufet més fort del poble. La Barrufeta li demana al Forçut que el deixi guanyar discretament, i així ho fa. Però, després, els barrufets estan tan entusiasmats amb el nou campió del poble que es burlen del Forçut. La Barrufeta idea un pla perquè les coses tornin a la normalitat.</desc>
+    <length units="seconds">664</length>
+    <episode-num system="onscreen">4</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
@@ -125,33 +121,34 @@
   <channel id="c33">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20260902023824 +0200" stop="20260902030407 +0200" channel="c33">
-    <title lang="ca">Viure als Pirineus</title>
-    <sub-title lang="ca">Una enòloga dels Pirineus (Primavera - Estiu)</sub-title>
-    <desc lang="ca">El món d'Anna Espelt són les caves familiars i les vinyes del cap de Creus, lloc on els Pirineus s'aboquen al mar. L'Anna és mare de família i dona empresària: 'Jo, directiva! Que no és fàcil!', com ella mateixa diu.L'Anna empresària va emprendre l'elaboració de vins ecològics i alhora la conservació de dòlmens i menhirs que s'aixequen enmig dels ceps del cap de Creus. La sensibilitat per la terra d'aquesta dona feminista és gairebé llegendària a l'Alt Empordà. A l'Anna li agrada parlar de les sinergies entre la vinya i el cap de Creus, entre la vinya i la tramuntana, sense oblidar la llum i la mar, essencials per al seu propi equilibri, però és al peu de les vinyes on li agrada anar quan ha de prendre decisions importants.</desc>
-    <length units="seconds">1543</length>
-    <episode-num system="onscreen">21</episode-num>
-    <category lang="ca">DIVULGACIÓ</category>
-    <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
+  <programme start="20260902071134 +0200" stop="20260902075746 +0200" channel="c33">
+    <title lang="ca">El Foraster</title>
+    <sub-title lang="ca">Els paisatges del Foraster</sub-title>
+    <desc lang="ca">Els paisatges del Foraster, amb els millors moments que Quim Masferrer ha compartit en els darrers 3 mesos. Persones i històries humanes, cada una d'elles particulars, úniques. I d'alguna manera, totes relacionades amb la natura que les envolta, perquè som qui som en bona part pels elements del paisatge on hem nascut. D'elements de la natura, aquesta temporada El Foraster n'ha viscut uns quants: neu, fred, pluja, muntanya, foc, estrelles, cel, mar... És per això que, en aquest capítol especial, Quim Masferrer tornarà a recórrer el paisatge natural i el paisatge humà dels pobles més petits de Catalunya.</desc>
+    <length units="seconds">2772</length>
+    <episode-num system="onscreen">66</episode-num>
+    <category lang="ca">ENTRETENIMENT</category>
+    <category lang="ca">VARIETATS</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20260902030407 +0200" stop="20260902032951 +0200" channel="c33">
-    <title lang="ca">Viure als Pirineus</title>
-    <sub-title lang="ca">Un múixer dels Pirineus (Primavera - Estiu)</sub-title>
-    <desc lang="ca">«Un múixer dels Pirineus» explica una història d'amor entre un home i els seus gossos. François Pagnoux porta trineus amb gossos: és un 'múixer'. L'apassionen la muntanya i els grans espais i des de fa anys s'ha instal·lat amb la seva família a Font-Romeu, als Pirineus Orientals.Aquest quadre natural d'excepció, per a ell és un terreny de joc que recorre amb els seus gossos durant totes les estacions. François Pagnoux ha sabut adaptar la seva activitat al clima dels Pirineus i, hivern i estiu, proposa als visitants llargues passejades en plena natura. Aquest aventurer intenta transmetre i compartir la seva passió pels gossos i per la natura. Amb les activitats que organitza, permet que tothom que ho desitgi pugui realitzar el seu somni de fer d'aprenent de múixer durant unes hores envoltat d'un paisatge grandiós. D'aquesta manera, en François participa activament en la vida social i econòmica de la vall on viu, i alhora sensibilitza els turistes de la necessitat de conservar aquest entorn de naturalesa salvatge.</desc>
-    <length units="seconds">1544</length>
-    <episode-num system="onscreen">22</episode-num>
+  <programme start="20260902075746 +0200" stop="20260902084453 +0200" channel="c33">
+    <title lang="ca">La Renaixença</title>
+    <sub-title lang="ca">La perxa d'atletisme</sub-title>
+    <desc lang="ca">Tots hem passat tardes de Jocs Olímpics mirant esports que no coneixem. El salt de perxa, per exemple. Com pot ser que aquell pal aguanti el pes d'una persona mentre es doblega i es torna a posar recte? Dediquem el capítol a la perxa d'atletisme. Ens visita en Max Codinach, de Gavina.mp3, que també és poeta i té un llibre (tot i que es veu que no ho sabia). Amb l'Arnau Tordera i la Laia Glück interpreten 'Sempre instint'. Sortim a passejar en Rufus per la defensa de Baler, a les Filipines del 1898.</desc>
+    <length units="seconds">2827</length>
+    <episode-num system="onscreen">63</episode-num>
     <category lang="ca">DIVULGACIÓ</category>
-    <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
+    <category lang="ca">ALTRES</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/3/3/1756148014833.jpg"/>
   </programme>
   <channel id="oca1">
     <display-name>OCA1</display-name>
