@@ -3,24 +3,10 @@
   <channel id="tvi">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20260902002226 +0200" stop="20260902011507 +0200" channel="tvi">
-    <title lang="ca">La Renaixença</title>
-    <sub-title lang="ca">La radiografia</sub-title>
-    <desc lang="ca">Ens ha sorprès saber que actualment els metges ja no donen radiografies. Segur que la decisió té algun sentit, però sap greu saber que ja no et pots fer el fatxenda ensenyant les radiografies dels ossos que t'has trencat. Doncs això, que dediquem el programa a la radiografia. També ens visita una sardanista, la Nàdia Cordón. Una visita molt adient. I passegem el gos pel dia del llamp de Brescia, quan es va evidenciar que cal instal·lar parallamps a les esglésies. El motiu que els porta a prendre aquesta decisió no us l'imagineu pas.</desc>
-    <length units="seconds">3161</length>
-    <episode-num system="onscreen">222</episode-num>
-    <category lang="ca">DIVULGACIÓ</category>
-    <category lang="ca">ALTRES</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <previously-shown/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/3/3/1756148014833.jpg"/>
-  </programme>
-  <programme start="20260902011507 +0200" stop="20260902043000 +0200" channel="tvi">
+  <programme start="20260902011509 +0200" stop="20260902043000 +0200" channel="tvi">
     <title lang="ca">Notícies 3CatInfo</title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">11693</length>
+    <length units="seconds">11691</length>
     <episode-num system="onscreen">11061</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
@@ -29,6 +15,19 @@
     </rating>
     <previously-shown/>
     <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
+  </programme>
+  <programme start="20260902043000 +0200" stop="20260902050842 +0200" channel="tvi">
+    <title lang="ca">Fusió i swing a l'estudi</title>
+    <sub-title lang="ca">Andreu Zaragoza Quartet</sub-title>
+    <desc lang="ca">Andreu Zaragoza presenta el seu nou disc 'Quatriometry'. Vuit composicions que aprofiten la versatilitat de l'orgue Hammond, en contrapunt al saxo i a la personal guitarra de Zaragoza. El jazz contemporani amb arrels i la complicitat entre els solistes atrapen el públic. L'acompanyen Vicenç Macián al saxo tenor, Ramon Prats a la bateria i Abel Boquera a l'orgue.</desc>
+    <length units="seconds">2322</length>
+    <episode-num system="onscreen">14</episode-num>
+    <category lang="ca">MUSICALS</category>
+    <category lang="ca">ALTRES</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <previously-shown/>
   </programme>
   <channel id="324">
     <display-name>324</display-name>
@@ -64,25 +63,25 @@
   <channel id="esport3">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20260902004940 +0200" stop="20260902022244 +0200" channel="esport3">
-    <title lang="ca">Onze</title>
-    <sub-title lang="ca">Tancament mercat; Gabriel Jesus culer i 'El colegiado'</sub-title>
-    <desc lang="ca">Carles Fité, Gemma Mallorca, Xavi Torres i Jordi Martí comenten en directe els últims minuts del mercat d'estiu i les primeres paraules de Gabriel Jesus com a barcelonista. El Joan Fàbregas analitza les jugades polèmiques de la jornada.</desc>
-    <length units="seconds">5584</length>
-    <episode-num system="onscreen">1241</episode-num>
+  <programme start="20260902023842 +0200" stop="20260902041015 +0200" channel="esport3">
+    <title lang="ca">Tot Costa</title>
+    <sub-title lang="ca">Final de mercat tranquil al Barça</sub-title>
+    <desc lang="ca">Les últimes hores de mercat seran calmades al Camp Nou. Amb Gabriel Jesus, el Barça tanca el capítol de fitxatges. Pel que fa a les sortides, Marc Casado apunta a sortir en aquest tram final de mercat. Tot plegat després de la tercera victòria a la Lliga, 5 a 2 contra el Rayo.</desc>
+    <length units="seconds">5493</length>
+    <episode-num system="onscreen">999</episode-num>
     <category lang="ca">ESPORTS</category>
-    <category lang="ca">MAGAZINE</category>
+    <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/1/1/1688543515711.jpg"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/0/4/1706209193140.jpg"/>
   </programme>
-  <programme start="20260902022244 +0200" stop="20260902025010 +0200" channel="esport3">
+  <programme start="20260902041015 +0200" stop="20260902042557 +0200" channel="esport3">
     <title lang="ca">3CatInfo Esports</title>
     <desc lang="ca">Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.</desc>
-    <length units="seconds">1646</length>
+    <length units="seconds">942</length>
     <episode-num system="onscreen">5496</episode-num>
     <category lang="ca">ESPORTS</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
@@ -95,12 +94,12 @@
   <channel id="sx3">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20260902005114 +0200" stop="20260902011245 +0200" channel="sx3">
-    <title lang="ca">Els germans Kratt</title>
-    <sub-title lang="ca">El nostre món blau i verd. 1a part</sub-title>
-    <desc lang="ca">Avui toca fer bugada i els germans Kratt, a partir d'una discrepància per la manera de rentar segons el color de la roba, comencen a discutir si és millor el verd del bosc o el blau del mar. Tots dos es posen a defensar el seu color i acaben distanciats; la resta de l'equip tindrà la difícil missió de mirar que es tornin a ajuntar.</desc>
-    <length units="seconds">1291</length>
-    <episode-num system="onscreen">166</episode-num>
+  <programme start="20260902025758 +0200" stop="20260902032000 +0200" channel="sx3">
+    <title lang="ca">Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
+    <sub-title lang="ca">Deflagració, la decisió dels kwamis (2a part)</sub-title>
+    <desc lang="ca">Al Monarca se li presenta una oportunitat que no està disposat a deixar passar. El món està a punt de canviar de dalt a baix i no sembla que hi hagi ningú capaç d'impedir-ho, perquè el kwamis han pres una decisió que ha fet que la Marinette i l'Adrien es distreguin completament de les seves responsabilitats. Per bé i per mal.</desc>
+    <length units="seconds">1322</length>
+    <episode-num system="onscreen">115</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
@@ -109,12 +108,12 @@
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20260902011245 +0200" stop="20260902012439 +0200" channel="sx3">
-    <title lang="ca">Les Sisters</title>
-    <sub-title lang="ca">Festival de Sisters</sub-title>
-    <desc lang="ca">Jugant a buscar ninos, la Marine troba al garatge una videocàmera vella amb unes quantes cintes. Les germanes en miren una i descobreixen que el seu pare feia pel·lícules de terror amb la seva mare. La Marine i la Wendy es riuen del film del seu pare, que les desafia a fer-ne un de millor. Les germanes faran una pel·lícula i els pares, una altra. A veure qui s'endú la Palma de Pommes les Bains!</desc>
-    <length units="seconds">714</length>
-    <episode-num system="onscreen">113</episode-num>
+  <programme start="20260902032000 +0200" stop="20260902034137 +0200" channel="sx3">
+    <title lang="ca">Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
+    <sub-title lang="ca">Perfecció</sub-title>
+    <desc lang="ca">Què faria la Marinette sense els seus amics? Tota la colla han decidit fer el que puguin per ajudar-la a acostar-se a l'Adrien. Aquesta vegada, els ha de sortir bé. Però la Marinette sempre és capaç de sorprendre. Ningú li ha explicat res i ningú sap que ella també té un pla infal·lible per dir-li a l'Adrien el que sent per ell. Tots descobriran que és millor dir les coses clares als amics per evitar malentesos... que podrien provocar que algú acabés akumatitzat!</desc>
+    <length units="seconds">1297</length>
+    <episode-num system="onscreen">116</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
@@ -126,52 +125,33 @@
   <channel id="c33">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20260901225025 +0200" stop="20260902010756 +0200" channel="c33">
-    <title lang="ca">Pel·lícula</title>
-    <sub-title lang="ca">El pianista</sub-title>
-    <desc lang="ca">EL PIANISTA (The Pianist)Idiomes versió original: anglès, alemany i rusProducció: Agencja Produkcji Fimowej, Le Studio Canal +, Film FernsehFonds Bayern, 2002 (Polònia, França, Gran Bretanya, Alemanya i Holanda)Direcció: Roman PolanskiDurada: 144 minutsGuió: Ronald Harwood, basat en el llibre de memòries de Wladyslaw SzpilmanFotografia: Pawel Edelman (color)Música: Wojciech KilarIntèrprets: Adrien Brody (Wladyslaw Szpilman), Thomas Kretschmann (capità Wilm Hosenfeld), Frank Finlay (pare), Maureen Lipman (mare), Ed Stoppard (Henryk), Emilia Fox (Dorota)Història verídica del brillant pianista polonès Wladyslaw Szpilman. Davant la invasió nazi de Varsòvia, l'actitud de Wladyslaw evoluciona des del distanciament fins al paper de víctima, primer humiliada i finalment assetjada. La sort i l'ajuda desinteressada dels seus amics, un d'ells alemany, faran que aconsegueixi sobreviure.</desc>
-    <credits>
-      <director>Roman PolanskiDurada: 144 minuts</director>
-      <writer>Ronald Harwood</writer>
-      <writer>basat en el llibre de memòries de Wladyslaw SzpilmanFotografia:</writer>
-      <actor>Adrien Brody (Wladyslaw Szpilman)</actor>
-      <actor>Thomas Kretschmann (capità Wilm Hosenfeld)</actor>
-      <actor>Frank Finlay (pare)</actor>
-      <actor>Maureen Lipman (mare)</actor>
-      <actor>Ed Stoppard (Henryk)</actor>
-      <actor>Emilia Fox (Dorota)Història verídica del brillant pianista polonès Wladyslaw Szpilman. Davant la invasió nazi de Varsòvia</actor>
-      <actor>l'actitud de Wladyslaw evoluciona des del distanciament fins al paper de víctima</actor>
-      <actor>primer humiliada</actor>
-      <actor>finalment assetjada. La sort</actor>
-      <actor>l'ajuda desinteressada dels seus amics</actor>
-      <actor>un d'ells alemany</actor>
-      <actor>faran que aconsegueixi sobreviure.</actor>
-    </credits>
-    <length units="seconds">8251</length>
-    <episode-num system="onscreen">1</episode-num>
-    <category lang="ca">FICCIÓ</category>
-    <category lang="ca">PEL·LÍCULA / TELEFILM</category>
+  <programme start="20260902023824 +0200" stop="20260902030407 +0200" channel="c33">
+    <title lang="ca">Viure als Pirineus</title>
+    <sub-title lang="ca">Una enòloga dels Pirineus (Primavera - Estiu)</sub-title>
+    <desc lang="ca">El món d'Anna Espelt són les caves familiars i les vinyes del cap de Creus, lloc on els Pirineus s'aboquen al mar. L'Anna és mare de família i dona empresària: 'Jo, directiva! Que no és fàcil!', com ella mateixa diu.L'Anna empresària va emprendre l'elaboració de vins ecològics i alhora la conservació de dòlmens i menhirs que s'aixequen enmig dels ceps del cap de Creus. La sensibilitat per la terra d'aquesta dona feminista és gairebé llegendària a l'Alt Empordà. A l'Anna li agrada parlar de les sinergies entre la vinya i el cap de Creus, entre la vinya i la tramuntana, sense oblidar la llum i la mar, essencials per al seu propi equilibri, però és al peu de les vinyes on li agrada anar quan ha de prendre decisions importants.</desc>
+    <length units="seconds">1543</length>
+    <episode-num system="onscreen">21</episode-num>
+    <category lang="ca">DIVULGACIÓ</category>
+    <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
-    <icon src="https://img.3cat.cat/multimedia/jpg/0/8/1786098347680.jpg"/>
   </programme>
-  <programme start="20260902010756 +0200" stop="20260902021235 +0200" channel="c33">
-    <title lang="ca">El comboi dels 927</title>
-    <sub-title lang="ca">El comboi dels 927</sub-title>
-    <desc lang="ca">El 24 d'agost de 1940, un tren amb 927 refugiats espanyols -molts d'ells catalans- sortia de l'estació d'Angulema, a la regió francesa de la Charente. Les tropes alemanyes de Hitler acabaven de partir França en dues meitats, i els refugiats creien que els portaven a zona no ocupada. Però aviat es van adonar que enfilaven cap al nord. Quatre dies més tard van arribar al poble de Mauthausen. No els sonava de res el nom d'un camp de concentració que, al cap d'uns anys, seria un dels símbols de l'holocaust i l'extermini. Allà mateix, es va produir una dramàtica separació: els soldats alemanys van obligar a baixar els homes, ja fossin vells o criatures, a partir dels 13 anys. Era l'inici de la tragèdia. 470 persones queden internades al camp de Mauthausen, on en morirà el 87%.Els 457 restants, dones i nens petits, comencen un llarg recorregut de tornada. A la desesperació per veure com els han arrencat els homes dels braços s'hi afegeix la incertesa pel seu destí. La parada en un camp de concentració femení -que podria ser Ravensbrück- feia témer el pitjor. Finalment, i després de 18 dies de viatge en condicions infames, les dones i criatures són retornades a l'Espanya de Franco, la mateixa d'on havien fugit acabada la Guerra Civil. Els espera presó, persecució, i el neguit de no poder preguntar pels seus familiars que s'havien quedat a Mauthausen.Al camp, els espanyols havien estat els primers d'arribar-hi. Es pot dir que pràcticament el van construir. I també van ser els primers de patir les conseqüències de la ira dels nazis: encara no havien arribat ni els jueus ni els russos per descarregar la seva bogeria exterminadora. Però els que van sobreviure no van callar: els més joves d'aquest comboi formaran part del comando dels 'Poschacer', peces clau per treure a l'exterior els clixés i fotografies de Francesc Boix, que van ser proves fonamentals de les crueltats dels nazis al judici de Nuremberg.Aquest comboi es caracteritza per ser el primer</desc>
-    <length units="seconds">3879</length>
-    <episode-num system="onscreen">501</episode-num>
-    <category lang="ca">ACTUALITAT</category>
-    <category lang="ca">REPORTATGES</category>
+  <programme start="20260902030407 +0200" stop="20260902032951 +0200" channel="c33">
+    <title lang="ca">Viure als Pirineus</title>
+    <sub-title lang="ca">Un múixer dels Pirineus (Primavera - Estiu)</sub-title>
+    <desc lang="ca">«Un múixer dels Pirineus» explica una història d'amor entre un home i els seus gossos. François Pagnoux porta trineus amb gossos: és un 'múixer'. L'apassionen la muntanya i els grans espais i des de fa anys s'ha instal·lat amb la seva família a Font-Romeu, als Pirineus Orientals.Aquest quadre natural d'excepció, per a ell és un terreny de joc que recorre amb els seus gossos durant totes les estacions. François Pagnoux ha sabut adaptar la seva activitat al clima dels Pirineus i, hivern i estiu, proposa als visitants llargues passejades en plena natura. Aquest aventurer intenta transmetre i compartir la seva passió pels gossos i per la natura. Amb les activitats que organitza, permet que tothom que ho desitgi pugui realitzar el seu somni de fer d'aprenent de múixer durant unes hores envoltat d'un paisatge grandiós. D'aquesta manera, en François participa activament en la vida social i econòmica de la vall on viu, i alhora sensibilitza els turistes de la necessitat de conservar aquest entorn de naturalesa salvatge.</desc>
+    <length units="seconds">1544</length>
+    <episode-num system="onscreen">22</episode-num>
+    <category lang="ca">DIVULGACIÓ</category>
+    <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
-    <icon src="https://statics.ccma.cat/multimedia/jpg/7/3/1571603193237.jpg"/>
   </programme>
   <channel id="oca1">
     <display-name>OCA1</display-name>
