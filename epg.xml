@@ -3,40 +3,40 @@
   <channel id="tvi">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20260902120000 +0200" stop="20260902125915 +0200" channel="tvi">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">3555</length>
-    <episode-num system="onscreen">11065</episode-num>
-    <category lang="ca">ACTUALITAT</category>
-    <category lang="ca">INFORMATIU DIÀRI</category>
+  <programme start="20260902162627 +0200" stop="20260902170316 +0200" channel="tvi">
+    <title lang="ca">La Riera</title>
+    <desc lang="ca">La Sònia, que continua investigant, remena el correu electrònic de l'Àngel Parés i hi troba coses que la deixen de pasta de moniato. Abans ha parlat de requalificacions amb el pare de la Lídia i s'ha sentit amenaçada. A can Guitart, la Mercè, que ha promès parlar amb l'Ignasi, no sap què fer quan el seu marit li anuncia que es queda. I la Lídia, que té plans per a en Claudi, ha decidit neutralitzar les amenaces de l'Anna al preu que sigui.</desc>
+    <length units="seconds">2209</length>
+    <episode-num system="onscreen">120</episode-num>
+    <category lang="ca">FICCIÓ</category>
+    <category lang="ca">TELENOVEL·LA</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
-  </programme>
-  <programme start="20260902125915 +0200" stop="20260902132030 +0200" channel="tvi">
-    <title lang="ca">Cuines</title>
-    <sub-title lang="ca">Coca de bolets, formatge i mel</sub-title>
-    <desc lang="ca">Sabeu què és una coca semidolça? Doncs una que té una base dolça, tendra i esponjosa, com la d'una coca de Sant Joan, i que per sobre porta ingredients salats com bolets, bull o formatge. El contrast de sabors entre el dolç i el salat us sorprendrà.</desc>
-    <length units="seconds">1275</length>
-    <episode-num system="onscreen">2073</episode-num>
-    <category lang="ca">DIVULGACIÓ</category>
-    <category lang="ca">CUINA</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
+    <subtitles type="teletext"/>
     <previously-shown/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/2/5/1653464509252.jpg"/>
+  </programme>
+  <programme start="20260902170316 +0200" stop="20260902173925 +0200" channel="tvi">
+    <title lang="ca">La Riera</title>
+    <desc lang="ca">En Lluís s'endurà un bon disgust en veure que ha tornat algú a qui no esperava tornar a veure. Mentrestant, es va fent públic que la Mercè i l'Ignasi tornen a estar junts, i mossèn Esteve no ho pot digerir. La Sònia, per la seva banda, es posa en marxa per saber què representen les fotos que ha trobat a l'Àngel. En Sergi no sap què fer després de la confessió de la Valeria, i en Nil vol ser el substitut d'en Marc.</desc>
+    <length units="seconds">2169</length>
+    <episode-num system="onscreen">121</episode-num>
+    <category lang="ca">FICCIÓ</category>
+    <category lang="ca">TELENOVEL·LA</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <subtitles type="teletext"/>
+    <previously-shown/>
   </programme>
   <channel id="324">
     <display-name>324</display-name>
   </channel>
-  <programme start="20260902120000 +0200" stop="20260902140000 +0200" channel="324">
+  <programme start="20260902163000 +0200" stop="20260902183000 +0200" channel="324">
     <title lang="ca">Notícies 3CatInfo</title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <length units="seconds">7200</length>
-    <episode-num system="onscreen">11065</episode-num>
+    <episode-num system="onscreen">11066</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
@@ -45,57 +45,59 @@
     <subtitles type="teletext"/>
     <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
-  <programme start="20260902140000 +0200" stop="20260902143000 +0200" channel="324">
-    <title lang="ca">Telenotícies comarques</title>
-    <length units="seconds">1800</length>
-    <episode-num system="onscreen">7026</episode-num>
+  <programme start="20260902183000 +0200" stop="20260902200000 +0200" channel="324">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="seconds">5400</length>
+    <episode-num system="onscreen">11067</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <icon src="https://img.ccma.cat/multimedia/jpg/5/2/1758026313525.jpg"/>
+    <subtitles type="teletext"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
   <channel id="esport3">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20260902112709 +0200" stop="20260902130000 +0200" channel="esport3">
-    <title lang="ca">Onze</title>
-    <sub-title lang="ca">Tancament mercat; Gabriel Jesus culer i 'El colegiado'</sub-title>
-    <desc lang="ca">Carles Fité, Gemma Mallorca, Xavi Torres i Jordi Martí comenten en directe els últims minuts del mercat d'estiu i les primeres paraules de Gabriel Jesus com a barcelonista. El Joan Fàbregas analitza les jugades polèmiques de la jornada.</desc>
-    <length units="seconds">5571</length>
-    <episode-num system="onscreen">1241</episode-num>
-    <category lang="ca">ESPORTS</category>
-    <category lang="ca">MAGAZINE</category>
+  <programme start="20260902161635 +0200" stop="20260902170138 +0200" channel="esport3">
+    <title lang="ca">Arxipèlag blau</title>
+    <sub-title lang="ca">Mar pelágica</sub-title>
+    <desc lang="ca">Ens endinsarem a la mar oberta, un univers desconegut i misteriós, on habiten des del microscòpic plàncton fins als grans mamífers marins. Enmig de la mar, la costa és lluny i el fons és gairebé inabastable. Una immensitat que és la llar sense fronteres de grans mamífers marins, intel·ligents i gregaris, com alguns dofins o els caps d'olla. Però cap d'aquests animals podria viure si no existissin uns organismes gairebé invisibles: el plàncton. Més de la meitat de l'oxigen que respirem prové d'uns minúsculs organismes que viuen a la deriva a mars i oceans: és el plàncton vegetal o fitoplàncton. A la mar és la base de la cadena alimentària marina i fa possible que es desenvolupi la resta de diversitat marina.</desc>
+    <length units="seconds">2703</length>
+    <episode-num system="onscreen">3</episode-num>
+    <category lang="ca">DIVULGACIÓ</category>
+    <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/1/1/1688543515711.jpg"/>
   </programme>
-  <programme start="20260902130000 +0200" stop="20260902140104 +0200" channel="esport3">
-    <title lang="ca">Esport Club</title>
-    <desc lang="ca">En Jordi Sanuy i Víctor Patsi us expliquen l'última hora esportiva i l'analitzen amb el seu equip de col·laboradors. El programa és molt actiu a les xarxes socials. L''Esport Club' té presència a Twitter, a Facebook i a Instagram. L'espai dirigeix moltes accions de participació amb l'audiència a través de les xarxes socials.</desc>
-    <length units="seconds">3664</length>
-    <episode-num system="onscreen">3231</episode-num>
-    <category lang="ca">ESPORTS</category>
-    <category lang="ca">INFORMATIU DIÀRI</category>
+  <programme start="20260902170138 +0200" stop="20260902172654 +0200" channel="esport3">
+    <title lang="ca">Catalunya salvatge</title>
+    <sub-title lang="ca">La frontera glacial</sub-title>
+    <desc lang="ca">L'alta muntanya és un ecosistema d'extrems. Els seus habitants fan servir diferents tècniques per sobreviure als cims del Pirineu Català.</desc>
+    <length units="seconds">1516</length>
+    <episode-num system="onscreen">2</episode-num>
+    <category lang="ca">DIVULGACIÓ</category>
+    <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/7/3/1698145091337.jpg"/>
+    <previously-shown/>
   </programme>
   <channel id="sx3">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20260902123044 +0200" stop="20260902125228 +0200" channel="sx3">
-    <title lang="ca">Els germans Kratt</title>
-    <sub-title lang="ca">A la recerca de la perca</sub-title>
-    <desc lang="ca">Tot provant els nous poders de perca del Vestit de Poder Animal, en Chris i en Martin han conegut en Gavin, un nen que es passa tot l'estiu pescant i que s'ha deixat enredar per en Zach de participar en un concurs de pesca que pot acabar molt malament. Els germans Kratt sempre juguen net, però d'en Zach no se'n pot pas dir el mateix! Que comenci el concurs!</desc>
-    <length units="seconds">1304</length>
-    <episode-num system="onscreen">11</episode-num>
+  <programme start="20260902162459 +0200" stop="20260902164609 +0200" channel="sx3">
+    <title lang="ca">Espies de veritat</title>
+    <sub-title lang="ca">Torna l'intercanvi total!</sub-title>
+    <desc lang="ca">El doctor Gray, un dels presos més perillosos del centre de detenció de la WHOOP, ha fet servir el seu Ajustador de Comportament per intercanviar-se el cos amb el d'en Jerry. Això vol dir que ara volta lliure pel món amb el cos d'en Jerry i amb la intenció d'intercanviar els cossos de tota la població mundial! Avui tot depèn de les Espies... i de la mare d'en Jerry!</desc>
+    <length units="seconds">1270</length>
+    <episode-num system="onscreen">148</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
@@ -103,13 +105,14 @@
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/6/9/1781885918096.jpg"/>
   </programme>
-  <programme start="20260902125228 +0200" stop="20260902131438 +0200" channel="sx3">
-    <title lang="ca">Els germans Kratt</title>
-    <sub-title lang="ca">Cuques de llum</sub-title>
-    <desc lang="ca">Ja està tot a punt per al Pícnic de les Llumenetes de l'Equip Kratt! Ara només falta anar al bosc a buscar les llumenetes, unes mosques que fan petites pampallugues de llum. Avui en Chris i en Martin aprendran moltes coses de la bioluminescència, la llum que emet un ésser, cosa que els anirà molt bé per aturar la Donita Donata, que té uns altres plans per a les llumenetes!</desc>
-    <length units="seconds">1330</length>
-    <episode-num system="onscreen">12</episode-num>
+  <programme start="20260902164609 +0200" stop="20260902170649 +0200" channel="sx3">
+    <title lang="ca">Espies de veritat</title>
+    <sub-title lang="ca">Pallassades</sub-title>
+    <desc lang="ca">Després de diversos incidents diplomàtics per culpa de gent que va maquillada de pallasso, les Espies han descobert que tots tenien una cosa en comú: tots havien fet servir maquillatge Pallassonique. D'entrada, sembla normal, però al cap d'una estona et deixa la cara de pallasso i no marxa de cap manera! Pot ser que hi tingui res a veure la Bozette, la millor pallassa del món?!</desc>
+    <length units="seconds">1240</length>
+    <episode-num system="onscreen">149</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
@@ -117,31 +120,33 @@
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/6/9/1781885918096.jpg"/>
   </programme>
   <channel id="c33">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20260902115148 +0200" stop="20260902125215 +0200" channel="c33">
-    <title lang="ca">Atrapa'm si pots - Especials</title>
-    <sub-title lang="ca">Atrapa'm si pots - estiu</sub-title>
-    <length units="seconds">3627</length>
-    <episode-num system="onscreen">48</episode-num>
-    <category lang="ca">ENTRETENIMENT</category>
-    <category lang="ca">CONCURS</category>
+  <programme start="20260902163023 +0200" stop="20260902165632 +0200" channel="c33">
+    <title lang="ca">Catalunya salvatge</title>
+    <sub-title lang="ca">L'accent mediterrani</sub-title>
+    <desc lang="ca">'Catalunya salvatge' és una sèrie documental de 13 capítols que donarà a conèixer als espectadors els ecosistemes més representatius del nostre país. Des dels cims del Pirineu fins a les llacunes del delta de l'Ebre, 'Catalunya salvatge' farà un repàs de la flora i la fauna dels paratges més emblemàtics de Catalunya.Els seguidors de la sèrie tindran, doncs, una finestra privilegiada a la biodiversitat del Parc Nacional d'Aigüestortes, la muntanya de Montserrat, la zona volcànica de la Garrotxa, els aiguamolls de l'Empordà o el món submarí de les illes Medes.El primer ecosistema explorat en profunditat serà el d'alta muntanya, on la supervivència no és gens fàcil.(tardor 2010)</desc>
+    <length units="seconds">1569</length>
+    <episode-num system="onscreen">6</episode-num>
+    <category lang="ca">DIVULGACIÓ</category>
+    <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20260902125215 +0200" stop="20260902134515 +0200" channel="c33">
-    <title lang="ca">Experiència Catalana</title>
-    <sub-title lang="ca">Corno</sub-title>
-    <desc lang="ca">Amb el Corno van der Berg, un jove holandès, visitem diferents indrets naturals dels Pallars i coneixem la tradicional baixada de falles d'Isil. A més, al circuit Barcelona-Catalunya gaudeix d'una experiència al límit.</desc>
-    <length units="seconds">3180</length>
-    <episode-num system="onscreen">8</episode-num>
-    <category lang="ca">ENTRETENIMENT</category>
-    <category lang="ca">ALTRES</category>
+  <programme start="20260902165632 +0200" stop="20260902174604 +0200" channel="c33">
+    <title lang="ca">Terreny personal</title>
+    <sub-title lang="ca">Santa Coloma de Gramenet</sub-title>
+    <desc lang="ca">Aquest capítol ens porta a un paisatge urbà, a una ciutat densa, complexa i plena de vida.De Fondo a Singuerlín i de Can Franquesa fins al Besòs s'estén una gran ciutat amb ànima de poble: Santa Coloma de Gramenet. Els protagonistes ens mostren els seus barris i ens expliquen la història d'una ciutat que han fet entre tots... i que avui continuen construint.Rodolfo del Hoyo, fill de pare manxec i mare andalusa, va arribar a Santa Coloma quan tenia un any i mig i ara és un escriptor premiat en llengua catalana. M. Teresa Castellví ha viscut a Fondo tota la vida i no canviaria de barri per res del món. Chenchiao Xiang va arribar a Santa Coloma fa quatre anys sense entendre ni una paraula de català i ara és la primera noia xinesa del seu institut que ha arribat a 2n de Batxillerat. I Pedro Cano porta l'empresa que organitza els grans concerts que se celebren a tot l'Estat, com la gira de Bruce Springsteen o el Festival Primavera Sound, i ho fa des del barri de Singuerlín, de Santa Coloma.A més d'aquests testimonis, també participen en aquest capítol els nens i nenes de l'Escola les Palmeres, que, a través de fotos fetes per ells mateixos, ens descobreixen quins són els seus racons preferits. L'escriptor Jordi Valls ens explica com escriu els seus poemes a l'interior del metro de la ciutat i Muchachito Bombo Infierno interpreta una cançó inèdita als carrers de Santa Coloma de Gramenet.</desc>
+    <length units="seconds">2972</length>
+    <episode-num system="onscreen">3</episode-num>
+    <category lang="ca">DIVULGACIÓ</category>
+    <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
