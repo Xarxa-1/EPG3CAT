@@ -3,11 +3,11 @@
   <channel id="tvi">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20260902070000 +0200" stop="20260902100000 +0200" channel="tvi">
+  <programme start="20260902120000 +0200" stop="20260902125915 +0200" channel="tvi">
     <title lang="ca">Notícies 3CatInfo</title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">10800</length>
-    <episode-num system="onscreen">11063</episode-num>
+    <length units="seconds">3555</length>
+    <episode-num system="onscreen">11065</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
@@ -15,26 +15,28 @@
     </rating>
     <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
-  <programme start="20260902100000 +0200" stop="20260902120000 +0200" channel="tvi">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">7200</length>
-    <episode-num system="onscreen">11064</episode-num>
-    <category lang="ca">ACTUALITAT</category>
-    <category lang="ca">INFORMATIU DIÀRI</category>
+  <programme start="20260902125915 +0200" stop="20260902132030 +0200" channel="tvi">
+    <title lang="ca">Cuines</title>
+    <sub-title lang="ca">Coca de bolets, formatge i mel</sub-title>
+    <desc lang="ca">Sabeu què és una coca semidolça? Doncs una que té una base dolça, tendra i esponjosa, com la d'una coca de Sant Joan, i que per sobre porta ingredients salats com bolets, bull o formatge. El contrast de sabors entre el dolç i el salat us sorprendrà.</desc>
+    <length units="seconds">1275</length>
+    <episode-num system="onscreen">2073</episode-num>
+    <category lang="ca">DIVULGACIÓ</category>
+    <category lang="ca">CUINA</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
+    <previously-shown/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/2/5/1653464509252.jpg"/>
   </programme>
   <channel id="324">
     <display-name>324</display-name>
   </channel>
-  <programme start="20260902070000 +0200" stop="20260902100000 +0200" channel="324">
+  <programme start="20260902120000 +0200" stop="20260902140000 +0200" channel="324">
     <title lang="ca">Notícies 3CatInfo</title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">10800</length>
-    <episode-num system="onscreen">11063</episode-num>
+    <length units="seconds">7200</length>
+    <episode-num system="onscreen">11065</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
@@ -43,26 +45,25 @@
     <subtitles type="teletext"/>
     <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
-  <programme start="20260902100000 +0200" stop="20260902120000 +0200" channel="324">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">7200</length>
-    <episode-num system="onscreen">11064</episode-num>
+  <programme start="20260902140000 +0200" stop="20260902143000 +0200" channel="324">
+    <title lang="ca">Telenotícies comarques</title>
+    <length units="seconds">1800</length>
+    <episode-num system="onscreen">7026</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/5/2/1758026313525.jpg"/>
   </programme>
   <channel id="esport3">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20260902065649 +0200" stop="20260902083024 +0200" channel="esport3">
+  <programme start="20260902112709 +0200" stop="20260902130000 +0200" channel="esport3">
     <title lang="ca">Onze</title>
     <sub-title lang="ca">Tancament mercat; Gabriel Jesus culer i 'El colegiado'</sub-title>
     <desc lang="ca">Carles Fité, Gemma Mallorca, Xavi Torres i Jordi Martí comenten en directe els últims minuts del mercat d'estiu i les primeres paraules de Gabriel Jesus com a barcelonista. El Joan Fàbregas analitza les jugades polèmiques de la jornada.</desc>
-    <length units="seconds">5615</length>
+    <length units="seconds">5571</length>
     <episode-num system="onscreen">1241</episode-num>
     <category lang="ca">ESPORTS</category>
     <category lang="ca">MAGAZINE</category>
@@ -73,29 +74,28 @@
     <previously-shown/>
     <icon src="https://img.ccma.cat/multimedia/jpg/1/1/1688543515711.jpg"/>
   </programme>
-  <programme start="20260902083024 +0200" stop="20260902091341 +0200" channel="esport3">
-    <title lang="ca">Aire Lliure</title>
-    <sub-title lang="ca">Osona</sub-title>
-    <desc lang="ca">Osona En el programa titulat Osona descobrirem la nova passió de l'Àlex Crivillé, els raids hípics. La model Martina Klein confessa els seus secrets a Judit Mascó i la campioníssima Clàudia Galícia li farà una masterclass de BTT. Visitarem l'equip d'hoquei adaptat del Voltregà i sentirem el saxo de Pep Poblet.</desc>
-    <length units="seconds">2597</length>
-    <episode-num system="onscreen">19</episode-num>
+  <programme start="20260902130000 +0200" stop="20260902140104 +0200" channel="esport3">
+    <title lang="ca">Esport Club</title>
+    <desc lang="ca">En Jordi Sanuy i Víctor Patsi us expliquen l'última hora esportiva i l'analitzen amb el seu equip de col·laboradors. El programa és molt actiu a les xarxes socials. L''Esport Club' té presència a Twitter, a Facebook i a Instagram. L'espai dirigeix moltes accions de participació amb l'audiència a través de les xarxes socials.</desc>
+    <length units="seconds">3664</length>
+    <episode-num system="onscreen">3231</episode-num>
     <category lang="ca">ESPORTS</category>
-    <category lang="ca">REPORTATGES</category>
+    <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
-    <previously-shown/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/7/3/1698145091337.jpg"/>
   </programme>
   <channel id="sx3">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20260902074948 +0200" stop="20260902080048 +0200" channel="sx3">
-    <title lang="ca">Els barrufets (3D)</title>
-    <sub-title lang="ca">Barrufu</sub-title>
-    <desc lang="ca">Després d'una gran demostració de l'art marcial del barrufu per part de la Barrufeta, els barrufets li demanen que els n'ensenyi. La Barrufeta, però, és una mestra molt estricta i vol que els seus amics siguin igual de disciplinats que ella. Després d'expulsar-los gairebé a tots del curset, un petit grup decideix venjar-se'n i fer-li passar por. Però amb l'arribada d'un ogre famolenc, la broma s'acaba complicant massa.</desc>
-    <length units="seconds">660</length>
-    <episode-num system="onscreen">3</episode-num>
+  <programme start="20260902123044 +0200" stop="20260902125228 +0200" channel="sx3">
+    <title lang="ca">Els germans Kratt</title>
+    <sub-title lang="ca">A la recerca de la perca</sub-title>
+    <desc lang="ca">Tot provant els nous poders de perca del Vestit de Poder Animal, en Chris i en Martin han conegut en Gavin, un nen que es passa tot l'estiu pescant i que s'ha deixat enredar per en Zach de participar en un concurs de pesca que pot acabar molt malament. Els germans Kratt sempre juguen net, però d'en Zach no se'n pot pas dir el mateix! Que comenci el concurs!</desc>
+    <length units="seconds">1304</length>
+    <episode-num system="onscreen">11</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
@@ -104,12 +104,12 @@
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20260902080048 +0200" stop="20260902081152 +0200" channel="sx3">
-    <title lang="ca">Els barrufets (3D)</title>
-    <sub-title lang="ca">Qui és el més fort?</sub-title>
-    <desc lang="ca">El Barrufet Tou s'ha estat entrenant i desafia el Forçut a una competició per determinar qui és el barrufet més fort del poble. La Barrufeta li demana al Forçut que el deixi guanyar discretament, i així ho fa. Però, després, els barrufets estan tan entusiasmats amb el nou campió del poble que es burlen del Forçut. La Barrufeta idea un pla perquè les coses tornin a la normalitat.</desc>
-    <length units="seconds">664</length>
-    <episode-num system="onscreen">4</episode-num>
+  <programme start="20260902125228 +0200" stop="20260902131438 +0200" channel="sx3">
+    <title lang="ca">Els germans Kratt</title>
+    <sub-title lang="ca">Cuques de llum</sub-title>
+    <desc lang="ca">Ja està tot a punt per al Pícnic de les Llumenetes de l'Equip Kratt! Ara només falta anar al bosc a buscar les llumenetes, unes mosques que fan petites pampallugues de llum. Avui en Chris i en Martin aprendran moltes coses de la bioluminescència, la llum que emet un ésser, cosa que els anirà molt bé per aturar la Donita Donata, que té uns altres plans per a les llumenetes!</desc>
+    <length units="seconds">1330</length>
+    <episode-num system="onscreen">12</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
@@ -121,34 +121,32 @@
   <channel id="c33">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20260902071134 +0200" stop="20260902075746 +0200" channel="c33">
-    <title lang="ca">El Foraster</title>
-    <sub-title lang="ca">Els paisatges del Foraster</sub-title>
-    <desc lang="ca">Els paisatges del Foraster, amb els millors moments que Quim Masferrer ha compartit en els darrers 3 mesos. Persones i històries humanes, cada una d'elles particulars, úniques. I d'alguna manera, totes relacionades amb la natura que les envolta, perquè som qui som en bona part pels elements del paisatge on hem nascut. D'elements de la natura, aquesta temporada El Foraster n'ha viscut uns quants: neu, fred, pluja, muntanya, foc, estrelles, cel, mar... És per això que, en aquest capítol especial, Quim Masferrer tornarà a recórrer el paisatge natural i el paisatge humà dels pobles més petits de Catalunya.</desc>
-    <length units="seconds">2772</length>
-    <episode-num system="onscreen">66</episode-num>
+  <programme start="20260902115148 +0200" stop="20260902125215 +0200" channel="c33">
+    <title lang="ca">Atrapa'm si pots - Especials</title>
+    <sub-title lang="ca">Atrapa'm si pots - estiu</sub-title>
+    <length units="seconds">3627</length>
+    <episode-num system="onscreen">48</episode-num>
     <category lang="ca">ENTRETENIMENT</category>
-    <category lang="ca">VARIETATS</category>
+    <category lang="ca">CONCURS</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20260902075746 +0200" stop="20260902084453 +0200" channel="c33">
-    <title lang="ca">La Renaixença</title>
-    <sub-title lang="ca">La perxa d'atletisme</sub-title>
-    <desc lang="ca">Tots hem passat tardes de Jocs Olímpics mirant esports que no coneixem. El salt de perxa, per exemple. Com pot ser que aquell pal aguanti el pes d'una persona mentre es doblega i es torna a posar recte? Dediquem el capítol a la perxa d'atletisme. Ens visita en Max Codinach, de Gavina.mp3, que també és poeta i té un llibre (tot i que es veu que no ho sabia). Amb l'Arnau Tordera i la Laia Glück interpreten 'Sempre instint'. Sortim a passejar en Rufus per la defensa de Baler, a les Filipines del 1898.</desc>
-    <length units="seconds">2827</length>
-    <episode-num system="onscreen">63</episode-num>
-    <category lang="ca">DIVULGACIÓ</category>
+  <programme start="20260902125215 +0200" stop="20260902134515 +0200" channel="c33">
+    <title lang="ca">Experiència Catalana</title>
+    <sub-title lang="ca">Corno</sub-title>
+    <desc lang="ca">Amb el Corno van der Berg, un jove holandès, visitem diferents indrets naturals dels Pallars i coneixem la tradicional baixada de falles d'Isil. A més, al circuit Barcelona-Catalunya gaudeix d'una experiència al límit.</desc>
+    <length units="seconds">3180</length>
+    <episode-num system="onscreen">8</episode-num>
+    <category lang="ca">ENTRETENIMENT</category>
     <category lang="ca">ALTRES</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/3/3/1756148014833.jpg"/>
   </programme>
   <channel id="oca1">
     <display-name>OCA1</display-name>
