@@ -3,69 +3,70 @@
   <channel id="tvi">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20260902224043 +0200" stop="20260902231620 +0200" channel="tvi">
-    <title lang="ca">L'un per l'altre</title>
-    <sub-title lang="ca">Hem mort el llop</sub-title>
-    <desc lang="ca">Com cada Festa Major, el Toni, la Rosa, el Poppins, la Joana, el Calafell i la Maria participen en la representació de Terra Baixa que es fa a Horta. La Rosa és la directora, però aquest any hi ha una sorpresa, el director serà el LLuis Pasqual. La seva arribada provoca tants canvis en el repartiment i la forma d'assajar, que s'haurà d'afrontar a una revolta comandada per la pròpia Rosa.</desc>
-    <length units="seconds">2137</length>
-    <episode-num system="onscreen">14</episode-num>
-    <category lang="ca">FICCIÓ</category>
-    <category lang="ca">SITCOM (COMÈDIA DE SITUACIÓ)</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <subtitles type="teletext"/>
-    <previously-shown/>
-  </programme>
-  <programme start="20260902231620 +0200" stop="20260902234724 +0200" channel="tvi">
-    <title lang="ca">Blanc sobre blanc</title>
-    <sub-title lang="ca">Detall</sub-title>
-    <desc lang="ca">Atenció al detallLa pintora i il·lustradora Sabala ens presenta el seu univers carregat de personatges nassuts i alegres al seu taller de Masdenverge (Tarragona). I Xavier Medina-Campeny ens parla de la seva trajectòria i amb ell descobrim els missatges que amaguen les seves escultures.</desc>
-    <length units="seconds">1864</length>
-    <episode-num system="onscreen">3</episode-num>
+  <programme start="20260903004135 +0200" stop="20260903013339 +0200" channel="tvi">
+    <title lang="ca">La Renaixença</title>
+    <sub-title lang="ca">El tallagespa</sub-title>
+    <desc lang="ca">El tallagespa és un objecte com Déu mana, però, compte, no sigueu gamarussos, que més d'un ha perdut els dits intentant desencallar la gespa compactada de sota la màquina. Abans de manipular-lo, assegureu-vos que estigui parat, que ara en fan de molt silenciosos! També parlem amb l'Ernest Villegas, un tros d'actor amb una veu de tro que fot goig de sentir. Per acabar, gafem una gossa anomenada Taga i ens tanquem a la presó de la Model, la que ja està tancada, i amb raó, perquè allò era un cau de merda.</desc>
+    <length units="seconds">3124</length>
+    <episode-num system="onscreen">223</episode-num>
     <category lang="ca">DIVULGACIÓ</category>
-    <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
+    <category lang="ca">ALTRES</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <subtitles type="teletext"/>
     <previously-shown/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/3/3/1756148014833.jpg"/>
   </programme>
-  <channel id="324">
-    <display-name>324</display-name>
-  </channel>
-  <programme start="20260902230000 +0200" stop="20260903003000 +0200" channel="324">
+  <programme start="20260903013339 +0200" stop="20260903043000 +0200" channel="tvi">
     <title lang="ca">Notícies 3CatInfo</title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">5400</length>
-    <episode-num system="onscreen">11069</episode-num>
-    <category lang="ca">ACTUALITAT</category>
-    <category lang="ca">INFORMATIU DIÀRI</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
-  </programme>
-  <programme start="20260903003000 +0200" stop="20260903010000 +0200" channel="324">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">1800</length>
+    <length units="seconds">10581</length>
     <episode-num system="onscreen">11070</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
+    <previously-shown/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
+  </programme>
+  <channel id="324">
+    <display-name>324</display-name>
+  </channel>
+  <programme start="20260903010000 +0200" stop="20260903060000 +0200" channel="324">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="seconds">18000</length>
+    <episode-num system="onscreen">11070</episode-num>
+    <category lang="ca">ACTUALITAT</category>
+    <category lang="ca">INFORMATIU DIÀRI</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <previously-shown/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
+  </programme>
+  <programme start="20260903060000 +0200" stop="20260903070000 +0200" channel="324">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="seconds">3600</length>
+    <episode-num system="onscreen">11070</episode-num>
+    <category lang="ca">ACTUALITAT</category>
+    <category lang="ca">INFORMATIU DIÀRI</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <previously-shown/>
     <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
   <channel id="esport3">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20260902230000 +0200" stop="20260903003043 +0200" channel="esport3">
+  <programme start="20260903005039 +0200" stop="20260903022105 +0200" channel="esport3">
     <title lang="ca">Onze</title>
     <sub-title lang="ca">Posem nota a Deco; Casadó al Depor i 'El predicador'</sub-title>
     <desc lang="ca">Lluís Carrasco, Sique Rodriguez, Irati Vidal i Joan Poquí posen nota a la gestió del director esportiu del Barça en el mercat d'estiu. L'Òscar Pérez-Dolz predica la fe del bon culer.</desc>
-    <length units="seconds">5443</length>
+    <length units="seconds">5426</length>
     <episode-num system="onscreen">1242</episode-num>
     <category lang="ca">ESPORTS</category>
     <category lang="ca">MAGAZINE</category>
@@ -73,29 +74,31 @@
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
+    <previously-shown/>
     <icon src="https://img.ccma.cat/multimedia/jpg/1/1/1688543515711.jpg"/>
   </programme>
-  <programme start="20260903003043 +0200" stop="20260903005138 +0200" channel="esport3">
+  <programme start="20260903022105 +0200" stop="20260903024053 +0200" channel="esport3">
     <title lang="ca">3CatInfo Esports</title>
     <desc lang="ca">Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.</desc>
-    <length units="seconds">1255</length>
+    <length units="seconds">1188</length>
     <episode-num system="onscreen">5497</episode-num>
     <category lang="ca">ESPORTS</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
+    <previously-shown/>
     <icon src="https://img.ccma.cat/multimedia/jpg/9/7/1758888682179.jpg"/>
   </programme>
   <channel id="sx3">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20260902224553 +0200" stop="20260902230528 +0200" channel="sx3">
-    <title lang="ca">El detectiu Conan</title>
-    <sub-title lang="ca">El número del ventríloc (2a part)</sub-title>
-    <desc lang="ca">La policia dona per fet que l'assassí és en Haruomi Togawa, però en Conan no les té totes i decideix anar a inspeccionar un cop més l'escenari del crim amb l'inspector Takagi. Allà descobreix que algú va canviar de lloc els trofeus d'en Riichi Tengan per posar el que va servir d'arma homicida al davant i deixar al darrere el guardó més preuat de l'artista. A més, en Takagi li revela que l'homicidi s'ha comès amb guants, perquè s'ha trobat una fibra tèxtil a les ulleres que hi havia a la bossa d'en Togawa. Mentre en Conan passeja pel carrer mirant de lligar caps, veu unes imatges d'en Tengan a la televisió que li donen la pista final que buscava per resoldre el cas.</desc>
-    <length units="seconds">1175</length>
-    <episode-num system="onscreen">862</episode-num>
+  <programme start="20260903011324 +0200" stop="20260903012518 +0200" channel="sx3">
+    <title lang="ca">Les Sisters</title>
+    <sub-title lang="ca">Perdut per perdut</sub-title>
+    <desc lang="ca">La Marine sempre perd les seves coses i la seva mare es nega a comprar-li la nova samarreta del Super Piu Piu. Quan la Wendy presumeix del vestit nou que li ha comprat la mare perquè no perd mai res, la Marine s'empipa molt i decideix demostrar que la seva germana gran també perd coses.</desc>
+    <length units="seconds">714</length>
+    <episode-num system="onscreen">116</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
@@ -104,12 +107,12 @@
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20260902230528 +0200" stop="20260902232623 +0200" channel="sx3">
-    <title lang="ca">El detectiu Conan</title>
-    <sub-title lang="ca">L'hostal del Kamaitachi (1a part)</sub-title>
-    <desc lang="ca">En Heiji convida en Conan a visitar-lo en un hostal on s'ha vist un kamaitachi, un estrany animal mitològic que pot córrer damunt de l'aigua i que fa talls a les persones amb una mena de dalla que té. Quan els nostres amics arriben a l'hostal, es troben que també hi van dos periodistes que estan investigant el tema i, en un moment determinat, tots plegats són víctimes de l'atac del kamaitachi.</desc>
-    <length units="seconds">1255</length>
-    <episode-num system="onscreen">863</episode-num>
+  <programme start="20260903012518 +0200" stop="20260903013648 +0200" channel="sx3">
+    <title lang="ca">Les Sisters</title>
+    <sub-title lang="ca">Amb la mateixa moneda</sub-title>
+    <desc lang="ca">La Wendy demana la setmanada als pares i la Marine també en vol. Però la Wendy se'n burla: li diu que no és prou gran i que els diners no li durarien ni dos minuts. Ah, sí? La Marine pensa demostrar als pares que la Wendy és una autèntica malgastadora. Després de caure en les trampes de la seva germana, la Wendy li pensa pagar amb la mateixa moneda.</desc>
+    <length units="seconds">690</length>
+    <episode-num system="onscreen">117</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
