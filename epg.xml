@@ -3,26 +3,26 @@
   <channel id="tvi">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20260903231327 +0200" stop="20260903234408 +0200" channel="tvi">
-    <title lang="ca">Tot torna</title>
-    <sub-title lang="ca">1994</sub-title>
-    <desc lang="ca">Repassem el 1994, l'any que alliberen la farmacèutica d'Olot del segrest i l'orca Ulisses del zoo de Barcelona. Es cala foc al Liceu, la Penya guanya l'Eurolliga i un veí de Vilassar de Mar estableix un rècord cuinant truites de patates durant 24 hores seguides.</desc>
-    <length units="seconds">1841</length>
-    <episode-num system="onscreen">7</episode-num>
-    <category lang="ca">ENTRETENIMENT</category>
-    <category lang="ca">ALTRES</category>
+  <programme start="20260904011336 +0200" stop="20260904043000 +0200" channel="tvi">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="seconds">11784</length>
+    <episode-num system="onscreen">11079</episode-num>
+    <category lang="ca">ACTUALITAT</category>
+    <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <previously-shown/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
-  <programme start="20260903234408 +0200" stop="20260904002123 +0200" channel="tvi">
-    <title lang="ca">Tot torna</title>
-    <sub-title lang="ca">2006</sub-title>
-    <desc lang="ca">Repassem el 2006, l'any que els catalans han de decidir què voten al referèndum de l'Estatut i quin politò es posen al mòbil. El papa de Roma viatja a València, els papers de Salamanca, a Catalunya, i el Barça, a París per aixecar la segona Champions.</desc>
-    <length units="seconds">2235</length>
-    <episode-num system="onscreen">8</episode-num>
-    <category lang="ca">ENTRETENIMENT</category>
+  <programme start="20260904043000 +0200" stop="20260904051447 +0200" channel="tvi">
+    <title lang="ca">Fusió i swing a l'estudi</title>
+    <sub-title lang="ca">Edu Tancredi Sextet</sub-title>
+    <desc lang="ca">Edu Tancredi ens presenta el seu repertori, amb el qual no es limita a tocar el latin jazz tradicional d'influència caribenya, sinó que investiga amb altres ritmes llatinoamericans, com ara el joropo de Veneçuela, el candombe de l'Uruguai o el baiao brasiler. Endinsem-nos, així, en aquest particular mapa musical llatinoamericà amb Edu Tancredi, acompanyat d'Eladio Reinón, al saxo; Mathew Simon, a la trompeta; Jesús Bachiller, al baix; David Gómez, a la bateria, i Fran Palomo, a la percussió.</desc>
+    <length units="seconds">2687</length>
+    <episode-num system="onscreen">16</episode-num>
+    <category lang="ca">MUSICALS</category>
     <category lang="ca">ALTRES</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
@@ -32,22 +32,10 @@
   <channel id="324">
     <display-name>324</display-name>
   </channel>
-  <programme start="20260903230000 +0200" stop="20260904003000 +0200" channel="324">
+  <programme start="20260904010000 +0200" stop="20260904060000 +0200" channel="324">
     <title lang="ca">Notícies 3CatInfo</title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">5400</length>
-    <episode-num system="onscreen">11078</episode-num>
-    <category lang="ca">ACTUALITAT</category>
-    <category lang="ca">INFORMATIU DIÀRI</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
-  </programme>
-  <programme start="20260904003000 +0200" stop="20260904010000 +0200" channel="324">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">1800</length>
+    <length units="seconds">18000</length>
     <episode-num system="onscreen">11079</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
@@ -55,15 +43,30 @@
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
+    <previously-shown/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
+  </programme>
+  <programme start="20260904060000 +0200" stop="20260904070000 +0200" channel="324">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="seconds">3600</length>
+    <episode-num system="onscreen">11079</episode-num>
+    <category lang="ca">ACTUALITAT</category>
+    <category lang="ca">INFORMATIU DIÀRI</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <previously-shown/>
     <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
   <channel id="esport3">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20260903230000 +0200" stop="20260904003043 +0200" channel="esport3">
+  <programme start="20260904004718 +0200" stop="20260904021718 +0200" channel="esport3">
     <title lang="ca">Onze</title>
-    <desc lang="ca">Les nits d'Esport3 tornen a concentrar tota la informació, les millors opinions i l'entreteniment necessari per acabar el dia al voltant de l'actualitat esportiva. Un xou cada nit per acabar informat, saber cap on va l'actualitat i mantenir sempre un somriure.</desc>
-    <length units="seconds">5443</length>
+    <sub-title lang="ca">Mou, llop amb pell de xai; Ferran Torres parla del Barça i 'El consultori'</sub-title>
+    <desc lang="ca">David Bernabeu, Víctor Lozano, Laia Tudel i Fernando Polo analitzen el canvi de to de Mourinho a les rodes de premsa i les declaracions de Ferran Torres. El Sergi Ferrer respon les preguntes dels espectadors inquiets de l'Onze.</desc>
+    <length units="seconds">5400</length>
     <episode-num system="onscreen">1243</episode-num>
     <category lang="ca">ESPORTS</category>
     <category lang="ca">MAGAZINE</category>
@@ -71,29 +74,31 @@
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
+    <previously-shown/>
     <icon src="https://img.ccma.cat/multimedia/jpg/1/1/1688543515711.jpg"/>
   </programme>
-  <programme start="20260904003043 +0200" stop="20260904005124 +0200" channel="esport3">
+  <programme start="20260904021718 +0200" stop="20260904023511 +0200" channel="esport3">
     <title lang="ca">3CatInfo Esports</title>
     <desc lang="ca">Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.</desc>
-    <length units="seconds">1241</length>
+    <length units="seconds">1073</length>
     <episode-num system="onscreen">5498</episode-num>
     <category lang="ca">ESPORTS</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
+    <previously-shown/>
     <icon src="https://img.ccma.cat/multimedia/jpg/9/7/1758888682179.jpg"/>
   </programme>
   <channel id="sx3">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20260903230209 +0200" stop="20260903232312 +0200" channel="sx3">
-    <title lang="ca">El detectiu Conan</title>
-    <sub-title lang="ca">La foscor de la policia de la prefectura (3a part)</sub-title>
-    <desc lang="ca">Ja hi ha hagut tres assassinats i tots els indicis assenyalen l'inspector Yamato com a principal sospitós. En Mamoru Saegusa, un dels homes de l'inspector Takeda, rep un correu d'en Kansuke Yamato que li demana que vagi al mont Saijo si no vol que reveli tota la veritat sobre la X. Mentrestant, en Conan, la Ran i en Mouri ja són al tren bala, de tornada cap a casa. Allà en Conan els explica tota la veritat sobre el clan dels picots.</desc>
-    <length units="seconds">1263</length>
-    <episode-num system="onscreen">867</episode-num>
+  <programme start="20260904012411 +0200" stop="20260904013541 +0200" channel="sx3">
+    <title lang="ca">Les Sisters</title>
+    <sub-title lang="ca">La neroïna dels teus somnis</sub-title>
+    <desc lang="ca">La Marine dona una foto seva a la Wendy, però en comptes de posar-la en un lloc ben visible, la seva germana la guarda en un calaix. Perquè la posi al lloc que es mereix, com la foto del Maxence o el pòster gegant dels Vandalize, la Marine farà l'impossible per convertir-se en l'heroïna somiada per la seva germana.</desc>
+    <length units="seconds">690</length>
+    <episode-num system="onscreen">120</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
@@ -102,12 +107,12 @@
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20260903232312 +0200" stop="20260903234459 +0200" channel="sx3">
-    <title lang="ca">Els germans Kratt</title>
-    <sub-title lang="ca">Mossecs d'ant</sub-title>
-    <desc lang="ca">Com que avui és festa i l'equip Kratt no té cap aventura, el Chris i el Martin han pensat anar d'acampada. Quan són al camp, coneixen una cria d'ant que ha perdut la mare i es veuen obligats a complir una missió: mirar que mare i fill es retrobin. Per aconseguir-ho, però, hauran de superar uns quants obstacles.</desc>
-    <length units="seconds">1307</length>
-    <episode-num system="onscreen">172</episode-num>
+  <programme start="20260904013541 +0200" stop="20260904014711 +0200" channel="sx3">
+    <title lang="ca">Les Sisters</title>
+    <sub-title lang="ca">Les Sisters perfectes</sub-title>
+    <desc lang="ca">La Wendy creu que l'Emma i la Gemma són les Sisters perfectes. Les dues bessones no es barallen mai, no pas com la Wendy i la Marine! La Marine s'enfada perquè la Wendy s'estima més la companyia de les bessones i es proposa demostrar que fins i tot les Sisters perfectes a vegades discuteixen. Quan intenta provocar tensions entre l'Emma i la Gemma, la Marine desperta un vell ressentiment que pren proporcions èpiques.</desc>
+    <length units="seconds">690</length>
+    <episode-num system="onscreen">133</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
@@ -119,12 +124,12 @@
   <channel id="c33">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20260903224920 +0200" stop="20260903234747 +0200" channel="c33">
-    <title lang="ca">Un planeta perfecte</title>
-    <sub-title lang="ca">Volcà</sub-title>
-    <desc lang="ca">Sense volcans no hi hauria vida: no hi hauria una atmosfera respirable, ni oceans ni terra ferma. A la superfície de la Terra hi ha més de 1.500 volcans actius. En aquest episodi visitarem els sorprenents habitats que els volcans han creat pertot arreu: un llac d'aigües càustiques on crien els flamencs, un volcà adormit on enterren els ous les iguanes, o les grans planes del Serengeti, on els rics sediments volcànics permeten una explosió de vida.</desc>
-    <length units="seconds">3507</length>
-    <episode-num system="onscreen">1</episode-num>
+  <programme start="20260904003754 +0200" stop="20260904013000 +0200" channel="c33">
+    <title lang="ca">A tocar de l'aigua</title>
+    <sub-title lang="ca">El Segre I; la Llosa i la Valira</sub-title>
+    <desc lang="ca">En aquest episodi, coneixerem el curs del riu Segre des que neix a l'Alta Cerdanya i, tot resseguint-ne la conca alta, passarem per Andorra i baixarem a l'Alt Urgell. A peu, amb canoa, amb bicicleta o amb tren, ens anirem trobant amb el riu i els seus afluents i gaudirem de la natura, els paisatges i el patrimoni fluvial i cultural de les Terres de Lleida. La ruta d'aquesta etapa ens portarà fins a Coll de Nargó.</desc>
+    <length units="seconds">3126</length>
+    <episode-num system="onscreen">4</episode-num>
     <category lang="ca">DIVULGACIÓ</category>
     <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
     <rating>
@@ -132,14 +137,13 @@
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
-    <icon src="https://img.3cat.cat/multimedia/jpg/0/9/1766143230590.jpg"/>
   </programme>
-  <programme start="20260903234747 +0200" stop="20260904003752 +0200" channel="c33">
-    <title lang="ca">Alaska salvatge</title>
-    <sub-title lang="ca">Primavera</sub-title>
-    <desc lang="ca">Alaska és el territori i l'estat més septentrional dels Estats Units, una regió vasta dominada per la natura salvatge. En aquest episodi assistim a l'arribada de la primavera, que canvia radicalment l'aspecte d'Alaska després dels mesos hivernals. El desglaç genera una autèntica explosió de vida a terra ferma, i al mar provoca l'arribada en massa dels arengs i altres espècies marines que tenen una gran importància per a l'economia local.</desc>
-    <length units="seconds">3005</length>
-    <episode-num system="onscreen">1</episode-num>
+  <programme start="20260904013000 +0200" stop="20260904015803 +0200" channel="c33">
+    <title lang="ca">Viure als Pirineus</title>
+    <sub-title lang="ca">Un pilot dels Pirineus (Primavera - Estiu)</sub-title>
+    <desc lang="ca">Zigzaguejar a 200 quilòmetres per hora entre els pics de la serralada dels Pirineus, esmunyir-se entre els núvols i la boira, portar càrregues de centenars de quilos fins a més de 2.000 metres d'altitud, fer viure l'economia de la muntanya... Heus aquí algunes de les activitats que porta a terme diàriament aquest home excepcional.Jean Brosset és tota una figura a la seva feina. Té 55 anys, és pilot professional d'helicòpter i treballa en una de les millors empreses de la regió de Pau.En Jean és el pilot a qui sempre es recorre quan cal fer alguna intervenció complicada. Les missions no s'assemblen mai les unes amb les altres, de vegades cal fer pujar algú a l'helicòpter hissant-lo o transportar des de passatgers fins a una rulot, o barrils de quitrà. En Jean no sap mai de quina mena acabaran sent les operacions que li encarreguen. A més, als Pirineus, la meteorologia i les estacions fan la seva feina tan apassionant com perillosa.</desc>
+    <length units="seconds">1683</length>
+    <episode-num system="onscreen">26</episode-num>
     <category lang="ca">DIVULGACIÓ</category>
     <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
     <rating>
