@@ -3,69 +3,67 @@
   <channel id="tvi">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20260903013339 +0200" stop="20260903043000 +0200" channel="tvi">
+  <programme start="20260903060114 +0200" stop="20260903100000 +0200" channel="tvi">
     <title lang="ca">Notícies 3CatInfo</title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">10581</length>
-    <episode-num system="onscreen">11070</episode-num>
+    <length units="seconds">14326</length>
+    <episode-num system="onscreen">11071</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <previously-shown/>
     <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
-  <programme start="20260903043000 +0200" stop="20260903051526 +0200" channel="tvi">
-    <title lang="ca">Fusió i swing a l'estudi</title>
-    <sub-title lang="ca">Gemini</sub-title>
-    <desc lang="ca">Gemini són tres grans intèrprets a la recerca de l'evocació i el color a través de la seva música. Podríem dir que practiquen un estil influenciat per la musica laietana dels 70 i el jazz que es feia a Barcelona durant els 80. Jordi Gaspar, al baix acústic; Jordi Bonell, a la guitarra, i Roger Blavia, a la percussió.</desc>
-    <length units="seconds">2726</length>
-    <episode-num system="onscreen">15</episode-num>
-    <category lang="ca">MUSICALS</category>
-    <category lang="ca">ALTRES</category>
+  <programme start="20260903100000 +0200" stop="20260903120000 +0200" channel="tvi">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="seconds">7200</length>
+    <episode-num system="onscreen">11072</episode-num>
+    <category lang="ca">ACTUALITAT</category>
+    <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <previously-shown/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
   <channel id="324">
     <display-name>324</display-name>
   </channel>
-  <programme start="20260903010000 +0200" stop="20260903060000 +0200" channel="324">
+  <programme start="20260903070000 +0200" stop="20260903100000 +0200" channel="324">
     <title lang="ca">Notícies 3CatInfo</title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">18000</length>
-    <episode-num system="onscreen">11070</episode-num>
+    <length units="seconds">10800</length>
+    <episode-num system="onscreen">11071</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <previously-shown/>
+    <subtitles type="teletext"/>
     <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
-  <programme start="20260903060000 +0200" stop="20260903070000 +0200" channel="324">
+  <programme start="20260903100000 +0200" stop="20260903120000 +0200" channel="324">
     <title lang="ca">Notícies 3CatInfo</title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">3600</length>
-    <episode-num system="onscreen">11070</episode-num>
+    <length units="seconds">7200</length>
+    <episode-num system="onscreen">11072</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <previously-shown/>
+    <subtitles type="teletext"/>
     <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
   <channel id="esport3">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20260903024055 +0200" stop="20260903043409 +0200" channel="esport3">
+  <programme start="20260903080730 +0200" stop="20260903100039 +0200" channel="esport3">
     <title lang="ca">Futbol</title>
     <sub-title lang="ca">Barça Atlètic-CE Sabadell / Copa Catalunya / Final</sub-title>
     <desc lang="ca">Final de la Copa Catalunya a la Nova Creu Alta. En el precedent de fa deu anys, entre aquests dos rivals, els arlequinats es van endur el títol. Amb la narració de Jordi Sunyer.</desc>
-    <length units="seconds">6794</length>
+    <length units="seconds">6789</length>
     <episode-num system="onscreen">75</episode-num>
     <category lang="ca">ESPORTS</category>
     <category lang="ca">RETRANSMISSIONS ESPORTS</category>
@@ -75,46 +73,45 @@
     <previously-shown/>
     <icon src="https://img.3cat.cat/multimedia/jpg/4/0/1771252757404.jpg"/>
   </programme>
-  <programme start="20260903043409 +0200" stop="20260903061659 +0200" channel="esport3">
-    <title lang="ca">Tot Costa</title>
-    <sub-title lang="ca">El Barça tanca el mercat</sub-title>
-    <desc lang="ca">Analitzem la feina de Deco al mercat d'estiu amb Gerard Autet i Gemma Mallorca. Amb Ramon Salmurri i Laia Tudel, expliquem els últims moviments i amb la 'Caçatalents', Andrea Orts, analitzem els moviments més destacats del mercat global. També entrevistem la primera capitana del Barça femení, Patri Guijarro.</desc>
-    <length units="seconds">6170</length>
-    <episode-num system="onscreen">1000</episode-num>
-    <category lang="ca">ESPORTS</category>
-    <category lang="ca">INFORMATIU DIÀRI</category>
+  <programme start="20260903100039 +0200" stop="20260903105546 +0200" channel="esport3">
+    <title lang="ca">Katalonski</title>
+    <sub-title lang="ca">Poznan</sub-title>
+    <desc lang="ca">El Halldor serà a Poznan per conèixer quatre noies poloneses que parlen català. Amb Magdalena Binczycka començarà visitant la catedral i acabarà muntant una festa 'drag queen' en què en Halldor es convertirà en Barbarosa; abans d'aprendre a fer croissants, Magda Wegner explicarà com va acabar fent fotos per una prescripció mèdica; Marta Chmielewska, a qui el català clarament ha canviat la vida, ensenyarà al Halldor a ballar dansa del ventre; a la seva universitat cantaran 'L'estaca' en polonès i també ho farà amb Agnieszka Przychodniak, amb qui veurà les cabres més famoses de la ciutat.</desc>
+    <length units="seconds">3307</length>
+    <episode-num system="onscreen">24</episode-num>
+    <category lang="ca">DIVULGACIÓ</category>
+    <category lang="ca">Docu-Entreteniment</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/0/4/1706209193140.jpg"/>
   </programme>
   <channel id="sx3">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20260903025854 +0200" stop="20260903032107 +0200" channel="sx3">
-    <title lang="ca">Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
-    <sub-title lang="ca">Protecció</sub-title>
-    <desc lang="ca">Als amics de la Marinette i l'Adrien se'ls acut un altre pla complicadíssim perquè es facin un petó. La Lila fa servir el seu talent per manipular la Kagami i la convenç que la Marinette és una mentidera que s'aprofita de l'amabilitat de tothom. La Kagami és akumatitzada i sorprèn la parella precisament en el moment en què l'Adrien havia aconseguit que la Marinette se sentís còmoda al seu costat. Aconseguiran les mentides tòxiques de la Lila espatllar l'amistat entre la Kagami, la Marinette i l'Adrien?</desc>
-    <length units="seconds">1333</length>
-    <episode-num system="onscreen">120</episode-num>
-    <category lang="ca">FICCIÓ</category>
-    <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
+  <programme start="20260903081028 +0200" stop="20260903082201 +0200" channel="sx3">
+    <title lang="ca">Titó</title>
+    <sub-title lang="ca">Excursió al Delta</sub-title>
+    <desc lang="ca">Avui anem d'excursió al Delta de l'Ebre i veurem com es va formar. També jugarem a imitar un flamenc i descobrirem per què són de color rosa.</desc>
+    <length units="seconds">693</length>
+    <episode-num system="onscreen">63</episode-num>
+    <category lang="ca">ENTRETENIMENT</category>
+    <category lang="ca">ALTRES</category>
     <rating>
       <value>INFANTIL</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20260903032107 +0200" stop="20260903034319 +0200" channel="sx3">
-    <title lang="ca">Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
-    <sub-title lang="ca">Adoració</sub-title>
-    <desc lang="ca">Quan escullen la Marinette i la Zoé per organitzar la festa de fi de curs, la Marinette s'assabenta que la Zoé està secretament enamorada d'algú de la seva classe. La Zoé diu que no en pot parlar, i per la Marinette això només pot voler dir una cosa: la Zoé està enamorada de l'Adrien! Però abans de poder esbrinar si té raó, una enemiga comuna de les noies intentarà espatllar la seva bonica amistat.</desc>
-    <length units="seconds">1332</length>
-    <episode-num system="onscreen">121</episode-num>
-    <category lang="ca">FICCIÓ</category>
-    <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
+  <programme start="20260903082201 +0200" stop="20260903083626 +0200" channel="sx3">
+    <title lang="ca">Titó</title>
+    <sub-title lang="ca">Excursió amb rèptils</sub-title>
+    <desc lang="ca">Avui anem d'excursió a conèixer rèptils. Tortugues, llangardaixos, serps, camaleons, iguanes... i en JohnC ens portarà un rèptil australià com ell, el 'Bearded dragon'</desc>
+    <length units="seconds">865</length>
+    <episode-num system="onscreen">87</episode-num>
+    <category lang="ca">ENTRETENIMENT</category>
+    <category lang="ca">ALTRES</category>
     <rating>
       <value>INFANTIL</value>
     </rating>
@@ -124,33 +121,34 @@
   <channel id="c33">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20260903031121 +0200" stop="20260903033620 +0200" channel="c33">
-    <title lang="ca">Viure als Pirineus</title>
-    <sub-title lang="ca">Un arqueòleg dels Pirineus (Primavera - Estiu)</sub-title>
-    <desc lang="ca">Pèir Cóts és un arqueòleg historiador que s'ha passat al món de la hostaleria. És un canvi d'activitat radical i s'adona que és molt més absorbent del que es pensava. El dia a dia del negoci el porta a les feines bàsiques de planxar, fer llits, netejar i també a la gestió o la comptabilitat.En Pèir està orgullós de la seva casa rural, la casa Helipa al petit poble d'Arró, i sovint explica als clients que va utilitzar la seva experiència com a arqueòleg per restaurar-la, ja que estava abandonada des de feia 50 anys.Però en Pèir no s'acontenta fent només d'hostaler, sinó que ho aprofita per convertir-se també en un divulgador de la vida als Pirineus i de la història de la Vall d'Aran. Molt lligat a la recuperació del patrimoni aranès, ha participat en múltiples treballs de preservació de la llengua aranesa i del patrimoni arqueològic.En Pèir combina el dia a dia entre l'arqueologia i la seva pròpia història familiar i, malgrat la crisi econòmica o les diferents polítiques de restauració patrimonial, continua amb passió el camí que s'ha marcat.</desc>
-    <length units="seconds">1499</length>
-    <episode-num system="onscreen">25</episode-num>
-    <category lang="ca">DIVULGACIÓ</category>
-    <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
+  <programme start="20260903074424 +0200" stop="20260903084234 +0200" channel="c33">
+    <title lang="ca">El Foraster</title>
+    <sub-title lang="ca">Especial La Mina</sub-title>
+    <desc lang="ca">Un itinerari que no ha deixat indiferent en Quim Masferrer, que el va començar sentint-se més foraster que mai i l'acaba sentint-se un més del barri. Per iniciar questa sisena temporada, en Quim s'endinsa en una de les zones amb més caràcter i personalitat de Sant Adrià de Besòs: la Mina. Un barri desconegut, marginal, misteriós, ple de tòpics, però també ple de vida, somnis i esperances com les de qualsevol altre barri o població de Catalunya. Un lloc on ens podrem identificar amb els seus habitants més del que creiem.Allà coneixerà un seguit de personatges que el conduiran en el seu periple homèric, i que duran en Quim a la convicció que tots som més semblants del que realment pensem: el Tío Lele, un dels patriarques més carismàtics del barri, que li donarà uns quants consells de supervivència. I també la Loli i la Maria, unes gitanes d'allò més simpàtiques, que no només li explicaran per què la vida és més senzilla del que sembla, sinó que li prepararan una de les seves especialitats culinàries, l'arròs amb mongetes.En aquest recorregut per un barri tan singular com fascinant, ens retrobarem amb el campió olímpic Gervasio Deferr, que va decidir retirar-se de l'esport professional i establir-se a la Mina. Coneixerem també a 'El Jamonero', l'home que més en sap d'ocells de Catalunya, i l'Antònia i l'Angelita, de Vic i Màlaga, respectivament, que es van conèixer de ben petites a les barraques del Camp de la Bota i segueixen la seva amistat seixanta anys després.Després de visitar la Mina, el nostre concepte d'aquest mític barri ja mai més serà el mateix d'abans.</desc>
+    <length units="seconds">3490</length>
+    <episode-num system="onscreen">67</episode-num>
+    <category lang="ca">ENTRETENIMENT</category>
+    <category lang="ca">VARIETATS</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20260903033620 +0200" stop="20260903041308 +0200" channel="c33">
-    <title lang="ca">La Mar de Bé</title>
-    <sub-title lang="ca">Pare Trias</sub-title>
-    <desc lang="ca">Al port de Blanes, en Quim Casellas salparà amb en Lluís Trias, patró i armador del Pare Trias, que convidarà al presentador i xef a viure l'experiència de pescar sonsos i conèixer l'art de la sonsera. Coneixerà en 'Viñas, el dels nusos', un pescador jubilat que ha dedicat tota la seva vida a la pesca. També descobrirà la tasca de l'espai gastronòmic El Grenyal de Blanes, on aprofitarà per cuinar una truita de sonsos amb romesco suau. </desc>
-    <length units="seconds">2208</length>
-    <episode-num system="onscreen">3</episode-num>
-    <category lang="ca">ENTRETENIMENT</category>
+  <programme start="20260903084234 +0200" stop="20260903092941 +0200" channel="c33">
+    <title lang="ca">La Renaixença</title>
+    <sub-title lang="ca">La caravana</sub-title>
+    <desc lang="ca">La caravana ha passat per molts moments: fa anys era vista com una cosa de pobres, o de hippies; ara, si no surts a passar un cap de setmana amb la caravana, no segueixes la moda. Nosaltres ens hi unim, i dediquem el capítol a la caravana. Parlem amb en Lluís Bassaganya, responsable de l'exposició permanent 'La retirada' de Camprodon. Segurament és la persona que millor coneix els boscos de la zona, on passa gairebé tot el dia. A 'Històries per passejar el gos' anem amb l'Hera fins a la guerra del whisky del 1984.</desc>
+    <length units="seconds">2827</length>
+    <episode-num system="onscreen">64</episode-num>
+    <category lang="ca">DIVULGACIÓ</category>
     <category lang="ca">ALTRES</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/3/3/1756148014833.jpg"/>
   </programme>
   <channel id="oca1">
     <display-name>OCA1</display-name>
