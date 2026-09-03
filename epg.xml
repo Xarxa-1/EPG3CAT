@@ -3,36 +3,40 @@
   <channel id="tvi">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20260903195804 +0200" stop="20260903210000 +0200" channel="tvi">
-    <title lang="ca">Atrapa'm si pots, estiu</title>
-    <desc lang="ca">'Atrapa'm si pots' és un 'quiz show' clàssic, de preguntes i respostes, presentat per Llucià Ferrer, en què sis concursants competeixen per arribar a la fase final i guanyar el pot. 'Atrapa'm si pots' és entreteniment pur i on gairebé és més important passar-s'ho bé que els diners. És un concurs en què pesa més la intuïció que no els coneixements acadèmics, més l'estratègia en el joc que no la sort.</desc>
-    <length units="seconds">3716</length>
-    <episode-num system="onscreen">986</episode-num>
+  <programme start="20260903231327 +0200" stop="20260903234408 +0200" channel="tvi">
+    <title lang="ca">Tot torna</title>
+    <sub-title lang="ca">1994</sub-title>
+    <desc lang="ca">Repassem el 1994, l'any que alliberen la farmacèutica d'Olot del segrest i l'orca Ulisses del zoo de Barcelona. Es cala foc al Liceu, la Penya guanya l'Eurolliga i un veí de Vilassar de Mar estableix un rècord cuinant truites de patates durant 24 hores seguides.</desc>
+    <length units="seconds">1841</length>
+    <episode-num system="onscreen">7</episode-num>
     <category lang="ca">ENTRETENIMENT</category>
-    <category lang="ca">CONCURS</category>
+    <category lang="ca">ALTRES</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
+    <previously-shown/>
   </programme>
-  <programme start="20260903210000 +0200" stop="20260903220506 +0200" channel="tvi">
-    <title lang="ca">Telenotícies vespre</title>
-    <length units="seconds">3906</length>
-    <episode-num system="onscreen">7316</episode-num>
-    <category lang="ca">ACTUALITAT</category>
-    <category lang="ca">INFORMATIU DIÀRI</category>
+  <programme start="20260903234408 +0200" stop="20260904002123 +0200" channel="tvi">
+    <title lang="ca">Tot torna</title>
+    <sub-title lang="ca">2006</sub-title>
+    <desc lang="ca">Repassem el 2006, l'any que els catalans han de decidir què voten al referèndum de l'Estatut i quin politò es posen al mòbil. El papa de Roma viatja a València, els papers de Salamanca, a Catalunya, i el Barça, a París per aixecar la segona Champions.</desc>
+    <length units="seconds">2235</length>
+    <episode-num system="onscreen">8</episode-num>
+    <category lang="ca">ENTRETENIMENT</category>
+    <category lang="ca">ALTRES</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <icon src="https://img.ccma.cat/multimedia/jpg/7/2/1758026176427.jpg"/>
+    <previously-shown/>
   </programme>
   <channel id="324">
     <display-name>324</display-name>
   </channel>
-  <programme start="20260903200000 +0200" stop="20260903210000 +0200" channel="324">
+  <programme start="20260903230000 +0200" stop="20260904003000 +0200" channel="324">
     <title lang="ca">Notícies 3CatInfo</title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">3600</length>
-    <episode-num system="onscreen">11077</episode-num>
+    <length units="seconds">5400</length>
+    <episode-num system="onscreen">11078</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
@@ -40,75 +44,74 @@
     </rating>
     <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
-  <programme start="20260903210000 +0200" stop="20260903230000 +0200" channel="324">
-    <title lang="ca">Telenotícies vespre</title>
-    <length units="seconds">7200</length>
-    <episode-num system="onscreen">7316</episode-num>
+  <programme start="20260904003000 +0200" stop="20260904010000 +0200" channel="324">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="seconds">1800</length>
+    <episode-num system="onscreen">11079</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <icon src="https://img.ccma.cat/multimedia/jpg/7/2/1758026176427.jpg"/>
+    <subtitles type="teletext"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
   <channel id="esport3">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20260903202500 +0200" stop="20260903222649 +0200" channel="esport3">
-    <title lang="ca">Bàsquet</title>
-    <sub-title lang="ca">Asisa Joventut-Kids&amp;Us Manresa / Torneig Sant Julià</sub-title>
-    <desc lang="ca">Partit inaugural del prestigiós torneig de pretemporada que es disputa a la població osonenca de Sant Julià de Vilatorta.</desc>
-    <length units="seconds">7309</length>
-    <episode-num system="onscreen">8110</episode-num>
+  <programme start="20260903230000 +0200" stop="20260904003043 +0200" channel="esport3">
+    <title lang="ca">Onze</title>
+    <desc lang="ca">Les nits d'Esport3 tornen a concentrar tota la informació, les millors opinions i l'entreteniment necessari per acabar el dia al voltant de l'actualitat esportiva. Un xou cada nit per acabar informat, saber cap on va l'actualitat i mantenir sempre un somriure.</desc>
+    <length units="seconds">5443</length>
+    <episode-num system="onscreen">1243</episode-num>
     <category lang="ca">ESPORTS</category>
-    <category lang="ca">RETRANSMISSIONS ESPORTS</category>
+    <category lang="ca">MAGAZINE</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <icon src="https://img.ccma.cat/multimedia/jpg/8/0/1698775546608.jpg"/>
+    <subtitles type="teletext"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/1/1/1688543515711.jpg"/>
   </programme>
-  <programme start="20260903222649 +0200" stop="20260903230000 +0200" channel="esport3">
-    <title lang="ca">Esport Club</title>
-    <sub-title lang="ca">Presentacions a l'Espanyol, Bisiwu, l'NBA i les 24 Hores de Lliçà</sub-title>
-    <desc lang="ca">L'Espanyol presenta Bryan Zaragoza i Andoni Gorosabel. Estem pendents de la lesió de Bisiwu. L'NBA amb Jordi de Mas i entrevista a Manel Ferriol abans de les 24 Hores de Lliçà d'Amunt. A la tertúlia ens acompanyen Gemma Mallorca, Pere Mas i Àlex Esteban.</desc>
-    <length units="seconds">1991</length>
-    <episode-num system="onscreen">3232</episode-num>
+  <programme start="20260904003043 +0200" stop="20260904005124 +0200" channel="esport3">
+    <title lang="ca">3CatInfo Esports</title>
+    <desc lang="ca">Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.</desc>
+    <length units="seconds">1241</length>
+    <episode-num system="onscreen">5498</episode-num>
     <category lang="ca">ESPORTS</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <subtitles type="teletext"/>
-    <previously-shown/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/7/3/1698145091337.jpg"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/9/7/1758888682179.jpg"/>
   </programme>
   <channel id="sx3">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20260903203856 +0200" stop="20260903205959 +0200" channel="sx3">
-    <title lang="ca">Henry Danger</title>
-    <sub-title lang="ca">Supervolcà</sub-title>
-    <desc lang="ca">Quan en Ray i el seu equip descobreixen que un supervolcà pot destruir el món en menys de dos dies, decideixen mantenir-ho en secret mentre cadascú afronta la fi a la seva manera. Però en Henry, convençut que el temps s'acaba, comença a dir i fer tot allò que sempre havia evitat.</desc>
+  <programme start="20260903230209 +0200" stop="20260903232312 +0200" channel="sx3">
+    <title lang="ca">El detectiu Conan</title>
+    <sub-title lang="ca">La foscor de la policia de la prefectura (3a part)</sub-title>
+    <desc lang="ca">Ja hi ha hagut tres assassinats i tots els indicis assenyalen l'inspector Yamato com a principal sospitós. En Mamoru Saegusa, un dels homes de l'inspector Takeda, rep un correu d'en Kansuke Yamato que li demana que vagi al mont Saijo si no vol que reveli tota la veritat sobre la X. Mentrestant, en Conan, la Ran i en Mouri ja són al tren bala, de tornada cap a casa. Allà en Conan els explica tota la veritat sobre el clan dels picots.</desc>
     <length units="seconds">1263</length>
-    <episode-num system="onscreen">15</episode-num>
+    <episode-num system="onscreen">867</episode-num>
     <category lang="ca">FICCIÓ</category>
-    <category lang="ca">SÈRIE DRAMÀTICA</category>
+    <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
       <value>INFANTIL</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20260903205959 +0200" stop="20260903212215 +0200" channel="sx3">
-    <title lang="ca">Bola de drac Z</title>
-    <sub-title lang="ca">El naixement del Supernamek. Lluita contra l'enemic desconegut</sub-title>
-    <desc lang="ca">La Bulma no creu que la misteriosa desaparició de 15.000 persones a Gingertown hagi estat obra dels androides. L'amenaça sense precedents d'un nou enemic invencible fa que en Cor Petit i el Totpoderós es tornin a fusionar per donar pas al Supernamek, que se'n va directament cap a Gingertown a veure el nou monstre arribat del futur.</desc>
-    <length units="seconds">1336</length>
-    <episode-num system="onscreen">141</episode-num>
+  <programme start="20260903232312 +0200" stop="20260903234459 +0200" channel="sx3">
+    <title lang="ca">Els germans Kratt</title>
+    <sub-title lang="ca">Mossecs d'ant</sub-title>
+    <desc lang="ca">Com que avui és festa i l'equip Kratt no té cap aventura, el Chris i el Martin han pensat anar d'acampada. Quan són al camp, coneixen una cria d'ant que ha perdut la mare i es veuen obligats a complir una missió: mirar que mare i fill es retrobin. Per aconseguir-ho, però, hauran de superar uns quants obstacles.</desc>
+    <length units="seconds">1307</length>
+    <episode-num system="onscreen">172</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
-      <value>JUVENIL</value>
+      <value>INFANTIL</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
@@ -116,12 +119,12 @@
   <channel id="c33">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20260903200617 +0200" stop="20260903205942 +0200" channel="c33">
-    <title lang="ca">Llocs recòndits</title>
-    <sub-title lang="ca">L'Aràbia Saudita</sub-title>
-    <desc lang="ca">Acompanyeu en Peter Greenberg, el presentador, mentre explora les joies ocultes del regne de l'Aràbia Saudita que ben pocs coneixen, incloent-hi Riad, Jidda, Al-Ula, el mar Roig, les Dunes Vermelles i molt més.</desc>
-    <length units="seconds">3205</length>
-    <episode-num system="onscreen">5</episode-num>
+  <programme start="20260903224920 +0200" stop="20260903234747 +0200" channel="c33">
+    <title lang="ca">Un planeta perfecte</title>
+    <sub-title lang="ca">Volcà</sub-title>
+    <desc lang="ca">Sense volcans no hi hauria vida: no hi hauria una atmosfera respirable, ni oceans ni terra ferma. A la superfície de la Terra hi ha més de 1.500 volcans actius. En aquest episodi visitarem els sorprenents habitats que els volcans han creat pertot arreu: un llac d'aigües càustiques on crien els flamencs, un volcà adormit on enterren els ous les iguanes, o les grans planes del Serengeti, on els rics sediments volcànics permeten una explosió de vida.</desc>
+    <length units="seconds">3507</length>
+    <episode-num system="onscreen">1</episode-num>
     <category lang="ca">DIVULGACIÓ</category>
     <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
     <rating>
@@ -129,11 +132,21 @@
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
+    <icon src="https://img.3cat.cat/multimedia/jpg/0/9/1766143230590.jpg"/>
   </programme>
-  <programme start="20260903205942 +0200" stop="20260903210037 +0200" channel="c33">
-    <title lang="ca">SENSE FI CANAL 33</title>
-    <desc lang="ca">Sense Descripció</desc>
-    <length units="seconds">55</length>
+  <programme start="20260903234747 +0200" stop="20260904003752 +0200" channel="c33">
+    <title lang="ca">Alaska salvatge</title>
+    <sub-title lang="ca">Primavera</sub-title>
+    <desc lang="ca">Alaska és el territori i l'estat més septentrional dels Estats Units, una regió vasta dominada per la natura salvatge. En aquest episodi assistim a l'arribada de la primavera, que canvia radicalment l'aspecte d'Alaska després dels mesos hivernals. El desglaç genera una autèntica explosió de vida a terra ferma, i al mar provoca l'arribada en massa dels arengs i altres espècies marines que tenen una gran importància per a l'economia local.</desc>
+    <length units="seconds">3005</length>
+    <episode-num system="onscreen">1</episode-num>
+    <category lang="ca">DIVULGACIÓ</category>
+    <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <subtitles type="teletext"/>
+    <previously-shown/>
   </programme>
   <channel id="oca1">
     <display-name>OCA1</display-name>
