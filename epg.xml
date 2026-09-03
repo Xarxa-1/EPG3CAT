@@ -3,22 +3,10 @@
   <channel id="tvi">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20260903060114 +0200" stop="20260903100000 +0200" channel="tvi">
+  <programme start="20260903130613 +0200" stop="20260903140000 +0200" channel="tvi">
     <title lang="ca">Notícies 3CatInfo</title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">14326</length>
-    <episode-num system="onscreen">11071</episode-num>
-    <category lang="ca">ACTUALITAT</category>
-    <category lang="ca">INFORMATIU DIÀRI</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
-  </programme>
-  <programme start="20260903100000 +0200" stop="20260903120000 +0200" channel="tvi">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">7200</length>
+    <length units="seconds">3227</length>
     <episode-num system="onscreen">11072</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
@@ -26,15 +14,26 @@
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
+  </programme>
+  <programme start="20260903140000 +0200" stop="20260903143000 +0200" channel="tvi">
+    <title lang="ca">Telenotícies comarques</title>
+    <length units="seconds">1800</length>
+    <episode-num system="onscreen">7027</episode-num>
+    <category lang="ca">ACTUALITAT</category>
+    <category lang="ca">INFORMATIU DIÀRI</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <icon src="https://img.ccma.cat/multimedia/jpg/5/2/1758026313525.jpg"/>
   </programme>
   <channel id="324">
     <display-name>324</display-name>
   </channel>
-  <programme start="20260903070000 +0200" stop="20260903100000 +0200" channel="324">
+  <programme start="20260903120000 +0200" stop="20260903140000 +0200" channel="324">
     <title lang="ca">Notícies 3CatInfo</title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">10800</length>
-    <episode-num system="onscreen">11071</episode-num>
+    <length units="seconds">7200</length>
+    <episode-num system="onscreen">11073</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
@@ -43,75 +42,73 @@
     <subtitles type="teletext"/>
     <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
-  <programme start="20260903100000 +0200" stop="20260903120000 +0200" channel="324">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">7200</length>
-    <episode-num system="onscreen">11072</episode-num>
+  <programme start="20260903140000 +0200" stop="20260903143000 +0200" channel="324">
+    <title lang="ca">Telenotícies comarques</title>
+    <length units="seconds">1800</length>
+    <episode-num system="onscreen">7027</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <subtitles type="teletext"/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/5/2/1758026313525.jpg"/>
   </programme>
   <channel id="esport3">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20260903080730 +0200" stop="20260903100039 +0200" channel="esport3">
-    <title lang="ca">Futbol</title>
-    <sub-title lang="ca">Barça Atlètic-CE Sabadell / Copa Catalunya / Final</sub-title>
-    <desc lang="ca">Final de la Copa Catalunya a la Nova Creu Alta. En el precedent de fa deu anys, entre aquests dos rivals, els arlequinats es van endur el títol. Amb la narració de Jordi Sunyer.</desc>
-    <length units="seconds">6789</length>
-    <episode-num system="onscreen">75</episode-num>
+  <programme start="20260903130000 +0200" stop="20260903140032 +0200" channel="esport3">
+    <title lang="ca">Esport Club</title>
+    <sub-title lang="ca">Presentacions a l'Espanyol, Bisiwu, l'NBA i les 24 Hores de Lliçà</sub-title>
+    <desc lang="ca">L'Espanyol presenta Bryan Zaragoza i Andoni Gorosabel. Estem pendents de la lesió de Bisiwu. L'NBA amb Jordi de Mas i entrevista a Manel Ferriol abans de les 24 Hores de Lliçà d'Amunt. A la tertúlia ens acompanyen Gemma Mallorca, Pere Mas i Àlex Esteban.</desc>
+    <length units="seconds">3632</length>
+    <episode-num system="onscreen">3232</episode-num>
     <category lang="ca">ESPORTS</category>
-    <category lang="ca">RETRANSMISSIONS ESPORTS</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <previously-shown/>
-    <icon src="https://img.3cat.cat/multimedia/jpg/4/0/1771252757404.jpg"/>
-  </programme>
-  <programme start="20260903100039 +0200" stop="20260903105546 +0200" channel="esport3">
-    <title lang="ca">Katalonski</title>
-    <sub-title lang="ca">Poznan</sub-title>
-    <desc lang="ca">El Halldor serà a Poznan per conèixer quatre noies poloneses que parlen català. Amb Magdalena Binczycka començarà visitant la catedral i acabarà muntant una festa 'drag queen' en què en Halldor es convertirà en Barbarosa; abans d'aprendre a fer croissants, Magda Wegner explicarà com va acabar fent fotos per una prescripció mèdica; Marta Chmielewska, a qui el català clarament ha canviat la vida, ensenyarà al Halldor a ballar dansa del ventre; a la seva universitat cantaran 'L'estaca' en polonès i també ho farà amb Agnieszka Przychodniak, amb qui veurà les cabres més famoses de la ciutat.</desc>
-    <length units="seconds">3307</length>
-    <episode-num system="onscreen">24</episode-num>
-    <category lang="ca">DIVULGACIÓ</category>
-    <category lang="ca">Docu-Entreteniment</category>
+    <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
-    <previously-shown/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/7/3/1698145091337.jpg"/>
+  </programme>
+  <programme start="20260903140032 +0200" stop="20260903150119 +0200" channel="esport3">
+    <title lang="ca">Esport Club</title>
+    <sub-title lang="ca">Presentacions a l'Espanyol, Bisiwu, l'NBA i les 24 Hores de Lliçà</sub-title>
+    <desc lang="ca">L'Espanyol presenta Bryan Zaragoza i Andoni Gorosabel. Estem pendents de la lesió de Bisiwu. L'NBA amb Jordi de Mas i entrevista a Manel Ferriol abans de les 24 Hores de Lliçà d'Amunt. A la tertúlia ens acompanyen Gemma Mallorca, Pere Mas i Àlex Esteban.</desc>
+    <length units="seconds">3647</length>
+    <episode-num system="onscreen">3232</episode-num>
+    <category lang="ca">ESPORTS</category>
+    <category lang="ca">INFORMATIU DIÀRI</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <subtitles type="teletext"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/7/3/1698145091337.jpg"/>
   </programme>
   <channel id="sx3">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20260903081028 +0200" stop="20260903082201 +0200" channel="sx3">
-    <title lang="ca">Titó</title>
-    <sub-title lang="ca">Excursió al Delta</sub-title>
-    <desc lang="ca">Avui anem d'excursió al Delta de l'Ebre i veurem com es va formar. També jugarem a imitar un flamenc i descobrirem per què són de color rosa.</desc>
-    <length units="seconds">693</length>
-    <episode-num system="onscreen">63</episode-num>
-    <category lang="ca">ENTRETENIMENT</category>
-    <category lang="ca">ALTRES</category>
+  <programme start="20260903131748 +0200" stop="20260903133904 +0200" channel="sx3">
+    <title lang="ca">El detectiu Conan</title>
+    <sub-title lang="ca">L'hostal del Kamaitachi (2a part)</sub-title>
+    <desc lang="ca">El kamaitachi que els havia fet uns talls a la pell a en Heiji, en Kogoro i la periodista, sembla que també ha assassinat l'avi de l'hostal amb la dalla que hi havia al magatzem. Per arribar on era la víctima abans que en Conan i els altres, ha hagut de córrer per sobre de l'aigua d'una bassa i es diu que els kamaitachis són capaços de fer-ho. Però en Conan i en Heiji no s'ho empassen.</desc>
+    <length units="seconds">1276</length>
+    <episode-num system="onscreen">864</episode-num>
+    <category lang="ca">FICCIÓ</category>
+    <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
       <value>INFANTIL</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20260903082201 +0200" stop="20260903083626 +0200" channel="sx3">
-    <title lang="ca">Titó</title>
-    <sub-title lang="ca">Excursió amb rèptils</sub-title>
-    <desc lang="ca">Avui anem d'excursió a conèixer rèptils. Tortugues, llangardaixos, serps, camaleons, iguanes... i en JohnC ens portarà un rèptil australià com ell, el 'Bearded dragon'</desc>
-    <length units="seconds">865</length>
-    <episode-num system="onscreen">87</episode-num>
-    <category lang="ca">ENTRETENIMENT</category>
-    <category lang="ca">ALTRES</category>
+  <programme start="20260903133904 +0200" stop="20260903135840 +0200" channel="sx3">
+    <title lang="ca">El detectiu Conan</title>
+    <sub-title lang="ca">La foscor de la policia de la prefectura (1a part)</sub-title>
+    <desc lang="ca">La Ran, en Kogoro i en Conan han viatjat a Nagano i, un cop allà, en Conan creu que ha descobert la identitat d'en Rom, perquè l'inspector Yamato coincideix amb la descripció que n'hi va fer l'Ai. Mentre visiten el lloc històric on va tenir lloc la batalla de Kawanakajima descobreixen el cap decapitat d'una persona morta, un inspector de la policia, en Shigeru Takeda, un home per qui l'inspector Yamato sentia un gran ressentiment.</desc>
+    <length units="seconds">1176</length>
+    <episode-num system="onscreen">865</episode-num>
+    <category lang="ca">FICCIÓ</category>
+    <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
       <value>INFANTIL</value>
     </rating>
@@ -121,44 +118,77 @@
   <channel id="c33">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20260903074424 +0200" stop="20260903084234 +0200" channel="c33">
-    <title lang="ca">El Foraster</title>
-    <sub-title lang="ca">Especial La Mina</sub-title>
-    <desc lang="ca">Un itinerari que no ha deixat indiferent en Quim Masferrer, que el va començar sentint-se més foraster que mai i l'acaba sentint-se un més del barri. Per iniciar questa sisena temporada, en Quim s'endinsa en una de les zones amb més caràcter i personalitat de Sant Adrià de Besòs: la Mina. Un barri desconegut, marginal, misteriós, ple de tòpics, però també ple de vida, somnis i esperances com les de qualsevol altre barri o població de Catalunya. Un lloc on ens podrem identificar amb els seus habitants més del que creiem.Allà coneixerà un seguit de personatges que el conduiran en el seu periple homèric, i que duran en Quim a la convicció que tots som més semblants del que realment pensem: el Tío Lele, un dels patriarques més carismàtics del barri, que li donarà uns quants consells de supervivència. I també la Loli i la Maria, unes gitanes d'allò més simpàtiques, que no només li explicaran per què la vida és més senzilla del que sembla, sinó que li prepararan una de les seves especialitats culinàries, l'arròs amb mongetes.En aquest recorregut per un barri tan singular com fascinant, ens retrobarem amb el campió olímpic Gervasio Deferr, que va decidir retirar-se de l'esport professional i establir-se a la Mina. Coneixerem també a 'El Jamonero', l'home que més en sap d'ocells de Catalunya, i l'Antònia i l'Angelita, de Vic i Màlaga, respectivament, que es van conèixer de ben petites a les barraques del Camp de la Bota i segueixen la seva amistat seixanta anys després.Després de visitar la Mina, el nostre concepte d'aquest mític barri ja mai més serà el mateix d'abans.</desc>
-    <length units="seconds">3490</length>
-    <episode-num system="onscreen">67</episode-num>
+  <programme start="20260903123837 +0200" stop="20260903133852 +0200" channel="c33">
+    <title lang="ca">Atrapa'm si pots - Especials</title>
+    <sub-title lang="ca">Atrapa'm si pots - estiu</sub-title>
+    <length units="seconds">3615</length>
+    <episode-num system="onscreen">49</episode-num>
     <category lang="ca">ENTRETENIMENT</category>
-    <category lang="ca">VARIETATS</category>
+    <category lang="ca">CONCURS</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20260903084234 +0200" stop="20260903092941 +0200" channel="c33">
-    <title lang="ca">La Renaixença</title>
-    <sub-title lang="ca">La caravana</sub-title>
-    <desc lang="ca">La caravana ha passat per molts moments: fa anys era vista com una cosa de pobres, o de hippies; ara, si no surts a passar un cap de setmana amb la caravana, no segueixes la moda. Nosaltres ens hi unim, i dediquem el capítol a la caravana. Parlem amb en Lluís Bassaganya, responsable de l'exposició permanent 'La retirada' de Camprodon. Segurament és la persona que millor coneix els boscos de la zona, on passa gairebé tot el dia. A 'Històries per passejar el gos' anem amb l'Hera fins a la guerra del whisky del 1984.</desc>
-    <length units="seconds">2827</length>
-    <episode-num system="onscreen">64</episode-num>
-    <category lang="ca">DIVULGACIÓ</category>
+  <programme start="20260903133852 +0200" stop="20260903143151 +0200" channel="c33">
+    <title lang="ca">Experiència Catalana</title>
+    <sub-title lang="ca">Mash i Tassy</sub-title>
+    <desc lang="ca">En Mash i en Tassy són dos japonesos amb qui coneixem els secrets de l'elaboració del cava i el vi, i per fer-ho, marxem fins al Penedès i el Priorat. A més, la Ivana Miño els regala una experiència única que segur s'enduen per sempre; una jornada castellera a Tarragona.</desc>
+    <length units="seconds">3179</length>
+    <episode-num system="onscreen">9</episode-num>
+    <category lang="ca">ENTRETENIMENT</category>
     <category lang="ca">ALTRES</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/3/3/1756148014833.jpg"/>
   </programme>
   <channel id="oca1">
     <display-name>OCA1</display-name>
   </channel>
+  <programme start="20260903090000 +0200" stop="20260903145955 +0200" channel="oca1">
+    <title lang="ca">Sánchez compareix per la crisi de Ceuta</title>
+    <length units="seconds">21595</length>
+    <episode-num system="onscreen">4094</episode-num>
+    <category lang="ca">ACTUALITAT</category>
+    <category lang="ca">RETRANSMISSIONS ACTUALITAT</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <icon src="https://img.ccma.cat/multimedia/jpg/3/4/1746445784343.jpg"/>
+  </programme>
   <channel id="oca2">
     <display-name>OCA2</display-name>
   </channel>
+  <programme start="20260903124426 +0200" stop="20260903132955 +0200" channel="oca2">
+    <title lang="ca">CGT parla després de reunir-se amb la consellera per la vaga a l'inici de curs</title>
+    <length units="seconds">1795</length>
+    <episode-num system="onscreen">4096</episode-num>
+    <category lang="ca">ACTUALITAT</category>
+    <category lang="ca">RETRANSMISSIONS ACTUALITAT</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <icon src="https://img.ccma.cat/multimedia/jpg/3/8/1780564167883.jpg"/>
+  </programme>
   <channel id="oca3">
     <display-name>OCA3</display-name>
   </channel>
+  <programme start="20260903125500 +0200" stop="20260903135955 +0200" channel="oca3">
+    <title lang="ca">Sala de Premsa</title>
+    <sub-title lang="ca">- Presentació Bryan Zaragoza</sub-title>
+    <desc lang="ca">Esport3 t'ofereix les compareixences de dirigents, jugadors i entrenadors dels equips catalans davant els mitjans de comunicació.</desc>
+    <length units="seconds">3595</length>
+    <episode-num system="onscreen">722</episode-num>
+    <category lang="ca">ESPORTS</category>
+    <category lang="ca">INFORMATIU DIÀRI</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <icon src="https://img.3cat.cat/multimedia/jpg/7/4/1778665728847.jpg"/>
+  </programme>
   <channel id="oca4">
     <display-name>OCA4</display-name>
   </channel>
