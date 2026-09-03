@@ -3,20 +3,6 @@
   <channel id="tvi">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20260903004135 +0200" stop="20260903013339 +0200" channel="tvi">
-    <title lang="ca">La Renaixença</title>
-    <sub-title lang="ca">El tallagespa</sub-title>
-    <desc lang="ca">El tallagespa és un objecte com Déu mana, però, compte, no sigueu gamarussos, que més d'un ha perdut els dits intentant desencallar la gespa compactada de sota la màquina. Abans de manipular-lo, assegureu-vos que estigui parat, que ara en fan de molt silenciosos! També parlem amb l'Ernest Villegas, un tros d'actor amb una veu de tro que fot goig de sentir. Per acabar, gafem una gossa anomenada Taga i ens tanquem a la presó de la Model, la que ja està tancada, i amb raó, perquè allò era un cau de merda.</desc>
-    <length units="seconds">3124</length>
-    <episode-num system="onscreen">223</episode-num>
-    <category lang="ca">DIVULGACIÓ</category>
-    <category lang="ca">ALTRES</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <previously-shown/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/3/3/1756148014833.jpg"/>
-  </programme>
   <programme start="20260903013339 +0200" stop="20260903043000 +0200" channel="tvi">
     <title lang="ca">Notícies 3CatInfo</title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
@@ -29,6 +15,19 @@
     </rating>
     <previously-shown/>
     <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
+  </programme>
+  <programme start="20260903043000 +0200" stop="20260903051526 +0200" channel="tvi">
+    <title lang="ca">Fusió i swing a l'estudi</title>
+    <sub-title lang="ca">Gemini</sub-title>
+    <desc lang="ca">Gemini són tres grans intèrprets a la recerca de l'evocació i el color a través de la seva música. Podríem dir que practiquen un estil influenciat per la musica laietana dels 70 i el jazz que es feia a Barcelona durant els 80. Jordi Gaspar, al baix acústic; Jordi Bonell, a la guitarra, i Roger Blavia, a la percussió.</desc>
+    <length units="seconds">2726</length>
+    <episode-num system="onscreen">15</episode-num>
+    <category lang="ca">MUSICALS</category>
+    <category lang="ca">ALTRES</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <previously-shown/>
   </programme>
   <channel id="324">
     <display-name>324</display-name>
@@ -62,43 +61,44 @@
   <channel id="esport3">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20260903005039 +0200" stop="20260903022105 +0200" channel="esport3">
-    <title lang="ca">Onze</title>
-    <sub-title lang="ca">Posem nota a Deco; Casadó al Depor i 'El predicador'</sub-title>
-    <desc lang="ca">Lluís Carrasco, Sique Rodriguez, Irati Vidal i Joan Poquí posen nota a la gestió del director esportiu del Barça en el mercat d'estiu. L'Òscar Pérez-Dolz predica la fe del bon culer.</desc>
-    <length units="seconds">5426</length>
-    <episode-num system="onscreen">1242</episode-num>
+  <programme start="20260903024055 +0200" stop="20260903043409 +0200" channel="esport3">
+    <title lang="ca">Futbol</title>
+    <sub-title lang="ca">Barça Atlètic-CE Sabadell / Copa Catalunya / Final</sub-title>
+    <desc lang="ca">Final de la Copa Catalunya a la Nova Creu Alta. En el precedent de fa deu anys, entre aquests dos rivals, els arlequinats es van endur el títol. Amb la narració de Jordi Sunyer.</desc>
+    <length units="seconds">6794</length>
+    <episode-num system="onscreen">75</episode-num>
     <category lang="ca">ESPORTS</category>
-    <category lang="ca">MAGAZINE</category>
+    <category lang="ca">RETRANSMISSIONS ESPORTS</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <subtitles type="teletext"/>
     <previously-shown/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/1/1/1688543515711.jpg"/>
+    <icon src="https://img.3cat.cat/multimedia/jpg/4/0/1771252757404.jpg"/>
   </programme>
-  <programme start="20260903022105 +0200" stop="20260903024053 +0200" channel="esport3">
-    <title lang="ca">3CatInfo Esports</title>
-    <desc lang="ca">Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.</desc>
-    <length units="seconds">1188</length>
-    <episode-num system="onscreen">5497</episode-num>
+  <programme start="20260903043409 +0200" stop="20260903061659 +0200" channel="esport3">
+    <title lang="ca">Tot Costa</title>
+    <sub-title lang="ca">El Barça tanca el mercat</sub-title>
+    <desc lang="ca">Analitzem la feina de Deco al mercat d'estiu amb Gerard Autet i Gemma Mallorca. Amb Ramon Salmurri i Laia Tudel, expliquem els últims moviments i amb la 'Caçatalents', Andrea Orts, analitzem els moviments més destacats del mercat global. També entrevistem la primera capitana del Barça femení, Patri Guijarro.</desc>
+    <length units="seconds">6170</length>
+    <episode-num system="onscreen">1000</episode-num>
     <category lang="ca">ESPORTS</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
+    <subtitles type="teletext"/>
     <previously-shown/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/9/7/1758888682179.jpg"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/0/4/1706209193140.jpg"/>
   </programme>
   <channel id="sx3">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20260903011324 +0200" stop="20260903012518 +0200" channel="sx3">
-    <title lang="ca">Les Sisters</title>
-    <sub-title lang="ca">Perdut per perdut</sub-title>
-    <desc lang="ca">La Marine sempre perd les seves coses i la seva mare es nega a comprar-li la nova samarreta del Super Piu Piu. Quan la Wendy presumeix del vestit nou que li ha comprat la mare perquè no perd mai res, la Marine s'empipa molt i decideix demostrar que la seva germana gran també perd coses.</desc>
-    <length units="seconds">714</length>
-    <episode-num system="onscreen">116</episode-num>
+  <programme start="20260903025854 +0200" stop="20260903032107 +0200" channel="sx3">
+    <title lang="ca">Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
+    <sub-title lang="ca">Protecció</sub-title>
+    <desc lang="ca">Als amics de la Marinette i l'Adrien se'ls acut un altre pla complicadíssim perquè es facin un petó. La Lila fa servir el seu talent per manipular la Kagami i la convenç que la Marinette és una mentidera que s'aprofita de l'amabilitat de tothom. La Kagami és akumatitzada i sorprèn la parella precisament en el moment en què l'Adrien havia aconseguit que la Marinette se sentís còmoda al seu costat. Aconseguiran les mentides tòxiques de la Lila espatllar l'amistat entre la Kagami, la Marinette i l'Adrien?</desc>
+    <length units="seconds">1333</length>
+    <episode-num system="onscreen">120</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
@@ -107,12 +107,12 @@
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20260903012518 +0200" stop="20260903013648 +0200" channel="sx3">
-    <title lang="ca">Les Sisters</title>
-    <sub-title lang="ca">Amb la mateixa moneda</sub-title>
-    <desc lang="ca">La Wendy demana la setmanada als pares i la Marine també en vol. Però la Wendy se'n burla: li diu que no és prou gran i que els diners no li durarien ni dos minuts. Ah, sí? La Marine pensa demostrar als pares que la Wendy és una autèntica malgastadora. Després de caure en les trampes de la seva germana, la Wendy li pensa pagar amb la mateixa moneda.</desc>
-    <length units="seconds">690</length>
-    <episode-num system="onscreen">117</episode-num>
+  <programme start="20260903032107 +0200" stop="20260903034319 +0200" channel="sx3">
+    <title lang="ca">Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
+    <sub-title lang="ca">Adoració</sub-title>
+    <desc lang="ca">Quan escullen la Marinette i la Zoé per organitzar la festa de fi de curs, la Marinette s'assabenta que la Zoé està secretament enamorada d'algú de la seva classe. La Zoé diu que no en pot parlar, i per la Marinette això només pot voler dir una cosa: la Zoé està enamorada de l'Adrien! Però abans de poder esbrinar si té raó, una enemiga comuna de les noies intentarà espatllar la seva bonica amistat.</desc>
+    <length units="seconds">1332</length>
+    <episode-num system="onscreen">121</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
@@ -124,55 +124,33 @@
   <channel id="c33">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20260902225122 +0200" stop="20260903012105 +0200" channel="c33">
-    <title lang="ca">Pel·lícula</title>
-    <sub-title lang="ca">El pacient anglès</sub-title>
-    <desc lang="ca">EL PACIENT ANGLÈS (The English patient)Al final de la Segona Guerra Mundial, a les ruïnes d'una vil·la de la Toscana, es reuneixen quatre personatges. Un home amb el cos cremat i un passat enigmàtic, una infermera que s'ocupa del pacient, un supervivent cínic i amic del pare de la noia, i un sapador sikh, especialista a desactivar explosius. A través d'una sèrie de records es revelarà una història d'amor i gelosia.Idioma versió original: anglèsProducció: Saul Zaentz per a Miramax International, 1996 (Estats Units)Direcció: Anthony MinghellaDurada: 154 minutsGuió: Anthony Minghella, basat en la novel·la de Michael OndaatjeFotografia: John Seale (color)Música: Gabriel YaredIntèrprets: Ralph Fiennes (Almásy), Juliette Binoche (Hana), Kristin Scott-Thomas (Katharine Clifton), Willem Dafoe (Caravaggio), Naveen Andrews (Kip), Colin Firth (Geoffrey Clifton)</desc>
-    <credits>
-      <director>Anthony MinghellaDurada: 154 minuts</director>
-      <writer>Anthony Minghella</writer>
-      <writer>basat en la novel·la de Michael OndaatjeFotografia: John Seale (color)Música: Gabriel YaredIntèrprets: Ralph Fiennes (Almásy)</writer>
-      <writer>Juliette Binoche (Hana)</writer>
-      <writer>Kristin Scott-Thomas (Katharine Clifton)</writer>
-      <writer>Willem Dafoe (Caravaggio)</writer>
-      <writer>Naveen Andrews (Kip)</writer>
-      <writer>Colin Firth (Geoffrey Clifton)</writer>
-      <actor>Ralph Fiennes (Almásy)</actor>
-      <actor>Juliette Binoche (Hana)</actor>
-      <actor>Kristin Scott-Thomas (Katharine Clifton)</actor>
-      <actor>Willem Dafoe (Caravaggio)</actor>
-      <actor>Naveen Andrews (Kip)</actor>
-      <actor>Colin Firth (Geoffrey Clifton)</actor>
-    </credits>
-    <length units="seconds">8983</length>
-    <episode-num system="onscreen">1</episode-num>
-    <category lang="ca">FICCIÓ</category>
-    <category lang="ca">PEL·LÍCULA / TELEFILM</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <subtitles type="teletext"/>
-    <previously-shown/>
-    <icon src="https://img.3cat.cat/multimedia/jpg/8/1/1787641737218.jpg"/>
-  </programme>
-  <programme start="20260903012105 +0200" stop="20260903021926 +0200" channel="c33">
-    <title lang="ca">El petit príncep, el naixement d'una estrella</title>
-    <sub-title lang="ca">El Petit Príncep, el naixement d'una estrella.</sub-title>
-    <desc lang="ca">'El Petit Príncep, el naixement d'una estrella' (2023), una producció de BarnaBe Productions en coproducció amb Promenons-nous dans les bois, Les Films d'Ici Méditerranée, ARTE France i 3Cat, la col·laboració de RTVE i el suport de la regió Gran Est d'Estrasburg Eurométropole, en societat amb el CNC, de la regió Occitània – Pirineus Mediterrània, de la PROCIREP - Société des Producteurs, de l'ANGOA.Aquesta pel·lícula conta la història poc coneguda del naixement a Nova York, en plena Segona Guerra Mundial, del llibre més traduït després de la Bíblia.El documental recorre els últims quatre anys de l'extraordinària vida del pilot-escriptor Antoine Saint Exupery, entre el seu exili després de l'armistici francès en 1940 i la seva desaparició al juliol de 1944. Un període intens per a l'escriptor, en el qual es van barrejar les intrigues amoroses, polítiques i artístiques.Equip:Direcció: Vincent NguyenGuió: Vincent Nguyen &amp; Jean-Louis MilesiRealització: Vincent NguyenProductor: Serge Lalou, Katia Pinzon Etienne Jaxell-Truer i Sophie CabonProductor executiu 3Cat: Cristina Muñoz ClotetProductor delegat 3Cat: Daniel Barea DelgadoMuntatge: Anthony SantoroDirector de producció: Ulrik FrémontMúsica: Anthony TouzalinGrafisme: Simon GrauVeu en off: Pep Antón Muñoz</desc>
-    <credits>
-      <director>Vincent Nguyen</director>
-      <writer>Vincent Nguyen &amp; Jean-Louis MilesiRealització: Vincent Nguyen</writer>
-    </credits>
-    <length units="seconds">3501</length>
-    <episode-num system="onscreen">1</episode-num>
+  <programme start="20260903031121 +0200" stop="20260903033620 +0200" channel="c33">
+    <title lang="ca">Viure als Pirineus</title>
+    <sub-title lang="ca">Un arqueòleg dels Pirineus (Primavera - Estiu)</sub-title>
+    <desc lang="ca">Pèir Cóts és un arqueòleg historiador que s'ha passat al món de la hostaleria. És un canvi d'activitat radical i s'adona que és molt més absorbent del que es pensava. El dia a dia del negoci el porta a les feines bàsiques de planxar, fer llits, netejar i també a la gestió o la comptabilitat.En Pèir està orgullós de la seva casa rural, la casa Helipa al petit poble d'Arró, i sovint explica als clients que va utilitzar la seva experiència com a arqueòleg per restaurar-la, ja que estava abandonada des de feia 50 anys.Però en Pèir no s'acontenta fent només d'hostaler, sinó que ho aprofita per convertir-se també en un divulgador de la vida als Pirineus i de la història de la Vall d'Aran. Molt lligat a la recuperació del patrimoni aranès, ha participat en múltiples treballs de preservació de la llengua aranesa i del patrimoni arqueològic.En Pèir combina el dia a dia entre l'arqueologia i la seva pròpia història familiar i, malgrat la crisi econòmica o les diferents polítiques de restauració patrimonial, continua amb passió el camí que s'ha marcat.</desc>
+    <length units="seconds">1499</length>
+    <episode-num system="onscreen">25</episode-num>
     <category lang="ca">DIVULGACIÓ</category>
-    <category lang="ca">DOCUMENTAL DE CREACIÓ</category>
+    <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
-    <icon src="https://img.3cat.cat/multimedia/jpg/0/4/1713779388740.jpg"/>
+  </programme>
+  <programme start="20260903033620 +0200" stop="20260903041308 +0200" channel="c33">
+    <title lang="ca">La Mar de Bé</title>
+    <sub-title lang="ca">Pare Trias</sub-title>
+    <desc lang="ca">Al port de Blanes, en Quim Casellas salparà amb en Lluís Trias, patró i armador del Pare Trias, que convidarà al presentador i xef a viure l'experiència de pescar sonsos i conèixer l'art de la sonsera. Coneixerà en 'Viñas, el dels nusos', un pescador jubilat que ha dedicat tota la seva vida a la pesca. També descobrirà la tasca de l'espai gastronòmic El Grenyal de Blanes, on aprofitarà per cuinar una truita de sonsos amb romesco suau. </desc>
+    <length units="seconds">2208</length>
+    <episode-num system="onscreen">3</episode-num>
+    <category lang="ca">ENTRETENIMENT</category>
+    <category lang="ca">ALTRES</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <subtitles type="teletext"/>
+    <previously-shown/>
   </programme>
   <channel id="oca1">
     <display-name>OCA1</display-name>
