@@ -3,134 +3,125 @@
   <channel id="tvi">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20260903170312 +0200" stop="20260903174057 +0200" channel="tvi">
-    <title lang="ca">La Riera</title>
-    <desc lang="ca">La Lídia està decidida a aturar la Sònia i demana ajuda al seu pare. En Sergi paga el mal humor de la Maribel i reacciona desproporcionadament. L'Ignasi parla amb en Mauri i descobrirem que hi ha un passat fosc que comparteixen d'alguna manera. I en Lluís té unes enormes ganes de venjar-se de qui el va enganyar, però serà complicat.</desc>
-    <length units="seconds">2265</length>
-    <episode-num system="onscreen">123</episode-num>
-    <category lang="ca">FICCIÓ</category>
-    <category lang="ca">TELENOVEL·LA</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <subtitles type="teletext"/>
-    <previously-shown/>
-  </programme>
-  <programme start="20260903174057 +0200" stop="20260903183107 +0200" channel="tvi">
-    <title lang="ca">Nervi</title>
-    <sub-title lang="ca">Moha Amazian, Festival Grec, 'Whatchmen', còmic europeu,  Dan Peralbo i El Comboi </sub-title>
-    <desc lang="ca">Andrea Gumes entrevista l'actor vigatà Moha Amazian, que compatibilitza l'èxit sobre els escenaris i a la televisió amb un doctorat en química. Celebrem els 50 anys del Festival Grec amb la seva directora, Leticia Martín Ruiz, que ens ajuda a triar entre una programació extensíssima. Reivindiquem un dels còmics més influents de tots el temps, 'Whatchmen', d'Alan Moore y Dave Gibbons, mentre que Jacint Casademont repassa el bo i millor del còmic europeu contemporani. Acabem amb el directe del quartet de Torelló Dan Peralbo i El Comboi.  </desc>
-    <length units="seconds">3010</length>
-    <episode-num system="onscreen">81</episode-num>
+  <programme start="20260903195804 +0200" stop="20260903210000 +0200" channel="tvi">
+    <title lang="ca">Atrapa'm si pots, estiu</title>
+    <desc lang="ca">'Atrapa'm si pots' és un 'quiz show' clàssic, de preguntes i respostes, presentat per Llucià Ferrer, en què sis concursants competeixen per arribar a la fase final i guanyar el pot. 'Atrapa'm si pots' és entreteniment pur i on gairebé és més important passar-s'ho bé que els diners. És un concurs en què pesa més la intuïció que no els coneixements acadèmics, més l'estratègia en el joc que no la sort.</desc>
+    <length units="seconds">3716</length>
+    <episode-num system="onscreen">986</episode-num>
     <category lang="ca">ENTRETENIMENT</category>
-    <category lang="ca">ALTRES</category>
+    <category lang="ca">CONCURS</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <subtitles type="teletext"/>
-    <previously-shown/>
+  </programme>
+  <programme start="20260903210000 +0200" stop="20260903220506 +0200" channel="tvi">
+    <title lang="ca">Telenotícies vespre</title>
+    <length units="seconds">3906</length>
+    <episode-num system="onscreen">7316</episode-num>
+    <category lang="ca">ACTUALITAT</category>
+    <category lang="ca">INFORMATIU DIÀRI</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <icon src="https://img.ccma.cat/multimedia/jpg/7/2/1758026176427.jpg"/>
   </programme>
   <channel id="324">
     <display-name>324</display-name>
   </channel>
-  <programme start="20260903170000 +0200" stop="20260903183000 +0200" channel="324">
+  <programme start="20260903200000 +0200" stop="20260903210000 +0200" channel="324">
     <title lang="ca">Notícies 3CatInfo</title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">5400</length>
-    <episode-num system="onscreen">11075</episode-num>
+    <length units="seconds">3600</length>
+    <episode-num system="onscreen">11077</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <subtitles type="teletext"/>
     <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
-  <programme start="20260903183000 +0200" stop="20260903200000 +0200" channel="324">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">5400</length>
-    <episode-num system="onscreen">11076</episode-num>
+  <programme start="20260903210000 +0200" stop="20260903230000 +0200" channel="324">
+    <title lang="ca">Telenotícies vespre</title>
+    <length units="seconds">7200</length>
+    <episode-num system="onscreen">7316</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <subtitles type="teletext"/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/7/2/1758026176427.jpg"/>
   </programme>
   <channel id="esport3">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20260903165845 +0200" stop="20260903172432 +0200" channel="esport3">
-    <title lang="ca">Catalunya salvatge</title>
-    <sub-title lang="ca">Horitzons esteparis</sub-title>
-    <desc lang="ca">'Catalunya salvatge' és una sèrie documental de 13 capítols que donarà a conèixer als espectadors els ecosistemes més representatius del nostre país. Des dels cims del Pirineu fins a les llacunes del delta de l'Ebre, 'Catalunya salvatge' farà un repàs de la flora i la fauna dels paratges més emblemàtics de Catalunya.Els seguidors de la sèrie tindran, doncs, una finestra privilegiada a la biodiversitat del Parc Nacional d'Aigüestortes, la muntanya de Montserrat, la zona volcànica de la Garrotxa, els aiguamolls de l'Empordà o el món submarí de les illes Medes.El primer ecosistema explorat en profunditat serà el d'alta muntanya, on la supervivència no és gens fàcil.(tardor 2010)</desc>
-    <length units="seconds">1547</length>
-    <episode-num system="onscreen">3</episode-num>
-    <category lang="ca">DIVULGACIÓ</category>
-    <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
+  <programme start="20260903202500 +0200" stop="20260903222649 +0200" channel="esport3">
+    <title lang="ca">Bàsquet</title>
+    <sub-title lang="ca">Asisa Joventut-Kids&amp;Us Manresa / Torneig Sant Julià</sub-title>
+    <desc lang="ca">Partit inaugural del prestigiós torneig de pretemporada que es disputa a la població osonenca de Sant Julià de Vilatorta.</desc>
+    <length units="seconds">7309</length>
+    <episode-num system="onscreen">8110</episode-num>
+    <category lang="ca">ESPORTS</category>
+    <category lang="ca">RETRANSMISSIONS ESPORTS</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <icon src="https://img.ccma.cat/multimedia/jpg/8/0/1698775546608.jpg"/>
+  </programme>
+  <programme start="20260903222649 +0200" stop="20260903230000 +0200" channel="esport3">
+    <title lang="ca">Esport Club</title>
+    <sub-title lang="ca">Presentacions a l'Espanyol, Bisiwu, l'NBA i les 24 Hores de Lliçà</sub-title>
+    <desc lang="ca">L'Espanyol presenta Bryan Zaragoza i Andoni Gorosabel. Estem pendents de la lesió de Bisiwu. L'NBA amb Jordi de Mas i entrevista a Manel Ferriol abans de les 24 Hores de Lliçà d'Amunt. A la tertúlia ens acompanyen Gemma Mallorca, Pere Mas i Àlex Esteban.</desc>
+    <length units="seconds">1991</length>
+    <episode-num system="onscreen">3232</episode-num>
+    <category lang="ca">ESPORTS</category>
+    <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
-  </programme>
-  <programme start="20260903172432 +0200" stop="20260903173503 +0200" channel="esport3">
-    <title lang="ca">Zona UFEC</title>
-    <desc lang="ca">'Zona UFEC' és l'espai que pren el pols a la situació de l'esport català en les diferents disciplines. A través de reportatges i entrevistes, i en col·laboració amb la Unió de Federacions Esportives de Catalunya, cada setmana repassem els èxits i el treball dels esportistes catalans en les competicions de casa nostra i d'arreu del món.</desc>
-    <length units="seconds">631</length>
-    <episode-num system="onscreen">703</episode-num>
-    <category lang="ca">ESPORTS</category>
-    <category lang="ca">REPORTATGES</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <subtitles type="teletext"/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/0/0/1702403805000.jpg"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/7/3/1698145091337.jpg"/>
   </programme>
   <channel id="sx3">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20260903164621 +0200" stop="20260903170701 +0200" channel="sx3">
-    <title lang="ca">Espies de veritat</title>
-    <sub-title lang="ca">Perill TV</sub-title>
-    <desc lang="ca">La desaparició en directe de l'Abella Bobee, presentadora d'un programa infantil, ha fet que les Espies acabessin descobrint el pla malèfic del productor de Perill TV: posar gent famosa en situacions extremes, en directe, en el seu canal de tele! El que encara no saben la Clover, la Sam i l'Alex és que aviat les protagonistes del programa seran elles! Quin perill!</desc>
-    <length units="seconds">1240</length>
-    <episode-num system="onscreen">153</episode-num>
+  <programme start="20260903203856 +0200" stop="20260903205959 +0200" channel="sx3">
+    <title lang="ca">Henry Danger</title>
+    <sub-title lang="ca">Supervolcà</sub-title>
+    <desc lang="ca">Quan en Ray i el seu equip descobreixen que un supervolcà pot destruir el món en menys de dos dies, decideixen mantenir-ho en secret mentre cadascú afronta la fi a la seva manera. Però en Henry, convençut que el temps s'acaba, comença a dir i fer tot allò que sempre havia evitat.</desc>
+    <length units="seconds">1263</length>
+    <episode-num system="onscreen">15</episode-num>
     <category lang="ca">FICCIÓ</category>
-    <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
+    <category lang="ca">SÈRIE DRAMÀTICA</category>
     <rating>
       <value>INFANTIL</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/6/9/1781885918096.jpg"/>
   </programme>
-  <programme start="20260903170701 +0200" stop="20260903172741 +0200" channel="sx3">
-    <title lang="ca">Espies de veritat</title>
-    <sub-title lang="ca">Espies en solitari</sub-title>
-    <desc lang="ca">La notícia d'en Jerry ha caigut com un gerro d'aigua freda: a partir d'ara les Espies ja no treballaran en equip, sinó que ho faran en solitari. La primera missió serà investigar la desaparició de tot d'agents de la WHOOP arreu del món. Ho faran per separat i totes tres també acabaran segrestades a mans de la Col·leccionista, una fanàtica de tot el que té a veure amb l'espionatge!</desc>
-    <length units="seconds">1240</length>
-    <episode-num system="onscreen">154</episode-num>
+  <programme start="20260903205959 +0200" stop="20260903212215 +0200" channel="sx3">
+    <title lang="ca">Bola de drac Z</title>
+    <sub-title lang="ca">El naixement del Supernamek. Lluita contra l'enemic desconegut</sub-title>
+    <desc lang="ca">La Bulma no creu que la misteriosa desaparició de 15.000 persones a Gingertown hagi estat obra dels androides. L'amenaça sense precedents d'un nou enemic invencible fa que en Cor Petit i el Totpoderós es tornin a fusionar per donar pas al Supernamek, que se'n va directament cap a Gingertown a veure el nou monstre arribat del futur.</desc>
+    <length units="seconds">1336</length>
+    <episode-num system="onscreen">141</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
-      <value>INFANTIL</value>
+      <value>JUVENIL</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/6/9/1781885918096.jpg"/>
   </programme>
   <channel id="c33">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20260903164830 +0200" stop="20260903171440 +0200" channel="c33">
-    <title lang="ca">Catalunya salvatge</title>
-    <sub-title lang="ca">Pelegrins de l'aigua</sub-title>
-    <desc lang="ca">'Catalunya salvatge' és una sèrie documental de 13 capítols que donarà a conèixer als espectadors els ecosistemes més representatius del nostre país. Des dels cims del Pirineu fins a les llacunes del delta de l'Ebre, 'Catalunya salvatge' farà un repàs de la flora i la fauna dels paratges més emblemàtics de Catalunya.Els seguidors de la sèrie tindran, doncs, una finestra privilegiada a la biodiversitat del Parc Nacional d'Aigüestortes, la muntanya de Montserrat, la zona volcànica de la Garrotxa, els aiguamolls de l'Empordà o el món submarí de les illes Medes.El primer ecosistema explorat en profunditat serà el d'alta muntanya, on la supervivència no és gens fàcil.(tardor 2010)</desc>
-    <length units="seconds">1570</length>
-    <episode-num system="onscreen">7</episode-num>
+  <programme start="20260903200617 +0200" stop="20260903205942 +0200" channel="c33">
+    <title lang="ca">Llocs recòndits</title>
+    <sub-title lang="ca">L'Aràbia Saudita</sub-title>
+    <desc lang="ca">Acompanyeu en Peter Greenberg, el presentador, mentre explora les joies ocultes del regne de l'Aràbia Saudita que ben pocs coneixen, incloent-hi Riad, Jidda, Al-Ula, el mar Roig, les Dunes Vermelles i molt més.</desc>
+    <length units="seconds">3205</length>
+    <episode-num system="onscreen">5</episode-num>
     <category lang="ca">DIVULGACIÓ</category>
     <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
     <rating>
@@ -139,19 +130,10 @@
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20260903171440 +0200" stop="20260903174047 +0200" channel="c33">
-    <title lang="ca">Catalunya salvatge</title>
-    <sub-title lang="ca">L'empremta volcànica</sub-title>
-    <desc lang="ca">'Catalunya salvatge' és una sèrie documental de 13 capítols que donarà a conèixer als espectadors els ecosistemes més representatius del nostre país. Des dels cims del Pirineu fins a les llacunes del delta de l'Ebre, 'Catalunya salvatge' farà un repàs de la flora i la fauna dels paratges més emblemàtics de Catalunya.Els seguidors de la sèrie tindran, doncs, una finestra privilegiada a la biodiversitat del Parc Nacional d'Aigüestortes, la muntanya de Montserrat, la zona volcànica de la Garrotxa, els aiguamolls de l'Empordà o el món submarí de les illes Medes.El primer ecosistema explorat en profunditat serà el d'alta muntanya, on la supervivència no és gens fàcil.(tardor 2010)</desc>
-    <length units="seconds">1567</length>
-    <episode-num system="onscreen">8</episode-num>
-    <category lang="ca">DIVULGACIÓ</category>
-    <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <subtitles type="teletext"/>
-    <previously-shown/>
+  <programme start="20260903205942 +0200" stop="20260903210037 +0200" channel="c33">
+    <title lang="ca">SENSE FI CANAL 33</title>
+    <desc lang="ca">Sense Descripció</desc>
+    <length units="seconds">55</length>
   </programme>
   <channel id="oca1">
     <display-name>OCA1</display-name>
