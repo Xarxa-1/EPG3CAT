@@ -3,37 +3,41 @@
   <channel id="tvi">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20260903130613 +0200" stop="20260903140000 +0200" channel="tvi">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">3227</length>
-    <episode-num system="onscreen">11072</episode-num>
-    <category lang="ca">ACTUALITAT</category>
-    <category lang="ca">INFORMATIU DIÀRI</category>
+  <programme start="20260903170312 +0200" stop="20260903174057 +0200" channel="tvi">
+    <title lang="ca">La Riera</title>
+    <desc lang="ca">La Lídia està decidida a aturar la Sònia i demana ajuda al seu pare. En Sergi paga el mal humor de la Maribel i reacciona desproporcionadament. L'Ignasi parla amb en Mauri i descobrirem que hi ha un passat fosc que comparteixen d'alguna manera. I en Lluís té unes enormes ganes de venjar-se de qui el va enganyar, però serà complicat.</desc>
+    <length units="seconds">2265</length>
+    <episode-num system="onscreen">123</episode-num>
+    <category lang="ca">FICCIÓ</category>
+    <category lang="ca">TELENOVEL·LA</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
+    <subtitles type="teletext"/>
+    <previously-shown/>
   </programme>
-  <programme start="20260903140000 +0200" stop="20260903143000 +0200" channel="tvi">
-    <title lang="ca">Telenotícies comarques</title>
-    <length units="seconds">1800</length>
-    <episode-num system="onscreen">7027</episode-num>
-    <category lang="ca">ACTUALITAT</category>
-    <category lang="ca">INFORMATIU DIÀRI</category>
+  <programme start="20260903174057 +0200" stop="20260903183107 +0200" channel="tvi">
+    <title lang="ca">Nervi</title>
+    <sub-title lang="ca">Moha Amazian, Festival Grec, 'Whatchmen', còmic europeu,  Dan Peralbo i El Comboi </sub-title>
+    <desc lang="ca">Andrea Gumes entrevista l'actor vigatà Moha Amazian, que compatibilitza l'èxit sobre els escenaris i a la televisió amb un doctorat en química. Celebrem els 50 anys del Festival Grec amb la seva directora, Leticia Martín Ruiz, que ens ajuda a triar entre una programació extensíssima. Reivindiquem un dels còmics més influents de tots el temps, 'Whatchmen', d'Alan Moore y Dave Gibbons, mentre que Jacint Casademont repassa el bo i millor del còmic europeu contemporani. Acabem amb el directe del quartet de Torelló Dan Peralbo i El Comboi.  </desc>
+    <length units="seconds">3010</length>
+    <episode-num system="onscreen">81</episode-num>
+    <category lang="ca">ENTRETENIMENT</category>
+    <category lang="ca">ALTRES</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <icon src="https://img.ccma.cat/multimedia/jpg/5/2/1758026313525.jpg"/>
+    <subtitles type="teletext"/>
+    <previously-shown/>
   </programme>
   <channel id="324">
     <display-name>324</display-name>
   </channel>
-  <programme start="20260903120000 +0200" stop="20260903140000 +0200" channel="324">
+  <programme start="20260903170000 +0200" stop="20260903183000 +0200" channel="324">
     <title lang="ca">Notícies 3CatInfo</title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">7200</length>
-    <episode-num system="onscreen">11073</episode-num>
+    <length units="seconds">5400</length>
+    <episode-num system="onscreen">11075</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
@@ -42,57 +46,58 @@
     <subtitles type="teletext"/>
     <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
-  <programme start="20260903140000 +0200" stop="20260903143000 +0200" channel="324">
-    <title lang="ca">Telenotícies comarques</title>
-    <length units="seconds">1800</length>
-    <episode-num system="onscreen">7027</episode-num>
+  <programme start="20260903183000 +0200" stop="20260903200000 +0200" channel="324">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="seconds">5400</length>
+    <episode-num system="onscreen">11076</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <icon src="https://img.ccma.cat/multimedia/jpg/5/2/1758026313525.jpg"/>
+    <subtitles type="teletext"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
   <channel id="esport3">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20260903130000 +0200" stop="20260903140032 +0200" channel="esport3">
-    <title lang="ca">Esport Club</title>
-    <sub-title lang="ca">Presentacions a l'Espanyol, Bisiwu, l'NBA i les 24 Hores de Lliçà</sub-title>
-    <desc lang="ca">L'Espanyol presenta Bryan Zaragoza i Andoni Gorosabel. Estem pendents de la lesió de Bisiwu. L'NBA amb Jordi de Mas i entrevista a Manel Ferriol abans de les 24 Hores de Lliçà d'Amunt. A la tertúlia ens acompanyen Gemma Mallorca, Pere Mas i Àlex Esteban.</desc>
-    <length units="seconds">3632</length>
-    <episode-num system="onscreen">3232</episode-num>
-    <category lang="ca">ESPORTS</category>
-    <category lang="ca">INFORMATIU DIÀRI</category>
+  <programme start="20260903165845 +0200" stop="20260903172432 +0200" channel="esport3">
+    <title lang="ca">Catalunya salvatge</title>
+    <sub-title lang="ca">Horitzons esteparis</sub-title>
+    <desc lang="ca">'Catalunya salvatge' és una sèrie documental de 13 capítols que donarà a conèixer als espectadors els ecosistemes més representatius del nostre país. Des dels cims del Pirineu fins a les llacunes del delta de l'Ebre, 'Catalunya salvatge' farà un repàs de la flora i la fauna dels paratges més emblemàtics de Catalunya.Els seguidors de la sèrie tindran, doncs, una finestra privilegiada a la biodiversitat del Parc Nacional d'Aigüestortes, la muntanya de Montserrat, la zona volcànica de la Garrotxa, els aiguamolls de l'Empordà o el món submarí de les illes Medes.El primer ecosistema explorat en profunditat serà el d'alta muntanya, on la supervivència no és gens fàcil.(tardor 2010)</desc>
+    <length units="seconds">1547</length>
+    <episode-num system="onscreen">3</episode-num>
+    <category lang="ca">DIVULGACIÓ</category>
+    <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/7/3/1698145091337.jpg"/>
+    <previously-shown/>
   </programme>
-  <programme start="20260903140032 +0200" stop="20260903150119 +0200" channel="esport3">
-    <title lang="ca">Esport Club</title>
-    <sub-title lang="ca">Presentacions a l'Espanyol, Bisiwu, l'NBA i les 24 Hores de Lliçà</sub-title>
-    <desc lang="ca">L'Espanyol presenta Bryan Zaragoza i Andoni Gorosabel. Estem pendents de la lesió de Bisiwu. L'NBA amb Jordi de Mas i entrevista a Manel Ferriol abans de les 24 Hores de Lliçà d'Amunt. A la tertúlia ens acompanyen Gemma Mallorca, Pere Mas i Àlex Esteban.</desc>
-    <length units="seconds">3647</length>
-    <episode-num system="onscreen">3232</episode-num>
+  <programme start="20260903172432 +0200" stop="20260903173503 +0200" channel="esport3">
+    <title lang="ca">Zona UFEC</title>
+    <desc lang="ca">'Zona UFEC' és l'espai que pren el pols a la situació de l'esport català en les diferents disciplines. A través de reportatges i entrevistes, i en col·laboració amb la Unió de Federacions Esportives de Catalunya, cada setmana repassem els èxits i el treball dels esportistes catalans en les competicions de casa nostra i d'arreu del món.</desc>
+    <length units="seconds">631</length>
+    <episode-num system="onscreen">703</episode-num>
     <category lang="ca">ESPORTS</category>
-    <category lang="ca">INFORMATIU DIÀRI</category>
+    <category lang="ca">REPORTATGES</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/7/3/1698145091337.jpg"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/0/0/1702403805000.jpg"/>
   </programme>
   <channel id="sx3">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20260903131748 +0200" stop="20260903133904 +0200" channel="sx3">
-    <title lang="ca">El detectiu Conan</title>
-    <sub-title lang="ca">L'hostal del Kamaitachi (2a part)</sub-title>
-    <desc lang="ca">El kamaitachi que els havia fet uns talls a la pell a en Heiji, en Kogoro i la periodista, sembla que també ha assassinat l'avi de l'hostal amb la dalla que hi havia al magatzem. Per arribar on era la víctima abans que en Conan i els altres, ha hagut de córrer per sobre de l'aigua d'una bassa i es diu que els kamaitachis són capaços de fer-ho. Però en Conan i en Heiji no s'ho empassen.</desc>
-    <length units="seconds">1276</length>
-    <episode-num system="onscreen">864</episode-num>
+  <programme start="20260903164621 +0200" stop="20260903170701 +0200" channel="sx3">
+    <title lang="ca">Espies de veritat</title>
+    <sub-title lang="ca">Perill TV</sub-title>
+    <desc lang="ca">La desaparició en directe de l'Abella Bobee, presentadora d'un programa infantil, ha fet que les Espies acabessin descobrint el pla malèfic del productor de Perill TV: posar gent famosa en situacions extremes, en directe, en el seu canal de tele! El que encara no saben la Clover, la Sam i l'Alex és que aviat les protagonistes del programa seran elles! Quin perill!</desc>
+    <length units="seconds">1240</length>
+    <episode-num system="onscreen">153</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
@@ -100,13 +105,14 @@
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/6/9/1781885918096.jpg"/>
   </programme>
-  <programme start="20260903133904 +0200" stop="20260903135840 +0200" channel="sx3">
-    <title lang="ca">El detectiu Conan</title>
-    <sub-title lang="ca">La foscor de la policia de la prefectura (1a part)</sub-title>
-    <desc lang="ca">La Ran, en Kogoro i en Conan han viatjat a Nagano i, un cop allà, en Conan creu que ha descobert la identitat d'en Rom, perquè l'inspector Yamato coincideix amb la descripció que n'hi va fer l'Ai. Mentre visiten el lloc històric on va tenir lloc la batalla de Kawanakajima descobreixen el cap decapitat d'una persona morta, un inspector de la policia, en Shigeru Takeda, un home per qui l'inspector Yamato sentia un gran ressentiment.</desc>
-    <length units="seconds">1176</length>
-    <episode-num system="onscreen">865</episode-num>
+  <programme start="20260903170701 +0200" stop="20260903172741 +0200" channel="sx3">
+    <title lang="ca">Espies de veritat</title>
+    <sub-title lang="ca">Espies en solitari</sub-title>
+    <desc lang="ca">La notícia d'en Jerry ha caigut com un gerro d'aigua freda: a partir d'ara les Espies ja no treballaran en equip, sinó que ho faran en solitari. La primera missió serà investigar la desaparició de tot d'agents de la WHOOP arreu del món. Ho faran per separat i totes tres també acabaran segrestades a mans de la Col·leccionista, una fanàtica de tot el que té a veure amb l'espionatge!</desc>
+    <length units="seconds">1240</length>
+    <episode-num system="onscreen">154</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
@@ -114,31 +120,33 @@
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/6/9/1781885918096.jpg"/>
   </programme>
   <channel id="c33">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20260903123837 +0200" stop="20260903133852 +0200" channel="c33">
-    <title lang="ca">Atrapa'm si pots - Especials</title>
-    <sub-title lang="ca">Atrapa'm si pots - estiu</sub-title>
-    <length units="seconds">3615</length>
-    <episode-num system="onscreen">49</episode-num>
-    <category lang="ca">ENTRETENIMENT</category>
-    <category lang="ca">CONCURS</category>
+  <programme start="20260903164830 +0200" stop="20260903171440 +0200" channel="c33">
+    <title lang="ca">Catalunya salvatge</title>
+    <sub-title lang="ca">Pelegrins de l'aigua</sub-title>
+    <desc lang="ca">'Catalunya salvatge' és una sèrie documental de 13 capítols que donarà a conèixer als espectadors els ecosistemes més representatius del nostre país. Des dels cims del Pirineu fins a les llacunes del delta de l'Ebre, 'Catalunya salvatge' farà un repàs de la flora i la fauna dels paratges més emblemàtics de Catalunya.Els seguidors de la sèrie tindran, doncs, una finestra privilegiada a la biodiversitat del Parc Nacional d'Aigüestortes, la muntanya de Montserrat, la zona volcànica de la Garrotxa, els aiguamolls de l'Empordà o el món submarí de les illes Medes.El primer ecosistema explorat en profunditat serà el d'alta muntanya, on la supervivència no és gens fàcil.(tardor 2010)</desc>
+    <length units="seconds">1570</length>
+    <episode-num system="onscreen">7</episode-num>
+    <category lang="ca">DIVULGACIÓ</category>
+    <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20260903133852 +0200" stop="20260903143151 +0200" channel="c33">
-    <title lang="ca">Experiència Catalana</title>
-    <sub-title lang="ca">Mash i Tassy</sub-title>
-    <desc lang="ca">En Mash i en Tassy són dos japonesos amb qui coneixem els secrets de l'elaboració del cava i el vi, i per fer-ho, marxem fins al Penedès i el Priorat. A més, la Ivana Miño els regala una experiència única que segur s'enduen per sempre; una jornada castellera a Tarragona.</desc>
-    <length units="seconds">3179</length>
-    <episode-num system="onscreen">9</episode-num>
-    <category lang="ca">ENTRETENIMENT</category>
-    <category lang="ca">ALTRES</category>
+  <programme start="20260903171440 +0200" stop="20260903174047 +0200" channel="c33">
+    <title lang="ca">Catalunya salvatge</title>
+    <sub-title lang="ca">L'empremta volcànica</sub-title>
+    <desc lang="ca">'Catalunya salvatge' és una sèrie documental de 13 capítols que donarà a conèixer als espectadors els ecosistemes més representatius del nostre país. Des dels cims del Pirineu fins a les llacunes del delta de l'Ebre, 'Catalunya salvatge' farà un repàs de la flora i la fauna dels paratges més emblemàtics de Catalunya.Els seguidors de la sèrie tindran, doncs, una finestra privilegiada a la biodiversitat del Parc Nacional d'Aigüestortes, la muntanya de Montserrat, la zona volcànica de la Garrotxa, els aiguamolls de l'Empordà o el món submarí de les illes Medes.El primer ecosistema explorat en profunditat serà el d'alta muntanya, on la supervivència no és gens fàcil.(tardor 2010)</desc>
+    <length units="seconds">1567</length>
+    <episode-num system="onscreen">8</episode-num>
+    <category lang="ca">DIVULGACIÓ</category>
+    <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
@@ -148,47 +156,12 @@
   <channel id="oca1">
     <display-name>OCA1</display-name>
   </channel>
-  <programme start="20260903090000 +0200" stop="20260903145955 +0200" channel="oca1">
-    <title lang="ca">Sánchez compareix per la crisi de Ceuta</title>
-    <length units="seconds">21595</length>
-    <episode-num system="onscreen">4094</episode-num>
-    <category lang="ca">ACTUALITAT</category>
-    <category lang="ca">RETRANSMISSIONS ACTUALITAT</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <icon src="https://img.ccma.cat/multimedia/jpg/3/4/1746445784343.jpg"/>
-  </programme>
   <channel id="oca2">
     <display-name>OCA2</display-name>
   </channel>
-  <programme start="20260903124426 +0200" stop="20260903132955 +0200" channel="oca2">
-    <title lang="ca">CGT parla després de reunir-se amb la consellera per la vaga a l'inici de curs</title>
-    <length units="seconds">1795</length>
-    <episode-num system="onscreen">4096</episode-num>
-    <category lang="ca">ACTUALITAT</category>
-    <category lang="ca">RETRANSMISSIONS ACTUALITAT</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <icon src="https://img.ccma.cat/multimedia/jpg/3/8/1780564167883.jpg"/>
-  </programme>
   <channel id="oca3">
     <display-name>OCA3</display-name>
   </channel>
-  <programme start="20260903125500 +0200" stop="20260903135955 +0200" channel="oca3">
-    <title lang="ca">Sala de Premsa</title>
-    <sub-title lang="ca">- Presentació Bryan Zaragoza</sub-title>
-    <desc lang="ca">Esport3 t'ofereix les compareixences de dirigents, jugadors i entrenadors dels equips catalans davant els mitjans de comunicació.</desc>
-    <length units="seconds">3595</length>
-    <episode-num system="onscreen">722</episode-num>
-    <category lang="ca">ESPORTS</category>
-    <category lang="ca">INFORMATIU DIÀRI</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <icon src="https://img.3cat.cat/multimedia/jpg/7/4/1778665728847.jpg"/>
-  </programme>
   <channel id="oca4">
     <display-name>OCA4</display-name>
   </channel>
