@@ -3,70 +3,82 @@
   <channel id="tvi">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20260904011336 +0200" stop="20260904043000 +0200" channel="tvi">
+  <programme start="20260904070001 +0200" stop="20260904100000 +0200" channel="tvi">
     <title lang="ca">Notícies 3CatInfo</title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">11784</length>
-    <episode-num system="onscreen">11079</episode-num>
+    <length units="seconds">10799</length>
+    <episode-num system="onscreen">11080</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <previously-shown/>
     <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
-  <programme start="20260904043000 +0200" stop="20260904051447 +0200" channel="tvi">
-    <title lang="ca">Fusió i swing a l'estudi</title>
-    <sub-title lang="ca">Edu Tancredi Sextet</sub-title>
-    <desc lang="ca">Edu Tancredi ens presenta el seu repertori, amb el qual no es limita a tocar el latin jazz tradicional d'influència caribenya, sinó que investiga amb altres ritmes llatinoamericans, com ara el joropo de Veneçuela, el candombe de l'Uruguai o el baiao brasiler. Endinsem-nos, així, en aquest particular mapa musical llatinoamericà amb Edu Tancredi, acompanyat d'Eladio Reinón, al saxo; Mathew Simon, a la trompeta; Jesús Bachiller, al baix; David Gómez, a la bateria, i Fran Palomo, a la percussió.</desc>
-    <length units="seconds">2687</length>
-    <episode-num system="onscreen">16</episode-num>
-    <category lang="ca">MUSICALS</category>
-    <category lang="ca">ALTRES</category>
+  <programme start="20260904100000 +0200" stop="20260904120000 +0200" channel="tvi">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="seconds">7200</length>
+    <episode-num system="onscreen">11081</episode-num>
+    <category lang="ca">ACTUALITAT</category>
+    <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <previously-shown/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
   <channel id="324">
     <display-name>324</display-name>
   </channel>
-  <programme start="20260904010000 +0200" stop="20260904060000 +0200" channel="324">
+  <programme start="20260904070000 +0200" stop="20260904100000 +0200" channel="324">
     <title lang="ca">Notícies 3CatInfo</title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">18000</length>
-    <episode-num system="onscreen">11079</episode-num>
+    <length units="seconds">10800</length>
+    <episode-num system="onscreen">11080</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
-    <previously-shown/>
     <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
-  <programme start="20260904060000 +0200" stop="20260904070000 +0200" channel="324">
+  <programme start="20260904100000 +0200" stop="20260904120000 +0200" channel="324">
     <title lang="ca">Notícies 3CatInfo</title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">3600</length>
-    <episode-num system="onscreen">11079</episode-num>
+    <length units="seconds">7200</length>
+    <episode-num system="onscreen">11081</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <previously-shown/>
+    <subtitles type="teletext"/>
     <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
   <channel id="esport3">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20260904023513 +0200" stop="20260904042520 +0200" channel="esport3">
+  <programme start="20260904064025 +0200" stop="20260904081034 +0200" channel="esport3">
+    <title lang="ca">Onze</title>
+    <sub-title lang="ca">Mou, llop amb pell de xai; Ferran Torres parla del Barça i 'El consultori'</sub-title>
+    <desc lang="ca">David Bernabeu, Víctor Lozano, Laia Tudel i Fernando Polo analitzen el canvi de to de Mourinho a les rodes de premsa i les declaracions de Ferran Torres. El Sergi Ferrer respon les preguntes dels espectadors inquiets de l'Onze.</desc>
+    <length units="seconds">5409</length>
+    <episode-num system="onscreen">1243</episode-num>
+    <category lang="ca">ESPORTS</category>
+    <category lang="ca">MAGAZINE</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <subtitles type="teletext"/>
+    <previously-shown/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/1/1/1688543515711.jpg"/>
+  </programme>
+  <programme start="20260904081034 +0200" stop="20260904100005 +0200" channel="esport3">
     <title lang="ca">Bàsquet</title>
     <sub-title lang="ca">Asisa Joventut-Kids&amp;Us Manresa / Torneig Sant Julià</sub-title>
     <desc lang="ca">Partit inaugural del prestigiós torneig de pretemporada que es disputa a la població osonenca de Sant Julià de Vilatorta.</desc>
-    <length units="seconds">6607</length>
+    <length units="seconds">6571</length>
     <episode-num system="onscreen">8110</episode-num>
     <category lang="ca">ESPORTS</category>
     <category lang="ca">RETRANSMISSIONS ESPORTS</category>
@@ -76,30 +88,15 @@
     <previously-shown/>
     <icon src="https://img.ccma.cat/multimedia/jpg/8/0/1698775546608.jpg"/>
   </programme>
-  <programme start="20260904042520 +0200" stop="20260904055308 +0200" channel="esport3">
-    <title lang="ca">Tot Costa</title>
-    <sub-title lang="ca">Xavi Espart, titular?</sub-title>
-    <desc lang="ca">Analitzem el rol que pot tenir Xavi Espart en l'equip de Flick amb Santi Giménez, Mireia Vera i Jordi Grau. Amb Laia Tudel expliquem el perfil del jugador, Ramon Salmurri ens porta l'última hora de la junta del Barça i sentim Lautaro i Lewandowski. També truquem a Jean Marie Dongou. Passem per Madrid, amb David Sánchez, per analitzar les paraules de Mourinho en roda de premsa.</desc>
-    <length units="seconds">5268</length>
-    <episode-num system="onscreen">1001</episode-num>
-    <category lang="ca">ESPORTS</category>
-    <category lang="ca">INFORMATIU DIÀRI</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <subtitles type="teletext"/>
-    <previously-shown/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/0/4/1706209193140.jpg"/>
-  </programme>
   <channel id="sx3">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20260904025729 +0200" stop="20260904031933 +0200" channel="sx3">
-    <title lang="ca">Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
-    <sub-title lang="ca">Confrontació</sub-title>
-    <desc lang="ca">Falta molt poc perquè s'acabi el curs i els alumnes han de triar què volen fer a partir de l'any que ve abans del consell escolar, un pas decisiu que determinarà el seu futur. Les encarregades de defensar les aspiracions de tots els alumnes de la classe són les noves delegades, la Lila i la Chloé. La Marinette i l'Adrien estan preocupats: què faran aquestes dues manipuladores perilloses que tothom es pensa que són tan bones persones?</desc>
-    <length units="seconds">1324</length>
-    <episode-num system="onscreen">125</episode-num>
+  <programme start="20260904074519 +0200" stop="20260904075619 +0200" channel="sx3">
+    <title lang="ca">Els barrufets (3D)</title>
+    <sub-title lang="ca">El bromista escarmentat</sub-title>
+    <desc lang="ca">El Presumit està fart de les brometes pesades del Bromista i, amb l'ajuda de dos barrufets més, li prepara una gran capsa-bomba que inclou un ingredient secret que té amagat el Gran Barrufet. Quan la capsa explota, comencen a aparèixer pel poble tot de minibarrufets bromistes que acaben amargant a tothom amb les seves bretolades. El Gran Barrufet ordena al Presumit i al Bromista que posin remei a la situació.</desc>
+    <length units="seconds">660</length>
+    <episode-num system="onscreen">11</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
@@ -108,12 +105,12 @@
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20260904031933 +0200" stop="20260904034144 +0200" channel="sx3">
-    <title lang="ca">Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
-    <sub-title lang="ca">Conspiració</sub-title>
-    <desc lang="ca">S'acosta final de curs i es prepara una revolta. Al Monarca no li queda temps ni té gaires alternatives: decideix implementar un pla que és perillós per la seva identitat secreta i extremament perillós per Ladybug i el Gat Noir, també. Sense saber-ho, el malvat es beneficiarà de l'ajuda de la Lila, que controla d'amagat la Chloé, més dolenta que mai. Pel que fa a la Marinette, no sap que l'Adrien no s'atreveix a explicar-li un terrible secret que podria fer perillar la seva relació.</desc>
-    <length units="seconds">1331</length>
-    <episode-num system="onscreen">126</episode-num>
+  <programme start="20260904075619 +0200" stop="20260904080722 +0200" channel="sx3">
+    <title lang="ca">Els barrufets (3D)</title>
+    <sub-title lang="ca">Ningú no és barrufecte</sub-title>
+    <desc lang="ca">El Forçut i el Poruc estan fent neteja a casa del Gran Barrufet i, sense voler, li trenquen el telescopi. Com que tenen tanta por de la seva reacció, es disfressen de noia amb roba que la Barrufeta té a l'estenedor. Tots els barrufets s'empassen que són noies i fins i tot el Gran Barrufet convenç la Barrufeta perquè les aculli a casa seva per passar la nit.</desc>
+    <length units="seconds">663</length>
+    <episode-num system="onscreen">12</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
@@ -125,28 +122,28 @@
   <channel id="c33">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20260904024749 +0200" stop="20260904032615 +0200" channel="c33">
-    <title lang="ca">La Mar de Bé</title>
-    <sub-title lang="ca">Nova Gacela</sub-title>
-    <desc lang="ca">Són les set del matí i les embarcacions naveguen mar endins fins arribar al calador de Sant Sebastià, un dels més emblemàtics de la costa catalana, per capturar l'espècie de referència de Palamós: la gamba. Per en Quim serà un autèntic dia de pesca, amb vent, soroll i mala mar, al costat d'en Conrad Massaguer, patró i armador de la Nova Gacela. El xef viurà tot el procés de la pesca de la gamba: des de la captura fins a la venda a la llotja. També visitarà el Museu de la Pesca de Palamós i ens ensenyarà a cuinar una recepta molt coneguda de l'històric cuiner Santi Santamaria: ravioli de gamba amb tàrtar de ceps i el seu pil-pil. </desc>
-    <length units="seconds">2306</length>
-    <episode-num system="onscreen">4</episode-num>
-    <category lang="ca">ENTRETENIMENT</category>
-    <category lang="ca">ALTRES</category>
+  <programme start="20260904072008 +0200" stop="20260904075155 +0200" channel="c33">
+    <title lang="ca">Quèquicom</title>
+    <sub-title lang="ca">La forja del ganivet</sub-title>
+    <desc lang="ca">Com s'ha de mantenir i esmolar un ganivet? Què vol dir trempar el ferro? Anem de la bifaç de sílex als ganivets japonesos i les espases passant per la farga catalana, una innovació tècnica que va revolucionar la metal·lúrgia. Fina Brunet va a la Farga Rossell d'Andorra per saber què és la 'caixa dels vents', un dels secrets més ben guardats durant l'edat mitjana. Practica l'esgrima històric, forja un ganivet i visita un mercat per veure quina mena de ganivets pateixen més.L'evolució de les eines de tallDurant milions d'anys l'ésser humà va treballar les pedres per convertir-les en les eines de tall que necessitava, ja fos per menjar, caçar, defensar-se, o construir un lloc on habitar.L'evolució humana i les noves necessitats van portar cap a eines de tall més lleugeres i regulars i també a la recerca d'altres materials: bronze, coure, ferro i, finalment, l'acer, que es va convertir en un dels materials més desitjats, un recurs estratègic i de gran valor econòmic a l'antiguitat.</desc>
+    <length units="seconds">1907</length>
+    <episode-num system="onscreen">329</episode-num>
+    <category lang="ca">DIVULGACIÓ</category>
+    <category lang="ca">MAGAZINE ESPECIALITZAT</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20260904032615 +0200" stop="20260904040519 +0200" channel="c33">
-    <title lang="ca">La Mar de Bé</title>
-    <sub-title lang="ca">Cala Galladera II</sub-title>
-    <desc lang="ca">La nansa és una tècnica de pesca artesanal, selectiva i molt sostenible, que s'utilitza per capturar pops i altres espècies similars. En aquest capítol, en Quim Casellas aprendrà aquesta tècnica a bord de la Cala Galladera II, amb en Guillermo Cornejo, el patró major del Port de la Selva. També parlarà amb la biòloga Marina Biel per conèixer de primera mà les gorgònies. I acabarà cuinant una recepta que tindrà el pop com ingredient principal: pop a la brasa amb cremós de patata, xips d'all i pebre dolç. </desc>
-    <length units="seconds">2344</length>
-    <episode-num system="onscreen">5</episode-num>
+  <programme start="20260904075155 +0200" stop="20260904084053 +0200" channel="c33">
+    <title lang="ca">El Foraster</title>
+    <sub-title lang="ca">La Vall d'en Bas</sub-title>
+    <desc lang="ca">La Vall d'en Bas és una vall formada per set poblets i molts camps de conreu, on res és el que sembla. Allà, en Quim s'hi passarà 48 hores intenses. Tan intenses que arriba a l'estiu i acaba marxant per Nadal. A la Vall d'en Bas, el paisatge és d'allò més espectacular. Miris cap on miris, tot és un quadre per emmarcar. I els seus habitants semblen sortits d'una novel·la. Coneixerem a la riallera Pilar, una de les participants del concurs de dalles, sempre en conflicte amb la seva eterna rival, l'Antxoni, una basca que sega tot el que troba al seu camí. I a una velocitat increïble. També coneixerem la Janina, que busca parella, però té un problema: no sap exactament el tipus d'home que busca. Vol que sigui pagès però que no ho sembli. Ho aconseguirà?I no només aprendrem el valor de l'amistat amb el David i el seu gos 'Miki', sinó que també aprendrem amb ells un nou llenguatge. Ja veureu com sí que és veritat que els gossos ens entenen i que, fins i tot, n'hi ha alguns que saben sumar i restar. En Llorenç, el pastor pintor, ens ensenyarà a fer photoshop sense ordinador, i el Migueli, el professor d'aerobic, en demostrarà que als 60 anys encara és capaç de transformar-se en la Paulina Rubio.I per acabar, veurem, en ple mes d'estiu, l'estel de Nadal més gran del món il·luminant una de les valls més formoses del nostre principat. Una vall que, com els seus habitants, no us deixarà indiferent.</desc>
+    <length units="seconds">2938</length>
+    <episode-num system="onscreen">68</episode-num>
     <category lang="ca">ENTRETENIMENT</category>
-    <category lang="ca">ALTRES</category>
+    <category lang="ca">VARIETATS</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
