@@ -3,50 +3,60 @@
   <channel id="tvi">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20260904220216 +0200" stop="20260904222647 +0200" channel="tvi">
-    <title lang="ca">Després de tu</title>
-    <sub-title lang="ca">El wifi</sub-title>
-    <desc lang="ca">En Pau converteix la solució a un problema domèstic amb el wifi en una odissea, cosa que provarà que és un pare de família efectiu i capaç. Quan aconsegueix resoldre el problema, recupera l'autoestima i l'ànim, però llavors veu un vídeo familiar antic que fa que, per primera vegada, s'enfonsi emocionalment davant dels seus</desc>
-    <length units="seconds">1471</length>
-    <episode-num system="onscreen">10</episode-num>
+  <programme start="20260904233804 +0200" stop="20260905010556 +0200" channel="tvi">
+    <title lang="ca">Pel·lícula</title>
+    <sub-title lang="ca">Sica</sub-title>
+    <desc lang="ca">SICAProducció d'Alba Sotorra, Miramemira, Zuzú Cinema, Amorambre Films i Filmmarket Fund, amb el suport de l'ICEC, AGADIC, l'ICAA i la participació de TVE, CRTVG, TV3 i Creative Europe MEDIA Program. Direcció i guió Carla SubiranaDirecció de fotografia Mauro HerceDirecció de fotografia (2a unitat) Anna MolinsCompositor Xavi FontIntèrprets: Thais García Blanco (Sica), Núria Prims (Carmen), Marco Antonio Florido Añón (Suso), María Villaverde Ameijeiras (Leda), Lois Soaxe (El Portugues)Sinopsi:La Sica (14) està obsessionada que el mar torni el cos del seu pare després d'un naufragi a la Costa da Morte, Galícia. Mentre recorre els penya-segats, coneix a en Suso (15), el Caçatempestes, un noi estrany com ella que espera l'arribada d'Ofèlia, la mare de totes les tempestes. Sica investiga les circumstàncies de l'accident i s'endinsa en un viatge descobriment dolorós. Als seus ulls, el poble mariner, on ella ha crescut, marcat per la brutalitat del seu oceà i el creixent desequilibri de la Natura, no tornarà a ser mai el mateix.</desc>
+    <credits>
+      <actor>Thais García Blanco (Sica)</actor>
+      <actor>Núria Prims (Carmen)</actor>
+      <actor>Marco Antonio Florido Añón (Suso)</actor>
+      <actor>María Villaverde Ameijeiras (Leda)</actor>
+      <actor>Lois Soaxe (El Portugues)Sinopsi:La Sica (14) està obsessionada que el mar torni el cos del seu pare després d'un naufragi a la Costa da Morte</actor>
+      <actor>Galícia. Mentre recorre els penya-segats</actor>
+      <actor>coneix a en Suso (15)</actor>
+      <actor>el Caçatempestes</actor>
+      <actor>un noi estrany com ella que espera l'arribada d'Ofèlia</actor>
+      <actor>la mare de totes les tempestes. Sica investiga les circumstàncies de l'accident</actor>
+      <actor>s'endinsa en un viatge descobriment dolorós. Als seus ulls</actor>
+      <actor>el poble mariner</actor>
+      <actor>on ella ha crescut</actor>
+      <actor>marcat per la brutalitat del seu oceà</actor>
+      <actor>el creixent desequilibri de la Natura</actor>
+      <actor>no tornarà a ser mai el mateix.</actor>
+    </credits>
+    <length units="seconds">5272</length>
+    <episode-num system="onscreen">1</episode-num>
     <category lang="ca">FICCIÓ</category>
-    <category lang="ca">SÈRIE DRAMÀTICA</category>
+    <category lang="ca">PEL·LÍCULA / TELEFILM</category>
     <rating>
-      <value>TOTS ELS PÚBLICS</value>
+      <value>PÚBLIC ADULT</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20260904222647 +0200" stop="20260904233802 +0200" channel="tvi">
-    <title lang="ca">La Puntual</title>
-    <sub-title lang="ca">La Puntual: Arribada al 'Laboratori'</sub-title>
-    <desc lang="ca">Comença el 'Laboratori teatral', d'on sortirà la companyia d'actors amateurs que representarà 'L'auca del senyor Esteve'. L'equip de 'La Puntual' conviurà durant quatre dies sencers amb els 44 candidats a formar part del grup final. En aquest capítol descobrirem els primers 11 eliminats.</desc>
-    <length units="seconds">4275</length>
-    <episode-num system="onscreen">11</episode-num>
-    <category lang="ca">ENTRETENIMENT</category>
-    <category lang="ca">VARIETATS</category>
+  <programme start="20260905010556 +0200" stop="20260905015708 +0200" channel="tvi">
+    <title lang="ca">Documental</title>
+    <sub-title lang="ca">Cinema mon amour</sub-title>
+    <desc lang="ca">'Cinema mon amour' (2018), una producció de MARTIN PIÑOL amb la col·laboració de Televisió de Catalunya.Colpida pel tancament d'un cinema, una jove directora decideix investigar si les sales de Barcelona tenen els dies comptats. Durant els set anys de gravació del documental, entrarà en el món tancat de l'exhibició catalana, assistirà a la transformació d'aquest art i negoci i viurà experiències irrepetibles a les entranyes de molts cinemesEl documental Cinema Mon Amour és una crònica viscuda en primera persona sobre la pèrdua dels cinemes de Barcelona i del 35mm com a suport d'exhibició i també de la resistència i renaixement d'unes quantes sales supervivents.Direcció: Natàlia RegàsGuió: Natàlia Regàs i Eloi TomàsRealització: Natàlia RegàsProductor: Martín PiñolProductor executiu TVC: Jordi AmbròsProductor delegat TVC: Jordi Mas, Daniel BareaDirector fotografia: Natàlia RegàsMuntatge: Roser Segura, Eloi Tomàs (Ammac)Director de producció: Natàlia Regàs i Martín PiñolMúsica: Aritz VillodasLingüista: Judit Terrats CortiellaGrafisme: Francesc Fernàndez</desc>
+    <credits>
+      <director>Natàlia Regàs</director>
+      <writer>Natàlia Regàs</writer>
+      <writer>Eloi TomàsRealització: Natàlia Regàs</writer>
+    </credits>
+    <length units="seconds">3072</length>
+    <episode-num system="onscreen">1</episode-num>
+    <category lang="ca">DIVULGACIÓ</category>
+    <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
-    <icon src="https://img.ccma.cat/multimedia//jpg/7/8/1721226172787.jpg"/>
   </programme>
   <channel id="324">
     <display-name>324</display-name>
   </channel>
-  <programme start="20260904210000 +0200" stop="20260904230000 +0200" channel="324">
-    <title lang="ca">Telenotícies vespre</title>
-    <length units="seconds">7200</length>
-    <episode-num system="onscreen">7317</episode-num>
-    <category lang="ca">ACTUALITAT</category>
-    <category lang="ca">INFORMATIU DIÀRI</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <subtitles type="teletext"/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/7/2/1758026176427.jpg"/>
-  </programme>
   <programme start="20260904230000 +0200" stop="20260905003000 +0200" channel="324">
     <title lang="ca">Notícies 3CatInfo</title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
@@ -57,48 +67,58 @@
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <subtitles type="teletext"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
+  </programme>
+  <programme start="20260905003000 +0200" stop="20260905010000 +0200" channel="324">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="seconds">1800</length>
+    <episode-num system="onscreen">11088</episode-num>
+    <category lang="ca">ACTUALITAT</category>
+    <category lang="ca">INFORMATIU DIÀRI</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
     <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
   <channel id="esport3">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20260904202500 +0200" stop="20260904223709 +0200" channel="esport3">
-    <title lang="ca">Bàsquet</title>
-    <sub-title lang="ca">Ratiopharm Ulm-iLerna Lleida / Torneig Sant Julià</sub-title>
-    <desc lang="ca">Segona jornada del prestigiós torneig de pretemporada que es disputa a la població osonenca de Sant Julià de Vilatorta.</desc>
-    <length units="seconds">7929</length>
-    <episode-num system="onscreen">8111</episode-num>
+  <programme start="20260904225958 +0200" stop="20260905003041 +0200" channel="esport3">
+    <title lang="ca">Onze</title>
+    <sub-title lang="ca">Qui és més fort? Post Betis-Madrid i 'La Clau Delmàs'</sub-title>
+    <desc lang="ca">Carles Fité, Irati Vidal, David Ibáñez i Núria Casas analitzen el mercat de fitxatges de Barça i Madrid i el partit entre el Betis i el Madrid. L'Àlex Delmàs dona algunes claus del partit entre el València i el Barça.</desc>
+    <length units="seconds">5443</length>
+    <episode-num system="onscreen">1244</episode-num>
     <category lang="ca">ESPORTS</category>
-    <category lang="ca">RETRANSMISSIONS ESPORTS</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <icon src="https://img.ccma.cat/multimedia/jpg/8/0/1698775546608.jpg"/>
-  </programme>
-  <programme start="20260904223709 +0200" stop="20260904230000 +0200" channel="esport3">
-    <title lang="ca">Zona Zàping Club</title>
-    <sub-title lang="ca">Llucià Ferrer s'enfronta al repte més viral de l'estiu, amb pizza inclosa!</sub-title>
-    <desc lang="ca">El presentador entra al joc d''Això acaba...' i descobreix que endevinar finals és molt més difícil del que sembla.</desc>
-    <length units="seconds">1371</length>
-    <episode-num system="onscreen">9</episode-num>
-    <category lang="ca">ESPORTS</category>
-    <category lang="ca">ESPECIALS</category>
+    <category lang="ca">MAGAZINE</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
-    <previously-shown/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/1/1/1688543515711.jpg"/>
+  </programme>
+  <programme start="20260905003041 +0200" stop="20260905005142 +0200" channel="esport3">
+    <title lang="ca">3CatInfo Esports</title>
+    <desc lang="ca">Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.</desc>
+    <length units="seconds">1261</length>
+    <episode-num system="onscreen">5499</episode-num>
+    <category lang="ca">ESPORTS</category>
+    <category lang="ca">INFORMATIU DIÀRI</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <icon src="https://img.ccma.cat/multimedia/jpg/9/7/1758888682179.jpg"/>
   </programme>
   <channel id="sx3">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20260904220338 +0200" stop="20260904222318 +0200" channel="sx3">
-    <title lang="ca">El detectiu Conan</title>
-    <sub-title lang="ca">L'ombra que s'acosta a en Toru Amuro</sub-title>
-    <desc lang="ca">Tot esmorzant al Cafè Poirot, en Conan observa un client que li sembla sospitós. De seguida s'adona que té un interès especial per en Toru Amuro. Els seus amics de la Lliga de Detectius Júnior l'ajuden a investigar-ho i en Conan l'hi acaba explicant a en Toru abans que el sospitós pugui passar a l'acció. Però en Toru demostrarà la seva generositat i la seva professionalitat a l'hora de fer la feina que li serveix de tapadora.</desc>
-    <length units="seconds">1180</length>
-    <episode-num system="onscreen">868</episode-num>
+  <programme start="20260905002608 +0200" stop="20260905004708 +0200" channel="sx3">
+    <title lang="ca">Els germans Kratt</title>
+    <sub-title lang="ca">Balenes i calamars</sub-title>
+    <desc lang="ca">Tot posant a prova l'amfisubmarí, l'últim invent de l'Aviva, en Chris i en Martin s'han trobat a les profunditats inexplorades de l'oceà, enmig d'una batalla entre una mare catxalot i un calamar gegant. Però arriba un moment que l'amfisubmarí ja no aguanta la pressió de l'aigua. És l'hora de treure els Vestits de Poder Animal i de poder gaudir d'aquesta batalla mai vista!</desc>
+    <length units="seconds">1260</length>
+    <episode-num system="onscreen">2</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
@@ -107,12 +127,12 @@
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20260904222318 +0200" stop="20260904224250 +0200" channel="sx3">
-    <title lang="ca">El detectiu Conan</title>
-    <sub-title lang="ca">El cas de l'habitació tancada de l'actriu bloguera (1a part)</sub-title>
-    <desc lang="ca">El doctor Agasa juga en una tómbola i guanya un àpat en un bufet de postres i decideix anar-hi amb la Lliga de Detectius Júnior. Mentre són al menjador de l'hotel que ofereix el bufet, coneixen per casualitat dues famoses actrius blogueres que estan a punt de rodar juntes una sèrie de televisió. Però un secret ocult en els seus blogs personals acabarà sent la causa d'un assassinat.</desc>
-    <length units="seconds">1172</length>
-    <episode-num system="onscreen">869</episode-num>
+  <programme start="20260905004708 +0200" stop="20260905010838 +0200" channel="sx3">
+    <title lang="ca">Els germans Kratt</title>
+    <sub-title lang="ca">El poble dels porcs formiguers</sub-title>
+    <desc lang="ca">Avui en Chris i en Martin descobriran el poble dels porcs formiguers, uns animals que costen molt de veure i que estan emparentats amb... els elefants?! A més, els coneixeran molt de prop! Sobretot en Chris! Un porc formiguer, tot fugint d'una hiena, se li ha amagat a la motxilla! Ara els tocarà tornar-lo al seu cau! Els hi acompanyes?!</desc>
+    <length units="seconds">1290</length>
+    <episode-num system="onscreen">3</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
@@ -124,31 +144,33 @@
   <channel id="c33">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20260904215807 +0200" stop="20260904224941 +0200" channel="c33">
-    <title lang="ca">La Renaixença</title>
-    <sub-title lang="ca">Millors moments - setmana 1</sub-title>
-    <desc lang="ca">Aquesta setmana parlem de la xineta, de la radiografia, del tallagespa i del pinzell. És impossible dir-vos quin és el millor, de manera que haureu de veure tots els episodis i decidir segons el vostre criteri. També parlem amb un músic i poeta com és en Guillem Ramisa, una sardanista com és la Nàdia Cordó, un actor com és l'Ernest Villegas, i un esquilador d'ovelles com és l'Andreu Castellà. Com? Que un esquilador d'ovelles entre tant d'artista no us esperàveu? I qui us ha dit que esquilar una ovella no és un art, eh! </desc>
-    <length units="seconds">3094</length>
-    <episode-num system="onscreen">225</episode-num>
-    <category lang="ca">DIVULGACIÓ</category>
-    <category lang="ca">ALTRES</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <subtitles type="teletext"/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/3/3/1756148014833.jpg"/>
-  </programme>
-  <programme start="20260904224941 +0200" stop="20260904233552 +0200" channel="c33">
-    <title lang="ca">Illes d'Austràlia, amb Martin Clunes</title>
-    <desc lang="ca">En l'últim episodi del seu periple per les illes d'Austràlia, Martin Clunes visitarà una illa en la desembocadura d'un riu, on hi ha una explotació ramadera molt especial. En un ambient radicalment diferent, l'illa Phillip li demostrarà que la convivència entre els esports de motor, el turisme i la fauna autòctona no és impossible. I, per tancar la sèrie, el Martin visitarà dues illes més, a la recerca de l'animal més llegendari del sud d'Austràlia: el diable de Tasmània.</desc>
-    <length units="seconds">2771</length>
-    <episode-num system="onscreen">3</episode-num>
+  <programme start="20260904233554 +0200" stop="20260905002831 +0200" channel="c33">
+    <title lang="ca">Llocs recòndits</title>
+    <sub-title lang="ca">Turquia</sub-title>
+    <desc lang="ca">'Llocs recòndits - Turquia' permet que l'audiència se submergeixi en la història i la cultura resistent de Turquia, i que s'embarqui en una pila de viatges que canvien la vida. Entre els llocs visitats hi ha Istanbul, la Capadòcia, Antioquia, Antalya i Laodicea.</desc>
+    <length units="seconds">3157</length>
+    <episode-num system="onscreen">6</episode-num>
     <category lang="ca">DIVULGACIÓ</category>
     <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
+    <previously-shown/>
+  </programme>
+  <programme start="20260905002831 +0200" stop="20260905011856 +0200" channel="c33">
+    <title lang="ca">El gran camí</title>
+    <sub-title lang="ca">El Camí de Sant Jaume</sub-title>
+    <desc lang="ca">El camí de Santiago és la ruta de pelegrinatge més important d'Europa. L'han fet milions de persones durant segles per arribar fins a Santiago de Compostel·la i Fisterra (la fi del món), a Espanya. </desc>
+    <length units="seconds">3025</length>
+    <episode-num system="onscreen">4</episode-num>
+    <category lang="ca">DIVULGACIÓ</category>
+    <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <subtitles type="teletext"/>
+    <previously-shown/>
   </programme>
   <channel id="oca1">
     <display-name>OCA1</display-name>
