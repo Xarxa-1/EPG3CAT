@@ -62,43 +62,44 @@
   <channel id="esport3">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20260904004718 +0200" stop="20260904021718 +0200" channel="esport3">
-    <title lang="ca">Onze</title>
-    <sub-title lang="ca">Mou, llop amb pell de xai; Ferran Torres parla del Barça i 'El consultori'</sub-title>
-    <desc lang="ca">David Bernabeu, Víctor Lozano, Laia Tudel i Fernando Polo analitzen el canvi de to de Mourinho a les rodes de premsa i les declaracions de Ferran Torres. El Sergi Ferrer respon les preguntes dels espectadors inquiets de l'Onze.</desc>
-    <length units="seconds">5400</length>
-    <episode-num system="onscreen">1243</episode-num>
+  <programme start="20260904023513 +0200" stop="20260904042520 +0200" channel="esport3">
+    <title lang="ca">Bàsquet</title>
+    <sub-title lang="ca">Asisa Joventut-Kids&amp;Us Manresa / Torneig Sant Julià</sub-title>
+    <desc lang="ca">Partit inaugural del prestigiós torneig de pretemporada que es disputa a la població osonenca de Sant Julià de Vilatorta.</desc>
+    <length units="seconds">6607</length>
+    <episode-num system="onscreen">8110</episode-num>
     <category lang="ca">ESPORTS</category>
-    <category lang="ca">MAGAZINE</category>
+    <category lang="ca">RETRANSMISSIONS ESPORTS</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <subtitles type="teletext"/>
     <previously-shown/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/1/1/1688543515711.jpg"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/8/0/1698775546608.jpg"/>
   </programme>
-  <programme start="20260904021718 +0200" stop="20260904023511 +0200" channel="esport3">
-    <title lang="ca">3CatInfo Esports</title>
-    <desc lang="ca">Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.</desc>
-    <length units="seconds">1073</length>
-    <episode-num system="onscreen">5498</episode-num>
+  <programme start="20260904042520 +0200" stop="20260904055308 +0200" channel="esport3">
+    <title lang="ca">Tot Costa</title>
+    <sub-title lang="ca">Xavi Espart, titular?</sub-title>
+    <desc lang="ca">Analitzem el rol que pot tenir Xavi Espart en l'equip de Flick amb Santi Giménez, Mireia Vera i Jordi Grau. Amb Laia Tudel expliquem el perfil del jugador, Ramon Salmurri ens porta l'última hora de la junta del Barça i sentim Lautaro i Lewandowski. També truquem a Jean Marie Dongou. Passem per Madrid, amb David Sánchez, per analitzar les paraules de Mourinho en roda de premsa.</desc>
+    <length units="seconds">5268</length>
+    <episode-num system="onscreen">1001</episode-num>
     <category lang="ca">ESPORTS</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
+    <subtitles type="teletext"/>
     <previously-shown/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/9/7/1758888682179.jpg"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/0/4/1706209193140.jpg"/>
   </programme>
   <channel id="sx3">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20260904012411 +0200" stop="20260904013541 +0200" channel="sx3">
-    <title lang="ca">Les Sisters</title>
-    <sub-title lang="ca">La neroïna dels teus somnis</sub-title>
-    <desc lang="ca">La Marine dona una foto seva a la Wendy, però en comptes de posar-la en un lloc ben visible, la seva germana la guarda en un calaix. Perquè la posi al lloc que es mereix, com la foto del Maxence o el pòster gegant dels Vandalize, la Marine farà l'impossible per convertir-se en l'heroïna somiada per la seva germana.</desc>
-    <length units="seconds">690</length>
-    <episode-num system="onscreen">120</episode-num>
+  <programme start="20260904025729 +0200" stop="20260904031933 +0200" channel="sx3">
+    <title lang="ca">Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
+    <sub-title lang="ca">Confrontació</sub-title>
+    <desc lang="ca">Falta molt poc perquè s'acabi el curs i els alumnes han de triar què volen fer a partir de l'any que ve abans del consell escolar, un pas decisiu que determinarà el seu futur. Les encarregades de defensar les aspiracions de tots els alumnes de la classe són les noves delegades, la Lila i la Chloé. La Marinette i l'Adrien estan preocupats: què faran aquestes dues manipuladores perilloses que tothom es pensa que són tan bones persones?</desc>
+    <length units="seconds">1324</length>
+    <episode-num system="onscreen">125</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
@@ -107,12 +108,12 @@
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20260904013541 +0200" stop="20260904014711 +0200" channel="sx3">
-    <title lang="ca">Les Sisters</title>
-    <sub-title lang="ca">Les Sisters perfectes</sub-title>
-    <desc lang="ca">La Wendy creu que l'Emma i la Gemma són les Sisters perfectes. Les dues bessones no es barallen mai, no pas com la Wendy i la Marine! La Marine s'enfada perquè la Wendy s'estima més la companyia de les bessones i es proposa demostrar que fins i tot les Sisters perfectes a vegades discuteixen. Quan intenta provocar tensions entre l'Emma i la Gemma, la Marine desperta un vell ressentiment que pren proporcions èpiques.</desc>
-    <length units="seconds">690</length>
-    <episode-num system="onscreen">133</episode-num>
+  <programme start="20260904031933 +0200" stop="20260904034144 +0200" channel="sx3">
+    <title lang="ca">Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
+    <sub-title lang="ca">Conspiració</sub-title>
+    <desc lang="ca">S'acosta final de curs i es prepara una revolta. Al Monarca no li queda temps ni té gaires alternatives: decideix implementar un pla que és perillós per la seva identitat secreta i extremament perillós per Ladybug i el Gat Noir, també. Sense saber-ho, el malvat es beneficiarà de l'ajuda de la Lila, que controla d'amagat la Chloé, més dolenta que mai. Pel que fa a la Marinette, no sap que l'Adrien no s'atreveix a explicar-li un terrible secret que podria fer perillar la seva relació.</desc>
+    <length units="seconds">1331</length>
+    <episode-num system="onscreen">126</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
@@ -124,28 +125,28 @@
   <channel id="c33">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20260904003754 +0200" stop="20260904013000 +0200" channel="c33">
-    <title lang="ca">A tocar de l'aigua</title>
-    <sub-title lang="ca">El Segre I; la Llosa i la Valira</sub-title>
-    <desc lang="ca">En aquest episodi, coneixerem el curs del riu Segre des que neix a l'Alta Cerdanya i, tot resseguint-ne la conca alta, passarem per Andorra i baixarem a l'Alt Urgell. A peu, amb canoa, amb bicicleta o amb tren, ens anirem trobant amb el riu i els seus afluents i gaudirem de la natura, els paisatges i el patrimoni fluvial i cultural de les Terres de Lleida. La ruta d'aquesta etapa ens portarà fins a Coll de Nargó.</desc>
-    <length units="seconds">3126</length>
+  <programme start="20260904024749 +0200" stop="20260904032615 +0200" channel="c33">
+    <title lang="ca">La Mar de Bé</title>
+    <sub-title lang="ca">Nova Gacela</sub-title>
+    <desc lang="ca">Són les set del matí i les embarcacions naveguen mar endins fins arribar al calador de Sant Sebastià, un dels més emblemàtics de la costa catalana, per capturar l'espècie de referència de Palamós: la gamba. Per en Quim serà un autèntic dia de pesca, amb vent, soroll i mala mar, al costat d'en Conrad Massaguer, patró i armador de la Nova Gacela. El xef viurà tot el procés de la pesca de la gamba: des de la captura fins a la venda a la llotja. També visitarà el Museu de la Pesca de Palamós i ens ensenyarà a cuinar una recepta molt coneguda de l'històric cuiner Santi Santamaria: ravioli de gamba amb tàrtar de ceps i el seu pil-pil. </desc>
+    <length units="seconds">2306</length>
     <episode-num system="onscreen">4</episode-num>
-    <category lang="ca">DIVULGACIÓ</category>
-    <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
+    <category lang="ca">ENTRETENIMENT</category>
+    <category lang="ca">ALTRES</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20260904013000 +0200" stop="20260904015803 +0200" channel="c33">
-    <title lang="ca">Viure als Pirineus</title>
-    <sub-title lang="ca">Un pilot dels Pirineus (Primavera - Estiu)</sub-title>
-    <desc lang="ca">Zigzaguejar a 200 quilòmetres per hora entre els pics de la serralada dels Pirineus, esmunyir-se entre els núvols i la boira, portar càrregues de centenars de quilos fins a més de 2.000 metres d'altitud, fer viure l'economia de la muntanya... Heus aquí algunes de les activitats que porta a terme diàriament aquest home excepcional.Jean Brosset és tota una figura a la seva feina. Té 55 anys, és pilot professional d'helicòpter i treballa en una de les millors empreses de la regió de Pau.En Jean és el pilot a qui sempre es recorre quan cal fer alguna intervenció complicada. Les missions no s'assemblen mai les unes amb les altres, de vegades cal fer pujar algú a l'helicòpter hissant-lo o transportar des de passatgers fins a una rulot, o barrils de quitrà. En Jean no sap mai de quina mena acabaran sent les operacions que li encarreguen. A més, als Pirineus, la meteorologia i les estacions fan la seva feina tan apassionant com perillosa.</desc>
-    <length units="seconds">1683</length>
-    <episode-num system="onscreen">26</episode-num>
-    <category lang="ca">DIVULGACIÓ</category>
-    <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
+  <programme start="20260904032615 +0200" stop="20260904040519 +0200" channel="c33">
+    <title lang="ca">La Mar de Bé</title>
+    <sub-title lang="ca">Cala Galladera II</sub-title>
+    <desc lang="ca">La nansa és una tècnica de pesca artesanal, selectiva i molt sostenible, que s'utilitza per capturar pops i altres espècies similars. En aquest capítol, en Quim Casellas aprendrà aquesta tècnica a bord de la Cala Galladera II, amb en Guillermo Cornejo, el patró major del Port de la Selva. També parlarà amb la biòloga Marina Biel per conèixer de primera mà les gorgònies. I acabarà cuinant una recepta que tindrà el pop com ingredient principal: pop a la brasa amb cremós de patata, xips d'all i pebre dolç. </desc>
+    <length units="seconds">2344</length>
+    <episode-num system="onscreen">5</episode-num>
+    <category lang="ca">ENTRETENIMENT</category>
+    <category lang="ca">ALTRES</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
