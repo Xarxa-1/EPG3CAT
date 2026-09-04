@@ -3,11 +3,11 @@
   <channel id="tvi">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20260904070001 +0200" stop="20260904100000 +0200" channel="tvi">
+  <programme start="20260904120000 +0200" stop="20260904125845 +0200" channel="tvi">
     <title lang="ca">Notícies 3CatInfo</title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">10799</length>
-    <episode-num system="onscreen">11080</episode-num>
+    <length units="seconds">3525</length>
+    <episode-num system="onscreen">11082</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
@@ -15,26 +15,28 @@
     </rating>
     <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
-  <programme start="20260904100000 +0200" stop="20260904120000 +0200" channel="tvi">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">7200</length>
-    <episode-num system="onscreen">11081</episode-num>
-    <category lang="ca">ACTUALITAT</category>
-    <category lang="ca">INFORMATIU DIÀRI</category>
+  <programme start="20260904125845 +0200" stop="20260904131942 +0200" channel="tvi">
+    <title lang="ca">Cuines</title>
+    <sub-title lang="ca">Pasta amb mini mandonguilles</sub-title>
+    <desc lang="ca">El 'Cuines' torna amb el rebost ple de receptes. Una temporada més, el programa obre fogons i esmola ganivets per compartir amb tota l'audiència les propostes d'en Marc Ribas i la Gessamí Caramés... i aquest any, també, de l'Arnau París. La família del 'Cuines' s'ha amplicat i el seu ventall de receptes, també. A la cuina amb rock'n'roll d'en Marc, i a la cuina dolça de la Gessa… s'hi afegeix la cuina pim-pam de l'Arnau. Un pim-pam que vol donar idees per a quan es té poc temps però es vol menjar bé. Això sí, tots tres tenen en comú les ganes de cuinar, d'entretenir i d'explicar tots els seus secrets a l'hora de preparar les elaboracions. Al 'Cuines' hi trobarem de tot: receptes de xup-xup, receptes pim-pam, receptes atrevides, clàssics tradicionals, clàssics reversionats… i tot elaborat, com sempre, amb productes de temporada. Ens mourem pel territori per posar en valor la figura d'agricultors, ramaders i productors. I ensenyarem d'on venen alguns productes sense els quals la cuina no seria possible.  El programa seguirà compartint-ho tot a les xarxes socials: Twitter, Facebook i Instagram. I la música que hi sona? Doncs a Spotify. I cada dia s'amplia receptari a la pàgina web del 'Cuines'. Totes les receptes, a cop de clic.</desc>
+    <length units="seconds">1257</length>
+    <episode-num system="onscreen">2145</episode-num>
+    <category lang="ca">DIVULGACIÓ</category>
+    <category lang="ca">CUINA</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
+    <previously-shown/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/2/5/1653464509252.jpg"/>
   </programme>
   <channel id="324">
     <display-name>324</display-name>
   </channel>
-  <programme start="20260904070000 +0200" stop="20260904100000 +0200" channel="324">
+  <programme start="20260904120000 +0200" stop="20260904140000 +0200" channel="324">
     <title lang="ca">Notícies 3CatInfo</title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">10800</length>
-    <episode-num system="onscreen">11080</episode-num>
+    <length units="seconds">7200</length>
+    <episode-num system="onscreen">11082</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
@@ -43,60 +45,56 @@
     <subtitles type="teletext"/>
     <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
-  <programme start="20260904100000 +0200" stop="20260904120000 +0200" channel="324">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">7200</length>
-    <episode-num system="onscreen">11081</episode-num>
+  <programme start="20260904140000 +0200" stop="20260904143000 +0200" channel="324">
+    <title lang="ca">Telenotícies comarques</title>
+    <length units="seconds">1800</length>
+    <episode-num system="onscreen">7028</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <subtitles type="teletext"/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/5/2/1758026313525.jpg"/>
   </programme>
   <channel id="esport3">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20260904064025 +0200" stop="20260904081034 +0200" channel="esport3">
-    <title lang="ca">Onze</title>
-    <sub-title lang="ca">Mou, llop amb pell de xai; Ferran Torres parla del Barça i 'El consultori'</sub-title>
-    <desc lang="ca">David Bernabeu, Víctor Lozano, Laia Tudel i Fernando Polo analitzen el canvi de to de Mourinho a les rodes de premsa i les declaracions de Ferran Torres. El Sergi Ferrer respon les preguntes dels espectadors inquiets de l'Onze.</desc>
-    <length units="seconds">5409</length>
-    <episode-num system="onscreen">1243</episode-num>
-    <category lang="ca">ESPORTS</category>
-    <category lang="ca">MAGAZINE</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <subtitles type="teletext"/>
-    <previously-shown/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/1/1/1688543515711.jpg"/>
-  </programme>
-  <programme start="20260904081034 +0200" stop="20260904100005 +0200" channel="esport3">
-    <title lang="ca">Bàsquet</title>
-    <sub-title lang="ca">Asisa Joventut-Kids&amp;Us Manresa / Torneig Sant Julià</sub-title>
-    <desc lang="ca">Partit inaugural del prestigiós torneig de pretemporada que es disputa a la població osonenca de Sant Julià de Vilatorta.</desc>
-    <length units="seconds">6571</length>
-    <episode-num system="onscreen">8110</episode-num>
+  <programme start="20260904123010 +0200" stop="20260904132025 +0200" channel="esport3">
+    <title lang="ca">Futbol</title>
+    <sub-title lang="ca">Sorteig fase lliga</sub-title>
+    <desc lang="ca">El Barça, campió vigent i guanyador de quatre títols en les sis últimes temporades, coneix les rivals d'aquest nou curs a la gran competició europea femenina de futbol.</desc>
+    <length units="seconds">3015</length>
+    <episode-num system="onscreen">89</episode-num>
     <category lang="ca">ESPORTS</category>
     <category lang="ca">RETRANSMISSIONS ESPORTS</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <previously-shown/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/8/0/1698775546608.jpg"/>
+    <subtitles type="teletext"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/5/0/1702464930005.jpg"/>
+  </programme>
+  <programme start="20260904132025 +0200" stop="20260904142637 +0200" channel="esport3">
+    <title lang="ca">Esport Club</title>
+    <desc lang="ca">En Jordi Sanuy i Víctor Patsi us expliquen l'última hora esportiva i l'analitzen amb el seu equip de col·laboradors. El programa és molt actiu a les xarxes socials. L''Esport Club' té presència a Twitter, a Facebook i a Instagram. L'espai dirigeix moltes accions de participació amb l'audiència a través de les xarxes socials.</desc>
+    <length units="seconds">3972</length>
+    <episode-num system="onscreen">3233</episode-num>
+    <category lang="ca">ESPORTS</category>
+    <category lang="ca">INFORMATIU DIÀRI</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <subtitles type="teletext"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/7/3/1698145091337.jpg"/>
   </programme>
   <channel id="sx3">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20260904074519 +0200" stop="20260904075619 +0200" channel="sx3">
-    <title lang="ca">Els barrufets (3D)</title>
-    <sub-title lang="ca">El bromista escarmentat</sub-title>
-    <desc lang="ca">El Presumit està fart de les brometes pesades del Bromista i, amb l'ajuda de dos barrufets més, li prepara una gran capsa-bomba que inclou un ingredient secret que té amagat el Gran Barrufet. Quan la capsa explota, comencen a aparèixer pel poble tot de minibarrufets bromistes que acaben amargant a tothom amb les seves bretolades. El Gran Barrufet ordena al Presumit i al Bromista que posin remei a la situació.</desc>
-    <length units="seconds">660</length>
-    <episode-num system="onscreen">11</episode-num>
+  <programme start="20260904123219 +0200" stop="20260904125404 +0200" channel="sx3">
+    <title lang="ca">Els germans Kratt</title>
+    <sub-title lang="ca">Octopus Kratticus</sub-title>
+    <desc lang="ca">L'Aviva ha enviat en Chris i en Martin a recuperar el Vestit de Poders Animals que han perdut en una fossa de l'Àrtic amb el Robopop, un supersubmarí inspirat en el món animal. Allà es trobaran amb el Set, un animal que d'entrada sembla una espècie de pop nova, però que ben aviat s'adonaran que té molts cops amagats. Què deu ser?!</desc>
+    <length units="seconds">1305</length>
+    <episode-num system="onscreen">15</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
@@ -105,12 +103,12 @@
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20260904075619 +0200" stop="20260904080722 +0200" channel="sx3">
-    <title lang="ca">Els barrufets (3D)</title>
-    <sub-title lang="ca">Ningú no és barrufecte</sub-title>
-    <desc lang="ca">El Forçut i el Poruc estan fent neteja a casa del Gran Barrufet i, sense voler, li trenquen el telescopi. Com que tenen tanta por de la seva reacció, es disfressen de noia amb roba que la Barrufeta té a l'estenedor. Tots els barrufets s'empassen que són noies i fins i tot el Gran Barrufet convenç la Barrufeta perquè les aculli a casa seva per passar la nit.</desc>
-    <length units="seconds">663</length>
-    <episode-num system="onscreen">12</episode-num>
+  <programme start="20260904125404 +0200" stop="20260904131606 +0200" channel="sx3">
+    <title lang="ca">Els germans Kratt</title>
+    <sub-title lang="ca">Caminem per sobre l'aigua</sub-title>
+    <desc lang="ca">En Chris i en Martin són a Costa Rica intentant trobar un basilisc, un llangardaix capaç de caminar per sobre l'aigua, per incorporar aquest superpoder als seus vestits. De fet, els anirà molt bé per aturar la Donita Donata, que té intenció de guanyar el premi al millor dissenyador de barrets de París amb un barret de basilisc! Avui, les curses són a l'aigua!</desc>
+    <length units="seconds">1322</length>
+    <episode-num system="onscreen">16</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
@@ -122,28 +120,27 @@
   <channel id="c33">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20260904072008 +0200" stop="20260904075155 +0200" channel="c33">
-    <title lang="ca">Quèquicom</title>
-    <sub-title lang="ca">La forja del ganivet</sub-title>
-    <desc lang="ca">Com s'ha de mantenir i esmolar un ganivet? Què vol dir trempar el ferro? Anem de la bifaç de sílex als ganivets japonesos i les espases passant per la farga catalana, una innovació tècnica que va revolucionar la metal·lúrgia. Fina Brunet va a la Farga Rossell d'Andorra per saber què és la 'caixa dels vents', un dels secrets més ben guardats durant l'edat mitjana. Practica l'esgrima històric, forja un ganivet i visita un mercat per veure quina mena de ganivets pateixen més.L'evolució de les eines de tallDurant milions d'anys l'ésser humà va treballar les pedres per convertir-les en les eines de tall que necessitava, ja fos per menjar, caçar, defensar-se, o construir un lloc on habitar.L'evolució humana i les noves necessitats van portar cap a eines de tall més lleugeres i regulars i també a la recerca d'altres materials: bronze, coure, ferro i, finalment, l'acer, que es va convertir en un dels materials més desitjats, un recurs estratègic i de gran valor econòmic a l'antiguitat.</desc>
-    <length units="seconds">1907</length>
-    <episode-num system="onscreen">329</episode-num>
-    <category lang="ca">DIVULGACIÓ</category>
-    <category lang="ca">MAGAZINE ESPECIALITZAT</category>
+  <programme start="20260904123500 +0200" stop="20260904133457 +0200" channel="c33">
+    <title lang="ca">Atrapa'm si pots - Especials</title>
+    <sub-title lang="ca">Atrapa'm si pots - estiu</sub-title>
+    <length units="seconds">3597</length>
+    <episode-num system="onscreen">50</episode-num>
+    <category lang="ca">ENTRETENIMENT</category>
+    <category lang="ca">CONCURS</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20260904075155 +0200" stop="20260904084053 +0200" channel="c33">
-    <title lang="ca">El Foraster</title>
-    <sub-title lang="ca">La Vall d'en Bas</sub-title>
-    <desc lang="ca">La Vall d'en Bas és una vall formada per set poblets i molts camps de conreu, on res és el que sembla. Allà, en Quim s'hi passarà 48 hores intenses. Tan intenses que arriba a l'estiu i acaba marxant per Nadal. A la Vall d'en Bas, el paisatge és d'allò més espectacular. Miris cap on miris, tot és un quadre per emmarcar. I els seus habitants semblen sortits d'una novel·la. Coneixerem a la riallera Pilar, una de les participants del concurs de dalles, sempre en conflicte amb la seva eterna rival, l'Antxoni, una basca que sega tot el que troba al seu camí. I a una velocitat increïble. També coneixerem la Janina, que busca parella, però té un problema: no sap exactament el tipus d'home que busca. Vol que sigui pagès però que no ho sembli. Ho aconseguirà?I no només aprendrem el valor de l'amistat amb el David i el seu gos 'Miki', sinó que també aprendrem amb ells un nou llenguatge. Ja veureu com sí que és veritat que els gossos ens entenen i que, fins i tot, n'hi ha alguns que saben sumar i restar. En Llorenç, el pastor pintor, ens ensenyarà a fer photoshop sense ordinador, i el Migueli, el professor d'aerobic, en demostrarà que als 60 anys encara és capaç de transformar-se en la Paulina Rubio.I per acabar, veurem, en ple mes d'estiu, l'estel de Nadal més gran del món il·luminant una de les valls més formoses del nostre principat. Una vall que, com els seus habitants, no us deixarà indiferent.</desc>
-    <length units="seconds">2938</length>
-    <episode-num system="onscreen">68</episode-num>
+  <programme start="20260904133457 +0200" stop="20260904142740 +0200" channel="c33">
+    <title lang="ca">Experiència Catalana</title>
+    <sub-title lang="ca">Meruschka</sub-title>
+    <desc lang="ca">La Ivana Miño acompanya la jove sud-africana Meruschka Govender, més coneguda com a Mzansi Girl, a la neu. Visitem amb ella la Vall d'Aran en ple hivern i, a Barcelona, l'acompanyem a conèixer les nostres tradicions de Nadal.</desc>
+    <length units="seconds">3163</length>
+    <episode-num system="onscreen">10</episode-num>
     <category lang="ca">ENTRETENIMENT</category>
-    <category lang="ca">VARIETATS</category>
+    <category lang="ca">ALTRES</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
