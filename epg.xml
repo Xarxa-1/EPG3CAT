@@ -3,41 +3,36 @@
   <channel id="tvi">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20260904162439 +0200" stop="20260904170324 +0200" channel="tvi">
-    <title lang="ca">La Riera</title>
-    <desc lang="ca">Avui és el dia del casament i els auguris no són especialment bons, ara com ara. En Lluís, amb l'ajuda d'en Joan, demostra a en Raimon que també sap jugar fort. A casa de la Maribel, la procedència dels diners que van servir per ingressar en Quique crea problemes entre l'Ona i en Daniel. L'Anna vol parlar amb la Maribel. La Sònia aconsegueix que la noia accepti.</desc>
-    <length units="seconds">2325</length>
-    <episode-num system="onscreen">124</episode-num>
-    <category lang="ca">FICCIÓ</category>
-    <category lang="ca">TELENOVEL·LA</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <subtitles type="teletext"/>
-    <previously-shown/>
-  </programme>
-  <programme start="20260904170324 +0200" stop="20260904172645 +0200" channel="tvi">
-    <title lang="ca">Marcians</title>
-    <sub-title lang="ca">Quan la vida travessa el circ.</sub-title>
-    <desc lang="ca">Com la vida canvia o afecta les circumstàncies en què treballen els artistes de circ? Com afecta el pas dels anys als veterans Bet Miralta i Jordi Aspa (Escarlata), com la maternitat va condicionar les finlandeses Lotta &amp; Stina o com el compromís polític ha afectat el jove Alexandre Duran? Tots ells han estat protagonistes de la Fira Trapezi de Reus, que enguany ha bufat 30 espelmes. En el cas d'Alexandre Duran, anar a una manifestació en favor de Palestina li va costar una agressió policial amb el resultat d'un braç trencat i l'impediment d'estrenar el seu primer muntatge en solitari quan ho tenia previst. 'Ínsula', que parla de la solitud de l'ésser humà, s'ha estrenat al Trapezi de Reus i es podrà veure també al Festival Grec.Bet Miralta i Jordi Aspa, els Escarlata, també han viscut molts canvis en la seva vida que han afectat la forma en què fan circ. Amb el pas dels anys han deixat de banda la doma d'animals i les acrobàcies i han passat a fer creacions on interactuen més amb el públic i on destaca per damunt de tot la relació humana. El seu últim espectacle, 'Ròdols i cigrons', també ha passat pel Trapezi.Lotta Paavilainen i Stina Kopra són dues artistes de circ finlandeses que viuen a Catalunya des del 2012 i són l'única parella femenina del món especialitzada en rola-bola (l'equilibri damunt d'una fusta que es belluga sobre un rodet de goma). En el seu espectacle '20 Years Later. Still Here!' repassen dues dècades d'amistat i treball juntes i tota una sèrie de circumstàncies que les han fet més fortes. L'espectacle és una autoficció en què expliquen detalls tan personals com l'embaràs de la Lotta i com va afectar aquesta circumstància els equilibris que implica la seva especialitat de circ.</desc>
-    <length units="seconds">1401</length>
-    <episode-num system="onscreen">87</episode-num>
+  <programme start="20260904192326 +0200" stop="20260904195512 +0200" channel="tvi">
+    <title lang="ca">Moments APM?</title>
+    <desc lang="ca">Estàs de vacances i se't possa cara de pastanaga bullida només de pensar que hauràs d'aguantar dos mesos sense el teu programa preferit? Arriba 'APM?, el Multivers de l'estiu'. Durant juliol i agost TV3 emetrà un recull dels millors moments que s'han emès aquesta última temporada. Al loro! No et perdis els vídeos més divertits de la vint-i-unena temporada amb Nerea Sanfe, Joel Díaz, i tots els teus personatges preferits de l''APM?' #APM3CAT</desc>
+    <length units="seconds">1906</length>
     <category lang="ca">ENTRETENIMENT</category>
-    <category lang="ca">ALTRES</category>
+    <category lang="ca">TELEVISIÓ SOBRE TELEVISIÓ</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <subtitles type="teletext"/>
-    <previously-shown/>
+    <icon src="https://deliverty1.3cat.cat/deliverty/ccrtvi/resources/jpg/8/6/1784831816768.jpg"/>
+  </programme>
+  <programme start="20260904195512 +0200" stop="20260904210000 +0200" channel="tvi">
+    <title lang="ca">Atrapa'm si pots, estiu</title>
+    <desc lang="ca">'Atrapa'm si pots' és un 'quiz show' clàssic, de preguntes i respostes, presentat per Llucià Ferrer, en què sis concursants competeixen per arribar a la fase final i guanyar el pot. 'Atrapa'm si pots' és entreteniment pur i on gairebé és més important passar-s'ho bé que els diners. És un concurs en què pesa més la intuïció que no els coneixements acadèmics, més l'estratègia en el joc que no la sort.</desc>
+    <length units="seconds">3888</length>
+    <episode-num system="onscreen">987</episode-num>
+    <category lang="ca">ENTRETENIMENT</category>
+    <category lang="ca">CONCURS</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
   </programme>
   <channel id="324">
     <display-name>324</display-name>
   </channel>
-  <programme start="20260904163000 +0200" stop="20260904170000 +0200" channel="324">
+  <programme start="20260904183000 +0200" stop="20260904200000 +0200" channel="324">
     <title lang="ca">Notícies 3CatInfo</title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">1800</length>
-    <episode-num system="onscreen">11083</episode-num>
+    <length units="seconds">5400</length>
+    <episode-num system="onscreen">11085</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
@@ -46,11 +41,11 @@
     <subtitles type="teletext"/>
     <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
-  <programme start="20260904170000 +0200" stop="20260904183000 +0200" channel="324">
+  <programme start="20260904200000 +0200" stop="20260904210000 +0200" channel="324">
     <title lang="ca">Notícies 3CatInfo</title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">5400</length>
-    <episode-num system="onscreen">11084</episode-num>
+    <length units="seconds">3600</length>
+    <episode-num system="onscreen">11086</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
@@ -62,43 +57,42 @@
   <channel id="esport3">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20260904161642 +0200" stop="20260904170500 +0200" channel="esport3">
-    <title lang="ca">Vida</title>
-    <sub-title lang="ca">Els reptes de la vida</sub-title>
-    <desc lang="ca">Us presentem les coses més extraordinàries que han de fer plantes i animals per tal de sobreviure i reproduir-se. Veurem imatges increïbles, captades a 1.000 fotogrames per segon: caputxins que obren els fruits de la palmera amb 'martells' de pedra, hipopòtams catapultant-se a l'aire des de l'aigua i camaleons robant la presa d'una teranyina. Acompanyarem els esprints dels guepards quan aquests fan pinya per tombar estruços, veurem dofins formant cercles perfectes de llim per atrapar peixos i nedarem amb una foca que lluita per escapolir-se de l'atac d'unes orques entre el gel de l'Antàrtida.</desc>
-    <length units="seconds">2898</length>
-    <episode-num system="onscreen">1</episode-num>
-    <category lang="ca">DIVULGACIÓ</category>
-    <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
+  <programme start="20260904192819 +0200" stop="20260904202500 +0200" channel="esport3">
+    <title lang="ca">Tot Costa</title>
+    <sub-title lang="ca">Puyal, 50 </sub-title>
+    <desc lang="ca">El 5 de setembre es compleixen 50 anys de la primera transmissió radiofònica en català. Ho celebrarem amb Bernat Soler, Gemma Herrero i Oriol Domènech. Amb Ramon Salmurri explicarem com està De Jong i amb Laia Tudel tindrem l'última hora de l'Assemblea. Marta Corredera ens analitzarà el sorteig del Barça femení a la Champions i entrevistarem el segon capità del Barça de bàsquet, Joel Parra.</desc>
+    <length units="seconds">3401</length>
+    <episode-num system="onscreen">1002</episode-num>
+    <category lang="ca">ESPORTS</category>
+    <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
-    <previously-shown/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/0/4/1706209193140.jpg"/>
   </programme>
-  <programme start="20260904170500 +0200" stop="20260904173016 +0200" channel="esport3">
-    <title lang="ca">Catalunya salvatge</title>
-    <sub-title lang="ca">La selva humida</sub-title>
-    <desc lang="ca">'Catalunya salvatge' és una sèrie documental de 13 capítols que donarà a conèixer als espectadors els ecosistemes més representatius del nostre país. Des dels cims del Pirineu fins a les llacunes del delta de l'Ebre, 'Catalunya salvatge' farà un repàs de la flora i la fauna dels paratges més emblemàtics de Catalunya.Els seguidors de la sèrie tindran, doncs, una finestra privilegiada a la biodiversitat del Parc Nacional d'Aigüestortes, la muntanya de Montserrat, la zona volcànica de la Garrotxa, els aiguamolls de l'Empordà o el món submarí de les illes Medes.El primer ecosistema explorat en profunditat serà el d'alta muntanya, on la supervivència no és gens fàcil.(tardor 2010)</desc>
-    <length units="seconds">1516</length>
-    <episode-num system="onscreen">4</episode-num>
-    <category lang="ca">DIVULGACIÓ</category>
-    <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
+  <programme start="20260904202500 +0200" stop="20260904222705 +0200" channel="esport3">
+    <title lang="ca">Bàsquet</title>
+    <sub-title lang="ca">Ratiopharm Ulm-iLerna Lleida / Torneig Sant Julià</sub-title>
+    <desc lang="ca">Segona jornada del prestigiós torneig de pretemporada que es disputa a la població osonenca de Sant Julià de Vilatorta.</desc>
+    <length units="seconds">7325</length>
+    <episode-num system="onscreen">8111</episode-num>
+    <category lang="ca">ESPORTS</category>
+    <category lang="ca">RETRANSMISSIONS ESPORTS</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <subtitles type="teletext"/>
-    <previously-shown/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/8/0/1698775546608.jpg"/>
   </programme>
   <channel id="sx3">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20260904162239 +0200" stop="20260904164349 +0200" channel="sx3">
-    <title lang="ca">Espies de veritat</title>
-    <sub-title lang="ca">Un superviatge a Versalles (2a part)</sub-title>
-    <desc lang="ca">La investigació d'un robatori en una cambra secreta de París ha fet que les Espies descobrissin que algú havia robat una clau molt especial en una cambra cuirassada, una clau que podria activar unes estàtues vivents i permetre que el malvat Auguste s'apoderi de Versalles, per acabar, a la llarga, dominant fins a l'últim racó de tot el planeta!</desc>
-    <length units="seconds">1270</length>
-    <episode-num system="onscreen">156</episode-num>
+  <programme start="20260904193228 +0200" stop="20260904195505 +0200" channel="sx3">
+    <title lang="ca">La Patrulla Peluda</title>
+    <sub-title lang="ca">La Patrulla Voladora</sub-title>
+    <desc lang="ca">La Patrulla Peluda s'enlaira a bord d'un vehicle nou, el Patrullavió! I el podran estrenar de seguida per salvar en François i el capità Turbot, que han quedat atrapats en una illa amb uns micos després de l'erupció d'un volcà.</desc>
+    <length units="seconds">1357</length>
+    <episode-num system="onscreen">102</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
@@ -106,14 +100,13 @@
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/6/9/1781885918096.jpg"/>
   </programme>
-  <programme start="20260904164349 +0200" stop="20260904170429 +0200" channel="sx3">
+  <programme start="20260904195505 +0200" stop="20260904201752 +0200" channel="sx3">
     <title lang="ca">Espies de veritat</title>
-    <sub-title lang="ca">Uns nois de somni</sub-title>
-    <desc lang="ca">En Terence, després d'haver alliberat tot d'antics malfactors capturats per les nostres heroïnes, els ha reunit al seu cau secret per proposar-los que uneixin les seves males arts per acabar de totes totes amb la WOOHP. La Sam, la Clover i l'Alex, però, salten d'alegria. Totes tres han conegut el noi dels seus somnis i, per si fos poc, són trigèmins! Sospitós, oi…?</desc>
-    <length units="seconds">1240</length>
-    <episode-num system="onscreen">79</episode-num>
+    <sub-title lang="ca">El caçador de criatures cruels</sub-title>
+    <desc lang="ca">A Singapur s'ha posat de moda un videojoc sobre criatures monstruoses i la Zerlina adverteix les espies que la ciutat és plena de criatures cruels que ataquen la gent. Es tracta d'una casualitat o les criatures del videojoc han saltat al món real? La Sam, l'Alex i la Clover han de resoldre el misteri amb tot de material d'última tecnologia que els ha preparat el company Toby.</desc>
+    <length units="seconds">1367</length>
+    <episode-num system="onscreen">160</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
@@ -126,12 +119,12 @@
   <channel id="c33">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20260904160126 +0200" stop="20260904164648 +0200" channel="c33">
-    <title lang="ca">Arxipèlag blau</title>
-    <sub-title lang="ca">Costa rocosa</sub-title>
-    <desc lang="ca">En aquest capítol d''Arxipèlag blau' recorrerem les costes rocoses, des de la part emergida on crien corbs marins i virots, fins als fons coral·lígens. Miquel Salamanca ens presentarà aquest món acolorit i divers. Als primers metres hi trobem les criatures adaptades al moviment continu de l'aigua a la vorera, com els peixos de la família dels blènnids, pegellides, crancs, anemones i gambetes. Als fons de roca les espècies i comunitats van canviant a mesura que ens endisem i varia la llum i la temperatura. Coneixerem com es reprodueixen peixos com els tords, els fadrins, les tutes o els anfosos. Unes imatges úniques ens mostraran les diverses estratègies que tenen els depredadors, com els déntols, anfosos, sirvioles, palomides, espets, tonyines, virots..., per capturar els bancs de peixos petits com els gerrets, les bogues o les sardines. Per finalitzar, ens endinsarem a les aigües de la reserva marina i parc natural de Llevant amb Gàdor Muntaner, guiada pel fotògraf i documentalista Agustí Torres, gran coneixedor d'aquest espai i membre de l'equip d''Arxipèlag blau'.</desc>
-    <length units="seconds">2722</length>
-    <episode-num system="onscreen">5</episode-num>
+  <programme start="20260904190932 +0200" stop="20260904200835 +0200" channel="c33">
+    <title lang="ca">Els caps de setmana llargs d'en Rick Stein</title>
+    <sub-title lang="ca">Viena</sub-title>
+    <desc lang="ca">En aquest episodi, en Rick Stein visita Viena, l'epicentre de l'Imperi austrohongarès i la ciutat que dóna nom a un dels plats més populars d'Europa, el 'wiener schnitzel'. En Rick també tastarà plats reconfortants com el 'tafelspitz' o el 'gulasch', s'endinsarà en la cultura dels cafès vienesos i es deixarà temptar per delícies dolces com el pastís 'sacher'. No es perdrà la pintura de Klimt ni tampoc la música en directe de Strauss. I, a Padstow, ens farà una amanida d'areng i patata, un 'strudel' de poma i un 'gulasch' deliciós.</desc>
+    <length units="seconds">3543</length>
+    <episode-num system="onscreen">4</episode-num>
     <category lang="ca">DIVULGACIÓ</category>
     <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
     <rating>
@@ -140,12 +133,12 @@
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20260904164648 +0200" stop="20260904172114 +0200" channel="c33">
-    <title lang="ca">Arxipèlag blau</title>
-    <sub-title lang="ca">Passat, present i futur</sub-title>
-    <desc lang="ca">El darrer capítol d''Arxipèlag blau' està dedicat als canvis que ha patit la nostra mar i a plantejar propostes per aturar la seva degradació, conservar les seves espècies i hàbitats. Miquel Salamanca ens presentarà el testimoni de pescadors que varen conèixer espècies avui desaparegudes, científics i experts que han estudiat els impactes al medi marí i plantegen propostes de recuperació. Enric Ballesteros, Xisco Riera, Lluís Cardona, Xisco Avellà, Miguel Ángel Mateo i Marta Sales ens parlaran de la desaparició dels taurons a les nostres aigües, dels impactes de l'activitat pesquera, la desaparició dels hàbitats d'aigües somes, l'extinció del vell marí, la introducció d'espècies invasores, l'alteració dels ecosistemes i l'amenaça global que suposa el canvi climàtic. Tot això amb una crida a l'esperança i la responsabilitat per aplicar mesures de conservació a la mar, les seves espècies i hàbitats i poder deixar així a les següents generacions el meravellós món marí del qual nosaltres hem pogut gaudir. La seva salut depèn de nosaltres i del que fem a partir d'ara.</desc>
-    <length units="seconds">2066</length>
-    <episode-num system="onscreen">6</episode-num>
+  <programme start="20260904200835 +0200" stop="20260904205918 +0200" channel="c33">
+    <title lang="ca">El gran camí</title>
+    <sub-title lang="ca">El Camí del Kumano</sub-title>
+    <desc lang="ca">Viatgem est enllà per descobrir el Kumano Kodo, una antiga ruta de pelegrinatge que travessa les muntanyes sagrades i els temples de Kumano, a la península de Kii, i que ens porta pel Japó antic i rural mitjançant un camí espiritual de purificació.</desc>
+    <length units="seconds">3043</length>
+    <episode-num system="onscreen">3</episode-num>
     <category lang="ca">DIVULGACIÓ</category>
     <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
     <rating>
@@ -163,6 +156,18 @@
   <channel id="oca3">
     <display-name>OCA3</display-name>
   </channel>
+  <programme start="20260904190000 +0200" stop="20260904202955 +0200" channel="oca3">
+    <title lang="ca">Tot Costa</title>
+    <desc lang="ca">El 5 de setembre es compleixen 50 anys de la primera transmissió radiofònica en català. Ho celebrarem amb Bernat Soler, Gemma Herrero i Oriol Domènech. Amb Ramon Salmurri explicarem com està De Jong i amb Laia Tudel tindrem l'última hora de l'Assemblea. Marta Corredera ens analitzarà el sorteig del Barça femení a la Champions i entrevistarem el segon capità del Barça de bàsquet, Joel Parra.</desc>
+    <length units="seconds">5395</length>
+    <episode-num system="onscreen">1002</episode-num>
+    <category lang="ca">ESPORTS</category>
+    <category lang="ca">INFORMATIU DIÀRI</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <icon src="https://img.ccma.cat/multimedia/jpg/0/4/1706209193140.jpg"/>
+  </programme>
   <channel id="oca4">
     <display-name>OCA4</display-name>
   </channel>
