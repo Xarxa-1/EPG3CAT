@@ -3,27 +3,66 @@
   <channel id="tvi">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20260905210000 +0200" stop="20260905220339 +0200" channel="tvi">
-    <title lang="ca">Telenotícies vespre</title>
-    <length units="seconds">3819</length>
-    <episode-num system="onscreen">7318</episode-num>
-    <category lang="ca">ACTUALITAT</category>
-    <category lang="ca">INFORMATIU DIÀRI</category>
+  <programme start="20260905222237 +0200" stop="20260905234853 +0200" channel="tvi">
+    <title lang="ca">Pel·lícula</title>
+    <sub-title lang="ca">Cosmètica de l'enemic</sub-title>
+    <desc lang="ca">COSMÈTICA DE L'ENEMICProductores: Sábado Películas, Barry Films i The Project, 2020Director: Kike MaílloGuió: Cristina Clemente, Kike Maíllo i Fernando NavarroDirector de fotografia: Rita NoriegaCompositor musical: Alex BaranowskiIntèrprets: Tomasz Kot (Jeremiasz Angust), Athena Strates (Texel Textor), Marta Nieto (Isabelle) i Dominique Pinon (Jean Rosen)L'arquitecte d'èxit Jeremiasz Angust perd el vol a causa d'una jove que l'ha abordat i no para d'importunar-lo. A partir d'aquí, tots dos comencen una conversa que, tot i que sembla fortuïta, aviat es converteix en alguna cosa més sinistra i criminal.</desc>
+    <credits>
+      <writer>Cristina Clemente</writer>
+      <writer>Kike Maíllo</writer>
+      <writer>Fernando NavarroDirector de fotografia: Rita NoriegaCompositor musical: Alex BaranowskiIntèrprets: Tomasz Kot (Jeremiasz Angust)</writer>
+      <writer>Athena Strates (Texel Textor)</writer>
+      <writer>Marta Nieto (Isabelle)</writer>
+      <writer>Dominique</writer>
+      <actor>Tomasz Kot (Jeremiasz Angust)</actor>
+      <actor>Athena Strates (Texel Textor)</actor>
+      <actor>Marta Nieto (Isabelle)</actor>
+      <actor>Dominique Pinon (Jean Rosen)L'arquitecte d'èxit Jeremiasz Angust perd el vol a causa d'una jove que l'ha abordat</actor>
+      <actor>no para d'importunar-lo. A partir d'aquí</actor>
+      <actor>tots dos comencen una conversa que</actor>
+      <actor>tot</actor>
+      <actor>que sembla fortuïta</actor>
+      <actor>aviat es converteix en alguna cosa més sinistra</actor>
+      <actor>criminal.</actor>
+    </credits>
+    <length units="seconds">5176</length>
+    <episode-num system="onscreen">1</episode-num>
+    <category lang="ca">FICCIÓ</category>
+    <category lang="ca">PEL·LÍCULA / TELEFILM</category>
     <rating>
-      <value>TOTS ELS PÚBLICS</value>
+      <value>PÚBLIC ADULT</value>
     </rating>
-    <icon src="https://img.ccma.cat/multimedia/jpg/7/2/1758026176427.jpg"/>
+    <subtitles type="teletext"/>
+    <previously-shown/>
   </programme>
-  <programme start="20260905220048 +0200" stop="20260905222558 +0200" channel="tvi">
-    <title lang="ca">Emocionari Il·lustrat</title>
-    <sub-title lang="ca">La por</sub-title>
-    <desc lang="ca">Al capítol 'La por' de l''Emocionari Il·lustrat', l'artista Lily Brick entrevistarà dos dels autors de literatura infantil més exitosos del moment: l'autora Meritxell Martí i l'il·lustrador Xavier Salomó. Descobrirem tots els secrets que amaguen llibres com 'Una casa de por' o 'La casa de l'avi'. A més, la il·lustradora dels crèdits de la sèrie 'Solo asesinatos en el edificio', Laura Pérez Granel, ens il·lustrarà la por amb un dels seus personatges enigmàtics. Per acabar, els germans Grangel, que han triomfat a Hollywood amb la creació de personatges icònics com els de 'La núvia cadàver' o 'Hotel Transsilvània', ensenyaran a la Lily com fer un monstre per a una pel·lícula d'animació, sense pintura ni colors: només amb cafè.</desc>
-    <length units="seconds">1510</length>
-    <episode-num system="onscreen">3</episode-num>
-    <category lang="ca">ENTRETENIMENT</category>
-    <category lang="ca">ALTRES</category>
+  <programme start="20260905234853 +0200" stop="20260906013238 +0200" channel="tvi">
+    <title lang="ca">Pel·lícula</title>
+    <sub-title lang="ca">Coses a fer abans de morir</sub-title>
+    <desc lang="ca">COSES A FER ABANS DE MORIRProductores: The Fly Hunter, S.L. i Fosca Films, S.L., 2020Direcció: Cristina Fernández Pintado i Miguel LlorensGuió: Cristina Fernández PintadoFotografia: Miguel LlorensMúsica: Josep Zapater i Noelia PérezIntèrprets: Sergio Caballero (Sam), Cristina Fernández (Isabel), Oriol Tarrasón (Robert), Manuel Maestro (Saul), Mireia Pérez (Sabrina), Àngel Fígols (Marcos) i Vanessa Cano (Nadia)Sinopsi:La mort de Sam reuneix els seus amics per complir una promesa durant un cap de setmana on sorgiran sentiments, passions i secrets, i descobriran que res és el que sembla.Sinopsi:La mort de Sam reuneix els seus amics per complir una promesa durant un cap de setmana on sorgiran sentiments, passions i secrets, i descobriran que res és el que sembla.</desc>
+    <credits>
+      <director>Cristina Fernández Pintado</director>
+      <director>Miguel Llorens</director>
+      <writer>Cristina Fernández</writer>
+      <actor>Sergio Caballero (Sam)</actor>
+      <actor>Cristina Fernández (Isabel)</actor>
+      <actor>Oriol Tarrasón (Robert)</actor>
+      <actor>Manuel Maestro (Saul)</actor>
+      <actor>Mireia Pérez (Sabrina)</actor>
+      <actor>Àngel Fígols (Marcos)</actor>
+      <actor>Vanessa Cano (Nadia)Sinopsi:La mort de Sam reuneix els seus amics per complir una promesa durant un cap de setmana on sorgiran sentiments</actor>
+      <actor>passions</actor>
+      <actor>secrets</actor>
+      <actor>descobriran que res és el que sembla.Sinopsi:La mort de Sam reuneix els seus amics per complir una promesa durant un cap de setmana on sorgiran sentiments</actor>
+      <actor>passions</actor>
+      <actor>secrets</actor>
+      <actor>descobriran que res és el que sembla.</actor>
+    </credits>
+    <length units="seconds">6225</length>
+    <episode-num system="onscreen">1</episode-num>
+    <category lang="ca">FICCIÓ</category>
+    <category lang="ca">PEL·LÍCULA / TELEFILM</category>
     <rating>
-      <value>TOTS ELS PÚBLICS</value>
+      <value>PÚBLIC ADULT</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
@@ -31,17 +70,6 @@
   <channel id="324">
     <display-name>324</display-name>
   </channel>
-  <programme start="20260905210000 +0200" stop="20260905230000 +0200" channel="324">
-    <title lang="ca">Telenotícies vespre</title>
-    <length units="seconds">7200</length>
-    <episode-num system="onscreen">7318</episode-num>
-    <category lang="ca">ACTUALITAT</category>
-    <category lang="ca">INFORMATIU DIÀRI</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <icon src="https://img.ccma.cat/multimedia/jpg/7/2/1758026176427.jpg"/>
-  </programme>
   <programme start="20260905230000 +0200" stop="20260906003000 +0200" channel="324">
     <title lang="ca">Notícies 3CatInfo</title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
@@ -52,48 +80,58 @@
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <subtitles type="teletext"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
+  </programme>
+  <programme start="20260906003000 +0200" stop="20260906010000 +0200" channel="324">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="seconds">1800</length>
+    <episode-num system="onscreen">11096</episode-num>
+    <category lang="ca">ACTUALITAT</category>
+    <category lang="ca">INFORMATIU DIÀRI</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
     <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
   <channel id="esport3">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20260905211739 +0200" stop="20260905212549 +0200" channel="esport3">
-    <title lang="ca">Esport Club Cap de Setmana</title>
-    <sub-title lang="ca">Esport Club</sub-title>
-    <desc lang="ca">Magazín amb tota l'actualitat esportiva del cap de setmana, amb atenció especial a la jornada de futbol i les principals competicions del nostre esport.</desc>
-    <length units="seconds">490</length>
-    <episode-num system="onscreen">1380</episode-num>
+  <programme start="20260905225954 +0200" stop="20260906000123 +0200" channel="esport3">
+    <title lang="ca">Gol a gol</title>
+    <sub-title lang="ca">Anàlisi de la jornada / J4 / Dissabte</sub-title>
+    <desc lang="ca">'Gol a gol' us ofereix els resums dels partits de futbol de Primera i Segona Divisió. Presentat per Jordi Grau a Esport3, cada dissabte i cada diumenge podeu veure les millors imatges de la jornada de Lliga amb l'anàlisi dels experts, amb especial atenció als equips catalans, sobretot el Barça, el Girona i l'Espanyol.</desc>
+    <length units="seconds">3689</length>
+    <episode-num system="onscreen">1771</episode-num>
+    <category lang="ca">ESPORTS</category>
+    <category lang="ca">MAGAZINE</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <subtitles type="teletext"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/2/1/1698144123212.jpg"/>
+  </programme>
+  <programme start="20260906000123 +0200" stop="20260906001710 +0200" channel="esport3">
+    <title lang="ca">3CatInfo Esports</title>
+    <desc lang="ca">Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.</desc>
+    <length units="seconds">947</length>
+    <episode-num system="onscreen">5500</episode-num>
     <category lang="ca">ESPORTS</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <icon src="https://img.ccma.cat/multimedia/jpg/7/3/1698145091337.jpg"/>
-  </programme>
-  <programme start="20260905212549 +0200" stop="20260905221844 +0200" channel="esport3">
-    <title lang="ca">Handbol</title>
-    <sub-title lang="ca">Supercopa Ibèrica / Final</sub-title>
-    <desc lang="ca">Des de Vigo, final de la competició d'handbol que enfronta els millors equips de la Península. Amb la narració de Vicenç Prados i l'anàlisi de Víctor Tomàs. </desc>
-    <length units="seconds">3175</length>
-    <episode-num system="onscreen">2</episode-num>
-    <category lang="ca">ESPORTS</category>
-    <category lang="ca">RETRANSMISSIONS ESPORTS</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <previously-shown/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/9/1/1788346445719.jpg"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/9/7/1758888682179.jpg"/>
   </programme>
   <channel id="sx3">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20260905212054 +0200" stop="20260905214104 +0200" channel="sx3">
-    <title lang="ca">Els germans Kratt</title>
-    <sub-title lang="ca">Hèrcules, l'escarabat gegant</sub-title>
-    <desc lang="ca">L'equip dels germans Kratt és a la selva pluvial de l'Amèrica Central per estudiar les característiques de l'escarabat hèrcules, l'escarabat més gros i més fort que hi ha. A causa d'un accident amb el miniaturitzador, un escarabat d'aquests es fa més gros i es transforma en un escarabat gegant que amenaça de destruir la selva i una ciutat que hi ha a prop. L'equip dels germans Kratt haurà de trobar la manera d'evitar-ho i de fer-lo tornar a la mida normal. </desc>
-    <length units="seconds">1210</length>
-    <episode-num system="onscreen">138</episode-num>
+  <programme start="20260905233006 +0200" stop="20260905234044 +0200" channel="sx3">
+    <title lang="ca">La tropa del corral</title>
+    <sub-title lang="ca">Una esquilada de por</sub-title>
+    <desc lang="ca">La Crystal necessita l'ajuda de la Tropa perquè el granger la vol esquilar. Mentre un grup l'intenta entretenir, l'altre acompanya la Crystal a la seva sessió de teràpia amb l'Albert, que intenta superar la seva tendència a acumular coses.</desc>
+    <length units="seconds">638</length>
+    <episode-num system="onscreen">42</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
@@ -102,12 +140,12 @@
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20260905214104 +0200" stop="20260905220359 +0200" channel="sx3">
-    <title lang="ca">Els germans Kratt</title>
-    <sub-title lang="ca">Liturgusa Krattorium</sub-title>
-    <desc lang="ca">L'equip viatja a la selva del Perú per conèixer investigar una nova espècie de pregadéu que els científics han batejat amb el nom dels germans Kratt per homenatjar la tasca que fan per ajudar els animals. Els tres malvats de la sèrie (el Zach, la Donita i el Gormand) s'empipen i es moren d'enveja, i en aquesta ocasió, excepcionalment, s'aliaran per intentar, una vegada més, fer la guitza als nostres amics.</desc>
-    <length units="seconds">1375</length>
-    <episode-num system="onscreen">93</episode-num>
+  <programme start="20260905234044 +0200" stop="20260905235133 +0200" channel="sx3">
+    <title lang="ca">La gateta Arc iris papallona unicorn</title>
+    <sub-title lang="ca">La poderosa Meu i el Superlluita</sub-title>
+    <desc lang="ca">La Felicity i el Miguel es disfressen de superherois per combatre el crim a Mitelàndia. S'ho passen tan bé que decideixen renunciar a la seva identitat real. Però l'Athena i la Yana estan molt amoïnades perquè no tenen notícies d'ells.</desc>
+    <length units="seconds">649</length>
+    <episode-num system="onscreen">10</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
@@ -119,26 +157,26 @@
   <channel id="c33">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20260905211330 +0200" stop="20260905220330 +0200" channel="c33">
-    <title lang="ca">Gent de món</title>
-    <sub-title lang="ca">Mediterrani Occidental (1a part)</sub-title>
-    <desc lang="ca">Heu vist mai el mar als peus de la muntanya de Montserrat?Heu gaudit de les vistes que contemplava el comte de Montecristo des de la seva cel·la?Avui farem un creuer per la Mediterrània occidental des de Barcelona fins a Nàpols a bord del vaixell més gran del món. Una travessa pels mars més propers farcida de ports mil·lenaris, de capitals d'imperis caiguts, de carrers desendreçats, de verges daurades i torres inclinades; de catedrals de marbre i antics deus fets de pedra. Un viatge pels orígens i la historia dels nostres veïns a traves del mar que sempre ens ha unit. </desc>
-    <length units="seconds">3000</length>
-    <episode-num system="onscreen">18</episode-num>
-    <category lang="ca">ENTRETENIMENT</category>
-    <category lang="ca">ALTRES</category>
+  <programme start="20260905230156 +0200" stop="20260906000049 +0200" channel="c33">
+    <title lang="ca">Els caps de setmana llargs d'en Rick Stein</title>
+    <sub-title lang="ca">Lisboa</sub-title>
+    <desc lang="ca">En Rick Stein visita Lisboa, a la riba del Tajo, una ciutat ideal per tastar un marisc extraordinari o el famós 'pastéis de Belém', qui sap si el millor pastisset de crema del món. S'endinsarà en el llegat històric lisboeta, les seves festes populars o el modern Mercado da Ribeira, i vibrarà amb la malenconia del 'fado'. Finalment, ens farà un plat de mar i muntanya -porc i cloïsses 'à alentejana'-; també un pastís deliciós d'ametlla amb caramel de sucre i mantega, i bunyols de bacallà amb coriandre.</desc>
+    <length units="seconds">3533</length>
+    <episode-num system="onscreen">6</episode-num>
+    <category lang="ca">DIVULGACIÓ</category>
+    <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20260905220330 +0200" stop="20260905230154 +0200" channel="c33">
-    <title lang="ca">Els caps de setmana llargs d'en Rick Stein</title>
-    <sub-title lang="ca">Bolonya</sub-title>
-    <desc lang="ca">A Bolonya, en Rick descobreix que els espaguetis a la bolonyesa, que per ell eren el plat bolonyès per excel·lència, allà són considerats gairebé una heretgia. Però aprendrà quina és la versió dels espaguetis que sí que mengen a Bolonya. Allà tastarà, entre altres plats, uns ravionlini deliciosos farcits de ceba dolça, calamarsos farcits, un parmesà madurat tretze anys, conill farcit de truita i pernil de Parma o la famosa mortadel·la. Per als bolonyesos, menjar bé és molt important.</desc>
-    <length units="seconds">3504</length>
-    <episode-num system="onscreen">5</episode-num>
+  <programme start="20260906000049 +0200" stop="20260906005127 +0200" channel="c33">
+    <title lang="ca">Els quaderns de cuina de la Julie</title>
+    <sub-title lang="ca">La ribera del Marne</sub-title>
+    <desc lang="ca">La Brigitte fa un guisat de conill amb raïm negre segons una recepta molt antiga i típica de la ribera del Marne. En Philippe pertany a una confraria de vinyataires que han fet reviscolar un vinet blanc molt emblemàtic de Nogent-sur-Marne. En Fabrice, descendent d'italians, fa un pa de pessic italià emborratxat amb licor d'ametlles. La Michelle i la Christine fan un guisat de bou amb anxoves i pastanaga i en Tayeb, director d'una formatgeria, ens canta les excel·lències del brie.</desc>
+    <length units="seconds">3038</length>
+    <episode-num system="onscreen">77</episode-num>
     <category lang="ca">DIVULGACIÓ</category>
     <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
     <rating>
