@@ -3,92 +3,69 @@
   <channel id="tvi">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20260904233804 +0200" stop="20260905010556 +0200" channel="tvi">
-    <title lang="ca">Pel·lícula</title>
-    <sub-title lang="ca">Sica</sub-title>
-    <desc lang="ca">SICAProducció d'Alba Sotorra, Miramemira, Zuzú Cinema, Amorambre Films i Filmmarket Fund, amb el suport de l'ICEC, AGADIC, l'ICAA i la participació de TVE, CRTVG, TV3 i Creative Europe MEDIA Program. Direcció i guió Carla SubiranaDirecció de fotografia Mauro HerceDirecció de fotografia (2a unitat) Anna MolinsCompositor Xavi FontIntèrprets: Thais García Blanco (Sica), Núria Prims (Carmen), Marco Antonio Florido Añón (Suso), María Villaverde Ameijeiras (Leda), Lois Soaxe (El Portugues)Sinopsi:La Sica (14) està obsessionada que el mar torni el cos del seu pare després d'un naufragi a la Costa da Morte, Galícia. Mentre recorre els penya-segats, coneix a en Suso (15), el Caçatempestes, un noi estrany com ella que espera l'arribada d'Ofèlia, la mare de totes les tempestes. Sica investiga les circumstàncies de l'accident i s'endinsa en un viatge descobriment dolorós. Als seus ulls, el poble mariner, on ella ha crescut, marcat per la brutalitat del seu oceà i el creixent desequilibri de la Natura, no tornarà a ser mai el mateix.</desc>
-    <credits>
-      <actor>Thais García Blanco (Sica)</actor>
-      <actor>Núria Prims (Carmen)</actor>
-      <actor>Marco Antonio Florido Añón (Suso)</actor>
-      <actor>María Villaverde Ameijeiras (Leda)</actor>
-      <actor>Lois Soaxe (El Portugues)Sinopsi:La Sica (14) està obsessionada que el mar torni el cos del seu pare després d'un naufragi a la Costa da Morte</actor>
-      <actor>Galícia. Mentre recorre els penya-segats</actor>
-      <actor>coneix a en Suso (15)</actor>
-      <actor>el Caçatempestes</actor>
-      <actor>un noi estrany com ella que espera l'arribada d'Ofèlia</actor>
-      <actor>la mare de totes les tempestes. Sica investiga les circumstàncies de l'accident</actor>
-      <actor>s'endinsa en un viatge descobriment dolorós. Als seus ulls</actor>
-      <actor>el poble mariner</actor>
-      <actor>on ella ha crescut</actor>
-      <actor>marcat per la brutalitat del seu oceà</actor>
-      <actor>el creixent desequilibri de la Natura</actor>
-      <actor>no tornarà a ser mai el mateix.</actor>
-    </credits>
-    <length units="seconds">5272</length>
-    <episode-num system="onscreen">1</episode-num>
-    <category lang="ca">FICCIÓ</category>
-    <category lang="ca">PEL·LÍCULA / TELEFILM</category>
-    <rating>
-      <value>PÚBLIC ADULT</value>
-    </rating>
-    <subtitles type="teletext"/>
-    <previously-shown/>
-  </programme>
-  <programme start="20260905010556 +0200" stop="20260905015708 +0200" channel="tvi">
-    <title lang="ca">Documental</title>
-    <sub-title lang="ca">Cinema mon amour</sub-title>
-    <desc lang="ca">'Cinema mon amour' (2018), una producció de MARTIN PIÑOL amb la col·laboració de Televisió de Catalunya.Colpida pel tancament d'un cinema, una jove directora decideix investigar si les sales de Barcelona tenen els dies comptats. Durant els set anys de gravació del documental, entrarà en el món tancat de l'exhibició catalana, assistirà a la transformació d'aquest art i negoci i viurà experiències irrepetibles a les entranyes de molts cinemesEl documental Cinema Mon Amour és una crònica viscuda en primera persona sobre la pèrdua dels cinemes de Barcelona i del 35mm com a suport d'exhibició i també de la resistència i renaixement d'unes quantes sales supervivents.Direcció: Natàlia RegàsGuió: Natàlia Regàs i Eloi TomàsRealització: Natàlia RegàsProductor: Martín PiñolProductor executiu TVC: Jordi AmbròsProductor delegat TVC: Jordi Mas, Daniel BareaDirector fotografia: Natàlia RegàsMuntatge: Roser Segura, Eloi Tomàs (Ammac)Director de producció: Natàlia Regàs i Martín PiñolMúsica: Aritz VillodasLingüista: Judit Terrats CortiellaGrafisme: Francesc Fernàndez</desc>
-    <credits>
-      <director>Natàlia Regàs</director>
-      <writer>Natàlia Regàs</writer>
-      <writer>Eloi TomàsRealització: Natàlia Regàs</writer>
-    </credits>
-    <length units="seconds">3072</length>
-    <episode-num system="onscreen">1</episode-num>
-    <category lang="ca">DIVULGACIÓ</category>
-    <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <subtitles type="teletext"/>
-    <previously-shown/>
-  </programme>
-  <channel id="324">
-    <display-name>324</display-name>
-  </channel>
-  <programme start="20260904230000 +0200" stop="20260905003000 +0200" channel="324">
+  <programme start="20260905015324 +0200" stop="20260905043002 +0200" channel="tvi">
     <title lang="ca">Notícies 3CatInfo</title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">5400</length>
-    <episode-num system="onscreen">11087</episode-num>
-    <category lang="ca">ACTUALITAT</category>
-    <category lang="ca">INFORMATIU DIÀRI</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
-  </programme>
-  <programme start="20260905003000 +0200" stop="20260905010000 +0200" channel="324">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">1800</length>
+    <length units="seconds">9398</length>
     <episode-num system="onscreen">11088</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
+    <previously-shown/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
+  </programme>
+  <programme start="20260905043002 +0200" stop="20260905051459 +0200" channel="tvi">
+    <title lang="ca">Fusió i swing a l'estudi</title>
+    <sub-title lang="ca">Djangologie</sub-title>
+    <desc lang="ca">Djangologie és un quintet que es dedica bàsicament al Gypsy Swing i que crea material propi al voltant dels diferents 'palos' d'aquest estil. Swing, vals, rumba, bolero o bossa nova, es combinen d'una manera natural en un joc de complicitats entre els solistes d'aquesta formació, que va ser una de les pioneres a casa nostra. Joan Ramon Puntí a la guitarra, Pere Soto a la guitarra, Albert Vila al contrabaix, Joan Aguilar al violí i Marc Casas al vibràfon.</desc>
+    <length units="seconds">2697</length>
+    <episode-num system="onscreen">17</episode-num>
+    <category lang="ca">MUSICALS</category>
+    <category lang="ca">ALTRES</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <previously-shown/>
+  </programme>
+  <channel id="324">
+    <display-name>324</display-name>
+  </channel>
+  <programme start="20260905010000 +0200" stop="20260905060000 +0200" channel="324">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="seconds">18000</length>
+    <episode-num system="onscreen">11088</episode-num>
+    <category lang="ca">ACTUALITAT</category>
+    <category lang="ca">INFORMATIU DIÀRI</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <previously-shown/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
+  </programme>
+  <programme start="20260905060000 +0200" stop="20260905070000 +0200" channel="324">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="seconds">3600</length>
+    <episode-num system="onscreen">11088</episode-num>
+    <category lang="ca">ACTUALITAT</category>
+    <category lang="ca">INFORMATIU DIÀRI</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <previously-shown/>
     <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
   <channel id="esport3">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20260904225958 +0200" stop="20260905003041 +0200" channel="esport3">
+  <programme start="20260905005157 +0200" stop="20260905022246 +0200" channel="esport3">
     <title lang="ca">Onze</title>
     <sub-title lang="ca">Qui és més fort? Post Betis-Madrid i 'La Clau Delmàs'</sub-title>
     <desc lang="ca">Carles Fité, Irati Vidal, David Ibáñez i Núria Casas analitzen el mercat de fitxatges de Barça i Madrid i el partit entre el Betis i el Madrid. L'Àlex Delmàs dona algunes claus del partit entre el València i el Barça.</desc>
-    <length units="seconds">5443</length>
+    <length units="seconds">5449</length>
     <episode-num system="onscreen">1244</episode-num>
     <category lang="ca">ESPORTS</category>
     <category lang="ca">MAGAZINE</category>
@@ -96,29 +73,31 @@
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
+    <previously-shown/>
     <icon src="https://img.ccma.cat/multimedia/jpg/1/1/1688543515711.jpg"/>
   </programme>
-  <programme start="20260905003041 +0200" stop="20260905005142 +0200" channel="esport3">
+  <programme start="20260905022246 +0200" stop="20260905025354 +0200" channel="esport3">
     <title lang="ca">3CatInfo Esports</title>
     <desc lang="ca">Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.</desc>
-    <length units="seconds">1261</length>
+    <length units="seconds">1868</length>
     <episode-num system="onscreen">5499</episode-num>
     <category lang="ca">ESPORTS</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
+    <previously-shown/>
     <icon src="https://img.ccma.cat/multimedia/jpg/9/7/1758888682179.jpg"/>
   </programme>
   <channel id="sx3">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20260905002608 +0200" stop="20260905004708 +0200" channel="sx3">
-    <title lang="ca">Els germans Kratt</title>
-    <sub-title lang="ca">Balenes i calamars</sub-title>
-    <desc lang="ca">Tot posant a prova l'amfisubmarí, l'últim invent de l'Aviva, en Chris i en Martin s'han trobat a les profunditats inexplorades de l'oceà, enmig d'una batalla entre una mare catxalot i un calamar gegant. Però arriba un moment que l'amfisubmarí ja no aguanta la pressió de l'aigua. És l'hora de treure els Vestits de Poder Animal i de poder gaudir d'aquesta batalla mai vista!</desc>
-    <length units="seconds">1260</length>
-    <episode-num system="onscreen">2</episode-num>
+  <programme start="20260905021502 +0200" stop="20260905023429 +0200" channel="sx3">
+    <title lang="ca">Viatges Pokémon</title>
+    <sub-title lang="ca">Esquitxa, salta i lluita per la corona!</sub-title>
+    <desc lang="ca">D'aquí a poc se celebra la competició de salt d'altura de Magikarp, i el Goh i el seu Magikarp volen vèncer el Kasukarp i el seu company, el Shinegoldie! Després d'un entrenament intens, el Magikarp d'en Goh deixa molt enrere el Shinegoldie, però salta tan amunt que entra a l'estratosfera i, com que no torna, queda desqualificat. Tot seguit, els nostres herois visiten l'illa Slowpoke, on veuen molts Slowpoke i un Slowking! Quan el Goh intenta capturar el Slowking li cau el Shellder que du al cap, que va a parar al cap dels nostres herois; cosa que provoca que adoptin un comportament estrany! El caos s'acaba quan el Shellder torna al cap de l'Slowking, juntament amb el Magikarp del Goh! </desc>
+    <length units="seconds">1167</length>
+    <episode-num system="onscreen">26</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
@@ -127,12 +106,12 @@
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20260905004708 +0200" stop="20260905010838 +0200" channel="sx3">
-    <title lang="ca">Els germans Kratt</title>
-    <sub-title lang="ca">El poble dels porcs formiguers</sub-title>
-    <desc lang="ca">Avui en Chris i en Martin descobriran el poble dels porcs formiguers, uns animals que costen molt de veure i que estan emparentats amb... els elefants?! A més, els coneixeran molt de prop! Sobretot en Chris! Un porc formiguer, tot fugint d'una hiena, se li ha amagat a la motxilla! Ara els tocarà tornar-lo al seu cau! Els hi acompanyes?!</desc>
-    <length units="seconds">1290</length>
-    <episode-num system="onscreen">3</episode-num>
+  <programme start="20260905023429 +0200" stop="20260905025408 +0200" channel="sx3">
+    <title lang="ca">Viatges Pokémon</title>
+    <sub-title lang="ca">Ens fem forts!</sub-title>
+    <desc lang="ca">Els nostres herois estan molt emocionats, perquè tenen entrades per anar a veure el combat entre el Lionel i el Roy, el líder de gimnàs de tipus drac de Galar, a la Sèrie Mundial de Coronació. Els dos contrincants són forts, però l'imbatut Lionel torna a guanyar. L'Ash i el Goh s'assabenten d'una llegenda sobre un jove heroi que va salvar Galar d'una tempesta devastadora, i després es troben un Farfetch'd de Galar. Tot i que és semblant al Farfetch'd de Kanto del Goh, aquesta altra forma regional porta un porro immens que utilitza per combatre. El Farfetch'd de Galar desafia tots els entrenadors que es troba pel camí, i l'Ash, després de combatre-hi i quedar impressionat per la seva tenacitat, el convida a ser un nou membre de l'equip.</desc>
+    <length units="seconds">1179</length>
+    <episode-num system="onscreen">27</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
@@ -144,12 +123,12 @@
   <channel id="c33">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20260904233554 +0200" stop="20260905002831 +0200" channel="c33">
-    <title lang="ca">Llocs recòndits</title>
-    <sub-title lang="ca">Turquia</sub-title>
-    <desc lang="ca">'Llocs recòndits - Turquia' permet que l'audiència se submergeixi en la història i la cultura resistent de Turquia, i que s'embarqui en una pila de viatges que canvien la vida. Entre els llocs visitats hi ha Istanbul, la Capadòcia, Antioquia, Antalya i Laodicea.</desc>
-    <length units="seconds">3157</length>
-    <episode-num system="onscreen">6</episode-num>
+  <programme start="20260905021713 +0200" stop="20260905030718 +0200" channel="c33">
+    <title lang="ca">Alaska salvatge</title>
+    <sub-title lang="ca">Primavera</sub-title>
+    <desc lang="ca">Alaska és el territori i l'estat més septentrional dels Estats Units, una regió vasta dominada per la natura salvatge. En aquest episodi assistim a l'arribada de la primavera, que canvia radicalment l'aspecte d'Alaska després dels mesos hivernals. El desglaç genera una autèntica explosió de vida a terra ferma, i al mar provoca l'arribada en massa dels arengs i altres espècies marines que tenen una gran importància per a l'economia local.</desc>
+    <length units="seconds">3005</length>
+    <episode-num system="onscreen">1</episode-num>
     <category lang="ca">DIVULGACIÓ</category>
     <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
     <rating>
@@ -158,14 +137,14 @@
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20260905002831 +0200" stop="20260905011856 +0200" channel="c33">
-    <title lang="ca">El gran camí</title>
-    <sub-title lang="ca">El Camí de Sant Jaume</sub-title>
-    <desc lang="ca">El camí de Santiago és la ruta de pelegrinatge més important d'Europa. L'han fet milions de persones durant segles per arribar fins a Santiago de Compostel·la i Fisterra (la fi del món), a Espanya. </desc>
-    <length units="seconds">3025</length>
-    <episode-num system="onscreen">4</episode-num>
-    <category lang="ca">DIVULGACIÓ</category>
-    <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
+  <programme start="20260905030718 +0200" stop="20260905035939 +0200" channel="c33">
+    <title lang="ca">Cites Barcelona</title>
+    <sub-title lang="ca">Laura-Jan / Tiago-Mimi</sub-title>
+    <desc lang="ca">A l'hotel W, la Laura i el Jan passen la nit de cap d'any junts després d'haver estat deixats per les seves parelles. Al matí següent, el Jan rep un missatge de la seva ex disposada a intentar arreglar les coses. Juntament amb la Laura, el Jan tractarà de decidir si ha de tornar o no amb ella. Durant el debat es posaran de manifest els problemes de la relació, la gelosia i les inseguretats.Aquella mateixa nit, el Tiago s'escapa de casa d'uns amics seus per veure's amb la Mimi, un 'match' de Tinder que viu en aquell mateix edifici. Al matí següent, tenen una discussió i ell marxa de males maneres, però no pot tornar a casa seva ja que es va deixar les seves coses al pis dels seus amics. No li queda mes remei que tornar a casa de la Mimi per demanar-li ajuda, però malgrat les reticències inicials, serà l'ocasió perfecta per conèixer-se millor.</desc>
+    <length units="seconds">3141</length>
+    <episode-num system="onscreen">1</episode-num>
+    <category lang="ca">FICCIÓ</category>
+    <category lang="ca">SÈRIE DRAMÀTICA</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
