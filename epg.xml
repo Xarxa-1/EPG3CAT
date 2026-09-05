@@ -3,55 +3,71 @@
   <channel id="tvi">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20260905114946 +0200" stop="20260905142955 +0200" channel="tvi">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">9609</length>
-    <episode-num system="onscreen">11091</episode-num>
-    <category lang="ca">ACTUALITAT</category>
-    <category lang="ca">INFORMATIU DIÀRI</category>
+  <programme start="20260905170833 +0200" stop="20260905180909 +0200" channel="tvi">
+    <title lang="ca">Infidels</title>
+    <desc lang="ca">La Paula diu al Marc, el seu amant, que se sent feliç d'haver trobat l'amor de la seva vida. Les amigues coneixen el Marc, que els fa entendre que s'estima molt la Paula. La Joana està feta pols pel que ha passat amb el Francesc, però és capaç de comportar-se amb enteresa davant les amigues. La dona reconeix la Cecília, però decideix no dir-li res. L'Arlet li recomana que expliqui als nens tota la veritat. El Jesús explica al Robert que es va embolicar amb la Cruz. La Lídia aconsegueix finalment que el Toni torni a entrar a la teràpia. La psiquiatra es retroba amb el Rubén, un antic amor. L'Arlet convida la Dani a un sopar íntim.</desc>
+    <length units="seconds">3636</length>
+    <episode-num system="onscreen">6</episode-num>
+    <category lang="ca">FICCIÓ</category>
+    <category lang="ca">TELESÈRIE</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
+    <previously-shown/>
+  </programme>
+  <programme start="20260905180909 +0200" stop="20260905183713 +0200" channel="tvi">
+    <title lang="ca">Jet lag</title>
+    <sub-title lang="ca">XAROP I MADALENES</sub-title>
+    <desc lang="ca">La Diana té mal de coll. La Esther i la Carla intenten fer-li de metges. La cosa anirà a pitjor. A la vegada, la Sílvia i la mariona han decidit tallar la seva relació sentimental. Les conseqüències seran imprevisibles.</desc>
+    <length units="seconds">1684</length>
+    <episode-num system="onscreen">8</episode-num>
+    <category lang="ca">FICCIÓ</category>
+    <category lang="ca">TELESÈRIE</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <subtitles type="teletext"/>
+    <previously-shown/>
   </programme>
   <channel id="324">
     <display-name>324</display-name>
   </channel>
-  <programme start="20260905120000 +0200" stop="20260905143000 +0200" channel="324">
+  <programme start="20260905163000 +0200" stop="20260905183000 +0200" channel="324">
     <title lang="ca">Notícies 3CatInfo</title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">9000</length>
-    <episode-num system="onscreen">11091</episode-num>
-    <category lang="ca">ACTUALITAT</category>
-    <category lang="ca">INFORMATIU DIÀRI</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
-  </programme>
-  <programme start="20260905143000 +0200" stop="20260905163000 +0200" channel="324">
-    <title lang="ca">Telenotícies migdia</title>
     <length units="seconds">7200</length>
-    <episode-num system="onscreen">7319</episode-num>
+    <episode-num system="onscreen">11092</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/5/4/1758025766345.jpg"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
+  </programme>
+  <programme start="20260905183000 +0200" stop="20260905200000 +0200" channel="324">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="seconds">5400</length>
+    <episode-num system="onscreen">11093</episode-num>
+    <category lang="ca">ACTUALITAT</category>
+    <category lang="ca">INFORMATIU DIÀRI</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <subtitles type="teletext"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
   <channel id="esport3">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20260905132504 +0200" stop="20260905151443 +0200" channel="esport3">
+  <programme start="20260905160000 +0200" stop="20260905174828 +0200" channel="esport3">
     <title lang="ca">Futbol sala</title>
-    <sub-title lang="ca">ElPozo Múrcia-Palma Futsal / Supercopa d'Espanya / 1a semifinal</sub-title>
-    <desc lang="ca">El Pozo Múrcia Costa Càlida i l'Illes Balears Palma Futsal disputen la primera semifinal de la Supercopa d'Espanya, que es juga al Palau Blaugrana. Amb la narració de Xavi Lorente i l'anàlisi de Xavi Passarrius.</desc>
-    <length units="seconds">6579</length>
-    <episode-num system="onscreen">4</episode-num>
+    <sub-title lang="ca">Barça-Jaén FS / Supercopa d'Espanya / 2a semifinal</sub-title>
+    <desc lang="ca">Els blaugranes juguen a casa contra els andalusos la segona semifinal de la Supercopa d'Espanya. Amb la narració de Xavi Lorente i l'anàlisi de Xavi Passarrius. </desc>
+    <length units="seconds">6508</length>
+    <episode-num system="onscreen">5</episode-num>
     <category lang="ca">ESPORTS</category>
     <category lang="ca">RETRANSMISSIONS ESPORTS</category>
     <rating>
@@ -59,43 +75,42 @@
     </rating>
     <icon src="https://img.ccma.cat/multimedia/jpg/1/5/1699004339351.jpg"/>
   </programme>
-  <programme start="20260905151443 +0200" stop="20260905153000 +0200" channel="esport3">
-    <title lang="ca">Sala de Premsa</title>
-    <sub-title lang="ca">Hansi Flick / Prèvia València-Barça / J4</sub-title>
-    <desc lang="ca">Esport3 t'ofereix les compareixences de dirigents, jugadors i entrenadors dels equips catalans davant els mitjans de comunicació.</desc>
-    <length units="seconds">917</length>
-    <episode-num system="onscreen">719</episode-num>
+  <programme start="20260905174828 +0200" stop="20260905181000 +0200" channel="esport3">
+    <title lang="ca">E3D</title>
+    <sub-title lang="ca">Skate / Extreme Barcelona / Final masculina</sub-title>
+    <desc lang="ca">Final masculina d'skateboarding a la 18a edició de l'Extrem Barcelona, que es fa al Parc del Fòrum. Amb la narració de Jordi Gil.</desc>
+    <length units="seconds">1292</length>
+    <episode-num system="onscreen">8113</episode-num>
     <category lang="ca">ESPORTS</category>
-    <category lang="ca">INFORMATIU DIÀRI</category>
+    <category lang="ca">RETRANSMISSIONS ESPORTS</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <subtitles type="teletext"/>
-    <icon src="https://img.3cat.cat/multimedia/jpg/7/4/1778665728847.jpg"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/3/2/1788358923323.jpg"/>
   </programme>
   <channel id="sx3">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20260905140904 +0200" stop="20260905143923 +0200" channel="sx3">
-    <title lang="ca">Manduka family</title>
-    <sub-title lang="ca">Fricandó</sub-title>
-    <desc lang="ca">El fricandó és clarament un dels plats més emblemàtics de la cuina catalana. I com fas un plat tan tradicional quan només tens 10 anys ? Fàcil, seguint la recepta i experiència dels avis. I això és el que faran avui el Roger i la Ivette. </desc>
-    <length units="seconds">1819</length>
-    <episode-num system="onscreen">10</episode-num>
-    <category lang="ca">ENTRETENIMENT</category>
-    <category lang="ca">ALTRES</category>
+  <programme start="20260905172521 +0200" stop="20260905173554 +0200" channel="sx3">
+    <title lang="ca">Ideafix i els irreductibles</title>
+    <sub-title lang="ca">En Gustdúrix fa paret</sub-title>
+    <desc lang="ca">El grafiter Gustdúrix ridiculitza el general Labiè escampant-ne caricatures per tot Lutècia. Un cop arrestat, el general li ofereix la llibertat a canvi de pintar un fresc en honor seu i de la gata Monalisa. Però això fa que els lutecians el prenguin per un traïdor. Per sort, l'Ideafix tindrà una idea brillant perquè en Gustdúrix torni a guanyar-se l'estima dels lutecians.</desc>
+    <length units="seconds">633</length>
+    <episode-num system="onscreen">69</episode-num>
+    <category lang="ca">FICCIÓ</category>
+    <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
       <value>INFANTIL</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20260905143923 +0200" stop="20260905145109 +0200" channel="sx3">
-    <title lang="ca">Les Sisters</title>
-    <sub-title lang="ca">Adopta una germana.com</sub-title>
-    <desc lang="ca">Després de la seva enèsima baralla, la Marine li diu a la Wendy que li agradaria canviar de germana. La Wendy li proposa que en busqui una al web 'Adopta una germana.com'. La Marine es connecta a internet i veu que el web sí que existeix. La Marine hi troba una germana gran adoptiva amb el perfil ideal. Genial! Però la Marine no trigarà a canviar d'idea...</desc>
-    <length units="seconds">706</length>
-    <episode-num system="onscreen">82</episode-num>
+  <programme start="20260905173554 +0200" stop="20260905174716 +0200" channel="sx3">
+    <title lang="ca">Ideafix i els irreductibles</title>
+    <sub-title lang="ca">La gateta de plomes</sub-title>
+    <desc lang="ca">La gata Picarina salva la coloma Webzina de les urpes de dos gatots de la banda de les catacumbes. Enlluernada pel talent de la gata, la coloma li demana un curset de 'gata rebel', que rep juntament amb la gossa Turbina. Però els gatots prendran represàlies...</desc>
+    <length units="seconds">682</length>
+    <episode-num system="onscreen">73</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
@@ -107,26 +122,26 @@
   <channel id="c33">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20260905141231 +0200" stop="20260905144102 +0200" channel="c33">
-    <title lang="ca">Quèquicom</title>
-    <sub-title lang="ca">El cafè</sub-title>
-    <desc lang="ca">És cert que un cafè augmenta l'eficàcia cerebral? Sol a amb sucre? I quantes tasses al dia? Quan et despertes, o millor esperar-te una estona? Fa pujar la pressió arterial? Com l'haurien de preparar als bars? I un consell: descarta el torrefacte.El cafè és un dels gustos més complexos de la gastronomia. Conté més de mil compostos i se n'han identificat 850. Encara queden 150 misteris per resoldre! Fina Brunet en segueix el procés: des de les característiques del gra segons l'origen, fins a la cata, passant per la torrefacció. </desc>
-    <length units="seconds">1711</length>
-    <episode-num system="onscreen">339</episode-num>
+  <programme start="20260905163908 +0200" stop="20260905173119 +0200" channel="c33">
+    <title lang="ca">Els quaderns de cuina de la Julie</title>
+    <sub-title lang="ca">El Borbonès</sub-title>
+    <desc lang="ca">En Lucien, un enginyer agroalimentari, fa un pastís salat de patata tal com l'ha après de l'àvia Hélène. La Simone i l'Olivier, mare i fill, són fabricants de la famosa mostassa de Charós, que entra en algunes receptes típiques del Borbonès. L'Hubert, editor de llibres de cuina, sap guisar l'ànec a la Duchambais, una salsa de nata amb vi i mostassa. L'Arnaud, horticultor, es dedica a crear noves varietats de pomes i de peres. I la Françoise fa un pastís de peres guarnit per damunt amb peres senceres en almívar.</desc>
+    <length units="seconds">3131</length>
+    <episode-num system="onscreen">75</episode-num>
     <category lang="ca">DIVULGACIÓ</category>
-    <category lang="ca">MAGAZINE ESPECIALITZAT</category>
+    <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20260905144102 +0200" stop="20260905154004 +0200" channel="c33">
-    <title lang="ca">Els caps de setmana llargs d'en Rick Stein</title>
-    <sub-title lang="ca">Berlín</sub-title>
-    <desc lang="ca">En Rick no ha estat mai a Berlín. El sorprèn moltíssim el seu ambient de novel·la negra i el dinamisme dels berlinesos. La gastronomia de la ciutat es caracteritza per la presència simultània de restaurants que ofereixen menjar tradicional i locals moderns amb cuiners que fan versions noves de plats clàssics. A més, hi ha cuiners innovadors i agosarats que trenquen motlles organitzant esdeveniments únics en entorns d'allò més inusuals.</desc>
-    <length units="seconds">3542</length>
-    <episode-num system="onscreen">3</episode-num>
+  <programme start="20260905173119 +0200" stop="20260905182308 +0200" channel="c33">
+    <title lang="ca">Els quaderns de cuina de la Julie</title>
+    <sub-title lang="ca">La Corresa</sub-title>
+    <desc lang="ca">En aquest episodi la Julie visita el departament de la Corresa. Primer de tot visita el noguerar d'en David, on es produeix una nou molt apreciada. Amb la Karine prepara un magret d'ànec amb crosta de nous. Després visita la Sylvie, que produeix un licor de nous típic de la regió. Tot seguit, amb la Michèle, prepara unes gofres amb nata crua. Finalment, la Laurence li ensenya una recepta de pit de vedella farcit.</desc>
+    <length units="seconds">3109</length>
+    <episode-num system="onscreen">76</episode-num>
     <category lang="ca">DIVULGACIÓ</category>
     <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
     <rating>
@@ -141,6 +156,19 @@
   <channel id="oca2">
     <display-name>OCA2</display-name>
   </channel>
+  <programme start="20260905172000 +0200" stop="20260905190000 +0200" channel="oca2">
+    <title lang="ca">E3D</title>
+    <sub-title lang="ca">- Skate / Extreme Barcelona / Final masculina</sub-title>
+    <desc lang="ca">Final masculina d'skateboarding a la 18a edició de l'Extrem Barcelona, que es fa al Parc del Fòrum. Amb la narració de Jordi Gil.</desc>
+    <length units="seconds">5400</length>
+    <episode-num system="onscreen">8113</episode-num>
+    <category lang="ca">ESPORTS</category>
+    <category lang="ca">RETRANSMISSIONS ESPORTS</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <icon src="https://img.ccma.cat/multimedia/jpg/3/2/1788358923323.jpg"/>
+  </programme>
   <channel id="oca3">
     <display-name>OCA3</display-name>
   </channel>
