@@ -3,26 +3,23 @@
   <channel id="tvi">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20260905190325 +0200" stop="20260905195743 +0200" channel="tvi">
-    <title lang="ca">Sota terra</title>
-    <sub-title lang="ca">Camp dels ninots: el paisatge fa tres milions i mig d'anys</sub-title>
-    <desc lang="ca">Anem a Caldes de Malavella, a la comarca de la Selva, a excavar al Camp dels Ninots, un antic volcà que amaga un gran secret. El Camp és un jaciment on s'excava des de fa força temps. S'hi han trobat nombroses restes arqueològiques de diferents segles, en general molt antigues: animals, eines lítiques, etc. Arribem amb un enigma per resoldre: se sap que fa 3,5 milions d'anys van morir de manera gairebé simultània una quantitat enorme d'animals. Per què van morir? Qui o què els va matar gairebé a la vegada? Busquem la resposta i també busquem més restes d'aquests éssers vius que van patir una tràgica i misteriosa desaparició. I la cirereta del pastís: volem recrear en imatges com era el paisatge a Caldes fa 3,5 milions d'anys: per aconseguir-ho haurem de trobar i analitzar el pol·len i les restes vegetals de l'època.</desc>
-    <length units="seconds">3258</length>
-    <episode-num system="onscreen">7</episode-num>
-    <category lang="ca">DIVULGACIÓ</category>
-    <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
+  <programme start="20260905210000 +0200" stop="20260905220339 +0200" channel="tvi">
+    <title lang="ca">Telenotícies vespre</title>
+    <length units="seconds">3819</length>
+    <episode-num system="onscreen">7318</episode-num>
+    <category lang="ca">ACTUALITAT</category>
+    <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <subtitles type="teletext"/>
-    <previously-shown/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/7/2/1758026176427.jpg"/>
   </programme>
-  <programme start="20260905195743 +0200" stop="20260905201304 +0200" channel="tvi">
-    <title lang="ca">Una història de la literatura</title>
-    <sub-title lang="ca">Caterina Albert</sub-title>
-    <desc lang="ca">Caterina Albert es va donar a conèixer al món literari amb el pseudònim Víctor Català. I fins aquí les dades interessants que coneixerem de l'autora. Ara bé, no et perdis el nou llibre de l'autor inventat, Guzman de Loyola, titulat «El vestigio y el linaje», la importància de deixar-se de buscar a un mateix de tant en tant, la plaga de catalans arreu del món quan menys te'ls esperen i l'espai amagat entre el NODO i el Club Súper 3. Ah! I treure'm pols als llibres. Literalment, això passarà amb un convidat molt especial, en Toni Soler.</desc>
-    <length units="seconds">921</length>
-    <episode-num system="onscreen">1</episode-num>
+  <programme start="20260905220048 +0200" stop="20260905222558 +0200" channel="tvi">
+    <title lang="ca">Emocionari Il·lustrat</title>
+    <sub-title lang="ca">La por</sub-title>
+    <desc lang="ca">Al capítol 'La por' de l''Emocionari Il·lustrat', l'artista Lily Brick entrevistarà dos dels autors de literatura infantil més exitosos del moment: l'autora Meritxell Martí i l'il·lustrador Xavier Salomó. Descobrirem tots els secrets que amaguen llibres com 'Una casa de por' o 'La casa de l'avi'. A més, la il·lustradora dels crèdits de la sèrie 'Solo asesinatos en el edificio', Laura Pérez Granel, ens il·lustrarà la por amb un dels seus personatges enigmàtics. Per acabar, els germans Grangel, que han triomfat a Hollywood amb la creació de personatges icònics com els de 'La núvia cadàver' o 'Hotel Transsilvània', ensenyaran a la Lily com fer un monstre per a una pel·lícula d'animació, sense pintura ni colors: només amb cafè.</desc>
+    <length units="seconds">1510</length>
+    <episode-num system="onscreen">3</episode-num>
     <category lang="ca">ENTRETENIMENT</category>
     <category lang="ca">ALTRES</category>
     <rating>
@@ -34,11 +31,22 @@
   <channel id="324">
     <display-name>324</display-name>
   </channel>
-  <programme start="20260905183000 +0200" stop="20260905200000 +0200" channel="324">
+  <programme start="20260905210000 +0200" stop="20260905230000 +0200" channel="324">
+    <title lang="ca">Telenotícies vespre</title>
+    <length units="seconds">7200</length>
+    <episode-num system="onscreen">7318</episode-num>
+    <category lang="ca">ACTUALITAT</category>
+    <category lang="ca">INFORMATIU DIÀRI</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <icon src="https://img.ccma.cat/multimedia/jpg/7/2/1758026176427.jpg"/>
+  </programme>
+  <programme start="20260905230000 +0200" stop="20260906003000 +0200" channel="324">
     <title lang="ca">Notícies 3CatInfo</title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <length units="seconds">5400</length>
-    <episode-num system="onscreen">11093</episode-num>
+    <episode-num system="onscreen">11095</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
@@ -47,58 +55,45 @@
     <subtitles type="teletext"/>
     <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
-  <programme start="20260905200000 +0200" stop="20260905210000 +0200" channel="324">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">3600</length>
-    <episode-num system="onscreen">11094</episode-num>
-    <category lang="ca">ACTUALITAT</category>
+  <channel id="esport3">
+    <display-name>ESPORT3</display-name>
+  </channel>
+  <programme start="20260905211739 +0200" stop="20260905212549 +0200" channel="esport3">
+    <title lang="ca">Esport Club Cap de Setmana</title>
+    <sub-title lang="ca">Esport Club</sub-title>
+    <desc lang="ca">Magazín amb tota l'actualitat esportiva del cap de setmana, amb atenció especial a la jornada de futbol i les principals competicions del nostre esport.</desc>
+    <length units="seconds">490</length>
+    <episode-num system="onscreen">1380</episode-num>
+    <category lang="ca">ESPORTS</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/7/3/1698145091337.jpg"/>
   </programme>
-  <channel id="esport3">
-    <display-name>ESPORT3</display-name>
-  </channel>
-  <programme start="20260905192319 +0200" stop="20260905201751 +0200" channel="esport3">
-    <title lang="ca">Futbol</title>
-    <sub-title lang="ca">UE Sant Andreu-Águilas FC / Primera Federació / J2</sub-title>
-    <desc lang="ca">Els quadribarrats estrenen la nova categoria a l'estadi de Can Dragó contra el conjunt murcià. L'objectiu, sumar els primers punts després de la derrota per la mínima (1-0) en el debut a Osca.</desc>
-    <length units="seconds">3272</length>
-    <episode-num system="onscreen">200</episode-num>
+  <programme start="20260905212549 +0200" stop="20260905221844 +0200" channel="esport3">
+    <title lang="ca">Handbol</title>
+    <sub-title lang="ca">Supercopa Ibèrica / Final</sub-title>
+    <desc lang="ca">Des de Vigo, final de la competició d'handbol que enfronta els millors equips de la Península. Amb la narració de Vicenç Prados i l'anàlisi de Víctor Tomàs. </desc>
+    <length units="seconds">3175</length>
+    <episode-num system="onscreen">2</episode-num>
     <category lang="ca">ESPORTS</category>
     <category lang="ca">RETRANSMISSIONS ESPORTS</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <previously-shown/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/0/7/1698446098170.jpg"/>
-  </programme>
-  <programme start="20260905201751 +0200" stop="20260905202000 +0200" channel="esport3">
-    <title lang="ca">Sala de Premsa</title>
-    <sub-title lang="ca">Manolo González / Prèvia Espanyol-Sevilla / J4</sub-title>
-    <desc lang="ca">Esport3 t'ofereix les compareixences de dirigents, jugadors i entrenadors dels equips catalans davant els mitjans de comunicació.</desc>
-    <length units="seconds">129</length>
-    <episode-num system="onscreen">720</episode-num>
-    <category lang="ca">ESPORTS</category>
-    <category lang="ca">INFORMATIU DIÀRI</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <subtitles type="teletext"/>
-    <icon src="https://img.3cat.cat/multimedia/jpg/7/4/1778665728847.jpg"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/9/1/1788346445719.jpg"/>
   </programme>
   <channel id="sx3">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20260905191017 +0200" stop="20260905193326 +0200" channel="sx3">
-    <title lang="ca">Espies de veritat</title>
-    <sub-title lang="ca">Mystery on the WOOHP Express</sub-title>
-    <desc lang="ca">Les espies pugen al WOOHP Express amb la Zerlina, en Blaine, la Britney i en Jerry per protegir el woohper, un dispositiu molt important per a l'organització i que és a dins d'una caixa forta. La Zerlina desapareix i tothom és sospitós d'haver-la segrestat. La Clover i en Blaine són els primers a adonar-se que les coses no són com semblen.</desc>
-    <length units="seconds">1389</length>
-    <episode-num system="onscreen">170</episode-num>
+  <programme start="20260905212054 +0200" stop="20260905214104 +0200" channel="sx3">
+    <title lang="ca">Els germans Kratt</title>
+    <sub-title lang="ca">Hèrcules, l'escarabat gegant</sub-title>
+    <desc lang="ca">L'equip dels germans Kratt és a la selva pluvial de l'Amèrica Central per estudiar les característiques de l'escarabat hèrcules, l'escarabat més gros i més fort que hi ha. A causa d'un accident amb el miniaturitzador, un escarabat d'aquests es fa més gros i es transforma en un escarabat gegant que amenaça de destruir la selva i una ciutat que hi ha a prop. L'equip dels germans Kratt haurà de trobar la manera d'evitar-ho i de fer-lo tornar a la mida normal. </desc>
+    <length units="seconds">1210</length>
+    <episode-num system="onscreen">138</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
@@ -106,14 +101,13 @@
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/6/9/1781885918096.jpg"/>
   </programme>
-  <programme start="20260905193326 +0200" stop="20260905195550 +0200" channel="sx3">
-    <title lang="ca">El detectiu Conan</title>
-    <sub-title lang="ca">En Takagi, en Date i la llibreta de la promesa (2a part)</sub-title>
-    <desc lang="ca">L'inspector Takagi retroba un codi apuntat en una llibreta que li va donar en Date, un company mort ara fa un any. En Date el citava un diumenge al migdia al Cafè Poirot per resoldre el cas del segrest de l'Alan, el fill d'un empresari automobilístic francès. Tot i que ha passat un any i el segrestador ha mort, un subordinat seu se segueix presentant cada diumenge al cafè. Aconsegueixen fer-se passar pels negociadors i rescatar l'Alan, però llavors aquest els explica que l'esbirro manté captiu el seu amic Yuji. Parlant amb l'Alan, els nois de la Lliga de Detectius Júnior revelen la ubicació de l'amagatall on tenen tancat en Yuji.</desc>
-    <length units="seconds">1344</length>
-    <episode-num system="onscreen">1167</episode-num>
+  <programme start="20260905214104 +0200" stop="20260905220359 +0200" channel="sx3">
+    <title lang="ca">Els germans Kratt</title>
+    <sub-title lang="ca">Liturgusa Krattorium</sub-title>
+    <desc lang="ca">L'equip viatja a la selva del Perú per conèixer investigar una nova espècie de pregadéu que els científics han batejat amb el nom dels germans Kratt per homenatjar la tasca que fan per ajudar els animals. Els tres malvats de la sèrie (el Zach, la Donita i el Gormand) s'empipen i es moren d'enveja, i en aquesta ocasió, excepcionalment, s'aliaran per intentar, una vegada més, fer la guitza als nostres amics.</desc>
+    <length units="seconds">1375</length>
+    <episode-num system="onscreen">93</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
@@ -125,26 +119,26 @@
   <channel id="c33">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20260905191519 +0200" stop="20260905200736 +0200" channel="c33">
-    <title lang="ca">La Camarga, salvatge i fràgil</title>
-    <sub-title lang="ca">El regne de l'aigua dolça</sub-title>
-    <desc lang="ca">L'Alta Camarga és el regne de l'aigua dolça, amb una densa xarxa de canals que abasteixen cultius, i zones protegides amb la seva fauna i flora. Al delta del Roine hi fan escala moltes aus migratòries, que conviuen amb espècies amenaçades que pateixen els efectes de la contaminació ambiental i de les espècies invasores. El futur de la Camarga d'aigua dolça depèn, doncs, de l'equilibri entre l'activitat humana i la conservació de la natura.</desc>
-    <length units="seconds">3137</length>
-    <episode-num system="onscreen">2</episode-num>
-    <category lang="ca">DIVULGACIÓ</category>
-    <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
+  <programme start="20260905211330 +0200" stop="20260905220330 +0200" channel="c33">
+    <title lang="ca">Gent de món</title>
+    <sub-title lang="ca">Mediterrani Occidental (1a part)</sub-title>
+    <desc lang="ca">Heu vist mai el mar als peus de la muntanya de Montserrat?Heu gaudit de les vistes que contemplava el comte de Montecristo des de la seva cel·la?Avui farem un creuer per la Mediterrània occidental des de Barcelona fins a Nàpols a bord del vaixell més gran del món. Una travessa pels mars més propers farcida de ports mil·lenaris, de capitals d'imperis caiguts, de carrers desendreçats, de verges daurades i torres inclinades; de catedrals de marbre i antics deus fets de pedra. Un viatge pels orígens i la historia dels nostres veïns a traves del mar que sempre ens ha unit. </desc>
+    <length units="seconds">3000</length>
+    <episode-num system="onscreen">18</episode-num>
+    <category lang="ca">ENTRETENIMENT</category>
+    <category lang="ca">ALTRES</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20260905200736 +0200" stop="20260905205940 +0200" channel="c33">
-    <title lang="ca">Viure amb els volcans</title>
-    <sub-title lang="ca">Terres de descobriments</sub-title>
-    <desc lang="ca">En molts aspectes, la història de la humanitat està lligada a la història dels volcans. Estudiant els volcans, els científics no només en revelen els misteris, sinó que revolucionen la nostra visió del món. Els investigadors treballen incansablement perquè les societats humanes puguin, de descobriment en descobriment, aprofitar al màxim aquestes muntanyes vives. En la nostra eterna recerca de coneixement i de progrés, els volcans són els nostres millors aliats i el terreny d'una infinitat de descobriments.</desc>
-    <length units="seconds">3124</length>
-    <episode-num system="onscreen">6</episode-num>
+  <programme start="20260905220330 +0200" stop="20260905230154 +0200" channel="c33">
+    <title lang="ca">Els caps de setmana llargs d'en Rick Stein</title>
+    <sub-title lang="ca">Bolonya</sub-title>
+    <desc lang="ca">A Bolonya, en Rick descobreix que els espaguetis a la bolonyesa, que per ell eren el plat bolonyès per excel·lència, allà són considerats gairebé una heretgia. Però aprendrà quina és la versió dels espaguetis que sí que mengen a Bolonya. Allà tastarà, entre altres plats, uns ravionlini deliciosos farcits de ceba dolça, calamarsos farcits, un parmesà madurat tretze anys, conill farcit de truita i pernil de Parma o la famosa mortadel·la. Per als bolonyesos, menjar bé és molt important.</desc>
+    <length units="seconds">3504</length>
+    <episode-num system="onscreen">5</episode-num>
     <category lang="ca">DIVULGACIÓ</category>
     <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
     <rating>
@@ -156,35 +150,9 @@
   <channel id="oca1">
     <display-name>OCA1</display-name>
   </channel>
-  <programme start="20260905185800 +0200" stop="20260905205800 +0200" channel="oca1">
-    <title lang="ca">Rugbi 13 : Superleague</title>
-    <sub-title lang="ca">- Dracs Catalans-York Knights / Super League / J26</sub-title>
-    <desc lang="ca">Penúltima jornada del campionat regular i última a casa. El conjunt de Perpinyà vol repetir la victòria que va aconseguir al camp anglès (22-36) per consolidar la vuitena posició. Des de l'Estadi Gilbert Brutus, amb la narració de Sebastià Girard.</desc>
-    <length units="seconds">7200</length>
-    <episode-num system="onscreen">77</episode-num>
-    <category lang="ca">ESPORTS</category>
-    <category lang="ca">RETRANSMISSIONS ESPORTS</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <icon src="https://img.3cat.cat/multimedia/jpg/2/3/1771412542832.jpg"/>
-  </programme>
   <channel id="oca2">
     <display-name>OCA2</display-name>
   </channel>
-  <programme start="20260905192800 +0200" stop="20260905205800 +0200" channel="oca2">
-    <title lang="ca">E3D</title>
-    <sub-title lang="ca">- Scooter Street / Extreme Barcelona / Final masculina</sub-title>
-    <desc lang="ca">Final masculina d'scootering street a la 18a edició de l'Extrem Barcelona, que es fa al Parc del Fòrum. Amb la narració de Jordi Gil. </desc>
-    <length units="seconds">5400</length>
-    <episode-num system="onscreen">8114</episode-num>
-    <category lang="ca">ESPORTS</category>
-    <category lang="ca">RETRANSMISSIONS ESPORTS</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <icon src="https://img.ccma.cat/multimedia/jpg/3/2/1788358923323.jpg"/>
-  </programme>
   <channel id="oca3">
     <display-name>OCA3</display-name>
   </channel>
