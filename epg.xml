@@ -3,22 +3,10 @@
   <channel id="tvi">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20260905100000 +0200" stop="20260905115500 +0200" channel="tvi">
+  <programme start="20260905114946 +0200" stop="20260905142955 +0200" channel="tvi">
     <title lang="ca">Notícies 3CatInfo</title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">6900</length>
-    <episode-num system="onscreen">11090</episode-num>
-    <category lang="ca">ACTUALITAT</category>
-    <category lang="ca">INFORMATIU DIÀRI</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
-  </programme>
-  <programme start="20260905114922 +0200" stop="20260905142957 +0200" channel="tvi">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">9635</length>
+    <length units="seconds">9609</length>
     <episode-num system="onscreen">11091</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
@@ -31,18 +19,6 @@
   <channel id="324">
     <display-name>324</display-name>
   </channel>
-  <programme start="20260905100000 +0200" stop="20260905120000 +0200" channel="324">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">7200</length>
-    <episode-num system="onscreen">11090</episode-num>
-    <category lang="ca">ACTUALITAT</category>
-    <category lang="ca">INFORMATIU DIÀRI</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
-  </programme>
   <programme start="20260905120000 +0200" stop="20260905143000 +0200" channel="324">
     <title lang="ca">Notícies 3CatInfo</title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
@@ -53,64 +29,73 @@
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <subtitles type="teletext"/>
     <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
+  </programme>
+  <programme start="20260905143000 +0200" stop="20260905163000 +0200" channel="324">
+    <title lang="ca">Telenotícies migdia</title>
+    <length units="seconds">7200</length>
+    <episode-num system="onscreen">7319</episode-num>
+    <category lang="ca">ACTUALITAT</category>
+    <category lang="ca">INFORMATIU DIÀRI</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <subtitles type="teletext"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/5/4/1758025766345.jpg"/>
   </programme>
   <channel id="esport3">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20260905092914 +0200" stop="20260905105320 +0200" channel="esport3">
-    <title lang="ca">Handbol</title>
-    <sub-title lang="ca">Barça-Porto / Supercopa Ibèrica / Semifinal</sub-title>
-    <desc lang="ca">Els blaugranes, campions a les quatre edicions disputades fins ara, s'enfronten amb el segon classificat de l'última lliga portuguesa. Des de Vigo, amb la narració de Vicenç Prados i l'anàlisi de Víctor Tomàs.</desc>
-    <length units="seconds">5046</length>
-    <episode-num system="onscreen">1</episode-num>
+  <programme start="20260905132504 +0200" stop="20260905151443 +0200" channel="esport3">
+    <title lang="ca">Futbol sala</title>
+    <sub-title lang="ca">ElPozo Múrcia-Palma Futsal / Supercopa d'Espanya / 1a semifinal</sub-title>
+    <desc lang="ca">El Pozo Múrcia Costa Càlida i l'Illes Balears Palma Futsal disputen la primera semifinal de la Supercopa d'Espanya, que es juga al Palau Blaugrana. Amb la narració de Xavi Lorente i l'anàlisi de Xavi Passarrius.</desc>
+    <length units="seconds">6579</length>
+    <episode-num system="onscreen">4</episode-num>
     <category lang="ca">ESPORTS</category>
     <category lang="ca">RETRANSMISSIONS ESPORTS</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <previously-shown/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/9/1/1788346445719.jpg"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/1/5/1699004339351.jpg"/>
   </programme>
-  <programme start="20260905105320 +0200" stop="20260905112233 +0200" channel="esport3">
-    <title lang="ca">Zona Zàping Club</title>
-    <sub-title lang="ca">Aina Cerdà intenta veure més enllà del fotograma</sub-title>
-    <desc lang="ca">El vídeo s'atura en el moment més inoportú. Serà capaç d'endevinar què passa després i convèncer el Zapi? No us perdeu la ballaruga final: TOP!!</desc>
-    <length units="seconds">1753</length>
-    <episode-num system="onscreen">8</episode-num>
+  <programme start="20260905151443 +0200" stop="20260905153000 +0200" channel="esport3">
+    <title lang="ca">Sala de Premsa</title>
+    <sub-title lang="ca">Hansi Flick / Prèvia València-Barça / J4</sub-title>
+    <desc lang="ca">Esport3 t'ofereix les compareixences de dirigents, jugadors i entrenadors dels equips catalans davant els mitjans de comunicació.</desc>
+    <length units="seconds">917</length>
+    <episode-num system="onscreen">719</episode-num>
     <category lang="ca">ESPORTS</category>
-    <category lang="ca">ESPECIALS</category>
+    <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
-    <previously-shown/>
+    <icon src="https://img.3cat.cat/multimedia/jpg/7/4/1778665728847.jpg"/>
   </programme>
   <channel id="sx3">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20260905104830 +0200" stop="20260905111016 +0200" channel="sx3">
-    <title lang="ca">Espies de veritat</title>
-    <sub-title lang="ca">Víctimes de la moda</sub-title>
-    <desc lang="ca">La famosa dissenyadora de moda que també va aparèixer al capítol 'Un toc salvatge' ha tornat. Vol venjança. Amb la seva nova línia de roba de moda, planeja arribar al cim de la indústria de la moda. Pretén matar qualsevol persona que s'atreveixi a portar les seves peces de roba, incloent-hi l'Alex, la Sam i la Clover. Podran, les espies, alliberar-se de la moda assassina i parar l'Helga abans que ella provoqui més víctimes arreu del món?</desc>
-    <length units="seconds">1306</length>
-    <episode-num system="onscreen">51</episode-num>
-    <category lang="ca">FICCIÓ</category>
-    <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
+  <programme start="20260905140904 +0200" stop="20260905143923 +0200" channel="sx3">
+    <title lang="ca">Manduka family</title>
+    <sub-title lang="ca">Fricandó</sub-title>
+    <desc lang="ca">El fricandó és clarament un dels plats més emblemàtics de la cuina catalana. I com fas un plat tan tradicional quan només tens 10 anys ? Fàcil, seguint la recepta i experiència dels avis. I això és el que faran avui el Roger i la Ivette. </desc>
+    <length units="seconds">1819</length>
+    <episode-num system="onscreen">10</episode-num>
+    <category lang="ca">ENTRETENIMENT</category>
+    <category lang="ca">ALTRES</category>
     <rating>
       <value>INFANTIL</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/6/9/1781885918096.jpg"/>
   </programme>
-  <programme start="20260905111016 +0200" stop="20260905113116 +0200" channel="sx3">
-    <title lang="ca">Espies de veritat</title>
-    <sub-title lang="ca">Joguines assessinades</sub-title>
-    <desc lang="ca">Un fabricant de joguines d'alta tecnologia utilitza microxips militars per fer les figures més realistes. Involuntàriament, les joguines comencen a pensar per elles mateixes i s'entesten a dominar el món. D'altra banda, la Clover té una ninot nou que li dóna tots els seus desitjos i fantasies.</desc>
-    <length units="seconds">1260</length>
-    <episode-num system="onscreen">52</episode-num>
+  <programme start="20260905143923 +0200" stop="20260905145109 +0200" channel="sx3">
+    <title lang="ca">Les Sisters</title>
+    <sub-title lang="ca">Adopta una germana.com</sub-title>
+    <desc lang="ca">Després de la seva enèsima baralla, la Marine li diu a la Wendy que li agradaria canviar de germana. La Wendy li proposa que en busqui una al web 'Adopta una germana.com'. La Marine es connecta a internet i veu que el web sí que existeix. La Marine hi troba una germana gran adoptiva amb el perfil ideal. Genial! Però la Marine no trigarà a canviar d'idea...</desc>
+    <length units="seconds">706</length>
+    <episode-num system="onscreen">82</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
@@ -118,33 +103,32 @@
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/6/9/1781885918096.jpg"/>
   </programme>
   <channel id="c33">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20260905103828 +0200" stop="20260905113127 +0200" channel="c33">
-    <title lang="ca">Experiència Catalana</title>
-    <sub-title lang="ca">Mash i Tassy</sub-title>
-    <desc lang="ca">En Mash i en Tassy són dos japonesos amb qui coneixem els secrets de l'elaboració del cava i el vi, i per fer-ho, marxem fins al Penedès i el Priorat. A més, la Ivana Miño els regala una experiència única que segur s'enduen per sempre; una jornada castellera a Tarragona.</desc>
-    <length units="seconds">3179</length>
-    <episode-num system="onscreen">9</episode-num>
-    <category lang="ca">ENTRETENIMENT</category>
-    <category lang="ca">ALTRES</category>
+  <programme start="20260905141231 +0200" stop="20260905144102 +0200" channel="c33">
+    <title lang="ca">Quèquicom</title>
+    <sub-title lang="ca">El cafè</sub-title>
+    <desc lang="ca">És cert que un cafè augmenta l'eficàcia cerebral? Sol a amb sucre? I quantes tasses al dia? Quan et despertes, o millor esperar-te una estona? Fa pujar la pressió arterial? Com l'haurien de preparar als bars? I un consell: descarta el torrefacte.El cafè és un dels gustos més complexos de la gastronomia. Conté més de mil compostos i se n'han identificat 850. Encara queden 150 misteris per resoldre! Fina Brunet en segueix el procés: des de les característiques del gra segons l'origen, fins a la cata, passant per la torrefacció. </desc>
+    <length units="seconds">1711</length>
+    <episode-num system="onscreen">339</episode-num>
+    <category lang="ca">DIVULGACIÓ</category>
+    <category lang="ca">MAGAZINE ESPECIALITZAT</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20260905113127 +0200" stop="20260905122427 +0200" channel="c33">
-    <title lang="ca">Experiència Catalana</title>
-    <sub-title lang="ca">Meruschka</sub-title>
-    <desc lang="ca">La Ivana Miño acompanya la jove sud-africana Meruschka Govender, més coneguda com a Mzansi Girl, a la neu. Visitem amb ella la Vall d'Aran en ple hivern i, a Barcelona, l'acompanyem a conèixer les nostres tradicions de Nadal.</desc>
-    <length units="seconds">3180</length>
-    <episode-num system="onscreen">10</episode-num>
-    <category lang="ca">ENTRETENIMENT</category>
-    <category lang="ca">ALTRES</category>
+  <programme start="20260905144102 +0200" stop="20260905154004 +0200" channel="c33">
+    <title lang="ca">Els caps de setmana llargs d'en Rick Stein</title>
+    <sub-title lang="ca">Berlín</sub-title>
+    <desc lang="ca">En Rick no ha estat mai a Berlín. El sorprèn moltíssim el seu ambient de novel·la negra i el dinamisme dels berlinesos. La gastronomia de la ciutat es caracteritza per la presència simultània de restaurants que ofereixen menjar tradicional i locals moderns amb cuiners que fan versions noves de plats clàssics. A més, hi ha cuiners innovadors i agosarats que trenquen motlles organitzant esdeveniments únics en entorns d'allò més inusuals.</desc>
+    <length units="seconds">3542</length>
+    <episode-num system="onscreen">3</episode-num>
+    <category lang="ca">DIVULGACIÓ</category>
+    <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
