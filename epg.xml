@@ -3,52 +3,51 @@
   <channel id="tvi">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20260905060001 +0200" stop="20260905070001 +0200" channel="tvi">
+  <programme start="20260905100000 +0200" stop="20260905115500 +0200" channel="tvi">
     <title lang="ca">Notícies 3CatInfo</title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">3600</length>
-    <episode-num system="onscreen">11088</episode-num>
+    <length units="seconds">6900</length>
+    <episode-num system="onscreen">11090</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <previously-shown/>
     <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
-  <programme start="20260905070001 +0200" stop="20260905100000 +0200" channel="tvi">
+  <programme start="20260905114922 +0200" stop="20260905142957 +0200" channel="tvi">
     <title lang="ca">Notícies 3CatInfo</title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">10799</length>
-    <episode-num system="onscreen">11089</episode-num>
+    <length units="seconds">9635</length>
+    <episode-num system="onscreen">11091</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
+    <subtitles type="teletext"/>
     <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
   <channel id="324">
     <display-name>324</display-name>
   </channel>
-  <programme start="20260905060000 +0200" stop="20260905070000 +0200" channel="324">
+  <programme start="20260905100000 +0200" stop="20260905120000 +0200" channel="324">
     <title lang="ca">Notícies 3CatInfo</title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">3600</length>
-    <episode-num system="onscreen">11088</episode-num>
+    <length units="seconds">7200</length>
+    <episode-num system="onscreen">11090</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <previously-shown/>
     <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
-  <programme start="20260905070000 +0200" stop="20260905100000 +0200" channel="324">
+  <programme start="20260905120000 +0200" stop="20260905143000 +0200" channel="324">
     <title lang="ca">Notícies 3CatInfo</title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">10800</length>
-    <episode-num system="onscreen">11089</episode-num>
+    <length units="seconds">9000</length>
+    <episode-num system="onscreen">11091</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
@@ -60,97 +59,97 @@
   <channel id="esport3">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20260905061742 +0200" stop="20260905074830 +0200" channel="esport3">
-    <title lang="ca">Onze</title>
-    <sub-title lang="ca">Qui és més fort? Post Betis-Madrid i 'La Clau Delmàs'</sub-title>
-    <desc lang="ca">Carles Fité, Irati Vidal, David Ibáñez i Núria Casas analitzen el mercat de fitxatges de Barça i Madrid i el partit entre el Betis i el Madrid. L'Àlex Delmàs dona algunes claus del partit entre el València i el Barça.</desc>
-    <length units="seconds">5448</length>
-    <episode-num system="onscreen">1244</episode-num>
-    <category lang="ca">ESPORTS</category>
-    <category lang="ca">MAGAZINE</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <subtitles type="teletext"/>
-    <previously-shown/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/1/1/1688543515711.jpg"/>
-  </programme>
-  <programme start="20260905074830 +0200" stop="20260905092804 +0200" channel="esport3">
-    <title lang="ca">Bàsquet</title>
-    <sub-title lang="ca">Ratiopharm Ulm-iLerna Lleida / Torneig Sant Julià</sub-title>
-    <desc lang="ca">Segona jornada del prestigiós torneig de pretemporada que es disputa a la població osonenca de Sant Julià de Vilatorta.</desc>
-    <length units="seconds">5974</length>
-    <episode-num system="onscreen">8111</episode-num>
+  <programme start="20260905092914 +0200" stop="20260905105320 +0200" channel="esport3">
+    <title lang="ca">Handbol</title>
+    <sub-title lang="ca">Barça-Porto / Supercopa Ibèrica / Semifinal</sub-title>
+    <desc lang="ca">Els blaugranes, campions a les quatre edicions disputades fins ara, s'enfronten amb el segon classificat de l'última lliga portuguesa. Des de Vigo, amb la narració de Vicenç Prados i l'anàlisi de Víctor Tomàs.</desc>
+    <length units="seconds">5046</length>
+    <episode-num system="onscreen">1</episode-num>
     <category lang="ca">ESPORTS</category>
     <category lang="ca">RETRANSMISSIONS ESPORTS</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <previously-shown/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/8/0/1698775546608.jpg"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/9/1/1788346445719.jpg"/>
   </programme>
-  <channel id="sx3">
-    <display-name>SX3</display-name>
-  </channel>
-  <programme start="20260905064502 +0200" stop="20260905071206 +0200" channel="sx3">
-    <title lang="ca">Les Tres Bessones</title>
-    <sub-title lang="ca">Les Tres Bessones i el Dr. Jekyll i Mr. Hyde</sub-title>
-    <desc lang="ca">L'Avorrida ha castigat les Bessones al carrers foscos i emboirats del Londres del segle XIX. Allà coneixen el Dr. Jekyll, que les agafa d'ajudants per al seu laboratori. Però no estan soles: a la mateixa casa hi viu Mr. Hyde, un personatge misteriós i d'aspecte horripilant que surt de casa cada nit… Elles intenten descobrir qui és, però la seva identitat és el secret més ben guardat del Dr. Jekyll…</desc>
-    <length units="seconds">1624</length>
-    <episode-num system="onscreen">93</episode-num>
-    <category lang="ca">FICCIÓ</category>
-    <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
-    <rating>
-      <value>INFANTIL</value>
-    </rating>
-    <subtitles type="teletext"/>
-    <previously-shown/>
-  </programme>
-  <programme start="20260905071206 +0200" stop="20260905072404 +0200" channel="sx3">
-    <title lang="ca">L'abella Maia</title>
-    <sub-title lang="ca">El pol·len de tots els gustos</sub-title>
-    <desc lang="ca">Els guanyadors del concurs sorpresa d'aquest any seran els que facin la millor bola de pol·len. En Willi i la Maia s'hi presenten junts i tenen clar que el premi, que és un pastís, serà per ells! La pega és que en Willi, el dia que van explicar a classe com es feien les boles de pol·len, es va adormir, com de costum. El que no sap és que avui tindrà d'aliada una abella negra!</desc>
-    <length units="seconds">718</length>
-    <episode-num system="onscreen">55</episode-num>
-    <category lang="ca">FICCIÓ</category>
-    <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
-    <rating>
-      <value>INFANTIL</value>
-    </rating>
-    <subtitles type="teletext"/>
-    <previously-shown/>
-  </programme>
-  <channel id="c33">
-    <display-name>C33</display-name>
-  </channel>
-  <programme start="20260905061806 +0200" stop="20260905064848 +0200" channel="c33">
-    <title lang="ca">Quèquicom</title>
-    <sub-title lang="ca">Caçar amb caçadors</sub-title>
-    <desc lang="ca">Anem a caçar amb arc i fletxes per experimentar la dificultat de les tècniques de caça originals, i descobrim la darrera innovació tecnològica amb l'arc de politges. També aprofitarem l'habilitat predadora innata de gossos, fures i falcons per caçar becades, conills i perdius. Entendrem perquè la llargària del canó augmenta la precisió en les armes de foc.</desc>
-    <length units="seconds">1842</length>
-    <episode-num system="onscreen">253</episode-num>
-    <category lang="ca">DIVULGACIÓ</category>
-    <category lang="ca">MAGAZINE ESPECIALITZAT</category>
+  <programme start="20260905105320 +0200" stop="20260905112233 +0200" channel="esport3">
+    <title lang="ca">Zona Zàping Club</title>
+    <sub-title lang="ca">Aina Cerdà intenta veure més enllà del fotograma</sub-title>
+    <desc lang="ca">El vídeo s'atura en el moment més inoportú. Serà capaç d'endevinar què passa després i convèncer el Zapi? No us perdeu la ballaruga final: TOP!!</desc>
+    <length units="seconds">1753</length>
+    <episode-num system="onscreen">8</episode-num>
+    <category lang="ca">ESPORTS</category>
+    <category lang="ca">ESPECIALS</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20260905064848 +0200" stop="20260905073618 +0200" channel="c33">
-    <title lang="ca">La Renaixença</title>
-    <sub-title lang="ca">El mirall</sub-title>
-    <desc lang="ca">Trencar un mirall són 7 anys de mala sort. Algú ens pot confirmar si aquesta superstició és certa perquè ho ha viscut en primera persona? També pots tenir mala sort per defecte, sense haver trencat res. Dediquem aquest capítol al mirall. Ens visita la Regina Rodríguez Sirvent, autora de 'Les calces al sol': ens fa espòilers sobre la seva següent novel·la, i també parlem de diners. I sortim a passejar en Plum, un gos de Cornudella de Montsant, per la Conspiració de la Pólvora del 1606</desc>
-    <length units="seconds">2850</length>
-    <episode-num system="onscreen">61</episode-num>
-    <category lang="ca">DIVULGACIÓ</category>
+  <channel id="sx3">
+    <display-name>SX3</display-name>
+  </channel>
+  <programme start="20260905104830 +0200" stop="20260905111016 +0200" channel="sx3">
+    <title lang="ca">Espies de veritat</title>
+    <sub-title lang="ca">Víctimes de la moda</sub-title>
+    <desc lang="ca">La famosa dissenyadora de moda que també va aparèixer al capítol 'Un toc salvatge' ha tornat. Vol venjança. Amb la seva nova línia de roba de moda, planeja arribar al cim de la indústria de la moda. Pretén matar qualsevol persona que s'atreveixi a portar les seves peces de roba, incloent-hi l'Alex, la Sam i la Clover. Podran, les espies, alliberar-se de la moda assassina i parar l'Helga abans que ella provoqui més víctimes arreu del món?</desc>
+    <length units="seconds">1306</length>
+    <episode-num system="onscreen">51</episode-num>
+    <category lang="ca">FICCIÓ</category>
+    <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
+    <rating>
+      <value>INFANTIL</value>
+    </rating>
+    <subtitles type="teletext"/>
+    <previously-shown/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/6/9/1781885918096.jpg"/>
+  </programme>
+  <programme start="20260905111016 +0200" stop="20260905113116 +0200" channel="sx3">
+    <title lang="ca">Espies de veritat</title>
+    <sub-title lang="ca">Joguines assessinades</sub-title>
+    <desc lang="ca">Un fabricant de joguines d'alta tecnologia utilitza microxips militars per fer les figures més realistes. Involuntàriament, les joguines comencen a pensar per elles mateixes i s'entesten a dominar el món. D'altra banda, la Clover té una ninot nou que li dóna tots els seus desitjos i fantasies.</desc>
+    <length units="seconds">1260</length>
+    <episode-num system="onscreen">52</episode-num>
+    <category lang="ca">FICCIÓ</category>
+    <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
+    <rating>
+      <value>INFANTIL</value>
+    </rating>
+    <subtitles type="teletext"/>
+    <previously-shown/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/6/9/1781885918096.jpg"/>
+  </programme>
+  <channel id="c33">
+    <display-name>C33</display-name>
+  </channel>
+  <programme start="20260905103828 +0200" stop="20260905113127 +0200" channel="c33">
+    <title lang="ca">Experiència Catalana</title>
+    <sub-title lang="ca">Mash i Tassy</sub-title>
+    <desc lang="ca">En Mash i en Tassy són dos japonesos amb qui coneixem els secrets de l'elaboració del cava i el vi, i per fer-ho, marxem fins al Penedès i el Priorat. A més, la Ivana Miño els regala una experiència única que segur s'enduen per sempre; una jornada castellera a Tarragona.</desc>
+    <length units="seconds">3179</length>
+    <episode-num system="onscreen">9</episode-num>
+    <category lang="ca">ENTRETENIMENT</category>
     <category lang="ca">ALTRES</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/3/3/1756148014833.jpg"/>
+  </programme>
+  <programme start="20260905113127 +0200" stop="20260905122427 +0200" channel="c33">
+    <title lang="ca">Experiència Catalana</title>
+    <sub-title lang="ca">Meruschka</sub-title>
+    <desc lang="ca">La Ivana Miño acompanya la jove sud-africana Meruschka Govender, més coneguda com a Mzansi Girl, a la neu. Visitem amb ella la Vall d'Aran en ple hivern i, a Barcelona, l'acompanyem a conèixer les nostres tradicions de Nadal.</desc>
+    <length units="seconds">3180</length>
+    <episode-num system="onscreen">10</episode-num>
+    <category lang="ca">ENTRETENIMENT</category>
+    <category lang="ca">ALTRES</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <subtitles type="teletext"/>
+    <previously-shown/>
   </programme>
   <channel id="oca1">
     <display-name>OCA1</display-name>
