@@ -3,10 +3,10 @@
   <channel id="tvi">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20260905015324 +0200" stop="20260905043002 +0200" channel="tvi">
+  <programme start="20260905060001 +0200" stop="20260905070001 +0200" channel="tvi">
     <title lang="ca">Notícies 3CatInfo</title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">9398</length>
+    <length units="seconds">3600</length>
     <episode-num system="onscreen">11088</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
@@ -16,35 +16,21 @@
     <previously-shown/>
     <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
-  <programme start="20260905043002 +0200" stop="20260905051459 +0200" channel="tvi">
-    <title lang="ca">Fusió i swing a l'estudi</title>
-    <sub-title lang="ca">Djangologie</sub-title>
-    <desc lang="ca">Djangologie és un quintet que es dedica bàsicament al Gypsy Swing i que crea material propi al voltant dels diferents 'palos' d'aquest estil. Swing, vals, rumba, bolero o bossa nova, es combinen d'una manera natural en un joc de complicitats entre els solistes d'aquesta formació, que va ser una de les pioneres a casa nostra. Joan Ramon Puntí a la guitarra, Pere Soto a la guitarra, Albert Vila al contrabaix, Joan Aguilar al violí i Marc Casas al vibràfon.</desc>
-    <length units="seconds">2697</length>
-    <episode-num system="onscreen">17</episode-num>
-    <category lang="ca">MUSICALS</category>
-    <category lang="ca">ALTRES</category>
+  <programme start="20260905070001 +0200" stop="20260905100000 +0200" channel="tvi">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="seconds">10799</length>
+    <episode-num system="onscreen">11089</episode-num>
+    <category lang="ca">ACTUALITAT</category>
+    <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <previously-shown/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
   <channel id="324">
     <display-name>324</display-name>
   </channel>
-  <programme start="20260905010000 +0200" stop="20260905060000 +0200" channel="324">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">18000</length>
-    <episode-num system="onscreen">11088</episode-num>
-    <category lang="ca">ACTUALITAT</category>
-    <category lang="ca">INFORMATIU DIÀRI</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <previously-shown/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
-  </programme>
   <programme start="20260905060000 +0200" stop="20260905070000 +0200" channel="324">
     <title lang="ca">Notícies 3CatInfo</title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
@@ -58,14 +44,27 @@
     <previously-shown/>
     <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
+  <programme start="20260905070000 +0200" stop="20260905100000 +0200" channel="324">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="seconds">10800</length>
+    <episode-num system="onscreen">11089</episode-num>
+    <category lang="ca">ACTUALITAT</category>
+    <category lang="ca">INFORMATIU DIÀRI</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <subtitles type="teletext"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
+  </programme>
   <channel id="esport3">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20260905005157 +0200" stop="20260905022246 +0200" channel="esport3">
+  <programme start="20260905061742 +0200" stop="20260905074830 +0200" channel="esport3">
     <title lang="ca">Onze</title>
     <sub-title lang="ca">Qui és més fort? Post Betis-Madrid i 'La Clau Delmàs'</sub-title>
     <desc lang="ca">Carles Fité, Irati Vidal, David Ibáñez i Núria Casas analitzen el mercat de fitxatges de Barça i Madrid i el partit entre el Betis i el Madrid. L'Àlex Delmàs dona algunes claus del partit entre el València i el Barça.</desc>
-    <length units="seconds">5449</length>
+    <length units="seconds">5448</length>
     <episode-num system="onscreen">1244</episode-num>
     <category lang="ca">ESPORTS</category>
     <category lang="ca">MAGAZINE</category>
@@ -76,28 +75,29 @@
     <previously-shown/>
     <icon src="https://img.ccma.cat/multimedia/jpg/1/1/1688543515711.jpg"/>
   </programme>
-  <programme start="20260905022246 +0200" stop="20260905025354 +0200" channel="esport3">
-    <title lang="ca">3CatInfo Esports</title>
-    <desc lang="ca">Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.</desc>
-    <length units="seconds">1868</length>
-    <episode-num system="onscreen">5499</episode-num>
+  <programme start="20260905074830 +0200" stop="20260905092804 +0200" channel="esport3">
+    <title lang="ca">Bàsquet</title>
+    <sub-title lang="ca">Ratiopharm Ulm-iLerna Lleida / Torneig Sant Julià</sub-title>
+    <desc lang="ca">Segona jornada del prestigiós torneig de pretemporada que es disputa a la població osonenca de Sant Julià de Vilatorta.</desc>
+    <length units="seconds">5974</length>
+    <episode-num system="onscreen">8111</episode-num>
     <category lang="ca">ESPORTS</category>
-    <category lang="ca">INFORMATIU DIÀRI</category>
+    <category lang="ca">RETRANSMISSIONS ESPORTS</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <previously-shown/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/9/7/1758888682179.jpg"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/8/0/1698775546608.jpg"/>
   </programme>
   <channel id="sx3">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20260905021502 +0200" stop="20260905023429 +0200" channel="sx3">
-    <title lang="ca">Viatges Pokémon</title>
-    <sub-title lang="ca">Esquitxa, salta i lluita per la corona!</sub-title>
-    <desc lang="ca">D'aquí a poc se celebra la competició de salt d'altura de Magikarp, i el Goh i el seu Magikarp volen vèncer el Kasukarp i el seu company, el Shinegoldie! Després d'un entrenament intens, el Magikarp d'en Goh deixa molt enrere el Shinegoldie, però salta tan amunt que entra a l'estratosfera i, com que no torna, queda desqualificat. Tot seguit, els nostres herois visiten l'illa Slowpoke, on veuen molts Slowpoke i un Slowking! Quan el Goh intenta capturar el Slowking li cau el Shellder que du al cap, que va a parar al cap dels nostres herois; cosa que provoca que adoptin un comportament estrany! El caos s'acaba quan el Shellder torna al cap de l'Slowking, juntament amb el Magikarp del Goh! </desc>
-    <length units="seconds">1167</length>
-    <episode-num system="onscreen">26</episode-num>
+  <programme start="20260905064502 +0200" stop="20260905071206 +0200" channel="sx3">
+    <title lang="ca">Les Tres Bessones</title>
+    <sub-title lang="ca">Les Tres Bessones i el Dr. Jekyll i Mr. Hyde</sub-title>
+    <desc lang="ca">L'Avorrida ha castigat les Bessones al carrers foscos i emboirats del Londres del segle XIX. Allà coneixen el Dr. Jekyll, que les agafa d'ajudants per al seu laboratori. Però no estan soles: a la mateixa casa hi viu Mr. Hyde, un personatge misteriós i d'aspecte horripilant que surt de casa cada nit… Elles intenten descobrir qui és, però la seva identitat és el secret més ben guardat del Dr. Jekyll…</desc>
+    <length units="seconds">1624</length>
+    <episode-num system="onscreen">93</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
@@ -106,12 +106,12 @@
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20260905023429 +0200" stop="20260905025408 +0200" channel="sx3">
-    <title lang="ca">Viatges Pokémon</title>
-    <sub-title lang="ca">Ens fem forts!</sub-title>
-    <desc lang="ca">Els nostres herois estan molt emocionats, perquè tenen entrades per anar a veure el combat entre el Lionel i el Roy, el líder de gimnàs de tipus drac de Galar, a la Sèrie Mundial de Coronació. Els dos contrincants són forts, però l'imbatut Lionel torna a guanyar. L'Ash i el Goh s'assabenten d'una llegenda sobre un jove heroi que va salvar Galar d'una tempesta devastadora, i després es troben un Farfetch'd de Galar. Tot i que és semblant al Farfetch'd de Kanto del Goh, aquesta altra forma regional porta un porro immens que utilitza per combatre. El Farfetch'd de Galar desafia tots els entrenadors que es troba pel camí, i l'Ash, després de combatre-hi i quedar impressionat per la seva tenacitat, el convida a ser un nou membre de l'equip.</desc>
-    <length units="seconds">1179</length>
-    <episode-num system="onscreen">27</episode-num>
+  <programme start="20260905071206 +0200" stop="20260905072404 +0200" channel="sx3">
+    <title lang="ca">L'abella Maia</title>
+    <sub-title lang="ca">El pol·len de tots els gustos</sub-title>
+    <desc lang="ca">Els guanyadors del concurs sorpresa d'aquest any seran els que facin la millor bola de pol·len. En Willi i la Maia s'hi presenten junts i tenen clar que el premi, que és un pastís, serà per ells! La pega és que en Willi, el dia que van explicar a classe com es feien les boles de pol·len, es va adormir, com de costum. El que no sap és que avui tindrà d'aliada una abella negra!</desc>
+    <length units="seconds">718</length>
+    <episode-num system="onscreen">55</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
@@ -123,33 +123,34 @@
   <channel id="c33">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20260905021713 +0200" stop="20260905030718 +0200" channel="c33">
-    <title lang="ca">Alaska salvatge</title>
-    <sub-title lang="ca">Primavera</sub-title>
-    <desc lang="ca">Alaska és el territori i l'estat més septentrional dels Estats Units, una regió vasta dominada per la natura salvatge. En aquest episodi assistim a l'arribada de la primavera, que canvia radicalment l'aspecte d'Alaska després dels mesos hivernals. El desglaç genera una autèntica explosió de vida a terra ferma, i al mar provoca l'arribada en massa dels arengs i altres espècies marines que tenen una gran importància per a l'economia local.</desc>
-    <length units="seconds">3005</length>
-    <episode-num system="onscreen">1</episode-num>
+  <programme start="20260905061806 +0200" stop="20260905064848 +0200" channel="c33">
+    <title lang="ca">Quèquicom</title>
+    <sub-title lang="ca">Caçar amb caçadors</sub-title>
+    <desc lang="ca">Anem a caçar amb arc i fletxes per experimentar la dificultat de les tècniques de caça originals, i descobrim la darrera innovació tecnològica amb l'arc de politges. També aprofitarem l'habilitat predadora innata de gossos, fures i falcons per caçar becades, conills i perdius. Entendrem perquè la llargària del canó augmenta la precisió en les armes de foc.</desc>
+    <length units="seconds">1842</length>
+    <episode-num system="onscreen">253</episode-num>
     <category lang="ca">DIVULGACIÓ</category>
-    <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
+    <category lang="ca">MAGAZINE ESPECIALITZAT</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20260905030718 +0200" stop="20260905035939 +0200" channel="c33">
-    <title lang="ca">Cites Barcelona</title>
-    <sub-title lang="ca">Laura-Jan / Tiago-Mimi</sub-title>
-    <desc lang="ca">A l'hotel W, la Laura i el Jan passen la nit de cap d'any junts després d'haver estat deixats per les seves parelles. Al matí següent, el Jan rep un missatge de la seva ex disposada a intentar arreglar les coses. Juntament amb la Laura, el Jan tractarà de decidir si ha de tornar o no amb ella. Durant el debat es posaran de manifest els problemes de la relació, la gelosia i les inseguretats.Aquella mateixa nit, el Tiago s'escapa de casa d'uns amics seus per veure's amb la Mimi, un 'match' de Tinder que viu en aquell mateix edifici. Al matí següent, tenen una discussió i ell marxa de males maneres, però no pot tornar a casa seva ja que es va deixar les seves coses al pis dels seus amics. No li queda mes remei que tornar a casa de la Mimi per demanar-li ajuda, però malgrat les reticències inicials, serà l'ocasió perfecta per conèixer-se millor.</desc>
-    <length units="seconds">3141</length>
-    <episode-num system="onscreen">1</episode-num>
-    <category lang="ca">FICCIÓ</category>
-    <category lang="ca">SÈRIE DRAMÀTICA</category>
+  <programme start="20260905064848 +0200" stop="20260905073618 +0200" channel="c33">
+    <title lang="ca">La Renaixença</title>
+    <sub-title lang="ca">El mirall</sub-title>
+    <desc lang="ca">Trencar un mirall són 7 anys de mala sort. Algú ens pot confirmar si aquesta superstició és certa perquè ho ha viscut en primera persona? També pots tenir mala sort per defecte, sense haver trencat res. Dediquem aquest capítol al mirall. Ens visita la Regina Rodríguez Sirvent, autora de 'Les calces al sol': ens fa espòilers sobre la seva següent novel·la, i també parlem de diners. I sortim a passejar en Plum, un gos de Cornudella de Montsant, per la Conspiració de la Pólvora del 1606</desc>
+    <length units="seconds">2850</length>
+    <episode-num system="onscreen">61</episode-num>
+    <category lang="ca">DIVULGACIÓ</category>
+    <category lang="ca">ALTRES</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/3/3/1756148014833.jpg"/>
   </programme>
   <channel id="oca1">
     <display-name>OCA1</display-name>
