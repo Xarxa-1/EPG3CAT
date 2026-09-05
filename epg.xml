@@ -3,38 +3,6 @@
   <channel id="tvi">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20260905222237 +0200" stop="20260905234853 +0200" channel="tvi">
-    <title lang="ca">Pel·lícula</title>
-    <sub-title lang="ca">Cosmètica de l'enemic</sub-title>
-    <desc lang="ca">COSMÈTICA DE L'ENEMICProductores: Sábado Películas, Barry Films i The Project, 2020Director: Kike MaílloGuió: Cristina Clemente, Kike Maíllo i Fernando NavarroDirector de fotografia: Rita NoriegaCompositor musical: Alex BaranowskiIntèrprets: Tomasz Kot (Jeremiasz Angust), Athena Strates (Texel Textor), Marta Nieto (Isabelle) i Dominique Pinon (Jean Rosen)L'arquitecte d'èxit Jeremiasz Angust perd el vol a causa d'una jove que l'ha abordat i no para d'importunar-lo. A partir d'aquí, tots dos comencen una conversa que, tot i que sembla fortuïta, aviat es converteix en alguna cosa més sinistra i criminal.</desc>
-    <credits>
-      <writer>Cristina Clemente</writer>
-      <writer>Kike Maíllo</writer>
-      <writer>Fernando NavarroDirector de fotografia: Rita NoriegaCompositor musical: Alex BaranowskiIntèrprets: Tomasz Kot (Jeremiasz Angust)</writer>
-      <writer>Athena Strates (Texel Textor)</writer>
-      <writer>Marta Nieto (Isabelle)</writer>
-      <writer>Dominique</writer>
-      <actor>Tomasz Kot (Jeremiasz Angust)</actor>
-      <actor>Athena Strates (Texel Textor)</actor>
-      <actor>Marta Nieto (Isabelle)</actor>
-      <actor>Dominique Pinon (Jean Rosen)L'arquitecte d'èxit Jeremiasz Angust perd el vol a causa d'una jove que l'ha abordat</actor>
-      <actor>no para d'importunar-lo. A partir d'aquí</actor>
-      <actor>tots dos comencen una conversa que</actor>
-      <actor>tot</actor>
-      <actor>que sembla fortuïta</actor>
-      <actor>aviat es converteix en alguna cosa més sinistra</actor>
-      <actor>criminal.</actor>
-    </credits>
-    <length units="seconds">5176</length>
-    <episode-num system="onscreen">1</episode-num>
-    <category lang="ca">FICCIÓ</category>
-    <category lang="ca">PEL·LÍCULA / TELEFILM</category>
-    <rating>
-      <value>PÚBLIC ADULT</value>
-    </rating>
-    <subtitles type="teletext"/>
-    <previously-shown/>
-  </programme>
   <programme start="20260905234853 +0200" stop="20260906013238 +0200" channel="tvi">
     <title lang="ca">Pel·lícula</title>
     <sub-title lang="ca">Coses a fer abans de morir</sub-title>
@@ -67,41 +35,57 @@
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <channel id="324">
-    <display-name>324</display-name>
-  </channel>
-  <programme start="20260905230000 +0200" stop="20260906003000 +0200" channel="324">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">5400</length>
-    <episode-num system="onscreen">11095</episode-num>
-    <category lang="ca">ACTUALITAT</category>
-    <category lang="ca">INFORMATIU DIÀRI</category>
+  <programme start="20260906013238 +0200" stop="20260906020001 +0200" channel="tvi">
+    <title lang="ca">El retorn de les lluernes</title>
+    <sub-title lang="ca">Cristina i 'El sentit d'un final'</sub-title>
+    <desc lang="ca">Aquest capítol del programa parteix de la novel·la 'El sentit d'un final' (Angle Editorial), de Julian BarnesTony Webster és ara un jubilat de vida tranquil·la, aparentment en pau amb la seva vida. Però es veurà abocat a revisar el seu passat, especialment els seus anys adolescents. Ara, passats més de quaranta anys, Tony Webster s'adona que molts fets potser no van passar com els havia recordat. Perquè la memòria és imperfecta i pot fer aflorar sorpreses. I, fins i tot, obligar-te a reinterpretar tota una vida.Cristina Fort és la lectora que s'endinsa en la novel·la i ens descobreix personatges paral·lels ubicats al Pallars Sobirà.</desc>
+    <length units="seconds">1643</length>
+    <episode-num system="onscreen">10</episode-num>
+    <category lang="ca">ENTRETENIMENT</category>
+    <category lang="ca">ALTRES</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
+    <subtitles type="teletext"/>
+    <previously-shown/>
   </programme>
-  <programme start="20260906003000 +0200" stop="20260906010000 +0200" channel="324">
+  <channel id="324">
+    <display-name>324</display-name>
+  </channel>
+  <programme start="20260906010000 +0200" stop="20260906060000 +0200" channel="324">
     <title lang="ca">Notícies 3CatInfo</title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">1800</length>
+    <length units="seconds">18000</length>
     <episode-num system="onscreen">11096</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
+    <previously-shown/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
+  </programme>
+  <programme start="20260906060000 +0200" stop="20260906070000 +0200" channel="324">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="seconds">3600</length>
+    <episode-num system="onscreen">11096</episode-num>
+    <category lang="ca">ACTUALITAT</category>
+    <category lang="ca">INFORMATIU DIÀRI</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <previously-shown/>
     <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
   <channel id="esport3">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20260905225954 +0200" stop="20260906000123 +0200" channel="esport3">
+  <programme start="20260906004433 +0200" stop="20260906020336 +0200" channel="esport3">
     <title lang="ca">Gol a gol</title>
     <sub-title lang="ca">Anàlisi de la jornada / J4 / Dissabte</sub-title>
     <desc lang="ca">'Gol a gol' us ofereix els resums dels partits de futbol de Primera i Segona Divisió. Presentat per Jordi Grau a Esport3, cada dissabte i cada diumenge podeu veure les millors imatges de la jornada de Lliga amb l'anàlisi dels experts, amb especial atenció als equips catalans, sobretot el Barça, el Girona i l'Espanyol.</desc>
-    <length units="seconds">3689</length>
+    <length units="seconds">4743</length>
     <episode-num system="onscreen">1771</episode-num>
     <category lang="ca">ESPORTS</category>
     <category lang="ca">MAGAZINE</category>
@@ -109,29 +93,31 @@
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
+    <previously-shown/>
     <icon src="https://img.ccma.cat/multimedia/jpg/2/1/1698144123212.jpg"/>
   </programme>
-  <programme start="20260906000123 +0200" stop="20260906001710 +0200" channel="esport3">
+  <programme start="20260906020336 +0200" stop="20260906022923 +0200" channel="esport3">
     <title lang="ca">3CatInfo Esports</title>
     <desc lang="ca">Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.</desc>
-    <length units="seconds">947</length>
+    <length units="seconds">1547</length>
     <episode-num system="onscreen">5500</episode-num>
     <category lang="ca">ESPORTS</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
+    <previously-shown/>
     <icon src="https://img.ccma.cat/multimedia/jpg/9/7/1758888682179.jpg"/>
   </programme>
   <channel id="sx3">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20260905233006 +0200" stop="20260905234044 +0200" channel="sx3">
-    <title lang="ca">La tropa del corral</title>
-    <sub-title lang="ca">Una esquilada de por</sub-title>
-    <desc lang="ca">La Crystal necessita l'ajuda de la Tropa perquè el granger la vol esquilar. Mentre un grup l'intenta entretenir, l'altre acompanya la Crystal a la seva sessió de teràpia amb l'Albert, que intenta superar la seva tendència a acumular coses.</desc>
-    <length units="seconds">638</length>
-    <episode-num system="onscreen">42</episode-num>
+  <programme start="20260906011502 +0200" stop="20260906013540 +0200" channel="sx3">
+    <title lang="ca">Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
+    <sub-title lang="ca">El Bombollador</sub-title>
+    <desc lang="ca">Aquesta vegada, l'Esfinx aprofita el ressentiment del Nino contra els adults per crear un personatge malvat a la seva mida, el Bombollador, capaç de tancar els seus enemics dins d'una bombolla i engegar-los cap al cel. Però un cop més, les habilitats de Ladybug i el Gat Negre salvaran els nens de la ciutat de París. </desc>
+    <length units="seconds">1238</length>
+    <episode-num system="onscreen">2</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
@@ -140,12 +126,12 @@
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20260905234044 +0200" stop="20260905235133 +0200" channel="sx3">
-    <title lang="ca">La gateta Arc iris papallona unicorn</title>
-    <sub-title lang="ca">La poderosa Meu i el Superlluita</sub-title>
-    <desc lang="ca">La Felicity i el Miguel es disfressen de superherois per combatre el crim a Mitelàndia. S'ho passen tan bé que decideixen renunciar a la seva identitat real. Però l'Athena i la Yana estan molt amoïnades perquè no tenen notícies d'ells.</desc>
-    <length units="seconds">649</length>
-    <episode-num system="onscreen">10</episode-num>
+  <programme start="20260906013540 +0200" stop="20260906015618 +0200" channel="sx3">
+    <title lang="ca">Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
+    <sub-title lang="ca">L'Impostor</sub-title>
+    <desc lang="ca">Davant de l'atònita mirada dels visitants del Louvre, el Gat Negre roba la Gioconda, cosa que el converteix en el principal sospitós del robatori, però Ladybug convençuda que el seu amic no és un lladre, buscarà la manera de demostrar la seva innocència. </desc>
+    <length units="seconds">1238</length>
+    <episode-num system="onscreen">3</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
@@ -157,12 +143,12 @@
   <channel id="c33">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20260905230156 +0200" stop="20260906000049 +0200" channel="c33">
-    <title lang="ca">Els caps de setmana llargs d'en Rick Stein</title>
-    <sub-title lang="ca">Lisboa</sub-title>
-    <desc lang="ca">En Rick Stein visita Lisboa, a la riba del Tajo, una ciutat ideal per tastar un marisc extraordinari o el famós 'pastéis de Belém', qui sap si el millor pastisset de crema del món. S'endinsarà en el llegat històric lisboeta, les seves festes populars o el modern Mercado da Ribeira, i vibrarà amb la malenconia del 'fado'. Finalment, ens farà un plat de mar i muntanya -porc i cloïsses 'à alentejana'-; també un pastís deliciós d'ametlla amb caramel de sucre i mantega, i bunyols de bacallà amb coriandre.</desc>
-    <length units="seconds">3533</length>
-    <episode-num system="onscreen">6</episode-num>
+  <programme start="20260906005128 +0200" stop="20260906014233 +0200" channel="c33">
+    <title lang="ca">Els quaderns de cuina de la Julie</title>
+    <sub-title lang="ca">Saintoge</sub-title>
+    <desc lang="ca">En aquest episodi, la Julie visita la regió de Saintonge, al departament de la Charanta Marítima. Amb la Lisette prepara els cargols típics de la Charanta. A continuació visita una fàbrica de mantega elaborada a l'estil tradicional. Després, amb en Piqthiu, prepara un gigourit, un civet típic de la regió. Finalment, amb la Michèle, prepara unes coques de la Charanta farcides d'angèlica.</desc>
+    <length units="seconds">3065</length>
+    <episode-num system="onscreen">78</episode-num>
     <category lang="ca">DIVULGACIÓ</category>
     <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
     <rating>
@@ -171,12 +157,12 @@
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20260906000049 +0200" stop="20260906005127 +0200" channel="c33">
-    <title lang="ca">Els quaderns de cuina de la Julie</title>
-    <sub-title lang="ca">La ribera del Marne</sub-title>
-    <desc lang="ca">La Brigitte fa un guisat de conill amb raïm negre segons una recepta molt antiga i típica de la ribera del Marne. En Philippe pertany a una confraria de vinyataires que han fet reviscolar un vinet blanc molt emblemàtic de Nogent-sur-Marne. En Fabrice, descendent d'italians, fa un pa de pessic italià emborratxat amb licor d'ametlles. La Michelle i la Christine fan un guisat de bou amb anxoves i pastanaga i en Tayeb, director d'una formatgeria, ens canta les excel·lències del brie.</desc>
-    <length units="seconds">3038</length>
-    <episode-num system="onscreen">77</episode-num>
+  <programme start="20260906014233 +0200" stop="20260906023412 +0200" channel="c33">
+    <title lang="ca">Les latituds del canvi</title>
+    <sub-title lang="ca">Les latituds del canvi</sub-title>
+    <desc lang="ca">La llibertat del canvi és un documental de natura sensible i poètic centrat en l'experiència i l'evolució personal d'un grup de persones de diversos països en una aventura marítima de més de 10.000 km. Unida al voltant d'uns objectius comuns, la tripulació del veler Atlas salpa amb la missió d'estudiar els ecosistemes amenaçats de les aigües de l'Àrtic i recollir dades científiques importants sobre la fauna marina, i més concretament sobre les balenes, el plàncton i els microplàstics. Es tracta d'una aventura humana motivada per la ciència participativa, l'exploració i la superació personal.</desc>
+    <length units="seconds">3099</length>
+    <episode-num system="onscreen">1</episode-num>
     <category lang="ca">DIVULGACIÓ</category>
     <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
     <rating>
