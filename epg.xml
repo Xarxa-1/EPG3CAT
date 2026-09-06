@@ -3,46 +3,29 @@
   <channel id="tvi">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20260906215959 +0200" stop="20260906234328 +0200" channel="tvi">
-    <title lang="ca">Pel·lícula</title>
-    <sub-title lang="ca">Coses a fer abans de morir</sub-title>
-    <desc lang="ca">COSES A FER ABANS DE MORIRProductores: The Fly Hunter, S.L. i Fosca Films, S.L., 2020Direcció: Cristina Fernández Pintado i Miguel LlorensGuió: Cristina Fernández PintadoFotografia: Miguel LlorensMúsica: Josep Zapater i Noelia PérezIntèrprets: Sergio Caballero (Sam), Cristina Fernández (Isabel), Oriol Tarrasón (Robert), Manuel Maestro (Saul), Mireia Pérez (Sabrina), Àngel Fígols (Marcos) i Vanessa Cano (Nadia)Sinopsi:La mort de Sam reuneix els seus amics per complir una promesa durant un cap de setmana on sorgiran sentiments, passions i secrets, i descobriran que res és el que sembla.Sinopsi:La mort de Sam reuneix els seus amics per complir una promesa durant un cap de setmana on sorgiran sentiments, passions i secrets, i descobriran que res és el que sembla.</desc>
-    <credits>
-      <director>Cristina Fernández Pintado</director>
-      <director>Miguel Llorens</director>
-      <writer>Cristina Fernández</writer>
-      <actor>Sergio Caballero (Sam)</actor>
-      <actor>Cristina Fernández (Isabel)</actor>
-      <actor>Oriol Tarrasón (Robert)</actor>
-      <actor>Manuel Maestro (Saul)</actor>
-      <actor>Mireia Pérez (Sabrina)</actor>
-      <actor>Àngel Fígols (Marcos)</actor>
-      <actor>Vanessa Cano (Nadia)Sinopsi:La mort de Sam reuneix els seus amics per complir una promesa durant un cap de setmana on sorgiran sentiments</actor>
-      <actor>passions</actor>
-      <actor>secrets</actor>
-      <actor>descobriran que res és el que sembla.Sinopsi:La mort de Sam reuneix els seus amics per complir una promesa durant un cap de setmana on sorgiran sentiments</actor>
-      <actor>passions</actor>
-      <actor>secrets</actor>
-      <actor>descobriran que res és el que sembla.</actor>
-    </credits>
-    <length units="seconds">6209</length>
-    <episode-num system="onscreen">1</episode-num>
-    <category lang="ca">FICCIÓ</category>
-    <category lang="ca">PEL·LÍCULA / TELEFILM</category>
+  <programme start="20260907001321 +0200" stop="20260907011017 +0200" channel="tvi">
+    <title lang="ca">Vosaltres mateixos</title>
+    <sub-title lang="ca">Tres estrelles</sub-title>
+    <desc lang="ca">L'Andreu cuina amb una minixef i amb l'ajuda de la Sílvia Abril, i prova la manera de fer esport que més li encaixa: en una hamaca. </desc>
+    <length units="seconds">3416</length>
+    <episode-num system="onscreen">14</episode-num>
+    <category lang="ca">ENTRETENIMENT</category>
+    <category lang="ca">TALK-SHOW</category>
     <rating>
-      <value>PÚBLIC ADULT</value>
+      <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
+    <icon src="https://img.ccma.cat/multimedia/png/6/6/1698344358966.png"/>
   </programme>
-  <programme start="20260906234328 +0200" stop="20260907001319 +0200" channel="tvi">
-    <title lang="ca">Oh! Europa</title>
-    <sub-title lang="ca">Holanda</sub-title>
-    <desc lang="ca">El grup visita un important museu d'Amsterdam i es troba amb un conegut futbolista del Barça que els salva d'una situació ben difícil. Mentrestant, la Trini està buscant el seu germà, que des de fa més de vint anys viu a Holanda. Els dos germans, finalment, es retroben i ho celebren.</desc>
-    <length units="seconds">1791</length>
-    <episode-num system="onscreen">7</episode-num>
-    <category lang="ca">FICCIÓ</category>
-    <category lang="ca">SITCOM (COMÈDIA DE SITUACIÓ)</category>
+  <programme start="20260907011017 +0200" stop="20260907013157 +0200" channel="tvi">
+    <title lang="ca">Bàlsam</title>
+    <sub-title lang="ca">Gòspel per sanar l'esperit</sub-title>
+    <desc lang="ca">En aquest capítol coneixem la Dora, una dona lampista a qui les cançons de gòspel l'acompanyen diàriament a la feina. I l'Abby, cantant i estudiant d'infermeria, que somia a curar a la gent amb el cant. Les dues canten gòspel a l'estil del seu país d'origen, Nigèria, els diumenges a les esglésies evangèliques; i són integrants del First African Gospel of Barcelona, fundat per Joe Psalmist. Totes dues viuen apassionadament pel gòspel, com a eina de sanació i agraïment.</desc>
+    <length units="seconds">1300</length>
+    <episode-num system="onscreen">4</episode-num>
+    <category lang="ca">DIVULGACIÓ</category>
+    <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
@@ -52,18 +35,6 @@
   <channel id="324">
     <display-name>324</display-name>
   </channel>
-  <programme start="20260906230000 +0200" stop="20260907003000 +0200" channel="324">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">5400</length>
-    <episode-num system="onscreen">11103</episode-num>
-    <category lang="ca">ACTUALITAT</category>
-    <category lang="ca">INFORMATIU DIÀRI</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
-  </programme>
   <programme start="20260907003000 +0200" stop="20260907010000 +0200" channel="324">
     <title lang="ca">Notícies 3CatInfo</title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
@@ -76,27 +47,26 @@
     </rating>
     <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
-  <channel id="esport3">
-    <display-name>ESPORT3</display-name>
-  </channel>
-  <programme start="20260906230007 +0200" stop="20260907003115 +0200" channel="esport3">
-    <title lang="ca">Gol a gol</title>
-    <sub-title lang="ca">Anàlisi de la jornada / J4 / Diumenge</sub-title>
-    <desc lang="ca">'Gol a gol' us ofereix els resums dels partits de futbol de Primera i Segona Divisió. Presentat per Jordi Grau a Esport3, cada dissabte i cada diumenge podeu veure les millors imatges de la jornada de Lliga amb l'anàlisi dels experts, amb especial atenció als equips catalans, sobretot el Barça, el Girona i l'Espanyol.</desc>
-    <length units="seconds">5468</length>
-    <episode-num system="onscreen">1774</episode-num>
-    <category lang="ca">ESPORTS</category>
-    <category lang="ca">MAGAZINE</category>
+  <programme start="20260907010000 +0200" stop="20260907060000 +0200" channel="324">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="seconds">18000</length>
+    <episode-num system="onscreen">11104</episode-num>
+    <category lang="ca">ACTUALITAT</category>
+    <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <subtitles type="teletext"/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/2/1/1698144123212.jpg"/>
+    <previously-shown/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
-  <programme start="20260907003115 +0200" stop="20260907005012 +0200" channel="esport3">
+  <channel id="esport3">
+    <display-name>ESPORT3</display-name>
+  </channel>
+  <programme start="20260907003414 +0200" stop="20260907010950 +0200" channel="esport3">
     <title lang="ca">3CatInfo Esports</title>
     <desc lang="ca">Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.</desc>
-    <length units="seconds">1137</length>
+    <length units="seconds">2136</length>
     <episode-num system="onscreen">5501</episode-num>
     <category lang="ca">ESPORTS</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
@@ -105,15 +75,30 @@
     </rating>
     <icon src="https://img.ccma.cat/multimedia/jpg/9/7/1758888682179.jpg"/>
   </programme>
+  <programme start="20260907010950 +0200" stop="20260907031044 +0200" channel="esport3">
+    <title lang="ca">Gol a gol</title>
+    <sub-title lang="ca">Anàlisi de la jornada / J4 / Diumenge</sub-title>
+    <desc lang="ca">'Gol a gol' us ofereix els resums dels partits de futbol de Primera i Segona Divisió. Presentat per Jordi Grau a Esport3, cada dissabte i cada diumenge podeu veure les millors imatges de la jornada de Lliga amb l'anàlisi dels experts, amb especial atenció als equips catalans, sobretot el Barça, el Girona i l'Espanyol.</desc>
+    <length units="seconds">7254</length>
+    <episode-num system="onscreen">1774</episode-num>
+    <category lang="ca">ESPORTS</category>
+    <category lang="ca">MAGAZINE</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <subtitles type="teletext"/>
+    <previously-shown/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/2/1/1698144123212.jpg"/>
+  </programme>
   <channel id="sx3">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20260906225801 +0200" stop="20260906230853 +0200" channel="sx3">
-    <title lang="ca">La tropa del corral</title>
-    <sub-title lang="ca">Un xèrif nou a la ciutat</sub-title>
-    <desc lang="ca">L'Albert surt amb la confiança pels núvols després d'una sessió amb al Crystal i es pensa que és el xèrif de Vilanimal. Imposa la seva llei a tothom i acaba empresonant els integrants de la Tropa. Qui els salvarà?</desc>
-    <length units="seconds">652</length>
-    <episode-num system="onscreen">45</episode-num>
+  <programme start="20260907004322 +0200" stop="20260907005410 +0200" channel="sx3">
+    <title lang="ca">La gateta Arc iris papallona unicorn</title>
+    <sub-title lang="ca">La gran gimcana mítica</sub-title>
+    <desc lang="ca">Tot Mitelàndia participa en una gran gimcana. El guanyador aconseguirà un superpoder extraordinari i podrà governar el país durant un dia. La Felicity i el Miguel formen equip i s'enfronten al kraken Timmy, que vol el superpoder per sotmetre Mitelàndia i els seus habitants.</desc>
+    <length units="seconds">648</length>
+    <episode-num system="onscreen">52</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
@@ -122,12 +107,12 @@
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20260906230853 +0200" stop="20260906231936 +0200" channel="sx3">
-    <title lang="ca">La tropa del corral</title>
-    <sub-title lang="ca">L'infermer</sub-title>
-    <desc lang="ca">La Maggie té un refredat terrible, i quan la Tropa rep una nova missió, en Cornelius es queda cuidant-la. Per desgràcia, el pobre Cornelius no s'adona que la Maggie, marejada, amb el nas tapat i mig desorientada, se'n va del corral. Ha perdut la pacient i ara no sap com trobar-la!</desc>
-    <length units="seconds">643</length>
-    <episode-num system="onscreen">46</episode-num>
+  <programme start="20260907005410 +0200" stop="20260907011517 +0200" channel="sx3">
+    <title lang="ca">Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
+    <sub-title lang="ca">El Sr. Colom</sub-title>
+    <desc lang="ca">En aquest episodi, el senyor Ramier, un home que s'estima molt els coloms, caurà sota la influència malèfica de l'Esfinx i es convertirà en el Senyor Colom, un malvat que intentarà dominar París. Com sempre, els nostres herois acudiran a salvar els seus conciutadans. L'únic problema, en aquest cas, és que el Gat Noir és al·lèrgic a les plomes.</desc>
+    <length units="seconds">1267</length>
+    <episode-num system="onscreen">6</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
@@ -139,26 +124,26 @@
   <channel id="c33">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20260906224513 +0200" stop="20260906233401 +0200" channel="c33">
-    <title lang="ca">Viatges insòlits</title>
-    <sub-title lang="ca">Japó II</sub-title>
-    <desc lang="ca">La segona part del viatge pel Japó arrenca a Kyoto, on en Tom coneixerà les habilitats d'un antic samurai i passarà una agradable vetllada amb una geisha autèntica com a amfitriona. De camí cap a Tòquio, visitarà uns penya-segats amb una reputació funesta i s'endinsarà en un camp que organitza cursos de formació poc convencionals per a directius. Ja a Tòquio, visitarà un centre d'acollida de hikikimori, els joves que viuen aïllats a la seva habitació, i anirà a sopar a un restaurant molt peculiar.</desc>
-    <length units="seconds">2928</length>
-    <episode-num system="onscreen">35</episode-num>
+  <programme start="20260907001537 +0200" stop="20260907005753 +0200" channel="c33">
+    <title lang="ca">Un món de Jocs</title>
+    <sub-title lang="ca">Un riutal antic</sub-title>
+    <desc lang="ca">Als humans ens encanta jugar. Al llargs dels últims 300.000 anys, hem inventat milers de jocs, potser milions. Però l'origen dels jocs no és gaire divertit. Van sorgir de la nostra lluita per sobreviure. En aquest episodi, analitzem com va començar tot.Donga, EtiòpiaFierljeppen, els Països BaixosCaça d'àguiles, el KirguizstanCurses de camells, Dubai</desc>
+    <length units="seconds">2536</length>
+    <episode-num system="onscreen">1</episode-num>
     <category lang="ca">DIVULGACIÓ</category>
     <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
-    <previously-shown/>
+    <icon src="https://img.3cat.cat/multimedia/jpg/3/7/1788343809373.jpg"/>
   </programme>
-  <programme start="20260906233401 +0200" stop="20260907001537 +0200" channel="c33">
-    <title lang="ca">Viatges insòlits</title>
-    <sub-title lang="ca">Últims dies al Japó</sub-title>
-    <desc lang="ca">Comencem l'última part del viatge pel Japó amb una visita polèmica: Fukushima. Després de més d'una dècada del desastre nuclear, en Tom vol veure com es recupera la zona i, sobre tot, com ho viuen els japonesos que van patir el tsunami. Els últims kilòmetres de la ruta portaran en Tom a paratges insòlits i inoblidables.</desc>
-    <length units="seconds">2496</length>
-    <episode-num system="onscreen">36</episode-num>
+  <programme start="20260907005753 +0200" stop="20260907015030 +0200" channel="c33">
+    <title lang="ca">Llocs recòndits</title>
+    <sub-title lang="ca">Turquia</sub-title>
+    <desc lang="ca">'Llocs recòndits - Turquia' permet que l'audiència se submergeixi en la història i la cultura resistent de Turquia, i que s'embarqui en una pila de viatges que canvien la vida. Entre els llocs visitats hi ha Istanbul, la Capadòcia, Antioquia, Antalya i Laodicea.</desc>
+    <length units="seconds">3157</length>
+    <episode-num system="onscreen">6</episode-num>
     <category lang="ca">DIVULGACIÓ</category>
     <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
     <rating>
