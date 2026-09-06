@@ -3,50 +3,30 @@
   <channel id="tvi">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20260905234853 +0200" stop="20260906013238 +0200" channel="tvi">
-    <title lang="ca">Pel·lícula</title>
-    <sub-title lang="ca">Coses a fer abans de morir</sub-title>
-    <desc lang="ca">COSES A FER ABANS DE MORIRProductores: The Fly Hunter, S.L. i Fosca Films, S.L., 2020Direcció: Cristina Fernández Pintado i Miguel LlorensGuió: Cristina Fernández PintadoFotografia: Miguel LlorensMúsica: Josep Zapater i Noelia PérezIntèrprets: Sergio Caballero (Sam), Cristina Fernández (Isabel), Oriol Tarrasón (Robert), Manuel Maestro (Saul), Mireia Pérez (Sabrina), Àngel Fígols (Marcos) i Vanessa Cano (Nadia)Sinopsi:La mort de Sam reuneix els seus amics per complir una promesa durant un cap de setmana on sorgiran sentiments, passions i secrets, i descobriran que res és el que sembla.Sinopsi:La mort de Sam reuneix els seus amics per complir una promesa durant un cap de setmana on sorgiran sentiments, passions i secrets, i descobriran que res és el que sembla.</desc>
-    <credits>
-      <director>Cristina Fernández Pintado</director>
-      <director>Miguel Llorens</director>
-      <writer>Cristina Fernández</writer>
-      <actor>Sergio Caballero (Sam)</actor>
-      <actor>Cristina Fernández (Isabel)</actor>
-      <actor>Oriol Tarrasón (Robert)</actor>
-      <actor>Manuel Maestro (Saul)</actor>
-      <actor>Mireia Pérez (Sabrina)</actor>
-      <actor>Àngel Fígols (Marcos)</actor>
-      <actor>Vanessa Cano (Nadia)Sinopsi:La mort de Sam reuneix els seus amics per complir una promesa durant un cap de setmana on sorgiran sentiments</actor>
-      <actor>passions</actor>
-      <actor>secrets</actor>
-      <actor>descobriran que res és el que sembla.Sinopsi:La mort de Sam reuneix els seus amics per complir una promesa durant un cap de setmana on sorgiran sentiments</actor>
-      <actor>passions</actor>
-      <actor>secrets</actor>
-      <actor>descobriran que res és el que sembla.</actor>
-    </credits>
-    <length units="seconds">6225</length>
-    <episode-num system="onscreen">1</episode-num>
-    <category lang="ca">FICCIÓ</category>
-    <category lang="ca">PEL·LÍCULA / TELEFILM</category>
+  <programme start="20260906020001 +0200" stop="20260906043001 +0200" channel="tvi">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="seconds">9000</length>
+    <episode-num system="onscreen">11096</episode-num>
+    <category lang="ca">ACTUALITAT</category>
+    <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
-      <value>PÚBLIC ADULT</value>
+      <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <subtitles type="teletext"/>
     <previously-shown/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
-  <programme start="20260906013238 +0200" stop="20260906020001 +0200" channel="tvi">
-    <title lang="ca">El retorn de les lluernes</title>
-    <sub-title lang="ca">Cristina i 'El sentit d'un final'</sub-title>
-    <desc lang="ca">Aquest capítol del programa parteix de la novel·la 'El sentit d'un final' (Angle Editorial), de Julian BarnesTony Webster és ara un jubilat de vida tranquil·la, aparentment en pau amb la seva vida. Però es veurà abocat a revisar el seu passat, especialment els seus anys adolescents. Ara, passats més de quaranta anys, Tony Webster s'adona que molts fets potser no van passar com els havia recordat. Perquè la memòria és imperfecta i pot fer aflorar sorpreses. I, fins i tot, obligar-te a reinterpretar tota una vida.Cristina Fort és la lectora que s'endinsa en la novel·la i ens descobreix personatges paral·lels ubicats al Pallars Sobirà.</desc>
-    <length units="seconds">1643</length>
-    <episode-num system="onscreen">10</episode-num>
-    <category lang="ca">ENTRETENIMENT</category>
+  <programme start="20260906043001 +0200" stop="20260906051457 +0200" channel="tvi">
+    <title lang="ca">Fusió i swing a l'estudi</title>
+    <sub-title lang="ca">Òscar Font &amp; The Swingones</sub-title>
+    <desc lang="ca">Entren a l'estudi Òscar Font &amp; The Swingones amb un repertori compost per l'històric i polifacètic Font i que sona a cavall del jazz i el rock-and-roll. L'estil, segons ells, pot recordar els temes més 'jazzy' de Loquillo o Rebeldes, sense moure's de l'ortodòxia del swing. Òscar Font a la veu, al trombó i al clarinet, Juli Aymí, al saxo i al clarinet, Josep Traver, a la guitarra, i Artur Regada, al contrabaix.</desc>
+    <length units="seconds">2696</length>
+    <episode-num system="onscreen">18</episode-num>
+    <category lang="ca">MUSICALS</category>
     <category lang="ca">ALTRES</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
   <channel id="324">
@@ -81,25 +61,24 @@
   <channel id="esport3">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20260906004433 +0200" stop="20260906020336 +0200" channel="esport3">
-    <title lang="ca">Gol a gol</title>
-    <sub-title lang="ca">Anàlisi de la jornada / J4 / Dissabte</sub-title>
-    <desc lang="ca">'Gol a gol' us ofereix els resums dels partits de futbol de Primera i Segona Divisió. Presentat per Jordi Grau a Esport3, cada dissabte i cada diumenge podeu veure les millors imatges de la jornada de Lliga amb l'anàlisi dels experts, amb especial atenció als equips catalans, sobretot el Barça, el Girona i l'Espanyol.</desc>
-    <length units="seconds">4743</length>
-    <episode-num system="onscreen">1771</episode-num>
+  <programme start="20260906022925 +0200" stop="20260906035549 +0200" channel="esport3">
+    <title lang="ca">Handbol</title>
+    <sub-title lang="ca">Supercopa Ibèrica / Final</sub-title>
+    <desc lang="ca">Des de Vigo, final de la competició d'handbol que enfronta els millors equips de la Península. Amb la narració de Vicenç Prados i l'anàlisi de Víctor Tomàs. </desc>
+    <length units="seconds">5184</length>
+    <episode-num system="onscreen">2</episode-num>
     <category lang="ca">ESPORTS</category>
-    <category lang="ca">MAGAZINE</category>
+    <category lang="ca">RETRANSMISSIONS ESPORTS</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <subtitles type="teletext"/>
     <previously-shown/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/2/1/1698144123212.jpg"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/9/1/1788346445719.jpg"/>
   </programme>
-  <programme start="20260906020336 +0200" stop="20260906022923 +0200" channel="esport3">
+  <programme start="20260906035549 +0200" stop="20260906042127 +0200" channel="esport3">
     <title lang="ca">3CatInfo Esports</title>
     <desc lang="ca">Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.</desc>
-    <length units="seconds">1547</length>
+    <length units="seconds">1538</length>
     <episode-num system="onscreen">5500</episode-num>
     <category lang="ca">ESPORTS</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
@@ -112,28 +91,28 @@
   <channel id="sx3">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20260906011502 +0200" stop="20260906013540 +0200" channel="sx3">
-    <title lang="ca">Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
-    <sub-title lang="ca">El Bombollador</sub-title>
-    <desc lang="ca">Aquesta vegada, l'Esfinx aprofita el ressentiment del Nino contra els adults per crear un personatge malvat a la seva mida, el Bombollador, capaç de tancar els seus enemics dins d'una bombolla i engegar-los cap al cel. Però un cop més, les habilitats de Ladybug i el Gat Negre salvaran els nens de la ciutat de París. </desc>
-    <length units="seconds">1238</length>
-    <episode-num system="onscreen">2</episode-num>
+  <programme start="20260906030808 +0200" stop="20260906031811 +0200" channel="sx3">
+    <title lang="ca">Com dibuixar còmics amb el Will Sliney</title>
+    <sub-title lang="ca">Ciberinsecte</sub-title>
+    <desc lang="ca">Ja tenim un equip de cinc superherois creats pel Will Sliney per defensar la Terra de la invasió alienígena dirigida del malvat Crònica. I de moment només coneixíem un dels superdolents que ha creat el Crònica per neutralitzar-los. En aquest episodi sabrem qui és el segon membre d'aquest temible exèrcit invasor, el Ciberinsecte, una bestiola amb el poder d'introduir-se a les xarxes informàtiques per crear el caos.</desc>
+    <length units="seconds">603</length>
+    <episode-num system="onscreen">32</episode-num>
     <category lang="ca">FICCIÓ</category>
-    <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
+    <category lang="ca">ALTRES</category>
     <rating>
       <value>INFANTIL</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20260906013540 +0200" stop="20260906015618 +0200" channel="sx3">
-    <title lang="ca">Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
-    <sub-title lang="ca">L'Impostor</sub-title>
-    <desc lang="ca">Davant de l'atònita mirada dels visitants del Louvre, el Gat Negre roba la Gioconda, cosa que el converteix en el principal sospitós del robatori, però Ladybug convençuda que el seu amic no és un lladre, buscarà la manera de demostrar la seva innocència. </desc>
-    <length units="seconds">1238</length>
-    <episode-num system="onscreen">3</episode-num>
+  <programme start="20260906031811 +0200" stop="20260906032840 +0200" channel="sx3">
+    <title lang="ca">Com dibuixar còmics amb el Will Sliney</title>
+    <sub-title lang="ca">Ogret</sub-title>
+    <desc lang="ca">En aquest nou episodi continua la presentació dels superdolents creats pel malvat Crònica perquè siguin l'antítesi dels superherois que prèviament havien creat el Will i l'Ogam per salvar la Terra. Avui arriba el torn de l'Ogret, que tot i el seu aspecte bufó, perquè està dibuixat amb l'estil japonès chibi, és l'arxienemic de la Guspireta i el seu objectiu des de fa centenars d'anys és acabar amb ella.</desc>
+    <length units="seconds">629</length>
+    <episode-num system="onscreen">33</episode-num>
     <category lang="ca">FICCIÓ</category>
-    <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
+    <category lang="ca">ALTRES</category>
     <rating>
       <value>INFANTIL</value>
     </rating>
@@ -143,12 +122,12 @@
   <channel id="c33">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20260906005128 +0200" stop="20260906014233 +0200" channel="c33">
-    <title lang="ca">Els quaderns de cuina de la Julie</title>
-    <sub-title lang="ca">Saintoge</sub-title>
-    <desc lang="ca">En aquest episodi, la Julie visita la regió de Saintonge, al departament de la Charanta Marítima. Amb la Lisette prepara els cargols típics de la Charanta. A continuació visita una fàbrica de mantega elaborada a l'estil tradicional. Després, amb en Piqthiu, prepara un gigourit, un civet típic de la regió. Finalment, amb la Michèle, prepara unes coques de la Charanta farcides d'angèlica.</desc>
-    <length units="seconds">3065</length>
-    <episode-num system="onscreen">78</episode-num>
+  <programme start="20260906023413 +0200" stop="20260906032643 +0200" channel="c33">
+    <title lang="ca">Invasors de l'Everest</title>
+    <sub-title lang="ca">Invasors de l'Everest</sub-title>
+    <desc lang="ca">Des de fa un temps, el mític Everest, que va ser coronat per primera vegada ara fa 70 anys, s'ha convertit en un objectiu a l'abast dels neoalpinistes, milionaris que estan prou en forma per afegir l'ascensió al cim del món a la llista dels desitjos que han pogut complir. Els residus són la part més visible dels problemes que provoca la massificació de l'alpinisme, però la qüestió de fons és l'apropiació i l'explotació d'un espai que abans era lliure i que ara pateix una invasió.</desc>
+    <length units="seconds">3150</length>
+    <episode-num system="onscreen">1</episode-num>
     <category lang="ca">DIVULGACIÓ</category>
     <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
     <rating>
@@ -156,15 +135,16 @@
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
+    <icon src="https://img.3cat.cat/multimedia/jpg/7/0/1737383470507.jpg"/>
   </programme>
-  <programme start="20260906014233 +0200" stop="20260906023412 +0200" channel="c33">
-    <title lang="ca">Les latituds del canvi</title>
-    <sub-title lang="ca">Les latituds del canvi</sub-title>
-    <desc lang="ca">La llibertat del canvi és un documental de natura sensible i poètic centrat en l'experiència i l'evolució personal d'un grup de persones de diversos països en una aventura marítima de més de 10.000 km. Unida al voltant d'uns objectius comuns, la tripulació del veler Atlas salpa amb la missió d'estudiar els ecosistemes amenaçats de les aigües de l'Àrtic i recollir dades científiques importants sobre la fauna marina, i més concretament sobre les balenes, el plàncton i els microplàstics. Es tracta d'una aventura humana motivada per la ciència participativa, l'exploració i la superació personal.</desc>
-    <length units="seconds">3099</length>
-    <episode-num system="onscreen">1</episode-num>
-    <category lang="ca">DIVULGACIÓ</category>
-    <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
+  <programme start="20260906032643 +0200" stop="20260906041818 +0200" channel="c33">
+    <title lang="ca">Cites Barcelona</title>
+    <sub-title lang="ca">Paula-Sofia / Matilda-Samuel</sub-title>
+    <desc lang="ca">La Paula i la Sofia es retroben 7 anys després. L'atracció i la connexió segueixen sent la mateixa que el primer dia. La Paula ara és mare soltera, mentre que la Sofia viu a Guatemala, només està de pas i són les seves últimes hores a Barcelona. Amb el temps corrent en contra seva, han de decidir si estan disposades a arriscar-ho tot per estar juntes per fi, o si prendran camins diferents altre cop.Mentrestant, la Matilda, que no ha tingut un bon dia, ni una bona setmana, ni un bon mes, necessita follar immediatament per oblidar-se de tot. La seva sort sembla millorar quan fa 'match' amb el Samuel, un noi que sembla el germà guapo de Thor. La Matilda no vol perdre el temps, però al Samuel li agrada anar amb menys presses. La cita es converteix en un xoc de trens que no sembla que hagi d'acabar en bon port.</desc>
+    <length units="seconds">3095</length>
+    <episode-num system="onscreen">4</episode-num>
+    <category lang="ca">FICCIÓ</category>
+    <category lang="ca">SÈRIE DRAMÀTICA</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
