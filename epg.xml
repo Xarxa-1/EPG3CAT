@@ -3,37 +3,60 @@
   <channel id="tvi">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20260906203744 +0200" stop="20260906210000 +0200" channel="tvi">
-    <title lang="ca">Atrapa'm si pots. Els millors moments.</title>
-    <desc lang="ca">'Atrapa'm si pots' és un 'quiz show' clàssic, de preguntes i respostes, presentat per Llucià Ferrer, en què sis concursants competeixen per arribar a la fase final i guanyar el pot. 'Atrapa'm si pots' és entreteniment pur i on gairebé és més important passar-s'ho bé que els diners. És un concurs en què pesa més la intuïció que no els coneixements acadèmics, més l'estratègia en el joc que no la sort.</desc>
-    <length units="seconds">1336</length>
-    <episode-num system="onscreen">987</episode-num>
-    <category lang="ca">ENTRETENIMENT</category>
-    <category lang="ca">CONCURS</category>
+  <programme start="20260906215959 +0200" stop="20260906234328 +0200" channel="tvi">
+    <title lang="ca">Pel·lícula</title>
+    <sub-title lang="ca">Coses a fer abans de morir</sub-title>
+    <desc lang="ca">COSES A FER ABANS DE MORIRProductores: The Fly Hunter, S.L. i Fosca Films, S.L., 2020Direcció: Cristina Fernández Pintado i Miguel LlorensGuió: Cristina Fernández PintadoFotografia: Miguel LlorensMúsica: Josep Zapater i Noelia PérezIntèrprets: Sergio Caballero (Sam), Cristina Fernández (Isabel), Oriol Tarrasón (Robert), Manuel Maestro (Saul), Mireia Pérez (Sabrina), Àngel Fígols (Marcos) i Vanessa Cano (Nadia)Sinopsi:La mort de Sam reuneix els seus amics per complir una promesa durant un cap de setmana on sorgiran sentiments, passions i secrets, i descobriran que res és el que sembla.Sinopsi:La mort de Sam reuneix els seus amics per complir una promesa durant un cap de setmana on sorgiran sentiments, passions i secrets, i descobriran que res és el que sembla.</desc>
+    <credits>
+      <director>Cristina Fernández Pintado</director>
+      <director>Miguel Llorens</director>
+      <writer>Cristina Fernández</writer>
+      <actor>Sergio Caballero (Sam)</actor>
+      <actor>Cristina Fernández (Isabel)</actor>
+      <actor>Oriol Tarrasón (Robert)</actor>
+      <actor>Manuel Maestro (Saul)</actor>
+      <actor>Mireia Pérez (Sabrina)</actor>
+      <actor>Àngel Fígols (Marcos)</actor>
+      <actor>Vanessa Cano (Nadia)Sinopsi:La mort de Sam reuneix els seus amics per complir una promesa durant un cap de setmana on sorgiran sentiments</actor>
+      <actor>passions</actor>
+      <actor>secrets</actor>
+      <actor>descobriran que res és el que sembla.Sinopsi:La mort de Sam reuneix els seus amics per complir una promesa durant un cap de setmana on sorgiran sentiments</actor>
+      <actor>passions</actor>
+      <actor>secrets</actor>
+      <actor>descobriran que res és el que sembla.</actor>
+    </credits>
+    <length units="seconds">6209</length>
+    <episode-num system="onscreen">1</episode-num>
+    <category lang="ca">FICCIÓ</category>
+    <category lang="ca">PEL·LÍCULA / TELEFILM</category>
     <rating>
-      <value>TOTS ELS PÚBLICS</value>
+      <value>PÚBLIC ADULT</value>
     </rating>
+    <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20260906210000 +0200" stop="20260906220431 +0200" channel="tvi">
-    <title lang="ca">Telenotícies vespre</title>
-    <length units="seconds">3871</length>
-    <episode-num system="onscreen">7319</episode-num>
-    <category lang="ca">ACTUALITAT</category>
-    <category lang="ca">INFORMATIU DIÀRI</category>
+  <programme start="20260906234328 +0200" stop="20260907001319 +0200" channel="tvi">
+    <title lang="ca">Oh! Europa</title>
+    <sub-title lang="ca">Holanda</sub-title>
+    <desc lang="ca">El grup visita un important museu d'Amsterdam i es troba amb un conegut futbolista del Barça que els salva d'una situació ben difícil. Mentrestant, la Trini està buscant el seu germà, que des de fa més de vint anys viu a Holanda. Els dos germans, finalment, es retroben i ho celebren.</desc>
+    <length units="seconds">1791</length>
+    <episode-num system="onscreen">7</episode-num>
+    <category lang="ca">FICCIÓ</category>
+    <category lang="ca">SITCOM (COMÈDIA DE SITUACIÓ)</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <icon src="https://img.ccma.cat/multimedia/jpg/7/2/1758026176427.jpg"/>
+    <subtitles type="teletext"/>
+    <previously-shown/>
   </programme>
   <channel id="324">
     <display-name>324</display-name>
   </channel>
-  <programme start="20260906200000 +0200" stop="20260906210000 +0200" channel="324">
+  <programme start="20260906230000 +0200" stop="20260907003000 +0200" channel="324">
     <title lang="ca">Notícies 3CatInfo</title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">3600</length>
-    <episode-num system="onscreen">11102</episode-num>
+    <length units="seconds">5400</length>
+    <episode-num system="onscreen">11103</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
@@ -41,70 +64,70 @@
     </rating>
     <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
-  <programme start="20260906210000 +0200" stop="20260906230000 +0200" channel="324">
-    <title lang="ca">Telenotícies vespre</title>
-    <length units="seconds">7200</length>
-    <episode-num system="onscreen">7319</episode-num>
+  <programme start="20260907003000 +0200" stop="20260907010000 +0200" channel="324">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="seconds">1800</length>
+    <episode-num system="onscreen">11104</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <subtitles type="teletext"/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/7/2/1758026176427.jpg"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
   <channel id="esport3">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20260906203902 +0200" stop="20260906211003 +0200" channel="esport3">
-    <title lang="ca">Esport Club Cap de Setmana</title>
-    <sub-title lang="ca">Esport Club</sub-title>
-    <desc lang="ca">Magazín amb tota l'actualitat esportiva del cap de setmana, amb atenció especial a la jornada de futbol i les principals competicions del nostre esport.</desc>
-    <length units="seconds">1861</length>
-    <episode-num system="onscreen">1381</episode-num>
+  <programme start="20260906230007 +0200" stop="20260907003115 +0200" channel="esport3">
+    <title lang="ca">Gol a gol</title>
+    <sub-title lang="ca">Anàlisi de la jornada / J4 / Diumenge</sub-title>
+    <desc lang="ca">'Gol a gol' us ofereix els resums dels partits de futbol de Primera i Segona Divisió. Presentat per Jordi Grau a Esport3, cada dissabte i cada diumenge podeu veure les millors imatges de la jornada de Lliga amb l'anàlisi dels experts, amb especial atenció als equips catalans, sobretot el Barça, el Girona i l'Espanyol.</desc>
+    <length units="seconds">5468</length>
+    <episode-num system="onscreen">1774</episode-num>
+    <category lang="ca">ESPORTS</category>
+    <category lang="ca">MAGAZINE</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <subtitles type="teletext"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/2/1/1698144123212.jpg"/>
+  </programme>
+  <programme start="20260907003115 +0200" stop="20260907005012 +0200" channel="esport3">
+    <title lang="ca">3CatInfo Esports</title>
+    <desc lang="ca">Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.</desc>
+    <length units="seconds">1137</length>
+    <episode-num system="onscreen">5501</episode-num>
     <category lang="ca">ESPORTS</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <icon src="https://img.ccma.cat/multimedia/jpg/7/3/1698145091337.jpg"/>
-  </programme>
-  <programme start="20260906211003 +0200" stop="20260906214101 +0200" channel="esport3">
-    <title lang="ca">E3D</title>
-    <sub-title lang="ca">BMX UCI HC / Extreme Barcelona / Final masculina</sub-title>
-    <desc lang="ca">Final masculina de BMX a la 18a edició de l'Extrem Barcelona, que es fa al Parc del Fòrum. Amb la narració de Jordi Gil.</desc>
-    <length units="seconds">1858</length>
-    <episode-num system="onscreen">8117</episode-num>
-    <category lang="ca">ESPORTS</category>
-    <category lang="ca">RETRANSMISSIONS ESPORTS</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <icon src="https://img.ccma.cat/multimedia/jpg/3/2/1788358923323.jpg"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/9/7/1758888682179.jpg"/>
   </programme>
   <channel id="sx3">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20260906203926 +0200" stop="20260906210008 +0200" channel="sx3">
-    <title lang="ca">Henry Danger</title>
-    <sub-title lang="ca">La trampa del cubell</sub-title>
-    <desc lang="ca">En Henry i la Charlotte posen a prova la capacitat d'en Jasper per guardar un secret inventant-ne un de fals, però l'experiment acaba complicant més del que esperaven.</desc>
-    <length units="seconds">1242</length>
-    <episode-num system="onscreen">23</episode-num>
+  <programme start="20260906225801 +0200" stop="20260906230853 +0200" channel="sx3">
+    <title lang="ca">La tropa del corral</title>
+    <sub-title lang="ca">Un xèrif nou a la ciutat</sub-title>
+    <desc lang="ca">L'Albert surt amb la confiança pels núvols després d'una sessió amb al Crystal i es pensa que és el xèrif de Vilanimal. Imposa la seva llei a tothom i acaba empresonant els integrants de la Tropa. Qui els salvarà?</desc>
+    <length units="seconds">652</length>
+    <episode-num system="onscreen">45</episode-num>
     <category lang="ca">FICCIÓ</category>
-    <category lang="ca">SÈRIE DRAMÀTICA</category>
+    <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
       <value>INFANTIL</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20260906210008 +0200" stop="20260906212101 +0200" channel="sx3">
-    <title lang="ca">Els germans Kratt</title>
-    <sub-title lang="ca">Energia de panda</sub-title>
-    <desc lang="ca">Els germans Kratt i tot l'equip se'n van d'expedició a la Xina per estudiar els óssos panda i fer-ne un recompte, ja que estan en perill d'extinció, i l'Aviva es posa molt contenta perquè és un animal que li agrada molt. Com sempre, s'hauran d'enfrontar amb un dels malvats. El Zach vol capturar els pandes i convertir-los en ninots de peluix vius robotitzats, i quan deixa els nostres herois sense energia per fer anar els vehicles, ells s'inspiren en el panda per trobar una energia alternativa.</desc>
-    <length units="seconds">1253</length>
-    <episode-num system="onscreen">94</episode-num>
+  <programme start="20260906230853 +0200" stop="20260906231936 +0200" channel="sx3">
+    <title lang="ca">La tropa del corral</title>
+    <sub-title lang="ca">L'infermer</sub-title>
+    <desc lang="ca">La Maggie té un refredat terrible, i quan la Tropa rep una nova missió, en Cornelius es queda cuidant-la. Per desgràcia, el pobre Cornelius no s'adona que la Maggie, marejada, amb el nas tapat i mig desorientada, se'n va del corral. Ha perdut la pacient i ara no sap com trobar-la!</desc>
+    <length units="seconds">643</length>
+    <episode-num system="onscreen">46</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
@@ -116,12 +139,12 @@
   <channel id="c33">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20260906200048 +0200" stop="20260906205951 +0200" channel="c33">
-    <title lang="ca">Els caps de setmana llargs d'en Rick Stein</title>
-    <sub-title lang="ca">Lisboa</sub-title>
-    <desc lang="ca">En Rick Stein visita Lisboa, a la riba del Tajo, una ciutat ideal per tastar un marisc extraordinari o el famós 'pastéis de Belém', qui sap si el millor pastisset de crema del món. S'endinsarà en el llegat històric lisboeta, les seves festes populars o el modern Mercado da Ribeira, i vibrarà amb la malenconia del 'fado'. Finalment, ens farà un plat de mar i muntanya -porc i cloïsses 'à alentejana'-; també un pastís deliciós d'ametlla amb caramel de sucre i mantega, i bunyols de bacallà amb coriandre.</desc>
-    <length units="seconds">3543</length>
-    <episode-num system="onscreen">6</episode-num>
+  <programme start="20260906224513 +0200" stop="20260906233401 +0200" channel="c33">
+    <title lang="ca">Viatges insòlits</title>
+    <sub-title lang="ca">Japó II</sub-title>
+    <desc lang="ca">La segona part del viatge pel Japó arrenca a Kyoto, on en Tom coneixerà les habilitats d'un antic samurai i passarà una agradable vetllada amb una geisha autèntica com a amfitriona. De camí cap a Tòquio, visitarà uns penya-segats amb una reputació funesta i s'endinsarà en un camp que organitza cursos de formació poc convencionals per a directius. Ja a Tòquio, visitarà un centre d'acollida de hikikimori, els joves que viuen aïllats a la seva habitació, i anirà a sopar a un restaurant molt peculiar.</desc>
+    <length units="seconds">2928</length>
+    <episode-num system="onscreen">35</episode-num>
     <category lang="ca">DIVULGACIÓ</category>
     <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
     <rating>
@@ -130,10 +153,19 @@
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20260906205951 +0200" stop="20260906210131 +0200" channel="c33">
-    <title lang="ca">SENSE FI CANAL 33</title>
-    <desc lang="ca">Sense Descripció</desc>
-    <length units="seconds">100</length>
+  <programme start="20260906233401 +0200" stop="20260907001537 +0200" channel="c33">
+    <title lang="ca">Viatges insòlits</title>
+    <sub-title lang="ca">Últims dies al Japó</sub-title>
+    <desc lang="ca">Comencem l'última part del viatge pel Japó amb una visita polèmica: Fukushima. Després de més d'una dècada del desastre nuclear, en Tom vol veure com es recupera la zona i, sobre tot, com ho viuen els japonesos que van patir el tsunami. Els últims kilòmetres de la ruta portaran en Tom a paratges insòlits i inoblidables.</desc>
+    <length units="seconds">2496</length>
+    <episode-num system="onscreen">36</episode-num>
+    <category lang="ca">DIVULGACIÓ</category>
+    <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <subtitles type="teletext"/>
+    <previously-shown/>
   </programme>
   <channel id="oca1">
     <display-name>OCA1</display-name>
