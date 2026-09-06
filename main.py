@@ -116,7 +116,7 @@ def main():
                 or prog_data.get("titol_tdt")
                 or "Sense títol"
             )
-            title_elem = ET.SubElement(prog_elem, "title"," ","title", lang="ca")
+            title_elem = ET.SubElement(prog_elem, "title"," lang="ca")
             title_elem.text = titol
 
             # Subtítol / Títol del capítol
