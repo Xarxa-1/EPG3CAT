@@ -3,69 +3,67 @@
   <channel id="tvi">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20260906020001 +0200" stop="20260906043001 +0200" channel="tvi">
+  <programme start="20260906070001 +0200" stop="20260906100000 +0200" channel="tvi">
     <title lang="ca">Notícies 3CatInfo</title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">9000</length>
-    <episode-num system="onscreen">11096</episode-num>
+    <length units="seconds">10799</length>
+    <episode-num system="onscreen">11097</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <previously-shown/>
     <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
-  <programme start="20260906043001 +0200" stop="20260906051457 +0200" channel="tvi">
-    <title lang="ca">Fusió i swing a l'estudi</title>
-    <sub-title lang="ca">Òscar Font &amp; The Swingones</sub-title>
-    <desc lang="ca">Entren a l'estudi Òscar Font &amp; The Swingones amb un repertori compost per l'històric i polifacètic Font i que sona a cavall del jazz i el rock-and-roll. L'estil, segons ells, pot recordar els temes més 'jazzy' de Loquillo o Rebeldes, sense moure's de l'ortodòxia del swing. Òscar Font a la veu, al trombó i al clarinet, Juli Aymí, al saxo i al clarinet, Josep Traver, a la guitarra, i Artur Regada, al contrabaix.</desc>
-    <length units="seconds">2696</length>
-    <episode-num system="onscreen">18</episode-num>
-    <category lang="ca">MUSICALS</category>
-    <category lang="ca">ALTRES</category>
+  <programme start="20260906100000 +0200" stop="20260906111106 +0200" channel="tvi">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="seconds">4266</length>
+    <episode-num system="onscreen">11098</episode-num>
+    <category lang="ca">ACTUALITAT</category>
+    <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <previously-shown/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
   <channel id="324">
     <display-name>324</display-name>
   </channel>
-  <programme start="20260906010000 +0200" stop="20260906060000 +0200" channel="324">
+  <programme start="20260906070000 +0200" stop="20260906100000 +0200" channel="324">
     <title lang="ca">Notícies 3CatInfo</title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">18000</length>
-    <episode-num system="onscreen">11096</episode-num>
+    <length units="seconds">10800</length>
+    <episode-num system="onscreen">11097</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <previously-shown/>
+    <subtitles type="teletext"/>
     <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
-  <programme start="20260906060000 +0200" stop="20260906070000 +0200" channel="324">
+  <programme start="20260906100000 +0200" stop="20260906120000 +0200" channel="324">
     <title lang="ca">Notícies 3CatInfo</title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">3600</length>
-    <episode-num system="onscreen">11096</episode-num>
+    <length units="seconds">7200</length>
+    <episode-num system="onscreen">11098</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <previously-shown/>
+    <subtitles type="teletext"/>
     <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
   <channel id="esport3">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20260906022925 +0200" stop="20260906035549 +0200" channel="esport3">
+  <programme start="20260906072024 +0200" stop="20260906084649 +0200" channel="esport3">
     <title lang="ca">Handbol</title>
     <sub-title lang="ca">Supercopa Ibèrica / Final</sub-title>
     <desc lang="ca">Des de Vigo, final de la competició d'handbol que enfronta els millors equips de la Península. Amb la narració de Vicenç Prados i l'anàlisi de Víctor Tomàs. </desc>
-    <length units="seconds">5184</length>
+    <length units="seconds">5185</length>
     <episode-num system="onscreen">2</episode-num>
     <category lang="ca">ESPORTS</category>
     <category lang="ca">RETRANSMISSIONS ESPORTS</category>
@@ -75,44 +73,46 @@
     <previously-shown/>
     <icon src="https://img.ccma.cat/multimedia/jpg/9/1/1788346445719.jpg"/>
   </programme>
-  <programme start="20260906035549 +0200" stop="20260906042127 +0200" channel="esport3">
-    <title lang="ca">3CatInfo Esports</title>
-    <desc lang="ca">Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.</desc>
-    <length units="seconds">1538</length>
-    <episode-num system="onscreen">5500</episode-num>
+  <programme start="20260906084649 +0200" stop="20260906090400 +0200" channel="esport3">
+    <title lang="ca">Sala de Premsa</title>
+    <sub-title lang="ca">Hansi Flick / Prèvia València-Barça / J4</sub-title>
+    <desc lang="ca">Esport3 t'ofereix les compareixences de dirigents, jugadors i entrenadors dels equips catalans davant els mitjans de comunicació.</desc>
+    <length units="seconds">1031</length>
+    <episode-num system="onscreen">719</episode-num>
     <category lang="ca">ESPORTS</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
+    <subtitles type="teletext"/>
     <previously-shown/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/9/7/1758888682179.jpg"/>
+    <icon src="https://img.3cat.cat/multimedia/jpg/7/4/1778665728847.jpg"/>
   </programme>
   <channel id="sx3">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20260906030808 +0200" stop="20260906031811 +0200" channel="sx3">
-    <title lang="ca">Com dibuixar còmics amb el Will Sliney</title>
-    <sub-title lang="ca">Ciberinsecte</sub-title>
-    <desc lang="ca">Ja tenim un equip de cinc superherois creats pel Will Sliney per defensar la Terra de la invasió alienígena dirigida del malvat Crònica. I de moment només coneixíem un dels superdolents que ha creat el Crònica per neutralitzar-los. En aquest episodi sabrem qui és el segon membre d'aquest temible exèrcit invasor, el Ciberinsecte, una bestiola amb el poder d'introduir-se a les xarxes informàtiques per crear el caos.</desc>
-    <length units="seconds">603</length>
-    <episode-num system="onscreen">32</episode-num>
+  <programme start="20260906075234 +0200" stop="20260906080229 +0200" channel="sx3">
+    <title lang="ca">El Mic i els seus amics</title>
+    <sub-title lang="ca">Pa de plastilina</sub-title>
+    <desc lang="ca">'El Mic i els seus amics' presenta les històries del Mic agrupades en capítols. Les aventures dels titelles s'acompanyen de petits vídeos protagonitzats per nens i nenes, i separadors amb imatges de natura. És una sèrie pensada perquè els súpers més petits gaudeixin encara més! El Mic i els seus amics es troben cada dia per cantar cançons, explicar contes, dir endevinalles... Viuen en un lloc on hi ha turons, arbres, flors i papallones.Tot està a punt per jugar. Només cal fer... MAC, MEC, MIC, TOCA'T EL MELIC!</desc>
+    <length units="seconds">595</length>
+    <episode-num system="onscreen">412</episode-num>
     <category lang="ca">FICCIÓ</category>
-    <category lang="ca">ALTRES</category>
+    <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
       <value>INFANTIL</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20260906031811 +0200" stop="20260906032840 +0200" channel="sx3">
-    <title lang="ca">Com dibuixar còmics amb el Will Sliney</title>
-    <sub-title lang="ca">Ogret</sub-title>
-    <desc lang="ca">En aquest nou episodi continua la presentació dels superdolents creats pel malvat Crònica perquè siguin l'antítesi dels superherois que prèviament havien creat el Will i l'Ogam per salvar la Terra. Avui arriba el torn de l'Ogret, que tot i el seu aspecte bufó, perquè està dibuixat amb l'estil japonès chibi, és l'arxienemic de la Guspireta i el seu objectiu des de fa centenars d'anys és acabar amb ella.</desc>
-    <length units="seconds">629</length>
-    <episode-num system="onscreen">33</episode-num>
+  <programme start="20260906080229 +0200" stop="20260906081402 +0200" channel="sx3">
+    <title lang="ca">El Mic i els seus amics</title>
+    <sub-title lang="ca">Fem un eriçó amb agulles d'estendre</sub-title>
+    <desc lang="ca">El Mic i en Cincsegons juguen a retallar una cartolina i posar-hi agulles d'estendre. Quantes punxes que té aquest eriçó! </desc>
+    <length units="seconds">693</length>
+    <episode-num system="onscreen">675</episode-num>
     <category lang="ca">FICCIÓ</category>
-    <category lang="ca">ALTRES</category>
+    <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
       <value>INFANTIL</value>
     </rating>
@@ -122,11 +122,24 @@
   <channel id="c33">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20260906023413 +0200" stop="20260906032643 +0200" channel="c33">
-    <title lang="ca">Invasors de l'Everest</title>
-    <sub-title lang="ca">Invasors de l'Everest</sub-title>
-    <desc lang="ca">Des de fa un temps, el mític Everest, que va ser coronat per primera vegada ara fa 70 anys, s'ha convertit en un objectiu a l'abast dels neoalpinistes, milionaris que estan prou en forma per afegir l'ascensió al cim del món a la llista dels desitjos que han pogut complir. Els residus són la part més visible dels problemes que provoca la massificació de l'alpinisme, però la qüestió de fons és l'apropiació i l'explotació d'un espai que abans era lliure i que ara pateix una invasió.</desc>
-    <length units="seconds">3150</length>
+  <programme start="20260906072845 +0200" stop="20260906082112 +0200" channel="c33">
+    <title lang="ca">Viure als Pirineus- A banda i banda</title>
+    <sub-title lang="ca">Francesc Guillamet i Jaume Taurinyà - Primavera</sub-title>
+    <length units="seconds">3147</length>
+    <episode-num system="onscreen">5</episode-num>
+    <category lang="ca">DIVULGACIÓ</category>
+    <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <subtitles type="teletext"/>
+    <previously-shown/>
+  </programme>
+  <programme start="20260906082112 +0200" stop="20260906085056 +0200" channel="c33">
+    <title lang="ca">GR Pirineus</title>
+    <sub-title lang="ca">Comença un dolç viatge</sub-title>
+    <desc lang="ca">'GR Pirineus' va fer la temporada passada un recorregut pel Camí de Sant Jaume. Ara, aquest programa de descoberta de la Catalunya rural i més desconeguda, iniciarà un segon viatge cap als orígens del país, a través dels Pirineus i amb 26 capítols, per mostrar els valors esportius, històrics i espirituals del territori. Amb la presentació de Marc de las Heras, el programa farà camí, amb una primera ruta amb sortida de Girona, i, després de diversos recorreguts per la Costa Brava, el Pirineu i el Prepirineu, i un últim itinerari amb arribada a Sant Feliu de Guíxols.</desc>
+    <length units="seconds">1784</length>
     <episode-num system="onscreen">1</episode-num>
     <category lang="ca">DIVULGACIÓ</category>
     <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
@@ -135,21 +148,7 @@
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
-    <icon src="https://img.3cat.cat/multimedia/jpg/7/0/1737383470507.jpg"/>
-  </programme>
-  <programme start="20260906032643 +0200" stop="20260906041818 +0200" channel="c33">
-    <title lang="ca">Cites Barcelona</title>
-    <sub-title lang="ca">Paula-Sofia / Matilda-Samuel</sub-title>
-    <desc lang="ca">La Paula i la Sofia es retroben 7 anys després. L'atracció i la connexió segueixen sent la mateixa que el primer dia. La Paula ara és mare soltera, mentre que la Sofia viu a Guatemala, només està de pas i són les seves últimes hores a Barcelona. Amb el temps corrent en contra seva, han de decidir si estan disposades a arriscar-ho tot per estar juntes per fi, o si prendran camins diferents altre cop.Mentrestant, la Matilda, que no ha tingut un bon dia, ni una bona setmana, ni un bon mes, necessita follar immediatament per oblidar-se de tot. La seva sort sembla millorar quan fa 'match' amb el Samuel, un noi que sembla el germà guapo de Thor. La Matilda no vol perdre el temps, però al Samuel li agrada anar amb menys presses. La cita es converteix en un xoc de trens que no sembla que hagi d'acabar en bon port.</desc>
-    <length units="seconds">3095</length>
-    <episode-num system="onscreen">4</episode-num>
-    <category lang="ca">FICCIÓ</category>
-    <category lang="ca">SÈRIE DRAMÀTICA</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <subtitles type="teletext"/>
-    <previously-shown/>
+    <icon src="https://img.3cat.cat/multimedia/jpg/9/8/1736612891089.jpg"/>
   </programme>
   <channel id="oca1">
     <display-name>OCA1</display-name>
