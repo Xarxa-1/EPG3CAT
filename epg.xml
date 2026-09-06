@@ -30,7 +30,6 @@
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <subtitles type="teletext"/>
     <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
   <programme start="20260906143000 +0200" stop="20260906163000 +0200" channel="324">
@@ -42,6 +41,7 @@
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
+    <subtitles type="teletext"/>
     <icon src="https://img.ccma.cat/multimedia/jpg/5/4/1758025766345.jpg"/>
   </programme>
   <channel id="esport3">
@@ -77,56 +77,57 @@
   <channel id="sx3">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20260906124144 +0200" stop="20260906124813 +0200" channel="sx3">
-    <title lang="ca">En Grizzy i els Lèmmings</title>
-    <sub-title lang="ca">Intel·ligència artificial, estupidesa natural</sub-title>
-    <desc lang="ca">Un circuit integrat que conté intel·ligència artificial es connecta per casualitat a l'os de peluix d'en Grizzy, que cobra vida com un Pinotxo de l'era moderna. En Grizzy l'educa fins que el xip decideix connectar-se a la joguina dels Lèmmings per jugar amb ells. Quan la intel·ligència artificial arriba a l'adolescència, deixa de voler estar amb l'un o els altres i prefereix utilitzar un mòbil per continuar aprenent. En Grizzy i els Lèmmings uneixen forces per intentar esborrar-li la memòria al xip i així reviure la seva infantesa un cop rere l'altre.</desc>
-    <length units="seconds">389</length>
-    <episode-num system="onscreen">290</episode-num>
-    <category lang="ca">FICCIÓ</category>
-    <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
+  <programme start="20260906134130 +0200" stop="20260906141021 +0200" channel="sx3">
+    <title lang="ca">Manduka family</title>
+    <sub-title lang="ca">Pa de pessic</sub-title>
+    <desc lang="ca">El pa de pessic és una de les receptes que primer fan els mandúkers. Qui no ha fet servir el pot del iogurt com a mesurador de la farina i la llet? I pensem que és un dels pastissos més versàtils a l'hora de celebrar un aniversari. Això és el que ja han fet alguna vegada el Martí i la Ivet. Avui veurem com segueixen la recepta que fan amb les seves àvies.</desc>
+    <length units="seconds">1731</length>
+    <episode-num system="onscreen">11</episode-num>
+    <category lang="ca">ENTRETENIMENT</category>
+    <category lang="ca">ALTRES</category>
     <rating>
       <value>INFANTIL</value>
     </rating>
+    <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20260906124813 +0200" stop="20260906125602 +0200" channel="sx3">
-    <title lang="ca">En Grizzy i els Lèmmings</title>
-    <sub-title lang="ca">El Grizming</sub-title>
-    <desc lang="ca">En Grizzy descobreix una estranya criatura fossilitzada en ambre que s'assembla a ell. Llavors, consulta una enciclopèdia de ciències naturals i confirma que es tracta del seu avantpassat. En Grizzy vol endur-se el bloc d'ambre, però els Lèmmings també el volen perquè l'animal, que és de color blau i té les dents grans, també és el seu avantpassat. El bloc es trenca en mig de la baralla i alliberen la criatura, que resulta ser una càrrega bastant difícil de controlar.</desc>
-    <length units="seconds">469</length>
-    <episode-num system="onscreen">242</episode-num>
-    <category lang="ca">FICCIÓ</category>
-    <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
+  <programme start="20260906141021 +0200" stop="20260906143838 +0200" channel="sx3">
+    <title lang="ca">Manduka family</title>
+    <sub-title lang="ca">Crestes</sub-title>
+    <desc lang="ca">Les crestes són un dels menjars preferits dels més petits. La Júlia ve amb dos objectius: fer les millors crestes i una nova amiga. De crestes se'n fan de molts tipus, amb molts farcits diferents, fins i tot de doces. Però les dues àvies i netes que concursen al programa d'avui coincideixen en una cosa: la massa la fan casolana i no la compren industrial. Quina família farà les millors crestes del món??</desc>
+    <length units="seconds">1697</length>
+    <episode-num system="onscreen">12</episode-num>
+    <category lang="ca">ENTRETENIMENT</category>
+    <category lang="ca">ALTRES</category>
     <rating>
       <value>INFANTIL</value>
     </rating>
+    <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
   <channel id="c33">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20260906122118 +0200" stop="20260906130824 +0200" channel="c33">
-    <title lang="ca">La Renaixença</title>
-    <sub-title lang="ca">La perxa d'atletisme</sub-title>
-    <desc lang="ca">Tots hem passat tardes de Jocs Olímpics mirant esports que no coneixem. El salt de perxa, per exemple. Com pot ser que aquell pal aguanti el pes d'una persona mentre es doblega i es torna a posar recte? Dediquem el capítol a la perxa d'atletisme. Ens visita en Max Codinach, de Gavina.mp3, que també és poeta i té un llibre (tot i que es veu que no ho sabia). Amb l'Arnau Tordera i la Laia Glück interpreten 'Sempre instint'. Sortim a passejar en Rufus per la defensa de Baler, a les Filipines del 1898.</desc>
-    <length units="seconds">2826</length>
-    <episode-num system="onscreen">63</episode-num>
+  <programme start="20260906133939 +0200" stop="20260906140950 +0200" channel="c33">
+    <title lang="ca">Quèquicom</title>
+    <sub-title lang="ca">Arqueologia d'un naufragi</sub-title>
+    <desc lang="ca">Fem immersió en un vaixell romà que va naufragar fa 2.000 anys a les illes Formigues i que s'ha conservat intacte. Què el va fer naufragar? Com era la seva estructura? Què duia a les àmfores? Fins ara es creia que els vaixells romans no eren aptes per navegar per l'Atlàntic, l'anàlisi de milers d'àmfores demostra que sí, que mantenien rutes navals fins a Britània i Germània. En el programa es veu com les veles romanes, que eren quadrades, la poca quilla i l'absència d'orsa només permetien navegar amb vents de popa, el que dificultava molt les maniobres i propiciava els naufragis.Aquest jaciment ajuda a entendre les rutes comercials, la construcció naval, la gastronomia i la vida a bord durant època romana. Una veritable càpsula del temps preservada sota el mar.</desc>
+    <length units="seconds">1811</length>
+    <episode-num system="onscreen">341</episode-num>
     <category lang="ca">DIVULGACIÓ</category>
-    <category lang="ca">ALTRES</category>
+    <category lang="ca">MAGAZINE ESPECIALITZAT</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/3/3/1756148014833.jpg"/>
   </programme>
-  <programme start="20260906130824 +0200" stop="20260906133939 +0200" channel="c33">
+  <programme start="20260906140950 +0200" stop="20260906144050 +0200" channel="c33">
     <title lang="ca">Quèquicom</title>
-    <sub-title lang="ca">QQC i ...història de la medicina</sub-title>
-    <desc lang="ca">Com cal desinfectar una ferida? Quin és l'origen i l'efecte de l'aspirina? Com podem fer servir les plantes medicinals? El descobriment de la penicil·lina. El Gabinet Salvador i l'Amfiteatre Anatòmic, dos llocs clau en la història de la ciència.</desc>
-    <length units="seconds">1875</length>
-    <episode-num system="onscreen">340</episode-num>
+    <sub-title lang="ca">QQC i ...els gossos</sub-title>
+    <desc lang="ca">Jaume Vilalta experimenta en primera persona la mossegada d'un gos policia. Tot i anar protegit nota els ullals com si fossin una tenalla. A la veu del seu ensinistrador el gos passa a ser com un xaiet. Com ensinistrar sense castigar? És una bona tècnica d'estimulació el 'clicker'? Quines característiques té un gos líder? Un gos obedient és més intel·ligent? Seguir rastres de persones o de peces de caça és una de les capacitats que els humans aprofiten dels gossos, però ara també ajuden els metges, detecten càncer. I, a més, consells de com hem de tenir cura d'aquestes mascotes: Ossos o pinso? Com eliminar els paràsits, especialment les paparres, un dels pitjor enemics de la salut del gos i del seus amos.</desc>
+    <length units="seconds">1860</length>
+    <episode-num system="onscreen">342</episode-num>
     <category lang="ca">DIVULGACIÓ</category>
     <category lang="ca">MAGAZINE ESPECIALITZAT</category>
     <rating>
