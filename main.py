@@ -54,7 +54,7 @@ def parse_credits_from_synopsis(sinopsi: str):
     if match_act:
         actors = [
             a.strip()
-            for a in re.split(r",| i ", match_act.group(1))
+            for a in re.split(r",......| i ", match_act.group(1))
             if a.strip()
         ]
         credits_dict["actor"].extend(actors)
