@@ -3,38 +3,28 @@
   <channel id="tvi">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20260906070001 +0200" stop="20260906100000 +0200" channel="tvi">
+  <programme start="20260906123033 +0200" stop="20260906143000 +0200" channel="tvi">
     <title lang="ca">Notícies 3CatInfo</title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">10799</length>
-    <episode-num system="onscreen">11097</episode-num>
+    <length units="seconds">7167</length>
+    <episode-num system="onscreen">11099</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
-  </programme>
-  <programme start="20260906100000 +0200" stop="20260906111106 +0200" channel="tvi">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">4266</length>
-    <episode-num system="onscreen">11098</episode-num>
-    <category lang="ca">ACTUALITAT</category>
-    <category lang="ca">INFORMATIU DIÀRI</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
+    <subtitles type="teletext"/>
+    <previously-shown/>
     <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
   <channel id="324">
     <display-name>324</display-name>
   </channel>
-  <programme start="20260906070000 +0200" stop="20260906100000 +0200" channel="324">
+  <programme start="20260906120000 +0200" stop="20260906143000 +0200" channel="324">
     <title lang="ca">Notícies 3CatInfo</title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">10800</length>
-    <episode-num system="onscreen">11097</episode-num>
+    <length units="seconds">9000</length>
+    <episode-num system="onscreen">11099</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
@@ -43,112 +33,107 @@
     <subtitles type="teletext"/>
     <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
-  <programme start="20260906100000 +0200" stop="20260906120000 +0200" channel="324">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+  <programme start="20260906143000 +0200" stop="20260906163000 +0200" channel="324">
+    <title lang="ca">Telenotícies migdia</title>
     <length units="seconds">7200</length>
-    <episode-num system="onscreen">11098</episode-num>
+    <episode-num system="onscreen">7320</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <subtitles type="teletext"/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/5/4/1758025766345.jpg"/>
   </programme>
   <channel id="esport3">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20260906072024 +0200" stop="20260906084649 +0200" channel="esport3">
-    <title lang="ca">Handbol</title>
-    <sub-title lang="ca">Supercopa Ibèrica / Final</sub-title>
-    <desc lang="ca">Des de Vigo, final de la competició d'handbol que enfronta els millors equips de la Península. Amb la narració de Vicenç Prados i l'anàlisi de Víctor Tomàs. </desc>
-    <length units="seconds">5185</length>
-    <episode-num system="onscreen">2</episode-num>
+  <programme start="20260906122507 +0200" stop="20260906141559 +0200" channel="esport3">
+    <title lang="ca">Bàsquet</title>
+    <sub-title lang="ca">MoraBanc Andorra-Barça / Amistós</sub-title>
+    <desc lang="ca">Vuitena edició del Trofeu Comú d'Encamp. El MoraBanc Andorra i el Barça juguen aquest partit amistós de pretemporada pocs dies abans de tornar-se a enfrontar a la Lliga Catalana de Bàsquet. Amb la narració de Víctor Lavagnini i l'anàlisi de Nacho Solozabal. </desc>
+    <length units="seconds">6652</length>
+    <episode-num system="onscreen">8115</episode-num>
+    <category lang="ca">ESPORTS</category>
+    <category lang="ca">RETRANSMISSIONS ESPORTS</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <icon src="https://img.ccma.cat/multimedia/jpg/8/0/1698775546608.jpg"/>
+  </programme>
+  <programme start="20260906141559 +0200" stop="20260906145151 +0200" channel="esport3">
+    <title lang="ca">E3D</title>
+    <sub-title lang="ca">Skate / Extreme Barcelona / Final femenina</sub-title>
+    <desc lang="ca">Final femenina d'skateboarding a la 18a edició de l'Extrem Barcelona, que es fa al Parc del Fòrum. Amb la narració de Jordi Gil. </desc>
+    <length units="seconds">2152</length>
+    <episode-num system="onscreen">8112</episode-num>
     <category lang="ca">ESPORTS</category>
     <category lang="ca">RETRANSMISSIONS ESPORTS</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <previously-shown/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/9/1/1788346445719.jpg"/>
-  </programme>
-  <programme start="20260906084649 +0200" stop="20260906090400 +0200" channel="esport3">
-    <title lang="ca">Sala de Premsa</title>
-    <sub-title lang="ca">Hansi Flick / Prèvia València-Barça / J4</sub-title>
-    <desc lang="ca">Esport3 t'ofereix les compareixences de dirigents, jugadors i entrenadors dels equips catalans davant els mitjans de comunicació.</desc>
-    <length units="seconds">1031</length>
-    <episode-num system="onscreen">719</episode-num>
-    <category lang="ca">ESPORTS</category>
-    <category lang="ca">INFORMATIU DIÀRI</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <subtitles type="teletext"/>
-    <previously-shown/>
-    <icon src="https://img.3cat.cat/multimedia/jpg/7/4/1778665728847.jpg"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/3/2/1788358923323.jpg"/>
   </programme>
   <channel id="sx3">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20260906075234 +0200" stop="20260906080229 +0200" channel="sx3">
-    <title lang="ca">El Mic i els seus amics</title>
-    <sub-title lang="ca">Pa de plastilina</sub-title>
-    <desc lang="ca">'El Mic i els seus amics' presenta les històries del Mic agrupades en capítols. Les aventures dels titelles s'acompanyen de petits vídeos protagonitzats per nens i nenes, i separadors amb imatges de natura. És una sèrie pensada perquè els súpers més petits gaudeixin encara més! El Mic i els seus amics es troben cada dia per cantar cançons, explicar contes, dir endevinalles... Viuen en un lloc on hi ha turons, arbres, flors i papallones.Tot està a punt per jugar. Només cal fer... MAC, MEC, MIC, TOCA'T EL MELIC!</desc>
-    <length units="seconds">595</length>
-    <episode-num system="onscreen">412</episode-num>
+  <programme start="20260906124144 +0200" stop="20260906124813 +0200" channel="sx3">
+    <title lang="ca">En Grizzy i els Lèmmings</title>
+    <sub-title lang="ca">Intel·ligència artificial, estupidesa natural</sub-title>
+    <desc lang="ca">Un circuit integrat que conté intel·ligència artificial es connecta per casualitat a l'os de peluix d'en Grizzy, que cobra vida com un Pinotxo de l'era moderna. En Grizzy l'educa fins que el xip decideix connectar-se a la joguina dels Lèmmings per jugar amb ells. Quan la intel·ligència artificial arriba a l'adolescència, deixa de voler estar amb l'un o els altres i prefereix utilitzar un mòbil per continuar aprenent. En Grizzy i els Lèmmings uneixen forces per intentar esborrar-li la memòria al xip i així reviure la seva infantesa un cop rere l'altre.</desc>
+    <length units="seconds">389</length>
+    <episode-num system="onscreen">290</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
       <value>INFANTIL</value>
     </rating>
-    <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20260906080229 +0200" stop="20260906081402 +0200" channel="sx3">
-    <title lang="ca">El Mic i els seus amics</title>
-    <sub-title lang="ca">Fem un eriçó amb agulles d'estendre</sub-title>
-    <desc lang="ca">El Mic i en Cincsegons juguen a retallar una cartolina i posar-hi agulles d'estendre. Quantes punxes que té aquest eriçó! </desc>
-    <length units="seconds">693</length>
-    <episode-num system="onscreen">675</episode-num>
+  <programme start="20260906124813 +0200" stop="20260906125602 +0200" channel="sx3">
+    <title lang="ca">En Grizzy i els Lèmmings</title>
+    <sub-title lang="ca">El Grizming</sub-title>
+    <desc lang="ca">En Grizzy descobreix una estranya criatura fossilitzada en ambre que s'assembla a ell. Llavors, consulta una enciclopèdia de ciències naturals i confirma que es tracta del seu avantpassat. En Grizzy vol endur-se el bloc d'ambre, però els Lèmmings també el volen perquè l'animal, que és de color blau i té les dents grans, també és el seu avantpassat. El bloc es trenca en mig de la baralla i alliberen la criatura, que resulta ser una càrrega bastant difícil de controlar.</desc>
+    <length units="seconds">469</length>
+    <episode-num system="onscreen">242</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
       <value>INFANTIL</value>
     </rating>
-    <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
   <channel id="c33">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20260906072845 +0200" stop="20260906082112 +0200" channel="c33">
-    <title lang="ca">Viure als Pirineus- A banda i banda</title>
-    <sub-title lang="ca">Francesc Guillamet i Jaume Taurinyà - Primavera</sub-title>
-    <length units="seconds">3147</length>
-    <episode-num system="onscreen">5</episode-num>
+  <programme start="20260906122118 +0200" stop="20260906130824 +0200" channel="c33">
+    <title lang="ca">La Renaixença</title>
+    <sub-title lang="ca">La perxa d'atletisme</sub-title>
+    <desc lang="ca">Tots hem passat tardes de Jocs Olímpics mirant esports que no coneixem. El salt de perxa, per exemple. Com pot ser que aquell pal aguanti el pes d'una persona mentre es doblega i es torna a posar recte? Dediquem el capítol a la perxa d'atletisme. Ens visita en Max Codinach, de Gavina.mp3, que també és poeta i té un llibre (tot i que es veu que no ho sabia). Amb l'Arnau Tordera i la Laia Glück interpreten 'Sempre instint'. Sortim a passejar en Rufus per la defensa de Baler, a les Filipines del 1898.</desc>
+    <length units="seconds">2826</length>
+    <episode-num system="onscreen">63</episode-num>
     <category lang="ca">DIVULGACIÓ</category>
-    <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
+    <category lang="ca">ALTRES</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/3/3/1756148014833.jpg"/>
   </programme>
-  <programme start="20260906082112 +0200" stop="20260906085056 +0200" channel="c33">
-    <title lang="ca">GR Pirineus</title>
-    <sub-title lang="ca">Comença un dolç viatge</sub-title>
-    <desc lang="ca">'GR Pirineus' va fer la temporada passada un recorregut pel Camí de Sant Jaume. Ara, aquest programa de descoberta de la Catalunya rural i més desconeguda, iniciarà un segon viatge cap als orígens del país, a través dels Pirineus i amb 26 capítols, per mostrar els valors esportius, històrics i espirituals del territori. Amb la presentació de Marc de las Heras, el programa farà camí, amb una primera ruta amb sortida de Girona, i, després de diversos recorreguts per la Costa Brava, el Pirineu i el Prepirineu, i un últim itinerari amb arribada a Sant Feliu de Guíxols.</desc>
-    <length units="seconds">1784</length>
-    <episode-num system="onscreen">1</episode-num>
+  <programme start="20260906130824 +0200" stop="20260906133939 +0200" channel="c33">
+    <title lang="ca">Quèquicom</title>
+    <sub-title lang="ca">QQC i ...història de la medicina</sub-title>
+    <desc lang="ca">Com cal desinfectar una ferida? Quin és l'origen i l'efecte de l'aspirina? Com podem fer servir les plantes medicinals? El descobriment de la penicil·lina. El Gabinet Salvador i l'Amfiteatre Anatòmic, dos llocs clau en la història de la ciència.</desc>
+    <length units="seconds">1875</length>
+    <episode-num system="onscreen">340</episode-num>
     <category lang="ca">DIVULGACIÓ</category>
-    <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
+    <category lang="ca">MAGAZINE ESPECIALITZAT</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
-    <icon src="https://img.3cat.cat/multimedia/jpg/9/8/1736612891089.jpg"/>
   </programme>
   <channel id="oca1">
     <display-name>OCA1</display-name>
