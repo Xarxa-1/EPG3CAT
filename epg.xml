@@ -77,20 +77,6 @@
   <channel id="sx3">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20260906134130 +0200" stop="20260906141021 +0200" channel="sx3">
-    <title lang="ca">Manduka family</title>
-    <sub-title lang="ca">Pa de pessic</sub-title>
-    <desc lang="ca">El pa de pessic és una de les receptes que primer fan els mandúkers. Qui no ha fet servir el pot del iogurt com a mesurador de la farina i la llet? I pensem que és un dels pastissos més versàtils a l'hora de celebrar un aniversari. Això és el que ja han fet alguna vegada el Martí i la Ivet. Avui veurem com segueixen la recepta que fan amb les seves àvies.</desc>
-    <length units="seconds">1731</length>
-    <episode-num system="onscreen">11</episode-num>
-    <category lang="ca">ENTRETENIMENT</category>
-    <category lang="ca">ALTRES</category>
-    <rating>
-      <value>INFANTIL</value>
-    </rating>
-    <subtitles type="teletext"/>
-    <previously-shown/>
-  </programme>
   <programme start="20260906141021 +0200" stop="20260906143838 +0200" channel="sx3">
     <title lang="ca">Manduka family</title>
     <sub-title lang="ca">Crestes</sub-title>
@@ -105,23 +91,23 @@
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <channel id="c33">
-    <display-name>C33</display-name>
-  </channel>
-  <programme start="20260906133939 +0200" stop="20260906140950 +0200" channel="c33">
-    <title lang="ca">Quèquicom</title>
-    <sub-title lang="ca">Arqueologia d'un naufragi</sub-title>
-    <desc lang="ca">Fem immersió en un vaixell romà que va naufragar fa 2.000 anys a les illes Formigues i que s'ha conservat intacte. Què el va fer naufragar? Com era la seva estructura? Què duia a les àmfores? Fins ara es creia que els vaixells romans no eren aptes per navegar per l'Atlàntic, l'anàlisi de milers d'àmfores demostra que sí, que mantenien rutes navals fins a Britània i Germània. En el programa es veu com les veles romanes, que eren quadrades, la poca quilla i l'absència d'orsa només permetien navegar amb vents de popa, el que dificultava molt les maniobres i propiciava els naufragis.Aquest jaciment ajuda a entendre les rutes comercials, la construcció naval, la gastronomia i la vida a bord durant època romana. Una veritable càpsula del temps preservada sota el mar.</desc>
-    <length units="seconds">1811</length>
-    <episode-num system="onscreen">341</episode-num>
-    <category lang="ca">DIVULGACIÓ</category>
-    <category lang="ca">MAGAZINE ESPECIALITZAT</category>
+  <programme start="20260906143838 +0200" stop="20260906145024 +0200" channel="sx3">
+    <title lang="ca">Les Sisters</title>
+    <sub-title lang="ca">Amagat</sub-title>
+    <desc lang="ca">La Wendy ha tingut una idea genial per desempallegar-se de la pesada de la seva germana: li amagarà el Puduk, i així, mentre la Marine el busca, podrà anar tranquil·la al cine amb el Maxence. I funciona! Però mentre busca el seu nino, la Marine troba el diari personal de la seva germana... i descobreix el seu pla. La venjança serà terrible!</desc>
+    <length units="seconds">706</length>
+    <episode-num system="onscreen">88</episode-num>
+    <category lang="ca">FICCIÓ</category>
+    <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
-      <value>TOTS ELS PÚBLICS</value>
+      <value>INFANTIL</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
+  <channel id="c33">
+    <display-name>C33</display-name>
+  </channel>
   <programme start="20260906140950 +0200" stop="20260906144050 +0200" channel="c33">
     <title lang="ca">Quèquicom</title>
     <sub-title lang="ca">QQC i ...els gossos</sub-title>
@@ -130,6 +116,20 @@
     <episode-num system="onscreen">342</episode-num>
     <category lang="ca">DIVULGACIÓ</category>
     <category lang="ca">MAGAZINE ESPECIALITZAT</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <subtitles type="teletext"/>
+    <previously-shown/>
+  </programme>
+  <programme start="20260906144050 +0200" stop="20260906153301 +0200" channel="c33">
+    <title lang="ca">La Camarga, salvatge i fràgil</title>
+    <sub-title lang="ca">Entre sal i mar</sub-title>
+    <desc lang="ca">La Baixa Camarga està marcada per la interacció amb el mar i la influència de la sal. La costa és un cordó de platges i dunes al llarg de més de cent quilòmetres, entre Fòs i Lo Grau dau Rei. Al mar de la Camarga hi viuen també espècies emblemàtiques, com ara dofins, cavalls de mar i tortugues. La Camarga de les llacunes i el mar és una interfície vital però fràgil, sotmesa a una erosió espectacular que ha obligat els humans a adaptar-s'hi i a repensar la gestió del litoral.</desc>
+    <length units="seconds">3131</length>
+    <episode-num system="onscreen">1</episode-num>
+    <category lang="ca">DIVULGACIÓ</category>
+    <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
