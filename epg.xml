@@ -3,24 +3,11 @@
   <channel id="tvi">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20260907233422 +0200" stop="20260908012008 +0200" channel="tvi">
-    <title lang="ca">Teatre</title>
-    <sub-title lang="ca">Teatre - L'alegria que passa</sub-title>
-    <desc lang="ca">L'ALEGRIA QUE PASSAUn espectacle de Dagoll DagomA partir de l'obra de Santiago RusiñolText i direcció d'escena: Marc RosichMúsica i direcció musical: Andreu GallénDirecció coreogràfica: Ariadna PeyaDramatúrgia: Anna Rosa Cisquella, Andreu Gallén, Ariadna Peya i Marc RosichLletres: Marc Rosich i Andreu GallénLa companyia:Mariona CastilloJordi CollJúlia GenísEloi GómezÀngels GonyalonsPol GuimeràBasem NahnouhPau OliverDavid Pérez-BayonaSINOPSIUn poble gris, monòton i industrial veu trencada la seva rutina laborable amb l'arribada d'un gran espectacle musical.La companyia ha sigut contractada per l'alcalde del poble i propietari de l'única fàbrica en tota la població. Joan, el fill de l'alcalde que és a punt de casar-se amb la seva parella Lina, s'enamora de la gran estrella Zaira i vol fugir amb ella lluny del poble gris. Zaira, en canvi, està esgotada de la seva vida nòmada i desitjaria quedar-se a viure al poble i portar una vida amb tranquil·litat. Al seu costat Puck, l'agressiu mànager, la maltracta creient-la de la seva propietat i li exigeix que continuï. L'autoritari i fals demòcrata alcalde obliga el seu fill a desistir dels seus somnis.</desc>
-    <length units="seconds">6346</length>
-    <episode-num system="onscreen">1</episode-num>
-    <category lang="ca">FICCIÓ</category>
-    <category lang="ca">TEATRE</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <previously-shown/>
-  </programme>
-  <programme start="20260908012008 +0200" stop="20260908030648 +0200" channel="tvi">
+  <programme start="20260908012010 +0200" stop="20260908030823 +0200" channel="tvi">
     <title lang="ca">Mésnit</title>
     <sub-title lang="ca">Mésnit</sub-title>
     <desc lang="ca">El 'Mésnit' arriba a la desena temporada, amb Marina Romero al capdavant de l'espai i amb la voluntat de continuar sent un centre de debat d'idees i d'anàlisi de l'activitat política.</desc>
-    <length units="seconds">6400</length>
+    <length units="seconds">6493</length>
     <episode-num system="onscreen">2154</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">DEBAT</category>
@@ -29,42 +16,56 @@
     </rating>
     <previously-shown/>
   </programme>
-  <channel id="324">
-    <display-name>324</display-name>
-  </channel>
-  <programme start="20260907220500 +0200" stop="20260908000000 +0200" channel="324">
-    <title lang="ca">Mésnit</title>
-    <desc lang="ca">El 'Mésnit' arriba a la desena temporada, amb Marina Romero al capdavant de l'espai i amb la voluntat de continuar sent un centre de debat d'idees i d'anàlisi de l'activitat política.</desc>
-    <length units="seconds">6900</length>
-    <episode-num system="onscreen">2154</episode-num>
-    <category lang="ca">ACTUALITAT</category>
-    <category lang="ca">DEBAT</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <subtitles type="teletext"/>
-  </programme>
-  <programme start="20260908000000 +0200" stop="20260908003000 +0200" channel="324">
+  <programme start="20260908030823 +0200" stop="20260908043000 +0200" channel="tvi">
     <title lang="ca">Notícies 3CatInfo</title>
+    <sub-title lang="ca">Notícies 3CatInfo</sub-title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">1800</length>
-    <episode-num system="onscreen">11111</episode-num>
+    <length units="seconds">4897</length>
+    <episode-num system="onscreen">11112</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <subtitles type="teletext"/>
+    <previously-shown/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
+  </programme>
+  <channel id="324">
+    <display-name>324</display-name>
+  </channel>
+  <programme start="20260908010000 +0200" stop="20260908060000 +0200" channel="324">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="seconds">18000</length>
+    <episode-num system="onscreen">11112</episode-num>
+    <category lang="ca">ACTUALITAT</category>
+    <category lang="ca">INFORMATIU DIÀRI</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <previously-shown/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
+  </programme>
+  <programme start="20260908060000 +0200" stop="20260908080000 +0200" channel="324">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="seconds">7200</length>
+    <episode-num system="onscreen">11113</episode-num>
+    <category lang="ca">ACTUALITAT</category>
+    <category lang="ca">INFORMATIU DIÀRI</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
     <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
   <channel id="esport3">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20260907230028 +0200" stop="20260908003039 +0200" channel="esport3">
+  <programme start="20260908005302 +0200" stop="20260908022445 +0200" channel="esport3">
     <title lang="ca">Onze</title>
     <sub-title lang="ca">Onze</sub-title>
     <desc lang="ca">Juvenal Edjogo, Jordi Martí, Aina Cerdà i Xavi Torres comenten la golejada del Barça a Mestalla i el canvi d'actitud de José Mourinho. El Joan Fàbregas analitza les jugades polèmiques de la jornada.</desc>
-    <length units="seconds">5411</length>
+    <length units="seconds">5503</length>
     <episode-num system="onscreen">1245</episode-num>
     <category lang="ca">ESPORTS</category>
     <category lang="ca">MAGAZINE</category>
@@ -72,82 +73,134 @@
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
+    <previously-shown/>
     <icon src="https://img.ccma.cat/multimedia/jpg/1/1/1688543515711.jpg"/>
   </programme>
-  <programme start="20260908003039 +0200" stop="20260908005011 +0200" channel="esport3">
+  <programme start="20260908022445 +0200" stop="20260908024610 +0200" channel="esport3">
     <title lang="ca">3CatInfo Esports</title>
     <sub-title lang="ca">3CatInfo Esports</sub-title>
     <desc lang="ca">Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.</desc>
-    <length units="seconds">1172</length>
+    <length units="seconds">1285</length>
     <episode-num system="onscreen">5502</episode-num>
     <category lang="ca">ESPORTS</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
+    <previously-shown/>
     <icon src="https://img.ccma.cat/multimedia/jpg/9/7/1758888682179.jpg"/>
   </programme>
   <channel id="sx3">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20260907234505 +0200" stop="20260908000604 +0200" channel="sx3">
-    <title lang="ca">Els germans Kratt</title>
-    <sub-title lang="ca">Els germans Kratt - Balenes i calamars</sub-title>
-    <desc lang="ca">Tot posant a prova l'amfisubmarí, l'últim invent de l'Aviva, en Chris i en Martin s'han trobat a les profunditats inexplorades de l'oceà, enmig d'una batalla entre una mare catxalot i un calamar gegant. Però arriba un moment que l'amfisubmarí ja no aguanta la pressió de l'aigua. És l'hora de treure els Vestits de Poder Animal i de poder gaudir d'aquesta batalla mai vista!</desc>
-    <length units="seconds">1259</length>
-    <episode-num system="onscreen">2</episode-num>
+  <programme start="20260908015303 +0200" stop="20260908021412 +0200" channel="sx3">
+    <title lang="ca">Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
+    <sub-title lang="ca">Prodigiosa: Les aventures de Ladybug i Gat Noir - Sublimació</sub-title>
+    <desc lang="ca">La Marinette està fascinada per la Sublime, una noia que s'ha fet amiga de l'Adrien. Bé per gelosia, bé per curiositat, la Marinette també vol fer-se amiga de la Sublime tant sí com no. Però hi ha un problema: la Marinette no sap com fer-se amiga d'una persona que no necessita ajuda. I els seus intents maldestres poden tenir conseqüències greus.</desc>
+    <length units="seconds">1269</length>
+    <episode-num system="onscreen">134</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
       <value>INFANTIL</value>
     </rating>
     <subtitles type="teletext"/>
-    <previously-shown/>
   </programme>
-  <programme start="20260908000604 +0200" stop="20260908002704 +0200" channel="sx3">
-    <title lang="ca">Els germans Kratt</title>
-    <sub-title lang="ca">Els germans Kratt - El poble dels porcs formiguers</sub-title>
-    <desc lang="ca">Avui en Chris i en Martin descobriran el poble dels porcs formiguers, uns animals que costen molt de veure i que estan emparentats amb... els elefants?! A més, els coneixeran molt de prop! Sobretot en Chris! Un porc formiguer, tot fugint d'una hiena, se li ha amagat a la motxilla! Ara els tocarà tornar-lo al seu cau! Els hi acompanyes?!</desc>
-    <length units="seconds">1260</length>
-    <episode-num system="onscreen">3</episode-num>
+  <programme start="20260908021412 +0200" stop="20260908023505 +0200" channel="sx3">
+    <title lang="ca">Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
+    <sub-title lang="ca">Prodigiosa: Les aventures de Ladybug i Gat Noir - Papapoli</sub-title>
+    <desc lang="ca">Per celebrar el petó número 100 amb l'Adrien, la Marinette ha preparat la vetllada romàntica definitiva. Però no recorda que ja havia quedat, a la mateixa hora i al mateix lloc, per fer una nit de pel·li amb les seves amigues. Aconseguirà combinar la seva vida amorosa i les seves amistats, i alhora enfrontar-se a un supermalvat com a Ladybug?</desc>
+    <length units="seconds">1253</length>
+    <episode-num system="onscreen">135</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
       <value>INFANTIL</value>
     </rating>
     <subtitles type="teletext"/>
-    <previously-shown/>
   </programme>
   <channel id="c33">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20260907235312 +0200" stop="20260908004144 +0200" channel="c33">
-    <title lang="ca">Aeroport</title>
-    <sub-title lang="ca">Aeroport - Passatgers</sub-title>
-    <desc lang="ca">Viatjar en avió pot ser tota una aventura. Especialment si els passatgers arriben justos de temps, porten el DNI caducat, o volen per primera vegada i no tenen gens clar com funciona el tema.</desc>
-    <length units="seconds">2912</length>
-    <episode-num system="onscreen">14</episode-num>
-    <category lang="ca">DIVULGACIÓ</category>
-    <category lang="ca">Docu-Entreteniment</category>
+  <programme start="20260908011157 +0200" stop="20260908024925 +0200" channel="c33">
+    <title lang="ca">Pel·lícula</title>
+    <sub-title lang="ca">Pel·lícula - Rumba teràpia</sub-title>
+    <desc lang="ca">RUMBA TERÀPIA 'Rumba la vie'Direcció: Franck DuboscGuió: Franck DuboscProducció: Gaumont, Pour Toi Public Productions, TF1 Films Production, Umedia, uFund, OCS, Ciné+, TF1, Le Tax Shelter du Gouvernem, CNCAny: 2022Durada: 102País: FrançaMúsica: Sylvain Goldberg, Matteo LocasciulliFotografia: Ludovic Colbeau-JustinIntèrprets: Franck Dubosc,Louna Espinosa,Jean-Pierre Darroussin,Marie-Philomène Nga,Karina Marimon,Catherine Jacob,Michel Houellebecq,Marie Vincent,Constantin Vidal,Claire Bouanich,Christophe Canard,Philippe Uchan,Adèle Choubard,Nicolas Chupin,Matteo Locasciulli,Alane Delhaye,Damian Odess-Gillett,Gregory GudgeonUn home madur i solitari viu sol després d'haver abandonat la dona i la filla fa vint anys. Commocionat per un infart, troba coratge per enfrontar-se al passat i es matricula d'incògnit a la classe de ball de la seva filla. No l'ha coneguda mai i té l'objectiu de donar sentit a la seva vida.</desc>
+    <credits>
+      <director>Franck Dubosc</director>
+      <writer>Franck Dubosc</writer>
+      <actor>Franck Dubosc</actor>
+      <actor>Louna Espinosa</actor>
+      <actor>Jean-Pierre Darroussin</actor>
+      <actor>Marie-Philomène Nga</actor>
+      <actor>Karina Marimon</actor>
+      <actor>Catherine Jacob</actor>
+      <actor>Michel Houellebecq</actor>
+      <actor>Marie Vincent</actor>
+      <actor>Constantin Vidal</actor>
+      <actor>Claire Bouanich</actor>
+      <actor>Christophe Canard</actor>
+      <actor>Philippe Uchan</actor>
+      <actor>Adèle Choubard</actor>
+      <actor>Nicolas Chupin</actor>
+      <actor>Matteo Locasciulli</actor>
+      <actor>Alane Delhaye</actor>
+      <actor>Damian Odess-Gillett</actor>
+      <actor>Gregory GudgeonUn home madur</actor>
+      <actor>solitari viu sol després d'haver abandonat la dona</actor>
+      <actor>la filla fa vint anys. Commocionat per un infart</actor>
+      <actor>troba coratge per enfrontar-se al passat</actor>
+      <actor>es matricula d'incògnit a la classe de ball de la seva filla. No l'ha coneguda mai</actor>
+      <actor>té l'objectiu de donar sentit a la seva vida.</actor>
+    </credits>
+    <length units="seconds">5848</length>
+    <episode-num system="onscreen">1</episode-num>
+    <category lang="ca">FICCIÓ</category>
+    <category lang="ca">PEL·LÍCULA / TELEFILM</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
+    <icon src="https://img.3cat.cat/multimedia/jpg/9/6/1753349891569.jpg"/>
   </programme>
-  <programme start="20260908004144 +0200" stop="20260908011154 +0200" channel="c33">
-    <title lang="ca">No tenim vergonya</title>
-    <sub-title lang="ca">No tenim vergonya</sub-title>
-    <desc lang="ca">'No tenim vergonya' revisa els grans moments a Televisió de Catalunya. Se'ls mira des d'un altre punt de vista, per comparar-los amb la realitat actual o repassar moments televisius molt recordats. Mai, però, des d'un punt de vista nostàlgic. NTV és una cadena de televisió. I, com a tal, conté tota mena d'elements (molinets, publicitat...) i de programes (informatius, d'esports, magazines, musicals, concursos...). De què es nodreix la seva programació? De l'arxiu de la televisió pública catalana revisionada sense complexos. D'aquí ve el nom de la cadena NTV, de 'No tenim vergonya'.</desc>
-    <length units="seconds">1810</length>
-    <episode-num system="onscreen">218</episode-num>
-    <category lang="ca">ESPORTS</category>
-    <category lang="ca">REPORTATGES</category>
+  <programme start="20260908024925 +0200" stop="20260908041913 +0200" channel="c33">
+    <title lang="ca">Pel·lícula</title>
+    <sub-title lang="ca">Pel·lícula - El mort de la platja</sub-title>
+    <desc lang="ca">EL MORT DE LA PLATJA 'Le mort de la plage'Direcció: Claude-Michel RomeGuió: Claude-Michel RomeProducció: Fit Productions, AT-Prod, RTBF (Télévision Belge), France Télévisions, Radio Télévision Suisse (RTS), TV5 Monde, CNCAny: 2018Durada: 90País: FrançaMúsica: Frédéric PorteFotografia: Alain DucoussetIntèrprets: Claire Borotra, Jean-François Balmer, Michel Jonasz, Claire Chazal, Pierre Deny, Frédéric Amico, Elisabeth Macocco, Damien Leconte, Coralie Audret, Sylviane Goudal, François RabetteLa capitana Eloïse Gentil, del departament d'investigació de la gendarmeria de Caen, i en Robert Gentil, el seu pare, historiador especialitzat en la Segona Guerra Mundial, fa vint anys que estan enfadats però es reuneixen per investigar la mort d'en James Crawley, de 93 anys, que ha estat trobat vestit amb el seu uniforme de l'exèrcit dels Estats Units i lligat en un pal com si hagués estat afusellat 'per donar exemple'.</desc>
+    <credits>
+      <director>Claude-Michel Rome</director>
+      <writer>Claude-Michel Rome</writer>
+      <actor>Claire Borotra</actor>
+      <actor>Jean-François Balmer</actor>
+      <actor>Michel Jonasz</actor>
+      <actor>Claire Chazal</actor>
+      <actor>Pierre Deny</actor>
+      <actor>Frédéric Amico</actor>
+      <actor>Elisabeth Macocco</actor>
+      <actor>Damien Leconte</actor>
+      <actor>Coralie Audret</actor>
+      <actor>Sylviane Goudal</actor>
+      <actor>François RabetteLa capitana Eloïse Gentil</actor>
+      <actor>del departament d'investigació de la gendarmeria de Caen</actor>
+      <actor>en Robert Gentil</actor>
+      <actor>el seu pare</actor>
+      <actor>historiador especialitzat en la Segona Guerra Mundial</actor>
+      <actor>fa vint anys que estan enfadats però es reuneixen per investigar la mort d'en James Crawley</actor>
+      <actor>de 93 anys</actor>
+      <actor>que ha estat trobat vestit amb el seu uniforme de l'exèrcit dels Estats Units</actor>
+      <actor>lligat en un pal com si hagués estat afusellat 'per donar exemple'.</actor>
+    </credits>
+    <length units="seconds">5388</length>
+    <episode-num system="onscreen">1</episode-num>
+    <category lang="ca">FICCIÓ</category>
+    <category lang="ca">PEL·LÍCULA / TELEFILM</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
+    <icon src="https://img.3cat.cat/multimedia/jpg/0/8/1774871447180.jpg"/>
   </programme>
   <channel id="oca1">
     <display-name>OCA1</display-name>
