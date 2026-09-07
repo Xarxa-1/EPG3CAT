@@ -64,7 +64,7 @@ def parse_credits_from_synopsis(sinopsi: str):
 
 def main():
     url = (
-        "https://dinamics.ccma.cat/wsarafem/arafem/tv/profile/noimage/geo/cat"
+        "https://dinamics.ccma.cat/wsarafem/arafem/tv/profile/noimage/geo/int"
     )
     headers = {
         "User-Agent": (
