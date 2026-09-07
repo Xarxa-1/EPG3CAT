@@ -3,118 +3,115 @@
   <channel id="tvi">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20260907172440 +0200" stop="20260907191400 +0200" channel="tvi">
-    <title lang="ca">La Selva</title>
-    <sub-title lang="ca">La Selva</sub-title>
-    <desc lang="ca">Xavier Grasset presenta La Selva, el nou magazín d'entreteniment de les tardes de TV3. Un show d'autor on parlarem de tot de forma distesa i lliure, una trobada fixa a la nova cafeteria de la televisió pública catalana, regentada per la Mercè Fonoll (l'actriu i humorista, Anna Bertran). A La Selva sempre hi passen coses, és un món ple d'activitat on diverses espècies hi conviuen de forma lliure.Hi passaran Antoni Bassas, Montse Barderi, Fel Faixedas, Sílvia Bel, la Nina, en Biel Duran, l'Alba Alfageme o la Carlota Gurt, entre molts d'altres. Una trobada plena de coneixement i seguiment de l'actualitat, però també d'entreteniment. Els acompanyaran, per exemple fent recomanacions, Sergi Cutillas, amb la seva música de capçalera, en Godai García que ens apropa a la terra -amb una mirada molt pròpia- o la cuinera i influencer, Sofia Janer.A La Selva farem un repàs al què ha passat durant el dia i a la vida en general d'aquella manera única del Xavier Grasset acompanyat al sofà per la Maria Xinxó, la Núria Martínez o l'Ester Pagès. La resta de l'equip treballarà per explicar-vos el que ha passat dins i fora de La Selva, acostar-vos al territori i oferir-vos entreteniment, però sempre amb contingut. Cada dia hi haurà entrevistes, no hi faltaran els llibres, la cultura o històries humanes de tot tipus. I, a més, comptarem amb la participació del nostre públic. Us convidarem a jugar en un concurs diari, divertit i enginyós. Quan t'endinses a la Selva mai saps què t'hi pots acabar trobant!Cada tarda, et farem companyia a 3cat. Us espera una nova aventura plena de personatges interessants, converses, reflexions, descobriments i uns quants somriures. Sempre amb un ull posat a tot el que passa al nostre voltant. Quedem a La Selva!</desc>
-    <length units="seconds">6560</length>
-    <episode-num system="onscreen">404</episode-num>
+  <programme start="20260907201459 +0200" stop="20260907210000 +0200" channel="tvi">
+    <title lang="ca">Està passant</title>
+    <sub-title lang="ca">Està passant</sub-title>
+    <desc lang="ca">El Queco i l'Òscar Andreu enceten la nova temporada de l'Està Passant'. L'Andrés Fanjgold comença un nou repte i el Marc Sarrats analitza com ha parlat la premsa de la crisi de Ceuta</desc>
+    <length units="seconds">2701</length>
+    <episode-num system="onscreen">1805</episode-num>
     <category lang="ca">ENTRETENIMENT</category>
-    <category lang="ca">MAGAZINE</category>
+    <category lang="ca">GAGS. HUMOR</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <icon src="https://img.3cat.cat/multimedia/jpg/6/3/1725871608136.jpg"/>
+    <icon src="https://img.ccma.cat/multimedia/png/3/8/1705511272683.png"/>
   </programme>
-  <programme start="20260907191400 +0200" stop="20260907201500 +0200" channel="tvi">
-    <title lang="ca">Atrapa'm si pots, estiu</title>
-    <sub-title lang="ca">Atrapa'm si pots, estiu</sub-title>
-    <desc lang="ca">'Atrapa'm si pots' és un 'quiz show' clàssic, de preguntes i respostes, presentat per Llucià Ferrer, en què sis concursants competeixen per arribar a la fase final i guanyar el pot. 'Atrapa'm si pots' és entreteniment pur i on gairebé és més important passar-s'ho bé que els diners. És un concurs en què pesa més la intuïció que no els coneixements acadèmics, més l'estratègia en el joc que no la sort.</desc>
-    <length units="seconds">3660</length>
-    <episode-num system="onscreen">988</episode-num>
-    <category lang="ca">ENTRETENIMENT</category>
-    <category lang="ca">CONCURS</category>
+  <programme start="20260907210000 +0200" stop="20260907215930 +0200" channel="tvi">
+    <title lang="ca">Telenotícies vespre</title>
+    <sub-title lang="ca">Telenotícies vespre</sub-title>
+    <length units="seconds">3570</length>
+    <episode-num system="onscreen">7320</episode-num>
+    <category lang="ca">ACTUALITAT</category>
+    <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
+    <icon src="https://img.ccma.cat/multimedia/jpg/7/2/1758026176427.jpg"/>
   </programme>
   <channel id="324">
     <display-name>324</display-name>
   </channel>
-  <programme start="20260907170000 +0200" stop="20260907183000 +0200" channel="324">
+  <programme start="20260907200000 +0200" stop="20260907210000 +0200" channel="324">
     <title lang="ca">Notícies 3CatInfo</title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">5400</length>
-    <episode-num system="onscreen">11108</episode-num>
+    <length units="seconds">3600</length>
+    <episode-num system="onscreen">11110</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <subtitles type="teletext"/>
     <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
-  <programme start="20260907183000 +0200" stop="20260907200000 +0200" channel="324">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">5400</length>
-    <episode-num system="onscreen">11109</episode-num>
+  <programme start="20260907210000 +0200" stop="20260907220500 +0200" channel="324">
+    <title lang="ca">Telenotícies vespre</title>
+    <length units="seconds">3900</length>
+    <episode-num system="onscreen">7320</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/7/2/1758026176427.jpg"/>
   </programme>
   <channel id="esport3">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20260907172811 +0200" stop="20260907182637 +0200" channel="esport3">
-    <title lang="ca">Esport Club</title>
-    <sub-title lang="ca">Esport Club</sub-title>
-    <desc lang="ca">El Barça, líder en solitari després de golejar el València (0-5). Analitzem el partit amb la lupa de l'Albert Blaya. L'Espanyol salva un punt al minut 98. En parlem amb Juli Garcia. Entrevistem Adrián Sola, jugador del Barça d'handbol, campió de la Supercopa Ibèrica. A la tertúlia ens acompanyen Orfeo Suárez, Pichi Alonso i Maria Josep Hostalrich.</desc>
-    <length units="seconds">3506</length>
-    <episode-num system="onscreen">3234</episode-num>
-    <category lang="ca">ESPORTS</category>
-    <category lang="ca">INFORMATIU DIÀRI</category>
+  <programme start="20260907203607 +0200" stop="20260907210720 +0200" channel="esport3">
+    <title lang="ca">Crackòvia</title>
+    <sub-title lang="ca">Crackòvia</sub-title>
+    <desc lang="ca">El 'Crackòvia' 2015-2016 tornarà a la tardor amb energies renovades. Als personatges ja habituals i consolidats al programa com el trident, Luis Enrique, Collet, Florentino, Cristiano... s'hi sumaran els flamants fitxatges de la temporada encapçalats per Arda Turan o l'entrenador del Reial Madrid Rafa Benítez.El programa seguirà l'intent de sextet del Barça, l'intent de resurrecció del Reial Madrid i l'intent de superar les baixes de l'estiu de l'Espanyol a través de la seva fórmula de sketchos intercalats amb resums del partit, escenes entre les bambolines del plató, peces gràfiques i moltes altres sorpreses.Aconseguirà Luis Enrique igualar a Guardiola? Aconseguirà Florentino quedar-se sol al Reial Madrid? Aconseguirà Collet no patir gaire? Tot això ho veurem en la propera temporada de 'Crackòvia'.</desc>
+    <length units="seconds">1873</length>
+    <episode-num system="onscreen">221</episode-num>
+    <category lang="ca">ENTRETENIMENT</category>
+    <category lang="ca">GAGS. HUMOR</category>
     <rating>
-      <value>TOTS ELS PÚBLICS</value>
+      <value>JUVENIL</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/7/3/1698145091337.jpg"/>
   </programme>
-  <programme start="20260907182637 +0200" stop="20260907190000 +0200" channel="esport3">
-    <title lang="ca">La frontal</title>
-    <sub-title lang="ca">La frontal</sub-title>
-    <desc lang="ca">La família vendrellenca té més de 500 esportistes en 35 equips, i la secció de futbol és un referent a les comarques tarragonines. Fundat fa 113 anys, actualment viu un dels millors moments de la seva història. I a més a més de la visita al Vendrell, us oferim els resums dels partits més destacats del cap de setmana.</desc>
-    <length units="seconds">2003</length>
-    <episode-num system="onscreen">174</episode-num>
-    <category lang="ca">ESPORTS</category>
-    <category lang="ca">ESPECIALS</category>
+  <programme start="20260907210720 +0200" stop="20260907212940 +0200" channel="esport3">
+    <title lang="ca">Crackòvia</title>
+    <sub-title lang="ca">Crackòvia</sub-title>
+    <desc lang="ca">El 'Crackòvia' 2015-2016 tornarà a la tardor amb energies renovades. Als personatges ja habituals i consolidats al programa com el trident, Luis Enrique, Collet, Florentino, Cristiano... s'hi sumaran els flamants fitxatges de la temporada encapçalats per Arda Turan o l'entrenador del Reial Madrid Rafa Benítez.El programa seguirà l'intent de sextet del Barça, l'intent de resurrecció del Reial Madrid i l'intent de superar les baixes de l'estiu de l'Espanyol a través de la seva fórmula de sketchos intercalats amb resums del partit, escenes entre les bambolines del plató, peces gràfiques i moltes altres sorpreses.Aconseguirà Luis Enrique igualar a Guardiola? Aconseguirà Florentino quedar-se sol al Reial Madrid? Aconseguirà Collet no patir gaire? Tot això ho veurem en la propera temporada de 'Crackòvia'.</desc>
+    <length units="seconds">1340</length>
+    <episode-num system="onscreen">222</episode-num>
+    <category lang="ca">ENTRETENIMENT</category>
+    <category lang="ca">GAGS. HUMOR</category>
     <rating>
-      <value>TOTS ELS PÚBLICS</value>
+      <value>JUVENIL</value>
     </rating>
-    <icon src="https://img.ccma.cat/multimedia/jpg/2/4/1698432480342.jpg"/>
+    <subtitles type="teletext"/>
+    <previously-shown/>
   </programme>
   <channel id="sx3">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20260907180257 +0200" stop="20260907181327 +0200" channel="sx3">
-    <title lang="ca">El Mic i els seus amics</title>
-    <sub-title lang="ca">El Mic i els seus amics - El Mic es mira al mirall</sub-title>
-    <desc lang="ca">'El Mic i els seus amics' presenta les històries del Mic agrupades en capítols. Les aventures dels titelles s'acompanyen de petits vídeos protagonitzats per nens i nenes, i separadors amb imatges de natura. És una sèrie pensada perquè els súpers més petits gaudeixin encara més! El Mic i els seus amics es troben cada dia per cantar cançons, explicar contes, dir endevinalles... Viuen en un lloc on hi ha turons, arbres, flors i papallones.Tot està a punt per jugar. Només cal fer... MAC, MEC, MIC, TOCA'T EL MELIC!</desc>
-    <length units="seconds">630</length>
-    <episode-num system="onscreen">499</episode-num>
+  <programme start="20260907203718 +0200" stop="20260907210000 +0200" channel="sx3">
+    <title lang="ca">Henry Danger</title>
+    <sub-title lang="ca">Henry Danger - Les magdalenes de l'amor</sub-title>
+    <desc lang="ca">En Ray anuncia que es vol casar amb una dona que acaba de conèixer, i els seus amics sospiten que alguna cosa molt estranya hi ha al darrere.</desc>
+    <length units="seconds">1362</length>
+    <episode-num system="onscreen">47</episode-num>
     <category lang="ca">FICCIÓ</category>
-    <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
+    <category lang="ca">SÈRIE DRAMÀTICA</category>
     <rating>
       <value>INFANTIL</value>
     </rating>
     <subtitles type="teletext"/>
-    <previously-shown/>
   </programme>
-  <programme start="20260907181327 +0200" stop="20260907182413 +0200" channel="sx3">
-    <title lang="ca">El Mic i els seus amics</title>
-    <sub-title lang="ca">El Mic i els seus amics - Juguem a fet i amagar a l'hort</sub-title>
-    <desc lang="ca">'El Mic i els seus amics' presenta les històries del Mic agrupades en capítols. Les aventures dels titelles s'acompanyen de petits vídeos protagonitzats per nens i nenes, i separadors amb imatges de natura. És una sèrie pensada perquè els súpers més petits gaudeixin encara més! El Mic i els seus amics es troben cada dia per cantar cançons, explicar contes, dir endevinalles... Viuen en un lloc on hi ha turons, arbres, flors i papallones.Tot està a punt per jugar. Només cal fer... MAC, MEC, MIC, TOCA'T EL MELIC!</desc>
-    <length units="seconds">646</length>
-    <episode-num system="onscreen">536</episode-num>
+  <programme start="20260907210000 +0200" stop="20260907212217 +0200" channel="sx3">
+    <title lang="ca">Bola de drac Z</title>
+    <sub-title lang="ca">Bola de drac Z - Un entrenament més dur per ser més fort: un superguerrer</sub-title>
+    <desc lang="ca">Aconsellat per en Son Goku, en Vegeta i en Trunks es comencen a entrenar a la Sala de l'Esperit del Temps, on un dia d'entrenament equival a tot el d'un any a l'exterior. L'objectiu és superar la força dels superguerrers, però abans de finalitzar el primer dia d'entrenament, apareixen els androides A-17 i A-18.</desc>
+    <length units="seconds">1337</length>
+    <episode-num system="onscreen">147</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
-      <value>INFANTIL</value>
+      <value>JUVENIL</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
@@ -122,25 +119,11 @@
   <channel id="c33">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20260907174153 +0200" stop="20260907183239 +0200" channel="c33">
-    <title lang="ca">El gran camí</title>
-    <sub-title lang="ca">El gran camí - El Camí de Sant Jaume</sub-title>
-    <desc lang="ca">El camí de Santiago és la ruta de pelegrinatge més important d'Europa. L'han fet milions de persones durant segles per arribar fins a Santiago de Compostel·la i Fisterra (la fi del món), a Espanya. </desc>
-    <length units="seconds">3046</length>
-    <episode-num system="onscreen">4</episode-num>
-    <category lang="ca">DIVULGACIÓ</category>
-    <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <subtitles type="teletext"/>
-    <previously-shown/>
-  </programme>
-  <programme start="20260907183239 +0200" stop="20260907200111 +0200" channel="c33">
-    <title lang="ca">L'últim iglú</title>
-    <sub-title lang="ca">L'últim iglú - L'últim iglú</sub-title>
-    <desc lang="ca">Documentar l'enginyós ofici de la construcció d'iglús abans que sigui massa tard; aquesta pel·lícula és una extraordinària i poètica immersió sensorial en un paisatge de gel i neu. L'últim iglú explica la història d'un dia a la vida d'un caçador inuit a Groenlàndia i l'iglú que construeix a la tundra gelada. Filmades per revelar la bellesa dels detalls del dia a dia del caçador i de la construcció d'iglús, les impressionants imatges es veuen millorades per un disseny sonor que captura cada tros de neu i gel, així com el paisatge sonor del desert àrtic. En el fons, aquesta pel·lícula és una celebració absorbent i meditativa d'una forma d'art juntament amb el seu entorn i un recordatori commovedor del que aviat pot desaparèixer.</desc>
-    <length units="seconds">5312</length>
+  <programme start="20260907200111 +0200" stop="20260907205944 +0200" channel="c33">
+    <title lang="ca">Un planeta perfecte</title>
+    <sub-title lang="ca">Un planeta perfecte - Volcà</sub-title>
+    <desc lang="ca">Sense volcans no hi hauria vida: no hi hauria una atmosfera respirable, ni oceans ni terra ferma. A la superfície de la Terra hi ha més de 1.500 volcans actius. En aquest episodi visitarem els sorprenents habitats que els volcans han creat pertot arreu: un llac d'aigües càustiques on crien els flamencs, un volcà adormit on enterren els ous les iguanes, o les grans planes del Serengeti, on els rics sediments volcànics permeten una explosió de vida.</desc>
+    <length units="seconds">3513</length>
     <episode-num system="onscreen">1</episode-num>
     <category lang="ca">DIVULGACIÓ</category>
     <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
@@ -149,7 +132,12 @@
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
-    <icon src="https://img.3cat.cat/multimedia/jpg/5/1/1787640386215.jpg"/>
+    <icon src="https://img.3cat.cat/multimedia/jpg/0/9/1766143230590.jpg"/>
+  </programme>
+  <programme start="20260907205944 +0200" stop="20260907210124 +0200" channel="c33">
+    <title lang="ca">SENSE FI CANAL 33</title>
+    <desc lang="ca">Sense Descripció</desc>
+    <length units="seconds">100</length>
   </programme>
   <channel id="oca1">
     <display-name>OCA1</display-name>
