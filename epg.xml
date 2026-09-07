@@ -3,38 +3,39 @@
   <channel id="tvi">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20260907105955 +0200" stop="20260907140000 +0200" channel="tvi">
-    <title lang="ca">Tot es mou</title>
-    <sub-title lang="ca">Tot es mou</sub-title>
-    <desc lang="ca">El programa presentat per Helena Garcia Melero s'emet de dilluns a divendres, de 10.30 a 13.55. Un magazín d'actualitat que busca informar, analitzar i debatre sobre temes que marquen l'actualitat social, econòmica i cultural del dia, amb una àmplia presència en directe dels reporters i reporteres, repartits per tot Catalunya. A més, el 'Tot es mou' compta amb seccions diàries de gastronomia (amb els principals cuiners i cuineres del país), successos, economia, mobilitat, temes mèdics i de tecnologia, entre d'altres.</desc>
-    <length units="seconds">10805</length>
-    <episode-num system="onscreen">1803</episode-num>
-    <category lang="ca">ACTUALITAT</category>
+  <programme start="20260907172440 +0200" stop="20260907191400 +0200" channel="tvi">
+    <title lang="ca">La Selva</title>
+    <sub-title lang="ca">La Selva</sub-title>
+    <desc lang="ca">Xavier Grasset presenta La Selva, el nou magazín d'entreteniment de les tardes de TV3. Un show d'autor on parlarem de tot de forma distesa i lliure, una trobada fixa a la nova cafeteria de la televisió pública catalana, regentada per la Mercè Fonoll (l'actriu i humorista, Anna Bertran). A La Selva sempre hi passen coses, és un món ple d'activitat on diverses espècies hi conviuen de forma lliure.Hi passaran Antoni Bassas, Montse Barderi, Fel Faixedas, Sílvia Bel, la Nina, en Biel Duran, l'Alba Alfageme o la Carlota Gurt, entre molts d'altres. Una trobada plena de coneixement i seguiment de l'actualitat, però també d'entreteniment. Els acompanyaran, per exemple fent recomanacions, Sergi Cutillas, amb la seva música de capçalera, en Godai García que ens apropa a la terra -amb una mirada molt pròpia- o la cuinera i influencer, Sofia Janer.A La Selva farem un repàs al què ha passat durant el dia i a la vida en general d'aquella manera única del Xavier Grasset acompanyat al sofà per la Maria Xinxó, la Núria Martínez o l'Ester Pagès. La resta de l'equip treballarà per explicar-vos el que ha passat dins i fora de La Selva, acostar-vos al territori i oferir-vos entreteniment, però sempre amb contingut. Cada dia hi haurà entrevistes, no hi faltaran els llibres, la cultura o històries humanes de tot tipus. I, a més, comptarem amb la participació del nostre públic. Us convidarem a jugar en un concurs diari, divertit i enginyós. Quan t'endinses a la Selva mai saps què t'hi pots acabar trobant!Cada tarda, et farem companyia a 3cat. Us espera una nova aventura plena de personatges interessants, converses, reflexions, descobriments i uns quants somriures. Sempre amb un ull posat a tot el que passa al nostre voltant. Quedem a La Selva!</desc>
+    <length units="seconds">6560</length>
+    <episode-num system="onscreen">404</episode-num>
+    <category lang="ca">ENTRETENIMENT</category>
     <category lang="ca">MAGAZINE</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
+    <icon src="https://img.3cat.cat/multimedia/jpg/6/3/1725871608136.jpg"/>
   </programme>
-  <programme start="20260907140000 +0200" stop="20260907143000 +0200" channel="tvi">
-    <title lang="ca">Telenotícies comarques</title>
-    <sub-title lang="ca">Telenotícies comarques</sub-title>
-    <length units="seconds">1800</length>
-    <episode-num system="onscreen">7029</episode-num>
-    <category lang="ca">ACTUALITAT</category>
-    <category lang="ca">INFORMATIU DIÀRI</category>
+  <programme start="20260907191400 +0200" stop="20260907201500 +0200" channel="tvi">
+    <title lang="ca">Atrapa'm si pots, estiu</title>
+    <sub-title lang="ca">Atrapa'm si pots, estiu</sub-title>
+    <desc lang="ca">'Atrapa'm si pots' és un 'quiz show' clàssic, de preguntes i respostes, presentat per Llucià Ferrer, en què sis concursants competeixen per arribar a la fase final i guanyar el pot. 'Atrapa'm si pots' és entreteniment pur i on gairebé és més important passar-s'ho bé que els diners. És un concurs en què pesa més la intuïció que no els coneixements acadèmics, més l'estratègia en el joc que no la sort.</desc>
+    <length units="seconds">3660</length>
+    <episode-num system="onscreen">988</episode-num>
+    <category lang="ca">ENTRETENIMENT</category>
+    <category lang="ca">CONCURS</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <icon src="https://img.ccma.cat/multimedia/jpg/5/2/1758026313525.jpg"/>
   </programme>
   <channel id="324">
     <display-name>324</display-name>
   </channel>
-  <programme start="20260907120000 +0200" stop="20260907140000 +0200" channel="324">
+  <programme start="20260907170000 +0200" stop="20260907183000 +0200" channel="324">
     <title lang="ca">Notícies 3CatInfo</title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">7200</length>
-    <episode-num system="onscreen">11106</episode-num>
+    <length units="seconds">5400</length>
+    <episode-num system="onscreen">11108</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
@@ -43,40 +44,27 @@
     <subtitles type="teletext"/>
     <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
-  <programme start="20260907140000 +0200" stop="20260907143000 +0200" channel="324">
-    <title lang="ca">Telenotícies comarques</title>
-    <length units="seconds">1800</length>
-    <episode-num system="onscreen">7029</episode-num>
+  <programme start="20260907183000 +0200" stop="20260907200000 +0200" channel="324">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="seconds">5400</length>
+    <episode-num system="onscreen">11109</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <icon src="https://img.ccma.cat/multimedia/jpg/5/2/1758026313525.jpg"/>
+    <subtitles type="teletext"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
   <channel id="esport3">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20260907112630 +0200" stop="20260907130000 +0200" channel="esport3">
-    <title lang="ca">Gol a gol</title>
-    <sub-title lang="ca">Gol a gol - Anàlisi de la jornada / J4 / Diumenge</sub-title>
-    <desc lang="ca">'Gol a gol' us ofereix els resums dels partits de futbol de Primera i Segona Divisió. Presentat per Jordi Grau a Esport3, cada dissabte i cada diumenge podeu veure les millors imatges de la jornada de Lliga amb l'anàlisi dels experts, amb especial atenció als equips catalans, sobretot el Barça, el Girona i l'Espanyol.</desc>
-    <length units="seconds">5610</length>
-    <episode-num system="onscreen">1774</episode-num>
-    <category lang="ca">ESPORTS</category>
-    <category lang="ca">MAGAZINE</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <subtitles type="teletext"/>
-    <previously-shown/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/2/1/1698144123212.jpg"/>
-  </programme>
-  <programme start="20260907130000 +0200" stop="20260907140048 +0200" channel="esport3">
+  <programme start="20260907172811 +0200" stop="20260907182637 +0200" channel="esport3">
     <title lang="ca">Esport Club</title>
     <sub-title lang="ca">Esport Club</sub-title>
-    <desc lang="ca">En Jordi Sanuy i Víctor Patsi us expliquen l'última hora esportiva i l'analitzen amb el seu equip de col·laboradors. El programa és molt actiu a les xarxes socials. L''Esport Club' té presència a Twitter, a Facebook i a Instagram. L'espai dirigeix moltes accions de participació amb l'audiència a través de les xarxes socials.</desc>
-    <length units="seconds">3648</length>
+    <desc lang="ca">El Barça, líder en solitari després de golejar el València (0-5). Analitzem el partit amb la lupa de l'Albert Blaya. L'Espanyol salva un punt al minut 98. En parlem amb Juli Garcia. Entrevistem Adrián Sola, jugador del Barça d'handbol, campió de la Supercopa Ibèrica. A la tertúlia ens acompanyen Orfeo Suárez, Pichi Alonso i Maria Josep Hostalrich.</desc>
+    <length units="seconds">3506</length>
     <episode-num system="onscreen">3234</episode-num>
     <category lang="ca">ESPORTS</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
@@ -84,17 +72,31 @@
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
+    <previously-shown/>
     <icon src="https://img.ccma.cat/multimedia/jpg/7/3/1698145091337.jpg"/>
+  </programme>
+  <programme start="20260907182637 +0200" stop="20260907190000 +0200" channel="esport3">
+    <title lang="ca">La frontal</title>
+    <sub-title lang="ca">La frontal</sub-title>
+    <desc lang="ca">La família vendrellenca té més de 500 esportistes en 35 equips, i la secció de futbol és un referent a les comarques tarragonines. Fundat fa 113 anys, actualment viu un dels millors moments de la seva història. I a més a més de la visita al Vendrell, us oferim els resums dels partits més destacats del cap de setmana.</desc>
+    <length units="seconds">2003</length>
+    <episode-num system="onscreen">174</episode-num>
+    <category lang="ca">ESPORTS</category>
+    <category lang="ca">ESPECIALS</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <icon src="https://img.ccma.cat/multimedia/jpg/2/4/1698432480342.jpg"/>
   </programme>
   <channel id="sx3">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20260907123240 +0200" stop="20260907125424 +0200" channel="sx3">
-    <title lang="ca">Els germans Kratt</title>
-    <sub-title lang="ca">Els germans Kratt - Un elefant a casa</sub-title>
-    <desc lang="ca">En Chris i en Martin s'han trobat una cria d'elefant i l'han dut a la nau Tortuga perquè estigui fora de perill fins que trobin la seva manada. Aviat descobriran que les cries d'elefant poden arribar a ser molt trapelles, i que, si no troben aviat la mare, es poden quedar sense nau Tortuga! Sort que també n'aprendran moltes coses, dels elefants! Sobretot de la trompa! No t'ho perdis!</desc>
-    <length units="seconds">1304</length>
-    <episode-num system="onscreen">17</episode-num>
+  <programme start="20260907180257 +0200" stop="20260907181327 +0200" channel="sx3">
+    <title lang="ca">El Mic i els seus amics</title>
+    <sub-title lang="ca">El Mic i els seus amics - El Mic es mira al mirall</sub-title>
+    <desc lang="ca">'El Mic i els seus amics' presenta les històries del Mic agrupades en capítols. Les aventures dels titelles s'acompanyen de petits vídeos protagonitzats per nens i nenes, i separadors amb imatges de natura. És una sèrie pensada perquè els súpers més petits gaudeixin encara més! El Mic i els seus amics es troben cada dia per cantar cançons, explicar contes, dir endevinalles... Viuen en un lloc on hi ha turons, arbres, flors i papallones.Tot està a punt per jugar. Només cal fer... MAC, MEC, MIC, TOCA'T EL MELIC!</desc>
+    <length units="seconds">630</length>
+    <episode-num system="onscreen">499</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
@@ -103,12 +105,12 @@
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20260907125424 +0200" stop="20260907131710 +0200" channel="sx3">
-    <title lang="ca">Els germans Kratt</title>
-    <sub-title lang="ca">Els germans Kratt - A la càrrega, rinoceronts!</sub-title>
-    <desc lang="ca">Avui, els germans Kratt han anat de missió a la sabana africana a descobrir com és que estan desapareixent tants rinoceronts. Aviat descobriran que és cosa d'en Zach, que els està segrestant per construir l'invent més genial de tots: el rinodòzer! Però també descobriran com es defensen els rinoceronts... i potser fins i tot ho faran servir! T'ho perdràs?!</desc>
-    <length units="seconds">1366</length>
-    <episode-num system="onscreen">18</episode-num>
+  <programme start="20260907181327 +0200" stop="20260907182413 +0200" channel="sx3">
+    <title lang="ca">El Mic i els seus amics</title>
+    <sub-title lang="ca">El Mic i els seus amics - Juguem a fet i amagar a l'hort</sub-title>
+    <desc lang="ca">'El Mic i els seus amics' presenta les històries del Mic agrupades en capítols. Les aventures dels titelles s'acompanyen de petits vídeos protagonitzats per nens i nenes, i separadors amb imatges de natura. És una sèrie pensada perquè els súpers més petits gaudeixin encara més! El Mic i els seus amics es troben cada dia per cantar cançons, explicar contes, dir endevinalles... Viuen en un lloc on hi ha turons, arbres, flors i papallones.Tot està a punt per jugar. Només cal fer... MAC, MEC, MIC, TOCA'T EL MELIC!</desc>
+    <length units="seconds">646</length>
+    <episode-num system="onscreen">536</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
@@ -120,32 +122,34 @@
   <channel id="c33">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20260907122240 +0200" stop="20260907132314 +0200" channel="c33">
-    <title lang="ca">Atrapa'm si pots - Especials</title>
-    <sub-title lang="ca">Atrapa'm si pots - Especials - Atrapa'm si pots - estiu</sub-title>
-    <length units="seconds">3634</length>
-    <episode-num system="onscreen">51</episode-num>
-    <category lang="ca">ENTRETENIMENT</category>
-    <category lang="ca">CONCURS</category>
+  <programme start="20260907174153 +0200" stop="20260907183239 +0200" channel="c33">
+    <title lang="ca">El gran camí</title>
+    <sub-title lang="ca">El gran camí - El Camí de Sant Jaume</sub-title>
+    <desc lang="ca">El camí de Santiago és la ruta de pelegrinatge més important d'Europa. L'han fet milions de persones durant segles per arribar fins a Santiago de Compostel·la i Fisterra (la fi del món), a Espanya. </desc>
+    <length units="seconds">3046</length>
+    <episode-num system="onscreen">4</episode-num>
+    <category lang="ca">DIVULGACIÓ</category>
+    <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20260907132314 +0200" stop="20260907141535 +0200" channel="c33">
-    <title lang="ca">Experiència Catalana</title>
-    <sub-title lang="ca">Experiència Catalana - Família Toulat</sub-title>
-    <desc lang="ca">La família Toulat ve des de París i l'acompanyem a participar en la Festa dels Raiers a la Pobla de Segur. A més, coneixen el parc d'Aigüestortes i el romànic de la Vall de Boí. Però el viatge té altres sorpreses, sobretot pels dos petits de la família: el Camp Nou i el Circ Cric.</desc>
-    <length units="seconds">3141</length>
-    <episode-num system="onscreen">11</episode-num>
-    <category lang="ca">ENTRETENIMENT</category>
-    <category lang="ca">ALTRES</category>
+  <programme start="20260907183239 +0200" stop="20260907200111 +0200" channel="c33">
+    <title lang="ca">L'últim iglú</title>
+    <sub-title lang="ca">L'últim iglú - L'últim iglú</sub-title>
+    <desc lang="ca">Documentar l'enginyós ofici de la construcció d'iglús abans que sigui massa tard; aquesta pel·lícula és una extraordinària i poètica immersió sensorial en un paisatge de gel i neu. L'últim iglú explica la història d'un dia a la vida d'un caçador inuit a Groenlàndia i l'iglú que construeix a la tundra gelada. Filmades per revelar la bellesa dels detalls del dia a dia del caçador i de la construcció d'iglús, les impressionants imatges es veuen millorades per un disseny sonor que captura cada tros de neu i gel, així com el paisatge sonor del desert àrtic. En el fons, aquesta pel·lícula és una celebració absorbent i meditativa d'una forma d'art juntament amb el seu entorn i un recordatori commovedor del que aviat pot desaparèixer.</desc>
+    <length units="seconds">5312</length>
+    <episode-num system="onscreen">1</episode-num>
+    <category lang="ca">DIVULGACIÓ</category>
+    <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
+    <icon src="https://img.3cat.cat/multimedia/jpg/5/1/1787640386215.jpg"/>
   </programme>
   <channel id="oca1">
     <display-name>OCA1</display-name>
