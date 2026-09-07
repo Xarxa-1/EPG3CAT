@@ -3,39 +3,35 @@
   <channel id="tvi">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20260907210000 +0200" stop="20260907215930 +0200" channel="tvi">
-    <title lang="ca">Telenotícies vespre</title>
-    <sub-title lang="ca">Telenotícies vespre</sub-title>
-    <length units="seconds">3570</length>
-    <episode-num system="onscreen">7320</episode-num>
-    <category lang="ca">ACTUALITAT</category>
-    <category lang="ca">INFORMATIU DIÀRI</category>
+  <programme start="20260907233422 +0200" stop="20260908012008 +0200" channel="tvi">
+    <title lang="ca">Teatre</title>
+    <sub-title lang="ca">Teatre - L'alegria que passa</sub-title>
+    <desc lang="ca">L'ALEGRIA QUE PASSAUn espectacle de Dagoll DagomA partir de l'obra de Santiago RusiñolText i direcció d'escena: Marc RosichMúsica i direcció musical: Andreu GallénDirecció coreogràfica: Ariadna PeyaDramatúrgia: Anna Rosa Cisquella, Andreu Gallén, Ariadna Peya i Marc RosichLletres: Marc Rosich i Andreu GallénLa companyia:Mariona CastilloJordi CollJúlia GenísEloi GómezÀngels GonyalonsPol GuimeràBasem NahnouhPau OliverDavid Pérez-BayonaSINOPSIUn poble gris, monòton i industrial veu trencada la seva rutina laborable amb l'arribada d'un gran espectacle musical.La companyia ha sigut contractada per l'alcalde del poble i propietari de l'única fàbrica en tota la població. Joan, el fill de l'alcalde que és a punt de casar-se amb la seva parella Lina, s'enamora de la gran estrella Zaira i vol fugir amb ella lluny del poble gris. Zaira, en canvi, està esgotada de la seva vida nòmada i desitjaria quedar-se a viure al poble i portar una vida amb tranquil·litat. Al seu costat Puck, l'agressiu mànager, la maltracta creient-la de la seva propietat i li exigeix que continuï. L'autoritari i fals demòcrata alcalde obliga el seu fill a desistir dels seus somnis.</desc>
+    <length units="seconds">6346</length>
+    <episode-num system="onscreen">1</episode-num>
+    <category lang="ca">FICCIÓ</category>
+    <category lang="ca">TEATRE</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <icon src="https://img.ccma.cat/multimedia/jpg/7/2/1758026176427.jpg"/>
+    <previously-shown/>
   </programme>
-  <programme start="20260907215930 +0200" stop="20260907220655 +0200" channel="tvi">
-    <title lang="ca">Equip 012</title>
-    <desc lang="ca">Sense Descripció</desc>
-    <length units="seconds">445</length>
-    <episode-num system="onscreen">1</episode-num>
-    <subtitles type="teletext"/>
+  <programme start="20260908012008 +0200" stop="20260908030648 +0200" channel="tvi">
+    <title lang="ca">Mésnit</title>
+    <sub-title lang="ca">Mésnit</sub-title>
+    <desc lang="ca">El 'Mésnit' arriba a la desena temporada, amb Marina Romero al capdavant de l'espai i amb la voluntat de continuar sent un centre de debat d'idees i d'anàlisi de l'activitat política.</desc>
+    <length units="seconds">6400</length>
+    <episode-num system="onscreen">2154</episode-num>
+    <category lang="ca">ACTUALITAT</category>
+    <category lang="ca">DEBAT</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <previously-shown/>
   </programme>
   <channel id="324">
     <display-name>324</display-name>
   </channel>
-  <programme start="20260907210000 +0200" stop="20260907220500 +0200" channel="324">
-    <title lang="ca">Telenotícies vespre</title>
-    <length units="seconds">3900</length>
-    <episode-num system="onscreen">7320</episode-num>
-    <category lang="ca">ACTUALITAT</category>
-    <category lang="ca">INFORMATIU DIÀRI</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <icon src="https://img.ccma.cat/multimedia/jpg/7/2/1758026176427.jpg"/>
-  </programme>
   <programme start="20260907220500 +0200" stop="20260908000000 +0200" channel="324">
     <title lang="ca">Mésnit</title>
     <desc lang="ca">El 'Mésnit' arriba a la desena temporada, amb Marina Romero al capdavant de l'espai i amb la voluntat de continuar sent un centre de debat d'idees i d'anàlisi de l'activitat política.</desc>
@@ -48,65 +44,76 @@
     </rating>
     <subtitles type="teletext"/>
   </programme>
-  <channel id="esport3">
-    <display-name>ESPORT3</display-name>
-  </channel>
-  <programme start="20260907210722 +0200" stop="20260907213508 +0200" channel="esport3">
-    <title lang="ca">Crackòvia</title>
-    <sub-title lang="ca">Crackòvia</sub-title>
-    <desc lang="ca">El 'Crackòvia' 2015-2016 tornarà a la tardor amb energies renovades. Als personatges ja habituals i consolidats al programa com el trident, Luis Enrique, Collet, Florentino, Cristiano... s'hi sumaran els flamants fitxatges de la temporada encapçalats per Arda Turan o l'entrenador del Reial Madrid Rafa Benítez.El programa seguirà l'intent de sextet del Barça, l'intent de resurrecció del Reial Madrid i l'intent de superar les baixes de l'estiu de l'Espanyol a través de la seva fórmula de sketchos intercalats amb resums del partit, escenes entre les bambolines del plató, peces gràfiques i moltes altres sorpreses.Aconseguirà Luis Enrique igualar a Guardiola? Aconseguirà Florentino quedar-se sol al Reial Madrid? Aconseguirà Collet no patir gaire? Tot això ho veurem en la propera temporada de 'Crackòvia'.</desc>
-    <length units="seconds">1666</length>
-    <episode-num system="onscreen">222</episode-num>
-    <category lang="ca">ENTRETENIMENT</category>
-    <category lang="ca">GAGS. HUMOR</category>
-    <rating>
-      <value>JUVENIL</value>
-    </rating>
-    <subtitles type="teletext"/>
-    <previously-shown/>
-  </programme>
-  <programme start="20260907213508 +0200" stop="20260907230000 +0200" channel="esport3">
-    <title lang="ca">Tot Costa</title>
-    <sub-title lang="ca">Tot Costa</sub-title>
-    <desc lang="ca">El Barça té nou trident de moda. Qui marcarà més gols a final de temporada? En parlem amb Dani Senabre, Anaïs Martí i Marcos López. També analitzarem al 'Torquelab', amb Ricard Torquemada, què canvia al Barça amb Rodri. Tancarem el programa amb entrevista a Àlex Palou i al president del CE Europa, Hector Ibar</desc>
-    <length units="seconds">5092</length>
-    <episode-num system="onscreen">1003</episode-num>
-    <category lang="ca">ESPORTS</category>
+  <programme start="20260908000000 +0200" stop="20260908003000 +0200" channel="324">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="seconds">1800</length>
+    <episode-num system="onscreen">11111</episode-num>
+    <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
-    <previously-shown/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/0/4/1706209193140.jpg"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
+  </programme>
+  <channel id="esport3">
+    <display-name>ESPORT3</display-name>
+  </channel>
+  <programme start="20260907230028 +0200" stop="20260908003039 +0200" channel="esport3">
+    <title lang="ca">Onze</title>
+    <sub-title lang="ca">Onze</sub-title>
+    <desc lang="ca">Juvenal Edjogo, Jordi Martí, Aina Cerdà i Xavi Torres comenten la golejada del Barça a Mestalla i el canvi d'actitud de José Mourinho. El Joan Fàbregas analitza les jugades polèmiques de la jornada.</desc>
+    <length units="seconds">5411</length>
+    <episode-num system="onscreen">1245</episode-num>
+    <category lang="ca">ESPORTS</category>
+    <category lang="ca">MAGAZINE</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <subtitles type="teletext"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/1/1/1688543515711.jpg"/>
+  </programme>
+  <programme start="20260908003039 +0200" stop="20260908005011 +0200" channel="esport3">
+    <title lang="ca">3CatInfo Esports</title>
+    <sub-title lang="ca">3CatInfo Esports</sub-title>
+    <desc lang="ca">Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.</desc>
+    <length units="seconds">1172</length>
+    <episode-num system="onscreen">5502</episode-num>
+    <category lang="ca">ESPORTS</category>
+    <category lang="ca">INFORMATIU DIÀRI</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <icon src="https://img.ccma.cat/multimedia/jpg/9/7/1758888682179.jpg"/>
   </programme>
   <channel id="sx3">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20260907210000 +0200" stop="20260907212217 +0200" channel="sx3">
-    <title lang="ca">Bola de drac Z</title>
-    <sub-title lang="ca">Bola de drac Z - Un entrenament més dur per ser més fort: un superguerrer</sub-title>
-    <desc lang="ca">Aconsellat per en Son Goku, en Vegeta i en Trunks es comencen a entrenar a la Sala de l'Esperit del Temps, on un dia d'entrenament equival a tot el d'un any a l'exterior. L'objectiu és superar la força dels superguerrers, però abans de finalitzar el primer dia d'entrenament, apareixen els androides A-17 i A-18.</desc>
-    <length units="seconds">1337</length>
-    <episode-num system="onscreen">147</episode-num>
+  <programme start="20260907234505 +0200" stop="20260908000604 +0200" channel="sx3">
+    <title lang="ca">Els germans Kratt</title>
+    <sub-title lang="ca">Els germans Kratt - Balenes i calamars</sub-title>
+    <desc lang="ca">Tot posant a prova l'amfisubmarí, l'últim invent de l'Aviva, en Chris i en Martin s'han trobat a les profunditats inexplorades de l'oceà, enmig d'una batalla entre una mare catxalot i un calamar gegant. Però arriba un moment que l'amfisubmarí ja no aguanta la pressió de l'aigua. És l'hora de treure els Vestits de Poder Animal i de poder gaudir d'aquesta batalla mai vista!</desc>
+    <length units="seconds">1259</length>
+    <episode-num system="onscreen">2</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
-      <value>JUVENIL</value>
+      <value>INFANTIL</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20260907212217 +0200" stop="20260907214110 +0200" channel="sx3">
-    <title lang="ca">Bola de drac Z</title>
-    <sub-title lang="ca">Bola de drac Z - En Cèl·lula s'acosta a la ciutat</sub-title>
-    <desc lang="ca">Disposat a aguantar fins a l'arribada dels superguerrers, en Cor Petit s'enfronta a l'A-17, però els pitjors temors es fan realitat quan en Cèl·lula detecta l'energia del Supernamek i decideix anar-lo a buscar. Mentrestant, en Vegeta i en Trunks continuen a la Sala de l'Esperit del Temps per intentar superar la força dels superguerrers.</desc>
-    <length units="seconds">1133</length>
-    <episode-num system="onscreen">148</episode-num>
+  <programme start="20260908000604 +0200" stop="20260908002704 +0200" channel="sx3">
+    <title lang="ca">Els germans Kratt</title>
+    <sub-title lang="ca">Els germans Kratt - El poble dels porcs formiguers</sub-title>
+    <desc lang="ca">Avui en Chris i en Martin descobriran el poble dels porcs formiguers, uns animals que costen molt de veure i que estan emparentats amb... els elefants?! A més, els coneixeran molt de prop! Sobretot en Chris! Un porc formiguer, tot fugint d'una hiena, se li ha amagat a la motxilla! Ara els tocarà tornar-lo al seu cau! Els hi acompanyes?!</desc>
+    <length units="seconds">1260</length>
+    <episode-num system="onscreen">3</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
-      <value>JUVENIL</value>
+      <value>INFANTIL</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
@@ -114,28 +121,28 @@
   <channel id="c33">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20260907211017 +0200" stop="20260907213830 +0200" channel="c33">
-    <title lang="ca">Plats bruts</title>
-    <sub-title lang="ca">Plats bruts - Tinc un pla</sub-title>
-    <desc lang="ca">L'Emma presenta el David a la Lola, una antiga amiga. Ell queda embadalit i amb l'ajuda de la Carbonell munta una festa al pis per convidar-la. D'altra banda, al Lopes li cau 'l'encàrrec' de fer de cangur d'un nadó, el 'Bofarullet', fill dels amos de Ràdio Bofarull. Tots es troben a la festa.</desc>
-    <length units="seconds">1693</length>
-    <episode-num system="onscreen">34</episode-num>
-    <category lang="ca">FICCIÓ</category>
-    <category lang="ca">SITCOM (COMÈDIA DE SITUACIÓ)</category>
+  <programme start="20260907235312 +0200" stop="20260908004144 +0200" channel="c33">
+    <title lang="ca">Aeroport</title>
+    <sub-title lang="ca">Aeroport - Passatgers</sub-title>
+    <desc lang="ca">Viatjar en avió pot ser tota una aventura. Especialment si els passatgers arriben justos de temps, porten el DNI caducat, o volen per primera vegada i no tenen gens clar com funciona el tema.</desc>
+    <length units="seconds">2912</length>
+    <episode-num system="onscreen">14</episode-num>
+    <category lang="ca">DIVULGACIÓ</category>
+    <category lang="ca">Docu-Entreteniment</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20260907213830 +0200" stop="20260907220114 +0200" channel="c33">
-    <title lang="ca">Plats bruts</title>
-    <sub-title lang="ca">Plats bruts - Tinc espelma</sub-title>
-    <desc lang="ca">El David ha iniciat una relació amb la Lola, però per qui de veritat se sent atret és per la Marina. Munta un sopar on les convida totes dues i demana al Lopes que s'enrotlli amb la Lola, però aquest es fa un embolic tota l'estona. D'altra banda, el Pol descobreix que l'Emma té arrels nobles...</desc>
-    <length units="seconds">1364</length>
-    <episode-num system="onscreen">35</episode-num>
-    <category lang="ca">FICCIÓ</category>
-    <category lang="ca">SITCOM (COMÈDIA DE SITUACIÓ)</category>
+  <programme start="20260908004144 +0200" stop="20260908011154 +0200" channel="c33">
+    <title lang="ca">No tenim vergonya</title>
+    <sub-title lang="ca">No tenim vergonya</sub-title>
+    <desc lang="ca">'No tenim vergonya' revisa els grans moments a Televisió de Catalunya. Se'ls mira des d'un altre punt de vista, per comparar-los amb la realitat actual o repassar moments televisius molt recordats. Mai, però, des d'un punt de vista nostàlgic. NTV és una cadena de televisió. I, com a tal, conté tota mena d'elements (molinets, publicitat...) i de programes (informatius, d'esports, magazines, musicals, concursos...). De què es nodreix la seva programació? De l'arxiu de la televisió pública catalana revisionada sense complexos. D'aquí ve el nom de la cadena NTV, de 'No tenim vergonya'.</desc>
+    <length units="seconds">1810</length>
+    <episode-num system="onscreen">218</episode-num>
+    <category lang="ca">ESPORTS</category>
+    <category lang="ca">REPORTATGES</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
