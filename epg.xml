@@ -3,19 +3,6 @@
   <channel id="tvi">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20260907201459 +0200" stop="20260907210000 +0200" channel="tvi">
-    <title lang="ca">Està passant</title>
-    <sub-title lang="ca">Està passant</sub-title>
-    <desc lang="ca">El Queco i l'Òscar Andreu enceten la nova temporada de l'Està Passant'. L'Andrés Fanjgold comença un nou repte i el Marc Sarrats analitza com ha parlat la premsa de la crisi de Ceuta</desc>
-    <length units="seconds">2701</length>
-    <episode-num system="onscreen">1805</episode-num>
-    <category lang="ca">ENTRETENIMENT</category>
-    <category lang="ca">GAGS. HUMOR</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <icon src="https://img.ccma.cat/multimedia/png/3/8/1705511272683.png"/>
-  </programme>
   <programme start="20260907210000 +0200" stop="20260907215930 +0200" channel="tvi">
     <title lang="ca">Telenotícies vespre</title>
     <sub-title lang="ca">Telenotícies vespre</sub-title>
@@ -28,21 +15,16 @@
     </rating>
     <icon src="https://img.ccma.cat/multimedia/jpg/7/2/1758026176427.jpg"/>
   </programme>
+  <programme start="20260907215930 +0200" stop="20260907220655 +0200" channel="tvi">
+    <title lang="ca">Equip 012</title>
+    <desc lang="ca">Sense Descripció</desc>
+    <length units="seconds">445</length>
+    <episode-num system="onscreen">1</episode-num>
+    <subtitles type="teletext"/>
+  </programme>
   <channel id="324">
     <display-name>324</display-name>
   </channel>
-  <programme start="20260907200000 +0200" stop="20260907210000 +0200" channel="324">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">3600</length>
-    <episode-num system="onscreen">11110</episode-num>
-    <category lang="ca">ACTUALITAT</category>
-    <category lang="ca">INFORMATIU DIÀRI</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
-  </programme>
   <programme start="20260907210000 +0200" stop="20260907220500 +0200" channel="324">
     <title lang="ca">Telenotícies vespre</title>
     <length units="seconds">3900</length>
@@ -52,31 +34,28 @@
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <subtitles type="teletext"/>
     <icon src="https://img.ccma.cat/multimedia/jpg/7/2/1758026176427.jpg"/>
+  </programme>
+  <programme start="20260907220500 +0200" stop="20260908000000 +0200" channel="324">
+    <title lang="ca">Mésnit</title>
+    <desc lang="ca">El 'Mésnit' arriba a la desena temporada, amb Marina Romero al capdavant de l'espai i amb la voluntat de continuar sent un centre de debat d'idees i d'anàlisi de l'activitat política.</desc>
+    <length units="seconds">6900</length>
+    <episode-num system="onscreen">2154</episode-num>
+    <category lang="ca">ACTUALITAT</category>
+    <category lang="ca">DEBAT</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <subtitles type="teletext"/>
   </programme>
   <channel id="esport3">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20260907203607 +0200" stop="20260907210720 +0200" channel="esport3">
+  <programme start="20260907210722 +0200" stop="20260907213508 +0200" channel="esport3">
     <title lang="ca">Crackòvia</title>
     <sub-title lang="ca">Crackòvia</sub-title>
     <desc lang="ca">El 'Crackòvia' 2015-2016 tornarà a la tardor amb energies renovades. Als personatges ja habituals i consolidats al programa com el trident, Luis Enrique, Collet, Florentino, Cristiano... s'hi sumaran els flamants fitxatges de la temporada encapçalats per Arda Turan o l'entrenador del Reial Madrid Rafa Benítez.El programa seguirà l'intent de sextet del Barça, l'intent de resurrecció del Reial Madrid i l'intent de superar les baixes de l'estiu de l'Espanyol a través de la seva fórmula de sketchos intercalats amb resums del partit, escenes entre les bambolines del plató, peces gràfiques i moltes altres sorpreses.Aconseguirà Luis Enrique igualar a Guardiola? Aconseguirà Florentino quedar-se sol al Reial Madrid? Aconseguirà Collet no patir gaire? Tot això ho veurem en la propera temporada de 'Crackòvia'.</desc>
-    <length units="seconds">1873</length>
-    <episode-num system="onscreen">221</episode-num>
-    <category lang="ca">ENTRETENIMENT</category>
-    <category lang="ca">GAGS. HUMOR</category>
-    <rating>
-      <value>JUVENIL</value>
-    </rating>
-    <subtitles type="teletext"/>
-    <previously-shown/>
-  </programme>
-  <programme start="20260907210720 +0200" stop="20260907212940 +0200" channel="esport3">
-    <title lang="ca">Crackòvia</title>
-    <sub-title lang="ca">Crackòvia</sub-title>
-    <desc lang="ca">El 'Crackòvia' 2015-2016 tornarà a la tardor amb energies renovades. Als personatges ja habituals i consolidats al programa com el trident, Luis Enrique, Collet, Florentino, Cristiano... s'hi sumaran els flamants fitxatges de la temporada encapçalats per Arda Turan o l'entrenador del Reial Madrid Rafa Benítez.El programa seguirà l'intent de sextet del Barça, l'intent de resurrecció del Reial Madrid i l'intent de superar les baixes de l'estiu de l'Espanyol a través de la seva fórmula de sketchos intercalats amb resums del partit, escenes entre les bambolines del plató, peces gràfiques i moltes altres sorpreses.Aconseguirà Luis Enrique igualar a Guardiola? Aconseguirà Florentino quedar-se sol al Reial Madrid? Aconseguirà Collet no patir gaire? Tot això ho veurem en la propera temporada de 'Crackòvia'.</desc>
-    <length units="seconds">1340</length>
+    <length units="seconds">1666</length>
     <episode-num system="onscreen">222</episode-num>
     <category lang="ca">ENTRETENIMENT</category>
     <category lang="ca">GAGS. HUMOR</category>
@@ -86,22 +65,24 @@
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
+  <programme start="20260907213508 +0200" stop="20260907230000 +0200" channel="esport3">
+    <title lang="ca">Tot Costa</title>
+    <sub-title lang="ca">Tot Costa</sub-title>
+    <desc lang="ca">El Barça té nou trident de moda. Qui marcarà més gols a final de temporada? En parlem amb Dani Senabre, Anaïs Martí i Marcos López. També analitzarem al 'Torquelab', amb Ricard Torquemada, què canvia al Barça amb Rodri. Tancarem el programa amb entrevista a Àlex Palou i al president del CE Europa, Hector Ibar</desc>
+    <length units="seconds">5092</length>
+    <episode-num system="onscreen">1003</episode-num>
+    <category lang="ca">ESPORTS</category>
+    <category lang="ca">INFORMATIU DIÀRI</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <subtitles type="teletext"/>
+    <previously-shown/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/0/4/1706209193140.jpg"/>
+  </programme>
   <channel id="sx3">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20260907203718 +0200" stop="20260907210000 +0200" channel="sx3">
-    <title lang="ca">Henry Danger</title>
-    <sub-title lang="ca">Henry Danger - Les magdalenes de l'amor</sub-title>
-    <desc lang="ca">En Ray anuncia que es vol casar amb una dona que acaba de conèixer, i els seus amics sospiten que alguna cosa molt estranya hi ha al darrere.</desc>
-    <length units="seconds">1362</length>
-    <episode-num system="onscreen">47</episode-num>
-    <category lang="ca">FICCIÓ</category>
-    <category lang="ca">SÈRIE DRAMÀTICA</category>
-    <rating>
-      <value>INFANTIL</value>
-    </rating>
-    <subtitles type="teletext"/>
-  </programme>
   <programme start="20260907210000 +0200" stop="20260907212217 +0200" channel="sx3">
     <title lang="ca">Bola de drac Z</title>
     <sub-title lang="ca">Bola de drac Z - Un entrenament més dur per ser més fort: un superguerrer</sub-title>
@@ -116,28 +97,50 @@
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
+  <programme start="20260907212217 +0200" stop="20260907214110 +0200" channel="sx3">
+    <title lang="ca">Bola de drac Z</title>
+    <sub-title lang="ca">Bola de drac Z - En Cèl·lula s'acosta a la ciutat</sub-title>
+    <desc lang="ca">Disposat a aguantar fins a l'arribada dels superguerrers, en Cor Petit s'enfronta a l'A-17, però els pitjors temors es fan realitat quan en Cèl·lula detecta l'energia del Supernamek i decideix anar-lo a buscar. Mentrestant, en Vegeta i en Trunks continuen a la Sala de l'Esperit del Temps per intentar superar la força dels superguerrers.</desc>
+    <length units="seconds">1133</length>
+    <episode-num system="onscreen">148</episode-num>
+    <category lang="ca">FICCIÓ</category>
+    <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
+    <rating>
+      <value>JUVENIL</value>
+    </rating>
+    <subtitles type="teletext"/>
+    <previously-shown/>
+  </programme>
   <channel id="c33">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20260907200111 +0200" stop="20260907205944 +0200" channel="c33">
-    <title lang="ca">Un planeta perfecte</title>
-    <sub-title lang="ca">Un planeta perfecte - Volcà</sub-title>
-    <desc lang="ca">Sense volcans no hi hauria vida: no hi hauria una atmosfera respirable, ni oceans ni terra ferma. A la superfície de la Terra hi ha més de 1.500 volcans actius. En aquest episodi visitarem els sorprenents habitats que els volcans han creat pertot arreu: un llac d'aigües càustiques on crien els flamencs, un volcà adormit on enterren els ous les iguanes, o les grans planes del Serengeti, on els rics sediments volcànics permeten una explosió de vida.</desc>
-    <length units="seconds">3513</length>
-    <episode-num system="onscreen">1</episode-num>
-    <category lang="ca">DIVULGACIÓ</category>
-    <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
+  <programme start="20260907211017 +0200" stop="20260907213830 +0200" channel="c33">
+    <title lang="ca">Plats bruts</title>
+    <sub-title lang="ca">Plats bruts - Tinc un pla</sub-title>
+    <desc lang="ca">L'Emma presenta el David a la Lola, una antiga amiga. Ell queda embadalit i amb l'ajuda de la Carbonell munta una festa al pis per convidar-la. D'altra banda, al Lopes li cau 'l'encàrrec' de fer de cangur d'un nadó, el 'Bofarullet', fill dels amos de Ràdio Bofarull. Tots es troben a la festa.</desc>
+    <length units="seconds">1693</length>
+    <episode-num system="onscreen">34</episode-num>
+    <category lang="ca">FICCIÓ</category>
+    <category lang="ca">SITCOM (COMÈDIA DE SITUACIÓ)</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
-    <icon src="https://img.3cat.cat/multimedia/jpg/0/9/1766143230590.jpg"/>
   </programme>
-  <programme start="20260907205944 +0200" stop="20260907210124 +0200" channel="c33">
-    <title lang="ca">SENSE FI CANAL 33</title>
-    <desc lang="ca">Sense Descripció</desc>
-    <length units="seconds">100</length>
+  <programme start="20260907213830 +0200" stop="20260907220114 +0200" channel="c33">
+    <title lang="ca">Plats bruts</title>
+    <sub-title lang="ca">Plats bruts - Tinc espelma</sub-title>
+    <desc lang="ca">El David ha iniciat una relació amb la Lola, però per qui de veritat se sent atret és per la Marina. Munta un sopar on les convida totes dues i demana al Lopes que s'enrotlli amb la Lola, però aquest es fa un embolic tota l'estona. D'altra banda, el Pol descobreix que l'Emma té arrels nobles...</desc>
+    <length units="seconds">1364</length>
+    <episode-num system="onscreen">35</episode-num>
+    <category lang="ca">FICCIÓ</category>
+    <category lang="ca">SITCOM (COMÈDIA DE SITUACIÓ)</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <subtitles type="teletext"/>
+    <previously-shown/>
   </programme>
   <channel id="oca1">
     <display-name>OCA1</display-name>
