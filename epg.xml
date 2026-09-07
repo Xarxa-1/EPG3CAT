@@ -3,67 +3,65 @@
   <channel id="tvi">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20260907060000 +0200" stop="20260907080000 +0200" channel="tvi">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">7200</length>
-    <episode-num system="onscreen">11104</episode-num>
+  <programme start="20260907105955 +0200" stop="20260907140000 +0200" channel="tvi">
+    <title lang="ca">Tot es mou</title>
+    <sub-title lang="ca">Tot es mou</sub-title>
+    <desc lang="ca">El programa presentat per Helena Garcia Melero s'emet de dilluns a divendres, de 10.30 a 13.55. Un magazín d'actualitat que busca informar, analitzar i debatre sobre temes que marquen l'actualitat social, econòmica i cultural del dia, amb una àmplia presència en directe dels reporters i reporteres, repartits per tot Catalunya. A més, el 'Tot es mou' compta amb seccions diàries de gastronomia (amb els principals cuiners i cuineres del país), successos, economia, mobilitat, temes mèdics i de tecnologia, entre d'altres.</desc>
+    <length units="seconds">10805</length>
+    <episode-num system="onscreen">1803</episode-num>
     <category lang="ca">ACTUALITAT</category>
-    <category lang="ca">INFORMATIU DIÀRI</category>
+    <category lang="ca">MAGAZINE</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <previously-shown/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
-  <programme start="20260907080000 +0200" stop="20260907082959 +0200" channel="tvi">
-    <title lang="ca">Matins</title>
-    <desc lang="ca">'Matins' és un dels puntals informatius de TV3. El programa matinal dona les claus del dia que comença, explica les notícies que han passat aportant-ne el context per entendre-les i analitza amb veus acreditades l'actualitat més propera i la d'arreu del món. 'Matins' comença a les 8 del matí, de dilluns a divendres, i està presentat per Ariadna Oltra.</desc>
-    <length units="seconds">1799</length>
-    <episode-num system="onscreen">4666</episode-num>
+  <programme start="20260907140000 +0200" stop="20260907143000 +0200" channel="tvi">
+    <title lang="ca">Telenotícies comarques</title>
+    <sub-title lang="ca">Telenotícies comarques</sub-title>
+    <length units="seconds">1800</length>
+    <episode-num system="onscreen">7029</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <icon src="https://img.ccma.cat/multimedia/jpg/2/0/1758040151402.jpg"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/5/2/1758026313525.jpg"/>
   </programme>
   <channel id="324">
     <display-name>324</display-name>
   </channel>
-  <programme start="20260907060000 +0200" stop="20260907080000 +0200" channel="324">
+  <programme start="20260907120000 +0200" stop="20260907140000 +0200" channel="324">
     <title lang="ca">Notícies 3CatInfo</title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <length units="seconds">7200</length>
-    <episode-num system="onscreen">11104</episode-num>
+    <episode-num system="onscreen">11106</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <previously-shown/>
+    <subtitles type="teletext"/>
     <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
-  <programme start="20260907080000 +0200" stop="20260907083000 +0200" channel="324">
-    <title lang="ca">Matins</title>
-    <desc lang="ca">'Matins' és un dels puntals informatius de TV3. El programa matinal dona les claus del dia que comença, explica les notícies que han passat aportant-ne el context per entendre-les i analitza amb veus acreditades l'actualitat més propera i la d'arreu del món. 'Matins' comença a les 8 del matí, de dilluns a divendres, i està presentat per Ariadna Oltra.</desc>
+  <programme start="20260907140000 +0200" stop="20260907143000 +0200" channel="324">
+    <title lang="ca">Telenotícies comarques</title>
     <length units="seconds">1800</length>
-    <episode-num system="onscreen">4666</episode-num>
+    <episode-num system="onscreen">7029</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <icon src="https://img.ccma.cat/multimedia/jpg/2/0/1758040151402.jpg"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/5/2/1758026313525.jpg"/>
   </programme>
   <channel id="esport3">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20260907065854 +0200" stop="20260907083257 +0200" channel="esport3">
+  <programme start="20260907112630 +0200" stop="20260907130000 +0200" channel="esport3">
     <title lang="ca">Gol a gol</title>
-    <sub-title lang="ca">Anàlisi de la jornada / J4 / Diumenge</sub-title>
+    <sub-title lang="ca">Gol a gol - Anàlisi de la jornada / J4 / Diumenge</sub-title>
     <desc lang="ca">'Gol a gol' us ofereix els resums dels partits de futbol de Primera i Segona Divisió. Presentat per Jordi Grau a Esport3, cada dissabte i cada diumenge podeu veure les millors imatges de la jornada de Lliga amb l'anàlisi dels experts, amb especial atenció als equips catalans, sobretot el Barça, el Girona i l'Espanyol.</desc>
-    <length units="seconds">5643</length>
+    <length units="seconds">5610</length>
     <episode-num system="onscreen">1774</episode-num>
     <category lang="ca">ESPORTS</category>
     <category lang="ca">MAGAZINE</category>
@@ -74,29 +72,29 @@
     <previously-shown/>
     <icon src="https://img.ccma.cat/multimedia/jpg/2/1/1698144123212.jpg"/>
   </programme>
-  <programme start="20260907083257 +0200" stop="20260907100602 +0200" channel="esport3">
-    <title lang="ca">Futbol sala</title>
-    <sub-title lang="ca">Múrcia FS-Barça / Supercopa d'Espanya / Final</sub-title>
-    <desc lang="ca">Des del Palau Blaugrana, final de la Supercopa d'Espanya. Amb la narració de Xavi Lorente i l'anàlisi de Xavi Passarrius.</desc>
-    <length units="seconds">5585</length>
-    <episode-num system="onscreen">6</episode-num>
+  <programme start="20260907130000 +0200" stop="20260907140048 +0200" channel="esport3">
+    <title lang="ca">Esport Club</title>
+    <sub-title lang="ca">Esport Club</sub-title>
+    <desc lang="ca">En Jordi Sanuy i Víctor Patsi us expliquen l'última hora esportiva i l'analitzen amb el seu equip de col·laboradors. El programa és molt actiu a les xarxes socials. L''Esport Club' té presència a Twitter, a Facebook i a Instagram. L'espai dirigeix moltes accions de participació amb l'audiència a través de les xarxes socials.</desc>
+    <length units="seconds">3648</length>
+    <episode-num system="onscreen">3234</episode-num>
     <category lang="ca">ESPORTS</category>
-    <category lang="ca">RETRANSMISSIONS ESPORTS</category>
+    <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <previously-shown/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/1/5/1699004339351.jpg"/>
+    <subtitles type="teletext"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/7/3/1698145091337.jpg"/>
   </programme>
   <channel id="sx3">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20260907065734 +0200" stop="20260907072346 +0200" channel="sx3">
-    <title lang="ca">Les Tres Bessones</title>
-    <sub-title lang="ca">Les tres bessones i Kim de l'Índia</sub-title>
-    <desc lang="ca">L'Avorrida castiga les Bessones a seguir una aventura amb en Kim, un noi molt llest que viu a l'Índia. Amb ell aconseguiran acabar amb una xarxa d'explotadors de nens i nenes, i els faran tornar a l'escola del seu poble.</desc>
-    <length units="seconds">1572</length>
-    <episode-num system="onscreen">54</episode-num>
+  <programme start="20260907123240 +0200" stop="20260907125424 +0200" channel="sx3">
+    <title lang="ca">Els germans Kratt</title>
+    <sub-title lang="ca">Els germans Kratt - Un elefant a casa</sub-title>
+    <desc lang="ca">En Chris i en Martin s'han trobat una cria d'elefant i l'han dut a la nau Tortuga perquè estigui fora de perill fins que trobin la seva manada. Aviat descobriran que les cries d'elefant poden arribar a ser molt trapelles, i que, si no troben aviat la mare, es poden quedar sense nau Tortuga! Sort que també n'aprendran moltes coses, dels elefants! Sobretot de la trompa! No t'ho perdis!</desc>
+    <length units="seconds">1304</length>
+    <episode-num system="onscreen">17</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
@@ -105,12 +103,12 @@
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20260907072346 +0200" stop="20260907073514 +0200" channel="sx3">
-    <title lang="ca">Els barrufets (3D)</title>
-    <sub-title lang="ca">El barrufet extraterrestre</sub-title>
-    <desc lang="ca">Un extraterrestre anomenat Glee-go arriba al poble Barrufet. Gràcies a un aparell que du sempre a sobre, copia l'aspecte d'un barrufet i es barreja amb els altres per tal de fer amics. Quan els barrufets no li segueixen la veta, els hipnotitza amb l'aparell perquè juguin amb ell. De mica en mica, tot el poble cau sota el seu influx... menys la Barrufeta, que buscarà ajuda al poble de les noies.</desc>
-    <length units="seconds">688</length>
-    <episode-num system="onscreen">13</episode-num>
+  <programme start="20260907125424 +0200" stop="20260907131710 +0200" channel="sx3">
+    <title lang="ca">Els germans Kratt</title>
+    <sub-title lang="ca">Els germans Kratt - A la càrrega, rinoceronts!</sub-title>
+    <desc lang="ca">Avui, els germans Kratt han anat de missió a la sabana africana a descobrir com és que estan desapareixent tants rinoceronts. Aviat descobriran que és cosa d'en Zach, que els està segrestant per construir l'invent més genial de tots: el rinodòzer! Però també descobriran com es defensen els rinoceronts... i potser fins i tot ho faran servir! T'ho perdràs?!</desc>
+    <length units="seconds">1366</length>
+    <episode-num system="onscreen">18</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
@@ -122,28 +120,27 @@
   <channel id="c33">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20260907070314 +0200" stop="20260907073548 +0200" channel="c33">
-    <title lang="ca">Quèquicom</title>
-    <sub-title lang="ca">Accidents de cotxe</sub-title>
-    <desc lang="ca">Com surts del cotxe si queda de cap per avall? Com pots descordar el cinturó de seguretat sense lesionar-te les cervicals. Per frenar en sec, què és millor: prémer el fre i l'embragatge o només el fre? Què fa l'ABS per millorar la frenada? Miquel Bort, caporal dels Mossos de Trànsit, ha fet de la lluita contra els accidents una croada personal. Ell va perdre un germà a la carretera. Aprofitant la seva experiència professional i personal ajuda les víctimes i aconsella als conductors com es poden evitar riscos al volant.Fina Brunet surt de patrulla amb ell i assisteixen a alguns sinistres. Per descobrir com ha anat realment un accident de trànsit i saber quines són les causes cal recollir un munt de proves i informació, com si fos un puzle. La Fina ha seguit amb l'equip de l'Àrea Central d'Investigació d'Accidents dels Mossos d'Esquadra tots els passos per reconstruir un accident.Finalment decideix aprendre a reaccionar en el cas d'un imprevist a la carretera i fa un curs de conducció al circuit de Can Padró. El primer que aprèn amb l'instructor, Pere Garrido, és la importància de saber frenar. 'Si els conductors sabessin frenar bé s'evitarien molts accidents', ens diu, i la Fina ho experimenta en primera persona a tota velocitat sobre una superfície lliscant. I si resulta que no hem pogut evitar l'accident i hem bolcat amb el cotxe? A Can Padró la Fina aprèn els trucs per sortir del cotxe bolcat sense prendre mal.Les noves tecnologies aplicades a l'automòbil ajuden el conductor a respondre amb més seguretat als ensurts que pot tenir a la carretera i milloren notablement la seguretat. Applus Idiada ens planteja un futur en què l'automatització del procés de mobilitat ens portarà a reduir els accidents, fer la conducció mes eficient i reduir les congestions i cues a la carretera.Els accidents de trànsit deixen moltes víctimes mortals a la carretera i ferits de gravetat que mai més tornen a recuperar la vida que tenien. Josep Roca, agent de</desc>
-    <length units="seconds">1954</length>
-    <episode-num system="onscreen">332</episode-num>
-    <category lang="ca">DIVULGACIÓ</category>
-    <category lang="ca">MAGAZINE ESPECIALITZAT</category>
+  <programme start="20260907122240 +0200" stop="20260907132314 +0200" channel="c33">
+    <title lang="ca">Atrapa'm si pots - Especials</title>
+    <sub-title lang="ca">Atrapa'm si pots - Especials - Atrapa'm si pots - estiu</sub-title>
+    <length units="seconds">3634</length>
+    <episode-num system="onscreen">51</episode-num>
+    <category lang="ca">ENTRETENIMENT</category>
+    <category lang="ca">CONCURS</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20260907073548 +0200" stop="20260907082624 +0200" channel="c33">
-    <title lang="ca">El Foraster</title>
-    <sub-title lang="ca">Castellfollit del Boix</sub-title>
-    <desc lang="ca">Castellfollit del Boix és un oasi rural on pot passar de tot, un poble que sembla tranquil però que no ho és tant. Allà, en Quim s'endurà uns quants ensurts...Coneixerem l'Antoni i la seva teoria segons la qual tots cometem 10 errors diaris; en Fidel, que va ser previsor i va plantar 30 anys enrere el pi que ara li fa ombra; la Ceci, una professora que sempre serà recordada; la famíliaTrapp de Castellfollit, que no té res a envejar a la de la pel·lícula; o en Roger, que és campió mundial de triatló i s'estima més patir que quedar-se tancat en una oficina; i, sobretot, coneixerem el jovent més esbojarrat de tota la contrada. Seran 48 hores de viure al límit, en situacions extremes, perquè, com diu l'Antoni, la vida és plena d'errors. I avui, entre tots aquests personatges, en traurem una profitosa lliçó: continuar caminant, entre encerts i errors, perquè de tot s'aprèn. </desc>
-    <length units="seconds">3036</length>
-    <episode-num system="onscreen">69</episode-num>
+  <programme start="20260907132314 +0200" stop="20260907141535 +0200" channel="c33">
+    <title lang="ca">Experiència Catalana</title>
+    <sub-title lang="ca">Experiència Catalana - Família Toulat</sub-title>
+    <desc lang="ca">La família Toulat ve des de París i l'acompanyem a participar en la Festa dels Raiers a la Pobla de Segur. A més, coneixen el parc d'Aigüestortes i el romànic de la Vall de Boí. Però el viatge té altres sorpreses, sobretot pels dos petits de la família: el Camp Nou i el Circ Cric.</desc>
+    <length units="seconds">3141</length>
+    <episode-num system="onscreen">11</episode-num>
     <category lang="ca">ENTRETENIMENT</category>
-    <category lang="ca">VARIETATS</category>
+    <category lang="ca">ALTRES</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
