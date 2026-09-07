@@ -3,10 +3,10 @@
   <channel id="tvi">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20260907014908 +0200" stop="20260907043000 +0200" channel="tvi">
+  <programme start="20260907060000 +0200" stop="20260907080000 +0200" channel="tvi">
     <title lang="ca">Notícies 3CatInfo</title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">9652</length>
+    <length units="seconds">7200</length>
     <episode-num system="onscreen">11104</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
@@ -16,35 +16,21 @@
     <previously-shown/>
     <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
-  <programme start="20260907043000 +0200" stop="20260907050938 +0200" channel="tvi">
-    <title lang="ca">Fusió i swing a l'estudi</title>
-    <sub-title lang="ca">Gerard Nieto Quartet</sub-title>
-    <desc lang="ca">Gerard Nieto Quartet: el nou projecte d'un del pianistes amb més swing de Catalunya i que dins del jazz clàssic beu dels pianistes que més l'han influènciat: Oscar Peterson, Monty Alexander o Gene Harris. Nieto vola pels terrenys del swing, el blues i el gospel, una barreja de tot plegat que dóna lloc a un jazz fresc, amè, intens i sempre respectuós amb la tradició. Dave Mitchell, a la guitarra; Manel Álvarez, al contrabaix, i Pinyu Martí, a la bateria.</desc>
-    <length units="seconds">2378</length>
-    <episode-num system="onscreen">19</episode-num>
-    <category lang="ca">MUSICALS</category>
-    <category lang="ca">ALTRES</category>
+  <programme start="20260907080000 +0200" stop="20260907082959 +0200" channel="tvi">
+    <title lang="ca">Matins</title>
+    <desc lang="ca">'Matins' és un dels puntals informatius de TV3. El programa matinal dona les claus del dia que comença, explica les notícies que han passat aportant-ne el context per entendre-les i analitza amb veus acreditades l'actualitat més propera i la d'arreu del món. 'Matins' comença a les 8 del matí, de dilluns a divendres, i està presentat per Ariadna Oltra.</desc>
+    <length units="seconds">1799</length>
+    <episode-num system="onscreen">4666</episode-num>
+    <category lang="ca">ACTUALITAT</category>
+    <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <previously-shown/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/2/0/1758040151402.jpg"/>
   </programme>
   <channel id="324">
     <display-name>324</display-name>
   </channel>
-  <programme start="20260907010000 +0200" stop="20260907060000 +0200" channel="324">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">18000</length>
-    <episode-num system="onscreen">11104</episode-num>
-    <category lang="ca">ACTUALITAT</category>
-    <category lang="ca">INFORMATIU DIÀRI</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <previously-shown/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
-  </programme>
   <programme start="20260907060000 +0200" stop="20260907080000 +0200" channel="324">
     <title lang="ca">Notícies 3CatInfo</title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
@@ -58,28 +44,41 @@
     <previously-shown/>
     <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
-  <channel id="esport3">
-    <display-name>ESPORT3</display-name>
-  </channel>
-  <programme start="20260907023325 +0200" stop="20260907044233 +0200" channel="esport3">
-    <title lang="ca">Bàsquet</title>
-    <sub-title lang="ca">MoraBanc Andorra-Barça / Amistós</sub-title>
-    <desc lang="ca">Vuitena edició del Trofeu Comú d'Encamp. El MoraBanc Andorra i el Barça juguen aquest partit amistós de pretemporada pocs dies abans de tornar-se a enfrontar a la Lliga Catalana de Bàsquet. Amb la narració de Víctor Lavagnini i l'anàlisi de Nacho Solozabal. </desc>
-    <length units="seconds">7748</length>
-    <episode-num system="onscreen">8115</episode-num>
-    <category lang="ca">ESPORTS</category>
-    <category lang="ca">RETRANSMISSIONS ESPORTS</category>
+  <programme start="20260907080000 +0200" stop="20260907083000 +0200" channel="324">
+    <title lang="ca">Matins</title>
+    <desc lang="ca">'Matins' és un dels puntals informatius de TV3. El programa matinal dona les claus del dia que comença, explica les notícies que han passat aportant-ne el context per entendre-les i analitza amb veus acreditades l'actualitat més propera i la d'arreu del món. 'Matins' comença a les 8 del matí, de dilluns a divendres, i està presentat per Ariadna Oltra.</desc>
+    <length units="seconds">1800</length>
+    <episode-num system="onscreen">4666</episode-num>
+    <category lang="ca">ACTUALITAT</category>
+    <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <previously-shown/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/8/0/1698775546608.jpg"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/2/0/1758040151402.jpg"/>
   </programme>
-  <programme start="20260907044233 +0200" stop="20260907063230 +0200" channel="esport3">
+  <channel id="esport3">
+    <display-name>ESPORT3</display-name>
+  </channel>
+  <programme start="20260907065854 +0200" stop="20260907083257 +0200" channel="esport3">
+    <title lang="ca">Gol a gol</title>
+    <sub-title lang="ca">Anàlisi de la jornada / J4 / Diumenge</sub-title>
+    <desc lang="ca">'Gol a gol' us ofereix els resums dels partits de futbol de Primera i Segona Divisió. Presentat per Jordi Grau a Esport3, cada dissabte i cada diumenge podeu veure les millors imatges de la jornada de Lliga amb l'anàlisi dels experts, amb especial atenció als equips catalans, sobretot el Barça, el Girona i l'Espanyol.</desc>
+    <length units="seconds">5643</length>
+    <episode-num system="onscreen">1774</episode-num>
+    <category lang="ca">ESPORTS</category>
+    <category lang="ca">MAGAZINE</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <subtitles type="teletext"/>
+    <previously-shown/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/2/1/1698144123212.jpg"/>
+  </programme>
+  <programme start="20260907083257 +0200" stop="20260907100602 +0200" channel="esport3">
     <title lang="ca">Futbol sala</title>
     <sub-title lang="ca">Múrcia FS-Barça / Supercopa d'Espanya / Final</sub-title>
     <desc lang="ca">Des del Palau Blaugrana, final de la Supercopa d'Espanya. Amb la narració de Xavi Lorente i l'anàlisi de Xavi Passarrius.</desc>
-    <length units="seconds">6597</length>
+    <length units="seconds">5585</length>
     <episode-num system="onscreen">6</episode-num>
     <category lang="ca">ESPORTS</category>
     <category lang="ca">RETRANSMISSIONS ESPORTS</category>
@@ -92,28 +91,28 @@
   <channel id="sx3">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20260907023818 +0200" stop="20260907024821 +0200" channel="sx3">
-    <title lang="ca">Com dibuixar còmics amb el Will Sliney</title>
-    <sub-title lang="ca">Glordolent</sub-title>
-    <desc lang="ca">En aquest nou episodi continua la presentació dels superdolents creats pel malvat Crònica perquè siguin l'antítesi dels superherois que prèviament havien creat el Will i l'Ogam per salvar la Terra. Avui arriba el torn del Glordolent, l'arxienemic del Glorbo i culpable de la destrucció del planeta Glorbós i de tots els seus habitants. I descobrirem que, també en el cas dels alienígenes, podem fer servir tècniques per distingir si són bons o dolents.</desc>
-    <length units="seconds">603</length>
-    <episode-num system="onscreen">34</episode-num>
+  <programme start="20260907065734 +0200" stop="20260907072346 +0200" channel="sx3">
+    <title lang="ca">Les Tres Bessones</title>
+    <sub-title lang="ca">Les tres bessones i Kim de l'Índia</sub-title>
+    <desc lang="ca">L'Avorrida castiga les Bessones a seguir una aventura amb en Kim, un noi molt llest que viu a l'Índia. Amb ell aconseguiran acabar amb una xarxa d'explotadors de nens i nenes, i els faran tornar a l'escola del seu poble.</desc>
+    <length units="seconds">1572</length>
+    <episode-num system="onscreen">54</episode-num>
     <category lang="ca">FICCIÓ</category>
-    <category lang="ca">ALTRES</category>
+    <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
       <value>INFANTIL</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20260907024821 +0200" stop="20260907025752 +0200" channel="sx3">
-    <title lang="ca">Com dibuixar còmics amb el Will Sliney</title>
-    <sub-title lang="ca">Virus</sub-title>
-    <desc lang="ca">En aquest episodi coneixerem el cinquè i últim dels superdolents creats pel malvat Crònica perquè siguin l'antítesi dels cinc superherois que prèviament havien creat el Will i l'Ogam per salvar la Terra. Aquest cop es tracta del Virus, un robot que fa tota la pinta d'estar espatllat però que no només funciona perfectament sinó que és capaç de manipular qualsevol altre aparell informàtic... incloent-hi el nostre heroi Retrobot.</desc>
-    <length units="seconds">571</length>
-    <episode-num system="onscreen">35</episode-num>
+  <programme start="20260907072346 +0200" stop="20260907073514 +0200" channel="sx3">
+    <title lang="ca">Els barrufets (3D)</title>
+    <sub-title lang="ca">El barrufet extraterrestre</sub-title>
+    <desc lang="ca">Un extraterrestre anomenat Glee-go arriba al poble Barrufet. Gràcies a un aparell que du sempre a sobre, copia l'aspecte d'un barrufet i es barreja amb els altres per tal de fer amics. Quan els barrufets no li segueixen la veta, els hipnotitza amb l'aparell perquè juguin amb ell. De mica en mica, tot el poble cau sota el seu influx... menys la Barrufeta, que buscarà ajuda al poble de les noies.</desc>
+    <length units="seconds">688</length>
+    <episode-num system="onscreen">13</episode-num>
     <category lang="ca">FICCIÓ</category>
-    <category lang="ca">ALTRES</category>
+    <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
       <value>INFANTIL</value>
     </rating>
@@ -123,27 +122,28 @@
   <channel id="c33">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20260907024058 +0200" stop="20260907032656 +0200" channel="c33">
-    <title lang="ca">Illes d'Austràlia, amb Martin Clunes</title>
-    <desc lang="ca">En l'últim episodi del seu periple per les illes d'Austràlia, Martin Clunes visitarà una illa en la desembocadura d'un riu, on hi ha una explotació ramadera molt especial. En un ambient radicalment diferent, l'illa Phillip li demostrarà que la convivència entre els esports de motor, el turisme i la fauna autòctona no és impossible. I, per tancar la sèrie, el Martin visitarà dues illes més, a la recerca de l'animal més llegendari del sud d'Austràlia: el diable de Tasmània.</desc>
-    <length units="seconds">2758</length>
-    <episode-num system="onscreen">3</episode-num>
+  <programme start="20260907070314 +0200" stop="20260907073548 +0200" channel="c33">
+    <title lang="ca">Quèquicom</title>
+    <sub-title lang="ca">Accidents de cotxe</sub-title>
+    <desc lang="ca">Com surts del cotxe si queda de cap per avall? Com pots descordar el cinturó de seguretat sense lesionar-te les cervicals. Per frenar en sec, què és millor: prémer el fre i l'embragatge o només el fre? Què fa l'ABS per millorar la frenada? Miquel Bort, caporal dels Mossos de Trànsit, ha fet de la lluita contra els accidents una croada personal. Ell va perdre un germà a la carretera. Aprofitant la seva experiència professional i personal ajuda les víctimes i aconsella als conductors com es poden evitar riscos al volant.Fina Brunet surt de patrulla amb ell i assisteixen a alguns sinistres. Per descobrir com ha anat realment un accident de trànsit i saber quines són les causes cal recollir un munt de proves i informació, com si fos un puzle. La Fina ha seguit amb l'equip de l'Àrea Central d'Investigació d'Accidents dels Mossos d'Esquadra tots els passos per reconstruir un accident.Finalment decideix aprendre a reaccionar en el cas d'un imprevist a la carretera i fa un curs de conducció al circuit de Can Padró. El primer que aprèn amb l'instructor, Pere Garrido, és la importància de saber frenar. 'Si els conductors sabessin frenar bé s'evitarien molts accidents', ens diu, i la Fina ho experimenta en primera persona a tota velocitat sobre una superfície lliscant. I si resulta que no hem pogut evitar l'accident i hem bolcat amb el cotxe? A Can Padró la Fina aprèn els trucs per sortir del cotxe bolcat sense prendre mal.Les noves tecnologies aplicades a l'automòbil ajuden el conductor a respondre amb més seguretat als ensurts que pot tenir a la carretera i milloren notablement la seguretat. Applus Idiada ens planteja un futur en què l'automatització del procés de mobilitat ens portarà a reduir els accidents, fer la conducció mes eficient i reduir les congestions i cues a la carretera.Els accidents de trànsit deixen moltes víctimes mortals a la carretera i ferits de gravetat que mai més tornen a recuperar la vida que tenien. Josep Roca, agent de</desc>
+    <length units="seconds">1954</length>
+    <episode-num system="onscreen">332</episode-num>
     <category lang="ca">DIVULGACIÓ</category>
-    <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
+    <category lang="ca">MAGAZINE ESPECIALITZAT</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20260907032656 +0200" stop="20260907041701 +0200" channel="c33">
-    <title lang="ca">Alaska salvatge</title>
-    <sub-title lang="ca">Primavera</sub-title>
-    <desc lang="ca">Alaska és el territori i l'estat més septentrional dels Estats Units, una regió vasta dominada per la natura salvatge. En aquest episodi assistim a l'arribada de la primavera, que canvia radicalment l'aspecte d'Alaska després dels mesos hivernals. El desglaç genera una autèntica explosió de vida a terra ferma, i al mar provoca l'arribada en massa dels arengs i altres espècies marines que tenen una gran importància per a l'economia local.</desc>
-    <length units="seconds">3005</length>
-    <episode-num system="onscreen">1</episode-num>
-    <category lang="ca">DIVULGACIÓ</category>
-    <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
+  <programme start="20260907073548 +0200" stop="20260907082624 +0200" channel="c33">
+    <title lang="ca">El Foraster</title>
+    <sub-title lang="ca">Castellfollit del Boix</sub-title>
+    <desc lang="ca">Castellfollit del Boix és un oasi rural on pot passar de tot, un poble que sembla tranquil però que no ho és tant. Allà, en Quim s'endurà uns quants ensurts...Coneixerem l'Antoni i la seva teoria segons la qual tots cometem 10 errors diaris; en Fidel, que va ser previsor i va plantar 30 anys enrere el pi que ara li fa ombra; la Ceci, una professora que sempre serà recordada; la famíliaTrapp de Castellfollit, que no té res a envejar a la de la pel·lícula; o en Roger, que és campió mundial de triatló i s'estima més patir que quedar-se tancat en una oficina; i, sobretot, coneixerem el jovent més esbojarrat de tota la contrada. Seran 48 hores de viure al límit, en situacions extremes, perquè, com diu l'Antoni, la vida és plena d'errors. I avui, entre tots aquests personatges, en traurem una profitosa lliçó: continuar caminant, entre encerts i errors, perquè de tot s'aprèn. </desc>
+    <length units="seconds">3036</length>
+    <episode-num system="onscreen">69</episode-num>
+    <category lang="ca">ENTRETENIMENT</category>
+    <category lang="ca">VARIETATS</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
