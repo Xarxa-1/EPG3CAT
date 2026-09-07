@@ -2,7 +2,7 @@ name: Actualitza EPG XML
 
 on:
   schedule:
-    - cron: '*/15 * * * *'
+    - cron: '*/1 * * * *'
   workflow_dispatch:
 
 # AFECTA AQUÍ: Donar permisos d'escriptura al repositori
