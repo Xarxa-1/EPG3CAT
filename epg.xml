@@ -3,66 +3,82 @@
   <channel id="tvi">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20260908143000 +0200" stop="20260908152959 +0200" channel="tvi">
-    <title lang="ca">Telenotícies migdia</title>
-    <sub-title lang="ca">Telenotícies migdia</sub-title>
-    <length units="seconds">3599</length>
-    <episode-num system="onscreen">7322</episode-num>
+  <programme start="20260908180644 +0200" stop="20260908190644 +0200" channel="tvi">
+    <title lang="ca">Medalles d'or de la Generalitat</title>
+    <sub-title lang="ca">Medalles d'or de la Generalitat - Medalles d'Or de la Generalitat 2026</sub-title>
+    <desc lang="ca">Acte de lliurament de la Medalla d'Or, la màxima distinció de la Generalitat, al cuiner Ferran Adrià i a la física i directora del Sincrotró Alba, Caterina Biscari. En directe des del Saló Sant Jordi del Palau de la Generalitat. </desc>
+    <length units="seconds">3600</length>
+    <episode-num system="onscreen">6</episode-num>
     <category lang="ca">ACTUALITAT</category>
-    <category lang="ca">INFORMATIU DIÀRI</category>
+    <category lang="ca">ESPECIALS INFORMATIUS</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <icon src="https://img.ccma.cat/multimedia/jpg/5/4/1758025766345.jpg"/>
   </programme>
-  <programme start="20260908152959 +0200" stop="20260908154832 +0200" channel="tvi">
-    <title lang="ca">Cuines</title>
-    <sub-title lang="ca">Cuines - Fideus amb ploma i pebrots</sub-title>
-    <desc lang="ca">Un cremós de pebrots i un allioli de llimona són els acompanyants perfectes per als fideus amb ploma que ens cuina la Gessamí Caramés.</desc>
-    <length units="seconds">1113</length>
-    <episode-num system="onscreen">2465</episode-num>
-    <category lang="ca">DIVULGACIÓ</category>
-    <category lang="ca">CUINA</category>
+  <programme start="20260908190644 +0200" stop="20260908201500 +0200" channel="tvi">
+    <title lang="ca">La Selva</title>
+    <sub-title lang="ca">La Selva</sub-title>
+    <desc lang="ca">Xavier Grasset presenta La Selva, el nou magazín d'entreteniment de les tardes de TV3. Un show d'autor on parlarem de tot de forma distesa i lliure, una trobada fixa a la nova cafeteria de la televisió pública catalana, regentada per la Mercè Fonoll (l'actriu i humorista, Anna Bertran). A La Selva sempre hi passen coses, és un món ple d'activitat on diverses espècies hi conviuen de forma lliure.Hi passaran Antoni Bassas, Montse Barderi, Fel Faixedas, Sílvia Bel, la Nina, en Biel Duran, l'Alba Alfageme o la Carlota Gurt, entre molts d'altres. Una trobada plena de coneixement i seguiment de l'actualitat, però també d'entreteniment. Els acompanyaran, per exemple fent recomanacions, Sergi Cutillas, amb la seva música de capçalera, en Godai García que ens apropa a la terra -amb una mirada molt pròpia- o la cuinera i influencer, Sofia Janer.A La Selva farem un repàs al què ha passat durant el dia i a la vida en general d'aquella manera única del Xavier Grasset acompanyat al sofà per la Maria Xinxó, la Núria Martínez o l'Ester Pagès. La resta de l'equip treballarà per explicar-vos el que ha passat dins i fora de La Selva, acostar-vos al territori i oferir-vos entreteniment, però sempre amb contingut. Cada dia hi haurà entrevistes, no hi faltaran els llibres, la cultura o històries humanes de tot tipus. I, a més, comptarem amb la participació del nostre públic. Us convidarem a jugar en un concurs diari, divertit i enginyós. Quan t'endinses a la Selva mai saps què t'hi pots acabar trobant!Cada tarda, et farem companyia a 3cat. Us espera una nova aventura plena de personatges interessants, converses, reflexions, descobriments i uns quants somriures. Sempre amb un ull posat a tot el que passa al nostre voltant. Quedem a La Selva!</desc>
+    <length units="seconds">4096</length>
+    <episode-num system="onscreen">405</episode-num>
+    <category lang="ca">ENTRETENIMENT</category>
+    <category lang="ca">MAGAZINE</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <icon src="https://img.ccma.cat/multimedia/jpg/2/5/1653464509252.jpg"/>
+    <previously-shown/>
+    <icon src="https://img.3cat.cat/multimedia/jpg/6/3/1725871608136.jpg"/>
   </programme>
   <channel id="324">
     <display-name>324</display-name>
   </channel>
-  <programme start="20260908143000 +0200" stop="20260908153000 +0200" channel="324">
-    <title lang="ca">Telenotícies migdia</title>
+  <programme start="20260908180000 +0200" stop="20260908190000 +0200" channel="324">
+    <title lang="ca">Medalles d'or de la Generalitat</title>
+    <sub-title lang="ca">Medalles d'Or de la Generalitat 2026</sub-title>
+    <desc lang="ca">Acte de lliurament de la Medalla d'Or, la màxima distinció de la Generalitat, al cuiner Ferran Adrià i a la física i directora del Sincrotró Alba, Caterina Biscari. En directe des del Saló Sant Jordi del Palau de la Generalitat. </desc>
     <length units="seconds">3600</length>
-    <episode-num system="onscreen">7322</episode-num>
+    <episode-num system="onscreen">6</episode-num>
     <category lang="ca">ACTUALITAT</category>
-    <category lang="ca">INFORMATIU DIÀRI</category>
+    <category lang="ca">ESPECIALS INFORMATIUS</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <icon src="https://img.ccma.cat/multimedia/jpg/5/4/1758025766345.jpg"/>
   </programme>
-  <programme start="20260908153000 +0200" stop="20260908160000 +0200" channel="324">
-    <title lang="ca">3CatInfo en aranès</title>
-    <desc lang="ca">Informatiu de continguts generalistes en llengua aranesa, presentat per Ares Riu, en emissió per a tot Catalunya.</desc>
-    <length units="seconds">1800</length>
-    <episode-num system="onscreen">2553</episode-num>
+  <programme start="20260908190000 +0200" stop="20260908200000 +0200" channel="324">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="seconds">3600</length>
+    <episode-num system="onscreen">11118</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
-    <icon src="https://img.ccma.cat/multimedia/png/5/8/1758125433085.png"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
   <channel id="esport3">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20260908141127 +0200" stop="20260908152649 +0200" channel="esport3">
+  <programme start="20260908185947 +0200" stop="20260908203048 +0200" channel="esport3">
+    <title lang="ca">Tot Costa</title>
+    <sub-title lang="ca">Tot Costa</sub-title>
+    <desc lang="ca">Comença la Champions i ja es fan públiques llistes per a la Pilota d'Or. Sentirem Lamine i Flick, amb Ramon Salmurri i Laia Tudel, i ho analitzem amb Miguel Rico, Gemma Herrero i Oriol Domènech. Amb Andrea Orts repassarem els jugadors a seguir de la Champions i tancarem el programa amb el 'Cinquè quart', amb Laura Antoja, Xavi Ballesteros i Ernest Macià. </desc>
+    <length units="seconds">5461</length>
+    <episode-num system="onscreen">1004</episode-num>
+    <category lang="ca">ESPORTS</category>
+    <category lang="ca">INFORMATIU DIÀRI</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <subtitles type="teletext"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/0/4/1706209193140.jpg"/>
+  </programme>
+  <programme start="20260908203048 +0200" stop="20260908210139 +0200" channel="esport3">
     <title lang="ca">Esport Club</title>
     <sub-title lang="ca">Esport Club</sub-title>
     <desc lang="ca">Lamine Yamal i Hansi Flick, en la prèvia del Barça-Feyenoord de la Champions. A la tertúlia ens acompanyen Iris Miquel, Joan Poquí i Edgar Fornós.</desc>
-    <length units="seconds">4522</length>
+    <length units="seconds">1851</length>
     <episode-num system="onscreen">3235</episode-num>
     <category lang="ca">ESPORTS</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
@@ -70,47 +86,34 @@
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/7/3/1698145091337.jpg"/>
-  </programme>
-  <programme start="20260908152649 +0200" stop="20260908161651 +0200" channel="esport3">
-    <title lang="ca">Vida</title>
-    <sub-title lang="ca">Vida - Caçadors i caçats</sub-title>
-    <desc lang="ca">Cada dia, a les selves, als prats, als deserts i a les immensitats glaçades, es lliuren, es guanyen i es perden batalles entre els carnívors i les seves preses. Contemplarem com els guepards s'uneixen per tombar una estruç, com un ermini diminut s'enfronta a un conill deu vegades més gros, cries d'elefant marí segrestades de la seva piscina per una orca, les pallassades d'un esquirol per esquivar una serp de cascavell i, finalment, amb imatges formidables enregistrades a 2.000 fotogrames per segon, l'atac d'un ratpenat pescador volant a gairebé 100km/h.</desc>
-    <length units="seconds">3002</length>
-    <episode-num system="onscreen">7</episode-num>
-    <category lang="ca">DIVULGACIÓ</category>
-    <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <subtitles type="teletext"/>
     <previously-shown/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/7/3/1698145091337.jpg"/>
   </programme>
   <channel id="sx3">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20260908144515 +0200" stop="20260908150647 +0200" channel="sx3">
-    <title lang="ca">Bola de drac Z</title>
-    <sub-title lang="ca">Bola de drac Z - L'últim recurs: l'androide 16</sub-title>
-    <desc lang="ca">Amb en Cor Petit fora de combat i veient que l'A-17 no té gran cosa a fer davant d'en Cèl·lula, l'androide 16 passa a l'acció per primera vegada amb l'objectiu de defensar els seus companys. D'entrada, el posa entre l'espasa i la paret, però el poder de regeneració d'en Cèl·lula podria acabar sent un factor decisiu.</desc>
-    <length units="seconds">1292</length>
-    <episode-num system="onscreen">151</episode-num>
+  <programme start="20260908185210 +0200" stop="20260908190313 +0200" channel="sx3">
+    <title lang="ca">Els barrufets (3D)</title>
+    <sub-title lang="ca">Els barrufets (3D) - Qui és el més fort?</sub-title>
+    <desc lang="ca">El Barrufet Tou s'ha estat entrenant i desafia el Forçut a una competició per determinar qui és el barrufet més fort del poble. La Barrufeta li demana al Forçut que el deixi guanyar discretament, i així ho fa. Però, després, els barrufets estan tan entusiasmats amb el nou campió del poble que es burlen del Forçut. La Barrufeta idea un pla perquè les coses tornin a la normalitat.</desc>
+    <length units="seconds">663</length>
+    <episode-num system="onscreen">4</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
-      <value>JUVENIL</value>
+      <value>INFANTIL</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20260908150647 +0200" stop="20260908152816 +0200" channel="sx3">
-    <title lang="ca">Henry Danger</title>
-    <sub-title lang="ca">Henry Danger - Una peixnyata plena d'insectes mortífers</sub-title>
-    <desc lang="ca">El primer dia d'en Jasper treballant amb els seus amics es complica quan una peixnyata aparentment inofensiva acaba provocant una situació molt perillosa. </desc>
-    <length units="seconds">1289</length>
-    <episode-num system="onscreen">46</episode-num>
+  <programme start="20260908190313 +0200" stop="20260908192625 +0200" channel="sx3">
+    <title lang="ca">Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
+    <sub-title lang="ca">Prodigiosa: Les aventures de Ladybug i Gat Noir - Climatiqueen</sub-title>
+    <desc lang="ca">L'Adrien està preocupat perquè no té cap passió i la Marinette decideix fer tot el que pugui per ajudar-lo a trobar-ne una. Està tan enfeinada intentant aconseguir-ho que no s'adona que algú els observa, algú que vol treure profit de la popularitat de l'Adrien. I l'arribada d'una supermalvada decidida a robar a Ladybug i al Gat Noir el lloc que ocupen al cor dels parisencs encara farà empitjorar més les coses.</desc>
+    <length units="seconds">1392</length>
+    <episode-num system="onscreen">132</episode-num>
     <category lang="ca">FICCIÓ</category>
-    <category lang="ca">SÈRIE DRAMÀTICA</category>
+    <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
       <value>INFANTIL</value>
     </rating>
@@ -120,35 +123,33 @@
   <channel id="c33">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20260908141429 +0200" stop="20260908150133 +0200" channel="c33">
-    <title lang="ca">La Renaixença</title>
-    <sub-title lang="ca">La Renaixença - La xuleta</sub-title>
-    <desc lang="ca">Qui digui que no s'ha fet mai una xuleta, menteix. La cosa és si no te la deixes a casa, o si ets prou valent per fer-la servir i que no et 'pillés' el professor. Segurament molts estaríem d'acord a fer un altar a la xuleta, perquè li devem molts aprovats d'assignatures que ja no recordem que vam fer. Ens visita l'Isidor Nuevo, el paleta que fa més anys que treballa a la Sagrada Família. S'ha buscat una bona feina, perquè no s'acabarà mai. Anem amb en Gealach al Diumenge Sagnant del 1972.</desc>
-    <length units="seconds">2824</length>
-    <episode-num system="onscreen">144</episode-num>
+  <programme start="20260908183455 +0200" stop="20260908191640 +0200" channel="c33">
+    <title lang="ca">Viatges insòlits</title>
+    <sub-title lang="ca">Viatges insòlits - Últims dies al Japó</sub-title>
+    <desc lang="ca">Comencem l'última part del viatge pel Japó amb una visita polèmica: Fukushima. Després de més d'una dècada del desastre nuclear, en Tom vol veure com es recupera la zona i, sobre tot, com ho viuen els japonesos que van patir el tsunami. Els últims kilòmetres de la ruta portaran en Tom a paratges insòlits i inoblidables.</desc>
+    <length units="seconds">2505</length>
+    <episode-num system="onscreen">36</episode-num>
     <category lang="ca">DIVULGACIÓ</category>
-    <category lang="ca">ALTRES</category>
+    <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/3/3/1756148014833.jpg"/>
   </programme>
-  <programme start="20260908150133 +0200" stop="20260908154748 +0200" channel="c33">
-    <title lang="ca">La Renaixença</title>
-    <sub-title lang="ca">La Renaixença - El bastonet de les orelles</sub-title>
-    <desc lang="ca">Creieu que els metges han dit prou vegades que els bastonets de les orelles no s'han de fer servir mai? Per què es continuen comercialitzant si són tan dolents? Us sentiu rebels quan en feu servir? Feu-ho bé, que acabareu sense poder escoltar 'La Renaixença'. Avui els hi dediquem aquest capítol. Passa per l'escó en Víctor Amat, que s'autodefineix com a 'psicòleg punk'. Posem a prova la seva paciència amb frases motivacionals. A 'Històries per passejar el gos', anem amb la Mia fins a l'operació Gatet Acústic, que va tenir lloc a Washington el 1965.</desc>
-    <length units="seconds">2775</length>
-    <episode-num system="onscreen">92</episode-num>
+  <programme start="20260908191640 +0200" stop="20260908200750 +0200" channel="c33">
+    <title lang="ca">Els quaderns de cuina de la Julie</title>
+    <sub-title lang="ca">Els quaderns de cuina de la Julie - La ribera del Marne</sub-title>
+    <desc lang="ca">La Brigitte fa un guisat de conill amb raïm negre segons una recepta molt antiga i típica de la ribera del Marne. En Philippe pertany a una confraria de vinyataires que han fet reviscolar un vinet blanc molt emblemàtic de Nogent-sur-Marne. En Fabrice, descendent d'italians, fa un pa de pessic italià emborratxat amb licor d'ametlles. La Michelle i la Christine fan un guisat de bou amb anxoves i pastanaga i en Tayeb, director d'una formatgeria, ens canta les excel·lències del brie.</desc>
+    <length units="seconds">3070</length>
+    <episode-num system="onscreen">77</episode-num>
     <category lang="ca">DIVULGACIÓ</category>
-    <category lang="ca">ALTRES</category>
+    <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/3/3/1756148014833.jpg"/>
   </programme>
   <channel id="oca1">
     <display-name>OCA1</display-name>
@@ -159,6 +160,18 @@
   <channel id="oca3">
     <display-name>OCA3</display-name>
   </channel>
+  <programme start="20260908185900 +0200" stop="20260908203000 +0200" channel="oca3">
+    <title lang="ca">Tot Costa</title>
+    <desc lang="ca">Comença la Champions i ja es fan públiques llistes per a la Pilota d'Or. Sentirem Lamine i Flick, amb Ramon Salmurri i Laia Tudel, i ho analitzem amb Miguel Rico, Gemma Herrero i Oriol Domènech. Amb Andrea Orts repassarem els jugadors a seguir de la Champions i tancarem el programa amb el 'Cinquè quart', amb Laura Antoja, Xavi Ballesteros i Ernest Macià. </desc>
+    <length units="seconds">5460</length>
+    <episode-num system="onscreen">1004</episode-num>
+    <category lang="ca">ESPORTS</category>
+    <category lang="ca">INFORMATIU DIÀRI</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <icon src="https://img.ccma.cat/multimedia/jpg/0/4/1706209193140.jpg"/>
+  </programme>
   <channel id="oca4">
     <display-name>OCA4</display-name>
   </channel>
