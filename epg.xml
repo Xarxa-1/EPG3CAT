@@ -3,53 +3,51 @@
   <channel id="tvi">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20260908050934 +0200" stop="20260908055501 +0200" channel="tvi">
-    <title lang="ca">Cava de Blues</title>
-    <sub-title lang="ca">Cava de Blues - Big Mama Montse &amp; Riqui Sabatés</sub-title>
-    <desc lang="ca">Cava de Blues és un espai dedicat a les noves creacions de 14 grups del país que es dediquen a aquest gènere musical.En aquesta edició, els grups que hi trobareu són: -A contrablues-Blas Picón &amp; The Junk Espress-Bullfrog Electric Blues Experience-Dusa'ns Flying Blues Band-Dani Baraldés &amp; The XX Band-Emili Baleriola Blues Quartet-Dani Nel·lo &amp; Mario Cobo-Ivan Kovacevic 5 Spots-JG Acoustic Gang-John Big Stone &amp; The Blues Workers-Legacaster! The Hillbilly Trio-Martini Surfers-Susan Santos &amp; The Papa's Red Band-The Paparellos</desc>
-    <length units="seconds">2727</length>
-    <episode-num system="onscreen">17</episode-num>
-    <category lang="ca">MUSICALS</category>
-    <category lang="ca">JAZZ</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <previously-shown/>
-    <icon src="https://img.3cat.cat/multimedia/jpg/0/2/1754910826220.jpg"/>
-  </programme>
-  <programme start="20260908055501 +0200" stop="20260908055836 +0200" channel="tvi">
-    <title lang="ca">Videoclips catalans</title>
-    <sub-title lang="ca">Videoclips catalans - Manu Guix - Com dues gotes d'aigua</sub-title>
-    <length units="seconds">215</length>
-    <episode-num system="onscreen">1707</episode-num>
-    <category lang="ca">MUSICALS</category>
-    <category lang="ca">ALTRES</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <previously-shown/>
-  </programme>
-  <channel id="324">
-    <display-name>324</display-name>
-  </channel>
-  <programme start="20260908010000 +0200" stop="20260908060000 +0200" channel="324">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">18000</length>
-    <episode-num system="onscreen">11112</episode-num>
+  <programme start="20260908080015 +0200" stop="20260908103000 +0200" channel="tvi">
+    <title lang="ca">Matins</title>
+    <sub-title lang="ca">Matins</sub-title>
+    <desc lang="ca">'Matins' és un dels puntals informatius de TV3. El programa matinal dona les claus del dia que comença, explica les notícies que han passat aportant-ne el context per entendre-les i analitza amb veus acreditades l'actualitat més propera i la d'arreu del món. 'Matins' comença a les 8 del matí, de dilluns a divendres, i està presentat per Ariadna Oltra.</desc>
+    <length units="seconds">8985</length>
+    <episode-num system="onscreen">4667</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <previously-shown/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/2/0/1758040151402.jpg"/>
   </programme>
-  <programme start="20260908060000 +0200" stop="20260908080000 +0200" channel="324">
+  <programme start="20260908103000 +0200" stop="20260908135457 +0200" channel="tvi">
+    <title lang="ca">Tot es mou</title>
+    <sub-title lang="ca">Tot es mou</sub-title>
+    <desc lang="ca">El programa presentat per Helena Garcia Melero s'emet de dilluns a divendres, de 10.30 a 13.55. Un magazín d'actualitat que busca informar, analitzar i debatre sobre temes que marquen l'actualitat social, econòmica i cultural del dia, amb una àmplia presència en directe dels reporters i reporteres, repartits per tot Catalunya. A més, el 'Tot es mou' compta amb seccions diàries de gastronomia (amb els principals cuiners i cuineres del país), successos, economia, mobilitat, temes mèdics i de tecnologia, entre d'altres.</desc>
+    <length units="seconds">12297</length>
+    <episode-num system="onscreen">1804</episode-num>
+    <category lang="ca">ACTUALITAT</category>
+    <category lang="ca">MAGAZINE</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+  </programme>
+  <channel id="324">
+    <display-name>324</display-name>
+  </channel>
+  <programme start="20260908080000 +0200" stop="20260908103000 +0200" channel="324">
+    <title lang="ca">Matins</title>
+    <desc lang="ca">'Matins' és un dels puntals informatius de TV3. El programa matinal dona les claus del dia que comença, explica les notícies que han passat aportant-ne el context per entendre-les i analitza amb veus acreditades l'actualitat més propera i la d'arreu del món. 'Matins' comença a les 8 del matí, de dilluns a divendres, i està presentat per Ariadna Oltra.</desc>
+    <length units="seconds">9000</length>
+    <episode-num system="onscreen">4667</episode-num>
+    <category lang="ca">ACTUALITAT</category>
+    <category lang="ca">INFORMATIU DIÀRI</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <icon src="https://img.ccma.cat/multimedia/jpg/2/0/1758040151402.jpg"/>
+  </programme>
+  <programme start="20260908103000 +0200" stop="20260908123000 +0200" channel="324">
     <title lang="ca">Notícies 3CatInfo</title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <length units="seconds">7200</length>
-    <episode-num system="onscreen">11113</episode-num>
+    <episode-num system="onscreen">11114</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
@@ -61,90 +59,109 @@
   <channel id="esport3">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20260908052816 +0200" stop="20260908055831 +0200" channel="esport3">
-    <title lang="ca">3CatInfo Esports</title>
-    <sub-title lang="ca">3CatInfo Esports</sub-title>
-    <desc lang="ca">Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.</desc>
-    <length units="seconds">1815</length>
-    <episode-num system="onscreen">5502</episode-num>
-    <category lang="ca">ESPORTS</category>
-    <category lang="ca">INFORMATIU DIÀRI</category>
+  <programme start="20260908095830 +0200" stop="20260908102426 +0200" channel="esport3">
+    <title lang="ca">Catalunya salvatge</title>
+    <sub-title lang="ca">Catalunya salvatge - La frontera glacial</sub-title>
+    <desc lang="ca">L'alta muntanya és un ecosistema d'extrems. Els seus habitants fan servir diferents tècniques per sobreviure als cims del Pirineu Català.</desc>
+    <length units="seconds">1556</length>
+    <episode-num system="onscreen">2</episode-num>
+    <category lang="ca">DIVULGACIÓ</category>
+    <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
+    <subtitles type="teletext"/>
     <previously-shown/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/9/7/1758888682179.jpg"/>
   </programme>
-  <programme start="20260908055831 +0200" stop="20260908063104 +0200" channel="esport3">
-    <title lang="ca">La frontal</title>
-    <sub-title lang="ca">La frontal - El CE Vendrell, un històric en plena forma</sub-title>
-    <desc lang="ca">La família vendrellenca té més de 500 esportistes en 35 equips, i la secció de futbol és un referent a les comarques tarragonines. Fundat fa 113 anys, actualment viu un dels millors moments de la seva història. I a més a més de la visita al Vendrell, us oferim els resums dels partits més destacats del cap de setmana.</desc>
-    <length units="seconds">1953</length>
-    <episode-num system="onscreen">174</episode-num>
-    <category lang="ca">ESPORTS</category>
-    <category lang="ca">ESPECIALS</category>
+  <programme start="20260908102426 +0200" stop="20260908111254 +0200" channel="esport3">
+    <title lang="ca">Vida</title>
+    <sub-title lang="ca">Vida - Rèptils i amfibis</sub-title>
+    <desc lang="ca">Des de les immensitats de gel fins als deserts més àrids, els rèptils i els amfibis han utilitzat el seu cos peciloterm i prehistòric, juntament amb una sèrie de sofisticades innovacions comportamentals, per dominar els entorns més severs del planeta. Mitjançant tècniques de cacera despietades, un camuflatge extraordinari, astúcia i una resistència física total, habiten còmodament indrets que mamífers i aus no gosen ni trepitjar. Aquesta setmana contemplarem dragons de Komodo caçant búfals, serps marines amb un dels verins més tòxics del món que es reprodueixen en coves, els bots aparentment suïcides d'un gripau (Oreophrynella macconnelli) , la tendra i gegantesca granota bramadora africana, que excava canals d'aigua per salvar les seves cries i també les d'altres espècies i llangardaixos que caminen sobre l'aigua.</desc>
+    <length units="seconds">2908</length>
+    <episode-num system="onscreen">2</episode-num>
+    <category lang="ca">DIVULGACIÓ</category>
+    <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
+    <subtitles type="teletext"/>
     <previously-shown/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/2/4/1698432480342.jpg"/>
   </programme>
   <channel id="sx3">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20260908053533 +0200" stop="20260908054133 +0200" channel="sx3">
-    <title lang="ca">El xai Shaun</title>
-    <sub-title lang="ca">El xai Shaun - Esperits i fantasmes</sub-title>
-    <desc lang="ca">És una nit fosca i tempestuosa i el ramat no pot dormir. Se senten sorolls de totes menes i cada cop estan tots més espantats. Algú ha de sortir a investigar qui és el responsable de tot aquest enrenou. Són esperits? Són fantasmes?! Aviat el detectiu Shaun en treurà l'entrellat. Abans, però, segur que s'endurà uns quants ensurts...</desc>
-    <length units="seconds">360</length>
-    <episode-num system="onscreen">17</episode-num>
+  <programme start="20260908100956 +0200" stop="20260908102118 +0200" channel="sx3">
+    <title lang="ca">Les Sisters</title>
+    <sub-title lang="ca">Les Sisters - Actrius de pa sucat amb oli</sub-title>
+    <desc lang="ca">La Marine fa veure que està malalta per no anar a escola. La Wendy se n'adona, li copa la idea i decideix fer el mateix per saltar-se un examen de mates. El cap de setmana següent, la família té previst anar a un parc aquàtic. Però aquest cop els toca als pares fer-se els malalts per no anar-hi. Les germanes estan escandalitzades. On anirem a parar si els pares fan les mateixes trapelleries que elles?</desc>
+    <length units="seconds">682</length>
+    <episode-num system="onscreen">54</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
       <value>INFANTIL</value>
     </rating>
+    <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20260908054133 +0200" stop="20260908054753 +0200" channel="sx3">
-    <title lang="ca">El xai Shaun</title>
-    <sub-title lang="ca">El xai Shaun - Qui és la mare?</sub-title>
-    <desc lang="ca">Avui en Shaun ha ensopegat amb una colla de pollets acabats de néixer. D'entrada, li ha fet molta gràcia, però de seguida s'ha adonat que els pollets estan convençuts que ell és la seva mare. Aviat se'n cansarà i decidirà desempallegar-se'n. Però com s'ho pot fer? Primer potser els haurà de buscar una altra mare. Però d'on la treurà?</desc>
-    <length units="seconds">380</length>
-    <episode-num system="onscreen">18</episode-num>
+  <programme start="20260908102118 +0200" stop="20260908103240 +0200" channel="sx3">
+    <title lang="ca">Les Sisters</title>
+    <sub-title lang="ca">Les Sisters - Pesades al club</sub-title>
+    <desc lang="ca">Demà no hi ha classe i la Marine passarà tot el dia amb la seva germaneta. Però la Wendy té un altre programa. Per desgràcia per ella, la mama treballa a l'hospital i el papa passarà el dia a casa el seu editor. La paparra està encantada: s'ho passaran superbé. A més, els pares s'han 'oblidat' de dir-li a la Wendy que la Loulou i la Nat també es quedaran tot el dia amb elles. La Wendy haurà de cuidar tres pesades!</desc>
+    <length units="seconds">682</length>
+    <episode-num system="onscreen">55</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
       <value>INFANTIL</value>
     </rating>
+    <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
   <channel id="c33">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20260908052917 +0200" stop="20260908055415 +0200" channel="c33">
-    <title lang="ca">La pell dels murs</title>
-    <sub-title lang="ca">La pell dels murs - Marina Capdevila-Aurora Sulli</sub-title>
-    <desc lang="ca">Aquest episodi de La Pell dels Murs se centra en un mural que l'artista Marina Capdevila va fer a una residència d'avis. El documental, realitzat per Aurora Sulli, mostra el seguiment de tot el procés de preparació i execució d'aquesta obra gegantina en col·laboració amb els avis residents del centre geriàtric Puig d'en Roca de Girona.El resultat és una història divertida i plena de sensibilitat, com ho és el propi mural, en que la protagonista reflexiona sobre el sentit de la seva feina i sobre l'actitud que la nostra societat manté envers la gent gran que, en paraules de la pròpia Capdevila, de vegades es veu bandejada amb l'excusa que 'ja no són productius'. En l'origen d'aquesta proposta artística, hi ha l'experiència personal de l'artista. Durant tot el procés de convalescència que va conduir a la mort de la seva mare, va poder observar com, sovint, molts avis de les residències passen molt de temps oblidats pels seus familiars. Després del confinament imposat per la pandèmia de la COVID-19, Capdevila va decidir que era urgent fer alguna cosa per cridar l'atenció sobre les necessitats afectives d'aquest col·lectiu. El resultat és el que veiem a la Residència Puig d'en Roca de Girona, que va saber integrar aquesta acció al conjunt d'activitats organitzades pel centre per als residents.El mural, que ocupa dues façanes de l'edifici, va implicar un equip de dos assistents i dues grues, a més de la col·laboració de la pròpia residència i de Pintures Montó i de Montana Colors.</desc>
-    <length units="seconds">1498</length>
-    <episode-num system="onscreen">1</episode-num>
-    <category lang="ca">ENTRETENIMENT</category>
-    <category lang="ca">ALTRES</category>
+  <programme start="20260908100913 +0200" stop="20260908110234 +0200" channel="c33">
+    <title lang="ca">Viure als Pirineus- A banda i banda</title>
+    <sub-title lang="ca">Viure als Pirineus- A banda i banda - Pèir Còts i Jean Brosset - Primavera</sub-title>
+    <length units="seconds">3201</length>
+    <episode-num system="onscreen">7</episode-num>
+    <category lang="ca">DIVULGACIÓ</category>
+    <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20260908055415 +0200" stop="20260908055627 +0200" channel="c33">
-    <title lang="ca">VIDEOCLIPS CATALANS</title>
-    <sub-title lang="ca">- YUNG ROVELLÓ FEAT. MAMA DOUSHA - ME'N RECORDO</sub-title>
-    <desc lang="ca">Sense Descripció</desc>
-    <length units="seconds">132</length>
+  <programme start="20260908110234 +0200" stop="20260908114943 +0200" channel="c33">
+    <title lang="ca">Aeroport</title>
+    <sub-title lang="ca">Aeroport - Nit i Nadal</sub-title>
+    <desc lang="ca">Per Nadal l'aeroport és un formiguer ple d'històries. Mentre una família espera els fills que viuen a Mèxic amb els canelons a punt, d'altres marxen a Cuba per fer un creuer pel Carib. I n'hi ha que treballen de nit canviant la roda d'un A320 com si fos un cotxe de Fórmula 1 mentre d'altres netegen avions.</desc>
+    <length units="seconds">2829</length>
+    <episode-num system="onscreen">20</episode-num>
+    <category lang="ca">DIVULGACIÓ</category>
+    <category lang="ca">Docu-Entreteniment</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
     <subtitles type="teletext"/>
+    <previously-shown/>
   </programme>
   <channel id="oca1">
     <display-name>OCA1</display-name>
   </channel>
+  <programme start="20260908095724 +0200" stop="20260908112719 +0200" channel="oca1">
+    <title lang="ca">Compareixença dels sindicats convocants de la vaga el primer dia de curs</title>
+    <length units="seconds">5395</length>
+    <episode-num system="onscreen">4104</episode-num>
+    <category lang="ca">ACTUALITAT</category>
+    <category lang="ca">RETRANSMISSIONS ACTUALITAT</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <icon src="https://img.ccma.cat/multimedia/jpg/5/2/1788790880525.jpg"/>
+  </programme>
   <channel id="oca2">
     <display-name>OCA2</display-name>
   </channel>
