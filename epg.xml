@@ -3,26 +3,33 @@
   <channel id="tvi">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20260908210021 +0200" stop="20260908221627 +0200" channel="tvi">
-    <title lang="ca">Telenotícies vespre</title>
-    <sub-title lang="ca">Telenotícies vespre</sub-title>
-    <length units="seconds">4566</length>
-    <episode-num system="onscreen">7321</episode-num>
-    <category lang="ca">ACTUALITAT</category>
-    <category lang="ca">INFORMATIU DIÀRI</category>
+  <programme start="20260908232749 +0200" stop="20260909011359 +0200" channel="tvi">
+    <title lang="ca">Nits Sense ficció</title>
+    <sub-title lang="ca">Nits Sense ficció - La fi d'ETA</sub-title>
+    <desc lang="ca">'LA FI D'ETA' (2016), una producció de Quality Media i JWProductions, en coproducció amb Prisa, CMM, RTP, Baleuko, la participació d'ETB, Canal Sur, IB3 i amb la col·laboració de Televisió de Catalunya i el govern basc.La pel·lícula narra la història de les negociacions secretes, explicades des de dins pels seus protagonistes, que van portar al final de la violència terrorista d'ETA a Euskadi. Els personatges principals són tres: Jesus Eguiguren, líder socialista basc; Arnaldo Otegi, líder abertzale, i Alfredo Pérez Rubalcaba, ministre de l'Interior en el govern de José Luis Rodríguez Zapatero. Des de l'any 2000, quan van començar les converses secretes en un 'caserío' a Guipúscoa, fins al 2011, quan ETA va anunciar el cessament definitiu de la lluita armada. Les escenes de les reunions passen per Suïssa, Noruega, el País Basc, hi apareixen els líders d'ETA Josu Ternera i Francisco Javier López Peña 'Thierry', mentre al seu voltant pugen i baixen les esperances, la violència esclata amb noves víctimes, la campanya antiterrorista i judicial es torna a intensificar i els mediadors internacionals intenten ajudar en el procés complex per arribar a la pau. La societat basca es mobilitza i els partits polítics bascos fan els últims i delicats passos que els porten al final esperat.Direcció: Justin WebsterGuió: José Mª Izquierdo i Luis R. AizpeoleaProductor: Javier ReyesProductor executiu TVC: Joan SalvatDirector fotografia: Kim HattesenMuntatge: Marc MartíDirector de producció: Gustavo Jaén i Sumpta AyusoMúsica: Laro Basterrechea</desc>
+    <credits>
+      <director>Justin Webster</director>
+      <writer>José Mª Izquierdo</writer>
+      <writer>Luis R. Aizpeolea</writer>
+    </credits>
+    <length units="seconds">6370</length>
+    <episode-num system="onscreen">1</episode-num>
+    <category lang="ca">DIVULGACIÓ</category>
+    <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <icon src="https://img.ccma.cat/multimedia/jpg/7/2/1758026176427.jpg"/>
+    <subtitles type="teletext"/>
+    <previously-shown/>
   </programme>
-  <programme start="20260908220138 +0200" stop="20260908231959 +0200" channel="tvi">
-    <title lang="ca">Nits Sense ficció</title>
-    <sub-title lang="ca">Nits Sense ficció - 17A: Lliçons apreses?</sub-title>
-    <desc lang="ca">'17A: Lliçons apreses?' té l'objectiu d'analitzar i comprendre els processos, els comportaments i els patrons de conducta que es donen en els atemptats terroristes jihadistes. El punt de partida és el 'No tinc por' dels atemptats de Barcelona i Cambrils del 17 d'agost del 2017. El documental intenta explicar com uns joves, que no han viscut en la marginació social, han canviat de manera tan radical el rumb de les seves vides sense que ningú se n'hagi adonat. Aquests joves, un cop reclutats i consolidats com a cèl·lula jihadista disposada a atemptar, tenen, en alguns aspectes, uns comportaments semblants a altres cèl·lules que han actuat a Europa; en canvi, en altres, trenquen els esquemes. Es recorden els fets tràgics del 17 d'agost i el seus preparatius amb l'objectiu d'analitzar cada pas, entendre a què responen uns determinats comportaments, i els 'modus operandi' de l'anomenada 'cèl·lula de Ripoll'. I dels molts aspectes que encara queden per saber, dos són essencials: les connexions internacionals (especialment amb França i Bèlgica) i els contactes d'Abdelbaki es Satty amb el Centre Nacional d'Intel·ligència.El documental compta amb la participació de testimonis que havien conegut i tractat aquests joves, i amb diversos experts en la matèria, com Dolores Delgado, fiscal coordinadora de Terrorisme Jihadista de l'Audiència Provincial; el politòleg i especialista en el món àrab Gilles Kepel, i Nuria Perpinyà, tècnica de Convivència i Participació Ciutadana de Ripoll, entre d'altres.</desc>
-    <length units="seconds">4701</length>
+  <programme start="20260909011359 +0200" stop="20260909014208 +0200" channel="tvi">
+    <title lang="ca">El local</title>
+    <sub-title lang="ca">El local - Buhos-Andrea Motis</sub-title>
+    <desc lang="ca">El grup de rock festiu Buhos invita la trompetista i cantant jazzística Andrea Motis a El Local. Ells porten anys fent gires explosives per tot Catalunya i ella, des que era adolescent, toca als millors escenaris del món. No es coneixen personalment i mai s'haguessin imaginat que farien un feat junts, però han decidit entrar al joc. Primer s'asseuen a la taula de so de l'estudi de gravació a escoltar 'Volcans', un dels èxits Buhos, i consensuen donar-li un toc de bossa. Després passen a l'acció. Entren a l'estudi a assajar i ho posen tot en pràctica. També dialoguen i comparteixen vivències cara a cara. Durant l'assaig hi ha diversió, professionalitat i, sobretot, molts vents. El capítol acaba amb la col·laboració en directe de Buhos i Andrea Motis fent una versió molt interessant de 'Volcans'. </desc>
+    <length units="seconds">1689</length>
     <episode-num system="onscreen">1</episode-num>
-    <category lang="ca">ACTUALITAT</category>
-    <category lang="ca">DOCUMENTAL</category>
+    <category lang="ca">ENTRETENIMENT</category>
+    <category lang="ca">ALTRES</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
@@ -32,82 +39,85 @@
   <channel id="324">
     <display-name>324</display-name>
   </channel>
-  <programme start="20260908210000 +0200" stop="20260908220500 +0200" channel="324">
-    <title lang="ca">Telenotícies vespre</title>
-    <length units="seconds">3900</length>
-    <episode-num system="onscreen">7321</episode-num>
+  <programme start="20260909000000 +0200" stop="20260909003000 +0200" channel="324">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="seconds">1800</length>
+    <episode-num system="onscreen">11120</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <icon src="https://img.ccma.cat/multimedia/jpg/7/2/1758026176427.jpg"/>
+    <subtitles type="teletext"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
-  <programme start="20260908220500 +0200" stop="20260909000000 +0200" channel="324">
-    <title lang="ca">Mésnit</title>
-    <desc lang="ca">El 'Mésnit' arriba a la desena temporada, amb Marina Romero al capdavant de l'espai i amb la voluntat de continuar sent un centre de debat d'idees i d'anàlisi de l'activitat política.</desc>
-    <length units="seconds">6900</length>
-    <episode-num system="onscreen">2155</episode-num>
+  <programme start="20260909003000 +0200" stop="20260909010000 +0200" channel="324">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="seconds">1800</length>
+    <episode-num system="onscreen">11121</episode-num>
     <category lang="ca">ACTUALITAT</category>
-    <category lang="ca">DEBAT</category>
+    <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
   <channel id="esport3">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20260908211445 +0200" stop="20260908223225 +0200" channel="esport3">
-    <title lang="ca">E3D</title>
-    <sub-title lang="ca">E3D - SKATE / EXTREME BARCELONA / FINAL FEMENINA</sub-title>
-    <desc lang="ca">Final masculina de BMX a la 18a edició de l'Extrem Barcelona, que es fa al Parc del Fòrum. Amb la narració de Jordi Gil.</desc>
-    <length units="seconds">4660</length>
-    <episode-num system="onscreen">8117</episode-num>
+  <programme start="20260908230020 +0200" stop="20260909003128 +0200" channel="esport3">
+    <title lang="ca">Onze</title>
+    <sub-title lang="ca">Onze</sub-title>
+    <desc lang="ca">Sique Rodriguez, Laia Tudel, Ivan San Antonio i Joan Poquí comenten les paraules de Lamine Yamal en la prèvia del partit contra el Feyenoord. El Fran Domènech presenta els titulars més curiosos de la premsa esportiva.</desc>
+    <length units="seconds">5468</length>
+    <episode-num system="onscreen">1246</episode-num>
     <category lang="ca">ESPORTS</category>
-    <category lang="ca">RETRANSMISSIONS ESPORTS</category>
+    <category lang="ca">MAGAZINE</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <icon src="https://img.ccma.cat/multimedia/jpg/3/2/1788358923323.jpg"/>
+    <subtitles type="teletext"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/1/1/1688543515711.jpg"/>
   </programme>
-  <programme start="20260908223225 +0200" stop="20260908230000 +0200" channel="esport3">
-    <title lang="ca">Sala de Premsa</title>
-    <sub-title lang="ca">Sala de Premsa - Hansi Flick / Prèvia Barça-Feyenoord</sub-title>
-    <desc lang="ca">Esport3 t'ofereix les compareixences de dirigents, jugadors i entrenadors dels equips catalans davant els mitjans de comunicació.</desc>
-    <length units="seconds">1655</length>
-    <episode-num system="onscreen">723</episode-num>
+  <programme start="20260909003128 +0200" stop="20260909005216 +0200" channel="esport3">
+    <title lang="ca">3CatInfo Esports</title>
+    <sub-title lang="ca">3CatInfo Esports</sub-title>
+    <desc lang="ca">Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.</desc>
+    <length units="seconds">1248</length>
+    <episode-num system="onscreen">5503</episode-num>
     <category lang="ca">ESPORTS</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <subtitles type="teletext"/>
-    <icon src="https://img.3cat.cat/multimedia/jpg/7/4/1778665728847.jpg"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/9/7/1758888682179.jpg"/>
   </programme>
   <channel id="sx3">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20260908214146 +0200" stop="20260908220317 +0200" channel="sx3">
-    <title lang="ca">Bola de drac Z</title>
-    <sub-title lang="ca">Bola de drac Z - En Cèl·lula absorbeix l'androide 17</sub-title>
-    <desc lang="ca">En Cèl·lula per fi absorbeix l'androide 17 i, a més de canviar d'aspecte, també guanya força i rapidesa. Ara, l'únic que pot intentar evitar que en Cèl·lula també absorbeixi l'A-16 i l'A-18 és en Ten Shin Han, que ha estat observant els combats i provarà d'aturar Cèl·lula, que cada cop sembla més invencible.</desc>
-    <length units="seconds">1291</length>
-    <episode-num system="onscreen">152</episode-num>
+  <programme start="20260908234812 +0200" stop="20260909000912 +0200" channel="sx3">
+    <title lang="ca">Els germans Kratt</title>
+    <sub-title lang="ca">Els germans Kratt - Els castors constructors</sub-title>
+    <desc lang="ca">Tot fent piragüisme pels rius nord-americans, els germans Kratt han fet malbé la presa d'una família de castors. Ara els hauran d'ajudar a refer-la i s'adonaran del que són capaços. Hi ha un munt d'animals que viuen a l'estany que es forma gràcies a la presa dels castors, com ara els talps de musell estrellat, les granotes bramadores, els ànecs carolins... Els vols conèixer?!</desc>
+    <length units="seconds">1260</length>
+    <episode-num system="onscreen">8</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
-      <value>JUVENIL</value>
+      <value>INFANTIL</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20260908220317 +0200" stop="20260908222429 +0200" channel="sx3">
-    <title lang="ca">El detectiu Conan</title>
-    <sub-title lang="ca">El detectiu Conan - El secret ocult del temple Dongaraji</sub-title>
-    <desc lang="ca">El robatori de 30 milions de iens amb la mort posterior de l'atracador i la desaparició dels diners, i el fet que dues dones veuen la mateixa persona en dos llocs diferents a la vegada, semblen dues coses que no tenen res a veure entre elles. En Conan acompanya en Kogoro en la investigació i de seguida s'adona que els dos fets estan relacionats. Ara només falta poder-ho demostrar!</desc>
-    <length units="seconds">1272</length>
-    <episode-num system="onscreen">876</episode-num>
+  <programme start="20260909000912 +0200" stop="20260909003012 +0200" channel="sx3">
+    <title lang="ca">Els germans Kratt</title>
+    <sub-title lang="ca">Els germans Kratt - El viatge del Papalloner XT</sub-title>
+    <desc lang="ca">L'Aviva acaba de construir el Papalloner XT, el vehicle que acompanyarà en Chris, en Martin i la Capitana Maxil·la a l'aventura més increïble que hagi viscut mai ningú, el viatge més llarg i més impressionant de tots els insectes de l'Amèrica del Nord: 4.800 quilòmetres fins a Mèxic! Però compte, que a mig camí es trobaran amb la malvada Donita Donata!</desc>
+    <length units="seconds">1260</length>
+    <episode-num system="onscreen">9</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
@@ -119,33 +129,66 @@
   <channel id="c33">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20260908213453 +0200" stop="20260908220026 +0200" channel="c33">
-    <title lang="ca">Plats bruts</title>
-    <sub-title lang="ca">Plats bruts - Tinc un somni</sub-title>
-    <desc lang="ca">El Lopes retroba un antic amic que ara és mànager; aquest li proposa rellançar la seva carrera de 'rumbero' juvenil. Mentrestant, l'Emma fa una broma al Ramon concertant-li una falsa cita amb una suposada amiga interessada en ell.Convidat: Moncho</desc>
-    <length units="seconds">1533</length>
-    <episode-num system="onscreen">37</episode-num>
+  <programme start="20260908225227 +0200" stop="20260909004611 +0200" channel="c33">
+    <title lang="ca">Pel·lícula</title>
+    <sub-title lang="ca">Pel·lícula - La forma de l'aigua</sub-title>
+    <desc lang="ca">LA FORMA DE L'AIGUA 'The Shape of Water'Direcció: Guillermo del ToroGuió: Guillermo del Toro, Vanessa TaylorProducció: Bull Productions, Fox SearchlightAny: 2017Durada: 119País: Estats UnitsMúsica: Alexandre DesplatFotografia: Dan LaustsenIntèrprets: Sally Hawkins, Doug Jones, Michael Shannon, Octavia Spencer, Richard Jenkins, Michael Stuhlbarg, Lauren Lee Smith, David Hewlett, Nick Searcy, Morgan Kelly, Dru Viergever, Maxine Grossman, Amanda Smith, Cyndy Day, Dave ReachillLa forma de l'aigua és una història romàntica i fantàstica ambientada als Estats Units durant la Guerra Freda. L'Elisa, una dona muda que treballa com a personal de neteja en un laboratori governamental secret, porta una vida solitària i rutinària. Tot canvia quan descobreix una misteriosa criatura aquàtica capturada en una missió militar. Mentre els científics i els militars la consideren un espècimen perillós, l'Elisa hi estableix una connexió profunda basada en la comprensió i l'afecte. A mesura que la relació creix, decideix arriscar-ho tot per salvar-la d'un destí cruel. La pel·lícula combina fantasia, drama i romanticisme per parlar de la diferència, la llibertat i la necessitat d'estimar i ser estimat.</desc>
+    <credits>
+      <writer>Guillermo del Toro</writer>
+      <writer>Vanessa Taylor</writer>
+      <actor>Sally Hawkins</actor>
+      <actor>Doug Jones</actor>
+      <actor>Michael Shannon</actor>
+      <actor>Octavia Spencer</actor>
+      <actor>Richard Jenkins</actor>
+      <actor>Michael Stuhlbarg</actor>
+      <actor>Lauren Lee Smith</actor>
+      <actor>David Hewlett</actor>
+      <actor>Nick Searcy</actor>
+      <actor>Morgan Kelly</actor>
+      <actor>Dru Viergever</actor>
+      <actor>Maxine Grossman</actor>
+      <actor>Amanda Smith</actor>
+      <actor>Cyndy Day</actor>
+      <actor>Dave ReachillLa forma de l'aigua és una història romàntica</actor>
+      <actor>fantàstica ambientada als Estats Units durant la Guerra Freda. L'Elisa</actor>
+      <actor>una dona muda que treballa com a personal de neteja en un laboratori governamental secret</actor>
+      <actor>porta una vida solitària</actor>
+      <actor>rutinària. Tot canvia quan descobreix una misteriosa criatura aquàtica capturada en una missió militar. Mentre els científics</actor>
+      <actor>els militars la consideren un espècimen perillós</actor>
+      <actor>l'Elisa hi estableix una connexió profunda basada en la comprensió</actor>
+      <actor>l'afecte. A mesura que la relació creix</actor>
+      <actor>decideix arriscar-ho tot per salvar-la d'un destí cruel. La pel·lícula combina fantasia</actor>
+      <actor>drama</actor>
+      <actor>romanticisme per parlar de la diferència</actor>
+      <actor>la llibertat</actor>
+      <actor>la necessitat d'estimar</actor>
+      <actor>ser estimat.</actor>
+    </credits>
+    <length units="seconds">6824</length>
+    <episode-num system="onscreen">1</episode-num>
     <category lang="ca">FICCIÓ</category>
-    <category lang="ca">SITCOM (COMÈDIA DE SITUACIÓ)</category>
+    <category lang="ca">PEL·LÍCULA / TELEFILM</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
+    <icon src="https://img.3cat.cat/multimedia/jpg/7/7/1786691876977.jpg"/>
   </programme>
-  <programme start="20260908220026 +0200" stop="20260908225225 +0200" channel="c33">
-    <title lang="ca">La Renaixença</title>
-    <sub-title lang="ca">La Renaixença - El bisturí</sub-title>
-    <desc lang="ca">Sabeu que el bisturí antigament el feien servir els barbers? I sabeu que abans de l'anestèsia no es valorava la precisió del bisturí sinó la rapidesa del cirurgià a l'hora de fer-lo servir? Dediquem el capítol d'avui al bisturí. Rebem la visita d'en Bartomeu Rocabert, rellotger. I un rellotger important, perquè a càrrec seu corren les agulles dels rellotges més importants de Catalunya. A 'Històries per passejar el gos' anem amb en Dungui per l'enfonsament de l'MV Wilhelm Gustloff, el 30 de gener del 1945.</desc>
-    <length units="seconds">3119</length>
-    <episode-num system="onscreen">227</episode-num>
-    <category lang="ca">DIVULGACIÓ</category>
-    <category lang="ca">ALTRES</category>
+  <programme start="20260909004611 +0200" stop="20260909012749 +0200" channel="c33">
+    <title lang="ca">Cites Barcelona</title>
+    <sub-title lang="ca">Cites Barcelona - Pol-Mireia / Laia-Bruno</sub-title>
+    <desc lang="ca">El Pol i la Mireia gaudeixen d'una cita perfecta fins que ell descobreix que ella està embarassada. D'altra banda, el Bruno malinterpreta un missatge de la Laia i es presenta al funeral del seu besoncle. Per sortir del pas davant la família, fingeixen ser parella, i enmig de la farsa, sorgeix una connexió genuïna entre tots dos.</desc>
+    <length units="seconds">2498</length>
+    <episode-num system="onscreen">7</episode-num>
+    <category lang="ca">FICCIÓ</category>
+    <category lang="ca">SÈRIE DRAMÀTICA</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/3/3/1756148014833.jpg"/>
+    <previously-shown/>
   </programme>
   <channel id="oca1">
     <display-name>OCA1</display-name>
