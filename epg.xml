@@ -3,26 +3,28 @@
   <channel id="tvi">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20260909210000 +0200" stop="20260909220451 +0200" channel="tvi">
-    <title lang="ca">Telenotícies vespre</title>
-    <sub-title lang="ca">Telenotícies vespre</sub-title>
-    <length units="seconds">3891</length>
-    <episode-num system="onscreen">7322</episode-num>
-    <category lang="ca">ACTUALITAT</category>
-    <category lang="ca">INFORMATIU DIÀRI</category>
+  <programme start="20260909233616 +0200" stop="20260910001645 +0200" channel="tvi">
+    <title lang="ca">Emergències</title>
+    <sub-title lang="ca">Emergències</sub-title>
+    <desc lang="ca">Capítol ple d'emoció i acció. L'acció comença amb un foc a Cardedeu que s'inicia al bosc, però que es complica perquè passa a les cases. El bomber subcap de guàrdia Roger Llinàs ha de canviar d'estratègia i salvaguardar els béns materials. Però no ho té fàcil.Al box d'emergències de l'Hospital de Bellvitge es viu una de les situacions més tenses de tota la sèrie. La metge Raquel Reyes es troba amb dues pacients alhora en estat molt greu. Totes dues necessiten molta atenció, rapidesa i coordinació.'Emergències' passa la nit de Sant Joan amb el SEM, a la unitat de cremats de Vall d'Hebron i al parc de bombers de Sant Andreu de Barcelona. En tots els casos tenen una nit plena d'urgències. I a l'Hospital Clínic es constata que els minuts són molt importants a l'hora de posar remei a un ictus.El sergent dels Mossos d'Esquadra Daniel López assisteix un cas de violència de gènere. El tracte i el to del sergent de seguretat ciutadana són crucials per atendre aquest tipus de casos.A l'estació d'esquí de la Masella, un noi s'ha donat un cop al cap i ha perdut el coneixement durant uns minuts. Amb el metge de l'estació, Enric Subirats, es viu tot el recorregut de l'amnèsia.I al final d'aquest capítol hi ha una excepció. Comença la història del trasplantament de fetge de la Iratxe, una nena de 6 anys en estat molt greu. La història es desenvolupa al capítol següent. La mare de la nena és la donant en vida.</desc>
+    <length units="seconds">2429</length>
+    <episode-num system="onscreen">5</episode-num>
+    <category lang="ca">DIVULGACIÓ</category>
+    <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <icon src="https://img.ccma.cat/multimedia/jpg/7/2/1758026176427.jpg"/>
+    <subtitles type="teletext"/>
+    <previously-shown/>
   </programme>
-  <programme start="20260909220041 +0200" stop="20260909223546 +0200" channel="tvi">
-    <title lang="ca">L'un per l'altre</title>
-    <sub-title lang="ca">L'un per l'altre - Sense pèls a la llengua</sub-title>
-    <desc lang="ca">El Toni i la Maria estan enganxats a un programa de televisió que es diu 'Sense pèls a la llengua' on les parelles on s'ha de demostrar que es coneixen molt bé. La Rosa i el Poppins decideixen apuntar la Maria i el Toni sense que ells ho sàpiguen. El Toni i la Maria decideixen fer trampes i pacten les respostes. La primera vegada els surt bé i passen a la següent fase, però quan tornen a provar-ho l'estratègia els surt fatal i queden en evidència davant tota l'audiència del programa.</desc>
-    <length units="seconds">2105</length>
-    <episode-num system="onscreen">15</episode-num>
-    <category lang="ca">FICCIÓ</category>
-    <category lang="ca">SITCOM (COMÈDIA DE SITUACIÓ)</category>
+  <programme start="20260910001645 +0200" stop="20260910004004 +0200" channel="tvi">
+    <title lang="ca">Living Europa</title>
+    <sub-title lang="ca">Living Europa - Dublín:Trobar a faltar el sol</sub-title>
+    <desc lang="ca">El tema, EL TEMA… És potser una de les principals preocupacions de les generacions més joves. Sí, estem parlant de la Salut Mental. Trobar a faltar casa, canviar-te a una ciutat on plou tot el dia, sentir-te sola… On queden les cures quan marxem uns mesos? Aquest trimestre que absolutament tots i totes associem amb la festa, la desinhibició, l'aventura… és sempre així? Com es gestionen les expectatives si les coses no surten com ens imaginàvem? Per què els estudiants viuen amb pànic la tornada? Els problemes ens els emportem a la maleta o els deixem a casa? Està clar que marxar fora no és un drama, però la Cora i la Berta ens ensenyen l'altre costat de viure fora, aquest cop des de Dublín. </desc>
+    <length units="seconds">1399</length>
+    <episode-num system="onscreen">6</episode-num>
+    <category lang="ca">ENTRETENIMENT</category>
+    <category lang="ca">ALTRES</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
@@ -32,17 +34,6 @@
   <channel id="324">
     <display-name>324</display-name>
   </channel>
-  <programme start="20260909210000 +0200" stop="20260909220500 +0200" channel="324">
-    <title lang="ca">Telenotícies vespre</title>
-    <length units="seconds">3900</length>
-    <episode-num system="onscreen">7322</episode-num>
-    <category lang="ca">ACTUALITAT</category>
-    <category lang="ca">INFORMATIU DIÀRI</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <icon src="https://img.ccma.cat/multimedia/jpg/7/2/1758026176427.jpg"/>
-  </programme>
   <programme start="20260909220500 +0200" stop="20260910000000 +0200" channel="324">
     <title lang="ca">Mésnit</title>
     <desc lang="ca">El 'Mésnit' arriba a la desena temporada, amb Marina Romero al capdavant de l'espai i amb la voluntat de continuar sent un centre de debat d'idees i d'anàlisi de l'activitat política.</desc>
@@ -55,58 +46,72 @@
     </rating>
     <subtitles type="teletext"/>
   </programme>
+  <programme start="20260910000000 +0200" stop="20260910003000 +0200" channel="324">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="seconds">1800</length>
+    <episode-num system="onscreen">11129</episode-num>
+    <category lang="ca">ACTUALITAT</category>
+    <category lang="ca">INFORMATIU DIÀRI</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <subtitles type="teletext"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
+  </programme>
   <channel id="esport3">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20260909213939 +0200" stop="20260909223134 +0200" channel="esport3">
+  <programme start="20260909232608 +0200" stop="20260910005038 +0200" channel="esport3">
     <title lang="ca">Handbol</title>
     <sub-title lang="ca">Handbol - Barça-Aarhus / EHF Champions / J1</sub-title>
     <desc lang="ca">Després de guanyar 4 de les 6 últimes edicions, els blaugranes s'estrenen contra l'equip danès en una nova fase de grups de la Champions. Des del Palau Blaugrana, amb la narració de Joan Ramon Vallvé, Mireia Vicente i Víctor Tomàs.</desc>
-    <length units="seconds">3115</length>
+    <length units="seconds">5070</length>
     <episode-num system="onscreen">422</episode-num>
     <category lang="ca">ESPORTS</category>
     <category lang="ca">RETRANSMISSIONS ESPORTS</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
+    <previously-shown/>
     <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1729614070941.jpg"/>
   </programme>
-  <programme start="20260909223134 +0200" stop="20260909230000 +0200" channel="esport3">
-    <title lang="ca">Bàsquet</title>
-    <sub-title lang="ca">Bàsquet - MoraBanc Andorra-Kids&amp;Us Manresa / Lliga Catalana / J1</sub-title>
-    <desc lang="ca">Primera jornada al grup 1 de la Lliga Catalana de Bàsquet. El Barça és el tercer equip d'aquest grup. Amb Víctor Lavagnini, Nil Llobet i Nacho Solozabal.</desc>
-    <length units="seconds">1706</length>
-    <episode-num system="onscreen">136</episode-num>
+  <programme start="20260910005038 +0200" stop="20260910011123 +0200" channel="esport3">
+    <title lang="ca">3CatInfo Esports</title>
+    <sub-title lang="ca">3CatInfo Esports</sub-title>
+    <desc lang="ca">Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.</desc>
+    <length units="seconds">1245</length>
+    <episode-num system="onscreen">5504</episode-num>
     <category lang="ca">ESPORTS</category>
-    <category lang="ca">RETRANSMISSIONS ESPORTS</category>
+    <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <icon src="https://img.3cat.cat/multimedia/jpg/7/7/1788941967477.jpg"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/9/7/1758888682179.jpg"/>
   </programme>
   <channel id="sx3">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20260909214112 +0200" stop="20260909220151 +0200" channel="sx3">
-    <title lang="ca">Bola de drac Z</title>
-    <sub-title lang="ca">Bola de drac Z - El superpoderós Vegeta</sub-title>
-    <desc lang="ca">Just quan en Cèl·lula està a punt d'absorbir l'A-18, apareix en Vegeta i demostra que en un any d'entrenament s'ha convertit en un superguerrer superpoderós. Pot ser que sigui aquest, el poder del qual parlava en Son Goku? La demostració de força del nou Vegeta deixa en Cèl·lula impressionat i comença el combat.</desc>
-    <length units="seconds">1239</length>
-    <episode-num system="onscreen">155</episode-num>
+  <programme start="20260909234616 +0200" stop="20260910000715 +0200" channel="sx3">
+    <title lang="ca">Els germans Kratt</title>
+    <sub-title lang="ca">Els germans Kratt - El misteri de la morsa estranya</sub-title>
+    <desc lang="ca">En Chris i en Martin estan decidits a descobrir com és que les morses són tan estrambòtiques. Ah! I si de passada en troben alguna altra característica interessant, l'Aviva la podrà integrar als Vestits de Poders Animals! Però resulta que en Zach també va darrere de les morses, i aquest cop treballa per la Donita! Quina una en deuen portar de cap, aquest parell?!</desc>
+    <length units="seconds">1259</length>
+    <episode-num system="onscreen">13</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
-      <value>JUVENIL</value>
+      <value>INFANTIL</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20260909220151 +0200" stop="20260909222304 +0200" channel="sx3">
-    <title lang="ca">El detectiu Conan</title>
-    <sub-title lang="ca">El detectiu Conan - Els detectius júnior es resguarden de la pluja</sub-title>
-    <desc lang="ca">Mentre estan d'acampada, un fort ruixat sorprèn en Conan i la seva colla i truquen a la porta d'una mansió aïllada per aixoplugar-se de la pluja i perquè en Genta pugui anar al lavabo. Els obren dos homes misteriosos que al final resulta que són uns lladres que havien entrat a robar. Quan els nens estan a punt de marxar, una dona crida demanant ajuda des del pis de dalt.</desc>
-    <length units="seconds">1273</length>
-    <episode-num system="onscreen">879</episode-num>
+  <programme start="20260910000715 +0200" stop="20260910002815 +0200" channel="sx3">
+    <title lang="ca">Els germans Kratt</title>
+    <sub-title lang="ca">Els germans Kratt - El Chris diabòlic de Tasmània</sub-title>
+    <desc lang="ca">Avui, en Chris i en Martin estan marcant diables de Tasmània per fer-ne un seguiment, per vigilar que no desapareguin per sempre. El malèfic Zach també els va al darrere, però per segrestar-los i fer un nou Zachbot, el Diable-bot 2000! Per cert, ho sabies que el diable de Tasmània és el mamífer que té més força a les mandíbules?</desc>
+    <length units="seconds">1260</length>
+    <episode-num system="onscreen">14</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
@@ -118,66 +123,77 @@
   <channel id="c33">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20260909213550 +0200" stop="20260909215939 +0200" channel="c33">
-    <title lang="ca">Plats bruts</title>
-    <sub-title lang="ca">Plats bruts - Tinc pànic</sub-title>
-    <desc lang="ca">'Ràdio Bofarull' està a punt de tancar per falta d'audiència.... Al Ramon se li acut una idea per salvar-la; escriu un guió radiofònic sobre una fuita nuclear a Ascó... Paral·lelament, l'Emma es presenta a les proves per a Mossa d'Esquadra.</desc>
-    <length units="seconds">1429</length>
-    <episode-num system="onscreen">39</episode-num>
+  <programme start="20260909225202 +0200" stop="20260910005400 +0200" channel="c33">
+    <title lang="ca">Pel·lícula</title>
+    <sub-title lang="ca">Pel·lícula - Licorice pizza</sub-title>
+    <desc lang="ca">LICORICE PIZZA Licorice PizzaDirecció: Paul Thomas AndersonGuió: Paul Thomas AndersonProducció: Ghoulardi Film Company, Bron Studios, Focus Features, Metro-Goldwyn-Mayer (MGM)Any: 2021Durada: 133País: Estats UnitsMúsica: Jonny GreenwoodFotografia: Paul Thomas Anderson, Michael BaumanIntèrprets: Alana Haim, Cooper Hoffman, Sean Penn, Bradley Cooper, Tom Waits, Ben Safdie, Joseph Cross, Skyler Gisondo, Mary Elizabeth Ellis, Ryan Heffington, Nate Mann, John Michael Higgins, Harriet Sansom Harris, Christine Ebersole, Emily Althaus, Danielle Haim, Este Haim, Maya Rudolph, Destry Allyn Spielberg, George DiCaprio, Iyana Halley, Ray Ray Chase, Emma Dumont, Jon BeaversLa Vall de San Fernando, 1973. L'Alana Kane, una noia de 25 anys atrapada en una feina que no li agrada, queda desconcertada quan en Gary Valentine, un actor adolescent ple d'energia i d'una maduresa sorprenent, es fixa en ella durant una sessió de fotos de l'institut i la convida a sopar. El que comença com una amistat improbable es converteix en una complicitat especial que els porta a embarcar-se en tota mena d'aventures i negocis temeraris mentre intenten trobar el seu lloc en un món canviant i caòtic. La pel·lícula explora la muntanya russa de les emocions que provoca un primer amor.</desc>
+    <credits>
+      <director>Paul Thomas Anderson</director>
+      <actor>Alana Haim</actor>
+      <actor>Cooper Hoffman</actor>
+      <actor>Sean Penn</actor>
+      <actor>Bradley Cooper</actor>
+      <actor>Tom Waits</actor>
+      <actor>Ben Safdie</actor>
+      <actor>Joseph Cross</actor>
+      <actor>Skyler Gisondo</actor>
+      <actor>Mary Elizabeth Ellis</actor>
+      <actor>Ryan Heffington</actor>
+      <actor>Nate Mann</actor>
+      <actor>John Michael Higgins</actor>
+      <actor>Harriet Sansom Harris</actor>
+      <actor>Christine Ebersole</actor>
+      <actor>Emily Althaus</actor>
+      <actor>Danielle Haim</actor>
+      <actor>Este Haim</actor>
+      <actor>Maya Rudolph</actor>
+      <actor>Destry Allyn Spielberg</actor>
+      <actor>George DiCaprio</actor>
+      <actor>Iyana Halley</actor>
+      <actor>Ray Ray Chase</actor>
+      <actor>Emma Dumont</actor>
+      <actor>Jon BeaversLa Vall de San Fernando</actor>
+      <actor>1973. L'Alana Kane</actor>
+      <actor>una noia de 25 anys atrapada en una feina que no li agrada</actor>
+      <actor>queda desconcertada quan en Gary Valentine</actor>
+      <actor>un actor adolescent ple d'energia</actor>
+      <actor>d'una maduresa sorprenent</actor>
+      <actor>es fixa en ella durant una sessió de fotos de l'institut</actor>
+      <actor>la convida a sopar. El que comença com una amistat improbable es converteix en una complicitat especial que els porta a embarcar-se en tota mena d'aventures</actor>
+      <actor>negocis temeraris mentre intenten trobar el seu lloc en un món canviant</actor>
+      <actor>caòtic. La pel·lícula explora la muntanya russa de les emocions que provoca un primer amor.</actor>
+    </credits>
+    <length units="seconds">7318</length>
+    <episode-num system="onscreen">1</episode-num>
     <category lang="ca">FICCIÓ</category>
-    <category lang="ca">SITCOM (COMÈDIA DE SITUACIÓ)</category>
+    <category lang="ca">PEL·LÍCULA / TELEFILM</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <subtitles type="teletext"/>
+    <previously-shown/>
+    <icon src="https://img.3cat.cat/multimedia/jpg/8/8/1786098530588.jpg"/>
+  </programme>
+  <programme start="20260910005400 +0200" stop="20260910013944 +0200" channel="c33">
+    <title lang="ca">Cites Barcelona</title>
+    <sub-title lang="ca">Cites Barcelona - Alan-Maru / Esperanza-Pedro</sub-title>
+    <desc lang="ca">L'Alan i la Maru es coneixen a Tinder i, a la seva primera cita, una conversa sobre viure junts posa a prova les seves expectatives sobre l'amor. Mentrestant, l'Esperanza i el Pedro gaudeixen de la seva cita fins que al Pedro li roben el mòbil, portant-los a una emocionant recerca per recuperar-lo recorrent la ciutat.</desc>
+    <length units="seconds">2744</length>
+    <episode-num system="onscreen">9</episode-num>
+    <category lang="ca">FICCIÓ</category>
+    <category lang="ca">SÈRIE DRAMÀTICA</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20260909215939 +0200" stop="20260909225200 +0200" channel="c33">
-    <title lang="ca">La Renaixença</title>
-    <sub-title lang="ca">La Renaixença - El microones</sub-title>
-    <desc lang="ca">Els inicis del microones van ser culpa d'un tros de xocolata dins d'una butxaca. Imagineu-vos tot el bé que ha fet la xocolata per les vides dels que no ens agrada cuinar. Dediquem el capítol al microones. Ens visita la Clara Viñals, cantant i membre del grup 'Renaldo &amp; Clara'. Està cansada de respondre a la mateixa pregunta, però nosaltres no som més originals que la resta i també li farem.A 'Històries per passejar el gos' portem a en Django a la construcció del pont de Brooklyn, el 1870.</desc>
-    <length units="seconds">3141</length>
-    <episode-num system="onscreen">228</episode-num>
-    <category lang="ca">DIVULGACIÓ</category>
-    <category lang="ca">ALTRES</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <subtitles type="teletext"/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/3/3/1756148014833.jpg"/>
-  </programme>
   <channel id="oca1">
     <display-name>OCA1</display-name>
   </channel>
-  <programme start="20260909203003 +0200" stop="20260909222958 +0200" channel="oca1">
-    <title lang="ca">Handbol: EHF Champions</title>
-    <sub-title lang="ca">- Barça-Aarhus / EHF Champions / J1</sub-title>
-    <desc lang="ca">Després de guanyar 4 de les 6 últimes edicions, els blaugranes s'estrenen contra l'equip danès en una nova fase de grups de la Champions. Des del Palau Blaugrana, amb la narració de Joan Ramon Vallvé, Mireia Vicente i Víctor Tomàs.</desc>
-    <length units="seconds">7195</length>
-    <episode-num system="onscreen">422</episode-num>
-    <category lang="ca">ESPORTS</category>
-    <category lang="ca">RETRANSMISSIONS ESPORTS</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1729614070941.jpg"/>
-  </programme>
   <channel id="oca2">
     <display-name>OCA2</display-name>
   </channel>
-  <programme start="20260909205001 +0200" stop="20260909225956 +0200" channel="oca2">
-    <title lang="ca">Bàsquet : Federació Catalana</title>
-    <sub-title lang="ca">- MoraBanc Andorra-Kids&amp;Us Manresa / Lliga Catalana / J1</sub-title>
-    <desc lang="ca">Primera jornada al grup 1 de la Lliga Catalana de Bàsquet. El Barça és el tercer equip d'aquest grup. Amb Víctor Lavagnini, Nil Llobet i Nacho Solozabal.</desc>
-    <length units="seconds">7795</length>
-    <episode-num system="onscreen">136</episode-num>
-    <category lang="ca">ESPORTS</category>
-    <category lang="ca">RETRANSMISSIONS ESPORTS</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <icon src="https://img.3cat.cat/multimedia/jpg/7/7/1788941967477.jpg"/>
-  </programme>
   <channel id="oca3">
     <display-name>OCA3</display-name>
   </channel>
