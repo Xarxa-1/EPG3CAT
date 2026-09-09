@@ -3,101 +3,101 @@
   <channel id="tvi">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20260909233616 +0200" stop="20260910001645 +0200" channel="tvi">
-    <title lang="ca">Emergències</title>
-    <sub-title lang="ca">Emergències</sub-title>
-    <desc lang="ca">Capítol ple d'emoció i acció. L'acció comença amb un foc a Cardedeu que s'inicia al bosc, però que es complica perquè passa a les cases. El bomber subcap de guàrdia Roger Llinàs ha de canviar d'estratègia i salvaguardar els béns materials. Però no ho té fàcil.Al box d'emergències de l'Hospital de Bellvitge es viu una de les situacions més tenses de tota la sèrie. La metge Raquel Reyes es troba amb dues pacients alhora en estat molt greu. Totes dues necessiten molta atenció, rapidesa i coordinació.'Emergències' passa la nit de Sant Joan amb el SEM, a la unitat de cremats de Vall d'Hebron i al parc de bombers de Sant Andreu de Barcelona. En tots els casos tenen una nit plena d'urgències. I a l'Hospital Clínic es constata que els minuts són molt importants a l'hora de posar remei a un ictus.El sergent dels Mossos d'Esquadra Daniel López assisteix un cas de violència de gènere. El tracte i el to del sergent de seguretat ciutadana són crucials per atendre aquest tipus de casos.A l'estació d'esquí de la Masella, un noi s'ha donat un cop al cap i ha perdut el coneixement durant uns minuts. Amb el metge de l'estació, Enric Subirats, es viu tot el recorregut de l'amnèsia.I al final d'aquest capítol hi ha una excepció. Comença la història del trasplantament de fetge de la Iratxe, una nena de 6 anys en estat molt greu. La història es desenvolupa al capítol següent. La mare de la nena és la donant en vida.</desc>
-    <length units="seconds">2429</length>
-    <episode-num system="onscreen">5</episode-num>
-    <category lang="ca">DIVULGACIÓ</category>
-    <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <subtitles type="teletext"/>
-    <previously-shown/>
-  </programme>
-  <programme start="20260910001645 +0200" stop="20260910004004 +0200" channel="tvi">
-    <title lang="ca">Living Europa</title>
-    <sub-title lang="ca">Living Europa - Dublín:Trobar a faltar el sol</sub-title>
-    <desc lang="ca">El tema, EL TEMA… És potser una de les principals preocupacions de les generacions més joves. Sí, estem parlant de la Salut Mental. Trobar a faltar casa, canviar-te a una ciutat on plou tot el dia, sentir-te sola… On queden les cures quan marxem uns mesos? Aquest trimestre que absolutament tots i totes associem amb la festa, la desinhibició, l'aventura… és sempre així? Com es gestionen les expectatives si les coses no surten com ens imaginàvem? Per què els estudiants viuen amb pànic la tornada? Els problemes ens els emportem a la maleta o els deixem a casa? Està clar que marxar fora no és un drama, però la Cora i la Berta ens ensenyen l'altre costat de viure fora, aquest cop des de Dublín. </desc>
-    <length units="seconds">1399</length>
-    <episode-num system="onscreen">6</episode-num>
-    <category lang="ca">ENTRETENIMENT</category>
-    <category lang="ca">ALTRES</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <subtitles type="teletext"/>
-    <previously-shown/>
-  </programme>
-  <channel id="324">
-    <display-name>324</display-name>
-  </channel>
-  <programme start="20260909220500 +0200" stop="20260910000000 +0200" channel="324">
+  <programme start="20260910004850 +0200" stop="20260910023348 +0200" channel="tvi">
     <title lang="ca">Mésnit</title>
+    <sub-title lang="ca">Mésnit</sub-title>
     <desc lang="ca">El 'Mésnit' arriba a la desena temporada, amb Marina Romero al capdavant de l'espai i amb la voluntat de continuar sent un centre de debat d'idees i d'anàlisi de l'activitat política.</desc>
-    <length units="seconds">6900</length>
+    <length units="seconds">6298</length>
     <episode-num system="onscreen">2156</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">DEBAT</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <subtitles type="teletext"/>
+    <previously-shown/>
   </programme>
-  <programme start="20260910000000 +0200" stop="20260910003000 +0200" channel="324">
+  <programme start="20260910023348 +0200" stop="20260910043000 +0200" channel="tvi">
     <title lang="ca">Notícies 3CatInfo</title>
+    <sub-title lang="ca">Notícies 3CatInfo</sub-title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">1800</length>
-    <episode-num system="onscreen">11129</episode-num>
+    <length units="seconds">6972</length>
+    <episode-num system="onscreen">11130</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <subtitles type="teletext"/>
+    <previously-shown/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
+  </programme>
+  <channel id="324">
+    <display-name>324</display-name>
+  </channel>
+  <programme start="20260910010000 +0200" stop="20260910060000 +0200" channel="324">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="seconds">18000</length>
+    <episode-num system="onscreen">11130</episode-num>
+    <category lang="ca">ACTUALITAT</category>
+    <category lang="ca">INFORMATIU DIÀRI</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <previously-shown/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
+  </programme>
+  <programme start="20260910060000 +0200" stop="20260910080000 +0200" channel="324">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="seconds">7200</length>
+    <episode-num system="onscreen">11131</episode-num>
+    <category lang="ca">ACTUALITAT</category>
+    <category lang="ca">INFORMATIU DIÀRI</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
     <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
   <channel id="esport3">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20260909232608 +0200" stop="20260910005038 +0200" channel="esport3">
-    <title lang="ca">Handbol</title>
-    <sub-title lang="ca">Handbol - Barça-Aarhus / EHF Champions / J1</sub-title>
-    <desc lang="ca">Després de guanyar 4 de les 6 últimes edicions, els blaugranes s'estrenen contra l'equip danès en una nova fase de grups de la Champions. Des del Palau Blaugrana, amb la narració de Joan Ramon Vallvé, Mireia Vicente i Víctor Tomàs.</desc>
-    <length units="seconds">5070</length>
-    <episode-num system="onscreen">422</episode-num>
+  <programme start="20260910011103 +0200" stop="20260910022644 +0200" channel="esport3">
+    <title lang="ca">Zona Champions</title>
+    <sub-title lang="ca">Zona Champions - Anàlisi de la jornada / J1</sub-title>
+    <desc lang="ca">El bo i millor de la màxima competició de futbol continental de la mà del Departament d'Esports de Televisió de Catalunya. Viu tots els partits de la Lliga de Campions a 3Cat!</desc>
+    <length units="seconds">4541</length>
+    <episode-num system="onscreen">851</episode-num>
+    <category lang="ca">ESPORTS</category>
+    <category lang="ca">MAGAZINE</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <subtitles type="teletext"/>
+    <previously-shown/>
+    <icon src="https://img.3cat.cat/multimedia/jpg/3/4/1769511614843.jpg"/>
+  </programme>
+  <programme start="20260910022644 +0200" stop="20260910041834 +0200" channel="esport3">
+    <title lang="ca">Bàsquet</title>
+    <sub-title lang="ca">Bàsquet - iLERNA Lleida-Asisa Joventut / Lliga Catalana / J1</sub-title>
+    <desc lang="ca">Partit inaugural de la Lliga Catalana de bàsquet. Lleidatans i badalonins formen part del grup 2 conjuntament amb el Girona. Amb Víctor Lavagnini, Nil Llobet i Nacho Solozabal. </desc>
+    <length units="seconds">6710</length>
+    <episode-num system="onscreen">135</episode-num>
     <category lang="ca">ESPORTS</category>
     <category lang="ca">RETRANSMISSIONS ESPORTS</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <previously-shown/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1729614070941.jpg"/>
-  </programme>
-  <programme start="20260910005038 +0200" stop="20260910011123 +0200" channel="esport3">
-    <title lang="ca">3CatInfo Esports</title>
-    <sub-title lang="ca">3CatInfo Esports</sub-title>
-    <desc lang="ca">Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.</desc>
-    <length units="seconds">1245</length>
-    <episode-num system="onscreen">5504</episode-num>
-    <category lang="ca">ESPORTS</category>
-    <category lang="ca">INFORMATIU DIÀRI</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <icon src="https://img.ccma.cat/multimedia/jpg/9/7/1758888682179.jpg"/>
+    <icon src="https://img.3cat.cat/multimedia/jpg/7/7/1788941967477.jpg"/>
   </programme>
   <channel id="sx3">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20260909234616 +0200" stop="20260910000715 +0200" channel="sx3">
-    <title lang="ca">Els germans Kratt</title>
-    <sub-title lang="ca">Els germans Kratt - El misteri de la morsa estranya</sub-title>
-    <desc lang="ca">En Chris i en Martin estan decidits a descobrir com és que les morses són tan estrambòtiques. Ah! I si de passada en troben alguna altra característica interessant, l'Aviva la podrà integrar als Vestits de Poders Animals! Però resulta que en Zach també va darrere de les morses, i aquest cop treballa per la Donita! Quina una en deuen portar de cap, aquest parell?!</desc>
-    <length units="seconds">1259</length>
-    <episode-num system="onscreen">13</episode-num>
+  <programme start="20260910014442 +0200" stop="20260910020351 +0200" channel="sx3">
+    <title lang="ca">Viatges Pokémon</title>
+    <sub-title lang="ca">Viatges Pokémon - Arriba un nou amic!</sub-title>
+    <desc lang="ca">Un Pidove mort de por vola a tota velocitat i s'estampa contra la finestra de la Chloe, i llavors, per sorpresa de la Chloe i la família, el Yamper entra el Pidove ferit a casa. La família Cirerer vol ajudar el Pokémon a recuperar-se, però el Yamper es posa gelós per l'atenció que rep el Pidove, sobretot per part de la Chloe. Mentrestant, el Pidove s'ho passa bé enfilat a l'esquena del Yamper, i això encara el molesta més. Però quan els ataca un Fearow perillós, la Chloe utilitza el lligam que té amb el Yamper per derrotar el Fearow en combat. Poc després, arriba l'entrenador del Pidove per emportar-se el seu estimat Pokémon a casa. La família Cirerer no oblidarà mai el Pidove, i la Chloe ha après a valorar els Pokémon una mica més.</desc>
+    <length units="seconds">1149</length>
+    <episode-num system="onscreen">29</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
@@ -106,12 +106,12 @@
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20260910000715 +0200" stop="20260910002815 +0200" channel="sx3">
-    <title lang="ca">Els germans Kratt</title>
-    <sub-title lang="ca">Els germans Kratt - El Chris diabòlic de Tasmània</sub-title>
-    <desc lang="ca">Avui, en Chris i en Martin estan marcant diables de Tasmània per fer-ne un seguiment, per vigilar que no desapareguin per sempre. El malèfic Zach també els va al darrere, però per segrestar-los i fer un nou Zachbot, el Diable-bot 2000! Per cert, ho sabies que el diable de Tasmània és el mamífer que té més força a les mandíbules?</desc>
-    <length units="seconds">1260</length>
-    <episode-num system="onscreen">14</episode-num>
+  <programme start="20260910020351 +0200" stop="20260910022329 +0200" channel="sx3">
+    <title lang="ca">Viatges Pokémon</title>
+    <sub-title lang="ca">Viatges Pokémon - Abandonat, aïrat i afligit!</sub-title>
+    <desc lang="ca">L'Ash i el Riolu s'entrenen molt per a la Sèrie Mundial de Coronació. Potser una mica massa, cosa que fa que el Pikachu acabi sentint-se arraconat i gelós. Quan la Delia ve de visita fa moltes demostracions d'afecte al Pikachu, que s'anima una mica. L'endemà la Delia se'n va i el Pikachu decideix seguir-la a Poble Paleta. El Mimey intenta fer-lo tornar amb l'Ash, però el Pikachu s'hi nega, de manera que els dos Pokémon comencen el seu viatge. Tot i que passen alguns moments de perill, finalment hi arriben... i de sobte apareixen l'Ash i el Goh! L'Ash demana perdó al Pikachu per haver-lo fet sentir arraconat i tot torna a la normalitat quan la Delia dona la benvinguda a tothom amb un bon àpat. </desc>
+    <length units="seconds">1178</length>
+    <episode-num system="onscreen">30</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
@@ -123,63 +123,12 @@
   <channel id="c33">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20260909225202 +0200" stop="20260910005400 +0200" channel="c33">
-    <title lang="ca">Pel·lícula</title>
-    <sub-title lang="ca">Pel·lícula - Licorice pizza</sub-title>
-    <desc lang="ca">LICORICE PIZZA Licorice PizzaDirecció: Paul Thomas AndersonGuió: Paul Thomas AndersonProducció: Ghoulardi Film Company, Bron Studios, Focus Features, Metro-Goldwyn-Mayer (MGM)Any: 2021Durada: 133País: Estats UnitsMúsica: Jonny GreenwoodFotografia: Paul Thomas Anderson, Michael BaumanIntèrprets: Alana Haim, Cooper Hoffman, Sean Penn, Bradley Cooper, Tom Waits, Ben Safdie, Joseph Cross, Skyler Gisondo, Mary Elizabeth Ellis, Ryan Heffington, Nate Mann, John Michael Higgins, Harriet Sansom Harris, Christine Ebersole, Emily Althaus, Danielle Haim, Este Haim, Maya Rudolph, Destry Allyn Spielberg, George DiCaprio, Iyana Halley, Ray Ray Chase, Emma Dumont, Jon BeaversLa Vall de San Fernando, 1973. L'Alana Kane, una noia de 25 anys atrapada en una feina que no li agrada, queda desconcertada quan en Gary Valentine, un actor adolescent ple d'energia i d'una maduresa sorprenent, es fixa en ella durant una sessió de fotos de l'institut i la convida a sopar. El que comença com una amistat improbable es converteix en una complicitat especial que els porta a embarcar-se en tota mena d'aventures i negocis temeraris mentre intenten trobar el seu lloc en un món canviant i caòtic. La pel·lícula explora la muntanya russa de les emocions que provoca un primer amor.</desc>
-    <credits>
-      <director>Paul Thomas Anderson</director>
-      <actor>Alana Haim</actor>
-      <actor>Cooper Hoffman</actor>
-      <actor>Sean Penn</actor>
-      <actor>Bradley Cooper</actor>
-      <actor>Tom Waits</actor>
-      <actor>Ben Safdie</actor>
-      <actor>Joseph Cross</actor>
-      <actor>Skyler Gisondo</actor>
-      <actor>Mary Elizabeth Ellis</actor>
-      <actor>Ryan Heffington</actor>
-      <actor>Nate Mann</actor>
-      <actor>John Michael Higgins</actor>
-      <actor>Harriet Sansom Harris</actor>
-      <actor>Christine Ebersole</actor>
-      <actor>Emily Althaus</actor>
-      <actor>Danielle Haim</actor>
-      <actor>Este Haim</actor>
-      <actor>Maya Rudolph</actor>
-      <actor>Destry Allyn Spielberg</actor>
-      <actor>George DiCaprio</actor>
-      <actor>Iyana Halley</actor>
-      <actor>Ray Ray Chase</actor>
-      <actor>Emma Dumont</actor>
-      <actor>Jon BeaversLa Vall de San Fernando</actor>
-      <actor>1973. L'Alana Kane</actor>
-      <actor>una noia de 25 anys atrapada en una feina que no li agrada</actor>
-      <actor>queda desconcertada quan en Gary Valentine</actor>
-      <actor>un actor adolescent ple d'energia</actor>
-      <actor>d'una maduresa sorprenent</actor>
-      <actor>es fixa en ella durant una sessió de fotos de l'institut</actor>
-      <actor>la convida a sopar. El que comença com una amistat improbable es converteix en una complicitat especial que els porta a embarcar-se en tota mena d'aventures</actor>
-      <actor>negocis temeraris mentre intenten trobar el seu lloc en un món canviant</actor>
-      <actor>caòtic. La pel·lícula explora la muntanya russa de les emocions que provoca un primer amor.</actor>
-    </credits>
-    <length units="seconds">7318</length>
-    <episode-num system="onscreen">1</episode-num>
-    <category lang="ca">FICCIÓ</category>
-    <category lang="ca">PEL·LÍCULA / TELEFILM</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <subtitles type="teletext"/>
-    <previously-shown/>
-    <icon src="https://img.3cat.cat/multimedia/jpg/8/8/1786098530588.jpg"/>
-  </programme>
-  <programme start="20260910005400 +0200" stop="20260910013944 +0200" channel="c33">
+  <programme start="20260910013946 +0200" stop="20260910023404 +0200" channel="c33">
     <title lang="ca">Cites Barcelona</title>
-    <sub-title lang="ca">Cites Barcelona - Alan-Maru / Esperanza-Pedro</sub-title>
-    <desc lang="ca">L'Alan i la Maru es coneixen a Tinder i, a la seva primera cita, una conversa sobre viure junts posa a prova les seves expectatives sobre l'amor. Mentrestant, l'Esperanza i el Pedro gaudeixen de la seva cita fins que al Pedro li roben el mòbil, portant-los a una emocionant recerca per recuperar-lo recorrent la ciutat.</desc>
-    <length units="seconds">2744</length>
-    <episode-num system="onscreen">9</episode-num>
+    <sub-title lang="ca">Cites Barcelona - Manu-Aroa / Astrid-Mario</sub-title>
+    <desc lang="ca">L'Astrid, il·lusionada per una predicció que anuncia l'arribada d'un gran amor, decideix donar-li una oportunitat al Mario, el seu match a Tinder. Mentrestant, el Manu queda atrapat a l'AVE a causa d'un tall elèctric i, quan truca l'Aroa per avisar-la del seu retard, el que havia de ser la seva primera cita es converteix en una conversa telefònica que els connecta d'una manera inesperada.</desc>
+    <length units="seconds">3258</length>
+    <episode-num system="onscreen">10</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DRAMÀTICA</category>
     <rating>
@@ -187,6 +136,44 @@
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
+  </programme>
+  <programme start="20260910023404 +0200" stop="20260910040249 +0200" channel="c33">
+    <title lang="ca">Pel·lícula</title>
+    <sub-title lang="ca">Pel·lícula - Assassinat a Vaubona</sub-title>
+    <desc lang="ca">ASSASSINAT A VAUBONA 'Mémoires à vif'Direcció: Julie GaliGuió: Fabien Adda, Delphine ChouraquiProducció: Alef One, BE-FILMSAny: 2023Durada: 90País: FrançaMúsica: Jean-Pierre TaiegFotografia: Philippe GuilbertIntèrprets: Anthony Colette, Valérie Decobert-Koretzky, Liv del Estal, Stéphane Freiss, Isalinde Giovangigli, Salim Kissari, Martin Lamotte, Rabah Loucif, Samy Naceri, Meena Rayann, Blanche Raynal, Liliane Rovère, Steve Tran Quan està a punt d'inaugurar-se una placa commemorativa per retre homenatge als harkis, els algerians que van combatre al bàndol francès a la guerra d'Algèria, apareix mort al seu domicili el tinent d'alcalde de Vaubona, Fabrice Da Costa. Els comandants de policia Leila Belhassen i Cédric Bonfanti s'encarreguen del cas, que remou les rancúnies i els odis d'un passat tràgic derivat d'un conflicte bèl·lic que va marcar tota una generació de francesos d'origen algerià.</desc>
+    <credits>
+      <director>Julie</director>
+      <writer>Fabien Adda</writer>
+      <writer>Delphine Chouraqui</writer>
+      <actor>Anthony Colette</actor>
+      <actor>Valérie Decobert-Koretzky</actor>
+      <actor>Liv del Estal</actor>
+      <actor>Stéphane Freiss</actor>
+      <actor>Isalinde Giovangigli</actor>
+      <actor>Salim Kissari</actor>
+      <actor>Martin Lamotte</actor>
+      <actor>Rabah Loucif</actor>
+      <actor>Samy Naceri</actor>
+      <actor>Meena Rayann</actor>
+      <actor>Blanche Raynal</actor>
+      <actor>Liliane Rovère</actor>
+      <actor>Steve Tran Quan està a punt d'inaugurar-se una placa commemorativa per retre homenatge als harkis</actor>
+      <actor>els algerians que van combatre al bàndol francès a la guerra d'Algèria</actor>
+      <actor>apareix mort al seu domicili el tinent d'alcalde de Vaubona</actor>
+      <actor>Fabrice Da Costa. Els comandants de policia Leila Belhassen</actor>
+      <actor>Cédric Bonfanti s'encarreguen del cas</actor>
+      <actor>que remou les rancúnies</actor>
+      <actor>els odis d'un passat tràgic derivat d'un conflicte bèl·lic que va marcar tota una generació de francesos d'origen algerià.</actor>
+    </credits>
+    <length units="seconds">5325</length>
+    <episode-num system="onscreen">1</episode-num>
+    <category lang="ca">FICCIÓ</category>
+    <category lang="ca">PEL·LÍCULA / TELEFILM</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <subtitles type="teletext"/>
+    <icon src="https://img.3cat.cat/multimedia/jpg/5/7/1788340417475.jpg"/>
   </programme>
   <channel id="oca1">
     <display-name>OCA1</display-name>
