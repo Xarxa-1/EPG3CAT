@@ -3,113 +3,110 @@
   <channel id="tvi">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20260909191131 +0200" stop="20260909201500 +0200" channel="tvi">
-    <title lang="ca">Atrapa'm si pots, estiu</title>
-    <sub-title lang="ca">Atrapa'm si pots, estiu</sub-title>
-    <desc lang="ca">'Atrapa'm si pots' és un 'quiz show' clàssic, de preguntes i respostes, presentat per Llucià Ferrer, en què sis concursants competeixen per arribar a la fase final i guanyar el pot. 'Atrapa'm si pots' és entreteniment pur i on gairebé és més important passar-s'ho bé que els diners. És un concurs en què pesa més la intuïció que no els coneixements acadèmics, més l'estratègia en el joc que no la sort.</desc>
-    <length units="seconds">3809</length>
-    <episode-num system="onscreen">989</episode-num>
-    <category lang="ca">ENTRETENIMENT</category>
-    <category lang="ca">CONCURS</category>
+  <programme start="20260909210000 +0200" stop="20260909220451 +0200" channel="tvi">
+    <title lang="ca">Telenotícies vespre</title>
+    <sub-title lang="ca">Telenotícies vespre</sub-title>
+    <length units="seconds">3891</length>
+    <episode-num system="onscreen">7322</episode-num>
+    <category lang="ca">ACTUALITAT</category>
+    <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
+    <icon src="https://img.ccma.cat/multimedia/jpg/7/2/1758026176427.jpg"/>
   </programme>
-  <programme start="20260909201500 +0200" stop="20260909210000 +0200" channel="tvi">
-    <title lang="ca">Està passant</title>
-    <sub-title lang="ca">Està passant</sub-title>
-    <desc lang="ca">La Natza i la Núria parlen de la comprensió lectora entre els joves i de la dimissió de Trapero. L'Elisenda ha anat a cobrir la vaga de mestres i l'Oye Sherman repassa vídeos que han passat desapercebuts aquesta setmana</desc>
-    <length units="seconds">2700</length>
-    <episode-num system="onscreen">1807</episode-num>
-    <category lang="ca">ENTRETENIMENT</category>
-    <category lang="ca">GAGS. HUMOR</category>
+  <programme start="20260909220041 +0200" stop="20260909223546 +0200" channel="tvi">
+    <title lang="ca">L'un per l'altre</title>
+    <sub-title lang="ca">L'un per l'altre - Sense pèls a la llengua</sub-title>
+    <desc lang="ca">El Toni i la Maria estan enganxats a un programa de televisió que es diu 'Sense pèls a la llengua' on les parelles on s'ha de demostrar que es coneixen molt bé. La Rosa i el Poppins decideixen apuntar la Maria i el Toni sense que ells ho sàpiguen. El Toni i la Maria decideixen fer trampes i pacten les respostes. La primera vegada els surt bé i passen a la següent fase, però quan tornen a provar-ho l'estratègia els surt fatal i queden en evidència davant tota l'audiència del programa.</desc>
+    <length units="seconds">2105</length>
+    <episode-num system="onscreen">15</episode-num>
+    <category lang="ca">FICCIÓ</category>
+    <category lang="ca">SITCOM (COMÈDIA DE SITUACIÓ)</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <icon src="https://img.ccma.cat/multimedia/png/3/8/1705511272683.png"/>
+    <subtitles type="teletext"/>
+    <previously-shown/>
   </programme>
   <channel id="324">
     <display-name>324</display-name>
   </channel>
-  <programme start="20260909183000 +0200" stop="20260909200000 +0200" channel="324">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">5400</length>
-    <episode-num system="onscreen">11127</episode-num>
+  <programme start="20260909210000 +0200" stop="20260909220500 +0200" channel="324">
+    <title lang="ca">Telenotícies vespre</title>
+    <length units="seconds">3900</length>
+    <episode-num system="onscreen">7322</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <subtitles type="teletext"/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/7/2/1758026176427.jpg"/>
   </programme>
-  <programme start="20260909200000 +0200" stop="20260909210000 +0200" channel="324">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">3600</length>
-    <episode-num system="onscreen">11128</episode-num>
+  <programme start="20260909220500 +0200" stop="20260910000000 +0200" channel="324">
+    <title lang="ca">Mésnit</title>
+    <desc lang="ca">El 'Mésnit' arriba a la desena temporada, amb Marina Romero al capdavant de l'espai i amb la voluntat de continuar sent un centre de debat d'idees i d'anàlisi de l'activitat política.</desc>
+    <length units="seconds">6900</length>
+    <episode-num system="onscreen">2156</episode-num>
     <category lang="ca">ACTUALITAT</category>
-    <category lang="ca">INFORMATIU DIÀRI</category>
+    <category lang="ca">DEBAT</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
   <channel id="esport3">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20260909184200 +0200" stop="20260909204000 +0200" channel="esport3">
-    <title lang="ca">Un dia de partit</title>
-    <sub-title lang="ca">Un dia de partit - Barça-Feyenoord</sub-title>
-    <desc lang="ca">A 'Un dia de partit' arreglem el Barça. O no. A cada partit, sis culers hi diuen la seva. Famosos i anònims. Cadascun a casa seva. Davant del televisor. Tot a base de videotrucades, en format Twitch i en rigorós directe. Ah! I a la mitja part no aturem màquines. Amb els jugadors als vestidors, nosaltres seguim fent bullir l'olla! Només sis culers? Negatiu. Durant el partit van apareixent els Jimmy Jump: els espontanis que demanen saltar a 'Un dia de partit' via WhatsApp.</desc>
-    <length units="seconds">7080</length>
-    <episode-num system="onscreen">248</episode-num>
+  <programme start="20260909213939 +0200" stop="20260909223134 +0200" channel="esport3">
+    <title lang="ca">Handbol</title>
+    <sub-title lang="ca">Handbol - Barça-Aarhus / EHF Champions / J1</sub-title>
+    <desc lang="ca">Després de guanyar 4 de les 6 últimes edicions, els blaugranes s'estrenen contra l'equip danès en una nova fase de grups de la Champions. Des del Palau Blaugrana, amb la narració de Joan Ramon Vallvé, Mireia Vicente i Víctor Tomàs.</desc>
+    <length units="seconds">3115</length>
+    <episode-num system="onscreen">422</episode-num>
     <category lang="ca">ESPORTS</category>
     <category lang="ca">RETRANSMISSIONS ESPORTS</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <icon src="https://img.ccma.cat/multimedia/jpg/2/7/1678885232972.jpg"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1729614070941.jpg"/>
   </programme>
-  <programme start="20260909204000 +0200" stop="20260909213056 +0200" channel="esport3">
-    <title lang="ca">Zona Champions</title>
-    <sub-title lang="ca">Zona Champions - Post Barça-Feyenoord / J1</sub-title>
-    <desc lang="ca">El bo i millor de la màxima competició de futbol continental de la mà del Departament d'Esports de Televisió de Catalunya. Viu tots els partits de la Lliga de Campions a 3Cat!</desc>
-    <length units="seconds">3056</length>
-    <episode-num system="onscreen">850</episode-num>
+  <programme start="20260909223134 +0200" stop="20260909230000 +0200" channel="esport3">
+    <title lang="ca">Bàsquet</title>
+    <sub-title lang="ca">Bàsquet - MoraBanc Andorra-Kids&amp;Us Manresa / Lliga Catalana / J1</sub-title>
+    <desc lang="ca">Primera jornada al grup 1 de la Lliga Catalana de Bàsquet. El Barça és el tercer equip d'aquest grup. Amb Víctor Lavagnini, Nil Llobet i Nacho Solozabal.</desc>
+    <length units="seconds">1706</length>
+    <episode-num system="onscreen">136</episode-num>
     <category lang="ca">ESPORTS</category>
-    <category lang="ca">MAGAZINE</category>
+    <category lang="ca">RETRANSMISSIONS ESPORTS</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <subtitles type="teletext"/>
-    <icon src="https://img.3cat.cat/multimedia/jpg/3/4/1769511614843.jpg"/>
+    <icon src="https://img.3cat.cat/multimedia/jpg/7/7/1788941967477.jpg"/>
   </programme>
   <channel id="sx3">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20260909190459 +0200" stop="20260909192636 +0200" channel="sx3">
-    <title lang="ca">Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
-    <sub-title lang="ca">Prodigiosa: Les aventures de Ladybug i Gat Noir - Sublimació</sub-title>
-    <desc lang="ca">La Marinette està fascinada per la Sublime, una noia que s'ha fet amiga de l'Adrien. Bé per gelosia, bé per curiositat, la Marinette també vol fer-se amiga de la Sublime tant sí com no. Però hi ha un problema: la Marinette no sap com fer-se amiga d'una persona que no necessita ajuda. I els seus intents maldestres poden tenir conseqüències greus.</desc>
-    <length units="seconds">1297</length>
-    <episode-num system="onscreen">134</episode-num>
+  <programme start="20260909214112 +0200" stop="20260909220151 +0200" channel="sx3">
+    <title lang="ca">Bola de drac Z</title>
+    <sub-title lang="ca">Bola de drac Z - El superpoderós Vegeta</sub-title>
+    <desc lang="ca">Just quan en Cèl·lula està a punt d'absorbir l'A-18, apareix en Vegeta i demostra que en un any d'entrenament s'ha convertit en un superguerrer superpoderós. Pot ser que sigui aquest, el poder del qual parlava en Son Goku? La demostració de força del nou Vegeta deixa en Cèl·lula impressionat i comença el combat.</desc>
+    <length units="seconds">1239</length>
+    <episode-num system="onscreen">155</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
-      <value>INFANTIL</value>
+      <value>JUVENIL</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20260909192636 +0200" stop="20260909194847 +0200" channel="sx3">
-    <title lang="ca">Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
-    <sub-title lang="ca">Prodigiosa: Les aventures de Ladybug i Gat Noir - Papapoli</sub-title>
-    <desc lang="ca">Per celebrar el petó número 100 amb l'Adrien, la Marinette ha preparat la vetllada romàntica definitiva. Però no recorda que ja havia quedat, a la mateixa hora i al mateix lloc, per fer una nit de pel·li amb les seves amigues. Aconseguirà combinar la seva vida amorosa i les seves amistats, i alhora enfrontar-se a un supermalvat com a Ladybug?</desc>
-    <length units="seconds">1331</length>
-    <episode-num system="onscreen">135</episode-num>
+  <programme start="20260909220151 +0200" stop="20260909222304 +0200" channel="sx3">
+    <title lang="ca">El detectiu Conan</title>
+    <sub-title lang="ca">El detectiu Conan - Els detectius júnior es resguarden de la pluja</sub-title>
+    <desc lang="ca">Mentre estan d'acampada, un fort ruixat sorprèn en Conan i la seva colla i truquen a la porta d'una mansió aïllada per aixoplugar-se de la pluja i perquè en Genta pugui anar al lavabo. Els obren dos homes misteriosos que al final resulta que són uns lladres que havien entrat a robar. Quan els nens estan a punt de marxar, una dona crida demanant ajuda des del pis de dalt.</desc>
+    <length units="seconds">1273</length>
+    <episode-num system="onscreen">879</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
@@ -121,47 +118,59 @@
   <channel id="c33">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20260909182142 +0200" stop="20260909191503 +0200" channel="c33">
-    <title lang="ca">Llocs recòndits</title>
-    <sub-title lang="ca">Llocs recòndits - Turquia</sub-title>
-    <desc lang="ca">'Llocs recòndits - Turquia' permet que l'audiència se submergeixi en la història i la cultura resistent de Turquia, i que s'embarqui en una pila de viatges que canvien la vida. Entre els llocs visitats hi ha Istanbul, la Capadòcia, Antioquia, Antalya i Laodicea.</desc>
-    <length units="seconds">3201</length>
-    <episode-num system="onscreen">6</episode-num>
-    <category lang="ca">DIVULGACIÓ</category>
-    <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
+  <programme start="20260909213550 +0200" stop="20260909215939 +0200" channel="c33">
+    <title lang="ca">Plats bruts</title>
+    <sub-title lang="ca">Plats bruts - Tinc pànic</sub-title>
+    <desc lang="ca">'Ràdio Bofarull' està a punt de tancar per falta d'audiència.... Al Ramon se li acut una idea per salvar-la; escriu un guió radiofònic sobre una fuita nuclear a Ascó... Paral·lelament, l'Emma es presenta a les proves per a Mossa d'Esquadra.</desc>
+    <length units="seconds">1429</length>
+    <episode-num system="onscreen">39</episode-num>
+    <category lang="ca">FICCIÓ</category>
+    <category lang="ca">SITCOM (COMÈDIA DE SITUACIÓ)</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20260909191503 +0200" stop="20260909201335 +0200" channel="c33">
-    <title lang="ca">Un planeta perfecte</title>
-    <sub-title lang="ca">Un planeta perfecte - Volcà</sub-title>
-    <desc lang="ca">Sense volcans no hi hauria vida: no hi hauria una atmosfera respirable, ni oceans ni terra ferma. A la superfície de la Terra hi ha més de 1.500 volcans actius. En aquest episodi visitarem els sorprenents habitats que els volcans han creat pertot arreu: un llac d'aigües càustiques on crien els flamencs, un volcà adormit on enterren els ous les iguanes, o les grans planes del Serengeti, on els rics sediments volcànics permeten una explosió de vida.</desc>
-    <length units="seconds">3512</length>
-    <episode-num system="onscreen">1</episode-num>
+  <programme start="20260909215939 +0200" stop="20260909225200 +0200" channel="c33">
+    <title lang="ca">La Renaixença</title>
+    <sub-title lang="ca">La Renaixença - El microones</sub-title>
+    <desc lang="ca">Els inicis del microones van ser culpa d'un tros de xocolata dins d'una butxaca. Imagineu-vos tot el bé que ha fet la xocolata per les vides dels que no ens agrada cuinar. Dediquem el capítol al microones. Ens visita la Clara Viñals, cantant i membre del grup 'Renaldo &amp; Clara'. Està cansada de respondre a la mateixa pregunta, però nosaltres no som més originals que la resta i també li farem.A 'Històries per passejar el gos' portem a en Django a la construcció del pont de Brooklyn, el 1870.</desc>
+    <length units="seconds">3141</length>
+    <episode-num system="onscreen">228</episode-num>
     <category lang="ca">DIVULGACIÓ</category>
-    <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
+    <category lang="ca">ALTRES</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
-    <previously-shown/>
-    <icon src="https://img.3cat.cat/multimedia/jpg/0/9/1766143230590.jpg"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/3/3/1756148014833.jpg"/>
   </programme>
   <channel id="oca1">
     <display-name>OCA1</display-name>
   </channel>
+  <programme start="20260909203003 +0200" stop="20260909222958 +0200" channel="oca1">
+    <title lang="ca">Handbol: EHF Champions</title>
+    <sub-title lang="ca">- Barça-Aarhus / EHF Champions / J1</sub-title>
+    <desc lang="ca">Després de guanyar 4 de les 6 últimes edicions, els blaugranes s'estrenen contra l'equip danès en una nova fase de grups de la Champions. Des del Palau Blaugrana, amb la narració de Joan Ramon Vallvé, Mireia Vicente i Víctor Tomàs.</desc>
+    <length units="seconds">7195</length>
+    <episode-num system="onscreen">422</episode-num>
+    <category lang="ca">ESPORTS</category>
+    <category lang="ca">RETRANSMISSIONS ESPORTS</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1729614070941.jpg"/>
+  </programme>
   <channel id="oca2">
     <display-name>OCA2</display-name>
   </channel>
-  <programme start="20260909182001 +0200" stop="20260909202956 +0200" channel="oca2">
+  <programme start="20260909205001 +0200" stop="20260909225956 +0200" channel="oca2">
     <title lang="ca">Bàsquet : Federació Catalana</title>
-    <sub-title lang="ca">- iLERNA Lleida-Asisa Joventut / Lliga Catalana / J1</sub-title>
-    <desc lang="ca">Partit inaugural de la Lliga Catalana de bàsquet. Lleidatans i badalonins formen part del grup 2 conjuntament amb el Girona. Amb Víctor Lavagnini, Nil Llobet i Nacho Solozabal. </desc>
+    <sub-title lang="ca">- MoraBanc Andorra-Kids&amp;Us Manresa / Lliga Catalana / J1</sub-title>
+    <desc lang="ca">Primera jornada al grup 1 de la Lliga Catalana de Bàsquet. El Barça és el tercer equip d'aquest grup. Amb Víctor Lavagnini, Nil Llobet i Nacho Solozabal.</desc>
     <length units="seconds">7795</length>
-    <episode-num system="onscreen">135</episode-num>
+    <episode-num system="onscreen">136</episode-num>
     <category lang="ca">ESPORTS</category>
     <category lang="ca">RETRANSMISSIONS ESPORTS</category>
     <rating>
