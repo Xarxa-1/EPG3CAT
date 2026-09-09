@@ -3,51 +3,9 @@
   <channel id="tvi">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20260909014425 +0200" stop="20260909032355 +0200" channel="tvi">
-    <title lang="ca">Mésnit</title>
-    <sub-title lang="ca">Mésnit</sub-title>
-    <desc lang="ca">El 'Mésnit' arriba a la desena temporada, amb Marina Romero al capdavant de l'espai i amb la voluntat de continuar sent un centre de debat d'idees i d'anàlisi de l'activitat política.</desc>
-    <length units="seconds">5970</length>
-    <episode-num system="onscreen">2155</episode-num>
-    <category lang="ca">ACTUALITAT</category>
-    <category lang="ca">DEBAT</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <previously-shown/>
-  </programme>
-  <programme start="20260909032355 +0200" stop="20260909043000 +0200" channel="tvi">
+  <programme start="20260909060000 +0200" stop="20260909080000 +0200" channel="tvi">
     <title lang="ca">Notícies 3CatInfo</title>
     <sub-title lang="ca">Notícies 3CatInfo</sub-title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">3965</length>
-    <episode-num system="onscreen">11121</episode-num>
-    <category lang="ca">ACTUALITAT</category>
-    <category lang="ca">INFORMATIU DIÀRI</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <previously-shown/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
-  </programme>
-  <channel id="324">
-    <display-name>324</display-name>
-  </channel>
-  <programme start="20260909010000 +0200" stop="20260909060000 +0200" channel="324">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">18000</length>
-    <episode-num system="onscreen">11121</episode-num>
-    <category lang="ca">ACTUALITAT</category>
-    <category lang="ca">INFORMATIU DIÀRI</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <previously-shown/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
-  </programme>
-  <programme start="20260909060000 +0200" stop="20260909080000 +0200" channel="324">
-    <title lang="ca">Notícies 3CatInfo</title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <length units="seconds">7200</length>
     <episode-num system="onscreen">11122</episode-num>
@@ -58,29 +16,69 @@
     </rating>
     <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
-  <channel id="esport3">
-    <display-name>ESPORT3</display-name>
+  <programme start="20260909080000 +0200" stop="20260909103000 +0200" channel="tvi">
+    <title lang="ca">Matins</title>
+    <sub-title lang="ca">Matins</sub-title>
+    <desc lang="ca">'Matins' és un dels puntals informatius de TV3. El programa matinal dona les claus del dia que comença, explica les notícies que han passat aportant-ne el context per entendre-les i analitza amb veus acreditades l'actualitat més propera i la d'arreu del món. 'Matins' comença a les 8 del matí, de dilluns a divendres, i està presentat per Ariadna Oltra.</desc>
+    <length units="seconds">9000</length>
+    <episode-num system="onscreen">4668</episode-num>
+    <category lang="ca">ACTUALITAT</category>
+    <category lang="ca">INFORMATIU DIÀRI</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <icon src="https://img.ccma.cat/multimedia/jpg/2/0/1758040151402.jpg"/>
+  </programme>
+  <channel id="324">
+    <display-name>324</display-name>
   </channel>
-  <programme start="20260909005547 +0200" stop="20260909022618 +0200" channel="esport3">
-    <title lang="ca">Onze</title>
-    <sub-title lang="ca">Onze</sub-title>
-    <desc lang="ca">Sique Rodriguez, Laia Tudel, Ivan San Antonio i Joan Poquí comenten les paraules de Lamine Yamal en la prèvia del partit contra el Feyenoord. El Fran Domènech presenta els titulars més curiosos de la premsa esportiva.</desc>
-    <length units="seconds">5431</length>
-    <episode-num system="onscreen">1246</episode-num>
-    <category lang="ca">ESPORTS</category>
-    <category lang="ca">MAGAZINE</category>
+  <programme start="20260909060000 +0200" stop="20260909080000 +0200" channel="324">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="seconds">7200</length>
+    <episode-num system="onscreen">11122</episode-num>
+    <category lang="ca">ACTUALITAT</category>
+    <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
-    <previously-shown/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/1/1/1688543515711.jpg"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
-  <programme start="20260909022618 +0200" stop="20260909025034 +0200" channel="esport3">
+  <programme start="20260909080000 +0200" stop="20260909103000 +0200" channel="324">
+    <title lang="ca">Matins</title>
+    <desc lang="ca">'Matins' és un dels puntals informatius de TV3. El programa matinal dona les claus del dia que comença, explica les notícies que han passat aportant-ne el context per entendre-les i analitza amb veus acreditades l'actualitat més propera i la d'arreu del món. 'Matins' comença a les 8 del matí, de dilluns a divendres, i està presentat per Ariadna Oltra.</desc>
+    <length units="seconds">9000</length>
+    <episode-num system="onscreen">4668</episode-num>
+    <category lang="ca">ACTUALITAT</category>
+    <category lang="ca">INFORMATIU DIÀRI</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <icon src="https://img.ccma.cat/multimedia/jpg/2/0/1758040151402.jpg"/>
+  </programme>
+  <channel id="esport3">
+    <display-name>ESPORT3</display-name>
+  </channel>
+  <programme start="20260909060711 +0200" stop="20260909063347 +0200" channel="esport3">
+    <title lang="ca">Top gols La Lliga</title>
+    <sub-title lang="ca">Top gols La Lliga - Jornada 4</sub-title>
+    <desc lang="ca">'Top gols La Lliga' repassa cada setmana tots els gols de la jornada de la Primera Divisió. Amb la locució de Catalunya Ràdio i d'altres emissores catalanes, viu i emocionat amb els gols dels equips del nostre país i també amb els de la resta d'equips de la màxima categoria estatal de futbol.</desc>
+    <length units="seconds">1596</length>
+    <episode-num system="onscreen">390</episode-num>
+    <category lang="ca">ESPORTS</category>
+    <category lang="ca">ESPECIALS</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <previously-shown/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/0/5/1697737572850.jpg"/>
+  </programme>
+  <programme start="20260909063347 +0200" stop="20260909065828 +0200" channel="esport3">
     <title lang="ca">3CatInfo Esports</title>
     <sub-title lang="ca">3CatInfo Esports</sub-title>
     <desc lang="ca">Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.</desc>
-    <length units="seconds">1456</length>
+    <length units="seconds">1481</length>
     <episode-num system="onscreen">5503</episode-num>
     <category lang="ca">ESPORTS</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
@@ -93,96 +91,64 @@
   <channel id="sx3">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20260909015807 +0200" stop="20260909022001 +0200" channel="sx3">
-    <title lang="ca">Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
-    <sub-title lang="ca">Prodigiosa: Les aventures de Ladybug i Gat Noir - La Redreçadora</sub-title>
-    <desc lang="ca">Mentre intenta amagar el refredat que té a l'Adrien, la Marinette intenta ajudar el Nathaniel a tenir més seguretat en ell mateix per poder dibuixar el còmic que el Marc ha escrit per ell. Però les aspiracions artístiques del Nathaniel no són del gust de tothom i aviat apareixerà una supermalvada decidida a redreçar Ladybug i el seu equip i fer-los anar pel bon camí.</desc>
-    <length units="seconds">1314</length>
-    <episode-num system="onscreen">146</episode-num>
+  <programme start="20260909062304 +0200" stop="20260909063439 +0200" channel="sx3">
+    <title lang="ca">L'abella Maia</title>
+    <sub-title lang="ca">L'abella Maia - Quatre superestrelles</sub-title>
+    <desc lang="ca">La Maia s'assabenta que, fa temps, en Flip tenia un grup de música amb els seus cosins i anava tocant pels prats; però al cap d'un temps, el grup es va desfer. Ara, la Maia vol tornar a ajuntar el grup perquè facin un concert al prat. Però el dia del concert, descobreix els motius que van desfer el grup: en Flip i un cosí seu es barallen per ser el cantant del grup. La Maia haurà de buscar la manera de solucionar el problema.</desc>
+    <length units="seconds">695</length>
+    <episode-num system="onscreen">103</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
       <value>INFANTIL</value>
     </rating>
     <subtitles type="teletext"/>
+    <previously-shown/>
   </programme>
-  <programme start="20260909022001 +0200" stop="20260909024138 +0200" channel="sx3">
-    <title lang="ca">Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
-    <sub-title lang="ca">Prodigiosa: Les aventures de Ladybug i Gat Noir - Noé</sub-title>
-    <desc lang="ca">La Marinette està contenta: des de fa un temps, sembla que tot va bé a París. Potser ja és hora de relaxar-se i aprofitar els bons moments amb l'Adrien i els amics. Però la Mylène li explica que volen fer una pel·lícula amb un guió que desacredita Ladybug i el Gat Noir. I aquesta pel·lícula ho podria fer canviar tot si els parisencs es creguessin que aquesta història farcida de mentides és un reflex de la veritat.</desc>
-    <length units="seconds">1297</length>
-    <episode-num system="onscreen">147</episode-num>
+  <programme start="20260909063439 +0200" stop="20260909064601 +0200" channel="sx3">
+    <title lang="ca">L'abella Maia</title>
+    <sub-title lang="ca">L'abella Maia - La gran pilota</sub-title>
+    <desc lang="ca">Mentre preparen un treball per l'escola, la Maia descobreix que no hi ha hagut mai cap escarabat piloter famós. Quan en Kurt se n'assabenta, es proposa fer-se famós fent la pilota de fems més grossa de la història. Però aquesta pilota ben aviat supera en Kurt i tots els animals del prat, que no aguanten la pudor tan insuportable que fa. La Maia mirarà convèncer en Kurt perquè es desfaci de la pilota.</desc>
+    <length units="seconds">682</length>
+    <episode-num system="onscreen">104</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
       <value>INFANTIL</value>
     </rating>
     <subtitles type="teletext"/>
+    <previously-shown/>
   </programme>
   <channel id="c33">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20260909012751 +0200" stop="20260909021013 +0200" channel="c33">
-    <title lang="ca">Cites Barcelona</title>
-    <sub-title lang="ca">Cites Barcelona - Susy-Yoly / Ingrid-Yuyu</sub-title>
-    <desc lang="ca">L'Íngrid, jugadora del Barça, accepta la invitació de la Yuyu, amb qui va fer match a Tinder, per participar al seu podcast. A mesura que avança l'entrevista, surten a la llum tensions inesperades. La Susy, sospitant que el seu marit l'enganya, segueix les pistes que la porten fins a la Yoly, una dona excèntrica i desconcertant. L'enfrontament posarà a prova la paciència i les emocions de totes dues dones.</desc>
-    <length units="seconds">2542</length>
-    <episode-num system="onscreen">8</episode-num>
-    <category lang="ca">FICCIÓ</category>
-    <category lang="ca">SÈRIE DRAMÀTICA</category>
+  <programme start="20260909060646 +0200" stop="20260909063508 +0200" channel="c33">
+    <title lang="ca">Quèquicom</title>
+    <sub-title lang="ca">Quèquicom - El gust de l'aigua</sub-title>
+    <desc lang="ca">Tots hem estudiat a l'escola que l'aigua és incolora, inodora i insípida. Però en realitat tots tenim també l'experiència que hi ha aigües més bones que d'altres. Què determina el gust de l'aigua? Per esbrinar-ho farem un senzill estudi científic. Agafarem aigua de diferents procedències i les tastarem per valorar-ne les propietats organolèptiques. Aleshores les compararem amb les corresponents anàlisis químiques. Identificats els components químics que li donen més bon gust, fabricarem l'aigua perfecta.</desc>
+    <length units="seconds">1702</length>
+    <episode-num system="onscreen">336</episode-num>
+    <category lang="ca">DIVULGACIÓ</category>
+    <category lang="ca">MAGAZINE ESPECIALITZAT</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20260909021013 +0200" stop="20260909034521 +0200" channel="c33">
-    <title lang="ca">Pel·lícula</title>
-    <sub-title lang="ca">Pel·lícula - Assassinats al Cantal</sub-title>
-    <desc lang="ca">ASSASSINATS AL CANTAL 'Meurtres dans le Cantal'Direcció: Sandrine CohenGuió: Marie-Luce David, Pierre-Yves LebertProducció: Sombrero Productions, France TV, BE-FILMS, RTBF, Auvergne Rhône-Alpes Cinéma, Calle 13 Universal, ETB, France 3 (FR 3)Any: 2023Durada: 95País: FrançaMúsica: Christophe BoutinIntèrprets: Alexandre Varga, Joséphine Jobert, Jean Fornerod, Nicky Marbot, Husky Kihal, Hubert Roulleau, Félix Kysyl, Zoï Sévérin, Pierre Deny, Manoëlle Gaillard, Ambroise Sabbagh, Florence Coste, Benjamin Bourgois, Léa Swan, Noam Kourdourli, Claire Pérot, Odran Guillemard, Florie Auclerc, Kevin Bourigault.L'amo d'un restaurant conegut a la regió, Yann Privat, apareix mort per enverinament. El capità Dussaut i la capitana Waro investiguen el cas i sospiten que pot estar relacionat amb la mort d'una restauradora, que va resultar enverinada, mesos enrere, suposadament per accident. Dussaut i Waro hauran de resoldre, paral·lelament, qüestions personals pendents.</desc>
-    <credits>
-      <director>Sandrine Cohen</director>
-      <writer>Marie-Luce David</writer>
-      <actor>Alexandre Varga</actor>
-      <actor>Joséphine Jobert</actor>
-      <actor>Jean Fornerod</actor>
-      <actor>Nicky Marbot</actor>
-      <actor>Husky Kihal</actor>
-      <actor>Hubert Roulleau</actor>
-      <actor>Félix Kysyl</actor>
-      <actor>Zoï Sévérin</actor>
-      <actor>Pierre Deny</actor>
-      <actor>Manoëlle Gaillard</actor>
-      <actor>Ambroise Sabbagh</actor>
-      <actor>Florence Coste</actor>
-      <actor>Benjamin Bourgois</actor>
-      <actor>Léa Swan</actor>
-      <actor>Noam Kourdourli</actor>
-      <actor>Claire Pérot</actor>
-      <actor>Odran Guillemard</actor>
-      <actor>Florie Auclerc</actor>
-      <actor>Kevin Bourigault.L'amo d'un restaurant conegut a la regió</actor>
-      <actor>Yann Privat</actor>
-      <actor>apareix mort per enverinament. El capità Dussaut</actor>
-      <actor>la capitana Waro investiguen el cas</actor>
-      <actor>sospiten que pot estar relacionat amb la mort d'una restauradora</actor>
-      <actor>que va resultar enverinada</actor>
-      <actor>mesos enrere</actor>
-      <actor>suposadament per accident. Dussaut</actor>
-      <actor>Waro hauran de resoldre</actor>
-      <actor>paral·lelament</actor>
-      <actor>qüestions personals pendents.</actor>
-    </credits>
-    <length units="seconds">5708</length>
-    <episode-num system="onscreen">1</episode-num>
-    <category lang="ca">FICCIÓ</category>
-    <category lang="ca">PEL·LÍCULA / TELEFILM</category>
+  <programme start="20260909063508 +0200" stop="20260909070534 +0200" channel="c33">
+    <title lang="ca">Quèquicom</title>
+    <sub-title lang="ca">Quèquicom - QQC i ...ferro i acer</sub-title>
+    <desc lang="ca">Anem a una siderúrgia a fer acer. El ferro (Fe) mineral no és pur, el dels meteorits sí. Mart és ple de Fe, com Riotinto. La metal·lúrgia va fer un gran pas amb la farga catalana. Forgem un ganivet. S'oxidarà? Per cert, el Fe es crema?En aquest recull, Quèquicom segueix el procés des d'una mina on el ferro (que es representa amb el símbol Fe) fins a una planta de fabricació de bigues d'acer. El ferro és el quart element més abundant de la superfície del planeta i un dels més importants de tot l'univers. A més, és molt manejable i fort, de manera que ha esdevingut el metall més utilitzat de tota la història de la humanitat.Probablement, el primer contacte dels humans amb el ferro van ser els meteorits i, posteriorment, vam aprendre a extreure'l de les roques que en contenen. Ara fa uns 3.000 anys es va iniciar la metal·lúrgia del ferro. Els nostres avantpassats posaven mineral de ferro al foc, aconseguien estovar-lo i a cop de martell el treballaven. Gràcies a insuflar aire s'aconsegueix més calor. De fet, un dels grans invents catalans del segle XI va ser la farga, enginy que aconseguia mecanitzar la injecció d'aire al forn, però, sobretot, enriquia el ferro de carboni, procés indispensable per fer-lo més dur i rígid. El ferro pur, un cop fred, és molt dúctil i de baixa resistència. És com un pa de pessic. Ara bé, si quan tenim el ferro calent hi introduïm àtoms de carboni, quan tota la mescla es refreda es forma una estructura microscòpica de capes, una espècie de milfulles. Alternativament, apareix una capa de ferro gairebé pur anomenat ferrita, tou com el pa de pessic i al damunt una làmina de cementita, formada per ferro i carboni, més dura i fràgil, com una coca de vidre. La superposició i unió íntima de les capes acaba esdevenint una estructura molt més rígida i forta. El ferro que conté carboni fins a un màxim de poc més d'un 2% s'anomena acer. A partir d'aquí, com més carboni, més rígid i fort, però, alhora, més trencadís.</desc>
+    <length units="seconds">1826</length>
+    <episode-num system="onscreen">337</episode-num>
+    <category lang="ca">DIVULGACIÓ</category>
+    <category lang="ca">MAGAZINE ESPECIALITZAT</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
-    <icon src="https://img.3cat.cat/multimedia/jpg/4/3/1752476734934.jpg"/>
   </programme>
   <channel id="oca1">
     <display-name>OCA1</display-name>
