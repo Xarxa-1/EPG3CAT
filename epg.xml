@@ -3,54 +3,52 @@
   <channel id="tvi">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20260909153429 +0200" stop="20260909155153 +0200" channel="tvi">
-    <title lang="ca">Cuines</title>
-    <sub-title lang="ca">Cuines - Galetes de xocolata i cafè</sub-title>
-    <desc lang="ca">La Gessamí Caramés fa unes galetes que són ideals per acompanyar el cafè, ja sigui per a després de dinar, per esmorzar o per berenar.  </desc>
-    <length units="seconds">1044</length>
-    <episode-num system="onscreen">2464</episode-num>
-    <category lang="ca">DIVULGACIÓ</category>
-    <category lang="ca">CUINA</category>
+  <programme start="20260909191131 +0200" stop="20260909201500 +0200" channel="tvi">
+    <title lang="ca">Atrapa'm si pots, estiu</title>
+    <sub-title lang="ca">Atrapa'm si pots, estiu</sub-title>
+    <desc lang="ca">'Atrapa'm si pots' és un 'quiz show' clàssic, de preguntes i respostes, presentat per Llucià Ferrer, en què sis concursants competeixen per arribar a la fase final i guanyar el pot. 'Atrapa'm si pots' és entreteniment pur i on gairebé és més important passar-s'ho bé que els diners. És un concurs en què pesa més la intuïció que no els coneixements acadèmics, més l'estratègia en el joc que no la sort.</desc>
+    <length units="seconds">3809</length>
+    <episode-num system="onscreen">989</episode-num>
+    <category lang="ca">ENTRETENIMENT</category>
+    <category lang="ca">CONCURS</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <icon src="https://img.ccma.cat/multimedia/jpg/2/5/1653464509252.jpg"/>
   </programme>
-  <programme start="20260909155153 +0200" stop="20260909155937 +0200" channel="tvi">
-    <title lang="ca">Cuines</title>
-    <sub-title lang="ca">Cuines - Boletes de calzone</sub-title>
-    <desc lang="ca">La xef Rais Esteve ens anuncia que ha arribat al 'Cuines' per portar-nos moltes receptes originals, saboroses, atractives i que podreu fer en un pim-pam. Ens porta un dels grans clàssics de la cuina italiana, una pizza, però hi farà una sacsejada per convertir-la en unes boletes de calzone farcides. Ella hi posarà pernil i formatge, però vosaltres... feu volar la imaginació!</desc>
-    <length units="seconds">464</length>
-    <episode-num system="onscreen">2451</episode-num>
-    <category lang="ca">DIVULGACIÓ</category>
-    <category lang="ca">CUINA</category>
+  <programme start="20260909201500 +0200" stop="20260909210000 +0200" channel="tvi">
+    <title lang="ca">Està passant</title>
+    <sub-title lang="ca">Està passant</sub-title>
+    <desc lang="ca">La Natza i la Núria parlen de la comprensió lectora entre els joves i de la dimissió de Trapero. L'Elisenda ha anat a cobrir la vaga de mestres i l'Oye Sherman repassa vídeos que han passat desapercebuts aquesta setmana</desc>
+    <length units="seconds">2700</length>
+    <episode-num system="onscreen">1807</episode-num>
+    <category lang="ca">ENTRETENIMENT</category>
+    <category lang="ca">GAGS. HUMOR</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <previously-shown/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/2/5/1653464509252.jpg"/>
+    <icon src="https://img.ccma.cat/multimedia/png/3/8/1705511272683.png"/>
   </programme>
   <channel id="324">
     <display-name>324</display-name>
   </channel>
-  <programme start="20260909153000 +0200" stop="20260909160000 +0200" channel="324">
-    <title lang="ca">3CatInfo en aranès</title>
-    <desc lang="ca">Informatiu de continguts generalistes en llengua aranesa, presentat per Ares Riu, en emissió per a tot Catalunya.</desc>
-    <length units="seconds">1800</length>
-    <episode-num system="onscreen">2554</episode-num>
+  <programme start="20260909183000 +0200" stop="20260909200000 +0200" channel="324">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="seconds">5400</length>
+    <episode-num system="onscreen">11127</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
-    <icon src="https://img.ccma.cat/multimedia/png/5/8/1758125433085.png"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
-  <programme start="20260909160000 +0200" stop="20260909170000 +0200" channel="324">
+  <programme start="20260909200000 +0200" stop="20260909210000 +0200" channel="324">
     <title lang="ca">Notícies 3CatInfo</title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <length units="seconds">3600</length>
-    <episode-num system="onscreen">11125</episode-num>
+    <episode-num system="onscreen">11128</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
@@ -62,88 +60,73 @@
   <channel id="esport3">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20260909152907 +0200" stop="20260909161738 +0200" channel="esport3">
-    <title lang="ca">Vida</title>
-    <sub-title lang="ca">Vida - Els habitants de les profunditats</sub-title>
-    <desc lang="ca">Mitjançant tècniques de parada de càmera desenvolupades especialment per fer seguiments en un entorn submarí, 'Life' emprèn un viatge als racons més inexplorats de l'oceà. És aquí on s'estan realitzant nous descobriments, on viuen les criatures més estranyes, des d'aranyes de mar gegants que s'apleguen a milers tot buscant la seguretat de la bandada quan muden la carcassa que les protegeix, fins al calamar gegant 'transvestit'. Ens afegirem a un grup de 250 calamars gegants del corrent de Humboldt en una expedició de caça, contemplarem el sacrifici desesperat d'un pop gegant del Pacífic mare que mor de gana per atendre la seva cria i ens submergirem sota el gel permanent de l'Antàrtida per observar una estora bellugadissa d'estrelles de mar mentre devoren el cos d'una cria de foca.</desc>
-    <length units="seconds">2911</length>
-    <episode-num system="onscreen">8</episode-num>
-    <category lang="ca">DIVULGACIÓ</category>
-    <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
+  <programme start="20260909184200 +0200" stop="20260909204000 +0200" channel="esport3">
+    <title lang="ca">Un dia de partit</title>
+    <sub-title lang="ca">Un dia de partit - Barça-Feyenoord</sub-title>
+    <desc lang="ca">A 'Un dia de partit' arreglem el Barça. O no. A cada partit, sis culers hi diuen la seva. Famosos i anònims. Cadascun a casa seva. Davant del televisor. Tot a base de videotrucades, en format Twitch i en rigorós directe. Ah! I a la mitja part no aturem màquines. Amb els jugadors als vestidors, nosaltres seguim fent bullir l'olla! Només sis culers? Negatiu. Durant el partit van apareixent els Jimmy Jump: els espontanis que demanen saltar a 'Un dia de partit' via WhatsApp.</desc>
+    <length units="seconds">7080</length>
+    <episode-num system="onscreen">248</episode-num>
+    <category lang="ca">ESPORTS</category>
+    <category lang="ca">RETRANSMISSIONS ESPORTS</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <subtitles type="teletext"/>
-    <previously-shown/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/2/7/1678885232972.jpg"/>
   </programme>
-  <programme start="20260909161738 +0200" stop="20260909170537 +0200" channel="esport3">
-    <title lang="ca">Vida</title>
-    <sub-title lang="ca">Vida - Peixos</sub-title>
-    <desc lang="ca">Els peixos poden volar, sentir l'electricitat, nedar a més de 110 km/h i fins i tot caminar per terra ferma. Des de l'oceà obert fins als esculls de corall, des de les onades fuetejades per les tempestes fins a les fonts d'aigua dolça de Kenya, submergeix-te amb taurons, saltadors del fang i peixos convictes. Observa els 'Neoclinus blanchardi' lluitant per casa seva, caça amb peixos vela, plana amb peixos voladors, entra al món secret del festeig dels dracs marins i, fins i tot, uneix-te al viatge èpic dels petits gobis que escalen penya-segats.</desc>
-    <length units="seconds">2879</length>
-    <episode-num system="onscreen">4</episode-num>
-    <category lang="ca">DIVULGACIÓ</category>
-    <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
+  <programme start="20260909204000 +0200" stop="20260909213056 +0200" channel="esport3">
+    <title lang="ca">Zona Champions</title>
+    <sub-title lang="ca">Zona Champions - Post Barça-Feyenoord / J1</sub-title>
+    <desc lang="ca">El bo i millor de la màxima competició de futbol continental de la mà del Departament d'Esports de Televisió de Catalunya. Viu tots els partits de la Lliga de Campions a 3Cat!</desc>
+    <length units="seconds">3056</length>
+    <episode-num system="onscreen">850</episode-num>
+    <category lang="ca">ESPORTS</category>
+    <category lang="ca">MAGAZINE</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
-    <previously-shown/>
+    <icon src="https://img.3cat.cat/multimedia/jpg/3/4/1769511614843.jpg"/>
   </programme>
   <channel id="sx3">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20260909154029 +0200" stop="20260909160231 +0200" channel="sx3">
-    <title lang="ca">Henry Danger</title>
-    <sub-title lang="ca">Henry Danger - Les xips de la discòrdia</sub-title>
-    <desc lang="ca">En Henry i en Ray acaben enfrontats per una absurda rivalitat entre dos nous gustos de patates Frittles, mentre la febre per la votació s'escampa per tot Bonavista.</desc>
-    <length units="seconds">1322</length>
-    <episode-num system="onscreen">49</episode-num>
-    <category lang="ca">FICCIÓ</category>
-    <category lang="ca">SÈRIE DRAMÀTICA</category>
-    <rating>
-      <value>INFANTIL</value>
-    </rating>
-    <subtitles type="teletext"/>
-    <previously-shown/>
-  </programme>
-  <programme start="20260909160231 +0200" stop="20260909160926 +0200" channel="sx3">
-    <title lang="ca">En Grizzy i els Lèmmings</title>
-    <sub-title lang="ca">En Grizzy i els Lèmmings - Cabana supervoltaica</sub-title>
-    <desc lang="ca">En Grizzy està mirant un documental sobre salmons, mentre els Lèmmings ballen al garatge, en un ambient de discoteca. Televisió contra música: la guerra del so ha començat! Quan passa un núvol per damunt de la cabana, en Grizzy s'adona que els seus aparells funcionen gràcies als panells solars. Sense sol, no hi ha electricitat. Llavors idea un pla per ser l'únic de la cabana amb energia..., però els Lèmmings encara no han dit l'última paraula!</desc>
-    <length units="seconds">415</length>
-    <episode-num system="onscreen">207</episode-num>
+  <programme start="20260909190459 +0200" stop="20260909192636 +0200" channel="sx3">
+    <title lang="ca">Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
+    <sub-title lang="ca">Prodigiosa: Les aventures de Ladybug i Gat Noir - Sublimació</sub-title>
+    <desc lang="ca">La Marinette està fascinada per la Sublime, una noia que s'ha fet amiga de l'Adrien. Bé per gelosia, bé per curiositat, la Marinette també vol fer-se amiga de la Sublime tant sí com no. Però hi ha un problema: la Marinette no sap com fer-se amiga d'una persona que no necessita ajuda. I els seus intents maldestres poden tenir conseqüències greus.</desc>
+    <length units="seconds">1297</length>
+    <episode-num system="onscreen">134</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
       <value>INFANTIL</value>
     </rating>
+    <subtitles type="teletext"/>
+    <previously-shown/>
+  </programme>
+  <programme start="20260909192636 +0200" stop="20260909194847 +0200" channel="sx3">
+    <title lang="ca">Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
+    <sub-title lang="ca">Prodigiosa: Les aventures de Ladybug i Gat Noir - Papapoli</sub-title>
+    <desc lang="ca">Per celebrar el petó número 100 amb l'Adrien, la Marinette ha preparat la vetllada romàntica definitiva. Però no recorda que ja havia quedat, a la mateixa hora i al mateix lloc, per fer una nit de pel·li amb les seves amigues. Aconseguirà combinar la seva vida amorosa i les seves amistats, i alhora enfrontar-se a un supermalvat com a Ladybug?</desc>
+    <length units="seconds">1331</length>
+    <episode-num system="onscreen">135</episode-num>
+    <category lang="ca">FICCIÓ</category>
+    <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
+    <rating>
+      <value>INFANTIL</value>
+    </rating>
+    <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
   <channel id="c33">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20260909145954 +0200" stop="20260909154723 +0200" channel="c33">
-    <title lang="ca">La Renaixença</title>
-    <sub-title lang="ca">La Renaixença - El radar</sub-title>
-    <desc lang="ca">En un rànquing d''objectes més odiats del món', el radar segurament estaria dins del TOP5, clarament. Seguretat? Sí. Emprenyada quan t'arriba la multa? De les més grosses. Avui dediquem el capítol al radar. Necessitem desfogar-nos. Pugen a l'escenari de 'La Renaixença' i xerrem des de l'escó amb la P.A.W.N. Gang. Es feia trap al segle XIX? Segurament, no, però al nostre escenari, sí. Sortim a passejar amb en Chök, un brac alemany de Gurb, pel duel de Carabanchel, el 1870.</desc>
-    <length units="seconds">2849</length>
-    <episode-num system="onscreen">93</episode-num>
-    <category lang="ca">DIVULGACIÓ</category>
-    <category lang="ca">ALTRES</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <subtitles type="teletext"/>
-    <previously-shown/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/3/3/1756148014833.jpg"/>
-  </programme>
-  <programme start="20260909154723 +0200" stop="20260909163807 +0200" channel="c33">
-    <title lang="ca">Terreny personal</title>
-    <sub-title lang="ca">Terreny personal - La Barceloneta</sub-title>
-    <desc lang="ca">Aquest capítol ens porta al passat i al present de la Barceloneta, un terreny en forma de triangle que se situa entre l'hotel Arts, l'hotel Vela i el Palau de Mar, i on fa poc més de 250 anys s'hi va construir un barri sencer, un espai que fins ara ha conservat una gran personalitat i un fort sentiment de pertinença.Els protagonistes del programa ens mostraran les transformacions del barri i ens explicaran com les han viscut. Vicens Forner fotografia el seu entorn des de fa 40 anys amb l'afany de retenir tot el que ha estat important per als seus veïns i que el progrés ha fet desaparèixer. Nini Ruipérez és cuinera per tradició familiar i porta un restaurant de cuina marinera, dels de tota la vida. Vicenç Sousa està jubilat i col·labora amb l'Associació Barceloneta Alerta per ajudar la gent gran del barri en situació de pobresa. I el llibreter Paco Camarasa va venir de València i va triar la Barceloneta per viure-hi perquè considera que encara és barri.A més d'aquests testimonis, també participen en aquest capítol els nens i nenes de l'escola Mediterrània de la Barceloneta, que ens ensenyen els seus espais preferits del barri. Dani Macaco canta 'La república de la tramuntana', i l'escriptor Antoni Garcia Llorca llegeix un fragment de la seva novel·la 'El salvatge'.</desc>
-    <length units="seconds">3044</length>
-    <episode-num system="onscreen">8</episode-num>
+  <programme start="20260909182142 +0200" stop="20260909191503 +0200" channel="c33">
+    <title lang="ca">Llocs recòndits</title>
+    <sub-title lang="ca">Llocs recòndits - Turquia</sub-title>
+    <desc lang="ca">'Llocs recòndits - Turquia' permet que l'audiència se submergeixi en la història i la cultura resistent de Turquia, i que s'embarqui en una pila de viatges que canvien la vida. Entre els llocs visitats hi ha Istanbul, la Capadòcia, Antioquia, Antalya i Laodicea.</desc>
+    <length units="seconds">3201</length>
+    <episode-num system="onscreen">6</episode-num>
     <category lang="ca">DIVULGACIÓ</category>
     <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
     <rating>
@@ -151,6 +134,21 @@
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
+  </programme>
+  <programme start="20260909191503 +0200" stop="20260909201335 +0200" channel="c33">
+    <title lang="ca">Un planeta perfecte</title>
+    <sub-title lang="ca">Un planeta perfecte - Volcà</sub-title>
+    <desc lang="ca">Sense volcans no hi hauria vida: no hi hauria una atmosfera respirable, ni oceans ni terra ferma. A la superfície de la Terra hi ha més de 1.500 volcans actius. En aquest episodi visitarem els sorprenents habitats que els volcans han creat pertot arreu: un llac d'aigües càustiques on crien els flamencs, un volcà adormit on enterren els ous les iguanes, o les grans planes del Serengeti, on els rics sediments volcànics permeten una explosió de vida.</desc>
+    <length units="seconds">3512</length>
+    <episode-num system="onscreen">1</episode-num>
+    <category lang="ca">DIVULGACIÓ</category>
+    <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <subtitles type="teletext"/>
+    <previously-shown/>
+    <icon src="https://img.3cat.cat/multimedia/jpg/0/9/1766143230590.jpg"/>
   </programme>
   <channel id="oca1">
     <display-name>OCA1</display-name>
@@ -158,6 +156,19 @@
   <channel id="oca2">
     <display-name>OCA2</display-name>
   </channel>
+  <programme start="20260909182001 +0200" stop="20260909202956 +0200" channel="oca2">
+    <title lang="ca">Bàsquet : Federació Catalana</title>
+    <sub-title lang="ca">- iLERNA Lleida-Asisa Joventut / Lliga Catalana / J1</sub-title>
+    <desc lang="ca">Partit inaugural de la Lliga Catalana de bàsquet. Lleidatans i badalonins formen part del grup 2 conjuntament amb el Girona. Amb Víctor Lavagnini, Nil Llobet i Nacho Solozabal. </desc>
+    <length units="seconds">7795</length>
+    <episode-num system="onscreen">135</episode-num>
+    <category lang="ca">ESPORTS</category>
+    <category lang="ca">RETRANSMISSIONS ESPORTS</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <icon src="https://img.3cat.cat/multimedia/jpg/7/7/1788941967477.jpg"/>
+  </programme>
   <channel id="oca3">
     <display-name>OCA3</display-name>
   </channel>
