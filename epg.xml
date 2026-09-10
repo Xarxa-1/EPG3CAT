@@ -3,40 +3,38 @@
   <channel id="tvi">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20260910060000 +0200" stop="20260910080000 +0200" channel="tvi">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">Notícies 3CatInfo</sub-title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">7200</length>
-    <episode-num system="onscreen">11131</episode-num>
+  <programme start="20260910103004 +0200" stop="20260910135500 +0200" channel="tvi">
+    <title lang="ca">Tot es mou</title>
+    <sub-title lang="ca">Tot es mou</sub-title>
+    <desc lang="ca">El programa presentat per Helena Garcia Melero s'emet de dilluns a divendres, de 10.30 a 13.55. Un magazín d'actualitat que busca informar, analitzar i debatre sobre temes que marquen l'actualitat social, econòmica i cultural del dia, amb una àmplia presència en directe dels reporters i reporteres, repartits per tot Catalunya. A més, el 'Tot es mou' compta amb seccions diàries de gastronomia (amb els principals cuiners i cuineres del país), successos, economia, mobilitat, temes mèdics i de tecnologia, entre d'altres.</desc>
+    <length units="seconds">12296</length>
+    <episode-num system="onscreen">1806</episode-num>
     <category lang="ca">ACTUALITAT</category>
-    <category lang="ca">INFORMATIU DIÀRI</category>
+    <category lang="ca">MAGAZINE</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
-  <programme start="20260910080000 +0200" stop="20260910102958 +0200" channel="tvi">
-    <title lang="ca">Matins</title>
-    <sub-title lang="ca">Matins</sub-title>
-    <desc lang="ca">'Matins' és un dels puntals informatius de TV3. El programa matinal dona les claus del dia que comença, explica les notícies que han passat aportant-ne el context per entendre-les i analitza amb veus acreditades l'actualitat més propera i la d'arreu del món. 'Matins' comença a les 8 del matí, de dilluns a divendres, i està presentat per Ariadna Oltra.</desc>
-    <length units="seconds">8998</length>
-    <episode-num system="onscreen">4669</episode-num>
+  <programme start="20260910135500 +0200" stop="20260910142959 +0200" channel="tvi">
+    <title lang="ca">Telenotícies comarques</title>
+    <sub-title lang="ca">Telenotícies comarques</sub-title>
+    <length units="seconds">2099</length>
+    <episode-num system="onscreen">7032</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <icon src="https://img.ccma.cat/multimedia/jpg/2/0/1758040151402.jpg"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/5/2/1758026313525.jpg"/>
   </programme>
   <channel id="324">
     <display-name>324</display-name>
   </channel>
-  <programme start="20260910060000 +0200" stop="20260910080000 +0200" channel="324">
+  <programme start="20260910103000 +0200" stop="20260910120000 +0200" channel="324">
     <title lang="ca">Notícies 3CatInfo</title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">7200</length>
-    <episode-num system="onscreen">11131</episode-num>
+    <length units="seconds">5400</length>
+    <episode-num system="onscreen">11132</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
@@ -45,51 +43,58 @@
     <subtitles type="teletext"/>
     <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
-  <programme start="20260910080000 +0200" stop="20260910103000 +0200" channel="324">
-    <title lang="ca">Matins</title>
-    <desc lang="ca">'Matins' és un dels puntals informatius de TV3. El programa matinal dona les claus del dia que comença, explica les notícies que han passat aportant-ne el context per entendre-les i analitza amb veus acreditades l'actualitat més propera i la d'arreu del món. 'Matins' comença a les 8 del matí, de dilluns a divendres, i està presentat per Ariadna Oltra.</desc>
-    <length units="seconds">9000</length>
-    <episode-num system="onscreen">4669</episode-num>
+  <programme start="20260910120000 +0200" stop="20260910135500 +0200" channel="324">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="seconds">6900</length>
+    <episode-num system="onscreen">11133</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <icon src="https://img.ccma.cat/multimedia/jpg/2/0/1758040151402.jpg"/>
+    <subtitles type="teletext"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
   <channel id="esport3">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20260910060606 +0200" stop="20260910063951 +0200" channel="esport3">
-    <title lang="ca">ZONA ZÀPING CLUB</title>
-    <desc lang="ca">Sense Descripció</desc>
-    <length units="seconds">2025</length>
-    <subtitles type="teletext"/>
-  </programme>
-  <programme start="20260910063951 +0200" stop="20260910075542 +0200" channel="esport3">
-    <title lang="ca">Zona Champions</title>
-    <sub-title lang="ca">Zona Champions - Anàlisi de la jornada / J1</sub-title>
-    <desc lang="ca">El bo i millor de la màxima competició de futbol continental de la mà del Departament d'Esports de Televisió de Catalunya. Viu tots els partits de la Lliga de Campions a 3Cat!</desc>
-    <length units="seconds">4551</length>
-    <episode-num system="onscreen">851</episode-num>
-    <category lang="ca">ESPORTS</category>
-    <category lang="ca">MAGAZINE</category>
+  <programme start="20260910101334 +0200" stop="20260910110246 +0200" channel="esport3">
+    <title lang="ca">Vida</title>
+    <sub-title lang="ca">Vida - Peixos</sub-title>
+    <desc lang="ca">Els peixos poden volar, sentir l'electricitat, nedar a més de 110 km/h i fins i tot caminar per terra ferma. Des de l'oceà obert fins als esculls de corall, des de les onades fuetejades per les tempestes fins a les fonts d'aigua dolça de Kenya, submergeix-te amb taurons, saltadors del fang i peixos convictes. Observa els 'Neoclinus blanchardi' lluitant per casa seva, caça amb peixos vela, plana amb peixos voladors, entra al món secret del festeig dels dracs marins i, fins i tot, uneix-te al viatge èpic dels petits gobis que escalen penya-segats.</desc>
+    <length units="seconds">2952</length>
+    <episode-num system="onscreen">4</episode-num>
+    <category lang="ca">DIVULGACIÓ</category>
+    <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
-    <icon src="https://img.3cat.cat/multimedia/jpg/3/4/1769511614843.jpg"/>
+  </programme>
+  <programme start="20260910110246 +0200" stop="20260910111745 +0200" channel="esport3">
+    <title lang="ca">Thalassa curts</title>
+    <sub-title lang="ca">Thalassa curts - Mallorca, laberint de coves</sub-title>
+    <length units="seconds">899</length>
+    <episode-num system="onscreen">124</episode-num>
+    <category lang="ca">DIVULGACIÓ</category>
+    <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <subtitles type="teletext"/>
+    <previously-shown/>
   </programme>
   <channel id="sx3">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20260910061200 +0200" stop="20260910062321 +0200" channel="sx3">
-    <title lang="ca">L'abella Maia</title>
-    <sub-title lang="ca">L'abella Maia - Recorda'm que et devori</sub-title>
-    <desc lang="ca">La Tecla rep un paquet de la seva germana, la Bella, que li retreu que no li escrigui, i li regala una llibreta perquè hi apunti que li ha d'enviar cartes de tant en tant. En Theo se'n va a jugar a la teranyina de la Tecla perquè la senyoreta Kassandra ha explicat a classe que la Tecla, com que és vella i perd la memòria, no és gaire perillosa. Però ara, l'aranya s'apunta les coses a la llibreta que li ha enviat la seva germana.</desc>
-    <length units="seconds">681</length>
-    <episode-num system="onscreen">107</episode-num>
+  <programme start="20260910105435 +0200" stop="20260910110557 +0200" channel="sx3">
+    <title lang="ca">Les Sisters</title>
+    <sub-title lang="ca">Les Sisters - Quina mala sort!</sub-title>
+    <desc lang="ca">És divendres tretze i la Marine ha trencat un mirall. Ara li esperen set anys de desgràcia! Per protegir-se de la mala sort decideix enganxar com una paparra a la Wendy, que té un trèvol de quatre fulles. Però la seva germana, desesperada, el fa miques per treure`s de sobre la pesada de la Marine. Fatal decisió! Sense el trèvol de la sort, a les germanes els surt tot malament!</desc>
+    <length units="seconds">682</length>
+    <episode-num system="onscreen">76</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
@@ -98,12 +103,12 @@
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20260910062321 +0200" stop="20260910063438 +0200" channel="sx3">
-    <title lang="ca">L'abella Maia</title>
-    <sub-title lang="ca">L'abella Maia - Una germana difícil</sub-title>
-    <desc lang="ca">La Maia i en Willi descobreixen que hi ha una aranya que ha anat a viure amb la Tecla a casa seva: és la seva germana, la Bella. La Bella és una aranya molt manaire i molt bona caçadora que fa unes teranyines molt ben fetes, cosa que representa un perill molt gran pels insectes del prat. La Tecla, a més, tampoc n'està gaire contenta, de tenir la seva germana a casa, i la Maia ho aprofita per fer-hi un tracte.</desc>
-    <length units="seconds">677</length>
-    <episode-num system="onscreen">108</episode-num>
+  <programme start="20260910110557 +0200" stop="20260910111719 +0200" channel="sx3">
+    <title lang="ca">Les Sisters</title>
+    <sub-title lang="ca">Les Sisters - Operació polls</sub-title>
+    <desc lang="ca">Epidèmia de polls a Pom-les-Bains! La Marine aprofita l'ocasió per no haver d'anar a la piscina i s'inventa que ha agafat polls. El mateix dia s'organitza una cursa al parc i el corconet no se la vol perdre. Però com hi pot anar si ha fet creure a tothom que té polls? La solució: disfressar-se de noi.</desc>
+    <length units="seconds">682</length>
+    <episode-num system="onscreen">77</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
@@ -115,33 +120,32 @@
   <channel id="c33">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20260910060850 +0200" stop="20260910061416 +0200" channel="c33">
-    <title lang="ca">Xarxa Natura</title>
-    <sub-title lang="ca">Xarxa Natura</sub-title>
-    <desc lang="ca">En la llista d'espais inclosos a la Xarxa Natura 2000 hi ha tots els parcs naturals, però també molts altres espais emblemàtics com ara les Guilleries, l'estany de Banyoles, l'Alta Garrotxa, la serra del Montsec o les Gavarres. La majoria d'aquests espais són autèntics desconeguts i els seus valors naturals i culturals no han estat mai objecte de cap divulgació específica. Aquesta sèrie vol donar a conèixer aquest patrimoni.</desc>
-    <length units="seconds">326</length>
-    <episode-num system="onscreen">1</episode-num>
-    <category lang="ca">ALTRES</category>
+  <programme start="20260910100228 +0200" stop="20260910105447 +0200" channel="c33">
+    <title lang="ca">Viure als Pirineus- A banda i banda</title>
+    <sub-title lang="ca">Viure als Pirineus- A banda i banda - Eva Martínez-Picó i Ximun Accocéberry - Hivern</sub-title>
+    <length units="seconds">3139</length>
+    <episode-num system="onscreen">9</episode-num>
+    <category lang="ca">DIVULGACIÓ</category>
+    <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/4/1/1721308939614.jpg"/>
   </programme>
-  <programme start="20260910061416 +0200" stop="20260910061948 +0200" channel="c33">
-    <title lang="ca">Xarxa Natura</title>
-    <sub-title lang="ca">Xarxa Natura</sub-title>
-    <desc lang="ca">En la llista d'espais inclosos a la Xarxa Natura 2000 hi ha tots els parcs naturals, però també molts altres espais emblemàtics com ara les Guilleries, l'estany de Banyoles, l'Alta Garrotxa, la serra del Montsec o les Gavarres. La majoria d'aquests espais són autèntics desconeguts i els seus valors naturals i culturals no han estat mai objecte de cap divulgació específica. Aquesta sèrie vol donar a conèixer aquest patrimoni.</desc>
-    <length units="seconds">332</length>
-    <episode-num system="onscreen">2</episode-num>
-    <category lang="ca">ALTRES</category>
+  <programme start="20260910105447 +0200" stop="20260910114225 +0200" channel="c33">
+    <title lang="ca">Aeroport</title>
+    <sub-title lang="ca">Aeroport - Uniformes</sub-title>
+    <desc lang="ca">Els uniformes desperten passions. 'Aeroport' s'endinsa en el món de les tripulacions, els cossos de seguretat i el personal de 'handling', viatjant a Lisboa amb un comandant de vol, comptant quants cops saluda el sobrecàrrec amb el clàssic 'adeu, bon dia', i seguint un grup d'operacions especials de la Guàrdia Civil que persegueix jihadistes.</desc>
+    <length units="seconds">2858</length>
+    <episode-num system="onscreen">22</episode-num>
+    <category lang="ca">DIVULGACIÓ</category>
+    <category lang="ca">Docu-Entreteniment</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/4/1/1721308939614.jpg"/>
   </programme>
   <channel id="oca1">
     <display-name>OCA1</display-name>
