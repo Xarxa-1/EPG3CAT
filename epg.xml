@@ -3,71 +3,65 @@
   <channel id="tvi">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20260910173110 +0200" stop="20260910201500 +0200" channel="tvi">
-    <title lang="ca">La Selva</title>
-    <sub-title lang="ca">La Selva</sub-title>
-    <desc lang="ca">Xavier Grasset presenta La Selva, el nou magazín d'entreteniment de les tardes de TV3. Un show d'autor on parlarem de tot de forma distesa i lliure, una trobada fixa a la nova cafeteria de la televisió pública catalana, regentada per la Mercè Fonoll (l'actriu i humorista, Anna Bertran). A La Selva sempre hi passen coses, és un món ple d'activitat on diverses espècies hi conviuen de forma lliure.Hi passaran Antoni Bassas, Montse Barderi, Fel Faixedas, Sílvia Bel, la Nina, en Biel Duran, l'Alba Alfageme o la Carlota Gurt, entre molts d'altres. Una trobada plena de coneixement i seguiment de l'actualitat, però també d'entreteniment. Els acompanyaran, per exemple fent recomanacions, Sergi Cutillas, amb la seva música de capçalera, en Godai García que ens apropa a la terra -amb una mirada molt pròpia- o la cuinera i influencer, Sofia Janer.A La Selva farem un repàs al què ha passat durant el dia i a la vida en general d'aquella manera única del Xavier Grasset acompanyat al sofà per la Maria Xinxó, la Núria Martínez o l'Ester Pagès. La resta de l'equip treballarà per explicar-vos el que ha passat dins i fora de La Selva, acostar-vos al territori i oferir-vos entreteniment, però sempre amb contingut. Cada dia hi haurà entrevistes, no hi faltaran els llibres, la cultura o històries humanes de tot tipus. I, a més, comptarem amb la participació del nostre públic. Us convidarem a jugar en un concurs diari, divertit i enginyós. Quan t'endinses a la Selva mai saps què t'hi pots acabar trobant!Cada tarda, et farem companyia a 3cat. Us espera una nova aventura plena de personatges interessants, converses, reflexions, descobriments i uns quants somriures. Sempre amb un ull posat a tot el que passa al nostre voltant. Quedem a La Selva!</desc>
-    <length units="seconds">9830</length>
-    <episode-num system="onscreen">407</episode-num>
-    <category lang="ca">ENTRETENIMENT</category>
-    <category lang="ca">MAGAZINE</category>
+  <programme start="20260910210709 +0200" stop="20260910221238 +0200" channel="tvi">
+    <title lang="ca">Telenotícies vespre</title>
+    <sub-title lang="ca">Telenotícies vespre</sub-title>
+    <length units="seconds">3929</length>
+    <episode-num system="onscreen">7323</episode-num>
+    <category lang="ca">ACTUALITAT</category>
+    <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <previously-shown/>
-    <icon src="https://img.3cat.cat/multimedia/jpg/6/3/1725871608136.jpg"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/7/2/1758026176427.jpg"/>
   </programme>
-  <programme start="20260910201500 +0200" stop="20260910210000 +0200" channel="tvi">
-    <title lang="ca">Està passant</title>
-    <sub-title lang="ca">Està passant</sub-title>
-    <desc lang="ca">En Queco i en Jair es preparen pel missatge d'Illa i comenten l'acte del Fossar de les Moreres. Marc Buxaderas inaugura secció per mediar entre els conflictes dels espectadors i l'Òscar Dalmau arriba per parlar-nos de les bondats de la ciència</desc>
-    <length units="seconds">2700</length>
-    <episode-num system="onscreen">1808</episode-num>
-    <category lang="ca">ENTRETENIMENT</category>
-    <category lang="ca">GAGS. HUMOR</category>
+  <programme start="20260910221238 +0200" stop="20260910232027 +0200" channel="tvi">
+    <title lang="ca">Lo Cartanyà</title>
+    <sub-title lang="ca">Lo Cartanyà - Finisterre (part 1 i part 2)</sub-title>
+    <desc lang="ca">En aquest especial, descobrirem què els ha passat als protagonistes de 'Lo Cartanyà' en aquests 20 anys que fa que els hem perdut de vista. Descobrirem les ventures i desventures que han viscut a 'lo poble' aquests habitants tan peculiars amb una marcada tendència cap al desastre. Com porten el pas del temps tots i cadascun d'ells? Hi ha canvis significatius en les seves vides? Estan satisfets amb el que han aconseguit? Tenen expectatives de futur? Lo Cartanyà és veritablement calb? El seu fill -que ara té 18 anys- té alguna cosa a veure amb ell? Avancem només una coseta... Lo Cartanyà i el seu fill tenen una passió comuna. La resta ens l'explicaran els mateixos personatges de viva veu, amb flashbacks intercalats amb els que anirem recordant seqüències de la sèrie original. Només una coseta més, va... Cauen llamps i trons. I fins aquí...</desc>
+    <length units="seconds">4069</length>
+    <episode-num system="onscreen">101</episode-num>
+    <category lang="ca">FICCIÓ</category>
+    <category lang="ca">SITCOM (COMÈDIA DE SITUACIÓ)</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <icon src="https://img.ccma.cat/multimedia/png/3/8/1705511272683.png"/>
   </programme>
   <channel id="324">
     <display-name>324</display-name>
   </channel>
-  <programme start="20260910183000 +0200" stop="20260910200000 +0200" channel="324">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">5400</length>
-    <episode-num system="onscreen">11136</episode-num>
-    <category lang="ca">ACTUALITAT</category>
-    <category lang="ca">INFORMATIU DIÀRI</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <subtitles type="teletext"/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
-  </programme>
-  <programme start="20260910200000 +0200" stop="20260910210000 +0200" channel="324">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+  <programme start="20260910210500 +0200" stop="20260910220500 +0200" channel="324">
+    <title lang="ca">Telenotícies vespre</title>
     <length units="seconds">3600</length>
-    <episode-num system="onscreen">11137</episode-num>
+    <episode-num system="onscreen">7323</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
+    <icon src="https://img.ccma.cat/multimedia/jpg/7/2/1758026176427.jpg"/>
+  </programme>
+  <programme start="20260910220500 +0200" stop="20260911000000 +0200" channel="324">
+    <title lang="ca">Mésnit</title>
+    <desc lang="ca">El 'Mésnit' arriba a la desena temporada, amb Marina Romero al capdavant de l'espai i amb la voluntat de continuar sent un centre de debat d'idees i d'anàlisi de l'activitat política.</desc>
+    <length units="seconds">6900</length>
+    <episode-num system="onscreen">2157</episode-num>
+    <category lang="ca">ACTUALITAT</category>
+    <category lang="ca">DEBAT</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
     <subtitles type="teletext"/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
   <channel id="esport3">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20260910182003 +0200" stop="20260910204203 +0200" channel="esport3">
+  <programme start="20260910204613 +0200" stop="20260910230000 +0200" channel="esport3">
     <title lang="ca">Bàsquet</title>
-    <sub-title lang="ca">Bàsquet - FIATC Girona-iLERNA Lleida / Lliga Catalana / J2</sub-title>
-    <desc lang="ca">Segon partit al grup 2 de la Lliga Catalana de bàsquet que es disputa a Tarragona. Amb Víctor Lavagnini, Nil Llobet i Nacho Solozabal. </desc>
-    <length units="seconds">8520</length>
-    <episode-num system="onscreen">137</episode-num>
+    <sub-title lang="ca">Bàsquet - Barça-MoraBanc Andorra / Lliga Catalana / J2</sub-title>
+    <desc lang="ca">Des de Tarragona, segon partit del grup 1 a la Lliga Catalana de bàsquet. Amb Víctor Lavagnini, Nil Llobet i Nacho Solozabal. </desc>
+    <length units="seconds">8027</length>
+    <episode-num system="onscreen">138</episode-num>
     <category lang="ca">ESPORTS</category>
     <category lang="ca">RETRANSMISSIONS ESPORTS</category>
     <rating>
@@ -75,47 +69,47 @@
     </rating>
     <icon src="https://img.3cat.cat/multimedia/jpg/7/7/1788941967477.jpg"/>
   </programme>
-  <programme start="20260910204203 +0200" stop="20260910204500 +0200" channel="esport3">
-    <title lang="ca">Top gols La Lliga</title>
-    <sub-title lang="ca">Top gols La Lliga - Jornada 4</sub-title>
-    <desc lang="ca">'Top gols La Lliga' repassa cada setmana tots els gols de la jornada de la Primera Divisió. Amb la locució de Catalunya Ràdio i d'altres emissores catalanes, viu i emocionat amb els gols dels equips del nostre país i també amb els de la resta d'equips de la màxima categoria estatal de futbol.</desc>
-    <length units="seconds">177</length>
-    <episode-num system="onscreen">390</episode-num>
+  <programme start="20260910230000 +0200" stop="20260911003108 +0200" channel="esport3">
+    <title lang="ca">Onze</title>
+    <sub-title lang="ca">Onze</sub-title>
+    <desc lang="ca">Les nits d'Esport3 tornen a concentrar tota la informació, les millors opinions i l'entreteniment necessari per acabar el dia al voltant de l'actualitat esportiva. Un xou cada nit per acabar informat, saber cap on va l'actualitat i mantenir sempre un somriure.</desc>
+    <length units="seconds">5468</length>
+    <episode-num system="onscreen">1247</episode-num>
     <category lang="ca">ESPORTS</category>
-    <category lang="ca">ESPECIALS</category>
+    <category lang="ca">MAGAZINE</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <previously-shown/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/0/5/1697737572850.jpg"/>
+    <subtitles type="teletext"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/1/1/1688543515711.jpg"/>
   </programme>
   <channel id="sx3">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20260910185259 +0200" stop="20260910190448 +0200" channel="sx3">
-    <title lang="ca">Els barrufets (3D)</title>
-    <sub-title lang="ca">Els barrufets (3D) - Ningú no és barrufecte</sub-title>
-    <desc lang="ca">El Forçut i el Poruc estan fent neteja a casa del Gran Barrufet i, sense voler, li trenquen el telescopi. Com que tenen tanta por de la seva reacció, es disfressen de noia amb roba que la Barrufeta té a l'estenedor. Tots els barrufets s'empassen que són noies i fins i tot el Gran Barrufet convenç la Barrufeta perquè les aculli a casa seva per passar la nit.</desc>
-    <length units="seconds">709</length>
-    <episode-num system="onscreen">12</episode-num>
+  <programme start="20260910212213 +0200" stop="20260910214102 +0200" channel="sx3">
+    <title lang="ca">Bola de drac Z</title>
+    <sub-title lang="ca">Bola de drac Z - Agenolleu-vos al meu davant. Sóc en Supervegeta</sub-title>
+    <desc lang="ca">Mentre en Son Goku continua entrenant en Son Gohan perquè es converteixi en superguerrer a la Sala de l'Esperit del Temps, el superpoderós Vegeta deixa més clar que mai que l'any d'entrenament ha obert una distància insalvable entre ell i en Cèl·lula. El combat continua i tot fa pensar que en Vegeta serà molt superior a en Cèl·lula.</desc>
+    <length units="seconds">1129</length>
+    <episode-num system="onscreen">156</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
-      <value>INFANTIL</value>
+      <value>JUVENIL</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20260910190448 +0200" stop="20260910192728 +0200" channel="sx3">
-    <title lang="ca">Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
-    <sub-title lang="ca">Prodigiosa: Les aventures de Ladybug i Gat Noir - Els avis llop</sub-title>
-    <desc lang="ca">L'Adrien està molt nerviós per conèixer els seus avis i la Marinette s'apunta al dinar per donar-li suport sense imaginar-se que es trobarà enmig d'una veritable guerra familiar pel futur de l'Adrien, una guerra que tots volen guanyar a qualsevol preu.</desc>
-    <length units="seconds">1360</length>
-    <episode-num system="onscreen">136</episode-num>
+  <programme start="20260910214102 +0200" stop="20260910220234 +0200" channel="sx3">
+    <title lang="ca">Bola de drac Z</title>
+    <sub-title lang="ca">Bola de drac Z - L'arrogància perillosa d'en Vegeta</sub-title>
+    <desc lang="ca">Quan sembla que en Vegeta ho té tot guanyat, en Cèl·lula decideix atacar-lo directament al punt més dèbil: l'arrogància. El repte que li proposa és que li permeti aconseguir la perfecció del cos perquè el superguerrer s'hi pugui enfrontar i d'aquesta manera el combat sigui més igualat.</desc>
+    <length units="seconds">1292</length>
+    <episode-num system="onscreen">157</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
-      <value>INFANTIL</value>
+      <value>JUVENIL</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
@@ -123,33 +117,33 @@
   <channel id="c33">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20260910181114 +0200" stop="20260910190137 +0200" channel="c33">
-    <title lang="ca">Alaska salvatge</title>
-    <sub-title lang="ca">Alaska salvatge - Primavera</sub-title>
-    <desc lang="ca">Alaska és el territori i l'estat més septentrional dels Estats Units, una regió vasta dominada per la natura salvatge. En aquest episodi assistim a l'arribada de la primavera, que canvia radicalment l'aspecte d'Alaska després dels mesos hivernals. El desglaç genera una autèntica explosió de vida a terra ferma, i al mar provoca l'arribada en massa dels arengs i altres espècies marines que tenen una gran importància per a l'economia local.</desc>
-    <length units="seconds">3023</length>
-    <episode-num system="onscreen">1</episode-num>
-    <category lang="ca">DIVULGACIÓ</category>
-    <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
+  <programme start="20260910213207 +0200" stop="20260910215703 +0200" channel="c33">
+    <title lang="ca">Plats bruts</title>
+    <sub-title lang="ca">Plats bruts - Tinc contraccions</sub-title>
+    <desc lang="ca">La Lídia, exnòvia del Lopes, torna de l'Amazònia embarassada i a punt de parir. De mica en mica, el Lopes es va implicant en els preparatius del part sota la mirada crítica del David. Mentrestant, la Carbonell, el Pol, l'Emma i el Ramon s'apunten a un concurs televisiu presentat per l'Elisenda Roca.Convidada: Elisenda Roca</desc>
+    <length units="seconds">1496</length>
+    <episode-num system="onscreen">41</episode-num>
+    <category lang="ca">FICCIÓ</category>
+    <category lang="ca">SITCOM (COMÈDIA DE SITUACIÓ)</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20260910190137 +0200" stop="20260910200040 +0200" channel="c33">
-    <title lang="ca">Els caps de setmana llargs d'en Rick Stein</title>
-    <sub-title lang="ca">Els caps de setmana llargs d'en Rick Stein - Bolonya</sub-title>
-    <desc lang="ca">A Bolonya, en Rick descobreix que els espaguetis a la bolonyesa, que per ell eren el plat bolonyès per excel·lència, allà són considerats gairebé una heretgia. Però aprendrà quina és la versió dels espaguetis que sí que mengen a Bolonya. Allà tastarà, entre altres plats, uns ravionlini deliciosos farcits de ceba dolça, calamarsos farcits, un parmesà madurat tretze anys, conill farcit de truita i pernil de Parma o la famosa mortadel·la. Per als bolonyesos, menjar bé és molt important.</desc>
-    <length units="seconds">3543</length>
-    <episode-num system="onscreen">5</episode-num>
+  <programme start="20260910215703 +0200" stop="20260910224942 +0200" channel="c33">
+    <title lang="ca">La Renaixença</title>
+    <sub-title lang="ca">La Renaixença - El desembussador de ventosa</sub-title>
+    <desc lang="ca">L'objecte al qual dediquem aquest capítol és d'aquells que es van inventar tan bé que no s'han modificat des de la seva creació. I no podia ser cap altre que el desembossador de ventosa. Pot ser més fastigós el què surt de dins d'aquells forats? Ens ha vingut a veure en Jaume Tribó, l'apuntador del Liceu. Té intenció de viure fins més enllà dels 100 anys, o sigui que el Liceu pot estar tranquil. I sortim a passejar amb en Murri pel dia de l'automutilació de Van Gogh, el 23 de desembre de 1888.</desc>
+    <length units="seconds">3159</length>
+    <episode-num system="onscreen">229</episode-num>
     <category lang="ca">DIVULGACIÓ</category>
-    <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
+    <category lang="ca">ALTRES</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
-    <previously-shown/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/3/3/1756148014833.jpg"/>
   </programme>
   <channel id="oca1">
     <display-name>OCA1</display-name>
