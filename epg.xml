@@ -3,44 +3,35 @@
   <channel id="tvi">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20260910210709 +0200" stop="20260910221238 +0200" channel="tvi">
-    <title lang="ca">Telenotícies vespre</title>
-    <sub-title lang="ca">Telenotícies vespre</sub-title>
-    <length units="seconds">3929</length>
-    <episode-num system="onscreen">7323</episode-num>
-    <category lang="ca">ACTUALITAT</category>
-    <category lang="ca">INFORMATIU DIÀRI</category>
+  <programme start="20260910234731 +0200" stop="20260911002523 +0200" channel="tvi">
+    <title lang="ca">Tot torna</title>
+    <sub-title lang="ca">Tot torna - 1986</sub-title>
+    <desc lang="ca">Repassem el 1986, l'any que nomenen Barcelona seu olímpica i Jordi Pujol coneix Mickey Mouse mentre l'investiguen pel cas Banca Catalana. També arriba el Carnet Jove, el cometa Halley i un concurs de TV3 titulat… 'Concurs'.</desc>
+    <length units="seconds">2272</length>
+    <episode-num system="onscreen">10</episode-num>
+    <category lang="ca">ENTRETENIMENT</category>
+    <category lang="ca">ALTRES</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <icon src="https://img.ccma.cat/multimedia/jpg/7/2/1758026176427.jpg"/>
+    <previously-shown/>
   </programme>
-  <programme start="20260910221238 +0200" stop="20260910232027 +0200" channel="tvi">
-    <title lang="ca">Lo Cartanyà</title>
-    <sub-title lang="ca">Lo Cartanyà - Finisterre (part 1 i part 2)</sub-title>
-    <desc lang="ca">En aquest especial, descobrirem què els ha passat als protagonistes de 'Lo Cartanyà' en aquests 20 anys que fa que els hem perdut de vista. Descobrirem les ventures i desventures que han viscut a 'lo poble' aquests habitants tan peculiars amb una marcada tendència cap al desastre. Com porten el pas del temps tots i cadascun d'ells? Hi ha canvis significatius en les seves vides? Estan satisfets amb el que han aconseguit? Tenen expectatives de futur? Lo Cartanyà és veritablement calb? El seu fill -que ara té 18 anys- té alguna cosa a veure amb ell? Avancem només una coseta... Lo Cartanyà i el seu fill tenen una passió comuna. La resta ens l'explicaran els mateixos personatges de viva veu, amb flashbacks intercalats amb els que anirem recordant seqüències de la sèrie original. Només una coseta més, va... Cauen llamps i trons. I fins aquí...</desc>
-    <length units="seconds">4069</length>
-    <episode-num system="onscreen">101</episode-num>
-    <category lang="ca">FICCIÓ</category>
-    <category lang="ca">SITCOM (COMÈDIA DE SITUACIÓ)</category>
+  <programme start="20260911002523 +0200" stop="20260911045650 +0200" channel="tvi">
+    <title lang="ca">Mésnit</title>
+    <sub-title lang="ca">Mésnit</sub-title>
+    <desc lang="ca">El 'Mésnit' arriba a la desena temporada, amb Marina Romero al capdavant de l'espai i amb la voluntat de continuar sent un centre de debat d'idees i d'anàlisi de l'activitat política.</desc>
+    <length units="seconds">16287</length>
+    <episode-num system="onscreen">2157</episode-num>
+    <category lang="ca">ACTUALITAT</category>
+    <category lang="ca">DEBAT</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
+    <previously-shown/>
   </programme>
   <channel id="324">
     <display-name>324</display-name>
   </channel>
-  <programme start="20260910210500 +0200" stop="20260910220500 +0200" channel="324">
-    <title lang="ca">Telenotícies vespre</title>
-    <length units="seconds">3600</length>
-    <episode-num system="onscreen">7323</episode-num>
-    <category lang="ca">ACTUALITAT</category>
-    <category lang="ca">INFORMATIU DIÀRI</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <icon src="https://img.ccma.cat/multimedia/jpg/7/2/1758026176427.jpg"/>
-  </programme>
   <programme start="20260910220500 +0200" stop="20260911000000 +0200" channel="324">
     <title lang="ca">Mésnit</title>
     <desc lang="ca">El 'Mésnit' arriba a la desena temporada, amb Marina Romero al capdavant de l'espai i amb la voluntat de continuar sent un centre de debat d'idees i d'anàlisi de l'activitat política.</desc>
@@ -53,26 +44,26 @@
     </rating>
     <subtitles type="teletext"/>
   </programme>
-  <channel id="esport3">
-    <display-name>ESPORT3</display-name>
-  </channel>
-  <programme start="20260910204613 +0200" stop="20260910230000 +0200" channel="esport3">
-    <title lang="ca">Bàsquet</title>
-    <sub-title lang="ca">Bàsquet - Barça-MoraBanc Andorra / Lliga Catalana / J2</sub-title>
-    <desc lang="ca">Des de Tarragona, segon partit del grup 1 a la Lliga Catalana de bàsquet. Amb Víctor Lavagnini, Nil Llobet i Nacho Solozabal. </desc>
-    <length units="seconds">8027</length>
-    <episode-num system="onscreen">138</episode-num>
-    <category lang="ca">ESPORTS</category>
-    <category lang="ca">RETRANSMISSIONS ESPORTS</category>
+  <programme start="20260911000000 +0200" stop="20260911003000 +0200" channel="324">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="seconds">1800</length>
+    <episode-num system="onscreen">11138</episode-num>
+    <category lang="ca">ACTUALITAT</category>
+    <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <icon src="https://img.3cat.cat/multimedia/jpg/7/7/1788941967477.jpg"/>
+    <subtitles type="teletext"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
-  <programme start="20260910230000 +0200" stop="20260911003108 +0200" channel="esport3">
+  <channel id="esport3">
+    <display-name>ESPORT3</display-name>
+  </channel>
+  <programme start="20260910230059 +0200" stop="20260911003207 +0200" channel="esport3">
     <title lang="ca">Onze</title>
     <sub-title lang="ca">Onze</sub-title>
-    <desc lang="ca">Les nits d'Esport3 tornen a concentrar tota la informació, les millors opinions i l'entreteniment necessari per acabar el dia al voltant de l'actualitat esportiva. Un xou cada nit per acabar informat, saber cap on va l'actualitat i mantenir sempre un somriure.</desc>
+    <desc lang="ca">Carles Fité, Víctor Lozano, Juli Garcia i David Bernabeu analitzen el partit de Champions del Barça. Sergi Ferrer atén els dubtes dels espectadors de l'Onze.</desc>
     <length units="seconds">5468</length>
     <episode-num system="onscreen">1247</episode-num>
     <category lang="ca">ESPORTS</category>
@@ -83,33 +74,46 @@
     <subtitles type="teletext"/>
     <icon src="https://img.ccma.cat/multimedia/jpg/1/1/1688543515711.jpg"/>
   </programme>
+  <programme start="20260911003207 +0200" stop="20260911005144 +0200" channel="esport3">
+    <title lang="ca">3CatInfo Esports</title>
+    <sub-title lang="ca">3CatInfo Esports</sub-title>
+    <desc lang="ca">Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.</desc>
+    <length units="seconds">1177</length>
+    <episode-num system="onscreen">5505</episode-num>
+    <category lang="ca">ESPORTS</category>
+    <category lang="ca">INFORMATIU DIÀRI</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <icon src="https://img.ccma.cat/multimedia/jpg/9/7/1758888682179.jpg"/>
+  </programme>
   <channel id="sx3">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20260910212213 +0200" stop="20260910214102 +0200" channel="sx3">
-    <title lang="ca">Bola de drac Z</title>
-    <sub-title lang="ca">Bola de drac Z - Agenolleu-vos al meu davant. Sóc en Supervegeta</sub-title>
-    <desc lang="ca">Mentre en Son Goku continua entrenant en Son Gohan perquè es converteixi en superguerrer a la Sala de l'Esperit del Temps, el superpoderós Vegeta deixa més clar que mai que l'any d'entrenament ha obert una distància insalvable entre ell i en Cèl·lula. El combat continua i tot fa pensar que en Vegeta serà molt superior a en Cèl·lula.</desc>
-    <length units="seconds">1129</length>
-    <episode-num system="onscreen">156</episode-num>
+  <programme start="20260910234700 +0200" stop="20260911000800 +0200" channel="sx3">
+    <title lang="ca">Els germans Kratt</title>
+    <sub-title lang="ca">Els germans Kratt - A la càrrega, rinoceronts!</sub-title>
+    <desc lang="ca">Avui, els germans Kratt han anat de missió a la sabana africana a descobrir com és que estan desapareixent tants rinoceronts. Aviat descobriran que és cosa d'en Zach, que els està segrestant per construir l'invent més genial de tots: el rinodòzer! Però també descobriran com es defensen els rinoceronts... i potser fins i tot ho faran servir! T'ho perdràs?!</desc>
+    <length units="seconds">1260</length>
+    <episode-num system="onscreen">18</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
-      <value>JUVENIL</value>
+      <value>INFANTIL</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20260910214102 +0200" stop="20260910220234 +0200" channel="sx3">
-    <title lang="ca">Bola de drac Z</title>
-    <sub-title lang="ca">Bola de drac Z - L'arrogància perillosa d'en Vegeta</sub-title>
-    <desc lang="ca">Quan sembla que en Vegeta ho té tot guanyat, en Cèl·lula decideix atacar-lo directament al punt més dèbil: l'arrogància. El repte que li proposa és que li permeti aconseguir la perfecció del cos perquè el superguerrer s'hi pugui enfrontar i d'aquesta manera el combat sigui més igualat.</desc>
-    <length units="seconds">1292</length>
-    <episode-num system="onscreen">157</episode-num>
+  <programme start="20260911000800 +0200" stop="20260911002900 +0200" channel="sx3">
+    <title lang="ca">Els germans Kratt</title>
+    <sub-title lang="ca">Els germans Kratt - Aventura amb els cangurs</sub-title>
+    <desc lang="ca">Mentre els germans Kratt estudiaven els cangurs vermells per la sabana australiana, un cangur petit els ha pres les claus de l'Ecojeep. Ara, si volen tornar a casa, segurament hauran de desafiar el cangur dominant de la manada a un combat de kick-boxing, i fins i tot fugir de l'atac d'un dingo, un gos salvatge que té molta mala bava! Que no els passi res!</desc>
+    <length units="seconds">1260</length>
+    <episode-num system="onscreen">19</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
-      <value>JUVENIL</value>
+      <value>INFANTIL</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
@@ -117,33 +121,33 @@
   <channel id="c33">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20260910213207 +0200" stop="20260910215703 +0200" channel="c33">
-    <title lang="ca">Plats bruts</title>
-    <sub-title lang="ca">Plats bruts - Tinc contraccions</sub-title>
-    <desc lang="ca">La Lídia, exnòvia del Lopes, torna de l'Amazònia embarassada i a punt de parir. De mica en mica, el Lopes es va implicant en els preparatius del part sota la mirada crítica del David. Mentrestant, la Carbonell, el Pol, l'Emma i el Ramon s'apunten a un concurs televisiu presentat per l'Elisenda Roca.Convidada: Elisenda Roca</desc>
-    <length units="seconds">1496</length>
-    <episode-num system="onscreen">41</episode-num>
-    <category lang="ca">FICCIÓ</category>
-    <category lang="ca">SITCOM (COMÈDIA DE SITUACIÓ)</category>
+  <programme start="20260910234706 +0200" stop="20260911003704 +0200" channel="c33">
+    <title lang="ca">Alaska salvatge</title>
+    <sub-title lang="ca">Alaska salvatge - Estiu</sub-title>
+    <desc lang="ca">L'estiu a Alaska avança ràpidament i està marcat per l'allargament del dia, fins al punt que, a l'extrem septentrional de l'estat, el sol pràcticament no es pon. Un dels esdeveniments més importants de l'estació és la remuntada del salmó, de la qual s'aprofiten els ossos i també els humans. És una època d'una gran abundància, en què tant els animals com les persones miren d'acumular el màxim d'aliment per a l'hivern, que no trigarà a arribar.</desc>
+    <length units="seconds">2998</length>
+    <episode-num system="onscreen">2</episode-num>
+    <category lang="ca">DIVULGACIÓ</category>
+    <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20260910215703 +0200" stop="20260910224942 +0200" channel="c33">
-    <title lang="ca">La Renaixença</title>
-    <sub-title lang="ca">La Renaixença - El desembussador de ventosa</sub-title>
-    <desc lang="ca">L'objecte al qual dediquem aquest capítol és d'aquells que es van inventar tan bé que no s'han modificat des de la seva creació. I no podia ser cap altre que el desembossador de ventosa. Pot ser més fastigós el què surt de dins d'aquells forats? Ens ha vingut a veure en Jaume Tribó, l'apuntador del Liceu. Té intenció de viure fins més enllà dels 100 anys, o sigui que el Liceu pot estar tranquil. I sortim a passejar amb en Murri pel dia de l'automutilació de Van Gogh, el 23 de desembre de 1888.</desc>
-    <length units="seconds">3159</length>
-    <episode-num system="onscreen">229</episode-num>
+  <programme start="20260911003704 +0200" stop="20260911012911 +0200" channel="c33">
+    <title lang="ca">A tocar de l'aigua</title>
+    <sub-title lang="ca">A tocar de l'aigua - El Segre II; Ribera Salada, Rialb i Llobregós</sub-title>
+    <desc lang="ca">A la segona etapa del recorregut pel Segre, ens endinsarem en el territori del Segre Mitjà des del primer pantà, el d'Oliana, i arribarem fins a Alòs de Balaguer. La ruta que farem per camps de regadiu, infraestructures hidràuliques, camins de ribera, camps de secà, patrimoni cultural i arquitectònic de pobles i despoblats serà una interessant visita pel mosaic que configuren aquestes comarques.</desc>
+    <length units="seconds">3127</length>
+    <episode-num system="onscreen">5</episode-num>
     <category lang="ca">DIVULGACIÓ</category>
-    <category lang="ca">ALTRES</category>
+    <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/3/3/1756148014833.jpg"/>
+    <previously-shown/>
   </programme>
   <channel id="oca1">
     <display-name>OCA1</display-name>
