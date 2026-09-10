@@ -3,51 +3,9 @@
   <channel id="tvi">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20260910004850 +0200" stop="20260910023348 +0200" channel="tvi">
-    <title lang="ca">Mésnit</title>
-    <sub-title lang="ca">Mésnit</sub-title>
-    <desc lang="ca">El 'Mésnit' arriba a la desena temporada, amb Marina Romero al capdavant de l'espai i amb la voluntat de continuar sent un centre de debat d'idees i d'anàlisi de l'activitat política.</desc>
-    <length units="seconds">6298</length>
-    <episode-num system="onscreen">2156</episode-num>
-    <category lang="ca">ACTUALITAT</category>
-    <category lang="ca">DEBAT</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <previously-shown/>
-  </programme>
-  <programme start="20260910023348 +0200" stop="20260910043000 +0200" channel="tvi">
+  <programme start="20260910060000 +0200" stop="20260910080000 +0200" channel="tvi">
     <title lang="ca">Notícies 3CatInfo</title>
     <sub-title lang="ca">Notícies 3CatInfo</sub-title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">6972</length>
-    <episode-num system="onscreen">11130</episode-num>
-    <category lang="ca">ACTUALITAT</category>
-    <category lang="ca">INFORMATIU DIÀRI</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <previously-shown/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
-  </programme>
-  <channel id="324">
-    <display-name>324</display-name>
-  </channel>
-  <programme start="20260910010000 +0200" stop="20260910060000 +0200" channel="324">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">18000</length>
-    <episode-num system="onscreen">11130</episode-num>
-    <category lang="ca">ACTUALITAT</category>
-    <category lang="ca">INFORMATIU DIÀRI</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <previously-shown/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
-  </programme>
-  <programme start="20260910060000 +0200" stop="20260910080000 +0200" channel="324">
-    <title lang="ca">Notícies 3CatInfo</title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <length units="seconds">7200</length>
     <episode-num system="onscreen">11131</episode-num>
@@ -58,14 +16,61 @@
     </rating>
     <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
+  <programme start="20260910080000 +0200" stop="20260910102958 +0200" channel="tvi">
+    <title lang="ca">Matins</title>
+    <sub-title lang="ca">Matins</sub-title>
+    <desc lang="ca">'Matins' és un dels puntals informatius de TV3. El programa matinal dona les claus del dia que comença, explica les notícies que han passat aportant-ne el context per entendre-les i analitza amb veus acreditades l'actualitat més propera i la d'arreu del món. 'Matins' comença a les 8 del matí, de dilluns a divendres, i està presentat per Ariadna Oltra.</desc>
+    <length units="seconds">8998</length>
+    <episode-num system="onscreen">4669</episode-num>
+    <category lang="ca">ACTUALITAT</category>
+    <category lang="ca">INFORMATIU DIÀRI</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <icon src="https://img.ccma.cat/multimedia/jpg/2/0/1758040151402.jpg"/>
+  </programme>
+  <channel id="324">
+    <display-name>324</display-name>
+  </channel>
+  <programme start="20260910060000 +0200" stop="20260910080000 +0200" channel="324">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="seconds">7200</length>
+    <episode-num system="onscreen">11131</episode-num>
+    <category lang="ca">ACTUALITAT</category>
+    <category lang="ca">INFORMATIU DIÀRI</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <subtitles type="teletext"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
+  </programme>
+  <programme start="20260910080000 +0200" stop="20260910103000 +0200" channel="324">
+    <title lang="ca">Matins</title>
+    <desc lang="ca">'Matins' és un dels puntals informatius de TV3. El programa matinal dona les claus del dia que comença, explica les notícies que han passat aportant-ne el context per entendre-les i analitza amb veus acreditades l'actualitat més propera i la d'arreu del món. 'Matins' comença a les 8 del matí, de dilluns a divendres, i està presentat per Ariadna Oltra.</desc>
+    <length units="seconds">9000</length>
+    <episode-num system="onscreen">4669</episode-num>
+    <category lang="ca">ACTUALITAT</category>
+    <category lang="ca">INFORMATIU DIÀRI</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <icon src="https://img.ccma.cat/multimedia/jpg/2/0/1758040151402.jpg"/>
+  </programme>
   <channel id="esport3">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20260910011103 +0200" stop="20260910022644 +0200" channel="esport3">
+  <programme start="20260910060606 +0200" stop="20260910063951 +0200" channel="esport3">
+    <title lang="ca">ZONA ZÀPING CLUB</title>
+    <desc lang="ca">Sense Descripció</desc>
+    <length units="seconds">2025</length>
+    <subtitles type="teletext"/>
+  </programme>
+  <programme start="20260910063951 +0200" stop="20260910075542 +0200" channel="esport3">
     <title lang="ca">Zona Champions</title>
     <sub-title lang="ca">Zona Champions - Anàlisi de la jornada / J1</sub-title>
     <desc lang="ca">El bo i millor de la màxima competició de futbol continental de la mà del Departament d'Esports de Televisió de Catalunya. Viu tots els partits de la Lliga de Campions a 3Cat!</desc>
-    <length units="seconds">4541</length>
+    <length units="seconds">4551</length>
     <episode-num system="onscreen">851</episode-num>
     <category lang="ca">ESPORTS</category>
     <category lang="ca">MAGAZINE</category>
@@ -76,28 +81,15 @@
     <previously-shown/>
     <icon src="https://img.3cat.cat/multimedia/jpg/3/4/1769511614843.jpg"/>
   </programme>
-  <programme start="20260910022644 +0200" stop="20260910041834 +0200" channel="esport3">
-    <title lang="ca">Bàsquet</title>
-    <sub-title lang="ca">Bàsquet - iLERNA Lleida-Asisa Joventut / Lliga Catalana / J1</sub-title>
-    <desc lang="ca">Partit inaugural de la Lliga Catalana de bàsquet. Lleidatans i badalonins formen part del grup 2 conjuntament amb el Girona. Amb Víctor Lavagnini, Nil Llobet i Nacho Solozabal. </desc>
-    <length units="seconds">6710</length>
-    <episode-num system="onscreen">135</episode-num>
-    <category lang="ca">ESPORTS</category>
-    <category lang="ca">RETRANSMISSIONS ESPORTS</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <icon src="https://img.3cat.cat/multimedia/jpg/7/7/1788941967477.jpg"/>
-  </programme>
   <channel id="sx3">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20260910014442 +0200" stop="20260910020351 +0200" channel="sx3">
-    <title lang="ca">Viatges Pokémon</title>
-    <sub-title lang="ca">Viatges Pokémon - Arriba un nou amic!</sub-title>
-    <desc lang="ca">Un Pidove mort de por vola a tota velocitat i s'estampa contra la finestra de la Chloe, i llavors, per sorpresa de la Chloe i la família, el Yamper entra el Pidove ferit a casa. La família Cirerer vol ajudar el Pokémon a recuperar-se, però el Yamper es posa gelós per l'atenció que rep el Pidove, sobretot per part de la Chloe. Mentrestant, el Pidove s'ho passa bé enfilat a l'esquena del Yamper, i això encara el molesta més. Però quan els ataca un Fearow perillós, la Chloe utilitza el lligam que té amb el Yamper per derrotar el Fearow en combat. Poc després, arriba l'entrenador del Pidove per emportar-se el seu estimat Pokémon a casa. La família Cirerer no oblidarà mai el Pidove, i la Chloe ha après a valorar els Pokémon una mica més.</desc>
-    <length units="seconds">1149</length>
-    <episode-num system="onscreen">29</episode-num>
+  <programme start="20260910061200 +0200" stop="20260910062321 +0200" channel="sx3">
+    <title lang="ca">L'abella Maia</title>
+    <sub-title lang="ca">L'abella Maia - Recorda'm que et devori</sub-title>
+    <desc lang="ca">La Tecla rep un paquet de la seva germana, la Bella, que li retreu que no li escrigui, i li regala una llibreta perquè hi apunti que li ha d'enviar cartes de tant en tant. En Theo se'n va a jugar a la teranyina de la Tecla perquè la senyoreta Kassandra ha explicat a classe que la Tecla, com que és vella i perd la memòria, no és gaire perillosa. Però ara, l'aranya s'apunta les coses a la llibreta que li ha enviat la seva germana.</desc>
+    <length units="seconds">681</length>
+    <episode-num system="onscreen">107</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
@@ -106,12 +98,12 @@
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20260910020351 +0200" stop="20260910022329 +0200" channel="sx3">
-    <title lang="ca">Viatges Pokémon</title>
-    <sub-title lang="ca">Viatges Pokémon - Abandonat, aïrat i afligit!</sub-title>
-    <desc lang="ca">L'Ash i el Riolu s'entrenen molt per a la Sèrie Mundial de Coronació. Potser una mica massa, cosa que fa que el Pikachu acabi sentint-se arraconat i gelós. Quan la Delia ve de visita fa moltes demostracions d'afecte al Pikachu, que s'anima una mica. L'endemà la Delia se'n va i el Pikachu decideix seguir-la a Poble Paleta. El Mimey intenta fer-lo tornar amb l'Ash, però el Pikachu s'hi nega, de manera que els dos Pokémon comencen el seu viatge. Tot i que passen alguns moments de perill, finalment hi arriben... i de sobte apareixen l'Ash i el Goh! L'Ash demana perdó al Pikachu per haver-lo fet sentir arraconat i tot torna a la normalitat quan la Delia dona la benvinguda a tothom amb un bon àpat. </desc>
-    <length units="seconds">1178</length>
-    <episode-num system="onscreen">30</episode-num>
+  <programme start="20260910062321 +0200" stop="20260910063438 +0200" channel="sx3">
+    <title lang="ca">L'abella Maia</title>
+    <sub-title lang="ca">L'abella Maia - Una germana difícil</sub-title>
+    <desc lang="ca">La Maia i en Willi descobreixen que hi ha una aranya que ha anat a viure amb la Tecla a casa seva: és la seva germana, la Bella. La Bella és una aranya molt manaire i molt bona caçadora que fa unes teranyines molt ben fetes, cosa que representa un perill molt gran pels insectes del prat. La Tecla, a més, tampoc n'està gaire contenta, de tenir la seva germana a casa, i la Maia ho aprofita per fer-hi un tracte.</desc>
+    <length units="seconds">677</length>
+    <episode-num system="onscreen">108</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
@@ -123,57 +115,33 @@
   <channel id="c33">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20260910013946 +0200" stop="20260910023404 +0200" channel="c33">
-    <title lang="ca">Cites Barcelona</title>
-    <sub-title lang="ca">Cites Barcelona - Manu-Aroa / Astrid-Mario</sub-title>
-    <desc lang="ca">L'Astrid, il·lusionada per una predicció que anuncia l'arribada d'un gran amor, decideix donar-li una oportunitat al Mario, el seu match a Tinder. Mentrestant, el Manu queda atrapat a l'AVE a causa d'un tall elèctric i, quan truca l'Aroa per avisar-la del seu retard, el que havia de ser la seva primera cita es converteix en una conversa telefònica que els connecta d'una manera inesperada.</desc>
-    <length units="seconds">3258</length>
-    <episode-num system="onscreen">10</episode-num>
-    <category lang="ca">FICCIÓ</category>
-    <category lang="ca">SÈRIE DRAMÀTICA</category>
+  <programme start="20260910060850 +0200" stop="20260910061416 +0200" channel="c33">
+    <title lang="ca">Xarxa Natura</title>
+    <sub-title lang="ca">Xarxa Natura</sub-title>
+    <desc lang="ca">En la llista d'espais inclosos a la Xarxa Natura 2000 hi ha tots els parcs naturals, però també molts altres espais emblemàtics com ara les Guilleries, l'estany de Banyoles, l'Alta Garrotxa, la serra del Montsec o les Gavarres. La majoria d'aquests espais són autèntics desconeguts i els seus valors naturals i culturals no han estat mai objecte de cap divulgació específica. Aquesta sèrie vol donar a conèixer aquest patrimoni.</desc>
+    <length units="seconds">326</length>
+    <episode-num system="onscreen">1</episode-num>
+    <category lang="ca">ALTRES</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/4/1/1721308939614.jpg"/>
   </programme>
-  <programme start="20260910023404 +0200" stop="20260910040249 +0200" channel="c33">
-    <title lang="ca">Pel·lícula</title>
-    <sub-title lang="ca">Pel·lícula - Assassinat a Vaubona</sub-title>
-    <desc lang="ca">ASSASSINAT A VAUBONA 'Mémoires à vif'Direcció: Julie GaliGuió: Fabien Adda, Delphine ChouraquiProducció: Alef One, BE-FILMSAny: 2023Durada: 90País: FrançaMúsica: Jean-Pierre TaiegFotografia: Philippe GuilbertIntèrprets: Anthony Colette, Valérie Decobert-Koretzky, Liv del Estal, Stéphane Freiss, Isalinde Giovangigli, Salim Kissari, Martin Lamotte, Rabah Loucif, Samy Naceri, Meena Rayann, Blanche Raynal, Liliane Rovère, Steve Tran Quan està a punt d'inaugurar-se una placa commemorativa per retre homenatge als harkis, els algerians que van combatre al bàndol francès a la guerra d'Algèria, apareix mort al seu domicili el tinent d'alcalde de Vaubona, Fabrice Da Costa. Els comandants de policia Leila Belhassen i Cédric Bonfanti s'encarreguen del cas, que remou les rancúnies i els odis d'un passat tràgic derivat d'un conflicte bèl·lic que va marcar tota una generació de francesos d'origen algerià.</desc>
-    <credits>
-      <director>Julie</director>
-      <writer>Fabien Adda</writer>
-      <writer>Delphine Chouraqui</writer>
-      <actor>Anthony Colette</actor>
-      <actor>Valérie Decobert-Koretzky</actor>
-      <actor>Liv del Estal</actor>
-      <actor>Stéphane Freiss</actor>
-      <actor>Isalinde Giovangigli</actor>
-      <actor>Salim Kissari</actor>
-      <actor>Martin Lamotte</actor>
-      <actor>Rabah Loucif</actor>
-      <actor>Samy Naceri</actor>
-      <actor>Meena Rayann</actor>
-      <actor>Blanche Raynal</actor>
-      <actor>Liliane Rovère</actor>
-      <actor>Steve Tran Quan està a punt d'inaugurar-se una placa commemorativa per retre homenatge als harkis</actor>
-      <actor>els algerians que van combatre al bàndol francès a la guerra d'Algèria</actor>
-      <actor>apareix mort al seu domicili el tinent d'alcalde de Vaubona</actor>
-      <actor>Fabrice Da Costa. Els comandants de policia Leila Belhassen</actor>
-      <actor>Cédric Bonfanti s'encarreguen del cas</actor>
-      <actor>que remou les rancúnies</actor>
-      <actor>els odis d'un passat tràgic derivat d'un conflicte bèl·lic que va marcar tota una generació de francesos d'origen algerià.</actor>
-    </credits>
-    <length units="seconds">5325</length>
-    <episode-num system="onscreen">1</episode-num>
-    <category lang="ca">FICCIÓ</category>
-    <category lang="ca">PEL·LÍCULA / TELEFILM</category>
+  <programme start="20260910061416 +0200" stop="20260910061948 +0200" channel="c33">
+    <title lang="ca">Xarxa Natura</title>
+    <sub-title lang="ca">Xarxa Natura</sub-title>
+    <desc lang="ca">En la llista d'espais inclosos a la Xarxa Natura 2000 hi ha tots els parcs naturals, però també molts altres espais emblemàtics com ara les Guilleries, l'estany de Banyoles, l'Alta Garrotxa, la serra del Montsec o les Gavarres. La majoria d'aquests espais són autèntics desconeguts i els seus valors naturals i culturals no han estat mai objecte de cap divulgació específica. Aquesta sèrie vol donar a conèixer aquest patrimoni.</desc>
+    <length units="seconds">332</length>
+    <episode-num system="onscreen">2</episode-num>
+    <category lang="ca">ALTRES</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
-    <icon src="https://img.3cat.cat/multimedia/jpg/5/7/1788340417475.jpg"/>
+    <previously-shown/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/4/1/1721308939614.jpg"/>
   </programme>
   <channel id="oca1">
     <display-name>OCA1</display-name>
