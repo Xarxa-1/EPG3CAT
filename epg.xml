@@ -3,24 +3,11 @@
   <channel id="tvi">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20260910234731 +0200" stop="20260911002523 +0200" channel="tvi">
-    <title lang="ca">Tot torna</title>
-    <sub-title lang="ca">Tot torna - 1986</sub-title>
-    <desc lang="ca">Repassem el 1986, l'any que nomenen Barcelona seu olímpica i Jordi Pujol coneix Mickey Mouse mentre l'investiguen pel cas Banca Catalana. També arriba el Carnet Jove, el cometa Halley i un concurs de TV3 titulat… 'Concurs'.</desc>
-    <length units="seconds">2272</length>
-    <episode-num system="onscreen">10</episode-num>
-    <category lang="ca">ENTRETENIMENT</category>
-    <category lang="ca">ALTRES</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <previously-shown/>
-  </programme>
-  <programme start="20260911002523 +0200" stop="20260911045650 +0200" channel="tvi">
+  <programme start="20260911002525 +0200" stop="20260911020748 +0200" channel="tvi">
     <title lang="ca">Mésnit</title>
     <sub-title lang="ca">Mésnit</sub-title>
     <desc lang="ca">El 'Mésnit' arriba a la desena temporada, amb Marina Romero al capdavant de l'espai i amb la voluntat de continuar sent un centre de debat d'idees i d'anàlisi de l'activitat política.</desc>
-    <length units="seconds">16287</length>
+    <length units="seconds">6143</length>
     <episode-num system="onscreen">2157</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">DEBAT</category>
@@ -28,43 +15,58 @@
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <previously-shown/>
+  </programme>
+  <programme start="20260911020748 +0200" stop="20260911043000 +0200" channel="tvi">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <sub-title lang="ca">Notícies 3CatInfo</sub-title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="seconds">8532</length>
+    <episode-num system="onscreen">11139</episode-num>
+    <category lang="ca">ACTUALITAT</category>
+    <category lang="ca">INFORMATIU DIÀRI</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <previously-shown/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
   <channel id="324">
     <display-name>324</display-name>
   </channel>
-  <programme start="20260910220500 +0200" stop="20260911000000 +0200" channel="324">
-    <title lang="ca">Mésnit</title>
-    <desc lang="ca">El 'Mésnit' arriba a la desena temporada, amb Marina Romero al capdavant de l'espai i amb la voluntat de continuar sent un centre de debat d'idees i d'anàlisi de l'activitat política.</desc>
-    <length units="seconds">6900</length>
-    <episode-num system="onscreen">2157</episode-num>
-    <category lang="ca">ACTUALITAT</category>
-    <category lang="ca">DEBAT</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <subtitles type="teletext"/>
-  </programme>
-  <programme start="20260911000000 +0200" stop="20260911003000 +0200" channel="324">
+  <programme start="20260911010000 +0200" stop="20260911060000 +0200" channel="324">
     <title lang="ca">Notícies 3CatInfo</title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">1800</length>
-    <episode-num system="onscreen">11138</episode-num>
+    <length units="seconds">18000</length>
+    <episode-num system="onscreen">11139</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
+    <previously-shown/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
+  </programme>
+  <programme start="20260911060000 +0200" stop="20260911070000 +0200" channel="324">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="seconds">3600</length>
+    <episode-num system="onscreen">11140</episode-num>
+    <category lang="ca">ACTUALITAT</category>
+    <category lang="ca">INFORMATIU DIÀRI</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
     <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
   <channel id="esport3">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20260910230059 +0200" stop="20260911003207 +0200" channel="esport3">
+  <programme start="20260911005110 +0200" stop="20260911022059 +0200" channel="esport3">
     <title lang="ca">Onze</title>
     <sub-title lang="ca">Onze</sub-title>
     <desc lang="ca">Carles Fité, Víctor Lozano, Juli Garcia i David Bernabeu analitzen el partit de Champions del Barça. Sergi Ferrer atén els dubtes dels espectadors de l'Onze.</desc>
-    <length units="seconds">5468</length>
+    <length units="seconds">5389</length>
     <episode-num system="onscreen">1247</episode-num>
     <category lang="ca">ESPORTS</category>
     <category lang="ca">MAGAZINE</category>
@@ -72,30 +74,32 @@
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
+    <previously-shown/>
     <icon src="https://img.ccma.cat/multimedia/jpg/1/1/1688543515711.jpg"/>
   </programme>
-  <programme start="20260911003207 +0200" stop="20260911005144 +0200" channel="esport3">
-    <title lang="ca">3CatInfo Esports</title>
-    <sub-title lang="ca">3CatInfo Esports</sub-title>
-    <desc lang="ca">Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.</desc>
-    <length units="seconds">1177</length>
-    <episode-num system="onscreen">5505</episode-num>
+  <programme start="20260911022059 +0200" stop="20260911040719 +0200" channel="esport3">
+    <title lang="ca">Bàsquet</title>
+    <sub-title lang="ca">Bàsquet - Barça-MoraBanc Andorra / Lliga Catalana / J2</sub-title>
+    <desc lang="ca">Des de Tarragona, segon partit del grup 1 a la Lliga Catalana de bàsquet. Amb Víctor Lavagnini, Nil Llobet i Nacho Solozabal. </desc>
+    <length units="seconds">6380</length>
+    <episode-num system="onscreen">138</episode-num>
     <category lang="ca">ESPORTS</category>
-    <category lang="ca">INFORMATIU DIÀRI</category>
+    <category lang="ca">RETRANSMISSIONS ESPORTS</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <icon src="https://img.ccma.cat/multimedia/jpg/9/7/1758888682179.jpg"/>
+    <previously-shown/>
+    <icon src="https://img.3cat.cat/multimedia/jpg/7/7/1788941967477.jpg"/>
   </programme>
   <channel id="sx3">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20260910234700 +0200" stop="20260911000800 +0200" channel="sx3">
-    <title lang="ca">Els germans Kratt</title>
-    <sub-title lang="ca">Els germans Kratt - A la càrrega, rinoceronts!</sub-title>
-    <desc lang="ca">Avui, els germans Kratt han anat de missió a la sabana africana a descobrir com és que estan desapareixent tants rinoceronts. Aviat descobriran que és cosa d'en Zach, que els està segrestant per construir l'invent més genial de tots: el rinodòzer! Però també descobriran com es defensen els rinoceronts... i potser fins i tot ho faran servir! T'ho perdràs?!</desc>
-    <length units="seconds">1260</length>
-    <episode-num system="onscreen">18</episode-num>
+  <programme start="20260911012417 +0200" stop="20260911014413 +0200" channel="sx3">
+    <title lang="ca">Viatges Pokémon</title>
+    <sub-title lang="ca">Viatges Pokémon - El quocient de bellesa!</sub-title>
+    <desc lang="ca">El Parker explica a la Chloe que la seva amiga Jinny té un problema: té uns amics que es burlen del seu Feebas i diuen que és lleig. Els nostres herois porten la Jinny i el Feebas a visitar el Laboratori Cirerer, i la Chrysa proposa que ells dos es presentin a un torneig especial per a nens i Pokémon de tipus aigua. El problema és que la Jinny no sap nedar, però després d'entrenar-se molt, la Jinny i el Feebas fan una actuació brillant. Mentrestant, els del Team Rocket es dediquen a robar tants Pokémon com poden, però el Feebas evoluciona just a temps en un preciós Milotic que expulsa el trio volant. La Jinny i el Milotic reben un premi especial, i la Chloe valora els Pokémon cada cop més.</desc>
+    <length units="seconds">1196</length>
+    <episode-num system="onscreen">31</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
@@ -104,12 +108,12 @@
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20260911000800 +0200" stop="20260911002900 +0200" channel="sx3">
-    <title lang="ca">Els germans Kratt</title>
-    <sub-title lang="ca">Els germans Kratt - Aventura amb els cangurs</sub-title>
-    <desc lang="ca">Mentre els germans Kratt estudiaven els cangurs vermells per la sabana australiana, un cangur petit els ha pres les claus de l'Ecojeep. Ara, si volen tornar a casa, segurament hauran de desafiar el cangur dominant de la manada a un combat de kick-boxing, i fins i tot fugir de l'atac d'un dingo, un gos salvatge que té molta mala bava! Que no els passi res!</desc>
-    <length units="seconds">1260</length>
-    <episode-num system="onscreen">19</episode-num>
+  <programme start="20260911014413 +0200" stop="20260911020340 +0200" channel="sx3">
+    <title lang="ca">Viatges Pokémon</title>
+    <sub-title lang="ca">Viatges Pokémon - D’un temps a un altre!</sub-title>
+    <desc lang="ca">El Goh va amb els seus pares a passar unes vacances curtes a Poble Azalea, on no anaven des de feia tres anys! Quan el Goh pensa en l'últim cop que hi van ser recorda un nen que es deia Horace. El dia que es van conèixer, en Goh i el Horace es van fer molt amics i van compartir el que sabien sobre els Pokémon mentre buscaven un santuari on deien que algú havia vist un Celebi. Es van prometre que es tornarien a trobar l'endemà, però el Horace no es va presentar. En aquest segon viatge, el Goh troba el santuari i una nota del Horace, en què es disculpa i explica que no va poder tornar a trobar-se amb el Goh perquè es va posar malalt. Quan acaba de llegir la nota, el Goh sent una veu: és el Horace! Mentre tots dos amics es posen al dia, un parell de Celebi passen volant damunt seu. </desc>
+    <length units="seconds">1167</length>
+    <episode-num system="onscreen">32</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
@@ -121,21 +125,7 @@
   <channel id="c33">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20260910234706 +0200" stop="20260911003704 +0200" channel="c33">
-    <title lang="ca">Alaska salvatge</title>
-    <sub-title lang="ca">Alaska salvatge - Estiu</sub-title>
-    <desc lang="ca">L'estiu a Alaska avança ràpidament i està marcat per l'allargament del dia, fins al punt que, a l'extrem septentrional de l'estat, el sol pràcticament no es pon. Un dels esdeveniments més importants de l'estació és la remuntada del salmó, de la qual s'aprofiten els ossos i també els humans. És una època d'una gran abundància, en què tant els animals com les persones miren d'acumular el màxim d'aliment per a l'hivern, que no trigarà a arribar.</desc>
-    <length units="seconds">2998</length>
-    <episode-num system="onscreen">2</episode-num>
-    <category lang="ca">DIVULGACIÓ</category>
-    <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <subtitles type="teletext"/>
-    <previously-shown/>
-  </programme>
-  <programme start="20260911003704 +0200" stop="20260911012911 +0200" channel="c33">
+  <programme start="20260911003705 +0200" stop="20260911012912 +0200" channel="c33">
     <title lang="ca">A tocar de l'aigua</title>
     <sub-title lang="ca">A tocar de l'aigua - El Segre II; Ribera Salada, Rialb i Llobregós</sub-title>
     <desc lang="ca">A la segona etapa del recorregut pel Segre, ens endinsarem en el territori del Segre Mitjà des del primer pantà, el d'Oliana, i arribarem fins a Alòs de Balaguer. La ruta que farem per camps de regadiu, infraestructures hidràuliques, camins de ribera, camps de secà, patrimoni cultural i arquitectònic de pobles i despoblats serà una interessant visita pel mosaic que configuren aquestes comarques.</desc>
@@ -148,6 +138,49 @@
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
+  </programme>
+  <programme start="20260911012912 +0200" stop="20260911025856 +0200" channel="c33">
+    <title lang="ca">Pel·lícula</title>
+    <sub-title lang="ca">Pel·lícula - Roches Noires</sub-title>
+    <desc lang="ca">ROCHES NOIRES 'Roches Noires'Direcció: Laurent DussauxGuió: Véronique Lecharpy, Nicolas TackianProducció: Fontaram Productions, France Télévisions, AT-Production, RTBF (Télévision Belge), TV5 Monde, Radio Télévision Suisse (RTS)Any: 2018Durada: 90País: FrançaMúsica: François StaalFotografia: Stephan MassisIntèrprets: Grégori Derangère, Flore Bonaventura, Jerome Anger, Charlie Dupont, Carole Richert, Nicolas Grandhomme, Pascal Vansson, Jonathan Genet, Guillaume Arnault, Maxime Julia, Oscar Pauleau, Pierre Gommé, Margaux Brunelle Mentre fa fúting, la Lisa descobreix el cos congelat d'un nen que va desaparèixer fa vint anys, en Julien. El nen va pujar a una furgoneta i va deixar sol el seu amic Martin, que no s'hi va atrevir. El conductor va ser acusat i condemnat per l'assassinat d'en Julien, però mai va confessar i el cos del petit no es va trobar mai.Vint anys més tard, l'inspector Beauregard, germanastre de l'home condemnat pel crim, apareix a Roques Negres per esclarir el cas d'una vegada per totes amb l'ajuda de la Lisa, la filla de l'inspector que es va encarregar del cas en el passat.</desc>
+    <credits>
+      <director>Laurent Dussaux</director>
+      <writer>Véronique Lecharpy</writer>
+      <writer>Nicolas Tackian</writer>
+      <actor>Grégori Derangère</actor>
+      <actor>Flore Bonaventura</actor>
+      <actor>Jerome Anger</actor>
+      <actor>Charlie Dupont</actor>
+      <actor>Carole Richert</actor>
+      <actor>Nicolas Grandhomme</actor>
+      <actor>Pascal Vansson</actor>
+      <actor>Jonathan Genet</actor>
+      <actor>Guillaume Arnault</actor>
+      <actor>Maxime Julia</actor>
+      <actor>Oscar Pauleau</actor>
+      <actor>Pierre Gommé</actor>
+      <actor>Margaux Brunelle Mentre fa fúting</actor>
+      <actor>la Lisa descobreix el cos congelat d'un nen que va desaparèixer fa vint anys</actor>
+      <actor>en Julien. El nen va pujar a una furgoneta</actor>
+      <actor>va deixar sol el seu amic Martin</actor>
+      <actor>que no s'hi va atrevir. El conductor va ser acusat</actor>
+      <actor>condemnat per l'assassinat d'en Julien</actor>
+      <actor>però mai va confessar</actor>
+      <actor>el cos del petit no es va trobar mai.Vint anys més tard</actor>
+      <actor>l'inspector Beauregard</actor>
+      <actor>germanastre de l'home condemnat pel crim</actor>
+      <actor>apareix a Roques Negres per esclarir el cas d'una vegada per totes amb l'ajuda de la Lisa</actor>
+      <actor>la filla de l'inspector que es va encarregar del cas en el passat.</actor>
+    </credits>
+    <length units="seconds">5384</length>
+    <episode-num system="onscreen">1</episode-num>
+    <category lang="ca">FICCIÓ</category>
+    <category lang="ca">PEL·LÍCULA / TELEFILM</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <subtitles type="teletext"/>
+    <icon src="https://img.3cat.cat/multimedia/jpg/7/6/1788340989067.jpg"/>
   </programme>
   <channel id="oca1">
     <display-name>OCA1</display-name>
