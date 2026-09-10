@@ -3,114 +3,117 @@
   <channel id="tvi">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20260910143000 +0200" stop="20260910152958 +0200" channel="tvi">
-    <title lang="ca">Telenotícies migdia</title>
-    <sub-title lang="ca">Telenotícies migdia</sub-title>
-    <length units="seconds">3598</length>
-    <episode-num system="onscreen">7324</episode-num>
-    <category lang="ca">ACTUALITAT</category>
-    <category lang="ca">INFORMATIU DIÀRI</category>
+  <programme start="20260910173110 +0200" stop="20260910201500 +0200" channel="tvi">
+    <title lang="ca">La Selva</title>
+    <sub-title lang="ca">La Selva</sub-title>
+    <desc lang="ca">Xavier Grasset presenta La Selva, el nou magazín d'entreteniment de les tardes de TV3. Un show d'autor on parlarem de tot de forma distesa i lliure, una trobada fixa a la nova cafeteria de la televisió pública catalana, regentada per la Mercè Fonoll (l'actriu i humorista, Anna Bertran). A La Selva sempre hi passen coses, és un món ple d'activitat on diverses espècies hi conviuen de forma lliure.Hi passaran Antoni Bassas, Montse Barderi, Fel Faixedas, Sílvia Bel, la Nina, en Biel Duran, l'Alba Alfageme o la Carlota Gurt, entre molts d'altres. Una trobada plena de coneixement i seguiment de l'actualitat, però també d'entreteniment. Els acompanyaran, per exemple fent recomanacions, Sergi Cutillas, amb la seva música de capçalera, en Godai García que ens apropa a la terra -amb una mirada molt pròpia- o la cuinera i influencer, Sofia Janer.A La Selva farem un repàs al què ha passat durant el dia i a la vida en general d'aquella manera única del Xavier Grasset acompanyat al sofà per la Maria Xinxó, la Núria Martínez o l'Ester Pagès. La resta de l'equip treballarà per explicar-vos el que ha passat dins i fora de La Selva, acostar-vos al territori i oferir-vos entreteniment, però sempre amb contingut. Cada dia hi haurà entrevistes, no hi faltaran els llibres, la cultura o històries humanes de tot tipus. I, a més, comptarem amb la participació del nostre públic. Us convidarem a jugar en un concurs diari, divertit i enginyós. Quan t'endinses a la Selva mai saps què t'hi pots acabar trobant!Cada tarda, et farem companyia a 3cat. Us espera una nova aventura plena de personatges interessants, converses, reflexions, descobriments i uns quants somriures. Sempre amb un ull posat a tot el que passa al nostre voltant. Quedem a La Selva!</desc>
+    <length units="seconds">9830</length>
+    <episode-num system="onscreen">407</episode-num>
+    <category lang="ca">ENTRETENIMENT</category>
+    <category lang="ca">MAGAZINE</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <icon src="https://img.ccma.cat/multimedia/jpg/5/4/1758025766345.jpg"/>
+    <previously-shown/>
+    <icon src="https://img.3cat.cat/multimedia/jpg/6/3/1725871608136.jpg"/>
   </programme>
-  <programme start="20260910152958 +0200" stop="20260910155047 +0200" channel="tvi">
-    <title lang="ca">Cuines</title>
-    <sub-title lang="ca">Cuines - Conill en escabetx d'allada</sub-title>
-    <desc lang="ca">Amb tàperes i cebetes envinagrades, en Marc Ribas cuina un conill en escabetx on l'all també hi té un paper destacat.</desc>
-    <length units="seconds">1249</length>
-    <episode-num system="onscreen">2419</episode-num>
-    <category lang="ca">DIVULGACIÓ</category>
-    <category lang="ca">CUINA</category>
+  <programme start="20260910201500 +0200" stop="20260910210000 +0200" channel="tvi">
+    <title lang="ca">Està passant</title>
+    <sub-title lang="ca">Està passant</sub-title>
+    <desc lang="ca">En Queco i en Jair es preparen pel missatge d'Illa i comenten l'acte del Fossar de les Moreres. Marc Buxaderas inaugura secció per mediar entre els conflictes dels espectadors i l'Òscar Dalmau arriba per parlar-nos de les bondats de la ciència</desc>
+    <length units="seconds">2700</length>
+    <episode-num system="onscreen">1808</episode-num>
+    <category lang="ca">ENTRETENIMENT</category>
+    <category lang="ca">GAGS. HUMOR</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <icon src="https://img.ccma.cat/multimedia/jpg/2/5/1653464509252.jpg"/>
+    <icon src="https://img.ccma.cat/multimedia/png/3/8/1705511272683.png"/>
   </programme>
   <channel id="324">
     <display-name>324</display-name>
   </channel>
-  <programme start="20260910143000 +0200" stop="20260910153000 +0200" channel="324">
-    <title lang="ca">Telenotícies migdia</title>
-    <length units="seconds">3600</length>
-    <episode-num system="onscreen">7324</episode-num>
-    <category lang="ca">ACTUALITAT</category>
-    <category lang="ca">INFORMATIU DIÀRI</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <icon src="https://img.ccma.cat/multimedia/jpg/5/4/1758025766345.jpg"/>
-  </programme>
-  <programme start="20260910153000 +0200" stop="20260910160000 +0200" channel="324">
-    <title lang="ca">3CatInfo en aranès</title>
-    <desc lang="ca">Informatiu de continguts generalistes en llengua aranesa, presentat per Ares Riu, en emissió per a tot Catalunya.</desc>
-    <length units="seconds">1800</length>
-    <episode-num system="onscreen">2555</episode-num>
+  <programme start="20260910183000 +0200" stop="20260910200000 +0200" channel="324">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="seconds">5400</length>
+    <episode-num system="onscreen">11136</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
-    <icon src="https://img.ccma.cat/multimedia/png/5/8/1758125433085.png"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
+  </programme>
+  <programme start="20260910200000 +0200" stop="20260910210000 +0200" channel="324">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="seconds">3600</length>
+    <episode-num system="onscreen">11137</episode-num>
+    <category lang="ca">ACTUALITAT</category>
+    <category lang="ca">INFORMATIU DIÀRI</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <subtitles type="teletext"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
   <channel id="esport3">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20260910150359 +0200" stop="20260910153011 +0200" channel="esport3">
-    <title lang="ca">Catalunya salvatge</title>
-    <sub-title lang="ca">Catalunya salvatge - El vèrtex nord</sub-title>
-    <desc lang="ca">'Catalunya salvatge' és una sèrie documental de 13 capítols que donarà a conèixer als espectadors els ecosistemes més representatius del nostre país. Des dels cims del Pirineu fins a les llacunes del delta de l'Ebre, 'Catalunya salvatge' farà un repàs de la flora i la fauna dels paratges més emblemàtics de Catalunya.Els seguidors de la sèrie tindran, doncs, una finestra privilegiada a la biodiversitat del Parc Nacional d'Aigüestortes, la muntanya de Montserrat, la zona volcànica de la Garrotxa, els aiguamolls de l'Empordà o el món submarí de les illes Medes.El primer ecosistema explorat en profunditat serà el d'alta muntanya, on la supervivència no és gens fàcil.(tardor 2010)</desc>
-    <length units="seconds">1572</length>
-    <episode-num system="onscreen">9</episode-num>
-    <category lang="ca">DIVULGACIÓ</category>
-    <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
+  <programme start="20260910182003 +0200" stop="20260910204203 +0200" channel="esport3">
+    <title lang="ca">Bàsquet</title>
+    <sub-title lang="ca">Bàsquet - FIATC Girona-iLERNA Lleida / Lliga Catalana / J2</sub-title>
+    <desc lang="ca">Segon partit al grup 2 de la Lliga Catalana de bàsquet que es disputa a Tarragona. Amb Víctor Lavagnini, Nil Llobet i Nacho Solozabal. </desc>
+    <length units="seconds">8520</length>
+    <episode-num system="onscreen">137</episode-num>
+    <category lang="ca">ESPORTS</category>
+    <category lang="ca">RETRANSMISSIONS ESPORTS</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <subtitles type="teletext"/>
-    <previously-shown/>
+    <icon src="https://img.3cat.cat/multimedia/jpg/7/7/1788941967477.jpg"/>
   </programme>
-  <programme start="20260910153011 +0200" stop="20260910161757 +0200" channel="esport3">
-    <title lang="ca">Vida</title>
-    <sub-title lang="ca">Vida - Plantes</sub-title>
-    <desc lang="ca">L'espectacle del món vegetal no es pot apreciar a simple vista. Però, gràcies a la tecnologia més puntera, tot es revela: una atrapamosques que es tanca de cop sobre la seva presa; els ganxos d'agafada semblants a animals de l'ungla de gat i els coixinets enganxosos de l'heura de Boston en la seva lluita per la llum. Vola amb la llavor que va inspirar el disseny dels planadors i observa com la planta de creixement més ràpid de la Terra s'enfila 60 cm al dia. Descobreix les habilitats per atrapar aigua de l'estrany arbre de sang de drac, que regalima saba vermella de les seves branques.</desc>
-    <length units="seconds">2866</length>
-    <episode-num system="onscreen">9</episode-num>
-    <category lang="ca">DIVULGACIÓ</category>
-    <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
+  <programme start="20260910204203 +0200" stop="20260910204500 +0200" channel="esport3">
+    <title lang="ca">Top gols La Lliga</title>
+    <sub-title lang="ca">Top gols La Lliga - Jornada 4</sub-title>
+    <desc lang="ca">'Top gols La Lliga' repassa cada setmana tots els gols de la jornada de la Primera Divisió. Amb la locució de Catalunya Ràdio i d'altres emissores catalanes, viu i emocionat amb els gols dels equips del nostre país i també amb els de la resta d'equips de la màxima categoria estatal de futbol.</desc>
+    <length units="seconds">177</length>
+    <episode-num system="onscreen">390</episode-num>
+    <category lang="ca">ESPORTS</category>
+    <category lang="ca">ESPECIALS</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <subtitles type="teletext"/>
     <previously-shown/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/0/5/1697737572850.jpg"/>
   </programme>
   <channel id="sx3">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20260910151747 +0200" stop="20260910153918 +0200" channel="sx3">
-    <title lang="ca">Henry Danger</title>
-    <sub-title lang="ca">Henry Danger - Boca Dolça</sub-title>
-    <desc lang="ca">En Henry i en Ray intenten gravar un pòdcast mentre una sèrie d'emergències tan absurdes com inesperades els obliguen a deixar-lo a mitges.</desc>
-    <length units="seconds">1291</length>
-    <episode-num system="onscreen">50</episode-num>
+  <programme start="20260910185259 +0200" stop="20260910190448 +0200" channel="sx3">
+    <title lang="ca">Els barrufets (3D)</title>
+    <sub-title lang="ca">Els barrufets (3D) - Ningú no és barrufecte</sub-title>
+    <desc lang="ca">El Forçut i el Poruc estan fent neteja a casa del Gran Barrufet i, sense voler, li trenquen el telescopi. Com que tenen tanta por de la seva reacció, es disfressen de noia amb roba que la Barrufeta té a l'estenedor. Tots els barrufets s'empassen que són noies i fins i tot el Gran Barrufet convenç la Barrufeta perquè les aculli a casa seva per passar la nit.</desc>
+    <length units="seconds">709</length>
+    <episode-num system="onscreen">12</episode-num>
     <category lang="ca">FICCIÓ</category>
-    <category lang="ca">SÈRIE DRAMÀTICA</category>
+    <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
       <value>INFANTIL</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20260910153918 +0200" stop="20260910160149 +0200" channel="sx3">
-    <title lang="ca">Henry Danger</title>
-    <sub-title lang="ca">Henry Danger - La fuita de gas</sub-title>
-    <desc lang="ca">Una perillosa fuita de gas amenaça Bonavista just quan en Henry ha de triar entre les seves responsabilitats com a estudiant i com a superheroi.</desc>
-    <length units="seconds">1351</length>
-    <episode-num system="onscreen">51</episode-num>
+  <programme start="20260910190448 +0200" stop="20260910192728 +0200" channel="sx3">
+    <title lang="ca">Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
+    <sub-title lang="ca">Prodigiosa: Les aventures de Ladybug i Gat Noir - Els avis llop</sub-title>
+    <desc lang="ca">L'Adrien està molt nerviós per conèixer els seus avis i la Marinette s'apunta al dinar per donar-li suport sense imaginar-se que es trobarà enmig d'una veritable guerra familiar pel futur de l'Adrien, una guerra que tots volen guanyar a qualsevol preu.</desc>
+    <length units="seconds">1360</length>
+    <episode-num system="onscreen">136</episode-num>
     <category lang="ca">FICCIÓ</category>
-    <category lang="ca">SÈRIE DRAMÀTICA</category>
+    <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
       <value>INFANTIL</value>
     </rating>
@@ -120,27 +123,26 @@
   <channel id="c33">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20260910145904 +0200" stop="20260910154531 +0200" channel="c33">
-    <title lang="ca">La Renaixença</title>
-    <sub-title lang="ca">La Renaixença - La pissarra</sub-title>
-    <desc lang="ca">Si parlem del Departament d'Educació hi ha dos grans debats populars: les vacances, i les pissarres. Ben bé el mateix. Tenen massa vacances? Aquesta pregunta avui no és la protagonista del programa. Dediquem el capítol a la pissarra. Pissarres de tota la vida o pissarres digitals? El guix o el llapis tàctil? Ho discutim. Ens visita l'Òscar Camps per parlar de com està la situació al mar Mediterrani el dia d'avui. També ens ha explicat per què és recordat a Torelló. I sortim a passejar amb en Cadafalch per la construcció del mur de Berlín.</desc>
-    <length units="seconds">2787</length>
-    <episode-num system="onscreen">94</episode-num>
+  <programme start="20260910181114 +0200" stop="20260910190137 +0200" channel="c33">
+    <title lang="ca">Alaska salvatge</title>
+    <sub-title lang="ca">Alaska salvatge - Primavera</sub-title>
+    <desc lang="ca">Alaska és el territori i l'estat més septentrional dels Estats Units, una regió vasta dominada per la natura salvatge. En aquest episodi assistim a l'arribada de la primavera, que canvia radicalment l'aspecte d'Alaska després dels mesos hivernals. El desglaç genera una autèntica explosió de vida a terra ferma, i al mar provoca l'arribada en massa dels arengs i altres espècies marines que tenen una gran importància per a l'economia local.</desc>
+    <length units="seconds">3023</length>
+    <episode-num system="onscreen">1</episode-num>
     <category lang="ca">DIVULGACIÓ</category>
-    <category lang="ca">ALTRES</category>
+    <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/3/3/1756148014833.jpg"/>
   </programme>
-  <programme start="20260910154531 +0200" stop="20260910163427 +0200" channel="c33">
-    <title lang="ca">Terreny personal</title>
-    <sub-title lang="ca">Terreny personal - Massís del Garraf</sub-title>
-    <desc lang="ca">Aquest capítol ens porta fins a una muntanya aspra i d'aspecte feréstec just arran de mar: el massís del Garraf. Un espai natural que creix damunt la roca. El seu aspecte inhòspit, farcit d'avencs i penya-segats, l'ha mantingut aïllat, i desconegut, tot i que és a només 20 km de Barcelona.Tots els protagonistes d'aquest programa s'estimen el massís, cadascú a la seva manera. Ells ens mostren els racons que han anat descobrint al llarg dels anys i on els han passat coses importants.Xavier Parellada estiuejava a Begues de petit, i el massís el va fer adonar de la seva passió per la natura i els animals salvatges. Ara és tècnic de fauna, i Begues és casa seva.Rüdiger Gottwald és un empresari alemany que, després de viure a moltes ciutats grans, ha trobat el seu lloc al món al petit poble de Garraf. Joan Tutusaus viu a Sitges, és periodista i, sobretot, excursionista. Des de ben jovenet recorre el massís del Garraf a peu, i últimament ha descobert nous camins en bicicleta. Pilar Carbó fa molts anys va decidir que volia viure a la muntanya i després de voltar molt va trobar una masia abandonada al mig del massís. Fa 30 anys que hi viu i ha convertit casa seva en un espai de divulgació dels valors del parc natural.A més d'aquests testimonis, també participen en aquest capítol els nens i nenes de l'Escola Sant Cristòfor de Begues, que, a través de fotos fetes per ells mateixos, ens ensenyen els seus racons preferits. L'escriptora Vinyet Panyella ens explica com la seva obra reflecteix el paisatge que l'envolta i Dani Poveda, dels Gentle Music Men, interpreta una versió de 'Noia de porcellana' des del mar, just sota el massís del Garraf.</desc>
-    <length units="seconds">2936</length>
-    <episode-num system="onscreen">9</episode-num>
+  <programme start="20260910190137 +0200" stop="20260910200040 +0200" channel="c33">
+    <title lang="ca">Els caps de setmana llargs d'en Rick Stein</title>
+    <sub-title lang="ca">Els caps de setmana llargs d'en Rick Stein - Bolonya</sub-title>
+    <desc lang="ca">A Bolonya, en Rick descobreix que els espaguetis a la bolonyesa, que per ell eren el plat bolonyès per excel·lència, allà són considerats gairebé una heretgia. Però aprendrà quina és la versió dels espaguetis que sí que mengen a Bolonya. Allà tastarà, entre altres plats, uns ravionlini deliciosos farcits de ceba dolça, calamarsos farcits, un parmesà madurat tretze anys, conill farcit de truita i pernil de Parma o la famosa mortadel·la. Per als bolonyesos, menjar bé és molt important.</desc>
+    <length units="seconds">3543</length>
+    <episode-num system="onscreen">5</episode-num>
     <category lang="ca">DIVULGACIÓ</category>
     <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
     <rating>
