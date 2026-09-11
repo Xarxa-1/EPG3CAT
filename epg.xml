@@ -3,24 +3,11 @@
   <channel id="tvi">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20260911002525 +0200" stop="20260911020748 +0200" channel="tvi">
-    <title lang="ca">Mésnit</title>
-    <sub-title lang="ca">Mésnit</sub-title>
-    <desc lang="ca">El 'Mésnit' arriba a la desena temporada, amb Marina Romero al capdavant de l'espai i amb la voluntat de continuar sent un centre de debat d'idees i d'anàlisi de l'activitat política.</desc>
-    <length units="seconds">6143</length>
-    <episode-num system="onscreen">2157</episode-num>
-    <category lang="ca">ACTUALITAT</category>
-    <category lang="ca">DEBAT</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <previously-shown/>
-  </programme>
-  <programme start="20260911020748 +0200" stop="20260911043000 +0200" channel="tvi">
+  <programme start="20260911020907 +0200" stop="20260911043000 +0200" channel="tvi">
     <title lang="ca">Notícies 3CatInfo</title>
     <sub-title lang="ca">Notícies 3CatInfo</sub-title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">8532</length>
+    <length units="seconds">8453</length>
     <episode-num system="onscreen">11139</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
@@ -29,6 +16,19 @@
     </rating>
     <previously-shown/>
     <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
+  </programme>
+  <programme start="20260911043000 +0200" stop="20260911051608 +0200" channel="tvi">
+    <title lang="ca">Fusió i swing a l'estudi</title>
+    <sub-title lang="ca">Fusió i swing a l'estudi - LA VELLA DIXIELAND</sub-title>
+    <desc lang="ca">Amb més de 30 anys dalt de l'escenari, La Vella Dixieland és un cas inèdit en el panorama jazzístic nacional, i amb la seva persistència s'ha convertit en grup de referència. En els seus concerts es submergeixen en les essències del jazz: música calenta, ritmes encomanadissos i complicitat amb el públic. Pep Gol a la trompeta; Xavi Manau, al trombó; Pau Casares, al clarinet; Gerard Nieto, al piano; Josemi Moraleda, al contrabaix, i Pinyu Martí, a la bateria.</desc>
+    <length units="seconds">2768</length>
+    <episode-num system="onscreen">23</episode-num>
+    <category lang="ca">MUSICALS</category>
+    <category lang="ca">ALTRES</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <previously-shown/>
   </programme>
   <channel id="324">
     <display-name>324</display-name>
@@ -43,7 +43,6 @@
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <subtitles type="teletext"/>
     <previously-shown/>
     <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
@@ -62,22 +61,7 @@
   <channel id="esport3">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20260911005110 +0200" stop="20260911022059 +0200" channel="esport3">
-    <title lang="ca">Onze</title>
-    <sub-title lang="ca">Onze</sub-title>
-    <desc lang="ca">Carles Fité, Víctor Lozano, Juli Garcia i David Bernabeu analitzen el partit de Champions del Barça. Sergi Ferrer atén els dubtes dels espectadors de l'Onze.</desc>
-    <length units="seconds">5389</length>
-    <episode-num system="onscreen">1247</episode-num>
-    <category lang="ca">ESPORTS</category>
-    <category lang="ca">MAGAZINE</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <subtitles type="teletext"/>
-    <previously-shown/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/1/1/1688543515711.jpg"/>
-  </programme>
-  <programme start="20260911022059 +0200" stop="20260911040719 +0200" channel="esport3">
+  <programme start="20260911022100 +0200" stop="20260911040720 +0200" channel="esport3">
     <title lang="ca">Bàsquet</title>
     <sub-title lang="ca">Bàsquet - Barça-MoraBanc Andorra / Lliga Catalana / J2</sub-title>
     <desc lang="ca">Des de Tarragona, segon partit del grup 1 a la Lliga Catalana de bàsquet. Amb Víctor Lavagnini, Nil Llobet i Nacho Solozabal. </desc>
@@ -91,15 +75,28 @@
     <previously-shown/>
     <icon src="https://img.3cat.cat/multimedia/jpg/7/7/1788941967477.jpg"/>
   </programme>
+  <programme start="20260911040720 +0200" stop="20260911060336 +0200" channel="esport3">
+    <title lang="ca">Bàsquet</title>
+    <sub-title lang="ca">Bàsquet - FIATC Girona-iLERNA Lleida / Lliga Catalana / J2</sub-title>
+    <desc lang="ca">Segon partit al grup 2 de la Lliga Catalana de bàsquet que es disputa a Tarragona. Amb Víctor Lavagnini, Nil Llobet i Nacho Solozabal. </desc>
+    <length units="seconds">6976</length>
+    <episode-num system="onscreen">137</episode-num>
+    <category lang="ca">ESPORTS</category>
+    <category lang="ca">RETRANSMISSIONS ESPORTS</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <icon src="https://img.3cat.cat/multimedia/jpg/7/7/1788941967477.jpg"/>
+  </programme>
   <channel id="sx3">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20260911012417 +0200" stop="20260911014413 +0200" channel="sx3">
-    <title lang="ca">Viatges Pokémon</title>
-    <sub-title lang="ca">Viatges Pokémon - El quocient de bellesa!</sub-title>
-    <desc lang="ca">El Parker explica a la Chloe que la seva amiga Jinny té un problema: té uns amics que es burlen del seu Feebas i diuen que és lleig. Els nostres herois porten la Jinny i el Feebas a visitar el Laboratori Cirerer, i la Chrysa proposa que ells dos es presentin a un torneig especial per a nens i Pokémon de tipus aigua. El problema és que la Jinny no sap nedar, però després d'entrenar-se molt, la Jinny i el Feebas fan una actuació brillant. Mentrestant, els del Team Rocket es dediquen a robar tants Pokémon com poden, però el Feebas evoluciona just a temps en un preciós Milotic que expulsa el trio volant. La Jinny i el Milotic reben un premi especial, i la Chloe valora els Pokémon cada cop més.</desc>
-    <length units="seconds">1196</length>
-    <episode-num system="onscreen">31</episode-num>
+  <programme start="20260911030504 +0200" stop="20260911032542 +0200" channel="sx3">
+    <title lang="ca">Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
+    <sub-title lang="ca">Prodigiosa: Les aventures de Ladybug i Gat Noir - Pixelator</sub-title>
+    <desc lang="ca">La classe de la Marinette fa pràctiques a l'hotel del senyor Bourgeois, el pare de la Chloé. Casualment l'estrella de rock Jagged Stone entra a l'hotel i demana la suite més luxosa. Tot sembla tranquil fins que un fan de l'Stone, que l'ha seguit per tots els concerts, aconsegueix entrar a l'hotel per fotografiar-se amb el seu ídol, però l'equip de l'Stone el fa fora de mala manera. </desc>
+    <length units="seconds">1238</length>
+    <episode-num system="onscreen">18</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
@@ -108,12 +105,12 @@
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20260911014413 +0200" stop="20260911020340 +0200" channel="sx3">
-    <title lang="ca">Viatges Pokémon</title>
-    <sub-title lang="ca">Viatges Pokémon - D’un temps a un altre!</sub-title>
-    <desc lang="ca">El Goh va amb els seus pares a passar unes vacances curtes a Poble Azalea, on no anaven des de feia tres anys! Quan el Goh pensa en l'últim cop que hi van ser recorda un nen que es deia Horace. El dia que es van conèixer, en Goh i el Horace es van fer molt amics i van compartir el que sabien sobre els Pokémon mentre buscaven un santuari on deien que algú havia vist un Celebi. Es van prometre que es tornarien a trobar l'endemà, però el Horace no es va presentar. En aquest segon viatge, el Goh troba el santuari i una nota del Horace, en què es disculpa i explica que no va poder tornar a trobar-se amb el Goh perquè es va posar malalt. Quan acaba de llegir la nota, el Goh sent una veu: és el Horace! Mentre tots dos amics es posen al dia, un parell de Celebi passen volant damunt seu. </desc>
-    <length units="seconds">1167</length>
-    <episode-num system="onscreen">32</episode-num>
+  <programme start="20260911032542 +0200" stop="20260911034620 +0200" channel="sx3">
+    <title lang="ca">Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
+    <sub-title lang="ca">Prodigiosa: Les aventures de Ladybug i Gat Noir - El Guitarrista Malvat</sub-title>
+    <desc lang="ca">Al Jagged Stone, l'estrella del rock, li surt un competidor jove i arrogant, anomenat XY, que el desbanca en la llista dels més venuts i deixa el Jagged en segon lloc. La discogràfica pressiona el Jagged, perquè canviï d'estil, però s'hi nega en rodó. L'Esfinx, llavors, aprofita la ràbia i la frustració del cantant per obtenir els prodigis de Ladybug i el Gat Noir. </desc>
+    <length units="seconds">1238</length>
+    <episode-num system="onscreen">19</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
@@ -125,54 +122,44 @@
   <channel id="c33">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20260911003705 +0200" stop="20260911012912 +0200" channel="c33">
-    <title lang="ca">A tocar de l'aigua</title>
-    <sub-title lang="ca">A tocar de l'aigua - El Segre II; Ribera Salada, Rialb i Llobregós</sub-title>
-    <desc lang="ca">A la segona etapa del recorregut pel Segre, ens endinsarem en el territori del Segre Mitjà des del primer pantà, el d'Oliana, i arribarem fins a Alòs de Balaguer. La ruta que farem per camps de regadiu, infraestructures hidràuliques, camins de ribera, camps de secà, patrimoni cultural i arquitectònic de pobles i despoblats serà una interessant visita pel mosaic que configuren aquestes comarques.</desc>
-    <length units="seconds">3127</length>
-    <episode-num system="onscreen">5</episode-num>
-    <category lang="ca">DIVULGACIÓ</category>
-    <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <subtitles type="teletext"/>
-    <previously-shown/>
-  </programme>
-  <programme start="20260911012912 +0200" stop="20260911025856 +0200" channel="c33">
+  <programme start="20260911025858 +0200" stop="20260911042948 +0200" channel="c33">
     <title lang="ca">Pel·lícula</title>
-    <sub-title lang="ca">Pel·lícula - Roches Noires</sub-title>
-    <desc lang="ca">ROCHES NOIRES 'Roches Noires'Direcció: Laurent DussauxGuió: Véronique Lecharpy, Nicolas TackianProducció: Fontaram Productions, France Télévisions, AT-Production, RTBF (Télévision Belge), TV5 Monde, Radio Télévision Suisse (RTS)Any: 2018Durada: 90País: FrançaMúsica: François StaalFotografia: Stephan MassisIntèrprets: Grégori Derangère, Flore Bonaventura, Jerome Anger, Charlie Dupont, Carole Richert, Nicolas Grandhomme, Pascal Vansson, Jonathan Genet, Guillaume Arnault, Maxime Julia, Oscar Pauleau, Pierre Gommé, Margaux Brunelle Mentre fa fúting, la Lisa descobreix el cos congelat d'un nen que va desaparèixer fa vint anys, en Julien. El nen va pujar a una furgoneta i va deixar sol el seu amic Martin, que no s'hi va atrevir. El conductor va ser acusat i condemnat per l'assassinat d'en Julien, però mai va confessar i el cos del petit no es va trobar mai.Vint anys més tard, l'inspector Beauregard, germanastre de l'home condemnat pel crim, apareix a Roques Negres per esclarir el cas d'una vegada per totes amb l'ajuda de la Lisa, la filla de l'inspector que es va encarregar del cas en el passat.</desc>
+    <sub-title lang="ca">Pel·lícula - Assassinats a La Ciutat</sub-title>
+    <desc lang="ca">ASSASSINATS A LA CIUTAT 'Meurtres à La Ciotat'Direcció: Dominique LadogeGuió: Elsa ChabrolProducció: Neutra Production, Klim Production, AT Production, RTBF, France Télévisions, TV5 Monde, France 3 (FR 3), Radio Télévision Suisse (RTS)Any: 2016Durada: 92País: França Música: Nicolas JorelleIntèrprets: Élodie Varlet, Philippe Bas, Olivier Pagès, Julie Boulanger, Denis Braccini, Moussa Maaskri, Géraldine Loup, François Cottrelle, Jean-Marc Michelangeli, Didier Bourguignon, Isalinde Giovangigli, Anne-Marie Ponsot, Joan Titus, Christine Cardeur, Anita Sarxian, Jean-Marc Ravera, Georges Neri, Roland Munter, Hervé Bonzom, Jean Nehr, Martin Kamoun.Han trobat el cos d'un home penjat a una nau de les drassanes de La Ciutat. Aquesta troballa porta la jove comissària Anne Sauvaire al moll de l'os d'una història enterrada en el passat dels habitants de La Ciutat i els antics treballadors de les drassanes.El periodista Batti Vergniot l'acompanyarà en aquesta investigació complexa amb un rerefons d'antics conflictes socials i silencis, sense imaginar les conseqüències de la seva investigació.La recerca personal i discreta de l'Anne sobre el passat del seu pare toparà amb una investigació difícil, en una ciutat desapareguda i discreta, on la llei del silenci no és un mite... El passat és passat.Quan es produeix una segona mort, la investigació s'enfonsa...</desc>
     <credits>
-      <director>Laurent Dussaux</director>
-      <writer>Véronique Lecharpy</writer>
-      <writer>Nicolas Tackian</writer>
-      <actor>Grégori Derangère</actor>
-      <actor>Flore Bonaventura</actor>
-      <actor>Jerome Anger</actor>
-      <actor>Charlie Dupont</actor>
-      <actor>Carole Richert</actor>
-      <actor>Nicolas Grandhomme</actor>
-      <actor>Pascal Vansson</actor>
-      <actor>Jonathan Genet</actor>
-      <actor>Guillaume Arnault</actor>
-      <actor>Maxime Julia</actor>
-      <actor>Oscar Pauleau</actor>
-      <actor>Pierre Gommé</actor>
-      <actor>Margaux Brunelle Mentre fa fúting</actor>
-      <actor>la Lisa descobreix el cos congelat d'un nen que va desaparèixer fa vint anys</actor>
-      <actor>en Julien. El nen va pujar a una furgoneta</actor>
-      <actor>va deixar sol el seu amic Martin</actor>
-      <actor>que no s'hi va atrevir. El conductor va ser acusat</actor>
-      <actor>condemnat per l'assassinat d'en Julien</actor>
-      <actor>però mai va confessar</actor>
-      <actor>el cos del petit no es va trobar mai.Vint anys més tard</actor>
-      <actor>l'inspector Beauregard</actor>
-      <actor>germanastre de l'home condemnat pel crim</actor>
-      <actor>apareix a Roques Negres per esclarir el cas d'una vegada per totes amb l'ajuda de la Lisa</actor>
-      <actor>la filla de l'inspector que es va encarregar del cas en el passat.</actor>
+      <director>Dominique Ladoge</director>
+      <writer>Elsa Chabrol</writer>
+      <actor>Élodie Varlet</actor>
+      <actor>Philippe Bas</actor>
+      <actor>Olivier Pagès</actor>
+      <actor>Julie Boulanger</actor>
+      <actor>Denis Braccini</actor>
+      <actor>Moussa Maaskri</actor>
+      <actor>Géraldine Loup</actor>
+      <actor>François Cottrelle</actor>
+      <actor>Jean-Marc Michelangeli</actor>
+      <actor>Didier Bourguignon</actor>
+      <actor>Isalinde Giovangigli</actor>
+      <actor>Anne-Marie Ponsot</actor>
+      <actor>Joan Titus</actor>
+      <actor>Christine Cardeur</actor>
+      <actor>Anita Sarxian</actor>
+      <actor>Jean-Marc Ravera</actor>
+      <actor>Georges Neri</actor>
+      <actor>Roland Munter</actor>
+      <actor>Hervé Bonzom</actor>
+      <actor>Jean Nehr</actor>
+      <actor>Martin Kamoun.Han trobat el cos d'un home penjat a una nau de les drassanes de La Ciutat. Aquesta troballa porta la jove comissària Anne Sauvaire al moll de l'os d'una història enterrada en el passat dels habitants de La Ciutat</actor>
+      <actor>els antics treballadors de les drassanes.El periodista Batti Vergniot l'acompanyarà en aquesta investigació complexa amb un rerefons d'antics conflictes socials</actor>
+      <actor>silencis</actor>
+      <actor>sense imaginar les conseqüències de la seva investigació.La recerca personal</actor>
+      <actor>discreta de l'Anne sobre el passat del seu pare toparà amb una investigació difícil</actor>
+      <actor>en una ciutat desapareguda</actor>
+      <actor>discreta</actor>
+      <actor>on la llei del silenci no és un mite... El passat és passat.Quan es produeix una segona mort</actor>
+      <actor>la investigació s'enfonsa...</actor>
     </credits>
-    <length units="seconds">5384</length>
+    <length units="seconds">5450</length>
     <episode-num system="onscreen">1</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">PEL·LÍCULA / TELEFILM</category>
@@ -180,7 +167,22 @@
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
-    <icon src="https://img.3cat.cat/multimedia/jpg/7/6/1788340989067.jpg"/>
+    <previously-shown/>
+    <icon src="https://img.3cat.cat/multimedia/jpg/9/2/1752477553229.jpg"/>
+  </programme>
+  <programme start="20260911042948 +0200" stop="20260911051000 +0200" channel="c33">
+    <title lang="ca">La Mar de Bé</title>
+    <sub-title lang="ca">La Mar de Bé - Liris</sub-title>
+    <desc lang="ca">Barraca de pescadors Liris, Cala Tamariu, Palafrugell. En aquest capítol, els pescadors seran els convidats d'en Quim Casellas, que els prepararà un arròs socarrat com a agraïment per haver-lo acollit a les seves embarcacions. Serà un dia especial i únic, que servirà per compartir històries i anècdotes de la mar, i que acabarà amb una sorpresa musical per als pescadors. Abans, però, en Quim descobrirà, amb l'Àngela Martí, un dels llocs on antigament es reunien els pescadors i on la gastronomia i la música també eren protagonistes: les barraques de pescadors. </desc>
+    <length units="seconds">2412</length>
+    <episode-num system="onscreen">9</episode-num>
+    <category lang="ca">ENTRETENIMENT</category>
+    <category lang="ca">ALTRES</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <subtitles type="teletext"/>
+    <previously-shown/>
   </programme>
   <channel id="oca1">
     <display-name>OCA1</display-name>
