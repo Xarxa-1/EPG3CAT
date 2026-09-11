@@ -3,12 +3,12 @@
   <channel id="tvi">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20260911070000 +0200" stop="20260911100000 +0200" channel="tvi">
+  <programme start="20260911120000 +0200" stop="20260911142930 +0200" channel="tvi">
     <title lang="ca">Notícies 3CatInfo</title>
     <sub-title lang="ca">Notícies 3CatInfo</sub-title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">10800</length>
-    <episode-num system="onscreen">11141</episode-num>
+    <length units="seconds">8970</length>
+    <episode-num system="onscreen">11143</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
@@ -16,27 +16,26 @@
     </rating>
     <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
-  <programme start="20260911100000 +0200" stop="20260911115959 +0200" channel="tvi">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">Notícies 3CatInfo</sub-title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">7199</length>
-    <episode-num system="onscreen">11142</episode-num>
+  <programme start="20260911142930 +0200" stop="20260911153441 +0200" channel="tvi">
+    <title lang="ca">Telenotícies migdia</title>
+    <sub-title lang="ca">Telenotícies migdia</sub-title>
+    <length units="seconds">3911</length>
+    <episode-num system="onscreen">7325</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/5/4/1758025766345.jpg"/>
   </programme>
   <channel id="324">
     <display-name>324</display-name>
   </channel>
-  <programme start="20260911070000 +0200" stop="20260911100000 +0200" channel="324">
+  <programme start="20260911120000 +0200" stop="20260911143000 +0200" channel="324">
     <title lang="ca">Notícies 3CatInfo</title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">10800</length>
-    <episode-num system="onscreen">11141</episode-num>
+    <length units="seconds">9000</length>
+    <episode-num system="onscreen">11143</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
@@ -45,27 +44,25 @@
     <subtitles type="teletext"/>
     <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
-  <programme start="20260911100000 +0200" stop="20260911120000 +0200" channel="324">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+  <programme start="20260911143000 +0200" stop="20260911163000 +0200" channel="324">
+    <title lang="ca">Telenotícies migdia</title>
     <length units="seconds">7200</length>
-    <episode-num system="onscreen">11142</episode-num>
+    <episode-num system="onscreen">7325</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <subtitles type="teletext"/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/5/4/1758025766345.jpg"/>
   </programme>
   <channel id="esport3">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20260911065752 +0200" stop="20260911082743 +0200" channel="esport3">
+  <programme start="20260911124047 +0200" stop="20260911141037 +0200" channel="esport3">
     <title lang="ca">Onze</title>
     <sub-title lang="ca">Onze</sub-title>
     <desc lang="ca">Carles Fité, Víctor Lozano, Juli Garcia i David Bernabeu analitzen el partit de Champions del Barça. Sergi Ferrer atén els dubtes dels espectadors de l'Onze.</desc>
-    <length units="seconds">5391</length>
+    <length units="seconds">5390</length>
     <episode-num system="onscreen">1247</episode-num>
     <category lang="ca">ESPORTS</category>
     <category lang="ca">MAGAZINE</category>
@@ -76,45 +73,45 @@
     <previously-shown/>
     <icon src="https://img.ccma.cat/multimedia/jpg/1/1/1688543515711.jpg"/>
   </programme>
-  <programme start="20260911082743 +0200" stop="20260911101342 +0200" channel="esport3">
-    <title lang="ca">Bàsquet</title>
-    <sub-title lang="ca">Bàsquet - Barça-MoraBanc Andorra / Lliga Catalana / J2</sub-title>
-    <desc lang="ca">Des de Tarragona, segon partit del grup 1 a la Lliga Catalana de bàsquet. Amb Víctor Lavagnini, Nil Llobet i Nacho Solozabal. </desc>
-    <length units="seconds">6359</length>
-    <episode-num system="onscreen">138</episode-num>
-    <category lang="ca">ESPORTS</category>
-    <category lang="ca">RETRANSMISSIONS ESPORTS</category>
+  <programme start="20260911141037 +0200" stop="20260911151500 +0200" channel="esport3">
+    <title lang="ca">Núñez</title>
+    <sub-title lang="ca">Núñez - Del malson al dream team</sub-title>
+    <desc lang="ca">El somni de la final de Sevilla esdevé un malson. El trauma de perdre la final de la Copa d'Europa a casa, contra un rival desconegut, i sense haver estat capaç de marcar ni un sol gol a la tanda de penals s'arrossega durant dos anys, fins a esclatar en la rebel·lió de la plantilla contra el president en el conegut com a Motí de l'Hesperia, avivat també pels problemes dels contractes amb Hisenda. Després de deu anys, a Núñez només li queda una carta abans de deixar el càrrec: apostar per una carta guanyadora, Johann Cruyff. Salvant tota mena d'obstacles, amb ell viurà els millors moments de la seva història com a president, però també els inicis d'una rivalitat que esquinçarà el club en el futur. Com a conseqüència d'aquesta rivalitat, tres dies abans del dia més important de la història del Barça, la final de Wembley, Núñez anuncia una decisió inesperada.</desc>
+    <length units="seconds">3863</length>
+    <episode-num system="onscreen">3</episode-num>
+    <category lang="ca">DIVULGACIÓ</category>
+    <category lang="ca">Docu-Entreteniment</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
+    <subtitles type="teletext"/>
     <previously-shown/>
-    <icon src="https://img.3cat.cat/multimedia/jpg/7/7/1788941967477.jpg"/>
   </programme>
   <channel id="sx3">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20260911080418 +0200" stop="20260911081337 +0200" channel="sx3">
-    <title lang="ca">Titó</title>
-    <sub-title lang="ca">Titó - Excursió a respirar</sub-title>
-    <desc lang="ca">La tornada al cole ja és aquí i és normal que tots estiguem una mica nerviosos. Avui en Titó anirà d'excursió a respirar d'una manera molt especial que ens pot ajudar a calmar-nos. Inspirarem, espirarem... i farem bombolles de sabó amb en John C! </desc>
-    <length units="seconds">559</length>
-    <episode-num system="onscreen">57</episode-num>
-    <category lang="ca">ENTRETENIMENT</category>
-    <category lang="ca">ALTRES</category>
+  <programme start="20260911131038 +0200" stop="20260911133151 +0200" channel="sx3">
+    <title lang="ca">El detectiu Conan</title>
+    <sub-title lang="ca">El detectiu Conan - Una mansió envoltada de zombis (1a part)</sub-title>
+    <desc lang="ca">En Conan, en Kogoro i la Ran veuen una pel·lícula de zombis on hi surt la Yoko Okino. L'endemà en Kogoro porta els nois a la mansió on es va rodar la pel·lícula. Allà troben en Heiji i la Kazuha. Al cap de poc arriba un equip de rodatge per filmar el tràiler de la seqüela. Quan un dels membres de l'equip apareix mort, s'assabenten que allà hi havia tingut lloc un crim.</desc>
+    <length units="seconds">1273</length>
+    <episode-num system="onscreen">885</episode-num>
+    <category lang="ca">FICCIÓ</category>
+    <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
       <value>INFANTIL</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20260911081337 +0200" stop="20260911082356 +0200" channel="sx3">
-    <title lang="ca">Titó</title>
-    <sub-title lang="ca">Titó - Excursió a l'escola rural</sub-title>
-    <desc lang="ca">Ja ha arribat l'hora de tornar a l'escola! A l'excursió d'avui jugarem amb la Tat a fer de detectius i descobrirem què és una escola rural. Ja sabeu a qui ens trobarem de mestre, oi? </desc>
-    <length units="seconds">619</length>
-    <episode-num system="onscreen">180</episode-num>
-    <category lang="ca">ENTRETENIMENT</category>
-    <category lang="ca">ALTRES</category>
+  <programme start="20260911133151 +0200" stop="20260911135321 +0200" channel="sx3">
+    <title lang="ca">El detectiu Conan</title>
+    <sub-title lang="ca">El detectiu Conan - Una mansió envoltada de zombis (2a part)</sub-title>
+    <desc lang="ca">Els misteris se succeeixen a la mansió on un equip de rodatge d'un club de cinema de terror s'havia reunit per gravar la seqüela d'una pel·lícula. Després de comprovar que la mansió sí que està envoltada de zombis, apareix un segon cadàver que encara afegeix més enigmes a tota la situació. Algú està gravant els assassinats amb un mòbil per deixar pistes, però també pot ser que ho faci per afegir-hi més suspens!</desc>
+    <length units="seconds">1290</length>
+    <episode-num system="onscreen">886</episode-num>
+    <category lang="ca">FICCIÓ</category>
+    <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
       <value>INFANTIL</value>
     </rating>
@@ -124,26 +121,26 @@
   <channel id="c33">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20260911073817 +0200" stop="20260911081006 +0200" channel="c33">
-    <title lang="ca">Quèquicom</title>
-    <sub-title lang="ca">Quèquicom - Tractors, de la mula al xip</sub-title>
-    <desc lang="ca">Llaurem amb un cavall, comparem la potència d'un tractor antic amb un de modern capaç de veremar o recollir el blat de moro automàticament. Tot llaurant aprenem perquè tenen les rodes tan grosses i que són el Watt i el cavall de vapor.D'ençà de la seva aparició l'agricultura ha tingut diverses revolucions tecnològiques, que sempre han anat en la direcció d'estalviar esforç i augmentar l'eficiència: la tracció animal, la mecanització, la precisió i la interconnexió. Només falta la robotització, i el pagès no haurà de moure ni un dit per treballar al camp.</desc>
-    <length units="seconds">1909</length>
-    <episode-num system="onscreen">344</episode-num>
-    <category lang="ca">DIVULGACIÓ</category>
-    <category lang="ca">MAGAZINE ESPECIALITZAT</category>
+  <programme start="20260911130446 +0200" stop="20260911135748 +0200" channel="c33">
+    <title lang="ca">Experiència Catalana</title>
+    <sub-title lang="ca">Experiència Catalana - Angela May</sub-title>
+    <desc lang="ca">L'Angela May és una presentadora, actriu, i foodie singapuresa; una autèntica experta en gastronomia. Per això, la Ivana Miño l'acompanya a descobrir per què la cuina catalana i els nostres cuiners se situen entre els millors del món. L'hi mostra amb la Carme Ruscalleda i els Germans Roca.</desc>
+    <length units="seconds">3182</length>
+    <episode-num system="onscreen">15</episode-num>
+    <category lang="ca">ENTRETENIMENT</category>
+    <category lang="ca">ALTRES</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20260911081006 +0200" stop="20260911085614 +0200" channel="c33">
+  <programme start="20260911135748 +0200" stop="20260911144546 +0200" channel="c33">
     <title lang="ca">La Renaixença</title>
-    <sub-title lang="ca">La Renaixença - Millors moments - setmana 14</sub-title>
-    <desc lang="ca">Aquí hi trobareu un resum de tot el que ha passat els últims capítols del programa: hem xerrat amb la Judit Mascó, en Llorenç Barba, Els Amics de les Arts i la Júlia Truyol. També hem parlat sobre la capa, el compàs, les puntes de coixí i els dards. I hem sortit a passejar 4 gossos per 4 moments històrics. Que a en Fel no li agrada, però nosaltres ho seguim fent (perquè sí que ens agrada).</desc>
-    <length units="seconds">2768</length>
-    <episode-num system="onscreen">70</episode-num>
+    <sub-title lang="ca">La Renaixença - El gramòfon</sub-title>
+    <desc lang="ca">Heu vist mai el logo de la companyia 'His Master's Voice'? És un gos escoltant un gramòfon. Resulta que l'original escoltava un fonògraf, però Bell no ho va veure clar. No veia clares gaires coses, perquè el fonògraf va desaparèixer ràpidament quan va arribar el gramòfon. Dediquem el capítol al gramòfon, no al fonògraf. Ha vingut Josep Olivella, un professional del parkour. Prefereix anar d'un lloc a l'altre saltant edificis, perquè caminar a peu pla ho veu perillós. Sortim amb la Bimba fins a la desaparició dels Lonergan, el 25 de gener del 1998.</desc>
+    <length units="seconds">2878</length>
+    <episode-num system="onscreen">147</episode-num>
     <category lang="ca">DIVULGACIÓ</category>
     <category lang="ca">ALTRES</category>
     <rating>
