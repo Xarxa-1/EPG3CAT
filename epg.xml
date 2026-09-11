@@ -3,113 +3,107 @@
   <channel id="tvi">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20260911200002 +0200" stop="20260911210004 +0200" channel="tvi">
-    <title lang="ca">Acte institucional 11 de setembre 2026</title>
-    <sub-title lang="ca">Acte institucional 11 de setembre 2026 - Diada Nacional de Catalunya 2026</sub-title>
-    <desc lang="ca">Des del Teatre Nacional de Catalunya, transmissió de l'acte central de la Diada. Commemoració dels 50 anys de la primera celebració oficial de l'11 de Setembre després del franquisme. Amb les actuacions de Joan Dausà, Sopa de Cabra, Alosa, Andrea Motis i Guillem Roma, entre d'altres.</desc>
-    <length units="seconds">3602</length>
-    <episode-num system="onscreen">6</episode-num>
-    <category lang="ca">ACTUALITAT</category>
-    <category lang="ca">RETRANSMISSIONS ACTUALITAT</category>
+  <programme start="20260911220101 +0200" stop="20260912004830 +0200" channel="tvi">
+    <title lang="ca">Teatre</title>
+    <sub-title lang="ca">Teatre - L'amor venia amb taxi</sub-title>
+    <length units="seconds">10049</length>
+    <episode-num system="onscreen">1</episode-num>
+    <category lang="ca">FICCIÓ</category>
+    <category lang="ca">TEATRE</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <icon src="https://img.ccma.cat/multimedia/jpg/2/9/1734943621392.jpg"/>
   </programme>
-  <programme start="20260911210004 +0200" stop="20260911220017 +0200" channel="tvi">
-    <title lang="ca">Telenotícies vespre</title>
-    <sub-title lang="ca">Telenotícies vespre</sub-title>
-    <length units="seconds">3613</length>
-    <episode-num system="onscreen">7324</episode-num>
-    <category lang="ca">ACTUALITAT</category>
-    <category lang="ca">INFORMATIU DIÀRI</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <icon src="https://img.ccma.cat/multimedia/jpg/7/2/1758026176427.jpg"/>
-  </programme>
-  <channel id="324">
-    <display-name>324</display-name>
-  </channel>
-  <programme start="20260911200000 +0200" stop="20260911210000 +0200" channel="324">
-    <title lang="ca">Acte institucional 11 de setembre 2026</title>
-    <sub-title lang="ca">Diada Nacional de Catalunya 2026</sub-title>
-    <desc lang="ca">Des del Teatre Nacional de Catalunya, transmissió de l'acte central de la Diada. Commemoració dels 50 anys de la primera celebració oficial de l'11 de Setembre després del franquisme. Amb les actuacions de Joan Dausà, Sopa de Cabra, Alosa, Andrea Motis i Guillem Roma, entre d'altres.</desc>
-    <length units="seconds">3600</length>
-    <episode-num system="onscreen">6</episode-num>
-    <category lang="ca">ACTUALITAT</category>
-    <category lang="ca">RETRANSMISSIONS ACTUALITAT</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <icon src="https://img.ccma.cat/multimedia/jpg/2/9/1734943621392.jpg"/>
-  </programme>
-  <programme start="20260911210000 +0200" stop="20260911230000 +0200" channel="324">
-    <title lang="ca">Telenotícies vespre</title>
-    <length units="seconds">7200</length>
-    <episode-num system="onscreen">7324</episode-num>
-    <category lang="ca">ACTUALITAT</category>
-    <category lang="ca">INFORMATIU DIÀRI</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <icon src="https://img.ccma.cat/multimedia/jpg/7/2/1758026176427.jpg"/>
-  </programme>
-  <channel id="esport3">
-    <display-name>ESPORT3</display-name>
-  </channel>
-  <programme start="20260911192955 +0200" stop="20260911204500 +0200" channel="esport3">
-    <title lang="ca">Bàsquet</title>
-    <sub-title lang="ca">Bàsquet - Asisa Joventut-FIATC Girona / Lliga Catalana / J3</sub-title>
-    <desc lang="ca">Tercer i últim partit del grup 2 a la Lliga Catalana de bàsquet. Amb Víctor Lavagnini, Nil Llobet i Nacho Solozabal. </desc>
-    <length units="seconds">4505</length>
-    <episode-num system="onscreen">139</episode-num>
-    <category lang="ca">ESPORTS</category>
-    <category lang="ca">RETRANSMISSIONS ESPORTS</category>
+  <programme start="20260912004830 +0200" stop="20260912022121 +0200" channel="tvi">
+    <title lang="ca">Concert</title>
+    <sub-title lang="ca">Concert - Mishima al Mercat de Música Viva de Vic 2025</sub-title>
+    <desc lang="ca">Mishima ha trepitjat l'escenari de la plaça Major de Vic fent un desplegament de gran part del seu repertori. El concert, que ha posat punt final al Mercat de Música Viva de Vic de 2025, també ha servit per retre homenatge al desaparegut Marc Lloret, integrant del grup i director del MMVV des del 2010. </desc>
+    <length units="seconds">5571</length>
+    <episode-num system="onscreen">1</episode-num>
+    <category lang="ca">MUSICALS</category>
+    <category lang="ca">ALTRES</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <previously-shown/>
-    <icon src="https://img.3cat.cat/multimedia/jpg/7/7/1788941967477.jpg"/>
+    <icon src="https://img.3cat.cat/multimedia/jpg/0/1/1788636264010.jpg"/>
   </programme>
-  <programme start="20260911204500 +0200" stop="20260911214500 +0200" channel="esport3">
+  <channel id="324">
+    <display-name>324</display-name>
+  </channel>
+  <programme start="20260911230000 +0200" stop="20260912000000 +0200" channel="324">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="seconds">3600</length>
+    <episode-num system="onscreen">11146</episode-num>
+    <category lang="ca">ACTUALITAT</category>
+    <category lang="ca">INFORMATIU DIÀRI</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <subtitles type="teletext"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
+  </programme>
+  <programme start="20260912000000 +0200" stop="20260912003000 +0200" channel="324">
+    <title lang="ca">Telenotícies migdia (reemissió)</title>
+    <length units="seconds">1800</length>
+    <subtitles type="teletext"/>
+  </programme>
+  <channel id="esport3">
+    <display-name>ESPORT3</display-name>
+  </channel>
+  <programme start="20260911220927 +0200" stop="20260911230600 +0200" channel="esport3">
     <title lang="ca">Bàsquet</title>
     <sub-title lang="ca">Bàsquet - Kids&amp;Us Manresa-Barça / Lliga Catalana / J3</sub-title>
     <desc lang="ca">Des de Tarragona, tercer i últim partit del grup 1 a la Lliga Catalana de Bàsquet. Amb Víctor Lavagnini, Nil Llobet i Nacho Solozabal.</desc>
-    <length units="seconds">3600</length>
+    <length units="seconds">3393</length>
     <episode-num system="onscreen">140</episode-num>
     <category lang="ca">ESPORTS</category>
     <category lang="ca">RETRANSMISSIONS ESPORTS</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
+    <previously-shown/>
     <icon src="https://img.3cat.cat/multimedia/jpg/7/7/1788941967477.jpg"/>
+  </programme>
+  <programme start="20260911230600 +0200" stop="20260912002320 +0200" channel="esport3">
+    <title lang="ca">Handbol</title>
+    <sub-title lang="ca">Handbol - Logronyo-Barça / Lliga Asobal / J1</sub-title>
+    <desc lang="ca">L'objectiu dels blaugranes és guanyar la 17a Lliga consecutiva. El camí cap al nou títol arrenca a la capital de La Rioja amb la narració de Joan Ramon Vallvé i l'anàlisi de Víctor Tomàs.</desc>
+    <length units="seconds">4640</length>
+    <episode-num system="onscreen">194</episode-num>
+    <category lang="ca">ESPORTS</category>
+    <category lang="ca">RETRANSMISSIONS ESPORTS</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <icon src="https://img.ccma.cat/multimedia/jpg/9/1/1700215879019.jpg"/>
   </programme>
   <channel id="sx3">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20260911201657 +0200" stop="20260911203828 +0200" channel="sx3">
-    <title lang="ca">Henry Danger</title>
-    <sub-title lang="ca">Henry Danger - Gestió de la ràbia per a adolescents</sub-title>
-    <desc lang="ca">Quan la Piper descobreix que els seus amics l'han exclòs d'una excursió pel seu mal geni, accepta apuntar-se a un curs per aprendre a controlar la ràbia.</desc>
-    <length units="seconds">1291</length>
-    <episode-num system="onscreen">54</episode-num>
+  <programme start="20260911224502 +0200" stop="20260911230555 +0200" channel="sx3">
+    <title lang="ca">El detectiu Conan</title>
+    <sub-title lang="ca">El detectiu Conan - Una mansió envoltada de zombis (3a part)</sub-title>
+    <desc lang="ca">Amb la poca ajuda de l'inspector Yamamura, de la policia de la prefectura de Gunma, en Conan i en Heiji Hattori comencen a resoldre el misteri de les morts del senyor Harawaki i de la Kyoko, tots dos membres de l'equip de rodatge d'una pel·lícula que estan filmant en una mansió situada enmig de la muntanya. Tot fa pensar que no ha sigut cap zombi, sinó un dels membres de l'equip.</desc>
+    <length units="seconds">1253</length>
+    <episode-num system="onscreen">887</episode-num>
     <category lang="ca">FICCIÓ</category>
-    <category lang="ca">SÈRIE DRAMÀTICA</category>
+    <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
       <value>INFANTIL</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20260911203828 +0200" stop="20260911210000 +0200" channel="sx3">
-    <title lang="ca">Henry Danger</title>
-    <sub-title lang="ca">Henry Danger - Dits verds</sub-title>
-    <desc lang="ca">Una misteriosa malaltia creada per Schwoz s'escampa entre Henry i els seus amics, obligant-los a quedar-se confinats mentre busquen una cura.</desc>
-    <length units="seconds">1292</length>
-    <episode-num system="onscreen">55</episode-num>
+  <programme start="20260911230555 +0200" stop="20260911232739 +0200" channel="sx3">
+    <title lang="ca">Els germans Kratt</title>
+    <sub-title lang="ca">Els germans Kratt - La ciutat dels falcons</sub-title>
+    <desc lang="ca">L'Aviva està acabant d'enllestir el vestit de falcó peregrí, l'animal que vola més de pressa del món. En Chris frisa per anar a buscar falcons a l'altiplà d'Etiòpia, en Martin s'estimaria més anar-los a buscar al Pantanal del Brasil, però en Zach acaba d'enviar els seus zachbots a liquidar un niu de falcons que hi ha a la ciutat. Avui, res de viatges, avui toca salvar falcons a la ciutat!</desc>
+    <length units="seconds">1304</length>
+    <episode-num system="onscreen">21</episode-num>
     <category lang="ca">FICCIÓ</category>
-    <category lang="ca">SÈRIE DRAMÀTICA</category>
+    <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
       <value>INFANTIL</value>
     </rating>
@@ -119,12 +113,12 @@
   <channel id="c33">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20260911200622 +0200" stop="20260911205943 +0200" channel="c33">
-    <title lang="ca">Llocs recòndits</title>
-    <sub-title lang="ca">Llocs recòndits - Turquia</sub-title>
-    <desc lang="ca">'Llocs recòndits - Turquia' permet que l'audiència se submergeixi en la història i la cultura resistent de Turquia, i que s'embarqui en una pila de viatges que canvien la vida. Entre els llocs visitats hi ha Istanbul, la Capadòcia, Antioquia, Antalya i Laodicea.</desc>
-    <length units="seconds">3201</length>
-    <episode-num system="onscreen">6</episode-num>
+  <programme start="20260911215839 +0200" stop="20260911235654 +0200" channel="c33">
+    <title lang="ca">102 minuts que van canviar Amèrica</title>
+    <sub-title lang="ca">102 minuts que van canviar Amèrica - 102 minuts que van canviar Amèrica</sub-title>
+    <desc lang="ca">Dimarts, onze de setembre de 2001. Nova York, 8.46 h. A mesura que els esdeveniments s'anaven succeint al llarg del matí, uns testimonis presencials quedaven estupefactes pel xoc, uns altres decidien ajudar els qui demanaven auxili i uns altres buscaven un lloc segur mentre el món, astorat, mirava d'entendre i assumir el que passava. Molts novaiorquesos van agafar les seves càmeres abans de fugir per gravar la Història en el mateix moment en què s'escrivia. A pesar del caos i el perill molts van continuar gravant enmig d'aquella catàstrofe durant els 102 minuts que van passar des que el primer avió es va estavellar contra la primera de les Torres Bessones fins que tots dos edificis es van esfondrar. La pel·lícula integra centenars de peces de gravacions i constitueix un testimoni històric perfecte i esgarrifós. És el documental definitiu sobre els atemptats de l'onze de setembre de 2011 a Manhattan.</desc>
+    <length units="seconds">7095</length>
+    <episode-num system="onscreen">1</episode-num>
     <category lang="ca">DIVULGACIÓ</category>
     <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
     <rating>
@@ -132,28 +126,25 @@
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
+    <icon src="https://img.3cat.cat/multimedia/jpg/6/1/1787557671916.jpg"/>
   </programme>
-  <programme start="20260911205943 +0200" stop="20260911210121 +0200" channel="c33">
-    <title lang="ca">SENSE FI CANAL 33</title>
-    <desc lang="ca">Sense Descripció</desc>
-    <length units="seconds">98</length>
+  <programme start="20260911235654 +0200" stop="20260912011215 +0200" channel="c33">
+    <title lang="ca">El cas dels catalans</title>
+    <sub-title lang="ca">El cas dels catalans - El cas dels catalans</sub-title>
+    <length units="seconds">4521</length>
+    <episode-num system="onscreen">1</episode-num>
+    <category lang="ca">DIVULGACIÓ</category>
+    <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <subtitles type="teletext"/>
+    <previously-shown/>
+    <icon src="https://img.3cat.cat/multimedia/jpg/8/5/1788500441458.jpg"/>
   </programme>
   <channel id="oca1">
     <display-name>OCA1</display-name>
   </channel>
-  <programme start="20260911185500 +0200" stop="20260911205955 +0200" channel="oca1">
-    <title lang="ca">Handbol</title>
-    <sub-title lang="ca">- Logronyo-Barça / Lliga Asobal / J1</sub-title>
-    <desc lang="ca">L'objectiu dels blaugranes és guanyar la 17a Lliga consecutiva. El camí cap al nou títol arrenca a la capital de La Rioja amb la narració de Joan Ramon Vallvé i l'anàlisi de Víctor Tomàs.</desc>
-    <length units="seconds">7495</length>
-    <episode-num system="onscreen">194</episode-num>
-    <category lang="ca">ESPORTS</category>
-    <category lang="ca">RETRANSMISSIONS ESPORTS</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <icon src="https://img.ccma.cat/multimedia/jpg/9/1/1700215879019.jpg"/>
-  </programme>
   <channel id="oca2">
     <display-name>OCA2</display-name>
   </channel>
