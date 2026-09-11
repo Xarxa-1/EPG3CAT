@@ -3,69 +3,84 @@
   <channel id="tvi">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20260911020907 +0200" stop="20260911043000 +0200" channel="tvi">
+  <programme start="20260911070000 +0200" stop="20260911100000 +0200" channel="tvi">
     <title lang="ca">Notícies 3CatInfo</title>
     <sub-title lang="ca">Notícies 3CatInfo</sub-title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">8453</length>
-    <episode-num system="onscreen">11139</episode-num>
+    <length units="seconds">10800</length>
+    <episode-num system="onscreen">11141</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <previously-shown/>
     <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
-  <programme start="20260911043000 +0200" stop="20260911051608 +0200" channel="tvi">
-    <title lang="ca">Fusió i swing a l'estudi</title>
-    <sub-title lang="ca">Fusió i swing a l'estudi - LA VELLA DIXIELAND</sub-title>
-    <desc lang="ca">Amb més de 30 anys dalt de l'escenari, La Vella Dixieland és un cas inèdit en el panorama jazzístic nacional, i amb la seva persistència s'ha convertit en grup de referència. En els seus concerts es submergeixen en les essències del jazz: música calenta, ritmes encomanadissos i complicitat amb el públic. Pep Gol a la trompeta; Xavi Manau, al trombó; Pau Casares, al clarinet; Gerard Nieto, al piano; Josemi Moraleda, al contrabaix, i Pinyu Martí, a la bateria.</desc>
-    <length units="seconds">2768</length>
-    <episode-num system="onscreen">23</episode-num>
-    <category lang="ca">MUSICALS</category>
-    <category lang="ca">ALTRES</category>
+  <programme start="20260911100000 +0200" stop="20260911115959 +0200" channel="tvi">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <sub-title lang="ca">Notícies 3CatInfo</sub-title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="seconds">7199</length>
+    <episode-num system="onscreen">11142</episode-num>
+    <category lang="ca">ACTUALITAT</category>
+    <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <previously-shown/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
   <channel id="324">
     <display-name>324</display-name>
   </channel>
-  <programme start="20260911010000 +0200" stop="20260911060000 +0200" channel="324">
+  <programme start="20260911070000 +0200" stop="20260911100000 +0200" channel="324">
     <title lang="ca">Notícies 3CatInfo</title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">18000</length>
-    <episode-num system="onscreen">11139</episode-num>
+    <length units="seconds">10800</length>
+    <episode-num system="onscreen">11141</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <previously-shown/>
+    <subtitles type="teletext"/>
     <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
-  <programme start="20260911060000 +0200" stop="20260911070000 +0200" channel="324">
+  <programme start="20260911100000 +0200" stop="20260911120000 +0200" channel="324">
     <title lang="ca">Notícies 3CatInfo</title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">3600</length>
-    <episode-num system="onscreen">11140</episode-num>
+    <length units="seconds">7200</length>
+    <episode-num system="onscreen">11142</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
+    <subtitles type="teletext"/>
     <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
   <channel id="esport3">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20260911022100 +0200" stop="20260911040720 +0200" channel="esport3">
+  <programme start="20260911065752 +0200" stop="20260911082743 +0200" channel="esport3">
+    <title lang="ca">Onze</title>
+    <sub-title lang="ca">Onze</sub-title>
+    <desc lang="ca">Carles Fité, Víctor Lozano, Juli Garcia i David Bernabeu analitzen el partit de Champions del Barça. Sergi Ferrer atén els dubtes dels espectadors de l'Onze.</desc>
+    <length units="seconds">5391</length>
+    <episode-num system="onscreen">1247</episode-num>
+    <category lang="ca">ESPORTS</category>
+    <category lang="ca">MAGAZINE</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <subtitles type="teletext"/>
+    <previously-shown/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/1/1/1688543515711.jpg"/>
+  </programme>
+  <programme start="20260911082743 +0200" stop="20260911101342 +0200" channel="esport3">
     <title lang="ca">Bàsquet</title>
     <sub-title lang="ca">Bàsquet - Barça-MoraBanc Andorra / Lliga Catalana / J2</sub-title>
     <desc lang="ca">Des de Tarragona, segon partit del grup 1 a la Lliga Catalana de bàsquet. Amb Víctor Lavagnini, Nil Llobet i Nacho Solozabal. </desc>
-    <length units="seconds">6380</length>
+    <length units="seconds">6359</length>
     <episode-num system="onscreen">138</episode-num>
     <category lang="ca">ESPORTS</category>
     <category lang="ca">RETRANSMISSIONS ESPORTS</category>
@@ -75,44 +90,31 @@
     <previously-shown/>
     <icon src="https://img.3cat.cat/multimedia/jpg/7/7/1788941967477.jpg"/>
   </programme>
-  <programme start="20260911040720 +0200" stop="20260911060336 +0200" channel="esport3">
-    <title lang="ca">Bàsquet</title>
-    <sub-title lang="ca">Bàsquet - FIATC Girona-iLERNA Lleida / Lliga Catalana / J2</sub-title>
-    <desc lang="ca">Segon partit al grup 2 de la Lliga Catalana de bàsquet que es disputa a Tarragona. Amb Víctor Lavagnini, Nil Llobet i Nacho Solozabal. </desc>
-    <length units="seconds">6976</length>
-    <episode-num system="onscreen">137</episode-num>
-    <category lang="ca">ESPORTS</category>
-    <category lang="ca">RETRANSMISSIONS ESPORTS</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <icon src="https://img.3cat.cat/multimedia/jpg/7/7/1788941967477.jpg"/>
-  </programme>
   <channel id="sx3">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20260911030504 +0200" stop="20260911032542 +0200" channel="sx3">
-    <title lang="ca">Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
-    <sub-title lang="ca">Prodigiosa: Les aventures de Ladybug i Gat Noir - Pixelator</sub-title>
-    <desc lang="ca">La classe de la Marinette fa pràctiques a l'hotel del senyor Bourgeois, el pare de la Chloé. Casualment l'estrella de rock Jagged Stone entra a l'hotel i demana la suite més luxosa. Tot sembla tranquil fins que un fan de l'Stone, que l'ha seguit per tots els concerts, aconsegueix entrar a l'hotel per fotografiar-se amb el seu ídol, però l'equip de l'Stone el fa fora de mala manera. </desc>
-    <length units="seconds">1238</length>
-    <episode-num system="onscreen">18</episode-num>
-    <category lang="ca">FICCIÓ</category>
-    <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
+  <programme start="20260911080418 +0200" stop="20260911081337 +0200" channel="sx3">
+    <title lang="ca">Titó</title>
+    <sub-title lang="ca">Titó - Excursió a respirar</sub-title>
+    <desc lang="ca">La tornada al cole ja és aquí i és normal que tots estiguem una mica nerviosos. Avui en Titó anirà d'excursió a respirar d'una manera molt especial que ens pot ajudar a calmar-nos. Inspirarem, espirarem... i farem bombolles de sabó amb en John C! </desc>
+    <length units="seconds">559</length>
+    <episode-num system="onscreen">57</episode-num>
+    <category lang="ca">ENTRETENIMENT</category>
+    <category lang="ca">ALTRES</category>
     <rating>
       <value>INFANTIL</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20260911032542 +0200" stop="20260911034620 +0200" channel="sx3">
-    <title lang="ca">Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
-    <sub-title lang="ca">Prodigiosa: Les aventures de Ladybug i Gat Noir - El Guitarrista Malvat</sub-title>
-    <desc lang="ca">Al Jagged Stone, l'estrella del rock, li surt un competidor jove i arrogant, anomenat XY, que el desbanca en la llista dels més venuts i deixa el Jagged en segon lloc. La discogràfica pressiona el Jagged, perquè canviï d'estil, però s'hi nega en rodó. L'Esfinx, llavors, aprofita la ràbia i la frustració del cantant per obtenir els prodigis de Ladybug i el Gat Noir. </desc>
-    <length units="seconds">1238</length>
-    <episode-num system="onscreen">19</episode-num>
-    <category lang="ca">FICCIÓ</category>
-    <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
+  <programme start="20260911081337 +0200" stop="20260911082356 +0200" channel="sx3">
+    <title lang="ca">Titó</title>
+    <sub-title lang="ca">Titó - Excursió a l'escola rural</sub-title>
+    <desc lang="ca">Ja ha arribat l'hora de tornar a l'escola! A l'excursió d'avui jugarem amb la Tat a fer de detectius i descobrirem què és una escola rural. Ja sabeu a qui ens trobarem de mestre, oi? </desc>
+    <length units="seconds">619</length>
+    <episode-num system="onscreen">180</episode-num>
+    <category lang="ca">ENTRETENIMENT</category>
+    <category lang="ca">ALTRES</category>
     <rating>
       <value>INFANTIL</value>
     </rating>
@@ -122,67 +124,34 @@
   <channel id="c33">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20260911025858 +0200" stop="20260911042948 +0200" channel="c33">
-    <title lang="ca">Pel·lícula</title>
-    <sub-title lang="ca">Pel·lícula - Assassinats a La Ciutat</sub-title>
-    <desc lang="ca">ASSASSINATS A LA CIUTAT 'Meurtres à La Ciotat'Direcció: Dominique LadogeGuió: Elsa ChabrolProducció: Neutra Production, Klim Production, AT Production, RTBF, France Télévisions, TV5 Monde, France 3 (FR 3), Radio Télévision Suisse (RTS)Any: 2016Durada: 92País: França Música: Nicolas JorelleIntèrprets: Élodie Varlet, Philippe Bas, Olivier Pagès, Julie Boulanger, Denis Braccini, Moussa Maaskri, Géraldine Loup, François Cottrelle, Jean-Marc Michelangeli, Didier Bourguignon, Isalinde Giovangigli, Anne-Marie Ponsot, Joan Titus, Christine Cardeur, Anita Sarxian, Jean-Marc Ravera, Georges Neri, Roland Munter, Hervé Bonzom, Jean Nehr, Martin Kamoun.Han trobat el cos d'un home penjat a una nau de les drassanes de La Ciutat. Aquesta troballa porta la jove comissària Anne Sauvaire al moll de l'os d'una història enterrada en el passat dels habitants de La Ciutat i els antics treballadors de les drassanes.El periodista Batti Vergniot l'acompanyarà en aquesta investigació complexa amb un rerefons d'antics conflictes socials i silencis, sense imaginar les conseqüències de la seva investigació.La recerca personal i discreta de l'Anne sobre el passat del seu pare toparà amb una investigació difícil, en una ciutat desapareguda i discreta, on la llei del silenci no és un mite... El passat és passat.Quan es produeix una segona mort, la investigació s'enfonsa...</desc>
-    <credits>
-      <director>Dominique Ladoge</director>
-      <writer>Elsa Chabrol</writer>
-      <actor>Élodie Varlet</actor>
-      <actor>Philippe Bas</actor>
-      <actor>Olivier Pagès</actor>
-      <actor>Julie Boulanger</actor>
-      <actor>Denis Braccini</actor>
-      <actor>Moussa Maaskri</actor>
-      <actor>Géraldine Loup</actor>
-      <actor>François Cottrelle</actor>
-      <actor>Jean-Marc Michelangeli</actor>
-      <actor>Didier Bourguignon</actor>
-      <actor>Isalinde Giovangigli</actor>
-      <actor>Anne-Marie Ponsot</actor>
-      <actor>Joan Titus</actor>
-      <actor>Christine Cardeur</actor>
-      <actor>Anita Sarxian</actor>
-      <actor>Jean-Marc Ravera</actor>
-      <actor>Georges Neri</actor>
-      <actor>Roland Munter</actor>
-      <actor>Hervé Bonzom</actor>
-      <actor>Jean Nehr</actor>
-      <actor>Martin Kamoun.Han trobat el cos d'un home penjat a una nau de les drassanes de La Ciutat. Aquesta troballa porta la jove comissària Anne Sauvaire al moll de l'os d'una història enterrada en el passat dels habitants de La Ciutat</actor>
-      <actor>els antics treballadors de les drassanes.El periodista Batti Vergniot l'acompanyarà en aquesta investigació complexa amb un rerefons d'antics conflictes socials</actor>
-      <actor>silencis</actor>
-      <actor>sense imaginar les conseqüències de la seva investigació.La recerca personal</actor>
-      <actor>discreta de l'Anne sobre el passat del seu pare toparà amb una investigació difícil</actor>
-      <actor>en una ciutat desapareguda</actor>
-      <actor>discreta</actor>
-      <actor>on la llei del silenci no és un mite... El passat és passat.Quan es produeix una segona mort</actor>
-      <actor>la investigació s'enfonsa...</actor>
-    </credits>
-    <length units="seconds">5450</length>
-    <episode-num system="onscreen">1</episode-num>
-    <category lang="ca">FICCIÓ</category>
-    <category lang="ca">PEL·LÍCULA / TELEFILM</category>
+  <programme start="20260911073817 +0200" stop="20260911081006 +0200" channel="c33">
+    <title lang="ca">Quèquicom</title>
+    <sub-title lang="ca">Quèquicom - Tractors, de la mula al xip</sub-title>
+    <desc lang="ca">Llaurem amb un cavall, comparem la potència d'un tractor antic amb un de modern capaç de veremar o recollir el blat de moro automàticament. Tot llaurant aprenem perquè tenen les rodes tan grosses i que són el Watt i el cavall de vapor.D'ençà de la seva aparició l'agricultura ha tingut diverses revolucions tecnològiques, que sempre han anat en la direcció d'estalviar esforç i augmentar l'eficiència: la tracció animal, la mecanització, la precisió i la interconnexió. Només falta la robotització, i el pagès no haurà de moure ni un dit per treballar al camp.</desc>
+    <length units="seconds">1909</length>
+    <episode-num system="onscreen">344</episode-num>
+    <category lang="ca">DIVULGACIÓ</category>
+    <category lang="ca">MAGAZINE ESPECIALITZAT</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
-    <icon src="https://img.3cat.cat/multimedia/jpg/9/2/1752477553229.jpg"/>
   </programme>
-  <programme start="20260911042948 +0200" stop="20260911051000 +0200" channel="c33">
-    <title lang="ca">La Mar de Bé</title>
-    <sub-title lang="ca">La Mar de Bé - Liris</sub-title>
-    <desc lang="ca">Barraca de pescadors Liris, Cala Tamariu, Palafrugell. En aquest capítol, els pescadors seran els convidats d'en Quim Casellas, que els prepararà un arròs socarrat com a agraïment per haver-lo acollit a les seves embarcacions. Serà un dia especial i únic, que servirà per compartir històries i anècdotes de la mar, i que acabarà amb una sorpresa musical per als pescadors. Abans, però, en Quim descobrirà, amb l'Àngela Martí, un dels llocs on antigament es reunien els pescadors i on la gastronomia i la música també eren protagonistes: les barraques de pescadors. </desc>
-    <length units="seconds">2412</length>
-    <episode-num system="onscreen">9</episode-num>
-    <category lang="ca">ENTRETENIMENT</category>
+  <programme start="20260911081006 +0200" stop="20260911085614 +0200" channel="c33">
+    <title lang="ca">La Renaixença</title>
+    <sub-title lang="ca">La Renaixença - Millors moments - setmana 14</sub-title>
+    <desc lang="ca">Aquí hi trobareu un resum de tot el que ha passat els últims capítols del programa: hem xerrat amb la Judit Mascó, en Llorenç Barba, Els Amics de les Arts i la Júlia Truyol. També hem parlat sobre la capa, el compàs, les puntes de coixí i els dards. I hem sortit a passejar 4 gossos per 4 moments històrics. Que a en Fel no li agrada, però nosaltres ho seguim fent (perquè sí que ens agrada).</desc>
+    <length units="seconds">2768</length>
+    <episode-num system="onscreen">70</episode-num>
+    <category lang="ca">DIVULGACIÓ</category>
     <category lang="ca">ALTRES</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/3/3/1756148014833.jpg"/>
   </programme>
   <channel id="oca1">
     <display-name>OCA1</display-name>
