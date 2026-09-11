@@ -3,22 +3,11 @@
   <channel id="tvi">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20260911220101 +0200" stop="20260912004830 +0200" channel="tvi">
-    <title lang="ca">Teatre</title>
-    <sub-title lang="ca">Teatre - L'amor venia amb taxi</sub-title>
-    <length units="seconds">10049</length>
-    <episode-num system="onscreen">1</episode-num>
-    <category lang="ca">FICCIÓ</category>
-    <category lang="ca">TEATRE</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-  </programme>
-  <programme start="20260912004830 +0200" stop="20260912022121 +0200" channel="tvi">
+  <programme start="20260912004646 +0200" stop="20260912022002 +0200" channel="tvi">
     <title lang="ca">Concert</title>
     <sub-title lang="ca">Concert - Mishima al Mercat de Música Viva de Vic 2025</sub-title>
     <desc lang="ca">Mishima ha trepitjat l'escenari de la plaça Major de Vic fent un desplegament de gran part del seu repertori. El concert, que ha posat punt final al Mercat de Música Viva de Vic de 2025, també ha servit per retre homenatge al desaparegut Marc Lloret, integrant del grup i director del MMVV des del 2010. </desc>
-    <length units="seconds">5571</length>
+    <length units="seconds">5596</length>
     <episode-num system="onscreen">1</episode-num>
     <category lang="ca">MUSICALS</category>
     <category lang="ca">ALTRES</category>
@@ -28,35 +17,57 @@
     <previously-shown/>
     <icon src="https://img.3cat.cat/multimedia/jpg/0/1/1788636264010.jpg"/>
   </programme>
-  <channel id="324">
-    <display-name>324</display-name>
-  </channel>
-  <programme start="20260911230000 +0200" stop="20260912000000 +0200" channel="324">
+  <programme start="20260912022002 +0200" stop="20260912043000 +0200" channel="tvi">
     <title lang="ca">Notícies 3CatInfo</title>
+    <sub-title lang="ca">Notícies 3CatInfo</sub-title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">3600</length>
-    <episode-num system="onscreen">11146</episode-num>
+    <length units="seconds">7798</length>
+    <episode-num system="onscreen">11148</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <subtitles type="teletext"/>
+    <previously-shown/>
     <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
-  <programme start="20260912000000 +0200" stop="20260912003000 +0200" channel="324">
-    <title lang="ca">Telenotícies migdia (reemissió)</title>
-    <length units="seconds">1800</length>
-    <subtitles type="teletext"/>
+  <channel id="324">
+    <display-name>324</display-name>
+  </channel>
+  <programme start="20260912010000 +0200" stop="20260912060000 +0200" channel="324">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="seconds">18000</length>
+    <episode-num system="onscreen">11148</episode-num>
+    <category lang="ca">ACTUALITAT</category>
+    <category lang="ca">INFORMATIU DIÀRI</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <previously-shown/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
+  </programme>
+  <programme start="20260912060000 +0200" stop="20260912070000 +0200" channel="324">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="seconds">3600</length>
+    <episode-num system="onscreen">11148</episode-num>
+    <category lang="ca">ACTUALITAT</category>
+    <category lang="ca">INFORMATIU DIÀRI</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <previously-shown/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
   <channel id="esport3">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20260911220927 +0200" stop="20260911230600 +0200" channel="esport3">
+  <programme start="20260912005034 +0200" stop="20260912024442 +0200" channel="esport3">
     <title lang="ca">Bàsquet</title>
     <sub-title lang="ca">Bàsquet - Kids&amp;Us Manresa-Barça / Lliga Catalana / J3</sub-title>
     <desc lang="ca">Des de Tarragona, tercer i últim partit del grup 1 a la Lliga Catalana de Bàsquet. Amb Víctor Lavagnini, Nil Llobet i Nacho Solozabal.</desc>
-    <length units="seconds">3393</length>
+    <length units="seconds">6848</length>
     <episode-num system="onscreen">140</episode-num>
     <category lang="ca">ESPORTS</category>
     <category lang="ca">RETRANSMISSIONS ESPORTS</category>
@@ -66,28 +77,29 @@
     <previously-shown/>
     <icon src="https://img.3cat.cat/multimedia/jpg/7/7/1788941967477.jpg"/>
   </programme>
-  <programme start="20260911230600 +0200" stop="20260912002320 +0200" channel="esport3">
-    <title lang="ca">Handbol</title>
-    <sub-title lang="ca">Handbol - Logronyo-Barça / Lliga Asobal / J1</sub-title>
-    <desc lang="ca">L'objectiu dels blaugranes és guanyar la 17a Lliga consecutiva. El camí cap al nou títol arrenca a la capital de La Rioja amb la narració de Joan Ramon Vallvé i l'anàlisi de Víctor Tomàs.</desc>
-    <length units="seconds">4640</length>
-    <episode-num system="onscreen">194</episode-num>
+  <programme start="20260912024442 +0200" stop="20260912043150 +0200" channel="esport3">
+    <title lang="ca">Bàsquet</title>
+    <sub-title lang="ca">Bàsquet - Asisa Joventut-FIATC Girona / Lliga Catalana / J3</sub-title>
+    <desc lang="ca">Tercer i últim partit del grup 2 a la Lliga Catalana de bàsquet. Amb Víctor Lavagnini, Nil Llobet i Nacho Solozabal. </desc>
+    <length units="seconds">6428</length>
+    <episode-num system="onscreen">139</episode-num>
     <category lang="ca">ESPORTS</category>
     <category lang="ca">RETRANSMISSIONS ESPORTS</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <icon src="https://img.ccma.cat/multimedia/jpg/9/1/1700215879019.jpg"/>
+    <previously-shown/>
+    <icon src="https://img.3cat.cat/multimedia/jpg/7/7/1788941967477.jpg"/>
   </programme>
   <channel id="sx3">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20260911224502 +0200" stop="20260911230555 +0200" channel="sx3">
-    <title lang="ca">El detectiu Conan</title>
-    <sub-title lang="ca">El detectiu Conan - Una mansió envoltada de zombis (3a part)</sub-title>
-    <desc lang="ca">Amb la poca ajuda de l'inspector Yamamura, de la policia de la prefectura de Gunma, en Conan i en Heiji Hattori comencen a resoldre el misteri de les morts del senyor Harawaki i de la Kyoko, tots dos membres de l'equip de rodatge d'una pel·lícula que estan filmant en una mansió situada enmig de la muntanya. Tot fa pensar que no ha sigut cap zombi, sinó un dels membres de l'equip.</desc>
-    <length units="seconds">1253</length>
-    <episode-num system="onscreen">887</episode-num>
+  <programme start="20260912010336 +0200" stop="20260912011440 +0200" channel="sx3">
+    <title lang="ca">Les Sisters</title>
+    <sub-title lang="ca">Les Sisters - Amor galàctic</sub-title>
+    <desc lang="ca">La Marine està mirant una pel·lícula de ciència-ficció i es convenç que el Maxence és un extraterrestre disfressat d'humà que ha vingut a la Terra a segrestar la seva germana Wendy per emportar-se-la al seu planeta. Farà tot el possible per salvar-la i fer fora el terrible extraterrestre, sense adonar-se que es tracta del pobre Maxence disfressat.</desc>
+    <length units="seconds">664</length>
+    <episode-num system="onscreen">7</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
@@ -96,12 +108,12 @@
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20260911230555 +0200" stop="20260911232739 +0200" channel="sx3">
-    <title lang="ca">Els germans Kratt</title>
-    <sub-title lang="ca">Els germans Kratt - La ciutat dels falcons</sub-title>
-    <desc lang="ca">L'Aviva està acabant d'enllestir el vestit de falcó peregrí, l'animal que vola més de pressa del món. En Chris frisa per anar a buscar falcons a l'altiplà d'Etiòpia, en Martin s'estimaria més anar-los a buscar al Pantanal del Brasil, però en Zach acaba d'enviar els seus zachbots a liquidar un niu de falcons que hi ha a la ciutat. Avui, res de viatges, avui toca salvar falcons a la ciutat!</desc>
-    <length units="seconds">1304</length>
-    <episode-num system="onscreen">21</episode-num>
+  <programme start="20260912011440 +0200" stop="20260912012642 +0200" channel="sx3">
+    <title lang="ca">Les Sisters</title>
+    <sub-title lang="ca">Les Sisters - La meva germana és una zombi</sub-title>
+    <desc lang="ca">A la Wendy li surt un gra espantós a la cara. La Marine li prepara una crema a base de camembert que encara empitjora les coses. Li surten tants grans que sembla un zombi. Aviat els veïns surten a caçar zombis pel barri. Pobra Wendy!</desc>
+    <length units="seconds">722</length>
+    <episode-num system="onscreen">8</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
@@ -113,34 +125,60 @@
   <channel id="c33">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20260911215839 +0200" stop="20260911235654 +0200" channel="c33">
-    <title lang="ca">102 minuts que van canviar Amèrica</title>
-    <sub-title lang="ca">102 minuts que van canviar Amèrica - 102 minuts que van canviar Amèrica</sub-title>
-    <desc lang="ca">Dimarts, onze de setembre de 2001. Nova York, 8.46 h. A mesura que els esdeveniments s'anaven succeint al llarg del matí, uns testimonis presencials quedaven estupefactes pel xoc, uns altres decidien ajudar els qui demanaven auxili i uns altres buscaven un lloc segur mentre el món, astorat, mirava d'entendre i assumir el que passava. Molts novaiorquesos van agafar les seves càmeres abans de fugir per gravar la Història en el mateix moment en què s'escrivia. A pesar del caos i el perill molts van continuar gravant enmig d'aquella catàstrofe durant els 102 minuts que van passar des que el primer avió es va estavellar contra la primera de les Torres Bessones fins que tots dos edificis es van esfondrar. La pel·lícula integra centenars de peces de gravacions i constitueix un testimoni històric perfecte i esgarrifós. És el documental definitiu sobre els atemptats de l'onze de setembre de 2011 a Manhattan.</desc>
-    <length units="seconds">7095</length>
-    <episode-num system="onscreen">1</episode-num>
+  <programme start="20260912011217 +0200" stop="20260912020847 +0200" channel="c33">
+    <title lang="ca">300</title>
+    <sub-title lang="ca">300 - La llengua</sub-title>
+    <desc lang="ca">En aquest episodi de la sèrie '300', el presentador ens explica diverses històries quotidianes que ens permeten veure què ha passat amb la llengua d'aquest país els últims tres-cents anys. La pregunta que es fa és: com és que tres-cents anys després encara parlem català? Després del 1714, la nova administració espanyola va engegar un projecte per unificar tot el territori amb una sola llengua, el castellà. Però a la Catalunya de llavors pràcticament només es parlava català. El 1786, el jutge Francisco de Zamora va recórrer tot Catalunya amb un encàrrec del rei Carles III: esbrinar si les mesures que s'havien dictat per aconseguir aquell objectiu havien fet efecte o no.A mitjans del segle XIX, la llengua del país estava canviant. Les classes benestants havien assumit el castellà com a llengua habitual i la imposició del castellà a les escoles es començava a notar. Vegeu si no el diari que va deixar escrit Ramon Argullol, un viticultor manresà, en què ens explica les peripècies per conquistar el cor d'una joveneta trenta anys més jove.En aquesta mateixa època, el gaèlic irlandès, que fins aleshores era la llengua majoritària a Irlanda, va començar a desaparèixer. Fins al punt que a principis del segle XX, quan Irlanda es va convertir en un estat independent, la llengua irlandesa pràcticament havia desaparegut. A Catalunya podia passar el mateix. Però aleshores un grup d'intel·lectuals va proposar-se recuperar la llengua literària catalana. I l'any 1859 van organitzar els primers Jocs Florals recuperats.Les dues dictadures del segle XX van reprendre el projecte unificador d'una manera violenta. Però l'autèntic canvi lingüístic va venir dels grans moviments migratoris del segle. Molts d'aquells nouvinguts van impulsar un nou canvi històric. A Santa Coloma de Gramenet, la ciutat més castellanoparlant del país, un grup de pares immigrants van impulsar la primera experiència d'immersió lingüística.</desc>
+    <length units="seconds">3390</length>
+    <episode-num system="onscreen">6</episode-num>
     <category lang="ca">DIVULGACIÓ</category>
-    <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
+    <category lang="ca">DOCUMENTAL DOCUDRAMA</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
-    <icon src="https://img.3cat.cat/multimedia/jpg/6/1/1787557671916.jpg"/>
   </programme>
-  <programme start="20260911235654 +0200" stop="20260912011215 +0200" channel="c33">
-    <title lang="ca">El cas dels catalans</title>
-    <sub-title lang="ca">El cas dels catalans - El cas dels catalans</sub-title>
-    <length units="seconds">4521</length>
+  <programme start="20260912020847 +0200" stop="20260912033831 +0200" channel="c33">
+    <title lang="ca">Pel·lícula</title>
+    <sub-title lang="ca">Pel·lícula - L'arquer negre</sub-title>
+    <desc lang="ca">L'ARQUER NEGRE 'L'Archer Noir'Direcció: Christian GuerinelGuió: Richard Roulet, Lionel Pasquier, Christian GuerinelProducció: Calt Production, Eloïse Films, France Télévisions, BE-FILMS, RTBF (Télévision Belge), Radio Télévision Suisse (RTS)Any: 2019Durada: 90País: FrançaMúsica: Franck Pilant, Maïdi RothFotografia: Olivier GuarguirIntèrprets: Laurent Ournac, Hélène Degy, Christian Rauth, Cédric Chevalme, Laurent Spielvogel, Estelle Vincent, Jean-François Palaccio, Frédéric Maranber, Théo Bertrand, Hugo Bariller, Thierry Nenez, Hélène Bizot, Hélène Megy, Elodie Rouprêt, Dominique Isnard, Fabien BaïardiUns soldats descobreixen un cadàver ple de fletxes durant un entrenament militar al bosc. La tinenta de la gendarmeria Diane Giraud haurà de col·laborar amb el capità Alex Lançon, l'oficial enviat per l'exèrcit per ajudar en la resolució de l'assassinat. Durant la investigació, la Diane i l'Alex descobreixen que les fletxes són rèpliques de les que, segles enrere, disparava l''Arquer Negre', una figura llegendària local que l'any 975 es dedicava a defensar els habitants de la zona dels pirates bàrbars de l'època.</desc>
+    <credits>
+      <director>Christian</director>
+      <writer>Richard Roulet</writer>
+      <writer>Lionel</writer>
+      <actor>Laurent Ournac</actor>
+      <actor>Hélène Degy</actor>
+      <actor>Christian Rauth</actor>
+      <actor>Cédric Chevalme</actor>
+      <actor>Laurent Spielvogel</actor>
+      <actor>Estelle Vincent</actor>
+      <actor>Jean-François Palaccio</actor>
+      <actor>Frédéric Maranber</actor>
+      <actor>Théo Bertrand</actor>
+      <actor>Hugo Bariller</actor>
+      <actor>Thierry Nenez</actor>
+      <actor>Hélène Bizot</actor>
+      <actor>Hélène Megy</actor>
+      <actor>Elodie Rouprêt</actor>
+      <actor>Dominique Isnard</actor>
+      <actor>Fabien BaïardiUns soldats descobreixen un cadàver ple de fletxes durant un entrenament militar al bosc. La tinenta de la gendarmeria Diane Giraud haurà de col·laborar amb el capità Alex Lançon</actor>
+      <actor>l'oficial enviat per l'exèrcit per ajudar en la resolució de l'assassinat. Durant la investigació</actor>
+      <actor>la Diane</actor>
+      <actor>l'Alex descobreixen que les fletxes són rèpliques de les que</actor>
+      <actor>segles enrere</actor>
+      <actor>disparava l''Arquer Negre'</actor>
+      <actor>una figura llegendària local que l'any 975 es dedicava a defensar els habitants de la zona dels pirates bàrbars de l'època.</actor>
+    </credits>
+    <length units="seconds">5384</length>
     <episode-num system="onscreen">1</episode-num>
-    <category lang="ca">DIVULGACIÓ</category>
-    <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
+    <category lang="ca">FICCIÓ</category>
+    <category lang="ca">PEL·LÍCULA / TELEFILM</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
-    <previously-shown/>
-    <icon src="https://img.3cat.cat/multimedia/jpg/8/5/1788500441458.jpg"/>
+    <icon src="https://img.3cat.cat/multimedia/jpg/0/4/1788500679640.jpg"/>
   </programme>
   <channel id="oca1">
     <display-name>OCA1</display-name>
