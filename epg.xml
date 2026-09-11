@@ -3,148 +3,113 @@
   <channel id="tvi">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20260911170004 +0200" stop="20260911173006 +0200" channel="tvi">
-    <title lang="ca">Especial informatiu: Manifestació 11 S</title>
-    <sub-title lang="ca">Especial informatiu: Manifestació 11 S - 11S Diada Nacional de Catalunya</sub-title>
-    <desc lang="ca">Seguiment de les manifestacions per la independència convocades a Barcelona, Girona i Amposta i tota l'actualitat de la Diada Nacional de Catalunya, amb connexions en directe, taula d'analistes i entrevistes als protagonistes de la jornada.</desc>
-    <length units="seconds">1802</length>
-    <episode-num system="onscreen">10</episode-num>
+  <programme start="20260911200002 +0200" stop="20260911210004 +0200" channel="tvi">
+    <title lang="ca">Acte institucional 11 de setembre 2026</title>
+    <sub-title lang="ca">Acte institucional 11 de setembre 2026 - Diada Nacional de Catalunya 2026</sub-title>
+    <desc lang="ca">Des del Teatre Nacional de Catalunya, transmissió de l'acte central de la Diada. Commemoració dels 50 anys de la primera celebració oficial de l'11 de Setembre després del franquisme. Amb les actuacions de Joan Dausà, Sopa de Cabra, Alosa, Andrea Motis i Guillem Roma, entre d'altres.</desc>
+    <length units="seconds">3602</length>
+    <episode-num system="onscreen">6</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">RETRANSMISSIONS ACTUALITAT</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <icon src="https://img.ccma.cat/multimedia/png/4/6/1789049674264.png"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/2/9/1734943621392.jpg"/>
   </programme>
-  <programme start="20260911173006 +0200" stop="20260911181900 +0200" channel="tvi">
-    <title lang="ca">Pel·lícula</title>
-    <sub-title lang="ca">Pel·lícula - El rastre del llop</sub-title>
-    <desc lang="ca">Directora: Ángeles HernándezGuionistes: Ángeles Hernández i Xénia PuigrósDirector de fotografia: Mariano SuarezCompositora de música: Mariana Ortega Intèrprets: Elisabet Casanovas (Sofia), Andrés Herrera (Gabriel), Carles Francino (Marti), Elena Gadel (Carol) i Micky Nuñez (Jaume)En ser mare i arran de la mort del seu germà, la Sofia torna a casa seva 10 anys després d'haver-ne marxat: l'única casa del poble que genera vida gràcies al seu pou d'aigua, que permet mantenir l'hort i el bestiar. Allà es retroba amb el seu pare, en Gabriel, que està malalt i a punt de morir a causa d'una vacuna inoculada fa 25 anys. I no és l'únic, n'hi ha molts com ell, a qui a causa de la crisi climàtica i la superpoblació, un govern feixista que impulsa la política del fill únic condemna a una mort programada (injectant-li la vacuna 'Saturn25'). Però en Gabriel no va poder escollir: la malaltia del seu fill gran, en Xavier, els va portar a ell i a la seva dona (que va morir en el segon part) a engendrar una criatura, la Sofia, que pogués salvar la vida del primogènit. Justament quan fa 25 anys de la vacunació, els anomenats 'herois del sistema' (els vacunats) comencen a tenir múltiples efectes secundaris i dolor molt agut per la degradació del seu cos. En aquesta distopia, la Sofia es debat entre el passat, el present i el futur. Però lluita per fer-se amb un dels antídots que el nou govern ha posat en marxa per aturar els efectes del verí. A mesura que passen els dies, en Gabriel va degenerant el seu estat de salut i obre incògnites sobre el passat de la seva família, mentre la població es rebel·la per la manca d'aigua.</desc>
-    <credits>
-      <actor>Elisabet Casanovas (Sofia)</actor>
-      <actor>Andrés Herrera (Gabriel)</actor>
-      <actor>Carles Francino (Marti)</actor>
-      <actor>Elena Gadel (Carol)</actor>
-      <actor>Micky Nuñez (Jaume)En ser mare</actor>
-      <actor>arran de la mort del seu germà</actor>
-      <actor>la Sofia torna a casa seva 10 anys després d'haver-ne marxat: l'única casa del poble que genera vida gràcies al seu pou d'aigua</actor>
-      <actor>que permet mantenir l'hort</actor>
-      <actor>el bestiar. Allà es retroba amb el seu pare</actor>
-      <actor>en Gabriel</actor>
-      <actor>que està malalt</actor>
-      <actor>a punt de morir a causa d'una vacuna inoculada fa 25 anys. I no és l'únic</actor>
-      <actor>n'hi ha molts com ell</actor>
-      <actor>a qui a causa de la crisi climàtica</actor>
-      <actor>la superpoblació</actor>
-      <actor>un govern feixista que impulsa la política del fill únic condemna a una mort programada (injectant-li la vacuna 'Saturn25'). Però en Gabriel no va poder escollir: la malaltia del seu fill gran</actor>
-      <actor>en Xavier</actor>
-      <actor>els va portar a ell</actor>
-      <actor>a la seva dona (que va morir en el segon part) a engendrar una criatura</actor>
-      <actor>la Sofia</actor>
-      <actor>que pogués salvar la vida del primogènit. Justament quan fa 25 anys de la vacunació</actor>
-      <actor>els anomenats 'herois del sistema' (els vacunats) comencen a tenir múltiples efectes secundaris</actor>
-      <actor>dolor molt agut per la degradació del seu cos. En aquesta distopia</actor>
-      <actor>la Sofia es debat entre el passat</actor>
-      <actor>el present</actor>
-      <actor>el futur. Però lluita per fer-se amb un dels antídots que el nou govern ha posat en marxa per aturar els efectes del verí. A mesura que passen els dies</actor>
-      <actor>en Gabriel va degenerant el seu estat de salut</actor>
-      <actor>obre incògnites sobre el passat de la seva família</actor>
-      <actor>mentre la població es rebel·la per la manca d'aigua.</actor>
-    </credits>
-    <length units="seconds">2934</length>
-    <episode-num system="onscreen">1</episode-num>
-    <category lang="ca">FICCIÓ</category>
-    <category lang="ca">PEL·LÍCULA / TELEFILM</category>
-    <rating>
-      <value>PÚBLIC ADULT</value>
-    </rating>
-    <icon src="https://img.3cat.cat/multimedia/jpg/1/2/1788793157021.jpg"/>
-  </programme>
-  <channel id="324">
-    <display-name>324</display-name>
-  </channel>
-  <programme start="20260911170000 +0200" stop="20260911190000 +0200" channel="324">
-    <title lang="ca">Especial informatiu: Manifestació 11 S</title>
-    <sub-title lang="ca">11S Diada Nacional de Catalunya</sub-title>
-    <desc lang="ca">Seguiment de les manifestacions per la independència convocades a Barcelona, Girona i Amposta i tota l'actualitat de la Diada Nacional de Catalunya, amb connexions en directe, taula d'analistes i entrevistes als protagonistes de la jornada.</desc>
-    <length units="seconds">7200</length>
-    <episode-num system="onscreen">10</episode-num>
-    <category lang="ca">ACTUALITAT</category>
-    <category lang="ca">RETRANSMISSIONS ACTUALITAT</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <subtitles type="teletext"/>
-    <icon src="https://img.ccma.cat/multimedia/png/4/6/1789049674264.png"/>
-  </programme>
-  <programme start="20260911190000 +0200" stop="20260911200000 +0200" channel="324">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">3600</length>
-    <episode-num system="onscreen">11145</episode-num>
+  <programme start="20260911210004 +0200" stop="20260911220017 +0200" channel="tvi">
+    <title lang="ca">Telenotícies vespre</title>
+    <sub-title lang="ca">Telenotícies vespre</sub-title>
+    <length units="seconds">3613</length>
+    <episode-num system="onscreen">7324</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <subtitles type="teletext"/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/7/2/1758026176427.jpg"/>
+  </programme>
+  <channel id="324">
+    <display-name>324</display-name>
+  </channel>
+  <programme start="20260911200000 +0200" stop="20260911210000 +0200" channel="324">
+    <title lang="ca">Acte institucional 11 de setembre 2026</title>
+    <sub-title lang="ca">Diada Nacional de Catalunya 2026</sub-title>
+    <desc lang="ca">Des del Teatre Nacional de Catalunya, transmissió de l'acte central de la Diada. Commemoració dels 50 anys de la primera celebració oficial de l'11 de Setembre després del franquisme. Amb les actuacions de Joan Dausà, Sopa de Cabra, Alosa, Andrea Motis i Guillem Roma, entre d'altres.</desc>
+    <length units="seconds">3600</length>
+    <episode-num system="onscreen">6</episode-num>
+    <category lang="ca">ACTUALITAT</category>
+    <category lang="ca">RETRANSMISSIONS ACTUALITAT</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <icon src="https://img.ccma.cat/multimedia/jpg/2/9/1734943621392.jpg"/>
+  </programme>
+  <programme start="20260911210000 +0200" stop="20260911230000 +0200" channel="324">
+    <title lang="ca">Telenotícies vespre</title>
+    <length units="seconds">7200</length>
+    <episode-num system="onscreen">7324</episode-num>
+    <category lang="ca">ACTUALITAT</category>
+    <category lang="ca">INFORMATIU DIÀRI</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <icon src="https://img.ccma.cat/multimedia/jpg/7/2/1758026176427.jpg"/>
   </programme>
   <channel id="esport3">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20260911163000 +0200" stop="20260911175911 +0200" channel="esport3">
-    <title lang="ca">Piragüisme</title>
-    <sub-title lang="ca">Piragüisme - Copa del Món ICF / Finals caiac eslàlom</sub-title>
-    <desc lang="ca">Finals, masculina i femenina, de caiac eslàlom a la Copa del Món ICF de piragüisme que es fa al Parc Olímpic del Segre de La Seu d'Urgell. Amb la narració de Miquel Ribas. </desc>
-    <length units="seconds">5351</length>
-    <episode-num system="onscreen">8119</episode-num>
+  <programme start="20260911192955 +0200" stop="20260911204500 +0200" channel="esport3">
+    <title lang="ca">Bàsquet</title>
+    <sub-title lang="ca">Bàsquet - Asisa Joventut-FIATC Girona / Lliga Catalana / J3</sub-title>
+    <desc lang="ca">Tercer i últim partit del grup 2 a la Lliga Catalana de bàsquet. Amb Víctor Lavagnini, Nil Llobet i Nacho Solozabal. </desc>
+    <length units="seconds">4505</length>
+    <episode-num system="onscreen">139</episode-num>
     <category lang="ca">ESPORTS</category>
     <category lang="ca">RETRANSMISSIONS ESPORTS</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <icon src="https://img.3cat.cat/multimedia/jpg/5/8/1788949796985.jpg"/>
+    <previously-shown/>
+    <icon src="https://img.3cat.cat/multimedia/jpg/7/7/1788941967477.jpg"/>
   </programme>
-  <programme start="20260911175911 +0200" stop="20260911182000 +0200" channel="esport3">
-    <title lang="ca">Sala de Premsa</title>
-    <sub-title lang="ca">Sala de Premsa - Mourinho / Prèvia R. Madrid-Rayo / J5</sub-title>
-    <desc lang="ca">Esport3 t'ofereix les compareixences de dirigents, jugadors i entrenadors dels equips catalans davant els mitjans de comunicació.</desc>
-    <length units="seconds">1249</length>
-    <episode-num system="onscreen">727</episode-num>
+  <programme start="20260911204500 +0200" stop="20260911214500 +0200" channel="esport3">
+    <title lang="ca">Bàsquet</title>
+    <sub-title lang="ca">Bàsquet - Kids&amp;Us Manresa-Barça / Lliga Catalana / J3</sub-title>
+    <desc lang="ca">Des de Tarragona, tercer i últim partit del grup 1 a la Lliga Catalana de Bàsquet. Amb Víctor Lavagnini, Nil Llobet i Nacho Solozabal.</desc>
+    <length units="seconds">3600</length>
+    <episode-num system="onscreen">140</episode-num>
     <category lang="ca">ESPORTS</category>
-    <category lang="ca">INFORMATIU DIÀRI</category>
+    <category lang="ca">RETRANSMISSIONS ESPORTS</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <subtitles type="teletext"/>
-    <icon src="https://img.3cat.cat/multimedia/jpg/7/4/1778665728847.jpg"/>
+    <icon src="https://img.3cat.cat/multimedia/jpg/7/7/1788941967477.jpg"/>
   </programme>
   <channel id="sx3">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20260911163923 +0200" stop="20260911180049 +0200" channel="sx3">
-    <title lang="ca">Viu el Super3</title>
-    <sub-title lang="ca">Viu el Super3 - Espectacle Super3 a 3Cat en viu</sub-title>
-    <desc lang="ca">Tot l'univers del Super3 en un espectacle únic! El Mic, en Titó, la Tat, en John C, els Beta i els personatges de 'Fuet' posen ritme a l'escenari del '3Cat en viu'. Una gran ocasió per estrenar 'Tots som súpers' amb les veus d'en Titó, la Tat i els Beta.</desc>
-    <length units="seconds">4886</length>
-    <episode-num system="onscreen">2</episode-num>
-    <category lang="ca">ENTRETENIMENT</category>
-    <category lang="ca">ALTRES</category>
+  <programme start="20260911201657 +0200" stop="20260911203828 +0200" channel="sx3">
+    <title lang="ca">Henry Danger</title>
+    <sub-title lang="ca">Henry Danger - Gestió de la ràbia per a adolescents</sub-title>
+    <desc lang="ca">Quan la Piper descobreix que els seus amics l'han exclòs d'una excursió pel seu mal geni, accepta apuntar-se a un curs per aprendre a controlar la ràbia.</desc>
+    <length units="seconds">1291</length>
+    <episode-num system="onscreen">54</episode-num>
+    <category lang="ca">FICCIÓ</category>
+    <category lang="ca">SÈRIE DRAMÀTICA</category>
     <rating>
       <value>INFANTIL</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20260911180049 +0200" stop="20260911181317 +0200" channel="sx3">
-    <title lang="ca">Els barrufets (3D)</title>
-    <sub-title lang="ca">Els barrufets (3D) - El barrufet extraterrestre</sub-title>
-    <desc lang="ca">Un extraterrestre anomenat Glee-go arriba al poble Barrufet. Gràcies a un aparell que du sempre a sobre, copia l'aspecte d'un barrufet i es barreja amb els altres per tal de fer amics. Quan els barrufets no li segueixen la veta, els hipnotitza amb l'aparell perquè juguin amb ell. De mica en mica, tot el poble cau sota el seu influx... menys la Barrufeta, que buscarà ajuda al poble de les noies.</desc>
-    <length units="seconds">748</length>
-    <episode-num system="onscreen">13</episode-num>
+  <programme start="20260911203828 +0200" stop="20260911210000 +0200" channel="sx3">
+    <title lang="ca">Henry Danger</title>
+    <sub-title lang="ca">Henry Danger - Dits verds</sub-title>
+    <desc lang="ca">Una misteriosa malaltia creada per Schwoz s'escampa entre Henry i els seus amics, obligant-los a quedar-se confinats mentre busquen una cura.</desc>
+    <length units="seconds">1292</length>
+    <episode-num system="onscreen">55</episode-num>
     <category lang="ca">FICCIÓ</category>
-    <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
+    <category lang="ca">SÈRIE DRAMÀTICA</category>
     <rating>
       <value>INFANTIL</value>
     </rating>
@@ -154,37 +119,41 @@
   <channel id="c33">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20260911163136 +0200" stop="20260911172703 +0200" channel="c33">
-    <title lang="ca">300</title>
-    <sub-title lang="ca">300 - La política</sub-title>
-    <desc lang="ca">L'encaix de Catalunya a Espanya, el problema territorial, la qüestió catalana... Aquest tema, amb diferents noms, ha dominat la història política dels últims 300 anys. En aquest episodi de la sèrie '300' veurem com les relacions polítiques entre Catalunya i Espanya han tingut moments d'enfrontament i moments d'acord. Però en tres segles no hi ha hagut manera de trobar solucions estables i duradores per encaixar l'especificitat catalana en el marc espanyol. Aquest episodi comença amb els representants dels territoris de l'Antiga Corona d'Aragó que, a mitjans del segle XVIII, viatgen a Madrid per presentar al rei Carles III el primer 'Memorial de Greuges'. És la primera vegada que els sectors dirigents de la societat catalana s'atreveixen a alçar la veu per reclamar la singularitat catalana.En la segona història, un vaixell s'endú a bord els diputats catalans que van cap a les Corts Constituents de Cadis, el 1812. Aquesta constitució representa tota una revolució, perquè és la primera constitució liberal espanyola. Però els diputats catalans no aconsegueixen fer entendre la seva idea de reconèixer la plurinacionalitat d'Espanya.Durant el segle XIX, la industrialització converteix Catalunya en un país molt diferent de la resta de l'estat i amb unes necessitats molt diferents. Les protestes contra el govern són contínues. L'any 1842 les protestes són tan generals que fins i tot els fabricants, descontents amb la política econòmica, s'hi apunten. Tot s'acaba amb el bombardeig que el regent Espartero ordena sobre Barcelona.Espanya fa un nou canvi: la revolució de la Gloriosa fa marxar la reina Isabel i es proclama la Primera República. És l'oportunitat de canviar les coses. En sis anys hi haurà fins a tres caps de govern catalans. El personatge clau és l'economista barceloní Laureano Figuerola, que va ser ministre d'Hisenda durant aquells anys i va crear la pesseta.És molt interessant comparar la política catalana i espanyola d'aquells anys de</desc>
-    <length units="seconds">3327</length>
-    <episode-num system="onscreen">2</episode-num>
+  <programme start="20260911200622 +0200" stop="20260911205943 +0200" channel="c33">
+    <title lang="ca">Llocs recòndits</title>
+    <sub-title lang="ca">Llocs recòndits - Turquia</sub-title>
+    <desc lang="ca">'Llocs recòndits - Turquia' permet que l'audiència se submergeixi en la història i la cultura resistent de Turquia, i que s'embarqui en una pila de viatges que canvien la vida. Entre els llocs visitats hi ha Istanbul, la Capadòcia, Antioquia, Antalya i Laodicea.</desc>
+    <length units="seconds">3201</length>
+    <episode-num system="onscreen">6</episode-num>
     <category lang="ca">DIVULGACIÓ</category>
-    <category lang="ca">DOCUMENTAL DOCUDRAMA</category>
+    <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20260911172703 +0200" stop="20260911182240 +0200" channel="c33">
-    <title lang="ca">300</title>
-    <sub-title lang="ca">300 - La gent</sub-title>
-    <desc lang="ca">En els últims 300 anys, la població de Catalunya s'ha multiplicat per quinze i ha crescut més del doble que la mitjana europea. I, en bona part, aquest augment ha estat gràcies a les migracions, primer des d'Espanya, i més recentment, des de tot el món. Com ha afectat aquesta arribada de gent d'altres llengües i cultures? Avui, a '300', investiguem la gent d'aquest país.L'explosió demogràfica catalana va començar al segle XVIII. La fi de les grans epidèmies, un llarg període de pau i la millora de l'alimentació i la higiene va provocar un creixement natural de la població. En alguns llocs, la població es va triplicar, com a Salàs de Pallars. I això va fer que el poble volgués créixer i estendre's més enllà de la muralla medieval. I no sense problemes.Al segle XIX Catalunya es va industrialitzar i feia falta molta gent per treballar a les noves fàbriques. Per això van començar a venir gent de fora: primer valencians i aragonesos, després murcians. Expliquem el cas de Chiprana, una població de la franja aragonesa; a finals del segle XIX la gent d'aquest poble va emigrar en massa cap a Sant Martí de Provençals, a Barcelona, per treballar a les farineres del Poblenou.És molt curiós comparar el model de creixement català amb d'altres països europeus. A Finlàndia, per exemple, hi havia una estructura agrícola molt semblant al camp català. I també hi havia la institució de l'hereu. Però, en canvi, al revés que Catalunya, al segle XIX Finlàndia es va convertir en una terra exportadora de gent. Veurem per què.A Catalunya, durant la segona part de segle XX, la vinguda de nous immigrants va doblar la població. I això va provocar canvis profunds en la societat catalana. Com es van integrar, aquests nouvinguts? Ha funcionat, l'ascensor social? L'Antònia Martínez i la seva família, del barri de la Torrassa de l'Hospitalet, en són un exemple.</desc>
-    <length units="seconds">3337</length>
-    <episode-num system="onscreen">3</episode-num>
-    <category lang="ca">DIVULGACIÓ</category>
-    <category lang="ca">DOCUMENTAL DOCUDRAMA</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <subtitles type="teletext"/>
-    <previously-shown/>
+  <programme start="20260911205943 +0200" stop="20260911210121 +0200" channel="c33">
+    <title lang="ca">SENSE FI CANAL 33</title>
+    <desc lang="ca">Sense Descripció</desc>
+    <length units="seconds">98</length>
   </programme>
   <channel id="oca1">
     <display-name>OCA1</display-name>
   </channel>
+  <programme start="20260911185500 +0200" stop="20260911205955 +0200" channel="oca1">
+    <title lang="ca">Handbol</title>
+    <sub-title lang="ca">- Logronyo-Barça / Lliga Asobal / J1</sub-title>
+    <desc lang="ca">L'objectiu dels blaugranes és guanyar la 17a Lliga consecutiva. El camí cap al nou títol arrenca a la capital de La Rioja amb la narració de Joan Ramon Vallvé i l'anàlisi de Víctor Tomàs.</desc>
+    <length units="seconds">7495</length>
+    <episode-num system="onscreen">194</episode-num>
+    <category lang="ca">ESPORTS</category>
+    <category lang="ca">RETRANSMISSIONS ESPORTS</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <icon src="https://img.ccma.cat/multimedia/jpg/9/1/1700215879019.jpg"/>
+  </programme>
   <channel id="oca2">
     <display-name>OCA2</display-name>
   </channel>
