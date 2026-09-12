@@ -3,70 +3,67 @@
   <channel id="tvi">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20260912022004 +0200" stop="20260912043000 +0200" channel="tvi">
+  <programme start="20260912070000 +0200" stop="20260912100000 +0200" channel="tvi">
     <title lang="ca">Notícies 3CatInfo</title>
     <sub-title lang="ca">Notícies 3CatInfo</sub-title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">7796</length>
-    <episode-num system="onscreen">11148</episode-num>
+    <length units="seconds">10800</length>
+    <episode-num system="onscreen">11149</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <previously-shown/>
     <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
-  <programme start="20260912043000 +0200" stop="20260912051544 +0200" channel="tvi">
-    <title lang="ca">Fusió i swing a l'estudi</title>
-    <sub-title lang="ca">Fusió i swing a l'estudi - VALENTÍ MOYA TRIO</sub-title>
-    <desc lang="ca">Valentí Moya Trio: un grup format el 2010 i que aplega músics de llarga trajectòria en l'escena del gipsy jazz a Catalunya. Moya, sempre respectuós amb el llenguatge del 'manouche', aporta la seva visió personal, amb la complicitat dels seus companys. Graci Pedro a la guitarra rítmica; Oriol González, al contrabaix, i Valentí Moya, a la guitarra solista.</desc>
-    <length units="seconds">2744</length>
-    <episode-num system="onscreen">24</episode-num>
-    <category lang="ca">MUSICALS</category>
-    <category lang="ca">ALTRES</category>
+  <programme start="20260912100000 +0200" stop="20260912112635 +0200" channel="tvi">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <sub-title lang="ca">Notícies 3CatInfo</sub-title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="seconds">5195</length>
+    <episode-num system="onscreen">11150</episode-num>
+    <category lang="ca">ACTUALITAT</category>
+    <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <previously-shown/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
   <channel id="324">
     <display-name>324</display-name>
   </channel>
-  <programme start="20260912010000 +0200" stop="20260912060000 +0200" channel="324">
+  <programme start="20260912070000 +0200" stop="20260912100000 +0200" channel="324">
     <title lang="ca">Notícies 3CatInfo</title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">18000</length>
-    <episode-num system="onscreen">11148</episode-num>
+    <length units="seconds">10800</length>
+    <episode-num system="onscreen">11149</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <previously-shown/>
     <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
-  <programme start="20260912060000 +0200" stop="20260912070000 +0200" channel="324">
+  <programme start="20260912100000 +0200" stop="20260912120000 +0200" channel="324">
     <title lang="ca">Notícies 3CatInfo</title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">3600</length>
-    <episode-num system="onscreen">11148</episode-num>
+    <length units="seconds">7200</length>
+    <episode-num system="onscreen">11150</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <previously-shown/>
     <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
   <channel id="esport3">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20260912024347 +0200" stop="20260912043023 +0200" channel="esport3">
+  <programme start="20260912063959 +0200" stop="20260912082626 +0200" channel="esport3">
     <title lang="ca">Bàsquet</title>
     <sub-title lang="ca">Bàsquet - Asisa Joventut-FIATC Girona / Lliga Catalana / J3</sub-title>
     <desc lang="ca">Tercer i últim partit del grup 2 a la Lliga Catalana de bàsquet. Amb Víctor Lavagnini, Nil Llobet i Nacho Solozabal. </desc>
-    <length units="seconds">6396</length>
+    <length units="seconds">6387</length>
     <episode-num system="onscreen">139</episode-num>
     <category lang="ca">ESPORTS</category>
     <category lang="ca">RETRANSMISSIONS ESPORTS</category>
@@ -76,28 +73,29 @@
     <previously-shown/>
     <icon src="https://img.3cat.cat/multimedia/jpg/7/7/1788941967477.jpg"/>
   </programme>
-  <programme start="20260912043023 +0200" stop="20260912060657 +0200" channel="esport3">
-    <title lang="ca">Rugbi</title>
-    <sub-title lang="ca">Rugbi - Wigan Warriors-Dracs Catalans / Super League / J27</sub-title>
-    <desc lang="ca">El conjunt de Perpinyà tanca la seva participació a la fase regular amb una sortida molt difícil al camp del líder. Els Warriors, que es van imposar al Gilbert Brutus per 16 a 40, sumen 21 victòries contra les 10 dels Dracs. Amb la narració de Sebastià Girard.</desc>
-    <length units="seconds">5794</length>
-    <episode-num system="onscreen">78</episode-num>
+  <programme start="20260912082626 +0200" stop="20260912084221 +0200" channel="esport3">
+    <title lang="ca">3CatInfo Esports</title>
+    <sub-title lang="ca">3CatInfo Esports</sub-title>
+    <desc lang="ca">Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.</desc>
+    <length units="seconds">955</length>
+    <episode-num system="onscreen">5506</episode-num>
     <category lang="ca">ESPORTS</category>
-    <category lang="ca">RETRANSMISSIONS ESPORTS</category>
+    <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <icon src="https://img.3cat.cat/multimedia/jpg/2/3/1771412542832.jpg"/>
+    <previously-shown/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/9/7/1758888682179.jpg"/>
   </programme>
   <channel id="sx3">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20260912024633 +0200" stop="20260912030711 +0200" channel="sx3">
-    <title lang="ca">Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
-    <sub-title lang="ca">Prodigiosa: Les aventures de Ladybug i Gat Noir - Gamer</sub-title>
-    <desc lang="ca">El Max és un gran jugador de vídeojocs, i està a punt de representar l'institut en una competició juvenil, al costat de l'Adrien. Però la Marinette, que vol formar equip amb l'Adrien, supera el Max i el deixa fora de la competició. La rancúnia que sentirà el pobre Max permetrà que l'Esfinx el converteixi en un personatge temible. </desc>
-    <length units="seconds">1238</length>
-    <episode-num system="onscreen">22</episode-num>
+  <programme start="20260912074210 +0200" stop="20260912075306 +0200" channel="sx3">
+    <title lang="ca">El Mic i els seus amics</title>
+    <sub-title lang="ca">El Mic i els seus amics - Fem manualitats</sub-title>
+    <desc lang="ca">Tipis retallats i pintats, un tortell de plastilina, una flor feta amb grills de mandarina... una pila d'idees per fer amb els nens i nenes més petits.</desc>
+    <length units="seconds">656</length>
+    <episode-num system="onscreen">595</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
@@ -106,12 +104,12 @@
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20260912030711 +0200" stop="20260912032749 +0200" channel="sx3">
-    <title lang="ca">Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
-    <sub-title lang="ca">Prodigiosa: Les aventures de Ladybug i Gat Noir - Reflekta</sub-title>
-    <desc lang="ca">A l'institut, arriba el dia de fer-se la foto de grup de tota la classe, però la Juleka creu que està maleïda, perquè mai aconsegueix sortir a cap foto. Sembla que aquesta vegada la maledicció es trencarà, però els tripijocs de la Chloé per situar-se al costat de l'Adrien faran que la Juleka tregui el seu costat més fosc, cosa que aprofitarà l'Esfinx immediatament per crear una nova súper-malvada. </desc>
-    <length units="seconds">1238</length>
-    <episode-num system="onscreen">23</episode-num>
+  <programme start="20260912075306 +0200" stop="20260912080335 +0200" channel="sx3">
+    <title lang="ca">El Mic i els seus amics</title>
+    <sub-title lang="ca">El Mic i els seus amics - Les joguines, a dormir</sub-title>
+    <desc lang="ca">Amb una cançó i jugant a fer veure que la caixa és un llit, en Cincsegons i el Mic van recollint totes les joguines.</desc>
+    <length units="seconds">629</length>
+    <episode-num system="onscreen">628</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
@@ -123,55 +121,28 @@
   <channel id="c33">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20260912020848 +0200" stop="20260912033832 +0200" channel="c33">
-    <title lang="ca">Pel·lícula</title>
-    <sub-title lang="ca">Pel·lícula - L'arquer negre</sub-title>
-    <desc lang="ca">L'ARQUER NEGRE 'L'Archer Noir'Direcció: Christian GuerinelGuió: Richard Roulet, Lionel Pasquier, Christian GuerinelProducció: Calt Production, Eloïse Films, France Télévisions, BE-FILMS, RTBF (Télévision Belge), Radio Télévision Suisse (RTS)Any: 2019Durada: 90País: FrançaMúsica: Franck Pilant, Maïdi RothFotografia: Olivier GuarguirIntèrprets: Laurent Ournac, Hélène Degy, Christian Rauth, Cédric Chevalme, Laurent Spielvogel, Estelle Vincent, Jean-François Palaccio, Frédéric Maranber, Théo Bertrand, Hugo Bariller, Thierry Nenez, Hélène Bizot, Hélène Megy, Elodie Rouprêt, Dominique Isnard, Fabien BaïardiUns soldats descobreixen un cadàver ple de fletxes durant un entrenament militar al bosc. La tinenta de la gendarmeria Diane Giraud haurà de col·laborar amb el capità Alex Lançon, l'oficial enviat per l'exèrcit per ajudar en la resolució de l'assassinat. Durant la investigació, la Diane i l'Alex descobreixen que les fletxes són rèpliques de les que, segles enrere, disparava l''Arquer Negre', una figura llegendària local que l'any 975 es dedicava a defensar els habitants de la zona dels pirates bàrbars de l'època.</desc>
-    <credits>
-      <director>Christian</director>
-      <writer>Richard Roulet</writer>
-      <writer>Lionel</writer>
-      <actor>Laurent Ournac</actor>
-      <actor>Hélène Degy</actor>
-      <actor>Christian Rauth</actor>
-      <actor>Cédric Chevalme</actor>
-      <actor>Laurent Spielvogel</actor>
-      <actor>Estelle Vincent</actor>
-      <actor>Jean-François Palaccio</actor>
-      <actor>Frédéric Maranber</actor>
-      <actor>Théo Bertrand</actor>
-      <actor>Hugo Bariller</actor>
-      <actor>Thierry Nenez</actor>
-      <actor>Hélène Bizot</actor>
-      <actor>Hélène Megy</actor>
-      <actor>Elodie Rouprêt</actor>
-      <actor>Dominique Isnard</actor>
-      <actor>Fabien BaïardiUns soldats descobreixen un cadàver ple de fletxes durant un entrenament militar al bosc. La tinenta de la gendarmeria Diane Giraud haurà de col·laborar amb el capità Alex Lançon</actor>
-      <actor>l'oficial enviat per l'exèrcit per ajudar en la resolució de l'assassinat. Durant la investigació</actor>
-      <actor>la Diane</actor>
-      <actor>l'Alex descobreixen que les fletxes són rèpliques de les que</actor>
-      <actor>segles enrere</actor>
-      <actor>disparava l''Arquer Negre'</actor>
-      <actor>una figura llegendària local que l'any 975 es dedicava a defensar els habitants de la zona dels pirates bàrbars de l'època.</actor>
-    </credits>
-    <length units="seconds">5384</length>
-    <episode-num system="onscreen">1</episode-num>
-    <category lang="ca">FICCIÓ</category>
-    <category lang="ca">PEL·LÍCULA / TELEFILM</category>
+  <programme start="20260912065845 +0200" stop="20260912074552 +0200" channel="c33">
+    <title lang="ca">La Renaixença</title>
+    <sub-title lang="ca">La Renaixença - La perxa d'atletisme</sub-title>
+    <desc lang="ca">Tots hem passat tardes de Jocs Olímpics mirant esports que no coneixem. El salt de perxa, per exemple. Com pot ser que aquell pal aguanti el pes d'una persona mentre es doblega i es torna a posar recte? Dediquem el capítol a la perxa d'atletisme. Ens visita en Max Codinach, de Gavina.mp3, que també és poeta i té un llibre (tot i que es veu que no ho sabia). Amb l'Arnau Tordera i la Laia Glück interpreten 'Sempre instint'. Sortim a passejar en Rufus per la defensa de Baler, a les Filipines del 1898.</desc>
+    <length units="seconds">2827</length>
+    <episode-num system="onscreen">63</episode-num>
+    <category lang="ca">DIVULGACIÓ</category>
+    <category lang="ca">ALTRES</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
-    <icon src="https://img.3cat.cat/multimedia/jpg/0/4/1788500679640.jpg"/>
+    <previously-shown/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/3/3/1756148014833.jpg"/>
   </programme>
-  <programme start="20260912033832 +0200" stop="20260912041755 +0200" channel="c33">
-    <title lang="ca">Cites Barcelona</title>
-    <sub-title lang="ca">Cites Barcelona - Sara-Buba / Aitana-Hugo</sub-title>
-    <desc lang="ca">L'Aitana, estudiant de literatura comparada, accepta sortir amb l'Hugo, un professor de spinning amb un somriure radiant i uns abdominals esculpits que posaran a prova els seus prejudicis. Al mateix temps, la Sara finalment es troba amb el Buba després de mesos de converses a Tinder, però la cita es complica quan descobreix que ell està molt més prim que a les seves fotos de perfil.</desc>
-    <length units="seconds">2363</length>
-    <episode-num system="onscreen">11</episode-num>
-    <category lang="ca">FICCIÓ</category>
-    <category lang="ca">SÈRIE DRAMÀTICA</category>
+  <programme start="20260912074552 +0200" stop="20260912083810 +0200" channel="c33">
+    <title lang="ca">Viure als Pirineus- A banda i banda</title>
+    <sub-title lang="ca">Viure als Pirineus- A banda i banda - Anna Espelt i François Pagnoux - Primavera</sub-title>
+    <length units="seconds">3138</length>
+    <episode-num system="onscreen">6</episode-num>
+    <category lang="ca">DIVULGACIÓ</category>
+    <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
