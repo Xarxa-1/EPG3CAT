@@ -3,57 +3,28 @@
   <channel id="tvi">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20260912143000 +0200" stop="20260912153431 +0200" channel="tvi">
-    <title lang="ca">Telenotícies migdia</title>
-    <sub-title lang="ca">Telenotícies migdia</sub-title>
-    <length units="seconds">3871</length>
-    <episode-num system="onscreen">7326</episode-num>
-    <category lang="ca">ACTUALITAT</category>
-    <category lang="ca">INFORMATIU DIÀRI</category>
+  <programme start="20260912175204 +0200" stop="20260912181724 +0200" channel="tvi">
+    <title lang="ca">Jet lag</title>
+    <sub-title lang="ca">Jet lag - T'acompanyo en el sentiment</sub-title>
+    <desc lang="ca">La Diana rep una trucada: la seva amiga de l'ànima ha tingut un accident fatal. La Diana, encara que ho intenta, no recorda de qui estan parlant. D'altra banda, el Mario es confessa a l'Andreu sobre els seus sentiments per l' Esther.</desc>
+    <length units="seconds">1520</length>
+    <episode-num system="onscreen">10</episode-num>
+    <category lang="ca">FICCIÓ</category>
+    <category lang="ca">TELESÈRIE</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <icon src="https://img.ccma.cat/multimedia/jpg/5/4/1758025766345.jpg"/>
+    <subtitles type="teletext"/>
+    <previously-shown/>
   </programme>
-  <programme start="20260912153119 +0200" stop="20260912165733 +0200" channel="tvi">
-    <title lang="ca">Habitacions tancades</title>
-    <sub-title lang="ca">Habitacions tancades</sub-title>
-    <desc lang="ca">HABITACIONS TANCADESProducció: Televisió de Catalunya, Diagonal Televisió i Televisión Española, 2015Director: Lluís M. GüellProducció executiva TVC : Susanna Jiménez i Elisa PlazaProducció executiva Diagonal Televisió: Albert SagalésProducció executiva TVE: Maite PisoneroAdaptació i guió: Pere RieraDirector de fotografia: Raimon LordaMúsica original: Francesc GenerIntèrprets: Adriana Ugarte (Teresa Brusés), Alex García (Amadeu Lax), Bea Segura (Violeta Lax), Rosa Boladeras (Maria del Roser Golorons), Diana Gómez (Conxita), Raúl Peña (Joan Lax), Francesc Orella (Rodolf Lax), Ramon Madaula (Modest Lax), Jan Cornet (Octavi Conde), Toni Sevilla (Soler), Marc Cartes (Ricard Selvas), Laia Costa (Montserrat Espelleta) i Pep Antón Muñoz (Mossèn Eudald)Amadeu Lax va ser un dels més afanats pintors espanyols de principis del segle XX. La seva obra segueix, avui dia, sent reconeguda universalment i el seu talent roman indiscutible, però la descoberta, vuitanta anys després de la seva mort, d'un cadàver sepultat en una petita habitació de la seva antiga residència, fa saltar totes les alarmes. Va ser l'Amadeu Lax un artista genial o un assassí brutal? La seva néta Violeta serà l'encarregada d'esclarir tots els secrets que amaga, no només el passat insigne del seu avi, sinó el de tota la família.D'aquesta manera, serem testimonis del procés que seguirà l'Amadeu des de la seva infància fins a convertir-se en un adult que enfrontarà de manera tortuosa totes les seves relacions. Especialment aquelles que mantindrà amb cada una de les dones que apareixeran a la seva vida: la seva mare, la seva dida, les seves amants i, finalment, aquella que marcarà per sempre el seu destí, Teresa Brusés, el seu gran amor.</desc>
-    <credits>
-      <actor>Adriana Ugarte (Teresa Brusés)</actor>
-      <actor>Alex García (Amadeu Lax)</actor>
-      <actor>Bea Segura (Violeta Lax)</actor>
-      <actor>Rosa Boladeras (Maria del Roser Golorons)</actor>
-      <actor>Diana Gómez (Conxita)</actor>
-      <actor>Raúl Peña (Joan Lax)</actor>
-      <actor>Francesc Orella (Rodolf Lax)</actor>
-      <actor>Ramon Madaula (Modest Lax)</actor>
-      <actor>Jan Cornet (Octavi Conde)</actor>
-      <actor>Toni Sevilla (Soler)</actor>
-      <actor>Marc Cartes (Ricard Selvas)</actor>
-      <actor>Laia Costa (Montserrat Espelleta)</actor>
-      <actor>Pep Antón Muñoz (Mossèn Eudald)Amadeu Lax va ser un dels més afanats pintors espanyols de principis del segle XX. La seva obra segueix</actor>
-      <actor>avui dia</actor>
-      <actor>sent reconeguda universalment</actor>
-      <actor>el seu talent roman indiscutible</actor>
-      <actor>però la descoberta</actor>
-      <actor>vuitanta anys després de la seva mort</actor>
-      <actor>d'un cadàver sepultat en una petita habitació de la seva antiga residència</actor>
-      <actor>fa saltar totes les alarmes. Va ser l'Amadeu Lax un artista genial o un assassí brutal? La seva néta Violeta serà l'encarregada d'esclarir tots els secrets que amaga</actor>
-      <actor>no només el passat insigne del seu avi</actor>
-      <actor>sinó el de tota la família.D'aquesta manera</actor>
-      <actor>serem testimonis del procés que seguirà l'Amadeu des de la seva infància fins a convertir-se en un adult que enfrontarà de manera tortuosa totes les seves relacions. Especialment aquelles que mantindrà amb cada una de les dones que apareixeran a la seva vida: la seva mare</actor>
-      <actor>la seva dida</actor>
-      <actor>les seves amants i</actor>
-      <actor>finalment</actor>
-      <actor>aquella que marcarà per sempre el seu destí</actor>
-      <actor>Teresa Brusés</actor>
-      <actor>el seu gran amor.</actor>
-    </credits>
-    <length units="seconds">5174</length>
-    <episode-num system="onscreen">1</episode-num>
-    <category lang="ca">FICCIÓ</category>
-    <category lang="ca">PEL·LÍCULA / TELEFILM</category>
+  <programme start="20260912181724 +0200" stop="20260912190905 +0200" channel="tvi">
+    <title lang="ca">Sota terra</title>
+    <sub-title lang="ca">Sota terra - Colònies industrials:la vida a la llera del riu</sub-title>
+    <desc lang="ca">Furgar en una colònia industrial abandonada des de fa dècades. Entrar en un món on el temps s'ha aturat. Conèixer com funcionava una colònia industrial, un món tancat on centenars de famílies treballaven i vivien durant tota la vida sense gairebé sortir-ne. La maquinària de la colònia es movia gràcies a dues fonts d'energia: l'aigua del riu Llobregat, i el carbó de les mines de l'Alt Berguedà. Excavem per buscar el canal de desguàs original de la primera turbina que va tenir la colònia, i també ens endinsem en una mina per obtenir carbó a cop de pic i pala, com s'ha fet durant dècades. Per arrodonir el programa, busquem un túnel colgat, totalment desaparegut, un túnel per on circulava el tren que unia totes les colònies i transportava persones, mercaderies i carbó amunt i avall de la comarca.</desc>
+    <length units="seconds">3101</length>
+    <episode-num system="onscreen">8</episode-num>
+    <category lang="ca">DIVULGACIÓ</category>
+    <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
@@ -63,101 +34,99 @@
   <channel id="324">
     <display-name>324</display-name>
   </channel>
-  <programme start="20260912143000 +0200" stop="20260912154000 +0200" channel="324">
-    <title lang="ca">Telenotícies migdia</title>
-    <length units="seconds">4200</length>
-    <episode-num system="onscreen">7326</episode-num>
+  <programme start="20260912163000 +0200" stop="20260912183000 +0200" channel="324">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="seconds">7200</length>
+    <episode-num system="onscreen">11152</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <icon src="https://img.ccma.cat/multimedia/jpg/5/4/1758025766345.jpg"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
-  <programme start="20260912154000 +0200" stop="20260912163000 +0200" channel="324">
-    <title lang="ca">Telenotícies migdia (reemissió)</title>
-    <length units="seconds">3000</length>
-    <episode-num system="onscreen">7326</episode-num>
+  <programme start="20260912183000 +0200" stop="20260912200000 +0200" channel="324">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="seconds">5400</length>
+    <episode-num system="onscreen">11153</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
-    <previously-shown/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/5/4/1758025766345.jpg"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
   <channel id="esport3">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20260912141427 +0200" stop="20260912160842 +0200" channel="esport3">
-    <title lang="ca">Bàsquet</title>
-    <sub-title lang="ca">Bàsquet - Kids&amp;Us Manresa-Barça / Lliga Catalana / J3</sub-title>
-    <desc lang="ca">Des de Tarragona, tercer i últim partit del grup 1 a la Lliga Catalana de Bàsquet. Amb Víctor Lavagnini, Nil Llobet i Nacho Solozabal.</desc>
-    <length units="seconds">6855</length>
-    <episode-num system="onscreen">140</episode-num>
+  <programme start="20260912173833 +0200" stop="20260912182500 +0200" channel="esport3">
+    <title lang="ca">Futbol</title>
+    <sub-title lang="ca">Futbol - CE Europa-Hèrcules CF / Primera Federació / J3</sub-title>
+    <desc lang="ca">Els graciencs, 1 derrota i 1 empat, volen la primera victòria de la temporada. Els alacantins, que encara no han puntuat, també hi arriben amb la necessitat de sumar. Amb la narració de Jordi Sunyer i l'anàlisi de Santi Triguero. </desc>
+    <length units="seconds">2787</length>
+    <episode-num system="onscreen">201</episode-num>
     <category lang="ca">ESPORTS</category>
     <category lang="ca">RETRANSMISSIONS ESPORTS</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <previously-shown/>
-    <icon src="https://img.3cat.cat/multimedia/jpg/7/7/1788941967477.jpg"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/0/7/1698446098170.jpg"/>
   </programme>
-  <programme start="20260912160842 +0200" stop="20260912162500 +0200" channel="esport3">
-    <title lang="ca">Sala de Premsa</title>
-    <sub-title lang="ca">Sala de Premsa - Hansi Flick / Prèvia Llevant-Barça / J5</sub-title>
-    <desc lang="ca">Esport3 t'ofereix les compareixences de dirigents, jugadors i entrenadors dels equips catalans davant els mitjans de comunicació.</desc>
-    <length units="seconds">978</length>
-    <episode-num system="onscreen">725</episode-num>
+  <programme start="20260912182500 +0200" stop="20260912191702 +0200" channel="esport3">
+    <title lang="ca">Futbol sala</title>
+    <sub-title lang="ca">Futbol sala - Viña Albali Valdepeñas-Barça / Primera Divisió / J1</sub-title>
+    <desc lang="ca">Els blaugranes, campions la temporada passada, s'estrenen al nou campionat de Lliga a la pista del conjunt manxec. Amb la narració de Xavi Lorente i l'anàlisi de Xavi Passarrius. </desc>
+    <length units="seconds">3122</length>
+    <episode-num system="onscreen">480</episode-num>
     <category lang="ca">ESPORTS</category>
-    <category lang="ca">INFORMATIU DIÀRI</category>
+    <category lang="ca">RETRANSMISSIONS ESPORTS</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <subtitles type="teletext"/>
-    <icon src="https://img.3cat.cat/multimedia/jpg/7/4/1778665728847.jpg"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/1/5/1699004339351.jpg"/>
   </programme>
   <channel id="sx3">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20260912150240 +0200" stop="20260912151448 +0200" channel="sx3">
-    <title lang="ca">Les Sisters</title>
-    <sub-title lang="ca">Les Sisters - Missió papa i mama</sub-title>
-    <desc lang="ca">Missió molt arriscada per les dues germanes. Es pensen que els pares han discutit per culpa seva i perquè facin les paus volen preparar-los un sopar romàntic. La Wendy i la Marine inicien una batalla de 'sorpreses romàntiques' i comencen a discutir. El sopar amb espelmes corre el risc de convertir-se en una autèntica desgràcia...</desc>
-    <length units="seconds">728</length>
-    <episode-num system="onscreen">99</episode-num>
+  <programme start="20260912181318 +0200" stop="20260912181958 +0200" channel="sx3">
+    <title lang="ca">El xai Shaun</title>
+    <sub-title lang="ca">El xai Shaun - Comença el joc</sub-title>
+    <desc lang="ca">El xai Shaun s'acaba de trobar una col que ha caigut d'un camió que passava per la granja. Serà ideal per fer un partit de futbol! Amb tot el ramat hi ha jugadors de sobres! I de ganes, no els en falten! Apa, doncs, que comenci el joc! Llàstima que els porquets trapelles estan decidits a engegar-ho tot a rodar...</desc>
+    <length units="seconds">400</length>
+    <episode-num system="onscreen">1</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
       <value>INFANTIL</value>
     </rating>
-    <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20260912151448 +0200" stop="20260912152610 +0200" channel="sx3">
-    <title lang="ca">Les Sisters</title>
-    <sub-title lang="ca">Les Sisters - Perfum de princesa</sub-title>
-    <desc lang="ca">La Wendy acaba de rebre un perfum que ha comprat. Fa molt bona olor i vol ensenyar-l'hi al Maxence. Però a la Marine també li agradaria fer la mateixa olor que una princesa. I posats a fer, voldria compartir-la amb les seves amigues i els seus gairebé mil ninos. La Wendy s'hi nega, però per fer realitat els seus desitjos, la Marine està disposada a fer el que calgui.</desc>
-    <length units="seconds">682</length>
-    <episode-num system="onscreen">100</episode-num>
+  <programme start="20260912181958 +0200" stop="20260912182558 +0200" channel="sx3">
+    <title lang="ca">El xai Shaun</title>
+    <sub-title lang="ca">El xai Shaun - Agafa'l!</sub-title>
+    <desc lang="ca">En Bitzer, el gos que vigila el ramat d'en Shaun, s'ha enamorat d'una gosseta del càmping que hi ha a la vora de la granja. Quin vigilarà, ara, les ovelles?! Si no hi ha algú que posi una mica d'ordre, això acabarà sent un orgue de xais! Sort que en Shaun sap com fer-ho perquè en Bitzer torni a la feina...</desc>
+    <length units="seconds">360</length>
+    <episode-num system="onscreen">2</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
       <value>INFANTIL</value>
     </rating>
-    <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
   <channel id="c33">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20260912150043 +0200" stop="20260912155945 +0200" channel="c33">
-    <title lang="ca">Els caps de setmana llargs d'en Rick Stein</title>
-    <sub-title lang="ca">Els caps de setmana llargs d'en Rick Stein - Bolonya</sub-title>
-    <desc lang="ca">A Bolonya, en Rick descobreix que els espaguetis a la bolonyesa, que per ell eren el plat bolonyès per excel·lència, allà són considerats gairebé una heretgia. Però aprendrà quina és la versió dels espaguetis que sí que mengen a Bolonya. Allà tastarà, entre altres plats, uns ravionlini deliciosos farcits de ceba dolça, calamarsos farcits, un parmesà madurat tretze anys, conill farcit de truita i pernil de Parma o la famosa mortadel·la. Per als bolonyesos, menjar bé és molt important.</desc>
-    <length units="seconds">3542</length>
-    <episode-num system="onscreen">5</episode-num>
+  <programme start="20260912174959 +0200" stop="20260912184216 +0200" channel="c33">
+    <title lang="ca">Els quaderns de cuina de la Julie</title>
+    <sub-title lang="ca">Els quaderns de cuina de la Julie - Saintoge</sub-title>
+    <desc lang="ca">En aquest episodi, la Julie visita la regió de Saintonge, al departament de la Charanta Marítima. Amb la Lisette prepara els cargols típics de la Charanta. A continuació visita una fàbrica de mantega elaborada a l'estil tradicional. Després, amb en Piqthiu, prepara un gigourit, un civet típic de la regió. Finalment, amb la Michèle, prepara unes coques de la Charanta farcides d'angèlica.</desc>
+    <length units="seconds">3137</length>
+    <episode-num system="onscreen">78</episode-num>
     <category lang="ca">DIVULGACIÓ</category>
     <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
     <rating>
@@ -166,12 +135,12 @@
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20260912155945 +0200" stop="20260912165848 +0200" channel="c33">
-    <title lang="ca">Els caps de setmana llargs d'en Rick Stein</title>
-    <sub-title lang="ca">Els caps de setmana llargs d'en Rick Stein - Lisboa</sub-title>
-    <desc lang="ca">En Rick Stein visita Lisboa, a la riba del Tajo, una ciutat ideal per tastar un marisc extraordinari o el famós 'pastéis de Belém', qui sap si el millor pastisset de crema del món. S'endinsarà en el llegat històric lisboeta, les seves festes populars o el modern Mercado da Ribeira, i vibrarà amb la malenconia del 'fado'. Finalment, ens farà un plat de mar i muntanya -porc i cloïsses 'à alentejana'-; també un pastís deliciós d'ametlla amb caramel de sucre i mantega, i bunyols de bacallà amb coriandre.</desc>
-    <length units="seconds">3543</length>
-    <episode-num system="onscreen">6</episode-num>
+  <programme start="20260912184216 +0200" stop="20260912192755 +0200" channel="c33">
+    <title lang="ca">Viatges insòlits</title>
+    <sub-title lang="ca">Viatges insòlits - Japó I</sub-title>
+    <desc lang="ca">Després de la parada obligada a causa de la Covid, Tom Waes reprèn la sèrie de Viatges Insòlits amb el que va quedar-li pendent a la pandèmia: Japó. En Tom recorrerà tot el país de sud a nord, més de tres mil quilòmetres per diverses illes, i aquesta primera part inclou la zona més meridional. El capítol comença amb una oració per demanar bon viatge i després continua passant per Nagasaki, l'illa dels gats, i una ciutat dominada per la yakuza, i entremig en Tom encara tindrà temps de participar en un festival tradicional molt especial.</desc>
+    <length units="seconds">2739</length>
+    <episode-num system="onscreen">34</episode-num>
     <category lang="ca">DIVULGACIÓ</category>
     <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
     <rating>
