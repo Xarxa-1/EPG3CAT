@@ -3,101 +3,130 @@
   <channel id="tvi">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20260912112627 +0200" stop="20260912120000 +0200" channel="tvi">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">Notícies 3CatInfo</sub-title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">2013</length>
-    <episode-num system="onscreen">11150</episode-num>
+  <programme start="20260912143000 +0200" stop="20260912153431 +0200" channel="tvi">
+    <title lang="ca">Telenotícies migdia</title>
+    <sub-title lang="ca">Telenotícies migdia</sub-title>
+    <length units="seconds">3871</length>
+    <episode-num system="onscreen">7326</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <subtitles type="teletext"/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/5/4/1758025766345.jpg"/>
   </programme>
-  <programme start="20260912120000 +0200" stop="20260912142909 +0200" channel="tvi">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">Notícies 3CatInfo</sub-title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">8949</length>
-    <episode-num system="onscreen">11151</episode-num>
-    <category lang="ca">ACTUALITAT</category>
-    <category lang="ca">INFORMATIU DIÀRI</category>
+  <programme start="20260912153119 +0200" stop="20260912165733 +0200" channel="tvi">
+    <title lang="ca">Habitacions tancades</title>
+    <sub-title lang="ca">Habitacions tancades</sub-title>
+    <desc lang="ca">HABITACIONS TANCADESProducció: Televisió de Catalunya, Diagonal Televisió i Televisión Española, 2015Director: Lluís M. GüellProducció executiva TVC : Susanna Jiménez i Elisa PlazaProducció executiva Diagonal Televisió: Albert SagalésProducció executiva TVE: Maite PisoneroAdaptació i guió: Pere RieraDirector de fotografia: Raimon LordaMúsica original: Francesc GenerIntèrprets: Adriana Ugarte (Teresa Brusés), Alex García (Amadeu Lax), Bea Segura (Violeta Lax), Rosa Boladeras (Maria del Roser Golorons), Diana Gómez (Conxita), Raúl Peña (Joan Lax), Francesc Orella (Rodolf Lax), Ramon Madaula (Modest Lax), Jan Cornet (Octavi Conde), Toni Sevilla (Soler), Marc Cartes (Ricard Selvas), Laia Costa (Montserrat Espelleta) i Pep Antón Muñoz (Mossèn Eudald)Amadeu Lax va ser un dels més afanats pintors espanyols de principis del segle XX. La seva obra segueix, avui dia, sent reconeguda universalment i el seu talent roman indiscutible, però la descoberta, vuitanta anys després de la seva mort, d'un cadàver sepultat en una petita habitació de la seva antiga residència, fa saltar totes les alarmes. Va ser l'Amadeu Lax un artista genial o un assassí brutal? La seva néta Violeta serà l'encarregada d'esclarir tots els secrets que amaga, no només el passat insigne del seu avi, sinó el de tota la família.D'aquesta manera, serem testimonis del procés que seguirà l'Amadeu des de la seva infància fins a convertir-se en un adult que enfrontarà de manera tortuosa totes les seves relacions. Especialment aquelles que mantindrà amb cada una de les dones que apareixeran a la seva vida: la seva mare, la seva dida, les seves amants i, finalment, aquella que marcarà per sempre el seu destí, Teresa Brusés, el seu gran amor.</desc>
+    <credits>
+      <actor>Adriana Ugarte (Teresa Brusés)</actor>
+      <actor>Alex García (Amadeu Lax)</actor>
+      <actor>Bea Segura (Violeta Lax)</actor>
+      <actor>Rosa Boladeras (Maria del Roser Golorons)</actor>
+      <actor>Diana Gómez (Conxita)</actor>
+      <actor>Raúl Peña (Joan Lax)</actor>
+      <actor>Francesc Orella (Rodolf Lax)</actor>
+      <actor>Ramon Madaula (Modest Lax)</actor>
+      <actor>Jan Cornet (Octavi Conde)</actor>
+      <actor>Toni Sevilla (Soler)</actor>
+      <actor>Marc Cartes (Ricard Selvas)</actor>
+      <actor>Laia Costa (Montserrat Espelleta)</actor>
+      <actor>Pep Antón Muñoz (Mossèn Eudald)Amadeu Lax va ser un dels més afanats pintors espanyols de principis del segle XX. La seva obra segueix</actor>
+      <actor>avui dia</actor>
+      <actor>sent reconeguda universalment</actor>
+      <actor>el seu talent roman indiscutible</actor>
+      <actor>però la descoberta</actor>
+      <actor>vuitanta anys després de la seva mort</actor>
+      <actor>d'un cadàver sepultat en una petita habitació de la seva antiga residència</actor>
+      <actor>fa saltar totes les alarmes. Va ser l'Amadeu Lax un artista genial o un assassí brutal? La seva néta Violeta serà l'encarregada d'esclarir tots els secrets que amaga</actor>
+      <actor>no només el passat insigne del seu avi</actor>
+      <actor>sinó el de tota la família.D'aquesta manera</actor>
+      <actor>serem testimonis del procés que seguirà l'Amadeu des de la seva infància fins a convertir-se en un adult que enfrontarà de manera tortuosa totes les seves relacions. Especialment aquelles que mantindrà amb cada una de les dones que apareixeran a la seva vida: la seva mare</actor>
+      <actor>la seva dida</actor>
+      <actor>les seves amants i</actor>
+      <actor>finalment</actor>
+      <actor>aquella que marcarà per sempre el seu destí</actor>
+      <actor>Teresa Brusés</actor>
+      <actor>el seu gran amor.</actor>
+    </credits>
+    <length units="seconds">5174</length>
+    <episode-num system="onscreen">1</episode-num>
+    <category lang="ca">FICCIÓ</category>
+    <category lang="ca">PEL·LÍCULA / TELEFILM</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
+    <previously-shown/>
   </programme>
   <channel id="324">
     <display-name>324</display-name>
   </channel>
-  <programme start="20260912100000 +0200" stop="20260912120000 +0200" channel="324">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">7200</length>
-    <episode-num system="onscreen">11150</episode-num>
+  <programme start="20260912143000 +0200" stop="20260912154000 +0200" channel="324">
+    <title lang="ca">Telenotícies migdia</title>
+    <length units="seconds">4200</length>
+    <episode-num system="onscreen">7326</episode-num>
+    <category lang="ca">ACTUALITAT</category>
+    <category lang="ca">INFORMATIU DIÀRI</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <icon src="https://img.ccma.cat/multimedia/jpg/5/4/1758025766345.jpg"/>
+  </programme>
+  <programme start="20260912154000 +0200" stop="20260912163000 +0200" channel="324">
+    <title lang="ca">Telenotícies migdia (reemissió)</title>
+    <length units="seconds">3000</length>
+    <episode-num system="onscreen">7326</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
-  </programme>
-  <programme start="20260912120000 +0200" stop="20260912143000 +0200" channel="324">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">9000</length>
-    <episode-num system="onscreen">11151</episode-num>
-    <category lang="ca">ACTUALITAT</category>
-    <category lang="ca">INFORMATIU DIÀRI</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
+    <previously-shown/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/5/4/1758025766345.jpg"/>
   </programme>
   <channel id="esport3">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20260912103618 +0200" stop="20260912115500 +0200" channel="esport3">
-    <title lang="ca">Handbol</title>
-    <sub-title lang="ca">Handbol - Logronyo-Barça / Lliga Asobal / J1</sub-title>
-    <desc lang="ca">L'objectiu dels blaugranes és guanyar la 17a Lliga consecutiva. El camí cap al nou títol arrenca a la capital de La Rioja amb la narració de Joan Ramon Vallvé i l'anàlisi de Víctor Tomàs.</desc>
-    <length units="seconds">4722</length>
-    <episode-num system="onscreen">194</episode-num>
+  <programme start="20260912141427 +0200" stop="20260912160842 +0200" channel="esport3">
+    <title lang="ca">Bàsquet</title>
+    <sub-title lang="ca">Bàsquet - Kids&amp;Us Manresa-Barça / Lliga Catalana / J3</sub-title>
+    <desc lang="ca">Des de Tarragona, tercer i últim partit del grup 1 a la Lliga Catalana de Bàsquet. Amb Víctor Lavagnini, Nil Llobet i Nacho Solozabal.</desc>
+    <length units="seconds">6855</length>
+    <episode-num system="onscreen">140</episode-num>
     <category lang="ca">ESPORTS</category>
     <category lang="ca">RETRANSMISSIONS ESPORTS</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <previously-shown/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/9/1/1700215879019.jpg"/>
+    <icon src="https://img.3cat.cat/multimedia/jpg/7/7/1788941967477.jpg"/>
   </programme>
-  <programme start="20260912115500 +0200" stop="20260912124921 +0200" channel="esport3">
-    <title lang="ca">Futbol</title>
-    <sub-title lang="ca">Futbol - Athletic Club-RCD Espanyol / Lliga F / J3</sub-title>
-    <desc lang="ca">Sortida complicada per a les blanc-i-blaves que, després de dues derrotes, necessiten sumar els primers punts al campionat. El conjunt basc ha guanyat els dos primers partits i es vol mantenir al capdavant de la classificació. Amb la narració de Gemma Mallorca i l'anàlisi de Mireia Vera.</desc>
-    <length units="seconds">3261</length>
-    <episode-num system="onscreen">47</episode-num>
+  <programme start="20260912160842 +0200" stop="20260912162500 +0200" channel="esport3">
+    <title lang="ca">Sala de Premsa</title>
+    <sub-title lang="ca">Sala de Premsa - Hansi Flick / Prèvia Llevant-Barça / J5</sub-title>
+    <desc lang="ca">Esport3 t'ofereix les compareixences de dirigents, jugadors i entrenadors dels equips catalans davant els mitjans de comunicació.</desc>
+    <length units="seconds">978</length>
+    <episode-num system="onscreen">725</episode-num>
     <category lang="ca">ESPORTS</category>
-    <category lang="ca">RETRANSMISSIONS ESPORTS</category>
+    <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <icon src="https://img.ccma.cat/multimedia/jpg/0/8/1730389343680.jpg"/>
+    <subtitles type="teletext"/>
+    <icon src="https://img.3cat.cat/multimedia/jpg/7/4/1778665728847.jpg"/>
   </programme>
   <channel id="sx3">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20260912112712 +0200" stop="20260912114842 +0200" channel="sx3">
-    <title lang="ca">El carreró del misteri</title>
-    <sub-title lang="ca">El carreró del misteri - L'aviari encantat</sub-title>
-    <desc lang="ca">Segons l'Alfred, el colom, l'antic aviari del palau de Buckingham està embruixat: una gàrgola pren vida i espanta els ocells que s'hi acosten. I segons l'Espavilada, l'Alfred podria ser un somiador, però les pistes que aporta ell no enganyen.</desc>
-    <length units="seconds">1290</length>
-    <episode-num system="onscreen">17</episode-num>
+  <programme start="20260912150240 +0200" stop="20260912151448 +0200" channel="sx3">
+    <title lang="ca">Les Sisters</title>
+    <sub-title lang="ca">Les Sisters - Missió papa i mama</sub-title>
+    <desc lang="ca">Missió molt arriscada per les dues germanes. Es pensen que els pares han discutit per culpa seva i perquè facin les paus volen preparar-los un sopar romàntic. La Wendy i la Marine inicien una batalla de 'sorpreses romàntiques' i comencen a discutir. El sopar amb espelmes corre el risc de convertir-se en una autèntica desgràcia...</desc>
+    <length units="seconds">728</length>
+    <episode-num system="onscreen">99</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
@@ -106,12 +135,12 @@
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20260912114842 +0200" stop="20260912121012 +0200" channel="sx3">
-    <title lang="ca">El carreró del misteri</title>
-    <sub-title lang="ca">El carreró del misteri - L'esmunyedís Robin dels animals</sub-title>
-    <desc lang="ca">L'inspector McFlaire i el seu equip toleren el famós Robin dels animals, un ésser misteriós que roba el menjar que no consumeixen els humans per distribuir-lo, des d'un globus aerostàtic, als animals del carrer. Un dia, però, envia un missatge en què amenaça la reina, i el McFlaire diu prou.</desc>
-    <length units="seconds">1290</length>
-    <episode-num system="onscreen">19</episode-num>
+  <programme start="20260912151448 +0200" stop="20260912152610 +0200" channel="sx3">
+    <title lang="ca">Les Sisters</title>
+    <sub-title lang="ca">Les Sisters - Perfum de princesa</sub-title>
+    <desc lang="ca">La Wendy acaba de rebre un perfum que ha comprat. Fa molt bona olor i vol ensenyar-l'hi al Maxence. Però a la Marine també li agradaria fer la mateixa olor que una princesa. I posats a fer, voldria compartir-la amb les seves amigues i els seus gairebé mil ninos. La Wendy s'hi nega, però per fer realitat els seus desitjos, la Marine està disposada a fer el que calgui.</desc>
+    <length units="seconds">682</length>
+    <episode-num system="onscreen">100</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
@@ -123,28 +152,28 @@
   <channel id="c33">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20260912105621 +0200" stop="20260912114913 +0200" channel="c33">
-    <title lang="ca">Experiència Catalana</title>
-    <sub-title lang="ca">Experiència Catalana - Germans Green</sub-title>
-    <desc lang="ca">La Ivana Miño acompanya la Katie Green i al seu germà Barney per les Terres de l'Ebre. Un territori molt lligat a la seva història i a la de la seva família: el seu avi va morir al front de l'Ebre.</desc>
-    <length units="seconds">3172</length>
-    <episode-num system="onscreen">13</episode-num>
-    <category lang="ca">ENTRETENIMENT</category>
-    <category lang="ca">ALTRES</category>
+  <programme start="20260912150043 +0200" stop="20260912155945 +0200" channel="c33">
+    <title lang="ca">Els caps de setmana llargs d'en Rick Stein</title>
+    <sub-title lang="ca">Els caps de setmana llargs d'en Rick Stein - Bolonya</sub-title>
+    <desc lang="ca">A Bolonya, en Rick descobreix que els espaguetis a la bolonyesa, que per ell eren el plat bolonyès per excel·lència, allà són considerats gairebé una heretgia. Però aprendrà quina és la versió dels espaguetis que sí que mengen a Bolonya. Allà tastarà, entre altres plats, uns ravionlini deliciosos farcits de ceba dolça, calamarsos farcits, un parmesà madurat tretze anys, conill farcit de truita i pernil de Parma o la famosa mortadel·la. Per als bolonyesos, menjar bé és molt important.</desc>
+    <length units="seconds">3542</length>
+    <episode-num system="onscreen">5</episode-num>
+    <category lang="ca">DIVULGACIÓ</category>
+    <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20260912114913 +0200" stop="20260912124151 +0200" channel="c33">
-    <title lang="ca">Experiència Catalana</title>
-    <sub-title lang="ca">Experiència Catalana - Jota i Daniela</sub-title>
-    <desc lang="ca">La Daniela i el Jota, uns joves viatgers argentins, descobreixen el Lluçanès, la Cerdanya i l'Alt Urgell. Abans d'acabar el viatge, però, la Ivana Miño també els acompanya a conèixer els llocs més típics de Barcelona.</desc>
-    <length units="seconds">3158</length>
-    <episode-num system="onscreen">14</episode-num>
-    <category lang="ca">ENTRETENIMENT</category>
-    <category lang="ca">ALTRES</category>
+  <programme start="20260912155945 +0200" stop="20260912165848 +0200" channel="c33">
+    <title lang="ca">Els caps de setmana llargs d'en Rick Stein</title>
+    <sub-title lang="ca">Els caps de setmana llargs d'en Rick Stein - Lisboa</sub-title>
+    <desc lang="ca">En Rick Stein visita Lisboa, a la riba del Tajo, una ciutat ideal per tastar un marisc extraordinari o el famós 'pastéis de Belém', qui sap si el millor pastisset de crema del món. S'endinsarà en el llegat històric lisboeta, les seves festes populars o el modern Mercado da Ribeira, i vibrarà amb la malenconia del 'fado'. Finalment, ens farà un plat de mar i muntanya -porc i cloïsses 'à alentejana'-; també un pastís deliciós d'ametlla amb caramel de sucre i mantega, i bunyols de bacallà amb coriandre.</desc>
+    <length units="seconds">3543</length>
+    <episode-num system="onscreen">6</episode-num>
+    <category lang="ca">DIVULGACIÓ</category>
+    <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
