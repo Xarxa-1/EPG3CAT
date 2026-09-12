@@ -3,47 +3,37 @@
   <channel id="tvi">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20260912070000 +0200" stop="20260912100000 +0200" channel="tvi">
+  <programme start="20260912112627 +0200" stop="20260912120000 +0200" channel="tvi">
     <title lang="ca">Notícies 3CatInfo</title>
     <sub-title lang="ca">Notícies 3CatInfo</sub-title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">10800</length>
-    <episode-num system="onscreen">11149</episode-num>
-    <category lang="ca">ACTUALITAT</category>
-    <category lang="ca">INFORMATIU DIÀRI</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
-  </programme>
-  <programme start="20260912100000 +0200" stop="20260912112635 +0200" channel="tvi">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">Notícies 3CatInfo</sub-title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">5195</length>
+    <length units="seconds">2013</length>
     <episode-num system="onscreen">11150</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
+    <subtitles type="teletext"/>
     <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
-  <channel id="324">
-    <display-name>324</display-name>
-  </channel>
-  <programme start="20260912070000 +0200" stop="20260912100000 +0200" channel="324">
+  <programme start="20260912120000 +0200" stop="20260912142909 +0200" channel="tvi">
     <title lang="ca">Notícies 3CatInfo</title>
+    <sub-title lang="ca">Notícies 3CatInfo</sub-title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">10800</length>
-    <episode-num system="onscreen">11149</episode-num>
+    <length units="seconds">8949</length>
+    <episode-num system="onscreen">11151</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
+    <subtitles type="teletext"/>
     <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
+  <channel id="324">
+    <display-name>324</display-name>
+  </channel>
   <programme start="20260912100000 +0200" stop="20260912120000 +0200" channel="324">
     <title lang="ca">Notícies 3CatInfo</title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
@@ -54,48 +44,60 @@
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
+    <subtitles type="teletext"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
+  </programme>
+  <programme start="20260912120000 +0200" stop="20260912143000 +0200" channel="324">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="seconds">9000</length>
+    <episode-num system="onscreen">11151</episode-num>
+    <category lang="ca">ACTUALITAT</category>
+    <category lang="ca">INFORMATIU DIÀRI</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
     <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
   <channel id="esport3">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20260912063959 +0200" stop="20260912082626 +0200" channel="esport3">
-    <title lang="ca">Bàsquet</title>
-    <sub-title lang="ca">Bàsquet - Asisa Joventut-FIATC Girona / Lliga Catalana / J3</sub-title>
-    <desc lang="ca">Tercer i últim partit del grup 2 a la Lliga Catalana de bàsquet. Amb Víctor Lavagnini, Nil Llobet i Nacho Solozabal. </desc>
-    <length units="seconds">6387</length>
-    <episode-num system="onscreen">139</episode-num>
+  <programme start="20260912103618 +0200" stop="20260912115500 +0200" channel="esport3">
+    <title lang="ca">Handbol</title>
+    <sub-title lang="ca">Handbol - Logronyo-Barça / Lliga Asobal / J1</sub-title>
+    <desc lang="ca">L'objectiu dels blaugranes és guanyar la 17a Lliga consecutiva. El camí cap al nou títol arrenca a la capital de La Rioja amb la narració de Joan Ramon Vallvé i l'anàlisi de Víctor Tomàs.</desc>
+    <length units="seconds">4722</length>
+    <episode-num system="onscreen">194</episode-num>
     <category lang="ca">ESPORTS</category>
     <category lang="ca">RETRANSMISSIONS ESPORTS</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <previously-shown/>
-    <icon src="https://img.3cat.cat/multimedia/jpg/7/7/1788941967477.jpg"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/9/1/1700215879019.jpg"/>
   </programme>
-  <programme start="20260912082626 +0200" stop="20260912084221 +0200" channel="esport3">
-    <title lang="ca">3CatInfo Esports</title>
-    <sub-title lang="ca">3CatInfo Esports</sub-title>
-    <desc lang="ca">Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.</desc>
-    <length units="seconds">955</length>
-    <episode-num system="onscreen">5506</episode-num>
+  <programme start="20260912115500 +0200" stop="20260912124921 +0200" channel="esport3">
+    <title lang="ca">Futbol</title>
+    <sub-title lang="ca">Futbol - Athletic Club-RCD Espanyol / Lliga F / J3</sub-title>
+    <desc lang="ca">Sortida complicada per a les blanc-i-blaves que, després de dues derrotes, necessiten sumar els primers punts al campionat. El conjunt basc ha guanyat els dos primers partits i es vol mantenir al capdavant de la classificació. Amb la narració de Gemma Mallorca i l'anàlisi de Mireia Vera.</desc>
+    <length units="seconds">3261</length>
+    <episode-num system="onscreen">47</episode-num>
     <category lang="ca">ESPORTS</category>
-    <category lang="ca">INFORMATIU DIÀRI</category>
+    <category lang="ca">RETRANSMISSIONS ESPORTS</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <previously-shown/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/9/7/1758888682179.jpg"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/0/8/1730389343680.jpg"/>
   </programme>
   <channel id="sx3">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20260912074210 +0200" stop="20260912075306 +0200" channel="sx3">
-    <title lang="ca">El Mic i els seus amics</title>
-    <sub-title lang="ca">El Mic i els seus amics - Fem manualitats</sub-title>
-    <desc lang="ca">Tipis retallats i pintats, un tortell de plastilina, una flor feta amb grills de mandarina... una pila d'idees per fer amb els nens i nenes més petits.</desc>
-    <length units="seconds">656</length>
-    <episode-num system="onscreen">595</episode-num>
+  <programme start="20260912112712 +0200" stop="20260912114842 +0200" channel="sx3">
+    <title lang="ca">El carreró del misteri</title>
+    <sub-title lang="ca">El carreró del misteri - L'aviari encantat</sub-title>
+    <desc lang="ca">Segons l'Alfred, el colom, l'antic aviari del palau de Buckingham està embruixat: una gàrgola pren vida i espanta els ocells que s'hi acosten. I segons l'Espavilada, l'Alfred podria ser un somiador, però les pistes que aporta ell no enganyen.</desc>
+    <length units="seconds">1290</length>
+    <episode-num system="onscreen">17</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
@@ -104,12 +106,12 @@
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20260912075306 +0200" stop="20260912080335 +0200" channel="sx3">
-    <title lang="ca">El Mic i els seus amics</title>
-    <sub-title lang="ca">El Mic i els seus amics - Les joguines, a dormir</sub-title>
-    <desc lang="ca">Amb una cançó i jugant a fer veure que la caixa és un llit, en Cincsegons i el Mic van recollint totes les joguines.</desc>
-    <length units="seconds">629</length>
-    <episode-num system="onscreen">628</episode-num>
+  <programme start="20260912114842 +0200" stop="20260912121012 +0200" channel="sx3">
+    <title lang="ca">El carreró del misteri</title>
+    <sub-title lang="ca">El carreró del misteri - L'esmunyedís Robin dels animals</sub-title>
+    <desc lang="ca">L'inspector McFlaire i el seu equip toleren el famós Robin dels animals, un ésser misteriós que roba el menjar que no consumeixen els humans per distribuir-lo, des d'un globus aerostàtic, als animals del carrer. Un dia, però, envia un missatge en què amenaça la reina, i el McFlaire diu prou.</desc>
+    <length units="seconds">1290</length>
+    <episode-num system="onscreen">19</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
@@ -121,28 +123,28 @@
   <channel id="c33">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20260912065845 +0200" stop="20260912074552 +0200" channel="c33">
-    <title lang="ca">La Renaixença</title>
-    <sub-title lang="ca">La Renaixença - La perxa d'atletisme</sub-title>
-    <desc lang="ca">Tots hem passat tardes de Jocs Olímpics mirant esports que no coneixem. El salt de perxa, per exemple. Com pot ser que aquell pal aguanti el pes d'una persona mentre es doblega i es torna a posar recte? Dediquem el capítol a la perxa d'atletisme. Ens visita en Max Codinach, de Gavina.mp3, que també és poeta i té un llibre (tot i que es veu que no ho sabia). Amb l'Arnau Tordera i la Laia Glück interpreten 'Sempre instint'. Sortim a passejar en Rufus per la defensa de Baler, a les Filipines del 1898.</desc>
-    <length units="seconds">2827</length>
-    <episode-num system="onscreen">63</episode-num>
-    <category lang="ca">DIVULGACIÓ</category>
+  <programme start="20260912105621 +0200" stop="20260912114913 +0200" channel="c33">
+    <title lang="ca">Experiència Catalana</title>
+    <sub-title lang="ca">Experiència Catalana - Germans Green</sub-title>
+    <desc lang="ca">La Ivana Miño acompanya la Katie Green i al seu germà Barney per les Terres de l'Ebre. Un territori molt lligat a la seva història i a la de la seva família: el seu avi va morir al front de l'Ebre.</desc>
+    <length units="seconds">3172</length>
+    <episode-num system="onscreen">13</episode-num>
+    <category lang="ca">ENTRETENIMENT</category>
     <category lang="ca">ALTRES</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/3/3/1756148014833.jpg"/>
   </programme>
-  <programme start="20260912074552 +0200" stop="20260912083810 +0200" channel="c33">
-    <title lang="ca">Viure als Pirineus- A banda i banda</title>
-    <sub-title lang="ca">Viure als Pirineus- A banda i banda - Anna Espelt i François Pagnoux - Primavera</sub-title>
-    <length units="seconds">3138</length>
-    <episode-num system="onscreen">6</episode-num>
-    <category lang="ca">DIVULGACIÓ</category>
-    <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
+  <programme start="20260912114913 +0200" stop="20260912124151 +0200" channel="c33">
+    <title lang="ca">Experiència Catalana</title>
+    <sub-title lang="ca">Experiència Catalana - Jota i Daniela</sub-title>
+    <desc lang="ca">La Daniela i el Jota, uns joves viatgers argentins, descobreixen el Lluçanès, la Cerdanya i l'Alt Urgell. Abans d'acabar el viatge, però, la Ivana Miño també els acompanya a conèixer els llocs més típics de Barcelona.</desc>
+    <length units="seconds">3158</length>
+    <episode-num system="onscreen">14</episode-num>
+    <category lang="ca">ENTRETENIMENT</category>
+    <category lang="ca">ALTRES</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
