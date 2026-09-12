@@ -3,42 +3,38 @@
   <channel id="tvi">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20260912175204 +0200" stop="20260912181724 +0200" channel="tvi">
-    <title lang="ca">Jet lag</title>
-    <sub-title lang="ca">Jet lag - T'acompanyo en el sentiment</sub-title>
-    <desc lang="ca">La Diana rep una trucada: la seva amiga de l'ànima ha tingut un accident fatal. La Diana, encara que ho intenta, no recorda de qui estan parlant. D'altra banda, el Mario es confessa a l'Andreu sobre els seus sentiments per l' Esther.</desc>
-    <length units="seconds">1520</length>
-    <episode-num system="onscreen">10</episode-num>
-    <category lang="ca">FICCIÓ</category>
-    <category lang="ca">TELESÈRIE</category>
+  <programme start="20260912195320 +0200" stop="20260912210000 +0200" channel="tvi">
+    <title lang="ca">Atrapa'm si pots, estiu</title>
+    <sub-title lang="ca">Atrapa'm si pots, estiu</sub-title>
+    <desc lang="ca">'Atrapa'm si pots' és un 'quiz show' clàssic, de preguntes i respostes, presentat per Llucià Ferrer, en què sis concursants competeixen per arribar a la fase final i guanyar el pot. 'Atrapa'm si pots' és entreteniment pur i on gairebé és més important passar-s'ho bé que els diners. És un concurs en què pesa més la intuïció que no els coneixements acadèmics, més l'estratègia en el joc que no la sort.</desc>
+    <length units="seconds">4000</length>
+    <episode-num system="onscreen">990</episode-num>
+    <category lang="ca">ENTRETENIMENT</category>
+    <category lang="ca">CONCURS</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <subtitles type="teletext"/>
-    <previously-shown/>
   </programme>
-  <programme start="20260912181724 +0200" stop="20260912190905 +0200" channel="tvi">
-    <title lang="ca">Sota terra</title>
-    <sub-title lang="ca">Sota terra - Colònies industrials:la vida a la llera del riu</sub-title>
-    <desc lang="ca">Furgar en una colònia industrial abandonada des de fa dècades. Entrar en un món on el temps s'ha aturat. Conèixer com funcionava una colònia industrial, un món tancat on centenars de famílies treballaven i vivien durant tota la vida sense gairebé sortir-ne. La maquinària de la colònia es movia gràcies a dues fonts d'energia: l'aigua del riu Llobregat, i el carbó de les mines de l'Alt Berguedà. Excavem per buscar el canal de desguàs original de la primera turbina que va tenir la colònia, i també ens endinsem en una mina per obtenir carbó a cop de pic i pala, com s'ha fet durant dècades. Per arrodonir el programa, busquem un túnel colgat, totalment desaparegut, un túnel per on circulava el tren que unia totes les colònies i transportava persones, mercaderies i carbó amunt i avall de la comarca.</desc>
-    <length units="seconds">3101</length>
-    <episode-num system="onscreen">8</episode-num>
-    <category lang="ca">DIVULGACIÓ</category>
-    <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
+  <programme start="20260912210000 +0200" stop="20260912220352 +0200" channel="tvi">
+    <title lang="ca">Telenotícies vespre</title>
+    <sub-title lang="ca">Telenotícies vespre</sub-title>
+    <length units="seconds">3832</length>
+    <episode-num system="onscreen">7325</episode-num>
+    <category lang="ca">ACTUALITAT</category>
+    <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <subtitles type="teletext"/>
-    <previously-shown/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/7/2/1758026176427.jpg"/>
   </programme>
   <channel id="324">
     <display-name>324</display-name>
   </channel>
-  <programme start="20260912163000 +0200" stop="20260912183000 +0200" channel="324">
+  <programme start="20260912200000 +0200" stop="20260912210000 +0200" channel="324">
     <title lang="ca">Notícies 3CatInfo</title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">7200</length>
-    <episode-num system="onscreen">11152</episode-num>
+    <length units="seconds">3600</length>
+    <episode-num system="onscreen">11154</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
@@ -46,87 +42,87 @@
     </rating>
     <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
-  <programme start="20260912183000 +0200" stop="20260912200000 +0200" channel="324">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">5400</length>
-    <episode-num system="onscreen">11153</episode-num>
+  <programme start="20260912210000 +0200" stop="20260912220200 +0200" channel="324">
+    <title lang="ca">Telenotícies vespre</title>
+    <length units="seconds">3720</length>
+    <episode-num system="onscreen">7325</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/7/2/1758026176427.jpg"/>
   </programme>
   <channel id="esport3">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20260912173833 +0200" stop="20260912182500 +0200" channel="esport3">
-    <title lang="ca">Futbol</title>
-    <sub-title lang="ca">Futbol - CE Europa-Hèrcules CF / Primera Federació / J3</sub-title>
-    <desc lang="ca">Els graciencs, 1 derrota i 1 empat, volen la primera victòria de la temporada. Els alacantins, que encara no han puntuat, també hi arriben amb la necessitat de sumar. Amb la narració de Jordi Sunyer i l'anàlisi de Santi Triguero. </desc>
-    <length units="seconds">2787</length>
-    <episode-num system="onscreen">201</episode-num>
+  <programme start="20260912195857 +0200" stop="20260912202129 +0200" channel="esport3">
+    <title lang="ca">Esport Club Cap de Setmana</title>
+    <sub-title lang="ca">Esport Club Cap de Setmana - Esport Club</sub-title>
+    <desc lang="ca">Magazín amb tota l'actualitat esportiva del cap de setmana, amb atenció especial a la jornada de futbol i les principals competicions del nostre esport.</desc>
+    <length units="seconds">1352</length>
+    <episode-num system="onscreen">1384</episode-num>
     <category lang="ca">ESPORTS</category>
-    <category lang="ca">RETRANSMISSIONS ESPORTS</category>
+    <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <previously-shown/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/0/7/1698446098170.jpg"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/7/3/1698145091337.jpg"/>
   </programme>
-  <programme start="20260912182500 +0200" stop="20260912191702 +0200" channel="esport3">
-    <title lang="ca">Futbol sala</title>
-    <sub-title lang="ca">Futbol sala - Viña Albali Valdepeñas-Barça / Primera Divisió / J1</sub-title>
-    <desc lang="ca">Els blaugranes, campions la temporada passada, s'estrenen al nou campionat de Lliga a la pista del conjunt manxec. Amb la narració de Xavi Lorente i l'anàlisi de Xavi Passarrius. </desc>
-    <length units="seconds">3122</length>
-    <episode-num system="onscreen">480</episode-num>
+  <programme start="20260912202129 +0200" stop="20260912202923 +0200" channel="esport3">
+    <title lang="ca">E3</title>
+    <sub-title lang="ca">E3 - XLV Edició 24 Hores Ciclomotors Vall del Tenes</sub-title>
+    <desc lang="ca">45a edició de les 24 Hores Internacionals de Resistència en Ciclomotors de la Vall del Tenes disputada al Circuit de Can Montcau, a Lliçà d'Amunt.</desc>
+    <length units="seconds">474</length>
+    <episode-num system="onscreen">2384</episode-num>
     <category lang="ca">ESPORTS</category>
-    <category lang="ca">RETRANSMISSIONS ESPORTS</category>
+    <category lang="ca">REPORTATGES</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <icon src="https://img.ccma.cat/multimedia/jpg/1/5/1699004339351.jpg"/>
+    <icon src="https://img.3cat.cat/multimedia/jpg/6/6/1788947889566.jpg"/>
   </programme>
   <channel id="sx3">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20260912181318 +0200" stop="20260912181958 +0200" channel="sx3">
-    <title lang="ca">El xai Shaun</title>
-    <sub-title lang="ca">El xai Shaun - Comença el joc</sub-title>
-    <desc lang="ca">El xai Shaun s'acaba de trobar una col que ha caigut d'un camió que passava per la granja. Serà ideal per fer un partit de futbol! Amb tot el ramat hi ha jugadors de sobres! I de ganes, no els en falten! Apa, doncs, que comenci el joc! Llàstima que els porquets trapelles estan decidits a engegar-ho tot a rodar...</desc>
-    <length units="seconds">400</length>
-    <episode-num system="onscreen">1</episode-num>
+  <programme start="20260912201823 +0200" stop="20260912203931 +0200" channel="sx3">
+    <title lang="ca">Henry Danger</title>
+    <sub-title lang="ca">Henry Danger - Henry i la noia xunga (Part 1)</sub-title>
+    <desc lang="ca">En Henry s'implica en la recerca d'una banda de grafiters liderada per una misteriosa noia, mentre la missió comença a barrejar-se amb sentiments personals.</desc>
+    <length units="seconds">1268</length>
+    <episode-num system="onscreen">24</episode-num>
     <category lang="ca">FICCIÓ</category>
-    <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
+    <category lang="ca">SÈRIE DRAMÀTICA</category>
     <rating>
       <value>INFANTIL</value>
     </rating>
+    <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20260912181958 +0200" stop="20260912182558 +0200" channel="sx3">
-    <title lang="ca">El xai Shaun</title>
-    <sub-title lang="ca">El xai Shaun - Agafa'l!</sub-title>
-    <desc lang="ca">En Bitzer, el gos que vigila el ramat d'en Shaun, s'ha enamorat d'una gosseta del càmping que hi ha a la vora de la granja. Quin vigilarà, ara, les ovelles?! Si no hi ha algú que posi una mica d'ordre, això acabarà sent un orgue de xais! Sort que en Shaun sap com fer-ho perquè en Bitzer torni a la feina...</desc>
-    <length units="seconds">360</length>
-    <episode-num system="onscreen">2</episode-num>
+  <programme start="20260912203931 +0200" stop="20260912210001 +0200" channel="sx3">
+    <title lang="ca">Henry Danger</title>
+    <sub-title lang="ca">Henry Danger - Henry i la noia xunga (Part 2)</sub-title>
+    <desc lang="ca">Un jove superheroi s'infiltra en una banda de grafiters per descobrir el seu amagatall, mentre posa en risc la confiança dels seus amics i les seves pròpies lleialtats.</desc>
+    <length units="seconds">1230</length>
+    <episode-num system="onscreen">25</episode-num>
     <category lang="ca">FICCIÓ</category>
-    <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
+    <category lang="ca">SÈRIE DRAMÀTICA</category>
     <rating>
       <value>INFANTIL</value>
     </rating>
+    <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
   <channel id="c33">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20260912174959 +0200" stop="20260912184216 +0200" channel="c33">
-    <title lang="ca">Els quaderns de cuina de la Julie</title>
-    <sub-title lang="ca">Els quaderns de cuina de la Julie - Saintoge</sub-title>
-    <desc lang="ca">En aquest episodi, la Julie visita la regió de Saintonge, al departament de la Charanta Marítima. Amb la Lisette prepara els cargols típics de la Charanta. A continuació visita una fàbrica de mantega elaborada a l'estil tradicional. Després, amb en Piqthiu, prepara un gigourit, un civet típic de la regió. Finalment, amb la Michèle, prepara unes coques de la Charanta farcides d'angèlica.</desc>
-    <length units="seconds">3137</length>
-    <episode-num system="onscreen">78</episode-num>
+  <programme start="20260912192756 +0200" stop="20260912201758 +0200" channel="c33">
+    <title lang="ca">Viatges insòlits</title>
+    <sub-title lang="ca">Viatges insòlits - Japó II</sub-title>
+    <desc lang="ca">La segona part del viatge pel Japó arrenca a Kyoto, on en Tom coneixerà les habilitats d'un antic samurai i passarà una agradable vetllada amb una geisha autèntica com a amfitriona. De camí cap a Tòquio, visitarà uns penya-segats amb una reputació funesta i s'endinsarà en un camp que organitza cursos de formació poc convencionals per a directius. Ja a Tòquio, visitarà un centre d'acollida de hikikimori, els joves que viuen aïllats a la seva habitació, i anirà a sopar a un restaurant molt peculiar.</desc>
+    <length units="seconds">3002</length>
+    <episode-num system="onscreen">35</episode-num>
     <category lang="ca">DIVULGACIÓ</category>
     <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
     <rating>
@@ -135,12 +131,12 @@
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20260912184216 +0200" stop="20260912192755 +0200" channel="c33">
+  <programme start="20260912201758 +0200" stop="20260912205942 +0200" channel="c33">
     <title lang="ca">Viatges insòlits</title>
-    <sub-title lang="ca">Viatges insòlits - Japó I</sub-title>
-    <desc lang="ca">Després de la parada obligada a causa de la Covid, Tom Waes reprèn la sèrie de Viatges Insòlits amb el que va quedar-li pendent a la pandèmia: Japó. En Tom recorrerà tot el país de sud a nord, més de tres mil quilòmetres per diverses illes, i aquesta primera part inclou la zona més meridional. El capítol comença amb una oració per demanar bon viatge i després continua passant per Nagasaki, l'illa dels gats, i una ciutat dominada per la yakuza, i entremig en Tom encara tindrà temps de participar en un festival tradicional molt especial.</desc>
-    <length units="seconds">2739</length>
-    <episode-num system="onscreen">34</episode-num>
+    <sub-title lang="ca">Viatges insòlits - Últims dies al Japó</sub-title>
+    <desc lang="ca">Comencem l'última part del viatge pel Japó amb una visita polèmica: Fukushima. Després de més d'una dècada del desastre nuclear, en Tom vol veure com es recupera la zona i, sobre tot, com ho viuen els japonesos que van patir el tsunami. Els últims kilòmetres de la ruta portaran en Tom a paratges insòlits i inoblidables.</desc>
+    <length units="seconds">2504</length>
+    <episode-num system="onscreen">36</episode-num>
     <category lang="ca">DIVULGACIÓ</category>
     <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
     <rating>
