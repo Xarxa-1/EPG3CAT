@@ -3,36 +3,11 @@
   <channel id="tvi">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20260912222848 +0200" stop="20260913003231 +0200" channel="tvi">
-    <title lang="ca">Pel·lícula</title>
-    <sub-title lang="ca">Pel·lícula - Sinjar</sub-title>
-    <desc lang="ca">SINJARProducció: Kaboga art &amp; films creacions audiovisualsDirecció i guió: Anna M. BofarullDirecció fotografia: Lara VilanovaIntèrprets: Nora Navas (Carlota), Halima Ilter (Hadia), Eman Eido (Arjin), Guim Puig (Marc), Luisa Gavasa (Carmen)Sinopsi:2014. Soldats d'Estat Islàmic envaeixen Sinjar. La Hadia és convertida en esclava i tancada en una casa amb tres dels seus fills. La jove Arjin s'escapa de la seva captivitat i intenta tornar a casa. A Barcelona, la Carlota busca desesperadament el seu fill, fugit sense deixar rastre. Fins on estaran disposades a arribar aquestes tres dones per recuperar els que més s'estimen?</desc>
-    <credits>
-      <actor>Nora Navas (Carlota)</actor>
-      <actor>Halima Ilter (Hadia)</actor>
-      <actor>Eman Eido (Arjin)</actor>
-      <actor>Guim Puig (Marc)</actor>
-      <actor>Luisa Gavasa (Carmen)Sinopsi:2014. Soldats d'Estat Islàmic envaeixen Sinjar. La Hadia és convertida en esclava</actor>
-      <actor>tancada en una casa amb tres dels seus fills. La jove Arjin s'escapa de la seva captivitat</actor>
-      <actor>intenta tornar a casa. A Barcelona</actor>
-      <actor>la Carlota busca desesperadament el seu fill</actor>
-      <actor>fugit sense deixar rastre. Fins on estaran disposades a arribar aquestes tres dones per recuperar els que més s'estimen?</actor>
-    </credits>
-    <length units="seconds">7423</length>
-    <episode-num system="onscreen">1</episode-num>
-    <category lang="ca">FICCIÓ</category>
-    <category lang="ca">PEL·LÍCULA / TELEFILM</category>
-    <rating>
-      <value>PÚBLIC ADULT</value>
-    </rating>
-    <subtitles type="teletext"/>
-    <previously-shown/>
-  </programme>
-  <programme start="20260913003231 +0200" stop="20260913004846 +0200" channel="tvi">
+  <programme start="20260913003232 +0200" stop="20260913005053 +0200" channel="tvi">
     <title lang="ca">Literal</title>
     <sub-title lang="ca">Literal - Literalment romàntic</sub-title>
     <desc lang="ca">Mira que n'hem parlat, però mai en tenim prou: som unes romàntiques empedreïdes. Evolucionem cap a amors més sans, intentem desidealitzar l'amor i busquem novel·les que representin realitats més enllà de l'heteronormativitat, però ho confessem: el nostre plaer culpable continuen sent les comèdies romàntiques. A 'Literal', literalment romàntiques amb Joana Marcús i Maria Vallespí. </desc>
-    <length units="seconds">975</length>
+    <length units="seconds">1101</length>
     <episode-num system="onscreen">18</episode-num>
     <category lang="ca">DIVULGACIÓ</category>
     <category lang="ca">MAGAZINE ESPECIALITZAT</category>
@@ -45,24 +20,11 @@
   <channel id="324">
     <display-name>324</display-name>
   </channel>
-  <programme start="20260912220200 +0200" stop="20260912230000 +0200" channel="324">
-    <title lang="ca">Telenotícies vespre (reemissió)</title>
-    <length units="seconds">3480</length>
-    <episode-num system="onscreen">7325</episode-num>
-    <category lang="ca">ACTUALITAT</category>
-    <category lang="ca">INFORMATIU DIÀRI</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <subtitles type="teletext"/>
-    <previously-shown/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/7/2/1758026176427.jpg"/>
-  </programme>
-  <programme start="20260912230000 +0200" stop="20260913003000 +0200" channel="324">
+  <programme start="20260913003000 +0200" stop="20260913010000 +0200" channel="324">
     <title lang="ca">Notícies 3CatInfo</title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">5400</length>
-    <episode-num system="onscreen">11155</episode-num>
+    <length units="seconds">1800</length>
+    <episode-num system="onscreen">11156</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
@@ -71,29 +33,41 @@
     <subtitles type="teletext"/>
     <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
-  <channel id="esport3">
-    <display-name>ESPORT3</display-name>
-  </channel>
-  <programme start="20260912223546 +0200" stop="20260912225556 +0200" channel="esport3">
-    <title lang="ca">Sala de Premsa</title>
-    <sub-title lang="ca">Sala de Premsa - Hansi Flick / Prèvia Llevant-Barça / J5</sub-title>
-    <desc lang="ca">Esport3 t'ofereix les compareixences de dirigents, jugadors i entrenadors dels equips catalans davant els mitjans de comunicació.</desc>
-    <length units="seconds">1210</length>
-    <episode-num system="onscreen">725</episode-num>
-    <category lang="ca">ESPORTS</category>
+  <programme start="20260913010000 +0200" stop="20260913060000 +0200" channel="324">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="seconds">18000</length>
+    <episode-num system="onscreen">11156</episode-num>
+    <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
-    <icon src="https://img.3cat.cat/multimedia/jpg/7/4/1778665728847.jpg"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
-  <programme start="20260912225556 +0200" stop="20260913003203 +0200" channel="esport3">
+  <channel id="esport3">
+    <display-name>ESPORT3</display-name>
+  </channel>
+  <programme start="20260913003352 +0200" stop="20260913010448 +0200" channel="esport3">
+    <title lang="ca">3CatInfo Esports</title>
+    <sub-title lang="ca">3CatInfo Esports</sub-title>
+    <desc lang="ca">Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.</desc>
+    <length units="seconds">1856</length>
+    <episode-num system="onscreen">5507</episode-num>
+    <category lang="ca">ESPORTS</category>
+    <category lang="ca">INFORMATIU DIÀRI</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <icon src="https://img.ccma.cat/multimedia/jpg/9/7/1758888682179.jpg"/>
+  </programme>
+  <programme start="20260913010448 +0200" stop="20260913030535 +0200" channel="esport3">
     <title lang="ca">Gol a gol</title>
     <sub-title lang="ca">Gol a gol - Anàlisi de la jornada / J5 / Dissabte</sub-title>
     <desc lang="ca">'Gol a gol' us ofereix els resums dels partits de futbol de Primera i Segona Divisió. Presentat per Jordi Grau a Esport3, cada dissabte i cada diumenge podeu veure les millors imatges de la jornada de Lliga amb l'anàlisi dels experts, amb especial atenció als equips catalans, sobretot el Barça, el Girona i l'Espanyol.</desc>
-    <length units="seconds">5767</length>
+    <length units="seconds">7247</length>
     <episode-num system="onscreen">1775</episode-num>
     <category lang="ca">ESPORTS</category>
     <category lang="ca">MAGAZINE</category>
@@ -101,17 +75,18 @@
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
+    <previously-shown/>
     <icon src="https://img.ccma.cat/multimedia/jpg/2/1/1698144123212.jpg"/>
   </programme>
   <channel id="sx3">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20260912223647 +0200" stop="20260912224743 +0200" channel="sx3">
-    <title lang="ca">La tropa del corral</title>
-    <sub-title lang="ca">La tropa del corral - Diversió a la granja</sub-title>
-    <desc lang="ca">L'Elvis truca la Tropa: havia promès a en Cornelius que el colaria a la fira perquè no havia estat mai a cap, i ara resulta que l'han cancel·lat. La Tropa decideix muntar-ne una de molt divertida a la granja, però la cosa es complica quan la resta d'animals hi apareixen per sorpresa!</desc>
-    <length units="seconds">656</length>
-    <episode-num system="onscreen">49</episode-num>
+  <programme start="20260913003331 +0200" stop="20260913004419 +0200" channel="sx3">
+    <title lang="ca">La gateta Arc iris papallona unicorn</title>
+    <sub-title lang="ca">La gateta Arc iris papallona unicorn - La capsa sorpresa</sub-title>
+    <desc lang="ca">La Felicity penja a internet un vídeo obrint un paquet. Es fa tan viral que comença a rebre paquets gratis d'empreses que volen vídeos de promoció. El Rudy, mort d'enveja, li envia la temible capsa de Pandora perquè l'obri.</desc>
+    <length units="seconds">648</length>
+    <episode-num system="onscreen">26</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
@@ -120,12 +95,12 @@
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20260912224743 +0200" stop="20260912225824 +0200" channel="sx3">
-    <title lang="ca">La tropa del corral</title>
-    <sub-title lang="ca">La tropa del corral - La guineu al galliner</sub-title>
-    <desc lang="ca">Després de robar-li els auriculars a l'Elvis, en Frankie decideix fer-se passar per un gos i amagar-se a la granja. De seguida pren el control del corral i aconsegueix que el granger tanqui la Tropa a l'estable. Ara seran els habitants de Vilanimal qui hauran de passar a l'acció!</desc>
-    <length units="seconds">641</length>
-    <episode-num system="onscreen">50</episode-num>
+  <programme start="20260913004419 +0200" stop="20260913010526 +0200" channel="sx3">
+    <title lang="ca">Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
+    <sub-title lang="ca">Prodigiosa: Les aventures de Ladybug i Gat Noir - Volpina</sub-title>
+    <desc lang="ca">La Lila és una alumna nova que desperta una gran admiració entre els seus companys pel seu trepidant ritme de vida. Tothom parla d'ella amb entusiasme, excepte la Marinette, que no veu amb bons ulls que la Lila vulgui lligar-se l'Adrien i a més a més vagi dient que és íntima amiga de Ladybug.</desc>
+    <length units="seconds">1267</length>
+    <episode-num system="onscreen">26</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
@@ -137,12 +112,12 @@
   <channel id="c33">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20260912220632 +0200" stop="20260912230455 +0200" channel="c33">
-    <title lang="ca">Els caps de setmana llargs d'en Rick Stein</title>
-    <sub-title lang="ca">Els caps de setmana llargs d'en Rick Stein - Copenhaguen</sub-title>
-    <desc lang="ca">A Copenhaguen, on s'allotja en una barca flotant, en Rick aprendrà unes quantes coses sobre la nova cuina nòrdica, un fenomen que ha portat la gastronomia danesa i l'interès dels danesos pel menjar a un altre nivell. Parlarà amb xefs innovadors, coneixerà una actriu que admira molt, visitarà un museu d'escultures, una església molt singular i els Jardins de Tivoli, i tastarà alguns plats emblemàtics del país, com l''smørrebrød' -pa amb coses- o els 'frikadellen' -bunyols de peix-.</desc>
-    <length units="seconds">3503</length>
-    <episode-num system="onscreen">7</episode-num>
+  <programme start="20260913000354 +0200" stop="20260913005610 +0200" channel="c33">
+    <title lang="ca">Els quaderns de cuina de la Julie</title>
+    <sub-title lang="ca">Els quaderns de cuina de la Julie - El mercat internacional de Rungis</sub-title>
+    <desc lang="ca">La Julie es passa tota una matinada rondant pel mercat de majoristes de París. Al pavelló de triperia, en Philippe fa un guisat de galtes de porc amb sidra, mostassa i pastanaga. Al pavelló de peixateria, l'Éric fa uns lloms de bacallà fresc amb xoriço. Al sector de formatgeria, en Jean-Pierre s'encarrega de la safata de formatges. Al pavelló de verduleria, la Martine i l'Olivier són productors de créixens i en Jean-François és especialista en productes d'arreu del món amb els quals la Julie improvisarà unes postres.</desc>
+    <length units="seconds">3136</length>
+    <episode-num system="onscreen">79</episode-num>
     <category lang="ca">DIVULGACIÓ</category>
     <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
     <rating>
@@ -151,12 +126,12 @@
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20260912230455 +0200" stop="20260913000353 +0200" channel="c33">
-    <title lang="ca">Els caps de setmana llargs d'en Rick Stein</title>
-    <sub-title lang="ca">Els caps de setmana llargs d'en Rick Stein - Cadis</sub-title>
-    <desc lang="ca">En Rick Stein aquesta vegada viatja a la ciutat andalusa de Cadis, on quedarà captivat per la llum i resseguirà el seu passat, recordant la petjada dels fenicis o la fascinant batalla de Trafalagar. I s'emocionarà amb la passió que transmet el flamenc. Tastarà, entre altres plats, peixet fregit, seitons, calamarsons o l'exquisida 'tortillita de camarones' (coca fregida de gambetes), sense oblidar el xerès. I cuinarà orada a la 'roteña', arròs verd i ous a la flamenca.</desc>
-    <length units="seconds">3538</length>
-    <episode-num system="onscreen">8</episode-num>
+  <programme start="20260913005610 +0200" stop="20260913014736 +0200" channel="c33">
+    <title lang="ca">Els quaderns de cuina de la Julie</title>
+    <sub-title lang="ca">Els quaderns de cuina de la Julie - La vall dels Baus</sub-title>
+    <desc lang="ca">En aquest episodi la Julie visita la regió dels Baus, al peu del massís dels Alpilles. Primer de tot coneix en Marcel, un productor d'olives. Després, amb l'Annie i les seves filles l'Anne i la Magali, que són oleïcultores, prepara una orada amb fonoll i un fricot amb olives trencades. Amb l'Alexandre, que és productor de fenc i fill de ramader, fa una recepta de toro amb arròs amb fenc. Amb en Pierre, que és confiter, descobreix com es fan les fruites confitades de la regió. Finalment, amb la Jeanne, prepara un menjar blanc típic de la Provença.</desc>
+    <length units="seconds">3086</length>
+    <episode-num system="onscreen">80</episode-num>
     <category lang="ca">DIVULGACIÓ</category>
     <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
     <rating>
