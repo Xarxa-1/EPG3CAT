@@ -3,48 +3,51 @@
   <channel id="tvi">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20260912195320 +0200" stop="20260912210000 +0200" channel="tvi">
-    <title lang="ca">Atrapa'm si pots, estiu</title>
-    <sub-title lang="ca">Atrapa'm si pots, estiu</sub-title>
-    <desc lang="ca">'Atrapa'm si pots' és un 'quiz show' clàssic, de preguntes i respostes, presentat per Llucià Ferrer, en què sis concursants competeixen per arribar a la fase final i guanyar el pot. 'Atrapa'm si pots' és entreteniment pur i on gairebé és més important passar-s'ho bé que els diners. És un concurs en què pesa més la intuïció que no els coneixements acadèmics, més l'estratègia en el joc que no la sort.</desc>
-    <length units="seconds">4000</length>
-    <episode-num system="onscreen">990</episode-num>
-    <category lang="ca">ENTRETENIMENT</category>
-    <category lang="ca">CONCURS</category>
+  <programme start="20260912222848 +0200" stop="20260913003231 +0200" channel="tvi">
+    <title lang="ca">Pel·lícula</title>
+    <sub-title lang="ca">Pel·lícula - Sinjar</sub-title>
+    <desc lang="ca">SINJARProducció: Kaboga art &amp; films creacions audiovisualsDirecció i guió: Anna M. BofarullDirecció fotografia: Lara VilanovaIntèrprets: Nora Navas (Carlota), Halima Ilter (Hadia), Eman Eido (Arjin), Guim Puig (Marc), Luisa Gavasa (Carmen)Sinopsi:2014. Soldats d'Estat Islàmic envaeixen Sinjar. La Hadia és convertida en esclava i tancada en una casa amb tres dels seus fills. La jove Arjin s'escapa de la seva captivitat i intenta tornar a casa. A Barcelona, la Carlota busca desesperadament el seu fill, fugit sense deixar rastre. Fins on estaran disposades a arribar aquestes tres dones per recuperar els que més s'estimen?</desc>
+    <credits>
+      <actor>Nora Navas (Carlota)</actor>
+      <actor>Halima Ilter (Hadia)</actor>
+      <actor>Eman Eido (Arjin)</actor>
+      <actor>Guim Puig (Marc)</actor>
+      <actor>Luisa Gavasa (Carmen)Sinopsi:2014. Soldats d'Estat Islàmic envaeixen Sinjar. La Hadia és convertida en esclava</actor>
+      <actor>tancada en una casa amb tres dels seus fills. La jove Arjin s'escapa de la seva captivitat</actor>
+      <actor>intenta tornar a casa. A Barcelona</actor>
+      <actor>la Carlota busca desesperadament el seu fill</actor>
+      <actor>fugit sense deixar rastre. Fins on estaran disposades a arribar aquestes tres dones per recuperar els que més s'estimen?</actor>
+    </credits>
+    <length units="seconds">7423</length>
+    <episode-num system="onscreen">1</episode-num>
+    <category lang="ca">FICCIÓ</category>
+    <category lang="ca">PEL·LÍCULA / TELEFILM</category>
     <rating>
-      <value>TOTS ELS PÚBLICS</value>
+      <value>PÚBLIC ADULT</value>
     </rating>
+    <subtitles type="teletext"/>
+    <previously-shown/>
   </programme>
-  <programme start="20260912210000 +0200" stop="20260912220352 +0200" channel="tvi">
-    <title lang="ca">Telenotícies vespre</title>
-    <sub-title lang="ca">Telenotícies vespre</sub-title>
-    <length units="seconds">3832</length>
-    <episode-num system="onscreen">7325</episode-num>
-    <category lang="ca">ACTUALITAT</category>
-    <category lang="ca">INFORMATIU DIÀRI</category>
+  <programme start="20260913003231 +0200" stop="20260913004846 +0200" channel="tvi">
+    <title lang="ca">Literal</title>
+    <sub-title lang="ca">Literal - Literalment romàntic</sub-title>
+    <desc lang="ca">Mira que n'hem parlat, però mai en tenim prou: som unes romàntiques empedreïdes. Evolucionem cap a amors més sans, intentem desidealitzar l'amor i busquem novel·les que representin realitats més enllà de l'heteronormativitat, però ho confessem: el nostre plaer culpable continuen sent les comèdies romàntiques. A 'Literal', literalment romàntiques amb Joana Marcús i Maria Vallespí. </desc>
+    <length units="seconds">975</length>
+    <episode-num system="onscreen">18</episode-num>
+    <category lang="ca">DIVULGACIÓ</category>
+    <category lang="ca">MAGAZINE ESPECIALITZAT</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <icon src="https://img.ccma.cat/multimedia/jpg/7/2/1758026176427.jpg"/>
+    <subtitles type="teletext"/>
+    <previously-shown/>
   </programme>
   <channel id="324">
     <display-name>324</display-name>
   </channel>
-  <programme start="20260912200000 +0200" stop="20260912210000 +0200" channel="324">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">3600</length>
-    <episode-num system="onscreen">11154</episode-num>
-    <category lang="ca">ACTUALITAT</category>
-    <category lang="ca">INFORMATIU DIÀRI</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
-  </programme>
-  <programme start="20260912210000 +0200" stop="20260912220200 +0200" channel="324">
-    <title lang="ca">Telenotícies vespre</title>
-    <length units="seconds">3720</length>
+  <programme start="20260912220200 +0200" stop="20260912230000 +0200" channel="324">
+    <title lang="ca">Telenotícies vespre (reemissió)</title>
+    <length units="seconds">3480</length>
     <episode-num system="onscreen">7325</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
@@ -52,62 +55,79 @@
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
+    <previously-shown/>
     <icon src="https://img.ccma.cat/multimedia/jpg/7/2/1758026176427.jpg"/>
+  </programme>
+  <programme start="20260912230000 +0200" stop="20260913003000 +0200" channel="324">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="seconds">5400</length>
+    <episode-num system="onscreen">11155</episode-num>
+    <category lang="ca">ACTUALITAT</category>
+    <category lang="ca">INFORMATIU DIÀRI</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <subtitles type="teletext"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
   <channel id="esport3">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20260912195857 +0200" stop="20260912202129 +0200" channel="esport3">
-    <title lang="ca">Esport Club Cap de Setmana</title>
-    <sub-title lang="ca">Esport Club Cap de Setmana - Esport Club</sub-title>
-    <desc lang="ca">Magazín amb tota l'actualitat esportiva del cap de setmana, amb atenció especial a la jornada de futbol i les principals competicions del nostre esport.</desc>
-    <length units="seconds">1352</length>
-    <episode-num system="onscreen">1384</episode-num>
+  <programme start="20260912223546 +0200" stop="20260912225556 +0200" channel="esport3">
+    <title lang="ca">Sala de Premsa</title>
+    <sub-title lang="ca">Sala de Premsa - Hansi Flick / Prèvia Llevant-Barça / J5</sub-title>
+    <desc lang="ca">Esport3 t'ofereix les compareixences de dirigents, jugadors i entrenadors dels equips catalans davant els mitjans de comunicació.</desc>
+    <length units="seconds">1210</length>
+    <episode-num system="onscreen">725</episode-num>
     <category lang="ca">ESPORTS</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <icon src="https://img.ccma.cat/multimedia/jpg/7/3/1698145091337.jpg"/>
+    <subtitles type="teletext"/>
+    <previously-shown/>
+    <icon src="https://img.3cat.cat/multimedia/jpg/7/4/1778665728847.jpg"/>
   </programme>
-  <programme start="20260912202129 +0200" stop="20260912202923 +0200" channel="esport3">
-    <title lang="ca">E3</title>
-    <sub-title lang="ca">E3 - XLV Edició 24 Hores Ciclomotors Vall del Tenes</sub-title>
-    <desc lang="ca">45a edició de les 24 Hores Internacionals de Resistència en Ciclomotors de la Vall del Tenes disputada al Circuit de Can Montcau, a Lliçà d'Amunt.</desc>
-    <length units="seconds">474</length>
-    <episode-num system="onscreen">2384</episode-num>
+  <programme start="20260912225556 +0200" stop="20260913003203 +0200" channel="esport3">
+    <title lang="ca">Gol a gol</title>
+    <sub-title lang="ca">Gol a gol - Anàlisi de la jornada / J5 / Dissabte</sub-title>
+    <desc lang="ca">'Gol a gol' us ofereix els resums dels partits de futbol de Primera i Segona Divisió. Presentat per Jordi Grau a Esport3, cada dissabte i cada diumenge podeu veure les millors imatges de la jornada de Lliga amb l'anàlisi dels experts, amb especial atenció als equips catalans, sobretot el Barça, el Girona i l'Espanyol.</desc>
+    <length units="seconds">5767</length>
+    <episode-num system="onscreen">1775</episode-num>
     <category lang="ca">ESPORTS</category>
-    <category lang="ca">REPORTATGES</category>
+    <category lang="ca">MAGAZINE</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <icon src="https://img.3cat.cat/multimedia/jpg/6/6/1788947889566.jpg"/>
+    <subtitles type="teletext"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/2/1/1698144123212.jpg"/>
   </programme>
   <channel id="sx3">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20260912201823 +0200" stop="20260912203931 +0200" channel="sx3">
-    <title lang="ca">Henry Danger</title>
-    <sub-title lang="ca">Henry Danger - Henry i la noia xunga (Part 1)</sub-title>
-    <desc lang="ca">En Henry s'implica en la recerca d'una banda de grafiters liderada per una misteriosa noia, mentre la missió comença a barrejar-se amb sentiments personals.</desc>
-    <length units="seconds">1268</length>
-    <episode-num system="onscreen">24</episode-num>
+  <programme start="20260912223647 +0200" stop="20260912224743 +0200" channel="sx3">
+    <title lang="ca">La tropa del corral</title>
+    <sub-title lang="ca">La tropa del corral - Diversió a la granja</sub-title>
+    <desc lang="ca">L'Elvis truca la Tropa: havia promès a en Cornelius que el colaria a la fira perquè no havia estat mai a cap, i ara resulta que l'han cancel·lat. La Tropa decideix muntar-ne una de molt divertida a la granja, però la cosa es complica quan la resta d'animals hi apareixen per sorpresa!</desc>
+    <length units="seconds">656</length>
+    <episode-num system="onscreen">49</episode-num>
     <category lang="ca">FICCIÓ</category>
-    <category lang="ca">SÈRIE DRAMÀTICA</category>
+    <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
       <value>INFANTIL</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20260912203931 +0200" stop="20260912210001 +0200" channel="sx3">
-    <title lang="ca">Henry Danger</title>
-    <sub-title lang="ca">Henry Danger - Henry i la noia xunga (Part 2)</sub-title>
-    <desc lang="ca">Un jove superheroi s'infiltra en una banda de grafiters per descobrir el seu amagatall, mentre posa en risc la confiança dels seus amics i les seves pròpies lleialtats.</desc>
-    <length units="seconds">1230</length>
-    <episode-num system="onscreen">25</episode-num>
+  <programme start="20260912224743 +0200" stop="20260912225824 +0200" channel="sx3">
+    <title lang="ca">La tropa del corral</title>
+    <sub-title lang="ca">La tropa del corral - La guineu al galliner</sub-title>
+    <desc lang="ca">Després de robar-li els auriculars a l'Elvis, en Frankie decideix fer-se passar per un gos i amagar-se a la granja. De seguida pren el control del corral i aconsegueix que el granger tanqui la Tropa a l'estable. Ara seran els habitants de Vilanimal qui hauran de passar a l'acció!</desc>
+    <length units="seconds">641</length>
+    <episode-num system="onscreen">50</episode-num>
     <category lang="ca">FICCIÓ</category>
-    <category lang="ca">SÈRIE DRAMÀTICA</category>
+    <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
       <value>INFANTIL</value>
     </rating>
@@ -117,12 +137,12 @@
   <channel id="c33">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20260912192756 +0200" stop="20260912201758 +0200" channel="c33">
-    <title lang="ca">Viatges insòlits</title>
-    <sub-title lang="ca">Viatges insòlits - Japó II</sub-title>
-    <desc lang="ca">La segona part del viatge pel Japó arrenca a Kyoto, on en Tom coneixerà les habilitats d'un antic samurai i passarà una agradable vetllada amb una geisha autèntica com a amfitriona. De camí cap a Tòquio, visitarà uns penya-segats amb una reputació funesta i s'endinsarà en un camp que organitza cursos de formació poc convencionals per a directius. Ja a Tòquio, visitarà un centre d'acollida de hikikimori, els joves que viuen aïllats a la seva habitació, i anirà a sopar a un restaurant molt peculiar.</desc>
-    <length units="seconds">3002</length>
-    <episode-num system="onscreen">35</episode-num>
+  <programme start="20260912220632 +0200" stop="20260912230455 +0200" channel="c33">
+    <title lang="ca">Els caps de setmana llargs d'en Rick Stein</title>
+    <sub-title lang="ca">Els caps de setmana llargs d'en Rick Stein - Copenhaguen</sub-title>
+    <desc lang="ca">A Copenhaguen, on s'allotja en una barca flotant, en Rick aprendrà unes quantes coses sobre la nova cuina nòrdica, un fenomen que ha portat la gastronomia danesa i l'interès dels danesos pel menjar a un altre nivell. Parlarà amb xefs innovadors, coneixerà una actriu que admira molt, visitarà un museu d'escultures, una església molt singular i els Jardins de Tivoli, i tastarà alguns plats emblemàtics del país, com l''smørrebrød' -pa amb coses- o els 'frikadellen' -bunyols de peix-.</desc>
+    <length units="seconds">3503</length>
+    <episode-num system="onscreen">7</episode-num>
     <category lang="ca">DIVULGACIÓ</category>
     <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
     <rating>
@@ -131,12 +151,12 @@
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20260912201758 +0200" stop="20260912205942 +0200" channel="c33">
-    <title lang="ca">Viatges insòlits</title>
-    <sub-title lang="ca">Viatges insòlits - Últims dies al Japó</sub-title>
-    <desc lang="ca">Comencem l'última part del viatge pel Japó amb una visita polèmica: Fukushima. Després de més d'una dècada del desastre nuclear, en Tom vol veure com es recupera la zona i, sobre tot, com ho viuen els japonesos que van patir el tsunami. Els últims kilòmetres de la ruta portaran en Tom a paratges insòlits i inoblidables.</desc>
-    <length units="seconds">2504</length>
-    <episode-num system="onscreen">36</episode-num>
+  <programme start="20260912230455 +0200" stop="20260913000353 +0200" channel="c33">
+    <title lang="ca">Els caps de setmana llargs d'en Rick Stein</title>
+    <sub-title lang="ca">Els caps de setmana llargs d'en Rick Stein - Cadis</sub-title>
+    <desc lang="ca">En Rick Stein aquesta vegada viatja a la ciutat andalusa de Cadis, on quedarà captivat per la llum i resseguirà el seu passat, recordant la petjada dels fenicis o la fascinant batalla de Trafalagar. I s'emocionarà amb la passió que transmet el flamenc. Tastarà, entre altres plats, peixet fregit, seitons, calamarsons o l'exquisida 'tortillita de camarones' (coca fregida de gambetes), sense oblidar el xerès. I cuinarà orada a la 'roteña', arròs verd i ous a la flamenca.</desc>
+    <length units="seconds">3538</length>
+    <episode-num system="onscreen">8</episode-num>
     <category lang="ca">DIVULGACIÓ</category>
     <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
     <rating>
