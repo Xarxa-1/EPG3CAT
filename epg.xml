@@ -3,56 +3,54 @@
   <channel id="tvi">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20260913231129 +0200" stop="20260914000503 +0200" channel="tvi">
-    <title lang="ca">Vosaltres mateixos</title>
-    <sub-title lang="ca">Vosaltres mateixos - Claus a dojo</sub-title>
-    <desc lang="ca">L'Andreu aprèn a resoldre conflictes mitjançant un combat de judo i oposita per ser funcionari de l'univers.</desc>
-    <length units="seconds">3214</length>
-    <episode-num system="onscreen">15</episode-num>
-    <category lang="ca">ENTRETENIMENT</category>
-    <category lang="ca">TALK-SHOW</category>
+  <programme start="20260914003312 +0200" stop="20260914043000 +0200" channel="tvi">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <sub-title lang="ca">Notícies 3CatInfo</sub-title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="seconds">14208</length>
+    <episode-num system="onscreen">11164</episode-num>
+    <category lang="ca">ACTUALITAT</category>
+    <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <subtitles type="teletext"/>
-    <previously-shown/>
-    <icon src="https://img.ccma.cat/multimedia/png/6/6/1698344358966.png"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
-  <programme start="20260914000503 +0200" stop="20260914001713 +0200" channel="tvi">
-    <title lang="ca">Literal</title>
-    <sub-title lang="ca">Literal - Literalment girat</sub-title>
-    <desc lang="ca">Com ens agrada agafar històries de tota la vida, reformular-les i treure'n noves versions. Però, què ens quedem del passat i què en revisem per tenir el futur que ens mereixem? A 'Literal', girem literalment la truita amb Mixa i Pere Seda. </desc>
-    <length units="seconds">730</length>
-    <episode-num system="onscreen">12</episode-num>
-    <category lang="ca">DIVULGACIÓ</category>
-    <category lang="ca">MAGAZINE ESPECIALITZAT</category>
+  <programme start="20260914043000 +0200" stop="20260914051639 +0200" channel="tvi">
+    <title lang="ca">Fusió i swing a l'estudi</title>
+    <sub-title lang="ca">Fusió i swing a l'estudi - ALBERT BELLO &amp; ORIOL SAÑA SWING EXPERIMENT</sub-title>
+    <desc lang="ca">Des de la incursió d'Albert Bello al jazz manouche, s'ha convertit en un dinamitzador de l'estil a Catalunya. Ha dirigit el primer festival dedicat a Django Reinhart a tot l'estat i ha organitzat diferents esdeveniments al voltant del gyspsy jazz. Bello es fa acompanyar d'Oriol Saña al violí. Completen el quintet: Laurent Bozzetto a la guitarra rítmica, Rod Devile al contrabaix i Vivién García també a la guitarra rítmica.</desc>
+    <length units="seconds">2799</length>
+    <episode-num system="onscreen">26</episode-num>
+    <category lang="ca">MUSICALS</category>
+    <category lang="ca">ALTRES</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
   <channel id="324">
     <display-name>324</display-name>
   </channel>
-  <programme start="20260913230000 +0200" stop="20260914003000 +0200" channel="324">
+  <programme start="20260914010000 +0200" stop="20260914060000 +0200" channel="324">
     <title lang="ca">Notícies 3CatInfo</title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">5400</length>
-    <episode-num system="onscreen">11163</episode-num>
+    <length units="seconds">18000</length>
+    <episode-num system="onscreen">11164</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
+    <previously-shown/>
     <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
-  <programme start="20260914003000 +0200" stop="20260914010000 +0200" channel="324">
+  <programme start="20260914060000 +0200" stop="20260914080000 +0200" channel="324">
     <title lang="ca">Notícies 3CatInfo</title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">1800</length>
-    <episode-num system="onscreen">11164</episode-num>
+    <length units="seconds">7200</length>
+    <episode-num system="onscreen">11165</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
@@ -64,11 +62,11 @@
   <channel id="esport3">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20260913230000 +0200" stop="20260914003108 +0200" channel="esport3">
+  <programme start="20260914005757 +0200" stop="20260914023019 +0200" channel="esport3">
     <title lang="ca">Gol a gol</title>
     <sub-title lang="ca">Gol a gol - Anàlisi de la jornada / J5 / Diumenge</sub-title>
     <desc lang="ca">'Gol a gol' us ofereix els resums dels partits de futbol de Primera i Segona Divisió. Presentat per Jordi Grau a Esport3, cada dissabte i cada diumenge podeu veure les millors imatges de la jornada de Lliga amb l'anàlisi dels experts, amb especial atenció als equips catalans, sobretot el Barça, el Girona i l'Espanyol.</desc>
-    <length units="seconds">5468</length>
+    <length units="seconds">5542</length>
     <episode-num system="onscreen">1778</episode-num>
     <category lang="ca">ESPORTS</category>
     <category lang="ca">MAGAZINE</category>
@@ -76,30 +74,32 @@
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
+    <previously-shown/>
     <icon src="https://img.ccma.cat/multimedia/jpg/2/1/1698144123212.jpg"/>
   </programme>
-  <programme start="20260914003108 +0200" stop="20260914005005 +0200" channel="esport3">
+  <programme start="20260914023019 +0200" stop="20260914025524 +0200" channel="esport3">
     <title lang="ca">3CatInfo Esports</title>
     <sub-title lang="ca">3CatInfo Esports</sub-title>
     <desc lang="ca">Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.</desc>
-    <length units="seconds">1137</length>
+    <length units="seconds">1505</length>
     <episode-num system="onscreen">5508</episode-num>
     <category lang="ca">ESPORTS</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
+    <previously-shown/>
     <icon src="https://img.ccma.cat/multimedia/jpg/9/7/1758888682179.jpg"/>
   </programme>
   <channel id="sx3">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20260913232804 +0200" stop="20260913233851 +0200" channel="sx3">
-    <title lang="ca">La tropa del corral</title>
-    <sub-title lang="ca">La tropa del corral - Olor de perill</sub-title>
-    <desc lang="ca">La Bertha truca espantada. No vol dir què li passa, així que la Tropa la va a buscar de seguida i veuen que té el cul ple de punxes esmolades... i no sap de qui són! L'únic que ha sentit ha sigut un esternut. La Tropa es divideix: la meitat intenta descobrir qui és l'atacant misteriós, mentre la resta mira de treure-li les punxes sense rebre cap mossegada.</desc>
-    <length units="seconds">647</length>
-    <episode-num system="onscreen">16</episode-num>
+  <programme start="20260914012328 +0200" stop="20260914014406 +0200" channel="sx3">
+    <title lang="ca">Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
+    <sub-title lang="ca">Prodigiosa: Les aventures de Ladybug i Gat Noir - La resposta</sub-title>
+    <desc lang="ca">Durant la jornada de portes obertes de l'escola d'esgrima de l'Armand d'Argencourt, es fan les proves d'ingrés als aspirants, entre els que hi ha la Marinette. Però aquest any només hi ha una sola plaça, que serà molt disputada. Fins que apareix una misteriosa tiradora, experta en aquest esport, que està decidida a quedar-se l'única plaça lliure.</desc>
+    <length units="seconds">1238</length>
+    <episode-num system="onscreen">33</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
@@ -108,12 +108,12 @@
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20260913233851 +0200" stop="20260913234940 +0200" channel="sx3">
-    <title lang="ca">La gateta Arc iris papallona unicorn</title>
-    <sub-title lang="ca">La gateta Arc iris papallona unicorn - Bon Mitnadal (1ªpart)</sub-title>
-    <desc lang="ca">El Pare Osset no podrà repartir els regals de Mitnadal perquè li toca fer la hibernació, però tria un habitant de Mitelàndia perquè el substitueixi: la Felicity, que rep el nomenament amb alegria, però també amb nervis perquè és una gran responsabilitat.</desc>
-    <length units="seconds">649</length>
-    <episode-num system="onscreen">15</episode-num>
+  <programme start="20260914014406 +0200" stop="20260914020444 +0200" channel="sx3">
+    <title lang="ca">Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
+    <sub-title lang="ca">Prodigiosa: Les aventures de Ladybug i Gat Noir - La Befana</sub-title>
+    <desc lang="ca">Avui és l'aniversari de la Marinette, i els seus amics i els seus pares li preparen una festa sorpresa. La Marinette ja s'ho imagina, i li fa molta il.lusió. Però l'arribada de la seva iaia, la Gina, trasbalsarà els plans de tothom, cosa que aprofitarà l'Esfinx per intentar apoder-se dels prodigis de Ladybug i el Gat Noir.</desc>
+    <length units="seconds">1238</length>
+    <episode-num system="onscreen">34</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
@@ -125,33 +125,84 @@
   <channel id="c33">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20260913232819 +0200" stop="20260914001352 +0200" channel="c33">
-    <title lang="ca">Viatges insòlits</title>
-    <sub-title lang="ca">Viatges insòlits - Ciutat de Mèxic</sub-title>
-    <desc lang="ca">Amb més de 22 milions d'habitants, Ciutat de Mèxic és una de les ciutats més grans i més influents del món. A la dècada de 1990, la ciutat encapçalava tota mena de llistes que descrivien la inhabitabilitat de la ciutat. Era una ciutat perillosa amb unes xifres de delinqüència disparades i milions de cotxes que creaven un boirum i una contaminació atmosfèrica alarmants. Durant el seu viatge a Ciutat de Mèxic, en Tom descobrirà els enormes canvis que aquesta metròpoli ha viscut els últims anys.</desc>
-    <length units="seconds">2733</length>
-    <episode-num system="onscreen">41</episode-num>
-    <category lang="ca">DIVULGACIÓ</category>
-    <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
+  <programme start="20260914005451 +0200" stop="20260914022434 +0200" channel="c33">
+    <title lang="ca">Pel·lícula</title>
+    <sub-title lang="ca">Pel·lícula - Assassinats a Pont-Aven</sub-title>
+    <desc lang="ca">ASSASSINATS A PONT-AVEN 'Meurtres en Berry'Direcció: Floriane CrépinGuió: Natascha Cucheval, Iris DucorpsProducció: Quad Télévision, France TV, AT Production, RTBF (Télévision Belge), Ciclic - Région Centre, CNC, TV5 Monde, Radio Télévision Suisse (RTS)Any: 2021Durada: 95País: FrançaMúsica: Emilien Levistre, Xiaoxi LevistreFotografia: Patrick GhiringhelliIntèrprets: Aurélien Wiik, Fauve Hautot, David Mora, Boris Terral, Julie-Anne Roth, Clarisse Lhoni-Botte, Bérangère McNeese, Niseema Theillaud, Noémie Zeitoun, Arthur Verret. La tinenta Marion Darosa investiga l'assassinat d'un jove galerista que en el passat havia estat condemnat pel tràfic de pintures falses. Formarà equip amb el capità Le Mezec, que torna a la regió després d'haver estat destinat molts anys a París. Precisament el capità Le Mezec va encapçalar la investigació de la mort, en principi accidental, de la mare de la Marion quan ella era petita. El pare de la Marion no ha superat mai la mort de la seva dona, i la tornada de Le Mezec reobrirà antigues ferides.</desc>
+    <credits>
+      <director>Floriane Crépin</director>
+      <writer>Natascha Cucheval</writer>
+      <writer>Iris Ducorps</writer>
+      <actor>Aurélien Wiik</actor>
+      <actor>Fauve Hautot</actor>
+      <actor>David Mora</actor>
+      <actor>Boris Terral</actor>
+      <actor>Julie-Anne Roth</actor>
+      <actor>Clarisse Lhoni-Botte</actor>
+      <actor>Bérangère McNeese</actor>
+      <actor>Niseema Theillaud</actor>
+      <actor>Noémie Zeitoun</actor>
+      <actor>Arthur Verret. La tinenta Marion Darosa investiga l'assassinat d'un jove galerista que en el passat havia estat condemnat pel tràfic de pintures falses. Formarà equip amb el capità Le Mezec</actor>
+      <actor>que torna a la regió després d'haver estat destinat molts anys a París. Precisament el capità Le Mezec va encapçalar la investigació de la mort</actor>
+      <actor>en principi accidental</actor>
+      <actor>de la mare de la Marion quan ella era petita. El pare de la Marion no ha superat mai la mort de la seva dona</actor>
+      <actor>la tornada de Le Mezec reobrirà antigues ferides.</actor>
+    </credits>
+    <length units="seconds">5383</length>
+    <episode-num system="onscreen">1</episode-num>
+    <category lang="ca">FICCIÓ</category>
+    <category lang="ca">PEL·LÍCULA / TELEFILM</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
+    <icon src="https://img.3cat.cat/multimedia/jpg/5/4/1751352870245.jpg"/>
   </programme>
-  <programme start="20260914001352 +0200" stop="20260914005450 +0200" channel="c33">
-    <title lang="ca">Un món de Jocs</title>
-    <sub-title lang="ca">Un món de Jocs - Ritus de pas</sub-title>
-    <desc lang="ca">En totes les cultures, dominar un joc és símbol de pas de la infantesa a l'edat adulta. A vegades, els ritus d'iniciació són cruels, a vegades són perillosos, però aquests jocs ens preparen per a la vida. Ens envien al món preparats per a defensar-nos. En aquest episodi, ens fixem en els espais de joc que ajuden els nostres fills a conèixer els seus cossos, les seves fortaleses i les seves debilitats.Savika, MadagascarKungfu, la XinaSumo, el japóCurses de rens, Finlàndia</desc>
-    <length units="seconds">2458</length>
-    <episode-num system="onscreen">2</episode-num>
-    <category lang="ca">DIVULGACIÓ</category>
-    <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
+  <programme start="20260914022434 +0200" stop="20260914035755 +0200" channel="c33">
+    <title lang="ca">Pel·lícula</title>
+    <sub-title lang="ca">Pel·lícula - Assassinats a Amiens</sub-title>
+    <desc lang="ca">ASSASSINATS A AMIENS 'Meurtres à Amiens'Direcció: Vincent TrisoliniGuió: Natascha Cucheval, Cécile Lorne. Idea: Cécile LorneProducció: Quad Télévision, France TV, AT-Production, RTBF (Télévision Belge), Pictanovo, Région Hauts-de-France, CNC, TV5 Monde, Radio Télévision Suisse (RTS)Any: 2022Durada: 94País: França Música: Baptiste CharvetFotografia: François LanguilleIntèrprets: Grégoire Bonnet, Joyce Bibring, Anne Loiret, Celia Rosich, Aladin Reibel, Janis Abrikh, Nicolas Grandhomme, Xavier Robic, Anthony Goffi, Julien Desjardins, Pascal Casanova, Marion Zaboïtzeff, Édouard Court, Mohamed Makhtoumi, Raphaèle Bouchard, Coralie Emilion-Languille, Milan Cerisier, Cynthia Saint-Fleur, Christine Defurne.Al bell mig dels jardins flotants d'Amiens, apareix el cos de la Charlotte Jelenski. El capità Louis Monet i la seva nova companya, la Léa Barnier, se submergeixen en el cas. Al principi, segueixen la pista dels horticultors: atès que darrere del projecte del parc d'atraccions Jules Verne s'amagava un extens complex turístic que hauria provocat la supressió de moltes parcel·les de cultiu. L'horticultor Paul Chevrier sembla el culpable perfecte. Però al capità Monet no el convenç aquest home que es deixa acusar tan fàcilment… Qui va voler atemptar contra la vida de la noia? La resposta potser es troba en l'obra de Jules Verne, que la Léa coneix fins al més mínim detall.</desc>
+    <credits>
+      <director>Vincent Trisolini</director>
+      <writer>Natascha Cucheval</writer>
+      <writer>Cécile Lorne. Idea: Cécile Lorne</writer>
+      <actor>Grégoire Bonnet</actor>
+      <actor>Joyce Bibring</actor>
+      <actor>Anne Loiret</actor>
+      <actor>Celia Rosich</actor>
+      <actor>Aladin Reibel</actor>
+      <actor>Janis Abrikh</actor>
+      <actor>Nicolas Grandhomme</actor>
+      <actor>Xavier Robic</actor>
+      <actor>Anthony Goffi</actor>
+      <actor>Julien Desjardins</actor>
+      <actor>Pascal Casanova</actor>
+      <actor>Marion Zaboïtzeff</actor>
+      <actor>Édouard Court</actor>
+      <actor>Mohamed Makhtoumi</actor>
+      <actor>Raphaèle Bouchard</actor>
+      <actor>Coralie Emilion-Languille</actor>
+      <actor>Milan Cerisier</actor>
+      <actor>Cynthia Saint-Fleur</actor>
+      <actor>Christine Defurne.Al bell mig dels jardins flotants d'Amiens</actor>
+      <actor>apareix el cos de la Charlotte Jelenski. El capità Louis Monet</actor>
+      <actor>la seva nova companya</actor>
+      <actor>la Léa Barnier</actor>
+      <actor>se submergeixen en el cas. Al principi</actor>
+      <actor>segueixen la pista dels horticultors: atès que darrere del projecte del parc d'atraccions Jules Verne s'amagava un extens complex turístic que hauria provocat la supressió de moltes parcel·les de cultiu. L'horticultor Paul Chevrier sembla el culpable perfecte. Però al capità Monet no el convenç aquest home que es deixa acusar tan fàcilment… Qui va voler atemptar contra la vida de la noia? La resposta potser es troba en l'obra de Jules Verne</actor>
+      <actor>que la Léa coneix fins al més mínim detall.</actor>
+    </credits>
+    <length units="seconds">5601</length>
+    <episode-num system="onscreen">1</episode-num>
+    <category lang="ca">FICCIÓ</category>
+    <category lang="ca">PEL·LÍCULA / TELEFILM</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
-    <icon src="https://img.3cat.cat/multimedia/jpg/3/7/1788343809373.jpg"/>
+    <previously-shown/>
+    <icon src="https://img.3cat.cat/multimedia/jpg/2/6/1750229966162.jpg"/>
   </programme>
   <channel id="oca1">
     <display-name>OCA1</display-name>
