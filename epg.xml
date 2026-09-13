@@ -3,11 +3,11 @@
   <channel id="tvi">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20260913005053 +0200" stop="20260913043000 +0200" channel="tvi">
+  <programme start="20260913060000 +0200" stop="20260913070000 +0200" channel="tvi">
     <title lang="ca">Notícies 3CatInfo</title>
     <sub-title lang="ca">Notícies 3CatInfo</sub-title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">13147</length>
+    <length units="seconds">3600</length>
     <episode-num system="onscreen">11156</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
@@ -17,35 +17,22 @@
     <previously-shown/>
     <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
-  <programme start="20260913043000 +0200" stop="20260913051609 +0200" channel="tvi">
-    <title lang="ca">Fusió i swing a l'estudi</title>
-    <sub-title lang="ca">Fusió i swing a l'estudi - LE BBT 48er PROJECT</sub-title>
-    <desc lang="ca">Le BBT 48er Project és un grup que es caracteritza per les carreres consolidades en solitari dels seus membres. Tots ells són grans coneixedors del jazz manoche, un estil creat o iniciat per Django Reinhart. Biel Ballester a la guitarra solista, Leo Hipaucha al contrabaix, Graci Pedro a la guitarra rítmica, Jerome Etxeberry a la trompeta, i Paul Chéron, al saxo.</desc>
-    <length units="seconds">2769</length>
-    <episode-num system="onscreen">25</episode-num>
-    <category lang="ca">MUSICALS</category>
-    <category lang="ca">ALTRES</category>
+  <programme start="20260913070000 +0200" stop="20260913100000 +0200" channel="tvi">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <sub-title lang="ca">Notícies 3CatInfo</sub-title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="seconds">10800</length>
+    <episode-num system="onscreen">11157</episode-num>
+    <category lang="ca">ACTUALITAT</category>
+    <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <previously-shown/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
   <channel id="324">
     <display-name>324</display-name>
   </channel>
-  <programme start="20260913010000 +0200" stop="20260913060000 +0200" channel="324">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">18000</length>
-    <episode-num system="onscreen">11156</episode-num>
-    <category lang="ca">ACTUALITAT</category>
-    <category lang="ca">INFORMATIU DIÀRI</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <previously-shown/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
-  </programme>
   <programme start="20260913060000 +0200" stop="20260913070000 +0200" channel="324">
     <title lang="ca">Notícies 3CatInfo</title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
@@ -59,10 +46,23 @@
     <previously-shown/>
     <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
+  <programme start="20260913070000 +0200" stop="20260913100000 +0200" channel="324">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="seconds">10800</length>
+    <episode-num system="onscreen">11157</episode-num>
+    <category lang="ca">ACTUALITAT</category>
+    <category lang="ca">INFORMATIU DIÀRI</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <subtitles type="teletext"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
+  </programme>
   <channel id="esport3">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20260913005631 +0200" stop="20260913023403 +0200" channel="esport3">
+  <programme start="20260913063337 +0200" stop="20260913081109 +0200" channel="esport3">
     <title lang="ca">Gol a gol</title>
     <sub-title lang="ca">Gol a gol - Anàlisi de la jornada / J5 / Dissabte</sub-title>
     <desc lang="ca">'Gol a gol' us ofereix els resums dels partits de futbol de Primera i Segona Divisió. Presentat per Jordi Grau a Esport3, cada dissabte i cada diumenge podeu veure les millors imatges de la jornada de Lliga amb l'anàlisi dels experts, amb especial atenció als equips catalans, sobretot el Barça, el Girona i l'Espanyol.</desc>
@@ -77,11 +77,11 @@
     <previously-shown/>
     <icon src="https://img.ccma.cat/multimedia/jpg/2/1/1698144123212.jpg"/>
   </programme>
-  <programme start="20260913023403 +0200" stop="20260913025658 +0200" channel="esport3">
+  <programme start="20260913081109 +0200" stop="20260913083322 +0200" channel="esport3">
     <title lang="ca">3CatInfo Esports</title>
     <sub-title lang="ca">3CatInfo Esports</sub-title>
     <desc lang="ca">Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.</desc>
-    <length units="seconds">1375</length>
+    <length units="seconds">1333</length>
     <episode-num system="onscreen">5507</episode-num>
     <category lang="ca">ESPORTS</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
@@ -94,12 +94,12 @@
   <channel id="sx3">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20260913020720 +0200" stop="20260913022812 +0200" channel="sx3">
-    <title lang="ca">Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
-    <sub-title lang="ca">Prodigiosa: Les aventures de Ladybug i Gat Noir - L'osset de peluix malvat</sub-title>
-    <desc lang="ca">L'Adrien li diu a la Chloé que si vol que segueixin sent amics, ha d'apendre a ser amable amb els altres. Per això la Chloé organitza una festa a casa seva,però l'instint de criticar els altres és més fort que ella, i el seu majordom intenta ajudar-la fent servir un osset de peluix de quan era petita. El problema és quel'Esfinx també s'ha fixat en l'osset.</desc>
-    <length units="seconds">1252</length>
-    <episode-num system="onscreen">30</episode-num>
+  <programme start="20260913064447 +0200" stop="20260913071119 +0200" channel="sx3">
+    <title lang="ca">Les Tres Bessones</title>
+    <sub-title lang="ca">Les Tres Bessones - Les Tres Bessones i la rateta que escombrava l'escaleta</sub-title>
+    <desc lang="ca">L'Avorrida envia les Bessones a una ciutat dominada per les màquines, on no es pot fer res, ni música. Allà, les nenes coneixen la Rateta, que és cantant d'un grup, i que vol fer un concert de rock per retornar l'alegria a la ciutat.</desc>
+    <length units="seconds">1592</length>
+    <episode-num system="onscreen">74</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
@@ -108,14 +108,14 @@
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20260913022812 +0200" stop="20260913023840 +0200" channel="sx3">
-    <title lang="ca">Com dibuixar còmics amb el Will Sliney</title>
-    <sub-title lang="ca">Com dibuixar còmics amb el Will Sliney - El Megacrònica</sub-title>
-    <desc lang="ca">Gràcies als poders que ha aconseguit amb l'ajuda del misteriós Torcements, el Crònica ha aconseguit dominar les ments de tots els herois i dolents que s'havien creat al llarg de la sèrie, la qual cosa li ha permès mutar en una versió superpoderosa d'ell mateix, el Megacrònica. I com que fins i tot l'Ogam ha sucumbit al seu poder, el Will es troba sol en la seva missió de salvar la Terra.</desc>
-    <length units="seconds">628</length>
-    <episode-num system="onscreen">39</episode-num>
+  <programme start="20260913071119 +0200" stop="20260913072318 +0200" channel="sx3">
+    <title lang="ca">L'abella Maia</title>
+    <sub-title lang="ca">L'abella Maia - Reina per un dia</sub-title>
+    <desc lang="ca">La visita del senyor jutge ha revolucionat tot el rusc. Resulta que la reina està de vacances i el jutge ha demanat expressament que es nomeni una altra reina de manera urgent. L'escollida ha estat la Ludivine, però com que la Kassandra sap que no està gens preparada, ha decidit enviar la Maia a buscar la reina de veritat, abans que hi hagi un daltabaix impossible d'arreglar!</desc>
+    <length units="seconds">719</length>
+    <episode-num system="onscreen">64</episode-num>
     <category lang="ca">FICCIÓ</category>
-    <category lang="ca">ALTRES</category>
+    <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
       <value>INFANTIL</value>
     </rating>
@@ -125,92 +125,33 @@
   <channel id="c33">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20260913014737 +0200" stop="20260913031854 +0200" channel="c33">
-    <title lang="ca">Pel·lícula</title>
-    <sub-title lang="ca">Pel·lícula - Assassinats a Caiena</sub-title>
-    <desc lang="ca">ASSASSINATS A CAIENA 'Meurtres à Cayenne'Direcció: Marc BarratGuió: Apsita Berthelot-Cissé, Sabine DabadieProducció: Eloa Prod, France TV, BE-FILMS, RTBF (Télévision Belge), Collectivité Territoriale de Guyane, CNC, TV5 Monde, Fonds Images de la DiversitéAny: 2020Durada: 92País: FrançaMúsica: Christophe Monthieux, Krishoo MonthieuxIntèrprets: Philippe Caroit, Anne Caillon, Alexis Tiouka, Louis-Karim Nébati, France Zobda, Jean-Christophe Marsy, Ricky Tribord, Jessica Martin, Grégory Alexander, Nadège Beausson-Diagne, Rani Bheemuck, Stany Coppet, Marielle Salmier, Serge Abattucci, Patrick Moreau, Steve Elina, Georges Fichet, Olivier Auguste.El cadàver de Bertrand Thiégo, un investigador farmacèutic, apareix en un lloc solitari de Caiena, degollat i amb uns estranys dibuixos gravats al pit. La nit abans, la víctima havia anat a un tòrrid ball de carnaval. La capitana Cassandra Molba i el seu tinent, Antoine Lagarde, s'encarreguen d'investigar el cas; estirant el fil, descobreixen la fosca història d'una patent robada, amb un teló de fons de llegendes i tradicions de la Guaiana. Estem davant d'un crim ritual, d'un complot o d'una simple venjança per amor?</desc>
-    <credits>
-      <director>Marc Barrat</director>
-      <writer>Apsita Berthelot-Cissé</writer>
-      <writer>Sabine Dabadie</writer>
-      <actor>Philippe Caroit</actor>
-      <actor>Anne Caillon</actor>
-      <actor>Alexis Tiouka</actor>
-      <actor>Louis-Karim Nébati</actor>
-      <actor>France Zobda</actor>
-      <actor>Jean-Christophe Marsy</actor>
-      <actor>Ricky Tribord</actor>
-      <actor>Jessica Martin</actor>
-      <actor>Grégory Alexander</actor>
-      <actor>Nadège Beausson-Diagne</actor>
-      <actor>Rani Bheemuck</actor>
-      <actor>Stany Coppet</actor>
-      <actor>Marielle Salmier</actor>
-      <actor>Serge Abattucci</actor>
-      <actor>Patrick Moreau</actor>
-      <actor>Steve Elina</actor>
-      <actor>Georges Fichet</actor>
-      <actor>Olivier Auguste.El cadàver de Bertrand Thiégo</actor>
-      <actor>un investigador farmacèutic</actor>
-      <actor>apareix en un lloc solitari de Caiena</actor>
-      <actor>degollat</actor>
-      <actor>amb uns estranys dibuixos gravats al pit. La nit abans</actor>
-      <actor>la víctima havia anat a un tòrrid ball de carnaval. La capitana Cassandra Molba</actor>
-      <actor>el seu tinent</actor>
-      <actor>Antoine Lagarde</actor>
-      <actor>s'encarreguen d'investigar el cas; estirant el fil</actor>
-      <actor>descobreixen la fosca història d'una patent robada</actor>
-      <actor>amb un teló de fons de llegendes</actor>
-      <actor>tradicions de la Guaiana. Estem davant d'un crim ritual</actor>
-      <actor>d'un complot o d'una simple venjança per amor?</actor>
-    </credits>
-    <length units="seconds">5477</length>
-    <episode-num system="onscreen">1</episode-num>
-    <category lang="ca">FICCIÓ</category>
-    <category lang="ca">PEL·LÍCULA / TELEFILM</category>
+  <programme start="20260913062539 +0200" stop="20260913065406 +0200" channel="c33">
+    <title lang="ca">Quèquicom</title>
+    <sub-title lang="ca">Quèquicom - QQC i Els angles compten i mesuren</sub-title>
+    <desc lang="ca">En aquesta compilació fem un cop d'ull de 360 graus a les matemàtiques. Amb cordills, bastons i un pou Eratòstenes va calcular el radi de la Terra. La trigonometria, una eina tan poderosa que és capaç d'anivellar carreteres.</desc>
+    <length units="seconds">1707</length>
+    <episode-num system="onscreen">259</episode-num>
+    <category lang="ca">DIVULGACIÓ</category>
+    <category lang="ca">MAGAZINE ESPECIALITZAT</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
-    <icon src="https://img.3cat.cat/multimedia/jpg/6/6/1750921626766.jpg"/>
   </programme>
-  <programme start="20260913031854 +0200" stop="20260913045131 +0200" channel="c33">
-    <title lang="ca">Pel·lícula</title>
-    <sub-title lang="ca">Pel·lícula - Assassinats a Pont L'Évêque</sub-title>
-    <desc lang="ca">ASSASSINATS A PONT L'EVÊQUE 'Meurtres à Pont-L'Évêque'Direcció: Thierry BinistiGuió: Camille Guichard, David CrozierProducció: Nilaya Productions, France TV, BE-FILMS, RTBF (Télévision Belge), Radio Télévision Suisse (RTS), TV5 MondeAny: 2020Durada: 93País: França Música: Thierry WestermeyerFotografia: Jako RaybautIntèrprets: Arnaud Binard, Elodie Frenck, Antoine Hamel, Loona Piquery, Geneviève Casile, François Dunoyer, Hélène Babu, Christophe Perez, Philippe Bombled, Pierre Richards, Philippe Jouan. Als anys cinquanta, la presó de Pont-l'Évêque es coneixia amb el nom d'Alegre Presó. En aquella època, s'havia convertit en una mena de presó popular dirigida per un cap de seguretat que preferia que els seus reclusos l'apreciessin en lloc de tenir-li por. Per commemorar aquesta història, s'organitza una festa a l'antiga presó de Pont-l'Évêque. Però en plena festa troben un home amb l'antic uniforme de reclús penjat a la cripta de la presó. La víctima és el jutge Daniel, hereu d'una gran família... Dos germans, que no amaguen les seves diferències, s'ocupen de la investigació.</desc>
-    <credits>
-      <director>Thierry Binisti</director>
-      <writer>Camille Guichard</writer>
-      <writer>David Crozier</writer>
-      <actor>Arnaud Binard</actor>
-      <actor>Elodie Frenck</actor>
-      <actor>Antoine Hamel</actor>
-      <actor>Loona Piquery</actor>
-      <actor>Geneviève Casile</actor>
-      <actor>François Dunoyer</actor>
-      <actor>Hélène Babu</actor>
-      <actor>Christophe Perez</actor>
-      <actor>Philippe Bombled</actor>
-      <actor>Pierre Richards</actor>
-      <actor>Philippe Jouan. Als anys cinquanta</actor>
-      <actor>la presó de Pont-l'Évêque es coneixia amb el nom d'Alegre Presó. En aquella època</actor>
-      <actor>s'havia convertit en una mena de presó popular dirigida per un cap de seguretat que preferia que els seus reclusos l'apreciessin en lloc de tenir-li por. Per commemorar aquesta història</actor>
-      <actor>s'organitza una festa a l'antiga presó de Pont-l'Évêque. Però en plena festa troben un home amb l'antic uniforme de reclús penjat a la cripta de la presó. La víctima és el jutge Daniel</actor>
-      <actor>hereu d'una gran família... Dos germans</actor>
-      <actor>que no amaguen les seves diferències</actor>
-      <actor>s'ocupen de la investigació.</actor>
-    </credits>
-    <length units="seconds">5557</length>
-    <episode-num system="onscreen">1</episode-num>
-    <category lang="ca">FICCIÓ</category>
-    <category lang="ca">PEL·LÍCULA / TELEFILM</category>
+  <programme start="20260913065406 +0200" stop="20260913072543 +0200" channel="c33">
+    <title lang="ca">Quèquicom</title>
+    <sub-title lang="ca">Quèquicom - Cop de porta als lladres</sub-title>
+    <desc lang="ca">Un lladre obre un pany senzill en pocs segons. I si no, força la porta. Com és un pany per dins? N'hi ha d'invulnerables? Intentem rebentar una porta cuirassada, salten espurnes... Un policia detecta tots els punts febles d'una casa particular. I en troba molts més dels imaginables. Examinem les alarmes electròniques i finalment entrenem un gos guardià.</desc>
+    <length units="seconds">1897</length>
+    <episode-num system="onscreen">260</episode-num>
+    <category lang="ca">DIVULGACIÓ</category>
+    <category lang="ca">MAGAZINE ESPECIALITZAT</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
-    <icon src="https://img.3cat.cat/multimedia/jpg/8/2/1749806144628.jpg"/>
   </programme>
   <channel id="oca1">
     <display-name>OCA1</display-name>
