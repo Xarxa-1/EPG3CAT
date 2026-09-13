@@ -3,54 +3,42 @@
   <channel id="tvi">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20260913060000 +0200" stop="20260913070000 +0200" channel="tvi">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">Notícies 3CatInfo</sub-title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">3600</length>
-    <episode-num system="onscreen">11156</episode-num>
-    <category lang="ca">ACTUALITAT</category>
-    <category lang="ca">INFORMATIU DIÀRI</category>
+  <programme start="20260913114457 +0200" stop="20260913131639 +0200" channel="tvi">
+    <title lang="ca">Bàsquet</title>
+    <sub-title lang="ca">Bàsquet - Lliga Catalana / Final</sub-title>
+    <desc lang="ca">Des del Pavelló Catalunya de Tarragona, la final masculina de la 47a Lliga Nacional Catalana de Bàsquet. Amb Víctor Lavagnini, Nil Llobet i Nacho Solozabal. </desc>
+    <length units="seconds">5502</length>
+    <episode-num system="onscreen">141</episode-num>
+    <category lang="ca">ESPORTS</category>
+    <category lang="ca">RETRANSMISSIONS ESPORTS</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <previously-shown/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
+    <icon src="https://img.3cat.cat/multimedia/jpg/7/7/1788941967477.jpg"/>
   </programme>
-  <programme start="20260913070000 +0200" stop="20260913100000 +0200" channel="tvi">
+  <programme start="20260913140209 +0200" stop="20260913142954 +0200" channel="tvi">
     <title lang="ca">Notícies 3CatInfo</title>
     <sub-title lang="ca">Notícies 3CatInfo</sub-title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">10800</length>
-    <episode-num system="onscreen">11157</episode-num>
+    <length units="seconds">1665</length>
+    <episode-num system="onscreen">11159</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
+    <subtitles type="teletext"/>
+    <previously-shown/>
     <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
   <channel id="324">
     <display-name>324</display-name>
   </channel>
-  <programme start="20260913060000 +0200" stop="20260913070000 +0200" channel="324">
+  <programme start="20260913100000 +0200" stop="20260913120000 +0200" channel="324">
     <title lang="ca">Notícies 3CatInfo</title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">3600</length>
-    <episode-num system="onscreen">11156</episode-num>
-    <category lang="ca">ACTUALITAT</category>
-    <category lang="ca">INFORMATIU DIÀRI</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <previously-shown/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
-  </programme>
-  <programme start="20260913070000 +0200" stop="20260913100000 +0200" channel="324">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">10800</length>
-    <episode-num system="onscreen">11157</episode-num>
+    <length units="seconds">7200</length>
+    <episode-num system="onscreen">11158</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
@@ -59,14 +47,26 @@
     <subtitles type="teletext"/>
     <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
+  <programme start="20260913120000 +0200" stop="20260913143000 +0200" channel="324">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="seconds">9000</length>
+    <episode-num system="onscreen">11159</episode-num>
+    <category lang="ca">ACTUALITAT</category>
+    <category lang="ca">INFORMATIU DIÀRI</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
+  </programme>
   <channel id="esport3">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20260913063337 +0200" stop="20260913081109 +0200" channel="esport3">
+  <programme start="20260913101724 +0200" stop="20260913115500 +0200" channel="esport3">
     <title lang="ca">Gol a gol</title>
     <sub-title lang="ca">Gol a gol - Anàlisi de la jornada / J5 / Dissabte</sub-title>
     <desc lang="ca">'Gol a gol' us ofereix els resums dels partits de futbol de Primera i Segona Divisió. Presentat per Jordi Grau a Esport3, cada dissabte i cada diumenge podeu veure les millors imatges de la jornada de Lliga amb l'anàlisi dels experts, amb especial atenció als equips catalans, sobretot el Barça, el Girona i l'Espanyol.</desc>
-    <length units="seconds">5852</length>
+    <length units="seconds">5856</length>
     <episode-num system="onscreen">1775</episode-num>
     <category lang="ca">ESPORTS</category>
     <category lang="ca">MAGAZINE</category>
@@ -77,43 +77,42 @@
     <previously-shown/>
     <icon src="https://img.ccma.cat/multimedia/jpg/2/1/1698144123212.jpg"/>
   </programme>
-  <programme start="20260913081109 +0200" stop="20260913083322 +0200" channel="esport3">
-    <title lang="ca">3CatInfo Esports</title>
-    <sub-title lang="ca">3CatInfo Esports</sub-title>
-    <desc lang="ca">Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.</desc>
-    <length units="seconds">1333</length>
-    <episode-num system="onscreen">5507</episode-num>
+  <programme start="20260913115500 +0200" stop="20260913140512 +0200" channel="esport3">
+    <title lang="ca">Futbol</title>
+    <sub-title lang="ca">Futbol - UD Logronyès B-Barça Atlètic / Segona Federació / J2</sub-title>
+    <desc lang="ca">El filial blaugrana va debutar amb una golejada, 5-1 contra el Náxara, i es vol mantenir al capdavant de la classificació. Amb la narració de Lluís Cervelló i l'anàlisi d'Alberto Manga. </desc>
+    <length units="seconds">7812</length>
+    <episode-num system="onscreen">66</episode-num>
     <category lang="ca">ESPORTS</category>
-    <category lang="ca">INFORMATIU DIÀRI</category>
+    <category lang="ca">RETRANSMISSIONS ESPORTS</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <previously-shown/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/9/7/1758888682179.jpg"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/0/7/1698446098170.jpg"/>
   </programme>
   <channel id="sx3">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20260913064447 +0200" stop="20260913071119 +0200" channel="sx3">
-    <title lang="ca">Les Tres Bessones</title>
-    <sub-title lang="ca">Les Tres Bessones - Les Tres Bessones i la rateta que escombrava l'escaleta</sub-title>
-    <desc lang="ca">L'Avorrida envia les Bessones a una ciutat dominada per les màquines, on no es pot fer res, ni música. Allà, les nenes coneixen la Rateta, que és cantant d'un grup, i que vol fer un concert de rock per retornar l'alegria a la ciutat.</desc>
-    <length units="seconds">1592</length>
-    <episode-num system="onscreen">74</episode-num>
+  <programme start="20260913102202 +0200" stop="20260913130409 +0200" channel="sx3">
+    <title lang="ca">Projecte Beta</title>
+    <sub-title lang="ca">Projecte Beta - 10a temporada sencera 'Projecte Beta'</sub-title>
+    <desc lang="ca">Un asteroide trastoca la vida dels Beta. El Grau s'obsessiona a trobar vida alienígena mentre la Kai es prepara per ser astronauta. Al Jan li caurà l'amor del cel, i la Lola, que sembla que s'hagi donat un cop al cap, prova una personalitat diferent cada dia.</desc>
+    <length units="seconds">9727</length>
+    <episode-num system="onscreen">124</episode-num>
     <category lang="ca">FICCIÓ</category>
-    <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
+    <category lang="ca">ALTRES</category>
     <rating>
       <value>INFANTIL</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20260913071119 +0200" stop="20260913072318 +0200" channel="sx3">
-    <title lang="ca">L'abella Maia</title>
-    <sub-title lang="ca">L'abella Maia - Reina per un dia</sub-title>
-    <desc lang="ca">La visita del senyor jutge ha revolucionat tot el rusc. Resulta que la reina està de vacances i el jutge ha demanat expressament que es nomeni una altra reina de manera urgent. L'escollida ha estat la Ludivine, però com que la Kassandra sap que no està gens preparada, ha decidit enviar la Maia a buscar la reina de veritat, abans que hi hagi un daltabaix impossible d'arreglar!</desc>
-    <length units="seconds">719</length>
-    <episode-num system="onscreen">64</episode-num>
+  <programme start="20260913130409 +0200" stop="20260913132555 +0200" channel="sx3">
+    <title lang="ca">Els germans Kratt</title>
+    <sub-title lang="ca">Els germans Kratt - L'odissea dels mussols</sub-title>
+    <desc lang="ca">Els germans Kratt, l'Aviva i la Koki tenen un accident amb la càpsula i van a parar a un lloc remot, des d'allà hauran de viure tota una odissea per tornar a casa. Pel camí descobreixen un munt d'espècies de la família dels mussols, amb unes quantes característiques comunes però cada espècie amb les seves singularitats. Això inspira l'Aviva per fer un vestit de poder animal per tornar a casa.</desc>
+    <length units="seconds">1306</length>
+    <episode-num system="onscreen">161</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
@@ -125,28 +124,28 @@
   <channel id="c33">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20260913062539 +0200" stop="20260913065406 +0200" channel="c33">
-    <title lang="ca">Quèquicom</title>
-    <sub-title lang="ca">Quèquicom - QQC i Els angles compten i mesuren</sub-title>
-    <desc lang="ca">En aquesta compilació fem un cop d'ull de 360 graus a les matemàtiques. Amb cordills, bastons i un pou Eratòstenes va calcular el radi de la Terra. La trigonometria, una eina tan poderosa que és capaç d'anivellar carreteres.</desc>
-    <length units="seconds">1707</length>
-    <episode-num system="onscreen">259</episode-num>
-    <category lang="ca">DIVULGACIÓ</category>
-    <category lang="ca">MAGAZINE ESPECIALITZAT</category>
+  <programme start="20260913112040 +0200" stop="20260913121341 +0200" channel="c33">
+    <title lang="ca">Experiència Catalana</title>
+    <sub-title lang="ca">Experiència Catalana - Angela May</sub-title>
+    <desc lang="ca">L'Angela May és una presentadora, actriu, i foodie singapuresa; una autèntica experta en gastronomia. Per això, la Ivana Miño l'acompanya a descobrir per què la cuina catalana i els nostres cuiners se situen entre els millors del món. L'hi mostra amb la Carme Ruscalleda i els Germans Roca.</desc>
+    <length units="seconds">3181</length>
+    <episode-num system="onscreen">15</episode-num>
+    <category lang="ca">ENTRETENIMENT</category>
+    <category lang="ca">ALTRES</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20260913065406 +0200" stop="20260913072543 +0200" channel="c33">
-    <title lang="ca">Quèquicom</title>
-    <sub-title lang="ca">Quèquicom - Cop de porta als lladres</sub-title>
-    <desc lang="ca">Un lladre obre un pany senzill en pocs segons. I si no, força la porta. Com és un pany per dins? N'hi ha d'invulnerables? Intentem rebentar una porta cuirassada, salten espurnes... Un policia detecta tots els punts febles d'una casa particular. I en troba molts més dels imaginables. Examinem les alarmes electròniques i finalment entrenem un gos guardià.</desc>
-    <length units="seconds">1897</length>
-    <episode-num system="onscreen">260</episode-num>
-    <category lang="ca">DIVULGACIÓ</category>
-    <category lang="ca">MAGAZINE ESPECIALITZAT</category>
+  <programme start="20260913121341 +0200" stop="20260913130640 +0200" channel="c33">
+    <title lang="ca">Experiència Catalana</title>
+    <sub-title lang="ca">Experiència Catalana - Gareth</sub-title>
+    <desc lang="ca">La Ivana Miño acompanya en Gareth Pon, l'instagramer amb més seguidors de tot Àfrica. Junts fan un divertit recorregut per la Catalunya interior i, de tornada, participen en el ral·li de cotxes antics de Sitges.</desc>
+    <length units="seconds">3179</length>
+    <episode-num system="onscreen">16</episode-num>
+    <category lang="ca">ENTRETENIMENT</category>
+    <category lang="ca">ALTRES</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
