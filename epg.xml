@@ -3,88 +3,96 @@
   <channel id="tvi">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20260913190306 +0200" stop="20260913194954 +0200" channel="tvi">
-    <title lang="ca">Nervi</title>
-    <sub-title lang="ca">Nervi - Lucia del Greco, Júlia Blum i Joana Serrat</sub-title>
-    <desc lang="ca">Andrea Gumes conversa amb la jove dramaturga d'origen italià Lucia del Greco sobre trobar el teu propi espai i ser acollida (o no) dins de l'escena teatral catalana. Bet Molina passa un dia sencer amb la cantant Júlia Blum. Mariona Borrull ens fa recomanacions de cinema, teatre i videojocs. Tanca el programa una actuació en directe de la cantautora osonenca Joana Serrat i la seva banda amb 'Big lagoons', de l'àlbum 'Big wave' (2024). </desc>
-    <length units="seconds">2808</length>
-    <episode-num system="onscreen">20</episode-num>
-    <category lang="ca">ENTRETENIMENT</category>
-    <category lang="ca">ALTRES</category>
+  <programme start="20260913210000 +0200" stop="20260913220551 +0200" channel="tvi">
+    <title lang="ca">Telenotícies vespre</title>
+    <sub-title lang="ca">Telenotícies vespre</sub-title>
+    <length units="seconds">3951</length>
+    <episode-num system="onscreen">7326</episode-num>
+    <category lang="ca">ACTUALITAT</category>
+    <category lang="ca">INFORMATIU DIÀRI</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <icon src="https://img.ccma.cat/multimedia/jpg/7/2/1758026176427.jpg"/>
+  </programme>
+  <programme start="20260913220551 +0200" stop="20260913224312 +0200" channel="tvi">
+    <title lang="ca">30 minuts</title>
+    <sub-title lang="ca">30 minuts - Ceuta, ciutat ostatge</sub-title>
+    <desc lang="ca">Ceuta s'ha convertit en ostatge d'una guerra híbrida, on els migrants són utilitzats com a peons d'un tauler global. La crisi humanitària, social i política continua sacsejant la ciutat autònoma.</desc>
+    <length units="seconds">2241</length>
+    <episode-num system="onscreen">1292</episode-num>
+    <category lang="ca">ACTUALITAT</category>
+    <category lang="ca">REPORTATGES</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <icon src="https://statics.ccma.cat/multimedia/jpg/7/3/1571603193237.jpg"/>
+  </programme>
+  <channel id="324">
+    <display-name>324</display-name>
+  </channel>
+  <programme start="20260913210000 +0200" stop="20260913220200 +0200" channel="324">
+    <title lang="ca">Telenotícies vespre</title>
+    <length units="seconds">3720</length>
+    <episode-num system="onscreen">7326</episode-num>
+    <category lang="ca">ACTUALITAT</category>
+    <category lang="ca">INFORMATIU DIÀRI</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <icon src="https://img.ccma.cat/multimedia/jpg/7/2/1758026176427.jpg"/>
+  </programme>
+  <programme start="20260913220200 +0200" stop="20260913230000 +0200" channel="324">
+    <title lang="ca">Telenotícies vespre (reemissió)</title>
+    <length units="seconds">3480</length>
+    <episode-num system="onscreen">7326</episode-num>
+    <category lang="ca">ACTUALITAT</category>
+    <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
-  </programme>
-  <channel id="324">
-    <display-name>324</display-name>
-  </channel>
-  <programme start="20260913183000 +0200" stop="20260913200000 +0200" channel="324">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">5400</length>
-    <episode-num system="onscreen">11161</episode-num>
-    <category lang="ca">ACTUALITAT</category>
-    <category lang="ca">INFORMATIU DIÀRI</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <subtitles type="teletext"/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
-  </programme>
-  <programme start="20260913200000 +0200" stop="20260913210000 +0200" channel="324">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">3600</length>
-    <episode-num system="onscreen">11162</episode-num>
-    <category lang="ca">ACTUALITAT</category>
-    <category lang="ca">INFORMATIU DIÀRI</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <subtitles type="teletext"/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/7/2/1758026176427.jpg"/>
   </programme>
   <channel id="esport3">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20260913182040 +0200" stop="20260913192500 +0200" channel="esport3">
-    <title lang="ca">Gol a gol</title>
-    <sub-title lang="ca">Gol a gol - Post Llevant-Barça / J5</sub-title>
-    <desc lang="ca">'Gol a gol' us ofereix els resums dels partits de futbol de Primera i Segona Divisió. Presentat per Jordi Grau a Esport3, cada dissabte i cada diumenge podeu veure les millors imatges de la jornada de Lliga amb l'anàlisi dels experts, amb especial atenció als equips catalans, sobretot el Barça, el Girona i l'Espanyol.</desc>
-    <length units="seconds">3860</length>
-    <episode-num system="onscreen">1777</episode-num>
-    <category lang="ca">ESPORTS</category>
-    <category lang="ca">MAGAZINE</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <subtitles type="teletext"/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/2/1/1698144123212.jpg"/>
-  </programme>
-  <programme start="20260913192500 +0200" stop="20260913202202 +0200" channel="esport3">
-    <title lang="ca">Futbol</title>
-    <sub-title lang="ca">Futbol - SD Eibar-FC Badalona Women / Lliga F / J3</sub-title>
-    <desc lang="ca">Després d'imposar-se en el derbi contra l'Espanyol (0-1), les badalonines volen repetir victòria fora de casa per superar les basques a la taula classificatòria. Amb la narració de Gemma Mallorca i l'anàlisi de Juli Garcia. </desc>
-    <length units="seconds">3422</length>
-    <episode-num system="onscreen">48</episode-num>
+  <programme start="20260913212557 +0200" stop="20260913215236 +0200" channel="esport3">
+    <title lang="ca">WRC</title>
+    <sub-title lang="ca">WRC - Ral·li de Xile / WRC 2026 / J2</sub-title>
+    <desc lang="ca">Antepenúltima prova del Campionat del Món. El Ral·li de Xile té un recorregut de 311 quilòmetres, per carreteres de terra, en 16 trams cronometrats. Us oferim el més destacat de la jornada amb la conducció de Noel Rodríguez i l'assistència de Santi Torres.</desc>
+    <length units="seconds">1599</length>
+    <episode-num system="onscreen">255</episode-num>
     <category lang="ca">ESPORTS</category>
     <category lang="ca">RETRANSMISSIONS ESPORTS</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <icon src="https://img.ccma.cat/multimedia/jpg/0/8/1730389343680.jpg"/>
+    <icon src="https://img.3cat.cat/multimedia/jpg/1/7/1783953384771.jpg"/>
+  </programme>
+  <programme start="20260913215236 +0200" stop="20260913232343 +0200" channel="esport3">
+    <title lang="ca">Motor a fons</title>
+    <sub-title lang="ca">Motor a fons - GP de San Marino</sub-title>
+    <desc lang="ca">Catorzena prova del Campionat del Món de Motociclisme. Us oferim el més destacat a les curses de MotoGP, Moto2 i Moto3. Amb Xavier Guillén, i l'anàlisi de Montse Sogues i Ramon Forcada.</desc>
+    <length units="seconds">5467</length>
+    <episode-num system="onscreen">955</episode-num>
+    <category lang="ca">ESPORTS</category>
+    <category lang="ca">MAGAZINE</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <icon src="https://img.ccma.cat/multimedia/jpg/5/7/1678886130275.jpg"/>
   </programme>
   <channel id="sx3">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20260913191116 +0200" stop="20260913193425 +0200" channel="sx3">
-    <title lang="ca">El detectiu Conan</title>
-    <sub-title lang="ca">El detectiu Conan - La ruta del misteri del tecchiri. Part de Shimonoseki</sub-title>
-    <desc lang="ca">En Kogoro, la Ran i en Conan han anat a Shimonoseki per resoldre el cas d'un robatori. Els quatre sospitosos tenen una coartada. Mentre tots tres investiguen per comprovar les coartades, en Kogoro és atacat per algú que bé podria ser el culpable.</desc>
-    <length units="seconds">1389</length>
-    <episode-num system="onscreen">1132</episode-num>
+  <programme start="20260913212055 +0200" stop="20260913214104 +0200" channel="sx3">
+    <title lang="ca">Els germans Kratt</title>
+    <sub-title lang="ca">Els germans Kratt - L'últim gran llamàntol</sub-title>
+    <desc lang="ca">Un dia que els germans Kratt són a la vora del mar, al Martin li cau un disc de poder animal a l'aigua. Quan ell i el Chris se submergeixen per buscar-lo, veuen un llamàntol enorme, com els que hi havia abans. Per allà volta el cuiner Gormand, que justament vol cuinar un gran llamàntol. Això provocarà un conflicte entre ell i els Kratt i, mentrestant, el llamàntol s'anirà fent cada vegada més gros. </desc>
+    <length units="seconds">1209</length>
+    <episode-num system="onscreen">101</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
@@ -93,12 +101,12 @@
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20260913193425 +0200" stop="20260913195455 +0200" channel="sx3">
-    <title lang="ca">El detectiu Conan</title>
-    <sub-title lang="ca">El detectiu Conan - El pla ultrasecret del president carismàtic</sub-title>
-    <desc lang="ca">El president d'una corporació contracta un doble per poder tenir temps lliure i poder descansar. Però el seu doble l'assassinarà per quedar-se amb la seva fortuna. Per casualitat, l'Akira Komoda presenciarà l'assassinat i intentarà fer-li xantatge a l'assassí.</desc>
-    <length units="seconds">1230</length>
-    <episode-num system="onscreen">1133</episode-num>
+  <programme start="20260913214104 +0200" stop="20260913220143 +0200" channel="sx3">
+    <title lang="ca">Els germans Kratt</title>
+    <sub-title lang="ca">Els germans Kratt - L'home-rinopitec daurat</sub-title>
+    <desc lang="ca">Els germans Kratt van a les muntanyes de l'Himàlaia per mirar de trobar uns micos molt especials que viuen en un hàbitat hivernal molt dur: els bonics rinopitecs daurats, de pèl taronjós i daurat i cara d'un blau brillant. Mentrestant, al Zach se li acut la idea de capturar el Ieti i dur-lo a la civilització per mostrar-lo al públic a canvi de molts diners i així fer-se ric. Els camins de tots dos s'acaben trobant d'una manera ben curiosa. </desc>
+    <length units="seconds">1239</length>
+    <episode-num system="onscreen">102</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
@@ -110,26 +118,26 @@
   <channel id="c33">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20260913183453 +0200" stop="20260913192508 +0200" channel="c33">
-    <title lang="ca">Alaska salvatge</title>
-    <sub-title lang="ca">Alaska salvatge - Estiu</sub-title>
-    <desc lang="ca">L'estiu a Alaska avança ràpidament i està marcat per l'allargament del dia, fins al punt que, a l'extrem septentrional de l'estat, el sol pràcticament no es pon. Un dels esdeveniments més importants de l'estació és la remuntada del salmó, de la qual s'aprofiten els ossos i també els humans. És una època d'una gran abundància, en què tant els animals com les persones miren d'acumular el màxim d'aliment per a l'hivern, que no trigarà a arribar.</desc>
-    <length units="seconds">3015</length>
+  <programme start="20260913210758 +0200" stop="20260913220032 +0200" channel="c33">
+    <title lang="ca">Experiència Catalana</title>
+    <sub-title lang="ca">Experiència Catalana - Allan</sub-title>
+    <desc lang="ca">Amb l'Allan Edward Hinton viatgem pel Pallars Jussà i la Noguera. Aquest experimentat viatger descobreix, amb la Ivana Miño, l'especial gastronomia de la zona i algun dels paisatges més espectaculars de Catalunya.</desc>
+    <length units="seconds">3154</length>
     <episode-num system="onscreen">2</episode-num>
-    <category lang="ca">DIVULGACIÓ</category>
-    <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
+    <category lang="ca">ENTRETENIMENT</category>
+    <category lang="ca">ALTRES</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20260913192508 +0200" stop="20260913201710 +0200" channel="c33">
-    <title lang="ca">A tocar de l'aigua</title>
-    <sub-title lang="ca">A tocar de l'aigua - El Segre II; Ribera Salada, Rialb i Llobregós</sub-title>
-    <desc lang="ca">A la segona etapa del recorregut pel Segre, ens endinsarem en el territori del Segre Mitjà des del primer pantà, el d'Oliana, i arribarem fins a Alòs de Balaguer. La ruta que farem per camps de regadiu, infraestructures hidràuliques, camins de ribera, camps de secà, patrimoni cultural i arquitectònic de pobles i despoblats serà una interessant visita pel mosaic que configuren aquestes comarques.</desc>
-    <length units="seconds">3122</length>
-    <episode-num system="onscreen">5</episode-num>
+  <programme start="20260913220032 +0200" stop="20260913224605 +0200" channel="c33">
+    <title lang="ca">Viatges insòlits</title>
+    <sub-title lang="ca">Viatges insòlits - Londres</sub-title>
+    <desc lang="ca">Amb una població d'entre 12 i 14 milions d'habitants, l'àrea metropolitana de Londres no és només la ciutat més gran d'Europa occidental, sinó que també és un pol d'atracció per a gent d'arreu del món. I això fa que Londres sigui una de les ciutats més cosmopolites del món. L'àrea de joc ideal per a en Tom, que explora les diferents facetes, nacionals i internacionals, d'aquesta ciutat. En Tom acaba fent un curs d''English Manners' (Etiqueta britànica) i visitant la fan número ú de la reialesa, però també gaudeix d'una vetllada única amb els jamaicans del districte de Brixton i amb boxejadors sense guants a l'est de Londres.</desc>
+    <length units="seconds">2733</length>
+    <episode-num system="onscreen">38</episode-num>
     <category lang="ca">DIVULGACIÓ</category>
     <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
     <rating>
