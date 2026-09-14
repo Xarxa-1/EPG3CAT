@@ -3,83 +3,81 @@
   <channel id="tvi">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20260914080012 +0200" stop="20260914103000 +0200" channel="tvi">
-    <title lang="ca">Matins</title>
-    <sub-title lang="ca">Matins</sub-title>
-    <desc lang="ca">'Matins' és un dels puntals informatius de TV3. El programa matinal dona les claus del dia que comença, explica les notícies que han passat aportant-ne el context per entendre-les i analitza amb veus acreditades l'actualitat més propera i la d'arreu del món. 'Matins' comença a les 8 del matí, de dilluns a divendres, i està presentat per Ariadna Oltra.</desc>
-    <length units="seconds">8988</length>
-    <episode-num system="onscreen">4670</episode-num>
+  <programme start="20260914143000 +0200" stop="20260914152959 +0200" channel="tvi">
+    <title lang="ca">Telenotícies migdia</title>
+    <sub-title lang="ca">Telenotícies migdia</sub-title>
+    <length units="seconds">3599</length>
+    <episode-num system="onscreen">7328</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <icon src="https://img.ccma.cat/multimedia/jpg/2/0/1758040151402.jpg"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/5/4/1758025766345.jpg"/>
   </programme>
-  <programme start="20260914103000 +0200" stop="20260914135500 +0200" channel="tvi">
-    <title lang="ca">Tot es mou</title>
-    <sub-title lang="ca">Tot es mou</sub-title>
-    <desc lang="ca">El programa presentat per Helena Garcia Melero s'emet de dilluns a divendres, de 10.30 a 13.55. Un magazín d'actualitat que busca informar, analitzar i debatre sobre temes que marquen l'actualitat social, econòmica i cultural del dia, amb una àmplia presència en directe dels reporters i reporteres, repartits per tot Catalunya. A més, el 'Tot es mou' compta amb seccions diàries de gastronomia (amb els principals cuiners i cuineres del país), successos, economia, mobilitat, temes mèdics i de tecnologia, entre d'altres.</desc>
-    <length units="seconds">12300</length>
-    <episode-num system="onscreen">1807</episode-num>
-    <category lang="ca">ACTUALITAT</category>
-    <category lang="ca">MAGAZINE</category>
+  <programme start="20260914152959 +0200" stop="20260914154837 +0200" channel="tvi">
+    <title lang="ca">Cuines</title>
+    <sub-title lang="ca">Cuines - Sopa verda d'escopinyes</sub-title>
+    <desc lang="ca">Les paraules 'sopa' i 'escopinyes' sembla que, d'entrada, no es puguin entendre. Però Marc Ribas ens demostra que aquest marisc també es pot menjar amb cullera si es fa una sopa verda d'escopinyes.</desc>
+    <length units="seconds">1118</length>
+    <episode-num system="onscreen">2420</episode-num>
+    <category lang="ca">DIVULGACIÓ</category>
+    <category lang="ca">CUINA</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
+    <icon src="https://img.ccma.cat/multimedia/jpg/2/5/1653464509252.jpg"/>
   </programme>
   <channel id="324">
     <display-name>324</display-name>
   </channel>
-  <programme start="20260914080000 +0200" stop="20260914103000 +0200" channel="324">
-    <title lang="ca">Matins</title>
-    <desc lang="ca">'Matins' és un dels puntals informatius de TV3. El programa matinal dona les claus del dia que comença, explica les notícies que han passat aportant-ne el context per entendre-les i analitza amb veus acreditades l'actualitat més propera i la d'arreu del món. 'Matins' comença a les 8 del matí, de dilluns a divendres, i està presentat per Ariadna Oltra.</desc>
-    <length units="seconds">9000</length>
-    <episode-num system="onscreen">4670</episode-num>
+  <programme start="20260914143000 +0200" stop="20260914153000 +0200" channel="324">
+    <title lang="ca">Telenotícies migdia</title>
+    <length units="seconds">3600</length>
+    <episode-num system="onscreen">7328</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <icon src="https://img.ccma.cat/multimedia/jpg/2/0/1758040151402.jpg"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/5/4/1758025766345.jpg"/>
   </programme>
-  <programme start="20260914103000 +0200" stop="20260914120000 +0200" channel="324">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">5400</length>
-    <episode-num system="onscreen">11166</episode-num>
+  <programme start="20260914153000 +0200" stop="20260914160000 +0200" channel="324">
+    <title lang="ca">3CatInfo en aranès</title>
+    <desc lang="ca">Informatiu de continguts generalistes en llengua aranesa, presentat per Ares Riu, en emissió per a tot Catalunya.</desc>
+    <length units="seconds">1800</length>
+    <episode-num system="onscreen">2556</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
+    <icon src="https://img.ccma.cat/multimedia/png/5/8/1758125433085.png"/>
   </programme>
   <channel id="esport3">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20260914082825 +0200" stop="20260914101216 +0200" channel="esport3">
-    <title lang="ca">Bàsquet</title>
-    <sub-title lang="ca">Bàsquet - Barça-iLERNA Lleida / Lliga Catalana / Final</sub-title>
-    <desc lang="ca">Des del Pavelló Catalunya de Tarragona, la final masculina de la 47a Lliga Nacional Catalana de Bàsquet. Amb Víctor Lavagnini, Nil Llobet i Nacho Solozabal. </desc>
-    <length units="seconds">6231</length>
-    <episode-num system="onscreen">141</episode-num>
-    <category lang="ca">ESPORTS</category>
-    <category lang="ca">RETRANSMISSIONS ESPORTS</category>
+  <programme start="20260914150100 +0200" stop="20260914152613 +0200" channel="esport3">
+    <title lang="ca">Catalunya salvatge</title>
+    <sub-title lang="ca">Catalunya salvatge - Naturalesa en perill</sub-title>
+    <desc lang="ca">'Catalunya salvatge' és una sèrie documental de 13 capítols que donarà a conèixer als espectadors els ecosistemes més representatius del nostre país. Des dels cims del Pirineu fins a les llacunes del delta de l'Ebre, 'Catalunya salvatge' farà un repàs de la flora i la fauna dels paratges més emblemàtics de Catalunya.Els seguidors de la sèrie tindran, doncs, una finestra privilegiada a la biodiversitat del Parc Nacional d'Aigüestortes, la muntanya de Montserrat, la zona volcànica de la Garrotxa, els aiguamolls de l'Empordà o el món submarí de les illes Medes.El primer ecosistema explorat en profunditat serà el d'alta muntanya, on la supervivència no és gens fàcil.(tardor 2010)</desc>
+    <length units="seconds">1513</length>
+    <episode-num system="onscreen">11</episode-num>
+    <category lang="ca">DIVULGACIÓ</category>
+    <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
-    <icon src="https://img.3cat.cat/multimedia/jpg/7/7/1788941967477.jpg"/>
   </programme>
-  <programme start="20260914101216 +0200" stop="20260914103812 +0200" channel="esport3">
-    <title lang="ca">Catalunya salvatge</title>
-    <sub-title lang="ca">Catalunya salvatge - L'accent mediterrani</sub-title>
-    <desc lang="ca">'Catalunya salvatge' és una sèrie documental de 13 capítols que donarà a conèixer als espectadors els ecosistemes més representatius del nostre país. Des dels cims del Pirineu fins a les llacunes del delta de l'Ebre, 'Catalunya salvatge' farà un repàs de la flora i la fauna dels paratges més emblemàtics de Catalunya.Els seguidors de la sèrie tindran, doncs, una finestra privilegiada a la biodiversitat del Parc Nacional d'Aigüestortes, la muntanya de Montserrat, la zona volcànica de la Garrotxa, els aiguamolls de l'Empordà o el món submarí de les illes Medes.El primer ecosistema explorat en profunditat serà el d'alta muntanya, on la supervivència no és gens fàcil.(tardor 2010)</desc>
-    <length units="seconds">1556</length>
-    <episode-num system="onscreen">6</episode-num>
+  <programme start="20260914152613 +0200" stop="20260914161226 +0200" channel="esport3">
+    <title lang="ca">Arxipèlag blau</title>
+    <sub-title lang="ca">Arxipèlag blau - Praderies i arenals</sub-title>
+    <desc lang="ca">Miquel Salamanca ens presenta en aquest primer capítol de la sèrie 'Arxipèlag blau' dos dels ambients més característics de les nostres aigües: els arenals i els alguers, el que es coneix tradicionalment com 'el blanc' i 'el negre'. Ens endinsarem als alguers o praderies de posidònia per conèixer el cicle vital d'aquesta planta marina, les seves funcions ecològiques i les espècies que amaga entre les seves fulles. Ens sorprendrà descobrir com els arenals, en aparença extensions desèrtiques, són plens de vida, amb espècies que han desenvolupat complexos sistemes de camuflatge i defensa. Ferrasses, agulletes, serpetons, pedaços, pops i moltes altres criatures marines seran protagonistes d'aquest capítol. Per finalitzar acompanyarem Gàdor Muntaner a la seva visita a s'Espardell, a la reserva marina dels Freus d'Eivissa i Formentera.</desc>
+    <length units="seconds">2773</length>
+    <episode-num system="onscreen">1</episode-num>
     <category lang="ca">DIVULGACIÓ</category>
     <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
     <rating>
@@ -91,28 +89,28 @@
   <channel id="sx3">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20260914083806 +0200" stop="20260914084844 +0200" channel="sx3">
-    <title lang="ca">El Mic i els seus amics</title>
-    <sub-title lang="ca">El Mic i els seus amics - El Mic s'amaga a sota un llençol</sub-title>
-    <desc lang="ca">Als nens i nenes els agrada molt jugar a fer ensurts. A través d'aquest joc poden assajar la sensació d'emoció i mitja port en un entorn segur.</desc>
-    <length units="seconds">638</length>
-    <episode-num system="onscreen">630</episode-num>
+  <programme start="20260914151419 +0200" stop="20260914153549 +0200" channel="sx3">
+    <title lang="ca">Henry Danger</title>
+    <sub-title lang="ca">Henry Danger - Gestió de la ràbia per a adolescents</sub-title>
+    <desc lang="ca">Quan la Piper descobreix que els seus amics l'han exclòs d'una excursió pel seu mal geni, accepta apuntar-se a un curs per aprendre a controlar la ràbia.</desc>
+    <length units="seconds">1290</length>
+    <episode-num system="onscreen">54</episode-num>
     <category lang="ca">FICCIÓ</category>
-    <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
+    <category lang="ca">SÈRIE DRAMÀTICA</category>
     <rating>
       <value>INFANTIL</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20260914084844 +0200" stop="20260914085902 +0200" channel="sx3">
-    <title lang="ca">El Mic i els seus amics</title>
-    <sub-title lang="ca">El Mic i els seus amics - Qui juga a fer un circ?</sub-title>
-    <desc lang="ca">El circ és un univers molt atractiu per als més petits. És un espai on conflueixen la màgia i el risc amb personatges divertits i enigmàtics.</desc>
-    <length units="seconds">618</length>
-    <episode-num system="onscreen">638</episode-num>
+  <programme start="20260914153549 +0200" stop="20260914155650 +0200" channel="sx3">
+    <title lang="ca">Henry Danger</title>
+    <sub-title lang="ca">Henry Danger - Dits verds</sub-title>
+    <desc lang="ca">Una misteriosa malaltia creada per Schwoz s'escampa entre Henry i els seus amics, obligant-los a quedar-se confinats mentre busquen una cura.</desc>
+    <length units="seconds">1261</length>
+    <episode-num system="onscreen">55</episode-num>
     <category lang="ca">FICCIÓ</category>
-    <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
+    <category lang="ca">SÈRIE DRAMÀTICA</category>
     <rating>
       <value>INFANTIL</value>
     </rating>
@@ -122,12 +120,12 @@
   <channel id="c33">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20260914081808 +0200" stop="20260914085345 +0200" channel="c33">
-    <title lang="ca">Cosins Germans</title>
-    <sub-title lang="ca">Cosins Germans - Arròs a banda</sub-title>
-    <desc lang="ca">Delta de l'Ebre/L'AlbuferaUna broma, sobre on es fa el millor arròs, al Delta o l'Albufera de València, esdevindrà una mena de competició sana per resoldre quin dels dos espais naturals és el més singular.</desc>
-    <length units="seconds">2137</length>
-    <episode-num system="onscreen">1</episode-num>
+  <programme start="20260914150339 +0200" stop="20260914155006 +0200" channel="c33">
+    <title lang="ca">La Renaixença</title>
+    <sub-title lang="ca">La Renaixença - El paper de vàter</sub-title>
+    <desc lang="ca">Dediquem el segon capítol de 'La renaixença' al paper de vàter, un dels pocs objectes que segurament ens posen a tots al mateix nivell. Ens visita una 'sàvia per conèixer', la Marina Casanelles. És ensinistradora de gossos especialitzats en el rescat de persones, la detecció d'explosius, drogues... i ha decidit venir-nos a visitar amb en Ratatouille, un chihuahua que detecta marihuana. Acabem el programa amb una nova història per passejar el gos: avui sortim amb en Rumbo per la Barcelona del 1909, durant la Setmana Tràgica.</desc>
+    <length units="seconds">2787</length>
+    <episode-num system="onscreen">2</episode-num>
     <category lang="ca">DIVULGACIÓ</category>
     <category lang="ca">ALTRES</category>
     <rating>
@@ -135,15 +133,16 @@
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/3/3/1756148014833.jpg"/>
   </programme>
-  <programme start="20260914085345 +0200" stop="20260914090838 +0200" channel="c33">
-    <title lang="ca">Pastors i ramats: un món que se'n va</title>
-    <sub-title lang="ca">Pastors i ramats: un món que se'n va - Ernest Sitjes</sub-title>
-    <desc lang="ca">'Pastors i ramats, un món que se'n va', és una sèrie de 15 capítols protagonitzada per pastors i pastores que, al llarg del nostre país, treuen a pasturar cada dia el seu ramat. Malgrat fer la mateixa feina, cada pastor és un món, una forma particular de relacionar-se amb el ramat, un mosaic de veus i gestos units per l'estimació pels animals. I també un conjunt de converses amb persones que són allà on volen ser, perseverant tossudament per continuar l'ofici malgrat totes les dificultats... Pastors i ramats... és la lluita silenciosa i plena de dignitat d'un món que se'n va.</desc>
-    <length units="seconds">893</length>
-    <episode-num system="onscreen">1</episode-num>
+  <programme start="20260914155006 +0200" stop="20260914163833 +0200" channel="c33">
+    <title lang="ca">Aeroport</title>
+    <sub-title lang="ca">Aeroport - Passatgers</sub-title>
+    <desc lang="ca">Viatjar en avió pot ser tota una aventura. Especialment si els passatgers arriben justos de temps, porten el DNI caducat, o volen per primera vegada i no tenen gens clar com funciona el tema.</desc>
+    <length units="seconds">2907</length>
+    <episode-num system="onscreen">14</episode-num>
     <category lang="ca">DIVULGACIÓ</category>
-    <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
+    <category lang="ca">Docu-Entreteniment</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
