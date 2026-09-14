@@ -3,39 +3,40 @@
   <channel id="tvi">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20260914201506 +0200" stop="20260914210000 +0200" channel="tvi">
-    <title lang="ca">Està passant</title>
-    <sub-title lang="ca">Està passant</sub-title>
-    <desc lang="ca">L'Òscar Andreu i el Queco ens parlen de la saturació a les presons catalanes i de la IA. En Marc Buxaderas ajuda amb els problemes dels espectadors i Marc Sarrats repassa la vaga de mestres</desc>
-    <length units="seconds">2694</length>
-    <episode-num system="onscreen">1809</episode-num>
-    <category lang="ca">ENTRETENIMENT</category>
-    <category lang="ca">GAGS. HUMOR</category>
+  <programme start="20260914233300 +0200" stop="20260915002209 +0200" channel="tvi">
+    <title lang="ca">Documental</title>
+    <sub-title lang="ca">Documental - Mama</sub-title>
+    <desc lang="ca">Superar el càncer una vegada és un repte immens; ser-ne diagnosticat per segona vegada i seguir endavant, un acte de gran valentia. Però, què passa quan el càncer es converteix en una part constant de la nostra vida? La Gemma pateix una de les formes més agressives de càncer, amb metàstasis al cervell. Mentre segueix un tractament experimental, aprèn a conviure amb la malaltia i ens demostra que la vida no es mesura només en temps, sinó en els moments que compartim. Mare, filla, germana, parella… cada paper que interpreta té una importància immensa. La seva lluita no és només persobreviure, sinó per viure plenament.</desc>
+    <length units="seconds">2949</length>
+    <episode-num system="onscreen">1</episode-num>
+    <category lang="ca">DIVULGACIÓ</category>
+    <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <icon src="https://img.ccma.cat/multimedia/png/3/8/1705511272683.png"/>
+    <previously-shown/>
   </programme>
-  <programme start="20260914210000 +0200" stop="20260914220551 +0200" channel="tvi">
-    <title lang="ca">Telenotícies vespre</title>
-    <sub-title lang="ca">Telenotícies vespre</sub-title>
-    <length units="seconds">3951</length>
-    <episode-num system="onscreen">7327</episode-num>
+  <programme start="20260915002209 +0200" stop="20260915052329 +0200" channel="tvi">
+    <title lang="ca">Mésnit</title>
+    <sub-title lang="ca">Mésnit</sub-title>
+    <desc lang="ca">El 'Mésnit' arriba a la desena temporada, amb Marina Romero al capdavant de l'espai i amb la voluntat de continuar sent un centre de debat d'idees i d'anàlisi de l'activitat política.</desc>
+    <length units="seconds">18080</length>
+    <episode-num system="onscreen">2158</episode-num>
     <category lang="ca">ACTUALITAT</category>
-    <category lang="ca">INFORMATIU DIÀRI</category>
+    <category lang="ca">DEBAT</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <icon src="https://img.ccma.cat/multimedia/jpg/7/2/1758026176427.jpg"/>
+    <previously-shown/>
   </programme>
   <channel id="324">
     <display-name>324</display-name>
   </channel>
-  <programme start="20260914200000 +0200" stop="20260914210000 +0200" channel="324">
+  <programme start="20260915000000 +0200" stop="20260915003000 +0200" channel="324">
     <title lang="ca">Notícies 3CatInfo</title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">3600</length>
-    <episode-num system="onscreen">11171</episode-num>
+    <length units="seconds">1800</length>
+    <episode-num system="onscreen">11172</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
@@ -43,76 +44,75 @@
     </rating>
     <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
-  <programme start="20260914210000 +0200" stop="20260914220500 +0200" channel="324">
-    <title lang="ca">Telenotícies vespre</title>
-    <length units="seconds">3900</length>
-    <episode-num system="onscreen">7327</episode-num>
+  <programme start="20260915003000 +0200" stop="20260915010000 +0200" channel="324">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="seconds">1800</length>
+    <episode-num system="onscreen">11173</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <icon src="https://img.ccma.cat/multimedia/jpg/7/2/1758026176427.jpg"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
   <channel id="esport3">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20260914202937 +0200" stop="20260914210427 +0200" channel="esport3">
-    <title lang="ca">Esport Club</title>
-    <sub-title lang="ca">Esport Club</sub-title>
-    <desc lang="ca">Lamine Yamal demana obertament la Pilota d'Or. Analitzem el Llevant-Barça amb la lupa de l'Albert Blaya. Última hora de l'Espanyol, que demà juga contra el Rayo a Butarque. El Barça de bàsquet guanya la Lliga Catalana i ja pensa en la Supercopa ACB. A la tertúlia ens acompanyen Raúl Fuentes, Maria Josep Hostalrich i Pichi Alonso.</desc>
-    <length units="seconds">2090</length>
-    <episode-num system="onscreen">3238</episode-num>
+  <programme start="20260914230000 +0200" stop="20260915003104 +0200" channel="esport3">
+    <title lang="ca">Onze</title>
+    <sub-title lang="ca">Onze</sub-title>
+    <desc lang="ca">Lluís Carrasco, Xavi Torres, Aina Cerdà i Carles Fité analitzen les paraules de Lamine Yamal on creu que es mereix la pilota d'or. En Marc Mayola destaca alguns aspectes del partit del Barça al camp del Llevant i en Joan Fàbregas repassa les polèmiques de la jornada.</desc>
+    <length units="seconds">5464</length>
+    <episode-num system="onscreen">1248</episode-num>
     <category lang="ca">ESPORTS</category>
-    <category lang="ca">INFORMATIU DIÀRI</category>
+    <category lang="ca">MAGAZINE</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
-    <previously-shown/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/7/3/1698145091337.jpg"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/1/1/1688543515711.jpg"/>
   </programme>
-  <programme start="20260914210427 +0200" stop="20260914212305 +0200" channel="esport3">
-    <title lang="ca">Sala de Premsa</title>
-    <sub-title lang="ca">Sala de Premsa - Manolo González / Prèvia Rayo-Espanyol / J6</sub-title>
-    <desc lang="ca">Esport3 t'ofereix les compareixences de dirigents, jugadors i entrenadors dels equips catalans davant els mitjans de comunicació.</desc>
-    <length units="seconds">1118</length>
-    <episode-num system="onscreen">726</episode-num>
+  <programme start="20260915003104 +0200" stop="20260915005211 +0200" channel="esport3">
+    <title lang="ca">3CatInfo Esports</title>
+    <sub-title lang="ca">3CatInfo Esports</sub-title>
+    <desc lang="ca">Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.</desc>
+    <length units="seconds">1267</length>
+    <episode-num system="onscreen">5509</episode-num>
     <category lang="ca">ESPORTS</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <subtitles type="teletext"/>
-    <icon src="https://img.3cat.cat/multimedia/jpg/7/4/1778665728847.jpg"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/9/7/1758888682179.jpg"/>
   </programme>
   <channel id="sx3">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20260914203817 +0200" stop="20260914205958 +0200" channel="sx3">
-    <title lang="ca">Henry Danger</title>
-    <sub-title lang="ca">Henry Danger - Els invasors de l'espai, primera part</sub-title>
-    <desc lang="ca">Quan un intrús pren el control d'una estació espacial i segresta uns astronautes, el Capità Man i en Henry es preparen per a una missió fora d'aquest món.</desc>
-    <length units="seconds">1301</length>
-    <episode-num system="onscreen">57</episode-num>
+  <programme start="20260914234627 +0200" stop="20260915000727 +0200" channel="sx3">
+    <title lang="ca">Els germans Kratt</title>
+    <sub-title lang="ca">Els germans Kratt - Un gran problema taronja</sub-title>
+    <desc lang="ca">Els germans Kratt són a la selva de Borneo intentant ajudar els orangutans, els únics simis de l'Àsia. Si no fan alguna cosa per salvar-los, en pocs anys ens podrien extingir. I encara més si en Zach hi envia els seus zachbots amb serres mecàniques per tallar la fusta més valuosa de la Terra, uns arbres vitals per a la supervivència dels orangutans.</desc>
+    <length units="seconds">1260</length>
+    <episode-num system="onscreen">28</episode-num>
     <category lang="ca">FICCIÓ</category>
-    <category lang="ca">SÈRIE DRAMÀTICA</category>
+    <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
       <value>INFANTIL</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20260914205958 +0200" stop="20260914212214 +0200" channel="sx3">
-    <title lang="ca">Bola de drac Z</title>
-    <sub-title lang="ca">Bola de drac Z - En Vegeta corre perill</sub-title>
-    <desc lang="ca">Després de permetre que en Cèl·lula aconseguís la perfecció del cos, en Vegeta podrà tirar endavant el repte que tant desitjava. Malauradament, el poder de l'androide perfecte supera totes les expectatives i en Vegeta corre un perill més gran que ningú s'esperava. D'altra banda, en Son Gohan comença a controlar el seu poder de superguerrer.</desc>
-    <length units="seconds">1336</length>
-    <episode-num system="onscreen">161</episode-num>
+  <programme start="20260915000727 +0200" stop="20260915002827 +0200" channel="sx3">
+    <title lang="ca">Els germans Kratt</title>
+    <sub-title lang="ca">Els germans Kratt - El pelut marí</sub-title>
+    <desc lang="ca">L'Aviva ha reforçat el submarí de l'Equip Kratt i, a més, ara funciona amb energia solar, igual que el fitoplàncton. L'únic que han de vigilar és que no se'ls acabi la bateria mentre exploren les profunditats d'un oceà ple de calamars gegants i d'abominables crancs de les neus! Aquesta vegada en Martin i en Chris ho tindran complicat per fugir del cranc ieti!</desc>
+    <length units="seconds">1260</length>
+    <episode-num system="onscreen">29</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
-      <value>JUVENIL</value>
+      <value>INFANTIL</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
@@ -120,24 +120,31 @@
   <channel id="c33">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20260914200923 +0200" stop="20260914205938 +0200" channel="c33">
-    <title lang="ca">Alaska salvatge</title>
-    <sub-title lang="ca">Alaska salvatge - Estiu</sub-title>
-    <desc lang="ca">L'estiu a Alaska avança ràpidament i està marcat per l'allargament del dia, fins al punt que, a l'extrem septentrional de l'estat, el sol pràcticament no es pon. Un dels esdeveniments més importants de l'estació és la remuntada del salmó, de la qual s'aprofiten els ossos i també els humans. És una època d'una gran abundància, en què tant els animals com les persones miren d'acumular el màxim d'aliment per a l'hivern, que no trigarà a arribar.</desc>
-    <length units="seconds">3015</length>
-    <episode-num system="onscreen">2</episode-num>
+  <programme start="20260914235025 +0200" stop="20260915003744 +0200" channel="c33">
+    <title lang="ca">Aeroport</title>
+    <sub-title lang="ca">Aeroport - L'avió</sub-title>
+    <desc lang="ca">Una de cada quatre persones té por de volar, tot i això, l'avió és un transport molt segur. Fins i tot quan ha d'aterrar amb un sol motor a causa d'un incendi. No és estrany que els SPOTTERS recorrin els aeroports de tot el món per fotografiar avions estel·lars, com l'Airbus A380.</desc>
+    <length units="seconds">2839</length>
+    <episode-num system="onscreen">15</episode-num>
     <category lang="ca">DIVULGACIÓ</category>
-    <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
+    <category lang="ca">Docu-Entreteniment</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20260914205938 +0200" stop="20260914210121 +0200" channel="c33">
-    <title lang="ca">SENSE FI CANAL 33</title>
-    <desc lang="ca">Sense Descripció</desc>
-    <length units="seconds">103</length>
+  <programme start="20260915003744 +0200" stop="20260915005032 +0200" channel="c33">
+    <title lang="ca">Programa sindical CC.OO.</title>
+    <sub-title lang="ca">Programa sindical CC.OO.</sub-title>
+    <length units="seconds">768</length>
+    <episode-num system="onscreen">330</episode-num>
+    <category lang="ca">DIVULGACIÓ</category>
+    <category lang="ca">MAGAZINE ESPECIALITZAT</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <subtitles type="teletext"/>
   </programme>
   <channel id="oca1">
     <display-name>OCA1</display-name>
