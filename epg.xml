@@ -3,98 +3,98 @@
   <channel id="tvi">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20260914143000 +0200" stop="20260914152959 +0200" channel="tvi">
-    <title lang="ca">Telenotícies migdia</title>
-    <sub-title lang="ca">Telenotícies migdia</sub-title>
-    <length units="seconds">3599</length>
-    <episode-num system="onscreen">7328</episode-num>
+  <programme start="20260914201506 +0200" stop="20260914210000 +0200" channel="tvi">
+    <title lang="ca">Està passant</title>
+    <sub-title lang="ca">Està passant</sub-title>
+    <desc lang="ca">L'Òscar Andreu i el Queco ens parlen de la saturació a les presons catalanes i de la IA. En Marc Buxaderas ajuda amb els problemes dels espectadors i Marc Sarrats repassa la vaga de mestres</desc>
+    <length units="seconds">2694</length>
+    <episode-num system="onscreen">1809</episode-num>
+    <category lang="ca">ENTRETENIMENT</category>
+    <category lang="ca">GAGS. HUMOR</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <icon src="https://img.ccma.cat/multimedia/png/3/8/1705511272683.png"/>
+  </programme>
+  <programme start="20260914210000 +0200" stop="20260914220551 +0200" channel="tvi">
+    <title lang="ca">Telenotícies vespre</title>
+    <sub-title lang="ca">Telenotícies vespre</sub-title>
+    <length units="seconds">3951</length>
+    <episode-num system="onscreen">7327</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <icon src="https://img.ccma.cat/multimedia/jpg/5/4/1758025766345.jpg"/>
-  </programme>
-  <programme start="20260914152959 +0200" stop="20260914154837 +0200" channel="tvi">
-    <title lang="ca">Cuines</title>
-    <sub-title lang="ca">Cuines - Sopa verda d'escopinyes</sub-title>
-    <desc lang="ca">Les paraules 'sopa' i 'escopinyes' sembla que, d'entrada, no es puguin entendre. Però Marc Ribas ens demostra que aquest marisc també es pot menjar amb cullera si es fa una sopa verda d'escopinyes.</desc>
-    <length units="seconds">1118</length>
-    <episode-num system="onscreen">2420</episode-num>
-    <category lang="ca">DIVULGACIÓ</category>
-    <category lang="ca">CUINA</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <icon src="https://img.ccma.cat/multimedia/jpg/2/5/1653464509252.jpg"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/7/2/1758026176427.jpg"/>
   </programme>
   <channel id="324">
     <display-name>324</display-name>
   </channel>
-  <programme start="20260914143000 +0200" stop="20260914153000 +0200" channel="324">
-    <title lang="ca">Telenotícies migdia</title>
+  <programme start="20260914200000 +0200" stop="20260914210000 +0200" channel="324">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <length units="seconds">3600</length>
-    <episode-num system="onscreen">7328</episode-num>
+    <episode-num system="onscreen">11171</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <icon src="https://img.ccma.cat/multimedia/jpg/5/4/1758025766345.jpg"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
-  <programme start="20260914153000 +0200" stop="20260914160000 +0200" channel="324">
-    <title lang="ca">3CatInfo en aranès</title>
-    <desc lang="ca">Informatiu de continguts generalistes en llengua aranesa, presentat per Ares Riu, en emissió per a tot Catalunya.</desc>
-    <length units="seconds">1800</length>
-    <episode-num system="onscreen">2556</episode-num>
+  <programme start="20260914210000 +0200" stop="20260914220500 +0200" channel="324">
+    <title lang="ca">Telenotícies vespre</title>
+    <length units="seconds">3900</length>
+    <episode-num system="onscreen">7327</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <subtitles type="teletext"/>
-    <icon src="https://img.ccma.cat/multimedia/png/5/8/1758125433085.png"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/7/2/1758026176427.jpg"/>
   </programme>
   <channel id="esport3">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20260914150100 +0200" stop="20260914152613 +0200" channel="esport3">
-    <title lang="ca">Catalunya salvatge</title>
-    <sub-title lang="ca">Catalunya salvatge - Naturalesa en perill</sub-title>
-    <desc lang="ca">'Catalunya salvatge' és una sèrie documental de 13 capítols que donarà a conèixer als espectadors els ecosistemes més representatius del nostre país. Des dels cims del Pirineu fins a les llacunes del delta de l'Ebre, 'Catalunya salvatge' farà un repàs de la flora i la fauna dels paratges més emblemàtics de Catalunya.Els seguidors de la sèrie tindran, doncs, una finestra privilegiada a la biodiversitat del Parc Nacional d'Aigüestortes, la muntanya de Montserrat, la zona volcànica de la Garrotxa, els aiguamolls de l'Empordà o el món submarí de les illes Medes.El primer ecosistema explorat en profunditat serà el d'alta muntanya, on la supervivència no és gens fàcil.(tardor 2010)</desc>
-    <length units="seconds">1513</length>
-    <episode-num system="onscreen">11</episode-num>
-    <category lang="ca">DIVULGACIÓ</category>
-    <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
+  <programme start="20260914202937 +0200" stop="20260914210427 +0200" channel="esport3">
+    <title lang="ca">Esport Club</title>
+    <sub-title lang="ca">Esport Club</sub-title>
+    <desc lang="ca">Lamine Yamal demana obertament la Pilota d'Or. Analitzem el Llevant-Barça amb la lupa de l'Albert Blaya. Última hora de l'Espanyol, que demà juga contra el Rayo a Butarque. El Barça de bàsquet guanya la Lliga Catalana i ja pensa en la Supercopa ACB. A la tertúlia ens acompanyen Raúl Fuentes, Maria Josep Hostalrich i Pichi Alonso.</desc>
+    <length units="seconds">2090</length>
+    <episode-num system="onscreen">3238</episode-num>
+    <category lang="ca">ESPORTS</category>
+    <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/7/3/1698145091337.jpg"/>
   </programme>
-  <programme start="20260914152613 +0200" stop="20260914161226 +0200" channel="esport3">
-    <title lang="ca">Arxipèlag blau</title>
-    <sub-title lang="ca">Arxipèlag blau - Praderies i arenals</sub-title>
-    <desc lang="ca">Miquel Salamanca ens presenta en aquest primer capítol de la sèrie 'Arxipèlag blau' dos dels ambients més característics de les nostres aigües: els arenals i els alguers, el que es coneix tradicionalment com 'el blanc' i 'el negre'. Ens endinsarem als alguers o praderies de posidònia per conèixer el cicle vital d'aquesta planta marina, les seves funcions ecològiques i les espècies que amaga entre les seves fulles. Ens sorprendrà descobrir com els arenals, en aparença extensions desèrtiques, són plens de vida, amb espècies que han desenvolupat complexos sistemes de camuflatge i defensa. Ferrasses, agulletes, serpetons, pedaços, pops i moltes altres criatures marines seran protagonistes d'aquest capítol. Per finalitzar acompanyarem Gàdor Muntaner a la seva visita a s'Espardell, a la reserva marina dels Freus d'Eivissa i Formentera.</desc>
-    <length units="seconds">2773</length>
-    <episode-num system="onscreen">1</episode-num>
-    <category lang="ca">DIVULGACIÓ</category>
-    <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
+  <programme start="20260914210427 +0200" stop="20260914212305 +0200" channel="esport3">
+    <title lang="ca">Sala de Premsa</title>
+    <sub-title lang="ca">Sala de Premsa - Manolo González / Prèvia Rayo-Espanyol / J6</sub-title>
+    <desc lang="ca">Esport3 t'ofereix les compareixences de dirigents, jugadors i entrenadors dels equips catalans davant els mitjans de comunicació.</desc>
+    <length units="seconds">1118</length>
+    <episode-num system="onscreen">726</episode-num>
+    <category lang="ca">ESPORTS</category>
+    <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
-    <previously-shown/>
+    <icon src="https://img.3cat.cat/multimedia/jpg/7/4/1778665728847.jpg"/>
   </programme>
   <channel id="sx3">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20260914151419 +0200" stop="20260914153549 +0200" channel="sx3">
+  <programme start="20260914203817 +0200" stop="20260914205958 +0200" channel="sx3">
     <title lang="ca">Henry Danger</title>
-    <sub-title lang="ca">Henry Danger - Gestió de la ràbia per a adolescents</sub-title>
-    <desc lang="ca">Quan la Piper descobreix que els seus amics l'han exclòs d'una excursió pel seu mal geni, accepta apuntar-se a un curs per aprendre a controlar la ràbia.</desc>
-    <length units="seconds">1290</length>
-    <episode-num system="onscreen">54</episode-num>
+    <sub-title lang="ca">Henry Danger - Els invasors de l'espai, primera part</sub-title>
+    <desc lang="ca">Quan un intrús pren el control d'una estació espacial i segresta uns astronautes, el Capità Man i en Henry es preparen per a una missió fora d'aquest món.</desc>
+    <length units="seconds">1301</length>
+    <episode-num system="onscreen">57</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DRAMÀTICA</category>
     <rating>
@@ -103,16 +103,16 @@
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20260914153549 +0200" stop="20260914155650 +0200" channel="sx3">
-    <title lang="ca">Henry Danger</title>
-    <sub-title lang="ca">Henry Danger - Dits verds</sub-title>
-    <desc lang="ca">Una misteriosa malaltia creada per Schwoz s'escampa entre Henry i els seus amics, obligant-los a quedar-se confinats mentre busquen una cura.</desc>
-    <length units="seconds">1261</length>
-    <episode-num system="onscreen">55</episode-num>
+  <programme start="20260914205958 +0200" stop="20260914212214 +0200" channel="sx3">
+    <title lang="ca">Bola de drac Z</title>
+    <sub-title lang="ca">Bola de drac Z - En Vegeta corre perill</sub-title>
+    <desc lang="ca">Després de permetre que en Cèl·lula aconseguís la perfecció del cos, en Vegeta podrà tirar endavant el repte que tant desitjava. Malauradament, el poder de l'androide perfecte supera totes les expectatives i en Vegeta corre un perill més gran que ningú s'esperava. D'altra banda, en Son Gohan comença a controlar el seu poder de superguerrer.</desc>
+    <length units="seconds">1336</length>
+    <episode-num system="onscreen">161</episode-num>
     <category lang="ca">FICCIÓ</category>
-    <category lang="ca">SÈRIE DRAMÀTICA</category>
+    <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
-      <value>INFANTIL</value>
+      <value>JUVENIL</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
@@ -120,34 +120,24 @@
   <channel id="c33">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20260914150339 +0200" stop="20260914155006 +0200" channel="c33">
-    <title lang="ca">La Renaixença</title>
-    <sub-title lang="ca">La Renaixença - El paper de vàter</sub-title>
-    <desc lang="ca">Dediquem el segon capítol de 'La renaixença' al paper de vàter, un dels pocs objectes que segurament ens posen a tots al mateix nivell. Ens visita una 'sàvia per conèixer', la Marina Casanelles. És ensinistradora de gossos especialitzats en el rescat de persones, la detecció d'explosius, drogues... i ha decidit venir-nos a visitar amb en Ratatouille, un chihuahua que detecta marihuana. Acabem el programa amb una nova història per passejar el gos: avui sortim amb en Rumbo per la Barcelona del 1909, durant la Setmana Tràgica.</desc>
-    <length units="seconds">2787</length>
+  <programme start="20260914200923 +0200" stop="20260914205938 +0200" channel="c33">
+    <title lang="ca">Alaska salvatge</title>
+    <sub-title lang="ca">Alaska salvatge - Estiu</sub-title>
+    <desc lang="ca">L'estiu a Alaska avança ràpidament i està marcat per l'allargament del dia, fins al punt que, a l'extrem septentrional de l'estat, el sol pràcticament no es pon. Un dels esdeveniments més importants de l'estació és la remuntada del salmó, de la qual s'aprofiten els ossos i també els humans. És una època d'una gran abundància, en què tant els animals com les persones miren d'acumular el màxim d'aliment per a l'hivern, que no trigarà a arribar.</desc>
+    <length units="seconds">3015</length>
     <episode-num system="onscreen">2</episode-num>
     <category lang="ca">DIVULGACIÓ</category>
-    <category lang="ca">ALTRES</category>
+    <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/3/3/1756148014833.jpg"/>
   </programme>
-  <programme start="20260914155006 +0200" stop="20260914163833 +0200" channel="c33">
-    <title lang="ca">Aeroport</title>
-    <sub-title lang="ca">Aeroport - Passatgers</sub-title>
-    <desc lang="ca">Viatjar en avió pot ser tota una aventura. Especialment si els passatgers arriben justos de temps, porten el DNI caducat, o volen per primera vegada i no tenen gens clar com funciona el tema.</desc>
-    <length units="seconds">2907</length>
-    <episode-num system="onscreen">14</episode-num>
-    <category lang="ca">DIVULGACIÓ</category>
-    <category lang="ca">Docu-Entreteniment</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <subtitles type="teletext"/>
-    <previously-shown/>
+  <programme start="20260914205938 +0200" stop="20260914210121 +0200" channel="c33">
+    <title lang="ca">SENSE FI CANAL 33</title>
+    <desc lang="ca">Sense Descripció</desc>
+    <length units="seconds">103</length>
   </programme>
   <channel id="oca1">
     <display-name>OCA1</display-name>
