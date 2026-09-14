@@ -42,7 +42,6 @@
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <subtitles type="teletext"/>
     <previously-shown/>
     <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
@@ -56,50 +55,49 @@
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <subtitles type="teletext"/>
     <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
   <channel id="esport3">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20260914005757 +0200" stop="20260914023019 +0200" channel="esport3">
-    <title lang="ca">Gol a gol</title>
-    <sub-title lang="ca">Gol a gol - Anàlisi de la jornada / J5 / Diumenge</sub-title>
-    <desc lang="ca">'Gol a gol' us ofereix els resums dels partits de futbol de Primera i Segona Divisió. Presentat per Jordi Grau a Esport3, cada dissabte i cada diumenge podeu veure les millors imatges de la jornada de Lliga amb l'anàlisi dels experts, amb especial atenció als equips catalans, sobretot el Barça, el Girona i l'Espanyol.</desc>
-    <length units="seconds">5542</length>
-    <episode-num system="onscreen">1778</episode-num>
+  <programme start="20260914032130 +0200" stop="20260914050514 +0200" channel="esport3">
+    <title lang="ca">Bàsquet</title>
+    <sub-title lang="ca">Bàsquet - Barça-iLERNA Lleida / Lliga Catalana / Final</sub-title>
+    <desc lang="ca">Des del Pavelló Catalunya de Tarragona, la final masculina de la 47a Lliga Nacional Catalana de Bàsquet. Amb Víctor Lavagnini, Nil Llobet i Nacho Solozabal. </desc>
+    <length units="seconds">6224</length>
+    <episode-num system="onscreen">141</episode-num>
     <category lang="ca">ESPORTS</category>
-    <category lang="ca">MAGAZINE</category>
+    <category lang="ca">RETRANSMISSIONS ESPORTS</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/2/1/1698144123212.jpg"/>
+    <icon src="https://img.3cat.cat/multimedia/jpg/7/7/1788941967477.jpg"/>
   </programme>
-  <programme start="20260914023019 +0200" stop="20260914025524 +0200" channel="esport3">
-    <title lang="ca">3CatInfo Esports</title>
-    <sub-title lang="ca">3CatInfo Esports</sub-title>
-    <desc lang="ca">Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.</desc>
-    <length units="seconds">1505</length>
-    <episode-num system="onscreen">5508</episode-num>
+  <programme start="20260914050514 +0200" stop="20260914060322 +0200" channel="esport3">
+    <title lang="ca">Motor a fons</title>
+    <sub-title lang="ca">Motor a fons - GP de San Marino</sub-title>
+    <desc lang="ca">Catorzena prova del Campionat del Món de Motociclisme. Us oferim el més destacat a les curses de MotoGP, Moto2 i Moto3. Amb Xavier Guillén, i l'anàlisi de Montse Sogues i Ramon Forcada.</desc>
+    <length units="seconds">3488</length>
+    <episode-num system="onscreen">955</episode-num>
     <category lang="ca">ESPORTS</category>
-    <category lang="ca">INFORMATIU DIÀRI</category>
+    <category lang="ca">MAGAZINE</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <previously-shown/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/9/7/1758888682179.jpg"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/5/7/1678886130275.jpg"/>
   </programme>
   <channel id="sx3">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20260914012328 +0200" stop="20260914014406 +0200" channel="sx3">
-    <title lang="ca">Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
-    <sub-title lang="ca">Prodigiosa: Les aventures de Ladybug i Gat Noir - La resposta</sub-title>
-    <desc lang="ca">Durant la jornada de portes obertes de l'escola d'esgrima de l'Armand d'Argencourt, es fan les proves d'ingrés als aspirants, entre els que hi ha la Marinette. Però aquest any només hi ha una sola plaça, que serà molt disputada. Fins que apareix una misteriosa tiradora, experta en aquest esport, que està decidida a quedar-se l'única plaça lliure.</desc>
-    <length units="seconds">1238</length>
-    <episode-num system="onscreen">33</episode-num>
+  <programme start="20260914032048 +0200" stop="20260914033118 +0200" channel="sx3">
+    <title lang="ca">Pop, la ciutat de paper</title>
+    <sub-title lang="ca">Pop, la ciutat de paper - El Zip fa un àlbum de records molt maco</sub-title>
+    <desc lang="ca">A l'aventura d'avui, el Zip i els seus amics se'n van a la cascada per veure un arc de Sant Martí! Llavors, a en Zip se li acudirà una manera perquè els seus amics se'n recordin sempre d'aquest dia.</desc>
+    <length units="seconds">630</length>
+    <episode-num system="onscreen">5</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
@@ -108,12 +106,12 @@
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20260914014406 +0200" stop="20260914020444 +0200" channel="sx3">
-    <title lang="ca">Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
-    <sub-title lang="ca">Prodigiosa: Les aventures de Ladybug i Gat Noir - La Befana</sub-title>
-    <desc lang="ca">Avui és l'aniversari de la Marinette, i els seus amics i els seus pares li preparen una festa sorpresa. La Marinette ja s'ho imagina, i li fa molta il.lusió. Però l'arribada de la seva iaia, la Gina, trasbalsarà els plans de tothom, cosa que aprofitarà l'Esfinx per intentar apoder-se dels prodigis de Ladybug i el Gat Noir.</desc>
-    <length units="seconds">1238</length>
-    <episode-num system="onscreen">34</episode-num>
+  <programme start="20260914033118 +0200" stop="20260914034117 +0200" channel="sx3">
+    <title lang="ca">Pop, la ciutat de paper</title>
+    <sub-title lang="ca">Pop, la ciutat de paper - Les flors de primavera</sub-title>
+    <desc lang="ca">El Zip acaba de guanyar el premi al jardí més ben dissenyat i el Plom li haurà de donar el trofeu a la inauguració del jardí. Però perquè tot surti bé, haurà de quedar cada flor al seu lloc i no n'haurà de faltar cap.</desc>
+    <length units="seconds">599</length>
+    <episode-num system="onscreen">6</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
@@ -125,41 +123,7 @@
   <channel id="c33">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20260914005451 +0200" stop="20260914022434 +0200" channel="c33">
-    <title lang="ca">Pel·lícula</title>
-    <sub-title lang="ca">Pel·lícula - Assassinats a Pont-Aven</sub-title>
-    <desc lang="ca">ASSASSINATS A PONT-AVEN 'Meurtres en Berry'Direcció: Floriane CrépinGuió: Natascha Cucheval, Iris DucorpsProducció: Quad Télévision, France TV, AT Production, RTBF (Télévision Belge), Ciclic - Région Centre, CNC, TV5 Monde, Radio Télévision Suisse (RTS)Any: 2021Durada: 95País: FrançaMúsica: Emilien Levistre, Xiaoxi LevistreFotografia: Patrick GhiringhelliIntèrprets: Aurélien Wiik, Fauve Hautot, David Mora, Boris Terral, Julie-Anne Roth, Clarisse Lhoni-Botte, Bérangère McNeese, Niseema Theillaud, Noémie Zeitoun, Arthur Verret. La tinenta Marion Darosa investiga l'assassinat d'un jove galerista que en el passat havia estat condemnat pel tràfic de pintures falses. Formarà equip amb el capità Le Mezec, que torna a la regió després d'haver estat destinat molts anys a París. Precisament el capità Le Mezec va encapçalar la investigació de la mort, en principi accidental, de la mare de la Marion quan ella era petita. El pare de la Marion no ha superat mai la mort de la seva dona, i la tornada de Le Mezec reobrirà antigues ferides.</desc>
-    <credits>
-      <director>Floriane Crépin</director>
-      <writer>Natascha Cucheval</writer>
-      <writer>Iris Ducorps</writer>
-      <actor>Aurélien Wiik</actor>
-      <actor>Fauve Hautot</actor>
-      <actor>David Mora</actor>
-      <actor>Boris Terral</actor>
-      <actor>Julie-Anne Roth</actor>
-      <actor>Clarisse Lhoni-Botte</actor>
-      <actor>Bérangère McNeese</actor>
-      <actor>Niseema Theillaud</actor>
-      <actor>Noémie Zeitoun</actor>
-      <actor>Arthur Verret. La tinenta Marion Darosa investiga l'assassinat d'un jove galerista que en el passat havia estat condemnat pel tràfic de pintures falses. Formarà equip amb el capità Le Mezec</actor>
-      <actor>que torna a la regió després d'haver estat destinat molts anys a París. Precisament el capità Le Mezec va encapçalar la investigació de la mort</actor>
-      <actor>en principi accidental</actor>
-      <actor>de la mare de la Marion quan ella era petita. El pare de la Marion no ha superat mai la mort de la seva dona</actor>
-      <actor>la tornada de Le Mezec reobrirà antigues ferides.</actor>
-    </credits>
-    <length units="seconds">5383</length>
-    <episode-num system="onscreen">1</episode-num>
-    <category lang="ca">FICCIÓ</category>
-    <category lang="ca">PEL·LÍCULA / TELEFILM</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <subtitles type="teletext"/>
-    <previously-shown/>
-    <icon src="https://img.3cat.cat/multimedia/jpg/5/4/1751352870245.jpg"/>
-  </programme>
-  <programme start="20260914022434 +0200" stop="20260914035755 +0200" channel="c33">
+  <programme start="20260914022435 +0200" stop="20260914035756 +0200" channel="c33">
     <title lang="ca">Pel·lícula</title>
     <sub-title lang="ca">Pel·lícula - Assassinats a Amiens</sub-title>
     <desc lang="ca">ASSASSINATS A AMIENS 'Meurtres à Amiens'Direcció: Vincent TrisoliniGuió: Natascha Cucheval, Cécile Lorne. Idea: Cécile LorneProducció: Quad Télévision, France TV, AT-Production, RTBF (Télévision Belge), Pictanovo, Région Hauts-de-France, CNC, TV5 Monde, Radio Télévision Suisse (RTS)Any: 2022Durada: 94País: França Música: Baptiste CharvetFotografia: François LanguilleIntèrprets: Grégoire Bonnet, Joyce Bibring, Anne Loiret, Celia Rosich, Aladin Reibel, Janis Abrikh, Nicolas Grandhomme, Xavier Robic, Anthony Goffi, Julien Desjardins, Pascal Casanova, Marion Zaboïtzeff, Édouard Court, Mohamed Makhtoumi, Raphaèle Bouchard, Coralie Emilion-Languille, Milan Cerisier, Cynthia Saint-Fleur, Christine Defurne.Al bell mig dels jardins flotants d'Amiens, apareix el cos de la Charlotte Jelenski. El capità Louis Monet i la seva nova companya, la Léa Barnier, se submergeixen en el cas. Al principi, segueixen la pista dels horticultors: atès que darrere del projecte del parc d'atraccions Jules Verne s'amagava un extens complex turístic que hauria provocat la supressió de moltes parcel·les de cultiu. L'horticultor Paul Chevrier sembla el culpable perfecte. Però al capità Monet no el convenç aquest home que es deixa acusar tan fàcilment… Qui va voler atemptar contra la vida de la noia? La resposta potser es troba en l'obra de Jules Verne, que la Léa coneix fins al més mínim detall.</desc>
@@ -203,6 +167,20 @@
     <subtitles type="teletext"/>
     <previously-shown/>
     <icon src="https://img.3cat.cat/multimedia/jpg/2/6/1750229966162.jpg"/>
+  </programme>
+  <programme start="20260914035756 +0200" stop="20260914042248 +0200" channel="c33">
+    <title lang="ca">La pell dels murs</title>
+    <sub-title lang="ca">La pell dels murs - Lilly Brick-Ariadna Relea</sub-title>
+    <desc lang="ca">La protagonista d'aquest episodi de La Pell dels Murs és la muralista Lily Brik, pseudònim artístic de la lleidatana Mireia Serra. El documental, dirigit per Ariadna Relea, relata la història de com la pintura ha ajudat a una dona amb la personalitat trencada a reconstruir el seu jo, a empoderar-se i a convertir-se en una artista que, avui, és contractada arreu del món per fer-hi els seus murals.El resultat és un episodi delicat i molt sincer sobre una pintora que, després de gairebé 400 murals, reflexiona sobre quin és el camí que ha de prendre la seva trajectòria professional en el futur: 'Tinc una certa frustració i estic en un moment en que m'he arribat a plantejar deixar de pintar. Per això, no tinc ganes de limitar-me. Vull fer el que vulgui i estic provant coses: noves tècniques, noves textures, murals amb volum… el que em roti'. Durant el capítol, veiem la Lily duent a terme diverses obres: en espais més íntims, envoltada dels seus amics; una obra molt especial a La Manreana, una granja escola de Les Garrigues on, entre altres serveis, ofereixen teràpies mitjançant la interacció amb els cavalls, i una obra més experimental a la façana de l'Escola d'Art i Superior de Disseny Ondara, a Tàrrega.L'execució dels murals ha comptat amb la col·laboració de Montana Colors.La sèrie sobre art urbà La Pell dels Murs és una producció de TV3 en col·laboració amb Un Capricho de Producciones.</desc>
+    <length units="seconds">1492</length>
+    <episode-num system="onscreen">5</episode-num>
+    <category lang="ca">ENTRETENIMENT</category>
+    <category lang="ca">ALTRES</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <subtitles type="teletext"/>
+    <previously-shown/>
   </programme>
   <channel id="oca1">
     <display-name>OCA1</display-name>
