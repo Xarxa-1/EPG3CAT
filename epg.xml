@@ -3,52 +3,54 @@
   <channel id="tvi">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20260914233300 +0200" stop="20260915002209 +0200" channel="tvi">
-    <title lang="ca">Documental</title>
-    <sub-title lang="ca">Documental - Mama</sub-title>
-    <desc lang="ca">Superar el càncer una vegada és un repte immens; ser-ne diagnosticat per segona vegada i seguir endavant, un acte de gran valentia. Però, què passa quan el càncer es converteix en una part constant de la nostra vida? La Gemma pateix una de les formes més agressives de càncer, amb metàstasis al cervell. Mentre segueix un tractament experimental, aprèn a conviure amb la malaltia i ens demostra que la vida no es mesura només en temps, sinó en els moments que compartim. Mare, filla, germana, parella… cada paper que interpreta té una importància immensa. La seva lluita no és només persobreviure, sinó per viure plenament.</desc>
-    <length units="seconds">2949</length>
-    <episode-num system="onscreen">1</episode-num>
-    <category lang="ca">DIVULGACIÓ</category>
-    <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
+  <programme start="20260915021022 +0200" stop="20260915040000 +0200" channel="tvi">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <sub-title lang="ca">Notícies 3CatInfo</sub-title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="seconds">6578</length>
+    <episode-num system="onscreen">11173</episode-num>
+    <category lang="ca">ACTUALITAT</category>
+    <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <previously-shown/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
-  <programme start="20260915002209 +0200" stop="20260915052329 +0200" channel="tvi">
-    <title lang="ca">Mésnit</title>
-    <sub-title lang="ca">Mésnit</sub-title>
-    <desc lang="ca">El 'Mésnit' arriba a la desena temporada, amb Marina Romero al capdavant de l'espai i amb la voluntat de continuar sent un centre de debat d'idees i d'anàlisi de l'activitat política.</desc>
-    <length units="seconds">18080</length>
-    <episode-num system="onscreen">2158</episode-num>
-    <category lang="ca">ACTUALITAT</category>
-    <category lang="ca">DEBAT</category>
+  <programme start="20260915040000 +0200" stop="20260915050000 +0200" channel="tvi">
+    <title lang="ca">Ritmes a l'estudi</title>
+    <sub-title lang="ca">Ritmes a l'estudi - DAVID PASTOR &amp; SMOTHTIME</sub-title>
+    <desc lang="ca">El trompetista valencià és, sens dubte, un dels solistes més potents i creatius de l'escena a casa nostra. Una de les seves virtuts és la versatilitat. Tant en el jazz, el funk, el pop, com en el latin, Pastor flueix amb el seu llenguatge còmodament. Vicenç Macián al saxo, Albert Palau al piano i als teclats, Jordi Franco al baix, Pere Foved a la bateria i el mateix David Pastor a la trompeta.</desc>
+    <length units="seconds">3600</length>
+    <episode-num system="onscreen">1</episode-num>
+    <category lang="ca">MUSICALS</category>
+    <category lang="ca">ALTRES</category>
     <rating>
-      <value>TOTS ELS PÚBLICS</value>
+      <value>PÚBLIC ADULT</value>
     </rating>
     <previously-shown/>
   </programme>
   <channel id="324">
     <display-name>324</display-name>
   </channel>
-  <programme start="20260915000000 +0200" stop="20260915003000 +0200" channel="324">
+  <programme start="20260915010000 +0200" stop="20260915060000 +0200" channel="324">
     <title lang="ca">Notícies 3CatInfo</title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">1800</length>
-    <episode-num system="onscreen">11172</episode-num>
+    <length units="seconds">18000</length>
+    <episode-num system="onscreen">11173</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
+    <previously-shown/>
     <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
-  <programme start="20260915003000 +0200" stop="20260915010000 +0200" channel="324">
+  <programme start="20260915060000 +0200" stop="20260915080000 +0200" channel="324">
     <title lang="ca">Notícies 3CatInfo</title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">1800</length>
-    <episode-num system="onscreen">11173</episode-num>
+    <length units="seconds">7200</length>
+    <episode-num system="onscreen">11174</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
@@ -59,42 +61,44 @@
   <channel id="esport3">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20260914230000 +0200" stop="20260915003104 +0200" channel="esport3">
-    <title lang="ca">Onze</title>
-    <sub-title lang="ca">Onze</sub-title>
-    <desc lang="ca">Lluís Carrasco, Xavi Torres, Aina Cerdà i Carles Fité analitzen les paraules de Lamine Yamal on creu que es mereix la pilota d'or. En Marc Mayola destaca alguns aspectes del partit del Barça al camp del Llevant i en Joan Fàbregas repassa les polèmiques de la jornada.</desc>
-    <length units="seconds">5464</length>
-    <episode-num system="onscreen">1248</episode-num>
-    <category lang="ca">ESPORTS</category>
-    <category lang="ca">MAGAZINE</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <subtitles type="teletext"/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/1/1/1688543515711.jpg"/>
-  </programme>
-  <programme start="20260915003104 +0200" stop="20260915005211 +0200" channel="esport3">
+  <programme start="20260915022031 +0200" stop="20260915023812 +0200" channel="esport3">
     <title lang="ca">3CatInfo Esports</title>
     <sub-title lang="ca">3CatInfo Esports</sub-title>
     <desc lang="ca">Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.</desc>
-    <length units="seconds">1267</length>
+    <length units="seconds">1061</length>
     <episode-num system="onscreen">5509</episode-num>
     <category lang="ca">ESPORTS</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
+    <previously-shown/>
     <icon src="https://img.ccma.cat/multimedia/jpg/9/7/1758888682179.jpg"/>
+  </programme>
+  <programme start="20260915023812 +0200" stop="20260915040639 +0200" channel="esport3">
+    <title lang="ca">Tot Costa</title>
+    <sub-title lang="ca">Tot Costa</sub-title>
+    <desc lang="ca">Entrevistem el nou 9 del Barça, Gabriel Jesus, per valorar el seu fitxatge pel Barça. Què li va dir Neymar quan va saber que fitxava pel Barça? En parlem amb Dani Senabre, Anaïs Martí i Marcos López. Amb Ramon Salmurri i Laia Tudel escoltem Lamine Yamal i la seva candidatura a la Pilota d'Or, i amb Damià Aguilar analitzem el gran moment de Marc Márquez. </desc>
+    <length units="seconds">5307</length>
+    <episode-num system="onscreen">1005</episode-num>
+    <category lang="ca">ESPORTS</category>
+    <category lang="ca">INFORMATIU DIÀRI</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <subtitles type="teletext"/>
+    <previously-shown/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/0/4/1706209193140.jpg"/>
   </programme>
   <channel id="sx3">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20260914234627 +0200" stop="20260915000727 +0200" channel="sx3">
-    <title lang="ca">Els germans Kratt</title>
-    <sub-title lang="ca">Els germans Kratt - Un gran problema taronja</sub-title>
-    <desc lang="ca">Els germans Kratt són a la selva de Borneo intentant ajudar els orangutans, els únics simis de l'Àsia. Si no fan alguna cosa per salvar-los, en pocs anys ens podrien extingir. I encara més si en Zach hi envia els seus zachbots amb serres mecàniques per tallar la fusta més valuosa de la Terra, uns arbres vitals per a la supervivència dels orangutans.</desc>
-    <length units="seconds">1260</length>
-    <episode-num system="onscreen">28</episode-num>
+  <programme start="20260915022257 +0200" stop="20260915024404 +0200" channel="sx3">
+    <title lang="ca">Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
+    <sub-title lang="ca">Prodigiosa: Les aventures de Ladybug i Gat Noir - Gorizilla</sub-title>
+    <desc lang="ca">La Marinette ha quedat amb les seves amigues per anar a la piscina, però de camí es troba amb l'Adrien, que s'ha escapat de casa per poder anar al cine. Com que l'Adrien s'ha fet molt famós per un anunci de colònia, els costa molt esquivar la gentada que els persegueix, i a més a més, el guardaespatlles de l'Adrien resulta akumatitzat i es converteix en un goril·la monstruós.</desc>
+    <length units="seconds">1267</length>
+    <episode-num system="onscreen">36</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
@@ -103,12 +107,12 @@
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20260915000727 +0200" stop="20260915002827 +0200" channel="sx3">
-    <title lang="ca">Els germans Kratt</title>
-    <sub-title lang="ca">Els germans Kratt - El pelut marí</sub-title>
-    <desc lang="ca">L'Aviva ha reforçat el submarí de l'Equip Kratt i, a més, ara funciona amb energia solar, igual que el fitoplàncton. L'únic que han de vigilar és que no se'ls acabi la bateria mentre exploren les profunditats d'un oceà ple de calamars gegants i d'abominables crancs de les neus! Aquesta vegada en Martin i en Chris ho tindran complicat per fugir del cranc ieti!</desc>
-    <length units="seconds">1260</length>
-    <episode-num system="onscreen">29</episode-num>
+  <programme start="20260915024404 +0200" stop="20260915030442 +0200" channel="sx3">
+    <title lang="ca">Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
+    <sub-title lang="ca">Prodigiosa: Les aventures de Ladybug i Gat Noir - Robostus</sub-title>
+    <desc lang="ca">El Max porta a l'institut un robot que ha creat. És un ésser tan especial, que pràcticament té sentiments humans. I l'Esfinx ho aprofita per girar-lo a favor seu. Com sempre, Ladybug i el Gat Noir hauran de fer servir tots els seus poders per salvar un cop més la ciutat de París, i el Max podrà recuperar per fi el seu estimat amic.</desc>
+    <length units="seconds">1238</length>
+    <episode-num system="onscreen">37</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
@@ -120,31 +124,33 @@
   <channel id="c33">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20260914235025 +0200" stop="20260915003744 +0200" channel="c33">
-    <title lang="ca">Aeroport</title>
-    <sub-title lang="ca">Aeroport - L'avió</sub-title>
-    <desc lang="ca">Una de cada quatre persones té por de volar, tot i això, l'avió és un transport molt segur. Fins i tot quan ha d'aterrar amb un sol motor a causa d'un incendi. No és estrany que els SPOTTERS recorrin els aeroports de tot el món per fotografiar avions estel·lars, com l'Airbus A380.</desc>
-    <length units="seconds">2839</length>
-    <episode-num system="onscreen">15</episode-num>
+  <programme start="20260915021414 +0200" stop="20260915030419 +0200" channel="c33">
+    <title lang="ca">Sota terra</title>
+    <sub-title lang="ca">Sota terra - Arnau Mir de Tost: el primer croat</sub-title>
+    <desc lang="ca">Arnau Mir de Tost va conquerir aquest castell als musulmans en dos ocasions i des d'aquí va iniciar la primer croada.Trobarem les estances àrabs del castell? És Mir de Tost qui hi ha al seu sepulcre?</desc>
+    <length units="seconds">3005</length>
+    <episode-num system="onscreen">1</episode-num>
     <category lang="ca">DIVULGACIÓ</category>
-    <category lang="ca">Docu-Entreteniment</category>
+    <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20260915003744 +0200" stop="20260915005032 +0200" channel="c33">
-    <title lang="ca">Programa sindical CC.OO.</title>
-    <sub-title lang="ca">Programa sindical CC.OO.</sub-title>
-    <length units="seconds">768</length>
-    <episode-num system="onscreen">330</episode-num>
+  <programme start="20260915030419 +0200" stop="20260915035633 +0200" channel="c33">
+    <title lang="ca">Sota terra</title>
+    <sub-title lang="ca">Sota terra - Guerra civil: la vida a les trinxeres</sub-title>
+    <desc lang="ca">En el segon capítol, 'Sota terra' excava en diversos punts on va tenir lloc la batalla de l'Ebre, l'enfrontament més cruent de la Guerra Civil espanyola. L'equip de 'Sota terra' obre diversos fronts a partir d'unes restes humanes trobades fa poc. Excaven per intentar descobrir si són restes de soldats morts. A quin bàndol pertanyien? Per què van morir? A més, una troballa espectacular al camp de batalla, un nom gravat en una paret, porta l'equip a seguir el rastre d'un brigadista internacional i de la seva commovedora història personal. També excaven les restes d'una de les dotzenes de trinxeres que encara avui s'endevinen entre la malesa. L'objectiu és reconstruir-la i passar-hi una nit com feien els soldats que van haver de lluitar i patir en aquella terrible batalla.</desc>
+    <length units="seconds">3134</length>
+    <episode-num system="onscreen">2</episode-num>
     <category lang="ca">DIVULGACIÓ</category>
-    <category lang="ca">MAGAZINE ESPECIALITZAT</category>
+    <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
+    <previously-shown/>
   </programme>
   <channel id="oca1">
     <display-name>OCA1</display-name>
