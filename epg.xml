@@ -3,127 +3,12 @@
   <channel id="tvi">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20260915201503 +0200" stop="20260915210000 +0200" channel="tvi">
-    <title lang="ca">Està passant</title>
-    <sub-title lang="ca">Està passant</sub-title>
-    <desc lang="ca">El Queco i la Núria ens expliquen la climatització a les escoles. L'Andrés Fajngold es converteix en manicurista i l'Alba Segarra ens dona la seva opinió en les últimes notícies d'actualitat</desc>
-    <length units="seconds">2697</length>
-    <episode-num system="onscreen">1810</episode-num>
-    <category lang="ca">ENTRETENIMENT</category>
-    <category lang="ca">GAGS. HUMOR</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <icon src="https://img.ccma.cat/multimedia/png/3/8/1705511272683.png"/>
-  </programme>
-  <programme start="20260915210000 +0200" stop="20260915220544 +0200" channel="tvi">
-    <title lang="ca">Telenotícies vespre</title>
-    <sub-title lang="ca">Telenotícies vespre</sub-title>
-    <length units="seconds">3944</length>
-    <episode-num system="onscreen">7328</episode-num>
-    <category lang="ca">ACTUALITAT</category>
-    <category lang="ca">INFORMATIU DIÀRI</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <icon src="https://img.ccma.cat/multimedia/jpg/7/2/1758026176427.jpg"/>
-  </programme>
-  <channel id="324">
-    <display-name>324</display-name>
-  </channel>
-  <programme start="20260915200000 +0200" stop="20260915210000 +0200" channel="324">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">3600</length>
-    <episode-num system="onscreen">11180</episode-num>
-    <category lang="ca">ACTUALITAT</category>
-    <category lang="ca">INFORMATIU DIÀRI</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
-  </programme>
-  <programme start="20260915210000 +0200" stop="20260915220500 +0200" channel="324">
-    <title lang="ca">Telenotícies vespre</title>
-    <length units="seconds">3900</length>
-    <episode-num system="onscreen">7328</episode-num>
-    <category lang="ca">ACTUALITAT</category>
-    <category lang="ca">INFORMATIU DIÀRI</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <icon src="https://img.ccma.cat/multimedia/jpg/7/2/1758026176427.jpg"/>
-  </programme>
-  <channel id="esport3">
-    <display-name>ESPORT3</display-name>
-  </channel>
-  <programme start="20260915185454 +0200" stop="20260915210003 +0200" channel="esport3">
-    <title lang="ca">Esport Club</title>
-    <sub-title lang="ca">Esport Club - Minut a minut / Rayo-Espanyol</sub-title>
-    <desc lang="ca">Seguim el partit de la sisena jornada de Lliga. Una nova victòria a domicili permetria als blanc-i-blaus mantenir-se a la zona alta de la classificació.</desc>
-    <length units="seconds">7509</length>
-    <episode-num system="onscreen">3240</episode-num>
-    <category lang="ca">ESPORTS</category>
-    <category lang="ca">INFORMATIU DIÀRI</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <icon src="https://img.3cat.cat/multimedia/jpg/1/4/1789379644441.jpg"/>
-  </programme>
-  <programme start="20260915210003 +0200" stop="20260915214100 +0200" channel="esport3">
-    <title lang="ca">Gol a gol</title>
-    <sub-title lang="ca">Gol a gol - Post Rayo-Espanyol / J6</sub-title>
-    <desc lang="ca">'Gol a gol' us ofereix els resums dels partits de futbol de Primera i Segona Divisió. Presentat per Jordi Grau a Esport3, cada dissabte i cada diumenge podeu veure les millors imatges de la jornada de Lliga amb l'anàlisi dels experts, amb especial atenció als equips catalans, sobretot el Barça, el Girona i l'Espanyol.</desc>
-    <length units="seconds">2457</length>
-    <episode-num system="onscreen">1779</episode-num>
-    <category lang="ca">ESPORTS</category>
-    <category lang="ca">MAGAZINE</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <subtitles type="teletext"/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/2/1/1698144123212.jpg"/>
-  </programme>
-  <channel id="sx3">
-    <display-name>SX3</display-name>
-  </channel>
-  <programme start="20260915203535 +0200" stop="20260915205946 +0200" channel="sx3">
-    <title lang="ca">Henry Danger</title>
-    <sub-title lang="ca">Henry Danger - El perill d'una cita doble</sub-title>
-    <desc lang="ca">En Henry i en Jasper competeixen per conquistar la mateixa noia mentre la Piper aprofita l'ocasió per intentar aconseguir la seva primera cita.</desc>
-    <length units="seconds">1451</length>
-    <episode-num system="onscreen">59</episode-num>
-    <category lang="ca">FICCIÓ</category>
-    <category lang="ca">SÈRIE DRAMÀTICA</category>
-    <rating>
-      <value>INFANTIL</value>
-    </rating>
-    <subtitles type="teletext"/>
-    <previously-shown/>
-  </programme>
-  <programme start="20260915205946 +0200" stop="20260915212203 +0200" channel="sx3">
-    <title lang="ca">Bola de drac Z</title>
-    <sub-title lang="ca">Bola de drac Z - En Trunks: un guerrer que va venir de l'infern</sub-title>
-    <desc lang="ca">Entre els records d'en Trunks d'un futur apocalíptic i els d'en Cèl·lula del camí cap a la perfecció, continua l'increïble combat entre els dos éssers més poderosos que ha conegut mai l'univers. Mentrestant, en Son Goku i en Son Gohan es continuen entrenant, cada cop amb més duresa, a la Sala de l'Esperit del Temps.</desc>
-    <length units="seconds">1337</length>
-    <episode-num system="onscreen">164</episode-num>
-    <category lang="ca">FICCIÓ</category>
-    <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
-    <rating>
-      <value>JUVENIL</value>
-    </rating>
-    <subtitles type="teletext"/>
-    <previously-shown/>
-  </programme>
-  <channel id="c33">
-    <display-name>C33</display-name>
-  </channel>
-  <programme start="20260915200732 +0200" stop="20260915205934 +0200" channel="c33">
-    <title lang="ca">A tocar de l'aigua</title>
-    <sub-title lang="ca">A tocar de l'aigua - El Segre II; Ribera Salada, Rialb i Llobregós</sub-title>
-    <desc lang="ca">A la segona etapa del recorregut pel Segre, ens endinsarem en el territori del Segre Mitjà des del primer pantà, el d'Oliana, i arribarem fins a Alòs de Balaguer. La ruta que farem per camps de regadiu, infraestructures hidràuliques, camins de ribera, camps de secà, patrimoni cultural i arquitectònic de pobles i despoblats serà una interessant visita pel mosaic que configuren aquestes comarques.</desc>
-    <length units="seconds">3122</length>
-    <episode-num system="onscreen">5</episode-num>
+  <programme start="20260915231322 +0200" stop="20260916000541 +0200" channel="tvi">
+    <title lang="ca">Nits Sense ficció</title>
+    <sub-title lang="ca">Nits Sense ficció - Latitud 80º</sub-title>
+    <desc lang="ca">'Latitud 80°' (2017), una producció de GOROKA en coproducció amb Televisió de Catalunya i amb la col·laboració de l'ICEC.La història de les grans expedicions acostuma a començar sempre de la mateixa manera: amb la idea peregrina d'algú que ?la majoria de les vegades sense els recursos necessaris? es fixa una meta desmesurada, i només llavors comença a imaginar les diferents maneres d'assolir-la.Forma part del comportament humà voler saber què hi ha més enllà, l'obsessió de travessar la línia de l'horitzó per trobar respostes.El 2014 l'Albert Bargués parteix des de Barcelona a bord de l'Sterna cap a l'oceà Glacial Àrtic. Una expedició que es proposa arribar a la latitud 80°, emulant els viatges migratoris del xatrac àrtic, un ocell marí que fa la migració més llarga del regne animal: va des de les zones boreals fins a les aigües de l'Antàrtida, i després torna. Sempre per les latituds on mai es pon el sol.En aquest viatge ?des de Barcelona, passant per Tromso, els fiords de Finnmark, el cap Nord, l'Illa de l'Os i Svalbard? els tripulants de l'Sterna creuaran la natura més feréstega, viuran un viatge més enllà del passat, un viatge fora del temps que els endinsarà en l'entorn més inhòspit i dur dels confins de la Terra. Però no només cal trampejar les forces de la natura, de vegades el destí ens fa males passades i els obstacles, les dificultats i el cansament ens poden vèncer.Direcció: Guille CascanteGuió i narració: Javier ArgüelloProducció executiva: Montse PortabellaImatge: Guille Cascante / Xavi Lozano / Santi Baró / Bernat SampolProductor executiu TVC: Jordi AmbròsProductor delegat TVC: Manel RayaFotògrafa: Anna Huix Muntatge: Francisco Forbes / Carlos Baró / Inés Boffi / Joan SolsonaDirectora de producció: Gemma FeliusMúsica: Foehn RecordsGrafisme: Ramon Ponsatí / Pep Carbonell</desc>
+    <length units="seconds">3139</length>
+    <episode-num system="onscreen">1</episode-num>
     <category lang="ca">DIVULGACIÓ</category>
     <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
     <rating>
@@ -132,10 +17,143 @@
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20260915205934 +0200" stop="20260915210135 +0200" channel="c33">
-    <title lang="ca">SENSE FI CANAL 33</title>
+  <programme start="20260916000541 +0200" stop="20260916000931 +0200" channel="tvi">
+    <title lang="ca">ETS MÚSICA</title>
     <desc lang="ca">Sense Descripció</desc>
-    <length units="seconds">121</length>
+    <length units="seconds">230</length>
+    <subtitles type="teletext"/>
+  </programme>
+  <channel id="324">
+    <display-name>324</display-name>
+  </channel>
+  <programme start="20260915220500 +0200" stop="20260916000000 +0200" channel="324">
+    <title lang="ca">Mésnit</title>
+    <desc lang="ca">El 'Mésnit' arriba a la desena temporada, amb Marina Romero al capdavant de l'espai i amb la voluntat de continuar sent un centre de debat d'idees i d'anàlisi de l'activitat política.</desc>
+    <length units="seconds">6900</length>
+    <episode-num system="onscreen">2159</episode-num>
+    <category lang="ca">ACTUALITAT</category>
+    <category lang="ca">DEBAT</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <subtitles type="teletext"/>
+  </programme>
+  <programme start="20260916000000 +0200" stop="20260916003000 +0200" channel="324">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="seconds">1800</length>
+    <episode-num system="onscreen">11181</episode-num>
+    <category lang="ca">ACTUALITAT</category>
+    <category lang="ca">INFORMATIU DIÀRI</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
+  </programme>
+  <channel id="esport3">
+    <display-name>ESPORT3</display-name>
+  </channel>
+  <programme start="20260915230000 +0200" stop="20260916003118 +0200" channel="esport3">
+    <title lang="ca">Onze</title>
+    <sub-title lang="ca">Onze</sub-title>
+    <desc lang="ca">Fem tertúlia amb Jordi Costa, Gemma Mallorca, Víctor Lozano i Joan Poquí. Repassem la prèvia del Barça-Racing. Veiem els gols de l'Elx-Madrid i el Rayo-Espanyol. El Predicador Òscar Pérez-Dolz posa els tertulians a lloc, ve Fran Domènech i la seva Onzeclopèdia i acabem amb l'1x1 d'Òscar Nin.</desc>
+    <length units="seconds">5478</length>
+    <episode-num system="onscreen">1249</episode-num>
+    <category lang="ca">ESPORTS</category>
+    <category lang="ca">MAGAZINE</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <subtitles type="teletext"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/1/1/1688543515711.jpg"/>
+  </programme>
+  <programme start="20260916003118 +0200" stop="20260916005150 +0200" channel="esport3">
+    <title lang="ca">3CatInfo Esports</title>
+    <sub-title lang="ca">3CatInfo Esports</sub-title>
+    <desc lang="ca">Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.</desc>
+    <length units="seconds">1232</length>
+    <episode-num system="onscreen">5510</episode-num>
+    <category lang="ca">ESPORTS</category>
+    <category lang="ca">INFORMATIU DIÀRI</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <icon src="https://img.ccma.cat/multimedia/jpg/9/7/1758888682179.jpg"/>
+  </programme>
+  <channel id="sx3">
+    <display-name>SX3</display-name>
+  </channel>
+  <programme start="20260915232509 +0200" stop="20260915234608 +0200" channel="sx3">
+    <title lang="ca">Els germans Kratt</title>
+    <sub-title lang="ca">Els germans Kratt - Bandits emmascarats</sub-title>
+    <desc lang="ca">Mentre en Martin i en Chris estudien els llops per aconseguir-ne una bona disfressa per al ball d'aquesta nit, en Jimmy ha tingut una experiència molt estranya i ha quedat convençut que per la nau Tortuga hi volta un fantasma o un monstre de 8 ulls. Pot ser que hi tinguin alguna cosa a veure els óssos rentadors?! Avui la festa serà animada!</desc>
+    <length units="seconds">1259</length>
+    <episode-num system="onscreen">32</episode-num>
+    <category lang="ca">FICCIÓ</category>
+    <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
+    <rating>
+      <value>INFANTIL</value>
+    </rating>
+    <subtitles type="teletext"/>
+    <previously-shown/>
+  </programme>
+  <programme start="20260915234608 +0200" stop="20260916000708 +0200" channel="sx3">
+    <title lang="ca">Els germans Kratt</title>
+    <sub-title lang="ca">Els germans Kratt - L'efecte dragó</sub-title>
+    <desc lang="ca">Mentre en Martin i en Chris estudien el secret del dragó per caminar damunt d'una superfície tan fina com el vidre, en Zach ha aprofitat per robar-los el miniaturitzador i els ha tancat a tots dins d'un terrari. L'única manera que tenen de sortir-ne és fent servir l'efecte dragó, que fins i tot utilitzen les càrregues elèctriques per aferrar-se!</desc>
+    <length units="seconds">1260</length>
+    <episode-num system="onscreen">33</episode-num>
+    <category lang="ca">FICCIÓ</category>
+    <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
+    <rating>
+      <value>INFANTIL</value>
+    </rating>
+    <subtitles type="teletext"/>
+    <previously-shown/>
+  </programme>
+  <channel id="c33">
+    <display-name>C33</display-name>
+  </channel>
+  <programme start="20260915225446 +0200" stop="20260916010047 +0200" channel="c33">
+    <title lang="ca">Pel·lícula</title>
+    <sub-title lang="ca">Pel·lícula - Batman begins</sub-title>
+    <desc lang="ca">BATMAN BEGINS (Batman begins)Quan tenia 8 anys, Bruce Wayne va caure en una cova plena de ratpenats i des d'aleshores li van fer por. Una nit va demanar als seus pares de marxar d'un espectacle on sortien personatges disfressats de ratpenat. Un cop al carrer, un assassí va matar els pares i Bruce va quedar traumatitzat per la culpa. Uns anys més tard, Bruce, turmentat pel desig de venjança, marxa de la seva ciutat, Gotham, i viatja per tot el món buscant maneres de lluitar contra la injustícia. Finalment troba un home misteriós que l'instrueix en el domini de tot un seguit de disciplines físiques i mentals que el convertiran en un ésser poderós i invencible: Batman.Idioma versió original: anglèsProducció: Warner Bros. Pictures, Syncopy, De Comics i Patalex Productions, 2004 (Estats Units)Direcció: Christopher NolanDurada: 134 minutsGuió: Christopher Nolan i David S. Goyer, basat en els personatges de còmic creats per Bob KaneFotografia: Wally Pfister (color)Música: James Newton Howard i Hans ZimmerIntèrprets: Christian Bale (Bruce Wayne / Batman), Michael Caine (Alfred), Liam Neeson (Henri Ducard), Katie Holmes (Rachel Dwes), Gary Oldman (Jim Gordon), Cilliam Murphy (doctor Crane)</desc>
+    <credits>
+      <director>Christopher NolanDurada: 134 minuts</director>
+      <writer>Christopher Nolan</writer>
+      <writer>David S. Goyer</writer>
+      <writer>basat en els personatges de còmic creats per Bob KaneFotografia: Wally</writer>
+      <actor>Christian Bale (Bruce Wayne / Batman)</actor>
+      <actor>Michael Caine (Alfred)</actor>
+      <actor>Liam Neeson (Henri Ducard)</actor>
+      <actor>Katie Holmes (Rachel Dwes)</actor>
+      <actor>Gary Oldman (Jim Gordon)</actor>
+      <actor>Cilliam Murphy (doctor Crane)</actor>
+    </credits>
+    <length units="seconds">7561</length>
+    <episode-num system="onscreen">1</episode-num>
+    <category lang="ca">FICCIÓ</category>
+    <category lang="ca">PEL·LÍCULA / TELEFILM</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <subtitles type="teletext"/>
+    <previously-shown/>
+    <icon src="https://img.3cat.cat/multimedia/jpg/8/3/1786952691638.jpg"/>
+  </programme>
+  <programme start="20260916010047 +0200" stop="20260916012128 +0200" channel="c33">
+    <title lang="ca">Nens de la ruta de la seda</title>
+    <sub-title lang="ca">Nens de la ruta de la seda - El rei mico</sub-title>
+    <desc lang="ca">En Yang és un nen xinès que ha d'interpretar el Rei dels Micos, el protagonista d'una obra de la famosa Òpera de Pequín. És un somni fet realitat, ja que aquest personatge és el seu heroi. Però és un paper molt complicat i que requereix una gran preparació física. En Yang no té cap amic íntim i tots els alumnes de la seva classe li diuen que l'òpera no els agrada gens. Ell decideix convidar tres alumnes a l'estrena, que queden molt sorpresos i el feliciten per la seva actuació.</desc>
+    <length units="seconds">1241</length>
+    <episode-num system="onscreen">8</episode-num>
+    <category lang="ca">DIVULGACIÓ</category>
+    <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <subtitles type="teletext"/>
+    <previously-shown/>
   </programme>
   <channel id="oca1">
     <display-name>OCA1</display-name>
