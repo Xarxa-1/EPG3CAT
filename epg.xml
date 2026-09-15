@@ -3,51 +3,9 @@
   <channel id="tvi">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20260915021022 +0200" stop="20260915040000 +0200" channel="tvi">
+  <programme start="20260915060000 +0200" stop="20260915080000 +0200" channel="tvi">
     <title lang="ca">Notícies 3CatInfo</title>
     <sub-title lang="ca">Notícies 3CatInfo</sub-title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">6578</length>
-    <episode-num system="onscreen">11173</episode-num>
-    <category lang="ca">ACTUALITAT</category>
-    <category lang="ca">INFORMATIU DIÀRI</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <previously-shown/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
-  </programme>
-  <programme start="20260915040000 +0200" stop="20260915050000 +0200" channel="tvi">
-    <title lang="ca">Ritmes a l'estudi</title>
-    <sub-title lang="ca">Ritmes a l'estudi - DAVID PASTOR &amp; SMOTHTIME</sub-title>
-    <desc lang="ca">El trompetista valencià és, sens dubte, un dels solistes més potents i creatius de l'escena a casa nostra. Una de les seves virtuts és la versatilitat. Tant en el jazz, el funk, el pop, com en el latin, Pastor flueix amb el seu llenguatge còmodament. Vicenç Macián al saxo, Albert Palau al piano i als teclats, Jordi Franco al baix, Pere Foved a la bateria i el mateix David Pastor a la trompeta.</desc>
-    <length units="seconds">3600</length>
-    <episode-num system="onscreen">1</episode-num>
-    <category lang="ca">MUSICALS</category>
-    <category lang="ca">ALTRES</category>
-    <rating>
-      <value>PÚBLIC ADULT</value>
-    </rating>
-    <previously-shown/>
-  </programme>
-  <channel id="324">
-    <display-name>324</display-name>
-  </channel>
-  <programme start="20260915010000 +0200" stop="20260915060000 +0200" channel="324">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">18000</length>
-    <episode-num system="onscreen">11173</episode-num>
-    <category lang="ca">ACTUALITAT</category>
-    <category lang="ca">INFORMATIU DIÀRI</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <previously-shown/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
-  </programme>
-  <programme start="20260915060000 +0200" stop="20260915080000 +0200" channel="324">
-    <title lang="ca">Notícies 3CatInfo</title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <length units="seconds">7200</length>
     <episode-num system="onscreen">11174</episode-num>
@@ -58,47 +16,88 @@
     </rating>
     <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
-  <channel id="esport3">
-    <display-name>ESPORT3</display-name>
-  </channel>
-  <programme start="20260915022031 +0200" stop="20260915023812 +0200" channel="esport3">
-    <title lang="ca">3CatInfo Esports</title>
-    <sub-title lang="ca">3CatInfo Esports</sub-title>
-    <desc lang="ca">Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.</desc>
-    <length units="seconds">1061</length>
-    <episode-num system="onscreen">5509</episode-num>
-    <category lang="ca">ESPORTS</category>
+  <programme start="20260915080000 +0200" stop="20260915103000 +0200" channel="tvi">
+    <title lang="ca">Matins</title>
+    <sub-title lang="ca">Matins</sub-title>
+    <desc lang="ca">'Matins' és un dels puntals informatius de TV3. El programa matinal dona les claus del dia que comença, explica les notícies que han passat aportant-ne el context per entendre-les i analitza amb veus acreditades l'actualitat més propera i la d'arreu del món. 'Matins' comença a les 8 del matí, de dilluns a divendres, i està presentat per Ariadna Oltra.</desc>
+    <length units="seconds">9000</length>
+    <episode-num system="onscreen">4671</episode-num>
+    <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <previously-shown/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/9/7/1758888682179.jpg"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/2/0/1758040151402.jpg"/>
   </programme>
-  <programme start="20260915023812 +0200" stop="20260915040639 +0200" channel="esport3">
-    <title lang="ca">Tot Costa</title>
-    <sub-title lang="ca">Tot Costa</sub-title>
-    <desc lang="ca">Entrevistem el nou 9 del Barça, Gabriel Jesus, per valorar el seu fitxatge pel Barça. Què li va dir Neymar quan va saber que fitxava pel Barça? En parlem amb Dani Senabre, Anaïs Martí i Marcos López. Amb Ramon Salmurri i Laia Tudel escoltem Lamine Yamal i la seva candidatura a la Pilota d'Or, i amb Damià Aguilar analitzem el gran moment de Marc Márquez. </desc>
-    <length units="seconds">5307</length>
-    <episode-num system="onscreen">1005</episode-num>
-    <category lang="ca">ESPORTS</category>
+  <channel id="324">
+    <display-name>324</display-name>
+  </channel>
+  <programme start="20260915060000 +0200" stop="20260915080000 +0200" channel="324">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="seconds">7200</length>
+    <episode-num system="onscreen">11174</episode-num>
+    <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
+  </programme>
+  <programme start="20260915080000 +0200" stop="20260915103000 +0200" channel="324">
+    <title lang="ca">Matins</title>
+    <desc lang="ca">'Matins' és un dels puntals informatius de TV3. El programa matinal dona les claus del dia que comença, explica les notícies que han passat aportant-ne el context per entendre-les i analitza amb veus acreditades l'actualitat més propera i la d'arreu del món. 'Matins' comença a les 8 del matí, de dilluns a divendres, i està presentat per Ariadna Oltra.</desc>
+    <length units="seconds">9000</length>
+    <episode-num system="onscreen">4671</episode-num>
+    <category lang="ca">ACTUALITAT</category>
+    <category lang="ca">INFORMATIU DIÀRI</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <icon src="https://img.ccma.cat/multimedia/jpg/2/0/1758040151402.jpg"/>
+  </programme>
+  <channel id="esport3">
+    <display-name>ESPORT3</display-name>
+  </channel>
+  <programme start="20260915065555 +0200" stop="20260915082639 +0200" channel="esport3">
+    <title lang="ca">Onze</title>
+    <sub-title lang="ca">Onze</sub-title>
+    <desc lang="ca">Lluís Carrasco, Xavi Torres, Aina Cerdà i Carles Fité analitzen les paraules de Lamine Yamal on creu que es mereix la pilota d'or. En Marc Mayola destaca alguns aspectes del partit del Barça al camp del Llevant i en Joan Fàbregas repassa les polèmiques de la jornada.</desc>
+    <length units="seconds">5444</length>
+    <episode-num system="onscreen">1248</episode-num>
+    <category lang="ca">ESPORTS</category>
+    <category lang="ca">MAGAZINE</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <subtitles type="teletext"/>
     <previously-shown/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/0/4/1706209193140.jpg"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/1/1/1688543515711.jpg"/>
+  </programme>
+  <programme start="20260915082639 +0200" stop="20260915091225 +0200" channel="esport3">
+    <title lang="ca">Aire Lliure</title>
+    <sub-title lang="ca">Aire Lliure - Pallars</sub-title>
+    <desc lang="ca">Judit Mascó i l'exjugadora de bàsquet Cindy Lima practicaran un emocionant descens de ràfting per les aigües de la Noguera Pallaresa. En aquest capítol dedicat als Pallars també farem barranquisme i esquí, dos esports molt característics de la comarca. Un altre de les convidades serà l'actriu Clara Segura que donarà classes d'interpretació a Judit Mascó.</desc>
+    <length units="seconds">2746</length>
+    <episode-num system="onscreen">25</episode-num>
+    <category lang="ca">ESPORTS</category>
+    <category lang="ca">REPORTATGES</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <subtitles type="teletext"/>
+    <previously-shown/>
   </programme>
   <channel id="sx3">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20260915022257 +0200" stop="20260915024404 +0200" channel="sx3">
-    <title lang="ca">Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
-    <sub-title lang="ca">Prodigiosa: Les aventures de Ladybug i Gat Noir - Gorizilla</sub-title>
-    <desc lang="ca">La Marinette ha quedat amb les seves amigues per anar a la piscina, però de camí es troba amb l'Adrien, que s'ha escapat de casa per poder anar al cine. Com que l'Adrien s'ha fet molt famós per un anunci de colònia, els costa molt esquivar la gentada que els persegueix, i a més a més, el guardaespatlles de l'Adrien resulta akumatitzat i es converteix en un goril·la monstruós.</desc>
-    <length units="seconds">1267</length>
-    <episode-num system="onscreen">36</episode-num>
+  <programme start="20260915070955 +0200" stop="20260915072028 +0200" channel="sx3">
+    <title lang="ca">La Patrulla Peluda</title>
+    <sub-title lang="ca">La Patrulla Peluda - La Patrulla salva la collita de blat de moro</sub-title>
+    <desc lang="ca">La Chickaletta es perd en un laberint d'un camp de blat de moro i la Patrulla Peluda l'ha d'anar a rescatar urgentment!</desc>
+    <length units="seconds">633</length>
+    <episode-num system="onscreen">65</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
@@ -107,12 +106,12 @@
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20260915024404 +0200" stop="20260915030442 +0200" channel="sx3">
-    <title lang="ca">Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
-    <sub-title lang="ca">Prodigiosa: Les aventures de Ladybug i Gat Noir - Robostus</sub-title>
-    <desc lang="ca">El Max porta a l'institut un robot que ha creat. És un ésser tan especial, que pràcticament té sentiments humans. I l'Esfinx ho aprofita per girar-lo a favor seu. Com sempre, Ladybug i el Gat Noir hauran de fer servir tots els seus poders per salvar un cop més la ciutat de París, i el Max podrà recuperar per fi el seu estimat amic.</desc>
-    <length units="seconds">1238</length>
-    <episode-num system="onscreen">37</episode-num>
+  <programme start="20260915072028 +0200" stop="20260915073101 +0200" channel="sx3">
+    <title lang="ca">La Patrulla Peluda</title>
+    <sub-title lang="ca">La Patrulla Peluda - La Patrulla deixa en Marshall sol a casa</sub-title>
+    <desc lang="ca">Mentre els altres cadells van a fer pràctiques de paracaigudisme, en Marshall ha de trobar ell sol uns gatets que s'han perdut. Però té l'ajuda de les motxilles dels altres!</desc>
+    <length units="seconds">633</length>
+    <episode-num system="onscreen">66</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
@@ -124,28 +123,28 @@
   <channel id="c33">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20260915021414 +0200" stop="20260915030419 +0200" channel="c33">
-    <title lang="ca">Sota terra</title>
-    <sub-title lang="ca">Sota terra - Arnau Mir de Tost: el primer croat</sub-title>
-    <desc lang="ca">Arnau Mir de Tost va conquerir aquest castell als musulmans en dos ocasions i des d'aquí va iniciar la primer croada.Trobarem les estances àrabs del castell? És Mir de Tost qui hi ha al seu sepulcre?</desc>
-    <length units="seconds">3005</length>
-    <episode-num system="onscreen">1</episode-num>
-    <category lang="ca">DIVULGACIÓ</category>
-    <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
+  <programme start="20260915063256 +0200" stop="20260915072158 +0200" channel="c33">
+    <title lang="ca">El Foraster</title>
+    <sub-title lang="ca">El Foraster - Pacs del Penedès</sub-title>
+    <desc lang="ca">A Pacs del Penedès, un poble situat al cor de la comarca de l'Alt Penedès, en Quim viurà en primera persona l'inici de la verema del 2018. Això el portarà a trepitjar vinya, molta vinya... i raïm. Veurem com és la collita a mà i a màquina, de dia i de nit. Entre vinyes, hi trobarà en Jose, un temporer de Còrdova convençut que el Penedès és Hollywood. Coneixerem en Vicenç, un pagès a qui li agrada fer de tot, i la seva cap, la Marta, una enòloga que acabarà fent pencar de valent fins i tot en Quim. I, quan en Quim torni al poble per descansar de la verema, es trobarà les dones més descarades de Pacs: les Quimetes. Tot plegat en un poble de poc més de 900 habitants a tocar de Vilafranca del Penedès i rodejat pels quatre costats de vinyes i cellers. 48 hores amb gent molt especial que acabarà amb un final made in Hollywood. </desc>
+    <length units="seconds">2942</length>
+    <episode-num system="onscreen">75</episode-num>
+    <category lang="ca">ENTRETENIMENT</category>
+    <category lang="ca">VARIETATS</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20260915030419 +0200" stop="20260915035633 +0200" channel="c33">
-    <title lang="ca">Sota terra</title>
-    <sub-title lang="ca">Sota terra - Guerra civil: la vida a les trinxeres</sub-title>
-    <desc lang="ca">En el segon capítol, 'Sota terra' excava en diversos punts on va tenir lloc la batalla de l'Ebre, l'enfrontament més cruent de la Guerra Civil espanyola. L'equip de 'Sota terra' obre diversos fronts a partir d'unes restes humanes trobades fa poc. Excaven per intentar descobrir si són restes de soldats morts. A quin bàndol pertanyien? Per què van morir? A més, una troballa espectacular al camp de batalla, un nom gravat en una paret, porta l'equip a seguir el rastre d'un brigadista internacional i de la seva commovedora història personal. També excaven les restes d'una de les dotzenes de trinxeres que encara avui s'endevinen entre la malesa. L'objectiu és reconstruir-la i passar-hi una nit com feien els soldats que van haver de lluitar i patir en aquella terrible batalla.</desc>
-    <length units="seconds">3134</length>
+  <programme start="20260915072158 +0200" stop="20260915081426 +0200" channel="c33">
+    <title lang="ca">Experiència Catalana</title>
+    <sub-title lang="ca">Experiència Catalana - Allan</sub-title>
+    <desc lang="ca">Amb l'Allan Edward Hinton viatgem pel Pallars Jussà i la Noguera. Aquest experimentat viatger descobreix, amb la Ivana Miño, l'especial gastronomia de la zona i algun dels paisatges més espectaculars de Catalunya.</desc>
+    <length units="seconds">3148</length>
     <episode-num system="onscreen">2</episode-num>
-    <category lang="ca">DIVULGACIÓ</category>
-    <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
+    <category lang="ca">ENTRETENIMENT</category>
+    <category lang="ca">ALTRES</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
