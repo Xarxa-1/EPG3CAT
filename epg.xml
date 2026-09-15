@@ -3,38 +3,43 @@
   <channel id="tvi">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20260915103032 +0200" stop="20260915135500 +0200" channel="tvi">
-    <title lang="ca">Tot es mou</title>
-    <sub-title lang="ca">Tot es mou</sub-title>
-    <desc lang="ca">El programa presentat per Helena Garcia Melero s'emet de dilluns a divendres, de 10.30 a 13.55. Un magazín d'actualitat que busca informar, analitzar i debatre sobre temes que marquen l'actualitat social, econòmica i cultural del dia, amb una àmplia presència en directe dels reporters i reporteres, repartits per tot Catalunya. A més, el 'Tot es mou' compta amb seccions diàries de gastronomia (amb els principals cuiners i cuineres del país), successos, economia, mobilitat, temes mèdics i de tecnologia, entre d'altres.</desc>
-    <length units="seconds">12268</length>
-    <episode-num system="onscreen">1808</episode-num>
-    <category lang="ca">ACTUALITAT</category>
-    <category lang="ca">MAGAZINE</category>
+  <programme start="20260915163956 +0200" stop="20260915171740 +0200" channel="tvi">
+    <title lang="ca">La Riera</title>
+    <sub-title lang="ca">La Riera</sub-title>
+    <desc lang="ca">L'Ernest demana comptes a en Claudi per l'amenaça que ha rebut la Sònia. Un altre disbarat d'en Joan fa, ara sí, que el seu pare reaccioni. La Maribel, alertada per la Sònia, comença a desconfiar d'en Mauri i vol aclarir què és el que el vincula amb l'Àngel. I en Claudi pressiona l'Ernest. O aconsegueix que la mare parli amb el pare o està moralment obligat a rebutjar l'oferta de l'Ignasi.</desc>
+    <length units="seconds">2264</length>
+    <episode-num system="onscreen">130</episode-num>
+    <category lang="ca">FICCIÓ</category>
+    <category lang="ca">TELENOVEL·LA</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
+    <subtitles type="teletext"/>
+    <previously-shown/>
   </programme>
-  <programme start="20260915135500 +0200" stop="20260915143000 +0200" channel="tvi">
-    <title lang="ca">Telenotícies comarques</title>
-    <sub-title lang="ca">Telenotícies comarques</sub-title>
-    <length units="seconds">2100</length>
-    <episode-num system="onscreen">7034</episode-num>
-    <category lang="ca">ACTUALITAT</category>
-    <category lang="ca">INFORMATIU DIÀRI</category>
+  <programme start="20260915171740 +0200" stop="20260915172437 +0200" channel="tvi">
+    <title lang="ca">CUINES CATALUNYA</title>
+    <sub-title lang="ca">CUINES CATALUNYA - Xips vegetals</sub-title>
+    <desc lang="ca">Les xips són un ingredient imprescindible si volem fer vermut. Avui expliquem una manera molt ràpida de fer xips de diferents colors.</desc>
+    <length units="seconds">417</length>
+    <episode-num system="onscreen">1794</episode-num>
+    <category lang="ca">DIVULGACIÓ</category>
+    <category lang="ca">CUINA</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <icon src="https://img.ccma.cat/multimedia/jpg/5/2/1758026313525.jpg"/>
+    <subtitles type="teletext"/>
+    <previously-shown/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/2/5/1653464509252.jpg"/>
   </programme>
   <channel id="324">
     <display-name>324</display-name>
   </channel>
-  <programme start="20260915103000 +0200" stop="20260915123000 +0200" channel="324">
+  <programme start="20260915160000 +0200" stop="20260915170000 +0200" channel="324">
     <title lang="ca">Notícies 3CatInfo</title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">7200</length>
-    <episode-num system="onscreen">11175</episode-num>
+    <length units="seconds">3600</length>
+    <episode-num system="onscreen">11177</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
@@ -43,75 +48,75 @@
     <subtitles type="teletext"/>
     <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
-  <programme start="20260915123000 +0200" stop="20260915133000 +0200" channel="324">
-    <title lang="ca">Roda de premsa posterior al Consell Executiu</title>
-    <length units="seconds">3600</length>
-    <episode-num system="onscreen">257</episode-num>
+  <programme start="20260915170000 +0200" stop="20260915183000 +0200" channel="324">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="seconds">5400</length>
+    <episode-num system="onscreen">11178</episode-num>
     <category lang="ca">ACTUALITAT</category>
-    <category lang="ca">ESPECIALS INFORMATIUS</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <subtitles type="teletext"/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/3/4/1723457240743.jpg"/>
-  </programme>
-  <channel id="esport3">
-    <display-name>ESPORT3</display-name>
-  </channel>
-  <programme start="20260915112634 +0200" stop="20260915125700 +0200" channel="esport3">
-    <title lang="ca">Onze</title>
-    <sub-title lang="ca">Onze</sub-title>
-    <desc lang="ca">Lluís Carrasco, Xavi Torres, Aina Cerdà i Carles Fité analitzen les paraules de Lamine Yamal on creu que es mereix la pilota d'or. En Marc Mayola destaca alguns aspectes del partit del Barça al camp del Llevant i en Joan Fàbregas repassa les polèmiques de la jornada.</desc>
-    <length units="seconds">5426</length>
-    <episode-num system="onscreen">1248</episode-num>
-    <category lang="ca">ESPORTS</category>
-    <category lang="ca">MAGAZINE</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <subtitles type="teletext"/>
-    <previously-shown/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/1/1/1688543515711.jpg"/>
-  </programme>
-  <programme start="20260915125700 +0200" stop="20260915140042 +0200" channel="esport3">
-    <title lang="ca">Esport Club</title>
-    <sub-title lang="ca">Esport Club</sub-title>
-    <desc lang="ca">En Jordi Sanuy i Víctor Patsi us expliquen l'última hora esportiva i l'analitzen amb el seu equip de col·laboradors. El programa és molt actiu a les xarxes socials. L''Esport Club' té presència a Twitter, a Facebook i a Instagram. L'espai dirigeix moltes accions de participació amb l'audiència a través de les xarxes socials.</desc>
-    <length units="seconds">3822</length>
-    <episode-num system="onscreen">3239</episode-num>
-    <category lang="ca">ESPORTS</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/7/3/1698145091337.jpg"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
+  </programme>
+  <channel id="esport3">
+    <display-name>ESPORT3</display-name>
+  </channel>
+  <programme start="20260915161322 +0200" stop="20260915170129 +0200" channel="esport3">
+    <title lang="ca">Vida</title>
+    <sub-title lang="ca">Vida - Els habitants de les profunditats</sub-title>
+    <desc lang="ca">Mitjançant tècniques de parada de càmera desenvolupades especialment per fer seguiments en un entorn submarí, 'Life' emprèn un viatge als racons més inexplorats de l'oceà. És aquí on s'estan realitzant nous descobriments, on viuen les criatures més estranyes, des d'aranyes de mar gegants que s'apleguen a milers tot buscant la seguretat de la bandada quan muden la carcassa que les protegeix, fins al calamar gegant 'transvestit'. Ens afegirem a un grup de 250 calamars gegants del corrent de Humboldt en una expedició de caça, contemplarem el sacrifici desesperat d'un pop gegant del Pacífic mare que mor de gana per atendre la seva cria i ens submergirem sota el gel permanent de l'Antàrtida per observar una estora bellugadissa d'estrelles de mar mentre devoren el cos d'una cria de foca.</desc>
+    <length units="seconds">2887</length>
+    <episode-num system="onscreen">8</episode-num>
+    <category lang="ca">DIVULGACIÓ</category>
+    <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <subtitles type="teletext"/>
+    <previously-shown/>
+  </programme>
+  <programme start="20260915170129 +0200" stop="20260915172644 +0200" channel="esport3">
+    <title lang="ca">Catalunya salvatge</title>
+    <sub-title lang="ca">Catalunya salvatge - El vèrtex nord</sub-title>
+    <desc lang="ca">'Catalunya salvatge' és una sèrie documental de 13 capítols que donarà a conèixer als espectadors els ecosistemes més representatius del nostre país. Des dels cims del Pirineu fins a les llacunes del delta de l'Ebre, 'Catalunya salvatge' farà un repàs de la flora i la fauna dels paratges més emblemàtics de Catalunya.Els seguidors de la sèrie tindran, doncs, una finestra privilegiada a la biodiversitat del Parc Nacional d'Aigüestortes, la muntanya de Montserrat, la zona volcànica de la Garrotxa, els aiguamolls de l'Empordà o el món submarí de les illes Medes.El primer ecosistema explorat en profunditat serà el d'alta muntanya, on la supervivència no és gens fàcil.(tardor 2010)</desc>
+    <length units="seconds">1515</length>
+    <episode-num system="onscreen">9</episode-num>
+    <category lang="ca">DIVULGACIÓ</category>
+    <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <subtitles type="teletext"/>
+    <previously-shown/>
   </programme>
   <channel id="sx3">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20260915120317 +0200" stop="20260915121401 +0200" channel="sx3">
-    <title lang="ca">Ghost Rockers</title>
-    <sub-title lang="ca">Ghost Rockers</sub-title>
-    <desc lang="ca">En Seppe li pren a la Mila la lletra de l'última cançó dels Free Birds perquè sap que serveix per interpretar el mapa. Amb en Jonas a la zona de perill, els Ghost Rockers arriben a la conclusió que hi ha d'haver una clau per entendre el plànol de la DAM, potser a la mateixa cançó. L'Alex, d'altra banda, segueix el senyor Ballinc i és testimoni d'un comportament molt estrany.</desc>
-    <length units="seconds">644</length>
-    <episode-num system="onscreen">180</episode-num>
+  <programme start="20260915165114 +0200" stop="20260915170155 +0200" channel="sx3">
+    <title lang="ca">El Mic i els seus amics</title>
+    <sub-title lang="ca">El Mic i els seus amics - Endevinalla de la papallona</sub-title>
+    <desc lang="ca">'El Mic i els seus amics' presenta les històries del Mic agrupades en capítols. Les aventures dels titelles s'acompanyen de petits vídeos protagonitzats per nens i nenes, i separadors amb imatges de natura. És una sèrie pensada perquè els súpers més petits gaudeixin encara més! El Mic i els seus amics es troben cada dia per cantar cançons, explicar contes, dir endevinalles... Viuen en un lloc on hi ha turons, arbres, flors i papallones.Tot està a punt per jugar. Només cal fer... MAC, MEC, MIC, TOCA'T EL MELIC!</desc>
+    <length units="seconds">641</length>
+    <episode-num system="onscreen">532</episode-num>
     <category lang="ca">FICCIÓ</category>
-    <category lang="ca">SÈRIE DRAMÀTICA</category>
+    <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
       <value>INFANTIL</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20260915121401 +0200" stop="20260915122600 +0200" channel="sx3">
-    <title lang="ca">Ghost Rockers</title>
-    <sub-title lang="ca">Ghost Rockers</sub-title>
-    <desc lang="ca">El senyor Ballinc amenaça l'Alex d'anar a parlar amb la senyora Van der Donck, però el noi contraataca. En Jonas triomfa amb la cançó que l'Eva l'ha ajudat a escriure. Gràcies a en Jimmy, que descobreix la clau per interpretar el plànol de la DAM, els Ghost Rockers estan a punt de fer un gran pas endavant. El que no saben, però, és que els Valke també l'han descobert.</desc>
-    <length units="seconds">719</length>
-    <episode-num system="onscreen">181</episode-num>
+  <programme start="20260915170155 +0200" stop="20260915171149 +0200" channel="sx3">
+    <title lang="ca">El Mic i els seus amics</title>
+    <sub-title lang="ca">El Mic i els seus amics - La sabata fa de cotxe</sub-title>
+    <desc lang="ca">'El Mic i els seus amics' presenta les històries del Mic agrupades en capítols. Les aventures dels titelles s'acompanyen de petits vídeos protagonitzats per nens i nenes, i separadors amb imatges de natura. És una sèrie pensada perquè els súpers més petits gaudeixin encara més! El Mic i els seus amics es troben cada dia per cantar cançons, explicar contes, dir endevinalles... Viuen en un lloc on hi ha turons, arbres, flors i papallones.Tot està a punt per jugar. Només cal fer... MAC, MEC, MIC, TOCA'T EL MELIC!</desc>
+    <length units="seconds">594</length>
+    <episode-num system="onscreen">407</episode-num>
     <category lang="ca">FICCIÓ</category>
-    <category lang="ca">SÈRIE DRAMÀTICA</category>
+    <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
       <value>INFANTIL</value>
     </rating>
@@ -121,26 +126,28 @@
   <channel id="c33">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20260915115710 +0200" stop="20260915120540 +0200" channel="c33">
-    <title lang="ca">Cuines</title>
-    <sub-title lang="ca">Cuines - Macarrons ratllats a la 'boscaiola'</sub-title>
-    <length units="seconds">510</length>
-    <episode-num system="onscreen">3322</episode-num>
-    <category lang="ca">DIVULGACIÓ</category>
-    <category lang="ca">MAGAZINE ESPECIALITZAT</category>
+  <programme start="20260915163505 +0200" stop="20260915170942 +0200" channel="c33">
+    <title lang="ca">QuèQui</title>
+    <sub-title lang="ca">QuèQui - Merda d'Humanitat</sub-title>
+    <desc lang="ca">El caganer, fer cagar el tió, estar cagat de por, enviar algú a cagar... els catalans ens encanta l'escatologia. Transplantament de caca, banc de caques, anàlisis forenses a través de la caca, seguiment d'espècies amenaçades estudiant els seus excrements, reconstruccions ambientals a partir dels excrements fòssils dels dinosaures... La ciència de l'escatologia mereix ser treta més enllà del lavabo.</desc>
+    <length units="seconds">2077</length>
+    <episode-num system="onscreen">1</episode-num>
+    <category lang="ca">ENTRETENIMENT</category>
+    <category lang="ca">ALTRES</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20260915120540 +0200" stop="20260915121307 +0200" channel="c33">
-    <title lang="ca">Cuines</title>
-    <sub-title lang="ca">Cuines - Filets de pollastre amb poma i salsa de canyella</sub-title>
-    <length units="seconds">447</length>
-    <episode-num system="onscreen">3323</episode-num>
-    <category lang="ca">DIVULGACIÓ</category>
-    <category lang="ca">MAGAZINE ESPECIALITZAT</category>
+  <programme start="20260915170942 +0200" stop="20260915174502 +0200" channel="c33">
+    <title lang="ca">QuèQui</title>
+    <sub-title lang="ca">QuèQui - Catalunya a la deriva</sub-title>
+    <desc lang="ca">Tots hem estudiat a l'escola la teoria de la tectònica de plaques. Si observem atentament la forma dels continents veurem que encaixen de manera sorprenent. Aquest correspondència va portar al científica Alfred Wegener a pensar que originàriament tots els continents estaven units en un de sol que va batejar amb el nom de pangea. És molt evident que Àfrica i Amèrica del Sud encaixen. Però, on encaixava Catalunya? Recopilarem totes les proves geològiques i paleontològiques disperses sobre el terreny i descobrirem que Catalunya, amb la resta de la Península Ibèrica, estava unida a... Nova Escòcia! Però anirem més enllà i gràcies als models matemàtics esbrinarem on anirà a parar, flotat a la deriva damunt l'astenosfera, d'aquí 250 milions d'anys. </desc>
+    <length units="seconds">2120</length>
+    <episode-num system="onscreen">2</episode-num>
+    <category lang="ca">ENTRETENIMENT</category>
+    <category lang="ca">ALTRES</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
