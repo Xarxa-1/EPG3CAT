@@ -3,46 +3,54 @@
   <channel id="tvi">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20260915231322 +0200" stop="20260916000541 +0200" channel="tvi">
-    <title lang="ca">Nits Sense ficció</title>
-    <sub-title lang="ca">Nits Sense ficció - Latitud 80º</sub-title>
-    <desc lang="ca">'Latitud 80°' (2017), una producció de GOROKA en coproducció amb Televisió de Catalunya i amb la col·laboració de l'ICEC.La història de les grans expedicions acostuma a començar sempre de la mateixa manera: amb la idea peregrina d'algú que ?la majoria de les vegades sense els recursos necessaris? es fixa una meta desmesurada, i només llavors comença a imaginar les diferents maneres d'assolir-la.Forma part del comportament humà voler saber què hi ha més enllà, l'obsessió de travessar la línia de l'horitzó per trobar respostes.El 2014 l'Albert Bargués parteix des de Barcelona a bord de l'Sterna cap a l'oceà Glacial Àrtic. Una expedició que es proposa arribar a la latitud 80°, emulant els viatges migratoris del xatrac àrtic, un ocell marí que fa la migració més llarga del regne animal: va des de les zones boreals fins a les aigües de l'Antàrtida, i després torna. Sempre per les latituds on mai es pon el sol.En aquest viatge ?des de Barcelona, passant per Tromso, els fiords de Finnmark, el cap Nord, l'Illa de l'Os i Svalbard? els tripulants de l'Sterna creuaran la natura més feréstega, viuran un viatge més enllà del passat, un viatge fora del temps que els endinsarà en l'entorn més inhòspit i dur dels confins de la Terra. Però no només cal trampejar les forces de la natura, de vegades el destí ens fa males passades i els obstacles, les dificultats i el cansament ens poden vèncer.Direcció: Guille CascanteGuió i narració: Javier ArgüelloProducció executiva: Montse PortabellaImatge: Guille Cascante / Xavi Lozano / Santi Baró / Bernat SampolProductor executiu TVC: Jordi AmbròsProductor delegat TVC: Manel RayaFotògrafa: Anna Huix Muntatge: Francisco Forbes / Carlos Baró / Inés Boffi / Joan SolsonaDirectora de producció: Gemma FeliusMúsica: Foehn RecordsGrafisme: Ramon Ponsatí / Pep Carbonell</desc>
-    <length units="seconds">3139</length>
-    <episode-num system="onscreen">1</episode-num>
-    <category lang="ca">DIVULGACIÓ</category>
-    <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <subtitles type="teletext"/>
-    <previously-shown/>
-  </programme>
-  <programme start="20260916000541 +0200" stop="20260916000931 +0200" channel="tvi">
-    <title lang="ca">ETS MÚSICA</title>
-    <desc lang="ca">Sense Descripció</desc>
-    <length units="seconds">230</length>
-    <subtitles type="teletext"/>
-  </programme>
-  <channel id="324">
-    <display-name>324</display-name>
-  </channel>
-  <programme start="20260915220500 +0200" stop="20260916000000 +0200" channel="324">
+  <programme start="20260916000933 +0200" stop="20260916015247 +0200" channel="tvi">
     <title lang="ca">Mésnit</title>
+    <sub-title lang="ca">Mésnit</sub-title>
     <desc lang="ca">El 'Mésnit' arriba a la desena temporada, amb Marina Romero al capdavant de l'espai i amb la voluntat de continuar sent un centre de debat d'idees i d'anàlisi de l'activitat política.</desc>
-    <length units="seconds">6900</length>
+    <length units="seconds">6194</length>
     <episode-num system="onscreen">2159</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">DEBAT</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <subtitles type="teletext"/>
+    <previously-shown/>
   </programme>
-  <programme start="20260916000000 +0200" stop="20260916003000 +0200" channel="324">
+  <programme start="20260916015247 +0200" stop="20260916040000 +0200" channel="tvi">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <sub-title lang="ca">Notícies 3CatInfo</sub-title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="seconds">7633</length>
+    <episode-num system="onscreen">11182</episode-num>
+    <category lang="ca">ACTUALITAT</category>
+    <category lang="ca">INFORMATIU DIÀRI</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <previously-shown/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
+  </programme>
+  <channel id="324">
+    <display-name>324</display-name>
+  </channel>
+  <programme start="20260916010000 +0200" stop="20260916060000 +0200" channel="324">
     <title lang="ca">Notícies 3CatInfo</title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">1800</length>
-    <episode-num system="onscreen">11181</episode-num>
+    <length units="seconds">18000</length>
+    <episode-num system="onscreen">11182</episode-num>
+    <category lang="ca">ACTUALITAT</category>
+    <category lang="ca">INFORMATIU DIÀRI</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <previously-shown/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
+  </programme>
+  <programme start="20260916060000 +0200" stop="20260916080000 +0200" channel="324">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="seconds">7200</length>
+    <episode-num system="onscreen">11183</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
@@ -53,11 +61,11 @@
   <channel id="esport3">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20260915230000 +0200" stop="20260916003118 +0200" channel="esport3">
+  <programme start="20260916005229 +0200" stop="20260916022346 +0200" channel="esport3">
     <title lang="ca">Onze</title>
     <sub-title lang="ca">Onze</sub-title>
     <desc lang="ca">Fem tertúlia amb Jordi Costa, Gemma Mallorca, Víctor Lozano i Joan Poquí. Repassem la prèvia del Barça-Racing. Veiem els gols de l'Elx-Madrid i el Rayo-Espanyol. El Predicador Òscar Pérez-Dolz posa els tertulians a lloc, ve Fran Domènech i la seva Onzeclopèdia i acabem amb l'1x1 d'Òscar Nin.</desc>
-    <length units="seconds">5478</length>
+    <length units="seconds">5477</length>
     <episode-num system="onscreen">1249</episode-num>
     <category lang="ca">ESPORTS</category>
     <category lang="ca">MAGAZINE</category>
@@ -65,30 +73,32 @@
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
+    <previously-shown/>
     <icon src="https://img.ccma.cat/multimedia/jpg/1/1/1688543515711.jpg"/>
   </programme>
-  <programme start="20260916003118 +0200" stop="20260916005150 +0200" channel="esport3">
+  <programme start="20260916022346 +0200" stop="20260916024737 +0200" channel="esport3">
     <title lang="ca">3CatInfo Esports</title>
     <sub-title lang="ca">3CatInfo Esports</sub-title>
     <desc lang="ca">Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.</desc>
-    <length units="seconds">1232</length>
+    <length units="seconds">1431</length>
     <episode-num system="onscreen">5510</episode-num>
     <category lang="ca">ESPORTS</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
+    <previously-shown/>
     <icon src="https://img.ccma.cat/multimedia/jpg/9/7/1758888682179.jpg"/>
   </programme>
   <channel id="sx3">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20260915232509 +0200" stop="20260915234608 +0200" channel="sx3">
-    <title lang="ca">Els germans Kratt</title>
-    <sub-title lang="ca">Els germans Kratt - Bandits emmascarats</sub-title>
-    <desc lang="ca">Mentre en Martin i en Chris estudien els llops per aconseguir-ne una bona disfressa per al ball d'aquesta nit, en Jimmy ha tingut una experiència molt estranya i ha quedat convençut que per la nau Tortuga hi volta un fantasma o un monstre de 8 ulls. Pot ser que hi tinguin alguna cosa a veure els óssos rentadors?! Avui la festa serà animada!</desc>
-    <length units="seconds">1259</length>
-    <episode-num system="onscreen">32</episode-num>
+  <programme start="20260916012558 +0200" stop="20260916014554 +0200" channel="sx3">
+    <title lang="ca">Viatges Pokémon</title>
+    <sub-title lang="ca">Viatges Pokémon - Una incursió espurnejant!</sub-title>
+    <desc lang="ca">Cau un tro just en el moment en què el professor Cirerer explica als nostres herois que s'ha detectat la presència d'un Pokémon llegendari a prop del laboratori. El Goh està convençut que allò vol dir només una cosa: és el Zapdos! Tots seguit hi ha una apagada a la zona, que fa anar l'Ash i el Goh a la central elèctrica, on que demostrat que el Goh tenia raó! Els nostres herois, després d'unir les seves forces per poc temps (i sense èxit) amb el Team Rocket, lluiten contra el Pokémon llegendari. El Goh, evidentment, vol capturar-lo, però el Zapdos s'allibera i abans d'anar-se'n comparteix una part de la seva electricitat amb els Pokémon de tipus elèctric que hi ha prop d'allà. Més tard, el professor Cirerer comparteix amb el Goh i l'Ash la seva teoria: el Zapdos ha fet servir la central elèctrica per recarregar la seva pròpia electricitat!</desc>
+    <length units="seconds">1196</length>
+    <episode-num system="onscreen">40</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
@@ -97,12 +107,12 @@
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20260915234608 +0200" stop="20260916000708 +0200" channel="sx3">
-    <title lang="ca">Els germans Kratt</title>
-    <sub-title lang="ca">Els germans Kratt - L'efecte dragó</sub-title>
-    <desc lang="ca">Mentre en Martin i en Chris estudien el secret del dragó per caminar damunt d'una superfície tan fina com el vidre, en Zach ha aprofitat per robar-los el miniaturitzador i els ha tancat a tots dins d'un terrari. L'única manera que tenen de sortir-ne és fent servir l'efecte dragó, que fins i tot utilitzen les càrregues elèctriques per aferrar-se!</desc>
-    <length units="seconds">1260</length>
-    <episode-num system="onscreen">33</episode-num>
+  <programme start="20260916014554 +0200" stop="20260916020457 +0200" channel="sx3">
+    <title lang="ca">Viatges Pokémon</title>
+    <sub-title lang="ca">Viatges Pokémon - Traduïm el Pikachu! / Fins al coll!</sub-title>
+    <desc lang="ca">El Meowth està molt refredat, i mentrestant la Jessie i el James decideixen practicar la seva habilitat per traduir el llenguatge del Pikachu mirant un vídeo seu i interpretant el que diu. Primer ho prova la Jessie, i dona una imatge esnob del Pikachu, i després el James en dona una de més amistosa. Arriben a la conclusió que el Pikachu els estima, però el Meowth no els vol confessar la veritat... A la segona part de l'episodi, l'Ash i el Goh troben un Marshtomp enterrat al fang assecat. Entenen que estava jugant al fang quan es va assecar, i decideixen ajudar-lo acompanyats dels seus amics. Després d'uns quants intents fallits, apareix un Ludicolo, que utilitza la dansa de la pluja per estovar la terra... Però llavors els amics del Marshtomp també queden atrapats.</desc>
+    <length units="seconds">1143</length>
+    <episode-num system="onscreen">41</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
@@ -114,39 +124,26 @@
   <channel id="c33">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20260915225446 +0200" stop="20260916010047 +0200" channel="c33">
-    <title lang="ca">Pel·lícula</title>
-    <sub-title lang="ca">Pel·lícula - Batman begins</sub-title>
-    <desc lang="ca">BATMAN BEGINS (Batman begins)Quan tenia 8 anys, Bruce Wayne va caure en una cova plena de ratpenats i des d'aleshores li van fer por. Una nit va demanar als seus pares de marxar d'un espectacle on sortien personatges disfressats de ratpenat. Un cop al carrer, un assassí va matar els pares i Bruce va quedar traumatitzat per la culpa. Uns anys més tard, Bruce, turmentat pel desig de venjança, marxa de la seva ciutat, Gotham, i viatja per tot el món buscant maneres de lluitar contra la injustícia. Finalment troba un home misteriós que l'instrueix en el domini de tot un seguit de disciplines físiques i mentals que el convertiran en un ésser poderós i invencible: Batman.Idioma versió original: anglèsProducció: Warner Bros. Pictures, Syncopy, De Comics i Patalex Productions, 2004 (Estats Units)Direcció: Christopher NolanDurada: 134 minutsGuió: Christopher Nolan i David S. Goyer, basat en els personatges de còmic creats per Bob KaneFotografia: Wally Pfister (color)Música: James Newton Howard i Hans ZimmerIntèrprets: Christian Bale (Bruce Wayne / Batman), Michael Caine (Alfred), Liam Neeson (Henri Ducard), Katie Holmes (Rachel Dwes), Gary Oldman (Jim Gordon), Cilliam Murphy (doctor Crane)</desc>
-    <credits>
-      <director>Christopher NolanDurada: 134 minuts</director>
-      <writer>Christopher Nolan</writer>
-      <writer>David S. Goyer</writer>
-      <writer>basat en els personatges de còmic creats per Bob KaneFotografia: Wally</writer>
-      <actor>Christian Bale (Bruce Wayne / Batman)</actor>
-      <actor>Michael Caine (Alfred)</actor>
-      <actor>Liam Neeson (Henri Ducard)</actor>
-      <actor>Katie Holmes (Rachel Dwes)</actor>
-      <actor>Gary Oldman (Jim Gordon)</actor>
-      <actor>Cilliam Murphy (doctor Crane)</actor>
-    </credits>
-    <length units="seconds">7561</length>
-    <episode-num system="onscreen">1</episode-num>
-    <category lang="ca">FICCIÓ</category>
-    <category lang="ca">PEL·LÍCULA / TELEFILM</category>
+  <programme start="20260916014338 +0200" stop="20260916015819 +0200" channel="c33">
+    <title lang="ca">Pastors i ramats: un món que se'n va</title>
+    <sub-title lang="ca">Pastors i ramats: un món que se'n va - Familia Domènech</sub-title>
+    <desc lang="ca">'Pastors i ramats, un món que se'n va', és una sèrie de 15 capítols protagonitzada per pastors i pastores que, al llarg del nostre país, treuen a pasturar cada dia el seu ramat. Malgrat fer la mateixa feina, cada pastor és un món, una forma particular de relacionar-se amb el ramat, un mosaic de veus i gestos units per l'estimació pels animals. I també un conjunt de converses amb persones que són allà on volen ser, perseverant tossudament per continuar l'ofici malgrat totes les dificultats... Pastors i ramats... és la lluita silenciosa i plena de dignitat d'un món que se'n va.</desc>
+    <length units="seconds">881</length>
+    <episode-num system="onscreen">4</episode-num>
+    <category lang="ca">DIVULGACIÓ</category>
+    <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
-    <icon src="https://img.3cat.cat/multimedia/jpg/8/3/1786952691638.jpg"/>
   </programme>
-  <programme start="20260916010047 +0200" stop="20260916012128 +0200" channel="c33">
-    <title lang="ca">Nens de la ruta de la seda</title>
-    <sub-title lang="ca">Nens de la ruta de la seda - El rei mico</sub-title>
-    <desc lang="ca">En Yang és un nen xinès que ha d'interpretar el Rei dels Micos, el protagonista d'una obra de la famosa Òpera de Pequín. És un somni fet realitat, ja que aquest personatge és el seu heroi. Però és un paper molt complicat i que requereix una gran preparació física. En Yang no té cap amic íntim i tots els alumnes de la seva classe li diuen que l'òpera no els agrada gens. Ell decideix convidar tres alumnes a l'estrena, que queden molt sorpresos i el feliciten per la seva actuació.</desc>
-    <length units="seconds">1241</length>
-    <episode-num system="onscreen">8</episode-num>
+  <programme start="20260916015819 +0200" stop="20260916025245 +0200" channel="c33">
+    <title lang="ca">Sota terra</title>
+    <sub-title lang="ca">Sota terra - La Boella: esbudellar un mamut</sub-title>
+    <desc lang="ca">Fa un milió d'anys ja hi havia homínids a Europa. A Atapuerca, l'Eudald ha descobert i batejat l'homo antecessor. Però n'hi havia, a Tarragona? Els marges d'una riera amaguen les dades que els han de permetre esbrinar si, efectivament, hi havia presència humana a les comarques tarragonines ara fa un milió d'anys.</desc>
+    <length units="seconds">3266</length>
+    <episode-num system="onscreen">3</episode-num>
     <category lang="ca">DIVULGACIÓ</category>
     <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
     <rating>
