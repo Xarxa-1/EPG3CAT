@@ -3,40 +3,38 @@
   <channel id="tvi">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20260915060000 +0200" stop="20260915080000 +0200" channel="tvi">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">Notícies 3CatInfo</sub-title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">7200</length>
-    <episode-num system="onscreen">11174</episode-num>
+  <programme start="20260915103032 +0200" stop="20260915135500 +0200" channel="tvi">
+    <title lang="ca">Tot es mou</title>
+    <sub-title lang="ca">Tot es mou</sub-title>
+    <desc lang="ca">El programa presentat per Helena Garcia Melero s'emet de dilluns a divendres, de 10.30 a 13.55. Un magazín d'actualitat que busca informar, analitzar i debatre sobre temes que marquen l'actualitat social, econòmica i cultural del dia, amb una àmplia presència en directe dels reporters i reporteres, repartits per tot Catalunya. A més, el 'Tot es mou' compta amb seccions diàries de gastronomia (amb els principals cuiners i cuineres del país), successos, economia, mobilitat, temes mèdics i de tecnologia, entre d'altres.</desc>
+    <length units="seconds">12268</length>
+    <episode-num system="onscreen">1808</episode-num>
     <category lang="ca">ACTUALITAT</category>
-    <category lang="ca">INFORMATIU DIÀRI</category>
+    <category lang="ca">MAGAZINE</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
-  <programme start="20260915080000 +0200" stop="20260915103000 +0200" channel="tvi">
-    <title lang="ca">Matins</title>
-    <sub-title lang="ca">Matins</sub-title>
-    <desc lang="ca">'Matins' és un dels puntals informatius de TV3. El programa matinal dona les claus del dia que comença, explica les notícies que han passat aportant-ne el context per entendre-les i analitza amb veus acreditades l'actualitat més propera i la d'arreu del món. 'Matins' comença a les 8 del matí, de dilluns a divendres, i està presentat per Ariadna Oltra.</desc>
-    <length units="seconds">9000</length>
-    <episode-num system="onscreen">4671</episode-num>
+  <programme start="20260915135500 +0200" stop="20260915143000 +0200" channel="tvi">
+    <title lang="ca">Telenotícies comarques</title>
+    <sub-title lang="ca">Telenotícies comarques</sub-title>
+    <length units="seconds">2100</length>
+    <episode-num system="onscreen">7034</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <icon src="https://img.ccma.cat/multimedia/jpg/2/0/1758040151402.jpg"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/5/2/1758026313525.jpg"/>
   </programme>
   <channel id="324">
     <display-name>324</display-name>
   </channel>
-  <programme start="20260915060000 +0200" stop="20260915080000 +0200" channel="324">
+  <programme start="20260915103000 +0200" stop="20260915123000 +0200" channel="324">
     <title lang="ca">Notícies 3CatInfo</title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <length units="seconds">7200</length>
-    <episode-num system="onscreen">11174</episode-num>
+    <episode-num system="onscreen">11175</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
@@ -45,26 +43,26 @@
     <subtitles type="teletext"/>
     <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
-  <programme start="20260915080000 +0200" stop="20260915103000 +0200" channel="324">
-    <title lang="ca">Matins</title>
-    <desc lang="ca">'Matins' és un dels puntals informatius de TV3. El programa matinal dona les claus del dia que comença, explica les notícies que han passat aportant-ne el context per entendre-les i analitza amb veus acreditades l'actualitat més propera i la d'arreu del món. 'Matins' comença a les 8 del matí, de dilluns a divendres, i està presentat per Ariadna Oltra.</desc>
-    <length units="seconds">9000</length>
-    <episode-num system="onscreen">4671</episode-num>
+  <programme start="20260915123000 +0200" stop="20260915133000 +0200" channel="324">
+    <title lang="ca">Roda de premsa posterior al Consell Executiu</title>
+    <length units="seconds">3600</length>
+    <episode-num system="onscreen">257</episode-num>
     <category lang="ca">ACTUALITAT</category>
-    <category lang="ca">INFORMATIU DIÀRI</category>
+    <category lang="ca">ESPECIALS INFORMATIUS</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <icon src="https://img.ccma.cat/multimedia/jpg/2/0/1758040151402.jpg"/>
+    <subtitles type="teletext"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/3/4/1723457240743.jpg"/>
   </programme>
   <channel id="esport3">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20260915065555 +0200" stop="20260915082639 +0200" channel="esport3">
+  <programme start="20260915112634 +0200" stop="20260915125700 +0200" channel="esport3">
     <title lang="ca">Onze</title>
     <sub-title lang="ca">Onze</sub-title>
     <desc lang="ca">Lluís Carrasco, Xavi Torres, Aina Cerdà i Carles Fité analitzen les paraules de Lamine Yamal on creu que es mereix la pilota d'or. En Marc Mayola destaca alguns aspectes del partit del Barça al camp del Llevant i en Joan Fàbregas repassa les polèmiques de la jornada.</desc>
-    <length units="seconds">5444</length>
+    <length units="seconds">5426</length>
     <episode-num system="onscreen">1248</episode-num>
     <category lang="ca">ESPORTS</category>
     <category lang="ca">MAGAZINE</category>
@@ -75,45 +73,45 @@
     <previously-shown/>
     <icon src="https://img.ccma.cat/multimedia/jpg/1/1/1688543515711.jpg"/>
   </programme>
-  <programme start="20260915082639 +0200" stop="20260915091225 +0200" channel="esport3">
-    <title lang="ca">Aire Lliure</title>
-    <sub-title lang="ca">Aire Lliure - Pallars</sub-title>
-    <desc lang="ca">Judit Mascó i l'exjugadora de bàsquet Cindy Lima practicaran un emocionant descens de ràfting per les aigües de la Noguera Pallaresa. En aquest capítol dedicat als Pallars també farem barranquisme i esquí, dos esports molt característics de la comarca. Un altre de les convidades serà l'actriu Clara Segura que donarà classes d'interpretació a Judit Mascó.</desc>
-    <length units="seconds">2746</length>
-    <episode-num system="onscreen">25</episode-num>
+  <programme start="20260915125700 +0200" stop="20260915140042 +0200" channel="esport3">
+    <title lang="ca">Esport Club</title>
+    <sub-title lang="ca">Esport Club</sub-title>
+    <desc lang="ca">En Jordi Sanuy i Víctor Patsi us expliquen l'última hora esportiva i l'analitzen amb el seu equip de col·laboradors. El programa és molt actiu a les xarxes socials. L''Esport Club' té presència a Twitter, a Facebook i a Instagram. L'espai dirigeix moltes accions de participació amb l'audiència a través de les xarxes socials.</desc>
+    <length units="seconds">3822</length>
+    <episode-num system="onscreen">3239</episode-num>
     <category lang="ca">ESPORTS</category>
-    <category lang="ca">REPORTATGES</category>
+    <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
-    <previously-shown/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/7/3/1698145091337.jpg"/>
   </programme>
   <channel id="sx3">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20260915070955 +0200" stop="20260915072028 +0200" channel="sx3">
-    <title lang="ca">La Patrulla Peluda</title>
-    <sub-title lang="ca">La Patrulla Peluda - La Patrulla salva la collita de blat de moro</sub-title>
-    <desc lang="ca">La Chickaletta es perd en un laberint d'un camp de blat de moro i la Patrulla Peluda l'ha d'anar a rescatar urgentment!</desc>
-    <length units="seconds">633</length>
-    <episode-num system="onscreen">65</episode-num>
+  <programme start="20260915120317 +0200" stop="20260915121401 +0200" channel="sx3">
+    <title lang="ca">Ghost Rockers</title>
+    <sub-title lang="ca">Ghost Rockers</sub-title>
+    <desc lang="ca">En Seppe li pren a la Mila la lletra de l'última cançó dels Free Birds perquè sap que serveix per interpretar el mapa. Amb en Jonas a la zona de perill, els Ghost Rockers arriben a la conclusió que hi ha d'haver una clau per entendre el plànol de la DAM, potser a la mateixa cançó. L'Alex, d'altra banda, segueix el senyor Ballinc i és testimoni d'un comportament molt estrany.</desc>
+    <length units="seconds">644</length>
+    <episode-num system="onscreen">180</episode-num>
     <category lang="ca">FICCIÓ</category>
-    <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
+    <category lang="ca">SÈRIE DRAMÀTICA</category>
     <rating>
       <value>INFANTIL</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20260915072028 +0200" stop="20260915073101 +0200" channel="sx3">
-    <title lang="ca">La Patrulla Peluda</title>
-    <sub-title lang="ca">La Patrulla Peluda - La Patrulla deixa en Marshall sol a casa</sub-title>
-    <desc lang="ca">Mentre els altres cadells van a fer pràctiques de paracaigudisme, en Marshall ha de trobar ell sol uns gatets que s'han perdut. Però té l'ajuda de les motxilles dels altres!</desc>
-    <length units="seconds">633</length>
-    <episode-num system="onscreen">66</episode-num>
+  <programme start="20260915121401 +0200" stop="20260915122600 +0200" channel="sx3">
+    <title lang="ca">Ghost Rockers</title>
+    <sub-title lang="ca">Ghost Rockers</sub-title>
+    <desc lang="ca">El senyor Ballinc amenaça l'Alex d'anar a parlar amb la senyora Van der Donck, però el noi contraataca. En Jonas triomfa amb la cançó que l'Eva l'ha ajudat a escriure. Gràcies a en Jimmy, que descobreix la clau per interpretar el plànol de la DAM, els Ghost Rockers estan a punt de fer un gran pas endavant. El que no saben, però, és que els Valke també l'han descobert.</desc>
+    <length units="seconds">719</length>
+    <episode-num system="onscreen">181</episode-num>
     <category lang="ca">FICCIÓ</category>
-    <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
+    <category lang="ca">SÈRIE DRAMÀTICA</category>
     <rating>
       <value>INFANTIL</value>
     </rating>
@@ -123,28 +121,26 @@
   <channel id="c33">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20260915063256 +0200" stop="20260915072158 +0200" channel="c33">
-    <title lang="ca">El Foraster</title>
-    <sub-title lang="ca">El Foraster - Pacs del Penedès</sub-title>
-    <desc lang="ca">A Pacs del Penedès, un poble situat al cor de la comarca de l'Alt Penedès, en Quim viurà en primera persona l'inici de la verema del 2018. Això el portarà a trepitjar vinya, molta vinya... i raïm. Veurem com és la collita a mà i a màquina, de dia i de nit. Entre vinyes, hi trobarà en Jose, un temporer de Còrdova convençut que el Penedès és Hollywood. Coneixerem en Vicenç, un pagès a qui li agrada fer de tot, i la seva cap, la Marta, una enòloga que acabarà fent pencar de valent fins i tot en Quim. I, quan en Quim torni al poble per descansar de la verema, es trobarà les dones més descarades de Pacs: les Quimetes. Tot plegat en un poble de poc més de 900 habitants a tocar de Vilafranca del Penedès i rodejat pels quatre costats de vinyes i cellers. 48 hores amb gent molt especial que acabarà amb un final made in Hollywood. </desc>
-    <length units="seconds">2942</length>
-    <episode-num system="onscreen">75</episode-num>
-    <category lang="ca">ENTRETENIMENT</category>
-    <category lang="ca">VARIETATS</category>
+  <programme start="20260915115710 +0200" stop="20260915120540 +0200" channel="c33">
+    <title lang="ca">Cuines</title>
+    <sub-title lang="ca">Cuines - Macarrons ratllats a la 'boscaiola'</sub-title>
+    <length units="seconds">510</length>
+    <episode-num system="onscreen">3322</episode-num>
+    <category lang="ca">DIVULGACIÓ</category>
+    <category lang="ca">MAGAZINE ESPECIALITZAT</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20260915072158 +0200" stop="20260915081426 +0200" channel="c33">
-    <title lang="ca">Experiència Catalana</title>
-    <sub-title lang="ca">Experiència Catalana - Allan</sub-title>
-    <desc lang="ca">Amb l'Allan Edward Hinton viatgem pel Pallars Jussà i la Noguera. Aquest experimentat viatger descobreix, amb la Ivana Miño, l'especial gastronomia de la zona i algun dels paisatges més espectaculars de Catalunya.</desc>
-    <length units="seconds">3148</length>
-    <episode-num system="onscreen">2</episode-num>
-    <category lang="ca">ENTRETENIMENT</category>
-    <category lang="ca">ALTRES</category>
+  <programme start="20260915120540 +0200" stop="20260915121307 +0200" channel="c33">
+    <title lang="ca">Cuines</title>
+    <sub-title lang="ca">Cuines - Filets de pollastre amb poma i salsa de canyella</sub-title>
+    <length units="seconds">447</length>
+    <episode-num system="onscreen">3323</episode-num>
+    <category lang="ca">DIVULGACIÓ</category>
+    <category lang="ca">MAGAZINE ESPECIALITZAT</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
