@@ -3,24 +3,11 @@
   <channel id="tvi">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20260916000933 +0200" stop="20260916015247 +0200" channel="tvi">
-    <title lang="ca">Mésnit</title>
-    <sub-title lang="ca">Mésnit</sub-title>
-    <desc lang="ca">El 'Mésnit' arriba a la desena temporada, amb Marina Romero al capdavant de l'espai i amb la voluntat de continuar sent un centre de debat d'idees i d'anàlisi de l'activitat política.</desc>
-    <length units="seconds">6194</length>
-    <episode-num system="onscreen">2159</episode-num>
-    <category lang="ca">ACTUALITAT</category>
-    <category lang="ca">DEBAT</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <previously-shown/>
-  </programme>
-  <programme start="20260916015247 +0200" stop="20260916040000 +0200" channel="tvi">
+  <programme start="20260916015154 +0200" stop="20260916040000 +0200" channel="tvi">
     <title lang="ca">Notícies 3CatInfo</title>
     <sub-title lang="ca">Notícies 3CatInfo</sub-title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">7633</length>
+    <length units="seconds">7686</length>
     <episode-num system="onscreen">11182</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
@@ -29,6 +16,19 @@
     </rating>
     <previously-shown/>
     <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
+  </programme>
+  <programme start="20260916040000 +0200" stop="20260916050001 +0200" channel="tvi">
+    <title lang="ca">Ritmes a l'estudi</title>
+    <sub-title lang="ca">Ritmes a l'estudi - DE DIEGO BROTHERS</sub-title>
+    <desc lang="ca">Des de l'any 1993, aquest quintet, liderat pels germans De Diego, no ha deixat de tocar. El seu repertori es pot situar estilísticament als anys setanta; un període en què el jazz es barreja amb ritmes afrocubans, el 'bogaloo' o el funk. La força i la frescor del seu directe els ha dut a tocar als festivals més representatius de jazz de tot l'estat.</desc>
+    <length units="seconds">3601</length>
+    <episode-num system="onscreen">2</episode-num>
+    <category lang="ca">MUSICALS</category>
+    <category lang="ca">ALTRES</category>
+    <rating>
+      <value>PÚBLIC ADULT</value>
+    </rating>
+    <previously-shown/>
   </programme>
   <channel id="324">
     <display-name>324</display-name>
@@ -61,44 +61,43 @@
   <channel id="esport3">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20260916005229 +0200" stop="20260916022346 +0200" channel="esport3">
-    <title lang="ca">Onze</title>
-    <sub-title lang="ca">Onze</sub-title>
-    <desc lang="ca">Fem tertúlia amb Jordi Costa, Gemma Mallorca, Víctor Lozano i Joan Poquí. Repassem la prèvia del Barça-Racing. Veiem els gols de l'Elx-Madrid i el Rayo-Espanyol. El Predicador Òscar Pérez-Dolz posa els tertulians a lloc, ve Fran Domènech i la seva Onzeclopèdia i acabem amb l'1x1 d'Òscar Nin.</desc>
-    <length units="seconds">5477</length>
-    <episode-num system="onscreen">1249</episode-num>
+  <programme start="20260916024434 +0200" stop="20260916040256 +0200" channel="esport3">
+    <title lang="ca">E3D</title>
+    <sub-title lang="ca">E3D - Skate / Extreme Barcelona / Final femenina</sub-title>
+    <desc lang="ca">Final femenina d'skateboarding a la 18a edició de l'Extrem Barcelona, que es fa al Parc del Fòrum. Amb la narració de Jordi Gil. </desc>
+    <length units="seconds">4702</length>
+    <episode-num system="onscreen">8112</episode-num>
     <category lang="ca">ESPORTS</category>
-    <category lang="ca">MAGAZINE</category>
+    <category lang="ca">RETRANSMISSIONS ESPORTS</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <subtitles type="teletext"/>
     <previously-shown/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/1/1/1688543515711.jpg"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/3/2/1788358923323.jpg"/>
   </programme>
-  <programme start="20260916022346 +0200" stop="20260916024737 +0200" channel="esport3">
-    <title lang="ca">3CatInfo Esports</title>
-    <sub-title lang="ca">3CatInfo Esports</sub-title>
-    <desc lang="ca">Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.</desc>
-    <length units="seconds">1431</length>
-    <episode-num system="onscreen">5510</episode-num>
+  <programme start="20260916040256 +0200" stop="20260916045904 +0200" channel="esport3">
+    <title lang="ca">E3D</title>
+    <sub-title lang="ca">E3D - Scooter Park / Extreme Barcelona / Final masculina</sub-title>
+    <desc lang="ca">Final masculina d'scootering park a la 18a edició de l'Extrem Barcelona, que es fa al Parc del Fòrum. Amb la narració de Jordi Gil. </desc>
+    <length units="seconds">3368</length>
+    <episode-num system="onscreen">8118</episode-num>
     <category lang="ca">ESPORTS</category>
-    <category lang="ca">INFORMATIU DIÀRI</category>
+    <category lang="ca">RETRANSMISSIONS ESPORTS</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <previously-shown/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/9/7/1758888682179.jpg"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/3/2/1788358923323.jpg"/>
   </programme>
   <channel id="sx3">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20260916012558 +0200" stop="20260916014554 +0200" channel="sx3">
-    <title lang="ca">Viatges Pokémon</title>
-    <sub-title lang="ca">Viatges Pokémon - Una incursió espurnejant!</sub-title>
-    <desc lang="ca">Cau un tro just en el moment en què el professor Cirerer explica als nostres herois que s'ha detectat la presència d'un Pokémon llegendari a prop del laboratori. El Goh està convençut que allò vol dir només una cosa: és el Zapdos! Tots seguit hi ha una apagada a la zona, que fa anar l'Ash i el Goh a la central elèctrica, on que demostrat que el Goh tenia raó! Els nostres herois, després d'unir les seves forces per poc temps (i sense èxit) amb el Team Rocket, lluiten contra el Pokémon llegendari. El Goh, evidentment, vol capturar-lo, però el Zapdos s'allibera i abans d'anar-se'n comparteix una part de la seva electricitat amb els Pokémon de tipus elèctric que hi ha prop d'allà. Més tard, el professor Cirerer comparteix amb el Goh i l'Ash la seva teoria: el Zapdos ha fet servir la central elèctrica per recarregar la seva pròpia electricitat!</desc>
-    <length units="seconds">1196</length>
-    <episode-num system="onscreen">40</episode-num>
+  <programme start="20260916032717 +0200" stop="20260916034755 +0200" channel="sx3">
+    <title lang="ca">Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
+    <sub-title lang="ca">Prodigiosa: Les aventures de Ladybug i Gat Noir - Style Queen - El combat de les reines (1a part)</sub-title>
+    <desc lang="ca">L'Adrien ha de participar en una desfilada organitzada pel seu pare, i ha de lluir un barret dissenyat per la Marinette. Però la presència de la mare de la Chloé, una estilista molt coneguda, ho trasbalsarà tot i propiciarà l'aparició d'una nova super malvada, l'Style Queen.</desc>
+    <length units="seconds">1238</length>
+    <episode-num system="onscreen">44</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
@@ -107,12 +106,12 @@
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20260916014554 +0200" stop="20260916020457 +0200" channel="sx3">
-    <title lang="ca">Viatges Pokémon</title>
-    <sub-title lang="ca">Viatges Pokémon - Traduïm el Pikachu! / Fins al coll!</sub-title>
-    <desc lang="ca">El Meowth està molt refredat, i mentrestant la Jessie i el James decideixen practicar la seva habilitat per traduir el llenguatge del Pikachu mirant un vídeo seu i interpretant el que diu. Primer ho prova la Jessie, i dona una imatge esnob del Pikachu, i després el James en dona una de més amistosa. Arriben a la conclusió que el Pikachu els estima, però el Meowth no els vol confessar la veritat... A la segona part de l'episodi, l'Ash i el Goh troben un Marshtomp enterrat al fang assecat. Entenen que estava jugant al fang quan es va assecar, i decideixen ajudar-lo acompanyats dels seus amics. Després d'uns quants intents fallits, apareix un Ludicolo, que utilitza la dansa de la pluja per estovar la terra... Però llavors els amics del Marshtomp també queden atrapats.</desc>
-    <length units="seconds">1143</length>
-    <episode-num system="onscreen">41</episode-num>
+  <programme start="20260916034755 +0200" stop="20260916040902 +0200" channel="sx3">
+    <title lang="ca">Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
+    <sub-title lang="ca">Prodigiosa: Les aventures de Ladybug i Gat Noir - Style Queen - El combat de les reines (2a part)</sub-title>
+    <desc lang="ca">La Chloé, enfadada perquè la seva mare només té ulls pel barret que ha dissenyat la Marinette, decideix fer alguna cosa extraordinària i fa servir el prodigi de l'abella que Ladybug havia perdut. Però en comptes de resoldre problemes, aquesta nova superheroïna no farà res més que crear-ne de nous.</desc>
+    <length units="seconds">1267</length>
+    <episode-num system="onscreen">45</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
@@ -124,11 +123,11 @@
   <channel id="c33">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20260916014338 +0200" stop="20260916015819 +0200" channel="c33">
-    <title lang="ca">Pastors i ramats: un món que se'n va</title>
-    <sub-title lang="ca">Pastors i ramats: un món que se'n va - Familia Domènech</sub-title>
-    <desc lang="ca">'Pastors i ramats, un món que se'n va', és una sèrie de 15 capítols protagonitzada per pastors i pastores que, al llarg del nostre país, treuen a pasturar cada dia el seu ramat. Malgrat fer la mateixa feina, cada pastor és un món, una forma particular de relacionar-se amb el ramat, un mosaic de veus i gestos units per l'estimació pels animals. I també un conjunt de converses amb persones que són allà on volen ser, perseverant tossudament per continuar l'ofici malgrat totes les dificultats... Pastors i ramats... és la lluita silenciosa i plena de dignitat d'un món que se'n va.</desc>
-    <length units="seconds">881</length>
+  <programme start="20260916025246 +0200" stop="20260916034448 +0200" channel="c33">
+    <title lang="ca">Sota terra</title>
+    <sub-title lang="ca">Sota terra - Cabrera de Mar, Ilturo: ciutat o vila romana?</sub-title>
+    <desc lang="ca">Va ser Cabrera de Mar una gran ciutat romana durant el segle II aC? La descoberta fa uns quants anys d'unes termes romanes a Cabrera (les més antigues de la península Ibèrica) era un clar indici, però cal demostrar-ho. Era una ciutat o només era un territori on hi havia diferents vil·les romanes dedicades a l'explotació agrícola? Decidim excavar diferents punts amb dos objectius: si confirmem que Cabrera tenia trama urbana (és a dir, carrers), i si podem confirmar que s'hi encunyava moneda, podrem afirmar amb rotunditat que Cabrera era una ciutat romana. I no una ciutat qualsevol: sinó, juntament amb Empúries i Tarraco, la ciutat a partir de la qual va començar la romanització del territori català, aleshores habitat i dominat per les diferents tribus iberes.</desc>
+    <length units="seconds">3122</length>
     <episode-num system="onscreen">4</episode-num>
     <category lang="ca">DIVULGACIÓ</category>
     <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
@@ -138,11 +137,11 @@
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20260916015819 +0200" stop="20260916025245 +0200" channel="c33">
-    <title lang="ca">Sota terra</title>
-    <sub-title lang="ca">Sota terra - La Boella: esbudellar un mamut</sub-title>
-    <desc lang="ca">Fa un milió d'anys ja hi havia homínids a Europa. A Atapuerca, l'Eudald ha descobert i batejat l'homo antecessor. Però n'hi havia, a Tarragona? Els marges d'una riera amaguen les dades que els han de permetre esbrinar si, efectivament, hi havia presència humana a les comarques tarragonines ara fa un milió d'anys.</desc>
-    <length units="seconds">3266</length>
+  <programme start="20260916034448 +0200" stop="20260916041039 +0200" channel="c33">
+    <title lang="ca">Boscos</title>
+    <sub-title lang="ca">Boscos - Boscos de Pi Roig (Cadí)</sub-title>
+    <desc lang="ca">En Martí Boada s'enfila al Cadí, per descobrir els boscos de pi roig, el segon arbre més abundant a Catalunya. Visitarem el pi roig més emblemàtic del país: el Pi de les Tres Branques. L'Ignasi Amat presentarà un projecte nou que dóna feina al bosc per facilitar la integració social i laboral per a col·lectius desafavorits; amb en Joan Obiols, un antic bosquerol, aprendrem com es talaven els arbres antigament i veurem de prop imatges espectaculars d'una colònia de voltors que, sota la batuta de l'Aleix Millet, s'està reproduint i aportant grans beneficis a la zona.</desc>
+    <length units="seconds">1551</length>
     <episode-num system="onscreen">3</episode-num>
     <category lang="ca">DIVULGACIÓ</category>
     <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
