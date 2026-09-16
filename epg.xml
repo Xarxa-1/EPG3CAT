@@ -3,115 +3,111 @@
   <channel id="tvi">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20260916172946 +0200" stop="20260916191247 +0200" channel="tvi">
-    <title lang="ca">La Selva</title>
-    <sub-title lang="ca">La Selva</sub-title>
-    <desc lang="ca">Xavier Grasset presenta La Selva, el nou magazín d'entreteniment de les tardes de TV3. Un show d'autor on parlarem de tot de forma distesa i lliure, una trobada fixa a la nova cafeteria de la televisió pública catalana, regentada per la Mercè Fonoll (l'actriu i humorista, Anna Bertran). A La Selva sempre hi passen coses, és un món ple d'activitat on diverses espècies hi conviuen de forma lliure.Hi passaran Antoni Bassas, Montse Barderi, Fel Faixedas, Sílvia Bel, la Nina, en Biel Duran, l'Alba Alfageme o la Carlota Gurt, entre molts d'altres. Una trobada plena de coneixement i seguiment de l'actualitat, però també d'entreteniment. Els acompanyaran, per exemple fent recomanacions, Sergi Cutillas, amb la seva música de capçalera, en Godai García que ens apropa a la terra -amb una mirada molt pròpia- o la cuinera i influencer, Sofia Janer.A La Selva farem un repàs al què ha passat durant el dia i a la vida en general d'aquella manera única del Xavier Grasset acompanyat al sofà per la Maria Xinxó, la Núria Martínez o l'Ester Pagès. La resta de l'equip treballarà per explicar-vos el que ha passat dins i fora de La Selva, acostar-vos al territori i oferir-vos entreteniment, però sempre amb contingut. Cada dia hi haurà entrevistes, no hi faltaran els llibres, la cultura o històries humanes de tot tipus. I, a més, comptarem amb la participació del nostre públic. Us convidarem a jugar en un concurs diari, divertit i enginyós. Quan t'endinses a la Selva mai saps què t'hi pots acabar trobant!Cada tarda, et farem companyia a 3cat. Us espera una nova aventura plena de personatges interessants, converses, reflexions, descobriments i uns quants somriures. Sempre amb un ull posat a tot el que passa al nostre voltant. Quedem a La Selva!</desc>
-    <length units="seconds">6181</length>
-    <episode-num system="onscreen">410</episode-num>
-    <category lang="ca">ENTRETENIMENT</category>
-    <category lang="ca">MAGAZINE</category>
+  <programme start="20260916210000 +0200" stop="20260916222029 +0200" channel="tvi">
+    <title lang="ca">Telenotícies vespre</title>
+    <sub-title lang="ca">Telenotícies vespre</sub-title>
+    <length units="seconds">4829</length>
+    <episode-num system="onscreen">7329</episode-num>
+    <category lang="ca">ACTUALITAT</category>
+    <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <icon src="https://img.3cat.cat/multimedia/jpg/6/3/1725871608136.jpg"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/7/2/1758026176427.jpg"/>
   </programme>
-  <programme start="20260916191247 +0200" stop="20260916201500 +0200" channel="tvi">
-    <title lang="ca">Atrapa'm si pots</title>
-    <sub-title lang="ca">Atrapa'm si pots</sub-title>
-    <desc lang="ca">'Atrapa'm si pots' és un 'quiz show' clàssic, de preguntes i respostes, presentat per Llucià Ferrer, en què sis concursants competeixen per arribar a la fase final i guanyar el pot. 'Atrapa'm si pots' és entreteniment pur i on gairebé és més important passar-s'ho bé que els diners. És un concurs en què pesa més la intuïció que no els coneixements acadèmics, més l'estratègia en el joc que no la sort.</desc>
-    <length units="seconds">3733</length>
-    <episode-num system="onscreen">925</episode-num>
-    <category lang="ca">ENTRETENIMENT</category>
-    <category lang="ca">CONCURS</category>
+  <programme start="20260916221152 +0200" stop="20260916233033 +0200" channel="tvi">
+    <title lang="ca">La Riera</title>
+    <sub-title lang="ca">La Riera</sub-title>
+    <desc lang="ca">Secrets i xantatgesAl capítol final de la temporada, veurem com tot el que pressiona els personatges de la sèrie és conseqüència de coses que estan amagades en el seu passat. El secret d'en Mauri ve de lluny. Ara, la Maribel també l'ha descobert. El secret de la Mercè crema força i la mare necessita desactivar els fills, encara que això signifiqui enfrontar-los. Però tot plegat és massa fort i s'aguanta amb pinces. Si alguna cosa falla, avui podrem viure una tragèdia de proporcions desconegudes... Les vides de tots estan a punt de canviar.</desc>
+    <length units="seconds">4721</length>
+    <episode-num system="onscreen">131</episode-num>
+    <category lang="ca">FICCIÓ</category>
+    <category lang="ca">TELENOVEL·LA</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
+    <subtitles type="teletext"/>
+    <previously-shown/>
   </programme>
   <channel id="324">
     <display-name>324</display-name>
   </channel>
-  <programme start="20260916183000 +0200" stop="20260916200000 +0200" channel="324">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">5400</length>
-    <episode-num system="onscreen">11188</episode-num>
+  <programme start="20260916210000 +0200" stop="20260916220500 +0200" channel="324">
+    <title lang="ca">Telenotícies vespre</title>
+    <length units="seconds">3900</length>
+    <episode-num system="onscreen">7329</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <subtitles type="teletext"/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/7/2/1758026176427.jpg"/>
   </programme>
-  <programme start="20260916200000 +0200" stop="20260916210000 +0200" channel="324">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">3600</length>
-    <episode-num system="onscreen">11189</episode-num>
+  <programme start="20260916220500 +0200" stop="20260917000000 +0200" channel="324">
+    <title lang="ca">Mésnit</title>
+    <desc lang="ca">El 'Mésnit' arriba a la desena temporada, amb Marina Romero al capdavant de l'espai i amb la voluntat de continuar sent un centre de debat d'idees i d'anàlisi de l'activitat política.</desc>
+    <length units="seconds">6900</length>
+    <episode-num system="onscreen">2160</episode-num>
     <category lang="ca">ACTUALITAT</category>
-    <category lang="ca">INFORMATIU DIÀRI</category>
+    <category lang="ca">DEBAT</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
   <channel id="esport3">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20260916175858 +0200" stop="20260916190000 +0200" channel="esport3">
-    <title lang="ca">Esport Club</title>
-    <sub-title lang="ca">Esport Club</sub-title>
-    <desc lang="ca">Avui, Barça-Ràcing al Camp Nou. Última hora amb Mireia German i l'anàlisi de l'Àlex Delmàs. L'Espanyol perd contra el Rayo, tot i el sisè gol de Roberto. Entrevistem Miquel Mañé, triple campió mundial de gimnàstica aeròbica. Enric Mas analitza la seva victòria a La Vuelta a l'Esport Club. I a la tertúlia ens acompanyen Màrius Carol, Frederic Porta i Dani Senabre.</desc>
-    <length units="seconds">3662</length>
-    <episode-num system="onscreen">3241</episode-num>
+  <programme start="20260916212627 +0200" stop="20260916233050 +0200" channel="esport3">
+    <title lang="ca">Un dia de partit</title>
+    <sub-title lang="ca">Un dia de partit - Barça-Racing</sub-title>
+    <desc lang="ca">A 'Un dia de partit' arreglem el Barça. O no. A cada partit, sis culers hi diuen la seva. Famosos i anònims. Cadascun a casa seva. Davant del televisor. Tot a base de videotrucades, en format Twitch i en rigorós directe. Ah! I a la mitja part no aturem màquines. Amb els jugadors als vestidors, nosaltres seguim fent bullir l'olla! Només sis culers? Negatiu. Durant el partit van apareixent els Jimmy Jump: els espontanis que demanen saltar a 'Un dia de partit' via WhatsApp.</desc>
+    <length units="seconds">7463</length>
+    <episode-num system="onscreen">250</episode-num>
     <category lang="ca">ESPORTS</category>
-    <category lang="ca">INFORMATIU DIÀRI</category>
+    <category lang="ca">RETRANSMISSIONS ESPORTS</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <icon src="https://img.ccma.cat/multimedia/jpg/2/7/1678885232972.jpg"/>
+  </programme>
+  <programme start="20260916233050 +0200" stop="20260917003710 +0200" channel="esport3">
+    <title lang="ca">I l'Àliga vola: Sergi Mingote, K2</title>
+    <sub-title lang="ca">I l'Àliga vola: Sergi Mingote, K2 - L'Àliga vola</sub-title>
+    <desc lang="ca">'I l'àliga vola' narra l'últim repte de Sergi Mingote, fer cim al K2, la segona muntanya més alta del món i una de les més mortíferes, i fer-ho a l'hivern, que és el que en aquell moment encara ningú havia aconseguit.Però el mateix temps el documental també narra totes les vivències que envolten les expedicions així com el dia a dia de la seva família mentre ell intentava aconseguir el seu repte. És doncs, un viatge intern i extern que vindrà acompanyat dels testimonis d'aquells que han format part de la vida del Sergi, acompanyant-lo en els seus reptes.</desc>
+    <length units="seconds">3980</length>
+    <episode-num system="onscreen">1</episode-num>
+    <category lang="ca">ACTUALITAT</category>
+    <category lang="ca">DOCUMENTAL</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/7/3/1698145091337.jpg"/>
-  </programme>
-  <programme start="20260916190000 +0200" stop="20260916200116 +0200" channel="esport3">
-    <title lang="ca">Tot Costa</title>
-    <sub-title lang="ca">Tot Costa</sub-title>
-    <desc lang="ca">El Barça s'enfronta al Racing al Camp Nou. En parlem amb Gemma Mallorca i Miguel Rico. Connectem amb el Camp Nou, amb Bernat Soler i Ricard Torquemada, i amb Ramon Salmurri i Laia Tudel expliquem l'última hora de la situació econòmica del club abans de l'assemblea de compromissaris. Avui també connectarem amb David Sánchez, el Boig de la Castellana. </desc>
-    <length units="seconds">3676</length>
-    <episode-num system="onscreen">1006</episode-num>
-    <category lang="ca">ESPORTS</category>
-    <category lang="ca">INFORMATIU DIÀRI</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <subtitles type="teletext"/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/0/4/1706209193140.jpg"/>
   </programme>
   <channel id="sx3">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20260916184415 +0200" stop="20260916185704 +0200" channel="sx3">
-    <title lang="ca">Els barrufets (3D)</title>
-    <sub-title lang="ca">Els barrufets (3D) - Barrusecrets 1a part</sub-title>
-    <desc lang="ca">L'Ulleres s'assabenta que el Gargamel està perfeccionant unes píndoles màgiques que li permetran transformar-se en barrufet i infiltrar-se dins del poble per capturar-los. Per sort, té un pla: cadascun dels barrufets li explicarà un secret que durà anotat en una llibreta. Per tal de descartar qualsevol intent d'infiltració per part del Gargamel, ell i la Barrutempesta aniran preguntant a cada barrufet el seu secret per comprovar que, efectivament, són ells.</desc>
-    <length units="seconds">769</length>
-    <episode-num system="onscreen">29</episode-num>
+  <programme start="20260916214352 +0200" stop="20260916220639 +0200" channel="sx3">
+    <title lang="ca">Bola de drac Z</title>
+    <sub-title lang="ca">Bola de drac Z - En Goku i en Son Gohan, tranquils i sense por</sub-title>
+    <desc lang="ca">Mentre tots s'entrenen pel Torneig d'en Cèl·lula, en Son Goku i en Son Gohan se'n tornen a casa amb la Xixi, que s'endú una bona sorpresa quan els veu. En Son Goku es nega a tornar a entrar a la Sala de l'Esperit del Temps i decideix que, els set dies que falten per al campionat, ell i en Son Gohan es dedicaran a relaxar-se.</desc>
+    <length units="seconds">1367</length>
+    <episode-num system="onscreen">169</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
-      <value>INFANTIL</value>
+      <value>JUVENIL</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20260916185704 +0200" stop="20260916191933 +0200" channel="sx3">
-    <title lang="ca">Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
-    <sub-title lang="ca">Prodigiosa: Les aventures de Ladybug i Gat Noir - Revelador</sub-title>
-    <desc lang="ca">La Marinette i l'Adrien són la parella més famosa de París i desperten l'interès d'un influencer poc escrupolós, disposat a tot per fer-se viral a les xarxes, fins i tot a destruir l'amor entre els dos adolescents. Podrà la seva relació sobreviure a una mentida?</desc>
-    <length units="seconds">1349</length>
-    <episode-num system="onscreen">142</episode-num>
+  <programme start="20260916220639 +0200" stop="20260916222614 +0200" channel="sx3">
+    <title lang="ca">El detectiu Conan</title>
+    <sub-title lang="ca">El detectiu Conan - Se sent la veu del Tengu</sub-title>
+    <desc lang="ca">En Kogoro, la Ran i en Conan fan nit en un hostal d'un poble de muntanya. L'endemà, aprofitant que tenen temps, visiten una cova de la vora. Quan hi arriben hi descobreixen un cadàver. A primera vista sembla un suïcidi, però en Conan de seguida sospita que la víctima podria haver mort assassinada. Aconseguirà demostrar qui és l'assassí i com s'ho ha fet per simular el suïcidi?</desc>
+    <length units="seconds">1175</length>
+    <episode-num system="onscreen">894</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
@@ -123,33 +119,33 @@
   <channel id="c33">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20260916182025 +0200" stop="20260916191928 +0200" channel="c33">
-    <title lang="ca">Els caps de setmana llargs d'en Rick Stein</title>
-    <sub-title lang="ca">Els caps de setmana llargs d'en Rick Stein - Copenhaguen</sub-title>
-    <desc lang="ca">A Copenhaguen, on s'allotja en una barca flotant, en Rick aprendrà unes quantes coses sobre la nova cuina nòrdica, un fenomen que ha portat la gastronomia danesa i l'interès dels danesos pel menjar a un altre nivell. Parlarà amb xefs innovadors, coneixerà una actriu que admira molt, visitarà un museu d'escultures, una església molt singular i els Jardins de Tivoli, i tastarà alguns plats emblemàtics del país, com l''smørrebrød' -pa amb coses- o els 'frikadellen' -bunyols de peix-.</desc>
-    <length units="seconds">3543</length>
-    <episode-num system="onscreen">7</episode-num>
-    <category lang="ca">DIVULGACIÓ</category>
-    <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
+  <programme start="20260916213351 +0200" stop="20260916215518 +0200" channel="c33">
+    <title lang="ca">Plats bruts</title>
+    <sub-title lang="ca">Plats bruts - Tinc patató</sub-title>
+    <desc lang="ca">La iaia Sunción està convençuda que el Lopes és la dona del David, i li fa fer totes les tasques de la llar. El Lopes comença a atabalar-se... D'altra banda, la presència de l'Emma crea un nou conflicte.</desc>
+    <length units="seconds">1287</length>
+    <episode-num system="onscreen">49</episode-num>
+    <category lang="ca">FICCIÓ</category>
+    <category lang="ca">SITCOM (COMÈDIA DE SITUACIÓ)</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20260916191928 +0200" stop="20260916201831 +0200" channel="c33">
-    <title lang="ca">Els caps de setmana llargs d'en Rick Stein</title>
-    <sub-title lang="ca">Els caps de setmana llargs d'en Rick Stein - Cadis</sub-title>
-    <desc lang="ca">En Rick Stein aquesta vegada viatja a la ciutat andalusa de Cadis, on quedarà captivat per la llum i resseguirà el seu passat, recordant la petjada dels fenicis o la fascinant batalla de Trafalagar. I s'emocionarà amb la passió que transmet el flamenc. Tastarà, entre altres plats, peixet fregit, seitons, calamarsons o l'exquisida 'tortillita de camarones' (coca fregida de gambetes), sense oblidar el xerès. I cuinarà orada a la 'roteña', arròs verd i ous a la flamenca.</desc>
-    <length units="seconds">3543</length>
-    <episode-num system="onscreen">8</episode-num>
+  <programme start="20260916215518 +0200" stop="20260916224652 +0200" channel="c33">
+    <title lang="ca">La Renaixença</title>
+    <sub-title lang="ca">La Renaixença - El con</sub-title>
+    <desc lang="ca">Avui dediquem el capítol al con. Sí, el de la carretera, el que et fa desviar quan hi ha obres. Un sol con és com un defensa dolent, que el pots esquivar sense problemes, però una bona alineació de cons ben posicionats et fan anar per on volen. Descobrim si els egipcis ja en feien servir per construir les piràmides. També ens visita l'Arturo Gaya, membre del mític conjunt Quico el Célio, el Noi, i el Mut de Ferreries. A l'hora del passeig del gos repassem la història de lady Godiva.</desc>
+    <length units="seconds">3094</length>
+    <episode-num system="onscreen">232</episode-num>
     <category lang="ca">DIVULGACIÓ</category>
-    <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
+    <category lang="ca">ALTRES</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
-    <previously-shown/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/3/3/1756148014833.jpg"/>
   </programme>
   <channel id="oca1">
     <display-name>OCA1</display-name>
