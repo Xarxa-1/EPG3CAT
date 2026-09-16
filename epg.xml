@@ -3,26 +3,28 @@
   <channel id="tvi">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20260916210000 +0200" stop="20260916222029 +0200" channel="tvi">
-    <title lang="ca">Telenotícies vespre</title>
-    <sub-title lang="ca">Telenotícies vespre</sub-title>
-    <length units="seconds">4829</length>
-    <episode-num system="onscreen">7329</episode-num>
-    <category lang="ca">ACTUALITAT</category>
-    <category lang="ca">INFORMATIU DIÀRI</category>
+  <programme start="20260917000616 +0200" stop="20260917003535 +0200" channel="tvi">
+    <title lang="ca">Blanc sobre blanc</title>
+    <sub-title lang="ca">Blanc sobre blanc - Matèria</sub-title>
+    <desc lang="ca">Xavier Corberó ens convida a la seva casa taller d'Esplugues de Llobregat, un entramat de passadissos i galeries a través dels quals farem un repàs de la seva obra i dels materials emprats al llarg de la seva trajectòria. I entrem al taller de Gerard Mas, un escultor que utilitza els materials i les tècniques més tradicionals per a realitzar una obra intemporal, irònica i provocativa. </desc>
+    <length units="seconds">1759</length>
+    <episode-num system="onscreen">5</episode-num>
+    <category lang="ca">DIVULGACIÓ</category>
+    <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <icon src="https://img.ccma.cat/multimedia/jpg/7/2/1758026176427.jpg"/>
+    <subtitles type="teletext"/>
+    <previously-shown/>
   </programme>
-  <programme start="20260916221152 +0200" stop="20260916233033 +0200" channel="tvi">
-    <title lang="ca">La Riera</title>
-    <sub-title lang="ca">La Riera</sub-title>
-    <desc lang="ca">Secrets i xantatgesAl capítol final de la temporada, veurem com tot el que pressiona els personatges de la sèrie és conseqüència de coses que estan amagades en el seu passat. El secret d'en Mauri ve de lluny. Ara, la Maribel també l'ha descobert. El secret de la Mercè crema força i la mare necessita desactivar els fills, encara que això signifiqui enfrontar-los. Però tot plegat és massa fort i s'aguanta amb pinces. Si alguna cosa falla, avui podrem viure una tragèdia de proporcions desconegudes... Les vides de tots estan a punt de canviar.</desc>
-    <length units="seconds">4721</length>
-    <episode-num system="onscreen">131</episode-num>
-    <category lang="ca">FICCIÓ</category>
-    <category lang="ca">TELENOVEL·LA</category>
+  <programme start="20260917003535 +0200" stop="20260917004639 +0200" channel="tvi">
+    <title lang="ca">Talent creatiu</title>
+    <sub-title lang="ca">Talent creatiu - Sasha Chaves, colorista natural</sub-title>
+    <desc lang="ca">Sasha Chaves fa colors amb les terres de Catalunya. La seva història és hipnòtica, inspiradora i captivadora. Transmet la seva passió per la història, la pintura i les arts plàstiques. </desc>
+    <length units="seconds">664</length>
+    <episode-num system="onscreen">7</episode-num>
+    <category lang="ca">ENTRETENIMENT</category>
+    <category lang="ca">ALTRES</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
@@ -32,50 +34,39 @@
   <channel id="324">
     <display-name>324</display-name>
   </channel>
-  <programme start="20260916210000 +0200" stop="20260916220500 +0200" channel="324">
-    <title lang="ca">Telenotícies vespre</title>
-    <length units="seconds">3900</length>
-    <episode-num system="onscreen">7329</episode-num>
+  <programme start="20260917000000 +0200" stop="20260917003000 +0200" channel="324">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="seconds">1800</length>
+    <episode-num system="onscreen">11190</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <icon src="https://img.ccma.cat/multimedia/jpg/7/2/1758026176427.jpg"/>
+    <subtitles type="teletext"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
-  <programme start="20260916220500 +0200" stop="20260917000000 +0200" channel="324">
-    <title lang="ca">Mésnit</title>
-    <desc lang="ca">El 'Mésnit' arriba a la desena temporada, amb Marina Romero al capdavant de l'espai i amb la voluntat de continuar sent un centre de debat d'idees i d'anàlisi de l'activitat política.</desc>
-    <length units="seconds">6900</length>
-    <episode-num system="onscreen">2160</episode-num>
+  <programme start="20260917003000 +0200" stop="20260917010000 +0200" channel="324">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="seconds">1800</length>
+    <episode-num system="onscreen">11191</episode-num>
     <category lang="ca">ACTUALITAT</category>
-    <category lang="ca">DEBAT</category>
+    <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <subtitles type="teletext"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
   <channel id="esport3">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20260916212627 +0200" stop="20260916233050 +0200" channel="esport3">
-    <title lang="ca">Un dia de partit</title>
-    <sub-title lang="ca">Un dia de partit - Barça-Racing</sub-title>
-    <desc lang="ca">A 'Un dia de partit' arreglem el Barça. O no. A cada partit, sis culers hi diuen la seva. Famosos i anònims. Cadascun a casa seva. Davant del televisor. Tot a base de videotrucades, en format Twitch i en rigorós directe. Ah! I a la mitja part no aturem màquines. Amb els jugadors als vestidors, nosaltres seguim fent bullir l'olla! Només sis culers? Negatiu. Durant el partit van apareixent els Jimmy Jump: els espontanis que demanen saltar a 'Un dia de partit' via WhatsApp.</desc>
-    <length units="seconds">7463</length>
-    <episode-num system="onscreen">250</episode-num>
-    <category lang="ca">ESPORTS</category>
-    <category lang="ca">RETRANSMISSIONS ESPORTS</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <icon src="https://img.ccma.cat/multimedia/jpg/2/7/1678885232972.jpg"/>
-  </programme>
-  <programme start="20260916233050 +0200" stop="20260917003710 +0200" channel="esport3">
+  <programme start="20260916233617 +0200" stop="20260917004236 +0200" channel="esport3">
     <title lang="ca">I l'Àliga vola: Sergi Mingote, K2</title>
     <sub-title lang="ca">I l'Àliga vola: Sergi Mingote, K2 - L'Àliga vola</sub-title>
     <desc lang="ca">'I l'àliga vola' narra l'últim repte de Sergi Mingote, fer cim al K2, la segona muntanya més alta del món i una de les més mortíferes, i fer-ho a l'hivern, que és el que en aquell moment encara ningú havia aconseguit.Però el mateix temps el documental també narra totes les vivències que envolten les expedicions així com el dia a dia de la seva família mentre ell intentava aconseguir el seu repte. És doncs, un viatge intern i extern que vindrà acompanyat dels testimonis d'aquells que han format part de la vida del Sergi, acompanyant-lo en els seus reptes.</desc>
-    <length units="seconds">3980</length>
+    <length units="seconds">3979</length>
     <episode-num system="onscreen">1</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">DOCUMENTAL</category>
@@ -85,29 +76,44 @@
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
+  <programme start="20260917004236 +0200" stop="20260917010717 +0200" channel="esport3">
+    <title lang="ca">E3</title>
+    <sub-title lang="ca">E3 - Monster Jam / Anaheim / 1</sub-title>
+    <desc lang="ca">Aquesta competició de motor compta amb els vehicles de quatre rodes més espectaculars. Monster Jam posa a prova la velocitat i la destresa dels pilots en un circuit ple d'obstacles!</desc>
+    <length units="seconds">1481</length>
+    <episode-num system="onscreen">2241</episode-num>
+    <category lang="ca">ESPORTS</category>
+    <category lang="ca">REPORTATGES</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <subtitles type="teletext"/>
+    <previously-shown/>
+    <icon src="https://statics.ccma.cat/multimedia/jpg/3/3/1747128751633.jpg "/>
+  </programme>
   <channel id="sx3">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20260916214352 +0200" stop="20260916220639 +0200" channel="sx3">
-    <title lang="ca">Bola de drac Z</title>
-    <sub-title lang="ca">Bola de drac Z - En Goku i en Son Gohan, tranquils i sense por</sub-title>
-    <desc lang="ca">Mentre tots s'entrenen pel Torneig d'en Cèl·lula, en Son Goku i en Son Gohan se'n tornen a casa amb la Xixi, que s'endú una bona sorpresa quan els veu. En Son Goku es nega a tornar a entrar a la Sala de l'Esperit del Temps i decideix que, els set dies que falten per al campionat, ell i en Son Gohan es dedicaran a relaxar-se.</desc>
-    <length units="seconds">1367</length>
-    <episode-num system="onscreen">169</episode-num>
+  <programme start="20260917001026 +0200" stop="20260917003125 +0200" channel="sx3">
+    <title lang="ca">Els germans Kratt</title>
+    <sub-title lang="ca">Els germans Kratt - L'Ullassos, el rei de la nit</sub-title>
+    <desc lang="ca">En Chris i en Martin s'han emportat l'últim invent de l'Aviva, les Ulleres de Visió Nocturna de Gran Potència, però ho han fet sense demanar-li permís, perquè saben que encara no estan del tot acabades. Les necessiten per localitzar un tarser i aprendre'n els costums, però aviat es quedaran a les fosques... i hauran de salvar tota una família de tarsers!</desc>
+    <length units="seconds">1259</length>
+    <episode-num system="onscreen">39</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
-      <value>JUVENIL</value>
+      <value>INFANTIL</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20260916220639 +0200" stop="20260916222614 +0200" channel="sx3">
-    <title lang="ca">El detectiu Conan</title>
-    <sub-title lang="ca">El detectiu Conan - Se sent la veu del Tengu</sub-title>
-    <desc lang="ca">En Kogoro, la Ran i en Conan fan nit en un hostal d'un poble de muntanya. L'endemà, aprofitant que tenen temps, visiten una cova de la vora. Quan hi arriben hi descobreixen un cadàver. A primera vista sembla un suïcidi, però en Conan de seguida sospita que la víctima podria haver mort assassinada. Aconseguirà demostrar qui és l'assassí i com s'ho ha fet per simular el suïcidi?</desc>
-    <length units="seconds">1175</length>
-    <episode-num system="onscreen">894</episode-num>
+  <programme start="20260917003125 +0200" stop="20260917005255 +0200" channel="sx3">
+    <title lang="ca">Els germans Kratt</title>
+    <sub-title lang="ca">Els germans Kratt - Col·lecció de rapinyaires</sub-title>
+    <desc lang="ca">Mentre en Chris i en Martin estan intentant fer un inventari de tots els rapinyaires que coneixen, en Gormand, el xef més creatiu del món, segons ell, esclar, s'acaba d'inventar un nou plat: rapinyaire rostit. Primer capturarà totes les espècies del món per descobrir quin és el més deliciós i, tot seguit, es farà famós! Això si no l'hi impedeix l'Equip Kratt, evidentment!</desc>
+    <length units="seconds">1290</length>
+    <episode-num system="onscreen">40</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
@@ -119,33 +125,70 @@
   <channel id="c33">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20260916213351 +0200" stop="20260916215518 +0200" channel="c33">
-    <title lang="ca">Plats bruts</title>
-    <sub-title lang="ca">Plats bruts - Tinc patató</sub-title>
-    <desc lang="ca">La iaia Sunción està convençuda que el Lopes és la dona del David, i li fa fer totes les tasques de la llar. El Lopes comença a atabalar-se... D'altra banda, la presència de l'Emma crea un nou conflicte.</desc>
-    <length units="seconds">1287</length>
-    <episode-num system="onscreen">49</episode-num>
+  <programme start="20260916224653 +0200" stop="20260917003553 +0200" channel="c33">
+    <title lang="ca">Pel·lícula</title>
+    <sub-title lang="ca">Pel·lícula - Tootsie</sub-title>
+    <desc lang="ca">TOOTSIE (Tootsie)Idioma versió original: anglèsProducció: Sydney Pollack i Dick Richards per a Mirage/Punch i Columbia, 1982Direcció: Sydney Pollack / Durada: 116 minuts Guió: Larry Gelbart i Murray SchisgalFotografia: Owen Roizman (color)Música: Dave GrusinIntèrprets: Dustin Hoffman (Michael Dorsey / Dorothy Michaels), Jessica Lange (Julie), Teri Garr (Sandy), Dabney Coleman (Ron), Charles Durning (Les), Bil Murray (Jeff)No hi ha ningú que vulgui contractar l'actor Michael Dorsey perquè s'ha barallat amb tots els productors de Nova York. Quan la seva amiga Sandy fracassa en una prova per fer d'actriu en una sèrie de televisió. Michael es fa passar per 'Dorothy Michaels' i aconsegueix el paper. En la conxorxa hi ha ficats, a més, el seu agent, George, i el seu company d'habitació, Jeff. Tot rutlla molt bé fins que 'Dorothy' s'enamora de Julie, la preciosa actriu que hi fa de coprotagonista, i el pare de Julie, Les, s'enamora de 'Dorothy'.</desc>
+    <credits>
+      <director>Sydney Pollack / Durada: 116 minuts</director>
+      <writer>Larry Gelbart</writer>
+      <writer>Murray SchisgalFotografia: Owen Roizman (color)Música: Dave GrusinIntèrprets: Dustin Hoffman (Michael Dorsey / Dorothy Michaels)</writer>
+      <writer>Jessica Lange (Julie)</writer>
+      <writer>Teri Garr (Sandy)</writer>
+      <writer>Dabney Coleman (Ron)</writer>
+      <writer>Charles Durning (Les)</writer>
+      <writer>Bil Murray (Jeff)No hi ha ningú que vulgui contractar l'actor Michael Dorsey perquè s'ha barallat amb tots els productors de Nova York. Quan la seva amiga Sandy fracassa en una prova per fer d'actriu en una sèrie de televisió. Michael es fa passar per 'Dorothy Michaels'</writer>
+      <writer>aconsegueix el paper. En la conxorxa hi ha ficats</writer>
+      <writer>a més</writer>
+      <writer>el seu agent</writer>
+      <writer>George</writer>
+      <writer>el seu company d'habitació</writer>
+      <writer>Jeff. Tot rutlla molt bé fins que 'Dorothy' s'enamora de Julie</writer>
+      <writer>la preciosa actriu que hi fa de coprotagonista</writer>
+      <writer>el pare de Julie</writer>
+      <writer>Les</writer>
+      <writer>s'enamora de 'Dorothy'.</writer>
+      <actor>Dustin Hoffman (Michael Dorsey / Dorothy Michaels)</actor>
+      <actor>Jessica Lange (Julie)</actor>
+      <actor>Teri Garr (Sandy)</actor>
+      <actor>Dabney Coleman (Ron)</actor>
+      <actor>Charles Durning (Les)</actor>
+      <actor>Bil Murray (Jeff)No hi ha ningú que vulgui contractar l'actor Michael Dorsey perquè s'ha barallat amb tots els productors de Nova York. Quan la seva amiga Sandy fracassa en una prova per fer d'actriu en una sèrie de televisió. Michael es fa passar per 'Dorothy Michaels'</actor>
+      <actor>aconsegueix el paper. En la conxorxa hi ha ficats</actor>
+      <actor>a més</actor>
+      <actor>el seu agent</actor>
+      <actor>George</actor>
+      <actor>el seu company d'habitació</actor>
+      <actor>Jeff. Tot rutlla molt bé fins que 'Dorothy' s'enamora de Julie</actor>
+      <actor>la preciosa actriu que hi fa de coprotagonista</actor>
+      <actor>el pare de Julie</actor>
+      <actor>Les</actor>
+      <actor>s'enamora de 'Dorothy'.</actor>
+    </credits>
+    <length units="seconds">6540</length>
+    <episode-num system="onscreen">1</episode-num>
     <category lang="ca">FICCIÓ</category>
-    <category lang="ca">SITCOM (COMÈDIA DE SITUACIÓ)</category>
+    <category lang="ca">PEL·LÍCULA / TELEFILM</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
+    <icon src="https://img.3cat.cat/multimedia/jpg/7/8/1787914062487.jpg"/>
   </programme>
-  <programme start="20260916215518 +0200" stop="20260916224652 +0200" channel="c33">
-    <title lang="ca">La Renaixença</title>
-    <sub-title lang="ca">La Renaixença - El con</sub-title>
-    <desc lang="ca">Avui dediquem el capítol al con. Sí, el de la carretera, el que et fa desviar quan hi ha obres. Un sol con és com un defensa dolent, que el pots esquivar sense problemes, però una bona alineació de cons ben posicionats et fan anar per on volen. Descobrim si els egipcis ja en feien servir per construir les piràmides. També ens visita l'Arturo Gaya, membre del mític conjunt Quico el Célio, el Noi, i el Mut de Ferreries. A l'hora del passeig del gos repassem la història de lady Godiva.</desc>
-    <length units="seconds">3094</length>
-    <episode-num system="onscreen">232</episode-num>
+  <programme start="20260917003553 +0200" stop="20260917005935 +0200" channel="c33">
+    <title lang="ca">Nens de la ruta de la seda</title>
+    <sub-title lang="ca">Nens de la ruta de la seda - El nen forçut</sub-title>
+    <desc lang="ca">En Lochin és un nen de l'Uzbekistan que forma part d'una companyia de circ familiar. Tot i que des de fa una temporada li toca fer de pallasso als espectacles, ell el que vol de debò és ser l'home forçut, com el seu avi. Gràcies a la seva força de voluntat i entrenant-se molt, anirà enfortint els músculs i s'anirà preparant per aconseguir el repte que s'ha proposat: deixar que un cotxe li passi per sobre el braç. Se'n sortirà?</desc>
+    <length units="seconds">1422</length>
+    <episode-num system="onscreen">10</episode-num>
     <category lang="ca">DIVULGACIÓ</category>
-    <category lang="ca">ALTRES</category>
+    <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/3/3/1756148014833.jpg"/>
+    <previously-shown/>
   </programme>
   <channel id="oca1">
     <display-name>OCA1</display-name>
