@@ -3,101 +3,101 @@
   <channel id="tvi">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20260916015154 +0200" stop="20260916040000 +0200" channel="tvi">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">Notícies 3CatInfo</sub-title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">7686</length>
-    <episode-num system="onscreen">11182</episode-num>
+  <programme start="20260916080016 +0200" stop="20260916103000 +0200" channel="tvi">
+    <title lang="ca">Matins</title>
+    <sub-title lang="ca">Matins</sub-title>
+    <desc lang="ca">'Matins' és un dels puntals informatius de TV3. El programa matinal dona les claus del dia que comença, explica les notícies que han passat aportant-ne el context per entendre-les i analitza amb veus acreditades l'actualitat més propera i la d'arreu del món. 'Matins' comença a les 8 del matí, de dilluns a divendres, i està presentat per Ariadna Oltra.</desc>
+    <length units="seconds">8984</length>
+    <episode-num system="onscreen">4672</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <previously-shown/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/2/0/1758040151402.jpg"/>
   </programme>
-  <programme start="20260916040000 +0200" stop="20260916050001 +0200" channel="tvi">
-    <title lang="ca">Ritmes a l'estudi</title>
-    <sub-title lang="ca">Ritmes a l'estudi - DE DIEGO BROTHERS</sub-title>
-    <desc lang="ca">Des de l'any 1993, aquest quintet, liderat pels germans De Diego, no ha deixat de tocar. El seu repertori es pot situar estilísticament als anys setanta; un període en què el jazz es barreja amb ritmes afrocubans, el 'bogaloo' o el funk. La força i la frescor del seu directe els ha dut a tocar als festivals més representatius de jazz de tot l'estat.</desc>
-    <length units="seconds">3601</length>
-    <episode-num system="onscreen">2</episode-num>
-    <category lang="ca">MUSICALS</category>
-    <category lang="ca">ALTRES</category>
+  <programme start="20260916103000 +0200" stop="20260916135500 +0200" channel="tvi">
+    <title lang="ca">Tot es mou</title>
+    <sub-title lang="ca">Tot es mou</sub-title>
+    <desc lang="ca">El programa presentat per Helena Garcia Melero s'emet de dilluns a divendres, de 10.30 a 13.55. Un magazín d'actualitat que busca informar, analitzar i debatre sobre temes que marquen l'actualitat social, econòmica i cultural del dia, amb una àmplia presència en directe dels reporters i reporteres, repartits per tot Catalunya. A més, el 'Tot es mou' compta amb seccions diàries de gastronomia (amb els principals cuiners i cuineres del país), successos, economia, mobilitat, temes mèdics i de tecnologia, entre d'altres.</desc>
+    <length units="seconds">12300</length>
+    <episode-num system="onscreen">1809</episode-num>
+    <category lang="ca">ACTUALITAT</category>
+    <category lang="ca">MAGAZINE</category>
     <rating>
-      <value>PÚBLIC ADULT</value>
+      <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <previously-shown/>
   </programme>
   <channel id="324">
     <display-name>324</display-name>
   </channel>
-  <programme start="20260916010000 +0200" stop="20260916060000 +0200" channel="324">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">18000</length>
-    <episode-num system="onscreen">11182</episode-num>
+  <programme start="20260916080000 +0200" stop="20260916090000 +0200" channel="324">
+    <title lang="ca">Matins</title>
+    <desc lang="ca">'Matins' és un dels puntals informatius de TV3. El programa matinal dona les claus del dia que comença, explica les notícies que han passat aportant-ne el context per entendre-les i analitza amb veus acreditades l'actualitat més propera i la d'arreu del món. 'Matins' comença a les 8 del matí, de dilluns a divendres, i està presentat per Ariadna Oltra.</desc>
+    <length units="seconds">3600</length>
+    <episode-num system="onscreen">4672</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <previously-shown/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
+    <subtitles type="teletext"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/2/0/1758040151402.jpg"/>
   </programme>
-  <programme start="20260916060000 +0200" stop="20260916080000 +0200" channel="324">
+  <programme start="20260916090000 +0200" stop="20260916120000 +0200" channel="324">
     <title lang="ca">Notícies 3CatInfo</title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">7200</length>
-    <episode-num system="onscreen">11183</episode-num>
+    <length units="seconds">10800</length>
+    <episode-num system="onscreen">11184</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
+    <subtitles type="teletext"/>
     <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
   <channel id="esport3">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20260916024434 +0200" stop="20260916040256 +0200" channel="esport3">
-    <title lang="ca">E3D</title>
-    <sub-title lang="ca">E3D - Skate / Extreme Barcelona / Final femenina</sub-title>
-    <desc lang="ca">Final femenina d'skateboarding a la 18a edició de l'Extrem Barcelona, que es fa al Parc del Fòrum. Amb la narració de Jordi Gil. </desc>
-    <length units="seconds">4702</length>
-    <episode-num system="onscreen">8112</episode-num>
+  <programme start="20260916071934 +0200" stop="20260916085041 +0200" channel="esport3">
+    <title lang="ca">Onze</title>
+    <sub-title lang="ca">Onze</sub-title>
+    <desc lang="ca">Fem tertúlia amb Jordi Costa, Gemma Mallorca, Víctor Lozano i Joan Poquí. Repassem la prèvia del Barça-Racing. Veiem els gols de l'Elx-Madrid i el Rayo-Espanyol. El Predicador Òscar Pérez-Dolz posa els tertulians a lloc, ve Fran Domènech i la seva Onzeclopèdia i acabem amb l'1x1 d'Òscar Nin.</desc>
+    <length units="seconds">5467</length>
+    <episode-num system="onscreen">1249</episode-num>
     <category lang="ca">ESPORTS</category>
-    <category lang="ca">RETRANSMISSIONS ESPORTS</category>
+    <category lang="ca">MAGAZINE</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
+    <subtitles type="teletext"/>
     <previously-shown/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/3/2/1788358923323.jpg"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/1/1/1688543515711.jpg"/>
   </programme>
-  <programme start="20260916040256 +0200" stop="20260916045904 +0200" channel="esport3">
-    <title lang="ca">E3D</title>
-    <sub-title lang="ca">E3D - Scooter Park / Extreme Barcelona / Final masculina</sub-title>
-    <desc lang="ca">Final masculina d'scootering park a la 18a edició de l'Extrem Barcelona, que es fa al Parc del Fòrum. Amb la narració de Jordi Gil. </desc>
-    <length units="seconds">3368</length>
-    <episode-num system="onscreen">8118</episode-num>
+  <programme start="20260916085041 +0200" stop="20260916092746 +0200" channel="esport3">
+    <title lang="ca">Aire Lliure</title>
+    <sub-title lang="ca">Aire Lliure - Queralt Castellet</sub-title>
+    <desc lang="ca">Queralt Castellet, primera medalla catalana en uns jocs olímpics d'hivern, serà la convidada d''Aire lliure' deTV3. Núria Picas portarà la Queralt a escalar una de les agulles més carismàtiques de Montserrat, el Cavall Bernat. En la segona part del programa Castellet convencerà la Núria perquè es calci una taula de surf sobre aigua al pantà de Sau.</desc>
+    <length units="seconds">2225</length>
+    <episode-num system="onscreen">27</episode-num>
     <category lang="ca">ESPORTS</category>
-    <category lang="ca">RETRANSMISSIONS ESPORTS</category>
+    <category lang="ca">REPORTATGES</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
+    <subtitles type="teletext"/>
     <previously-shown/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/3/2/1788358923323.jpg"/>
   </programme>
   <channel id="sx3">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20260916032717 +0200" stop="20260916034755 +0200" channel="sx3">
-    <title lang="ca">Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
-    <sub-title lang="ca">Prodigiosa: Les aventures de Ladybug i Gat Noir - Style Queen - El combat de les reines (1a part)</sub-title>
-    <desc lang="ca">L'Adrien ha de participar en una desfilada organitzada pel seu pare, i ha de lluir un barret dissenyat per la Marinette. Però la presència de la mare de la Chloé, una estilista molt coneguda, ho trasbalsarà tot i propiciarà l'aparició d'una nova super malvada, l'Style Queen.</desc>
-    <length units="seconds">1238</length>
-    <episode-num system="onscreen">44</episode-num>
+  <programme start="20260916084549 +0200" stop="20260916085648 +0200" channel="sx3">
+    <title lang="ca">El Mic i els seus amics</title>
+    <sub-title lang="ca">El Mic i els seus amics</sub-title>
+    <desc lang="ca">'El Mic i els seus amics' presenta les històries del Mic agrupades en capítols. Les aventures dels titelles s'acompanyen de petits vídeos protagonitzats per nens i nenes, i separadors amb imatges de natura. És una sèrie pensada perquè els súpers més petits gaudeixin encara més! El Mic i els seus amics es troben cada dia per cantar cançons, explicar contes, dir endevinalles... Viuen en un lloc on hi ha turons, arbres, flors i papallones.Tot està a punt per jugar. Només cal fer... MAC, MEC, MIC, TOCA'T EL MELIC!</desc>
+    <length units="seconds">659</length>
+    <episode-num system="onscreen">622</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
@@ -106,12 +106,12 @@
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20260916034755 +0200" stop="20260916040902 +0200" channel="sx3">
-    <title lang="ca">Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
-    <sub-title lang="ca">Prodigiosa: Les aventures de Ladybug i Gat Noir - Style Queen - El combat de les reines (2a part)</sub-title>
-    <desc lang="ca">La Chloé, enfadada perquè la seva mare només té ulls pel barret que ha dissenyat la Marinette, decideix fer alguna cosa extraordinària i fa servir el prodigi de l'abella que Ladybug havia perdut. Però en comptes de resoldre problemes, aquesta nova superheroïna no farà res més que crear-ne de nous.</desc>
-    <length units="seconds">1267</length>
-    <episode-num system="onscreen">45</episode-num>
+  <programme start="20260916085648 +0200" stop="20260916090711 +0200" channel="sx3">
+    <title lang="ca">El Mic i els seus amics</title>
+    <sub-title lang="ca">El Mic i els seus amics - El Cargol i la Mosca, a l'hamaca</sub-title>
+    <desc lang="ca">Les hamaques són llits que es mouen. Amb els nens i nenes és molt fàcil d'inventar-ne una amb un llençol o una vànova. Els encanta!</desc>
+    <length units="seconds">623</length>
+    <episode-num system="onscreen">625</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
@@ -123,26 +123,26 @@
   <channel id="c33">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20260916025246 +0200" stop="20260916034448 +0200" channel="c33">
-    <title lang="ca">Sota terra</title>
-    <sub-title lang="ca">Sota terra - Cabrera de Mar, Ilturo: ciutat o vila romana?</sub-title>
-    <desc lang="ca">Va ser Cabrera de Mar una gran ciutat romana durant el segle II aC? La descoberta fa uns quants anys d'unes termes romanes a Cabrera (les més antigues de la península Ibèrica) era un clar indici, però cal demostrar-ho. Era una ciutat o només era un territori on hi havia diferents vil·les romanes dedicades a l'explotació agrícola? Decidim excavar diferents punts amb dos objectius: si confirmem que Cabrera tenia trama urbana (és a dir, carrers), i si podem confirmar que s'hi encunyava moneda, podrem afirmar amb rotunditat que Cabrera era una ciutat romana. I no una ciutat qualsevol: sinó, juntament amb Empúries i Tarraco, la ciutat a partir de la qual va començar la romanització del territori català, aleshores habitat i dominat per les diferents tribus iberes.</desc>
-    <length units="seconds">3122</length>
-    <episode-num system="onscreen">4</episode-num>
+  <programme start="20260916081254 +0200" stop="20260916084623 +0200" channel="c33">
+    <title lang="ca">Cosins Germans</title>
+    <sub-title lang="ca">Cosins Germans - Castells humans</sub-title>
+    <desc lang="ca">Cosins Germans està plantejat com una road movie per les comarques de Catalunya i el País Valencià per descobrir els espais, la gent, els costums i la gastronomia dels dos territoris.Als primers 13 capítols Ferrant Torrent i Empar Moliner viatgen junts per territoris catalans i valencians, i als 13 capítols següents, Ferran Torrent s'endinsa pels territoris dels Països Catalans amb Sílvia Bel, Elisabet Carnicé, Llucia Ramis i Araceli Segarra. Sempre amb un to proper, àgil, també un punt irreverent i ple d'humor.</desc>
+    <length units="seconds">2009</length>
+    <episode-num system="onscreen">3</episode-num>
     <category lang="ca">DIVULGACIÓ</category>
-    <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
+    <category lang="ca">ALTRES</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20260916034448 +0200" stop="20260916041039 +0200" channel="c33">
-    <title lang="ca">Boscos</title>
-    <sub-title lang="ca">Boscos - Boscos de Pi Roig (Cadí)</sub-title>
-    <desc lang="ca">En Martí Boada s'enfila al Cadí, per descobrir els boscos de pi roig, el segon arbre més abundant a Catalunya. Visitarem el pi roig més emblemàtic del país: el Pi de les Tres Branques. L'Ignasi Amat presentarà un projecte nou que dóna feina al bosc per facilitar la integració social i laboral per a col·lectius desafavorits; amb en Joan Obiols, un antic bosquerol, aprendrem com es talaven els arbres antigament i veurem de prop imatges espectaculars d'una colònia de voltors que, sota la batuta de l'Aleix Millet, s'està reproduint i aportant grans beneficis a la zona.</desc>
-    <length units="seconds">1551</length>
-    <episode-num system="onscreen">3</episode-num>
+  <programme start="20260916084623 +0200" stop="20260916090128 +0200" channel="c33">
+    <title lang="ca">Pastors i ramats: un món que se'n va</title>
+    <sub-title lang="ca">Pastors i ramats: un món que se'n va - Sergi Sánchez</sub-title>
+    <desc lang="ca">'Pastors i ramats, un món que se'n va', és una sèrie de 15 capítols protagonitzada per pastors i pastores que, al llarg del nostre país, treuen a pasturar cada dia el seu ramat. Malgrat fer la mateixa feina, cada pastor és un món, una forma particular de relacionar-se amb el ramat, un mosaic de veus i gestos units per l'estimació pels animals. I també un conjunt de converses amb persones que són allà on volen ser, perseverant tossudament per continuar l'ofici malgrat totes les dificultats... Pastors i ramats... és la lluita silenciosa i plena de dignitat d'un món que se'n va.</desc>
+    <length units="seconds">905</length>
+    <episode-num system="onscreen">5</episode-num>
     <category lang="ca">DIVULGACIÓ</category>
     <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
     <rating>
