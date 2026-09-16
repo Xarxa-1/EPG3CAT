@@ -3,63 +3,68 @@
   <channel id="tvi">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20260916135503 +0200" stop="20260916143000 +0200" channel="tvi">
-    <title lang="ca">Telenotícies comarques</title>
-    <sub-title lang="ca">Telenotícies comarques</sub-title>
-    <length units="seconds">2097</length>
-    <episode-num system="onscreen">7035</episode-num>
-    <category lang="ca">ACTUALITAT</category>
-    <category lang="ca">INFORMATIU DIÀRI</category>
+  <programme start="20260916172946 +0200" stop="20260916191247 +0200" channel="tvi">
+    <title lang="ca">La Selva</title>
+    <sub-title lang="ca">La Selva</sub-title>
+    <desc lang="ca">Xavier Grasset presenta La Selva, el nou magazín d'entreteniment de les tardes de TV3. Un show d'autor on parlarem de tot de forma distesa i lliure, una trobada fixa a la nova cafeteria de la televisió pública catalana, regentada per la Mercè Fonoll (l'actriu i humorista, Anna Bertran). A La Selva sempre hi passen coses, és un món ple d'activitat on diverses espècies hi conviuen de forma lliure.Hi passaran Antoni Bassas, Montse Barderi, Fel Faixedas, Sílvia Bel, la Nina, en Biel Duran, l'Alba Alfageme o la Carlota Gurt, entre molts d'altres. Una trobada plena de coneixement i seguiment de l'actualitat, però també d'entreteniment. Els acompanyaran, per exemple fent recomanacions, Sergi Cutillas, amb la seva música de capçalera, en Godai García que ens apropa a la terra -amb una mirada molt pròpia- o la cuinera i influencer, Sofia Janer.A La Selva farem un repàs al què ha passat durant el dia i a la vida en general d'aquella manera única del Xavier Grasset acompanyat al sofà per la Maria Xinxó, la Núria Martínez o l'Ester Pagès. La resta de l'equip treballarà per explicar-vos el que ha passat dins i fora de La Selva, acostar-vos al territori i oferir-vos entreteniment, però sempre amb contingut. Cada dia hi haurà entrevistes, no hi faltaran els llibres, la cultura o històries humanes de tot tipus. I, a més, comptarem amb la participació del nostre públic. Us convidarem a jugar en un concurs diari, divertit i enginyós. Quan t'endinses a la Selva mai saps què t'hi pots acabar trobant!Cada tarda, et farem companyia a 3cat. Us espera una nova aventura plena de personatges interessants, converses, reflexions, descobriments i uns quants somriures. Sempre amb un ull posat a tot el que passa al nostre voltant. Quedem a La Selva!</desc>
+    <length units="seconds">6181</length>
+    <episode-num system="onscreen">410</episode-num>
+    <category lang="ca">ENTRETENIMENT</category>
+    <category lang="ca">MAGAZINE</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <icon src="https://img.ccma.cat/multimedia/jpg/5/2/1758026313525.jpg"/>
+    <icon src="https://img.3cat.cat/multimedia/jpg/6/3/1725871608136.jpg"/>
   </programme>
-  <programme start="20260916143000 +0200" stop="20260916152959 +0200" channel="tvi">
-    <title lang="ca">Telenotícies migdia</title>
-    <sub-title lang="ca">Telenotícies migdia</sub-title>
-    <length units="seconds">3599</length>
-    <episode-num system="onscreen">7330</episode-num>
-    <category lang="ca">ACTUALITAT</category>
-    <category lang="ca">INFORMATIU DIÀRI</category>
+  <programme start="20260916191247 +0200" stop="20260916201500 +0200" channel="tvi">
+    <title lang="ca">Atrapa'm si pots</title>
+    <sub-title lang="ca">Atrapa'm si pots</sub-title>
+    <desc lang="ca">'Atrapa'm si pots' és un 'quiz show' clàssic, de preguntes i respostes, presentat per Llucià Ferrer, en què sis concursants competeixen per arribar a la fase final i guanyar el pot. 'Atrapa'm si pots' és entreteniment pur i on gairebé és més important passar-s'ho bé que els diners. És un concurs en què pesa més la intuïció que no els coneixements acadèmics, més l'estratègia en el joc que no la sort.</desc>
+    <length units="seconds">3733</length>
+    <episode-num system="onscreen">925</episode-num>
+    <category lang="ca">ENTRETENIMENT</category>
+    <category lang="ca">CONCURS</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <icon src="https://img.ccma.cat/multimedia/jpg/5/4/1758025766345.jpg"/>
   </programme>
   <channel id="324">
     <display-name>324</display-name>
   </channel>
-  <programme start="20260916135500 +0200" stop="20260916143000 +0200" channel="324">
-    <title lang="ca">Telenotícies comarques</title>
-    <length units="seconds">2100</length>
-    <episode-num system="onscreen">7035</episode-num>
+  <programme start="20260916183000 +0200" stop="20260916200000 +0200" channel="324">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="seconds">5400</length>
+    <episode-num system="onscreen">11188</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <icon src="https://img.ccma.cat/multimedia/jpg/5/2/1758026313525.jpg"/>
+    <subtitles type="teletext"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
-  <programme start="20260916143000 +0200" stop="20260916153000 +0200" channel="324">
-    <title lang="ca">Telenotícies migdia</title>
+  <programme start="20260916200000 +0200" stop="20260916210000 +0200" channel="324">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <length units="seconds">3600</length>
-    <episode-num system="onscreen">7330</episode-num>
+    <episode-num system="onscreen">11189</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <icon src="https://img.ccma.cat/multimedia/jpg/5/4/1758025766345.jpg"/>
+    <subtitles type="teletext"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
   <channel id="esport3">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20260916140155 +0200" stop="20260916152332 +0200" channel="esport3">
+  <programme start="20260916175858 +0200" stop="20260916190000 +0200" channel="esport3">
     <title lang="ca">Esport Club</title>
     <sub-title lang="ca">Esport Club</sub-title>
     <desc lang="ca">Avui, Barça-Ràcing al Camp Nou. Última hora amb Mireia German i l'anàlisi de l'Àlex Delmàs. L'Espanyol perd contra el Rayo, tot i el sisè gol de Roberto. Entrevistem Miquel Mañé, triple campió mundial de gimnàstica aeròbica. Enric Mas analitza la seva victòria a La Vuelta a l'Esport Club. I a la tertúlia ens acompanyen Màrius Carol, Frederic Porta i Dani Senabre.</desc>
-    <length units="seconds">4897</length>
+    <length units="seconds">3662</length>
     <episode-num system="onscreen">3241</episode-num>
     <category lang="ca">ESPORTS</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
@@ -67,31 +72,32 @@
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
+    <previously-shown/>
     <icon src="https://img.ccma.cat/multimedia/jpg/7/3/1698145091337.jpg"/>
   </programme>
-  <programme start="20260916152332 +0200" stop="20260916154846 +0200" channel="esport3">
-    <title lang="ca">Catalunya salvatge</title>
-    <sub-title lang="ca">Catalunya salvatge - Testimonis de la natura</sub-title>
-    <desc lang="ca">'Catalunya salvatge' és una sèrie documental de 13 capítols que donarà a conèixer als espectadors els ecosistemes més representatius del nostre país. Des dels cims del Pirineu fins a les llacunes del delta de l'Ebre, 'Catalunya salvatge' farà un repàs de la flora i la fauna dels paratges més emblemàtics de Catalunya.Els seguidors de la sèrie tindran, doncs, una finestra privilegiada a la biodiversitat del Parc Nacional d'Aigüestortes, la muntanya de Montserrat, la zona volcànica de la Garrotxa, els aiguamolls de l'Empordà o el món submarí de les illes Medes.El primer ecosistema explorat en profunditat serà el d'alta muntanya, on la supervivència no és gens fàcil.(tardor 2010)</desc>
-    <length units="seconds">1514</length>
-    <episode-num system="onscreen">13</episode-num>
-    <category lang="ca">DIVULGACIÓ</category>
-    <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
+  <programme start="20260916190000 +0200" stop="20260916200116 +0200" channel="esport3">
+    <title lang="ca">Tot Costa</title>
+    <sub-title lang="ca">Tot Costa</sub-title>
+    <desc lang="ca">El Barça s'enfronta al Racing al Camp Nou. En parlem amb Gemma Mallorca i Miguel Rico. Connectem amb el Camp Nou, amb Bernat Soler i Ricard Torquemada, i amb Ramon Salmurri i Laia Tudel expliquem l'última hora de la situació econòmica del club abans de l'assemblea de compromissaris. Avui també connectarem amb David Sánchez, el Boig de la Castellana. </desc>
+    <length units="seconds">3676</length>
+    <episode-num system="onscreen">1006</episode-num>
+    <category lang="ca">ESPORTS</category>
+    <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
-    <previously-shown/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/0/4/1706209193140.jpg"/>
   </programme>
   <channel id="sx3">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20260916135314 +0200" stop="20260916141440 +0200" channel="sx3">
-    <title lang="ca">El detectiu Conan</title>
-    <sub-title lang="ca">El detectiu Conan - La parada de bus sota la pluja</sub-title>
-    <desc lang="ca">En Kogoro i en Conan surten a sopar una nit de pluja. De sobte, senten una frenada i una topada i, quan s'acosten al lloc dels fets, es troben al mig del carrer un cotxe que acaba d'atropellar un home. El conductor està inconscient i la víctima ha mort. Casualment, tot seguit arriben l'inspector Megure i en Takagi, que inicien la investigació d'un atropellament que, segons els primers indicis, podria ser un suïcidi.</desc>
-    <length units="seconds">1286</length>
-    <episode-num system="onscreen">896</episode-num>
+  <programme start="20260916184415 +0200" stop="20260916185704 +0200" channel="sx3">
+    <title lang="ca">Els barrufets (3D)</title>
+    <sub-title lang="ca">Els barrufets (3D) - Barrusecrets 1a part</sub-title>
+    <desc lang="ca">L'Ulleres s'assabenta que el Gargamel està perfeccionant unes píndoles màgiques que li permetran transformar-se en barrufet i infiltrar-se dins del poble per capturar-los. Per sort, té un pla: cadascun dels barrufets li explicarà un secret que durà anotat en una llibreta. Per tal de descartar qualsevol intent d'infiltració per part del Gargamel, ell i la Barrutempesta aniran preguntant a cada barrufet el seu secret per comprovar que, efectivament, són ells.</desc>
+    <length units="seconds">769</length>
+    <episode-num system="onscreen">29</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
@@ -100,16 +106,16 @@
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20260916141440 +0200" stop="20260916143657 +0200" channel="sx3">
-    <title lang="ca">Bola de drac Z</title>
-    <sub-title lang="ca">Bola de drac Z - En Cèl·lula aconsegueix una audiència televisiva del cent per cent</sub-title>
-    <desc lang="ca">En Cèl·lula envaeix uns estudis de televisió per anunciar que d'aquí nou dies començarà el seu torneig, on hi convoca els guerrers més poderosos de tot el món. Si no hi ha ningú capaç de derrotar-lo, exterminarà tots els habitants del planeta. En Trunks li demana a la Bulma que li talli els cabells i decideix entrenar-se també a la Sala de l'Esperit del Temps.</desc>
-    <length units="seconds">1337</length>
-    <episode-num system="onscreen">167</episode-num>
+  <programme start="20260916185704 +0200" stop="20260916191933 +0200" channel="sx3">
+    <title lang="ca">Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
+    <sub-title lang="ca">Prodigiosa: Les aventures de Ladybug i Gat Noir - Revelador</sub-title>
+    <desc lang="ca">La Marinette i l'Adrien són la parella més famosa de París i desperten l'interès d'un influencer poc escrupolós, disposat a tot per fer-se viral a les xarxes, fins i tot a destruir l'amor entre els dos adolescents. Podrà la seva relació sobreviure a una mentida?</desc>
+    <length units="seconds">1349</length>
+    <episode-num system="onscreen">142</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
-      <value>JUVENIL</value>
+      <value>INFANTIL</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
@@ -117,34 +123,33 @@
   <channel id="c33">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20260916133957 +0200" stop="20260916141009 +0200" channel="c33">
-    <title lang="ca">No tenim vergonya</title>
-    <sub-title lang="ca">No tenim vergonya - NTV 40 Anys Esports (2)</sub-title>
-    <desc lang="ca">'No tenim vergonya' revisa els grans moments a Televisió de Catalunya. Se'ls mira des d'un altre punt de vista, per comparar-los amb la realitat actual o repassar moments televisius molt recordats. Mai, però, des d'un punt de vista nostàlgic. NTV és una cadena de televisió. I, com a tal, conté tota mena d'elements (molinets, publicitat...) i de programes (informatius, d'esports, magazines, musicals, concursos...). De què es nodreix la seva programació? De l'arxiu de la televisió pública catalana revisionada sense complexos. D'aquí ve el nom de la cadena NTV, de 'No tenim vergonya'.</desc>
-    <length units="seconds">1812</length>
-    <episode-num system="onscreen">214</episode-num>
-    <category lang="ca">ESPORTS</category>
-    <category lang="ca">REPORTATGES</category>
+  <programme start="20260916182025 +0200" stop="20260916191928 +0200" channel="c33">
+    <title lang="ca">Els caps de setmana llargs d'en Rick Stein</title>
+    <sub-title lang="ca">Els caps de setmana llargs d'en Rick Stein - Copenhaguen</sub-title>
+    <desc lang="ca">A Copenhaguen, on s'allotja en una barca flotant, en Rick aprendrà unes quantes coses sobre la nova cuina nòrdica, un fenomen que ha portat la gastronomia danesa i l'interès dels danesos pel menjar a un altre nivell. Parlarà amb xefs innovadors, coneixerà una actriu que admira molt, visitarà un museu d'escultures, una església molt singular i els Jardins de Tivoli, i tastarà alguns plats emblemàtics del país, com l''smørrebrød' -pa amb coses- o els 'frikadellen' -bunyols de peix-.</desc>
+    <length units="seconds">3543</length>
+    <episode-num system="onscreen">7</episode-num>
+    <category lang="ca">DIVULGACIÓ</category>
+    <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20260916141009 +0200" stop="20260916145623 +0200" channel="c33">
-    <title lang="ca">La Renaixença</title>
-    <sub-title lang="ca">La Renaixença - Millors moments - setmana 1</sub-title>
-    <desc lang="ca">La primera setmana de programa sempre és especial recordar-la, per això us deixem un resum amb alguns dels millors moments que hem viscut durant aquests dies. No hi és tot, perquè han passat coses boníssimes i sempre és difícil de triar, però sí que podeu mirar-ho si no heu tingut temps de veure'n cap. O si els heu vist tots i voleu recordar-ne alguns moments, els trobareu aquí. És aquell capítol que fa gràcia perquè posem el més bo, però que et deixa amb ganes de més perquè no hi és tot.</desc>
-    <length units="seconds">2774</length>
-    <episode-num system="onscreen">5</episode-num>
+  <programme start="20260916191928 +0200" stop="20260916201831 +0200" channel="c33">
+    <title lang="ca">Els caps de setmana llargs d'en Rick Stein</title>
+    <sub-title lang="ca">Els caps de setmana llargs d'en Rick Stein - Cadis</sub-title>
+    <desc lang="ca">En Rick Stein aquesta vegada viatja a la ciutat andalusa de Cadis, on quedarà captivat per la llum i resseguirà el seu passat, recordant la petjada dels fenicis o la fascinant batalla de Trafalagar. I s'emocionarà amb la passió que transmet el flamenc. Tastarà, entre altres plats, peixet fregit, seitons, calamarsons o l'exquisida 'tortillita de camarones' (coca fregida de gambetes), sense oblidar el xerès. I cuinarà orada a la 'roteña', arròs verd i ous a la flamenca.</desc>
+    <length units="seconds">3543</length>
+    <episode-num system="onscreen">8</episode-num>
     <category lang="ca">DIVULGACIÓ</category>
-    <category lang="ca">ALTRES</category>
+    <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/3/3/1756148014833.jpg"/>
   </programme>
   <channel id="oca1">
     <display-name>OCA1</display-name>
