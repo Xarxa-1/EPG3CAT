@@ -3,51 +3,9 @@
   <channel id="tvi">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20260917010000 +0200" stop="20260917040000 +0200" channel="tvi">
+  <programme start="20260917060000 +0200" stop="20260917080000 +0200" channel="tvi">
     <title lang="ca">Notícies 3CatInfo</title>
     <sub-title lang="ca">Notícies 3CatInfo</sub-title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">10800</length>
-    <episode-num system="onscreen">11191</episode-num>
-    <category lang="ca">ACTUALITAT</category>
-    <category lang="ca">INFORMATIU DIÀRI</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <previously-shown/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
-  </programme>
-  <programme start="20260917040000 +0200" stop="20260917050001 +0200" channel="tvi">
-    <title lang="ca">Ritmes a l'estudi</title>
-    <sub-title lang="ca">Ritmes a l'estudi - DR. GO</sub-title>
-    <desc lang="ca">El trio es mou sota l'estela dels 'Organ combos', sorgits a finals dels 90 i amb regust de l'era daurada dels trios de Hammond. El resultat és una trobada entre el jazz modern, l'electrofunk, el rock i, fins i tot, el bolero. Francisco Suáez a l'orgue, Ignasi Cussó a la guitarra i Ramón Díaz a la bateria. Són Dr. Go.</desc>
-    <length units="seconds">3601</length>
-    <episode-num system="onscreen">3</episode-num>
-    <category lang="ca">MUSICALS</category>
-    <category lang="ca">ALTRES</category>
-    <rating>
-      <value>PÚBLIC ADULT</value>
-    </rating>
-    <previously-shown/>
-  </programme>
-  <channel id="324">
-    <display-name>324</display-name>
-  </channel>
-  <programme start="20260917010000 +0200" stop="20260917060000 +0200" channel="324">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">18000</length>
-    <episode-num system="onscreen">11191</episode-num>
-    <category lang="ca">ACTUALITAT</category>
-    <category lang="ca">INFORMATIU DIÀRI</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <previously-shown/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
-  </programme>
-  <programme start="20260917060000 +0200" stop="20260917080000 +0200" channel="324">
-    <title lang="ca">Notícies 3CatInfo</title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <length units="seconds">7200</length>
     <episode-num system="onscreen">11192</episode-num>
@@ -58,28 +16,68 @@
     </rating>
     <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
-  <channel id="esport3">
-    <display-name>ESPORT3</display-name>
-  </channel>
-  <programme start="20260917023221 +0200" stop="20260917032446 +0200" channel="esport3">
-    <title lang="ca">WRC</title>
-    <sub-title lang="ca">WRC - Ral·li de Xile / WRC 2026 / Resum final</sub-title>
-    <desc lang="ca">Antepenúltima prova del Campionat del Món. El Ral·li de Xile té un recorregut de 311 quilòmetres, per carreteres de terra, en 16 trams cronometrats. Els moments decisius i les imatges més espectaculars amb la conducció de Noel Rodríguez, i l'assistència de Santi Torres.</desc>
-    <length units="seconds">3145</length>
-    <episode-num system="onscreen">256</episode-num>
-    <category lang="ca">ESPORTS</category>
-    <category lang="ca">RETRANSMISSIONS ESPORTS</category>
+  <programme start="20260917080000 +0200" stop="20260917103000 +0200" channel="tvi">
+    <title lang="ca">Matins</title>
+    <sub-title lang="ca">Matins</sub-title>
+    <desc lang="ca">'Matins' és un dels puntals informatius de TV3. El programa matinal dona les claus del dia que comença, explica les notícies que han passat aportant-ne el context per entendre-les i analitza amb veus acreditades l'actualitat més propera i la d'arreu del món. 'Matins' comença a les 8 del matí, de dilluns a divendres, i està presentat per Ariadna Oltra.</desc>
+    <length units="seconds">9000</length>
+    <episode-num system="onscreen">4673</episode-num>
+    <category lang="ca">ACTUALITAT</category>
+    <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <previously-shown/>
-    <icon src="https://img.3cat.cat/multimedia/jpg/1/7/1783953384771.jpg"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/2/0/1758040151402.jpg"/>
   </programme>
-  <programme start="20260917032446 +0200" stop="20260917044931 +0200" channel="esport3">
+  <channel id="324">
+    <display-name>324</display-name>
+  </channel>
+  <programme start="20260917060000 +0200" stop="20260917080000 +0200" channel="324">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="seconds">7200</length>
+    <episode-num system="onscreen">11192</episode-num>
+    <category lang="ca">ACTUALITAT</category>
+    <category lang="ca">INFORMATIU DIÀRI</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <subtitles type="teletext"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
+  </programme>
+  <programme start="20260917080000 +0200" stop="20260917103000 +0200" channel="324">
+    <title lang="ca">Matins</title>
+    <desc lang="ca">'Matins' és un dels puntals informatius de TV3. El programa matinal dona les claus del dia que comença, explica les notícies que han passat aportant-ne el context per entendre-les i analitza amb veus acreditades l'actualitat més propera i la d'arreu del món. 'Matins' comença a les 8 del matí, de dilluns a divendres, i està presentat per Ariadna Oltra.</desc>
+    <length units="seconds">9000</length>
+    <episode-num system="onscreen">4673</episode-num>
+    <category lang="ca">ACTUALITAT</category>
+    <category lang="ca">INFORMATIU DIÀRI</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <icon src="https://img.ccma.cat/multimedia/jpg/2/0/1758040151402.jpg"/>
+  </programme>
+  <channel id="esport3">
+    <display-name>ESPORT3</display-name>
+  </channel>
+  <programme start="20260917065503 +0200" stop="20260917073211 +0200" channel="esport3">
+    <title lang="ca">Zona Zàping Club</title>
+    <sub-title lang="ca">Zona Zàping Club - Mari Pau Huguet tanca l'estiu acceptant l'últim gran repte</sub-title>
+    <desc lang="ca">La darrera convidada de la temporada posa a prova la seva intuïció en una edició molt especial d''Això acaba...', amb el Zapi preparat per entregar els últims premis de l'estiu.</desc>
+    <length units="seconds">2228</length>
+    <episode-num system="onscreen">13</episode-num>
+    <category lang="ca">ESPORTS</category>
+    <category lang="ca">ESPECIALS</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <subtitles type="teletext"/>
+  </programme>
+  <programme start="20260917073211 +0200" stop="20260917085711 +0200" channel="esport3">
     <title lang="ca">Gol a gol</title>
     <sub-title lang="ca">Gol a gol - Post Barça-Racing / J6</sub-title>
     <desc lang="ca">'Gol a gol' us ofereix els resums dels partits de futbol de Primera i Segona Divisió. Presentat per Jordi Grau a Esport3, cada dissabte i cada diumenge podeu veure les millors imatges de la jornada de Lliga amb l'anàlisi dels experts, amb especial atenció als equips catalans, sobretot el Barça, el Girona i l'Espanyol.</desc>
-    <length units="seconds">5085</length>
+    <length units="seconds">5100</length>
     <episode-num system="onscreen">1781</episode-num>
     <category lang="ca">ESPORTS</category>
     <category lang="ca">MAGAZINE</category>
@@ -93,12 +91,12 @@
   <channel id="sx3">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20260917022447 +0200" stop="20260917024554 +0200" channel="sx3">
-    <title lang="ca">Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
-    <sub-title lang="ca">Prodigiosa: Les aventures de Ladybug i Gat Noir - Inverso</sub-title>
-    <desc lang="ca">Al Nathaniel li agrada molt dibuixar personatges de còmic, però no té idees per als guions. La Marinette li vol presentar el Marc, que té molt de talent per escriure, però per culpa d'un malentès, el Marc s'enfada i cau a les mans de l'Esfinx, que no dubtarà en convertir-lo en l'Invrerso, un malvat amb el poder d'invertir la manera de ser de la gent.</desc>
-    <length units="seconds">1267</length>
-    <episode-num system="onscreen">46</episode-num>
+  <programme start="20260917072006 +0200" stop="20260917073039 +0200" channel="sx3">
+    <title lang="ca">La Patrulla Peluda</title>
+    <sub-title lang="ca">La Patrulla Peluda - La Patrulla salva un amic</sub-title>
+    <desc lang="ca">En Marshall decideix plegar una temporada de la Patrulla Peluda perquè es pensa que els companys no el volen, però els companys de seguida el van a buscar!</desc>
+    <length units="seconds">633</length>
+    <episode-num system="onscreen">73</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
@@ -107,12 +105,12 @@
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20260917024554 +0200" stop="20260917030632 +0200" channel="sx3">
-    <title lang="ca">Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
-    <sub-title lang="ca">Prodigiosa: Les aventures de Ladybug i Gat Noir - Anansi</sub-title>
-    <desc lang="ca">Avui fan uns focs artificials a París, i els nostres amics els volen anar a veure des de la nòria de la plaça de la Concòrdia. Però la Nora, la germana gran de l'Alya, no vol deixar sortir la seva germaneta perquè diu que és perillós. Com que no li fan cas, la Nora s'enfada, i l'Esfinx ho aprofita per convertir-la en una nova supermalvada.</desc>
-    <length units="seconds">1238</length>
-    <episode-num system="onscreen">47</episode-num>
+  <programme start="20260917073039 +0200" stop="20260917074255 +0200" channel="sx3">
+    <title lang="ca">La Patrulla Peluda</title>
+    <sub-title lang="ca">La Patrulla Peluda - La Patrulla salva una polissona</sub-title>
+    <desc lang="ca">La Patrulla Peluda se'n va a comptar pingüins i es troba una polissona al Patrullabús que s'escapa amb una màquina llevaneu!</desc>
+    <length units="seconds">736</length>
+    <episode-num system="onscreen">74</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
@@ -124,28 +122,28 @@
   <channel id="c33">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20260917022912 +0200" stop="20260917032119 +0200" channel="c33">
-    <title lang="ca">Sota terra</title>
-    <sub-title lang="ca">Sota terra - Domus del Pi: la casa més antiga de Catalunya</sub-title>
-    <desc lang="ca">A tocar del pantà de Sau, al municipi de Vilanova de Sau, hi ha l'anomenada 'Domus del Pi', una vella construcció medieval formada per un edifici de planta rectangular amb una coberta de volta una mica apuntada, amb la porta a la part de migdia i una finestra a llevant. Es creu que l'edificació era de caire militar. Però el dubte principal és saber de quina època és exactament. Sobre la datació, es defensen dues teories, una que és del segle XI-XII i l'altra, que podria ser anterior (segles VIII i IX) i que fins i tot va tenir assentaments als segles I a III, ja que s'hi ha trobat una sitja i alguns materials que poden datar de l'època dels ibers. A banda d'intentar saber amb exactitud de quan és, busquem també les dimensions reals d'aquesta 'domus' així com les seves funcions (si era una casa, o una mena de fortalesa defensiva, etc).</desc>
-    <length units="seconds">3127</length>
-    <episode-num system="onscreen">5</episode-num>
-    <category lang="ca">DIVULGACIÓ</category>
-    <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
+  <programme start="20260917063002 +0200" stop="20260917072017 +0200" channel="c33">
+    <title lang="ca">El Foraster</title>
+    <sub-title lang="ca">El Foraster - Cadaqués</sub-title>
+    <desc lang="ca">Punt de visita obligada pels turistes i font d'inspiració per artistes de tot el món, Cadaqués és, probablement, un dels pobles més coneguts de Catalunya. Però en Quim hi arriba amb la intenció de conèixer el poble que hi ha rere la postal, perquè un poble no el coneixes fins que coneixes la seva gent. Així, entre d'altres, en Quim s'embarcarà amb l'Isca i en Linares, els últims pescadors de Port Lligat, farà una visita molt animal al parc del Cap de Creus amb en Dionís i descobrirà, de la mà de l'Eli, la vida que batega sota l'aigua de Cadaqués, en el que serà el seu bateig de submarinisme. 48 hores intenses on coneixerem l'autèntic caràcter de la gent que viu en aquest icònic poble de l'Alt Empordà.</desc>
+    <length units="seconds">3015</length>
+    <episode-num system="onscreen">77</episode-num>
+    <category lang="ca">ENTRETENIMENT</category>
+    <category lang="ca">VARIETATS</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20260917032119 +0200" stop="20260917041440 +0200" channel="c33">
-    <title lang="ca">Sota terra</title>
-    <sub-title lang="ca">Sota terra - Batalla de Talamanca 1714: la darrera victòria catalana</sub-title>
-    <desc lang="ca">En el marc de la Guerra de Successió, a l'agost de 1714 va tenir lloc al poble de Talamanca una gran batalla entre l'exèrcit català i el borbònic de Felip V. El comandant de les tropes catalanes, el marquès del Poal, va deixar escrita la narració de l'enfrontament. Amb gran detall, explicava com havia transcorregut la victòria catalana, que seria la darrera abans de la desfeta de l'Onze de setembre i de la capitulació final. En aquest capítol fem una excavació força atípica: usant la tecnologia (detectors de metalls, localitzadors de GPS,…) intentarem saber com va anar la batalla amb exactitud. Si trobem projectils i esbrinem quin exèrcit els van disparar, podrem saber si la batalla va transcórrer com descriu el marquès del Poal en el seu text i, per tant, certificar científicament que l'exèrcit català va guanyar aquell enfrontament. També buscarem unes desenes de cadàvers que, segons diu la tradició, són de soldats morts durant la batalla i que estan enterrats a la plaça del poble. </desc>
-    <length units="seconds">3201</length>
-    <episode-num system="onscreen">6</episode-num>
-    <category lang="ca">DIVULGACIÓ</category>
-    <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
+  <programme start="20260917072017 +0200" stop="20260917081301 +0200" channel="c33">
+    <title lang="ca">Experiència Catalana</title>
+    <sub-title lang="ca">Experiència Catalana - Annabel</sub-title>
+    <desc lang="ca">Amb l'Annabel Candy, una dona australiana, visitem Montserrat i la Vall de Núria. Ja a Barcelona, la Ivana Miño la porta a la Pedrera i a l'Anella Olímpica, però el viatge no acaba aquí, sinó al Carnaval de Vilanova.</desc>
+    <length units="seconds">3164</length>
+    <episode-num system="onscreen">4</episode-num>
+    <category lang="ca">ENTRETENIMENT</category>
+    <category lang="ca">ALTRES</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
