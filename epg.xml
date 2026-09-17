@@ -3,55 +3,54 @@
   <channel id="tvi">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20260917000616 +0200" stop="20260917003535 +0200" channel="tvi">
-    <title lang="ca">Blanc sobre blanc</title>
-    <sub-title lang="ca">Blanc sobre blanc - Matèria</sub-title>
-    <desc lang="ca">Xavier Corberó ens convida a la seva casa taller d'Esplugues de Llobregat, un entramat de passadissos i galeries a través dels quals farem un repàs de la seva obra i dels materials emprats al llarg de la seva trajectòria. I entrem al taller de Gerard Mas, un escultor que utilitza els materials i les tècniques més tradicionals per a realitzar una obra intemporal, irònica i provocativa. </desc>
-    <length units="seconds">1759</length>
-    <episode-num system="onscreen">5</episode-num>
-    <category lang="ca">DIVULGACIÓ</category>
-    <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <subtitles type="teletext"/>
-    <previously-shown/>
-  </programme>
-  <programme start="20260917003535 +0200" stop="20260917004639 +0200" channel="tvi">
-    <title lang="ca">Talent creatiu</title>
-    <sub-title lang="ca">Talent creatiu - Sasha Chaves, colorista natural</sub-title>
-    <desc lang="ca">Sasha Chaves fa colors amb les terres de Catalunya. La seva història és hipnòtica, inspiradora i captivadora. Transmet la seva passió per la història, la pintura i les arts plàstiques. </desc>
-    <length units="seconds">664</length>
-    <episode-num system="onscreen">7</episode-num>
-    <category lang="ca">ENTRETENIMENT</category>
-    <category lang="ca">ALTRES</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <subtitles type="teletext"/>
-    <previously-shown/>
-  </programme>
-  <channel id="324">
-    <display-name>324</display-name>
-  </channel>
-  <programme start="20260917000000 +0200" stop="20260917003000 +0200" channel="324">
+  <programme start="20260917010000 +0200" stop="20260917040000 +0200" channel="tvi">
     <title lang="ca">Notícies 3CatInfo</title>
+    <sub-title lang="ca">Notícies 3CatInfo</sub-title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">1800</length>
-    <episode-num system="onscreen">11190</episode-num>
+    <length units="seconds">10800</length>
+    <episode-num system="onscreen">11191</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <subtitles type="teletext"/>
+    <previously-shown/>
     <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
-  <programme start="20260917003000 +0200" stop="20260917010000 +0200" channel="324">
+  <programme start="20260917040000 +0200" stop="20260917050001 +0200" channel="tvi">
+    <title lang="ca">Ritmes a l'estudi</title>
+    <sub-title lang="ca">Ritmes a l'estudi - DR. GO</sub-title>
+    <desc lang="ca">El trio es mou sota l'estela dels 'Organ combos', sorgits a finals dels 90 i amb regust de l'era daurada dels trios de Hammond. El resultat és una trobada entre el jazz modern, l'electrofunk, el rock i, fins i tot, el bolero. Francisco Suáez a l'orgue, Ignasi Cussó a la guitarra i Ramón Díaz a la bateria. Són Dr. Go.</desc>
+    <length units="seconds">3601</length>
+    <episode-num system="onscreen">3</episode-num>
+    <category lang="ca">MUSICALS</category>
+    <category lang="ca">ALTRES</category>
+    <rating>
+      <value>PÚBLIC ADULT</value>
+    </rating>
+    <previously-shown/>
+  </programme>
+  <channel id="324">
+    <display-name>324</display-name>
+  </channel>
+  <programme start="20260917010000 +0200" stop="20260917060000 +0200" channel="324">
     <title lang="ca">Notícies 3CatInfo</title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">1800</length>
+    <length units="seconds">18000</length>
     <episode-num system="onscreen">11191</episode-num>
+    <category lang="ca">ACTUALITAT</category>
+    <category lang="ca">INFORMATIU DIÀRI</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <previously-shown/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
+  </programme>
+  <programme start="20260917060000 +0200" stop="20260917080000 +0200" channel="324">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="seconds">7200</length>
+    <episode-num system="onscreen">11192</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
@@ -62,44 +61,44 @@
   <channel id="esport3">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20260916233617 +0200" stop="20260917004236 +0200" channel="esport3">
-    <title lang="ca">I l'Àliga vola: Sergi Mingote, K2</title>
-    <sub-title lang="ca">I l'Àliga vola: Sergi Mingote, K2 - L'Àliga vola</sub-title>
-    <desc lang="ca">'I l'àliga vola' narra l'últim repte de Sergi Mingote, fer cim al K2, la segona muntanya més alta del món i una de les més mortíferes, i fer-ho a l'hivern, que és el que en aquell moment encara ningú havia aconseguit.Però el mateix temps el documental també narra totes les vivències que envolten les expedicions així com el dia a dia de la seva família mentre ell intentava aconseguir el seu repte. És doncs, un viatge intern i extern que vindrà acompanyat dels testimonis d'aquells que han format part de la vida del Sergi, acompanyant-lo en els seus reptes.</desc>
-    <length units="seconds">3979</length>
-    <episode-num system="onscreen">1</episode-num>
-    <category lang="ca">ACTUALITAT</category>
-    <category lang="ca">DOCUMENTAL</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <subtitles type="teletext"/>
-    <previously-shown/>
-  </programme>
-  <programme start="20260917004236 +0200" stop="20260917010717 +0200" channel="esport3">
-    <title lang="ca">E3</title>
-    <sub-title lang="ca">E3 - Monster Jam / Anaheim / 1</sub-title>
-    <desc lang="ca">Aquesta competició de motor compta amb els vehicles de quatre rodes més espectaculars. Monster Jam posa a prova la velocitat i la destresa dels pilots en un circuit ple d'obstacles!</desc>
-    <length units="seconds">1481</length>
-    <episode-num system="onscreen">2241</episode-num>
+  <programme start="20260917023221 +0200" stop="20260917032446 +0200" channel="esport3">
+    <title lang="ca">WRC</title>
+    <sub-title lang="ca">WRC - Ral·li de Xile / WRC 2026 / Resum final</sub-title>
+    <desc lang="ca">Antepenúltima prova del Campionat del Món. El Ral·li de Xile té un recorregut de 311 quilòmetres, per carreteres de terra, en 16 trams cronometrats. Els moments decisius i les imatges més espectaculars amb la conducció de Noel Rodríguez, i l'assistència de Santi Torres.</desc>
+    <length units="seconds">3145</length>
+    <episode-num system="onscreen">256</episode-num>
     <category lang="ca">ESPORTS</category>
-    <category lang="ca">REPORTATGES</category>
+    <category lang="ca">RETRANSMISSIONS ESPORTS</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <previously-shown/>
+    <icon src="https://img.3cat.cat/multimedia/jpg/1/7/1783953384771.jpg"/>
+  </programme>
+  <programme start="20260917032446 +0200" stop="20260917044931 +0200" channel="esport3">
+    <title lang="ca">Gol a gol</title>
+    <sub-title lang="ca">Gol a gol - Post Barça-Racing / J6</sub-title>
+    <desc lang="ca">'Gol a gol' us ofereix els resums dels partits de futbol de Primera i Segona Divisió. Presentat per Jordi Grau a Esport3, cada dissabte i cada diumenge podeu veure les millors imatges de la jornada de Lliga amb l'anàlisi dels experts, amb especial atenció als equips catalans, sobretot el Barça, el Girona i l'Espanyol.</desc>
+    <length units="seconds">5085</length>
+    <episode-num system="onscreen">1781</episode-num>
+    <category lang="ca">ESPORTS</category>
+    <category lang="ca">MAGAZINE</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
-    <icon src="https://statics.ccma.cat/multimedia/jpg/3/3/1747128751633.jpg "/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/2/1/1698144123212.jpg"/>
   </programme>
   <channel id="sx3">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20260917001026 +0200" stop="20260917003125 +0200" channel="sx3">
-    <title lang="ca">Els germans Kratt</title>
-    <sub-title lang="ca">Els germans Kratt - L'Ullassos, el rei de la nit</sub-title>
-    <desc lang="ca">En Chris i en Martin s'han emportat l'últim invent de l'Aviva, les Ulleres de Visió Nocturna de Gran Potència, però ho han fet sense demanar-li permís, perquè saben que encara no estan del tot acabades. Les necessiten per localitzar un tarser i aprendre'n els costums, però aviat es quedaran a les fosques... i hauran de salvar tota una família de tarsers!</desc>
-    <length units="seconds">1259</length>
-    <episode-num system="onscreen">39</episode-num>
+  <programme start="20260917022447 +0200" stop="20260917024554 +0200" channel="sx3">
+    <title lang="ca">Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
+    <sub-title lang="ca">Prodigiosa: Les aventures de Ladybug i Gat Noir - Inverso</sub-title>
+    <desc lang="ca">Al Nathaniel li agrada molt dibuixar personatges de còmic, però no té idees per als guions. La Marinette li vol presentar el Marc, que té molt de talent per escriure, però per culpa d'un malentès, el Marc s'enfada i cau a les mans de l'Esfinx, que no dubtarà en convertir-lo en l'Invrerso, un malvat amb el poder d'invertir la manera de ser de la gent.</desc>
+    <length units="seconds">1267</length>
+    <episode-num system="onscreen">46</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
@@ -108,12 +107,12 @@
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20260917003125 +0200" stop="20260917005255 +0200" channel="sx3">
-    <title lang="ca">Els germans Kratt</title>
-    <sub-title lang="ca">Els germans Kratt - Col·lecció de rapinyaires</sub-title>
-    <desc lang="ca">Mentre en Chris i en Martin estan intentant fer un inventari de tots els rapinyaires que coneixen, en Gormand, el xef més creatiu del món, segons ell, esclar, s'acaba d'inventar un nou plat: rapinyaire rostit. Primer capturarà totes les espècies del món per descobrir quin és el més deliciós i, tot seguit, es farà famós! Això si no l'hi impedeix l'Equip Kratt, evidentment!</desc>
-    <length units="seconds">1290</length>
-    <episode-num system="onscreen">40</episode-num>
+  <programme start="20260917024554 +0200" stop="20260917030632 +0200" channel="sx3">
+    <title lang="ca">Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
+    <sub-title lang="ca">Prodigiosa: Les aventures de Ladybug i Gat Noir - Anansi</sub-title>
+    <desc lang="ca">Avui fan uns focs artificials a París, i els nostres amics els volen anar a veure des de la nòria de la plaça de la Concòrdia. Però la Nora, la germana gran de l'Alya, no vol deixar sortir la seva germaneta perquè diu que és perillós. Com que no li fan cas, la Nora s'enfada, i l'Esfinx ho aprofita per convertir-la en una nova supermalvada.</desc>
+    <length units="seconds">1238</length>
+    <episode-num system="onscreen">47</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
@@ -125,63 +124,26 @@
   <channel id="c33">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20260916224653 +0200" stop="20260917003553 +0200" channel="c33">
-    <title lang="ca">Pel·lícula</title>
-    <sub-title lang="ca">Pel·lícula - Tootsie</sub-title>
-    <desc lang="ca">TOOTSIE (Tootsie)Idioma versió original: anglèsProducció: Sydney Pollack i Dick Richards per a Mirage/Punch i Columbia, 1982Direcció: Sydney Pollack / Durada: 116 minuts Guió: Larry Gelbart i Murray SchisgalFotografia: Owen Roizman (color)Música: Dave GrusinIntèrprets: Dustin Hoffman (Michael Dorsey / Dorothy Michaels), Jessica Lange (Julie), Teri Garr (Sandy), Dabney Coleman (Ron), Charles Durning (Les), Bil Murray (Jeff)No hi ha ningú que vulgui contractar l'actor Michael Dorsey perquè s'ha barallat amb tots els productors de Nova York. Quan la seva amiga Sandy fracassa en una prova per fer d'actriu en una sèrie de televisió. Michael es fa passar per 'Dorothy Michaels' i aconsegueix el paper. En la conxorxa hi ha ficats, a més, el seu agent, George, i el seu company d'habitació, Jeff. Tot rutlla molt bé fins que 'Dorothy' s'enamora de Julie, la preciosa actriu que hi fa de coprotagonista, i el pare de Julie, Les, s'enamora de 'Dorothy'.</desc>
-    <credits>
-      <director>Sydney Pollack / Durada: 116 minuts</director>
-      <writer>Larry Gelbart</writer>
-      <writer>Murray SchisgalFotografia: Owen Roizman (color)Música: Dave GrusinIntèrprets: Dustin Hoffman (Michael Dorsey / Dorothy Michaels)</writer>
-      <writer>Jessica Lange (Julie)</writer>
-      <writer>Teri Garr (Sandy)</writer>
-      <writer>Dabney Coleman (Ron)</writer>
-      <writer>Charles Durning (Les)</writer>
-      <writer>Bil Murray (Jeff)No hi ha ningú que vulgui contractar l'actor Michael Dorsey perquè s'ha barallat amb tots els productors de Nova York. Quan la seva amiga Sandy fracassa en una prova per fer d'actriu en una sèrie de televisió. Michael es fa passar per 'Dorothy Michaels'</writer>
-      <writer>aconsegueix el paper. En la conxorxa hi ha ficats</writer>
-      <writer>a més</writer>
-      <writer>el seu agent</writer>
-      <writer>George</writer>
-      <writer>el seu company d'habitació</writer>
-      <writer>Jeff. Tot rutlla molt bé fins que 'Dorothy' s'enamora de Julie</writer>
-      <writer>la preciosa actriu que hi fa de coprotagonista</writer>
-      <writer>el pare de Julie</writer>
-      <writer>Les</writer>
-      <writer>s'enamora de 'Dorothy'.</writer>
-      <actor>Dustin Hoffman (Michael Dorsey / Dorothy Michaels)</actor>
-      <actor>Jessica Lange (Julie)</actor>
-      <actor>Teri Garr (Sandy)</actor>
-      <actor>Dabney Coleman (Ron)</actor>
-      <actor>Charles Durning (Les)</actor>
-      <actor>Bil Murray (Jeff)No hi ha ningú que vulgui contractar l'actor Michael Dorsey perquè s'ha barallat amb tots els productors de Nova York. Quan la seva amiga Sandy fracassa en una prova per fer d'actriu en una sèrie de televisió. Michael es fa passar per 'Dorothy Michaels'</actor>
-      <actor>aconsegueix el paper. En la conxorxa hi ha ficats</actor>
-      <actor>a més</actor>
-      <actor>el seu agent</actor>
-      <actor>George</actor>
-      <actor>el seu company d'habitació</actor>
-      <actor>Jeff. Tot rutlla molt bé fins que 'Dorothy' s'enamora de Julie</actor>
-      <actor>la preciosa actriu que hi fa de coprotagonista</actor>
-      <actor>el pare de Julie</actor>
-      <actor>Les</actor>
-      <actor>s'enamora de 'Dorothy'.</actor>
-    </credits>
-    <length units="seconds">6540</length>
-    <episode-num system="onscreen">1</episode-num>
-    <category lang="ca">FICCIÓ</category>
-    <category lang="ca">PEL·LÍCULA / TELEFILM</category>
+  <programme start="20260917022912 +0200" stop="20260917032119 +0200" channel="c33">
+    <title lang="ca">Sota terra</title>
+    <sub-title lang="ca">Sota terra - Domus del Pi: la casa més antiga de Catalunya</sub-title>
+    <desc lang="ca">A tocar del pantà de Sau, al municipi de Vilanova de Sau, hi ha l'anomenada 'Domus del Pi', una vella construcció medieval formada per un edifici de planta rectangular amb una coberta de volta una mica apuntada, amb la porta a la part de migdia i una finestra a llevant. Es creu que l'edificació era de caire militar. Però el dubte principal és saber de quina època és exactament. Sobre la datació, es defensen dues teories, una que és del segle XI-XII i l'altra, que podria ser anterior (segles VIII i IX) i que fins i tot va tenir assentaments als segles I a III, ja que s'hi ha trobat una sitja i alguns materials que poden datar de l'època dels ibers. A banda d'intentar saber amb exactitud de quan és, busquem també les dimensions reals d'aquesta 'domus' així com les seves funcions (si era una casa, o una mena de fortalesa defensiva, etc).</desc>
+    <length units="seconds">3127</length>
+    <episode-num system="onscreen">5</episode-num>
+    <category lang="ca">DIVULGACIÓ</category>
+    <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
-    <icon src="https://img.3cat.cat/multimedia/jpg/7/8/1787914062487.jpg"/>
   </programme>
-  <programme start="20260917003553 +0200" stop="20260917005935 +0200" channel="c33">
-    <title lang="ca">Nens de la ruta de la seda</title>
-    <sub-title lang="ca">Nens de la ruta de la seda - El nen forçut</sub-title>
-    <desc lang="ca">En Lochin és un nen de l'Uzbekistan que forma part d'una companyia de circ familiar. Tot i que des de fa una temporada li toca fer de pallasso als espectacles, ell el que vol de debò és ser l'home forçut, com el seu avi. Gràcies a la seva força de voluntat i entrenant-se molt, anirà enfortint els músculs i s'anirà preparant per aconseguir el repte que s'ha proposat: deixar que un cotxe li passi per sobre el braç. Se'n sortirà?</desc>
-    <length units="seconds">1422</length>
-    <episode-num system="onscreen">10</episode-num>
+  <programme start="20260917032119 +0200" stop="20260917041440 +0200" channel="c33">
+    <title lang="ca">Sota terra</title>
+    <sub-title lang="ca">Sota terra - Batalla de Talamanca 1714: la darrera victòria catalana</sub-title>
+    <desc lang="ca">En el marc de la Guerra de Successió, a l'agost de 1714 va tenir lloc al poble de Talamanca una gran batalla entre l'exèrcit català i el borbònic de Felip V. El comandant de les tropes catalanes, el marquès del Poal, va deixar escrita la narració de l'enfrontament. Amb gran detall, explicava com havia transcorregut la victòria catalana, que seria la darrera abans de la desfeta de l'Onze de setembre i de la capitulació final. En aquest capítol fem una excavació força atípica: usant la tecnologia (detectors de metalls, localitzadors de GPS,…) intentarem saber com va anar la batalla amb exactitud. Si trobem projectils i esbrinem quin exèrcit els van disparar, podrem saber si la batalla va transcórrer com descriu el marquès del Poal en el seu text i, per tant, certificar científicament que l'exèrcit català va guanyar aquell enfrontament. També buscarem unes desenes de cadàvers que, segons diu la tradició, són de soldats morts durant la batalla i que estan enterrats a la plaça del poble. </desc>
+    <length units="seconds">3201</length>
+    <episode-num system="onscreen">6</episode-num>
     <category lang="ca">DIVULGACIÓ</category>
     <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
     <rating>
