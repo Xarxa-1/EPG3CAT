@@ -3,40 +3,38 @@
   <channel id="tvi">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20260917060000 +0200" stop="20260917080000 +0200" channel="tvi">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">Notícies 3CatInfo</sub-title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">7200</length>
-    <episode-num system="onscreen">11192</episode-num>
+  <programme start="20260917103038 +0200" stop="20260917135500 +0200" channel="tvi">
+    <title lang="ca">Tot es mou</title>
+    <sub-title lang="ca">Tot es mou</sub-title>
+    <desc lang="ca">El programa presentat per Helena Garcia Melero s'emet de dilluns a divendres, de 10.30 a 13.55. Un magazín d'actualitat que busca informar, analitzar i debatre sobre temes que marquen l'actualitat social, econòmica i cultural del dia, amb una àmplia presència en directe dels reporters i reporteres, repartits per tot Catalunya. A més, el 'Tot es mou' compta amb seccions diàries de gastronomia (amb els principals cuiners i cuineres del país), successos, economia, mobilitat, temes mèdics i de tecnologia, entre d'altres.</desc>
+    <length units="seconds">12262</length>
+    <episode-num system="onscreen">1810</episode-num>
     <category lang="ca">ACTUALITAT</category>
-    <category lang="ca">INFORMATIU DIÀRI</category>
+    <category lang="ca">MAGAZINE</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
-  <programme start="20260917080000 +0200" stop="20260917103000 +0200" channel="tvi">
-    <title lang="ca">Matins</title>
-    <sub-title lang="ca">Matins</sub-title>
-    <desc lang="ca">'Matins' és un dels puntals informatius de TV3. El programa matinal dona les claus del dia que comença, explica les notícies que han passat aportant-ne el context per entendre-les i analitza amb veus acreditades l'actualitat més propera i la d'arreu del món. 'Matins' comença a les 8 del matí, de dilluns a divendres, i està presentat per Ariadna Oltra.</desc>
-    <length units="seconds">9000</length>
-    <episode-num system="onscreen">4673</episode-num>
+  <programme start="20260917135500 +0200" stop="20260917143000 +0200" channel="tvi">
+    <title lang="ca">Telenotícies comarques</title>
+    <sub-title lang="ca">Telenotícies comarques</sub-title>
+    <length units="seconds">2100</length>
+    <episode-num system="onscreen">7036</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <icon src="https://img.ccma.cat/multimedia/jpg/2/0/1758040151402.jpg"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/5/2/1758026313525.jpg"/>
   </programme>
   <channel id="324">
     <display-name>324</display-name>
   </channel>
-  <programme start="20260917060000 +0200" stop="20260917080000 +0200" channel="324">
+  <programme start="20260917120000 +0200" stop="20260917135500 +0200" channel="324">
     <title lang="ca">Notícies 3CatInfo</title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">7200</length>
-    <episode-num system="onscreen">11192</episode-num>
+    <length units="seconds">6900</length>
+    <episode-num system="onscreen">11194</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
@@ -45,39 +43,25 @@
     <subtitles type="teletext"/>
     <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
-  <programme start="20260917080000 +0200" stop="20260917103000 +0200" channel="324">
-    <title lang="ca">Matins</title>
-    <desc lang="ca">'Matins' és un dels puntals informatius de TV3. El programa matinal dona les claus del dia que comença, explica les notícies que han passat aportant-ne el context per entendre-les i analitza amb veus acreditades l'actualitat més propera i la d'arreu del món. 'Matins' comença a les 8 del matí, de dilluns a divendres, i està presentat per Ariadna Oltra.</desc>
-    <length units="seconds">9000</length>
-    <episode-num system="onscreen">4673</episode-num>
+  <programme start="20260917135500 +0200" stop="20260917143000 +0200" channel="324">
+    <title lang="ca">Telenotícies comarques</title>
+    <length units="seconds">2100</length>
+    <episode-num system="onscreen">7036</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <icon src="https://img.ccma.cat/multimedia/jpg/2/0/1758040151402.jpg"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/5/2/1758026313525.jpg"/>
   </programme>
   <channel id="esport3">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20260917065503 +0200" stop="20260917073211 +0200" channel="esport3">
-    <title lang="ca">Zona Zàping Club</title>
-    <sub-title lang="ca">Zona Zàping Club - Mari Pau Huguet tanca l'estiu acceptant l'últim gran repte</sub-title>
-    <desc lang="ca">La darrera convidada de la temporada posa a prova la seva intuïció en una edició molt especial d''Això acaba...', amb el Zapi preparat per entregar els últims premis de l'estiu.</desc>
-    <length units="seconds">2228</length>
-    <episode-num system="onscreen">13</episode-num>
-    <category lang="ca">ESPORTS</category>
-    <category lang="ca">ESPECIALS</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <subtitles type="teletext"/>
-  </programme>
-  <programme start="20260917073211 +0200" stop="20260917085711 +0200" channel="esport3">
+  <programme start="20260917113529 +0200" stop="20260917130000 +0200" channel="esport3">
     <title lang="ca">Gol a gol</title>
     <sub-title lang="ca">Gol a gol - Post Barça-Racing / J6</sub-title>
     <desc lang="ca">'Gol a gol' us ofereix els resums dels partits de futbol de Primera i Segona Divisió. Presentat per Jordi Grau a Esport3, cada dissabte i cada diumenge podeu veure les millors imatges de la jornada de Lliga amb l'anàlisi dels experts, amb especial atenció als equips catalans, sobretot el Barça, el Girona i l'Espanyol.</desc>
-    <length units="seconds">5100</length>
+    <length units="seconds">5071</length>
     <episode-num system="onscreen">1781</episode-num>
     <category lang="ca">ESPORTS</category>
     <category lang="ca">MAGAZINE</category>
@@ -88,29 +72,43 @@
     <previously-shown/>
     <icon src="https://img.ccma.cat/multimedia/jpg/2/1/1698144123212.jpg"/>
   </programme>
+  <programme start="20260917130000 +0200" stop="20260917140104 +0200" channel="esport3">
+    <title lang="ca">Esport Club</title>
+    <sub-title lang="ca">Esport Club</sub-title>
+    <desc lang="ca">En Jordi Sanuy i Víctor Patsi us expliquen l'última hora esportiva i l'analitzen amb el seu equip de col·laboradors. El programa és molt actiu a les xarxes socials. L''Esport Club' té presència a Twitter, a Facebook i a Instagram. L'espai dirigeix moltes accions de participació amb l'audiència a través de les xarxes socials.</desc>
+    <length units="seconds">3664</length>
+    <episode-num system="onscreen">3242</episode-num>
+    <category lang="ca">ESPORTS</category>
+    <category lang="ca">INFORMATIU DIÀRI</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <subtitles type="teletext"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/7/3/1698145091337.jpg"/>
+  </programme>
   <channel id="sx3">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20260917072006 +0200" stop="20260917073039 +0200" channel="sx3">
-    <title lang="ca">La Patrulla Peluda</title>
-    <sub-title lang="ca">La Patrulla Peluda - La Patrulla salva un amic</sub-title>
-    <desc lang="ca">En Marshall decideix plegar una temporada de la Patrulla Peluda perquè es pensa que els companys no el volen, però els companys de seguida el van a buscar!</desc>
-    <length units="seconds">633</length>
-    <episode-num system="onscreen">73</episode-num>
+  <programme start="20260917121358 +0200" stop="20260917122627 +0200" channel="sx3">
+    <title lang="ca">Ghost Rockers</title>
+    <sub-title lang="ca">Ghost Rockers</sub-title>
+    <desc lang="ca">Després de la negativa dels Valke a ajudar els Ghost Rockers, la reina els envia un vídeo d'en Jimmy i la Jana captius per comunicar-los que tenen un dia per entregar-li el llibre i salvar-los. Mentrestant, el senyor Ballinc confessa a l'Alex que vol contactar amb l'esperit de la seva neta, en Brandon busca feina per col·laborar en l'economia familiar i alguna cosa comença a sorgir entre l'Eva i en Jonas.</desc>
+    <length units="seconds">749</length>
+    <episode-num system="onscreen">187</episode-num>
     <category lang="ca">FICCIÓ</category>
-    <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
+    <category lang="ca">SÈRIE DRAMÀTICA</category>
     <rating>
       <value>INFANTIL</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20260917073039 +0200" stop="20260917074255 +0200" channel="sx3">
-    <title lang="ca">La Patrulla Peluda</title>
-    <sub-title lang="ca">La Patrulla Peluda - La Patrulla salva una polissona</sub-title>
-    <desc lang="ca">La Patrulla Peluda se'n va a comptar pingüins i es troba una polissona al Patrullabús que s'escapa amb una màquina llevaneu!</desc>
-    <length units="seconds">736</length>
-    <episode-num system="onscreen">74</episode-num>
+  <programme start="20260917122627 +0200" stop="20260917124812 +0200" channel="sx3">
+    <title lang="ca">Els germans Kratt</title>
+    <sub-title lang="ca">Els germans Kratt - El misteri de la morsa estranya</sub-title>
+    <desc lang="ca">En Chris i en Martin estan decidits a descobrir com és que les morses són tan estrambòtiques. Ah! I si de passada en troben alguna altra característica interessant, l'Aviva la podrà integrar als Vestits de Poders Animals! Però resulta que en Zach també va darrere de les morses, i aquest cop treballa per la Donita! Quina una en deuen portar de cap, aquest parell?!</desc>
+    <length units="seconds">1305</length>
+    <episode-num system="onscreen">13</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
@@ -122,28 +120,26 @@
   <channel id="c33">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20260917063002 +0200" stop="20260917072017 +0200" channel="c33">
-    <title lang="ca">El Foraster</title>
-    <sub-title lang="ca">El Foraster - Cadaqués</sub-title>
-    <desc lang="ca">Punt de visita obligada pels turistes i font d'inspiració per artistes de tot el món, Cadaqués és, probablement, un dels pobles més coneguts de Catalunya. Però en Quim hi arriba amb la intenció de conèixer el poble que hi ha rere la postal, perquè un poble no el coneixes fins que coneixes la seva gent. Així, entre d'altres, en Quim s'embarcarà amb l'Isca i en Linares, els últims pescadors de Port Lligat, farà una visita molt animal al parc del Cap de Creus amb en Dionís i descobrirà, de la mà de l'Eli, la vida que batega sota l'aigua de Cadaqués, en el que serà el seu bateig de submarinisme. 48 hores intenses on coneixerem l'autèntic caràcter de la gent que viu en aquest icònic poble de l'Alt Empordà.</desc>
-    <length units="seconds">3015</length>
-    <episode-num system="onscreen">77</episode-num>
-    <category lang="ca">ENTRETENIMENT</category>
-    <category lang="ca">VARIETATS</category>
+  <programme start="20260917120643 +0200" stop="20260917121413 +0200" channel="c33">
+    <title lang="ca">Cuines</title>
+    <sub-title lang="ca">Cuines - Bonítol amb alberginia i raïm</sub-title>
+    <length units="seconds">450</length>
+    <episode-num system="onscreen">3334</episode-num>
+    <category lang="ca">DIVULGACIÓ</category>
+    <category lang="ca">MAGAZINE ESPECIALITZAT</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20260917072017 +0200" stop="20260917081301 +0200" channel="c33">
-    <title lang="ca">Experiència Catalana</title>
-    <sub-title lang="ca">Experiència Catalana - Annabel</sub-title>
-    <desc lang="ca">Amb l'Annabel Candy, una dona australiana, visitem Montserrat i la Vall de Núria. Ja a Barcelona, la Ivana Miño la porta a la Pedrera i a l'Anella Olímpica, però el viatge no acaba aquí, sinó al Carnaval de Vilanova.</desc>
-    <length units="seconds">3164</length>
-    <episode-num system="onscreen">4</episode-num>
-    <category lang="ca">ENTRETENIMENT</category>
-    <category lang="ca">ALTRES</category>
+  <programme start="20260917121413 +0200" stop="20260917122136 +0200" channel="c33">
+    <title lang="ca">Cuines</title>
+    <sub-title lang="ca">Cuines - Mousse de xocolata</sub-title>
+    <length units="seconds">443</length>
+    <episode-num system="onscreen">3335</episode-num>
+    <category lang="ca">DIVULGACIÓ</category>
+    <category lang="ca">MAGAZINE ESPECIALITZAT</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
