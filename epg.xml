@@ -3,39 +3,52 @@
   <channel id="tvi">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20260917201502 +0200" stop="20260917210000 +0200" channel="tvi">
-    <title lang="ca">Està passant</title>
-    <sub-title lang="ca">Està passant</sub-title>
-    <desc lang="ca">La Natza i el Jair ens expliquen la visita de Salvador Illa a Extremadura. L'Oye Sherman ens porta moments màgics de la tele i la Judit Martín es converteix en instal·ladora d'aires condicionats</desc>
-    <length units="seconds">2698</length>
-    <episode-num system="onscreen">1812</episode-num>
+  <programme start="20260917235258 +0200" stop="20260918003608 +0200" channel="tvi">
+    <title lang="ca">APM?</title>
+    <sub-title lang="ca">APM?</sub-title>
+    <desc lang="ca">Tornem amb les piles carregades, llestos per a la nostra 23ena temporada i disposats a continuar fent història! (Per cert, de moment fem el programa a TV3 els dijous a les 23:45. Però aquells que no sou uns mussols podeu estar tranquils! Per algun motiu també pengem el programa a YouTube! I, a més, també fem reemissió els diumenges abans del 'TN vespre').Aquesta setmana, Joel Díaz tindrà com a convidat sorpresa un dels personatges més estimats del folklore memaire català i de l''APM?': Jaume Creixell. Una nova entrega de 'Però vostè qui és?' (malgrat que tots ja sabem qui és) amb un convidat que té l'habilitat de convertir qualsevol resposta en patrimoni audiovisual català. Una entrevista imprevisible a una llegenda que no necessita presentació. I si no tenim raó, ens la tallem i ens fem monges.Aquesta temporada, Nerea Sanfe donarà altaveu a tot allò que la gent vulgui denunciar o promocionar per la tele, amb un 'On Falla!' més interactiu que mai! Ara vosaltres sou qui ens proposeu les idees de reportatge via Instagram! I la primera proposta? Anar a la manifestació de mestres del 8 de setembre. Aquest cop, però, la lliçó la van donarels docents. Qqueixes, reivindicacions i més d'un 'necessita millorar': el professorat va explicar als nostres micròfons què falla a les aules i quins canvis reclamen mentre la Nerea prenia apunts de tot plegat.I a més, veurem quin és el diputat del Parlament de Catalunya que farmeja lowkey més aura no kirkejadament, ens imaginarem què passarà quan la IA vulgui aniquilar la humanitat o, encara pitjor, descobreixi les frases de l''APM?' i cantarem a l'inici d'una nova temporada al peu del canó al ritme de la 'Superestrella' d'Aitana (o com en diem nosaltres, 'Súper APM?'). #APM3CAT</desc>
+    <length units="seconds">2590</length>
+    <episode-num system="onscreen">878</episode-num>
     <category lang="ca">ENTRETENIMENT</category>
-    <category lang="ca">GAGS. HUMOR</category>
+    <category lang="ca">ALTRES</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <icon src="https://img.ccma.cat/multimedia/png/3/8/1705511272683.png"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/0/2/1442394916120.jpg"/>
   </programme>
-  <programme start="20260917210000 +0200" stop="20260917220549 +0200" channel="tvi">
-    <title lang="ca">Telenotícies vespre</title>
-    <sub-title lang="ca">Telenotícies vespre</sub-title>
-    <length units="seconds">3949</length>
-    <episode-num system="onscreen">7330</episode-num>
+  <programme start="20260918003608 +0200" stop="20260918053738 +0200" channel="tvi">
+    <title lang="ca">Mésnit</title>
+    <sub-title lang="ca">Mésnit</sub-title>
+    <desc lang="ca">El 'Mésnit' arriba a la desena temporada, amb Marina Romero al capdavant de l'espai i amb la voluntat de continuar sent un centre de debat d'idees i d'anàlisi de l'activitat política.</desc>
+    <length units="seconds">18090</length>
+    <episode-num system="onscreen">2161</episode-num>
     <category lang="ca">ACTUALITAT</category>
-    <category lang="ca">INFORMATIU DIÀRI</category>
+    <category lang="ca">DEBAT</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <icon src="https://img.ccma.cat/multimedia/jpg/7/2/1758026176427.jpg"/>
+    <previously-shown/>
   </programme>
   <channel id="324">
     <display-name>324</display-name>
   </channel>
-  <programme start="20260917200000 +0200" stop="20260917210000 +0200" channel="324">
+  <programme start="20260917220500 +0200" stop="20260918000000 +0200" channel="324">
+    <title lang="ca">Mésnit</title>
+    <desc lang="ca">El 'Mésnit' arriba a la desena temporada, amb Marina Romero al capdavant de l'espai i amb la voluntat de continuar sent un centre de debat d'idees i d'anàlisi de l'activitat política.</desc>
+    <length units="seconds">6900</length>
+    <episode-num system="onscreen">2161</episode-num>
+    <category lang="ca">ACTUALITAT</category>
+    <category lang="ca">DEBAT</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <subtitles type="teletext"/>
+  </programme>
+  <programme start="20260918000000 +0200" stop="20260918003000 +0200" channel="324">
     <title lang="ca">Notícies 3CatInfo</title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">3600</length>
-    <episode-num system="onscreen">11198</episode-num>
+    <length units="seconds">1800</length>
+    <episode-num system="onscreen">11199</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
@@ -43,74 +56,64 @@
     </rating>
     <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
-  <programme start="20260917210000 +0200" stop="20260917220500 +0200" channel="324">
-    <title lang="ca">Telenotícies vespre</title>
-    <length units="seconds">3900</length>
-    <episode-num system="onscreen">7330</episode-num>
-    <category lang="ca">ACTUALITAT</category>
-    <category lang="ca">INFORMATIU DIÀRI</category>
+  <channel id="esport3">
+    <display-name>ESPORT3</display-name>
+  </channel>
+  <programme start="20260917230000 +0200" stop="20260918003053 +0200" channel="esport3">
+    <title lang="ca">Onze</title>
+    <sub-title lang="ca">Onze</sub-title>
+    <desc lang="ca">L'Onze es passeja per BarçaAventura, el parc temàtic en què Flick ha convertit el seu equip. Un Barça de vertigen, d'alta velocitat...un depredador de rivals. Analitzem el gran moment del líder de la lliga amb Jordi Martí, Juvenal Edjogo, Irati Vidal i David Bernabéu. També ens visita el Colegiado i les polèmiques arbitrals amb vídeo inclòs de Real Madrid TV. Mayola ens dissecciona el partit de Cancelo i Adeyemi. I acabem amb el consultori d'en Sergi Ferrer.</desc>
+    <length units="seconds">5453</length>
+    <episode-num system="onscreen">1250</episode-num>
+    <category lang="ca">ESPORTS</category>
+    <category lang="ca">MAGAZINE</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/7/2/1758026176427.jpg"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/1/1/1688543515711.jpg"/>
   </programme>
-  <channel id="esport3">
-    <display-name>ESPORT3</display-name>
-  </channel>
-  <programme start="20260917203000 +0200" stop="20260917222312 +0200" channel="esport3">
-    <title lang="ca">Handbol</title>
-    <sub-title lang="ca">Handbol - Montpeller-Barça / EHF Champions / J2</sub-title>
-    <desc lang="ca">En joc, el liderat del grup E. Després de la contundent victòria contra l'Aarhus en el partit d'estrena (39-28), el campió fa el primer desplaçament. Per la seva banda, els francesos van guanyar al Dinamo de Bucarest (27-23). Amb la narració de Vicenç Prados i l'anàlisi de Víctor Tomàs.</desc>
-    <length units="seconds">6792</length>
-    <episode-num system="onscreen">423</episode-num>
+  <programme start="20260918003053 +0200" stop="20260918005030 +0200" channel="esport3">
+    <title lang="ca">3CatInfo Esports</title>
+    <sub-title lang="ca">3CatInfo Esports</sub-title>
+    <desc lang="ca">Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.</desc>
+    <length units="seconds">1177</length>
+    <episode-num system="onscreen">5512</episode-num>
     <category lang="ca">ESPORTS</category>
-    <category lang="ca">RETRANSMISSIONS ESPORTS</category>
+    <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1729614070941.jpg"/>
-  </programme>
-  <programme start="20260917222312 +0200" stop="20260917230000 +0200" channel="esport3">
-    <title lang="ca">Hoquei patins</title>
-    <sub-title lang="ca">Hoquei patins - França-Catalunya / GoldenCat masculina / J1</sub-title>
-    <desc lang="ca">La selecció catalana masculina d'hoquei patins juga contra França el primer partit a la GoldenCat.</desc>
-    <length units="seconds">2208</length>
-    <episode-num system="onscreen">8123</episode-num>
-    <category lang="ca">ESPORTS</category>
-    <category lang="ca">RETRANSMISSIONS ESPORTS</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <icon src="https://img.ccma.cat/multimedia/jpg/4/3/1722012513934.jpg"/>
+    <previously-shown/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/9/7/1758888682179.jpg"/>
   </programme>
   <channel id="sx3">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20260917203745 +0200" stop="20260917210000 +0200" channel="sx3">
-    <title lang="ca">Henry Danger</title>
-    <sub-title lang="ca">Henry Danger - Els globus maleïts</sub-title>
-    <desc lang="ca">El doctor Minyak segresta la reunió dels Man Fans amb un nou pla que obliga el Capità Man i en Kid Danger a intervenir.</desc>
-    <length units="seconds">1335</length>
-    <episode-num system="onscreen">63</episode-num>
+  <programme start="20260917234754 +0200" stop="20260918000855 +0200" channel="sx3">
+    <title lang="ca">Els germans Kratt</title>
+    <sub-title lang="ca">Els germans Kratt - Competició de poders animals</sub-title>
+    <desc lang="ca">Després de veure's atrapats enmig d'una baralla entre un rinoceront i un elefant molt enfadats, els germans Kratt decideixen fer un concurs per comprovar qui és el més fort. Segons en Chris guanyarà el rinoceront, que pot córrer molt més de pressa. En Martin, en canvi, es decanta per l'elefant, que pesa dues tones més! Doncs que guanyi el millor!</desc>
+    <length units="seconds">1261</length>
+    <episode-num system="onscreen">43</episode-num>
     <category lang="ca">FICCIÓ</category>
-    <category lang="ca">SÈRIE DRAMÀTICA</category>
+    <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
       <value>INFANTIL</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20260917210000 +0200" stop="20260917212216 +0200" channel="sx3">
-    <title lang="ca">Bola de drac Z</title>
-    <sub-title lang="ca">Bola de drac Z - La nena mentidera i la decisió d'en Son Gohan</sub-title>
-    <desc lang="ca">N'hi ha que s'estan aprofitant del caos que es viu a tot el món per culpa de la presència d'en Cèl·lula. En Son Gohan, que ha anat a un poblet a comprar tot de coses, coneixerà un home que assegura que té un refugi que resistirà la força d'en Cèl·lula i que cobra diners perquè la gent s'hi pugui aixoplugar. En Son Gohan està decidit a fer saber la veritat a tot el poble.</desc>
-    <length units="seconds">1336</length>
-    <episode-num system="onscreen">170</episode-num>
+  <programme start="20260918000855 +0200" stop="20260918002956 +0200" channel="sx3">
+    <title lang="ca">Els germans Kratt</title>
+    <sub-title lang="ca">Els germans Kratt - Els tèrmits contra les llengües</sub-title>
+    <desc lang="ca">L'Aviva i la Koki, que avui no tenen el dia, han tingut un petit problema amb el miniaturitzador i ara una colla de tèrmits se'ls emporten cap al seu cau convençuts que són brins d'herba. Ara els germans Kratt les hauran de buscar, però a la sabana africana hi ha milions de tèrmits, més que tots els mamífers junts! Com s'ho faran?!</desc>
+    <length units="seconds">1261</length>
+    <episode-num system="onscreen">44</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
-      <value>JUVENIL</value>
+      <value>INFANTIL</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
@@ -118,12 +121,12 @@
   <channel id="c33">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20260917200220 +0200" stop="20260917205928 +0200" channel="c33">
-    <title lang="ca">Un planeta perfecte</title>
-    <sub-title lang="ca">Un planeta perfecte - El Sol</sub-title>
-    <desc lang="ca">L'energia que la Terra rep del Sol és imprescindible per a la vida. Totes les regions del nostre planeta reben la mateixa quantitat d'hores de sol al llarg de l'any, però la inclinació de l'eix sobre el qual gira la Terra fa que el repartiment de les hores de llum i de foscor sigui desigual a tot arreu excepte a l'equador. Ara bé, els éssers vius sempre han sabut adaptar-se als efectes de les diferències d'insolació.</desc>
-    <length units="seconds">3428</length>
-    <episode-num system="onscreen">2</episode-num>
+  <programme start="20260917234840 +0200" stop="20260918003835 +0200" channel="c33">
+    <title lang="ca">Alaska salvatge</title>
+    <sub-title lang="ca">Alaska salvatge - Hivern</sub-title>
+    <desc lang="ca">Un terç d'Alaska és dins del cercle polar àrtic, cosa que fa que l'hivern hi sigui una estació especialment dura, marcada per un fred intensíssim, que congela totes les masses d'aigua, i fins tot el mar. A més, la claror disminueix radicalment, sobretot a l'extrem nord, on el sol es pon durant més de dos mesos. Amb tot, la notable resistència dels habitants d'Alaska els permet suportar els rigors de l'hivern de maneres enginyoses, ja sigui hivernant o buscant fonts d'aliment alternatives</desc>
+    <length units="seconds">2995</length>
+    <episode-num system="onscreen">3</episode-num>
     <category lang="ca">DIVULGACIÓ</category>
     <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
     <rating>
@@ -131,29 +134,24 @@
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
-    <icon src="https://img.3cat.cat/multimedia/jpg/0/9/1766143230590.jpg"/>
   </programme>
-  <programme start="20260917205928 +0200" stop="20260917210111 +0200" channel="c33">
-    <title lang="ca">SENSE FI CANAL 33</title>
-    <desc lang="ca">Sense Descripció</desc>
-    <length units="seconds">103</length>
+  <programme start="20260918003835 +0200" stop="20260918013037 +0200" channel="c33">
+    <title lang="ca">A tocar de l'aigua</title>
+    <sub-title lang="ca">A tocar de l'aigua - El Segre III; El Sió</sub-title>
+    <desc lang="ca">Després d'haver recorregut les capçaleres del Segre i bona part del seu curs mitjà, en aquest episodi ens acompanyarà un riu que travessa la comarca de la Noguera per llevant: el Sió, un petit afluent del Segre que guarda a les seves ribes un ric patrimoni natural i arquitectònic. El resseguirem fins al final i, després de visitar Balaguer, farem camí fins a Vilanova de la Barca.</desc>
+    <length units="seconds">3122</length>
+    <episode-num system="onscreen">6</episode-num>
+    <category lang="ca">DIVULGACIÓ</category>
+    <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <subtitles type="teletext"/>
+    <previously-shown/>
   </programme>
   <channel id="oca1">
     <display-name>OCA1</display-name>
   </channel>
-  <programme start="20260917203500 +0200" stop="20260917222455 +0200" channel="oca1">
-    <title lang="ca">Hoquei patins</title>
-    <sub-title lang="ca">- França-Catalunya / GoldenCat masculina / J1</sub-title>
-    <desc lang="ca">La selecció catalana masculina d'hoquei patins juga contra França el primer partit a la GoldenCat.</desc>
-    <length units="seconds">6295</length>
-    <episode-num system="onscreen">8123</episode-num>
-    <category lang="ca">ESPORTS</category>
-    <category lang="ca">RETRANSMISSIONS ESPORTS</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <icon src="https://img.ccma.cat/multimedia/jpg/4/3/1722012513934.jpg"/>
-  </programme>
   <channel id="oca2">
     <display-name>OCA2</display-name>
   </channel>
