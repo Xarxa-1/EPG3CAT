@@ -3,43 +3,39 @@
   <channel id="tvi">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20260917164201 +0200" stop="20260917172030 +0200" channel="tvi">
-    <title lang="ca">La Riera</title>
-    <sub-title lang="ca">La Riera</sub-title>
-    <desc lang="ca">A punt per enterrar l'Ignasi, surten a la llum molts sentiments. Alguns, molt evidents. Altres, sorprenents.</desc>
-    <length units="seconds">2309</length>
-    <episode-num system="onscreen">132</episode-num>
-    <category lang="ca">FICCIÓ</category>
-    <category lang="ca">TELENOVEL·LA</category>
+  <programme start="20260917201502 +0200" stop="20260917210000 +0200" channel="tvi">
+    <title lang="ca">Està passant</title>
+    <sub-title lang="ca">Està passant</sub-title>
+    <desc lang="ca">La Natza i el Jair ens expliquen la visita de Salvador Illa a Extremadura. L'Oye Sherman ens porta moments màgics de la tele i la Judit Martín es converteix en instal·ladora d'aires condicionats</desc>
+    <length units="seconds">2698</length>
+    <episode-num system="onscreen">1812</episode-num>
+    <category lang="ca">ENTRETENIMENT</category>
+    <category lang="ca">GAGS. HUMOR</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <subtitles type="teletext"/>
-    <previously-shown/>
+    <icon src="https://img.ccma.cat/multimedia/png/3/8/1705511272683.png"/>
   </programme>
-  <programme start="20260917172030 +0200" stop="20260917173015 +0200" channel="tvi">
-    <title lang="ca">CUINES CATALUNYA</title>
-    <sub-title lang="ca">CUINES CATALUNYA - Moniato amb salsa de iogurt i magrana</sub-title>
-    <desc lang="ca">Fem una recepta per aprofitar el moniato que hem comprat a la castanyera o pel moniato que hem fet de més.</desc>
-    <length units="seconds">585</length>
-    <episode-num system="onscreen">1795</episode-num>
-    <category lang="ca">DIVULGACIÓ</category>
-    <category lang="ca">CUINA</category>
+  <programme start="20260917210000 +0200" stop="20260917220549 +0200" channel="tvi">
+    <title lang="ca">Telenotícies vespre</title>
+    <sub-title lang="ca">Telenotícies vespre</sub-title>
+    <length units="seconds">3949</length>
+    <episode-num system="onscreen">7330</episode-num>
+    <category lang="ca">ACTUALITAT</category>
+    <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <subtitles type="teletext"/>
-    <previously-shown/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/2/5/1653464509252.jpg"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/7/2/1758026176427.jpg"/>
   </programme>
   <channel id="324">
     <display-name>324</display-name>
   </channel>
-  <programme start="20260917170000 +0200" stop="20260917183000 +0200" channel="324">
+  <programme start="20260917200000 +0200" stop="20260917210000 +0200" channel="324">
     <title lang="ca">Notícies 3CatInfo</title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">5400</length>
-    <episode-num system="onscreen">11196</episode-num>
+    <length units="seconds">3600</length>
+    <episode-num system="onscreen">11198</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
@@ -47,77 +43,74 @@
     </rating>
     <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
-  <programme start="20260917183000 +0200" stop="20260917200000 +0200" channel="324">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">5400</length>
-    <episode-num system="onscreen">11197</episode-num>
+  <programme start="20260917210000 +0200" stop="20260917220500 +0200" channel="324">
+    <title lang="ca">Telenotícies vespre</title>
+    <length units="seconds">3900</length>
+    <episode-num system="onscreen">7330</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
+    <subtitles type="teletext"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/7/2/1758026176427.jpg"/>
   </programme>
   <channel id="esport3">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20260917165752 +0200" stop="20260917172342 +0200" channel="esport3">
-    <title lang="ca">Catalunya salvatge</title>
-    <sub-title lang="ca">Catalunya salvatge - Naturalesa en perill</sub-title>
-    <desc lang="ca">'Catalunya salvatge' és una sèrie documental de 13 capítols que donarà a conèixer als espectadors els ecosistemes més representatius del nostre país. Des dels cims del Pirineu fins a les llacunes del delta de l'Ebre, 'Catalunya salvatge' farà un repàs de la flora i la fauna dels paratges més emblemàtics de Catalunya.Els seguidors de la sèrie tindran, doncs, una finestra privilegiada a la biodiversitat del Parc Nacional d'Aigüestortes, la muntanya de Montserrat, la zona volcànica de la Garrotxa, els aiguamolls de l'Empordà o el món submarí de les illes Medes.El primer ecosistema explorat en profunditat serà el d'alta muntanya, on la supervivència no és gens fàcil.(tardor 2010)</desc>
-    <length units="seconds">1550</length>
-    <episode-num system="onscreen">11</episode-num>
-    <category lang="ca">DIVULGACIÓ</category>
-    <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <subtitles type="teletext"/>
-    <previously-shown/>
-  </programme>
-  <programme start="20260917172342 +0200" stop="20260917182400 +0200" channel="esport3">
-    <title lang="ca">Esport Club</title>
-    <sub-title lang="ca">Esport Club</sub-title>
-    <desc lang="ca">Analitzem el Barça-Racing amb la lupa de l'Albert Blaya. Barcelona, capital de la vela inclusiva. En parlem amb Josep Maria Isern, president de la Federació Catalana. L'NBA amb Jordi de Mas i entrevista amb el jugador del Barça d'handbol Djordje Cikusa. A la tertúlia ens acompanyen Gemma Mallorca, Àlex Esteban i Pere Mas.</desc>
-    <length units="seconds">3618</length>
-    <episode-num system="onscreen">3242</episode-num>
+  <programme start="20260917203000 +0200" stop="20260917222312 +0200" channel="esport3">
+    <title lang="ca">Handbol</title>
+    <sub-title lang="ca">Handbol - Montpeller-Barça / EHF Champions / J2</sub-title>
+    <desc lang="ca">En joc, el liderat del grup E. Després de la contundent victòria contra l'Aarhus en el partit d'estrena (39-28), el campió fa el primer desplaçament. Per la seva banda, els francesos van guanyar al Dinamo de Bucarest (27-23). Amb la narració de Vicenç Prados i l'anàlisi de Víctor Tomàs.</desc>
+    <length units="seconds">6792</length>
+    <episode-num system="onscreen">423</episode-num>
     <category lang="ca">ESPORTS</category>
-    <category lang="ca">INFORMATIU DIÀRI</category>
+    <category lang="ca">RETRANSMISSIONS ESPORTS</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <subtitles type="teletext"/>
-    <previously-shown/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/7/3/1698145091337.jpg"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1729614070941.jpg"/>
+  </programme>
+  <programme start="20260917222312 +0200" stop="20260917230000 +0200" channel="esport3">
+    <title lang="ca">Hoquei patins</title>
+    <sub-title lang="ca">Hoquei patins - França-Catalunya / GoldenCat masculina / J1</sub-title>
+    <desc lang="ca">La selecció catalana masculina d'hoquei patins juga contra França el primer partit a la GoldenCat.</desc>
+    <length units="seconds">2208</length>
+    <episode-num system="onscreen">8123</episode-num>
+    <category lang="ca">ESPORTS</category>
+    <category lang="ca">RETRANSMISSIONS ESPORTS</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <icon src="https://img.ccma.cat/multimedia/jpg/4/3/1722012513934.jpg"/>
   </programme>
   <channel id="sx3">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20260917170219 +0200" stop="20260917171223 +0200" channel="sx3">
-    <title lang="ca">El Mic i els seus amics</title>
-    <sub-title lang="ca">El Mic i els seus amics - Juguem a fer una biblioteca</sub-title>
-    <desc lang="ca">'El Mic i els seus amics' presenta les històries del Mic agrupades en capítols. Les aventures dels titelles s'acompanyen de petits vídeos protagonitzats per nens i nenes, i separadors amb imatges de natura. És una sèrie pensada perquè els súpers més petits gaudeixin encara més! El Mic i els seus amics es troben cada dia per cantar cançons, explicar contes, dir endevinalles... Viuen en un lloc on hi ha turons, arbres, flors i papallones.Tot està a punt per jugar. Només cal fer... MAC, MEC, MIC, TOCA'T EL MELIC!</desc>
-    <length units="seconds">604</length>
-    <episode-num system="onscreen">521</episode-num>
+  <programme start="20260917203745 +0200" stop="20260917210000 +0200" channel="sx3">
+    <title lang="ca">Henry Danger</title>
+    <sub-title lang="ca">Henry Danger - Els globus maleïts</sub-title>
+    <desc lang="ca">El doctor Minyak segresta la reunió dels Man Fans amb un nou pla que obliga el Capità Man i en Kid Danger a intervenir.</desc>
+    <length units="seconds">1335</length>
+    <episode-num system="onscreen">63</episode-num>
     <category lang="ca">FICCIÓ</category>
-    <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
+    <category lang="ca">SÈRIE DRAMÀTICA</category>
     <rating>
       <value>INFANTIL</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20260917171223 +0200" stop="20260917172316 +0200" channel="sx3">
-    <title lang="ca">Titó</title>
-    <sub-title lang="ca">Titó - Excursió a l'artesania de Pauma</sub-title>
-    <desc lang="ca">Avui anem d'excursió a descobrir com es fan uns cabassos molt especials. Estan fets amb fulles seques! Concretament, amb les fulles del margalló, que es diuen Pauma. Treballar amb aquestes fulles és tot un art: És l'artesania de la Pauma.</desc>
-    <length units="seconds">653</length>
-    <episode-num system="onscreen">64</episode-num>
-    <category lang="ca">ENTRETENIMENT</category>
-    <category lang="ca">ALTRES</category>
+  <programme start="20260917210000 +0200" stop="20260917212216 +0200" channel="sx3">
+    <title lang="ca">Bola de drac Z</title>
+    <sub-title lang="ca">Bola de drac Z - La nena mentidera i la decisió d'en Son Gohan</sub-title>
+    <desc lang="ca">N'hi ha que s'estan aprofitant del caos que es viu a tot el món per culpa de la presència d'en Cèl·lula. En Son Gohan, que ha anat a un poblet a comprar tot de coses, coneixerà un home que assegura que té un refugi que resistirà la força d'en Cèl·lula i que cobra diners perquè la gent s'hi pugui aixoplugar. En Son Gohan està decidit a fer saber la veritat a tot el poble.</desc>
+    <length units="seconds">1336</length>
+    <episode-num system="onscreen">170</episode-num>
+    <category lang="ca">FICCIÓ</category>
+    <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
-      <value>INFANTIL</value>
+      <value>JUVENIL</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
@@ -125,54 +118,48 @@
   <channel id="c33">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20260917163127 +0200" stop="20260917170719 +0200" channel="c33">
-    <title lang="ca">QuèQui</title>
-    <sub-title lang="ca">QuèQui - Desxifrant l'Iber</sub-title>
-    <desc lang="ca">La pedra més famosa de la història és la pedra de Rosetta. La va trobar al segle XIX un soldat de l'exèrcit de Napoleó durant les campanyes pel Nord d'Àfrica a delta del Nil, prop del poble de Rosetta, del que va prendre el nom. Conté un text escrit en tres llengües: jeroglífics egipcis, demòtic i grec clàssic. Després d'anys de recerca el francès Champolion va aconseguir desxifrar els jeroglífics, quan se'n va adonar que el demòtic era en realitat l'escriptura de la llengua copta, parlada per una comunitat de cristians que viu a Egipte des de fa mil·lennis. Aquest descobriment va ser cabdal per l'egiptologia, ja que va permetre per fi llegir totes les inscripcions dels centenars de tombes, piràmides i els temples, i reconstruir la història detallada de totes les dinasties de faraons s'han anat succeint en el tro d'Egipte. Sense anar més lluny, sense aquest descobriment, no sabríem el nom del faraó més famós de la història Tutankamon.A la península ibèrica tenim una altra llengua extingida i enigmàtica que malauradament encara no s'ha aconseguit desxifrar: la llengua dels ibers. S'han trobat un munt de restes arqueològiques amb l'escriptura ibera, en monedes, ceràmica, làpides funeràries i tauletes de plom. Algun text fins i tot escrit en bilingüe en llatí i iber, però són massa curts per permetre traduccions. Podríem pensar que aquesta llengua s'ha perdut per sempre i mai no podrem saber què van escriure els nostres ancestres fa 2.500 anys.Tanmateix, amb el progrés de la ciència, el desxiframent de l'iber no és impossible. La intel·ligència artificial i la lingüística quantitativa podrien ser la nova pedra de Rosetta.</desc>
-    <length units="seconds">2152</length>
-    <episode-num system="onscreen">7</episode-num>
-    <category lang="ca">ENTRETENIMENT</category>
-    <category lang="ca">ALTRES</category>
+  <programme start="20260917200220 +0200" stop="20260917205928 +0200" channel="c33">
+    <title lang="ca">Un planeta perfecte</title>
+    <sub-title lang="ca">Un planeta perfecte - El Sol</sub-title>
+    <desc lang="ca">L'energia que la Terra rep del Sol és imprescindible per a la vida. Totes les regions del nostre planeta reben la mateixa quantitat d'hores de sol al llarg de l'any, però la inclinació de l'eix sobre el qual gira la Terra fa que el repartiment de les hores de llum i de foscor sigui desigual a tot arreu excepte a l'equador. Ara bé, els éssers vius sempre han sabut adaptar-se als efectes de les diferències d'insolació.</desc>
+    <length units="seconds">3428</length>
+    <episode-num system="onscreen">2</episode-num>
+    <category lang="ca">DIVULGACIÓ</category>
+    <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
+    <icon src="https://img.3cat.cat/multimedia/jpg/0/9/1766143230590.jpg"/>
   </programme>
-  <programme start="20260917170719 +0200" stop="20260917174223 +0200" channel="c33">
-    <title lang="ca">QuèQui</title>
-    <sub-title lang="ca">QuèQui - Rectificant Gaudí</sub-title>
-    <desc lang="ca">Per enrajolar calen rajoles. Les més típiques són quadrades, com les tessel·les dels mosaics romans, o rectangulars. També es pot enrajolar amb rajoles hexagonals, octogonals... I quin és el resultat d'enrajolar amb rajoles de formes regulars? Patrons regulars (periòdics). Si volem obtenir un patró irregular (aperiòdic) hem de fer com Gaudí i utilitzar el trencadís, de formes completament irregulars. Tanmateix, el àrabs, experts en l'art del tessel·lat, ja van descobrir que amb unes poques formes regulars és possible obtenir un patró aperiòdic, és a dir, que no es repeteix mai, en un espai infinit! Des d'aleshores es va iniciar una cursa entre geòmetres per reduir el nombre de formes regulars amb les que aconseguir-ho. Enguany, el matemàtic amater David Smith va descobrir una única forma regular i la seva imatge especular amb la qual obté un patró aperiòdic. Enrajolarem una habitació amb ella per comprovar que el patró no es repeteix.</desc>
-    <length units="seconds">2104</length>
-    <episode-num system="onscreen">8</episode-num>
-    <category lang="ca">ENTRETENIMENT</category>
-    <category lang="ca">ALTRES</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <subtitles type="teletext"/>
-    <previously-shown/>
+  <programme start="20260917205928 +0200" stop="20260917210111 +0200" channel="c33">
+    <title lang="ca">SENSE FI CANAL 33</title>
+    <desc lang="ca">Sense Descripció</desc>
+    <length units="seconds">103</length>
   </programme>
   <channel id="oca1">
     <display-name>OCA1</display-name>
   </channel>
+  <programme start="20260917203500 +0200" stop="20260917222455 +0200" channel="oca1">
+    <title lang="ca">Hoquei patins</title>
+    <sub-title lang="ca">- França-Catalunya / GoldenCat masculina / J1</sub-title>
+    <desc lang="ca">La selecció catalana masculina d'hoquei patins juga contra França el primer partit a la GoldenCat.</desc>
+    <length units="seconds">6295</length>
+    <episode-num system="onscreen">8123</episode-num>
+    <category lang="ca">ESPORTS</category>
+    <category lang="ca">RETRANSMISSIONS ESPORTS</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <icon src="https://img.ccma.cat/multimedia/jpg/4/3/1722012513934.jpg"/>
+  </programme>
   <channel id="oca2">
     <display-name>OCA2</display-name>
   </channel>
   <channel id="oca3">
     <display-name>OCA3</display-name>
   </channel>
-  <programme start="20260917150132 +0200" stop="20260917200127 +0200" channel="oca3">
-    <title lang="ca">La consellera Parlon compareix a la Comissió d'Interior del Parlament</title>
-    <length units="seconds">17995</length>
-    <episode-num system="onscreen">4121</episode-num>
-    <category lang="ca">ACTUALITAT</category>
-    <category lang="ca">RETRANSMISSIONS ACTUALITAT</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <icon src="https://img.ccma.cat/multimedia/jpg/9/1/1789632723119.jpg"/>
-  </programme>
   <channel id="oca4">
     <display-name>OCA4</display-name>
   </channel>
