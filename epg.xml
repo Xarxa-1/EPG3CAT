@@ -3,24 +3,11 @@
   <channel id="tvi">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20260917235258 +0200" stop="20260918003608 +0200" channel="tvi">
-    <title lang="ca">APM?</title>
-    <sub-title lang="ca">APM?</sub-title>
-    <desc lang="ca">Tornem amb les piles carregades, llestos per a la nostra 23ena temporada i disposats a continuar fent història! (Per cert, de moment fem el programa a TV3 els dijous a les 23:45. Però aquells que no sou uns mussols podeu estar tranquils! Per algun motiu també pengem el programa a YouTube! I, a més, també fem reemissió els diumenges abans del 'TN vespre').Aquesta setmana, Joel Díaz tindrà com a convidat sorpresa un dels personatges més estimats del folklore memaire català i de l''APM?': Jaume Creixell. Una nova entrega de 'Però vostè qui és?' (malgrat que tots ja sabem qui és) amb un convidat que té l'habilitat de convertir qualsevol resposta en patrimoni audiovisual català. Una entrevista imprevisible a una llegenda que no necessita presentació. I si no tenim raó, ens la tallem i ens fem monges.Aquesta temporada, Nerea Sanfe donarà altaveu a tot allò que la gent vulgui denunciar o promocionar per la tele, amb un 'On Falla!' més interactiu que mai! Ara vosaltres sou qui ens proposeu les idees de reportatge via Instagram! I la primera proposta? Anar a la manifestació de mestres del 8 de setembre. Aquest cop, però, la lliçó la van donarels docents. Qqueixes, reivindicacions i més d'un 'necessita millorar': el professorat va explicar als nostres micròfons què falla a les aules i quins canvis reclamen mentre la Nerea prenia apunts de tot plegat.I a més, veurem quin és el diputat del Parlament de Catalunya que farmeja lowkey més aura no kirkejadament, ens imaginarem què passarà quan la IA vulgui aniquilar la humanitat o, encara pitjor, descobreixi les frases de l''APM?' i cantarem a l'inici d'una nova temporada al peu del canó al ritme de la 'Superestrella' d'Aitana (o com en diem nosaltres, 'Súper APM?'). #APM3CAT</desc>
-    <length units="seconds">2590</length>
-    <episode-num system="onscreen">878</episode-num>
-    <category lang="ca">ENTRETENIMENT</category>
-    <category lang="ca">ALTRES</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <icon src="https://img.ccma.cat/multimedia/jpg/0/2/1442394916120.jpg"/>
-  </programme>
-  <programme start="20260918003608 +0200" stop="20260918053738 +0200" channel="tvi">
+  <programme start="20260918003610 +0200" stop="20260918022242 +0200" channel="tvi">
     <title lang="ca">Mésnit</title>
     <sub-title lang="ca">Mésnit</sub-title>
     <desc lang="ca">El 'Mésnit' arriba a la desena temporada, amb Marina Romero al capdavant de l'espai i amb la voluntat de continuar sent un centre de debat d'idees i d'anàlisi de l'activitat política.</desc>
-    <length units="seconds">18090</length>
+    <length units="seconds">6392</length>
     <episode-num system="onscreen">2161</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">DEBAT</category>
@@ -29,26 +16,41 @@
     </rating>
     <previously-shown/>
   </programme>
-  <channel id="324">
-    <display-name>324</display-name>
-  </channel>
-  <programme start="20260917220500 +0200" stop="20260918000000 +0200" channel="324">
-    <title lang="ca">Mésnit</title>
-    <desc lang="ca">El 'Mésnit' arriba a la desena temporada, amb Marina Romero al capdavant de l'espai i amb la voluntat de continuar sent un centre de debat d'idees i d'anàlisi de l'activitat política.</desc>
-    <length units="seconds">6900</length>
-    <episode-num system="onscreen">2161</episode-num>
+  <programme start="20260918022242 +0200" stop="20260918040000 +0200" channel="tvi">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <sub-title lang="ca">Notícies 3CatInfo</sub-title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="seconds">5838</length>
+    <episode-num system="onscreen">11200</episode-num>
     <category lang="ca">ACTUALITAT</category>
-    <category lang="ca">DEBAT</category>
+    <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <subtitles type="teletext"/>
+    <previously-shown/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
-  <programme start="20260918000000 +0200" stop="20260918003000 +0200" channel="324">
+  <channel id="324">
+    <display-name>324</display-name>
+  </channel>
+  <programme start="20260918010000 +0200" stop="20260918060000 +0200" channel="324">
     <title lang="ca">Notícies 3CatInfo</title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">1800</length>
-    <episode-num system="onscreen">11199</episode-num>
+    <length units="seconds">18000</length>
+    <episode-num system="onscreen">11200</episode-num>
+    <category lang="ca">ACTUALITAT</category>
+    <category lang="ca">INFORMATIU DIÀRI</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <previously-shown/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
+  </programme>
+  <programme start="20260918060000 +0200" stop="20260918080000 +0200" channel="324">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="seconds">7200</length>
+    <episode-num system="onscreen">11201</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
@@ -59,11 +61,11 @@
   <channel id="esport3">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20260917230000 +0200" stop="20260918003053 +0200" channel="esport3">
+  <programme start="20260918004934 +0200" stop="20260918022004 +0200" channel="esport3">
     <title lang="ca">Onze</title>
     <sub-title lang="ca">Onze</sub-title>
     <desc lang="ca">L'Onze es passeja per BarçaAventura, el parc temàtic en què Flick ha convertit el seu equip. Un Barça de vertigen, d'alta velocitat...un depredador de rivals. Analitzem el gran moment del líder de la lliga amb Jordi Martí, Juvenal Edjogo, Irati Vidal i David Bernabéu. També ens visita el Colegiado i les polèmiques arbitrals amb vídeo inclòs de Real Madrid TV. Mayola ens dissecciona el partit de Cancelo i Adeyemi. I acabem amb el consultori d'en Sergi Ferrer.</desc>
-    <length units="seconds">5453</length>
+    <length units="seconds">5430</length>
     <episode-num system="onscreen">1250</episode-num>
     <category lang="ca">ESPORTS</category>
     <category lang="ca">MAGAZINE</category>
@@ -71,31 +73,31 @@
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
+    <previously-shown/>
     <icon src="https://img.ccma.cat/multimedia/jpg/1/1/1688543515711.jpg"/>
   </programme>
-  <programme start="20260918003053 +0200" stop="20260918005030 +0200" channel="esport3">
+  <programme start="20260918022004 +0200" stop="20260918023915 +0200" channel="esport3">
     <title lang="ca">3CatInfo Esports</title>
     <sub-title lang="ca">3CatInfo Esports</sub-title>
     <desc lang="ca">Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.</desc>
-    <length units="seconds">1177</length>
-    <episode-num system="onscreen">5512</episode-num>
+    <length units="seconds">1151</length>
+    <episode-num system="onscreen">5511</episode-num>
     <category lang="ca">ESPORTS</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <previously-shown/>
     <icon src="https://img.ccma.cat/multimedia/jpg/9/7/1758888682179.jpg"/>
   </programme>
   <channel id="sx3">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20260917234754 +0200" stop="20260918000855 +0200" channel="sx3">
-    <title lang="ca">Els germans Kratt</title>
-    <sub-title lang="ca">Els germans Kratt - Competició de poders animals</sub-title>
-    <desc lang="ca">Després de veure's atrapats enmig d'una baralla entre un rinoceront i un elefant molt enfadats, els germans Kratt decideixen fer un concurs per comprovar qui és el més fort. Segons en Chris guanyarà el rinoceront, que pot córrer molt més de pressa. En Martin, en canvi, es decanta per l'elefant, que pesa dues tones més! Doncs que guanyi el millor!</desc>
-    <length units="seconds">1261</length>
-    <episode-num system="onscreen">43</episode-num>
+  <programme start="20260918014511 +0200" stop="20260918020420 +0200" channel="sx3">
+    <title lang="ca">Viatges Pokémon</title>
+    <sub-title lang="ca">Viatges Pokémon - La coronació del rei dels golafres!</sub-title>
+    <desc lang="ca">Se celebra el Gran Concurs de Menjar Pokémon i els nostres herois estan afamats per competir-hi. L'Ash i el Dragonite, junt amb el Goh i l'Skwovet, s'enfronten amb anteriors guanyadors del concurs de menjar, entre ells l'Emperador Blaziken, mundialment famós. I qui completa el quadre de concursants? El Team Rocket i el Morkepo, que està més enfurismat que mai. Un rere l'altre, els concursants es van eliminant fins que només en queden dos: l'Skwovet i el Morkepo. Al Morkepo el pressionen massa i el Team Rocket torna a fallar. L'Skwovet, que només ha de menjar un altre plat per guanyar, sembla que ja està ben tip, però de sobte evoluciona en un Greedent, supera el Morkepo i guanya el concurs.</desc>
+    <length units="seconds">1149</length>
+    <episode-num system="onscreen">47</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
@@ -104,12 +106,12 @@
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20260918000855 +0200" stop="20260918002956 +0200" channel="sx3">
-    <title lang="ca">Els germans Kratt</title>
-    <sub-title lang="ca">Els germans Kratt - Els tèrmits contra les llengües</sub-title>
-    <desc lang="ca">L'Aviva i la Koki, que avui no tenen el dia, han tingut un petit problema amb el miniaturitzador i ara una colla de tèrmits se'ls emporten cap al seu cau convençuts que són brins d'herba. Ara els germans Kratt les hauran de buscar, però a la sabana africana hi ha milions de tèrmits, més que tots els mamífers junts! Com s'ho faran?!</desc>
-    <length units="seconds">1261</length>
-    <episode-num system="onscreen">44</episode-num>
+  <programme start="20260918020420 +0200" stop="20260918022409 +0200" channel="sx3">
+    <title lang="ca">Viatges Pokémon</title>
+    <sub-title lang="ca">Viatges Pokémon - Roben el Pikachu... o quasi!</sub-title>
+    <desc lang="ca">Mentre l'Ash i el Goh mengen unes llaminadures delicioses gràcies a la victòria del Greedent en el concurs de menjar, el Team Rocket planeja robar el Pikachu canviant-lo per un de semblant, anomenat Quasi Pikachu. Quan ja sembla que se n'han sortit i fugen amb bicicleta, el Lucario i el Cinderace els empaiten! Per contrarestar-los, el Meowth els dispara una cola elàstica i els dos Pokémon queden enganxats l'un amb l'altre. El Lucario i el Cinderace, però, no es rendeixen i troben la manera de col·laborar per aconseguir fer sortir volant el Team Rocket. Quan el Lucario i el Cinderace tornen amb l'Ash i el Goh, queden ben parats: l'autèntic Pikachu havia estat tota l'estona segur amb l'Ash!</desc>
+    <length units="seconds">1189</length>
+    <episode-num system="onscreen">48</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
@@ -121,12 +123,12 @@
   <channel id="c33">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20260917234840 +0200" stop="20260918003835 +0200" channel="c33">
-    <title lang="ca">Alaska salvatge</title>
-    <sub-title lang="ca">Alaska salvatge - Hivern</sub-title>
-    <desc lang="ca">Un terç d'Alaska és dins del cercle polar àrtic, cosa que fa que l'hivern hi sigui una estació especialment dura, marcada per un fred intensíssim, que congela totes les masses d'aigua, i fins tot el mar. A més, la claror disminueix radicalment, sobretot a l'extrem nord, on el sol es pon durant més de dos mesos. Amb tot, la notable resistència dels habitants d'Alaska els permet suportar els rigors de l'hivern de maneres enginyoses, ja sigui hivernant o buscant fonts d'aliment alternatives</desc>
-    <length units="seconds">2995</length>
-    <episode-num system="onscreen">3</episode-num>
+  <programme start="20260918013039 +0200" stop="20260918015224 +0200" channel="c33">
+    <title lang="ca">Nens de la ruta de la seda</title>
+    <sub-title lang="ca">Nens de la ruta de la seda - Una nena lluny de casa</sub-title>
+    <desc lang="ca">La Nastia (13) és la capitana d'un equip professional de gimnàstica a Kíiv. Les noies de l'equip són les seves millors amigues. Juntes guanyen el campionat nacional de gimnàstica rítmica i tot va millor que mai. Un mes més tard, esclata la guerra a Ucraïna i la Nastia s'ha de mudar amb la seva àvia a Alemanya. Ara la Nàstia ha de construir-se una nova vida lluny dels seus pares i de les seves amigues. No sap quan podrà tornar a Kíiv ni quan podrà tornar a veure els seus pares i les seves amigues. A la Nastia, l'espera a Alemanya se li fa molt llarga, però quan s'uneix a l'equip alemany de gimnàstica, la vida comença a ser bonica de nou.</desc>
+    <length units="seconds">1305</length>
+    <episode-num system="onscreen">12</episode-num>
     <category lang="ca">DIVULGACIÓ</category>
     <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
     <rating>
@@ -135,12 +137,12 @@
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20260918003835 +0200" stop="20260918013037 +0200" channel="c33">
-    <title lang="ca">A tocar de l'aigua</title>
-    <sub-title lang="ca">A tocar de l'aigua - El Segre III; El Sió</sub-title>
-    <desc lang="ca">Després d'haver recorregut les capçaleres del Segre i bona part del seu curs mitjà, en aquest episodi ens acompanyarà un riu que travessa la comarca de la Noguera per llevant: el Sió, un petit afluent del Segre que guarda a les seves ribes un ric patrimoni natural i arquitectònic. El resseguirem fins al final i, després de visitar Balaguer, farem camí fins a Vilanova de la Barca.</desc>
-    <length units="seconds">3122</length>
-    <episode-num system="onscreen">6</episode-num>
+  <programme start="20260918015224 +0200" stop="20260918021214 +0200" channel="c33">
+    <title lang="ca">Nens de la ruta de la seda</title>
+    <sub-title lang="ca">Nens de la ruta de la seda - Les millors amigues</sub-title>
+    <desc lang="ca">L'Emine (10) viu en un petit poble al nord-est de Turquia. Ella i la seva millor amiga, l'Eda Nur (11) veuen a les notícies que acaba d'haver-hi un fort terratrèmol a 400 km del poble on viuen. Amb el temor, de fons, de la possibilitat de viure un terratrèmol, coneixem les vicissituds de la seva amistat. Les dues noies s'estan preparant per al seu primer concert de sac de gemecs tradicional turc, però l'Emine està gelosa de les habilitats de l'Eda Nur i això fa que la seva amistat perilli.</desc>
+    <length units="seconds">1190</length>
+    <episode-num system="onscreen">13</episode-num>
     <category lang="ca">DIVULGACIÓ</category>
     <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
     <rating>
