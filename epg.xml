@@ -3,43 +3,39 @@
   <channel id="tvi">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20260918163807 +0200" stop="20260918171711 +0200" channel="tvi">
-    <title lang="ca">La Riera</title>
-    <sub-title lang="ca">La Riera</sub-title>
-    <desc lang="ca">Tot i estant de dol, en Claudi ha d'anar a declarar al jutjat. La Sònia necessita ajuda per enxampar en Guillem, que està disposat a tot, i pensa en l'Estel. A la cuina, en Carlos s'adona del que passa entre la Maribel i en Sergi, però la Valeria també. Per la seva banda, la Txell es planteja el seu futur oblidant les seves pors. I la Mercè, que se sent sola, té feina consolant i protegint en Mauri.</desc>
-    <length units="seconds">2344</length>
-    <episode-num system="onscreen">133</episode-num>
-    <category lang="ca">FICCIÓ</category>
-    <category lang="ca">TELENOVEL·LA</category>
+  <programme start="20260918201500 +0200" stop="20260918210000 +0200" channel="tvi">
+    <title lang="ca">Està passant</title>
+    <sub-title lang="ca">Està passant</sub-title>
+    <desc lang="ca">Resum dels millors moments de la setmana</desc>
+    <length units="seconds">2700</length>
+    <episode-num system="onscreen">1813</episode-num>
+    <category lang="ca">ENTRETENIMENT</category>
+    <category lang="ca">GAGS. HUMOR</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <subtitles type="teletext"/>
-    <previously-shown/>
+    <icon src="https://img.ccma.cat/multimedia/png/3/8/1705511272683.png"/>
   </programme>
-  <programme start="20260918171711 +0200" stop="20260918172607 +0200" channel="tvi">
-    <title lang="ca">CUINES CATALUNYA</title>
-    <sub-title lang="ca">CUINES CATALUNYA - Ou al plat amb formatge</sub-title>
-    <desc lang="ca">Arnau Paris fa un plat d'aquells salvavides, perquè amb un ou, una cassoleta i poqueta cosa més, teniu resolt un sopar senzill i bo.</desc>
-    <length units="seconds">536</length>
-    <episode-num system="onscreen">1796</episode-num>
-    <category lang="ca">DIVULGACIÓ</category>
-    <category lang="ca">CUINA</category>
+  <programme start="20260918210000 +0200" stop="20260918220540 +0200" channel="tvi">
+    <title lang="ca">Telenotícies vespre</title>
+    <sub-title lang="ca">Telenotícies vespre</sub-title>
+    <length units="seconds">3940</length>
+    <episode-num system="onscreen">7331</episode-num>
+    <category lang="ca">ACTUALITAT</category>
+    <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <subtitles type="teletext"/>
-    <previously-shown/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/2/5/1653464509252.jpg"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/7/2/1758026176427.jpg"/>
   </programme>
   <channel id="324">
     <display-name>324</display-name>
   </channel>
-  <programme start="20260918170000 +0200" stop="20260918183000 +0200" channel="324">
+  <programme start="20260918200000 +0200" stop="20260918210000 +0200" channel="324">
     <title lang="ca">Notícies 3CatInfo</title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">5400</length>
-    <episode-num system="onscreen">11205</episode-num>
+    <length units="seconds">3600</length>
+    <episode-num system="onscreen">11207</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
@@ -47,75 +43,74 @@
     </rating>
     <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
-  <programme start="20260918183000 +0200" stop="20260918200000 +0200" channel="324">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">5400</length>
-    <episode-num system="onscreen">11206</episode-num>
+  <programme start="20260918210000 +0200" stop="20260918220500 +0200" channel="324">
+    <title lang="ca">Telenotícies vespre</title>
+    <length units="seconds">3900</length>
+    <episode-num system="onscreen">7331</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/7/2/1758026176427.jpg"/>
   </programme>
   <channel id="esport3">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20260918164008 +0200" stop="20260918190151 +0200" channel="esport3">
+  <programme start="20260918185400 +0200" stop="20260918203748 +0200" channel="esport3">
     <title lang="ca">Hoquei patins</title>
-    <sub-title lang="ca">Hoquei patins - França-Catalunya / GoldenCat femenina / J2</sub-title>
-    <desc lang="ca">La selecció catalana femenina s'enfronta amb França en el tercer i últim partit de la fase de lliga a la segona jornada de la GoldenCat.</desc>
-    <length units="seconds">8503</length>
-    <episode-num system="onscreen">8124</episode-num>
+    <sub-title lang="ca">Hoquei patins - Catalunya-Portugal / GoldenCat masculina / J2</sub-title>
+    <desc lang="ca">La selecció catalana masculina d'hoquei patins disputa el tercer i últim partit de la fase de lliga a la segona jornada de la GoldenCat. </desc>
+    <length units="seconds">6228</length>
+    <episode-num system="onscreen">8125</episode-num>
     <category lang="ca">ESPORTS</category>
     <category lang="ca">RETRANSMISSIONS ESPORTS</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <icon src="https://img.ccma.cat/multimedia/jpg/3/2/1722012654923.jpg"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/4/3/1722012513934.jpg"/>
   </programme>
-  <programme start="20260918190151 +0200" stop="20260918190942 +0200" channel="esport3">
-    <title lang="ca">E3</title>
-    <sub-title lang="ca">E3 - GENT DE MAR: LA COSTA DAURADA</sub-title>
-    <desc lang="ca">Acompanya l'aventurer Rai Puig en la seva travessa en caiac per la costa catalana. Aquesta vegada recorrerà els municipis d'Altafulla, Tarragona, Salou i Cambrils. Explorarà espais naturals com el Bosc de la Marquesa, el Cap de Salou o la praderia de posidònia de Cambrils, i sempre, conversant amb tota mena de persones vinculades al mar i al territori.</desc>
-    <length units="seconds">471</length>
-    <episode-num system="onscreen">2162</episode-num>
+  <programme start="20260918203748 +0200" stop="20260918205500 +0200" channel="esport3">
+    <title lang="ca">Esport Club</title>
+    <sub-title lang="ca">Esport Club</sub-title>
+    <desc lang="ca">Roberto i Fermín, les grans novetats de la selecció espanyola. Hansi Flick en la prèvia del Sevilla-Barça de demà. Avui, Espanyol-Elx al RCDE Stadium. Granollers acull el Mundial d'handbol en cadira de rodes. En parlem amb Álvaro Ferrer, regidor d'Esports de l'Ajuntament de la capital vallesana. A la tertúlia ens acompanyen Nacho Peña, David Sánchez i Laia Cervelló.</desc>
+    <length units="seconds">1032</length>
+    <episode-num system="onscreen">3243</episode-num>
     <category lang="ca">ESPORTS</category>
-    <category lang="ca">REPORTATGES</category>
+    <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/9/1/1719825714219.jpg"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/7/3/1698145091337.jpg"/>
   </programme>
   <channel id="sx3">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20260918170803 +0200" stop="20260918171800 +0200" channel="sx3">
-    <title lang="ca">El Mic i els seus amics</title>
-    <sub-title lang="ca">El Mic i els seus amics - Una caixa per fer un vaixell</sub-title>
-    <desc lang="ca">'El Mic i els seus amics' presenta les històries del Mic agrupades en capítols. Les aventures dels titelles s'acompanyen de petits vídeos protagonitzats per nens i nenes, i separadors amb imatges de natura. És una sèrie pensada perquè els súpers més petits gaudeixin encara més! El Mic i els seus amics es troben cada dia per cantar cançons, explicar contes, dir endevinalles... Viuen en un lloc on hi ha turons, arbres, flors i papallones.Tot està a punt per jugar. Només cal fer... MAC, MEC, MIC, TOCA'T EL MELIC!</desc>
-    <length units="seconds">597</length>
-    <episode-num system="onscreen">406</episode-num>
+  <programme start="20260918201649 +0200" stop="20260918203736 +0200" channel="sx3">
+    <title lang="ca">Henry Danger</title>
+    <sub-title lang="ca">Henry Danger - Un directe perillós, primera part</sub-title>
+    <desc lang="ca">Una invitació a la festa del famós Frankini acaba convertint-se en una aventura molt més arriscada del que en Henry i en Ray esperaven.</desc>
+    <length units="seconds">1247</length>
+    <episode-num system="onscreen">64</episode-num>
     <category lang="ca">FICCIÓ</category>
-    <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
+    <category lang="ca">SÈRIE DRAMÀTICA</category>
     <rating>
       <value>INFANTIL</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20260918171800 +0200" stop="20260918172605 +0200" channel="sx3">
-    <title lang="ca">Titó</title>
-    <sub-title lang="ca">Titó - Excursió amb el ball de diables</sub-title>
-    <desc lang="ca">Avui anem d'excursió amb el ball de diables. Descobrirem què és una maça i una carretilla. El ball de diables petits ens farà una carretillada i en JohnC ens portarà una sorpresa que peta molt fort!</desc>
-    <length units="seconds">485</length>
-    <episode-num system="onscreen">52</episode-num>
-    <category lang="ca">ENTRETENIMENT</category>
-    <category lang="ca">ALTRES</category>
+  <programme start="20260918203736 +0200" stop="20260918205959 +0200" channel="sx3">
+    <title lang="ca">Henry Danger</title>
+    <sub-title lang="ca">Henry Danger - Un directe perillós, segona part</sub-title>
+    <desc lang="ca">Amb el pla de Frankini ja en marxa, els amics d'en Henry lluiten contra rellotge per evitar que tot se'n vagi en orris.</desc>
+    <length units="seconds">1343</length>
+    <episode-num system="onscreen">65</episode-num>
+    <category lang="ca">FICCIÓ</category>
+    <category lang="ca">SÈRIE DRAMÀTICA</category>
     <rating>
       <value>INFANTIL</value>
     </rating>
@@ -125,26 +120,12 @@
   <channel id="c33">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20260918163929 +0200" stop="20260918171630 +0200" channel="c33">
-    <title lang="ca">QuèQui</title>
-    <sub-title lang="ca">QuèQui - Tinc gana o m'ho sembla?</sub-title>
-    <desc lang="ca">L'obesitat és una malaltia crònica que ha esdevingut epidèmia. Descobrirem un nou medicament per combatre-la i parlarem de gana i sacietat amb el cuiner Arnau París.</desc>
-    <length units="seconds">2221</length>
-    <episode-num system="onscreen">10</episode-num>
-    <category lang="ca">ENTRETENIMENT</category>
-    <category lang="ca">ALTRES</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <subtitles type="teletext"/>
-    <previously-shown/>
-  </programme>
-  <programme start="20260918171630 +0200" stop="20260918181533 +0200" channel="c33">
-    <title lang="ca">Els caps de setmana llargs d'en Rick Stein</title>
-    <sub-title lang="ca">Els caps de setmana llargs d'en Rick Stein - Copenhaguen</sub-title>
-    <desc lang="ca">A Copenhaguen, on s'allotja en una barca flotant, en Rick aprendrà unes quantes coses sobre la nova cuina nòrdica, un fenomen que ha portat la gastronomia danesa i l'interès dels danesos pel menjar a un altre nivell. Parlarà amb xefs innovadors, coneixerà una actriu que admira molt, visitarà un museu d'escultures, una església molt singular i els Jardins de Tivoli, i tastarà alguns plats emblemàtics del país, com l''smørrebrød' -pa amb coses- o els 'frikadellen' -bunyols de peix-.</desc>
-    <length units="seconds">3543</length>
-    <episode-num system="onscreen">7</episode-num>
+  <programme start="20260918200719 +0200" stop="20260918205947 +0200" channel="c33">
+    <title lang="ca">Els quaderns de cuina de la Julie</title>
+    <sub-title lang="ca">Els quaderns de cuina de la Julie - La vall dels Baus</sub-title>
+    <desc lang="ca">En aquest episodi la Julie visita la regió dels Baus, al peu del massís dels Alpilles. Primer de tot coneix en Marcel, un productor d'olives. Després, amb l'Annie i les seves filles l'Anne i la Magali, que són oleïcultores, prepara una orada amb fonoll i un fricot amb olives trencades. Amb l'Alexandre, que és productor de fenc i fill de ramader, fa una recepta de toro amb arròs amb fenc. Amb en Pierre, que és confiter, descobreix com es fan les fruites confitades de la regió. Finalment, amb la Jeanne, prepara un menjar blanc típic de la Provença.</desc>
+    <length units="seconds">3148</length>
+    <episode-num system="onscreen">80</episode-num>
     <category lang="ca">DIVULGACIÓ</category>
     <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
     <rating>
@@ -152,6 +133,11 @@
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
+  </programme>
+  <programme start="20260918205947 +0200" stop="20260918210124 +0200" channel="c33">
+    <title lang="ca">SENSE FI CANAL 33</title>
+    <desc lang="ca">Sense Descripció</desc>
+    <length units="seconds">97</length>
   </programme>
   <channel id="oca1">
     <display-name>OCA1</display-name>
