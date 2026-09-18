@@ -3,69 +3,67 @@
   <channel id="tvi">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20260918022244 +0200" stop="20260918040000 +0200" channel="tvi">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">Notícies 3CatInfo</sub-title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">5836</length>
-    <episode-num system="onscreen">11200</episode-num>
+  <programme start="20260918080008 +0200" stop="20260918103000 +0200" channel="tvi">
+    <title lang="ca">Matins</title>
+    <sub-title lang="ca">Matins</sub-title>
+    <desc lang="ca">'Matins' és un dels puntals informatius de TV3. El programa matinal dona les claus del dia que comença, explica les notícies que han passat aportant-ne el context per entendre-les i analitza amb veus acreditades l'actualitat més propera i la d'arreu del món. 'Matins' comença a les 8 del matí, de dilluns a divendres, i està presentat per Ariadna Oltra.</desc>
+    <length units="seconds">8992</length>
+    <episode-num system="onscreen">4674</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <previously-shown/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/2/0/1758040151402.jpg"/>
   </programme>
-  <programme start="20260918040000 +0200" stop="20260918050000 +0200" channel="tvi">
-    <title lang="ca">Ritmes a l'estudi</title>
-    <sub-title lang="ca">Ritmes a l'estudi - EARTH ANGELS</sub-title>
-    <desc lang="ca">Els Earth Angels, una formació vocal dedicada al doo woop. Normalment el quartet es presenta a cappella, mantenint la forma tradicional d'interpretar aquest estil, tan popular durant la dècada dels 50 als Estats Units. Avui ho faran acompanyats per Josep Lluís Pérez, guitarrista, i Miguel Segura, al contrabaix. El seu repertori bascula entre el rhythmnblues vocal i l'early soul.</desc>
-    <length units="seconds">3600</length>
-    <episode-num system="onscreen">4</episode-num>
-    <category lang="ca">MUSICALS</category>
-    <category lang="ca">ALTRES</category>
+  <programme start="20260918103000 +0200" stop="20260918135500 +0200" channel="tvi">
+    <title lang="ca">Tot es mou</title>
+    <sub-title lang="ca">Tot es mou</sub-title>
+    <desc lang="ca">El programa presentat per Helena Garcia Melero s'emet de dilluns a divendres, de 10.30 a 13.55. Un magazín d'actualitat que busca informar, analitzar i debatre sobre temes que marquen l'actualitat social, econòmica i cultural del dia, amb una àmplia presència en directe dels reporters i reporteres, repartits per tot Catalunya. A més, el 'Tot es mou' compta amb seccions diàries de gastronomia (amb els principals cuiners i cuineres del país), successos, economia, mobilitat, temes mèdics i de tecnologia, entre d'altres.</desc>
+    <length units="seconds">12300</length>
+    <episode-num system="onscreen">1811</episode-num>
+    <category lang="ca">ACTUALITAT</category>
+    <category lang="ca">MAGAZINE</category>
     <rating>
-      <value>PÚBLIC ADULT</value>
+      <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <previously-shown/>
   </programme>
   <channel id="324">
     <display-name>324</display-name>
   </channel>
-  <programme start="20260918010000 +0200" stop="20260918060000 +0200" channel="324">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">18000</length>
-    <episode-num system="onscreen">11200</episode-num>
+  <programme start="20260918080000 +0200" stop="20260918103000 +0200" channel="324">
+    <title lang="ca">Matins</title>
+    <desc lang="ca">'Matins' és un dels puntals informatius de TV3. El programa matinal dona les claus del dia que comença, explica les notícies que han passat aportant-ne el context per entendre-les i analitza amb veus acreditades l'actualitat més propera i la d'arreu del món. 'Matins' comença a les 8 del matí, de dilluns a divendres, i està presentat per Ariadna Oltra.</desc>
+    <length units="seconds">9000</length>
+    <episode-num system="onscreen">4674</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <previously-shown/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/2/0/1758040151402.jpg"/>
   </programme>
-  <programme start="20260918060000 +0200" stop="20260918080000 +0200" channel="324">
+  <programme start="20260918103000 +0200" stop="20260918120000 +0200" channel="324">
     <title lang="ca">Notícies 3CatInfo</title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">7200</length>
-    <episode-num system="onscreen">11201</episode-num>
+    <length units="seconds">5400</length>
+    <episode-num system="onscreen">11202</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
+    <subtitles type="teletext"/>
     <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
   <channel id="esport3">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20260918023917 +0200" stop="20260918040221 +0200" channel="esport3">
+  <programme start="20260918083748 +0200" stop="20260918100056 +0200" channel="esport3">
     <title lang="ca">Handbol</title>
     <sub-title lang="ca">Handbol - Montpeller-Barça / EHF Champions / J2</sub-title>
     <desc lang="ca">En joc, el liderat del grup E. Després de la contundent victòria contra l'Aarhus en el partit d'estrena (39-28), el campió fa el primer desplaçament. Per la seva banda, els francesos van guanyar al Dinamo de Bucarest (27-23). Amb la narració de Vicenç Prados i l'anàlisi de Víctor Tomàs.</desc>
-    <length units="seconds">4984</length>
+    <length units="seconds">4988</length>
     <episode-num system="onscreen">423</episode-num>
     <category lang="ca">ESPORTS</category>
     <category lang="ca">RETRANSMISSIONS ESPORTS</category>
@@ -75,28 +73,29 @@
     <previously-shown/>
     <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1729614070941.jpg"/>
   </programme>
-  <programme start="20260918040221 +0200" stop="20260918042116 +0200" channel="esport3">
-    <title lang="ca">3CatInfo Esports</title>
-    <sub-title lang="ca">3CatInfo Esports</sub-title>
-    <desc lang="ca">Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.</desc>
-    <length units="seconds">1135</length>
-    <episode-num system="onscreen">5511</episode-num>
-    <category lang="ca">ESPORTS</category>
-    <category lang="ca">INFORMATIU DIÀRI</category>
+  <programme start="20260918100056 +0200" stop="20260918102651 +0200" channel="esport3">
+    <title lang="ca">Catalunya salvatge</title>
+    <sub-title lang="ca">Catalunya salvatge - Els tresors de Posidó</sub-title>
+    <desc lang="ca">'Catalunya salvatge' és una sèrie documental de 13 capítols que donarà a conèixer als espectadors els ecosistemes més representatius del nostre país. Des dels cims del Pirineu fins a les llacunes del delta de l'Ebre, 'Catalunya salvatge' farà un repàs de la flora i la fauna dels paratges més emblemàtics de Catalunya.Els seguidors de la sèrie tindran, doncs, una finestra privilegiada a la biodiversitat del Parc Nacional d'Aigüestortes, la muntanya de Montserrat, la zona volcànica de la Garrotxa, els aiguamolls de l'Empordà o el món submarí de les illes Medes.El primer ecosistema explorat en profunditat serà el d'alta muntanya, on la supervivència no és gens fàcil.(tardor 2010)</desc>
+    <length units="seconds">1555</length>
+    <episode-num system="onscreen">10</episode-num>
+    <category lang="ca">DIVULGACIÓ</category>
+    <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <icon src="https://img.ccma.cat/multimedia/jpg/9/7/1758888682179.jpg"/>
+    <subtitles type="teletext"/>
+    <previously-shown/>
   </programme>
   <channel id="sx3">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20260918032624 +0200" stop="20260918034702 +0200" channel="sx3">
-    <title lang="ca">Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
-    <sub-title lang="ca">Prodigiosa: Les aventures de Ladybug i Gat Noir - Animaestro</sub-title>
-    <desc lang="ca">Avui hi ha la presentació de la pel·lícula de dibuixos animats inspirada en Ladybug i el Gat Noir, i la Marinette és l'encarregada de servir el càtering que ha preparat el seu pare. Hi assisteixen molts famosos, a l'estrena, però ningú coneix el Thomas Astruc, el director de la pel·lícula, que no s'ho prendrà gaire bé. </desc>
-    <length units="seconds">1238</length>
-    <episode-num system="onscreen">54</episode-num>
+  <programme start="20260918083621 +0200" stop="20260918084654 +0200" channel="sx3">
+    <title lang="ca">El Mic i els seus amics</title>
+    <sub-title lang="ca">El Mic i els seus amics - Un niu al mig de l'hort</sub-title>
+    <desc lang="ca">'El Mic i els seus amics' presenta les històries del Mic agrupades en capítols. Les aventures dels titelles s'acompanyen de petits vídeos protagonitzats per nens i nenes, i separadors amb imatges de natura. És una sèrie pensada perquè els súpers més petits gaudeixin encara més! El Mic i els seus amics es troben cada dia per cantar cançons, explicar contes, dir endevinalles... Viuen en un lloc on hi ha turons, arbres, flors i papallones.Tot està a punt per jugar. Només cal fer... MAC, MEC, MIC, TOCA'T EL MELIC!</desc>
+    <length units="seconds">633</length>
+    <episode-num system="onscreen">539</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
@@ -105,12 +104,12 @@
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20260918034702 +0200" stop="20260918040809 +0200" channel="sx3">
-    <title lang="ca">Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
-    <sub-title lang="ca">Prodigiosa: Les aventures de Ladybug i Gat Noir - Fornèrix</sub-title>
-    <desc lang="ca">Avui, el pare de la Marinette celebra els quaranta anys, però el Roland, el seu avi, no hi serà present. Com que ningú li explica què passa amb el seu avi, la Marinette decideix anar a parlar amb ell. Però l'Esfinx aprofitarà la ràbia del vell forner per convertir-lo en un supermalvat ancorat en el passat.</desc>
-    <length units="seconds">1267</length>
-    <episode-num system="onscreen">55</episode-num>
+  <programme start="20260918084654 +0200" stop="20260918085703 +0200" channel="sx3">
+    <title lang="ca">El Mic i els seus amics</title>
+    <sub-title lang="ca">El Mic i els seus amics - Juguem al dòmino</sub-title>
+    <desc lang="ca">El dòmino té l'origen en un joc de daus de la Xina i té mil anys d'història. La versió moderna del dòmino va arribar a Europa al segle XVIII. Per infants hi ha dòminos de formes, xifres, colors, enlloc dels punts tradicionals. És un joc que fomenta la memòria visual i la concentració i l'agilitat mental.</desc>
+    <length units="seconds">609</length>
+    <episode-num system="onscreen">611</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
@@ -122,26 +121,26 @@
   <channel id="c33">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20260918025417 +0200" stop="20260918034705 +0200" channel="c33">
-    <title lang="ca">Sota terra</title>
-    <sub-title lang="ca">Sota terra - Camp dels ninots: el paisatge fa tres milions i mig d'anys</sub-title>
-    <desc lang="ca">Anem a Caldes de Malavella, a la comarca de la Selva, a excavar al Camp dels Ninots, un antic volcà que amaga un gran secret. El Camp és un jaciment on s'excava des de fa força temps. S'hi han trobat nombroses restes arqueològiques de diferents segles, en general molt antigues: animals, eines lítiques, etc. Arribem amb un enigma per resoldre: se sap que fa 3,5 milions d'anys van morir de manera gairebé simultània una quantitat enorme d'animals. Per què van morir? Qui o què els va matar gairebé a la vegada? Busquem la resposta i també busquem més restes d'aquests éssers vius que van patir una tràgica i misteriosa desaparició. I la cirereta del pastís: volem recrear en imatges com era el paisatge a Caldes fa 3,5 milions d'anys: per aconseguir-ho haurem de trobar i analitzar el pol·len i les restes vegetals de l'època.</desc>
-    <length units="seconds">3168</length>
-    <episode-num system="onscreen">7</episode-num>
+  <programme start="20260918080953 +0200" stop="20260918084453 +0200" channel="c33">
+    <title lang="ca">Cosins Germans</title>
+    <sub-title lang="ca">Cosins Germans - Terres de frontera</sub-title>
+    <desc lang="ca">Al cor de l'antiga Corona d'Aragó, tres comarques, la Terra Alta, el Matarranya i els Ports viuen separades en tres administracions diferents. El caràcter fronterer els ha forjat una mateixa personalitat. El viatge per aquestes terres de cruïlla té la seva primera parada a Corbera d'Ebre. Aquest poble va quedar assolat després dels durs bombardejos de la Guerra Civil. L'Empar i el Ferran recorreran els carrers deshabitats i parlaran amb tres testimonis d'aquells dies atziacs. Posaran a prova la seva claustrofòbia fent una activitat d'espeleologia, endinsant-se en les entranyes del Massís dels Ports. Travessaran el riu Matarranya per visitar el llibreter Octavi Serret, tot un referent d'aquest territori aragonès on es parla català. Ja a la província de Castelló recorreran la població emmurallada de Morella. Descobriran un dels secrets culinaris que hi amaga: la tòfona negra. En buscaran seguint els consells d'un guia del terreny i acabaran el dia amb la taula parada dinant amb bona companyia.</desc>
+    <length units="seconds">2100</length>
+    <episode-num system="onscreen">5</episode-num>
     <category lang="ca">DIVULGACIÓ</category>
-    <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
+    <category lang="ca">ALTRES</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20260918034705 +0200" stop="20260918043732 +0200" channel="c33">
-    <title lang="ca">Sota terra</title>
-    <sub-title lang="ca">Sota terra - Colònies industrials:la vida a la llera del riu</sub-title>
-    <desc lang="ca">Furgar en una colònia industrial abandonada des de fa dècades. Entrar en un món on el temps s'ha aturat. Conèixer com funcionava una colònia industrial, un món tancat on centenars de famílies treballaven i vivien durant tota la vida sense gairebé sortir-ne. La maquinària de la colònia es movia gràcies a dues fonts d'energia: l'aigua del riu Llobregat, i el carbó de les mines de l'Alt Berguedà. Excavem per buscar el canal de desguàs original de la primera turbina que va tenir la colònia, i també ens endinsem en una mina per obtenir carbó a cop de pic i pala, com s'ha fet durant dècades. Per arrodonir el programa, busquem un túnel colgat, totalment desaparegut, un túnel per on circulava el tren que unia totes les colònies i transportava persones, mercaderies i carbó amunt i avall de la comarca.</desc>
-    <length units="seconds">3027</length>
-    <episode-num system="onscreen">8</episode-num>
+  <programme start="20260918084453 +0200" stop="20260918090013 +0200" channel="c33">
+    <title lang="ca">Pastors i ramats: un món que se'n va</title>
+    <sub-title lang="ca">Pastors i ramats: un món que se'n va - Carles i Josep Suriñach</sub-title>
+    <desc lang="ca">'Pastors i ramats, un món que se'n va', és una sèrie de 15 capítols protagonitzada per pastors i pastores que, al llarg del nostre país, treuen a pasturar cada dia el seu ramat. Malgrat fer la mateixa feina, cada pastor és un món, una forma particular de relacionar-se amb el ramat, un mosaic de veus i gestos units per l'estimació pels animals. I també un conjunt de converses amb persones que són allà on volen ser, perseverant tossudament per continuar l'ofici malgrat totes les dificultats... Pastors i ramats... és la lluita silenciosa i plena de dignitat d'un món que se'n va.</desc>
+    <length units="seconds">920</length>
+    <episode-num system="onscreen">9</episode-num>
     <category lang="ca">DIVULGACIÓ</category>
     <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
     <rating>
