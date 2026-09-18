@@ -3,24 +3,11 @@
   <channel id="tvi">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20260918003610 +0200" stop="20260918022242 +0200" channel="tvi">
-    <title lang="ca">Mésnit</title>
-    <sub-title lang="ca">Mésnit</sub-title>
-    <desc lang="ca">El 'Mésnit' arriba a la desena temporada, amb Marina Romero al capdavant de l'espai i amb la voluntat de continuar sent un centre de debat d'idees i d'anàlisi de l'activitat política.</desc>
-    <length units="seconds">6392</length>
-    <episode-num system="onscreen">2161</episode-num>
-    <category lang="ca">ACTUALITAT</category>
-    <category lang="ca">DEBAT</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <previously-shown/>
-  </programme>
-  <programme start="20260918022242 +0200" stop="20260918040000 +0200" channel="tvi">
+  <programme start="20260918022244 +0200" stop="20260918040000 +0200" channel="tvi">
     <title lang="ca">Notícies 3CatInfo</title>
     <sub-title lang="ca">Notícies 3CatInfo</sub-title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">5838</length>
+    <length units="seconds">5836</length>
     <episode-num system="onscreen">11200</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
@@ -29,6 +16,19 @@
     </rating>
     <previously-shown/>
     <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
+  </programme>
+  <programme start="20260918040000 +0200" stop="20260918050000 +0200" channel="tvi">
+    <title lang="ca">Ritmes a l'estudi</title>
+    <sub-title lang="ca">Ritmes a l'estudi - EARTH ANGELS</sub-title>
+    <desc lang="ca">Els Earth Angels, una formació vocal dedicada al doo woop. Normalment el quartet es presenta a cappella, mantenint la forma tradicional d'interpretar aquest estil, tan popular durant la dècada dels 50 als Estats Units. Avui ho faran acompanyats per Josep Lluís Pérez, guitarrista, i Miguel Segura, al contrabaix. El seu repertori bascula entre el rhythmnblues vocal i l'early soul.</desc>
+    <length units="seconds">3600</length>
+    <episode-num system="onscreen">4</episode-num>
+    <category lang="ca">MUSICALS</category>
+    <category lang="ca">ALTRES</category>
+    <rating>
+      <value>PÚBLIC ADULT</value>
+    </rating>
+    <previously-shown/>
   </programme>
   <channel id="324">
     <display-name>324</display-name>
@@ -61,26 +61,25 @@
   <channel id="esport3">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20260918004934 +0200" stop="20260918022004 +0200" channel="esport3">
-    <title lang="ca">Onze</title>
-    <sub-title lang="ca">Onze</sub-title>
-    <desc lang="ca">L'Onze es passeja per BarçaAventura, el parc temàtic en què Flick ha convertit el seu equip. Un Barça de vertigen, d'alta velocitat...un depredador de rivals. Analitzem el gran moment del líder de la lliga amb Jordi Martí, Juvenal Edjogo, Irati Vidal i David Bernabéu. També ens visita el Colegiado i les polèmiques arbitrals amb vídeo inclòs de Real Madrid TV. Mayola ens dissecciona el partit de Cancelo i Adeyemi. I acabem amb el consultori d'en Sergi Ferrer.</desc>
-    <length units="seconds">5430</length>
-    <episode-num system="onscreen">1250</episode-num>
+  <programme start="20260918023917 +0200" stop="20260918040221 +0200" channel="esport3">
+    <title lang="ca">Handbol</title>
+    <sub-title lang="ca">Handbol - Montpeller-Barça / EHF Champions / J2</sub-title>
+    <desc lang="ca">En joc, el liderat del grup E. Després de la contundent victòria contra l'Aarhus en el partit d'estrena (39-28), el campió fa el primer desplaçament. Per la seva banda, els francesos van guanyar al Dinamo de Bucarest (27-23). Amb la narració de Vicenç Prados i l'anàlisi de Víctor Tomàs.</desc>
+    <length units="seconds">4984</length>
+    <episode-num system="onscreen">423</episode-num>
     <category lang="ca">ESPORTS</category>
-    <category lang="ca">MAGAZINE</category>
+    <category lang="ca">RETRANSMISSIONS ESPORTS</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <subtitles type="teletext"/>
     <previously-shown/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/1/1/1688543515711.jpg"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1729614070941.jpg"/>
   </programme>
-  <programme start="20260918022004 +0200" stop="20260918023915 +0200" channel="esport3">
+  <programme start="20260918040221 +0200" stop="20260918042116 +0200" channel="esport3">
     <title lang="ca">3CatInfo Esports</title>
     <sub-title lang="ca">3CatInfo Esports</sub-title>
     <desc lang="ca">Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.</desc>
-    <length units="seconds">1151</length>
+    <length units="seconds">1135</length>
     <episode-num system="onscreen">5511</episode-num>
     <category lang="ca">ESPORTS</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
@@ -92,12 +91,12 @@
   <channel id="sx3">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20260918014511 +0200" stop="20260918020420 +0200" channel="sx3">
-    <title lang="ca">Viatges Pokémon</title>
-    <sub-title lang="ca">Viatges Pokémon - La coronació del rei dels golafres!</sub-title>
-    <desc lang="ca">Se celebra el Gran Concurs de Menjar Pokémon i els nostres herois estan afamats per competir-hi. L'Ash i el Dragonite, junt amb el Goh i l'Skwovet, s'enfronten amb anteriors guanyadors del concurs de menjar, entre ells l'Emperador Blaziken, mundialment famós. I qui completa el quadre de concursants? El Team Rocket i el Morkepo, que està més enfurismat que mai. Un rere l'altre, els concursants es van eliminant fins que només en queden dos: l'Skwovet i el Morkepo. Al Morkepo el pressionen massa i el Team Rocket torna a fallar. L'Skwovet, que només ha de menjar un altre plat per guanyar, sembla que ja està ben tip, però de sobte evoluciona en un Greedent, supera el Morkepo i guanya el concurs.</desc>
-    <length units="seconds">1149</length>
-    <episode-num system="onscreen">47</episode-num>
+  <programme start="20260918032624 +0200" stop="20260918034702 +0200" channel="sx3">
+    <title lang="ca">Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
+    <sub-title lang="ca">Prodigiosa: Les aventures de Ladybug i Gat Noir - Animaestro</sub-title>
+    <desc lang="ca">Avui hi ha la presentació de la pel·lícula de dibuixos animats inspirada en Ladybug i el Gat Noir, i la Marinette és l'encarregada de servir el càtering que ha preparat el seu pare. Hi assisteixen molts famosos, a l'estrena, però ningú coneix el Thomas Astruc, el director de la pel·lícula, que no s'ho prendrà gaire bé. </desc>
+    <length units="seconds">1238</length>
+    <episode-num system="onscreen">54</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
@@ -106,12 +105,12 @@
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20260918020420 +0200" stop="20260918022409 +0200" channel="sx3">
-    <title lang="ca">Viatges Pokémon</title>
-    <sub-title lang="ca">Viatges Pokémon - Roben el Pikachu... o quasi!</sub-title>
-    <desc lang="ca">Mentre l'Ash i el Goh mengen unes llaminadures delicioses gràcies a la victòria del Greedent en el concurs de menjar, el Team Rocket planeja robar el Pikachu canviant-lo per un de semblant, anomenat Quasi Pikachu. Quan ja sembla que se n'han sortit i fugen amb bicicleta, el Lucario i el Cinderace els empaiten! Per contrarestar-los, el Meowth els dispara una cola elàstica i els dos Pokémon queden enganxats l'un amb l'altre. El Lucario i el Cinderace, però, no es rendeixen i troben la manera de col·laborar per aconseguir fer sortir volant el Team Rocket. Quan el Lucario i el Cinderace tornen amb l'Ash i el Goh, queden ben parats: l'autèntic Pikachu havia estat tota l'estona segur amb l'Ash!</desc>
-    <length units="seconds">1189</length>
-    <episode-num system="onscreen">48</episode-num>
+  <programme start="20260918034702 +0200" stop="20260918040809 +0200" channel="sx3">
+    <title lang="ca">Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
+    <sub-title lang="ca">Prodigiosa: Les aventures de Ladybug i Gat Noir - Fornèrix</sub-title>
+    <desc lang="ca">Avui, el pare de la Marinette celebra els quaranta anys, però el Roland, el seu avi, no hi serà present. Com que ningú li explica què passa amb el seu avi, la Marinette decideix anar a parlar amb ell. Però l'Esfinx aprofitarà la ràbia del vell forner per convertir-lo en un supermalvat ancorat en el passat.</desc>
+    <length units="seconds">1267</length>
+    <episode-num system="onscreen">55</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
@@ -123,12 +122,12 @@
   <channel id="c33">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20260918013039 +0200" stop="20260918015224 +0200" channel="c33">
-    <title lang="ca">Nens de la ruta de la seda</title>
-    <sub-title lang="ca">Nens de la ruta de la seda - Una nena lluny de casa</sub-title>
-    <desc lang="ca">La Nastia (13) és la capitana d'un equip professional de gimnàstica a Kíiv. Les noies de l'equip són les seves millors amigues. Juntes guanyen el campionat nacional de gimnàstica rítmica i tot va millor que mai. Un mes més tard, esclata la guerra a Ucraïna i la Nastia s'ha de mudar amb la seva àvia a Alemanya. Ara la Nàstia ha de construir-se una nova vida lluny dels seus pares i de les seves amigues. No sap quan podrà tornar a Kíiv ni quan podrà tornar a veure els seus pares i les seves amigues. A la Nastia, l'espera a Alemanya se li fa molt llarga, però quan s'uneix a l'equip alemany de gimnàstica, la vida comença a ser bonica de nou.</desc>
-    <length units="seconds">1305</length>
-    <episode-num system="onscreen">12</episode-num>
+  <programme start="20260918025417 +0200" stop="20260918034705 +0200" channel="c33">
+    <title lang="ca">Sota terra</title>
+    <sub-title lang="ca">Sota terra - Camp dels ninots: el paisatge fa tres milions i mig d'anys</sub-title>
+    <desc lang="ca">Anem a Caldes de Malavella, a la comarca de la Selva, a excavar al Camp dels Ninots, un antic volcà que amaga un gran secret. El Camp és un jaciment on s'excava des de fa força temps. S'hi han trobat nombroses restes arqueològiques de diferents segles, en general molt antigues: animals, eines lítiques, etc. Arribem amb un enigma per resoldre: se sap que fa 3,5 milions d'anys van morir de manera gairebé simultània una quantitat enorme d'animals. Per què van morir? Qui o què els va matar gairebé a la vegada? Busquem la resposta i també busquem més restes d'aquests éssers vius que van patir una tràgica i misteriosa desaparició. I la cirereta del pastís: volem recrear en imatges com era el paisatge a Caldes fa 3,5 milions d'anys: per aconseguir-ho haurem de trobar i analitzar el pol·len i les restes vegetals de l'època.</desc>
+    <length units="seconds">3168</length>
+    <episode-num system="onscreen">7</episode-num>
     <category lang="ca">DIVULGACIÓ</category>
     <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
     <rating>
@@ -137,12 +136,12 @@
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20260918015224 +0200" stop="20260918021214 +0200" channel="c33">
-    <title lang="ca">Nens de la ruta de la seda</title>
-    <sub-title lang="ca">Nens de la ruta de la seda - Les millors amigues</sub-title>
-    <desc lang="ca">L'Emine (10) viu en un petit poble al nord-est de Turquia. Ella i la seva millor amiga, l'Eda Nur (11) veuen a les notícies que acaba d'haver-hi un fort terratrèmol a 400 km del poble on viuen. Amb el temor, de fons, de la possibilitat de viure un terratrèmol, coneixem les vicissituds de la seva amistat. Les dues noies s'estan preparant per al seu primer concert de sac de gemecs tradicional turc, però l'Emine està gelosa de les habilitats de l'Eda Nur i això fa que la seva amistat perilli.</desc>
-    <length units="seconds">1190</length>
-    <episode-num system="onscreen">13</episode-num>
+  <programme start="20260918034705 +0200" stop="20260918043732 +0200" channel="c33">
+    <title lang="ca">Sota terra</title>
+    <sub-title lang="ca">Sota terra - Colònies industrials:la vida a la llera del riu</sub-title>
+    <desc lang="ca">Furgar en una colònia industrial abandonada des de fa dècades. Entrar en un món on el temps s'ha aturat. Conèixer com funcionava una colònia industrial, un món tancat on centenars de famílies treballaven i vivien durant tota la vida sense gairebé sortir-ne. La maquinària de la colònia es movia gràcies a dues fonts d'energia: l'aigua del riu Llobregat, i el carbó de les mines de l'Alt Berguedà. Excavem per buscar el canal de desguàs original de la primera turbina que va tenir la colònia, i també ens endinsem en una mina per obtenir carbó a cop de pic i pala, com s'ha fet durant dècades. Per arrodonir el programa, busquem un túnel colgat, totalment desaparegut, un túnel per on circulava el tren que unia totes les colònies i transportava persones, mercaderies i carbó amunt i avall de la comarca.</desc>
+    <length units="seconds">3027</length>
+    <episode-num system="onscreen">8</episode-num>
     <category lang="ca">DIVULGACIÓ</category>
     <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
     <rating>
