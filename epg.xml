@@ -3,24 +3,11 @@
   <channel id="tvi">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20260918080008 +0200" stop="20260918103000 +0200" channel="tvi">
-    <title lang="ca">Matins</title>
-    <sub-title lang="ca">Matins</sub-title>
-    <desc lang="ca">'Matins' és un dels puntals informatius de TV3. El programa matinal dona les claus del dia que comença, explica les notícies que han passat aportant-ne el context per entendre-les i analitza amb veus acreditades l'actualitat més propera i la d'arreu del món. 'Matins' comença a les 8 del matí, de dilluns a divendres, i està presentat per Ariadna Oltra.</desc>
-    <length units="seconds">8992</length>
-    <episode-num system="onscreen">4674</episode-num>
-    <category lang="ca">ACTUALITAT</category>
-    <category lang="ca">INFORMATIU DIÀRI</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <icon src="https://img.ccma.cat/multimedia/jpg/2/0/1758040151402.jpg"/>
-  </programme>
-  <programme start="20260918103000 +0200" stop="20260918135500 +0200" channel="tvi">
+  <programme start="20260918102952 +0200" stop="20260918135500 +0200" channel="tvi">
     <title lang="ca">Tot es mou</title>
     <sub-title lang="ca">Tot es mou</sub-title>
     <desc lang="ca">El programa presentat per Helena Garcia Melero s'emet de dilluns a divendres, de 10.30 a 13.55. Un magazín d'actualitat que busca informar, analitzar i debatre sobre temes que marquen l'actualitat social, econòmica i cultural del dia, amb una àmplia presència en directe dels reporters i reporteres, repartits per tot Catalunya. A més, el 'Tot es mou' compta amb seccions diàries de gastronomia (amb els principals cuiners i cuineres del país), successos, economia, mobilitat, temes mèdics i de tecnologia, entre d'altres.</desc>
-    <length units="seconds">12300</length>
+    <length units="seconds">12308</length>
     <episode-num system="onscreen">1811</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">MAGAZINE</category>
@@ -28,26 +15,26 @@
       <value>TOTS ELS PÚBLICS</value>
     </rating>
   </programme>
-  <channel id="324">
-    <display-name>324</display-name>
-  </channel>
-  <programme start="20260918080000 +0200" stop="20260918103000 +0200" channel="324">
-    <title lang="ca">Matins</title>
-    <desc lang="ca">'Matins' és un dels puntals informatius de TV3. El programa matinal dona les claus del dia que comença, explica les notícies que han passat aportant-ne el context per entendre-les i analitza amb veus acreditades l'actualitat més propera i la d'arreu del món. 'Matins' comença a les 8 del matí, de dilluns a divendres, i està presentat per Ariadna Oltra.</desc>
-    <length units="seconds">9000</length>
-    <episode-num system="onscreen">4674</episode-num>
+  <programme start="20260918135500 +0200" stop="20260918143000 +0200" channel="tvi">
+    <title lang="ca">Telenotícies comarques</title>
+    <sub-title lang="ca">Telenotícies comarques</sub-title>
+    <length units="seconds">2100</length>
+    <episode-num system="onscreen">7037</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <icon src="https://img.ccma.cat/multimedia/jpg/2/0/1758040151402.jpg"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/5/2/1758026313525.jpg"/>
   </programme>
-  <programme start="20260918103000 +0200" stop="20260918120000 +0200" channel="324">
+  <channel id="324">
+    <display-name>324</display-name>
+  </channel>
+  <programme start="20260918120000 +0200" stop="20260918135500 +0200" channel="324">
     <title lang="ca">Notícies 3CatInfo</title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">5400</length>
-    <episode-num system="onscreen">11202</episode-num>
+    <length units="seconds">6900</length>
+    <episode-num system="onscreen">11203</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
@@ -56,46 +43,57 @@
     <subtitles type="teletext"/>
     <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
-  <channel id="esport3">
-    <display-name>ESPORT3</display-name>
-  </channel>
-  <programme start="20260918083748 +0200" stop="20260918100056 +0200" channel="esport3">
-    <title lang="ca">Handbol</title>
-    <sub-title lang="ca">Handbol - Montpeller-Barça / EHF Champions / J2</sub-title>
-    <desc lang="ca">En joc, el liderat del grup E. Després de la contundent victòria contra l'Aarhus en el partit d'estrena (39-28), el campió fa el primer desplaçament. Per la seva banda, els francesos van guanyar al Dinamo de Bucarest (27-23). Amb la narració de Vicenç Prados i l'anàlisi de Víctor Tomàs.</desc>
-    <length units="seconds">4988</length>
-    <episode-num system="onscreen">423</episode-num>
-    <category lang="ca">ESPORTS</category>
-    <category lang="ca">RETRANSMISSIONS ESPORTS</category>
+  <programme start="20260918135500 +0200" stop="20260918143000 +0200" channel="324">
+    <title lang="ca">Telenotícies comarques</title>
+    <length units="seconds">2100</length>
+    <episode-num system="onscreen">7037</episode-num>
+    <category lang="ca">ACTUALITAT</category>
+    <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <previously-shown/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1729614070941.jpg"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/5/2/1758026313525.jpg"/>
   </programme>
-  <programme start="20260918100056 +0200" stop="20260918102651 +0200" channel="esport3">
-    <title lang="ca">Catalunya salvatge</title>
-    <sub-title lang="ca">Catalunya salvatge - Els tresors de Posidó</sub-title>
-    <desc lang="ca">'Catalunya salvatge' és una sèrie documental de 13 capítols que donarà a conèixer als espectadors els ecosistemes més representatius del nostre país. Des dels cims del Pirineu fins a les llacunes del delta de l'Ebre, 'Catalunya salvatge' farà un repàs de la flora i la fauna dels paratges més emblemàtics de Catalunya.Els seguidors de la sèrie tindran, doncs, una finestra privilegiada a la biodiversitat del Parc Nacional d'Aigüestortes, la muntanya de Montserrat, la zona volcànica de la Garrotxa, els aiguamolls de l'Empordà o el món submarí de les illes Medes.El primer ecosistema explorat en profunditat serà el d'alta muntanya, on la supervivència no és gens fàcil.(tardor 2010)</desc>
-    <length units="seconds">1555</length>
-    <episode-num system="onscreen">10</episode-num>
-    <category lang="ca">DIVULGACIÓ</category>
-    <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
+  <channel id="esport3">
+    <display-name>ESPORT3</display-name>
+  </channel>
+  <programme start="20260918125711 +0200" stop="20260918140142 +0200" channel="esport3">
+    <title lang="ca">Esport Club</title>
+    <sub-title lang="ca">Esport Club</sub-title>
+    <desc lang="ca">Roberto i Fermín, les grans novetats de la selecció espanyola. Hansi Flick en la prèvia del Sevilla-Barça de demà. Avui, Espanyol-Elx al RCDE Stadium. Granollers acull el Mundial d'handbol en cadira de rodes. En parlem amb Álvaro Ferrer, regidor d'Esports de l'Ajuntament de la capital vallesana. A la tertúlia ens acompanyen Nacho Peña, David Sánchez i Laia Cervelló.</desc>
+    <length units="seconds">3871</length>
+    <episode-num system="onscreen">3243</episode-num>
+    <category lang="ca">ESPORTS</category>
+    <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
-    <previously-shown/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/7/3/1698145091337.jpg"/>
+  </programme>
+  <programme start="20260918140142 +0200" stop="20260918150604 +0200" channel="esport3">
+    <title lang="ca">Esport Club</title>
+    <sub-title lang="ca">Esport Club</sub-title>
+    <desc lang="ca">Roberto i Fermín, les grans novetats de la selecció espanyola. Hansi Flick en la prèvia del Sevilla-Barça de demà. Avui, Espanyol-Elx al RCDE Stadium. Granollers acull el Mundial d'handbol en cadira de rodes. En parlem amb Álvaro Ferrer, regidor d'Esports de l'Ajuntament de la capital vallesana. A la tertúlia ens acompanyen Nacho Peña, David Sánchez i Laia Cervelló.</desc>
+    <length units="seconds">3862</length>
+    <episode-num system="onscreen">3243</episode-num>
+    <category lang="ca">ESPORTS</category>
+    <category lang="ca">INFORMATIU DIÀRI</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <subtitles type="teletext"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/7/3/1698145091337.jpg"/>
   </programme>
   <channel id="sx3">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20260918083621 +0200" stop="20260918084654 +0200" channel="sx3">
-    <title lang="ca">El Mic i els seus amics</title>
-    <sub-title lang="ca">El Mic i els seus amics - Un niu al mig de l'hort</sub-title>
-    <desc lang="ca">'El Mic i els seus amics' presenta les històries del Mic agrupades en capítols. Les aventures dels titelles s'acompanyen de petits vídeos protagonitzats per nens i nenes, i separadors amb imatges de natura. És una sèrie pensada perquè els súpers més petits gaudeixin encara més! El Mic i els seus amics es troben cada dia per cantar cançons, explicar contes, dir endevinalles... Viuen en un lloc on hi ha turons, arbres, flors i papallones.Tot està a punt per jugar. Només cal fer... MAC, MEC, MIC, TOCA'T EL MELIC!</desc>
-    <length units="seconds">633</length>
-    <episode-num system="onscreen">539</episode-num>
+  <programme start="20260918133201 +0200" stop="20260918135249 +0200" channel="sx3">
+    <title lang="ca">El detectiu Conan</title>
+    <sub-title lang="ca">El detectiu Conan - En Conan atrapat a les fosques (2a part)</sub-title>
+    <desc lang="ca">En Conan continua sense poder sortir de la mena de caixa on està tancat a les fosques, però, per sort, aconsegueix comunicar-se amb els seus amics de la Lliga de Detectius Júnior mitjançant el pin transmissor. Els diu que li sembla que l'han tancat a dins d'un taüt i que es comença a moure, com si el transportessin amb cotxe. Mentrestant, en Kogoro Mouri investiga el cas del robatori d'un testament.</desc>
+    <length units="seconds">1248</length>
+    <episode-num system="onscreen">901</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
@@ -104,12 +102,12 @@
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20260918084654 +0200" stop="20260918085703 +0200" channel="sx3">
-    <title lang="ca">El Mic i els seus amics</title>
-    <sub-title lang="ca">El Mic i els seus amics - Juguem al dòmino</sub-title>
-    <desc lang="ca">El dòmino té l'origen en un joc de daus de la Xina i té mil anys d'història. La versió moderna del dòmino va arribar a Europa al segle XVIII. Per infants hi ha dòminos de formes, xifres, colors, enlloc dels punts tradicionals. És un joc que fomenta la memòria visual i la concentració i l'agilitat mental.</desc>
-    <length units="seconds">609</length>
-    <episode-num system="onscreen">611</episode-num>
+  <programme start="20260918135249 +0200" stop="20260918141416 +0200" channel="sx3">
+    <title lang="ca">El detectiu Conan</title>
+    <sub-title lang="ca">El detectiu Conan - Un cas d'ovnis difícil per a l'inspector Chiba (1a part)</sub-title>
+    <desc lang="ca">A l'inspector Chiba li ha tocat investigar un cas molt difícil: un home ha aparegut mort enganxat a una superfície de formigó que encara era fresc quan ell hi va caure de cara a terra. Al seu costat hi ha un altre home enganxat al formigó, però aquest està viu. Tot fa pensar que el segon ha matat el primer, però també hi ha indicis que uns extraterrestres han intervingut en l'assassinat.</desc>
+    <length units="seconds">1287</length>
+    <episode-num system="onscreen">902</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
@@ -121,12 +119,26 @@
   <channel id="c33">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20260918080953 +0200" stop="20260918084453 +0200" channel="c33">
-    <title lang="ca">Cosins Germans</title>
-    <sub-title lang="ca">Cosins Germans - Terres de frontera</sub-title>
-    <desc lang="ca">Al cor de l'antiga Corona d'Aragó, tres comarques, la Terra Alta, el Matarranya i els Ports viuen separades en tres administracions diferents. El caràcter fronterer els ha forjat una mateixa personalitat. El viatge per aquestes terres de cruïlla té la seva primera parada a Corbera d'Ebre. Aquest poble va quedar assolat després dels durs bombardejos de la Guerra Civil. L'Empar i el Ferran recorreran els carrers deshabitats i parlaran amb tres testimonis d'aquells dies atziacs. Posaran a prova la seva claustrofòbia fent una activitat d'espeleologia, endinsant-se en les entranyes del Massís dels Ports. Travessaran el riu Matarranya per visitar el llibreter Octavi Serret, tot un referent d'aquest territori aragonès on es parla català. Ja a la província de Castelló recorreran la població emmurallada de Morella. Descobriran un dels secrets culinaris que hi amaga: la tòfona negra. En buscaran seguint els consells d'un guia del terreny i acabaran el dia amb la taula parada dinant amb bona companyia.</desc>
-    <length units="seconds">2100</length>
-    <episode-num system="onscreen">5</episode-num>
+  <programme start="20260918133854 +0200" stop="20260918140908 +0200" channel="c33">
+    <title lang="ca">No tenim vergonya</title>
+    <sub-title lang="ca">No tenim vergonya - NTV 40 Anys Esports (4)</sub-title>
+    <desc lang="ca">'No tenim vergonya' revisa els grans moments a Televisió de Catalunya. Se'ls mira des d'un altre punt de vista, per comparar-los amb la realitat actual o repassar moments televisius molt recordats. Mai, però, des d'un punt de vista nostàlgic. NTV és una cadena de televisió. I, com a tal, conté tota mena d'elements (molinets, publicitat...) i de programes (informatius, d'esports, magazines, musicals, concursos...). De què es nodreix la seva programació? De l'arxiu de la televisió pública catalana revisionada sense complexos. D'aquí ve el nom de la cadena NTV, de 'No tenim vergonya'.</desc>
+    <length units="seconds">1814</length>
+    <episode-num system="onscreen">216</episode-num>
+    <category lang="ca">ESPORTS</category>
+    <category lang="ca">REPORTATGES</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <subtitles type="teletext"/>
+    <previously-shown/>
+  </programme>
+  <programme start="20260918140908 +0200" stop="20260918145530 +0200" channel="c33">
+    <title lang="ca">La Renaixença</title>
+    <sub-title lang="ca">La Renaixença - El pluviòmetre</sub-title>
+    <desc lang="ca">El pluviòmetre és l'objecte protagonista d'aquest capítol. Es pot convertir en una obsessió (si és que plou), sobretot si ets dels que envia fotos a l'espai del Temps. Ens visita l'actor Toni Albà. No sabem com, però hem acabat fent una escena d''Els Pastorets' de Folch i Torres en ple mes de setembre. I portem a passejar el gos per l'accident de les 24 hores de Le Mans del 1955. Hi portem en Rex, un gos que va tenir... un accident automobilístic. </desc>
+    <length units="seconds">2782</length>
+    <episode-num system="onscreen">9</episode-num>
     <category lang="ca">DIVULGACIÓ</category>
     <category lang="ca">ALTRES</category>
     <rating>
@@ -134,20 +146,7 @@
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
-  </programme>
-  <programme start="20260918084453 +0200" stop="20260918090013 +0200" channel="c33">
-    <title lang="ca">Pastors i ramats: un món que se'n va</title>
-    <sub-title lang="ca">Pastors i ramats: un món que se'n va - Carles i Josep Suriñach</sub-title>
-    <desc lang="ca">'Pastors i ramats, un món que se'n va', és una sèrie de 15 capítols protagonitzada per pastors i pastores que, al llarg del nostre país, treuen a pasturar cada dia el seu ramat. Malgrat fer la mateixa feina, cada pastor és un món, una forma particular de relacionar-se amb el ramat, un mosaic de veus i gestos units per l'estimació pels animals. I també un conjunt de converses amb persones que són allà on volen ser, perseverant tossudament per continuar l'ofici malgrat totes les dificultats... Pastors i ramats... és la lluita silenciosa i plena de dignitat d'un món que se'n va.</desc>
-    <length units="seconds">920</length>
-    <episode-num system="onscreen">9</episode-num>
-    <category lang="ca">DIVULGACIÓ</category>
-    <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <subtitles type="teletext"/>
-    <previously-shown/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/3/3/1756148014833.jpg"/>
   </programme>
   <channel id="oca1">
     <display-name>OCA1</display-name>
