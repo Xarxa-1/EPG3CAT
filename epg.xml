@@ -3,73 +3,101 @@
   <channel id="tvi">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20260918222841 +0200" stop="20260918232235 +0200" channel="tvi">
-    <title lang="ca">Documental</title>
-    <sub-title lang="ca">Documental - És a l'aire</sub-title>
-    <desc lang="ca">'ÉS A L'AIRE' (2019), una producció de Un Capricho de Producciones, S.L. en coproducció amb Televisió de Catalunya, amb el suport de Col·lectiu Ronda, l'Ajuntament del Morell i l'Ajuntament de Vilallonga del Camp.Segons l'Agència Europea del Medi Ambient, el principal focus contaminant de l'aire que respirem no és el trànsit, sinó la indústria. Al centre del Camp de Tarragona, s'hi aixeca el Complex Petroquímic de Tarragona. L'any 2012, un equip de la Universitat Politècnica de Catalunya, dirigit per Francesc Xavier Roca, va fer un estudi independent sobre la qualitat de l'aire del territori. Els resultats indicaven la presència de nivells molt alts de diferents tipus de gasos tòxics que poden arribar a provocar càncer. L'any 2015, un altre estudi d'aquest equip confirmava la presència a l'aire de substàncies malignes per a la salut. A finals de 2018, aquests científics emprenen un nou estudi sobre la contaminació atmosfèrica en aquest territori.Equip tècnicDirecció i realització: Christophe Sion / Santi SuárezGuió: Santi SuárezProductor: Belén Sánchez i Santi SuárezProductor executiu TVC: Jordi AmbròsProductor delegat TVC: Daniel BareaDirector fotografia: Christophe DesplanquesMuntatge: Carlos Prieto i Anaïs UrracaDirector de producció: Agnès BatlloriMúsica: David Pastor i Mario RoldánLingüista: Judit TerratsGrafisme: Adriana Perón i Kote BerberechoVeu en off: Núria Deulofeu</desc>
+  <programme start="20260918235337 +0200" stop="20260919012449 +0200" channel="tvi">
+    <title lang="ca">Pel·lícula</title>
+    <sub-title lang="ca">Pel·lícula - El pati de l'escola</sub-title>
+    <desc lang="ca">LA COUR 'El pati de l'escola'Direcció: Hafsia HerziGuió: Victor Jestin, Nacim Mehtar, Hafsia HerziProducció: Arte France Cinéma, Albertine Productions, Film&amp;PictureAny: 2022Durada: 89País: FrançaMúsica: Remi DurelFotografia: Jérémie AttardIntèrprets: Lucy Loste Berset, Clotilde Courau, Djanis Bouzyani, Ludovic Berthillot, Jérémie Laheurte, Lizzie Brocheré, Hugo Laurent, Sylvère Jacot, Olivia Espinas, Milo Oster-Martinez, Léonte Deladonchamps, Tom Gérard-Beuvelot, Jade MeunierL'Anya és una nena de deu anys que s'ha passat tota la vida viatjant pel món amb els seus pares i que sempre ha fet l'escola a casa. Ara, la seva arribada a un centre educatiu al mig de l'any escolar canviarà el dia a dia de la classe d'últim any de primària. Quan l'Anya rep un cop de pilota al cap i els nens que juguen a futbol es neguen a disculpar-se, s'adona que la geografia del pati de l'escola està pensada per afavorir els nois i relegar les noies a la perifèria. L'Anya i els seus nous amics, el Nils, la Jade i la Zoé, hauran de lluitar per trobar el seu lloc. I enmig del conflicte que es prepara hi ha el Nathan, el fill de la directora, que forma part del grup dels futbolistes. Però entre l'Anya i el Nathan naixeran uns sentiments fins ara desconeguts.</desc>
     <credits>
-      <writer>Santi Suárez</writer>
+      <director>Hafsia Herzi</director>
+      <writer>Victor Jestin</writer>
+      <writer>Nacim Mehtar</writer>
+      <writer>Hafsia Herzi</writer>
+      <actor>Lucy Loste Berset</actor>
+      <actor>Clotilde Courau</actor>
+      <actor>Djanis Bouzyani</actor>
+      <actor>Ludovic Berthillot</actor>
+      <actor>Jérémie Laheurte</actor>
+      <actor>Lizzie Brocheré</actor>
+      <actor>Hugo Laurent</actor>
+      <actor>Sylvère Jacot</actor>
+      <actor>Olivia Espinas</actor>
+      <actor>Milo Oster-Martinez</actor>
+      <actor>Léonte Deladonchamps</actor>
+      <actor>Tom Gérard-Beuvelot</actor>
+      <actor>Jade MeunierL'Anya és una nena de deu anys que s'ha passat tota la vida viatjant pel món amb els seus pares</actor>
+      <actor>que sempre ha fet l'escola a casa. Ara</actor>
+      <actor>la seva arribada a un centre educatiu al mig de l'any escolar canviarà el dia a dia de la classe d'últim any de primària. Quan l'Anya rep un cop de pilota al cap</actor>
+      <actor>els nens que juguen a futbol es neguen a disculpar-se</actor>
+      <actor>s'adona que la geografia del pati de l'escola està pensada per afavorir els nois</actor>
+      <actor>relegar les noies a la perifèria. L'Anya</actor>
+      <actor>els seus nous amics</actor>
+      <actor>el Nils</actor>
+      <actor>la Jade</actor>
+      <actor>la Zoé</actor>
+      <actor>hauran de lluitar per trobar el seu lloc. I enmig del conflicte que es prepara hi ha el Nathan</actor>
+      <actor>el fill de la directora</actor>
+      <actor>que forma part del grup dels futbolistes. Però entre l'Anya</actor>
+      <actor>el Nathan naixeran uns sentiments fins ara desconeguts.</actor>
     </credits>
-    <length units="seconds">3234</length>
+    <length units="seconds">5472</length>
     <episode-num system="onscreen">1</episode-num>
-    <category lang="ca">DIVULGACIÓ</category>
-    <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
+    <category lang="ca">FICCIÓ</category>
+    <category lang="ca">PEL·LÍCULA / TELEFILM</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20260918232235 +0200" stop="20260918235334 +0200" channel="tvi">
-    <title lang="ca">3 Minuts</title>
-    <sub-title lang="ca">3 Minuts - Ronda 1 - Albert Roig, Alexia Luna, Yael Brusca i Termi fa coses</sub-title>
-    <desc lang="ca">Primera ronda i estrena de '3 minuts', el primer torneig ràpid de stand-up en català de TV3 amb quatre concursants que no us deixaran indiferents (si sou els seus familiars). Dues còmiques, un còmic i un senyor de Tortosa s'enfrontaran entre ells (no físicament, tot i que tant de bo) per poder superar la ronda. Qui passarà a la gran final on podrà guanyar 5.000 euros i la participació al festival Cruïlla Comedy? El programa compta amb un jurat implacable, format per Marc Sarrats, Raquel Hervás i Irene Minovas, i amb la Charlie Pee com a mestra de cerimònies.</desc>
-    <length units="seconds">1859</length>
-    <episode-num system="onscreen">1</episode-num>
-    <category lang="ca">ENTRETENIMENT</category>
-    <category lang="ca">ALTRES</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <subtitles type="teletext"/>
-    <previously-shown/>
-  </programme>
-  <channel id="324">
-    <display-name>324</display-name>
-  </channel>
-  <programme start="20260918220500 +0200" stop="20260918233000 +0200" channel="324">
+  <programme start="20260919012449 +0200" stop="20260919024004 +0200" channel="tvi">
     <title lang="ca">Mésnit</title>
+    <sub-title lang="ca">Mésnit</sub-title>
     <desc lang="ca">El 'Mésnit' arriba a la desena temporada, amb Marina Romero al capdavant de l'espai i amb la voluntat de continuar sent un centre de debat d'idees i d'anàlisi de l'activitat política.</desc>
-    <length units="seconds">5100</length>
+    <length units="seconds">4515</length>
     <episode-num system="onscreen">2162</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">DEBAT</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <subtitles type="teletext"/>
+    <previously-shown/>
   </programme>
-  <programme start="20260918233000 +0200" stop="20260919003000 +0200" channel="324">
+  <channel id="324">
+    <display-name>324</display-name>
+  </channel>
+  <programme start="20260919010000 +0200" stop="20260919060000 +0200" channel="324">
     <title lang="ca">Notícies 3CatInfo</title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">3600</length>
-    <episode-num system="onscreen">11208</episode-num>
+    <length units="seconds">18000</length>
+    <episode-num system="onscreen">11209</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <subtitles type="teletext"/>
+    <previously-shown/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
+  </programme>
+  <programme start="20260919060000 +0200" stop="20260919070000 +0200" channel="324">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="seconds">3600</length>
+    <episode-num system="onscreen">11209</episode-num>
+    <category lang="ca">ACTUALITAT</category>
+    <category lang="ca">INFORMATIU DIÀRI</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <previously-shown/>
     <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
   <channel id="esport3">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20260918230001 +0200" stop="20260919003049 +0200" channel="esport3">
+  <programme start="20260919005258 +0200" stop="20260919022639 +0200" channel="esport3">
     <title lang="ca">Onze</title>
     <sub-title lang="ca">Onze</sub-title>
     <desc lang="ca">Míriam Riau fa tertúlia amb Lluís Carrasco, Carme Lluveras, Juli Garcia i Albert Rogé. Jugarà Szczesny a Sevilla? Amb Àlex Delmàs fem la clau del Sevilla-Barça. Parlem amb Siro López. Joan Fàbregas ens diu qui arbitrarà el derbi madrileny. Acabem amb Òscar Nin i una selecció de samarretes espantoses.</desc>
-    <length units="seconds">5448</length>
+    <length units="seconds">5621</length>
     <episode-num system="onscreen">1251</episode-num>
     <category lang="ca">ESPORTS</category>
     <category lang="ca">MAGAZINE</category>
@@ -77,13 +105,14 @@
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
+    <previously-shown/>
     <icon src="https://img.ccma.cat/multimedia/jpg/1/1/1688543515711.jpg"/>
   </programme>
-  <programme start="20260919003049 +0200" stop="20260919005136 +0200" channel="esport3">
+  <programme start="20260919022639 +0200" stop="20260919024634 +0200" channel="esport3">
     <title lang="ca">3CatInfo Esports</title>
     <sub-title lang="ca">3CatInfo Esports</sub-title>
     <desc lang="ca">Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.</desc>
-    <length units="seconds">1247</length>
+    <length units="seconds">1195</length>
     <episode-num system="onscreen">5512</episode-num>
     <category lang="ca">ESPORTS</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
@@ -96,12 +125,12 @@
   <channel id="sx3">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20260918230525 +0200" stop="20260918232711 +0200" channel="sx3">
-    <title lang="ca">Els germans Kratt</title>
-    <sub-title lang="ca">Els germans Kratt - Quin trencacolls!</sub-title>
-    <desc lang="ca">Mentre en Chris i en Martin intenten esbrinar com és que les girafes tenen el coll tan llarg, una girafa molt trapella els comença a prendre trossos del vestit de poder animal i provisions de la nau Tortuga. A més de tenir el coll molt llarg, també la sap molt llarga! I si no l'aturen a temps, al final potser acabaran tots amb l'aigua al coll!</desc>
-    <length units="seconds">1306</length>
-    <episode-num system="onscreen">46</episode-num>
+  <programme start="20260919011417 +0200" stop="20260919012649 +0200" channel="sx3">
+    <title lang="ca">Les Sisters</title>
+    <sub-title lang="ca">Les Sisters - Per fi vacances!</sub-title>
+    <desc lang="ca">Les germanes es tornen a barallar i els pares, farts, decideixen separar-les les cinc setmanes de vacances enviant la Wendy a fer un curs d'anglès a Nova York. La Wendy i la Marine estan contentíssimes! Però just abans que la Wendy se'n vagi, s'adonen per separat que cinc setmanes és molt de temps i que enyoraran la seva germana. Sense confessar-ho, totes dues faran el possible perquè no les separin.</desc>
+    <length units="seconds">752</length>
+    <episode-num system="onscreen">23</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
@@ -110,12 +139,12 @@
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20260918232711 +0200" stop="20260918234812 +0200" channel="sx3">
-    <title lang="ca">Els germans Kratt</title>
-    <sub-title lang="ca">Els germans Kratt - Cuques o mones?</sub-title>
-    <desc lang="ca">Avui en Martin, que sap que en un tros de selva de la mida d'un camp de futbol hi pot haver més de 70.000 espècies d'insectes diferents, està decidit a sortir a buscar cuques. El que passa és que en Chris té un altre pla: endur-se el seu germà miniaturitzat a la motxilla i anar a seguir mones aranya per dalt dels arbres. Qui se sortirà amb la seva?</desc>
-    <length units="seconds">1261</length>
-    <episode-num system="onscreen">47</episode-num>
+  <programme start="20260919012649 +0200" stop="20260919014645 +0200" channel="sx3">
+    <title lang="ca">Viatges Pokémon</title>
+    <sub-title lang="ca">Viatges Pokémon - Entrenar, o no entrenar!</sub-title>
+    <desc lang="ca">Mentre van cap a l'escola, la Chloe explica al Goh que encara no ha decidit si mai capturarà un Pokémon. Mentrestant, el Yamper capta l'atenció d'un Eevee al Laboratori d'Evolució dels Eevee fins al punt que s'escapa amb ell, però els investigadors els persegueixen. Els Pokémon se'n van a l'escola, i quan la Chloe i el Goh surten a veure què passa, troben els investigadors i també el Team Rocket. La Chloe, el Yamper i l'Eevee ajuden a derrotar el Team Rocket, però quan els investigadors volen anar-se'n amb l'Eevee, aquest gira cua i se'n va amb la Chloe. Els investigadors s'adonen de la seva amistat i deixen que l'Eevee sigui el primer Pokémon que capturi la Chloe.</desc>
+    <length units="seconds">1196</length>
+    <episode-num system="onscreen">49</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
@@ -127,12 +156,12 @@
   <channel id="c33">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20260918224820 +0200" stop="20260918233253 +0200" channel="c33">
-    <title lang="ca">Groenlàndia, supervivència als confins de la Terra</title>
-    <sub-title lang="ca">Groenlàndia, supervivència als confins de la Terra - Groenlàndia, supervivència als confins de...</sub-title>
-    <desc lang="ca">Al primer episodi de Groenlàndia, supervivència als confins de la Terra, caminem per la segona capa de gel més gran del món. Observem els magnífics fiords alimentats per la majestuosa glacera que tenen al darrere. A la ciutat pesquera d'Ilulissat, degustem la cuina local i veiem l'artesania antiga. Després, ens dirigim cap al llac de Tasersuatsiaq, llar del gran bou mesquer. Camí del nord amb la Kisaq, visitem mines abandonades i descobrim una tràgica història de vaixells i mariners atrapats al gel. Finalment, ens aturem a Upervanik a comprar provisions per la següent part del viatge: cap al cim del món.</desc>
-    <length units="seconds">2673</length>
-    <episode-num system="onscreen">1</episode-num>
+  <programme start="20260919010636 +0200" stop="20260919012756 +0200" channel="c33">
+    <title lang="ca">Nens de la ruta de la seda</title>
+    <sub-title lang="ca">Nens de la ruta de la seda - Les bessones venecianes</sub-title>
+    <desc lang="ca">La Gaia I la Giulia són bessones, tenen catorze anys i els encanta el rem. Entrenen juntes per la cursa anual de góndola 'la Regata Històrica'. Una cursa que ha unit tot Venècia des de fa set-cents anys i on competiran contra alguns dels millors remers de la ciutat. El seu pare és un gran gondoler i té grans expectatives en les seves filles.Tant la Gaia com la Giulia tenen molt de caràcter, però a banda d'això són molt diferents. Els seus desacords els impedeixen donar el millor de si mateixes quan remen. Hauran de trobar la manera de treballar juntes si volen guanyar la cursa i enorgullir el seu pare.</desc>
+    <length units="seconds">1280</length>
+    <episode-num system="onscreen">14</episode-num>
     <category lang="ca">DIVULGACIÓ</category>
     <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
     <rating>
@@ -141,12 +170,12 @@
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20260918233253 +0200" stop="20260919001548 +0200" channel="c33">
-    <title lang="ca">Groenlàndia, supervivència als confins de la Terra</title>
-    <sub-title lang="ca">Groenlàndia, supervivència als confins de la Terra - Groenlàndia, supervivència als confins de...</sub-title>
-    <desc lang="ca">Al segon episodi de Groenlàndia, supervivència als confins de la Terra, pugem a un trineu per veure com cacen els inuits en aquest ambient tan extrem. A bord de la Kisaq travessem el mal temps, i passem pel costat de colònies de somorgollaires i gavinetes. Som testimonis del canvi climàtic quan s'esfondren a l'oceà. Pobles pesquers esquitxen la costa. Coneixem la caça de supervivència dels inuits: des de gavotins atlàntics fins als depredadors més ferotges del món, els ossos polars. En trobem un exemplar abans d'arribar a Siorapaluk, i continuem per descobrir què hi ha més enllà del regne dels homes.</desc>
-    <length units="seconds">2575</length>
-    <episode-num system="onscreen">2</episode-num>
+  <programme start="20260919012756 +0200" stop="20260919014922 +0200" channel="c33">
+    <title lang="ca">Nens de la ruta de la seda</title>
+    <sub-title lang="ca">Nens de la ruta de la seda - La cantant de Tamarinde</sub-title>
+    <desc lang="ca">La Kam té dotze anys i viu als afores de Bangkok amb la seva família. Casa seva sempre ha estat plena de música: el seu pare sovint toca la guitarra, i a ella li encanta acompanyar-lo cantant. El seu somni és convertir-se en una cantant famosa i cantar davant d'un gran públic. El talent de la Kam no passa desapercebut per l'escola local de música, i quan la conviden a cantar al concert local, es posa molt nerviosa. Per animar-la, els seus professors li regalen entrades per anar a veure un concert de la seva cantant preferida i la conviden a saludar-la entre bastidors. Amb els consells de la famosa cantant i el suport del seu millor amic, aconsegueix animar-se a cantar al concert local.</desc>
+    <length units="seconds">1286</length>
+    <episode-num system="onscreen">15</episode-num>
     <category lang="ca">DIVULGACIÓ</category>
     <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
     <rating>
