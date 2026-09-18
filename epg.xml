@@ -3,114 +3,121 @@
   <channel id="tvi">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20260918201500 +0200" stop="20260918210000 +0200" channel="tvi">
-    <title lang="ca">Està passant</title>
-    <sub-title lang="ca">Està passant</sub-title>
-    <desc lang="ca">Resum dels millors moments de la setmana</desc>
-    <length units="seconds">2700</length>
-    <episode-num system="onscreen">1813</episode-num>
-    <category lang="ca">ENTRETENIMENT</category>
-    <category lang="ca">GAGS. HUMOR</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <icon src="https://img.ccma.cat/multimedia/png/3/8/1705511272683.png"/>
-  </programme>
-  <programme start="20260918210000 +0200" stop="20260918220540 +0200" channel="tvi">
-    <title lang="ca">Telenotícies vespre</title>
-    <sub-title lang="ca">Telenotícies vespre</sub-title>
-    <length units="seconds">3940</length>
-    <episode-num system="onscreen">7331</episode-num>
-    <category lang="ca">ACTUALITAT</category>
-    <category lang="ca">INFORMATIU DIÀRI</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <icon src="https://img.ccma.cat/multimedia/jpg/7/2/1758026176427.jpg"/>
-  </programme>
-  <channel id="324">
-    <display-name>324</display-name>
-  </channel>
-  <programme start="20260918200000 +0200" stop="20260918210000 +0200" channel="324">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">3600</length>
-    <episode-num system="onscreen">11207</episode-num>
-    <category lang="ca">ACTUALITAT</category>
-    <category lang="ca">INFORMATIU DIÀRI</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
-  </programme>
-  <programme start="20260918210000 +0200" stop="20260918220500 +0200" channel="324">
-    <title lang="ca">Telenotícies vespre</title>
-    <length units="seconds">3900</length>
-    <episode-num system="onscreen">7331</episode-num>
-    <category lang="ca">ACTUALITAT</category>
-    <category lang="ca">INFORMATIU DIÀRI</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <subtitles type="teletext"/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/7/2/1758026176427.jpg"/>
-  </programme>
-  <channel id="esport3">
-    <display-name>ESPORT3</display-name>
-  </channel>
-  <programme start="20260918185400 +0200" stop="20260918203748 +0200" channel="esport3">
-    <title lang="ca">Hoquei patins</title>
-    <sub-title lang="ca">Hoquei patins - Catalunya-Portugal / GoldenCat masculina / J2</sub-title>
-    <desc lang="ca">La selecció catalana masculina d'hoquei patins disputa el tercer i últim partit de la fase de lliga a la segona jornada de la GoldenCat. </desc>
-    <length units="seconds">6228</length>
-    <episode-num system="onscreen">8125</episode-num>
-    <category lang="ca">ESPORTS</category>
-    <category lang="ca">RETRANSMISSIONS ESPORTS</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <icon src="https://img.ccma.cat/multimedia/jpg/4/3/1722012513934.jpg"/>
-  </programme>
-  <programme start="20260918203748 +0200" stop="20260918205500 +0200" channel="esport3">
-    <title lang="ca">Esport Club</title>
-    <sub-title lang="ca">Esport Club</sub-title>
-    <desc lang="ca">Roberto i Fermín, les grans novetats de la selecció espanyola. Hansi Flick en la prèvia del Sevilla-Barça de demà. Avui, Espanyol-Elx al RCDE Stadium. Granollers acull el Mundial d'handbol en cadira de rodes. En parlem amb Álvaro Ferrer, regidor d'Esports de l'Ajuntament de la capital vallesana. A la tertúlia ens acompanyen Nacho Peña, David Sánchez i Laia Cervelló.</desc>
-    <length units="seconds">1032</length>
-    <episode-num system="onscreen">3243</episode-num>
-    <category lang="ca">ESPORTS</category>
-    <category lang="ca">INFORMATIU DIÀRI</category>
+  <programme start="20260918222841 +0200" stop="20260918232235 +0200" channel="tvi">
+    <title lang="ca">Documental</title>
+    <sub-title lang="ca">Documental - És a l'aire</sub-title>
+    <desc lang="ca">'ÉS A L'AIRE' (2019), una producció de Un Capricho de Producciones, S.L. en coproducció amb Televisió de Catalunya, amb el suport de Col·lectiu Ronda, l'Ajuntament del Morell i l'Ajuntament de Vilallonga del Camp.Segons l'Agència Europea del Medi Ambient, el principal focus contaminant de l'aire que respirem no és el trànsit, sinó la indústria. Al centre del Camp de Tarragona, s'hi aixeca el Complex Petroquímic de Tarragona. L'any 2012, un equip de la Universitat Politècnica de Catalunya, dirigit per Francesc Xavier Roca, va fer un estudi independent sobre la qualitat de l'aire del territori. Els resultats indicaven la presència de nivells molt alts de diferents tipus de gasos tòxics que poden arribar a provocar càncer. L'any 2015, un altre estudi d'aquest equip confirmava la presència a l'aire de substàncies malignes per a la salut. A finals de 2018, aquests científics emprenen un nou estudi sobre la contaminació atmosfèrica en aquest territori.Equip tècnicDirecció i realització: Christophe Sion / Santi SuárezGuió: Santi SuárezProductor: Belén Sánchez i Santi SuárezProductor executiu TVC: Jordi AmbròsProductor delegat TVC: Daniel BareaDirector fotografia: Christophe DesplanquesMuntatge: Carlos Prieto i Anaïs UrracaDirector de producció: Agnès BatlloriMúsica: David Pastor i Mario RoldánLingüista: Judit TerratsGrafisme: Adriana Perón i Kote BerberechoVeu en off: Núria Deulofeu</desc>
+    <credits>
+      <writer>Santi Suárez</writer>
+    </credits>
+    <length units="seconds">3234</length>
+    <episode-num system="onscreen">1</episode-num>
+    <category lang="ca">DIVULGACIÓ</category>
+    <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/7/3/1698145091337.jpg"/>
+  </programme>
+  <programme start="20260918232235 +0200" stop="20260918235334 +0200" channel="tvi">
+    <title lang="ca">3 Minuts</title>
+    <sub-title lang="ca">3 Minuts - Ronda 1 - Albert Roig, Alexia Luna, Yael Brusca i Termi fa coses</sub-title>
+    <desc lang="ca">Primera ronda i estrena de '3 minuts', el primer torneig ràpid de stand-up en català de TV3 amb quatre concursants que no us deixaran indiferents (si sou els seus familiars). Dues còmiques, un còmic i un senyor de Tortosa s'enfrontaran entre ells (no físicament, tot i que tant de bo) per poder superar la ronda. Qui passarà a la gran final on podrà guanyar 5.000 euros i la participació al festival Cruïlla Comedy? El programa compta amb un jurat implacable, format per Marc Sarrats, Raquel Hervás i Irene Minovas, i amb la Charlie Pee com a mestra de cerimònies.</desc>
+    <length units="seconds">1859</length>
+    <episode-num system="onscreen">1</episode-num>
+    <category lang="ca">ENTRETENIMENT</category>
+    <category lang="ca">ALTRES</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <subtitles type="teletext"/>
+    <previously-shown/>
+  </programme>
+  <channel id="324">
+    <display-name>324</display-name>
+  </channel>
+  <programme start="20260918220500 +0200" stop="20260918233000 +0200" channel="324">
+    <title lang="ca">Mésnit</title>
+    <desc lang="ca">El 'Mésnit' arriba a la desena temporada, amb Marina Romero al capdavant de l'espai i amb la voluntat de continuar sent un centre de debat d'idees i d'anàlisi de l'activitat política.</desc>
+    <length units="seconds">5100</length>
+    <episode-num system="onscreen">2162</episode-num>
+    <category lang="ca">ACTUALITAT</category>
+    <category lang="ca">DEBAT</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <subtitles type="teletext"/>
+  </programme>
+  <programme start="20260918233000 +0200" stop="20260919003000 +0200" channel="324">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="seconds">3600</length>
+    <episode-num system="onscreen">11208</episode-num>
+    <category lang="ca">ACTUALITAT</category>
+    <category lang="ca">INFORMATIU DIÀRI</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <subtitles type="teletext"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
+  </programme>
+  <channel id="esport3">
+    <display-name>ESPORT3</display-name>
+  </channel>
+  <programme start="20260918230001 +0200" stop="20260919003049 +0200" channel="esport3">
+    <title lang="ca">Onze</title>
+    <sub-title lang="ca">Onze</sub-title>
+    <desc lang="ca">Míriam Riau fa tertúlia amb Lluís Carrasco, Carme Lluveras, Juli Garcia i Albert Rogé. Jugarà Szczesny a Sevilla? Amb Àlex Delmàs fem la clau del Sevilla-Barça. Parlem amb Siro López. Joan Fàbregas ens diu qui arbitrarà el derbi madrileny. Acabem amb Òscar Nin i una selecció de samarretes espantoses.</desc>
+    <length units="seconds">5448</length>
+    <episode-num system="onscreen">1251</episode-num>
+    <category lang="ca">ESPORTS</category>
+    <category lang="ca">MAGAZINE</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <subtitles type="teletext"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/1/1/1688543515711.jpg"/>
+  </programme>
+  <programme start="20260919003049 +0200" stop="20260919005136 +0200" channel="esport3">
+    <title lang="ca">3CatInfo Esports</title>
+    <sub-title lang="ca">3CatInfo Esports</sub-title>
+    <desc lang="ca">Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.</desc>
+    <length units="seconds">1247</length>
+    <episode-num system="onscreen">5512</episode-num>
+    <category lang="ca">ESPORTS</category>
+    <category lang="ca">INFORMATIU DIÀRI</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <previously-shown/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/9/7/1758888682179.jpg"/>
   </programme>
   <channel id="sx3">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20260918201649 +0200" stop="20260918203736 +0200" channel="sx3">
-    <title lang="ca">Henry Danger</title>
-    <sub-title lang="ca">Henry Danger - Un directe perillós, primera part</sub-title>
-    <desc lang="ca">Una invitació a la festa del famós Frankini acaba convertint-se en una aventura molt més arriscada del que en Henry i en Ray esperaven.</desc>
-    <length units="seconds">1247</length>
-    <episode-num system="onscreen">64</episode-num>
+  <programme start="20260918230525 +0200" stop="20260918232711 +0200" channel="sx3">
+    <title lang="ca">Els germans Kratt</title>
+    <sub-title lang="ca">Els germans Kratt - Quin trencacolls!</sub-title>
+    <desc lang="ca">Mentre en Chris i en Martin intenten esbrinar com és que les girafes tenen el coll tan llarg, una girafa molt trapella els comença a prendre trossos del vestit de poder animal i provisions de la nau Tortuga. A més de tenir el coll molt llarg, també la sap molt llarga! I si no l'aturen a temps, al final potser acabaran tots amb l'aigua al coll!</desc>
+    <length units="seconds">1306</length>
+    <episode-num system="onscreen">46</episode-num>
     <category lang="ca">FICCIÓ</category>
-    <category lang="ca">SÈRIE DRAMÀTICA</category>
+    <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
       <value>INFANTIL</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20260918203736 +0200" stop="20260918205959 +0200" channel="sx3">
-    <title lang="ca">Henry Danger</title>
-    <sub-title lang="ca">Henry Danger - Un directe perillós, segona part</sub-title>
-    <desc lang="ca">Amb el pla de Frankini ja en marxa, els amics d'en Henry lluiten contra rellotge per evitar que tot se'n vagi en orris.</desc>
-    <length units="seconds">1343</length>
-    <episode-num system="onscreen">65</episode-num>
+  <programme start="20260918232711 +0200" stop="20260918234812 +0200" channel="sx3">
+    <title lang="ca">Els germans Kratt</title>
+    <sub-title lang="ca">Els germans Kratt - Cuques o mones?</sub-title>
+    <desc lang="ca">Avui en Martin, que sap que en un tros de selva de la mida d'un camp de futbol hi pot haver més de 70.000 espècies d'insectes diferents, està decidit a sortir a buscar cuques. El que passa és que en Chris té un altre pla: endur-se el seu germà miniaturitzat a la motxilla i anar a seguir mones aranya per dalt dels arbres. Qui se sortirà amb la seva?</desc>
+    <length units="seconds">1261</length>
+    <episode-num system="onscreen">47</episode-num>
     <category lang="ca">FICCIÓ</category>
-    <category lang="ca">SÈRIE DRAMÀTICA</category>
+    <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
       <value>INFANTIL</value>
     </rating>
@@ -120,12 +127,12 @@
   <channel id="c33">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20260918200719 +0200" stop="20260918205947 +0200" channel="c33">
-    <title lang="ca">Els quaderns de cuina de la Julie</title>
-    <sub-title lang="ca">Els quaderns de cuina de la Julie - La vall dels Baus</sub-title>
-    <desc lang="ca">En aquest episodi la Julie visita la regió dels Baus, al peu del massís dels Alpilles. Primer de tot coneix en Marcel, un productor d'olives. Després, amb l'Annie i les seves filles l'Anne i la Magali, que són oleïcultores, prepara una orada amb fonoll i un fricot amb olives trencades. Amb l'Alexandre, que és productor de fenc i fill de ramader, fa una recepta de toro amb arròs amb fenc. Amb en Pierre, que és confiter, descobreix com es fan les fruites confitades de la regió. Finalment, amb la Jeanne, prepara un menjar blanc típic de la Provença.</desc>
-    <length units="seconds">3148</length>
-    <episode-num system="onscreen">80</episode-num>
+  <programme start="20260918224820 +0200" stop="20260918233253 +0200" channel="c33">
+    <title lang="ca">Groenlàndia, supervivència als confins de la Terra</title>
+    <sub-title lang="ca">Groenlàndia, supervivència als confins de la Terra - Groenlàndia, supervivència als confins de...</sub-title>
+    <desc lang="ca">Al primer episodi de Groenlàndia, supervivència als confins de la Terra, caminem per la segona capa de gel més gran del món. Observem els magnífics fiords alimentats per la majestuosa glacera que tenen al darrere. A la ciutat pesquera d'Ilulissat, degustem la cuina local i veiem l'artesania antiga. Després, ens dirigim cap al llac de Tasersuatsiaq, llar del gran bou mesquer. Camí del nord amb la Kisaq, visitem mines abandonades i descobrim una tràgica història de vaixells i mariners atrapats al gel. Finalment, ens aturem a Upervanik a comprar provisions per la següent part del viatge: cap al cim del món.</desc>
+    <length units="seconds">2673</length>
+    <episode-num system="onscreen">1</episode-num>
     <category lang="ca">DIVULGACIÓ</category>
     <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
     <rating>
@@ -134,10 +141,19 @@
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20260918205947 +0200" stop="20260918210124 +0200" channel="c33">
-    <title lang="ca">SENSE FI CANAL 33</title>
-    <desc lang="ca">Sense Descripció</desc>
-    <length units="seconds">97</length>
+  <programme start="20260918233253 +0200" stop="20260919001548 +0200" channel="c33">
+    <title lang="ca">Groenlàndia, supervivència als confins de la Terra</title>
+    <sub-title lang="ca">Groenlàndia, supervivència als confins de la Terra - Groenlàndia, supervivència als confins de...</sub-title>
+    <desc lang="ca">Al segon episodi de Groenlàndia, supervivència als confins de la Terra, pugem a un trineu per veure com cacen els inuits en aquest ambient tan extrem. A bord de la Kisaq travessem el mal temps, i passem pel costat de colònies de somorgollaires i gavinetes. Som testimonis del canvi climàtic quan s'esfondren a l'oceà. Pobles pesquers esquitxen la costa. Coneixem la caça de supervivència dels inuits: des de gavotins atlàntics fins als depredadors més ferotges del món, els ossos polars. En trobem un exemplar abans d'arribar a Siorapaluk, i continuem per descobrir què hi ha més enllà del regne dels homes.</desc>
+    <length units="seconds">2575</length>
+    <episode-num system="onscreen">2</episode-num>
+    <category lang="ca">DIVULGACIÓ</category>
+    <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <subtitles type="teletext"/>
+    <previously-shown/>
   </programme>
   <channel id="oca1">
     <display-name>OCA1</display-name>
