@@ -3,24 +3,38 @@
   <channel id="tvi">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20260919210000 +0200" stop="20260919220957 +0200" channel="tvi">
-    <title lang="ca">Telenotícies vespre</title>
-    <sub-title lang="ca">Telenotícies vespre</sub-title>
-    <length units="seconds">4197</length>
-    <episode-num system="onscreen">7332</episode-num>
-    <category lang="ca">ACTUALITAT</category>
-    <category lang="ca">INFORMATIU DIÀRI</category>
+  <programme start="20260919223603 +0200" stop="20260920003130 +0200" channel="tvi">
+    <title lang="ca">Pel·lícula</title>
+    <sub-title lang="ca">Pel·lícula - La dona il·legal</sub-title>
+    <desc lang="ca">LA DONA IL·LEGALProducció: Segarra Films i Mimesis Film, 2020Director: Ramon TérmensGuió: Ramon Térmens i Daniel FaraldoDirector de fotografia: Pol OrpinellCompositor: David Solar Intèrprets: Daniel Faraldo (Fernando Vila), Yolanda Sey (Juliet Okoro), Isak Férriz (Oriol Cadenas), Boris Ruiz (Enric Millar), Montse Germán (Rosa Puiggròs), Adeline Flaun (Mercy Okafor) i Àngels Bassas (Carla)Sinopsi:Un advocat d'immigració i una dona nigeriana atrapada en una xarxa de prostitució uneixen les seves forces per lluitar contra la corrupció del sistema de deportacions de l'estat espanyol.</desc>
+    <credits>
+      <writer>Ramon Térmens</writer>
+      <writer>Daniel FaraldoDirector de fotografia:</writer>
+      <actor>Daniel Faraldo (Fernando Vila)</actor>
+      <actor>Yolanda Sey (Juliet Okoro)</actor>
+      <actor>Isak Férriz (Oriol Cadenas)</actor>
+      <actor>Boris Ruiz (Enric Millar)</actor>
+      <actor>Montse Germán (Rosa Puiggròs)</actor>
+      <actor>Adeline Flaun (Mercy Okafor)</actor>
+      <actor>Àngels Bassas (Carla)Sinopsi:Un advocat d'immigració</actor>
+      <actor>una dona nigeriana atrapada en una xarxa de prostitució uneixen les seves forces per lluitar contra la corrupció del sistema de deportacions de l'estat espanyol.</actor>
+    </credits>
+    <length units="seconds">6927</length>
+    <episode-num system="onscreen">1</episode-num>
+    <category lang="ca">FICCIÓ</category>
+    <category lang="ca">PEL·LÍCULA / TELEFILM</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <icon src="https://img.ccma.cat/multimedia/jpg/7/2/1758026176427.jpg"/>
+    <subtitles type="teletext"/>
+    <previously-shown/>
   </programme>
-  <programme start="20260919220720 +0200" stop="20260919223345 +0200" channel="tvi">
-    <title lang="ca">Emocionari Il·lustrat</title>
-    <sub-title lang="ca">Emocionari Il·lustrat - L'amor</sub-title>
-    <desc lang="ca">Al capítol sobre l'amor de l''Emocionari Il·lustrat', l'artista Lily Brick tindrà una conversa reveladora amb la il·lustradora Flavita Banana, la persona que millor ha retratat l'amor a les seves vinyetes i tires còmiques. Viatjarem fins a Roquetes, on l'artista Ignasi Blanch ens dibuixarà l'amor cap a la seva terra i la família. Per acabar, la Lily aprendrà a dibuixar manga amb la Míriam Bonastre, autora de la trilogia de còmics 'Hooky', que han estat un èxit aclaparador als Estats Units entre joves i nens. Juntes faran un retrat de la Lily amb uns ulls ben brillants . </desc>
-    <length units="seconds">1585</length>
-    <episode-num system="onscreen">4</episode-num>
+  <programme start="20260920003130 +0200" stop="20260920005846 +0200" channel="tvi">
+    <title lang="ca">El retorn de les lluernes</title>
+    <sub-title lang="ca">El retorn de les lluernes - Èlia i 'Ignot'</sub-title>
+    <desc lang="ca">Aquest capítol del programa parteix de la novel·la 'Ignot' (Edicions del Periscopi), de Manuel Baixauli.Quan Mateu, un pintor en hores baixes, rep l'encàrrec d'il·lustrar els textos d'un escriptor anomenat Crisòstom, accepta sense pensar-s'ho dues vegades. Però qui és, realment, Crisòstom? Per què no ha transcendit, la seva obra? Mateu descobrirà un personatge humil però fascinant, un geni desconegut, i se submergirà en un món insòlit, ple de miralls i poblat per individus solitaris i esquius.L'Èlia mateu és la lectora que s'endinsa en la novel·la i ens descobreix personatges paral·lels a Barcelona.</desc>
+    <length units="seconds">1636</length>
+    <episode-num system="onscreen">8</episode-num>
     <category lang="ca">ENTRETENIMENT</category>
     <category lang="ca">ALTRES</category>
     <rating>
@@ -32,11 +46,24 @@
   <channel id="324">
     <display-name>324</display-name>
   </channel>
-  <programme start="20260919200000 +0200" stop="20260919210000 +0200" channel="324">
+  <programme start="20260919230000 +0200" stop="20260920003000 +0200" channel="324">
     <title lang="ca">Notícies 3CatInfo</title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">3600</length>
-    <episode-num system="onscreen">11215</episode-num>
+    <length units="seconds">5400</length>
+    <episode-num system="onscreen">11216</episode-num>
+    <category lang="ca">ACTUALITAT</category>
+    <category lang="ca">INFORMATIU DIÀRI</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <subtitles type="teletext"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
+  </programme>
+  <programme start="20260920003000 +0200" stop="20260920010000 +0200" channel="324">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="seconds">1800</length>
+    <episode-num system="onscreen">11217</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
@@ -44,39 +71,14 @@
     </rating>
     <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
-  <programme start="20260919210000 +0200" stop="20260919230000 +0200" channel="324">
-    <title lang="ca">Telenotícies vespre</title>
-    <length units="seconds">7200</length>
-    <episode-num system="onscreen">7332</episode-num>
-    <category lang="ca">ACTUALITAT</category>
-    <category lang="ca">INFORMATIU DIÀRI</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <subtitles type="teletext"/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/7/2/1758026176427.jpg"/>
-  </programme>
   <channel id="esport3">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20260919205652 +0200" stop="20260919225500 +0200" channel="esport3">
-    <title lang="ca">Un dia de partit</title>
-    <sub-title lang="ca">Un dia de partit - Sevilla-Barça</sub-title>
-    <desc lang="ca">A 'Un dia de partit' arreglem el Barça. O no. A cada partit, sis culers hi diuen la seva. Famosos i anònims. Cadascun a casa seva. Davant del televisor. Tot a base de videotrucades, en format Twitch i en rigorós directe. Ah! I a la mitja part no aturem màquines. Amb els jugadors als vestidors, nosaltres seguim fent bullir l'olla! Només sis culers? Negatiu. Durant el partit van apareixent els Jimmy Jump: els espontanis que demanen saltar a 'Un dia de partit' via WhatsApp.</desc>
-    <length units="seconds">7088</length>
-    <episode-num system="onscreen">251</episode-num>
-    <category lang="ca">ESPORTS</category>
-    <category lang="ca">RETRANSMISSIONS ESPORTS</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <icon src="https://img.ccma.cat/multimedia/jpg/2/7/1678885232972.jpg"/>
-  </programme>
-  <programme start="20260919225500 +0200" stop="20260920003104 +0200" channel="esport3">
+  <programme start="20260919230055 +0200" stop="20260920003658 +0200" channel="esport3">
     <title lang="ca">Gol a gol</title>
     <sub-title lang="ca">Gol a gol - Post Sevilla-Barça / J7</sub-title>
     <desc lang="ca">'Gol a gol' us ofereix els resums dels partits de futbol de Primera i Segona Divisió. Presentat per Jordi Grau a Esport3, cada dissabte i cada diumenge podeu veure les millors imatges de la jornada de Lliga amb l'anàlisi dels experts, amb especial atenció als equips catalans, sobretot el Barça, el Girona i l'Espanyol.</desc>
-    <length units="seconds">5764</length>
+    <length units="seconds">5763</length>
     <episode-num system="onscreen">1783</episode-num>
     <category lang="ca">ESPORTS</category>
     <category lang="ca">MAGAZINE</category>
@@ -86,15 +88,28 @@
     <subtitles type="teletext"/>
     <icon src="https://img.ccma.cat/multimedia/jpg/2/1/1698144123212.jpg"/>
   </programme>
+  <programme start="20260920003658 +0200" stop="20260920005158 +0200" channel="esport3">
+    <title lang="ca">3CatInfo Esports</title>
+    <sub-title lang="ca">3CatInfo Esports</sub-title>
+    <desc lang="ca">Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.</desc>
+    <length units="seconds">900</length>
+    <episode-num system="onscreen">5513</episode-num>
+    <category lang="ca">ESPORTS</category>
+    <category lang="ca">INFORMATIU DIÀRI</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <icon src="https://img.ccma.cat/multimedia/jpg/9/7/1758888682179.jpg"/>
+  </programme>
   <channel id="sx3">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20260919205959 +0200" stop="20260919212052 +0200" channel="sx3">
-    <title lang="ca">Els germans Kratt</title>
-    <sub-title lang="ca">Els germans Kratt - Els amics del Martin</sub-title>
-    <desc lang="ca">És un dia de descans a la nau Tortuga i, de sobte, el Chris entra queixant-se que algú el molesta. Tots surten per veure què passa i veuen que es tracta d'una oreneta porpra. Al Martin li encanta, perquè també hi ha l'oreneta blava, que és el seu color preferit, però al Chris tot plegat no li fa gens de gràcia. Al cap de poc veuen un altre animal, una marta, i el Martin està encantat, perquè sona gairebé igual que el seu nom. El Chris ja veu que no és el seu dia, i llavors, per acabar-ho d'adobar, un esquirol li pren l'armilla de poder animal. </desc>
-    <length units="seconds">1253</length>
-    <episode-num system="onscreen">103</episode-num>
+  <programme start="20260919232003 +0200" stop="20260919233049 +0200" channel="sx3">
+    <title lang="ca">La tropa del corral</title>
+    <sub-title lang="ca">La tropa del corral - El cas del singlot</sub-title>
+    <desc lang="ca">La Crystal truca la Tropa del Corral perquè té un singlot que l'està fent parar boja. La podran ajudar? I tant! Tot i que cada membre de la Tropa té la seva pròpia manera de fer-ho, cadascuna més estranya que l'anterior. Al final, serà l'Elvis qui tingui la clau per fer-li passar el singlot.</desc>
+    <length units="seconds">646</length>
+    <episode-num system="onscreen">21</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
@@ -103,12 +118,12 @@
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20260919212052 +0200" stop="20260919214101 +0200" channel="sx3">
-    <title lang="ca">Els germans Kratt</title>
-    <sub-title lang="ca">Els germans Kratt - Anguilèctrica!</sub-title>
-    <desc lang="ca">La nau Tortuga cau en plena selva amazònica. El sistema elèctric de la nau pateix un curtcircuit i, mentre la Koki mira de reparar-lo, els germans Kratt aprofiten per anar a explorar la fauna de la selva. En un riu descobreixen un animal molt curiós, l'anguila elèctrica, capaç de generar descàrregues elèctriques d'alt voltatge. Aquest descobriment els acabarà resultant més útil del que es pensaven, però també posarà en perill el més important per una anguila elèctrica: el seu niu. </desc>
-    <length units="seconds">1209</length>
-    <episode-num system="onscreen">104</episode-num>
+  <programme start="20260919233049 +0200" stop="20260919234144 +0200" channel="sx3">
+    <title lang="ca">La tropa del corral</title>
+    <sub-title lang="ca">La tropa del corral - Els tres treballs de la Tropa del Corral</sub-title>
+    <desc lang="ca">Un dels cadells d'en Sam ha llençat la sabatilla de l'amo al carrer, i ara l'Esther pensa que és un objecte sagrat. Diu que no els la pensa tornar fins que la Tropa no completi tres tasques inversemblants, però llavors canvia d'opinió...</desc>
+    <length units="seconds">655</length>
+    <episode-num system="onscreen">22</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
@@ -120,29 +135,28 @@
   <channel id="c33">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20260919210120 +0200" stop="20260919210722 +0200" channel="c33">
-    <title lang="ca">Gran!</title>
-    <sub-title lang="ca">Gran! - Jane Austen, ' Orgull i prejudici'</sub-title>
-    <desc lang="ca">Es pot dir que l'escriptora britànica Jane Austen representa la sofisticació de la novel·la romàntica. Així ho demostra una obra en què destaca, per exemple, un gran ventall de personatges femenins, el talent pels diàlegs i l'ús de la ironia. 'Orgull i prejudici' és una de les seves obres més immortals, estimades i, també, imitades. 250 anys després del naixement de l'autora, és un referent molt viu per a incomptables obres posteriors. I, fins i tot, ha tingut aplaudides adaptacions a la ficció televisiva i cinematogràfica, com la que va signar Joe Wright l'any 2005, amb el concurs de l'actriu Keira Knightley.  </desc>
-    <length units="seconds">362</length>
-    <episode-num system="onscreen">20</episode-num>
-    <category lang="ca">ENTRETENIMENT</category>
-    <category lang="ca">ALTRES</category>
+  <programme start="20260919225443 +0200" stop="20260919233748 +0200" channel="c33">
+    <title lang="ca">El bombardeig de Pompeia</title>
+    <sub-title lang="ca">El bombardeig de Pompeia - El bombardeig de Pompeia</sub-title>
+    <desc lang="ca">Pompeia. La càpsula del temps històrica més sorprenent del món. Després de l'erupció del Vesuvi de l'any 79 dC, aquesta ciutat romana, vibrant i extensa al seu temps, va quedar sepultada sota cendra i roques durant segles. Però la ciutat va estar a punt de ser destruïda per segona vegada durant la Segona Guerra Mundial. Aquest documental segueix la missió extraordinària d'un equip de científics que busca bombes sense explotar per protegir la magnífica ciutat antiga de noves destruccions. I, gràcies al treball de l'equip, resoldrem un misteri: per què Pompeia va ser objectiu de l'aviació dels Estats Units i de la Gran Bretanya durant la Segona Guerra Mundial?</desc>
+    <length units="seconds">2585</length>
+    <episode-num system="onscreen">1</episode-num>
+    <category lang="ca">DIVULGACIÓ</category>
+    <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
-    <previously-shown/>
-    <icon src="https://img.ccma.cat/multimedia//jpg/0/1/1714397571710.jpg"/>
+    <icon src="https://img.3cat.cat/multimedia/jpg/0/4/1789638342740.jpg"/>
   </programme>
-  <programme start="20260919210722 +0200" stop="20260919220307 +0200" channel="c33">
-    <title lang="ca">Experiència Catalana</title>
-    <sub-title lang="ca">Experiència Catalana - Jarek i Beata</sub-title>
-    <desc lang="ca">En Jarek Kret i la Beata Tadla, dos famosos presentadors de la televisió polonesa, protagonitzen aquest capítol, on gaudeixen de les aigües termals, dels magnífics paisatges de la Costa Brava i de la diada de Sant Jordi a Barcelona.</desc>
-    <length units="seconds">3345</length>
+  <programme start="20260919233748 +0200" stop="20260920002915 +0200" channel="c33">
+    <title lang="ca">Viure amb els volcans</title>
+    <sub-title lang="ca">Viure amb els volcans - Volcans destructius</sub-title>
+    <desc lang="ca">Fa milions d'anys que esventren la terra, abrasen els continents, cobreixen regions senceres sota una catifa de cendra mortal, i nosaltres som al mig. Els últims segles, els volcans han causat prop de 300.000 morts a tot el món. Tot i així, 500 milions d'homes i dones desafien aquests monstres de foc cada dia. En aquest episodi, coneixerem els efectes més devastadors dels volcans i com els afronten els que hi conviuen.</desc>
+    <length units="seconds">3087</length>
     <episode-num system="onscreen">3</episode-num>
-    <category lang="ca">ENTRETENIMENT</category>
-    <category lang="ca">ALTRES</category>
+    <category lang="ca">DIVULGACIÓ</category>
+    <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
