@@ -3,40 +3,27 @@
   <channel id="tvi">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20260919223603 +0200" stop="20260920003130 +0200" channel="tvi">
-    <title lang="ca">Pel·lícula</title>
-    <sub-title lang="ca">Pel·lícula - La dona il·legal</sub-title>
-    <desc lang="ca">LA DONA IL·LEGALProducció: Segarra Films i Mimesis Film, 2020Director: Ramon TérmensGuió: Ramon Térmens i Daniel FaraldoDirector de fotografia: Pol OrpinellCompositor: David Solar Intèrprets: Daniel Faraldo (Fernando Vila), Yolanda Sey (Juliet Okoro), Isak Férriz (Oriol Cadenas), Boris Ruiz (Enric Millar), Montse Germán (Rosa Puiggròs), Adeline Flaun (Mercy Okafor) i Àngels Bassas (Carla)Sinopsi:Un advocat d'immigració i una dona nigeriana atrapada en una xarxa de prostitució uneixen les seves forces per lluitar contra la corrupció del sistema de deportacions de l'estat espanyol.</desc>
-    <credits>
-      <writer>Ramon Térmens</writer>
-      <writer>Daniel FaraldoDirector de fotografia:</writer>
-      <actor>Daniel Faraldo (Fernando Vila)</actor>
-      <actor>Yolanda Sey (Juliet Okoro)</actor>
-      <actor>Isak Férriz (Oriol Cadenas)</actor>
-      <actor>Boris Ruiz (Enric Millar)</actor>
-      <actor>Montse Germán (Rosa Puiggròs)</actor>
-      <actor>Adeline Flaun (Mercy Okafor)</actor>
-      <actor>Àngels Bassas (Carla)Sinopsi:Un advocat d'immigració</actor>
-      <actor>una dona nigeriana atrapada en una xarxa de prostitució uneixen les seves forces per lluitar contra la corrupció del sistema de deportacions de l'estat espanyol.</actor>
-    </credits>
-    <length units="seconds">6927</length>
-    <episode-num system="onscreen">1</episode-num>
-    <category lang="ca">FICCIÓ</category>
-    <category lang="ca">PEL·LÍCULA / TELEFILM</category>
+  <programme start="20260920005847 +0200" stop="20260920012553 +0200" channel="tvi">
+    <title lang="ca">El retorn de les lluernes</title>
+    <sub-title lang="ca">El retorn de les lluernes - Georgina i 'El càstig'</sub-title>
+    <desc lang="ca">Aquest capítol del programa parteix de la novel·la 'El càstig' (L'Altra Editorial), de Guillem SalaLa Sandra és professora en un institut del barri de Sant Andreu. Surt amb l'Albert, un escriptor que li havia fet de professor a la universitat, i no acaba d'enamorar-se'n. A l'institut hi ha un company que podria ser l'home ideal, i a classe hi té un alumne, l'Izan, que necessita la seva ajuda. Però la Sandra arrossega des de petita una relació turbulenta amb la seva família i està en guerra contra ella mateixa.La Georgina Rovira és la lectora que s'endinsa en la novel·la i ens descobreix personatges paral·lels situats a Badalona i a Santa Coloma de Gramenet</desc>
+    <length units="seconds">1626</length>
+    <episode-num system="onscreen">2</episode-num>
+    <category lang="ca">ENTRETENIMENT</category>
+    <category lang="ca">ALTRES</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20260920003130 +0200" stop="20260920005846 +0200" channel="tvi">
-    <title lang="ca">El retorn de les lluernes</title>
-    <sub-title lang="ca">El retorn de les lluernes - Èlia i 'Ignot'</sub-title>
-    <desc lang="ca">Aquest capítol del programa parteix de la novel·la 'Ignot' (Edicions del Periscopi), de Manuel Baixauli.Quan Mateu, un pintor en hores baixes, rep l'encàrrec d'il·lustrar els textos d'un escriptor anomenat Crisòstom, accepta sense pensar-s'ho dues vegades. Però qui és, realment, Crisòstom? Per què no ha transcendit, la seva obra? Mateu descobrirà un personatge humil però fascinant, un geni desconegut, i se submergirà en un món insòlit, ple de miralls i poblat per individus solitaris i esquius.L'Èlia mateu és la lectora que s'endinsa en la novel·la i ens descobreix personatges paral·lels a Barcelona.</desc>
-    <length units="seconds">1636</length>
-    <episode-num system="onscreen">8</episode-num>
-    <category lang="ca">ENTRETENIMENT</category>
-    <category lang="ca">ALTRES</category>
+  <programme start="20260920012553 +0200" stop="20260920015558 +0200" channel="tvi">
+    <title lang="ca">Els dies clau</title>
+    <sub-title lang="ca">Els dies clau - 19 de juny de 1987: l'atemptat d'Hipercor</sub-title>
+    <length units="seconds">1805</length>
+    <episode-num system="onscreen">1</episode-num>
+    <category lang="ca">DIVULGACIÓ</category>
+    <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
@@ -46,39 +33,40 @@
   <channel id="324">
     <display-name>324</display-name>
   </channel>
-  <programme start="20260919230000 +0200" stop="20260920003000 +0200" channel="324">
+  <programme start="20260920010000 +0200" stop="20260920060000 +0200" channel="324">
     <title lang="ca">Notícies 3CatInfo</title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">5400</length>
-    <episode-num system="onscreen">11216</episode-num>
-    <category lang="ca">ACTUALITAT</category>
-    <category lang="ca">INFORMATIU DIÀRI</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <subtitles type="teletext"/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
-  </programme>
-  <programme start="20260920003000 +0200" stop="20260920010000 +0200" channel="324">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">1800</length>
+    <length units="seconds">18000</length>
     <episode-num system="onscreen">11217</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
+    <previously-shown/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
+  </programme>
+  <programme start="20260920060000 +0200" stop="20260920070000 +0200" channel="324">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="seconds">3600</length>
+    <episode-num system="onscreen">11217</episode-num>
+    <category lang="ca">ACTUALITAT</category>
+    <category lang="ca">INFORMATIU DIÀRI</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <previously-shown/>
     <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
   <channel id="esport3">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20260919230055 +0200" stop="20260920003658 +0200" channel="esport3">
+  <programme start="20260920010025 +0200" stop="20260920023458 +0200" channel="esport3">
     <title lang="ca">Gol a gol</title>
     <sub-title lang="ca">Gol a gol - Post Sevilla-Barça / J7</sub-title>
     <desc lang="ca">'Gol a gol' us ofereix els resums dels partits de futbol de Primera i Segona Divisió. Presentat per Jordi Grau a Esport3, cada dissabte i cada diumenge podeu veure les millors imatges de la jornada de Lliga amb l'anàlisi dels experts, amb especial atenció als equips catalans, sobretot el Barça, el Girona i l'Espanyol.</desc>
-    <length units="seconds">5763</length>
+    <length units="seconds">5673</length>
     <episode-num system="onscreen">1783</episode-num>
     <category lang="ca">ESPORTS</category>
     <category lang="ca">MAGAZINE</category>
@@ -86,30 +74,32 @@
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
+    <previously-shown/>
     <icon src="https://img.ccma.cat/multimedia/jpg/2/1/1698144123212.jpg"/>
   </programme>
-  <programme start="20260920003658 +0200" stop="20260920005158 +0200" channel="esport3">
-    <title lang="ca">3CatInfo Esports</title>
-    <sub-title lang="ca">3CatInfo Esports</sub-title>
-    <desc lang="ca">Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.</desc>
-    <length units="seconds">900</length>
-    <episode-num system="onscreen">5513</episode-num>
+  <programme start="20260920023458 +0200" stop="20260920045615 +0200" channel="esport3">
+    <title lang="ca">Futbol</title>
+    <sub-title lang="ca">Futbol - Reial Múrcia-CE Europa / Primera Federació / J4</sub-title>
+    <desc lang="ca">Els graciencs tenen només un punt i volen la primera victòria al campionat. L'objectiu dels murcians és mantenir-se a la zona capdavantera. Des de La Condomina, amb la narració de Jordi Sunyer i l'anàlisi d'Alberto Manga.</desc>
+    <length units="seconds">8477</length>
+    <episode-num system="onscreen">202</episode-num>
     <category lang="ca">ESPORTS</category>
-    <category lang="ca">INFORMATIU DIÀRI</category>
+    <category lang="ca">RETRANSMISSIONS ESPORTS</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <icon src="https://img.ccma.cat/multimedia/jpg/9/7/1758888682179.jpg"/>
+    <previously-shown/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/0/7/1698446098170.jpg"/>
   </programme>
   <channel id="sx3">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20260919232003 +0200" stop="20260919233049 +0200" channel="sx3">
-    <title lang="ca">La tropa del corral</title>
-    <sub-title lang="ca">La tropa del corral - El cas del singlot</sub-title>
-    <desc lang="ca">La Crystal truca la Tropa del Corral perquè té un singlot que l'està fent parar boja. La podran ajudar? I tant! Tot i que cada membre de la Tropa té la seva pròpia manera de fer-ho, cadascuna més estranya que l'anterior. Al final, serà l'Elvis qui tingui la clau per fer-li passar el singlot.</desc>
-    <length units="seconds">646</length>
-    <episode-num system="onscreen">21</episode-num>
+  <programme start="20260920010543 +0200" stop="20260920012621 +0200" channel="sx3">
+    <title lang="ca">Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
+    <sub-title lang="ca">Prodigiosa: Les aventures de Ladybug i Gat Noir - Oblivio</sub-title>
+    <desc lang="ca">Ladybug i el Gat Noir es destransformen junts per primera vegada i es converteixen en la Marinette i l'Adrien. L'únic és que han perdut la memòria i no recorden res de res, ni com es diuen ni que són superherois. A poc a poc, aniran trobant pistes que els ajudaran a tornar a la realitat.</desc>
+    <length units="seconds">1238</length>
+    <episode-num system="onscreen">62</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
@@ -118,12 +108,12 @@
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20260919233049 +0200" stop="20260919234144 +0200" channel="sx3">
-    <title lang="ca">La tropa del corral</title>
-    <sub-title lang="ca">La tropa del corral - Els tres treballs de la Tropa del Corral</sub-title>
-    <desc lang="ca">Un dels cadells d'en Sam ha llençat la sabatilla de l'amo al carrer, i ara l'Esther pensa que és un objecte sagrat. Diu que no els la pensa tornar fins que la Tropa no completi tres tasques inversemblants, però llavors canvia d'opinió...</desc>
-    <length units="seconds">655</length>
-    <episode-num system="onscreen">22</episode-num>
+  <programme start="20260920012621 +0200" stop="20260920014659 +0200" channel="sx3">
+    <title lang="ca">Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
+    <sub-title lang="ca">Prodigiosa: Les aventures de Ladybug i Gat Noir - Desperada</sub-title>
+    <desc lang="ca">El Jagged Stone ha fet fora de la banda la seva guitarrista, la Vivica, i l'Esfinx aprofita la ràbia de la noia per convertir-la en la temible Desperada, una supermalvada amb uns poders difícils de derrotar. Ladybug i el Gat Noir necessitaran l'ajuda de l'Escurçó per derrotar-la.</desc>
+    <length units="seconds">1238</length>
+    <episode-num system="onscreen">63</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
@@ -135,26 +125,26 @@
   <channel id="c33">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20260919225443 +0200" stop="20260919233748 +0200" channel="c33">
-    <title lang="ca">El bombardeig de Pompeia</title>
-    <sub-title lang="ca">El bombardeig de Pompeia - El bombardeig de Pompeia</sub-title>
-    <desc lang="ca">Pompeia. La càpsula del temps històrica més sorprenent del món. Després de l'erupció del Vesuvi de l'any 79 dC, aquesta ciutat romana, vibrant i extensa al seu temps, va quedar sepultada sota cendra i roques durant segles. Però la ciutat va estar a punt de ser destruïda per segona vegada durant la Segona Guerra Mundial. Aquest documental segueix la missió extraordinària d'un equip de científics que busca bombes sense explotar per protegir la magnífica ciutat antiga de noves destruccions. I, gràcies al treball de l'equip, resoldrem un misteri: per què Pompeia va ser objectiu de l'aviació dels Estats Units i de la Gran Bretanya durant la Segona Guerra Mundial?</desc>
-    <length units="seconds">2585</length>
-    <episode-num system="onscreen">1</episode-num>
+  <programme start="20260920002916 +0200" stop="20260920012132 +0200" channel="c33">
+    <title lang="ca">Viure amb els volcans</title>
+    <sub-title lang="ca">Viure amb els volcans - Els habitants dels extrems</sub-title>
+    <desc lang="ca">Arreu del món s'han establert societats humanes al peu de volcans actius. Viure en aquestes terres inestables té un preu. D'un dia per l'altre, els volcans es poden endur el que han permès que es construís. Per als homes i dones que viuen en aquestes terres, anar-se'n no és una opció. Estan decidits a continuar vivint on han viscut, passi el que passi. En aquest documental coneixerem aquests habitants dels extrems.</desc>
+    <length units="seconds">3136</length>
+    <episode-num system="onscreen">5</episode-num>
     <category lang="ca">DIVULGACIÓ</category>
     <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
-    <icon src="https://img.3cat.cat/multimedia/jpg/0/4/1789638342740.jpg"/>
+    <previously-shown/>
   </programme>
-  <programme start="20260919233748 +0200" stop="20260920002915 +0200" channel="c33">
-    <title lang="ca">Viure amb els volcans</title>
-    <sub-title lang="ca">Viure amb els volcans - Volcans destructius</sub-title>
-    <desc lang="ca">Fa milions d'anys que esventren la terra, abrasen els continents, cobreixen regions senceres sota una catifa de cendra mortal, i nosaltres som al mig. Els últims segles, els volcans han causat prop de 300.000 morts a tot el món. Tot i així, 500 milions d'homes i dones desafien aquests monstres de foc cada dia. En aquest episodi, coneixerem els efectes més devastadors dels volcans i com els afronten els que hi conviuen.</desc>
-    <length units="seconds">3087</length>
-    <episode-num system="onscreen">3</episode-num>
+  <programme start="20260920012132 +0200" stop="20260920014707 +0200" channel="c33">
+    <title lang="ca">Volcans i homes</title>
+    <sub-title lang="ca">Volcans i homes - Etna, la muntanya de les muntanyes</sub-title>
+    <desc lang="ca">En aquest episodi, Arnaud Guérin, fotògraf professional i geòleg apassionat per la vulcanologia, se'n va a Sicília, per conèixer persones que viuen a tocar de l'Etna. Ens mostrarà, entre d'altres coses, les tradicions populars i religioses que ha originat el perill constant de l'Etna, la gran fertilitat de les terres agrícoles del peu del volcà i les dificultats quotidianes de les persones que viuen a la zona de les salinelle, els volcans de fang. A part d'anar fins a un cràter actiu amb un vulcanòleg per oferir-nos, també, el punt de vista científic sobre els fenòmens volcànics. </desc>
+    <length units="seconds">1535</length>
+    <episode-num system="onscreen">1</episode-num>
     <category lang="ca">DIVULGACIÓ</category>
     <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
     <rating>
