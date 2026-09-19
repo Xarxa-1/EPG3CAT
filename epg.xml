@@ -3,24 +3,11 @@
   <channel id="tvi">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20260919070000 +0200" stop="20260919080002 +0200" channel="tvi">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">Notícies 3CatInfo</sub-title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">3602</length>
-    <episode-num system="onscreen">11210</episode-num>
-    <category lang="ca">ACTUALITAT</category>
-    <category lang="ca">INFORMATIU DIÀRI</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
-  </programme>
-  <programme start="20260919080002 +0200" stop="20260919125752 +0200" channel="tvi">
+  <programme start="20260919075959 +0200" stop="20260919125752 +0200" channel="tvi">
     <title lang="ca">Curses de Muntanya</title>
     <sub-title lang="ca">Curses de Muntanya - Rialp Matxicots</sub-title>
     <desc lang="ca">16a edició d'aquesta cursa de muntanya. La prova reina de la Rialp Matxicots és la Trail de 60 km i gairebé 4.700 m. de desnivell positiu. La Mitja+ amb 30 km i 2.200 m positius és tot un repte per als amants de la mitja distància. I la Popular 15k, amb més de 1.000 m. positius, recorre el cor de la Vall d'Àssua.</desc>
-    <length units="seconds">17870</length>
+    <length units="seconds">17873</length>
     <episode-num system="onscreen">36</episode-num>
     <category lang="ca">ESPORTS</category>
     <category lang="ca">RETRANSMISSIONS ESPORTS</category>
@@ -29,26 +16,28 @@
     </rating>
     <icon src="https://img.3cat.cat/multimedia/jpg/4/5/1760443350454.jpg"/>
   </programme>
-  <channel id="324">
-    <display-name>324</display-name>
-  </channel>
-  <programme start="20260919070000 +0200" stop="20260919100000 +0200" channel="324">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">10800</length>
-    <episode-num system="onscreen">11210</episode-num>
-    <category lang="ca">ACTUALITAT</category>
-    <category lang="ca">INFORMATIU DIÀRI</category>
+  <programme start="20260919125839 +0200" stop="20260919131443 +0200" channel="tvi">
+    <title lang="ca">Pastors i ramats: un món que se'n va</title>
+    <sub-title lang="ca">Pastors i ramats: un món que se'n va - Joan Picas</sub-title>
+    <desc lang="ca">'Pastors i ramats, un món que se'n va', és una sèrie de 15 capítols protagonitzada per pastors i pastores que, al llarg del nostre país, treuen a pasturar cada dia el seu ramat. Malgrat fer la mateixa feina, cada pastor és un món, una forma particular de relacionar-se amb el ramat, un mosaic de veus i gestos units per l'estimació pels animals. I també un conjunt de converses amb persones que són allà on volen ser, perseverant tossudament per continuar l'ofici malgrat totes les dificultats... Pastors i ramats... és la lluita silenciosa i plena de dignitat d'un món que se'n va.</desc>
+    <length units="seconds">964</length>
+    <episode-num system="onscreen">15</episode-num>
+    <category lang="ca">DIVULGACIÓ</category>
+    <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
+    <subtitles type="teletext"/>
+    <previously-shown/>
   </programme>
-  <programme start="20260919100000 +0200" stop="20260919120000 +0200" channel="324">
+  <channel id="324">
+    <display-name>324</display-name>
+  </channel>
+  <programme start="20260919120000 +0200" stop="20260919143000 +0200" channel="324">
     <title lang="ca">Notícies 3CatInfo</title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">7200</length>
-    <episode-num system="onscreen">11211</episode-num>
+    <length units="seconds">9000</length>
+    <episode-num system="onscreen">11212</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
@@ -56,100 +45,107 @@
     </rating>
     <subtitles type="teletext"/>
     <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
+  </programme>
+  <programme start="20260919143000 +0200" stop="20260919163000 +0200" channel="324">
+    <title lang="ca">Telenotícies migdia</title>
+    <length units="seconds">7200</length>
+    <episode-num system="onscreen">7333</episode-num>
+    <category lang="ca">ACTUALITAT</category>
+    <category lang="ca">INFORMATIU DIÀRI</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <icon src="https://img.ccma.cat/multimedia/jpg/5/4/1758025766345.jpg"/>
   </programme>
   <channel id="esport3">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20260919074228 +0200" stop="20260919075740 +0200" channel="esport3">
-    <title lang="ca">Sala de Premsa</title>
-    <sub-title lang="ca">Sala de Premsa - Hansi Flick / Prèvia Sevilla-Barça / J7</sub-title>
-    <desc lang="ca">Esport3 t'ofereix les compareixences de dirigents, jugadors i entrenadors dels equips catalans davant els mitjans de comunicació.</desc>
-    <length units="seconds">912</length>
-    <episode-num system="onscreen">731</episode-num>
+  <programme start="20260919115500 +0200" stop="20260919135400 +0200" channel="esport3">
+    <title lang="ca">Futbol</title>
+    <sub-title lang="ca">Futbol - FC Badalona Women-Reial Societat / Lliga F / J4</sub-title>
+    <desc lang="ca">Les badalonines s'han situat a la part alta de la classificació gràcies a dues victòries seguides. Per contra, les donostiarres encara no han aconseguit guanyar i volen els tres punts per sortir de la zona baixa.</desc>
+    <length units="seconds">7140</length>
+    <episode-num system="onscreen">49</episode-num>
     <category lang="ca">ESPORTS</category>
-    <category lang="ca">INFORMATIU DIÀRI</category>
+    <category lang="ca">RETRANSMISSIONS ESPORTS</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <subtitles type="teletext"/>
-    <previously-shown/>
-    <icon src="https://img.3cat.cat/multimedia/jpg/7/4/1778665728847.jpg"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/0/8/1730389343680.jpg"/>
   </programme>
-  <programme start="20260919075740 +0200" stop="20260919081702 +0200" channel="esport3">
-    <title lang="ca">3CatInfo Esports</title>
-    <sub-title lang="ca">3CatInfo Esports</sub-title>
-    <desc lang="ca">Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.</desc>
-    <length units="seconds">1162</length>
-    <episode-num system="onscreen">5512</episode-num>
+  <programme start="20260919135400 +0200" stop="20260919153742 +0200" channel="esport3">
+    <title lang="ca">Hoquei patins</title>
+    <sub-title lang="ca">Hoquei patins - GoldenCat femenina / 2a semifinal</sub-title>
+    <desc lang="ca">Des del pavelló de Can Xarau, a Cerdanyola del Vallès, el tram decisiu d'aquesta competició internacional d'hoquei patins.</desc>
+    <length units="seconds">6222</length>
+    <episode-num system="onscreen">8128</episode-num>
     <category lang="ca">ESPORTS</category>
-    <category lang="ca">INFORMATIU DIÀRI</category>
+    <category lang="ca">RETRANSMISSIONS ESPORTS</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <previously-shown/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/9/7/1758888682179.jpg"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/3/2/1722012654923.jpg"/>
   </programme>
   <channel id="sx3">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20260919075135 +0200" stop="20260919080148 +0200" channel="sx3">
-    <title lang="ca">El Mic i els seus amics</title>
-    <sub-title lang="ca">El Mic i els seus amics - Cantem Cap, panxa, genolls i peus</sub-title>
-    <desc lang="ca">A principis dels anys seixanta es va posar una lletra infantil a la melodia d'una cançó gal·lesa de taberna i des d'aleshores ha esdevingut un èxit del repertori de cançons per als més petits.</desc>
-    <length units="seconds">613</length>
-    <episode-num system="onscreen">572</episode-num>
+  <programme start="20260919115631 +0200" stop="20260919120301 +0200" channel="sx3">
+    <title lang="ca">En Grizzy i els Lèmmings</title>
+    <sub-title lang="ca">En Grizzy i els Lèmmings - Botànica recreativa</sub-title>
+    <desc lang="ca">En Grizzy, un gran amant de la xocolata, està cultivant un petit arbre de cacau dins d'una màquina de rajos ultraviolats. Però mentre juguen a saltar per tota la cabana, els Lèmmings la trenquen per accident, provocant una reacció sobrenatural: un d'ells es transforma en un superlèmming que fa que qualsevol planta que toqui es faci gegant. En Grizzy imagina les enormes beines que podria produir el seu arbre de cacau si pogués fer-lo créixer tan sols de tocar-lo.</desc>
+    <length units="seconds">390</length>
+    <episode-num system="onscreen">226</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
       <value>INFANTIL</value>
     </rating>
-    <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20260919080148 +0200" stop="20260919081450 +0200" channel="sx3">
-    <title lang="ca">El Mic i els seus amics</title>
-    <sub-title lang="ca">El Mic i els seus amics - El Cargol, funàmbul</sub-title>
-    <desc lang="ca">A poc a poc, i amb molt de compte, el Cargol passa per una corda que travessa l'espai. Ha arribat a l'altra banda. Visca!</desc>
-    <length units="seconds">782</length>
-    <episode-num system="onscreen">639</episode-num>
+  <programme start="20260919120301 +0200" stop="20260919120931 +0200" channel="sx3">
+    <title lang="ca">En Grizzy i els Lèmmings</title>
+    <sub-title lang="ca">En Grizzy i els Lèmmings - L'hàbit no fa l'os</sub-title>
+    <desc lang="ca">Els lèmmings han aconseguit una caixa sencera de crema de xocolata amb avellanes, que han afanyat a amagar de la vista d'en Grizzy. I, com que els nostres lèmmings són prudents i molt murris, és impossible sorprendre'ls quan accedeixen al seu estoc de crema de cacau secret. Fins que en Grizzy descobreix un anell màgic que li permet adoptar l'aparença d'un lèmming.</desc>
+    <length units="seconds">390</length>
+    <episode-num system="onscreen">120</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
       <value>INFANTIL</value>
     </rating>
-    <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
   <channel id="c33">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20260919075047 +0200" stop="20260919084325 +0200" channel="c33">
-    <title lang="ca">Viure als Pirineus- A banda i banda</title>
-    <sub-title lang="ca">Viure als Pirineus- A banda i banda - Cinto Gabriel i Jean Hourticq - Hivern</sub-title>
-    <length units="seconds">3158</length>
-    <episode-num system="onscreen">8</episode-num>
-    <category lang="ca">DIVULGACIÓ</category>
-    <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
+  <programme start="20260919115425 +0200" stop="20260919124634 +0200" channel="c33">
+    <title lang="ca">Experiència Catalana</title>
+    <sub-title lang="ca">Experiència Catalana - Yannick et Catherine</sub-title>
+    <desc lang="ca">La Ivana Miño acompanya en Yannick i la Catherine, dos amics francesos, en un viatge que comença i acaba al Carnaval de Solsona. Entremig, però, coneixen els llocs més espectaculars de la comarca i els indrets més turístics de Cardona.</desc>
+    <length units="seconds">3129</length>
+    <episode-num system="onscreen">18</episode-num>
+    <category lang="ca">ENTRETENIMENT</category>
+    <category lang="ca">ALTRES</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20260919084325 +0200" stop="20260919091317 +0200" channel="c33">
-    <title lang="ca">GR Pirineus</title>
-    <sub-title lang="ca">GR Pirineus - El pla del monstre</sub-title>
-    <desc lang="ca">En aquesta ruta el Marc es mou pel Pla de l'Estany, concretament des de Crespià fins a Sant Miquel de Campmajor. En total, uns 45 Km repartits en dues jornades, fets en cotxe, en bicicleta i amb un monstre de fons...De Crespià anirà a Esponellà i després a Serinyà, on viurà en pròpia pell com és la vida d'un arqueòleg. A continuació, agafarà la bici per anar fins a Banyoles. Allà rodejarà l'estany i intentarà descobrir si existeix o no el monstre de Banyoles!L'endemà anirà fins a Cornellà de Terri, on aprendrà a enforcar alls i després a cuinar-los. Continuarà fent via direcció Porqueres, on es perdrà en un bosc que amaga alguns secrets molt picants. Finalment, acabarà la ruta a Sant Miquel de Campmajor, amb les seves caramelles!</desc>
-    <length units="seconds">1792</length>
-    <episode-num system="onscreen">7</episode-num>
+  <programme start="20260919124634 +0200" stop="20260919133300 +0200" channel="c33">
+    <title lang="ca">La Renaixença</title>
+    <sub-title lang="ca">La Renaixença - La capa</sub-title>
+    <desc lang="ca">Sabeu que la capa que porta Superman a l'última pel·lícula l'ha fet una empresa catalana? Només per això ja creiem just i necessari dedicar aquest capítol a la capa. De Catalunya a Hollywood només hi ha 50 metres de tela vermella. Abans la gent també portava capa, però no per volar, sinó per abrigar-se. Parlem amb la Judit Mascó, la primera supermodel catalana, que ens explica el que més por li feia durant les desfilades. I sortim a passejar l'Indi fins al 2010, quan es van comprar dues pizzes per 10.000 bitcoins.</desc>
+    <length units="seconds">2786</length>
+    <episode-num system="onscreen">66</episode-num>
     <category lang="ca">DIVULGACIÓ</category>
-    <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
+    <category lang="ca">ALTRES</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
-    <icon src="https://img.3cat.cat/multimedia/jpg/9/8/1736612891089.jpg"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/3/3/1756148014833.jpg"/>
   </programme>
   <channel id="oca1">
     <display-name>OCA1</display-name>
@@ -160,7 +156,33 @@
   <channel id="oca3">
     <display-name>OCA3</display-name>
   </channel>
+  <programme start="20260919080000 +0200" stop="20260919125955 +0200" channel="oca3">
+    <title lang="ca">Curses de Muntanya</title>
+    <sub-title lang="ca">- Rialp Matxicots</sub-title>
+    <desc lang="ca">16a edició d'aquesta cursa de muntanya. La prova reina de la Rialp Matxicots és la Trail de 60 km i gairebé 4.700 m. de desnivell positiu. La Mitja+ amb 30 km i 2.200 m positius és tot un repte per als amants de la mitja distància. I la Popular 15k, amb més de 1.000 m. positius, recorre el cor de la Vall d'Àssua.</desc>
+    <length units="seconds">17995</length>
+    <episode-num system="onscreen">36</episode-num>
+    <category lang="ca">ESPORTS</category>
+    <category lang="ca">RETRANSMISSIONS ESPORTS</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <icon src="https://img.3cat.cat/multimedia/jpg/4/5/1760443350454.jpg"/>
+  </programme>
   <channel id="oca4">
     <display-name>OCA4</display-name>
   </channel>
+  <programme start="20260919100006 +0200" stop="20260919115501 +0200" channel="oca4">
+    <title lang="ca">Assemblea</title>
+    <sub-title lang="ca">- Assemblea General Ordinària FC Barcelona / Matí</sub-title>
+    <desc lang="ca">Primera part de l'Assemblea General Ordinària de Socis del Futbol Club Barcelona. Les votacions més destacades són l'ampliació del finançament per a l'Espai Barça i la ratificació dels contractes que haurien de permetre nous ingressos per al club blaugrana.</desc>
+    <length units="seconds">6895</length>
+    <episode-num system="onscreen">8126</episode-num>
+    <category lang="ca">ESPORTS</category>
+    <category lang="ca">RETRANSMISSIONS ESPORTS</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <icon src="https://img.3cat.cat/multimedia/jpg/1/1/1760542682711.jpg"/>
+  </programme>
 </tv>
