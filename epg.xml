@@ -3,28 +3,26 @@
   <channel id="tvi">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20260919183552 +0200" stop="20260919190022 +0200" channel="tvi">
-    <title lang="ca">Jet lag</title>
-    <sub-title lang="ca">Jet lag - 29+1</sub-title>
-    <desc lang="ca">La Carla ha perdut les lentilles i ho té clar: no vol sortir al carrer amb ulleres. És l'aniversari de la Mariona i ningú s'en recorda. L' Esther i l'Andreu han arribat al final de la seva relació. La Sílvia ha begut més del compte i la Diana ha pres una decisió important. Vol ser un home.</desc>
-    <length units="seconds">1470</length>
-    <episode-num system="onscreen">12</episode-num>
-    <category lang="ca">FICCIÓ</category>
-    <category lang="ca">TELESÈRIE</category>
+  <programme start="20260919210000 +0200" stop="20260919220957 +0200" channel="tvi">
+    <title lang="ca">Telenotícies vespre</title>
+    <sub-title lang="ca">Telenotícies vespre</sub-title>
+    <length units="seconds">4197</length>
+    <episode-num system="onscreen">7332</episode-num>
+    <category lang="ca">ACTUALITAT</category>
+    <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <subtitles type="teletext"/>
-    <previously-shown/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/7/2/1758026176427.jpg"/>
   </programme>
-  <programme start="20260919190022 +0200" stop="20260919192537 +0200" channel="tvi">
-    <title lang="ca">Jet lag</title>
-    <sub-title lang="ca">Jet lag - Bibiana</sub-title>
-    <desc lang="ca">La Raquel, la mare de la Diana, es presenta per sorpresa i s'instal·la a casa seva. Per altra banda, totes volen anar de viatge i no saben a on. Finalment, les cinc, amb mare inclosa, marxaran a Cuba.</desc>
-    <length units="seconds">1515</length>
-    <episode-num system="onscreen">13</episode-num>
-    <category lang="ca">FICCIÓ</category>
-    <category lang="ca">TELESÈRIE</category>
+  <programme start="20260919220720 +0200" stop="20260919223345 +0200" channel="tvi">
+    <title lang="ca">Emocionari Il·lustrat</title>
+    <sub-title lang="ca">Emocionari Il·lustrat - L'amor</sub-title>
+    <desc lang="ca">Al capítol sobre l'amor de l''Emocionari Il·lustrat', l'artista Lily Brick tindrà una conversa reveladora amb la il·lustradora Flavita Banana, la persona que millor ha retratat l'amor a les seves vinyetes i tires còmiques. Viatjarem fins a Roquetes, on l'artista Ignasi Blanch ens dibuixarà l'amor cap a la seva terra i la família. Per acabar, la Lily aprendrà a dibuixar manga amb la Míriam Bonastre, autora de la trilogia de còmics 'Hooky', que han estat un èxit aclaparador als Estats Units entre joves i nens. Juntes faran un retrat de la Lily amb uns ulls ben brillants . </desc>
+    <length units="seconds">1585</length>
+    <episode-num system="onscreen">4</episode-num>
+    <category lang="ca">ENTRETENIMENT</category>
+    <category lang="ca">ALTRES</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
@@ -34,19 +32,6 @@
   <channel id="324">
     <display-name>324</display-name>
   </channel>
-  <programme start="20260919183000 +0200" stop="20260919200000 +0200" channel="324">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">5400</length>
-    <episode-num system="onscreen">11214</episode-num>
-    <category lang="ca">ACTUALITAT</category>
-    <category lang="ca">INFORMATIU DIÀRI</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <subtitles type="teletext"/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
-  </programme>
   <programme start="20260919200000 +0200" stop="20260919210000 +0200" channel="324">
     <title lang="ca">Notícies 3CatInfo</title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
@@ -57,93 +42,107 @@
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <subtitles type="teletext"/>
     <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
+  </programme>
+  <programme start="20260919210000 +0200" stop="20260919230000 +0200" channel="324">
+    <title lang="ca">Telenotícies vespre</title>
+    <length units="seconds">7200</length>
+    <episode-num system="onscreen">7332</episode-num>
+    <category lang="ca">ACTUALITAT</category>
+    <category lang="ca">INFORMATIU DIÀRI</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <subtitles type="teletext"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/7/2/1758026176427.jpg"/>
   </programme>
   <channel id="esport3">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20260919183656 +0200" stop="20260919185500 +0200" channel="esport3">
-    <title lang="ca">Assemblea</title>
-    <sub-title lang="ca">Assemblea - Assemblea General Ordinària FC Barcelona / Tarda</sub-title>
-    <desc lang="ca">Segona part de l'Assemblea General Ordinària del Futbol Club Barcelona. L'últim dels 10 punts a l'ordre del dia és el torn obert d'intervencions en què el president, Joan Laporta, respon les consultes directes dels socis. </desc>
-    <length units="seconds">1084</length>
-    <episode-num system="onscreen">8127</episode-num>
+  <programme start="20260919205652 +0200" stop="20260919225500 +0200" channel="esport3">
+    <title lang="ca">Un dia de partit</title>
+    <sub-title lang="ca">Un dia de partit - Sevilla-Barça</sub-title>
+    <desc lang="ca">A 'Un dia de partit' arreglem el Barça. O no. A cada partit, sis culers hi diuen la seva. Famosos i anònims. Cadascun a casa seva. Davant del televisor. Tot a base de videotrucades, en format Twitch i en rigorós directe. Ah! I a la mitja part no aturem màquines. Amb els jugadors als vestidors, nosaltres seguim fent bullir l'olla! Només sis culers? Negatiu. Durant el partit van apareixent els Jimmy Jump: els espontanis que demanen saltar a 'Un dia de partit' via WhatsApp.</desc>
+    <length units="seconds">7088</length>
+    <episode-num system="onscreen">251</episode-num>
     <category lang="ca">ESPORTS</category>
     <category lang="ca">RETRANSMISSIONS ESPORTS</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <icon src="https://img.ccma.cat/multimedia/jpg/2/7/1678885232972.jpg"/>
+  </programme>
+  <programme start="20260919225500 +0200" stop="20260920003104 +0200" channel="esport3">
+    <title lang="ca">Gol a gol</title>
+    <sub-title lang="ca">Gol a gol - Post Sevilla-Barça / J7</sub-title>
+    <desc lang="ca">'Gol a gol' us ofereix els resums dels partits de futbol de Primera i Segona Divisió. Presentat per Jordi Grau a Esport3, cada dissabte i cada diumenge podeu veure les millors imatges de la jornada de Lliga amb l'anàlisi dels experts, amb especial atenció als equips catalans, sobretot el Barça, el Girona i l'Espanyol.</desc>
+    <length units="seconds">5764</length>
+    <episode-num system="onscreen">1783</episode-num>
+    <category lang="ca">ESPORTS</category>
+    <category lang="ca">MAGAZINE</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
-    <icon src="https://img.3cat.cat/multimedia/jpg/1/1/1760542682711.jpg"/>
-  </programme>
-  <programme start="20260919185500 +0200" stop="20260919194136 +0200" channel="esport3">
-    <title lang="ca">Hoquei patins</title>
-    <sub-title lang="ca">Hoquei patins - GoldenCat masculina / 2a semifinal</sub-title>
-    <desc lang="ca">En joc, el pas a la final de la prestigiosa competició internacional d'hoquei patins que organitza la Federació Catalana de Patinatge.</desc>
-    <length units="seconds">2796</length>
-    <episode-num system="onscreen">8129</episode-num>
-    <category lang="ca">ESPORTS</category>
-    <category lang="ca">RETRANSMISSIONS ESPORTS</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <icon src="https://img.ccma.cat/multimedia/jpg/4/3/1722012513934.jpg"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/2/1/1698144123212.jpg"/>
   </programme>
   <channel id="sx3">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20260919184912 +0200" stop="20260919185512 +0200" channel="sx3">
-    <title lang="ca">El xai Shaun</title>
-    <sub-title lang="ca">El xai Shaun - Has ficat la pota</sub-title>
-    <desc lang="ca">El granger avui està d'obres. Ha fet un terra nou de ciment i, mentre s'asseca, ha deixat en Bitzer que vigili que no hi passi ningú pel damunt. Ja et pots imaginar que per en Shaun i companyia és una temptació molt difícil de resistir. Però, com s'ho poden fer per despistar en Bitzer? Segur que a en Shaun se li encén la bombeta...</desc>
-    <length units="seconds">360</length>
-    <episode-num system="onscreen">22</episode-num>
+  <programme start="20260919205959 +0200" stop="20260919212052 +0200" channel="sx3">
+    <title lang="ca">Els germans Kratt</title>
+    <sub-title lang="ca">Els germans Kratt - Els amics del Martin</sub-title>
+    <desc lang="ca">És un dia de descans a la nau Tortuga i, de sobte, el Chris entra queixant-se que algú el molesta. Tots surten per veure què passa i veuen que es tracta d'una oreneta porpra. Al Martin li encanta, perquè també hi ha l'oreneta blava, que és el seu color preferit, però al Chris tot plegat no li fa gens de gràcia. Al cap de poc veuen un altre animal, una marta, i el Martin està encantat, perquè sona gairebé igual que el seu nom. El Chris ja veu que no és el seu dia, i llavors, per acabar-ho d'adobar, un esquirol li pren l'armilla de poder animal. </desc>
+    <length units="seconds">1253</length>
+    <episode-num system="onscreen">103</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
       <value>INFANTIL</value>
     </rating>
+    <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20260919185512 +0200" stop="20260919190111 +0200" channel="sx3">
-    <title lang="ca">El xai Shaun</title>
-    <sub-title lang="ca">El xai Shaun - Singlot</sub-title>
-    <desc lang="ca">La Shirley s'ha begut un refresc d'en Bitzer i li ha vingut un singlot que la té ben amoïnada. No hi ha manera de fer que li passi. En Shaun ja ho ha intentat tot, però no li ha funcionat cap dels remeis casolans que ha provat. Aviat, però, veient el granger com es banya, tindrà un idea que no pot fallar de cap manera. No t'ho perdis!</desc>
-    <length units="seconds">359</length>
-    <episode-num system="onscreen">23</episode-num>
+  <programme start="20260919212052 +0200" stop="20260919214101 +0200" channel="sx3">
+    <title lang="ca">Els germans Kratt</title>
+    <sub-title lang="ca">Els germans Kratt - Anguilèctrica!</sub-title>
+    <desc lang="ca">La nau Tortuga cau en plena selva amazònica. El sistema elèctric de la nau pateix un curtcircuit i, mentre la Koki mira de reparar-lo, els germans Kratt aprofiten per anar a explorar la fauna de la selva. En un riu descobreixen un animal molt curiós, l'anguila elèctrica, capaç de generar descàrregues elèctriques d'alt voltatge. Aquest descobriment els acabarà resultant més útil del que es pensaven, però també posarà en perill el més important per una anguila elèctrica: el seu niu. </desc>
+    <length units="seconds">1209</length>
+    <episode-num system="onscreen">104</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
       <value>INFANTIL</value>
     </rating>
+    <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
   <channel id="c33">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20260919184559 +0200" stop="20260919193131 +0200" channel="c33">
-    <title lang="ca">Viatges insòlits</title>
-    <sub-title lang="ca">Viatges insòlits - Londres</sub-title>
-    <desc lang="ca">Amb una població d'entre 12 i 14 milions d'habitants, l'àrea metropolitana de Londres no és només la ciutat més gran d'Europa occidental, sinó que també és un pol d'atracció per a gent d'arreu del món. I això fa que Londres sigui una de les ciutats més cosmopolites del món. L'àrea de joc ideal per a en Tom, que explora les diferents facetes, nacionals i internacionals, d'aquesta ciutat. En Tom acaba fent un curs d''English Manners' (Etiqueta britànica) i visitant la fan número ú de la reialesa, però també gaudeix d'una vetllada única amb els jamaicans del districte de Brixton i amb boxejadors sense guants a l'est de Londres.</desc>
-    <length units="seconds">2732</length>
-    <episode-num system="onscreen">38</episode-num>
-    <category lang="ca">DIVULGACIÓ</category>
-    <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
+  <programme start="20260919210120 +0200" stop="20260919210722 +0200" channel="c33">
+    <title lang="ca">Gran!</title>
+    <sub-title lang="ca">Gran! - Jane Austen, ' Orgull i prejudici'</sub-title>
+    <desc lang="ca">Es pot dir que l'escriptora britànica Jane Austen representa la sofisticació de la novel·la romàntica. Així ho demostra una obra en què destaca, per exemple, un gran ventall de personatges femenins, el talent pels diàlegs i l'ús de la ironia. 'Orgull i prejudici' és una de les seves obres més immortals, estimades i, també, imitades. 250 anys després del naixement de l'autora, és un referent molt viu per a incomptables obres posteriors. I, fins i tot, ha tingut aplaudides adaptacions a la ficció televisiva i cinematogràfica, com la que va signar Joe Wright l'any 2005, amb el concurs de l'actriu Keira Knightley.  </desc>
+    <length units="seconds">362</length>
+    <episode-num system="onscreen">20</episode-num>
+    <category lang="ca">ENTRETENIMENT</category>
+    <category lang="ca">ALTRES</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
+    <icon src="https://img.ccma.cat/multimedia//jpg/0/1/1714397571710.jpg"/>
   </programme>
-  <programme start="20260919193131 +0200" stop="20260919201407 +0200" channel="c33">
-    <title lang="ca">Viatges insòlits</title>
-    <sub-title lang="ca">Viatges insòlits - Los Angeles</sub-title>
-    <desc lang="ca">Los Angeles no és només una metròpoli amb milions d'habitants, també és una ciutat extensíssima de grans contrastos on tenir cotxe és indispensable. Aquí hi conviuen persones molt riques amb casalots de milions de dòlars a Beverly Hills amb gent que intenta triomfar en el món del cinema i milers de persones que viuen al seu cotxe (en uns aparcaments especials) o fins i tot al carrer. En Tom visitarà un barri que havia estat un dels més perillosos de la ciutat, i també aprofitarà per fer una visita a una vessant més desconeguda: els grups de lowriders, que es reuneixen per admirar els seus cotxes clàssics.</desc>
-    <length units="seconds">2556</length>
-    <episode-num system="onscreen">40</episode-num>
-    <category lang="ca">DIVULGACIÓ</category>
-    <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
+  <programme start="20260919210722 +0200" stop="20260919220307 +0200" channel="c33">
+    <title lang="ca">Experiència Catalana</title>
+    <sub-title lang="ca">Experiència Catalana - Jarek i Beata</sub-title>
+    <desc lang="ca">En Jarek Kret i la Beata Tadla, dos famosos presentadors de la televisió polonesa, protagonitzen aquest capítol, on gaudeixen de les aigües termals, dels magnífics paisatges de la Costa Brava i de la diada de Sant Jordi a Barcelona.</desc>
+    <length units="seconds">3345</length>
+    <episode-num system="onscreen">3</episode-num>
+    <category lang="ca">ENTRETENIMENT</category>
+    <category lang="ca">ALTRES</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
@@ -153,19 +152,6 @@
   <channel id="oca1">
     <display-name>OCA1</display-name>
   </channel>
-  <programme start="20260919185000 +0200" stop="20260919203455 +0200" channel="oca1">
-    <title lang="ca">Hoquei patins</title>
-    <sub-title lang="ca">- GoldenCat masculina / 2a semifinal</sub-title>
-    <desc lang="ca">En joc, el pas a la final de la prestigiosa competició internacional d'hoquei patins que organitza la Federació Catalana de Patinatge.</desc>
-    <length units="seconds">5995</length>
-    <episode-num system="onscreen">8129</episode-num>
-    <category lang="ca">ESPORTS</category>
-    <category lang="ca">RETRANSMISSIONS ESPORTS</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <icon src="https://img.ccma.cat/multimedia/jpg/4/3/1722012513934.jpg"/>
-  </programme>
   <channel id="oca2">
     <display-name>OCA2</display-name>
   </channel>
@@ -175,17 +161,4 @@
   <channel id="oca4">
     <display-name>OCA4</display-name>
   </channel>
-  <programme start="20260919160012 +0200" stop="20260919165507 +0200" channel="oca4">
-    <title lang="ca">Assemblea</title>
-    <sub-title lang="ca">- Assemblea General Ordinària FC Barcelona / Tarda</sub-title>
-    <desc lang="ca">Segona part de l'Assemblea General Ordinària del Futbol Club Barcelona. L'últim dels 10 punts a l'ordre del dia és el torn obert d'intervencions en què el president, Joan Laporta, respon les consultes directes dels socis. </desc>
-    <length units="seconds">3295</length>
-    <episode-num system="onscreen">8127</episode-num>
-    <category lang="ca">ESPORTS</category>
-    <category lang="ca">RETRANSMISSIONS ESPORTS</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <icon src="https://img.3cat.cat/multimedia/jpg/1/1/1760542682711.jpg"/>
-  </programme>
 </tv>
