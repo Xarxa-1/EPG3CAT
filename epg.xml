@@ -3,102 +3,101 @@
   <channel id="tvi">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20260919024318 +0200" stop="20260919040000 +0200" channel="tvi">
+  <programme start="20260919070000 +0200" stop="20260919080002 +0200" channel="tvi">
     <title lang="ca">Notícies 3CatInfo</title>
     <sub-title lang="ca">Notícies 3CatInfo</sub-title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">4602</length>
-    <episode-num system="onscreen">11209</episode-num>
+    <length units="seconds">3602</length>
+    <episode-num system="onscreen">11210</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <previously-shown/>
     <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
-  <programme start="20260919040000 +0200" stop="20260919050000 +0200" channel="tvi">
-    <title lang="ca">Ritmes a l'estudi</title>
-    <sub-title lang="ca">Ritmes a l'estudi - FRANCESC CAPELLA</sub-title>
-    <desc lang="ca">Pianista i compositor, Capella té una dilatada carrera, en què ha liderat les seves pròpies formacions o ha estat 'sideman' de solistes de la talla de Scott Hamilton o Johnny Griffin. El repertori que ens presenta avui recrea el 'soul-jazz' dels anys 60. Jazz amb ritme, on es donen la mà la música de Nova Orleans, el gospel i el blues.</desc>
-    <length units="seconds">3600</length>
-    <episode-num system="onscreen">5</episode-num>
-    <category lang="ca">MUSICALS</category>
-    <category lang="ca">ALTRES</category>
+  <programme start="20260919080002 +0200" stop="20260919125752 +0200" channel="tvi">
+    <title lang="ca">Curses de Muntanya</title>
+    <sub-title lang="ca">Curses de Muntanya - Rialp Matxicots</sub-title>
+    <desc lang="ca">16a edició d'aquesta cursa de muntanya. La prova reina de la Rialp Matxicots és la Trail de 60 km i gairebé 4.700 m. de desnivell positiu. La Mitja+ amb 30 km i 2.200 m positius és tot un repte per als amants de la mitja distància. I la Popular 15k, amb més de 1.000 m. positius, recorre el cor de la Vall d'Àssua.</desc>
+    <length units="seconds">17870</length>
+    <episode-num system="onscreen">36</episode-num>
+    <category lang="ca">ESPORTS</category>
+    <category lang="ca">RETRANSMISSIONS ESPORTS</category>
     <rating>
-      <value>PÚBLIC ADULT</value>
+      <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <previously-shown/>
+    <icon src="https://img.3cat.cat/multimedia/jpg/4/5/1760443350454.jpg"/>
   </programme>
   <channel id="324">
     <display-name>324</display-name>
   </channel>
-  <programme start="20260919010000 +0200" stop="20260919060000 +0200" channel="324">
+  <programme start="20260919070000 +0200" stop="20260919100000 +0200" channel="324">
     <title lang="ca">Notícies 3CatInfo</title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">18000</length>
-    <episode-num system="onscreen">11209</episode-num>
+    <length units="seconds">10800</length>
+    <episode-num system="onscreen">11210</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <previously-shown/>
     <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
-  <programme start="20260919060000 +0200" stop="20260919070000 +0200" channel="324">
+  <programme start="20260919100000 +0200" stop="20260919120000 +0200" channel="324">
     <title lang="ca">Notícies 3CatInfo</title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">3600</length>
-    <episode-num system="onscreen">11209</episode-num>
+    <length units="seconds">7200</length>
+    <episode-num system="onscreen">11211</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <previously-shown/>
+    <subtitles type="teletext"/>
     <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
   <channel id="esport3">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20260919024636 +0200" stop="20260919041616 +0200" channel="esport3">
-    <title lang="ca">Futbol sala</title>
-    <sub-title lang="ca">Futbol sala - Barça-Peníscola / Primera Divisió / J2</sub-title>
-    <desc lang="ca">Els dos conjunts van començar el campionat amb una victòria, i volen sumar tres punts més per mantenir-se al capdavant de la classificació. </desc>
-    <length units="seconds">5380</length>
-    <episode-num system="onscreen">481</episode-num>
+  <programme start="20260919074228 +0200" stop="20260919075740 +0200" channel="esport3">
+    <title lang="ca">Sala de Premsa</title>
+    <sub-title lang="ca">Sala de Premsa - Hansi Flick / Prèvia Sevilla-Barça / J7</sub-title>
+    <desc lang="ca">Esport3 t'ofereix les compareixences de dirigents, jugadors i entrenadors dels equips catalans davant els mitjans de comunicació.</desc>
+    <length units="seconds">912</length>
+    <episode-num system="onscreen">731</episode-num>
     <category lang="ca">ESPORTS</category>
-    <category lang="ca">RETRANSMISSIONS ESPORTS</category>
+    <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
+    <subtitles type="teletext"/>
     <previously-shown/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/1/5/1699004339351.jpg"/>
+    <icon src="https://img.3cat.cat/multimedia/jpg/7/4/1778665728847.jpg"/>
   </programme>
-  <programme start="20260919041616 +0200" stop="20260919060858 +0200" channel="esport3">
-    <title lang="ca">Hoquei patins</title>
-    <sub-title lang="ca">Hoquei patins - Catalunya-Portugal / GoldenCat masculina / J2</sub-title>
-    <desc lang="ca">La selecció catalana masculina d'hoquei patins disputa el tercer i últim partit de la fase de lliga a la segona jornada de la GoldenCat. </desc>
-    <length units="seconds">6762</length>
-    <episode-num system="onscreen">8125</episode-num>
+  <programme start="20260919075740 +0200" stop="20260919081702 +0200" channel="esport3">
+    <title lang="ca">3CatInfo Esports</title>
+    <sub-title lang="ca">3CatInfo Esports</sub-title>
+    <desc lang="ca">Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.</desc>
+    <length units="seconds">1162</length>
+    <episode-num system="onscreen">5512</episode-num>
     <category lang="ca">ESPORTS</category>
-    <category lang="ca">RETRANSMISSIONS ESPORTS</category>
+    <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <previously-shown/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/4/3/1722012513934.jpg"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/9/7/1758888682179.jpg"/>
   </programme>
   <channel id="sx3">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20260919030718 +0200" stop="20260919032756 +0200" channel="sx3">
-    <title lang="ca">Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
-    <sub-title lang="ca">Prodigiosa: Les aventures de Ladybug i Gat Noir - Papa Ferotge</sub-title>
-    <desc lang="ca">Per evitar revelar la seva personalitat real, la Marinette li diu al Gat Noir que està enamorada d'ella. La confusió que es crea a continuació fa que el Tom, el pare de la Marinette, s'enfadi amb el Gat Noir, moment que aprofitarà l'Esfinx per convertir-lo en el Papa Ferotge, un malvat decidit a tenir captiva la seva filla per protegir-la de tots els mals.</desc>
-    <length units="seconds">1238</length>
-    <episode-num system="onscreen">58</episode-num>
+  <programme start="20260919075135 +0200" stop="20260919080148 +0200" channel="sx3">
+    <title lang="ca">El Mic i els seus amics</title>
+    <sub-title lang="ca">El Mic i els seus amics - Cantem Cap, panxa, genolls i peus</sub-title>
+    <desc lang="ca">A principis dels anys seixanta es va posar una lletra infantil a la melodia d'una cançó gal·lesa de taberna i des d'aleshores ha esdevingut un èxit del repertori de cançons per als més petits.</desc>
+    <length units="seconds">613</length>
+    <episode-num system="onscreen">572</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
@@ -107,12 +106,12 @@
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20260919032756 +0200" stop="20260919034839 +0200" channel="sx3">
-    <title lang="ca">Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
-    <sub-title lang="ca">Prodigiosa: Les aventures de Ladybug i Gat Noir - Silenci</sub-title>
-    <desc lang="ca">Arriben a París el mànager Bob Roth i el seu fill, el discjòquei XY, un noi sense cap talent. Com que no tenen cap idea pel nou disc, acaben robant la melodia i els dissenys del grup que tenen la Rose, el Luka i els seus amics. Quan el Bob Roth es nega a reconèixer el robatori, el Luka s'enfada molt, i l'Esfinx aprofita aquesta ràbia per akumatitzar-lo.</desc>
-    <length units="seconds">1243</length>
-    <episode-num system="onscreen">59</episode-num>
+  <programme start="20260919080148 +0200" stop="20260919081450 +0200" channel="sx3">
+    <title lang="ca">El Mic i els seus amics</title>
+    <sub-title lang="ca">El Mic i els seus amics - El Cargol, funàmbul</sub-title>
+    <desc lang="ca">A poc a poc, i amb molt de compte, el Cargol passa per una corda que travessa l'espai. Ha arribat a l'altra banda. Visca!</desc>
+    <length units="seconds">782</length>
+    <episode-num system="onscreen">639</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
@@ -124,12 +123,11 @@
   <channel id="c33">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20260919023138 +0200" stop="20260919032634 +0200" channel="c33">
-    <title lang="ca">Sota terra</title>
-    <sub-title lang="ca">Sota terra - Empúries. La ciutat i el mur: eixample o getho?</sub-title>
-    <desc lang="ca">Inicialment, focalitzem la nostra atenció en dos aspectes de la ciutat romana d'Empúries. Volem saber si la trama urbana rectangular ja excavada té continuïtat per la part del recinte que encara mai s'ha excavat (és a dir, si la quadrícula de carrers és molt més gran del que se sap fins ara), i també volem confirmar o no que hi havia un misteriós mur que dividia en dos la ciutat romana d'Empúries. Una muralla de què avui queden unes poques restes visibles. Volem buscar doncs en l'Empúries mai no excavada per extreure'n conclusions potents: confirmem com es creu que l'Empúries romana era molt més gran que el que sabem ara? S'estructura en una quadrícula gegantina i absolutament regular? Tenia però un misteriós mur que la separava en dos? I si de passada trobem àmfores, estàtues, mosaics, estris de cuina o qualsevol resta arqueològica, molt millor!</desc>
-    <length units="seconds">3296</length>
-    <episode-num system="onscreen">9</episode-num>
+  <programme start="20260919075047 +0200" stop="20260919084325 +0200" channel="c33">
+    <title lang="ca">Viure als Pirineus- A banda i banda</title>
+    <sub-title lang="ca">Viure als Pirineus- A banda i banda - Cinto Gabriel i Jean Hourticq - Hivern</sub-title>
+    <length units="seconds">3158</length>
+    <episode-num system="onscreen">8</episode-num>
     <category lang="ca">DIVULGACIÓ</category>
     <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
     <rating>
@@ -138,12 +136,12 @@
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20260919032634 +0200" stop="20260919041713 +0200" channel="c33">
-    <title lang="ca">Sota terra</title>
-    <sub-title lang="ca">Sota terra - Abric Romaní: l' hostal dels Neanderthals</sub-title>
-    <desc lang="ca">Buscar rastres neandertals a l'abric Romaní de Capellades. Aquest és el repte d'aquest capítol. Descobrir com vivien, com s'organitzaven, de què s'alimentaven, com es protegien… L'abric Romaní està documentat com a lloc de pas neandertal fa, aproximadament, entre 35.000 i 70.000 anys. En aquest capítol excavem el nivell corresponent a fa 60.000 anys. És a dir, que volen saber com era la vida neandertal a Capellades fa tots aquests anys. I buscarem restes, eines, el que ens pugui donar una pista. I si trobem una resta directa d'un homo neandertal, un os, ja serà històric, perquè mai a la història de l'abric Romaní s'ha fet una troballa tan important!</desc>
-    <length units="seconds">3039</length>
-    <episode-num system="onscreen">10</episode-num>
+  <programme start="20260919084325 +0200" stop="20260919091317 +0200" channel="c33">
+    <title lang="ca">GR Pirineus</title>
+    <sub-title lang="ca">GR Pirineus - El pla del monstre</sub-title>
+    <desc lang="ca">En aquesta ruta el Marc es mou pel Pla de l'Estany, concretament des de Crespià fins a Sant Miquel de Campmajor. En total, uns 45 Km repartits en dues jornades, fets en cotxe, en bicicleta i amb un monstre de fons...De Crespià anirà a Esponellà i després a Serinyà, on viurà en pròpia pell com és la vida d'un arqueòleg. A continuació, agafarà la bici per anar fins a Banyoles. Allà rodejarà l'estany i intentarà descobrir si existeix o no el monstre de Banyoles!L'endemà anirà fins a Cornellà de Terri, on aprendrà a enforcar alls i després a cuinar-los. Continuarà fent via direcció Porqueres, on es perdrà en un bosc que amaga alguns secrets molt picants. Finalment, acabarà la ruta a Sant Miquel de Campmajor, amb les seves caramelles!</desc>
+    <length units="seconds">1792</length>
+    <episode-num system="onscreen">7</episode-num>
     <category lang="ca">DIVULGACIÓ</category>
     <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
     <rating>
@@ -151,6 +149,7 @@
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
+    <icon src="https://img.3cat.cat/multimedia/jpg/9/8/1736612891089.jpg"/>
   </programme>
   <channel id="oca1">
     <display-name>OCA1</display-name>
