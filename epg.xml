@@ -3,40 +3,29 @@
   <channel id="tvi">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20260920070001 +0200" stop="20260920100000 +0200" channel="tvi">
+  <programme start="20260920122945 +0200" stop="20260920142947 +0200" channel="tvi">
     <title lang="ca">Notícies 3CatInfo</title>
     <sub-title lang="ca">Notícies 3CatInfo</sub-title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">10799</length>
-    <episode-num system="onscreen">11218</episode-num>
+    <length units="seconds">7202</length>
+    <episode-num system="onscreen">11220</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
-  </programme>
-  <programme start="20260920100000 +0200" stop="20260920101806 +0200" channel="tvi">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">Notícies 3CatInfo</sub-title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">1086</length>
-    <episode-num system="onscreen">11219</episode-num>
-    <category lang="ca">ACTUALITAT</category>
-    <category lang="ca">INFORMATIU DIÀRI</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
+    <subtitles type="teletext"/>
+    <previously-shown/>
     <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
   <channel id="324">
     <display-name>324</display-name>
   </channel>
-  <programme start="20260920070000 +0200" stop="20260920100000 +0200" channel="324">
+  <programme start="20260920120000 +0200" stop="20260920143000 +0200" channel="324">
     <title lang="ca">Notícies 3CatInfo</title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">10800</length>
-    <episode-num system="onscreen">11218</episode-num>
+    <length units="seconds">9000</length>
+    <episode-num system="onscreen">11220</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
@@ -45,73 +34,69 @@
     <subtitles type="teletext"/>
     <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
-  <programme start="20260920100000 +0200" stop="20260920120000 +0200" channel="324">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+  <programme start="20260920143000 +0200" stop="20260920163000 +0200" channel="324">
+    <title lang="ca">Telenotícies migdia</title>
     <length units="seconds">7200</length>
-    <episode-num system="onscreen">11219</episode-num>
+    <episode-num system="onscreen">7334</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <subtitles type="teletext"/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/5/4/1758025766345.jpg"/>
   </programme>
   <channel id="esport3">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20260920075809 +0200" stop="20260920082445 +0200" channel="esport3">
-    <title lang="ca">3CatInfo Esports</title>
-    <sub-title lang="ca">3CatInfo Esports</sub-title>
-    <desc lang="ca">Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.</desc>
-    <length units="seconds">1596</length>
-    <episode-num system="onscreen">5513</episode-num>
-    <category lang="ca">ESPORTS</category>
-    <category lang="ca">INFORMATIU DIÀRI</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <previously-shown/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/9/7/1758888682179.jpg"/>
-  </programme>
-  <programme start="20260920082445 +0200" stop="20260920101953 +0200" channel="esport3">
-    <title lang="ca">Futbol</title>
-    <sub-title lang="ca">Futbol - Reial Múrcia-CE Europa / Primera Federació / J4</sub-title>
-    <desc lang="ca">Els graciencs tenen només un punt i volen la primera victòria al campionat. L'objectiu dels murcians és mantenir-se a la zona capdavantera. Des de La Condomina, amb la narració de Jordi Sunyer i l'anàlisi d'Alberto Manga.</desc>
-    <length units="seconds">6908</length>
-    <episode-num system="onscreen">202</episode-num>
+  <programme start="20260920115315 +0200" stop="20260920134630 +0200" channel="esport3">
+    <title lang="ca">Hoquei patins</title>
+    <sub-title lang="ca">Hoquei patins - GoldenCat femenina / Final</sub-title>
+    <desc lang="ca">Desenllaç a la competició femenina del prestigiós torneig internacional d'hoquei patins que organitza la Federació Catalana de Patinatge.</desc>
+    <length units="seconds">6795</length>
+    <episode-num system="onscreen">8130</episode-num>
     <category lang="ca">ESPORTS</category>
     <category lang="ca">RETRANSMISSIONS ESPORTS</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <previously-shown/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/0/7/1698446098170.jpg"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/3/2/1722012654923.jpg"/>
+  </programme>
+  <programme start="20260920134630 +0200" stop="20260920162000 +0200" channel="esport3">
+    <title lang="ca">E3D</title>
+    <sub-title lang="ca">E3D - Festa al cel</sub-title>
+    <desc lang="ca">Aquest festival aeri és el més antic i important de l'Estat espanyol. El campionat d'aviació, que en els últims anys s'ha consolidat a Salou, és tot un espectacle de velocitat, perícia i tecnologia. La Festa al Cel.</desc>
+    <length units="seconds">9210</length>
+    <episode-num system="onscreen">8131</episode-num>
+    <category lang="ca">ESPORTS</category>
+    <category lang="ca">RETRANSMISSIONS ESPORTS</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <icon src="https://img.3cat.cat/multimedia/jpg/7/0/1789632538707.jpg"/>
   </programme>
   <channel id="sx3">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20260920081338 +0200" stop="20260920082513 +0200" channel="sx3">
-    <title lang="ca">Titó</title>
-    <sub-title lang="ca">Titó - Excursió a la verema</sub-title>
-    <desc lang="ca">Avui ens hem llevat ben d'hora per fer la verema. Collirem el raïm i el portarem amb tractor fins al celler. Amb en John C farem most aixafant el raïm amb els peus!</desc>
-    <length units="seconds">695</length>
-    <episode-num system="onscreen">100</episode-num>
-    <category lang="ca">ENTRETENIMENT</category>
-    <category lang="ca">ALTRES</category>
+  <programme start="20260920132457 +0200" stop="20260920134628 +0200" channel="sx3">
+    <title lang="ca">Els germans Kratt</title>
+    <sub-title lang="ca">Els germans Kratt - El nostre món blau i verd. 1a part</sub-title>
+    <desc lang="ca">Avui toca fer bugada i els germans Kratt, a partir d'una discrepància per la manera de rentar segons el color de la roba, comencen a discutir si és millor el verd del bosc o el blau del mar. Tots dos es posen a defensar el seu color i acaben distanciats; la resta de l'equip tindrà la difícil missió de mirar que es tornin a ajuntar.</desc>
+    <length units="seconds">1291</length>
+    <episode-num system="onscreen">166</episode-num>
+    <category lang="ca">FICCIÓ</category>
+    <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
       <value>INFANTIL</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20260920082513 +0200" stop="20260920083743 +0200" channel="sx3">
-    <title lang="ca">Titó</title>
-    <sub-title lang="ca">Titó - Excursió a plegar avellanes</sub-title>
-    <desc lang="ca">Avui anem a plegar avellanes. Descobrirem com es feia antigament, amb la senalla, i com es fa avui en dia, amb la bufadora, el rasclet, el tractor i la màquina de xuclar. Pot passar de tot quan en John C agafi la xucladora! </desc>
-    <length units="seconds">750</length>
-    <episode-num system="onscreen">101</episode-num>
+  <programme start="20260920134628 +0200" stop="20260920141408 +0200" channel="sx3">
+    <title lang="ca">Manduka</title>
+    <sub-title lang="ca">Manduka - Pizza terrorífica - Lildami</sub-title>
+    <desc lang="ca">La coliflor és un dels aliments més temuts i odiats pels més petits... fins avui! Farem una pizza de coliflor que farà les delícies de petits i grans, on no hi notaran el gust de la coliflor. I ho farem amb el drap de cuina, però també amb el rap i el trap... perquè ens acompanyarà el músic Lildami. Descobrirem com es poden reescalfar les pizzes perquè quedin cruixents i com es fan les bombolles de xocolata. També aprendrem a fer plastilina de sal a la secció 'Cuinart'.</desc>
+    <length units="seconds">1660</length>
+    <episode-num system="onscreen">7</episode-num>
     <category lang="ca">ENTRETENIMENT</category>
     <category lang="ca">ALTRES</category>
     <rating>
@@ -123,37 +108,52 @@
   <channel id="c33">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20260920074236 +0200" stop="20260920083456 +0200" channel="c33">
-    <title lang="ca">Viure als Pirineus- A banda i banda</title>
-    <sub-title lang="ca">Viure als Pirineus- A banda i banda - Eva Martínez-Picó i Ximun Accocéberry - Hivern</sub-title>
-    <length units="seconds">3140</length>
-    <episode-num system="onscreen">9</episode-num>
+  <programme start="20260920125413 +0200" stop="20260920134113 +0200" channel="c33">
+    <title lang="ca">La Renaixença</title>
+    <sub-title lang="ca">La Renaixença - El compàs</sub-title>
+    <desc lang="ca">Tots hem fet servir el compàs durant la nostra època escolar. Alguns amb més destresa que d'altres, però tots l'hem fet servir alguna vegada per punxar la goma d'esborrar. En això segur que coincidim. Els músics també en fan servir un de compàs, però no és el mateix. Ens visita en Llorenç Barba, responsable del refugi Vicenç Barber de Montserrat. Fa'passejades' de 45 minuts fins al refugi diàriament pujant més de 200 kg a l'esquena cada setmana. A 'Històries per passejar el gos' anem amb la Dobby fins al 1960, a la catàstrofe de Nedelin.</desc>
+    <length units="seconds">2820</length>
+    <episode-num system="onscreen">67</episode-num>
     <category lang="ca">DIVULGACIÓ</category>
-    <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
+    <category lang="ca">ALTRES</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/3/3/1756148014833.jpg"/>
   </programme>
-  <programme start="20260920083456 +0200" stop="20260920090402 +0200" channel="c33">
-    <title lang="ca">GR Pirineus</title>
-    <sub-title lang="ca">GR Pirineus - Món pintoresc</sub-title>
-    <desc lang="ca">En el novè gran recorregut, el Marc de las Heras anirà de Castellfollit de la Roca a Beget, és a dir, de la Garrotxa al Ripollès. En total, uns 65 km, repartits en dues jornades, fets a peu, en cotxe i en ruc. En Marc sortirà d'un poble realment singular per anar a Sant Joan les Fonts, un lloc farcit de bruixes! Després, en Marc travessarà la Vall de Bianya i, al llom d'un ruc català, arribarà a Sant Pau de Segúries, per tornar a agafar el cotxe després fins a Camprodon, on farà nit.</desc>
-    <length units="seconds">1746</length>
-    <episode-num system="onscreen">9</episode-num>
-    <category lang="ca">DIVULGACIÓ</category>
-    <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
+  <programme start="20260920134113 +0200" stop="20260920143317 +0200" channel="c33">
+    <title lang="ca">Fabra, diccionari d'un home sense biografia</title>
+    <sub-title lang="ca">Fabra, diccionari d'un home sense biografia - Fabra, diccionari d'un home sense biografia</sub-title>
+    <desc lang="ca">«Fabra, diccionari d'un home sense biografia» és un documental que parla de llengua, de compromís i de 80 anys cabdals de la història de Catalunya. I ho fa través de la vida d'un personatge irrepetible: Pompeu Fabra, el pare del català modern.Pompeu Fabra va ser la persona que va recosir una llengua fragmentada per convertir-la en una eina apte per a tots els usos. Però lluny de la imatge de rigidesa lingüística a la s'associa la seva figura, Fabra va ser un personatge modern, intel·lectualment brillant i connectat amb els corrents intel·lectuals de la seva època.</desc>
+    <length units="seconds">3124</length>
+    <episode-num system="onscreen">1</episode-num>
+    <category lang="ca">ACTUALITAT</category>
+    <category lang="ca">DOCUMENTAL</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
-    <icon src="https://img.3cat.cat/multimedia/jpg/9/8/1736612891089.jpg"/>
+    <icon src="https://img.3cat.cat/multimedia/jpg/2/3/1556034684832.jpg"/>
   </programme>
   <channel id="oca1">
     <display-name>OCA1</display-name>
   </channel>
+  <programme start="20260920120000 +0200" stop="20260920145955 +0200" channel="oca1">
+    <title lang="ca">Acte esportiu</title>
+    <sub-title lang="ca">- Festa al cel</sub-title>
+    <desc lang="ca">Aquest festival aeri és el més antic i important de l'Estat espanyol. El campionat d'aviació, que en els últims anys s'ha consolidat a Salou, és tot un espectacle de velocitat, perícia i tecnologia. La Festa al Cel.</desc>
+    <length units="seconds">10795</length>
+    <episode-num system="onscreen">8131</episode-num>
+    <category lang="ca">ESPORTS</category>
+    <category lang="ca">RETRANSMISSIONS ESPORTS</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <icon src="https://img.3cat.cat/multimedia/jpg/7/0/1789632538707.jpg"/>
+  </programme>
   <channel id="oca2">
     <display-name>OCA2</display-name>
   </channel>
