@@ -3,31 +3,31 @@
   <channel id="tvi">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20260920005847 +0200" stop="20260920012553 +0200" channel="tvi">
-    <title lang="ca">El retorn de les lluernes</title>
-    <sub-title lang="ca">El retorn de les lluernes - Georgina i 'El càstig'</sub-title>
-    <desc lang="ca">Aquest capítol del programa parteix de la novel·la 'El càstig' (L'Altra Editorial), de Guillem SalaLa Sandra és professora en un institut del barri de Sant Andreu. Surt amb l'Albert, un escriptor que li havia fet de professor a la universitat, i no acaba d'enamorar-se'n. A l'institut hi ha un company que podria ser l'home ideal, i a classe hi té un alumne, l'Izan, que necessita la seva ajuda. Però la Sandra arrossega des de petita una relació turbulenta amb la seva família i està en guerra contra ella mateixa.La Georgina Rovira és la lectora que s'endinsa en la novel·la i ens descobreix personatges paral·lels situats a Badalona i a Santa Coloma de Gramenet</desc>
-    <length units="seconds">1626</length>
-    <episode-num system="onscreen">2</episode-num>
-    <category lang="ca">ENTRETENIMENT</category>
+  <programme start="20260920015558 +0200" stop="20260920040000 +0200" channel="tvi">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <sub-title lang="ca">Notícies 3CatInfo</sub-title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="seconds">7442</length>
+    <episode-num system="onscreen">11217</episode-num>
+    <category lang="ca">ACTUALITAT</category>
+    <category lang="ca">INFORMATIU DIÀRI</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <previously-shown/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
+  </programme>
+  <programme start="20260920040000 +0200" stop="20260920050000 +0200" channel="tvi">
+    <title lang="ca">Ritmes a l'estudi</title>
+    <sub-title lang="ca">Ritmes a l'estudi - PHAT FRED</sub-title>
+    <desc lang="ca">Una de les formacions de funk més representatives d'Europa. De totes maneres, el quintet no es conforma a ser una banda de gènere i el seu so és una barreja de rock, funk, psicodèlia i jazz. Phat Fred són coneguts especialment pel seu directe, en què es deixen anar en el deliri i la improvisació creant el que ells en diuen punk-funk.</desc>
+    <length units="seconds">3600</length>
+    <episode-num system="onscreen">6</episode-num>
+    <category lang="ca">MUSICALS</category>
     <category lang="ca">ALTRES</category>
     <rating>
-      <value>TOTS ELS PÚBLICS</value>
+      <value>PÚBLIC ADULT</value>
     </rating>
-    <subtitles type="teletext"/>
-    <previously-shown/>
-  </programme>
-  <programme start="20260920012553 +0200" stop="20260920015558 +0200" channel="tvi">
-    <title lang="ca">Els dies clau</title>
-    <sub-title lang="ca">Els dies clau - 19 de juny de 1987: l'atemptat d'Hipercor</sub-title>
-    <length units="seconds">1805</length>
-    <episode-num system="onscreen">1</episode-num>
-    <category lang="ca">DIVULGACIÓ</category>
-    <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
   <channel id="324">
@@ -62,26 +62,11 @@
   <channel id="esport3">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20260920010025 +0200" stop="20260920023458 +0200" channel="esport3">
-    <title lang="ca">Gol a gol</title>
-    <sub-title lang="ca">Gol a gol - Post Sevilla-Barça / J7</sub-title>
-    <desc lang="ca">'Gol a gol' us ofereix els resums dels partits de futbol de Primera i Segona Divisió. Presentat per Jordi Grau a Esport3, cada dissabte i cada diumenge podeu veure les millors imatges de la jornada de Lliga amb l'anàlisi dels experts, amb especial atenció als equips catalans, sobretot el Barça, el Girona i l'Espanyol.</desc>
-    <length units="seconds">5673</length>
-    <episode-num system="onscreen">1783</episode-num>
-    <category lang="ca">ESPORTS</category>
-    <category lang="ca">MAGAZINE</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <subtitles type="teletext"/>
-    <previously-shown/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/2/1/1698144123212.jpg"/>
-  </programme>
-  <programme start="20260920023458 +0200" stop="20260920045615 +0200" channel="esport3">
+  <programme start="20260920023459 +0200" stop="20260920043104 +0200" channel="esport3">
     <title lang="ca">Futbol</title>
     <sub-title lang="ca">Futbol - Reial Múrcia-CE Europa / Primera Federació / J4</sub-title>
     <desc lang="ca">Els graciencs tenen només un punt i volen la primera victòria al campionat. L'objectiu dels murcians és mantenir-se a la zona capdavantera. Des de La Condomina, amb la narració de Jordi Sunyer i l'anàlisi d'Alberto Manga.</desc>
-    <length units="seconds">8477</length>
+    <length units="seconds">6965</length>
     <episode-num system="onscreen">202</episode-num>
     <category lang="ca">ESPORTS</category>
     <category lang="ca">RETRANSMISSIONS ESPORTS</category>
@@ -91,29 +76,42 @@
     <previously-shown/>
     <icon src="https://img.ccma.cat/multimedia/jpg/0/7/1698446098170.jpg"/>
   </programme>
+  <programme start="20260920043104 +0200" stop="20260920062409 +0200" channel="esport3">
+    <title lang="ca">Futbol</title>
+    <sub-title lang="ca">Futbol - FC Badalona Women-Reial Societat / Lliga F / J4</sub-title>
+    <desc lang="ca">Les badalonines s'han situat a la part alta de la classificació gràcies a dues victòries seguides. Per contra, les donostiarres encara no han aconseguit guanyar i volen els tres punts per sortir de la zona baixa.</desc>
+    <length units="seconds">6785</length>
+    <episode-num system="onscreen">49</episode-num>
+    <category lang="ca">ESPORTS</category>
+    <category lang="ca">RETRANSMISSIONS ESPORTS</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <icon src="https://img.ccma.cat/multimedia/jpg/0/8/1730389343680.jpg"/>
+  </programme>
   <channel id="sx3">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20260920010543 +0200" stop="20260920012621 +0200" channel="sx3">
-    <title lang="ca">Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
-    <sub-title lang="ca">Prodigiosa: Les aventures de Ladybug i Gat Noir - Oblivio</sub-title>
-    <desc lang="ca">Ladybug i el Gat Noir es destransformen junts per primera vegada i es converteixen en la Marinette i l'Adrien. L'únic és que han perdut la memòria i no recorden res de res, ni com es diuen ni que són superherois. A poc a poc, aniran trobant pistes que els ajudaran a tornar a la realitat.</desc>
-    <length units="seconds">1238</length>
-    <episode-num system="onscreen">62</episode-num>
+  <programme start="20260920030904 +0200" stop="20260920031926 +0200" channel="sx3">
+    <title lang="ca">Com dibuixar còmics amb el Will Sliney</title>
+    <sub-title lang="ca">Com dibuixar còmics amb el Will Sliney - El retorn del Crònica</sub-title>
+    <desc lang="ca">En aquest episodi, el malvat Crònica ha creat una versió malèfica del Will, el Vil, un superdolent que té el poder de crear els superdolents que s'enfrontaran als superherois que ha creat el Will. I el primer superdolent que crearà serà el Púrria, pensat per enfrontar-se a l'Elit. Entre tots dos, el Vil i el Will, ens ensenyaran trucs per dibuixar els malvats i també coneixerem els orígens del Púrria.</desc>
+    <length units="seconds">622</length>
+    <episode-num system="onscreen">30</episode-num>
     <category lang="ca">FICCIÓ</category>
-    <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
+    <category lang="ca">ALTRES</category>
     <rating>
       <value>INFANTIL</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20260920012621 +0200" stop="20260920014659 +0200" channel="sx3">
-    <title lang="ca">Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
-    <sub-title lang="ca">Prodigiosa: Les aventures de Ladybug i Gat Noir - Desperada</sub-title>
-    <desc lang="ca">El Jagged Stone ha fet fora de la banda la seva guitarrista, la Vivica, i l'Esfinx aprofita la ràbia de la noia per convertir-la en la temible Desperada, una supermalvada amb uns poders difícils de derrotar. Ladybug i el Gat Noir necessitaran l'ajuda de l'Escurçó per derrotar-la.</desc>
-    <length units="seconds">1238</length>
-    <episode-num system="onscreen">63</episode-num>
+  <programme start="20260920031926 +0200" stop="20260920032956 +0200" channel="sx3">
+    <title lang="ca">Pop, la ciutat de paper</title>
+    <sub-title lang="ca">Pop, la ciutat de paper - L'excursió d'en Hooper</sub-title>
+    <desc lang="ca">A l'aventura d'avui, en Hooper ha preparat un dia a la platja amb els seus amics! Però tindran temps de passar-s'ho bé abans que es posi a ploure?</desc>
+    <length units="seconds">630</length>
+    <episode-num system="onscreen">9</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
@@ -125,11 +123,11 @@
   <channel id="c33">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20260920002916 +0200" stop="20260920012132 +0200" channel="c33">
-    <title lang="ca">Viure amb els volcans</title>
-    <sub-title lang="ca">Viure amb els volcans - Els habitants dels extrems</sub-title>
-    <desc lang="ca">Arreu del món s'han establert societats humanes al peu de volcans actius. Viure en aquestes terres inestables té un preu. D'un dia per l'altre, els volcans es poden endur el que han permès que es construís. Per als homes i dones que viuen en aquestes terres, anar-se'n no és una opció. Estan decidits a continuar vivint on han viscut, passi el que passi. En aquest documental coneixerem aquests habitants dels extrems.</desc>
-    <length units="seconds">3136</length>
+  <programme start="20260920030132 +0200" stop="20260920032638 +0200" channel="c33">
+    <title lang="ca">Volcans i homes</title>
+    <sub-title lang="ca">Volcans i homes - Les illes Vestman, sentinelles volcànics d'Islàndia</sub-title>
+    <desc lang="ca">En aquest episodi, Arnaud Guérin, geòleg i fotògraf professional, ens porta a les illes Vestman, davant la costa d'Islàndia. Entre d'altres coses, l'acompanyarem en la seva visita al poble d'Heimaey, on un volcà va aparèixer sobtadament al mig del poble, i a Surtsey, una illa volcànica acabada de crear on es pot observar el lent procés de colonització, des de zero, per part de la vida.</desc>
+    <length units="seconds">1506</length>
     <episode-num system="onscreen">5</episode-num>
     <category lang="ca">DIVULGACIÓ</category>
     <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
@@ -139,12 +137,12 @@
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20260920012132 +0200" stop="20260920014707 +0200" channel="c33">
+  <programme start="20260920032638 +0200" stop="20260920035127 +0200" channel="c33">
     <title lang="ca">Volcans i homes</title>
-    <sub-title lang="ca">Volcans i homes - Etna, la muntanya de les muntanyes</sub-title>
-    <desc lang="ca">En aquest episodi, Arnaud Guérin, fotògraf professional i geòleg apassionat per la vulcanologia, se'n va a Sicília, per conèixer persones que viuen a tocar de l'Etna. Ens mostrarà, entre d'altres coses, les tradicions populars i religioses que ha originat el perill constant de l'Etna, la gran fertilitat de les terres agrícoles del peu del volcà i les dificultats quotidianes de les persones que viuen a la zona de les salinelle, els volcans de fang. A part d'anar fins a un cràter actiu amb un vulcanòleg per oferir-nos, també, el punt de vista científic sobre els fenòmens volcànics. </desc>
-    <length units="seconds">1535</length>
-    <episode-num system="onscreen">1</episode-num>
+    <sub-title lang="ca">Volcans i homes - Islàndia. Els senyors de foc</sub-title>
+    <desc lang="ca">En aquest episodi, Arnaud Guérin, geòleg i fotògraf professional, ens porta a Islàndia. Entre d'altres coses, l'acompanyarem en la seva visita al rift de Thingvellir, enmig de les dues plaques tectòniques, a la fractura d'Eldja, el congost de foc, i al centre de control de trànsit aeri de l'aeroport de Reykjavík, que va haver de gestionar les conseqüències en el trànsit aeri de l'erupció del volcà Eyjafjallajökull el 2010.</desc>
+    <length units="seconds">1489</length>
+    <episode-num system="onscreen">6</episode-num>
     <category lang="ca">DIVULGACIÓ</category>
     <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
     <rating>
