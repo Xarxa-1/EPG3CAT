@@ -3,55 +3,54 @@
   <channel id="tvi">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20260920231355 +0200" stop="20260921000922 +0200" channel="tvi">
-    <title lang="ca">Vosaltres mateixos</title>
-    <sub-title lang="ca">Vosaltres mateixos - Anar i tornar</sub-title>
-    <desc lang="ca">Un corredor es proposa ser més ràpid que el telefèric, i l'Andreu veu acomplert el seu somni: tenir un vehicle per viatjar mentre fa la migdiada.</desc>
-    <length units="seconds">3327</length>
-    <episode-num system="onscreen">16</episode-num>
-    <category lang="ca">ENTRETENIMENT</category>
-    <category lang="ca">TALK-SHOW</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <subtitles type="teletext"/>
-    <previously-shown/>
-    <icon src="https://img.ccma.cat/multimedia/png/6/6/1698344358966.png"/>
-  </programme>
-  <programme start="20260921000922 +0200" stop="20260921002414 +0200" channel="tvi">
-    <title lang="ca">Una història de la literatura</title>
-    <sub-title lang="ca">Una història de la literatura - Mercè Rodoreda</sub-title>
-    <desc lang="ca">Sí, ja sabem que Mercè Rodoreda va viure en un castell durant el seu exili a França, però que més aprendrem en aquest programa? M'agrada molt que em facis aquesta pregunta. Doncs mira, també podràs gaudir d'una cita molt interessant d'Unamuno, l'escriptor i no pas el mecànic, una divertida historieta en un spa de comarques, podràs teoritzar sobre el monòleg interior d'un gat i recordaràs les entretingudes aficions del Floquet de Neu. I per acabar-ho d'arreglar el convidat per a aquest capítol és en Malcom Otero.</desc>
-    <length units="seconds">892</length>
-    <episode-num system="onscreen">10</episode-num>
-    <category lang="ca">ENTRETENIMENT</category>
-    <category lang="ca">ALTRES</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <subtitles type="teletext"/>
-    <previously-shown/>
-  </programme>
-  <channel id="324">
-    <display-name>324</display-name>
-  </channel>
-  <programme start="20260920230000 +0200" stop="20260921003000 +0200" channel="324">
+  <programme start="20260921005202 +0200" stop="20260921040000 +0200" channel="tvi">
     <title lang="ca">Notícies 3CatInfo</title>
+    <sub-title lang="ca">Notícies 3CatInfo</sub-title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">5400</length>
-    <episode-num system="onscreen">11224</episode-num>
+    <length units="seconds">11278</length>
+    <episode-num system="onscreen">11225</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
+    <previously-shown/>
     <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
-  <programme start="20260921003000 +0200" stop="20260921010000 +0200" channel="324">
+  <programme start="20260921040000 +0200" stop="20260921050000 +0200" channel="tvi">
+    <title lang="ca">Ritmes a l'estudi</title>
+    <sub-title lang="ca">Ritmes a l'estudi - EMILI BALERIOLA BLUES QUINTET</sub-title>
+    <desc lang="ca">Baleriola és un guitarrista veterà que fa més de quatre dècades que fa música. La seva versatilitat l'ha convertit en un músic sense complexos, fresc i espontani. Després del seu darrer àlbum, 'Jazz-Rock Trio', el guitarrista ens presenta el seu nou material amb accent de blues.</desc>
+    <length units="seconds">3600</length>
+    <episode-num system="onscreen">7</episode-num>
+    <category lang="ca">MUSICALS</category>
+    <category lang="ca">ALTRES</category>
+    <rating>
+      <value>PÚBLIC ADULT</value>
+    </rating>
+    <previously-shown/>
+  </programme>
+  <channel id="324">
+    <display-name>324</display-name>
+  </channel>
+  <programme start="20260921010000 +0200" stop="20260921060000 +0200" channel="324">
     <title lang="ca">Notícies 3CatInfo</title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">1800</length>
+    <length units="seconds">18000</length>
     <episode-num system="onscreen">11225</episode-num>
+    <category lang="ca">ACTUALITAT</category>
+    <category lang="ca">INFORMATIU DIÀRI</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <previously-shown/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
+  </programme>
+  <programme start="20260921060000 +0200" stop="20260921080000 +0200" channel="324">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="seconds">7200</length>
+    <episode-num system="onscreen">11226</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
@@ -62,11 +61,11 @@
   <channel id="esport3">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20260920230059 +0200" stop="20260921003217 +0200" channel="esport3">
+  <programme start="20260921005944 +0200" stop="20260921023309 +0200" channel="esport3">
     <title lang="ca">Gol a gol</title>
     <sub-title lang="ca">Gol a gol - Anàlisi de la jornada / J7 / Diumenge</sub-title>
     <desc lang="ca">'Gol a gol' us ofereix els resums dels partits de futbol de Primera i Segona Divisió. Presentat per Jordi Grau a Esport3, cada dissabte i cada diumenge podeu veure les millors imatges de la jornada de Lliga amb l'anàlisi dels experts, amb especial atenció als equips catalans, sobretot el Barça, el Girona i l'Espanyol.</desc>
-    <length units="seconds">5478</length>
+    <length units="seconds">5605</length>
     <episode-num system="onscreen">1784</episode-num>
     <category lang="ca">ESPORTS</category>
     <category lang="ca">MAGAZINE</category>
@@ -74,30 +73,32 @@
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
+    <previously-shown/>
     <icon src="https://img.ccma.cat/multimedia/jpg/2/1/1698144123212.jpg"/>
   </programme>
-  <programme start="20260921003217 +0200" stop="20260921005104 +0200" channel="esport3">
+  <programme start="20260921023309 +0200" stop="20260921025808 +0200" channel="esport3">
     <title lang="ca">3CatInfo Esports</title>
     <sub-title lang="ca">3CatInfo Esports</sub-title>
     <desc lang="ca">Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.</desc>
-    <length units="seconds">1127</length>
+    <length units="seconds">1499</length>
     <episode-num system="onscreen">5514</episode-num>
     <category lang="ca">ESPORTS</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
+    <previously-shown/>
     <icon src="https://img.ccma.cat/multimedia/jpg/9/7/1758888682179.jpg"/>
   </programme>
   <channel id="sx3">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20260920234953 +0200" stop="20260921000012 +0200" channel="sx3">
-    <title lang="ca">La gateta Arc iris papallona unicorn</title>
-    <sub-title lang="ca">La gateta Arc iris papallona unicorn - Els Macarons Mítics</sub-title>
-    <desc lang="ca">El Pollastre Orgànic vol recollir diners amb la venda d'unes galetes per mirar d'evitar el tancament d'un parc. El problema és que són unes galetes molt dolentes i ningú en vol comprar, per molt que s'hi esforcin la Felicity i els seus amics.</desc>
-    <length units="seconds">619</length>
-    <episode-num system="onscreen">28</episode-num>
+  <programme start="20260921012358 +0200" stop="20260921014436 +0200" channel="sx3">
+    <title lang="ca">Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
+    <sub-title lang="ca">Prodigiosa: Les aventures de Ladybug i Gat Noir - Gamer 2.0</sub-title>
+    <desc lang="ca">El Max ha dissenyat un videojoc nou i té ganes de provar-lo amb els seus amics, però tots tenen unes vides molt atrafegades i no poden estar per ell. Això ho aprofita l'Esfinx per convertir el Max un altre cop en el malvat Gamer, però en una versió 2.0.</desc>
+    <length units="seconds">1238</length>
+    <episode-num system="onscreen">68</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
@@ -106,12 +107,12 @@
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20260921000012 +0200" stop="20260921001031 +0200" channel="sx3">
-    <title lang="ca">La gateta Arc iris papallona unicorn</title>
-    <sub-title lang="ca">La gateta Arc iris papallona unicorn - El palau dels sensepoder</sub-title>
-    <desc lang="ca">La Felicity i el Miguel assistiran a una festa de disfresses al Palau del Perfecte. El que no saben és que també hi anirà el Kraken Timmy, que ha convençut el Rudy perquè l'hi coli i així robarà els poders a tots els convidats.</desc>
-    <length units="seconds">619</length>
-    <episode-num system="onscreen">23</episode-num>
+  <programme start="20260921014436 +0200" stop="20260921020514 +0200" channel="sx3">
+    <title lang="ca">Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
+    <sub-title lang="ca">Prodigiosa: Les aventures de Ladybug i Gat Noir - Climatika 2</sub-title>
+    <desc lang="ca">En aquest episodi, que és una mena de resum d'episodis anteriors, torna a entrar en acció la Climatika, que provoca un caos a París després de ser akumatitzada, però al mateix temps l'Adrien es planteja si la noia que ha respost a la seva poesia de Sant Valentí podria ser la Marinette.</desc>
+    <length units="seconds">1238</length>
+    <episode-num system="onscreen">69</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
@@ -123,12 +124,12 @@
   <channel id="c33">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20260920232753 +0200" stop="20260921001110 +0200" channel="c33">
-    <title lang="ca">Viatges insòlits</title>
-    <sub-title lang="ca">Viatges insòlits - Ulan Bator</sub-title>
-    <desc lang="ca">Mongòlia desperta sentiments d'aventura, llibertat i paisatges inhòspits. Bé, una cosa és ben certa: Mongòlia és el país menys poblat del món. Tot i així, Ulaanbaatar és a la llista d'en Tom de grans ciutats del món. Malgrat el rapidíssim creixement de la capital, al Tom no li costarà gens trobar tota l'autenticitat mongola.</desc>
-    <length units="seconds">2597</length>
-    <episode-num system="onscreen">39</episode-num>
+  <programme start="20260921005249 +0200" stop="20260921014419 +0200" channel="c33">
+    <title lang="ca">Esborrats del mapa</title>
+    <sub-title lang="ca">Esborrats del mapa - Esborrats del mapa</sub-title>
+    <desc lang="ca">El documental narra l'experiència d'un grup de veïns afectats per l'erupció del volcà de La Palma que, en només deu minuts, van haver de decidir què és el que salvaven de les seves llars.</desc>
+    <length units="seconds">3090</length>
+    <episode-num system="onscreen">1</episode-num>
     <category lang="ca">DIVULGACIÓ</category>
     <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
     <rating>
@@ -136,20 +137,21 @@
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
+    <icon src="https://img.3cat.cat/multimedia/jpg/2/8/1788879238882.jpg"/>
   </programme>
-  <programme start="20260921001110 +0200" stop="20260921005247 +0200" channel="c33">
-    <title lang="ca">Un món de Jocs</title>
-    <sub-title lang="ca">Un món de Jocs - Trencar la barrera del dolor</sub-title>
-    <desc lang="ca">Els jocs més perillosos són els que ens porten al límit. Els jocs durs, dolorosos i, sovint, mortals, ens ajuden a explorar fins on podem arribar. En aquest episodi, visitem alguns dels espais de joc més terrorífics del món, on els humans desafien el límit del dolor. Cal ser valent per buscar-lo, i tots els jugadors tenen els seus motius per participar en aquests jocs.Marathon des Sables, el MarrocParís-Roubaix, FrançaCourse Landaise, FrançaNatació al gel, Itàlia</desc>
-    <length units="seconds">2497</length>
-    <episode-num system="onscreen">3</episode-num>
+  <programme start="20260921014419 +0200" stop="20260921020542 +0200" channel="c33">
+    <title lang="ca">Nens de la ruta de la seda</title>
+    <sub-title lang="ca">Nens de la ruta de la seda - El nen dels ocells</sub-title>
+    <desc lang="ca">Quan mira al seu voltant, en Reshat veu els pous de petroli de l'Azerbaidjan. Quan mira amunt, veu els coloms que volen cap al cel. Troba a faltar el seu pare, que es va morir fa un any, i que també estimava els coloms. En Reshat li demana al millor ocellaire del poble que li ensenyi a ensinistrar coloms, perquè el seu somni és ser ocellaire i tenir-ne molts. Però al final, mentre aprèn a ensinistrar-los, descobreix què vol de veritat.</desc>
+    <length units="seconds">1283</length>
+    <episode-num system="onscreen">6</episode-num>
     <category lang="ca">DIVULGACIÓ</category>
     <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
-    <icon src="https://img.3cat.cat/multimedia/jpg/3/7/1788343809373.jpg"/>
+    <previously-shown/>
   </programme>
   <channel id="oca1">
     <display-name>OCA1</display-name>
