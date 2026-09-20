@@ -3,70 +3,83 @@
   <channel id="tvi">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20260920015558 +0200" stop="20260920040000 +0200" channel="tvi">
+  <programme start="20260920070001 +0200" stop="20260920100000 +0200" channel="tvi">
     <title lang="ca">Notícies 3CatInfo</title>
     <sub-title lang="ca">Notícies 3CatInfo</sub-title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">7442</length>
-    <episode-num system="onscreen">11217</episode-num>
+    <length units="seconds">10799</length>
+    <episode-num system="onscreen">11218</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <previously-shown/>
     <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
-  <programme start="20260920040000 +0200" stop="20260920050000 +0200" channel="tvi">
-    <title lang="ca">Ritmes a l'estudi</title>
-    <sub-title lang="ca">Ritmes a l'estudi - PHAT FRED</sub-title>
-    <desc lang="ca">Una de les formacions de funk més representatives d'Europa. De totes maneres, el quintet no es conforma a ser una banda de gènere i el seu so és una barreja de rock, funk, psicodèlia i jazz. Phat Fred són coneguts especialment pel seu directe, en què es deixen anar en el deliri i la improvisació creant el que ells en diuen punk-funk.</desc>
-    <length units="seconds">3600</length>
-    <episode-num system="onscreen">6</episode-num>
-    <category lang="ca">MUSICALS</category>
-    <category lang="ca">ALTRES</category>
+  <programme start="20260920100000 +0200" stop="20260920101806 +0200" channel="tvi">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <sub-title lang="ca">Notícies 3CatInfo</sub-title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="seconds">1086</length>
+    <episode-num system="onscreen">11219</episode-num>
+    <category lang="ca">ACTUALITAT</category>
+    <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
-      <value>PÚBLIC ADULT</value>
+      <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <previously-shown/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
   <channel id="324">
     <display-name>324</display-name>
   </channel>
-  <programme start="20260920010000 +0200" stop="20260920060000 +0200" channel="324">
+  <programme start="20260920070000 +0200" stop="20260920100000 +0200" channel="324">
     <title lang="ca">Notícies 3CatInfo</title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">18000</length>
-    <episode-num system="onscreen">11217</episode-num>
+    <length units="seconds">10800</length>
+    <episode-num system="onscreen">11218</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <previously-shown/>
+    <subtitles type="teletext"/>
     <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
-  <programme start="20260920060000 +0200" stop="20260920070000 +0200" channel="324">
+  <programme start="20260920100000 +0200" stop="20260920120000 +0200" channel="324">
     <title lang="ca">Notícies 3CatInfo</title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">3600</length>
-    <episode-num system="onscreen">11217</episode-num>
+    <length units="seconds">7200</length>
+    <episode-num system="onscreen">11219</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <previously-shown/>
+    <subtitles type="teletext"/>
     <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
   <channel id="esport3">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20260920023459 +0200" stop="20260920043104 +0200" channel="esport3">
+  <programme start="20260920075809 +0200" stop="20260920082445 +0200" channel="esport3">
+    <title lang="ca">3CatInfo Esports</title>
+    <sub-title lang="ca">3CatInfo Esports</sub-title>
+    <desc lang="ca">Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.</desc>
+    <length units="seconds">1596</length>
+    <episode-num system="onscreen">5513</episode-num>
+    <category lang="ca">ESPORTS</category>
+    <category lang="ca">INFORMATIU DIÀRI</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <previously-shown/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/9/7/1758888682179.jpg"/>
+  </programme>
+  <programme start="20260920082445 +0200" stop="20260920101953 +0200" channel="esport3">
     <title lang="ca">Futbol</title>
     <sub-title lang="ca">Futbol - Reial Múrcia-CE Europa / Primera Federació / J4</sub-title>
     <desc lang="ca">Els graciencs tenen només un punt i volen la primera victòria al campionat. L'objectiu dels murcians és mantenir-se a la zona capdavantera. Des de La Condomina, amb la narració de Jordi Sunyer i l'anàlisi d'Alberto Manga.</desc>
-    <length units="seconds">6965</length>
+    <length units="seconds">6908</length>
     <episode-num system="onscreen">202</episode-num>
     <category lang="ca">ESPORTS</category>
     <category lang="ca">RETRANSMISSIONS ESPORTS</category>
@@ -76,29 +89,16 @@
     <previously-shown/>
     <icon src="https://img.ccma.cat/multimedia/jpg/0/7/1698446098170.jpg"/>
   </programme>
-  <programme start="20260920043104 +0200" stop="20260920062409 +0200" channel="esport3">
-    <title lang="ca">Futbol</title>
-    <sub-title lang="ca">Futbol - FC Badalona Women-Reial Societat / Lliga F / J4</sub-title>
-    <desc lang="ca">Les badalonines s'han situat a la part alta de la classificació gràcies a dues victòries seguides. Per contra, les donostiarres encara no han aconseguit guanyar i volen els tres punts per sortir de la zona baixa.</desc>
-    <length units="seconds">6785</length>
-    <episode-num system="onscreen">49</episode-num>
-    <category lang="ca">ESPORTS</category>
-    <category lang="ca">RETRANSMISSIONS ESPORTS</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <icon src="https://img.ccma.cat/multimedia/jpg/0/8/1730389343680.jpg"/>
-  </programme>
   <channel id="sx3">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20260920030904 +0200" stop="20260920031926 +0200" channel="sx3">
-    <title lang="ca">Com dibuixar còmics amb el Will Sliney</title>
-    <sub-title lang="ca">Com dibuixar còmics amb el Will Sliney - El retorn del Crònica</sub-title>
-    <desc lang="ca">En aquest episodi, el malvat Crònica ha creat una versió malèfica del Will, el Vil, un superdolent que té el poder de crear els superdolents que s'enfrontaran als superherois que ha creat el Will. I el primer superdolent que crearà serà el Púrria, pensat per enfrontar-se a l'Elit. Entre tots dos, el Vil i el Will, ens ensenyaran trucs per dibuixar els malvats i també coneixerem els orígens del Púrria.</desc>
-    <length units="seconds">622</length>
-    <episode-num system="onscreen">30</episode-num>
-    <category lang="ca">FICCIÓ</category>
+  <programme start="20260920081338 +0200" stop="20260920082513 +0200" channel="sx3">
+    <title lang="ca">Titó</title>
+    <sub-title lang="ca">Titó - Excursió a la verema</sub-title>
+    <desc lang="ca">Avui ens hem llevat ben d'hora per fer la verema. Collirem el raïm i el portarem amb tractor fins al celler. Amb en John C farem most aixafant el raïm amb els peus!</desc>
+    <length units="seconds">695</length>
+    <episode-num system="onscreen">100</episode-num>
+    <category lang="ca">ENTRETENIMENT</category>
     <category lang="ca">ALTRES</category>
     <rating>
       <value>INFANTIL</value>
@@ -106,14 +106,14 @@
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20260920031926 +0200" stop="20260920032956 +0200" channel="sx3">
-    <title lang="ca">Pop, la ciutat de paper</title>
-    <sub-title lang="ca">Pop, la ciutat de paper - L'excursió d'en Hooper</sub-title>
-    <desc lang="ca">A l'aventura d'avui, en Hooper ha preparat un dia a la platja amb els seus amics! Però tindran temps de passar-s'ho bé abans que es posi a ploure?</desc>
-    <length units="seconds">630</length>
-    <episode-num system="onscreen">9</episode-num>
-    <category lang="ca">FICCIÓ</category>
-    <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
+  <programme start="20260920082513 +0200" stop="20260920083743 +0200" channel="sx3">
+    <title lang="ca">Titó</title>
+    <sub-title lang="ca">Titó - Excursió a plegar avellanes</sub-title>
+    <desc lang="ca">Avui anem a plegar avellanes. Descobrirem com es feia antigament, amb la senalla, i com es fa avui en dia, amb la bufadora, el rasclet, el tractor i la màquina de xuclar. Pot passar de tot quan en John C agafi la xucladora! </desc>
+    <length units="seconds">750</length>
+    <episode-num system="onscreen">101</episode-num>
+    <category lang="ca">ENTRETENIMENT</category>
+    <category lang="ca">ALTRES</category>
     <rating>
       <value>INFANTIL</value>
     </rating>
@@ -123,12 +123,11 @@
   <channel id="c33">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20260920030132 +0200" stop="20260920032638 +0200" channel="c33">
-    <title lang="ca">Volcans i homes</title>
-    <sub-title lang="ca">Volcans i homes - Les illes Vestman, sentinelles volcànics d'Islàndia</sub-title>
-    <desc lang="ca">En aquest episodi, Arnaud Guérin, geòleg i fotògraf professional, ens porta a les illes Vestman, davant la costa d'Islàndia. Entre d'altres coses, l'acompanyarem en la seva visita al poble d'Heimaey, on un volcà va aparèixer sobtadament al mig del poble, i a Surtsey, una illa volcànica acabada de crear on es pot observar el lent procés de colonització, des de zero, per part de la vida.</desc>
-    <length units="seconds">1506</length>
-    <episode-num system="onscreen">5</episode-num>
+  <programme start="20260920074236 +0200" stop="20260920083456 +0200" channel="c33">
+    <title lang="ca">Viure als Pirineus- A banda i banda</title>
+    <sub-title lang="ca">Viure als Pirineus- A banda i banda - Eva Martínez-Picó i Ximun Accocéberry - Hivern</sub-title>
+    <length units="seconds">3140</length>
+    <episode-num system="onscreen">9</episode-num>
     <category lang="ca">DIVULGACIÓ</category>
     <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
     <rating>
@@ -137,12 +136,12 @@
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20260920032638 +0200" stop="20260920035127 +0200" channel="c33">
-    <title lang="ca">Volcans i homes</title>
-    <sub-title lang="ca">Volcans i homes - Islàndia. Els senyors de foc</sub-title>
-    <desc lang="ca">En aquest episodi, Arnaud Guérin, geòleg i fotògraf professional, ens porta a Islàndia. Entre d'altres coses, l'acompanyarem en la seva visita al rift de Thingvellir, enmig de les dues plaques tectòniques, a la fractura d'Eldja, el congost de foc, i al centre de control de trànsit aeri de l'aeroport de Reykjavík, que va haver de gestionar les conseqüències en el trànsit aeri de l'erupció del volcà Eyjafjallajökull el 2010.</desc>
-    <length units="seconds">1489</length>
-    <episode-num system="onscreen">6</episode-num>
+  <programme start="20260920083456 +0200" stop="20260920090402 +0200" channel="c33">
+    <title lang="ca">GR Pirineus</title>
+    <sub-title lang="ca">GR Pirineus - Món pintoresc</sub-title>
+    <desc lang="ca">En el novè gran recorregut, el Marc de las Heras anirà de Castellfollit de la Roca a Beget, és a dir, de la Garrotxa al Ripollès. En total, uns 65 km, repartits en dues jornades, fets a peu, en cotxe i en ruc. En Marc sortirà d'un poble realment singular per anar a Sant Joan les Fonts, un lloc farcit de bruixes! Després, en Marc travessarà la Vall de Bianya i, al llom d'un ruc català, arribarà a Sant Pau de Segúries, per tornar a agafar el cotxe després fins a Camprodon, on farà nit.</desc>
+    <length units="seconds">1746</length>
+    <episode-num system="onscreen">9</episode-num>
     <category lang="ca">DIVULGACIÓ</category>
     <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
     <rating>
@@ -150,6 +149,7 @@
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
+    <icon src="https://img.3cat.cat/multimedia/jpg/9/8/1736612891089.jpg"/>
   </programme>
   <channel id="oca1">
     <display-name>OCA1</display-name>
