@@ -3,40 +3,50 @@
   <channel id="tvi">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20260920193633 +0200" stop="20260920194546 +0200" channel="tvi">
-    <title lang="ca">Viure Catalunya</title>
-    <sub-title lang="ca">Viure Catalunya - Cadaqués (Alt Empordà)</sub-title>
-    <length units="seconds">553</length>
-    <episode-num system="onscreen">14</episode-num>
-    <category lang="ca">DIVULGACIÓ</category>
-    <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <subtitles type="teletext"/>
-    <previously-shown/>
-  </programme>
-  <channel id="324">
-    <display-name>324</display-name>
-  </channel>
-  <programme start="20260920183000 +0200" stop="20260920200000 +0200" channel="324">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">5400</length>
-    <episode-num system="onscreen">11222</episode-num>
+  <programme start="20260920210000 +0200" stop="20260920230717 +0200" channel="tvi">
+    <title lang="ca">Telenotícies vespre</title>
+    <sub-title lang="ca">Telenotícies vespre</sub-title>
+    <length units="seconds">7637</length>
+    <episode-num system="onscreen">7333</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <subtitles type="teletext"/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/7/2/1758026176427.jpg"/>
   </programme>
-  <programme start="20260920200000 +0200" stop="20260920210000 +0200" channel="324">
+  <programme start="20260920230717 +0200" stop="20260920233953 +0200" channel="tvi">
+    <title lang="ca">30 minuts</title>
+    <sub-title lang="ca">30 minuts - La terra crema</sub-title>
+    <desc lang="ca">Pagesos i bombers s'alien per fer front als nous incendis que ens porta el canvi climàtic: focs simultanis, més intensos, ràpids i imprevisibles. L'estiu del 2026 n'ha estat un bon exemple.</desc>
+    <length units="seconds">1956</length>
+    <episode-num system="onscreen">1291</episode-num>
+    <category lang="ca">ACTUALITAT</category>
+    <category lang="ca">REPORTATGES</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <icon src="https://statics.ccma.cat/multimedia/jpg/7/3/1571603193237.jpg"/>
+  </programme>
+  <channel id="324">
+    <display-name>324</display-name>
+  </channel>
+  <programme start="20260920210000 +0200" stop="20260920230000 +0200" channel="324">
+    <title lang="ca">Telenotícies vespre</title>
+    <length units="seconds">7200</length>
+    <episode-num system="onscreen">7333</episode-num>
+    <category lang="ca">ACTUALITAT</category>
+    <category lang="ca">INFORMATIU DIÀRI</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <icon src="https://img.ccma.cat/multimedia/jpg/7/2/1758026176427.jpg"/>
+  </programme>
+  <programme start="20260920230000 +0200" stop="20260921003000 +0200" channel="324">
     <title lang="ca">Notícies 3CatInfo</title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">3600</length>
-    <episode-num system="onscreen">11223</episode-num>
+    <length units="seconds">5400</length>
+    <episode-num system="onscreen">11224</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
@@ -48,41 +58,41 @@
   <channel id="esport3">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20260920185516 +0200" stop="20260920194621 +0200" channel="esport3">
-    <title lang="ca">Futbol</title>
-    <sub-title lang="ca">Futbol - Reus FC Reddis-Náxara CD / Segona Federació / J3</sub-title>
-    <desc lang="ca">Els roig-i-negres volen estrenar el caseller de punts contra un rival que també ha perdut els dos primers partits del campionat. Amb la narració de Jordi Sunyer i l'anàlisi d'Àlex Delmàs.</desc>
-    <length units="seconds">3065</length>
-    <episode-num system="onscreen">67</episode-num>
+  <programme start="20260920212651 +0200" stop="20260920215013 +0200" channel="esport3">
+    <title lang="ca">Espòiler</title>
+    <sub-title lang="ca">Espòiler</sub-title>
+    <desc lang="ca">'Espòiler' és un programa dedicat al món dels cotxes i del caravàning, un espai on hi té cabuda tot el que té a veure amb aquests vehicles a motor. Descobrim les novetats del sector, amb models que s'acaben d'estrenar, test drives, una secció d'electromobilitat i també les millors autocaravanes del moment.Mercè Rivas, Sergio Domínguez, Oriol Llardén i Telva Somoza són els encarregats de posar a prova els automòbils i transmetre les seves sensacions. Dani Blasco capitaneja la secció 'Contravolant', on us sorprèn amb històries extraordinàries i divertides. El programa també té un espai anomenat 'Al volant amb...', en què cada setmana un famós ajuda Carles Llinars, instructor del Circuit Escola del RACC, a explicar un consell de conducció.'Espòiler' és una producció de Televisió de Catalunya amb la col·laboració de Drive Media i la realització de HolyCars Studio.</desc>
+    <length units="seconds">1402</length>
+    <episode-num system="onscreen">60</episode-num>
     <category lang="ca">ESPORTS</category>
-    <category lang="ca">RETRANSMISSIONS ESPORTS</category>
+    <category lang="ca">REPORTATGES</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <icon src="https://img.ccma.cat/multimedia/jpg/0/7/1698446098170.jpg"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/1/0/1698433593401.jpg"/>
   </programme>
-  <programme start="20260920194621 +0200" stop="20260920195430 +0200" channel="esport3">
-    <title lang="ca">Esport Club Cap de Setmana</title>
-    <sub-title lang="ca">Esport Club Cap de Setmana - Esport Club</sub-title>
-    <desc lang="ca">Magazín amb tota l'actualitat esportiva del cap de setmana, amb atenció especial a la jornada de futbol i les principals competicions del nostre esport.</desc>
-    <length units="seconds">489</length>
-    <episode-num system="onscreen">1387</episode-num>
+  <programme start="20260920215013 +0200" stop="20260920223804 +0200" channel="esport3">
+    <title lang="ca">Motor a fons</title>
+    <sub-title lang="ca">Motor a fons - GP d'Àustria</sub-title>
+    <desc lang="ca">Quinzena prova del Campionat del Món de motociclisme. Us oferim el més destacat a les curses de MotoGP, Moto2 i Moto3. Amb Xavier Guillén, i l'anàlisi de Montse Sogues i Ramon Forcada.</desc>
+    <length units="seconds">2871</length>
+    <episode-num system="onscreen">956</episode-num>
     <category lang="ca">ESPORTS</category>
-    <category lang="ca">INFORMATIU DIÀRI</category>
+    <category lang="ca">MAGAZINE</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <icon src="https://img.ccma.cat/multimedia/jpg/7/3/1698145091337.jpg"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/5/7/1678886130275.jpg"/>
   </programme>
   <channel id="sx3">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20260920193205 +0200" stop="20260920195430 +0200" channel="sx3">
-    <title lang="ca">El detectiu Conan</title>
-    <sub-title lang="ca">El detectiu Conan - Les càmeres que observen la Haibara</sub-title>
-    <desc lang="ca">En Conan, la Haibara, en Genta, en Mitsuhiko i l'Ayumi volen anar als grans magatzem de Beika per participar en una rifa. Però abans, la Haibara entra en un caixer per treure diners. Allà es troba amb un home vestit de negre que es queda sorprès al veure-la. La Lliga de Detectius Júnior creu que podria ser un hacker internacional i decideix seguir-lo.</desc>
-    <length units="seconds">1345</length>
-    <episode-num system="onscreen">1137</episode-num>
+  <programme start="20260920214110 +0200" stop="20260920220148 +0200" channel="sx3">
+    <title lang="ca">Els germans Kratt</title>
+    <sub-title lang="ca">Els germans Kratt - L'ós de Kermode</sub-title>
+    <desc lang="ca">Els germans Kratt van a l'Illa dels Óssos per veure de prop óssos negres i l'Aviva veu un ós de color blanc. Aviat s'adonen que el que ha vist és el peculiar ós de Kermode del nord del Pacífic. Però la seva alegria queda eclipsada quan coneixen una nova malvada, la Paisley Paviment, Directora General de Pavimentem la Natura SA i descobreixen els seus plans de convertir l'illa en unes enormes instal·lacions de megamagatzems. </desc>
+    <length units="seconds">1238</length>
+    <episode-num system="onscreen">108</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
@@ -91,12 +101,12 @@
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20260920195430 +0200" stop="20260920201713 +0200" channel="sx3">
-    <title lang="ca">El detectiu Conan</title>
-    <sub-title lang="ca">El detectiu Conan - El Pan és un bon jan</sub-title>
-    <desc lang="ca">En Conan, la Haibara, l'Ai, en Genta i en Mitsuhiko han anat al parc a jugar. De sobte veuen com un home amb passamuntanyes intenta atracar una dona que passeja un gos. En Conan i companyia aconsegueixen evitar-ho, però intrigats pel motiu de l'atracament, busquen la dona i quan la troben tornen a presenciar un altre intent d'atracament.</desc>
-    <length units="seconds">1363</length>
-    <episode-num system="onscreen">1138</episode-num>
+  <programme start="20260920220148 +0200" stop="20260920221243 +0200" channel="sx3">
+    <title lang="ca">Les filles del Dad</title>
+    <sub-title lang="ca">Les filles del Dad - La nova feina</sub-title>
+    <desc lang="ca">El Dad torna a casa després d'un nou càsting en què no li han donat el paper, i les seves filles li suggereixen que busqui una feina que no sigui d'actor. I no en trobarà només una, sinó que en seran tres, les feines que haurà de compaginar. Però aleshores les seves filles s'adonen que, mentre el Dad treballa, totes les tasques domèstiques queden pendents... i les han de fer elles.</desc>
+    <length units="seconds">655</length>
+    <episode-num system="onscreen">51</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
@@ -108,27 +118,26 @@
   <channel id="c33">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20260920192639 +0200" stop="20260920200750 +0200" channel="c33">
-    <title lang="ca">Un món de Jocs</title>
-    <sub-title lang="ca">Un món de Jocs - Ritus de pas</sub-title>
-    <desc lang="ca">En totes les cultures, dominar un joc és símbol de pas de la infantesa a l'edat adulta. A vegades, els ritus d'iniciació són cruels, a vegades són perillosos, però aquests jocs ens preparen per a la vida. Ens envien al món preparats per a defensar-nos. En aquest episodi, ens fixem en els espais de joc que ajuden els nostres fills a conèixer els seus cossos, les seves fortaleses i les seves debilitats.Savika, MadagascarKungfu, la XinaSumo, el japóCurses de rens, Finlàndia</desc>
-    <length units="seconds">2471</length>
-    <episode-num system="onscreen">2</episode-num>
-    <category lang="ca">DIVULGACIÓ</category>
-    <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
+  <programme start="20260920210817 +0200" stop="20260920220107 +0200" channel="c33">
+    <title lang="ca">Experiència Catalana</title>
+    <sub-title lang="ca">Experiència Catalana - Annabel</sub-title>
+    <desc lang="ca">Amb l'Annabel Candy, una dona australiana, visitem Montserrat i la Vall de Núria. Ja a Barcelona, la Ivana Miño la porta a la Pedrera i a l'Anella Olímpica, però el viatge no acaba aquí, sinó al Carnaval de Vilanova.</desc>
+    <length units="seconds">3170</length>
+    <episode-num system="onscreen">4</episode-num>
+    <category lang="ca">ENTRETENIMENT</category>
+    <category lang="ca">ALTRES</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
-    <icon src="https://img.3cat.cat/multimedia/jpg/3/7/1788343809373.jpg"/>
   </programme>
-  <programme start="20260920200750 +0200" stop="20260920205946 +0200" channel="c33">
-    <title lang="ca">A tocar de l'aigua</title>
-    <sub-title lang="ca">A tocar de l'aigua - El Segre III; El Sió</sub-title>
-    <desc lang="ca">Després d'haver recorregut les capçaleres del Segre i bona part del seu curs mitjà, en aquest episodi ens acompanyarà un riu que travessa la comarca de la Noguera per llevant: el Sió, un petit afluent del Segre que guarda a les seves ribes un ric patrimoni natural i arquitectònic. El resseguirem fins al final i, després de visitar Balaguer, farem camí fins a Vilanova de la Barca.</desc>
-    <length units="seconds">3116</length>
-    <episode-num system="onscreen">6</episode-num>
+  <programme start="20260920220107 +0200" stop="20260920224454 +0200" channel="c33">
+    <title lang="ca">Viatges insòlits</title>
+    <sub-title lang="ca">Viatges insòlits - El Caire</sub-title>
+    <desc lang="ca">La imatge icònica d'Egipte, les piràmides, és a molt poca distància de la gran metròpoli del Caire. Una ciutat que no para de créixer amb immigrants de la resta del país, fins al punt que els embussos de trànsit són infinits i el president ha decidit construir una capital nova al mig del desert i traslladar-hi tots els edificis governamentals. En Tom visita aquesta nova ciutat, i també diferents barris de l'actual, on descobrirà la passió dels seus habitants pels coloms i com viuen les persones que es dediquen a reciclar manualment les tones d'escombraries que s'hi generen cada dia.</desc>
+    <length units="seconds">2627</length>
+    <episode-num system="onscreen">37</episode-num>
     <category lang="ca">DIVULGACIÓ</category>
     <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
     <rating>
