@@ -3,45 +3,38 @@
   <channel id="tvi">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20260920210000 +0200" stop="20260920230717 +0200" channel="tvi">
-    <title lang="ca">Telenotícies vespre</title>
-    <sub-title lang="ca">Telenotícies vespre</sub-title>
-    <length units="seconds">7637</length>
-    <episode-num system="onscreen">7333</episode-num>
-    <category lang="ca">ACTUALITAT</category>
-    <category lang="ca">INFORMATIU DIÀRI</category>
+  <programme start="20260920231355 +0200" stop="20260921000922 +0200" channel="tvi">
+    <title lang="ca">Vosaltres mateixos</title>
+    <sub-title lang="ca">Vosaltres mateixos - Anar i tornar</sub-title>
+    <desc lang="ca">Un corredor es proposa ser més ràpid que el telefèric, i l'Andreu veu acomplert el seu somni: tenir un vehicle per viatjar mentre fa la migdiada.</desc>
+    <length units="seconds">3327</length>
+    <episode-num system="onscreen">16</episode-num>
+    <category lang="ca">ENTRETENIMENT</category>
+    <category lang="ca">TALK-SHOW</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <icon src="https://img.ccma.cat/multimedia/jpg/7/2/1758026176427.jpg"/>
+    <subtitles type="teletext"/>
+    <previously-shown/>
+    <icon src="https://img.ccma.cat/multimedia/png/6/6/1698344358966.png"/>
   </programme>
-  <programme start="20260920230717 +0200" stop="20260920233953 +0200" channel="tvi">
-    <title lang="ca">30 minuts</title>
-    <sub-title lang="ca">30 minuts - La terra crema</sub-title>
-    <desc lang="ca">Pagesos i bombers s'alien per fer front als nous incendis que ens porta el canvi climàtic: focs simultanis, més intensos, ràpids i imprevisibles. L'estiu del 2026 n'ha estat un bon exemple.</desc>
-    <length units="seconds">1956</length>
-    <episode-num system="onscreen">1291</episode-num>
-    <category lang="ca">ACTUALITAT</category>
-    <category lang="ca">REPORTATGES</category>
+  <programme start="20260921000922 +0200" stop="20260921002414 +0200" channel="tvi">
+    <title lang="ca">Una història de la literatura</title>
+    <sub-title lang="ca">Una història de la literatura - Mercè Rodoreda</sub-title>
+    <desc lang="ca">Sí, ja sabem que Mercè Rodoreda va viure en un castell durant el seu exili a França, però que més aprendrem en aquest programa? M'agrada molt que em facis aquesta pregunta. Doncs mira, també podràs gaudir d'una cita molt interessant d'Unamuno, l'escriptor i no pas el mecànic, una divertida historieta en un spa de comarques, podràs teoritzar sobre el monòleg interior d'un gat i recordaràs les entretingudes aficions del Floquet de Neu. I per acabar-ho d'arreglar el convidat per a aquest capítol és en Malcom Otero.</desc>
+    <length units="seconds">892</length>
+    <episode-num system="onscreen">10</episode-num>
+    <category lang="ca">ENTRETENIMENT</category>
+    <category lang="ca">ALTRES</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <icon src="https://statics.ccma.cat/multimedia/jpg/7/3/1571603193237.jpg"/>
+    <subtitles type="teletext"/>
+    <previously-shown/>
   </programme>
   <channel id="324">
     <display-name>324</display-name>
   </channel>
-  <programme start="20260920210000 +0200" stop="20260920230000 +0200" channel="324">
-    <title lang="ca">Telenotícies vespre</title>
-    <length units="seconds">7200</length>
-    <episode-num system="onscreen">7333</episode-num>
-    <category lang="ca">ACTUALITAT</category>
-    <category lang="ca">INFORMATIU DIÀRI</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <icon src="https://img.ccma.cat/multimedia/jpg/7/2/1758026176427.jpg"/>
-  </programme>
   <programme start="20260920230000 +0200" stop="20260921003000 +0200" channel="324">
     <title lang="ca">Notícies 3CatInfo</title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
@@ -52,47 +45,59 @@
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <subtitles type="teletext"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
+  </programme>
+  <programme start="20260921003000 +0200" stop="20260921010000 +0200" channel="324">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="seconds">1800</length>
+    <episode-num system="onscreen">11225</episode-num>
+    <category lang="ca">ACTUALITAT</category>
+    <category lang="ca">INFORMATIU DIÀRI</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
     <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
   <channel id="esport3">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20260920212651 +0200" stop="20260920215013 +0200" channel="esport3">
-    <title lang="ca">Espòiler</title>
-    <sub-title lang="ca">Espòiler</sub-title>
-    <desc lang="ca">'Espòiler' és un programa dedicat al món dels cotxes i del caravàning, un espai on hi té cabuda tot el que té a veure amb aquests vehicles a motor. Descobrim les novetats del sector, amb models que s'acaben d'estrenar, test drives, una secció d'electromobilitat i també les millors autocaravanes del moment.Mercè Rivas, Sergio Domínguez, Oriol Llardén i Telva Somoza són els encarregats de posar a prova els automòbils i transmetre les seves sensacions. Dani Blasco capitaneja la secció 'Contravolant', on us sorprèn amb històries extraordinàries i divertides. El programa també té un espai anomenat 'Al volant amb...', en què cada setmana un famós ajuda Carles Llinars, instructor del Circuit Escola del RACC, a explicar un consell de conducció.'Espòiler' és una producció de Televisió de Catalunya amb la col·laboració de Drive Media i la realització de HolyCars Studio.</desc>
-    <length units="seconds">1402</length>
-    <episode-num system="onscreen">60</episode-num>
-    <category lang="ca">ESPORTS</category>
-    <category lang="ca">REPORTATGES</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <icon src="https://img.ccma.cat/multimedia/jpg/1/0/1698433593401.jpg"/>
-  </programme>
-  <programme start="20260920215013 +0200" stop="20260920223804 +0200" channel="esport3">
-    <title lang="ca">Motor a fons</title>
-    <sub-title lang="ca">Motor a fons - GP d'Àustria</sub-title>
-    <desc lang="ca">Quinzena prova del Campionat del Món de motociclisme. Us oferim el més destacat a les curses de MotoGP, Moto2 i Moto3. Amb Xavier Guillén, i l'anàlisi de Montse Sogues i Ramon Forcada.</desc>
-    <length units="seconds">2871</length>
-    <episode-num system="onscreen">956</episode-num>
+  <programme start="20260920230059 +0200" stop="20260921003217 +0200" channel="esport3">
+    <title lang="ca">Gol a gol</title>
+    <sub-title lang="ca">Gol a gol - Anàlisi de la jornada / J7 / Diumenge</sub-title>
+    <desc lang="ca">'Gol a gol' us ofereix els resums dels partits de futbol de Primera i Segona Divisió. Presentat per Jordi Grau a Esport3, cada dissabte i cada diumenge podeu veure les millors imatges de la jornada de Lliga amb l'anàlisi dels experts, amb especial atenció als equips catalans, sobretot el Barça, el Girona i l'Espanyol.</desc>
+    <length units="seconds">5478</length>
+    <episode-num system="onscreen">1784</episode-num>
     <category lang="ca">ESPORTS</category>
     <category lang="ca">MAGAZINE</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <icon src="https://img.ccma.cat/multimedia/jpg/5/7/1678886130275.jpg"/>
+    <subtitles type="teletext"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/2/1/1698144123212.jpg"/>
+  </programme>
+  <programme start="20260921003217 +0200" stop="20260921005104 +0200" channel="esport3">
+    <title lang="ca">3CatInfo Esports</title>
+    <sub-title lang="ca">3CatInfo Esports</sub-title>
+    <desc lang="ca">Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.</desc>
+    <length units="seconds">1127</length>
+    <episode-num system="onscreen">5514</episode-num>
+    <category lang="ca">ESPORTS</category>
+    <category lang="ca">INFORMATIU DIÀRI</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <icon src="https://img.ccma.cat/multimedia/jpg/9/7/1758888682179.jpg"/>
   </programme>
   <channel id="sx3">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20260920214110 +0200" stop="20260920220148 +0200" channel="sx3">
-    <title lang="ca">Els germans Kratt</title>
-    <sub-title lang="ca">Els germans Kratt - L'ós de Kermode</sub-title>
-    <desc lang="ca">Els germans Kratt van a l'Illa dels Óssos per veure de prop óssos negres i l'Aviva veu un ós de color blanc. Aviat s'adonen que el que ha vist és el peculiar ós de Kermode del nord del Pacífic. Però la seva alegria queda eclipsada quan coneixen una nova malvada, la Paisley Paviment, Directora General de Pavimentem la Natura SA i descobreixen els seus plans de convertir l'illa en unes enormes instal·lacions de megamagatzems. </desc>
-    <length units="seconds">1238</length>
-    <episode-num system="onscreen">108</episode-num>
+  <programme start="20260920234953 +0200" stop="20260921000012 +0200" channel="sx3">
+    <title lang="ca">La gateta Arc iris papallona unicorn</title>
+    <sub-title lang="ca">La gateta Arc iris papallona unicorn - Els Macarons Mítics</sub-title>
+    <desc lang="ca">El Pollastre Orgànic vol recollir diners amb la venda d'unes galetes per mirar d'evitar el tancament d'un parc. El problema és que són unes galetes molt dolentes i ningú en vol comprar, per molt que s'hi esforcin la Felicity i els seus amics.</desc>
+    <length units="seconds">619</length>
+    <episode-num system="onscreen">28</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
@@ -101,12 +106,12 @@
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20260920220148 +0200" stop="20260920221243 +0200" channel="sx3">
-    <title lang="ca">Les filles del Dad</title>
-    <sub-title lang="ca">Les filles del Dad - La nova feina</sub-title>
-    <desc lang="ca">El Dad torna a casa després d'un nou càsting en què no li han donat el paper, i les seves filles li suggereixen que busqui una feina que no sigui d'actor. I no en trobarà només una, sinó que en seran tres, les feines que haurà de compaginar. Però aleshores les seves filles s'adonen que, mentre el Dad treballa, totes les tasques domèstiques queden pendents... i les han de fer elles.</desc>
-    <length units="seconds">655</length>
-    <episode-num system="onscreen">51</episode-num>
+  <programme start="20260921000012 +0200" stop="20260921001031 +0200" channel="sx3">
+    <title lang="ca">La gateta Arc iris papallona unicorn</title>
+    <sub-title lang="ca">La gateta Arc iris papallona unicorn - El palau dels sensepoder</sub-title>
+    <desc lang="ca">La Felicity i el Miguel assistiran a una festa de disfresses al Palau del Perfecte. El que no saben és que també hi anirà el Kraken Timmy, que ha convençut el Rudy perquè l'hi coli i així robarà els poders a tots els convidats.</desc>
+    <length units="seconds">619</length>
+    <episode-num system="onscreen">23</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
@@ -118,26 +123,12 @@
   <channel id="c33">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20260920210817 +0200" stop="20260920220107 +0200" channel="c33">
-    <title lang="ca">Experiència Catalana</title>
-    <sub-title lang="ca">Experiència Catalana - Annabel</sub-title>
-    <desc lang="ca">Amb l'Annabel Candy, una dona australiana, visitem Montserrat i la Vall de Núria. Ja a Barcelona, la Ivana Miño la porta a la Pedrera i a l'Anella Olímpica, però el viatge no acaba aquí, sinó al Carnaval de Vilanova.</desc>
-    <length units="seconds">3170</length>
-    <episode-num system="onscreen">4</episode-num>
-    <category lang="ca">ENTRETENIMENT</category>
-    <category lang="ca">ALTRES</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <subtitles type="teletext"/>
-    <previously-shown/>
-  </programme>
-  <programme start="20260920220107 +0200" stop="20260920224454 +0200" channel="c33">
+  <programme start="20260920232753 +0200" stop="20260921001110 +0200" channel="c33">
     <title lang="ca">Viatges insòlits</title>
-    <sub-title lang="ca">Viatges insòlits - El Caire</sub-title>
-    <desc lang="ca">La imatge icònica d'Egipte, les piràmides, és a molt poca distància de la gran metròpoli del Caire. Una ciutat que no para de créixer amb immigrants de la resta del país, fins al punt que els embussos de trànsit són infinits i el president ha decidit construir una capital nova al mig del desert i traslladar-hi tots els edificis governamentals. En Tom visita aquesta nova ciutat, i també diferents barris de l'actual, on descobrirà la passió dels seus habitants pels coloms i com viuen les persones que es dediquen a reciclar manualment les tones d'escombraries que s'hi generen cada dia.</desc>
-    <length units="seconds">2627</length>
-    <episode-num system="onscreen">37</episode-num>
+    <sub-title lang="ca">Viatges insòlits - Ulan Bator</sub-title>
+    <desc lang="ca">Mongòlia desperta sentiments d'aventura, llibertat i paisatges inhòspits. Bé, una cosa és ben certa: Mongòlia és el país menys poblat del món. Tot i així, Ulaanbaatar és a la llista d'en Tom de grans ciutats del món. Malgrat el rapidíssim creixement de la capital, al Tom no li costarà gens trobar tota l'autenticitat mongola.</desc>
+    <length units="seconds">2597</length>
+    <episode-num system="onscreen">39</episode-num>
     <category lang="ca">DIVULGACIÓ</category>
     <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
     <rating>
@@ -145,6 +136,20 @@
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
+  </programme>
+  <programme start="20260921001110 +0200" stop="20260921005247 +0200" channel="c33">
+    <title lang="ca">Un món de Jocs</title>
+    <sub-title lang="ca">Un món de Jocs - Trencar la barrera del dolor</sub-title>
+    <desc lang="ca">Els jocs més perillosos són els que ens porten al límit. Els jocs durs, dolorosos i, sovint, mortals, ens ajuden a explorar fins on podem arribar. En aquest episodi, visitem alguns dels espais de joc més terrorífics del món, on els humans desafien el límit del dolor. Cal ser valent per buscar-lo, i tots els jugadors tenen els seus motius per participar en aquests jocs.Marathon des Sables, el MarrocParís-Roubaix, FrançaCourse Landaise, FrançaNatació al gel, Itàlia</desc>
+    <length units="seconds">2497</length>
+    <episode-num system="onscreen">3</episode-num>
+    <category lang="ca">DIVULGACIÓ</category>
+    <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <subtitles type="teletext"/>
+    <icon src="https://img.3cat.cat/multimedia/jpg/3/7/1788343809373.jpg"/>
   </programme>
   <channel id="oca1">
     <display-name>OCA1</display-name>
