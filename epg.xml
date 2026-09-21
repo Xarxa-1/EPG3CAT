@@ -3,110 +3,118 @@
   <channel id="tvi">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20260921210000 +0200" stop="20260921215813 +0200" channel="tvi">
-    <title lang="ca">Telenotícies vespre</title>
-    <sub-title lang="ca">Telenotícies vespre</sub-title>
-    <length units="seconds">3493</length>
-    <episode-num system="onscreen">7334</episode-num>
-    <category lang="ca">ACTUALITAT</category>
-    <category lang="ca">INFORMATIU DIÀRI</category>
+  <programme start="20260922001747 +0200" stop="20260922005516 +0200" channel="tvi">
+    <title lang="ca">Xefs: noves generacions</title>
+    <sub-title lang="ca">Xefs: noves generacions - Rafel Muria (Restaurant Quatre Molins)</sub-title>
+    <desc lang="ca">Rafel Muria és l'ànima de Quatre Molins, un projecte que connecta la cuina d'autor amb els vins del Priorat. Format al costat de grans noms de l'alta gastronomia, com Michel Bras i Joël Robuchon, Muria ha construït una proposta personal, arrelada i exigent que l'ha portat a guanyar una Estrella Michelin. Hereu d'una nissaga d'apicultors del Perelló, és conegut com 'el xef de la mel', un ingredient que apareix amb precisió i equilibri en els seus plats. El capítol mostra una cuina que explica territori, paisatge i emoció, i que situa el Priorat al centre del mapa gastronòmic contemporani.</desc>
+    <length units="seconds">2249</length>
+    <episode-num system="onscreen">1</episode-num>
+    <category lang="ca">DIVULGACIÓ</category>
+    <category lang="ca">SÈRIE DOCUMENTAL</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <icon src="https://img.ccma.cat/multimedia/jpg/7/2/1758026176427.jpg"/>
+    <previously-shown/>
   </programme>
-  <programme start="20260921215813 +0200" stop="20260921220429 +0200" channel="tvi">
-    <title lang="ca">Equip 012</title>
-    <sub-title lang="ca">- Empresa familiar</sub-title>
-    <desc lang="ca">Sense Descripció</desc>
-    <length units="seconds">376</length>
-    <episode-num system="onscreen">2</episode-num>
-  </programme>
-  <channel id="324">
-    <display-name>324</display-name>
-  </channel>
-  <programme start="20260921210000 +0200" stop="20260921220500 +0200" channel="324">
-    <title lang="ca">Telenotícies vespre</title>
-    <length units="seconds">3900</length>
-    <episode-num system="onscreen">7334</episode-num>
-    <category lang="ca">ACTUALITAT</category>
-    <category lang="ca">INFORMATIU DIÀRI</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <icon src="https://img.ccma.cat/multimedia/jpg/7/2/1758026176427.jpg"/>
-  </programme>
-  <programme start="20260921220500 +0200" stop="20260922000000 +0200" channel="324">
+  <programme start="20260922005516 +0200" stop="20260922023715 +0200" channel="tvi">
     <title lang="ca">Mésnit</title>
+    <sub-title lang="ca">Mésnit</sub-title>
     <desc lang="ca">El 'Mésnit' arriba a la desena temporada, amb Marina Romero al capdavant de l'espai i amb la voluntat de continuar sent un centre de debat d'idees i d'anàlisi de l'activitat política.</desc>
-    <length units="seconds">6900</length>
+    <length units="seconds">6119</length>
     <episode-num system="onscreen">2163</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">DEBAT</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <subtitles type="teletext"/>
+    <previously-shown/>
+  </programme>
+  <channel id="324">
+    <display-name>324</display-name>
+  </channel>
+  <programme start="20260922003000 +0200" stop="20260922010000 +0200" channel="324">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="seconds">1800</length>
+    <episode-num system="onscreen">11234</episode-num>
+    <category lang="ca">ACTUALITAT</category>
+    <category lang="ca">INFORMATIU DIÀRI</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
+  </programme>
+  <programme start="20260922010000 +0200" stop="20260922060000 +0200" channel="324">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="seconds">18000</length>
+    <episode-num system="onscreen">11234</episode-num>
+    <category lang="ca">ACTUALITAT</category>
+    <category lang="ca">INFORMATIU DIÀRI</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <previously-shown/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
   <channel id="esport3">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20260921210518 +0200" stop="20260921214053 +0200" channel="esport3">
-    <title lang="ca">Zona zàping</title>
-    <sub-title lang="ca">Zona zàping</sub-title>
-    <desc lang="ca">El Barça continua en ratxa golejadora i als 4 gols que li va fer al Llevant a València, s'hi van afegir 7 més al Camp Nou contra el Racing, enmig d'un xàfec d'aigua i de joc blaugrana.</desc>
-    <length units="seconds">2135</length>
-    <episode-num system="onscreen">1080</episode-num>
+  <programme start="20260922003130 +0200" stop="20260922004924 +0200" channel="esport3">
+    <title lang="ca">3CatInfo Esports</title>
+    <sub-title lang="ca">3CatInfo Esports</sub-title>
+    <desc lang="ca">Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.</desc>
+    <length units="seconds">1074</length>
+    <episode-num system="onscreen">5515</episode-num>
     <category lang="ca">ESPORTS</category>
-    <category lang="ca">ALTRES</category>
+    <category lang="ca">INFORMATIU DIÀRI</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <icon src="https://img.ccma.cat/multimedia/jpg/9/7/1758888682179.jpg"/>
+  </programme>
+  <programme start="20260922004924 +0200" stop="20260922025002 +0200" channel="esport3">
+    <title lang="ca">Onze</title>
+    <sub-title lang="ca">Onze</sub-title>
+    <desc lang="ca">Carles Fité, Xavi Torres, Aina Cerdà i Jordi Martí analitzen el derbi madrileny i les crítiques de Mourinho a l'arbitratge. En Marc Mayola posa la lupa en alguns detalls tàctics del partit del Barça a Sevilla. En Joan Fàbregas repassa les jugades polèmiques de la jornada.</desc>
+    <length units="seconds">7238</length>
+    <episode-num system="onscreen">1252</episode-num>
+    <category lang="ca">ESPORTS</category>
+    <category lang="ca">MAGAZINE</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
-    <icon src="https://img.3cat.cat/multimedia/jpg/4/7/1763564970974.jpg"/>
-  </programme>
-  <programme start="20260921214053 +0200" stop="20260921215016 +0200" channel="esport3">
-    <title lang="ca">Pitch&amp;Cat</title>
-    <sub-title lang="ca">Pitch&amp;Cat - Els guants</sub-title>
-    <desc lang="ca">Descobrim quin és el guant que millor s'adapta a la pràctica del pitch&amp;putt. Analitzem diferents tipus de guants, les seves característiques i les claus per escollir l'opció més adequada segons el nostre joc. A més, visitem el camp de P&amp;P Tennis Mora, al Maresme, situat entre Sant Vicenç de Montalt i Sant Andreu de Llavaneres.</desc>
-    <length units="seconds">563</length>
-    <episode-num system="onscreen">106</episode-num>
-    <category lang="ca">ESPORTS</category>
-    <category lang="ca">REPORTATGES</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <previously-shown/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/6/8/1727969229786.jpg"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/1/1/1688543515711.jpg"/>
   </programme>
   <channel id="sx3">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20260921212209 +0200" stop="20260921214216 +0200" channel="sx3">
-    <title lang="ca">Bola de drac Z</title>
-    <sub-title lang="ca">Bola de drac Z - Ja ha arribat en Goku per enfrontar-se amb en Cèl·lula</sub-title>
-    <desc lang="ca">La intensitat i la igualtat del combat entre en Son Goku i en Cèl·lula deixa tothom bocabadat. Els moviments són tan ràpids que no els pot captar l'ull humà. Segons en Son Gohan, el seu pare encara no està fent servir tot el seu potencial. Després d'un primer intercanvi de cops i d'elogis, tots dos donen per finalitzat l'escalfament i comença el combat de veritat.</desc>
-    <length units="seconds">1207</length>
-    <episode-num system="onscreen">177</episode-num>
+  <programme start="20260922003250 +0200" stop="20260922005421 +0200" channel="sx3">
+    <title lang="ca">Els germans Kratt</title>
+    <sub-title lang="ca">Els germans Kratt - Globus i peix globus</sub-title>
+    <desc lang="ca">Mentre estudiaven els peixos globus, els germans Kratt s'han trobat la Donita Donata, la malèfica dissenyadora que explota els animals en perill d'extinció, i han decidit miniaturitzar-se per seguir-la. Ara el problema és que se'ls ha endut un corrent marí de plàncton i estan perduts entre 60.000 bilions de litres d'aigua! Com s'ho faran per trobar-los?!</desc>
+    <length units="seconds">1291</length>
+    <episode-num system="onscreen">55</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
-      <value>JUVENIL</value>
+      <value>INFANTIL</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20260921214216 +0200" stop="20260921220552 +0200" channel="sx3">
-    <title lang="ca">Bola de drac Z</title>
-    <sub-title lang="ca">Bola de drac Z - El terrible kamehameha d'en Cèl·lula sacseja la Terra</sub-title>
-    <desc lang="ca">Amb els dos contrincants lluitant a màxima potència, en Cèl·lula comença a deixar anar tot el seu arsenal de tècniques assimilades contra en Son Goku, des del disc mortal d'en Freezer, fins a un increïble kamehameha, capaç de sacsejar tot el planeta Terra. L'única manera que té en Son Goku de sortir-ne viu és teletransportant-se.</desc>
-    <length units="seconds">1416</length>
-    <episode-num system="onscreen">178</episode-num>
+  <programme start="20260922005421 +0200" stop="20260922010549 +0200" channel="sx3">
+    <title lang="ca">Les Sisters</title>
+    <sub-title lang="ca">Les Sisters - Com enyoro el Max!</sub-title>
+    <desc lang="ca">El Maxence ha d'anar a passar un cap de setmana d'acampada amb els seus amics, sense la Wendy i sense cobertura per trucar-li ni enviar-li missatges. La Wendy està supernerviosa. No podrà passar dos dies seguits sense el seu Maxence! La Marine intentarà desintoxicar la seva germana del seu nòvio...</desc>
+    <length units="seconds">688</length>
+    <episode-num system="onscreen">24</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
-      <value>JUVENIL</value>
+      <value>INFANTIL</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
@@ -114,36 +122,32 @@
   <channel id="c33">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20260921211253 +0200" stop="20260921213543 +0200" channel="c33">
-    <title lang="ca">Plats bruts</title>
-    <sub-title lang="ca">Plats bruts - Tinc molta cara</sub-title>
-    <desc lang="ca">'Plats bruts' gira al voltant de la vida de dos personatges amb estils de vida totalment diferents, però amb un denominador comú, el pis on viuen. En Lopes és un locutor de ràdio, té 34 anys, és apàtic, pessimista, hipocondríac i fill de pare solter. El seu company, en David, pertany a l'alta burgesia barcelonina, estudia per a actor a l'Institut del Teatre i sembla el cul d'en Jaumet.Al voltant d'ells hi ha tota una sèrie de personatges del seu entorn laboral o personal, com l'Emma, la veïna 'hippy' que viu en una caseta de fusta al celobert, la Carbonell, l'assistenta d'en David, dedicada a cuidar-lo, tot i que ell s'ha independitzat de la família; en Ramon, un tècnic de so poc assenyat; la Mercedes, directora malcarada de la ràdio on treballa en Lopes i, finalment, en Pol, un homosexual que treballa de cambrer i que estudia teatre amb en David.Intèrprets (primera temporada): Joel Joan (David Güell), Jordi Sánchez (Josep Lopes), Mònica Glaenzel (Emma), Anna M. Barbany (La Carbonell), Montse Pérez (Mercedes), Pau Durà (Pol), Lluís X. Villanueva (Ramon) Fitxa tècnicaDirecció: Oriol Grau, Lluís ManyosesProducció TV3: Montse PoloProducció El Terrat: Xen SubiratsCoordinació guions: Joel Joan i Jordi SánchezGuionistes: Jordi Sánchez, Joel Joan, Sergi Pompermayer, Albert Plans, Mercè Sàrrias, Núria FurióIl.luminació: Martí CabraDisseny d'espai: Ester RicartAmbientació: Santi TraïdMúsica original: Quimi Portet'Plats bruts' és una producció de Televisió de Catalunya i El Terrat.</desc>
-    <credits>
-      <director>Oriol</director>
-    </credits>
-    <length units="seconds">1370</length>
-    <episode-num system="onscreen">54</episode-num>
-    <category lang="ca">FICCIÓ</category>
-    <category lang="ca">SITCOM (COMÈDIA DE SITUACIÓ)</category>
+  <programme start="20260921235201 +0200" stop="20260922003857 +0200" channel="c33">
+    <title lang="ca">Aeroport</title>
+    <sub-title lang="ca">Aeroport - Plataforma</sub-title>
+    <desc lang="ca">Viatjar ja no és un luxe i els aeroports s'han convertit en les noves catedrals del món. Un formiguer ple d'històries, de passatgers i dels que hi treballen, com el Pau, capatàs de rampa, que ha d'esbrinar si el seu equip ha ratllat a un avió de 75 milions d'euros amb una escala.</desc>
+    <length units="seconds">2816</length>
+    <episode-num system="onscreen">16</episode-num>
+    <category lang="ca">DIVULGACIÓ</category>
+    <category lang="ca">Docu-Entreteniment</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20260921213543 +0200" stop="20260921215731 +0200" channel="c33">
-    <title lang="ca">Plats bruts</title>
-    <sub-title lang="ca">Plats bruts - Tinc escaiola</sub-title>
-    <desc lang="ca">Al Lopes li estan passant coses rares: va a treballar sense pantalons, és molt amable amb el Ramon, la Mercedes apareix a la ràdio disfressada...</desc>
-    <length units="seconds">1308</length>
-    <episode-num system="onscreen">55</episode-num>
-    <category lang="ca">FICCIÓ</category>
-    <category lang="ca">SITCOM (COMÈDIA DE SITUACIÓ)</category>
+  <programme start="20260922003857 +0200" stop="20260922005511 +0200" channel="c33">
+    <title lang="ca">Programa sindical UGT</title>
+    <sub-title lang="ca">Programa sindical UGT - Es continua cremant el bosc</sub-title>
+    <desc lang="ca">Les xifres dels incendis d'enguany són alarmants, fins a finals d'agost, a Catalunya, se n'han registrat un total de 949. La nova situació, provocada pel canvi climàtic, deixa en evidència la manca de recursos destinats a la lluita contra el foc d'una administració que sembla que només pensa en els incendis quan ja és tard. La precarietat que viu el cos de Bombers, provocada per anys sense inversió, ajuda que els boscos es cremin cada any una mica més.  Hi intervenen: Yolanda Funessecretària de Canvi Climàtic i Transició Justa UGT de Catalunya Reyes Solazsecretària nacional UGT de Catalunya Jordi Juliàresponsable Salut Laboral UGT de Catalunya de la GeneralitatToño del Riosecretari general Bombers UGT de CatalunyaConveni ARTE</desc>
+    <length units="seconds">974</length>
+    <episode-num system="onscreen">323</episode-num>
+    <category lang="ca">DIVULGACIÓ</category>
+    <category lang="ca">MAGAZINE ESPECIALITZAT</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
-    <previously-shown/>
   </programme>
   <channel id="oca1">
     <display-name>OCA1</display-name>
