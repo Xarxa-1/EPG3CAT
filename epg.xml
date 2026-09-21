@@ -3,115 +3,113 @@
   <channel id="tvi">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20260921005202 +0200" stop="20260921040000 +0200" channel="tvi">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <sub-title lang="ca">Notícies 3CatInfo</sub-title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">11278</length>
-    <episode-num system="onscreen">11225</episode-num>
+  <programme start="20260921075949 +0200" stop="20260921103000 +0200" channel="tvi">
+    <title lang="ca">Matins</title>
+    <sub-title lang="ca">Matins</sub-title>
+    <desc lang="ca">'Matins' és un dels puntals informatius de TV3. El programa matinal dona les claus del dia que comença, explica les notícies que han passat aportant-ne el context per entendre-les i analitza amb veus acreditades l'actualitat més propera i la d'arreu del món. 'Matins' comença a les 8 del matí, de dilluns a divendres, i està presentat per Ariadna Oltra.</desc>
+    <length units="seconds">9011</length>
+    <episode-num system="onscreen">4675</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <previously-shown/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/2/0/1758040151402.jpg"/>
   </programme>
-  <programme start="20260921040000 +0200" stop="20260921050000 +0200" channel="tvi">
-    <title lang="ca">Ritmes a l'estudi</title>
-    <sub-title lang="ca">Ritmes a l'estudi - EMILI BALERIOLA BLUES QUINTET</sub-title>
-    <desc lang="ca">Baleriola és un guitarrista veterà que fa més de quatre dècades que fa música. La seva versatilitat l'ha convertit en un músic sense complexos, fresc i espontani. Després del seu darrer àlbum, 'Jazz-Rock Trio', el guitarrista ens presenta el seu nou material amb accent de blues.</desc>
-    <length units="seconds">3600</length>
-    <episode-num system="onscreen">7</episode-num>
-    <category lang="ca">MUSICALS</category>
-    <category lang="ca">ALTRES</category>
+  <programme start="20260921103000 +0200" stop="20260921135500 +0200" channel="tvi">
+    <title lang="ca">Tot es mou</title>
+    <sub-title lang="ca">Tot es mou</sub-title>
+    <desc lang="ca">El programa presentat per Helena Garcia Melero s'emet de dilluns a divendres, de 10.30 a 13.55. Un magazín d'actualitat que busca informar, analitzar i debatre sobre temes que marquen l'actualitat social, econòmica i cultural del dia, amb una àmplia presència en directe dels reporters i reporteres, repartits per tot Catalunya. A més, el 'Tot es mou' compta amb seccions diàries de gastronomia (amb els principals cuiners i cuineres del país), successos, economia, mobilitat, temes mèdics i de tecnologia, entre d'altres.</desc>
+    <length units="seconds">12300</length>
+    <episode-num system="onscreen">1812</episode-num>
+    <category lang="ca">ACTUALITAT</category>
+    <category lang="ca">MAGAZINE</category>
     <rating>
-      <value>PÚBLIC ADULT</value>
+      <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <previously-shown/>
   </programme>
   <channel id="324">
     <display-name>324</display-name>
   </channel>
-  <programme start="20260921010000 +0200" stop="20260921060000 +0200" channel="324">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">18000</length>
-    <episode-num system="onscreen">11225</episode-num>
+  <programme start="20260921080000 +0200" stop="20260921103000 +0200" channel="324">
+    <title lang="ca">Matins</title>
+    <desc lang="ca">'Matins' és un dels puntals informatius de TV3. El programa matinal dona les claus del dia que comença, explica les notícies que han passat aportant-ne el context per entendre-les i analitza amb veus acreditades l'actualitat més propera i la d'arreu del món. 'Matins' comença a les 8 del matí, de dilluns a divendres, i està presentat per Ariadna Oltra.</desc>
+    <length units="seconds">9000</length>
+    <episode-num system="onscreen">4675</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <previously-shown/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/2/0/1758040151402.jpg"/>
   </programme>
-  <programme start="20260921060000 +0200" stop="20260921080000 +0200" channel="324">
+  <programme start="20260921103000 +0200" stop="20260921120000 +0200" channel="324">
     <title lang="ca">Notícies 3CatInfo</title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">7200</length>
-    <episode-num system="onscreen">11226</episode-num>
+    <length units="seconds">5400</length>
+    <episode-num system="onscreen">11227</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
+    <subtitles type="teletext"/>
     <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
   <channel id="esport3">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20260921025811 +0200" stop="20260921044013 +0200" channel="esport3">
-    <title lang="ca">Futbol</title>
-    <sub-title lang="ca">Futbol - Reus FC Reddis-Náxara CD / Segona Federació / J3</sub-title>
-    <desc lang="ca">Els roig-i-negres volen estrenar el caseller de punts contra un rival que també ha perdut els dos primers partits del campionat. Amb la narració de Jordi Sunyer i l'anàlisi d'Àlex Delmàs.</desc>
-    <length units="seconds">6122</length>
-    <episode-num system="onscreen">67</episode-num>
+  <programme start="20260921082525 +0200" stop="20260921095736 +0200" channel="esport3">
+    <title lang="ca">Hoquei patins</title>
+    <sub-title lang="ca">Hoquei patins - Portugal - Catalunya / GoldenCat masculina / Final</sub-title>
+    <desc lang="ca">Des del pavelló de Can Xarau, a Cerdanyola del Vallès, últim partit d'aquesta prestigiosa competició internacional d'hoquei patins.</desc>
+    <length units="seconds">5531</length>
+    <episode-num system="onscreen">8132</episode-num>
     <category lang="ca">ESPORTS</category>
     <category lang="ca">RETRANSMISSIONS ESPORTS</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <previously-shown/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/0/7/1698446098170.jpg"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/4/3/1722012513934.jpg"/>
   </programme>
-  <programme start="20260921044013 +0200" stop="20260921050511 +0200" channel="esport3">
-    <title lang="ca">3CatInfo Esports</title>
-    <sub-title lang="ca">3CatInfo Esports</sub-title>
-    <desc lang="ca">Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.</desc>
-    <length units="seconds">1498</length>
-    <episode-num system="onscreen">5514</episode-num>
-    <category lang="ca">ESPORTS</category>
-    <category lang="ca">INFORMATIU DIÀRI</category>
+  <programme start="20260921095736 +0200" stop="20260921104344 +0200" channel="esport3">
+    <title lang="ca">Arxipèlag blau</title>
+    <sub-title lang="ca">Arxipèlag blau - Praderies i arenals</sub-title>
+    <desc lang="ca">Miquel Salamanca ens presenta en aquest primer capítol de la sèrie 'Arxipèlag blau' dos dels ambients més característics de les nostres aigües: els arenals i els alguers, el que es coneix tradicionalment com 'el blanc' i 'el negre'. Ens endinsarem als alguers o praderies de posidònia per conèixer el cicle vital d'aquesta planta marina, les seves funcions ecològiques i les espècies que amaga entre les seves fulles. Ens sorprendrà descobrir com els arenals, en aparença extensions desèrtiques, són plens de vida, amb espècies que han desenvolupat complexos sistemes de camuflatge i defensa. Ferrasses, agulletes, serpetons, pedaços, pops i moltes altres criatures marines seran protagonistes d'aquest capítol. Per finalitzar acompanyarem Gàdor Muntaner a la seva visita a s'Espardell, a la reserva marina dels Freus d'Eivissa i Formentera.</desc>
+    <length units="seconds">2768</length>
+    <episode-num system="onscreen">1</episode-num>
+    <category lang="ca">DIVULGACIÓ</category>
+    <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
+    <subtitles type="teletext"/>
     <previously-shown/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/9/7/1758888682179.jpg"/>
   </programme>
   <channel id="sx3">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20260921033642 +0200" stop="20260921034642 +0200" channel="sx3">
-    <title lang="ca">Pop, la ciutat de paper</title>
-    <sub-title lang="ca">Pop, la ciutat de paper - Les fugitives de la granja</sub-title>
-    <desc lang="ca">En l'aventura poptàstica d'avui, el Plom ha de cuidar unes noves amigues peludes: un ramat d'alpaques! El Plom decideix treure les pop-paques a passejar, però se li escapen. Podrà fer tornar les seves amigues a la granja a temps per a la inauguració del mercat de la popgranja de paper?</desc>
-    <length units="seconds">600</length>
-    <episode-num system="onscreen">34</episode-num>
-    <category lang="ca">FICCIÓ</category>
-    <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
+  <programme start="20260921090056 +0200" stop="20260921091313 +0200" channel="sx3">
+    <title lang="ca">A jugar! Amb en Titó i els Fa la la</title>
+    <sub-title lang="ca">A jugar! Amb en Titó i els Fa la la - A jugar amb moooltes capibares</sub-title>
+    <desc lang="ca">Les germanes capibara s'han multiplicat i ara el parc és ple de capibares disposats a fer de les seves! En Titó i els Fa La La podran esbrinar què ha passat i fer que tot torni a la normalitat?</desc>
+    <length units="seconds">737</length>
+    <episode-num system="onscreen">35</episode-num>
+    <category lang="ca">ENTRETENIMENT</category>
+    <category lang="ca">ALTRES</category>
     <rating>
       <value>INFANTIL</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20260921034642 +0200" stop="20260921035642 +0200" channel="sx3">
-    <title lang="ca">Pop, la ciutat de paper</title>
-    <sub-title lang="ca">Pop, la ciutat de paper - L'hotel de la Phoebe</sub-title>
-    <desc lang="ca">A l'aventura poptàstica d'avui, la Phoebe convida els amics a casa per jugar a fer un hotel. Però, com que no té presents les necessitats dels clients, l'Hotel de la Phoebe no acaba de rutllar. Com s'ho farà, la Phoebe, perquè tothom s'ho passi bé amb el seu joc?</desc>
-    <length units="seconds">600</length>
-    <episode-num system="onscreen">15</episode-num>
+  <programme start="20260921091313 +0200" stop="20260921093637 +0200" channel="sx3">
+    <title lang="ca">Les Tres Bessones</title>
+    <sub-title lang="ca">Les Tres Bessones - La Blancaneu i els set nans</sub-title>
+    <desc lang="ca">La malvada madrastra de la Blancaneu ofereix un pastís de poma enverinat a les Tres Bessones. Només l'Helena, que sempre té gana, en tasta un tros i cau adormida. L'Anna i la Teresa saben que han de trobar un príncep perquè trenqui l'encanteri. Molt a prop, en una mina, troben tres bessons: són els tres fills de la Blancaneu.</desc>
+    <length units="seconds">1404</length>
+    <episode-num system="onscreen">2</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
@@ -123,26 +121,26 @@
   <channel id="c33">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20260921033355 +0200" stop="20260921035856 +0200" channel="c33">
-    <title lang="ca">Volcans i homes</title>
-    <sub-title lang="ca">Volcans i homes - Tanzània. Un volcà en terra Massai</sub-title>
-    <desc lang="ca">En aquest episodi, Arnaud Guérin, geòleg i fotògraf professional, ens porta a Tanzània, al volcà OlDoinyoLengaï. Entre d'altres coses, i juntament amb Matthieu Kervyn, un dels pocs especialistes en aquest volcà, i Mwenga, un jove guerrer massai, l'acompanyarem en la dura ascensió a aquest volcà, que va patir una erupció el 2007 que va canviar totalment la morfologia del cràter. També visitarem el llac Natron, famós perquè van a reproduir-s'hi els flamencs rosats, i coneixerem la tècnica d'aprofitament de la sal del llac per part dels massais. </desc>
-    <length units="seconds">1501</length>
-    <episode-num system="onscreen">12</episode-num>
+  <programme start="20260921082328 +0200" stop="20260921090100 +0200" channel="c33">
+    <title lang="ca">Cosins Germans</title>
+    <sub-title lang="ca">Cosins Germans - La Barcelona d'Empar</sub-title>
+    <desc lang="ca">La Barcelona de l'Empar Moliner comença a la plaça del Teatre. Han quedat aquí amb el periodista i cronista de la ciutat Lluís Permanyer. Faran un tomb per Ciutat Vella. El propòsit d'aquesta ruta serà fugir de la Barcelona de postal perquè descobreixin una altra ciutat, la que s'amaga a la vista de tothom. La ruta desemboca a la Rambla on, engrescats per l'ambient, faran una mica el 'guiri'. S'acostaran fins al barri del Raval perquè Peret els mostri els llocs on va néixer la rumba catalana. L'Empar és una apassionada de les cocteleries i no perdrà l'ocasió per tastar els millors combinats de la ciutat. És el torn del Ferran. Ara li toca ensenyar València a l'Empar, però no hi aniran. Una sorpresa aguaita l'Empar. El Ferran ha dissenyat una ruta per les petjades valencianes de la ciutat. Una orxata al Poble Nou, el llegat dels Borja o la contribució dels valencians a la defensa del setge de Barcelona de 1714 són algunes de les fites d'aquest recorregut.</desc>
+    <length units="seconds">2252</length>
+    <episode-num system="onscreen">6</episode-num>
     <category lang="ca">DIVULGACIÓ</category>
-    <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
+    <category lang="ca">ALTRES</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20260921035856 +0200" stop="20260921042342 +0200" channel="c33">
-    <title lang="ca">Volcans i homes</title>
-    <sub-title lang="ca">Volcans i homes - El Sakurajima. Viure sota la cendra</sub-title>
-    <desc lang="ca">En aquest episodi, Arnaud Guérin, geòleg i fotògraf professional, ens porta aI Japó, a l'illa de Kyushu, on hi ha el volcà Sakurajima. Entre d'altres coses, l'acompanyarem en la seva visita a la ciutat de Kagoshima, un lloc on els seus habitants han de netejar cada dia la cendra que els arriba del volcà i on es conreen els raves més grossos del món. També el seguirem per un túnel de 200 metres que s'endinsa dins del volcà fins a tocar del magma i en un simulacre d'evacuació que mobilitza cada any 7.000 persones.</desc>
-    <length units="seconds">1486</length>
-    <episode-num system="onscreen">13</episode-num>
+  <programme start="20260921090100 +0200" stop="20260921091614 +0200" channel="c33">
+    <title lang="ca">Pastors i ramats: un món que se'n va</title>
+    <sub-title lang="ca">Pastors i ramats: un món que se'n va - Pep Serra</sub-title>
+    <desc lang="ca">'Pastors i ramats, un món que se'n va', és una sèrie de 15 capítols protagonitzada per pastors i pastores que, al llarg del nostre país, treuen a pasturar cada dia el seu ramat. Malgrat fer la mateixa feina, cada pastor és un món, una forma particular de relacionar-se amb el ramat, un mosaic de veus i gestos units per l'estimació pels animals. I també un conjunt de converses amb persones que són allà on volen ser, perseverant tossudament per continuar l'ofici malgrat totes les dificultats... Pastors i ramats... és la lluita silenciosa i plena de dignitat d'un món que se'n va.</desc>
+    <length units="seconds">914</length>
+    <episode-num system="onscreen">11</episode-num>
     <category lang="ca">DIVULGACIÓ</category>
     <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
     <rating>
