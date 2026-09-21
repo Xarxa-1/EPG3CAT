@@ -61,26 +61,25 @@
   <channel id="esport3">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20260921005944 +0200" stop="20260921023309 +0200" channel="esport3">
-    <title lang="ca">Gol a gol</title>
-    <sub-title lang="ca">Gol a gol - Anàlisi de la jornada / J7 / Diumenge</sub-title>
-    <desc lang="ca">'Gol a gol' us ofereix els resums dels partits de futbol de Primera i Segona Divisió. Presentat per Jordi Grau a Esport3, cada dissabte i cada diumenge podeu veure les millors imatges de la jornada de Lliga amb l'anàlisi dels experts, amb especial atenció als equips catalans, sobretot el Barça, el Girona i l'Espanyol.</desc>
-    <length units="seconds">5605</length>
-    <episode-num system="onscreen">1784</episode-num>
+  <programme start="20260921025811 +0200" stop="20260921044013 +0200" channel="esport3">
+    <title lang="ca">Futbol</title>
+    <sub-title lang="ca">Futbol - Reus FC Reddis-Náxara CD / Segona Federació / J3</sub-title>
+    <desc lang="ca">Els roig-i-negres volen estrenar el caseller de punts contra un rival que també ha perdut els dos primers partits del campionat. Amb la narració de Jordi Sunyer i l'anàlisi d'Àlex Delmàs.</desc>
+    <length units="seconds">6122</length>
+    <episode-num system="onscreen">67</episode-num>
     <category lang="ca">ESPORTS</category>
-    <category lang="ca">MAGAZINE</category>
+    <category lang="ca">RETRANSMISSIONS ESPORTS</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <subtitles type="teletext"/>
     <previously-shown/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/2/1/1698144123212.jpg"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/0/7/1698446098170.jpg"/>
   </programme>
-  <programme start="20260921023309 +0200" stop="20260921025808 +0200" channel="esport3">
+  <programme start="20260921044013 +0200" stop="20260921050511 +0200" channel="esport3">
     <title lang="ca">3CatInfo Esports</title>
     <sub-title lang="ca">3CatInfo Esports</sub-title>
     <desc lang="ca">Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.</desc>
-    <length units="seconds">1499</length>
+    <length units="seconds">1498</length>
     <episode-num system="onscreen">5514</episode-num>
     <category lang="ca">ESPORTS</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
@@ -93,12 +92,12 @@
   <channel id="sx3">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20260921012358 +0200" stop="20260921014436 +0200" channel="sx3">
-    <title lang="ca">Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
-    <sub-title lang="ca">Prodigiosa: Les aventures de Ladybug i Gat Noir - Gamer 2.0</sub-title>
-    <desc lang="ca">El Max ha dissenyat un videojoc nou i té ganes de provar-lo amb els seus amics, però tots tenen unes vides molt atrafegades i no poden estar per ell. Això ho aprofita l'Esfinx per convertir el Max un altre cop en el malvat Gamer, però en una versió 2.0.</desc>
-    <length units="seconds">1238</length>
-    <episode-num system="onscreen">68</episode-num>
+  <programme start="20260921033642 +0200" stop="20260921034642 +0200" channel="sx3">
+    <title lang="ca">Pop, la ciutat de paper</title>
+    <sub-title lang="ca">Pop, la ciutat de paper - Les fugitives de la granja</sub-title>
+    <desc lang="ca">En l'aventura poptàstica d'avui, el Plom ha de cuidar unes noves amigues peludes: un ramat d'alpaques! El Plom decideix treure les pop-paques a passejar, però se li escapen. Podrà fer tornar les seves amigues a la granja a temps per a la inauguració del mercat de la popgranja de paper?</desc>
+    <length units="seconds">600</length>
+    <episode-num system="onscreen">34</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
@@ -107,12 +106,12 @@
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20260921014436 +0200" stop="20260921020514 +0200" channel="sx3">
-    <title lang="ca">Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
-    <sub-title lang="ca">Prodigiosa: Les aventures de Ladybug i Gat Noir - Climatika 2</sub-title>
-    <desc lang="ca">En aquest episodi, que és una mena de resum d'episodis anteriors, torna a entrar en acció la Climatika, que provoca un caos a París després de ser akumatitzada, però al mateix temps l'Adrien es planteja si la noia que ha respost a la seva poesia de Sant Valentí podria ser la Marinette.</desc>
-    <length units="seconds">1238</length>
-    <episode-num system="onscreen">69</episode-num>
+  <programme start="20260921034642 +0200" stop="20260921035642 +0200" channel="sx3">
+    <title lang="ca">Pop, la ciutat de paper</title>
+    <sub-title lang="ca">Pop, la ciutat de paper - L'hotel de la Phoebe</sub-title>
+    <desc lang="ca">A l'aventura poptàstica d'avui, la Phoebe convida els amics a casa per jugar a fer un hotel. Però, com que no té presents les necessitats dels clients, l'Hotel de la Phoebe no acaba de rutllar. Com s'ho farà, la Phoebe, perquè tothom s'ho passi bé amb el seu joc?</desc>
+    <length units="seconds">600</length>
+    <episode-num system="onscreen">15</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
@@ -124,12 +123,12 @@
   <channel id="c33">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20260921005249 +0200" stop="20260921014419 +0200" channel="c33">
-    <title lang="ca">Esborrats del mapa</title>
-    <sub-title lang="ca">Esborrats del mapa - Esborrats del mapa</sub-title>
-    <desc lang="ca">El documental narra l'experiència d'un grup de veïns afectats per l'erupció del volcà de La Palma que, en només deu minuts, van haver de decidir què és el que salvaven de les seves llars.</desc>
-    <length units="seconds">3090</length>
-    <episode-num system="onscreen">1</episode-num>
+  <programme start="20260921033355 +0200" stop="20260921035856 +0200" channel="c33">
+    <title lang="ca">Volcans i homes</title>
+    <sub-title lang="ca">Volcans i homes - Tanzània. Un volcà en terra Massai</sub-title>
+    <desc lang="ca">En aquest episodi, Arnaud Guérin, geòleg i fotògraf professional, ens porta a Tanzània, al volcà OlDoinyoLengaï. Entre d'altres coses, i juntament amb Matthieu Kervyn, un dels pocs especialistes en aquest volcà, i Mwenga, un jove guerrer massai, l'acompanyarem en la dura ascensió a aquest volcà, que va patir una erupció el 2007 que va canviar totalment la morfologia del cràter. També visitarem el llac Natron, famós perquè van a reproduir-s'hi els flamencs rosats, i coneixerem la tècnica d'aprofitament de la sal del llac per part dels massais. </desc>
+    <length units="seconds">1501</length>
+    <episode-num system="onscreen">12</episode-num>
     <category lang="ca">DIVULGACIÓ</category>
     <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
     <rating>
@@ -137,14 +136,13 @@
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
-    <icon src="https://img.3cat.cat/multimedia/jpg/2/8/1788879238882.jpg"/>
   </programme>
-  <programme start="20260921014419 +0200" stop="20260921020542 +0200" channel="c33">
-    <title lang="ca">Nens de la ruta de la seda</title>
-    <sub-title lang="ca">Nens de la ruta de la seda - El nen dels ocells</sub-title>
-    <desc lang="ca">Quan mira al seu voltant, en Reshat veu els pous de petroli de l'Azerbaidjan. Quan mira amunt, veu els coloms que volen cap al cel. Troba a faltar el seu pare, que es va morir fa un any, i que també estimava els coloms. En Reshat li demana al millor ocellaire del poble que li ensenyi a ensinistrar coloms, perquè el seu somni és ser ocellaire i tenir-ne molts. Però al final, mentre aprèn a ensinistrar-los, descobreix què vol de veritat.</desc>
-    <length units="seconds">1283</length>
-    <episode-num system="onscreen">6</episode-num>
+  <programme start="20260921035856 +0200" stop="20260921042342 +0200" channel="c33">
+    <title lang="ca">Volcans i homes</title>
+    <sub-title lang="ca">Volcans i homes - El Sakurajima. Viure sota la cendra</sub-title>
+    <desc lang="ca">En aquest episodi, Arnaud Guérin, geòleg i fotògraf professional, ens porta aI Japó, a l'illa de Kyushu, on hi ha el volcà Sakurajima. Entre d'altres coses, l'acompanyarem en la seva visita a la ciutat de Kagoshima, un lloc on els seus habitants han de netejar cada dia la cendra que els arriba del volcà i on es conreen els raves més grossos del món. També el seguirem per un túnel de 200 metres que s'endinsa dins del volcà fins a tocar del magma i en un simulacre d'evacuació que mobilitza cada any 7.000 persones.</desc>
+    <length units="seconds">1486</length>
+    <episode-num system="onscreen">13</episode-num>
     <category lang="ca">DIVULGACIÓ</category>
     <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
     <rating>
