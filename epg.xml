@@ -3,109 +3,124 @@
   <channel id="tvi">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20260922210000 +0200" stop="20260922215956 +0200" channel="tvi">
-    <title lang="ca">Telenotícies vespre</title>
-    <sub-title lang="ca">Telenotícies vespre</sub-title>
-    <length units="seconds">3596</length>
-    <episode-num system="onscreen">7335</episode-num>
+  <programme start="20260922231129 +0200" stop="20260923001008 +0200" channel="tvi">
+    <title lang="ca">Nits Sense ficció</title>
+    <sub-title lang="ca">Nits Sense ficció - Poliamor. Més enllà de la monogàmia</sub-title>
+    <desc lang="ca">'Poliamor. Més enllà de la monogàmia' (2022) és una producció de Televisió de Catalunya produïda per La Lupa Produccions SL.Què hi ha més enllà de la monogàmia?Trielles, anarquia relacional, relacions en forma de V… Qui ho ha dit que només hi pot haver una vida amorosa plena en la monogàmia? 'Poliamor. Més enllà de la monogàmia' ens presenta les experiències de persones que viuen les seves relacions sexoafectives sense exclusivitat. Gelosia, pors, sexe, fills, família? Els detalls, al documental.Fitxa tècnicaDirecció: Marta Palacín i Oriol Gispert Guió: Marta Palacín, Oriol Gispert i Carla Moreno Realització: Producció executiva: Marta Palacín i Oriol Gispert Productor: Producció i investigació: Carla Moreno i Alejandra CéspedesDirector executiu TVC: Montse Armengou MartínProductor executiu TVC: Sílvia Pairó VilaDirector fotografia: Oriol Bosch CastelletMuntatge: Bernat de FerrerGrafisme: Núria YebraCorporació Catalana de Mitjans Audiovisuals, SA 2022</desc>
+    <credits>
+      <director>Marta Palacín</director>
+      <director>Oriol</director>
+      <writer>Marta</writer>
+    </credits>
+    <length units="seconds">3519</length>
+    <episode-num system="onscreen">1</episode-num>
     <category lang="ca">ACTUALITAT</category>
-    <category lang="ca">INFORMATIU DIÀRI</category>
+    <category lang="ca">DOCUMENTAL</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <icon src="https://img.ccma.cat/multimedia/jpg/7/2/1758026176427.jpg"/>
-  </programme>
-  <programme start="20260922215956 +0200" stop="20260922220704 +0200" channel="tvi">
-    <title lang="ca">De primera!</title>
-    <sub-title lang="ca">- La verema</sub-title>
-    <desc lang="ca">Sense Descripció</desc>
-    <length units="seconds">428</length>
-    <episode-num system="onscreen">2</episode-num>
-  </programme>
-  <channel id="324">
-    <display-name>324</display-name>
-  </channel>
-  <programme start="20260922200000 +0200" stop="20260922210000 +0200" channel="324">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">3600</length>
-    <episode-num system="onscreen">11241</episode-num>
-    <category lang="ca">ACTUALITAT</category>
-    <category lang="ca">INFORMATIU DIÀRI</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
-  </programme>
-  <programme start="20260922210000 +0200" stop="20260922220500 +0200" channel="324">
-    <title lang="ca">Telenotícies vespre</title>
-    <length units="seconds">3900</length>
-    <episode-num system="onscreen">7335</episode-num>
-    <category lang="ca">ACTUALITAT</category>
-    <category lang="ca">INFORMATIU DIÀRI</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <subtitles type="teletext"/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/7/2/1758026176427.jpg"/>
-  </programme>
-  <channel id="esport3">
-    <display-name>ESPORT3</display-name>
-  </channel>
-  <programme start="20260922205013 +0200" stop="20260922215018 +0200" channel="esport3">
-    <title lang="ca">Futbol</title>
-    <sub-title lang="ca">Futbol - Reial Madrid CF-PSG / Champions League / J1</sub-title>
-    <desc lang="ca">Les blanques comencen la seva participació al gran campionat europeu contra les terceres classificades de la temporada passada a la lliga francesa.</desc>
-    <length units="seconds">3605</length>
-    <episode-num system="onscreen">90</episode-num>
-    <category lang="ca">ESPORTS</category>
-    <category lang="ca">RETRANSMISSIONS ESPORTS</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <icon src="https://img.ccma.cat/multimedia/jpg/5/0/1702464930005.jpg"/>
-  </programme>
-  <programme start="20260922215018 +0200" stop="20260922220358 +0200" channel="esport3">
-    <title lang="ca">Zona UFEC</title>
-    <sub-title lang="ca">Zona UFEC</sub-title>
-    <desc lang="ca">'Zona UFEC' és l'espai que pren el pols a la situació de l'esport català en les diferents disciplines. A través de reportatges i entrevistes, i en col·laboració amb la Unió de Federacions Esportives de Catalunya, cada setmana repassem els èxits i el treball dels esportistes catalans en les competicions de casa nostra i d'arreu del món.</desc>
-    <length units="seconds">820</length>
-    <episode-num system="onscreen">706</episode-num>
-    <category lang="ca">ESPORTS</category>
-    <category lang="ca">REPORTATGES</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <subtitles type="teletext"/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/0/0/1702403805000.jpg"/>
-  </programme>
-  <channel id="sx3">
-    <display-name>SX3</display-name>
-  </channel>
-  <programme start="20260922205944 +0200" stop="20260922212200 +0200" channel="sx3">
-    <title lang="ca">Bola de drac Z</title>
-    <sub-title lang="ca">Bola de drac Z - Les tàctiques secretes d'en Son Goku</sub-title>
-    <desc lang="ca">La intensitat de l'enfrontament fa que en Cèl·lula canviï les regles del torneig i, després de destruir el ring, la lluita es converteix en un combat a vida o mort. Aleshores, en Son Goku, davant de la sorpresa de tothom, decideix carregar un kamehameha des de l'aire per atacar en Cèl·lula, que és a la Terra, convençut que el seu rival no serà capaç de destrossar tot el planeta.</desc>
-    <length units="seconds">1336</length>
-    <episode-num system="onscreen">179</episode-num>
-    <category lang="ca">FICCIÓ</category>
-    <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
-    <rating>
-      <value>JUVENIL</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20260922212200 +0200" stop="20260922214046 +0200" channel="sx3">
-    <title lang="ca">Bola de drac Z</title>
-    <sub-title lang="ca">Bola de drac Z - La rendició d'en Son Goku</sub-title>
-    <desc lang="ca">Després de caure fulminat amb l'increïble kamehameha d'en Son Goku, en Cèl·lula es regenera del tot i continua el combat. L'orgull d'en Son Goku, que després de l'últim atac s'ha quedat sense força, no li permet menjar-se una mongeta màgica per recuperar energia i, per sorpresa de tothom, acaba rendint-se.</desc>
-    <length units="seconds">1126</length>
-    <episode-num system="onscreen">180</episode-num>
+  <programme start="20260923001008 +0200" stop="20260923001321 +0200" channel="tvi">
+    <title lang="ca">Espai Internet</title>
+    <sub-title lang="ca">Espai Internet</sub-title>
+    <length units="seconds">193</length>
+    <episode-num system="onscreen">32</episode-num>
+    <category lang="ca">ACTUALITAT</category>
+    <category lang="ca">ESPECIALS INFORMATIUS</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <subtitles type="teletext"/>
+    <previously-shown/>
+  </programme>
+  <channel id="324">
+    <display-name>324</display-name>
+  </channel>
+  <programme start="20260923000000 +0200" stop="20260923003000 +0200" channel="324">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="seconds">1800</length>
+    <episode-num system="onscreen">11242</episode-num>
+    <category lang="ca">ACTUALITAT</category>
+    <category lang="ca">INFORMATIU DIÀRI</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <subtitles type="teletext"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
+  </programme>
+  <programme start="20260923003000 +0200" stop="20260923010000 +0200" channel="324">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="seconds">1800</length>
+    <episode-num system="onscreen">11243</episode-num>
+    <category lang="ca">ACTUALITAT</category>
+    <category lang="ca">INFORMATIU DIÀRI</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <subtitles type="teletext"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
+  </programme>
+  <channel id="esport3">
+    <display-name>ESPORT3</display-name>
+  </channel>
+  <programme start="20260922230009 +0200" stop="20260923003057 +0200" channel="esport3">
+    <title lang="ca">Onze</title>
+    <sub-title lang="ca">Onze</sub-title>
+    <desc lang="ca">Sique Rodríguez, Jordi Costa, Paula Reverter i Ivan San Antonio es recreen en el bon estat de forma del Barça. En Fran Domènech presenta els titulars més curiosos de la premsa esportiva. En Sergi Ferrer contesta les preguntes dels espectadors.</desc>
+    <length units="seconds">5448</length>
+    <episode-num system="onscreen">1253</episode-num>
+    <category lang="ca">ESPORTS</category>
+    <category lang="ca">MAGAZINE</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <subtitles type="teletext"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/1/1/1688543515711.jpg"/>
+  </programme>
+  <programme start="20260923003057 +0200" stop="20260923005144 +0200" channel="esport3">
+    <title lang="ca">3CatInfo Esports</title>
+    <sub-title lang="ca">3CatInfo Esports</sub-title>
+    <desc lang="ca">Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.</desc>
+    <length units="seconds">1247</length>
+    <episode-num system="onscreen">5516</episode-num>
+    <category lang="ca">ESPORTS</category>
+    <category lang="ca">INFORMATIU DIÀRI</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <icon src="https://img.ccma.cat/multimedia/jpg/9/7/1758888682179.jpg"/>
+  </programme>
+  <channel id="sx3">
+    <display-name>SX3</display-name>
+  </channel>
+  <programme start="20260922234508 +0200" stop="20260923000609 +0200" channel="sx3">
+    <title lang="ca">Els germans Kratt</title>
+    <sub-title lang="ca">Els germans Kratt - El Bocabala, el salvador de l'escull</sub-title>
+    <desc lang="ca">En Chris i en Martin són a les profunditats de l'oceà estudiant com uns animals marins molt estranys construeixen els esculls de corall, l'estructura vivent més gran del món. Aviat s'hi trobaran els peixos robot d'en Zach i la Donita, que tenen intenció d'endur-se tot el corall per fer-ne joies. El salvador d'avui és el Bocabala, l'animal que fa l'atac més ràpid del món!</desc>
+    <length units="seconds">1261</length>
+    <episode-num system="onscreen">58</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
-      <value>JUVENIL</value>
+      <value>INFANTIL</value>
+    </rating>
+    <subtitles type="teletext"/>
+    <previously-shown/>
+  </programme>
+  <programme start="20260923000609 +0200" stop="20260923002709 +0200" channel="sx3">
+    <title lang="ca">Els germans Kratt</title>
+    <sub-title lang="ca">Els germans Kratt - Aventures a la neu</sub-title>
+    <desc lang="ca">Després d'haver curat uns conills d'Assam, els germans Kratt posen rumb cap als turons càlids i assolellats de l'Àsia per deixar-los en llibertat. El que no saben és que pel camí els perdran pels boscos glaçats de l'Amèrica del Nord i que els caldran els poders dels basiliscs, de les llebres i dels linxs per localitzar-los abans que sigui massa tard.</desc>
+    <length units="seconds">1260</length>
+    <episode-num system="onscreen">59</episode-num>
+    <category lang="ca">FICCIÓ</category>
+    <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
+    <rating>
+      <value>INFANTIL</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
@@ -113,29 +128,52 @@
   <channel id="c33">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20260922210152 +0200" stop="20260922211045 +0200" channel="c33">
-    <title lang="ca">Gran!</title>
-    <sub-title lang="ca">Gran! - Els Pets: 'Bon dia'</sub-title>
-    <desc lang="ca">'Bon dia', la cançó editada l'any 1997 dins del disc 'Bondia', s'ha convertit en un dels temes més emblemàtics del grup i en un autèntic hit intergeneracional, a banda d'un clàssic del cançoner del pop rock cantat en català. Aquella melodia senyera amb què es reconeix una formació i sempre és un reclam necessari en el seu repertori en directe. Amb 40 anys de trajectòria, la formació de Constantí va assolir el cim de la popularitat (venent més de 100.00 còpies) i el reconeixement de la crítica a partir d'aquest lluminós senzill i, per extensió, amb un disc que va encetar una nova i exitosa trajectòria: de cop, l'aparença de conjunt d''esperit de festa major' creixia en ambició estilística i expressiva, i abraçava influències com el brit-pop, l'electrònica, el rock nord-americà, etc. I sempre sense perdre la seva identitat i manera de ser. </desc>
-    <length units="seconds">533</length>
-    <episode-num system="onscreen">24</episode-num>
-    <category lang="ca">ENTRETENIMENT</category>
-    <category lang="ca">ALTRES</category>
+  <programme start="20260922225329 +0200" stop="20260923005422 +0200" channel="c33">
+    <title lang="ca">Pel·lícula</title>
+    <sub-title lang="ca">Pel·lícula - El club dels poetes morts</sub-title>
+    <desc lang="ca">EL CLUB DELS POETES MORTS (Dead poets society)Idioma versió original: anglèsProducció: Steven Haft per a Touchstone Pictures, Silver Screen Partners IV i Witt-Thomas Productions, 1989 (Estats Units)Direcció: Peter Weir / Durada: 122 minutsGuió: Tom SchulmanFotografia: John Seale (Metrocolor)Música: Maurice JarreIntèrprets: Robin Williams (John Keating), Robert Sean Leonard (Neil Perry), Ethan Hawke (Todd), Josh Charles (Knox), Gale Hansen (Charlie), Dylan Kussman (Richard)En l'ambient tradicional i estricte de l'Acadèmia Welton, el professor John Keating no només ensenya anglès, està canviant les vides dels seus alumnes. Mentre altres professors esperen dels nois només conformisme i bones maneres, ell els inspira, a través de la poesia, a fer que les seves vides siguin extraordinàries, els encoratja a perseguir allò que els apassiona i els ajuda a explorar nous horitzons d'expressió. Keating, però, troba que les autoritats de l'escola i els pares dels nois no aproven els seus mètodes.</desc>
+    <credits>
+      <director>Peter Weir / Durada: 122 minuts</director>
+      <writer>Tom SchulmanFotografia: John Seale (Metrocolor)Música: Maurice JarreIntèrprets: Robin Williams (John Keating)</writer>
+      <writer>Robert Sean Leonard (Neil</writer>
+      <actor>Robin Williams (John Keating)</actor>
+      <actor>Robert Sean Leonard (Neil Perry)</actor>
+      <actor>Ethan Hawke (Todd)</actor>
+      <actor>Josh Charles (Knox)</actor>
+      <actor>Gale Hansen (Charlie)</actor>
+      <actor>Dylan Kussman (Richard)En l'ambient tradicional</actor>
+      <actor>estricte de l'Acadèmia Welton</actor>
+      <actor>el professor John Keating no només ensenya anglès</actor>
+      <actor>està canviant les vides dels seus alumnes. Mentre altres professors esperen dels nois només conformisme</actor>
+      <actor>bones maneres</actor>
+      <actor>ell els inspira</actor>
+      <actor>a través de la poesia</actor>
+      <actor>a fer que les seves vides siguin extraordinàries</actor>
+      <actor>els encoratja a perseguir allò que els apassiona</actor>
+      <actor>els ajuda a explorar nous horitzons d'expressió. Keating</actor>
+      <actor>però</actor>
+      <actor>troba que les autoritats de l'escola</actor>
+      <actor>els pares dels nois no aproven els seus mètodes.</actor>
+    </credits>
+    <length units="seconds">7253</length>
+    <episode-num system="onscreen">1</episode-num>
+    <category lang="ca">FICCIÓ</category>
+    <category lang="ca">PEL·LÍCULA / TELEFILM</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
-    <icon src="https://img.ccma.cat/multimedia//jpg/0/1/1714397571710.jpg"/>
+    <icon src="https://img.3cat.cat/multimedia/jpg/4/2/1770400852924.jpg"/>
   </programme>
-  <programme start="20260922211045 +0200" stop="20260922213604 +0200" channel="c33">
-    <title lang="ca">Plats bruts</title>
-    <sub-title lang="ca">Plats bruts - Tinc classe</sub-title>
-    <desc lang="ca">El López ha de tornar a la Universitat per aconseguir el títol de llicenciat. Allà comprova que els estudiants d'ara ja no són com els de la seva època. El Ramon sospita que entre ell i la iaia potser hi ha alguna cosa més que amistat.</desc>
-    <length units="seconds">1519</length>
-    <episode-num system="onscreen">56</episode-num>
-    <category lang="ca">FICCIÓ</category>
-    <category lang="ca">SITCOM (COMÈDIA DE SITUACIÓ)</category>
+  <programme start="20260923005422 +0200" stop="20260923021943 +0200" channel="c33">
+    <title lang="ca">Guimerà, Nobel sense premi</title>
+    <sub-title lang="ca">Guimerà, Nobel sense premi - Guimerà, el Nobel sense premi</sub-title>
+    <desc lang="ca">Hi ha qui diu que Àngel Guimerà va estar a prop de guanyar el Nobel de Literatura, i també qui assegura, fins i tot, que li van robar el guardó a l'últim moment. Va ser ben bé així, però? L'actriu Àngels Gonyalons s'ha proposat investigar què hi ha de veritat en l'aventura sueca de Guimerà, arribant al fons de l'assumpte i descobrint que allò que va allunyar Guimerà del guardó no té res a veure amb la literatura.</desc>
+    <length units="seconds">5121</length>
+    <episode-num system="onscreen">101</episode-num>
+    <category lang="ca">DIVULGACIÓ</category>
+    <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
