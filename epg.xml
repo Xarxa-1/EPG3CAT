@@ -3,119 +3,109 @@
   <channel id="tvi">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20260922172737 +0200" stop="20260922191151 +0200" channel="tvi">
-    <title lang="ca">La Selva</title>
-    <sub-title lang="ca">La Selva</sub-title>
-    <desc lang="ca">Xavier Grasset presenta La Selva, el nou magazín d'entreteniment de les tardes de TV3. Un show d'autor on parlarem de tot de forma distesa i lliure, una trobada fixa a la nova cafeteria de la televisió pública catalana, regentada per la Mercè Fonoll (l'actriu i humorista, Anna Bertran). A La Selva sempre hi passen coses, és un món ple d'activitat on diverses espècies hi conviuen de forma lliure.Hi passaran Antoni Bassas, Montse Barderi, Fel Faixedas, Sílvia Bel, la Nina, en Biel Duran, l'Alba Alfageme o la Carlota Gurt, entre molts d'altres. Una trobada plena de coneixement i seguiment de l'actualitat, però també d'entreteniment. Els acompanyaran, per exemple fent recomanacions, Sergi Cutillas, amb la seva música de capçalera, en Godai García que ens apropa a la terra -amb una mirada molt pròpia- o la cuinera i influencer, Sofia Janer.A La Selva farem un repàs al què ha passat durant el dia i a la vida en general d'aquella manera única del Xavier Grasset acompanyat al sofà per la Maria Xinxó, la Núria Martínez o l'Ester Pagès. La resta de l'equip treballarà per explicar-vos el que ha passat dins i fora de La Selva, acostar-vos al territori i oferir-vos entreteniment, però sempre amb contingut. Cada dia hi haurà entrevistes, no hi faltaran els llibres, la cultura o històries humanes de tot tipus. I, a més, comptarem amb la participació del nostre públic. Us convidarem a jugar en un concurs diari, divertit i enginyós. Quan t'endinses a la Selva mai saps què t'hi pots acabar trobant!Cada tarda, et farem companyia a 3cat. Us espera una nova aventura plena de personatges interessants, converses, reflexions, descobriments i uns quants somriures. Sempre amb un ull posat a tot el que passa al nostre voltant. Quedem a La Selva!</desc>
-    <length units="seconds">6254</length>
-    <episode-num system="onscreen">414</episode-num>
-    <category lang="ca">ENTRETENIMENT</category>
-    <category lang="ca">MAGAZINE</category>
+  <programme start="20260922210000 +0200" stop="20260922215956 +0200" channel="tvi">
+    <title lang="ca">Telenotícies vespre</title>
+    <sub-title lang="ca">Telenotícies vespre</sub-title>
+    <length units="seconds">3596</length>
+    <episode-num system="onscreen">7335</episode-num>
+    <category lang="ca">ACTUALITAT</category>
+    <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <previously-shown/>
-    <icon src="https://img.3cat.cat/multimedia/jpg/6/3/1725871608136.jpg"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/7/2/1758026176427.jpg"/>
   </programme>
-  <programme start="20260922191151 +0200" stop="20260922201500 +0200" channel="tvi">
-    <title lang="ca">Atrapa'm si pots</title>
-    <sub-title lang="ca">Atrapa'm si pots</sub-title>
-    <desc lang="ca">'Atrapa'm si pots' és un 'quiz show' clàssic, de preguntes i respostes, presentat per Llucià Ferrer, en què sis concursants competeixen per arribar a la fase final i guanyar el pot. 'Atrapa'm si pots' és entreteniment pur i on gairebé és més important passar-s'ho bé que els diners. És un concurs en què pesa més la intuïció que no els coneixements acadèmics, més l'estratègia en el joc que no la sort.</desc>
-    <length units="seconds">3789</length>
-    <episode-num system="onscreen">929</episode-num>
-    <category lang="ca">ENTRETENIMENT</category>
-    <category lang="ca">CONCURS</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
+  <programme start="20260922215956 +0200" stop="20260922220704 +0200" channel="tvi">
+    <title lang="ca">De primera!</title>
+    <sub-title lang="ca">- La verema</sub-title>
+    <desc lang="ca">Sense Descripció</desc>
+    <length units="seconds">428</length>
+    <episode-num system="onscreen">2</episode-num>
   </programme>
   <channel id="324">
     <display-name>324</display-name>
   </channel>
-  <programme start="20260922170000 +0200" stop="20260922183000 +0200" channel="324">
+  <programme start="20260922200000 +0200" stop="20260922210000 +0200" channel="324">
     <title lang="ca">Notícies 3CatInfo</title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">5400</length>
-    <episode-num system="onscreen">11239</episode-num>
+    <length units="seconds">3600</length>
+    <episode-num system="onscreen">11241</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <subtitles type="teletext"/>
     <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
-  <programme start="20260922183000 +0200" stop="20260922200000 +0200" channel="324">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">5400</length>
-    <episode-num system="onscreen">11240</episode-num>
+  <programme start="20260922210000 +0200" stop="20260922220500 +0200" channel="324">
+    <title lang="ca">Telenotícies vespre</title>
+    <length units="seconds">3900</length>
+    <episode-num system="onscreen">7335</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/7/2/1758026176427.jpg"/>
   </programme>
   <channel id="esport3">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20260922173301 +0200" stop="20260922175901 +0200" channel="esport3">
-    <title lang="ca">Top gols La Lliga</title>
-    <sub-title lang="ca">Top gols La Lliga - Jornada 7</sub-title>
-    <desc lang="ca">'Top gols La Lliga' repassa cada setmana tots els gols de la jornada de la Primera Divisió. Amb la locució de Catalunya Ràdio i d'altres emissores catalanes, viu i emocionat amb els gols dels equips del nostre país i també amb els de la resta d'equips de la màxima categoria estatal de futbol.</desc>
-    <length units="seconds">1560</length>
-    <episode-num system="onscreen">392</episode-num>
+  <programme start="20260922205013 +0200" stop="20260922215018 +0200" channel="esport3">
+    <title lang="ca">Futbol</title>
+    <sub-title lang="ca">Futbol - Reial Madrid CF-PSG / Champions League / J1</sub-title>
+    <desc lang="ca">Les blanques comencen la seva participació al gran campionat europeu contra les terceres classificades de la temporada passada a la lliga francesa.</desc>
+    <length units="seconds">3605</length>
+    <episode-num system="onscreen">90</episode-num>
     <category lang="ca">ESPORTS</category>
-    <category lang="ca">ESPECIALS</category>
+    <category lang="ca">RETRANSMISSIONS ESPORTS</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <icon src="https://img.ccma.cat/multimedia/jpg/0/5/1697737572850.jpg"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/5/0/1702464930005.jpg"/>
   </programme>
-  <programme start="20260922175901 +0200" stop="20260922185950 +0200" channel="esport3">
-    <title lang="ca">Esport Club</title>
-    <sub-title lang="ca">Esport Club</sub-title>
-    <desc lang="ca">Arriba la Nations League de futbol i, amb aquesta competició de seleccions, els debuts de Xavi, Zidane i Klopp a les banquetes de Països Baixos, França i Alemanya.</desc>
-    <length units="seconds">3649</length>
-    <episode-num system="onscreen">3245</episode-num>
+  <programme start="20260922215018 +0200" stop="20260922220358 +0200" channel="esport3">
+    <title lang="ca">Zona UFEC</title>
+    <sub-title lang="ca">Zona UFEC</sub-title>
+    <desc lang="ca">'Zona UFEC' és l'espai que pren el pols a la situació de l'esport català en les diferents disciplines. A través de reportatges i entrevistes, i en col·laboració amb la Unió de Federacions Esportives de Catalunya, cada setmana repassem els èxits i el treball dels esportistes catalans en les competicions de casa nostra i d'arreu del món.</desc>
+    <length units="seconds">820</length>
+    <episode-num system="onscreen">706</episode-num>
     <category lang="ca">ESPORTS</category>
-    <category lang="ca">INFORMATIU DIÀRI</category>
+    <category lang="ca">REPORTATGES</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
-    <previously-shown/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/7/3/1698145091337.jpg"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/0/0/1702403805000.jpg"/>
   </programme>
   <channel id="sx3">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20260922173505 +0200" stop="20260922174538 +0200" channel="sx3">
-    <title lang="ca">La Patrulla Peluda</title>
-    <sub-title lang="ca">La Patrulla Peluda - La Patrulla salva un rellotge de cucut</sub-title>
-    <desc lang="ca">La Chickaletta es queda tancada a dins del rellotge de cucut d'en Jake i el rellotge comença a caure muntanya avall. En Ryder i la Patrulla Peluda hauran d'anar a rescatar la gallina i el rellotge.</desc>
-    <length units="seconds">633</length>
-    <episode-num system="onscreen">225</episode-num>
+  <programme start="20260922205944 +0200" stop="20260922212200 +0200" channel="sx3">
+    <title lang="ca">Bola de drac Z</title>
+    <sub-title lang="ca">Bola de drac Z - Les tàctiques secretes d'en Son Goku</sub-title>
+    <desc lang="ca">La intensitat de l'enfrontament fa que en Cèl·lula canviï les regles del torneig i, després de destruir el ring, la lluita es converteix en un combat a vida o mort. Aleshores, en Son Goku, davant de la sorpresa de tothom, decideix carregar un kamehameha des de l'aire per atacar en Cèl·lula, que és a la Terra, convençut que el seu rival no serà capaç de destrossar tot el planeta.</desc>
+    <length units="seconds">1336</length>
+    <episode-num system="onscreen">179</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
-      <value>INFANTIL</value>
+      <value>JUVENIL</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20260922174538 +0200" stop="20260922175611 +0200" channel="sx3">
-    <title lang="ca">La Patrulla Peluda</title>
-    <sub-title lang="ca">La Patrulla Peluda - La Patrulla salva la casa de la Sra. Marjorie</sub-title>
-    <desc lang="ca">A la senyora Marjorie, se li està a punt d'ensorrar la casa per culpa d'uns sots misteriosos que li surten al pati i la Patrulla Peluda l'haurà d'ajudar.</desc>
-    <length units="seconds">633</length>
-    <episode-num system="onscreen">226</episode-num>
+  <programme start="20260922212200 +0200" stop="20260922214046 +0200" channel="sx3">
+    <title lang="ca">Bola de drac Z</title>
+    <sub-title lang="ca">Bola de drac Z - La rendició d'en Son Goku</sub-title>
+    <desc lang="ca">Després de caure fulminat amb l'increïble kamehameha d'en Son Goku, en Cèl·lula es regenera del tot i continua el combat. L'orgull d'en Son Goku, que després de l'últim atac s'ha quedat sense força, no li permet menjar-se una mongeta màgica per recuperar energia i, per sorpresa de tothom, acaba rendint-se.</desc>
+    <length units="seconds">1126</length>
+    <episode-num system="onscreen">180</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
-      <value>INFANTIL</value>
+      <value>JUVENIL</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
@@ -123,28 +113,29 @@
   <channel id="c33">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20260922172005 +0200" stop="20260922180327 +0200" channel="c33">
-    <title lang="ca">Viatges insòlits</title>
-    <sub-title lang="ca">Viatges insòlits - Dubai</sub-title>
-    <desc lang="ca">Dubai és ciutat de rècords, d'innovacions, de luxes i de controvèrsies. Però en Tom s'endinsarà amb el seu guia per descobrir l'autèntic dubaitià. Les tradicions i la cultura de Dubai semblen viure d'esquena a una ciutat que preveu un futur confrontat per la sostenibilitat i la modernitat.</desc>
-    <length units="seconds">2602</length>
-    <episode-num system="onscreen">45</episode-num>
-    <category lang="ca">DIVULGACIÓ</category>
-    <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
+  <programme start="20260922210152 +0200" stop="20260922211045 +0200" channel="c33">
+    <title lang="ca">Gran!</title>
+    <sub-title lang="ca">Gran! - Els Pets: 'Bon dia'</sub-title>
+    <desc lang="ca">'Bon dia', la cançó editada l'any 1997 dins del disc 'Bondia', s'ha convertit en un dels temes més emblemàtics del grup i en un autèntic hit intergeneracional, a banda d'un clàssic del cançoner del pop rock cantat en català. Aquella melodia senyera amb què es reconeix una formació i sempre és un reclam necessari en el seu repertori en directe. Amb 40 anys de trajectòria, la formació de Constantí va assolir el cim de la popularitat (venent més de 100.00 còpies) i el reconeixement de la crítica a partir d'aquest lluminós senzill i, per extensió, amb un disc que va encetar una nova i exitosa trajectòria: de cop, l'aparença de conjunt d''esperit de festa major' creixia en ambició estilística i expressiva, i abraçava influències com el brit-pop, l'electrònica, el rock nord-americà, etc. I sempre sense perdre la seva identitat i manera de ser. </desc>
+    <length units="seconds">533</length>
+    <episode-num system="onscreen">24</episode-num>
+    <category lang="ca">ENTRETENIMENT</category>
+    <category lang="ca">ALTRES</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
+    <icon src="https://img.ccma.cat/multimedia//jpg/0/1/1714397571710.jpg"/>
   </programme>
-  <programme start="20260922180327 +0200" stop="20260922184729 +0200" channel="c33">
-    <title lang="ca">Viatges insòlits</title>
-    <sub-title lang="ca">Viatges insòlits - Ulan Bator</sub-title>
-    <desc lang="ca">Mongòlia desperta sentiments d'aventura, llibertat i paisatges inhòspits. Bé, una cosa és ben certa: Mongòlia és el país menys poblat del món. Tot i així, Ulaanbaatar és a la llista d'en Tom de grans ciutats del món. Malgrat el rapidíssim creixement de la capital, al Tom no li costarà gens trobar tota l'autenticitat mongola.</desc>
-    <length units="seconds">2642</length>
-    <episode-num system="onscreen">39</episode-num>
-    <category lang="ca">DIVULGACIÓ</category>
-    <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
+  <programme start="20260922211045 +0200" stop="20260922213604 +0200" channel="c33">
+    <title lang="ca">Plats bruts</title>
+    <sub-title lang="ca">Plats bruts - Tinc classe</sub-title>
+    <desc lang="ca">El López ha de tornar a la Universitat per aconseguir el títol de llicenciat. Allà comprova que els estudiants d'ara ja no són com els de la seva època. El Ramon sospita que entre ell i la iaia potser hi ha alguna cosa més que amistat.</desc>
+    <length units="seconds">1519</length>
+    <episode-num system="onscreen">56</episode-num>
+    <category lang="ca">FICCIÓ</category>
+    <category lang="ca">SITCOM (COMÈDIA DE SITUACIÓ)</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
