@@ -3,24 +3,11 @@
   <channel id="tvi">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20260922080007 +0200" stop="20260922103000 +0200" channel="tvi">
-    <title lang="ca">Matins</title>
-    <sub-title lang="ca">Matins</sub-title>
-    <desc lang="ca">'Matins' és un dels puntals informatius de TV3. El programa matinal dona les claus del dia que comença, explica les notícies que han passat aportant-ne el context per entendre-les i analitza amb veus acreditades l'actualitat més propera i la d'arreu del món. 'Matins' comença a les 8 del matí, de dilluns a divendres, i està presentat per Ariadna Oltra.</desc>
-    <length units="seconds">8993</length>
-    <episode-num system="onscreen">4676</episode-num>
-    <category lang="ca">ACTUALITAT</category>
-    <category lang="ca">INFORMATIU DIÀRI</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <icon src="https://img.ccma.cat/multimedia/jpg/2/0/1758040151402.jpg"/>
-  </programme>
-  <programme start="20260922103000 +0200" stop="20260922135500 +0200" channel="tvi">
+  <programme start="20260922102948 +0200" stop="20260922135500 +0200" channel="tvi">
     <title lang="ca">Tot es mou</title>
     <sub-title lang="ca">Tot es mou</sub-title>
     <desc lang="ca">El programa presentat per Helena Garcia Melero s'emet de dilluns a divendres, de 10.30 a 13.55. Un magazín d'actualitat que busca informar, analitzar i debatre sobre temes que marquen l'actualitat social, econòmica i cultural del dia, amb una àmplia presència en directe dels reporters i reporteres, repartits per tot Catalunya. A més, el 'Tot es mou' compta amb seccions diàries de gastronomia (amb els principals cuiners i cuineres del país), successos, economia, mobilitat, temes mèdics i de tecnologia, entre d'altres.</desc>
-    <length units="seconds">12300</length>
+    <length units="seconds">12312</length>
     <episode-num system="onscreen">1813</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">MAGAZINE</category>
@@ -28,26 +15,26 @@
       <value>TOTS ELS PÚBLICS</value>
     </rating>
   </programme>
-  <channel id="324">
-    <display-name>324</display-name>
-  </channel>
-  <programme start="20260922080000 +0200" stop="20260922103000 +0200" channel="324">
-    <title lang="ca">Matins</title>
-    <desc lang="ca">'Matins' és un dels puntals informatius de TV3. El programa matinal dona les claus del dia que comença, explica les notícies que han passat aportant-ne el context per entendre-les i analitza amb veus acreditades l'actualitat més propera i la d'arreu del món. 'Matins' comença a les 8 del matí, de dilluns a divendres, i està presentat per Ariadna Oltra.</desc>
-    <length units="seconds">9000</length>
-    <episode-num system="onscreen">4676</episode-num>
+  <programme start="20260922135500 +0200" stop="20260922143000 +0200" channel="tvi">
+    <title lang="ca">Telenotícies comarques</title>
+    <sub-title lang="ca">Telenotícies comarques</sub-title>
+    <length units="seconds">2100</length>
+    <episode-num system="onscreen">7039</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <icon src="https://img.ccma.cat/multimedia/jpg/2/0/1758040151402.jpg"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/5/2/1758026313525.jpg"/>
   </programme>
-  <programme start="20260922103000 +0200" stop="20260922123000 +0200" channel="324">
+  <channel id="324">
+    <display-name>324</display-name>
+  </channel>
+  <programme start="20260922133000 +0200" stop="20260922135500 +0200" channel="324">
     <title lang="ca">Notícies 3CatInfo</title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">7200</length>
-    <episode-num system="onscreen">11236</episode-num>
+    <length units="seconds">1500</length>
+    <episode-num system="onscreen">11237</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
@@ -56,47 +43,57 @@
     <subtitles type="teletext"/>
     <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
+  <programme start="20260922135500 +0200" stop="20260922143000 +0200" channel="324">
+    <title lang="ca">Telenotícies comarques</title>
+    <length units="seconds">2100</length>
+    <episode-num system="onscreen">7039</episode-num>
+    <category lang="ca">ACTUALITAT</category>
+    <category lang="ca">INFORMATIU DIÀRI</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <icon src="https://img.ccma.cat/multimedia/jpg/5/2/1758026313525.jpg"/>
+  </programme>
   <channel id="esport3">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20260922070825 +0200" stop="20260922083935 +0200" channel="esport3">
-    <title lang="ca">Onze</title>
-    <sub-title lang="ca">Onze</sub-title>
-    <desc lang="ca">Carles Fité, Xavi Torres, Aina Cerdà i Jordi Martí analitzen el derbi madrileny i les crítiques de Mourinho a l'arbitratge. En Marc Mayola posa la lupa en alguns detalls tàctics del partit del Barça a Sevilla. En Joan Fàbregas repassa les jugades polèmiques de la jornada.</desc>
-    <length units="seconds">5470</length>
-    <episode-num system="onscreen">1252</episode-num>
+  <programme start="20260922130009 +0200" stop="20260922140122 +0200" channel="esport3">
+    <title lang="ca">Esport Club</title>
+    <sub-title lang="ca">Esport Club</sub-title>
+    <desc lang="ca">En Jordi Sanuy i Víctor Patsi us expliquen l'última hora esportiva i l'analitzen amb el seu equip de col·laboradors. El programa és molt actiu a les xarxes socials. L''Esport Club' té presència a Twitter, a Facebook i a Instagram. L'espai dirigeix moltes accions de participació amb l'audiència a través de les xarxes socials.</desc>
+    <length units="seconds">3673</length>
+    <episode-num system="onscreen">3245</episode-num>
     <category lang="ca">ESPORTS</category>
-    <category lang="ca">MAGAZINE</category>
+    <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
-    <previously-shown/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/1/1/1688543515711.jpg"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/7/3/1698145091337.jpg"/>
   </programme>
-  <programme start="20260922083935 +0200" stop="20260922091337 +0200" channel="esport3">
-    <title lang="ca">Aire Lliure</title>
-    <sub-title lang="ca">Aire Lliure - Triquell</sub-title>
-    <desc lang="ca">L'escenari de gravació de l'últim 'Aire lliure' d'aquest estiu serà l'aeròdrom d'Empuriabrava, on l'atleta Núria Picas convida el cantant Cesc Triquell a fer un salt amb paracaigudes i un vol espectacular en el túnel del vent. Després d'una intensíssima jornada de gravació, Triquell posarà punt i final a la temporada d''Aire lliure', interpretant 'Under Pressure', de Queen. </desc>
-    <length units="seconds">2042</length>
-    <episode-num system="onscreen">31</episode-num>
+  <programme start="20260922140122 +0200" stop="20260922153309 +0200" channel="esport3">
+    <title lang="ca">Esport Club</title>
+    <sub-title lang="ca">Esport Club</sub-title>
+    <desc lang="ca">En Jordi Sanuy i Víctor Patsi us expliquen l'última hora esportiva i l'analitzen amb el seu equip de col·laboradors. El programa és molt actiu a les xarxes socials. L''Esport Club' té presència a Twitter, a Facebook i a Instagram. L'espai dirigeix moltes accions de participació amb l'audiència a través de les xarxes socials.</desc>
+    <length units="seconds">5507</length>
+    <episode-num system="onscreen">3245</episode-num>
     <category lang="ca">ESPORTS</category>
-    <category lang="ca">REPORTATGES</category>
+    <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
-    <previously-shown/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/7/3/1698145091337.jpg"/>
   </programme>
   <channel id="sx3">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20260922080534 +0200" stop="20260922081619 +0200" channel="sx3">
-    <title lang="ca">El Mic i els seus amics</title>
-    <sub-title lang="ca">El Mic i els seus amics - El Mic fa de ratolí</sub-title>
-    <desc lang="ca">Ben amagat, darrere una capsa de cartró, el Mic fa de ratolí. Cada vegada que treu la poteta per un forat, en Cincsegons li dona una crispeta</desc>
-    <length units="seconds">645</length>
-    <episode-num system="onscreen">676</episode-num>
+  <programme start="20260922131811 +0200" stop="20260922133920 +0200" channel="sx3">
+    <title lang="ca">El detectiu Conan</title>
+    <sub-title lang="ca">El detectiu Conan - Visita als inferns de l'amor (Episodi d'Oita)</sub-title>
+    <desc lang="ca">En Kogoro Mouri convida la Ran i en Conan a anar a visitar la ciutat termal de Beppu, però l'autèntic propòsit d'en Kogoro és buscar la filla d'un empresari molt important que ha desaparegut. Troben la noia i avisen el pare, però, quan arriba ell, la seva filla ha tornat a desaparèixer, i aquesta vegada l'han segrestat. Mentrestant, en Takagi i la Sato segueixen la pista d'un lladre.</desc>
+    <length units="seconds">1269</length>
+    <episode-num system="onscreen">907</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
@@ -105,12 +102,12 @@
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20260922081619 +0200" stop="20260922082722 +0200" channel="sx3">
-    <title lang="ca">El Mic i els seus amics</title>
-    <sub-title lang="ca">El Mic i els seus amics - Verdura i hortalisses</sub-title>
-    <desc lang="ca">Pastanaga, enciam, patata... les verdures i les hortalisses tenen noms molt divertits.</desc>
-    <length units="seconds">663</length>
-    <episode-num system="onscreen">646</episode-num>
+  <programme start="20260922133920 +0200" stop="20260922140047 +0200" channel="sx3">
+    <title lang="ca">El detectiu Conan</title>
+    <sub-title lang="ca">El detectiu Conan - Records de la classe dels cirerers (La Ran de petita)</sub-title>
+    <desc lang="ca">Ara fa 13 anys, en Shinichi i la Ran es van conèixer a la llar d'infants, anaven junts a la classe dels cirerers. Quan en Conan i la Ran passen per sota d'una filera de cirerers florits, els records comencen a aparèixer i podem conèixer de primera mà com van ser aquells primers dies d'una relació que ja durarà per sempre. Això sí, el començament no va ser gens fàcil.</desc>
+    <length units="seconds">1287</length>
+    <episode-num system="onscreen">908</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
@@ -122,28 +119,28 @@
   <channel id="c33">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20260922072635 +0200" stop="20260922081926 +0200" channel="c33">
-    <title lang="ca">Experiència Catalana</title>
-    <sub-title lang="ca">Experiència Catalana - Puan</sub-title>
-    <desc lang="ca">La Putri Anindya, més coneguda com la 'Puan', és una jove indonèsia que, acompanyada de la Ivana Miño, descobreix la Sagrada Família, el Tibidabo i llocs magnífics del Berguedà. A més, a Berga, l'espera una experiència única; la Patum.</desc>
-    <length units="seconds">3171</length>
-    <episode-num system="onscreen">7</episode-num>
-    <category lang="ca">ENTRETENIMENT</category>
-    <category lang="ca">ALTRES</category>
+  <programme start="20260922122752 +0200" stop="20260922133720 +0200" channel="c33">
+    <title lang="ca">El Gran Dictat, VIP</title>
+    <sub-title lang="ca">El Gran Dictat, VIP - El Gran Gran Dictat</sub-title>
+    <desc lang="ca">'El gran gran dictat', la versió estiuenca del concurs de TV3 que presenta Òscar Dalmau, tanca la temporada d'estiu amb el mateix sentit de l'humor que ha caracteritzat les entregues anteriors. L'actriu Sílvia Abril, el presentador d''Òpera en texans', Ramon Gener, i la col·laboradora del programa 'Divendres' Ana Boadas seran els encarregats de tancar aquestes edicions especials d'una hora que han animat el prime-time de la cadena durant els dilluns d'estiu.</desc>
+    <length units="seconds">4168</length>
+    <episode-num system="onscreen">8</episode-num>
+    <category lang="ca">DIVULGACIÓ</category>
+    <category lang="ca">EDUCATIU</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20260922081926 +0200" stop="20260922084936 +0200" channel="c33">
-    <title lang="ca">Cosins Germans</title>
-    <sub-title lang="ca">Cosins Germans - La València de Ferran</sub-title>
-    <desc lang="ca">El cuiner Ricard Camarena serà el cicerone de l'Empar i el Ferran al Mercat Central (la Boqueria valenciana). L'historiador Evarist Caselles els guiarà per la València del segle XV. El Micalet, la Catedral, però sobretot la Llotja de la Seda són els edificis cabdals d'aquest moment històric, encarà que no serà l'arquitectura precisament el que els deixarà bocabadats. Una passejada pels Poblats Marítims posarà fi al recorregut més patrimonial per la ciutat. Però encara els espera una altra cara de la ciutat. Es tracta de la València de les novel·les de Ferran Torrent. Després d'un dinar amb amics i d'assistir a un partit del Llevant, aquest itinerari per l'univers personal i literari de l'escriptor desembocarà en una 'road movie' nocturna en què coneixeran les espècies protegides que habiten la ciutat.</desc>
-    <length units="seconds">1810</length>
-    <episode-num system="onscreen">7</episode-num>
-    <category lang="ca">DIVULGACIÓ</category>
-    <category lang="ca">ALTRES</category>
+  <programme start="20260922133720 +0200" stop="20260922140725 +0200" channel="c33">
+    <title lang="ca">No tenim vergonya</title>
+    <sub-title lang="ca">No tenim vergonya</sub-title>
+    <desc lang="ca">'No tenim vergonya' revisa els grans moments a Televisió de Catalunya. Se'ls mira des d'un altre punt de vista, per comparar-los amb la realitat actual o repassar moments televisius molt recordats. Mai, però, des d'un punt de vista nostàlgic. NTV és una cadena de televisió. I, com a tal, conté tota mena d'elements (molinets, publicitat...) i de programes (informatius, d'esports, magazines, musicals, concursos...). De què es nodreix la seva programació? De l'arxiu de la televisió pública catalana revisionada sense complexos. D'aquí ve el nom de la cadena NTV, de 'No tenim vergonya'.</desc>
+    <length units="seconds">1805</length>
+    <episode-num system="onscreen">218</episode-num>
+    <category lang="ca">ESPORTS</category>
+    <category lang="ca">REPORTATGES</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
@@ -153,9 +150,31 @@
   <channel id="oca1">
     <display-name>OCA1</display-name>
   </channel>
+  <programme start="20260922123207 +0200" stop="20260922143202 +0200" channel="oca1">
+    <title lang="ca">Roda de premsa posterior al Consell Executiu</title>
+    <length units="seconds">7195</length>
+    <episode-num system="onscreen">4124</episode-num>
+    <category lang="ca">ACTUALITAT</category>
+    <category lang="ca">RETRANSMISSIONS ACTUALITAT</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <icon src="https://img.ccma.cat/multimedia/jpg/6/2/1723647268726.jpg"/>
+  </programme>
   <channel id="oca2">
     <display-name>OCA2</display-name>
   </channel>
+  <programme start="20260922124818 +0200" stop="20260922144813 +0200" channel="oca2">
+    <title lang="ca">Roda de premsa posterior al Consell de Ministres</title>
+    <length units="seconds">7195</length>
+    <episode-num system="onscreen">4125</episode-num>
+    <category lang="ca">ACTUALITAT</category>
+    <category lang="ca">RETRANSMISSIONS ACTUALITAT</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <icon src="https://img.ccma.cat/multimedia/jpg/8/5/1766758430658.jpg"/>
+  </programme>
   <channel id="oca3">
     <display-name>OCA3</display-name>
   </channel>
