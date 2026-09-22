@@ -3,38 +3,40 @@
   <channel id="tvi">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20260922102948 +0200" stop="20260922135500 +0200" channel="tvi">
-    <title lang="ca">Tot es mou</title>
-    <sub-title lang="ca">Tot es mou</sub-title>
-    <desc lang="ca">El programa presentat per Helena Garcia Melero s'emet de dilluns a divendres, de 10.30 a 13.55. Un magazín d'actualitat que busca informar, analitzar i debatre sobre temes que marquen l'actualitat social, econòmica i cultural del dia, amb una àmplia presència en directe dels reporters i reporteres, repartits per tot Catalunya. A més, el 'Tot es mou' compta amb seccions diàries de gastronomia (amb els principals cuiners i cuineres del país), successos, economia, mobilitat, temes mèdics i de tecnologia, entre d'altres.</desc>
-    <length units="seconds">12312</length>
-    <episode-num system="onscreen">1813</episode-num>
-    <category lang="ca">ACTUALITAT</category>
+  <programme start="20260922172737 +0200" stop="20260922191151 +0200" channel="tvi">
+    <title lang="ca">La Selva</title>
+    <sub-title lang="ca">La Selva</sub-title>
+    <desc lang="ca">Xavier Grasset presenta La Selva, el nou magazín d'entreteniment de les tardes de TV3. Un show d'autor on parlarem de tot de forma distesa i lliure, una trobada fixa a la nova cafeteria de la televisió pública catalana, regentada per la Mercè Fonoll (l'actriu i humorista, Anna Bertran). A La Selva sempre hi passen coses, és un món ple d'activitat on diverses espècies hi conviuen de forma lliure.Hi passaran Antoni Bassas, Montse Barderi, Fel Faixedas, Sílvia Bel, la Nina, en Biel Duran, l'Alba Alfageme o la Carlota Gurt, entre molts d'altres. Una trobada plena de coneixement i seguiment de l'actualitat, però també d'entreteniment. Els acompanyaran, per exemple fent recomanacions, Sergi Cutillas, amb la seva música de capçalera, en Godai García que ens apropa a la terra -amb una mirada molt pròpia- o la cuinera i influencer, Sofia Janer.A La Selva farem un repàs al què ha passat durant el dia i a la vida en general d'aquella manera única del Xavier Grasset acompanyat al sofà per la Maria Xinxó, la Núria Martínez o l'Ester Pagès. La resta de l'equip treballarà per explicar-vos el que ha passat dins i fora de La Selva, acostar-vos al territori i oferir-vos entreteniment, però sempre amb contingut. Cada dia hi haurà entrevistes, no hi faltaran els llibres, la cultura o històries humanes de tot tipus. I, a més, comptarem amb la participació del nostre públic. Us convidarem a jugar en un concurs diari, divertit i enginyós. Quan t'endinses a la Selva mai saps què t'hi pots acabar trobant!Cada tarda, et farem companyia a 3cat. Us espera una nova aventura plena de personatges interessants, converses, reflexions, descobriments i uns quants somriures. Sempre amb un ull posat a tot el que passa al nostre voltant. Quedem a La Selva!</desc>
+    <length units="seconds">6254</length>
+    <episode-num system="onscreen">414</episode-num>
+    <category lang="ca">ENTRETENIMENT</category>
     <category lang="ca">MAGAZINE</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
+    <previously-shown/>
+    <icon src="https://img.3cat.cat/multimedia/jpg/6/3/1725871608136.jpg"/>
   </programme>
-  <programme start="20260922135500 +0200" stop="20260922143000 +0200" channel="tvi">
-    <title lang="ca">Telenotícies comarques</title>
-    <sub-title lang="ca">Telenotícies comarques</sub-title>
-    <length units="seconds">2100</length>
-    <episode-num system="onscreen">7039</episode-num>
-    <category lang="ca">ACTUALITAT</category>
-    <category lang="ca">INFORMATIU DIÀRI</category>
+  <programme start="20260922191151 +0200" stop="20260922201500 +0200" channel="tvi">
+    <title lang="ca">Atrapa'm si pots</title>
+    <sub-title lang="ca">Atrapa'm si pots</sub-title>
+    <desc lang="ca">'Atrapa'm si pots' és un 'quiz show' clàssic, de preguntes i respostes, presentat per Llucià Ferrer, en què sis concursants competeixen per arribar a la fase final i guanyar el pot. 'Atrapa'm si pots' és entreteniment pur i on gairebé és més important passar-s'ho bé que els diners. És un concurs en què pesa més la intuïció que no els coneixements acadèmics, més l'estratègia en el joc que no la sort.</desc>
+    <length units="seconds">3789</length>
+    <episode-num system="onscreen">929</episode-num>
+    <category lang="ca">ENTRETENIMENT</category>
+    <category lang="ca">CONCURS</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <icon src="https://img.ccma.cat/multimedia/jpg/5/2/1758026313525.jpg"/>
   </programme>
   <channel id="324">
     <display-name>324</display-name>
   </channel>
-  <programme start="20260922133000 +0200" stop="20260922135500 +0200" channel="324">
+  <programme start="20260922170000 +0200" stop="20260922183000 +0200" channel="324">
     <title lang="ca">Notícies 3CatInfo</title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">1500</length>
-    <episode-num system="onscreen">11237</episode-num>
+    <length units="seconds">5400</length>
+    <episode-num system="onscreen">11239</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
@@ -43,39 +45,40 @@
     <subtitles type="teletext"/>
     <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
-  <programme start="20260922135500 +0200" stop="20260922143000 +0200" channel="324">
-    <title lang="ca">Telenotícies comarques</title>
-    <length units="seconds">2100</length>
-    <episode-num system="onscreen">7039</episode-num>
+  <programme start="20260922183000 +0200" stop="20260922200000 +0200" channel="324">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="seconds">5400</length>
+    <episode-num system="onscreen">11240</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <icon src="https://img.ccma.cat/multimedia/jpg/5/2/1758026313525.jpg"/>
+    <subtitles type="teletext"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
   <channel id="esport3">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20260922130009 +0200" stop="20260922140122 +0200" channel="esport3">
-    <title lang="ca">Esport Club</title>
-    <sub-title lang="ca">Esport Club</sub-title>
-    <desc lang="ca">En Jordi Sanuy i Víctor Patsi us expliquen l'última hora esportiva i l'analitzen amb el seu equip de col·laboradors. El programa és molt actiu a les xarxes socials. L''Esport Club' té presència a Twitter, a Facebook i a Instagram. L'espai dirigeix moltes accions de participació amb l'audiència a través de les xarxes socials.</desc>
-    <length units="seconds">3673</length>
-    <episode-num system="onscreen">3245</episode-num>
+  <programme start="20260922173301 +0200" stop="20260922175901 +0200" channel="esport3">
+    <title lang="ca">Top gols La Lliga</title>
+    <sub-title lang="ca">Top gols La Lliga - Jornada 7</sub-title>
+    <desc lang="ca">'Top gols La Lliga' repassa cada setmana tots els gols de la jornada de la Primera Divisió. Amb la locució de Catalunya Ràdio i d'altres emissores catalanes, viu i emocionat amb els gols dels equips del nostre país i també amb els de la resta d'equips de la màxima categoria estatal de futbol.</desc>
+    <length units="seconds">1560</length>
+    <episode-num system="onscreen">392</episode-num>
     <category lang="ca">ESPORTS</category>
-    <category lang="ca">INFORMATIU DIÀRI</category>
+    <category lang="ca">ESPECIALS</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <subtitles type="teletext"/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/7/3/1698145091337.jpg"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/0/5/1697737572850.jpg"/>
   </programme>
-  <programme start="20260922140122 +0200" stop="20260922153309 +0200" channel="esport3">
+  <programme start="20260922175901 +0200" stop="20260922185950 +0200" channel="esport3">
     <title lang="ca">Esport Club</title>
     <sub-title lang="ca">Esport Club</sub-title>
-    <desc lang="ca">En Jordi Sanuy i Víctor Patsi us expliquen l'última hora esportiva i l'analitzen amb el seu equip de col·laboradors. El programa és molt actiu a les xarxes socials. L''Esport Club' té presència a Twitter, a Facebook i a Instagram. L'espai dirigeix moltes accions de participació amb l'audiència a través de les xarxes socials.</desc>
-    <length units="seconds">5507</length>
+    <desc lang="ca">Arriba la Nations League de futbol i, amb aquesta competició de seleccions, els debuts de Xavi, Zidane i Klopp a les banquetes de Països Baixos, França i Alemanya.</desc>
+    <length units="seconds">3649</length>
     <episode-num system="onscreen">3245</episode-num>
     <category lang="ca">ESPORTS</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
@@ -83,17 +86,18 @@
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
+    <previously-shown/>
     <icon src="https://img.ccma.cat/multimedia/jpg/7/3/1698145091337.jpg"/>
   </programme>
   <channel id="sx3">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20260922131811 +0200" stop="20260922133920 +0200" channel="sx3">
-    <title lang="ca">El detectiu Conan</title>
-    <sub-title lang="ca">El detectiu Conan - Visita als inferns de l'amor (Episodi d'Oita)</sub-title>
-    <desc lang="ca">En Kogoro Mouri convida la Ran i en Conan a anar a visitar la ciutat termal de Beppu, però l'autèntic propòsit d'en Kogoro és buscar la filla d'un empresari molt important que ha desaparegut. Troben la noia i avisen el pare, però, quan arriba ell, la seva filla ha tornat a desaparèixer, i aquesta vegada l'han segrestat. Mentrestant, en Takagi i la Sato segueixen la pista d'un lladre.</desc>
-    <length units="seconds">1269</length>
-    <episode-num system="onscreen">907</episode-num>
+  <programme start="20260922173505 +0200" stop="20260922174538 +0200" channel="sx3">
+    <title lang="ca">La Patrulla Peluda</title>
+    <sub-title lang="ca">La Patrulla Peluda - La Patrulla salva un rellotge de cucut</sub-title>
+    <desc lang="ca">La Chickaletta es queda tancada a dins del rellotge de cucut d'en Jake i el rellotge comença a caure muntanya avall. En Ryder i la Patrulla Peluda hauran d'anar a rescatar la gallina i el rellotge.</desc>
+    <length units="seconds">633</length>
+    <episode-num system="onscreen">225</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
@@ -102,12 +106,12 @@
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20260922133920 +0200" stop="20260922140047 +0200" channel="sx3">
-    <title lang="ca">El detectiu Conan</title>
-    <sub-title lang="ca">El detectiu Conan - Records de la classe dels cirerers (La Ran de petita)</sub-title>
-    <desc lang="ca">Ara fa 13 anys, en Shinichi i la Ran es van conèixer a la llar d'infants, anaven junts a la classe dels cirerers. Quan en Conan i la Ran passen per sota d'una filera de cirerers florits, els records comencen a aparèixer i podem conèixer de primera mà com van ser aquells primers dies d'una relació que ja durarà per sempre. Això sí, el començament no va ser gens fàcil.</desc>
-    <length units="seconds">1287</length>
-    <episode-num system="onscreen">908</episode-num>
+  <programme start="20260922174538 +0200" stop="20260922175611 +0200" channel="sx3">
+    <title lang="ca">La Patrulla Peluda</title>
+    <sub-title lang="ca">La Patrulla Peluda - La Patrulla salva la casa de la Sra. Marjorie</sub-title>
+    <desc lang="ca">A la senyora Marjorie, se li està a punt d'ensorrar la casa per culpa d'uns sots misteriosos que li surten al pati i la Patrulla Peluda l'haurà d'ajudar.</desc>
+    <length units="seconds">633</length>
+    <episode-num system="onscreen">226</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
@@ -119,28 +123,28 @@
   <channel id="c33">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20260922122752 +0200" stop="20260922133720 +0200" channel="c33">
-    <title lang="ca">El Gran Dictat, VIP</title>
-    <sub-title lang="ca">El Gran Dictat, VIP - El Gran Gran Dictat</sub-title>
-    <desc lang="ca">'El gran gran dictat', la versió estiuenca del concurs de TV3 que presenta Òscar Dalmau, tanca la temporada d'estiu amb el mateix sentit de l'humor que ha caracteritzat les entregues anteriors. L'actriu Sílvia Abril, el presentador d''Òpera en texans', Ramon Gener, i la col·laboradora del programa 'Divendres' Ana Boadas seran els encarregats de tancar aquestes edicions especials d'una hora que han animat el prime-time de la cadena durant els dilluns d'estiu.</desc>
-    <length units="seconds">4168</length>
-    <episode-num system="onscreen">8</episode-num>
+  <programme start="20260922172005 +0200" stop="20260922180327 +0200" channel="c33">
+    <title lang="ca">Viatges insòlits</title>
+    <sub-title lang="ca">Viatges insòlits - Dubai</sub-title>
+    <desc lang="ca">Dubai és ciutat de rècords, d'innovacions, de luxes i de controvèrsies. Però en Tom s'endinsarà amb el seu guia per descobrir l'autèntic dubaitià. Les tradicions i la cultura de Dubai semblen viure d'esquena a una ciutat que preveu un futur confrontat per la sostenibilitat i la modernitat.</desc>
+    <length units="seconds">2602</length>
+    <episode-num system="onscreen">45</episode-num>
     <category lang="ca">DIVULGACIÓ</category>
-    <category lang="ca">EDUCATIU</category>
+    <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20260922133720 +0200" stop="20260922140725 +0200" channel="c33">
-    <title lang="ca">No tenim vergonya</title>
-    <sub-title lang="ca">No tenim vergonya</sub-title>
-    <desc lang="ca">'No tenim vergonya' revisa els grans moments a Televisió de Catalunya. Se'ls mira des d'un altre punt de vista, per comparar-los amb la realitat actual o repassar moments televisius molt recordats. Mai, però, des d'un punt de vista nostàlgic. NTV és una cadena de televisió. I, com a tal, conté tota mena d'elements (molinets, publicitat...) i de programes (informatius, d'esports, magazines, musicals, concursos...). De què es nodreix la seva programació? De l'arxiu de la televisió pública catalana revisionada sense complexos. D'aquí ve el nom de la cadena NTV, de 'No tenim vergonya'.</desc>
-    <length units="seconds">1805</length>
-    <episode-num system="onscreen">218</episode-num>
-    <category lang="ca">ESPORTS</category>
-    <category lang="ca">REPORTATGES</category>
+  <programme start="20260922180327 +0200" stop="20260922184729 +0200" channel="c33">
+    <title lang="ca">Viatges insòlits</title>
+    <sub-title lang="ca">Viatges insòlits - Ulan Bator</sub-title>
+    <desc lang="ca">Mongòlia desperta sentiments d'aventura, llibertat i paisatges inhòspits. Bé, una cosa és ben certa: Mongòlia és el país menys poblat del món. Tot i així, Ulaanbaatar és a la llista d'en Tom de grans ciutats del món. Malgrat el rapidíssim creixement de la capital, al Tom no li costarà gens trobar tota l'autenticitat mongola.</desc>
+    <length units="seconds">2642</length>
+    <episode-num system="onscreen">39</episode-num>
+    <category lang="ca">DIVULGACIÓ</category>
+    <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
@@ -150,31 +154,9 @@
   <channel id="oca1">
     <display-name>OCA1</display-name>
   </channel>
-  <programme start="20260922123207 +0200" stop="20260922143202 +0200" channel="oca1">
-    <title lang="ca">Roda de premsa posterior al Consell Executiu</title>
-    <length units="seconds">7195</length>
-    <episode-num system="onscreen">4124</episode-num>
-    <category lang="ca">ACTUALITAT</category>
-    <category lang="ca">RETRANSMISSIONS ACTUALITAT</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <icon src="https://img.ccma.cat/multimedia/jpg/6/2/1723647268726.jpg"/>
-  </programme>
   <channel id="oca2">
     <display-name>OCA2</display-name>
   </channel>
-  <programme start="20260922124818 +0200" stop="20260922144813 +0200" channel="oca2">
-    <title lang="ca">Roda de premsa posterior al Consell de Ministres</title>
-    <length units="seconds">7195</length>
-    <episode-num system="onscreen">4125</episode-num>
-    <category lang="ca">ACTUALITAT</category>
-    <category lang="ca">RETRANSMISSIONS ACTUALITAT</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <icon src="https://img.ccma.cat/multimedia/jpg/8/5/1766758430658.jpg"/>
-  </programme>
   <channel id="oca3">
     <display-name>OCA3</display-name>
   </channel>
