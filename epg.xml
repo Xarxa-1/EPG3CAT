@@ -3,47 +3,36 @@
   <channel id="tvi">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20260922001747 +0200" stop="20260922005516 +0200" channel="tvi">
-    <title lang="ca">Xefs: noves generacions</title>
-    <sub-title lang="ca">Xefs: noves generacions - Rafel Muria (Restaurant Quatre Molins)</sub-title>
-    <desc lang="ca">Rafel Muria és l'ànima de Quatre Molins, un projecte que connecta la cuina d'autor amb els vins del Priorat. Format al costat de grans noms de l'alta gastronomia, com Michel Bras i Joël Robuchon, Muria ha construït una proposta personal, arrelada i exigent que l'ha portat a guanyar una Estrella Michelin. Hereu d'una nissaga d'apicultors del Perelló, és conegut com 'el xef de la mel', un ingredient que apareix amb precisió i equilibri en els seus plats. El capítol mostra una cuina que explica territori, paisatge i emoció, i que situa el Priorat al centre del mapa gastronòmic contemporani.</desc>
-    <length units="seconds">2249</length>
-    <episode-num system="onscreen">1</episode-num>
-    <category lang="ca">DIVULGACIÓ</category>
-    <category lang="ca">SÈRIE DOCUMENTAL</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <previously-shown/>
-  </programme>
-  <programme start="20260922005516 +0200" stop="20260922023715 +0200" channel="tvi">
-    <title lang="ca">Mésnit</title>
-    <sub-title lang="ca">Mésnit</sub-title>
-    <desc lang="ca">El 'Mésnit' arriba a la desena temporada, amb Marina Romero al capdavant de l'espai i amb la voluntat de continuar sent un centre de debat d'idees i d'anàlisi de l'activitat política.</desc>
-    <length units="seconds">6119</length>
-    <episode-num system="onscreen">2163</episode-num>
-    <category lang="ca">ACTUALITAT</category>
-    <category lang="ca">DEBAT</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <previously-shown/>
-  </programme>
-  <channel id="324">
-    <display-name>324</display-name>
-  </channel>
-  <programme start="20260922003000 +0200" stop="20260922010000 +0200" channel="324">
+  <programme start="20260922023823 +0200" stop="20260922040000 +0200" channel="tvi">
     <title lang="ca">Notícies 3CatInfo</title>
+    <sub-title lang="ca">Notícies 3CatInfo</sub-title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">1800</length>
+    <length units="seconds">4897</length>
     <episode-num system="onscreen">11234</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
+    <previously-shown/>
     <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
+  <programme start="20260922040000 +0200" stop="20260922050000 +0200" channel="tvi">
+    <title lang="ca">Ritmes a l'estudi</title>
+    <sub-title lang="ca">Ritmes a l'estudi - SHARK</sub-title>
+    <desc lang="ca">Cinc veus, cinc instrumentistes que són un reflex del panorama actual barceloní. Partint de les composicions del trombonista Tom Johnson, els Shark es deixen anar en una improvisació explosiva, que sorprèn i et convida a vibrar amb el seu groove. En la gravació d'avui podrem gaudir del seu so sòlid, fluid, delicat i alhora punyent.</desc>
+    <length units="seconds">3600</length>
+    <episode-num system="onscreen">8</episode-num>
+    <category lang="ca">MUSICALS</category>
+    <category lang="ca">ALTRES</category>
+    <rating>
+      <value>PÚBLIC ADULT</value>
+    </rating>
+    <previously-shown/>
+  </programme>
+  <channel id="324">
+    <display-name>324</display-name>
+  </channel>
   <programme start="20260922010000 +0200" stop="20260922060000 +0200" channel="324">
     <title lang="ca">Notícies 3CatInfo</title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
@@ -57,46 +46,60 @@
     <previously-shown/>
     <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
+  <programme start="20260922060000 +0200" stop="20260922080000 +0200" channel="324">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="seconds">7200</length>
+    <episode-num system="onscreen">11235</episode-num>
+    <category lang="ca">ACTUALITAT</category>
+    <category lang="ca">INFORMATIU DIÀRI</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <subtitles type="teletext"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
+  </programme>
   <channel id="esport3">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20260922003130 +0200" stop="20260922004924 +0200" channel="esport3">
+  <programme start="20260922023903 +0200" stop="20260922040956 +0200" channel="esport3">
+    <title lang="ca">Tot Costa</title>
+    <sub-title lang="ca">Tot Costa</sub-title>
+    <desc lang="ca">Ja ha tornat. El tècnic del Madrid, José Mourinho, carrega contra els àrbitres després de perdre el derbi madrileny. En parlarem amb Dani Senabre i Gemma Mallorca, i hi posarem la lupa del 'VARòmetre', amb Joan Fàbregas. Amb Ricard Torquemada ens preguntarem si Raphinha és el millor 9 que pot tenir el Barça i anirem al balcó de l'Ajuntament de Badalona, amb Ernest Macià, per celebrar la Supercopa de la Penya. </desc>
+    <length units="seconds">5453</length>
+    <episode-num system="onscreen">1007</episode-num>
+    <category lang="ca">ESPORTS</category>
+    <category lang="ca">INFORMATIU DIÀRI</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <subtitles type="teletext"/>
+    <previously-shown/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/0/4/1706209193140.jpg"/>
+  </programme>
+  <programme start="20260922040956 +0200" stop="20260922042839 +0200" channel="esport3">
     <title lang="ca">3CatInfo Esports</title>
     <sub-title lang="ca">3CatInfo Esports</sub-title>
     <desc lang="ca">Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.</desc>
-    <length units="seconds">1074</length>
+    <length units="seconds">1123</length>
     <episode-num system="onscreen">5515</episode-num>
     <category lang="ca">ESPORTS</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <icon src="https://img.ccma.cat/multimedia/jpg/9/7/1758888682179.jpg"/>
-  </programme>
-  <programme start="20260922004924 +0200" stop="20260922025002 +0200" channel="esport3">
-    <title lang="ca">Onze</title>
-    <sub-title lang="ca">Onze</sub-title>
-    <desc lang="ca">Carles Fité, Xavi Torres, Aina Cerdà i Jordi Martí analitzen el derbi madrileny i les crítiques de Mourinho a l'arbitratge. En Marc Mayola posa la lupa en alguns detalls tàctics del partit del Barça a Sevilla. En Joan Fàbregas repassa les jugades polèmiques de la jornada.</desc>
-    <length units="seconds">7238</length>
-    <episode-num system="onscreen">1252</episode-num>
-    <category lang="ca">ESPORTS</category>
-    <category lang="ca">MAGAZINE</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <subtitles type="teletext"/>
     <previously-shown/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/1/1/1688543515711.jpg"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/9/7/1758888682179.jpg"/>
   </programme>
   <channel id="sx3">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20260922003250 +0200" stop="20260922005421 +0200" channel="sx3">
-    <title lang="ca">Els germans Kratt</title>
-    <sub-title lang="ca">Els germans Kratt - Globus i peix globus</sub-title>
-    <desc lang="ca">Mentre estudiaven els peixos globus, els germans Kratt s'han trobat la Donita Donata, la malèfica dissenyadora que explota els animals en perill d'extinció, i han decidit miniaturitzar-se per seguir-la. Ara el problema és que se'ls ha endut un corrent marí de plàncton i estan perduts entre 60.000 bilions de litres d'aigua! Com s'ho faran per trobar-los?!</desc>
-    <length units="seconds">1291</length>
-    <episode-num system="onscreen">55</episode-num>
+  <programme start="20260922024830 +0200" stop="20260922030924 +0200" channel="sx3">
+    <title lang="ca">Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
+    <sub-title lang="ca">Prodigiosa: Les aventures de Ladybug i Gat Noir - L'aixafaguitarres</sub-title>
+    <desc lang="ca">Els amics de l'Adrien aprofiten que el seu pare se n'ha anat de viatge, o això es pensen, per organitzar una gran festa d'amics a casa seva. Hi va un munt de gent, però el Wayem es pensa que l'han deixat de banda, i l'Esfinx aprofitarà aquest sentiment per convertir-lo en un dels malvats més potents que ha creat mai.</desc>
+    <length units="seconds">1254</length>
+    <episode-num system="onscreen">72</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
@@ -105,12 +108,12 @@
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20260922005421 +0200" stop="20260922010549 +0200" channel="sx3">
-    <title lang="ca">Les Sisters</title>
-    <sub-title lang="ca">Les Sisters - Com enyoro el Max!</sub-title>
-    <desc lang="ca">El Maxence ha d'anar a passar un cap de setmana d'acampada amb els seus amics, sense la Wendy i sense cobertura per trucar-li ni enviar-li missatges. La Wendy està supernerviosa. No podrà passar dos dies seguits sense el seu Maxence! La Marine intentarà desintoxicar la seva germana del seu nòvio...</desc>
-    <length units="seconds">688</length>
-    <episode-num system="onscreen">24</episode-num>
+  <programme start="20260922030924 +0200" stop="20260922033002 +0200" channel="sx3">
+    <title lang="ca">Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
+    <sub-title lang="ca">Prodigiosa: Les aventures de Ladybug i Gat Noir - La Titellaire 2</sub-title>
+    <desc lang="ca">L'Adrien ha d'anar al museu de cera perquè han de fer una reparació a la seva estàtua i convida el Nino a acompanyar-lo. El Nino convida l'Alya, que al seu torn convida la Marinette, que fa de cangur a la Manon. A la nena li fa la sensació que ningú li fa cas, i l'Esfinx aprofita aquest sentiment d'abandó per convertir-la un altre cop en la Titellaire.</desc>
+    <length units="seconds">1238</length>
+    <episode-num system="onscreen">73</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
@@ -122,32 +125,33 @@
   <channel id="c33">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20260921235201 +0200" stop="20260922003857 +0200" channel="c33">
-    <title lang="ca">Aeroport</title>
-    <sub-title lang="ca">Aeroport - Plataforma</sub-title>
-    <desc lang="ca">Viatjar ja no és un luxe i els aeroports s'han convertit en les noves catedrals del món. Un formiguer ple d'històries, de passatgers i dels que hi treballen, com el Pau, capatàs de rampa, que ha d'esbrinar si el seu equip ha ratllat a un avió de 75 milions d'euros amb una escala.</desc>
-    <length units="seconds">2816</length>
-    <episode-num system="onscreen">16</episode-num>
+  <programme start="20260922030650 +0200" stop="20260922033532 +0200" channel="c33">
+    <title lang="ca">Arts i oficis</title>
+    <sub-title lang="ca">Arts i oficis - Regidoria</sub-title>
+    <desc lang="ca">L'ofici de regidor escènic fa possible que un esdeveniment pensat per a escena comenci i acabi tal com s'havia previst. A partir de la informació que rep del director artístic, el regidor és el responsable de la coordinació de tots els departaments que treballen sobre un escenari perquè cada representació comenci i acabi com estava previst. És una tècnica o és un art? Aquest és una debat etern i mentrestant l'Escola Superior de Tècniques de les Arts de l'Espectacle de l'Institut del Teatre forma aquests futurs professionals i els transmet les tècniques i l'empatia necessàries per treure el millor de cada un dels treballadors implicats en la producció. Perquè, per sobre de tot, l'espectacle ha de continuar.</desc>
+    <length units="seconds">1722</length>
+    <episode-num system="onscreen">1</episode-num>
     <category lang="ca">DIVULGACIÓ</category>
-    <category lang="ca">Docu-Entreteniment</category>
+    <category lang="ca">ALTRES</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20260922003857 +0200" stop="20260922005511 +0200" channel="c33">
-    <title lang="ca">Programa sindical UGT</title>
-    <sub-title lang="ca">Programa sindical UGT - Es continua cremant el bosc</sub-title>
-    <desc lang="ca">Les xifres dels incendis d'enguany són alarmants, fins a finals d'agost, a Catalunya, se n'han registrat un total de 949. La nova situació, provocada pel canvi climàtic, deixa en evidència la manca de recursos destinats a la lluita contra el foc d'una administració que sembla que només pensa en els incendis quan ja és tard. La precarietat que viu el cos de Bombers, provocada per anys sense inversió, ajuda que els boscos es cremin cada any una mica més.  Hi intervenen: Yolanda Funessecretària de Canvi Climàtic i Transició Justa UGT de Catalunya Reyes Solazsecretària nacional UGT de Catalunya Jordi Juliàresponsable Salut Laboral UGT de Catalunya de la GeneralitatToño del Riosecretari general Bombers UGT de CatalunyaConveni ARTE</desc>
-    <length units="seconds">974</length>
-    <episode-num system="onscreen">323</episode-num>
+  <programme start="20260922033532 +0200" stop="20260922040407 +0200" channel="c33">
+    <title lang="ca">Arts i oficis</title>
+    <sub-title lang="ca">Arts i oficis - Il·lustració</sub-title>
+    <desc lang="ca">Entendre la realitat pot ser una ciència; crear-la és tot un art. Els Il·lustradors, manobres de la imaginació, a partir d'un espai en blanc, un personatge, un paisatge o una situació que ens conviden a reflexionar, ens mostren que sempre hi ha una manera nova d'interpretar l'entorn. D'il·lustradors i d'il·lustracions n'hi ha per triar i remenar, i per a tota mena de clients: nacionals, internacionals, llibre infantil, moda, publicitat, videojocs, ciència, etc. L'Escola Massana forma il·lustradors perquè aprenguin a desenvolupar-se en funció de l'aplicació que més el interessa.</desc>
+    <length units="seconds">1715</length>
+    <episode-num system="onscreen">2</episode-num>
     <category lang="ca">DIVULGACIÓ</category>
-    <category lang="ca">MAGAZINE ESPECIALITZAT</category>
+    <category lang="ca">ALTRES</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
+    <previously-shown/>
   </programme>
   <channel id="oca1">
     <display-name>OCA1</display-name>
