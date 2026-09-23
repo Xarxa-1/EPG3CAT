@@ -3,23 +3,10 @@
   <channel id="tvi">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20260923232112 +0200" stop="20260924001242 +0200" channel="tvi">
-    <title lang="ca">País d'altura</title>
-    <sub-title lang="ca">Costa Brava</sub-title>
-    <desc lang="ca">La Costa Brava és molt més que cales de postal: és tramuntana, artistes, pirates, rucs catalans, Dalí i racons que et fan pensar que el paradís existeix.</desc>
-    <length units="seconds">3090</length>
-    <episode-num system="onscreen">1</episode-num>
-    <category lang="ca">ENTRETENIMENT</category>
-    <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <subtitles type="teletext"/>
-  </programme>
-  <programme start="20260924001242 +0200" stop="20260924023730 +0200" channel="tvi">
+  <programme start="20260924001243 +0200" stop="20260924021111 +0200" channel="tvi">
     <title lang="ca">Mésnit</title>
     <desc lang="ca">El 'Mésnit' arriba a la desena temporada, amb Marina Romero al capdavant de l'espai i amb la voluntat de continuar sent un centre de debat d'idees i d'anàlisi de l'activitat política.</desc>
-    <length units="seconds">8688</length>
+    <length units="seconds">7108</length>
     <episode-num system="onscreen">2165</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">DEBAT</category>
@@ -28,26 +15,40 @@
     </rating>
     <previously-shown/>
   </programme>
-  <channel id="324">
-    <display-name>324</display-name>
-  </channel>
-  <programme start="20260923220500 +0200" stop="20260924000000 +0200" channel="324">
-    <title lang="ca">Mésnit</title>
-    <desc lang="ca">El 'Mésnit' arriba a la desena temporada, amb Marina Romero al capdavant de l'espai i amb la voluntat de continuar sent un centre de debat d'idees i d'anàlisi de l'activitat política.</desc>
-    <length units="seconds">6900</length>
-    <episode-num system="onscreen">2165</episode-num>
+  <programme start="20260924021111 +0200" stop="20260924040000 +0200" channel="tvi">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="seconds">6529</length>
+    <episode-num system="onscreen">11252</episode-num>
     <category lang="ca">ACTUALITAT</category>
-    <category lang="ca">DEBAT</category>
+    <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <subtitles type="teletext"/>
+    <previously-shown/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
-  <programme start="20260924000000 +0200" stop="20260924003000 +0200" channel="324">
+  <channel id="324">
+    <display-name>324</display-name>
+  </channel>
+  <programme start="20260924010000 +0200" stop="20260924060000 +0200" channel="324">
     <title lang="ca">Notícies 3CatInfo</title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">1800</length>
-    <episode-num system="onscreen">11251</episode-num>
+    <length units="seconds">18000</length>
+    <episode-num system="onscreen">11252</episode-num>
+    <category lang="ca">ACTUALITAT</category>
+    <category lang="ca">INFORMATIU DIÀRI</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <previously-shown/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
+  </programme>
+  <programme start="20260924060000 +0200" stop="20260924080000 +0200" channel="324">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="seconds">7200</length>
+    <episode-num system="onscreen">11253</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
@@ -59,11 +60,11 @@
   <channel id="esport3">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20260923230005 +0200" stop="20260924003057 +0200" channel="esport3">
+  <programme start="20260924005453 +0200" stop="20260924022909 +0200" channel="esport3">
     <title lang="ca">Onze</title>
     <sub-title lang="ca">La nostra pilota d'or; Post Barça-París i 'El predicador'</sub-title>
     <desc lang="ca">Lluís Carrasco, Juvenal Edjogo, Laia Tudel i Joan Poquí fan les seves votacions per la pilota d'or i comenten el debut del Barça femení a la Champions. L'Òscar Perez-Dols predica els manaments del bon culer.</desc>
-    <length units="seconds">5452</length>
+    <length units="seconds">5656</length>
     <episode-num system="onscreen">1254</episode-num>
     <category lang="ca">ESPORTS</category>
     <category lang="ca">MAGAZINE</category>
@@ -71,29 +72,31 @@
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
+    <previously-shown/>
     <icon src="https://img.ccma.cat/multimedia/jpg/1/1/1688543515711.jpg"/>
   </programme>
-  <programme start="20260924003057 +0200" stop="20260924005134 +0200" channel="esport3">
+  <programme start="20260924022909 +0200" stop="20260924025001 +0200" channel="esport3">
     <title lang="ca">3CatInfo Esports</title>
     <desc lang="ca">Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.</desc>
-    <length units="seconds">1237</length>
+    <length units="seconds">1252</length>
     <episode-num system="onscreen">5517</episode-num>
     <category lang="ca">ESPORTS</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
+    <previously-shown/>
     <icon src="https://img.ccma.cat/multimedia/jpg/9/7/1758888682179.jpg"/>
   </programme>
   <channel id="sx3">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20260923232838 +0200" stop="20260923234938 +0200" channel="sx3">
-    <title lang="ca">Els germans Kratt</title>
-    <sub-title lang="ca">Perfumats</sub-title>
-    <desc lang="ca">Una colla de mofetes han convertit la Nau Tortuga en el seu cau i ara els germans Kratt i companyia s'han quedat sense camp base al desert de Sonora. El problema és que els vestits de poder animal i la resta d'invents són a l'interior de la nau, i l'únic que té manera d'entrar-hi és en Zach Virusmàtic, amb la Robobombolla, el seu últim invent!</desc>
-    <length units="seconds">1260</length>
-    <episode-num system="onscreen">62</episode-num>
+  <programme start="20260924014645 +0200" stop="20260924020554 +0200" channel="sx3">
+    <title lang="ca">Viatges Pokémon</title>
+    <sub-title lang="ca">Quan una casa no és una llar!</sub-title>
+    <desc lang="ca">El Goh es desperta d'un malson i es troba un Grookey recolzat al braç. Prova de capturar-lo, però el seu SmartRotom li diu que ja té entrenador. L'Ash i el Goh volen saber qui és aquest entrenador i van a buscar el lloc on viu el Grookey. Després de mirar les imatges de la càmera de vigilància d'una botiga, descobreixen que el Grookey va sortir de la màquina del Coet Secret Gran Premi del Team Rocket, i al cap d'un moment arriba aquest equip de malvats.</desc>
+    <length units="seconds">1149</length>
+    <episode-num system="onscreen">59</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
@@ -102,12 +105,12 @@
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20260923234938 +0200" stop="20260924001039 +0200" channel="sx3">
-    <title lang="ca">Els germans Kratt</title>
-    <sub-title lang="ca">Un monstre de Gila a sota casa</sub-title>
-    <desc lang="ca">Els germans Kratt acaben de rebre una trucada d'en Javier, un noi que viu al desert de Sonora i que assegura que se li ha instal·lat un monstre de Gila a sota de casa seva i que té molta por. La missió d'avui és descobrir com són de veritat els monstres de Gila i evitar que en Zach Virusmàtic aprofiti les característiques d'aquest animal per posar a la pràctica el seu pròxim invent!</desc>
-    <length units="seconds">1261</length>
-    <episode-num system="onscreen">63</episode-num>
+  <programme start="20260924020554 +0200" stop="20260924022513 +0200" channel="sx3">
+    <title lang="ca">Viatges Pokémon</title>
+    <sub-title lang="ca">Més enllà de la cavalleria...aspirant a ser Mestre Porro!</sub-title>
+    <desc lang="ca">La Sèrie Mundial de Coronació continua a tota marxa i l'Ash s'ha entrenat més que mai. Ell i el Goh fan un combat d'entrenament i se'n van cap al Centre Pokémon, on troben el Rinto, que prèviament havia derrotat l'Ash en un combat i ha ascendit a la classe excel·lent. L'Ash desafia el Rinto a un combat oficial, una revenja entre el Farfetch'd i el Gallade. Al principi, el Farfetch'd està una mica insegur, però l'Ash li fa recordar l'entrenament que va fer amb el Til·leu. Després de canviar d'estratègia, el Farfetch'd evoluciona a Sirfetch'd i derrota el Gallade.</desc>
+    <length units="seconds">1159</length>
+    <episode-num system="onscreen">60</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
@@ -119,56 +122,7 @@
   <channel id="c33">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20260923224906 +0200" stop="20260924001833 +0200" channel="c33">
-    <title lang="ca">Pel·lícula</title>
-    <sub-title lang="ca">The kid</sub-title>
-    <desc lang="ca">THE KID 'The Kid'Direcció: Vincent D'OnofrioGuió: Andrew LanhamProducció: Mimran Schur Pictures, Suretone Pictures, Batrax Entertainment, Eagle Films, GEM Entertainment, LionsgateAny: 2019Durada: 99País: Estats UnitsMúsica: Latham Gaines, Shelby GainesFotografia: Matthew J. LloydIntèrprets: Ethan Hawke, Dane DeHaan, Jake Schur, Leila George, Vincent D'Onofrio, Chris Pratt, Adam Baldwin, Tait Fletcher, Ben Dickey, Keith Jardine, MorningStar Angeline, Jenny Gabrielle, Stafford Douglas, Howard Ferguson Jr., Douglas Bennett, Jacob Browne, Rachel Singer, Rachel de la Torre, Rachel de la Torre, Christian Dalton, Chris Bylsma, Chris Bylsma, J. Nathan Simmons, J. Nathan Simmons, David Christian Welborn, David Christian Welborn, Joe Berryman, Michael E. Stogner, Leslie Fleming-Mitchell, Rose CordovaEl jove Rio es veu obligat a recórrer el sud-oest dels Estats Units per salvar la seva germana Sara del seu despietat oncle Grant.</desc>
-    <credits>
-      <director>Vincent D'Onofrio</director>
-      <writer>Andrew Lanham</writer>
-      <actor>Ethan Hawke</actor>
-      <actor>Dane DeHaan</actor>
-      <actor>Jake Schur</actor>
-      <actor>Leila George</actor>
-      <actor>Vincent D'Onofrio</actor>
-      <actor>Chris Pratt</actor>
-      <actor>Adam Baldwin</actor>
-      <actor>Tait Fletcher</actor>
-      <actor>Ben Dickey</actor>
-      <actor>Keith Jardine</actor>
-      <actor>MorningStar Angeline</actor>
-      <actor>Jenny Gabrielle</actor>
-      <actor>Stafford Douglas</actor>
-      <actor>Howard Ferguson Jr.</actor>
-      <actor>Douglas Bennett</actor>
-      <actor>Jacob Browne</actor>
-      <actor>Rachel Singer</actor>
-      <actor>Rachel de la Torre</actor>
-      <actor>Rachel de la Torre</actor>
-      <actor>Christian Dalton</actor>
-      <actor>Chris Bylsma</actor>
-      <actor>Chris Bylsma</actor>
-      <actor>J. Nathan Simmons</actor>
-      <actor>J. Nathan Simmons</actor>
-      <actor>David Christian Welborn</actor>
-      <actor>David Christian Welborn</actor>
-      <actor>Joe Berryman</actor>
-      <actor>Michael E. Stogner</actor>
-      <actor>Leslie Fleming-Mitchell</actor>
-      <actor>Rose CordovaEl jove Rio es veu obligat a recórrer el sud-oest dels Estats Units per salvar la seva germana Sara del seu despietat oncle Grant.</actor>
-    </credits>
-    <length units="seconds">5367</length>
-    <episode-num system="onscreen">1</episode-num>
-    <category lang="ca">FICCIÓ</category>
-    <category lang="ca">PEL·LÍCULA / TELEFILM</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <subtitles type="teletext"/>
-    <previously-shown/>
-    <icon src="https://img.3cat.cat/multimedia/jpg/9/6/1787556512569.jpg"/>
-  </programme>
-  <programme start="20260924001833 +0200" stop="20260924021947 +0200" channel="c33">
+  <programme start="20260924001834 +0200" stop="20260924021948 +0200" channel="c33">
     <title lang="ca">Pel·lícula</title>
     <sub-title lang="ca">Assassinat a l'Orient Express</sub-title>
     <desc lang="ca">ASSASSINAT A L'ORIENT EXPRESS (Murder on the Orient Express)Idioma versió original: anglèsProducció: John Brabourne i Richard Goodwin per a EMI Films, 1974 (Gran Bretanya)Direcció: Sidney Lumet / Durada: 121 minutsGuió: Paul Dehn, basat en la novel·la d'Agatha ChristieFotografia: Geoffrey Unsworth (Technicolor)Música: Richard Rodney BennetIntèrprets: Albert Finney (Hercule Poirot), Lauren Bacall (senyora Hubbard), Martin Balsam (Bianchi), Ingrid Bergman (Greta), Jacqueline Bisset (comtessa Andrenyi), Jean-Pierre Cassel (Pierre)El 1930 esclata un drama amb el segrest de la nena Daisy Armstrong. El pare paga el rescat, però la nena mor. Detenen i condemnen el raptor i, al cap d'un temps, els Armstrong moren i la cangur se suïcida. El 1935 Hercule Poirot viatja en l'Orient Express i un dels viatgers, Ratchett, li demana que el protegeixi. Poirot s'hi nega i, poc després, Ratchett mor de dotze ganivetades. Poirot descobreix que Ratchett havia organitzat el segrest de Daisy i que tots els passatgers del tren tenen algun lligam amb la família Armstrong.</desc>
@@ -202,6 +156,20 @@
     <subtitles type="teletext"/>
     <previously-shown/>
     <icon src="https://img.3cat.cat/multimedia//jpg/1/7/1753211868571.jpg"/>
+  </programme>
+  <programme start="20260924021948 +0200" stop="20260924025649 +0200" channel="c33">
+    <title lang="ca">km33</title>
+    <sub-title lang="ca">Romania</sub-title>
+    <desc lang="ca">De Transsilvània al mar NegreL'actor Jordi Vilches aprofita per viatjar entre rodatge i rodatge. Aquesta vegada, el destí és la Romania de Dràcula i els gitanos. Amb la Sílvia, una fotògrafa, anirà de Bucarest al mar Negre, passant pels castells de Transsilvània.I a més a més:VIATGES ECONÒMICSUn repàs de les companyies aèries de baix cost.EUROPA DE NITEls locals imprescindibles per anar de festa a les capitals europees.RUTES PER A MITÒMANSI els destins preferits dels mitòmans, com les tombes o les residències de cantants famosos.</desc>
+    <length units="seconds">2221</length>
+    <episode-num system="onscreen">5</episode-num>
+    <category lang="ca">ENTRETENIMENT</category>
+    <category lang="ca">ALTRES</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <subtitles type="teletext"/>
+    <previously-shown/>
   </programme>
   <channel id="oca1">
     <display-name>OCA1</display-name>
