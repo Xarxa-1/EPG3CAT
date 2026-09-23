@@ -3,49 +3,35 @@
   <channel id="tvi">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20260923020000 +0200" stop="20260923040000 +0200" channel="tvi">
+  <programme start="20260923060000 +0200" stop="20260923080000 +0200" channel="tvi">
     <title lang="ca">Notícies 3CatInfo</title>
     <sub-title lang="ca">Notícies 3CatInfo</sub-title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <length units="seconds">7200</length>
-    <episode-num system="onscreen">11243</episode-num>
+    <episode-num system="onscreen">11244</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <previously-shown/>
     <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
-  <programme start="20260923040000 +0200" stop="20260923050000 +0200" channel="tvi">
-    <title lang="ca">Ritmes a l'estudi</title>
-    <sub-title lang="ca">Ritmes a l'estudi - TRIPHASSIC</sub-title>
-    <desc lang="ca">Llibert Fortuny i Gary Willies afegeixen un nou projecte a la seva ja àmplia trajectòria. Aquest trio ens ofereixen un repertori peculiar en què els elements electrònics es barregen amb els del jazz, i aconsegueix noves maneres d'expressió. En la sessió que segueix, veureu un Llibert carregat d'efectes analògics i digitals, que donen com a fruit un deliri sonor molt ben acompanyat rítmicament per Willis i Davis Gómez.</desc>
-    <length units="seconds">3600</length>
-    <episode-num system="onscreen">9</episode-num>
-    <category lang="ca">MUSICALS</category>
-    <category lang="ca">ALTRES</category>
+  <programme start="20260923080000 +0200" stop="20260923102957 +0200" channel="tvi">
+    <title lang="ca">Matins</title>
+    <sub-title lang="ca">Matins</sub-title>
+    <desc lang="ca">'Matins' és un dels puntals informatius de TV3. El programa matinal dona les claus del dia que comença, explica les notícies que han passat aportant-ne el context per entendre-les i analitza amb veus acreditades l'actualitat més propera i la d'arreu del món. 'Matins' comença a les 8 del matí, de dilluns a divendres, i està presentat per Ariadna Oltra.</desc>
+    <length units="seconds">8997</length>
+    <episode-num system="onscreen">4677</episode-num>
+    <category lang="ca">ACTUALITAT</category>
+    <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
-      <value>PÚBLIC ADULT</value>
+      <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <previously-shown/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/2/0/1758040151402.jpg"/>
   </programme>
   <channel id="324">
     <display-name>324</display-name>
   </channel>
-  <programme start="20260923010000 +0200" stop="20260923060000 +0200" channel="324">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">18000</length>
-    <episode-num system="onscreen">11243</episode-num>
-    <category lang="ca">ACTUALITAT</category>
-    <category lang="ca">INFORMATIU DIÀRI</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <previously-shown/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
-  </programme>
   <programme start="20260923060000 +0200" stop="20260923080000 +0200" channel="324">
     <title lang="ca">Notícies 3CatInfo</title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
@@ -59,28 +45,41 @@
     <subtitles type="teletext"/>
     <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
-  <channel id="esport3">
-    <display-name>ESPORT3</display-name>
-  </channel>
-  <programme start="20260923021645 +0200" stop="20260923023318 +0200" channel="esport3">
-    <title lang="ca">3CatInfo Esports</title>
-    <sub-title lang="ca">3CatInfo Esports</sub-title>
-    <desc lang="ca">Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.</desc>
-    <length units="seconds">993</length>
-    <episode-num system="onscreen">5516</episode-num>
-    <category lang="ca">ESPORTS</category>
+  <programme start="20260923080000 +0200" stop="20260923090000 +0200" channel="324">
+    <title lang="ca">Matins</title>
+    <desc lang="ca">'Matins' és un dels puntals informatius de TV3. El programa matinal dona les claus del dia que comença, explica les notícies que han passat aportant-ne el context per entendre-les i analitza amb veus acreditades l'actualitat més propera i la d'arreu del món. 'Matins' comença a les 8 del matí, de dilluns a divendres, i està presentat per Ariadna Oltra.</desc>
+    <length units="seconds">3600</length>
+    <episode-num system="onscreen">4677</episode-num>
+    <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <previously-shown/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/9/7/1758888682179.jpg"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/2/0/1758040151402.jpg"/>
   </programme>
-  <programme start="20260923023318 +0200" stop="20260923041419 +0200" channel="esport3">
+  <channel id="esport3">
+    <display-name>ESPORT3</display-name>
+  </channel>
+  <programme start="20260923065248 +0200" stop="20260923082327 +0200" channel="esport3">
+    <title lang="ca">Onze</title>
+    <sub-title lang="ca">Onze</sub-title>
+    <desc lang="ca">Sique Rodríguez, Jordi Costa, Paula Reverter i Ivan San Antonio es recreen en el bon estat de forma del Barça. En Fran Domènech presenta els titulars més curiosos de la premsa esportiva. En Sergi Ferrer contesta les preguntes dels espectadors.</desc>
+    <length units="seconds">5439</length>
+    <episode-num system="onscreen">1253</episode-num>
+    <category lang="ca">ESPORTS</category>
+    <category lang="ca">MAGAZINE</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <subtitles type="teletext"/>
+    <previously-shown/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/1/1/1688543515711.jpg"/>
+  </programme>
+  <programme start="20260923082327 +0200" stop="20260923100447 +0200" channel="esport3">
     <title lang="ca">Futbol</title>
     <sub-title lang="ca">Futbol - Reial Madrid CF-PSG / Champions League / J1</sub-title>
     <desc lang="ca">Les blanques comencen la seva participació al gran campionat europeu contra les terceres classificades de la temporada passada a la lliga francesa.</desc>
-    <length units="seconds">6061</length>
+    <length units="seconds">6080</length>
     <episode-num system="onscreen">90</episode-num>
     <category lang="ca">ESPORTS</category>
     <category lang="ca">RETRANSMISSIONS ESPORTS</category>
@@ -93,12 +92,12 @@
   <channel id="sx3">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20260923020553 +0200" stop="20260923022532 +0200" channel="sx3">
-    <title lang="ca">Viatges Pokémon</title>
-    <sub-title lang="ca">Viatges Pokémon - Records d’una càlida amabilitat!</sub-title>
-    <desc lang="ca">És un dia fred i ple d'activitat a Ciutat Carmí. El Parker s'emporta el Yamper a una festa de pijames. El Goh vol capturar algun Pokémon de tipus gel, i la Chrysa i la Chloe acaben fent un sopar de noies. Quan la Chloe veu que la Chrysa té molts objectes de Psyduck, la Chrysa li explica que, en una època que estava molt desanimada, un noi i el seu Psyduck, que anava amb bufanda, la van animar, i per això no els ha oblidat. L'endemà, l'Ash i el Goh expliquen a la Chloe que van conèixer el mateix noi i el Psyduck, i la Chloe insisteix que surtin tots a buscar-los. Al final els troben i la Chloe proporciona el retrobament entre la Chrysa, plena de felicitat, i el Psyduck que significa tant per ella.</desc>
-    <length units="seconds">1179</length>
-    <episode-num system="onscreen">57</episode-num>
+  <programme start="20260923064505 +0200" stop="20260923065947 +0200" channel="sx3">
+    <title lang="ca">L'abella Maia</title>
+    <sub-title lang="ca">L'abella Maia - La rotllana de les erugues</sub-title>
+    <desc lang="ca">La Maia, en Willi i en Ben s'han trobat una colònia d'erugues processionàries del roure que es dirigeixen cap al seu niu. La veritat és que són tot un espectacle, però estan dividint el prat en dos i la resta d'animalons no el poden travessar, perquè quan les toquen els comença a picar tot el cos. La Maia ja està pensant una solució, però és clar que no serà gens fàcil!</desc>
+    <length units="seconds">882</length>
+    <episode-num system="onscreen">25</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
@@ -107,12 +106,12 @@
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20260923022532 +0200" stop="20260923024639 +0200" channel="sx3">
-    <title lang="ca">Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
-    <sub-title lang="ca">Prodigiosa: Les aventures de Ladybug i Gat Noir - Ladybug</sub-title>
-    <desc lang="ca">La Lila, empesa per l'Esfinx, li para una trampa a la Marinette perquè tothom es pensi que ha copiat les respostes en un examen. La Mayura també hi col·labora amb un sentimonstre molt especial, una reproducció gairebé perfecta de Ladybug. Al Gat Noir li costarà distingir quina de les dues és l'autèntica.</desc>
-    <length units="seconds">1267</length>
-    <episode-num system="onscreen">76</episode-num>
+  <programme start="20260923065947 +0200" stop="20260923071058 +0200" channel="sx3">
+    <title lang="ca">La Patrulla Peluda</title>
+    <sub-title lang="ca">La Patrulla Peluda - La Patrulla salva els pingüins polissons</sub-title>
+    <desc lang="ca">Uns pingüins s'han escampat per tot Badia Aventures! És hora de trucar a la Patrulla Peluda!</desc>
+    <length units="seconds">671</length>
+    <episode-num system="onscreen">86</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
@@ -124,26 +123,26 @@
   <channel id="c33">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20260923021945 +0200" stop="20260923025807 +0200" channel="c33">
-    <title lang="ca">km33</title>
-    <sub-title lang="ca">km33 - Estònia</sub-title>
-    <desc lang="ca">El Frederic sovint enyora Estònia, on va ser amb una beca Erasmus. Torna al país bàltic per retrobar-se amb l'atmosfera de conte de Tallinn. Aprofita per visitar els amics i descobrir amb ells zones encara desconegudes.</desc>
-    <length units="seconds">2302</length>
-    <episode-num system="onscreen">3</episode-num>
+  <programme start="20260923063020 +0200" stop="20260923071739 +0200" channel="c33">
+    <title lang="ca">El Foraster</title>
+    <sub-title lang="ca">El Foraster - Els regals del Foraster</sub-title>
+    <desc lang="ca">En l'últim capítol d'aquesta entrega d'El Foraster, en Quim recordarà els moments que la gent li ha regalat en els darrers pobles que ha visitat. Un recull d'emocions, amb històries divertides i històries emotives. Com la de la Maria i en Lluís, la mare i el fill que li regalen tot el seu temps i dedicació a la seva passió, els fesols de Santa Pau. O en Marcial i en Rafel de Sant Martí de Tous, que ens van regalar estones molt divertides amb els seus riures i el seu pèndol revelador. També podrem tornar a gaudir del regal que ens va fer l'Eli, quan ens va ensenyar com és el fons marí d'un indret tan bonic com Cadaqués. O el gran regal en forma d'abraçada que les Quimetes de Pacs del Penedés li van fer a en Quim. I ens podrem tornar a emocionar amb en Joan i en Hammou, el patró i el jornaler de Riudecanyes que ens van regalar la seva gran història.Santa Pau, Pacs del Penedés, Serinyà, Cadaqués, Sant Martí de Tous i Riudecanyes són els darrers pobles on en Quim ha pogut desembolicar els últims regals. Aquelles grans històries que hi ha darrera dels petits pobles.</desc>
+    <length units="seconds">2839</length>
+    <episode-num system="onscreen">81</episode-num>
     <category lang="ca">ENTRETENIMENT</category>
-    <category lang="ca">ALTRES</category>
+    <category lang="ca">VARIETATS</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20260923025807 +0200" stop="20260923033518 +0200" channel="c33">
-    <title lang="ca">km33</title>
-    <sub-title lang="ca">km33 - NY</sub-title>
-    <desc lang="ca">A la capital del mónLa Sandra i l'Oriol tornen a Nova York per perdre's en la metròpolis on algun dia voldrien viure. Des dels clàssics gratacels de Manhattan fins al Brooklyn emergent, passant pels barris multiculturals o l'imaginari 'freak' de Coney Island.I a més a més:L'IMPRESCINDIBLETours i visites que cal fer la primera vegada que es va a la ciutat.TURISME GASTRONÒMICViatjar pel món amb un objectiu ben gustós: la cultura del menjar.I UN CALENDARIDotze mesos, dotze esdeveniments gratuïts per gaudir d'una ciutat que no dorm mai.</desc>
-    <length units="seconds">2231</length>
-    <episode-num system="onscreen">4</episode-num>
+  <programme start="20260923071739 +0200" stop="20260923081033 +0200" channel="c33">
+    <title lang="ca">Experiència Catalana</title>
+    <sub-title lang="ca">Experiència Catalana - Corno</sub-title>
+    <desc lang="ca">Amb el Corno van der Berg, un jove holandès, visitem diferents indrets naturals dels Pallars i coneixem la tradicional baixada de falles d'Isil. A més, al circuit Barcelona-Catalunya gaudeix d'una experiència al límit.</desc>
+    <length units="seconds">3174</length>
+    <episode-num system="onscreen">8</episode-num>
     <category lang="ca">ENTRETENIMENT</category>
     <category lang="ca">ALTRES</category>
     <rating>
