@@ -3,38 +3,38 @@
   <channel id="tvi">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20260923103010 +0200" stop="20260923135500 +0200" channel="tvi">
-    <title lang="ca">Tot es mou</title>
-    <sub-title lang="ca">Tot es mou</sub-title>
-    <desc lang="ca">El programa presentat per Helena Garcia Melero s'emet de dilluns a divendres, de 10.30 a 13.55. Un magazín d'actualitat que busca informar, analitzar i debatre sobre temes que marquen l'actualitat social, econòmica i cultural del dia, amb una àmplia presència en directe dels reporters i reporteres, repartits per tot Catalunya. A més, el 'Tot es mou' compta amb seccions diàries de gastronomia (amb els principals cuiners i cuineres del país), successos, economia, mobilitat, temes mèdics i de tecnologia, entre d'altres.</desc>
-    <length units="seconds">12290</length>
+  <programme start="20260923160427 +0200" stop="20260923164102 +0200" channel="tvi">
+    <title lang="ca">Com si fos ahir</title>
+    <desc lang="ca">La Gemma i la Cristina entenen millor la situació de la Cinta i en Fede, i la Gemma comença a veure en Fede amb uns altres ulls. La Sílvia, la Itziar i la Foix intenten resoldre el problema del veí sorollós, però la mediació no funciona i acaben prenent mesures més dràstiques. I en Miquel accepta treballar per l'empresa d'en Carles, sense saber que precisament en Carles és un dels directius que volen acomiadar.</desc>
+    <length units="seconds">2195</length>
     <episode-num system="onscreen">1814</episode-num>
-    <category lang="ca">ACTUALITAT</category>
-    <category lang="ca">MAGAZINE</category>
+    <category lang="ca">FICCIÓ</category>
+    <category lang="ca">SÈRIE DRAMÀTICA</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
   </programme>
-  <programme start="20260923135500 +0200" stop="20260923143000 +0200" channel="tvi">
-    <title lang="ca">Telenotícies comarques</title>
-    <sub-title lang="ca">Telenotícies comarques</sub-title>
-    <length units="seconds">2100</length>
-    <episode-num system="onscreen">7040</episode-num>
-    <category lang="ca">ACTUALITAT</category>
-    <category lang="ca">INFORMATIU DIÀRI</category>
+  <programme start="20260923163638 +0200" stop="20260923171200 +0200" channel="tvi">
+    <title lang="ca">La Riera</title>
+    <desc lang="ca">L'arribada del nou xef és imminent i a en Sergi no li fa cap gràcia. La Txell torna a la feina i a en Joan li ofereixen un ascens. En Mauri es presenta a la cuina, però les noies, sobretot la seva filla, li fan un paper de por. La Mercè vol que la Sònia el deixi en pau. Els germans es consolen i es fan companyia... i confidències.</desc>
+    <length units="seconds">2122</length>
+    <episode-num system="onscreen">136</episode-num>
+    <category lang="ca">FICCIÓ</category>
+    <category lang="ca">TELENOVEL·LA</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <icon src="https://img.ccma.cat/multimedia/jpg/5/2/1758026313525.jpg"/>
+    <subtitles type="teletext"/>
+    <previously-shown/>
   </programme>
   <channel id="324">
     <display-name>324</display-name>
   </channel>
-  <programme start="20260923090000 +0200" stop="20260923120000 +0200" channel="324">
+  <programme start="20260923160000 +0200" stop="20260923170000 +0200" channel="324">
     <title lang="ca">Notícies 3CatInfo</title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">10800</length>
-    <episode-num system="onscreen">11245</episode-num>
+    <length units="seconds">3600</length>
+    <episode-num system="onscreen">11247</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
@@ -43,11 +43,11 @@
     <subtitles type="teletext"/>
     <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
-  <programme start="20260923120000 +0200" stop="20260923135500 +0200" channel="324">
+  <programme start="20260923170000 +0200" stop="20260923183000 +0200" channel="324">
     <title lang="ca">Notícies 3CatInfo</title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">6900</length>
-    <episode-num system="onscreen">11246</episode-num>
+    <length units="seconds">5400</length>
+    <episode-num system="onscreen">11248</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
@@ -59,60 +59,58 @@
   <channel id="esport3">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20260923112951 +0200" stop="20260923130000 +0200" channel="esport3">
-    <title lang="ca">Onze</title>
-    <sub-title lang="ca">Onze</sub-title>
-    <desc lang="ca">Sique Rodríguez, Jordi Costa, Paula Reverter i Ivan San Antonio es recreen en el bon estat de forma del Barça. En Fran Domènech presenta els titulars més curiosos de la premsa esportiva. En Sergi Ferrer contesta les preguntes dels espectadors.</desc>
-    <length units="seconds">5409</length>
-    <episode-num system="onscreen">1253</episode-num>
-    <category lang="ca">ESPORTS</category>
-    <category lang="ca">MAGAZINE</category>
+  <programme start="20260923161646 +0200" stop="20260923170305 +0200" channel="esport3">
+    <title lang="ca">Viatges insòlits</title>
+    <sub-title lang="ca">Ciutat de Mèxic</sub-title>
+    <desc lang="ca">Amb més de 22 milions d'habitants, Ciutat de Mèxic és una de les ciutats més grans i més influents del món. A la dècada de 1990, la ciutat encapçalava tota mena de llistes que descrivien la inhabitabilitat de la ciutat. Era una ciutat perillosa amb unes xifres de delinqüència disparades i milions de cotxes que creaven un boirum i una contaminació atmosfèrica alarmants. Durant el seu viatge a Ciutat de Mèxic, en Tom descobrirà els enormes canvis que aquesta metròpoli ha viscut els últims anys.</desc>
+    <length units="seconds">2779</length>
+    <episode-num system="onscreen">41</episode-num>
+    <category lang="ca">DIVULGACIÓ</category>
+    <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/1/1/1688543515711.jpg"/>
   </programme>
-  <programme start="20260923130000 +0200" stop="20260923140107 +0200" channel="esport3">
-    <title lang="ca">Esport Club</title>
-    <sub-title lang="ca">Esport Club</sub-title>
-    <desc lang="ca">En Jordi Sanuy i Víctor Patsi us expliquen l'última hora esportiva i l'analitzen amb el seu equip de col·laboradors. El programa és molt actiu a les xarxes socials. L''Esport Club' té presència a Twitter, a Facebook i a Instagram. L'espai dirigeix moltes accions de participació amb l'audiència a través de les xarxes socials.</desc>
-    <length units="seconds">3667</length>
-    <episode-num system="onscreen">3246</episode-num>
-    <category lang="ca">ESPORTS</category>
-    <category lang="ca">INFORMATIU DIÀRI</category>
+  <programme start="20260923170305 +0200" stop="20260923171831 +0200" channel="esport3">
+    <title lang="ca">Pastors i ramats: un món que se'n va</title>
+    <sub-title lang="ca">Enric Gibert</sub-title>
+    <desc lang="ca">'Pastors i ramats, un món que se'n va', és una sèrie de 15 capítols protagonitzada per pastors i pastores que, al llarg del nostre país, treuen a pasturar cada dia el seu ramat. Malgrat fer la mateixa feina, cada pastor és un món, una forma particular de relacionar-se amb el ramat, un mosaic de veus i gestos units per l'estimació pels animals. I també un conjunt de converses amb persones que són allà on volen ser, perseverant tossudament per continuar l'ofici malgrat totes les dificultats... Pastors i ramats... és la lluita silenciosa i plena de dignitat d'un món que se'n va.</desc>
+    <length units="seconds">926</length>
+    <episode-num system="onscreen">3</episode-num>
+    <category lang="ca">DIVULGACIÓ</category>
+    <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/7/3/1698145091337.jpg"/>
+    <previously-shown/>
   </programme>
   <channel id="sx3">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20260923113119 +0200" stop="20260923114340 +0200" channel="sx3">
-    <title lang="ca">Les Sisters</title>
-    <sub-title lang="ca">Les Sisters - L'amiga invisible</sub-title>
-    <desc lang="ca">A les Sisters, les han tornat a castigar sense sortir de casa i s'inventen l'existència d'una amiga imaginària que es diu Barbara que sap fer de tot. Farà classes d'anglès a la Wendy i de ioga a la Marine. La Barbara és l'excusa perfecta per sortir de casa. Però les coses es compliquen quan els pares volen conèixer aquesta noia superdotada.</desc>
-    <length units="seconds">741</length>
-    <episode-num system="onscreen">153</episode-num>
+  <programme start="20260923162145 +0200" stop="20260923162830 +0200" channel="sx3">
+    <title lang="ca">En Grizzy i els Lèmmings</title>
+    <sub-title lang="ca">La crida de l'os</sub-title>
+    <desc lang="ca">En Grizzy descobreix per casualitat la col·lecció de reclams de caça del guardabosc. En fa sonar un i atreu un estol de perdius que fan tot el que els demana. Per a en Grizzy, és una manera superpràctica de tenir una colla de criats a la seva disposició, mentre que els lèmmings ho veuen com una oportunitat d'or de comptar amb un esquadró que obeeixi les seves ordres cegament.</desc>
+    <length units="seconds">405</length>
+    <episode-num system="onscreen">87</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
       <value>INFANTIL</value>
     </rating>
-    <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20260923114340 +0200" stop="20260923115518 +0200" channel="sx3">
-    <title lang="ca">Ghost Rockers</title>
-    <sub-title lang="ca">Ghost Rockers</sub-title>
-    <desc lang="ca">Els Ghosts Rockers no es poden creure que en Verlinden vulgui ressuscitar L'Ull Negre i es proposen impedir-ho com sigui. Necessiten, però, alguna pista que els ajudi a avançar i no aconsegueixen desxifrar l'última targeta. D'altra banda, la Jana li demana a la Charlie que oblidin el passat d'una vegada, i l'Eva i en Jonas veuen com per fi arriba el moment d'actuar davant del famós productor John Hendrickx.</desc>
-    <length units="seconds">698</length>
-    <episode-num system="onscreen">197</episode-num>
+  <programme start="20260923162830 +0200" stop="20260923163903 +0200" channel="sx3">
+    <title lang="ca">El Mic i els seus amics</title>
+    <sub-title lang="ca">Papallones de colors</sub-title>
+    <desc lang="ca">'El Mic i els seus amics' presenta les històries del Mic agrupades en capítols. Les aventures dels titelles s'acompanyen de petits vídeos protagonitzats per nens i nenes, i separadors amb imatges de natura. És una sèrie pensada perquè els súpers més petits gaudeixin encara més! El Mic i els seus amics es troben cada dia per cantar cançons, explicar contes, dir endevinalles... Viuen en un lloc on hi ha turons, arbres, flors i papallones.Tot està a punt per jugar. Només cal fer... MAC, MEC, MIC, TOCA'T EL MELIC!</desc>
+    <length units="seconds">633</length>
+    <episode-num system="onscreen">564</episode-num>
     <category lang="ca">FICCIÓ</category>
-    <category lang="ca">SÈRIE DRAMÀTICA</category>
+    <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
       <value>INFANTIL</value>
     </rating>
@@ -122,28 +120,28 @@
   <channel id="c33">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20260923111733 +0200" stop="20260923115943 +0200" channel="c33">
-    <title lang="ca">Tot el temps del món</title>
-    <sub-title lang="ca">Tot el temps del món - Quim Monzó</sub-title>
-    <desc lang="ca">'Tot el temps del món' acomiada la seva primera temporada amb una entrevista a Quim Monzó, el mateix dia que rep el Premi d'Honor de les Lletres Catalanes.</desc>
-    <length units="seconds">2530</length>
-    <episode-num system="onscreen">16</episode-num>
-    <category lang="ca">ALTRES</category>
-    <category lang="ca">ENTREVISTES</category>
+  <programme start="20260923162122 +0200" stop="20260923164732 +0200" channel="c33">
+    <title lang="ca">Volcans i homes</title>
+    <sub-title lang="ca">L'illa de la Reunió. Al cor dels volcans</sub-title>
+    <desc lang="ca">En aquest episodi, Arnaud Guérin, geòleg i fotògraf professional, ens porta a l'illa de la Reunió. Entre d'altres coses, l'acompanyarem en la seva visita als dos grans volcans de l'illa, el vell i suposadament apagat Piton des Neiges i el jove volcà Piton de la Fournaise, que manté una activitat constant. També veurem la seva incursió espeleològica en un túnel creat per la lava i l'acompanyarem en la seva visita al circ geològic de Mafate, al Piton des Neiges, i a la remota comunitat de Marla, que viu gairebé en l'autarquia. </desc>
+    <length units="seconds">1570</length>
+    <episode-num system="onscreen">11</episode-num>
+    <category lang="ca">DIVULGACIÓ</category>
+    <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20260923115943 +0200" stop="20260923120615 +0200" channel="c33">
-    <title lang="ca">Cuines</title>
-    <sub-title lang="ca">Cuines - Turbot fumat amb patata 'allimonada'</sub-title>
-    <desc lang="ca">Dificultat: mitjanaTemps d'elaboració: 2hProducte principal: turbot/patatesTemporada: Tardor/hivern</desc>
-    <length units="seconds">392</length>
-    <episode-num system="onscreen">3352</episode-num>
+  <programme start="20260923164732 +0200" stop="20260923171348 +0200" channel="c33">
+    <title lang="ca">Volcans i homes</title>
+    <sub-title lang="ca">Tanzània. Un volcà en terra Massai</sub-title>
+    <desc lang="ca">En aquest episodi, Arnaud Guérin, geòleg i fotògraf professional, ens porta a Tanzània, al volcà OlDoinyoLengaï. Entre d'altres coses, i juntament amb Matthieu Kervyn, un dels pocs especialistes en aquest volcà, i Mwenga, un jove guerrer massai, l'acompanyarem en la dura ascensió a aquest volcà, que va patir una erupció el 2007 que va canviar totalment la morfologia del cràter. També visitarem el llac Natron, famós perquè van a reproduir-s'hi els flamencs rosats, i coneixerem la tècnica d'aprofitament de la sal del llac per part dels massais. </desc>
+    <length units="seconds">1576</length>
+    <episode-num system="onscreen">12</episode-num>
     <category lang="ca">DIVULGACIÓ</category>
-    <category lang="ca">MAGAZINE ESPECIALITZAT</category>
+    <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
@@ -153,17 +151,6 @@
   <channel id="oca1">
     <display-name>OCA1</display-name>
   </channel>
-  <programme start="20260923085920 +0200" stop="20260923145915 +0200" channel="oca1">
-    <title lang="ca">Illa compareix a petició pròpia al Parlament per la polèmica amb les proves de l'informe PISA</title>
-    <length units="seconds">21595</length>
-    <episode-num system="onscreen">4128</episode-num>
-    <category lang="ca">ACTUALITAT</category>
-    <category lang="ca">RETRANSMISSIONS ACTUALITAT</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <icon src="https://img.ccma.cat/multimedia/jpg/4/9/1790075233194.jpg"/>
-  </programme>
   <channel id="oca2">
     <display-name>OCA2</display-name>
   </channel>
