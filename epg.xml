@@ -3,37 +3,51 @@
   <channel id="tvi">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20260923201503 +0200" stop="20260923210000 +0200" channel="tvi">
-    <title lang="ca">Està passant</title>
-    <desc lang="ca">En Jair i la Natza ens expliquen què ha passat amb la diputada gallega del PP, Ana Vázquez i un gas pebre. En Magí ens posa al dia de l'actualitat esportiva i l'Ignasi Taltavull proposa una nova llei relacionada amb el teatre</desc>
-    <length units="seconds">2697</length>
-    <episode-num system="onscreen">1816</episode-num>
+  <programme start="20260923232112 +0200" stop="20260924001242 +0200" channel="tvi">
+    <title lang="ca">País d'altura</title>
+    <sub-title lang="ca">Costa Brava</sub-title>
+    <desc lang="ca">La Costa Brava és molt més que cales de postal: és tramuntana, artistes, pirates, rucs catalans, Dalí i racons que et fan pensar que el paradís existeix.</desc>
+    <length units="seconds">3090</length>
+    <episode-num system="onscreen">1</episode-num>
     <category lang="ca">ENTRETENIMENT</category>
-    <category lang="ca">GAGS. HUMOR</category>
+    <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <icon src="https://img.ccma.cat/multimedia/png/3/8/1705511272683.png"/>
+    <subtitles type="teletext"/>
   </programme>
-  <programme start="20260923210000 +0200" stop="20260923220546 +0200" channel="tvi">
-    <title lang="ca">Telenotícies vespre</title>
-    <length units="seconds">3946</length>
-    <episode-num system="onscreen">7336</episode-num>
+  <programme start="20260924001242 +0200" stop="20260924023730 +0200" channel="tvi">
+    <title lang="ca">Mésnit</title>
+    <desc lang="ca">El 'Mésnit' arriba a la desena temporada, amb Marina Romero al capdavant de l'espai i amb la voluntat de continuar sent un centre de debat d'idees i d'anàlisi de l'activitat política.</desc>
+    <length units="seconds">8688</length>
+    <episode-num system="onscreen">2165</episode-num>
     <category lang="ca">ACTUALITAT</category>
-    <category lang="ca">INFORMATIU DIÀRI</category>
+    <category lang="ca">DEBAT</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <icon src="https://img.ccma.cat/multimedia/jpg/7/2/1758026176427.jpg"/>
+    <previously-shown/>
   </programme>
   <channel id="324">
     <display-name>324</display-name>
   </channel>
-  <programme start="20260923200000 +0200" stop="20260923210000 +0200" channel="324">
+  <programme start="20260923220500 +0200" stop="20260924000000 +0200" channel="324">
+    <title lang="ca">Mésnit</title>
+    <desc lang="ca">El 'Mésnit' arriba a la desena temporada, amb Marina Romero al capdavant de l'espai i amb la voluntat de continuar sent un centre de debat d'idees i d'anàlisi de l'activitat política.</desc>
+    <length units="seconds">6900</length>
+    <episode-num system="onscreen">2165</episode-num>
+    <category lang="ca">ACTUALITAT</category>
+    <category lang="ca">DEBAT</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <subtitles type="teletext"/>
+  </programme>
+  <programme start="20260924000000 +0200" stop="20260924003000 +0200" channel="324">
     <title lang="ca">Notícies 3CatInfo</title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">3600</length>
-    <episode-num system="onscreen">11250</episode-num>
+    <length units="seconds">1800</length>
+    <episode-num system="onscreen">11251</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
@@ -42,72 +56,60 @@
     <subtitles type="teletext"/>
     <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
-  <programme start="20260923210000 +0200" stop="20260923220500 +0200" channel="324">
-    <title lang="ca">Telenotícies vespre</title>
-    <length units="seconds">3900</length>
-    <episode-num system="onscreen">7336</episode-num>
-    <category lang="ca">ACTUALITAT</category>
+  <channel id="esport3">
+    <display-name>ESPORT3</display-name>
+  </channel>
+  <programme start="20260923230005 +0200" stop="20260924003057 +0200" channel="esport3">
+    <title lang="ca">Onze</title>
+    <sub-title lang="ca">La nostra pilota d'or; Post Barça-París i 'El predicador'</sub-title>
+    <desc lang="ca">Lluís Carrasco, Juvenal Edjogo, Laia Tudel i Joan Poquí fan les seves votacions per la pilota d'or i comenten el debut del Barça femení a la Champions. L'Òscar Perez-Dols predica els manaments del bon culer.</desc>
+    <length units="seconds">5452</length>
+    <episode-num system="onscreen">1254</episode-num>
+    <category lang="ca">ESPORTS</category>
+    <category lang="ca">MAGAZINE</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <subtitles type="teletext"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/1/1/1688543515711.jpg"/>
+  </programme>
+  <programme start="20260924003057 +0200" stop="20260924005134 +0200" channel="esport3">
+    <title lang="ca">3CatInfo Esports</title>
+    <desc lang="ca">Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.</desc>
+    <length units="seconds">1237</length>
+    <episode-num system="onscreen">5517</episode-num>
+    <category lang="ca">ESPORTS</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <icon src="https://img.ccma.cat/multimedia/jpg/7/2/1758026176427.jpg"/>
-  </programme>
-  <channel id="esport3">
-    <display-name>ESPORT3</display-name>
-  </channel>
-  <programme start="20260923202017 +0200" stop="20260923212516 +0200" channel="esport3">
-    <title lang="ca">Bàsquet</title>
-    <sub-title lang="ca">Spar Girona-Cadí La Seu / Lliga Catalana / Final</sub-title>
-    <desc lang="ca">Des de Reus, final de la 38a edició de la Lliga Nacional Catalana Femenina de bàsquet. Les gironines, guanyadores en la darrera edició, s'enfronten amb el conjunt urgellenc que s'havia imposat de forma consecutiva en els quatre cursos anteriors (2021, 2022, 2023 i 2024). </desc>
-    <length units="seconds">3899</length>
-    <episode-num system="onscreen">142</episode-num>
-    <category lang="ca">ESPORTS</category>
-    <category lang="ca">RETRANSMISSIONS ESPORTS</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <icon src="https://img.3cat.cat/multimedia/jpg/7/7/1788941967477.jpg"/>
-  </programme>
-  <programme start="20260923212516 +0200" stop="20260923221624 +0200" channel="esport3">
-    <title lang="ca">Bàsquet</title>
-    <sub-title lang="ca">Spar Girona-Cadí La Seu / Lliga Catalana / Final</sub-title>
-    <desc lang="ca">Des de Reus, final de la 38a edició de la Lliga Nacional Catalana Femenina de bàsquet. Les gironines, guanyadores en la darrera edició, s'enfronten amb el conjunt urgellenc que s'havia imposat de forma consecutiva en els quatre cursos anteriors (2021, 2022, 2023 i 2024). </desc>
-    <length units="seconds">3068</length>
-    <episode-num system="onscreen">142</episode-num>
-    <category lang="ca">ESPORTS</category>
-    <category lang="ca">RETRANSMISSIONS ESPORTS</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <previously-shown/>
-    <icon src="https://img.3cat.cat/multimedia/jpg/7/7/1788941967477.jpg"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/9/7/1758888682179.jpg"/>
   </programme>
   <channel id="sx3">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20260923201740 +0200" stop="20260923203911 +0200" channel="sx3">
-    <title lang="ca">Henry Danger</title>
-    <sub-title lang="ca">Boca Dolça</sub-title>
-    <desc lang="ca">En Henry i en Ray intenten gravar un pòdcast mentre una sèrie d'emergències tan absurdes com inesperades els obliguen a deixar-lo a mitges.</desc>
-    <length units="seconds">1291</length>
-    <episode-num system="onscreen">50</episode-num>
+  <programme start="20260923232838 +0200" stop="20260923234938 +0200" channel="sx3">
+    <title lang="ca">Els germans Kratt</title>
+    <sub-title lang="ca">Perfumats</sub-title>
+    <desc lang="ca">Una colla de mofetes han convertit la Nau Tortuga en el seu cau i ara els germans Kratt i companyia s'han quedat sense camp base al desert de Sonora. El problema és que els vestits de poder animal i la resta d'invents són a l'interior de la nau, i l'únic que té manera d'entrar-hi és en Zach Virusmàtic, amb la Robobombolla, el seu últim invent!</desc>
+    <length units="seconds">1260</length>
+    <episode-num system="onscreen">62</episode-num>
     <category lang="ca">FICCIÓ</category>
-    <category lang="ca">SÈRIE DRAMÀTICA</category>
+    <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
       <value>INFANTIL</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20260923203911 +0200" stop="20260923210016 +0200" channel="sx3">
-    <title lang="ca">Henry Danger</title>
-    <sub-title lang="ca">La fuita de gas</sub-title>
-    <desc lang="ca">Una perillosa fuita de gas amenaça Bonavista just quan en Henry ha de triar entre les seves responsabilitats com a estudiant i com a superheroi.</desc>
-    <length units="seconds">1265</length>
-    <episode-num system="onscreen">51</episode-num>
+  <programme start="20260923234938 +0200" stop="20260924001039 +0200" channel="sx3">
+    <title lang="ca">Els germans Kratt</title>
+    <sub-title lang="ca">Un monstre de Gila a sota casa</sub-title>
+    <desc lang="ca">Els germans Kratt acaben de rebre una trucada d'en Javier, un noi que viu al desert de Sonora i que assegura que se li ha instal·lat un monstre de Gila a sota de casa seva i que té molta por. La missió d'avui és descobrir com són de veritat els monstres de Gila i evitar que en Zach Virusmàtic aprofiti les característiques d'aquest animal per posar a la pràctica el seu pròxim invent!</desc>
+    <length units="seconds">1261</length>
+    <episode-num system="onscreen">63</episode-num>
     <category lang="ca">FICCIÓ</category>
-    <category lang="ca">SÈRIE DRAMÀTICA</category>
+    <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
       <value>INFANTIL</value>
     </rating>
@@ -117,24 +119,89 @@
   <channel id="c33">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20260923200758 +0200" stop="20260923210000 +0200" channel="c33">
-    <title lang="ca">Viure amb els volcans</title>
-    <sub-title lang="ca">Volcans destructius</sub-title>
-    <desc lang="ca">Fa milions d'anys que esventren la terra, abrasen els continents, cobreixen regions senceres sota una catifa de cendra mortal, i nosaltres som al mig. Els últims segles, els volcans han causat prop de 300.000 morts a tot el món. Tot i així, 500 milions d'homes i dones desafien aquests monstres de foc cada dia. En aquest episodi, coneixerem els efectes més devastadors dels volcans i com els afronten els que hi conviuen.</desc>
-    <length units="seconds">3122</length>
-    <episode-num system="onscreen">3</episode-num>
-    <category lang="ca">DIVULGACIÓ</category>
-    <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
+  <programme start="20260923224906 +0200" stop="20260924001833 +0200" channel="c33">
+    <title lang="ca">Pel·lícula</title>
+    <sub-title lang="ca">The kid</sub-title>
+    <desc lang="ca">THE KID 'The Kid'Direcció: Vincent D'OnofrioGuió: Andrew LanhamProducció: Mimran Schur Pictures, Suretone Pictures, Batrax Entertainment, Eagle Films, GEM Entertainment, LionsgateAny: 2019Durada: 99País: Estats UnitsMúsica: Latham Gaines, Shelby GainesFotografia: Matthew J. LloydIntèrprets: Ethan Hawke, Dane DeHaan, Jake Schur, Leila George, Vincent D'Onofrio, Chris Pratt, Adam Baldwin, Tait Fletcher, Ben Dickey, Keith Jardine, MorningStar Angeline, Jenny Gabrielle, Stafford Douglas, Howard Ferguson Jr., Douglas Bennett, Jacob Browne, Rachel Singer, Rachel de la Torre, Rachel de la Torre, Christian Dalton, Chris Bylsma, Chris Bylsma, J. Nathan Simmons, J. Nathan Simmons, David Christian Welborn, David Christian Welborn, Joe Berryman, Michael E. Stogner, Leslie Fleming-Mitchell, Rose CordovaEl jove Rio es veu obligat a recórrer el sud-oest dels Estats Units per salvar la seva germana Sara del seu despietat oncle Grant.</desc>
+    <credits>
+      <director>Vincent D'Onofrio</director>
+      <writer>Andrew Lanham</writer>
+      <actor>Ethan Hawke</actor>
+      <actor>Dane DeHaan</actor>
+      <actor>Jake Schur</actor>
+      <actor>Leila George</actor>
+      <actor>Vincent D'Onofrio</actor>
+      <actor>Chris Pratt</actor>
+      <actor>Adam Baldwin</actor>
+      <actor>Tait Fletcher</actor>
+      <actor>Ben Dickey</actor>
+      <actor>Keith Jardine</actor>
+      <actor>MorningStar Angeline</actor>
+      <actor>Jenny Gabrielle</actor>
+      <actor>Stafford Douglas</actor>
+      <actor>Howard Ferguson Jr.</actor>
+      <actor>Douglas Bennett</actor>
+      <actor>Jacob Browne</actor>
+      <actor>Rachel Singer</actor>
+      <actor>Rachel de la Torre</actor>
+      <actor>Rachel de la Torre</actor>
+      <actor>Christian Dalton</actor>
+      <actor>Chris Bylsma</actor>
+      <actor>Chris Bylsma</actor>
+      <actor>J. Nathan Simmons</actor>
+      <actor>J. Nathan Simmons</actor>
+      <actor>David Christian Welborn</actor>
+      <actor>David Christian Welborn</actor>
+      <actor>Joe Berryman</actor>
+      <actor>Michael E. Stogner</actor>
+      <actor>Leslie Fleming-Mitchell</actor>
+      <actor>Rose CordovaEl jove Rio es veu obligat a recórrer el sud-oest dels Estats Units per salvar la seva germana Sara del seu despietat oncle Grant.</actor>
+    </credits>
+    <length units="seconds">5367</length>
+    <episode-num system="onscreen">1</episode-num>
+    <category lang="ca">FICCIÓ</category>
+    <category lang="ca">PEL·LÍCULA / TELEFILM</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
+    <icon src="https://img.3cat.cat/multimedia/jpg/9/6/1787556512569.jpg"/>
   </programme>
-  <programme start="20260923210000 +0200" stop="20260923210154 +0200" channel="c33">
-    <title lang="ca">SENSE FI CANAL 33</title>
-    <desc lang="ca">Sense Descripció</desc>
-    <length units="seconds">114</length>
+  <programme start="20260924001833 +0200" stop="20260924021947 +0200" channel="c33">
+    <title lang="ca">Pel·lícula</title>
+    <sub-title lang="ca">Assassinat a l'Orient Express</sub-title>
+    <desc lang="ca">ASSASSINAT A L'ORIENT EXPRESS (Murder on the Orient Express)Idioma versió original: anglèsProducció: John Brabourne i Richard Goodwin per a EMI Films, 1974 (Gran Bretanya)Direcció: Sidney Lumet / Durada: 121 minutsGuió: Paul Dehn, basat en la novel·la d'Agatha ChristieFotografia: Geoffrey Unsworth (Technicolor)Música: Richard Rodney BennetIntèrprets: Albert Finney (Hercule Poirot), Lauren Bacall (senyora Hubbard), Martin Balsam (Bianchi), Ingrid Bergman (Greta), Jacqueline Bisset (comtessa Andrenyi), Jean-Pierre Cassel (Pierre)El 1930 esclata un drama amb el segrest de la nena Daisy Armstrong. El pare paga el rescat, però la nena mor. Detenen i condemnen el raptor i, al cap d'un temps, els Armstrong moren i la cangur se suïcida. El 1935 Hercule Poirot viatja en l'Orient Express i un dels viatgers, Ratchett, li demana que el protegeixi. Poirot s'hi nega i, poc després, Ratchett mor de dotze ganivetades. Poirot descobreix que Ratchett havia organitzat el segrest de Daisy i que tots els passatgers del tren tenen algun lligam amb la família Armstrong.</desc>
+    <credits>
+      <director>Sidney Lumet / Durada: 121 minuts</director>
+      <actor>Albert Finney (Hercule Poirot)</actor>
+      <actor>Lauren Bacall (senyora Hubbard)</actor>
+      <actor>Martin Balsam (Bianchi)</actor>
+      <actor>Ingrid Bergman (Greta)</actor>
+      <actor>Jacqueline Bisset (comtessa Andrenyi)</actor>
+      <actor>Jean-Pierre Cassel (Pierre)El 1930 esclata un drama amb el segrest de la nena Daisy Armstrong. El pare paga el rescat</actor>
+      <actor>però la nena mor. Detenen</actor>
+      <actor>condemnen el raptor i</actor>
+      <actor>al cap d'un temps</actor>
+      <actor>els Armstrong moren</actor>
+      <actor>la cangur se suïcida. El 1935 Hercule Poirot viatja en l'Orient Express</actor>
+      <actor>un dels viatgers</actor>
+      <actor>Ratchett</actor>
+      <actor>li demana que el protegeixi. Poirot s'hi nega i</actor>
+      <actor>poc després</actor>
+      <actor>Ratchett mor de dotze ganivetades. Poirot descobreix que Ratchett havia organitzat el segrest de Daisy</actor>
+      <actor>que tots els passatgers del tren tenen algun lligam amb la família Armstrong.</actor>
+    </credits>
+    <length units="seconds">7274</length>
+    <episode-num system="onscreen">1</episode-num>
+    <category lang="ca">FICCIÓ</category>
+    <category lang="ca">PEL·LÍCULA / TELEFILM</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <subtitles type="teletext"/>
+    <previously-shown/>
+    <icon src="https://img.3cat.cat/multimedia//jpg/1/7/1753211868571.jpg"/>
   </programme>
   <channel id="oca1">
     <display-name>OCA1</display-name>
