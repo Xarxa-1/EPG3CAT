@@ -3,54 +3,37 @@
   <channel id="tvi">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20260924153030 +0200" stop="20260924155032 +0200" channel="tvi">
-    <title lang="ca">Cuines</title>
-    <sub-title lang="ca">Arròs de capipota amb gambes</sub-title>
-    <desc lang="ca">Un dels plats estrella dels esmorzars de forquilla: el capipota. I un dels productes més apreciats del mar: les gambes. Afegint-hi arròs, en Marc Ribas cuina un plat diferent i amb molt de sabor. </desc>
-    <length units="seconds">1202</length>
-    <episode-num system="onscreen">2437</episode-num>
-    <category lang="ca">DIVULGACIÓ</category>
-    <category lang="ca">CUINA</category>
+  <programme start="20260924190845 +0200" stop="20260924201500 +0200" channel="tvi">
+    <title lang="ca">Atrapa'm si pots</title>
+    <desc lang="ca">'Atrapa'm si pots' és un 'quiz show' clàssic, de preguntes i respostes, presentat per Llucià Ferrer, en què sis concursants competeixen per arribar a la fase final i guanyar el pot. 'Atrapa'm si pots' és entreteniment pur i on gairebé és més important passar-s'ho bé que els diners. És un concurs en què pesa més la intuïció que no els coneixements acadèmics, més l'estratègia en el joc que no la sort.</desc>
+    <length units="seconds">3975</length>
+    <episode-num system="onscreen">931</episode-num>
+    <category lang="ca">ENTRETENIMENT</category>
+    <category lang="ca">CONCURS</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <icon src="https://img.ccma.cat/multimedia/jpg/2/5/1653464509252.jpg"/>
   </programme>
-  <programme start="20260924155032 +0200" stop="20260924155833 +0200" channel="tvi">
-    <title lang="ca">Cuines</title>
-    <sub-title lang="ca">Pa d'all amb tomàquet picat</sub-title>
-    <desc lang="ca">L'all genera una gran divisió d'opinions: n'hi ha que l'adoren i n'hi ha que no el poden ni veure perquè diuen que els torna. L'Arnau París fa una recepta per als més reticents: pa d'all amb tomàquet picat.</desc>
-    <length units="seconds">481</length>
-    <episode-num system="onscreen">2400</episode-num>
-    <category lang="ca">DIVULGACIÓ</category>
-    <category lang="ca">CUINA</category>
+  <programme start="20260924201500 +0200" stop="20260924210000 +0200" channel="tvi">
+    <title lang="ca">Està passant</title>
+    <desc lang="ca">El Jair ens parla del desnonament de la Mari Carmen. Òscar Dalmau ens parla de meteorologia. I la Oye Sherman ens porta moments màgics de la televisió</desc>
+    <length units="seconds">2700</length>
+    <episode-num system="onscreen">1817</episode-num>
+    <category lang="ca">ENTRETENIMENT</category>
+    <category lang="ca">GAGS. HUMOR</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <previously-shown/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/2/5/1653464509252.jpg"/>
+    <icon src="https://img.ccma.cat/multimedia/png/3/8/1705511272683.png"/>
   </programme>
   <channel id="324">
     <display-name>324</display-name>
   </channel>
-  <programme start="20260924153000 +0200" stop="20260924160000 +0200" channel="324">
-    <title lang="ca">3CatInfo en aranès</title>
-    <desc lang="ca">Informatiu de continguts generalistes en llengua aranesa, presentat per Ares Riu, en emissió per a tot Catalunya.</desc>
-    <length units="seconds">1800</length>
-    <episode-num system="onscreen">2563</episode-num>
-    <category lang="ca">ACTUALITAT</category>
-    <category lang="ca">INFORMATIU DIÀRI</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <subtitles type="teletext"/>
-    <icon src="https://img.ccma.cat/multimedia/png/5/8/1758125433085.png"/>
-  </programme>
-  <programme start="20260924160000 +0200" stop="20260924170000 +0200" channel="324">
+  <programme start="20260924183000 +0200" stop="20260924200000 +0200" channel="324">
     <title lang="ca">Notícies 3CatInfo</title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">3600</length>
-    <episode-num system="onscreen">11256</episode-num>
+    <length units="seconds">5400</length>
+    <episode-num system="onscreen">11258</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
@@ -59,46 +42,71 @@
     <subtitles type="teletext"/>
     <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
+  <programme start="20260924200000 +0200" stop="20260924210000 +0200" channel="324">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="seconds">3600</length>
+    <episode-num system="onscreen">11259</episode-num>
+    <category lang="ca">ACTUALITAT</category>
+    <category lang="ca">INFORMATIU DIÀRI</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
+  </programme>
   <channel id="esport3">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20260924153339 +0200" stop="20260924161726 +0200" channel="esport3">
-    <title lang="ca">Viatges insòlits</title>
-    <sub-title lang="ca">El Caire</sub-title>
-    <desc lang="ca">La imatge icònica d'Egipte, les piràmides, és a molt poca distància de la gran metròpoli del Caire. Una ciutat que no para de créixer amb immigrants de la resta del país, fins al punt que els embussos de trànsit són infinits i el president ha decidit construir una capital nova al mig del desert i traslladar-hi tots els edificis governamentals. En Tom visita aquesta nova ciutat, i també diferents barris de l'actual, on descobrirà la passió dels seus habitants pels coloms i com viuen les persones que es dediquen a reciclar manualment les tones d'escombraries que s'hi generen cada dia.</desc>
-    <length units="seconds">2627</length>
-    <episode-num system="onscreen">37</episode-num>
-    <category lang="ca">DIVULGACIÓ</category>
-    <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
+  <programme start="20260924185952 +0200" stop="20260924203114 +0200" channel="esport3">
+    <title lang="ca">Tot Costa</title>
+    <sub-title lang="ca">Fermín, titular indiscutible?</sub-title>
+    <desc lang="ca">Fermín està en un gran moment de forma després de la lesió. L'entrevistem des de la convocatòria de la selecció espanyola, on ha tornat, i ho analitzem amb Santi Giménez, Marta Corredera i Gerard Autet. També parlem amb Laia Tudel dels canvis del Barça en la preparació física i amb Jordi Grau sentim Xavi Hernández, nou seleccionador dels Països Baixos. Connectarem amb Madrid, amb David Sánchez, i sentim el jugador blanc-i-blau Roberto, abans del debut amb la selecció espanyola. </desc>
+    <length units="seconds">5482</length>
+    <episode-num system="onscreen">1010</episode-num>
+    <category lang="ca">ESPORTS</category>
+    <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
-    <previously-shown/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/0/4/1706209193140.jpg"/>
   </programme>
-  <programme start="20260924161726 +0200" stop="20260924170156 +0200" channel="esport3">
-    <title lang="ca">Viatges insòlits</title>
-    <sub-title lang="ca">Dubai</sub-title>
-    <desc lang="ca">Dubai és ciutat de rècords, d'innovacions, de luxes i de controvèrsies. Però en Tom s'endinsarà amb el seu guia per descobrir l'autèntic dubaitià. Les tradicions i la cultura de Dubai semblen viure d'esquena a una ciutat que preveu un futur confrontat per la sostenibilitat i la modernitat.</desc>
-    <length units="seconds">2670</length>
-    <episode-num system="onscreen">45</episode-num>
-    <category lang="ca">DIVULGACIÓ</category>
-    <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
+  <programme start="20260924203114 +0200" stop="20260924210640 +0200" channel="esport3">
+    <title lang="ca">Esport Club</title>
+    <sub-title lang="ca">Golejada de Champions, Dani García, NBA i tertúlia</sub-title>
+    <desc lang="ca">El Barça debuta a la Champions femenina amb golejada. En parlem amb Mireia Vera. Entrevistem Dani García, jugador de l'iLERNA Lleida. Aquest cap de setmana comença la Lliga ACB. L'NBA, amb Jordi de Mas; i a la tertúlia ens acompanyen Gemma Mallorca, Joan Prats i en Pere de Cal Tet. </desc>
+    <length units="seconds">2126</length>
+    <episode-num system="onscreen">3247</episode-num>
+    <category lang="ca">ESPORTS</category>
+    <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/7/3/1698145091337.jpg"/>
   </programme>
   <channel id="sx3">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20260924152951 +0200" stop="20260924155052 +0200" channel="sx3">
+  <programme start="20260924200000 +0200" stop="20260924201705 +0200" channel="sx3">
+    <title lang="ca">InfoK</title>
+    <desc lang="ca">En aquest InfoK us expliquem que acotxadors i enxanetes han estrenat un nou casc en la jornada castellera d'avui de la Mercè i Santa Tecla. Un model que protegeix més el cap i ara també la cara.I coneixem en Ricard, un nen que té una malaltia que es diu atàxia i que afecta molt el seu dia a dia. Està provant una medicació nova que fa que la malaltia no avanci tan ràpidament. És important parlar-ne per investigar i trobar tractaments per a malalties com aquestes.I avui també coneixem la Dolça. Té 12 anys i ha fet d'actriu a la pel·lícula 'Tanit', rodada als boscos del Montseny. Hem parlat amb ella. </desc>
+    <length units="seconds">1025</length>
+    <episode-num system="onscreen">4271</episode-num>
+    <category lang="ca">ACTUALITAT</category>
+    <category lang="ca">INFORMATIU DIÀRI</category>
+    <rating>
+      <value>INFANTIL</value>
+    </rating>
+    <subtitles type="teletext"/>
+  </programme>
+  <programme start="20260924201705 +0200" stop="20260924203945 +0200" channel="sx3">
     <title lang="ca">Henry Danger</title>
-    <sub-title lang="ca">La fuita de gas</sub-title>
-    <desc lang="ca">Una perillosa fuita de gas amenaça Bonavista just quan en Henry ha de triar entre les seves responsabilitats com a estudiant i com a superheroi.</desc>
-    <length units="seconds">1261</length>
-    <episode-num system="onscreen">51</episode-num>
+    <sub-title lang="ca">L'enrenou del poder nou 1a part</sub-title>
+    <desc lang="ca">L'escapada d'un antic i temible ajudant del Capità Man revela secrets del passat que posen a prova la confiança d'en Henry.</desc>
+    <length units="seconds">1360</length>
+    <episode-num system="onscreen">52</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DRAMÀTICA</category>
     <rating>
@@ -107,45 +115,32 @@
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20260924155052 +0200" stop="20260924155747 +0200" channel="sx3">
-    <title lang="ca">En Grizzy i els Lèmmings</title>
-    <sub-title lang="ca">Fitxes valuoses</sub-title>
-    <desc lang="ca">A la platja, els Lèmmings hi troben una fira per a turistes on cada atracció permet guanyar unes fitxes que després poden utilitzar per recollir premis d'una màquina expenedora. En Grizzy no té gaire traça amb els jocs d'habilitat i els roba les fitxes que han aconseguit els Lèmmings per endur-se el millor premi. És llavors quan els rosegadors decideixen crear una atracció específicament per a ell.</desc>
-    <length units="seconds">415</length>
-    <episode-num system="onscreen">263</episode-num>
-    <category lang="ca">FICCIÓ</category>
-    <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
-    <rating>
-      <value>INFANTIL</value>
-    </rating>
-    <previously-shown/>
-  </programme>
   <channel id="c33">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20260924151019 +0200" stop="20260924155635 +0200" channel="c33">
-    <title lang="ca">La Renaixença</title>
-    <sub-title lang="ca">El semàfor</sub-title>
-    <desc lang="ca">Sembla que no tothom que aprova el carnet de conduir sap què significa cada color dels llums d'un semàfor. Per això, hem decidit dedicar-li un capítol. Estem a punt de descobrir que a Catalunya hi ha un problema de daltonisme? Ens visita l'Albert Blancafort, l'orguener responsable de la construcció d'orgues tan importants com el de la Sagrada Família o el de Montserrat. I sortim a passejar el gos per la Marató de Boston del 1967. Hi anem amb la Mila, un llebrer a qui això de córrer no li costa gaire.</desc>
-    <length units="seconds">2776</length>
-    <episode-num system="onscreen">18</episode-num>
+  <programme start="20260924191059 +0200" stop="20260924200752 +0200" channel="c33">
+    <title lang="ca">Un planeta perfecte</title>
+    <sub-title lang="ca">El Temps</sub-title>
+    <desc lang="ca">El temps pot canviar dia a dia, fins i tot cada hora, però des de fa mil·lennis, els patrons climàtics anuals s'han mantingut estables. La vida a la Terra depèn d'aquesta fiabilitat. La varietat de pluges per tot el planeta configura molts hàbitats: des d'una clapa de bosc a Zàmbia fins a l'Amazones, i des de Sud-àfrica fins al desert de Gobi, al nostre planeta perfecte hi ha moltes espècies que depenen del temps.</desc>
+    <length units="seconds">3413</length>
+    <episode-num system="onscreen">3</episode-num>
     <category lang="ca">DIVULGACIÓ</category>
-    <category lang="ca">ALTRES</category>
+    <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/3/3/1756148014833.jpg"/>
+    <icon src="https://img.3cat.cat/multimedia/jpg/0/9/1766143230590.jpg"/>
   </programme>
-  <programme start="20260924155635 +0200" stop="20260924164413 +0200" channel="c33">
-    <title lang="ca">Aeroport</title>
-    <sub-title lang="ca">Uniformes</sub-title>
-    <desc lang="ca">Els uniformes desperten passions. 'Aeroport' s'endinsa en el món de les tripulacions, els cossos de seguretat i el personal de 'handling', viatjant a Lisboa amb un comandant de vol, comptant quants cops saluda el sobrecàrrec amb el clàssic 'adeu, bon dia', i seguint un grup d'operacions especials de la Guàrdia Civil que persegueix jihadistes.</desc>
-    <length units="seconds">2858</length>
-    <episode-num system="onscreen">22</episode-num>
+  <programme start="20260924200752 +0200" stop="20260924205948 +0200" channel="c33">
+    <title lang="ca">A tocar de l'aigua</title>
+    <sub-title lang="ca">El Segre III; El Sió</sub-title>
+    <desc lang="ca">Després d'haver recorregut les capçaleres del Segre i bona part del seu curs mitjà, en aquest episodi ens acompanyarà un riu que travessa la comarca de la Noguera per llevant: el Sió, un petit afluent del Segre que guarda a les seves ribes un ric patrimoni natural i arquitectònic. El resseguirem fins al final i, després de visitar Balaguer, farem camí fins a Vilanova de la Barca.</desc>
+    <length units="seconds">3116</length>
+    <episode-num system="onscreen">6</episode-num>
     <category lang="ca">DIVULGACIÓ</category>
-    <category lang="ca">Docu-Entreteniment</category>
+    <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
@@ -161,6 +156,18 @@
   <channel id="oca3">
     <display-name>OCA3</display-name>
   </channel>
+  <programme start="20260924185900 +0200" stop="20260924203000 +0200" channel="oca3">
+    <title lang="ca">Tot Costa</title>
+    <desc lang="ca">Fermín està en un gran moment de forma després de la lesió. L'entrevistem des de la convocatòria de la selecció espanyola, on ha tornat, i ho analitzem amb Santi Giménez, Marta Corredera i Gerard Autet. També parlem amb Laia Tudel dels canvis del Barça en la preparació física i amb Jordi Grau sentim Xavi Hernández, nou seleccionador dels Països Baixos. Connectarem amb Madrid, amb David Sánchez, i sentim el jugador blanc-i-blau Roberto, abans del debut amb la selecció espanyola. </desc>
+    <length units="seconds">5460</length>
+    <episode-num system="onscreen">1010</episode-num>
+    <category lang="ca">ESPORTS</category>
+    <category lang="ca">INFORMATIU DIÀRI</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <icon src="https://img.ccma.cat/multimedia/jpg/0/4/1706209193140.jpg"/>
+  </programme>
   <channel id="oca4">
     <display-name>OCA4</display-name>
   </channel>
