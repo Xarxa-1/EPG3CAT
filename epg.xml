@@ -3,112 +3,113 @@
   <channel id="tvi">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20260924190845 +0200" stop="20260924201500 +0200" channel="tvi">
-    <title lang="ca">Atrapa'm si pots</title>
-    <desc lang="ca">'Atrapa'm si pots' és un 'quiz show' clàssic, de preguntes i respostes, presentat per Llucià Ferrer, en què sis concursants competeixen per arribar a la fase final i guanyar el pot. 'Atrapa'm si pots' és entreteniment pur i on gairebé és més important passar-s'ho bé que els diners. És un concurs en què pesa més la intuïció que no els coneixements acadèmics, més l'estratègia en el joc que no la sort.</desc>
-    <length units="seconds">3975</length>
-    <episode-num system="onscreen">931</episode-num>
-    <category lang="ca">ENTRETENIMENT</category>
-    <category lang="ca">CONCURS</category>
+  <programme start="20260924231611 +0200" stop="20260924234622 +0200" channel="tvi">
+    <title lang="ca">Departament Amades</title>
+    <sub-title lang="ca">Dones d'aigua</sub-title>
+    <desc lang="ca">La Dolça, amb l'ajuda de la Xènia, ha d'aturar la Petúnia, una dona d'aigua que s'està aprofitant d'un socorrista en una piscina. El Marc convenç l'Arnau perquè gravi un vídeo per a xarxes i el comte aprofita per treure pit del seu passat gloriós.</desc>
+    <length units="seconds">1811</length>
+    <episode-num system="onscreen">4</episode-num>
+    <category lang="ca">FICCIÓ</category>
+    <category lang="ca">SÈRIE DRAMÀTICA</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
+    <previously-shown/>
   </programme>
-  <programme start="20260924201500 +0200" stop="20260924210000 +0200" channel="tvi">
-    <title lang="ca">Està passant</title>
-    <desc lang="ca">El Jair ens parla del desnonament de la Mari Carmen. Òscar Dalmau ens parla de meteorologia. I la Oye Sherman ens porta moments màgics de la televisió</desc>
-    <length units="seconds">2700</length>
-    <episode-num system="onscreen">1817</episode-num>
+  <programme start="20260924234622 +0200" stop="20260925002811 +0200" channel="tvi">
+    <title lang="ca">APM?</title>
+    <desc lang="ca">Joel Díaz tindrà a l'altra banda del plafó del 'Però vostè qui és?' Júlia Díaz i Roc Bernadí, el duet poblenoví que forma Svetlana, un grup que ha fet de l'autenticitat, el petardeig i la guerra contra el guiri un gènere musical propi. Junts parlaran de temes com els heterocuriosos, els 'josepmaries' o, per a sorpresa de ningú, els turistes i els expats.Mentrestant, la nostra síndica de greuges particular, Nerea Sanfe, segueix 'On falla!' visitant els racons de Catalunya que li suggereixen els nostres espectadors per Instagram. Aquesta setmana viatjarà fins a Cunit (la Venècia del Baix Penedès) per parlar amb els veïns dels problemes que pateixen amb la recollida d'escombraries. Veurem indignació, veïns enfadats i fins i tot un cara a cara entre una veïna i una persona que recull la brossa. I a més, resumirem els viatges de l'Imserso en un minut; ens prepararem mentalment per pair les properes tres setmanes sense cap partit del Barça; i trobarem uns nous intèrprets que entenguin el català (bé, més o menys) per al judici d'en Roger Español. #APM3CAT</desc>
+    <length units="seconds">2509</length>
+    <episode-num system="onscreen">879</episode-num>
     <category lang="ca">ENTRETENIMENT</category>
-    <category lang="ca">GAGS. HUMOR</category>
+    <category lang="ca">ALTRES</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <icon src="https://img.ccma.cat/multimedia/png/3/8/1705511272683.png"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/0/2/1442394916120.jpg"/>
   </programme>
   <channel id="324">
     <display-name>324</display-name>
   </channel>
-  <programme start="20260924183000 +0200" stop="20260924200000 +0200" channel="324">
+  <programme start="20260924220500 +0200" stop="20260925000000 +0200" channel="324">
+    <title lang="ca">Mésnit</title>
+    <desc lang="ca">El 'Mésnit' arriba a la desena temporada, amb Marina Romero al capdavant de l'espai i amb la voluntat de continuar sent un centre de debat d'idees i d'anàlisi de l'activitat política.</desc>
+    <length units="seconds">6900</length>
+    <episode-num system="onscreen">2166</episode-num>
+    <category lang="ca">ACTUALITAT</category>
+    <category lang="ca">DEBAT</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <subtitles type="teletext"/>
+  </programme>
+  <programme start="20260925000000 +0200" stop="20260925003000 +0200" channel="324">
     <title lang="ca">Notícies 3CatInfo</title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">5400</length>
-    <episode-num system="onscreen">11258</episode-num>
+    <length units="seconds">1800</length>
+    <episode-num system="onscreen">11260</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
-  </programme>
-  <programme start="20260924200000 +0200" stop="20260924210000 +0200" channel="324">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">3600</length>
-    <episode-num system="onscreen">11259</episode-num>
-    <category lang="ca">ACTUALITAT</category>
-    <category lang="ca">INFORMATIU DIÀRI</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
     <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
   <channel id="esport3">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20260924185952 +0200" stop="20260924203114 +0200" channel="esport3">
-    <title lang="ca">Tot Costa</title>
-    <sub-title lang="ca">Fermín, titular indiscutible?</sub-title>
-    <desc lang="ca">Fermín està en un gran moment de forma després de la lesió. L'entrevistem des de la convocatòria de la selecció espanyola, on ha tornat, i ho analitzem amb Santi Giménez, Marta Corredera i Gerard Autet. També parlem amb Laia Tudel dels canvis del Barça en la preparació física i amb Jordi Grau sentim Xavi Hernández, nou seleccionador dels Països Baixos. Connectarem amb Madrid, amb David Sánchez, i sentim el jugador blanc-i-blau Roberto, abans del debut amb la selecció espanyola. </desc>
-    <length units="seconds">5482</length>
-    <episode-num system="onscreen">1010</episode-num>
+  <programme start="20260924230006 +0200" stop="20260925003059 +0200" channel="esport3">
+    <title lang="ca">Onze</title>
+    <sub-title lang="ca">Supercampanya per la pilota d'or; el debut de Xavi a Holanda i 'El consultori'</sub-title>
+    <desc lang="ca">David Bernabeu, Víctor Lozano, Irati Vidal i Fernando Polo comenten les últimes declaracions d'Mbappé i Lamine Yamal reclamant per sí mateixos la pilota d'or. El Sergi Ferrer respon els dubtes dels espectadors de l'Onze.</desc>
+    <length units="seconds">5453</length>
+    <episode-num system="onscreen">1255</episode-num>
     <category lang="ca">ESPORTS</category>
-    <category lang="ca">INFORMATIU DIÀRI</category>
+    <category lang="ca">MAGAZINE</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/0/4/1706209193140.jpg"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/1/1/1688543515711.jpg"/>
   </programme>
-  <programme start="20260924203114 +0200" stop="20260924210640 +0200" channel="esport3">
-    <title lang="ca">Esport Club</title>
-    <sub-title lang="ca">Golejada de Champions, Dani García, NBA i tertúlia</sub-title>
-    <desc lang="ca">El Barça debuta a la Champions femenina amb golejada. En parlem amb Mireia Vera. Entrevistem Dani García, jugador de l'iLERNA Lleida. Aquest cap de setmana comença la Lliga ACB. L'NBA, amb Jordi de Mas; i a la tertúlia ens acompanyen Gemma Mallorca, Joan Prats i en Pere de Cal Tet. </desc>
-    <length units="seconds">2126</length>
-    <episode-num system="onscreen">3247</episode-num>
+  <programme start="20260925003059 +0200" stop="20260925005227 +0200" channel="esport3">
+    <title lang="ca">3CatInfo Esports</title>
+    <desc lang="ca">Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.</desc>
+    <length units="seconds">1288</length>
+    <episode-num system="onscreen">5518</episode-num>
     <category lang="ca">ESPORTS</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <subtitles type="teletext"/>
-    <previously-shown/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/7/3/1698145091337.jpg"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/9/7/1758888682179.jpg"/>
   </programme>
   <channel id="sx3">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20260924200000 +0200" stop="20260924201705 +0200" channel="sx3">
-    <title lang="ca">InfoK</title>
-    <desc lang="ca">En aquest InfoK us expliquem que acotxadors i enxanetes han estrenat un nou casc en la jornada castellera d'avui de la Mercè i Santa Tecla. Un model que protegeix més el cap i ara també la cara.I coneixem en Ricard, un nen que té una malaltia que es diu atàxia i que afecta molt el seu dia a dia. Està provant una medicació nova que fa que la malaltia no avanci tan ràpidament. És important parlar-ne per investigar i trobar tractaments per a malalties com aquestes.I avui també coneixem la Dolça. Té 12 anys i ha fet d'actriu a la pel·lícula 'Tanit', rodada als boscos del Montseny. Hem parlat amb ella. </desc>
-    <length units="seconds">1025</length>
-    <episode-num system="onscreen">4271</episode-num>
-    <category lang="ca">ACTUALITAT</category>
-    <category lang="ca">INFORMATIU DIÀRI</category>
+  <programme start="20260924230838 +0200" stop="20260924233024 +0200" channel="sx3">
+    <title lang="ca">Els germans Kratt</title>
+    <sub-title lang="ca">Viatge a la zona subnival</sub-title>
+    <desc lang="ca">Els germans Kratt han decidit miniaturitzar-se i arribar fins a l'estratosfera amb el Minijet per descobrir com es forma un floc de neu. L'últim que s'esperaven en aquesta missió era descobrir una colònia d'animalons que viuen a sota de la neu a una temperatura constant de zero graus. Avui en Chris i en Martin aprendran un munt de coses de la misteriosa zona subnival!</desc>
+    <length units="seconds">1306</length>
+    <episode-num system="onscreen">66</episode-num>
+    <category lang="ca">FICCIÓ</category>
+    <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
       <value>INFANTIL</value>
     </rating>
     <subtitles type="teletext"/>
+    <previously-shown/>
   </programme>
-  <programme start="20260924201705 +0200" stop="20260924203945 +0200" channel="sx3">
-    <title lang="ca">Henry Danger</title>
-    <sub-title lang="ca">L'enrenou del poder nou 1a part</sub-title>
-    <desc lang="ca">L'escapada d'un antic i temible ajudant del Capità Man revela secrets del passat que posen a prova la confiança d'en Henry.</desc>
-    <length units="seconds">1360</length>
-    <episode-num system="onscreen">52</episode-num>
+  <programme start="20260924233024 +0200" stop="20260924235033 +0200" channel="sx3">
+    <title lang="ca">Els germans Kratt</title>
+    <sub-title lang="ca">L'intercanvi de closques dels bernats ermitans</sub-title>
+    <desc lang="ca">El Martin i el Chris descobreixen un bernat ermità a la platja i tot l'equip Kratt es dedica a explorar l'increïble món d'aquest animal, que sembla un cranc però sense closca. Com que no té closca, utilitza les d'altres animals i les va canviant a mesura que creix. Igual que el bernat ermità, el Martin i el Chris viuen aventures per trobar la closca que els vagi bé de mida.</desc>
+    <length units="seconds">1209</length>
+    <episode-num system="onscreen">67</episode-num>
     <category lang="ca">FICCIÓ</category>
-    <category lang="ca">SÈRIE DRAMÀTICA</category>
+    <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
       <value>INFANTIL</value>
     </rating>
@@ -118,12 +119,12 @@
   <channel id="c33">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20260924191059 +0200" stop="20260924200752 +0200" channel="c33">
+  <programme start="20260924225731 +0200" stop="20260924235456 +0200" channel="c33">
     <title lang="ca">Un planeta perfecte</title>
-    <sub-title lang="ca">El Temps</sub-title>
-    <desc lang="ca">El temps pot canviar dia a dia, fins i tot cada hora, però des de fa mil·lennis, els patrons climàtics anuals s'han mantingut estables. La vida a la Terra depèn d'aquesta fiabilitat. La varietat de pluges per tot el planeta configura molts hàbitats: des d'una clapa de bosc a Zàmbia fins a l'Amazones, i des de Sud-àfrica fins al desert de Gobi, al nostre planeta perfecte hi ha moltes espècies que depenen del temps.</desc>
-    <length units="seconds">3413</length>
-    <episode-num system="onscreen">3</episode-num>
+    <sub-title lang="ca">Mars</sub-title>
+    <desc lang="ca">Perquè hi hagi vida al mar, cal que l'aigua es mogui. L'aigua dels corrents marins trasllada nutrients a grans distàncies i això propicia concentracions d'éssers vius que es beneficien directament o indirectament d'aquest dinamisme. Al centre del Pacífic, a la costa de Sud-àfrica, a les Bahames, a les Galápagos o a les illes Falkland trobem exemples sorprenents de com tothom que viu al mar aprofita la font de vida que són els corrents marins.</desc>
+    <length units="seconds">3445</length>
+    <episode-num system="onscreen">4</episode-num>
     <category lang="ca">DIVULGACIÓ</category>
     <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
     <rating>
@@ -133,12 +134,12 @@
     <previously-shown/>
     <icon src="https://img.3cat.cat/multimedia/jpg/0/9/1766143230590.jpg"/>
   </programme>
-  <programme start="20260924200752 +0200" stop="20260924205948 +0200" channel="c33">
-    <title lang="ca">A tocar de l'aigua</title>
-    <sub-title lang="ca">El Segre III; El Sió</sub-title>
-    <desc lang="ca">Després d'haver recorregut les capçaleres del Segre i bona part del seu curs mitjà, en aquest episodi ens acompanyarà un riu que travessa la comarca de la Noguera per llevant: el Sió, un petit afluent del Segre que guarda a les seves ribes un ric patrimoni natural i arquitectònic. El resseguirem fins al final i, després de visitar Balaguer, farem camí fins a Vilanova de la Barca.</desc>
-    <length units="seconds">3116</length>
-    <episode-num system="onscreen">6</episode-num>
+  <programme start="20260924235456 +0200" stop="20260925004104 +0200" channel="c33">
+    <title lang="ca">Arxipèlag blau</title>
+    <sub-title lang="ca">Praderies i arenals</sub-title>
+    <desc lang="ca">Miquel Salamanca ens presenta en aquest primer capítol de la sèrie 'Arxipèlag blau' dos dels ambients més característics de les nostres aigües: els arenals i els alguers, el que es coneix tradicionalment com 'el blanc' i 'el negre'. Ens endinsarem als alguers o praderies de posidònia per conèixer el cicle vital d'aquesta planta marina, les seves funcions ecològiques i les espècies que amaga entre les seves fulles. Ens sorprendrà descobrir com els arenals, en aparença extensions desèrtiques, són plens de vida, amb espècies que han desenvolupat complexos sistemes de camuflatge i defensa. Ferrasses, agulletes, serpetons, pedaços, pops i moltes altres criatures marines seran protagonistes d'aquest capítol. Per finalitzar acompanyarem Gàdor Muntaner a la seva visita a s'Espardell, a la reserva marina dels Freus d'Eivissa i Formentera.</desc>
+    <length units="seconds">2768</length>
+    <episode-num system="onscreen">1</episode-num>
     <category lang="ca">DIVULGACIÓ</category>
     <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
     <rating>
@@ -156,18 +157,6 @@
   <channel id="oca3">
     <display-name>OCA3</display-name>
   </channel>
-  <programme start="20260924185900 +0200" stop="20260924203000 +0200" channel="oca3">
-    <title lang="ca">Tot Costa</title>
-    <desc lang="ca">Fermín està en un gran moment de forma després de la lesió. L'entrevistem des de la convocatòria de la selecció espanyola, on ha tornat, i ho analitzem amb Santi Giménez, Marta Corredera i Gerard Autet. També parlem amb Laia Tudel dels canvis del Barça en la preparació física i amb Jordi Grau sentim Xavi Hernández, nou seleccionador dels Països Baixos. Connectarem amb Madrid, amb David Sánchez, i sentim el jugador blanc-i-blau Roberto, abans del debut amb la selecció espanyola. </desc>
-    <length units="seconds">5460</length>
-    <episode-num system="onscreen">1010</episode-num>
-    <category lang="ca">ESPORTS</category>
-    <category lang="ca">INFORMATIU DIÀRI</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <icon src="https://img.ccma.cat/multimedia/jpg/0/4/1706209193140.jpg"/>
-  </programme>
   <channel id="oca4">
     <display-name>OCA4</display-name>
   </channel>
