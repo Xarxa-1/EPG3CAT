@@ -3,67 +3,67 @@
   <channel id="tvi">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20260924231611 +0200" stop="20260924234622 +0200" channel="tvi">
-    <title lang="ca">Departament Amades</title>
-    <sub-title lang="ca">Dones d'aigua</sub-title>
-    <desc lang="ca">La Dolça, amb l'ajuda de la Xènia, ha d'aturar la Petúnia, una dona d'aigua que s'està aprofitant d'un socorrista en una piscina. El Marc convenç l'Arnau perquè gravi un vídeo per a xarxes i el comte aprofita per treure pit del seu passat gloriós.</desc>
-    <length units="seconds">1811</length>
-    <episode-num system="onscreen">4</episode-num>
-    <category lang="ca">FICCIÓ</category>
-    <category lang="ca">SÈRIE DRAMÀTICA</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <previously-shown/>
-  </programme>
-  <programme start="20260924234622 +0200" stop="20260925002811 +0200" channel="tvi">
-    <title lang="ca">APM?</title>
-    <desc lang="ca">Joel Díaz tindrà a l'altra banda del plafó del 'Però vostè qui és?' Júlia Díaz i Roc Bernadí, el duet poblenoví que forma Svetlana, un grup que ha fet de l'autenticitat, el petardeig i la guerra contra el guiri un gènere musical propi. Junts parlaran de temes com els heterocuriosos, els 'josepmaries' o, per a sorpresa de ningú, els turistes i els expats.Mentrestant, la nostra síndica de greuges particular, Nerea Sanfe, segueix 'On falla!' visitant els racons de Catalunya que li suggereixen els nostres espectadors per Instagram. Aquesta setmana viatjarà fins a Cunit (la Venècia del Baix Penedès) per parlar amb els veïns dels problemes que pateixen amb la recollida d'escombraries. Veurem indignació, veïns enfadats i fins i tot un cara a cara entre una veïna i una persona que recull la brossa. I a més, resumirem els viatges de l'Imserso en un minut; ens prepararem mentalment per pair les properes tres setmanes sense cap partit del Barça; i trobarem uns nous intèrprets que entenguin el català (bé, més o menys) per al judici d'en Roger Español. #APM3CAT</desc>
-    <length units="seconds">2509</length>
-    <episode-num system="onscreen">879</episode-num>
-    <category lang="ca">ENTRETENIMENT</category>
-    <category lang="ca">ALTRES</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <icon src="https://img.ccma.cat/multimedia/jpg/0/2/1442394916120.jpg"/>
-  </programme>
-  <channel id="324">
-    <display-name>324</display-name>
-  </channel>
-  <programme start="20260924220500 +0200" stop="20260925000000 +0200" channel="324">
+  <programme start="20260925002814 +0200" stop="20260925021537 +0200" channel="tvi">
     <title lang="ca">Mésnit</title>
     <desc lang="ca">El 'Mésnit' arriba a la desena temporada, amb Marina Romero al capdavant de l'espai i amb la voluntat de continuar sent un centre de debat d'idees i d'anàlisi de l'activitat política.</desc>
-    <length units="seconds">6900</length>
+    <length units="seconds">6443</length>
     <episode-num system="onscreen">2166</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">DEBAT</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <subtitles type="teletext"/>
+    <previously-shown/>
   </programme>
-  <programme start="20260925000000 +0200" stop="20260925003000 +0200" channel="324">
+  <programme start="20260925021537 +0200" stop="20260925040000 +0200" channel="tvi">
     <title lang="ca">Notícies 3CatInfo</title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">1800</length>
-    <episode-num system="onscreen">11260</episode-num>
+    <length units="seconds">6263</length>
+    <episode-num system="onscreen">11261</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <subtitles type="teletext"/>
+    <previously-shown/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
+  </programme>
+  <channel id="324">
+    <display-name>324</display-name>
+  </channel>
+  <programme start="20260925010000 +0200" stop="20260925060000 +0200" channel="324">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="seconds">18000</length>
+    <episode-num system="onscreen">11261</episode-num>
+    <category lang="ca">ACTUALITAT</category>
+    <category lang="ca">INFORMATIU DIÀRI</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <previously-shown/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
+  </programme>
+  <programme start="20260925060000 +0200" stop="20260925080000 +0200" channel="324">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="seconds">7200</length>
+    <episode-num system="onscreen">11262</episode-num>
+    <category lang="ca">ACTUALITAT</category>
+    <category lang="ca">INFORMATIU DIÀRI</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
     <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
   <channel id="esport3">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20260924230006 +0200" stop="20260925003059 +0200" channel="esport3">
+  <programme start="20260925004757 +0200" stop="20260925022028 +0200" channel="esport3">
     <title lang="ca">Onze</title>
     <sub-title lang="ca">Supercampanya per la pilota d'or; el debut de Xavi a Holanda i 'El consultori'</sub-title>
     <desc lang="ca">David Bernabeu, Víctor Lozano, Irati Vidal i Fernando Polo comenten les últimes declaracions d'Mbappé i Lamine Yamal reclamant per sí mateixos la pilota d'or. El Sergi Ferrer respon els dubtes dels espectadors de l'Onze.</desc>
-    <length units="seconds">5453</length>
+    <length units="seconds">5551</length>
     <episode-num system="onscreen">1255</episode-num>
     <category lang="ca">ESPORTS</category>
     <category lang="ca">MAGAZINE</category>
@@ -71,29 +71,31 @@
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
+    <previously-shown/>
     <icon src="https://img.ccma.cat/multimedia/jpg/1/1/1688543515711.jpg"/>
   </programme>
-  <programme start="20260925003059 +0200" stop="20260925005227 +0200" channel="esport3">
+  <programme start="20260925022028 +0200" stop="20260925023501 +0200" channel="esport3">
     <title lang="ca">3CatInfo Esports</title>
     <desc lang="ca">Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.</desc>
-    <length units="seconds">1288</length>
+    <length units="seconds">873</length>
     <episode-num system="onscreen">5518</episode-num>
     <category lang="ca">ESPORTS</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
+    <previously-shown/>
     <icon src="https://img.ccma.cat/multimedia/jpg/9/7/1758888682179.jpg"/>
   </programme>
   <channel id="sx3">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20260924230838 +0200" stop="20260924233024 +0200" channel="sx3">
-    <title lang="ca">Els germans Kratt</title>
-    <sub-title lang="ca">Viatge a la zona subnival</sub-title>
-    <desc lang="ca">Els germans Kratt han decidit miniaturitzar-se i arribar fins a l'estratosfera amb el Minijet per descobrir com es forma un floc de neu. L'últim que s'esperaven en aquesta missió era descobrir una colònia d'animalons que viuen a sota de la neu a una temperatura constant de zero graus. Avui en Chris i en Martin aprendran un munt de coses de la misteriosa zona subnival!</desc>
-    <length units="seconds">1306</length>
-    <episode-num system="onscreen">66</episode-num>
+  <programme start="20260925014514 +0200" stop="20260925020423 +0200" channel="sx3">
+    <title lang="ca">Viatges Pokémon</title>
+    <sub-title lang="ca">Junts, però a distància!</sub-title>
+    <desc lang="ca">El Goh té una grata sorpresa quan descobreix que el Sobble ha evolucionat a Drizzile! Però el Drizzile no hi està d'acord: ell volia evolucionar a Inteleon. Quan finalment troba consol dins d'una cova, el Goh i el Cinderace l'arrosseguen a l'exterior, i ell fuig corrents. Més tard, el Gho, gràcies a un comentari de la Chloe, recorda com era ell abans i s'adona que ha comès un gran error. Troba el Drizzile, el tranquil·litza i li diu que si mai necessita un amic, pot comptar amb ell. El Drizzile torna a desaparèixer, però aquesta vegada se'n va a la cova del Parc Cirerer. Així continua una relació inusual i alhora extraordinària entre el Pokémon i el seu entrenador!</desc>
+    <length units="seconds">1149</length>
+    <episode-num system="onscreen">62</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
@@ -102,12 +104,12 @@
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20260924233024 +0200" stop="20260924235033 +0200" channel="sx3">
-    <title lang="ca">Els germans Kratt</title>
-    <sub-title lang="ca">L'intercanvi de closques dels bernats ermitans</sub-title>
-    <desc lang="ca">El Martin i el Chris descobreixen un bernat ermità a la platja i tot l'equip Kratt es dedica a explorar l'increïble món d'aquest animal, que sembla un cranc però sense closca. Com que no té closca, utilitza les d'altres animals i les va canviant a mesura que creix. Igual que el bernat ermità, el Martin i el Chris viuen aventures per trobar la closca que els vagi bé de mida.</desc>
-    <length units="seconds">1209</length>
-    <episode-num system="onscreen">67</episode-num>
+  <programme start="20260925020423 +0200" stop="20260925022401 +0200" channel="sx3">
+    <title lang="ca">Viatges Pokémon</title>
+    <sub-title lang="ca">Per terra, per mar, i cap al futur!</sub-title>
+    <desc lang="ca">Se celebra la Cursa Atlètica Marina Pokémon. Quan hi arriben, els nostres herois es troben amb el Kiley, un amic de la Chrysa, perquè la Chloe i l'Eevee puguin aprendre més coses sobre el Vaporeon, el company del Kiley. El Kiley li confirma a la Chloe que, tot i que l'Eevee no és de tipus aigua, pot participar igualment en la cursa. L'Ash hi competeix amb el Dracovish, i el Goh tria el Dewgong, que acaba barallant-se amb un Huntail agressiu. El Huntail acorrala la Chloe, el Dewgong i l'Eevee en una cova submarina, però els nostres herois ajunten forces i el derroten. Després el Kiley li dona a la Chloe una pedra aigua com a opció per al futur, perquè l'Eevee pugui triar en què evoluciona quan arribi el moment adequat.</desc>
+    <length units="seconds">1178</length>
+    <episode-num system="onscreen">63</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
@@ -119,29 +121,28 @@
   <channel id="c33">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20260924225731 +0200" stop="20260924235456 +0200" channel="c33">
-    <title lang="ca">Un planeta perfecte</title>
-    <sub-title lang="ca">Mars</sub-title>
-    <desc lang="ca">Perquè hi hagi vida al mar, cal que l'aigua es mogui. L'aigua dels corrents marins trasllada nutrients a grans distàncies i això propicia concentracions d'éssers vius que es beneficien directament o indirectament d'aquest dinamisme. Al centre del Pacífic, a la costa de Sud-àfrica, a les Bahames, a les Galápagos o a les illes Falkland trobem exemples sorprenents de com tothom que viu al mar aprofita la font de vida que són els corrents marins.</desc>
-    <length units="seconds">3445</length>
-    <episode-num system="onscreen">4</episode-num>
-    <category lang="ca">DIVULGACIÓ</category>
-    <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
+  <programme start="20260925012326 +0200" stop="20260925020201 +0200" channel="c33">
+    <title lang="ca">km33</title>
+    <sub-title lang="ca">Albània</sub-title>
+    <desc lang="ca">Platges de búnquersDes que era un adolescent, l'obsessió d'en Pep ha estat trepitjar Albània. Ara que el país surt de l'aïllament és un bon moment per anar-hi amb la seva xicota. Seguint el rastre del dictador, es perden pels impressionants paisatges i la bonica costa.I a més a més:ALBÀNIA DESPRÉS DE L'AÏLLAMENTQuatre dades sobre el desconegut país després de dècades de dictadura.VIATJAR AMB L'ESPORTEsdeveniments esportius que són l'excusa per conèixer món. TURISME POLÍTICAtraccions turístiques per als nostàlgics del comunisme.</desc>
+    <length units="seconds">2315</length>
+    <episode-num system="onscreen">7</episode-num>
+    <category lang="ca">ENTRETENIMENT</category>
+    <category lang="ca">ALTRES</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
-    <icon src="https://img.3cat.cat/multimedia/jpg/0/9/1766143230590.jpg"/>
   </programme>
-  <programme start="20260924235456 +0200" stop="20260925004104 +0200" channel="c33">
-    <title lang="ca">Arxipèlag blau</title>
-    <sub-title lang="ca">Praderies i arenals</sub-title>
-    <desc lang="ca">Miquel Salamanca ens presenta en aquest primer capítol de la sèrie 'Arxipèlag blau' dos dels ambients més característics de les nostres aigües: els arenals i els alguers, el que es coneix tradicionalment com 'el blanc' i 'el negre'. Ens endinsarem als alguers o praderies de posidònia per conèixer el cicle vital d'aquesta planta marina, les seves funcions ecològiques i les espècies que amaga entre les seves fulles. Ens sorprendrà descobrir com els arenals, en aparença extensions desèrtiques, són plens de vida, amb espècies que han desenvolupat complexos sistemes de camuflatge i defensa. Ferrasses, agulletes, serpetons, pedaços, pops i moltes altres criatures marines seran protagonistes d'aquest capítol. Per finalitzar acompanyarem Gàdor Muntaner a la seva visita a s'Espardell, a la reserva marina dels Freus d'Eivissa i Formentera.</desc>
-    <length units="seconds">2768</length>
-    <episode-num system="onscreen">1</episode-num>
-    <category lang="ca">DIVULGACIÓ</category>
-    <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
+  <programme start="20260925020201 +0200" stop="20260925023913 +0200" channel="c33">
+    <title lang="ca">km33</title>
+    <sub-title lang="ca">Guatemala</sub-title>
+    <desc lang="ca">Cultura maia en erupcióLa Laila treballa a Guatemala com a cooperant. Abans de tornar a Barcelona fa un viatge per l'altiplà amb la Maria. Visiten llacs i volcans, descobreixen mercats indígenes i viuen la màgia de les cerimònies maies.I a més a més:COORDENADES DE GUATEMALATot allò que has de saber abans de trepitjar el país.TURISME SOLIDARICom evitar el turisme de masses. Una altra manera de viatjar és possible.FENÒMENS METEOROLÒGICSConsells per no ensopegar amb monsons, huracans o tifons durant el viatge.</desc>
+    <length units="seconds">2232</length>
+    <episode-num system="onscreen">9</episode-num>
+    <category lang="ca">ENTRETENIMENT</category>
+    <category lang="ca">ALTRES</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
