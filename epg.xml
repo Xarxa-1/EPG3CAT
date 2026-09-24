@@ -3,53 +3,49 @@
   <channel id="tvi">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20260924050000 +0200" stop="20260924060000 +0200" channel="tvi">
-    <title lang="ca">Jazz a l'estudi</title>
-    <sub-title lang="ca">Elisabet Raspall</sub-title>
-    <desc lang="ca">Durant el segle XX el jazz s'ha convertit en un llenguatge musical universal. Gèneres com el be bop, el blues o el swing han trencat fronteres geogràfiques i racials per esdevenir una música popular, que músics d'arreu del món han adaptat a la seva manera de fer. Jazz a l'estudi és un programa de seixanta minuts de durada dedicat al gènere musical jazzístic per on passen músics arrelats a Catalunya. Des d'aquest espai es proposa fer un cop d'ull al panorama del jazz i les seves variants al nostre país.I ho fa d'una manera diferent, perquè el programa ofereix la possibilitat de veure els artistes en un dels seus àmbits naturals: l'estudi de gravació on s'enregistren les sessions, com una instantània sonora, i on es couen les millors receptes musicals del jazz a Catalunya. </desc>
-    <length units="seconds">3600</length>
-    <episode-num system="onscreen">7</episode-num>
-    <category lang="ca">MUSICALS</category>
-    <category lang="ca">JAZZ</category>
+  <programme start="20260924103007 +0200" stop="20260924135500 +0200" channel="tvi">
+    <title lang="ca">Tot es mou</title>
+    <desc lang="ca">El programa presentat per Helena Garcia Melero s'emet de dilluns a divendres, de 10.30 a 13.55. Un magazín d'actualitat que busca informar, analitzar i debatre sobre temes que marquen l'actualitat social, econòmica i cultural del dia, amb una àmplia presència en directe dels reporters i reporteres, repartits per tot Catalunya. A més, el 'Tot es mou' compta amb seccions diàries de gastronomia (amb els principals cuiners i cuineres del país), successos, economia, mobilitat, temes mèdics i de tecnologia, entre d'altres.</desc>
+    <length units="seconds">12293</length>
+    <episode-num system="onscreen">1815</episode-num>
+    <category lang="ca">ACTUALITAT</category>
+    <category lang="ca">MAGAZINE</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <previously-shown/>
   </programme>
-  <programme start="20260924060000 +0200" stop="20260924080000 +0200" channel="tvi">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">7200</length>
-    <episode-num system="onscreen">11253</episode-num>
+  <programme start="20260924135500 +0200" stop="20260924143001 +0200" channel="tvi">
+    <title lang="ca">Telenotícies comarques</title>
+    <length units="seconds">2101</length>
+    <episode-num system="onscreen">7041</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/5/2/1758026313525.jpg"/>
   </programme>
   <channel id="324">
     <display-name>324</display-name>
   </channel>
-  <programme start="20260924010000 +0200" stop="20260924060000 +0200" channel="324">
+  <programme start="20260924103000 +0200" stop="20260924120000 +0200" channel="324">
     <title lang="ca">Notícies 3CatInfo</title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">18000</length>
-    <episode-num system="onscreen">11252</episode-num>
+    <length units="seconds">5400</length>
+    <episode-num system="onscreen">11254</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
-    <previously-shown/>
     <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
-  <programme start="20260924060000 +0200" stop="20260924080000 +0200" channel="324">
+  <programme start="20260924120000 +0200" stop="20260924135500 +0200" channel="324">
     <title lang="ca">Notícies 3CatInfo</title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">7200</length>
-    <episode-num system="onscreen">11253</episode-num>
+    <length units="seconds">6900</length>
+    <episode-num system="onscreen">11255</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
@@ -61,58 +57,67 @@
   <channel id="esport3">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20260924043019 +0200" stop="20260924055416 +0200" channel="esport3">
-    <title lang="ca">E3D</title>
-    <sub-title lang="ca">BMX UCI HC / Extreme Barcelona / Final masculina</sub-title>
-    <desc lang="ca">Final masculina de BMX a la 18a edició de l'Extrem Barcelona, que es fa al Parc del Fòrum. Amb la narració de Jordi Gil.</desc>
-    <length units="seconds">5037</length>
-    <episode-num system="onscreen">8117</episode-num>
-    <category lang="ca">ESPORTS</category>
-    <category lang="ca">RETRANSMISSIONS ESPORTS</category>
+  <programme start="20260924104341 +0200" stop="20260924112606 +0200" channel="esport3">
+    <title lang="ca">Viatges insòlits</title>
+    <sub-title lang="ca">Últims dies al Japó</sub-title>
+    <desc lang="ca">Comencem l'última part del viatge pel Japó amb una visita polèmica: Fukushima. Després de més d'una dècada del desastre nuclear, en Tom vol veure com es recupera la zona i, sobre tot, com ho viuen els japonesos que van patir el tsunami. Els últims kilòmetres de la ruta portaran en Tom a paratges insòlits i inoblidables.</desc>
+    <length units="seconds">2545</length>
+    <episode-num system="onscreen">36</episode-num>
+    <category lang="ca">DIVULGACIÓ</category>
+    <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
+    <subtitles type="teletext"/>
     <previously-shown/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/3/2/1788358923323.jpg"/>
   </programme>
-  <programme start="20260924055416 +0200" stop="20260924060323 +0200" channel="esport3">
-    <title lang="ca">Pitch&amp;Cat</title>
-    <sub-title lang="ca">Els guants</sub-title>
-    <desc lang="ca">Descobrim quin és el guant que millor s'adapta a la pràctica del pitch&amp;putt. Analitzem diferents tipus de guants, les seves característiques i les claus per escollir l'opció més adequada segons el nostre joc. A més, visitem el camp de P&amp;P Tennis Mora, al Maresme, situat entre Sant Vicenç de Montalt i Sant Andreu de Llavaneres.</desc>
-    <length units="seconds">547</length>
-    <episode-num system="onscreen">106</episode-num>
+  <programme start="20260924112606 +0200" stop="20260924130000 +0200" channel="esport3">
+    <title lang="ca">Onze</title>
+    <sub-title lang="ca">La nostra pilota d'or; Post Barça-París i 'El predicador'</sub-title>
+    <desc lang="ca">Lluís Carrasco, Juvenal Edjogo, Laia Tudel i Joan Poquí fan les seves votacions per la pilota d'or i comenten el debut del Barça femení a la Champions. L'Òscar Perez-Dols predica els manaments del bon culer.</desc>
+    <length units="seconds">5634</length>
+    <episode-num system="onscreen">1254</episode-num>
     <category lang="ca">ESPORTS</category>
-    <category lang="ca">REPORTATGES</category>
+    <category lang="ca">MAGAZINE</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
+    <subtitles type="teletext"/>
     <previously-shown/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/6/8/1727969229786.jpg"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/1/1/1688543515711.jpg"/>
   </programme>
   <channel id="sx3">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20260924053821 +0200" stop="20260924054441 +0200" channel="sx3">
-    <title lang="ca">El xai Shaun</title>
-    <sub-title lang="ca">A fet i a xisclar</sub-title>
-    <desc lang="ca">El granger està ben espantat perquè ha vist un ratolí voltant per la granja. Ja li ha ordenat a en Pidsley que se'n faci càrrec ell, però el ratolí, que és molt bufó, s'ha refugiat dins de la llana d'en Shaun. Els altres xais l'han convençut que l'ha de protegir de les urpes d'en Pidsley i ha començat el joc de fet i amagar... O, més aviat, fet i xisclar!</desc>
-    <length units="seconds">380</length>
-    <episode-num system="onscreen">54</episode-num>
+  <programme start="20260924102147 +0200" stop="20260924114218 +0200" channel="sx3">
+    <title lang="ca">Espies de veritat: la pel·lícula</title>
+    <sub-title lang="ca">Espies de veritat: La pel·lícula</sub-title>
+    <desc lang="ca">ESPIES DE VERITAT: LA PEL·LÍCULA (Totally spies: The movie)Direcció: Pascal Jardin, Lee Seok-hoonGuió: Vincent Chalvon-Demersay, Michelle Lamoreaux, Robert Lamoreaux, David MichelProducció: Marathon Media Group, Studio 37, Mikado, Groupe Un, CNCPaís: França / Corea del SudAny: 2009Durada: 83 minutsMúsica: Maxime Barzel, Paul-Étienne CôtéGènere: AnimacióLa WOOHP ha fitxat tres adolescents de Beverly Hills per fer d'agents secrets: l'Alex, la Clover i la Sam... Ja les coneixes! Després d'un entrenament que els farà trencar més d'una ungla i deixar anar més d'un crit al cel, arriba la primera missió de les Espies de Veritat: localitzar en Peppy Wolfman, tot un mestre amb les mascotes. Aviat descobriran que ell i uns quants companys de classe més han estat víctimes d'una abducció després de ser 'fabulitzats'. En Fabu té uns plans molt sinistres per Beverly Hills... i pel planeta sencer! El món pot acabar sent una mica massa 'fabulós'... Si les nostres heroïnes no ho impedeixen, esclar!</desc>
+    <credits>
+      <director>Pascal Jardin</director>
+      <director>Lee Seok-hoon</director>
+      <writer>Vincent Chalvon-Demersay</writer>
+      <writer>Michelle Lamoreaux</writer>
+      <writer>Robert Lamoreaux</writer>
+      <writer>David Michel</writer>
+    </credits>
+    <length units="seconds">4831</length>
+    <episode-num system="onscreen">1</episode-num>
     <category lang="ca">FICCIÓ</category>
-    <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
+    <category lang="ca">PEL·LÍCULA DIBUIXOS ANIMATS</category>
     <rating>
       <value>INFANTIL</value>
     </rating>
+    <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20260924054441 +0200" stop="20260924054708 +0200" channel="sx3">
-    <title lang="ca">Looloo Kids (cançons)</title>
-    <sub-title lang="ca">Cinc granotes (de colors)</sub-title>
-    <desc lang="ca">Cinc granotes van navegant pel riu dalt d'un tronc.</desc>
-    <length units="seconds">147</length>
-    <episode-num system="onscreen">44</episode-num>
+  <programme start="20260924114218 +0200" stop="20260924115440 +0200" channel="sx3">
+    <title lang="ca">Ghost Rockers</title>
+    <desc lang="ca">L'Eva i en Jonas reben una gran notícia: fer de teloners per a un cantant famós durant una gira de tres mesos pels Estats Units. Tot i l'alegria inicial, a en Jonas li sap greu abandonar els Ghosts Rockers. D'altra banda, en Jimmy continua enfadat amb la Charlie, en Brandon decideix seguir el seu pare per descobrir què fa i en Verlinden prepara una trampa terrible a un membre de la banda.</desc>
+    <length units="seconds">742</length>
+    <episode-num system="onscreen">200</episode-num>
     <category lang="ca">FICCIÓ</category>
-    <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
+    <category lang="ca">SÈRIE DRAMÀTICA</category>
     <rating>
       <value>INFANTIL</value>
     </rating>
@@ -122,27 +127,28 @@
   <channel id="c33">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20260924051713 +0200" stop="20260924054544 +0200" channel="c33">
-    <title lang="ca">GR Barcelona</title>
-    <sub-title lang="ca">Pedres que parlen</sub-title>
-    <desc lang="ca">'El poble que oblida la seva història està condemnat a repetir-la'.Farem un gran recorregut pels indrets que han marcat la història de la ciutat, des de l'època romana fins a l'actualitat, veient com estem rodejats de pedres que ens diuen molt més del que sembla. Amb l'historiador Dani Cortijo passejarem per racons amagats de Barcelona que han tingut una rellevància clau en la nostra evolució, respirarem l'aroma de la Barcino romana al MUHBA, aprendrem com es fa el trencadís al taller de la Llívia Garreta després d'haver visitat el Park Güell, farem un taller de cuina de 1714 al bell mig del Born amb la jove cuinera Rais Esteve, visitarem el Refugi 307, un búnquer antiaeri de la Guerra Civil i acabarem en una botiga de diaris antics.</desc>
-    <length units="seconds">1711</length>
-    <episode-num system="onscreen">5</episode-num>
-    <category lang="ca">DIVULGACIÓ</category>
-    <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
+  <programme start="20260924102926 +0200" stop="20260924110742 +0200" channel="c33">
+    <title lang="ca">Tot el temps del món</title>
+    <sub-title lang="ca">Sergi Pàmies</sub-title>
+    <desc lang="ca">Anna Guitart entrevista l'escriptor Sergi Pàmies.</desc>
+    <length units="seconds">2296</length>
+    <episode-num system="onscreen">17</episode-num>
+    <category lang="ca">ALTRES</category>
+    <category lang="ca">ENTREVISTES</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20260924054544 +0200" stop="20260924055805 +0200" channel="c33">
-    <title lang="ca">Thalassa curts</title>
-    <sub-title lang="ca">Un mar sense arrossegadors</sub-title>
-    <length units="seconds">741</length>
-    <episode-num system="onscreen">140</episode-num>
-    <category lang="ca">DIVULGACIÓ</category>
-    <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
+  <programme start="20260924110742 +0200" stop="20260924114433 +0200" channel="c33">
+    <title lang="ca">Tot el temps del món</title>
+    <sub-title lang="ca">Maite Carranza</sub-title>
+    <desc lang="ca">Anna Guitart entrevista Maite Carranza.</desc>
+    <length units="seconds">2211</length>
+    <episode-num system="onscreen">18</episode-num>
+    <category lang="ca">ALTRES</category>
+    <category lang="ca">ENTREVISTES</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
