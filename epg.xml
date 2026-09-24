@@ -3,29 +3,29 @@
   <channel id="tvi">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20260924001243 +0200" stop="20260924021111 +0200" channel="tvi">
-    <title lang="ca">Mésnit</title>
-    <desc lang="ca">El 'Mésnit' arriba a la desena temporada, amb Marina Romero al capdavant de l'espai i amb la voluntat de continuar sent un centre de debat d'idees i d'anàlisi de l'activitat política.</desc>
-    <length units="seconds">7108</length>
-    <episode-num system="onscreen">2165</episode-num>
-    <category lang="ca">ACTUALITAT</category>
-    <category lang="ca">DEBAT</category>
+  <programme start="20260924050000 +0200" stop="20260924060000 +0200" channel="tvi">
+    <title lang="ca">Jazz a l'estudi</title>
+    <sub-title lang="ca">Elisabet Raspall</sub-title>
+    <desc lang="ca">Durant el segle XX el jazz s'ha convertit en un llenguatge musical universal. Gèneres com el be bop, el blues o el swing han trencat fronteres geogràfiques i racials per esdevenir una música popular, que músics d'arreu del món han adaptat a la seva manera de fer. Jazz a l'estudi és un programa de seixanta minuts de durada dedicat al gènere musical jazzístic per on passen músics arrelats a Catalunya. Des d'aquest espai es proposa fer un cop d'ull al panorama del jazz i les seves variants al nostre país.I ho fa d'una manera diferent, perquè el programa ofereix la possibilitat de veure els artistes en un dels seus àmbits naturals: l'estudi de gravació on s'enregistren les sessions, com una instantània sonora, i on es couen les millors receptes musicals del jazz a Catalunya. </desc>
+    <length units="seconds">3600</length>
+    <episode-num system="onscreen">7</episode-num>
+    <category lang="ca">MUSICALS</category>
+    <category lang="ca">JAZZ</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <previously-shown/>
   </programme>
-  <programme start="20260924021111 +0200" stop="20260924040000 +0200" channel="tvi">
+  <programme start="20260924060000 +0200" stop="20260924080000 +0200" channel="tvi">
     <title lang="ca">Notícies 3CatInfo</title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">6529</length>
-    <episode-num system="onscreen">11252</episode-num>
+    <length units="seconds">7200</length>
+    <episode-num system="onscreen">11253</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <previously-shown/>
     <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
   <channel id="324">
@@ -41,6 +41,7 @@
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
+    <subtitles type="teletext"/>
     <previously-shown/>
     <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
@@ -60,57 +61,56 @@
   <channel id="esport3">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20260924005453 +0200" stop="20260924022909 +0200" channel="esport3">
-    <title lang="ca">Onze</title>
-    <sub-title lang="ca">La nostra pilota d'or; Post Barça-París i 'El predicador'</sub-title>
-    <desc lang="ca">Lluís Carrasco, Juvenal Edjogo, Laia Tudel i Joan Poquí fan les seves votacions per la pilota d'or i comenten el debut del Barça femení a la Champions. L'Òscar Perez-Dols predica els manaments del bon culer.</desc>
-    <length units="seconds">5656</length>
-    <episode-num system="onscreen">1254</episode-num>
+  <programme start="20260924043019 +0200" stop="20260924055416 +0200" channel="esport3">
+    <title lang="ca">E3D</title>
+    <sub-title lang="ca">BMX UCI HC / Extreme Barcelona / Final masculina</sub-title>
+    <desc lang="ca">Final masculina de BMX a la 18a edició de l'Extrem Barcelona, que es fa al Parc del Fòrum. Amb la narració de Jordi Gil.</desc>
+    <length units="seconds">5037</length>
+    <episode-num system="onscreen">8117</episode-num>
     <category lang="ca">ESPORTS</category>
-    <category lang="ca">MAGAZINE</category>
+    <category lang="ca">RETRANSMISSIONS ESPORTS</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <subtitles type="teletext"/>
     <previously-shown/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/1/1/1688543515711.jpg"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/3/2/1788358923323.jpg"/>
   </programme>
-  <programme start="20260924022909 +0200" stop="20260924025001 +0200" channel="esport3">
-    <title lang="ca">3CatInfo Esports</title>
-    <desc lang="ca">Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.</desc>
-    <length units="seconds">1252</length>
-    <episode-num system="onscreen">5517</episode-num>
+  <programme start="20260924055416 +0200" stop="20260924060323 +0200" channel="esport3">
+    <title lang="ca">Pitch&amp;Cat</title>
+    <sub-title lang="ca">Els guants</sub-title>
+    <desc lang="ca">Descobrim quin és el guant que millor s'adapta a la pràctica del pitch&amp;putt. Analitzem diferents tipus de guants, les seves característiques i les claus per escollir l'opció més adequada segons el nostre joc. A més, visitem el camp de P&amp;P Tennis Mora, al Maresme, situat entre Sant Vicenç de Montalt i Sant Andreu de Llavaneres.</desc>
+    <length units="seconds">547</length>
+    <episode-num system="onscreen">106</episode-num>
     <category lang="ca">ESPORTS</category>
-    <category lang="ca">INFORMATIU DIÀRI</category>
+    <category lang="ca">REPORTATGES</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <previously-shown/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/9/7/1758888682179.jpg"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/6/8/1727969229786.jpg"/>
   </programme>
   <channel id="sx3">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20260924014645 +0200" stop="20260924020554 +0200" channel="sx3">
-    <title lang="ca">Viatges Pokémon</title>
-    <sub-title lang="ca">Quan una casa no és una llar!</sub-title>
-    <desc lang="ca">El Goh es desperta d'un malson i es troba un Grookey recolzat al braç. Prova de capturar-lo, però el seu SmartRotom li diu que ja té entrenador. L'Ash i el Goh volen saber qui és aquest entrenador i van a buscar el lloc on viu el Grookey. Després de mirar les imatges de la càmera de vigilància d'una botiga, descobreixen que el Grookey va sortir de la màquina del Coet Secret Gran Premi del Team Rocket, i al cap d'un moment arriba aquest equip de malvats.</desc>
-    <length units="seconds">1149</length>
-    <episode-num system="onscreen">59</episode-num>
+  <programme start="20260924053821 +0200" stop="20260924054441 +0200" channel="sx3">
+    <title lang="ca">El xai Shaun</title>
+    <sub-title lang="ca">A fet i a xisclar</sub-title>
+    <desc lang="ca">El granger està ben espantat perquè ha vist un ratolí voltant per la granja. Ja li ha ordenat a en Pidsley que se'n faci càrrec ell, però el ratolí, que és molt bufó, s'ha refugiat dins de la llana d'en Shaun. Els altres xais l'han convençut que l'ha de protegir de les urpes d'en Pidsley i ha començat el joc de fet i amagar... O, més aviat, fet i xisclar!</desc>
+    <length units="seconds">380</length>
+    <episode-num system="onscreen">54</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
       <value>INFANTIL</value>
     </rating>
-    <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20260924020554 +0200" stop="20260924022513 +0200" channel="sx3">
-    <title lang="ca">Viatges Pokémon</title>
-    <sub-title lang="ca">Més enllà de la cavalleria...aspirant a ser Mestre Porro!</sub-title>
-    <desc lang="ca">La Sèrie Mundial de Coronació continua a tota marxa i l'Ash s'ha entrenat més que mai. Ell i el Goh fan un combat d'entrenament i se'n van cap al Centre Pokémon, on troben el Rinto, que prèviament havia derrotat l'Ash en un combat i ha ascendit a la classe excel·lent. L'Ash desafia el Rinto a un combat oficial, una revenja entre el Farfetch'd i el Gallade. Al principi, el Farfetch'd està una mica insegur, però l'Ash li fa recordar l'entrenament que va fer amb el Til·leu. Després de canviar d'estratègia, el Farfetch'd evoluciona a Sirfetch'd i derrota el Gallade.</desc>
-    <length units="seconds">1159</length>
-    <episode-num system="onscreen">60</episode-num>
+  <programme start="20260924054441 +0200" stop="20260924054708 +0200" channel="sx3">
+    <title lang="ca">Looloo Kids (cançons)</title>
+    <sub-title lang="ca">Cinc granotes (de colors)</sub-title>
+    <desc lang="ca">Cinc granotes van navegant pel riu dalt d'un tronc.</desc>
+    <length units="seconds">147</length>
+    <episode-num system="onscreen">44</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
@@ -122,49 +122,27 @@
   <channel id="c33">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20260924001834 +0200" stop="20260924021948 +0200" channel="c33">
-    <title lang="ca">Pel·lícula</title>
-    <sub-title lang="ca">Assassinat a l'Orient Express</sub-title>
-    <desc lang="ca">ASSASSINAT A L'ORIENT EXPRESS (Murder on the Orient Express)Idioma versió original: anglèsProducció: John Brabourne i Richard Goodwin per a EMI Films, 1974 (Gran Bretanya)Direcció: Sidney Lumet / Durada: 121 minutsGuió: Paul Dehn, basat en la novel·la d'Agatha ChristieFotografia: Geoffrey Unsworth (Technicolor)Música: Richard Rodney BennetIntèrprets: Albert Finney (Hercule Poirot), Lauren Bacall (senyora Hubbard), Martin Balsam (Bianchi), Ingrid Bergman (Greta), Jacqueline Bisset (comtessa Andrenyi), Jean-Pierre Cassel (Pierre)El 1930 esclata un drama amb el segrest de la nena Daisy Armstrong. El pare paga el rescat, però la nena mor. Detenen i condemnen el raptor i, al cap d'un temps, els Armstrong moren i la cangur se suïcida. El 1935 Hercule Poirot viatja en l'Orient Express i un dels viatgers, Ratchett, li demana que el protegeixi. Poirot s'hi nega i, poc després, Ratchett mor de dotze ganivetades. Poirot descobreix que Ratchett havia organitzat el segrest de Daisy i que tots els passatgers del tren tenen algun lligam amb la família Armstrong.</desc>
-    <credits>
-      <director>Sidney Lumet / Durada: 121 minuts</director>
-      <actor>Albert Finney (Hercule Poirot)</actor>
-      <actor>Lauren Bacall (senyora Hubbard)</actor>
-      <actor>Martin Balsam (Bianchi)</actor>
-      <actor>Ingrid Bergman (Greta)</actor>
-      <actor>Jacqueline Bisset (comtessa Andrenyi)</actor>
-      <actor>Jean-Pierre Cassel (Pierre)El 1930 esclata un drama amb el segrest de la nena Daisy Armstrong. El pare paga el rescat</actor>
-      <actor>però la nena mor. Detenen</actor>
-      <actor>condemnen el raptor i</actor>
-      <actor>al cap d'un temps</actor>
-      <actor>els Armstrong moren</actor>
-      <actor>la cangur se suïcida. El 1935 Hercule Poirot viatja en l'Orient Express</actor>
-      <actor>un dels viatgers</actor>
-      <actor>Ratchett</actor>
-      <actor>li demana que el protegeixi. Poirot s'hi nega i</actor>
-      <actor>poc després</actor>
-      <actor>Ratchett mor de dotze ganivetades. Poirot descobreix que Ratchett havia organitzat el segrest de Daisy</actor>
-      <actor>que tots els passatgers del tren tenen algun lligam amb la família Armstrong.</actor>
-    </credits>
-    <length units="seconds">7274</length>
-    <episode-num system="onscreen">1</episode-num>
-    <category lang="ca">FICCIÓ</category>
-    <category lang="ca">PEL·LÍCULA / TELEFILM</category>
+  <programme start="20260924051713 +0200" stop="20260924054544 +0200" channel="c33">
+    <title lang="ca">GR Barcelona</title>
+    <sub-title lang="ca">Pedres que parlen</sub-title>
+    <desc lang="ca">'El poble que oblida la seva història està condemnat a repetir-la'.Farem un gran recorregut pels indrets que han marcat la història de la ciutat, des de l'època romana fins a l'actualitat, veient com estem rodejats de pedres que ens diuen molt més del que sembla. Amb l'historiador Dani Cortijo passejarem per racons amagats de Barcelona que han tingut una rellevància clau en la nostra evolució, respirarem l'aroma de la Barcino romana al MUHBA, aprendrem com es fa el trencadís al taller de la Llívia Garreta després d'haver visitat el Park Güell, farem un taller de cuina de 1714 al bell mig del Born amb la jove cuinera Rais Esteve, visitarem el Refugi 307, un búnquer antiaeri de la Guerra Civil i acabarem en una botiga de diaris antics.</desc>
+    <length units="seconds">1711</length>
+    <episode-num system="onscreen">5</episode-num>
+    <category lang="ca">DIVULGACIÓ</category>
+    <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
-    <icon src="https://img.3cat.cat/multimedia//jpg/1/7/1753211868571.jpg"/>
   </programme>
-  <programme start="20260924021948 +0200" stop="20260924025649 +0200" channel="c33">
-    <title lang="ca">km33</title>
-    <sub-title lang="ca">Romania</sub-title>
-    <desc lang="ca">De Transsilvània al mar NegreL'actor Jordi Vilches aprofita per viatjar entre rodatge i rodatge. Aquesta vegada, el destí és la Romania de Dràcula i els gitanos. Amb la Sílvia, una fotògrafa, anirà de Bucarest al mar Negre, passant pels castells de Transsilvània.I a més a més:VIATGES ECONÒMICSUn repàs de les companyies aèries de baix cost.EUROPA DE NITEls locals imprescindibles per anar de festa a les capitals europees.RUTES PER A MITÒMANSI els destins preferits dels mitòmans, com les tombes o les residències de cantants famosos.</desc>
-    <length units="seconds">2221</length>
-    <episode-num system="onscreen">5</episode-num>
-    <category lang="ca">ENTRETENIMENT</category>
-    <category lang="ca">ALTRES</category>
+  <programme start="20260924054544 +0200" stop="20260924055805 +0200" channel="c33">
+    <title lang="ca">Thalassa curts</title>
+    <sub-title lang="ca">Un mar sense arrossegadors</sub-title>
+    <length units="seconds">741</length>
+    <episode-num system="onscreen">140</episode-num>
+    <category lang="ca">DIVULGACIÓ</category>
+    <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
