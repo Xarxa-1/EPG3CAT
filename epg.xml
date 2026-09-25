@@ -3,30 +3,31 @@
   <channel id="tvi">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20260925002814 +0200" stop="20260925021537 +0200" channel="tvi">
-    <title lang="ca">Mésnit</title>
-    <desc lang="ca">El 'Mésnit' arriba a la desena temporada, amb Marina Romero al capdavant de l'espai i amb la voluntat de continuar sent un centre de debat d'idees i d'anàlisi de l'activitat política.</desc>
-    <length units="seconds">6443</length>
-    <episode-num system="onscreen">2166</episode-num>
-    <category lang="ca">ACTUALITAT</category>
-    <category lang="ca">DEBAT</category>
+  <programme start="20260925040000 +0200" stop="20260925050000 +0200" channel="tvi">
+    <title lang="ca">Ritmes a l'estudi</title>
+    <sub-title lang="ca">VERMOUTH TIME</sub-title>
+    <desc lang="ca">Aquest quintet és una formació dedicada al soul-jazz, aquesta barreja de ritme i harmonia tan característica de la dècada dels anys 60. L'orgue Hammond és un dels elements clau d'aquest so i en aquesta formació el toca el multiinstrumentista Víctor Puertas, que ja ens ha visitat anteriorment. Els Vermouth Jazz són: Víctor Puertas a la veu i al Hammond, Pau Ruíz a la guitarra, Sergi Franch al saxos, Marc Mena a la trompeta i Raúl Lorenzo a la bateria.</desc>
+    <length units="seconds">3600</length>
+    <episode-num system="onscreen">11</episode-num>
+    <category lang="ca">MUSICALS</category>
+    <category lang="ca">ALTRES</category>
     <rating>
-      <value>TOTS ELS PÚBLICS</value>
+      <value>PÚBLIC ADULT</value>
     </rating>
     <previously-shown/>
   </programme>
-  <programme start="20260925021537 +0200" stop="20260925040000 +0200" channel="tvi">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">6263</length>
-    <episode-num system="onscreen">11261</episode-num>
-    <category lang="ca">ACTUALITAT</category>
-    <category lang="ca">INFORMATIU DIÀRI</category>
+  <programme start="20260925050000 +0200" stop="20260925055942 +0200" channel="tvi">
+    <title lang="ca">Jazz a l'estudi</title>
+    <sub-title lang="ca">Perico Sambeat</sub-title>
+    <desc lang="ca">Durant el segle XX el jazz s'ha convertit en un llenguatge musical universal. Gèneres com el be bop, el blues o el swing han trencat fronteres geogràfiques i racials per esdevenir una música popular, que músics d'arreu del món han adaptat a la seva manera de fer. Jazz a l'estudi és un programa de seixanta minuts de durada dedicat al gènere musical jazzístic per on passen músics arrelats a Catalunya. Des d'aquest espai es proposa fer un cop d'ull al panorama del jazz i les seves variants al nostre país.I ho fa d'una manera diferent, perquè el programa ofereix la possibilitat de veure els artistes en un dels seus àmbits naturals: l'estudi de gravació on s'enregistren les sessions, com una instantània sonora, i on es couen les millors receptes musicals del jazz a Catalunya. </desc>
+    <length units="seconds">3582</length>
+    <episode-num system="onscreen">8</episode-num>
+    <category lang="ca">MUSICALS</category>
+    <category lang="ca">JAZZ</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <previously-shown/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
   <channel id="324">
     <display-name>324</display-name>
@@ -59,43 +60,43 @@
   <channel id="esport3">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20260925004757 +0200" stop="20260925022028 +0200" channel="esport3">
-    <title lang="ca">Onze</title>
-    <sub-title lang="ca">Supercampanya per la pilota d'or; el debut de Xavi a Holanda i 'El consultori'</sub-title>
-    <desc lang="ca">David Bernabeu, Víctor Lozano, Irati Vidal i Fernando Polo comenten les últimes declaracions d'Mbappé i Lamine Yamal reclamant per sí mateixos la pilota d'or. El Sergi Ferrer respon els dubtes dels espectadors de l'Onze.</desc>
-    <length units="seconds">5551</length>
-    <episode-num system="onscreen">1255</episode-num>
+  <programme start="20260925044900 +0200" stop="20260925051541 +0200" channel="esport3">
+    <title lang="ca">Top gols La Lliga</title>
+    <sub-title lang="ca">Jornada 7</sub-title>
+    <desc lang="ca">'Top gols La Lliga' repassa cada setmana tots els gols de la jornada de la Primera Divisió. Amb la locució de Catalunya Ràdio i d'altres emissores catalanes, viu i emocionat amb els gols dels equips del nostre país i també amb els de la resta d'equips de la màxima categoria estatal de futbol.</desc>
+    <length units="seconds">1601</length>
+    <episode-num system="onscreen">392</episode-num>
     <category lang="ca">ESPORTS</category>
-    <category lang="ca">MAGAZINE</category>
+    <category lang="ca">ESPECIALS</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <subtitles type="teletext"/>
     <previously-shown/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/1/1/1688543515711.jpg"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/0/5/1697737572850.jpg"/>
   </programme>
-  <programme start="20260925022028 +0200" stop="20260925023501 +0200" channel="esport3">
-    <title lang="ca">3CatInfo Esports</title>
-    <desc lang="ca">Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.</desc>
-    <length units="seconds">873</length>
-    <episode-num system="onscreen">5518</episode-num>
+  <programme start="20260925051541 +0200" stop="20260925060637 +0200" channel="esport3">
+    <title lang="ca">E3</title>
+    <sub-title lang="ca">T2xC3 - El Delta de l'Ebre Nord</sub-title>
+    <desc lang="ca">Acompanya l'aventurer Rai Puig en la seva travessa en caiac per la costa catalana. Aquesta vegada recorrerà els municipis de l'Ametlla de Mar, el Perelló, l'Ampolla i Deltebre, explorant un tram de costa de cales i coves amagades, les rústiques muscleres del Delta, i també, la singular punta del Fangar. Tot plegat, vivint diverses experiències i conversat amb tota mena de persones vinculades al mar i al territori. </desc>
+    <length units="seconds">3056</length>
+    <episode-num system="onscreen">2163</episode-num>
     <category lang="ca">ESPORTS</category>
-    <category lang="ca">INFORMATIU DIÀRI</category>
+    <category lang="ca">REPORTATGES</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <previously-shown/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/9/7/1758888682179.jpg"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/9/1/1719825714219.jpg"/>
   </programme>
   <channel id="sx3">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20260925014514 +0200" stop="20260925020423 +0200" channel="sx3">
-    <title lang="ca">Viatges Pokémon</title>
-    <sub-title lang="ca">Junts, però a distància!</sub-title>
-    <desc lang="ca">El Goh té una grata sorpresa quan descobreix que el Sobble ha evolucionat a Drizzile! Però el Drizzile no hi està d'acord: ell volia evolucionar a Inteleon. Quan finalment troba consol dins d'una cova, el Goh i el Cinderace l'arrosseguen a l'exterior, i ell fuig corrents. Més tard, el Gho, gràcies a un comentari de la Chloe, recorda com era ell abans i s'adona que ha comès un gran error. Troba el Drizzile, el tranquil·litza i li diu que si mai necessita un amic, pot comptar amb ell. El Drizzile torna a desaparèixer, però aquesta vegada se'n va a la cova del Parc Cirerer. Així continua una relació inusual i alhora extraordinària entre el Pokémon i el seu entrenador!</desc>
-    <length units="seconds">1149</length>
-    <episode-num system="onscreen">62</episode-num>
+  <programme start="20260925045445 +0200" stop="20260925050614 +0200" channel="sx3">
+    <title lang="ca">La família Teixó-Guineu</title>
+    <sub-title lang="ca">Fent de cangur</sub-title>
+    <desc lang="ca">Els avis guineu han vingut a vigilar la canalla. Mentre l'àvia surt a caminar pel bosc amb en Pinxo, la Guineta i la Trufa, l'avi es queda al cau amb en Timbal. Però l'avi té un cap que no li para mai i decideix fer algunes reparacions al cau, cosa que posarà més nerviós del compte en Timbal.</desc>
+    <length units="seconds">689</length>
+    <episode-num system="onscreen">11</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
@@ -104,12 +105,12 @@
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20260925020423 +0200" stop="20260925022401 +0200" channel="sx3">
-    <title lang="ca">Viatges Pokémon</title>
-    <sub-title lang="ca">Per terra, per mar, i cap al futur!</sub-title>
-    <desc lang="ca">Se celebra la Cursa Atlètica Marina Pokémon. Quan hi arriben, els nostres herois es troben amb el Kiley, un amic de la Chrysa, perquè la Chloe i l'Eevee puguin aprendre més coses sobre el Vaporeon, el company del Kiley. El Kiley li confirma a la Chloe que, tot i que l'Eevee no és de tipus aigua, pot participar igualment en la cursa. L'Ash hi competeix amb el Dracovish, i el Goh tria el Dewgong, que acaba barallant-se amb un Huntail agressiu. El Huntail acorrala la Chloe, el Dewgong i l'Eevee en una cova submarina, però els nostres herois ajunten forces i el derroten. Després el Kiley li dona a la Chloe una pedra aigua com a opció per al futur, perquè l'Eevee pugui triar en què evoluciona quan arribi el moment adequat.</desc>
-    <length units="seconds">1178</length>
-    <episode-num system="onscreen">63</episode-num>
+  <programme start="20260925050614 +0200" stop="20260925051750 +0200" channel="sx3">
+    <title lang="ca">La família Teixó-Guineu</title>
+    <sub-title lang="ca">El cangueli</sub-title>
+    <desc lang="ca">La Guineta li explica a en Timbal que si molesta les abelles mentre treballen, s'enfaden i et poden atacar. Però en Timbal, com que té gana, no li fa cas i els pren una mica de mel. Com era d'esperar, les abelles s'enfaden i el persegueixen. L'ensurt és tan gros que en Timbal diu que no sortirà del cau mai més. Aleshores, els seus germans pensen un pla perquè venci les seves pors. </desc>
+    <length units="seconds">696</length>
+    <episode-num system="onscreen">44</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
@@ -121,11 +122,25 @@
   <channel id="c33">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20260925012326 +0200" stop="20260925020201 +0200" channel="c33">
-    <title lang="ca">km33</title>
-    <sub-title lang="ca">Albània</sub-title>
-    <desc lang="ca">Platges de búnquersDes que era un adolescent, l'obsessió d'en Pep ha estat trepitjar Albània. Ara que el país surt de l'aïllament és un bon moment per anar-hi amb la seva xicota. Seguint el rastre del dictador, es perden pels impressionants paisatges i la bonica costa.I a més a més:ALBÀNIA DESPRÉS DE L'AÏLLAMENTQuatre dades sobre el desconegut país després de dècades de dictadura.VIATJAR AMB L'ESPORTEsdeveniments esportius que són l'excusa per conèixer món. TURISME POLÍTICAtraccions turístiques per als nostàlgics del comunisme.</desc>
-    <length units="seconds">2315</length>
+  <programme start="20260925045018 +0200" stop="20260925051808 +0200" channel="c33">
+    <title lang="ca">GR Barcelona</title>
+    <sub-title lang="ca">Rodejats de muntanyes</sub-title>
+    <desc lang="ca">'A pocs quilòmetres del centre el xivarri es fa silenci; el ritme frenètic, repòs; l'activitat, calma...'.Barcelona està rodejada de muntanyes, i no només les que fan de contraforts de la ciutat, Collserola i Montjuïc, sinó totes les que l'encerclen per l'exterior. És per aquesta raó que aquest programa el viurem fora de la ciutat, però sempre a prop d'ella, perquè seguirem el GR5 o sender dels miradors, un itinerari de 212 km que traça un arc per l'interior de l'àrea geogràfica de Barcelona travessant els seus 5 parcs naturals: Garraf, Montserrat, Sant Llorenç del Munt i l'Obac, Montseny i Montnegre-corredor. Durant el trajecte aprendrem com s'elabora el Mató de Montserrat, pujarem a la Mola acompanyats dels rucs que porten els queviures al restaurant que hi ha al seu restaurant situat a 1104 metres, coneixerem com és la feina de guarda forestal al Montseny i acabarem fent un recorregut en bicicleta al voltant del santuari del Corredor amb el Bernat Guàrdia, un dels millors corredors de BTT d'Europa.</desc>
+    <length units="seconds">1670</length>
+    <episode-num system="onscreen">7</episode-num>
+    <category lang="ca">DIVULGACIÓ</category>
+    <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <subtitles type="teletext"/>
+    <previously-shown/>
+  </programme>
+  <programme start="20260925051808 +0200" stop="20260925053739 +0200" channel="c33">
+    <title lang="ca">Les Feres</title>
+    <sub-title lang="ca">Mar Pujol</sub-title>
+    <desc lang="ca">Mar Pujol interpreta en directe cançons del seu repertori a Santa Llúcia de Sobremunt. La cantautora de Lluçanès construeix els seus temes a partir del binomi essencial format per una guitarra i una veu. Folk confessional, que es fixa en l'observació de la quotidianitat i en els sentiments més purs. I que es desplega al seu primer EP autoeditat, 'Trepa', en senzills escollits o al llarga durada, 'Cançons de rebost'  Mar Pujol: veu i guitarra Bruna González: violoncel i cors Magalí Datzira: cors   Cançons: -Ploranera -Cabell d'àngel -Per cada u -L'hora justa -ÌÍ  Localització: Enregistrat a Santa Llúcia de Sobremunt Data: 19 de maig del 2024  </desc>
+    <length units="seconds">1171</length>
     <episode-num system="onscreen">7</episode-num>
     <category lang="ca">ENTRETENIMENT</category>
     <category lang="ca">ALTRES</category>
@@ -134,20 +149,7 @@
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
-  </programme>
-  <programme start="20260925020201 +0200" stop="20260925023913 +0200" channel="c33">
-    <title lang="ca">km33</title>
-    <sub-title lang="ca">Guatemala</sub-title>
-    <desc lang="ca">Cultura maia en erupcióLa Laila treballa a Guatemala com a cooperant. Abans de tornar a Barcelona fa un viatge per l'altiplà amb la Maria. Visiten llacs i volcans, descobreixen mercats indígenes i viuen la màgia de les cerimònies maies.I a més a més:COORDENADES DE GUATEMALATot allò que has de saber abans de trepitjar el país.TURISME SOLIDARICom evitar el turisme de masses. Una altra manera de viatjar és possible.FENÒMENS METEOROLÒGICSConsells per no ensopegar amb monsons, huracans o tifons durant el viatge.</desc>
-    <length units="seconds">2232</length>
-    <episode-num system="onscreen">9</episode-num>
-    <category lang="ca">ENTRETENIMENT</category>
-    <category lang="ca">ALTRES</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <subtitles type="teletext"/>
-    <previously-shown/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/3/4/1719854188043.jpg"/>
   </programme>
   <channel id="oca1">
     <display-name>OCA1</display-name>
