@@ -3,100 +3,98 @@
   <channel id="tvi">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20260925040000 +0200" stop="20260925050000 +0200" channel="tvi">
-    <title lang="ca">Ritmes a l'estudi</title>
-    <sub-title lang="ca">VERMOUTH TIME</sub-title>
-    <desc lang="ca">Aquest quintet és una formació dedicada al soul-jazz, aquesta barreja de ritme i harmonia tan característica de la dècada dels anys 60. L'orgue Hammond és un dels elements clau d'aquest so i en aquesta formació el toca el multiinstrumentista Víctor Puertas, que ja ens ha visitat anteriorment. Els Vermouth Jazz són: Víctor Puertas a la veu i al Hammond, Pau Ruíz a la guitarra, Sergi Franch al saxos, Marc Mena a la trompeta i Raúl Lorenzo a la bateria.</desc>
-    <length units="seconds">3600</length>
-    <episode-num system="onscreen">11</episode-num>
-    <category lang="ca">MUSICALS</category>
-    <category lang="ca">ALTRES</category>
-    <rating>
-      <value>PÚBLIC ADULT</value>
-    </rating>
-    <previously-shown/>
-  </programme>
-  <programme start="20260925050000 +0200" stop="20260925055942 +0200" channel="tvi">
-    <title lang="ca">Jazz a l'estudi</title>
-    <sub-title lang="ca">Perico Sambeat</sub-title>
-    <desc lang="ca">Durant el segle XX el jazz s'ha convertit en un llenguatge musical universal. Gèneres com el be bop, el blues o el swing han trencat fronteres geogràfiques i racials per esdevenir una música popular, que músics d'arreu del món han adaptat a la seva manera de fer. Jazz a l'estudi és un programa de seixanta minuts de durada dedicat al gènere musical jazzístic per on passen músics arrelats a Catalunya. Des d'aquest espai es proposa fer un cop d'ull al panorama del jazz i les seves variants al nostre país.I ho fa d'una manera diferent, perquè el programa ofereix la possibilitat de veure els artistes en un dels seus àmbits naturals: l'estudi de gravació on s'enregistren les sessions, com una instantània sonora, i on es couen les millors receptes musicals del jazz a Catalunya. </desc>
-    <length units="seconds">3582</length>
-    <episode-num system="onscreen">8</episode-num>
-    <category lang="ca">MUSICALS</category>
-    <category lang="ca">JAZZ</category>
+  <programme start="20260925103004 +0200" stop="20260925135500 +0200" channel="tvi">
+    <title lang="ca">Tot es mou</title>
+    <desc lang="ca">El programa presentat per Helena Garcia Melero s'emet de dilluns a divendres, de 10.30 a 13.55. Un magazín d'actualitat que busca informar, analitzar i debatre sobre temes que marquen l'actualitat social, econòmica i cultural del dia, amb una àmplia presència en directe dels reporters i reporteres, repartits per tot Catalunya. A més, el 'Tot es mou' compta amb seccions diàries de gastronomia (amb els principals cuiners i cuineres del país), successos, economia, mobilitat, temes mèdics i de tecnologia, entre d'altres.</desc>
+    <length units="seconds">12296</length>
+    <episode-num system="onscreen">1816</episode-num>
+    <category lang="ca">ACTUALITAT</category>
+    <category lang="ca">MAGAZINE</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <previously-shown/>
+  </programme>
+  <programme start="20260925135500 +0200" stop="20260925143000 +0200" channel="tvi">
+    <title lang="ca">Telenotícies comarques</title>
+    <length units="seconds">2100</length>
+    <episode-num system="onscreen">7042</episode-num>
+    <category lang="ca">ACTUALITAT</category>
+    <category lang="ca">INFORMATIU DIÀRI</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <icon src="https://img.ccma.cat/multimedia/jpg/5/2/1758026313525.jpg"/>
   </programme>
   <channel id="324">
     <display-name>324</display-name>
   </channel>
-  <programme start="20260925010000 +0200" stop="20260925060000 +0200" channel="324">
+  <programme start="20260925103000 +0200" stop="20260925120000 +0200" channel="324">
     <title lang="ca">Notícies 3CatInfo</title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">18000</length>
-    <episode-num system="onscreen">11261</episode-num>
+    <length units="seconds">5400</length>
+    <episode-num system="onscreen">11263</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <previously-shown/>
+    <subtitles type="teletext"/>
     <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
-  <programme start="20260925060000 +0200" stop="20260925080000 +0200" channel="324">
+  <programme start="20260925120000 +0200" stop="20260925135500 +0200" channel="324">
     <title lang="ca">Notícies 3CatInfo</title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">7200</length>
-    <episode-num system="onscreen">11262</episode-num>
+    <length units="seconds">6900</length>
+    <episode-num system="onscreen">11264</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
+    <subtitles type="teletext"/>
     <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
   <channel id="esport3">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20260925044900 +0200" stop="20260925051541 +0200" channel="esport3">
-    <title lang="ca">Top gols La Lliga</title>
-    <sub-title lang="ca">Jornada 7</sub-title>
-    <desc lang="ca">'Top gols La Lliga' repassa cada setmana tots els gols de la jornada de la Primera Divisió. Amb la locució de Catalunya Ràdio i d'altres emissores catalanes, viu i emocionat amb els gols dels equips del nostre país i també amb els de la resta d'equips de la màxima categoria estatal de futbol.</desc>
-    <length units="seconds">1601</length>
-    <episode-num system="onscreen">392</episode-num>
-    <category lang="ca">ESPORTS</category>
-    <category lang="ca">ESPECIALS</category>
+  <programme start="20260925094951 +0200" stop="20260925103714 +0200" channel="esport3">
+    <title lang="ca">Viatges insòlits</title>
+    <sub-title lang="ca">Ciutat de Mèxic</sub-title>
+    <desc lang="ca">Amb més de 22 milions d'habitants, Ciutat de Mèxic és una de les ciutats més grans i més influents del món. A la dècada de 1990, la ciutat encapçalava tota mena de llistes que descrivien la inhabitabilitat de la ciutat. Era una ciutat perillosa amb unes xifres de delinqüència disparades i milions de cotxes que creaven un boirum i una contaminació atmosfèrica alarmants. Durant el seu viatge a Ciutat de Mèxic, en Tom descobrirà els enormes canvis que aquesta metròpoli ha viscut els últims anys.</desc>
+    <length units="seconds">2843</length>
+    <episode-num system="onscreen">41</episode-num>
+    <category lang="ca">DIVULGACIÓ</category>
+    <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
+    <subtitles type="teletext"/>
     <previously-shown/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/0/5/1697737572850.jpg"/>
   </programme>
-  <programme start="20260925051541 +0200" stop="20260925060637 +0200" channel="esport3">
-    <title lang="ca">E3</title>
-    <sub-title lang="ca">T2xC3 - El Delta de l'Ebre Nord</sub-title>
-    <desc lang="ca">Acompanya l'aventurer Rai Puig en la seva travessa en caiac per la costa catalana. Aquesta vegada recorrerà els municipis de l'Ametlla de Mar, el Perelló, l'Ampolla i Deltebre, explorant un tram de costa de cales i coves amagades, les rústiques muscleres del Delta, i també, la singular punta del Fangar. Tot plegat, vivint diverses experiències i conversat amb tota mena de persones vinculades al mar i al territori. </desc>
-    <length units="seconds">3056</length>
-    <episode-num system="onscreen">2163</episode-num>
+  <programme start="20260925103714 +0200" stop="20260925121000 +0200" channel="esport3">
+    <title lang="ca">Onze</title>
+    <sub-title lang="ca">Supercampanya per la pilota d'or; el debut de Xavi a Holanda i 'El consultori'</sub-title>
+    <desc lang="ca">David Bernabeu, Víctor Lozano, Irati Vidal i Fernando Polo comenten les últimes declaracions d'Mbappé i Lamine Yamal reclamant per sí mateixos la pilota d'or. El Sergi Ferrer respon els dubtes dels espectadors de l'Onze.</desc>
+    <length units="seconds">5566</length>
+    <episode-num system="onscreen">1255</episode-num>
     <category lang="ca">ESPORTS</category>
-    <category lang="ca">REPORTATGES</category>
+    <category lang="ca">MAGAZINE</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
+    <subtitles type="teletext"/>
     <previously-shown/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/9/1/1719825714219.jpg"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/1/1/1688543515711.jpg"/>
   </programme>
   <channel id="sx3">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20260925045445 +0200" stop="20260925050614 +0200" channel="sx3">
-    <title lang="ca">La família Teixó-Guineu</title>
-    <sub-title lang="ca">Fent de cangur</sub-title>
-    <desc lang="ca">Els avis guineu han vingut a vigilar la canalla. Mentre l'àvia surt a caminar pel bosc amb en Pinxo, la Guineta i la Trufa, l'avi es queda al cau amb en Timbal. Però l'avi té un cap que no li para mai i decideix fer algunes reparacions al cau, cosa que posarà més nerviós del compte en Timbal.</desc>
-    <length units="seconds">689</length>
-    <episode-num system="onscreen">11</episode-num>
+  <programme start="20260925103024 +0200" stop="20260925104130 +0200" channel="sx3">
+    <title lang="ca">Les Sisters</title>
+    <sub-title lang="ca">Adéu vacances!</sub-title>
+    <desc lang="ca">La Marine i la Wendy tenen grans plans per passar les vacances amb els seus amics, però els seus pares les volen enviar a casa l'avi i l'àvia. Ni parlar-ne! La parella de germanes decideix portar-se supermalament perquè els pares les castiguin sense anar a casa els avis. Finalment, però, les coses no surten com esperaven.</desc>
+    <length units="seconds">666</length>
+    <episode-num system="onscreen">1</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
@@ -105,12 +103,12 @@
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20260925050614 +0200" stop="20260925051750 +0200" channel="sx3">
-    <title lang="ca">La família Teixó-Guineu</title>
-    <sub-title lang="ca">El cangueli</sub-title>
-    <desc lang="ca">La Guineta li explica a en Timbal que si molesta les abelles mentre treballen, s'enfaden i et poden atacar. Però en Timbal, com que té gana, no li fa cas i els pren una mica de mel. Com era d'esperar, les abelles s'enfaden i el persegueixen. L'ensurt és tan gros que en Timbal diu que no sortirà del cau mai més. Aleshores, els seus germans pensen un pla perquè venci les seves pors. </desc>
-    <length units="seconds">696</length>
-    <episode-num system="onscreen">44</episode-num>
+  <programme start="20260925104130 +0200" stop="20260925105234 +0200" channel="sx3">
+    <title lang="ca">Les Sisters</title>
+    <sub-title lang="ca">Una estrella a casa!</sub-title>
+    <desc lang="ca">La Marine guanya un concurs televisiu i podrà passar un dia amb l'estrella de moda, el Joy D. Però la Wendy, completament boja pel cantant, intenta acaparar la seva atenció. La Marine i les seves amigues obliguen l'estrella a jugar amb elles i el Joy D acaba demostrant que no sempre és tan simpàtic com ho és amb les seves fans.</desc>
+    <length units="seconds">664</length>
+    <episode-num system="onscreen">2</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
@@ -122,34 +120,33 @@
   <channel id="c33">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20260925045018 +0200" stop="20260925051808 +0200" channel="c33">
-    <title lang="ca">GR Barcelona</title>
-    <sub-title lang="ca">Rodejats de muntanyes</sub-title>
-    <desc lang="ca">'A pocs quilòmetres del centre el xivarri es fa silenci; el ritme frenètic, repòs; l'activitat, calma...'.Barcelona està rodejada de muntanyes, i no només les que fan de contraforts de la ciutat, Collserola i Montjuïc, sinó totes les que l'encerclen per l'exterior. És per aquesta raó que aquest programa el viurem fora de la ciutat, però sempre a prop d'ella, perquè seguirem el GR5 o sender dels miradors, un itinerari de 212 km que traça un arc per l'interior de l'àrea geogràfica de Barcelona travessant els seus 5 parcs naturals: Garraf, Montserrat, Sant Llorenç del Munt i l'Obac, Montseny i Montnegre-corredor. Durant el trajecte aprendrem com s'elabora el Mató de Montserrat, pujarem a la Mola acompanyats dels rucs que porten els queviures al restaurant que hi ha al seu restaurant situat a 1104 metres, coneixerem com és la feina de guarda forestal al Montseny i acabarem fent un recorregut en bicicleta al voltant del santuari del Corredor amb el Bernat Guàrdia, un dels millors corredors de BTT d'Europa.</desc>
-    <length units="seconds">1670</length>
-    <episode-num system="onscreen">7</episode-num>
-    <category lang="ca">DIVULGACIÓ</category>
-    <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
+  <programme start="20260925102938 +0200" stop="20260925110203 +0200" channel="c33">
+    <title lang="ca">Tot el temps del món</title>
+    <sub-title lang="ca">Maggie O'Farrell</sub-title>
+    <desc lang="ca">Anna Guitart entrevista Maggie O'Farrell</desc>
+    <length units="seconds">1945</length>
+    <episode-num system="onscreen">19</episode-num>
+    <category lang="ca">ALTRES</category>
+    <category lang="ca">ENTREVISTES</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20260925051808 +0200" stop="20260925053739 +0200" channel="c33">
-    <title lang="ca">Les Feres</title>
-    <sub-title lang="ca">Mar Pujol</sub-title>
-    <desc lang="ca">Mar Pujol interpreta en directe cançons del seu repertori a Santa Llúcia de Sobremunt. La cantautora de Lluçanès construeix els seus temes a partir del binomi essencial format per una guitarra i una veu. Folk confessional, que es fixa en l'observació de la quotidianitat i en els sentiments més purs. I que es desplega al seu primer EP autoeditat, 'Trepa', en senzills escollits o al llarga durada, 'Cançons de rebost'  Mar Pujol: veu i guitarra Bruna González: violoncel i cors Magalí Datzira: cors   Cançons: -Ploranera -Cabell d'àngel -Per cada u -L'hora justa -ÌÍ  Localització: Enregistrat a Santa Llúcia de Sobremunt Data: 19 de maig del 2024  </desc>
-    <length units="seconds">1171</length>
-    <episode-num system="onscreen">7</episode-num>
-    <category lang="ca">ENTRETENIMENT</category>
+  <programme start="20260925110203 +0200" stop="20260925113649 +0200" channel="c33">
+    <title lang="ca">Tot el temps del món</title>
+    <sub-title lang="ca">Josep Pedrals</sub-title>
+    <desc lang="ca">Anna Guitart entrevista Josep Pedrals</desc>
+    <length units="seconds">2086</length>
+    <episode-num system="onscreen">20</episode-num>
     <category lang="ca">ALTRES</category>
+    <category lang="ca">ENTREVISTES</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/3/4/1719854188043.jpg"/>
   </programme>
   <channel id="oca1">
     <display-name>OCA1</display-name>
