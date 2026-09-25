@@ -3,142 +3,125 @@
   <channel id="tvi">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20260925160316 +0200" stop="20260925164239 +0200" channel="tvi">
-    <title lang="ca">Com si fos ahir</title>
-    <desc lang="ca">L'Andreu talla amb la Neus perquè no vol continuar enganyant la Raquel, però la decisió de la Neus amb en Miqui complica encara més les coses. A la consultoria, la substitució de la Noe continua encallada i el nom d'en Teo guanya força, tot i l'oposició de l'Empar. I la possibilitat que l'Iker es quedi definitivament a La Barnateca acaba malament quan el noi reacciona de manera intolerable amb la Itziar.</desc>
-    <length units="seconds">2363</length>
-    <episode-num system="onscreen">1816</episode-num>
-    <category lang="ca">FICCIÓ</category>
-    <category lang="ca">SÈRIE DRAMÀTICA</category>
+  <programme start="20260925201714 +0200" stop="20260925210000 +0200" channel="tvi">
+    <title lang="ca">Està passant</title>
+    <desc lang="ca">'Està passant' és un programa d'humor que analitza les claus de l'actualitat cada dia, durant 45 minuts, en la franja anterior al 'Telenotícies vespre'.El programa, presentat per Òscar Andreu, Jair Domínguez, Natza Farré, Queco Novell i Núria Marín, ens apropa als principals temes del dia, amb especial atenció a l'actualitat política i al seguiment dels mitjans de comunicació i les xarxes socials. Tot plegat, sense renunciar a la sàtira que caracteritza la trajectòria de l'equip de Minoria Absoluta.</desc>
+    <length units="seconds">2566</length>
+    <episode-num system="onscreen">1818</episode-num>
+    <category lang="ca">ENTRETENIMENT</category>
+    <category lang="ca">GAGS. HUMOR</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
+    <icon src="https://img.ccma.cat/multimedia/png/3/8/1705511272683.png"/>
   </programme>
-  <programme start="20260925164236 +0200" stop="20260925171848 +0200" channel="tvi">
-    <title lang="ca">La Riera</title>
-    <desc lang="ca">En Casellas, el nou xef, és un home molt exigent que vol fer-se seva la cuina. Més d'un en surt escaldat. L'Ernest està molt enfadat amb la Mercè per no haver volgut respectar la voluntat del pare. I la Nora s'empesca una nova estratègia per amagar les seves mentides.</desc>
-    <length units="seconds">2172</length>
-    <episode-num system="onscreen">138</episode-num>
-    <category lang="ca">FICCIÓ</category>
-    <category lang="ca">TELENOVEL·LA</category>
+  <programme start="20260925210000 +0200" stop="20260925220516 +0200" channel="tvi">
+    <title lang="ca">Telenotícies vespre</title>
+    <length units="seconds">3916</length>
+    <episode-num system="onscreen">7338</episode-num>
+    <category lang="ca">ACTUALITAT</category>
+    <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <subtitles type="teletext"/>
-    <previously-shown/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/7/2/1758026176427.jpg"/>
   </programme>
   <channel id="324">
     <display-name>324</display-name>
   </channel>
-  <programme start="20260925160000 +0200" stop="20260925170000 +0200" channel="324">
+  <programme start="20260925200000 +0200" stop="20260925210000 +0200" channel="324">
     <title lang="ca">Notícies 3CatInfo</title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <length units="seconds">3600</length>
-    <episode-num system="onscreen">11265</episode-num>
+    <episode-num system="onscreen">11268</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <subtitles type="teletext"/>
     <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
-  <programme start="20260925170000 +0200" stop="20260925183000 +0200" channel="324">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">5400</length>
-    <episode-num system="onscreen">11266</episode-num>
+  <programme start="20260925210000 +0200" stop="20260925220500 +0200" channel="324">
+    <title lang="ca">Telenotícies vespre</title>
+    <length units="seconds">3900</length>
+    <episode-num system="onscreen">7338</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/7/2/1758026176427.jpg"/>
   </programme>
   <channel id="esport3">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20260925152749 +0200" stop="20260925161126 +0200" channel="esport3">
-    <title lang="ca">Aire Lliure</title>
-    <sub-title lang="ca">Montserrat, amb Emma Vilarasau</sub-title>
-    <desc lang="ca">Cada vegada hi ha més monjos que aprofiten l'especial orografia de Montserrat per practicar modalitats com l'escalada, curses de muntanya o senderisme. En aquest episodi en coneixerem dos, el pare Manel Gash i Ramon Oranies. Un altre de les protagonistes del capítol dedicat a Montserrat serà Emma Vilarasau.</desc>
-    <length units="seconds">2617</length>
-    <episode-num system="onscreen">5</episode-num>
+  <programme start="20260925202500 +0200" stop="20260925211500 +0200" channel="esport3">
+    <title lang="ca">Futbol sala</title>
+    <sub-title lang="ca">Barça-Cartagena FS / Primera divisió / J3</sub-title>
+    <desc lang="ca">Els blaugranes volen consolidar el liderat amb la tercera victòria en tres jornades de lliga. Els murcians hi arriben amb un partit guanyat i un altre de perdut.</desc>
+    <length units="seconds">3000</length>
+    <episode-num system="onscreen">482</episode-num>
+    <category lang="ca">ESPORTS</category>
+    <category lang="ca">RETRANSMISSIONS ESPORTS</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <icon src="https://img.ccma.cat/multimedia/jpg/1/5/1699004339351.jpg"/>
+  </programme>
+  <programme start="20260925211500 +0200" stop="20260925212706 +0200" channel="esport3">
+    <title lang="ca">Zona UFEC</title>
+    <desc lang="ca">'Zona UFEC' és l'espai que pren el pols a la situació de l'esport català en les diferents disciplines. A través de reportatges i entrevistes, i en col·laboració amb la Unió de Federacions Esportives de Catalunya, cada setmana repassem els èxits i el treball dels esportistes catalans en les competicions de casa nostra i d'arreu del món.</desc>
+    <length units="seconds">726</length>
+    <episode-num system="onscreen">707</episode-num>
     <category lang="ca">ESPORTS</category>
     <category lang="ca">REPORTATGES</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
-    <previously-shown/>
-  </programme>
-  <programme start="20260925161126 +0200" stop="20260925164444 +0200" channel="esport3">
-    <title lang="ca">E3</title>
-    <sub-title lang="ca">T2xC1 - La Costa de Barcelona Sud i la Costa Daurada Nord</sub-title>
-    <desc lang="ca">Acompanya l'aventurer Rai Puig en la seva travessa en caiac per la costa catalana. Aquesta vegada recorrerà els municipis de Castelldefels, Vilanova i la Geltrú i Torredembarra, explorant els alts penya-segats del Parc Natural del Garraf, les cristal·lines platges de la Costa Daurada nord, i sempre, conversant amb persones relacionades amb el mar i el territori.</desc>
-    <length units="seconds">1998</length>
-    <episode-num system="onscreen">2161</episode-num>
-    <category lang="ca">ESPORTS</category>
-    <category lang="ca">REPORTATGES</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <previously-shown/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/9/1/1719825714219.jpg"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/0/0/1702403805000.jpg"/>
   </programme>
   <channel id="sx3">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20260925160421 +0200" stop="20260925161051 +0200" channel="sx3">
-    <title lang="ca">En Grizzy i els Lèmmings</title>
-    <sub-title lang="ca">Desglaç sorpresa</sub-title>
-    <desc lang="ca">Davant de la cabana, els Lèmmings troben un bloc de gel en què hi ha un animaló congelat: un os rentador prehistòric. Sorpresos, els Lèmmings l'alliberen i volen domesticar-lo com si fos un gatet, però l'os rentador no para quiet. Quan en Grizzy es desperta, la cabana està en doina. Està enfurismat, però l'os rentador el desafia quan intenta fer fora de la cabana els Lèmmings...</desc>
-    <length units="seconds">390</length>
-    <episode-num system="onscreen">186</episode-num>
+  <programme start="20260925201649 +0200" stop="20260925203820 +0200" channel="sx3">
+    <title lang="ca">Henry Danger</title>
+    <sub-title lang="ca">Gestió de la ràbia per a adolescents</sub-title>
+    <desc lang="ca">Quan la Piper descobreix que els seus amics l'han exclòs d'una excursió pel seu mal geni, accepta apuntar-se a un curs per aprendre a controlar la ràbia.</desc>
+    <length units="seconds">1291</length>
+    <episode-num system="onscreen">54</episode-num>
     <category lang="ca">FICCIÓ</category>
-    <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
+    <category lang="ca">SÈRIE DRAMÀTICA</category>
     <rating>
       <value>INFANTIL</value>
     </rating>
+    <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20260925161051 +0200" stop="20260925161721 +0200" channel="sx3">
-    <title lang="ca">En Grizzy i els Lèmmings</title>
-    <sub-title lang="ca">Mosca xocolatera</sub-title>
-    <desc lang="ca">Els lèmmings s'adonen que en Grizzy s'allunya del pot de crema de xocolata amb avellanes sempre que persegueix una mosca que li fa la guitza zumzejant al seu voltant. Però no hi ha cap mosca que aguanti prou els embats d'en Grizzy perquè els lèmmings puguin prendre-li el pot. De manera que decideixen entrenar una mosca a fons perquè resisteixi prou estona per poder arrambar amb la crema.</desc>
-    <length units="seconds">390</length>
-    <episode-num system="onscreen">86</episode-num>
+  <programme start="20260925203820 +0200" stop="20260925210000 +0200" channel="sx3">
+    <title lang="ca">Henry Danger</title>
+    <sub-title lang="ca">Dits verds</sub-title>
+    <desc lang="ca">Una misteriosa malaltia creada per Schwoz s'escampa entre Henry i els seus amics, obligant-los a quedar-se confinats mentre busquen una cura.</desc>
+    <length units="seconds">1300</length>
+    <episode-num system="onscreen">55</episode-num>
     <category lang="ca">FICCIÓ</category>
-    <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
+    <category lang="ca">SÈRIE DRAMÀTICA</category>
     <rating>
       <value>INFANTIL</value>
     </rating>
+    <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
   <channel id="c33">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20260925160000 +0200" stop="20260925164748 +0200" channel="c33">
-    <title lang="ca">Aeroport</title>
-    <sub-title lang="ca">Moviment</sub-title>
-    <desc lang="ca">L'aeroport és moviment, és un espai dinàmic que funciona com una mena d'engranatge on tothom fa la seva feina. Moviment a la cinta nova per carregar les maletes, per enllestir un carregament molt especial amb destinació a la Xina o per satisfer una petició molt romàntica.</desc>
-    <length units="seconds">2868</length>
-    <episode-num system="onscreen">23</episode-num>
-    <category lang="ca">DIVULGACIÓ</category>
-    <category lang="ca">Docu-Entreteniment</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <subtitles type="teletext"/>
-    <previously-shown/>
-  </programme>
-  <programme start="20260925164748 +0200" stop="20260925171339 +0200" channel="c33">
-    <title lang="ca">Volcans i homes</title>
-    <sub-title lang="ca">Tresors per als homes</sub-title>
-    <desc lang="ca">En aquest episodi, Arnaud Guérin, fotògraf professional i geòleg apassionat per la vulcanologia, ens porta a Nova Zelanda. Visitarem amb ell l'illa de Mayor Island, un santuari natural ofert pels maoris a l'obsidiana, i veurem, per mitjà d'entrevistes a persones molt diverses, la gran importància que té a l'illa del Nord la geotèrmia, tant per als usos industrials i agrícoles, com per a la vida quotidiana de les persones que viuen a tocar dels guèisers i les fonts termals. A part dels estudis dels biòlegs i els microbiòlegs sobre les curioses formacions microbianes que es generen en aquests entorns extrems i que ofereixen noves interpretacions sobre l'origen de la vida a la Terra. </desc>
-    <length units="seconds">1551</length>
-    <episode-num system="onscreen">3</episode-num>
+  <programme start="20260925200725 +0200" stop="20260925205947 +0200" channel="c33">
+    <title lang="ca">Viure amb els volcans</title>
+    <sub-title lang="ca">Els habitants dels extrems</sub-title>
+    <desc lang="ca">Arreu del món s'han establert societats humanes al peu de volcans actius. Viure en aquestes terres inestables té un preu. D'un dia per l'altre, els volcans es poden endur el que han permès que es construís. Per als homes i dones que viuen en aquestes terres, anar-se'n no és una opció. Estan decidits a continuar vivint on han viscut, passi el que passi. En aquest documental coneixerem aquests habitants dels extrems.</desc>
+    <length units="seconds">3142</length>
+    <episode-num system="onscreen">5</episode-num>
     <category lang="ca">DIVULGACIÓ</category>
     <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
     <rating>
@@ -146,6 +129,11 @@
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
+  </programme>
+  <programme start="20260925205947 +0200" stop="20260925210130 +0200" channel="c33">
+    <title lang="ca">SENSE FI CANAL 33</title>
+    <desc lang="ca">Sense Descripció</desc>
+    <length units="seconds">103</length>
   </programme>
   <channel id="oca1">
     <display-name>OCA1</display-name>
