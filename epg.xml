@@ -3,121 +3,68 @@
   <channel id="tvi">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20260925220525 +0200" stop="20260926001259 +0200" channel="tvi">
-    <title lang="ca">La gran pel·lícula</title>
-    <sub-title lang="ca">El Porter</sub-title>
-    <desc lang="ca">EL PORTER 'Trautmann'Direcció: Marcus H. RosenmüllerGuió: Robert Marciniak, Marcus H. Rosenmüller, Nicholas J. SchofieldProducció: Lieblingsfilm, Zephyr Films, British Film CompanyAny: 2018Durada: 120País: AlemanyaMúsica: Gerd BaumannFotografia: Daniel GottschalkIntèrprets: David Kross, Freya Mavor, John Henshaw, Harry Melling, Michael Socha, Dave Johns, Barbara Young, Chloe Harris, Mikey Collins, Gary Lewis, Dervla Kirwan, Angus Barnett, Alex FreemanDurant la Segona Guerra Mundial, el soldat alemany Bert Trautmann és capturat i deportat a un camp de presoners a Anglaterra. Allà, la seva habilitat com a porter impressiona un entrenador local i acaba jugant pel Manchester City. Malgrat la desconfiança inicial de l'afició, s'acaba guanyant el seu respecte amb coratge i integritat mentre afronta el pes de la guerra i una tragèdia familiar que li marcarà la vida per sempre</desc>
-    <credits>
-      <director>Marcus H. Rosenmüller</director>
-      <writer>Robert Marciniak</writer>
-      <writer>Marcus H. Rosenmüller</writer>
-      <writer>Nicholas J. Schofield</writer>
-      <actor>David Kross</actor>
-      <actor>Freya Mavor</actor>
-      <actor>John Henshaw</actor>
-      <actor>Harry Melling</actor>
-      <actor>Michael Socha</actor>
-      <actor>Dave Johns</actor>
-      <actor>Barbara Young</actor>
-      <actor>Chloe Harris</actor>
-      <actor>Mikey Collins</actor>
-      <actor>Gary Lewis</actor>
-      <actor>Dervla Kirwan</actor>
-      <actor>Angus Barnett</actor>
-      <actor>Alex FreemanDurant la Segona Guerra Mundial</actor>
-      <actor>el soldat alemany Bert Trautmann és capturat</actor>
-      <actor>deportat a un camp de presoners a Anglaterra. Allà</actor>
-      <actor>la seva habilitat com a porter impressiona un entrenador local</actor>
-      <actor>acaba jugant pel Manchester City. Malgrat la desconfiança inicial de l'afició</actor>
-      <actor>s'acaba guanyant el seu respecte amb coratge</actor>
-      <actor>integritat mentre afronta el pes de la guerra</actor>
-      <actor>una tragèdia familiar que li marcarà la vida per sempre</actor>
-    </credits>
-    <length units="seconds">7654</length>
-    <episode-num system="onscreen">1</episode-num>
-    <category lang="ca">FICCIÓ</category>
-    <category lang="ca">PEL·LÍCULA / TELEFILM</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <subtitles type="teletext"/>
-  </programme>
-  <programme start="20260926001259 +0200" stop="20260926014517 +0200" channel="tvi">
-    <title lang="ca">Pel·lícula</title>
-    <sub-title lang="ca">Assassinats a La Vendée</sub-title>
-    <desc lang="ca">ASSASSINATS A LA VENDÉE 'Le Vent des sables'Direcció: Stéphane KappesGuió: Frédéric Faurt, Lionel PasquierProducció: Son et Lumière, France Télévisions, AT-Production, RTBFAny: 2024Durada: 90País: FrançaMúsica: Xavier BerthelotFotografia: Sophie ArdissonIntèrprets: Marie-Josée Croze, Tom Leeb, Alexandre Brasseur, William Nadylam, Guillaume Arnault, Gabrielle Atger, Stéphane Brel, Nicolas Jouhet, Célie Verger, Laurence Huby, Fatah Boudia, Simon Morant, Arnaud de Montlivault, Isaline Ponroy, Sylvain Saussereau, Pierre Ostoya Magnin, Clément VinetteMentre els patrons que competeixen a la Vendée Globe es preparen per salpar, l'assassinat d'un membre de la comunitat altera els preparatius de la competició. La víctima és el patrocinador d'en Yannick Berthomé, l'estrella de la zona i favorit per guanyar la competició. Els tinents Judith Kamara i Olivier Finet, de la policia judicial d'Angers, es desplacen fins a la competició per fer-se càrrec de la investigació del crim.</desc>
-    <credits>
-      <director>Stéphane Kappes</director>
-      <writer>Frédéric Faurt</writer>
-      <writer>Lionel</writer>
-      <actor>Marie-Josée Croze</actor>
-      <actor>Tom Leeb</actor>
-      <actor>Alexandre Brasseur</actor>
-      <actor>William Nadylam</actor>
-      <actor>Guillaume Arnault</actor>
-      <actor>Gabrielle Atger</actor>
-      <actor>Stéphane Brel</actor>
-      <actor>Nicolas Jouhet</actor>
-      <actor>Célie Verger</actor>
-      <actor>Laurence Huby</actor>
-      <actor>Fatah Boudia</actor>
-      <actor>Simon Morant</actor>
-      <actor>Arnaud de Montlivault</actor>
-      <actor>Isaline Ponroy</actor>
-      <actor>Sylvain Saussereau</actor>
-      <actor>Pierre Ostoya Magnin</actor>
-      <actor>Clément VinetteMentre els patrons que competeixen a la Vendée Globe es preparen per salpar</actor>
-      <actor>l'assassinat d'un membre de la comunitat altera els preparatius de la competició. La víctima és el patrocinador d'en Yannick Berthomé</actor>
-      <actor>l'estrella de la zona</actor>
-      <actor>favorit per guanyar la competició. Els tinents Judith Kamara</actor>
-      <actor>Olivier Finet</actor>
-      <actor>de la policia judicial d'Angers</actor>
-      <actor>es desplacen fins a la competició per fer-se càrrec de la investigació del crim.</actor>
-    </credits>
-    <length units="seconds">5538</length>
-    <episode-num system="onscreen">1</episode-num>
-    <category lang="ca">FICCIÓ</category>
-    <category lang="ca">PEL·LÍCULA / TELEFILM</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-  </programme>
-  <channel id="324">
-    <display-name>324</display-name>
-  </channel>
-  <programme start="20260925233000 +0200" stop="20260926003000 +0200" channel="324">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">3600</length>
-    <episode-num system="onscreen">11269</episode-num>
+  <programme start="20260926014421 +0200" stop="20260926030406 +0200" channel="tvi">
+    <title lang="ca">Mésnit</title>
+    <desc lang="ca">El 'Mésnit' arriba a la desena temporada, amb Marina Romero al capdavant de l'espai i amb la voluntat de continuar sent un centre de debat d'idees i d'anàlisi de l'activitat política.</desc>
+    <length units="seconds">4785</length>
+    <episode-num system="onscreen">2167</episode-num>
     <category lang="ca">ACTUALITAT</category>
-    <category lang="ca">INFORMATIU DIÀRI</category>
+    <category lang="ca">DEBAT</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <subtitles type="teletext"/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
+    <previously-shown/>
   </programme>
-  <programme start="20260926003000 +0200" stop="20260926010000 +0200" channel="324">
+  <programme start="20260926030406 +0200" stop="20260926040000 +0200" channel="tvi">
     <title lang="ca">Notícies 3CatInfo</title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">1800</length>
+    <length units="seconds">3354</length>
     <episode-num system="onscreen">11270</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
+    <previously-shown/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
+  </programme>
+  <channel id="324">
+    <display-name>324</display-name>
+  </channel>
+  <programme start="20260926010000 +0200" stop="20260926060000 +0200" channel="324">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="seconds">18000</length>
+    <episode-num system="onscreen">11270</episode-num>
+    <category lang="ca">ACTUALITAT</category>
+    <category lang="ca">INFORMATIU DIÀRI</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <previously-shown/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
+  </programme>
+  <programme start="20260926060000 +0200" stop="20260926070000 +0200" channel="324">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="seconds">3600</length>
+    <episode-num system="onscreen">11270</episode-num>
+    <category lang="ca">ACTUALITAT</category>
+    <category lang="ca">INFORMATIU DIÀRI</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <previously-shown/>
     <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
   <channel id="esport3">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20260925230000 +0200" stop="20260926003049 +0200" channel="esport3">
+  <programme start="20260926005109 +0200" stop="20260926022626 +0200" channel="esport3">
     <title lang="ca">Onze</title>
     <sub-title lang="ca">Julán, el passat? Raphinha superestrella; Fàbregas, Delmàs i Cazorla</sub-title>
     <desc lang="ca">Míriam Riau fa tertúlia amb Carles Fité, Laia Bonals, Juli Garcia i Edgar Fornós. Comentem les declaracions de Deco en les que gira full de l'afer Julián Álvarez. Amb Àlex Delmàs repassem l'impacte que ha tingut fins ara Raphinha a la posició de davanter centre. Ens visita Joan Fàbregas, entrevistem la campiona de motocròs Daniela Guillén i acabem amb l'humor de Xavi Cazorla.</desc>
-    <length units="seconds">5449</length>
+    <length units="seconds">5717</length>
     <episode-num system="onscreen">1256</episode-num>
     <category lang="ca">ESPORTS</category>
     <category lang="ca">MAGAZINE</category>
@@ -125,29 +72,31 @@
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
+    <previously-shown/>
     <icon src="https://img.ccma.cat/multimedia/jpg/1/1/1688543515711.jpg"/>
   </programme>
-  <programme start="20260926003049 +0200" stop="20260926005137 +0200" channel="esport3">
+  <programme start="20260926022626 +0200" stop="20260926024314 +0200" channel="esport3">
     <title lang="ca">3CatInfo Esports</title>
     <desc lang="ca">Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.</desc>
-    <length units="seconds">1248</length>
+    <length units="seconds">1008</length>
     <episode-num system="onscreen">5519</episode-num>
     <category lang="ca">ESPORTS</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
+    <previously-shown/>
     <icon src="https://img.ccma.cat/multimedia/jpg/9/7/1758888682179.jpg"/>
   </programme>
   <channel id="sx3">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20260925232848 +0200" stop="20260925234857 +0200" channel="sx3">
-    <title lang="ca">Els germans Kratt</title>
-    <sub-title lang="ca">A la recerca del puma de Florida</sub-title>
-    <desc lang="ca">L'equip dels germans Kratt busca un puma de Florida i el primer exemplar que troben és una femella que està ferida. La primera feina que tenen és curar-la, però després descobreixen que té cadells i llavors els han d'anar a protegir i a alimentar mentre la seva mare no ho pot fer. El Chris i el Martin es disposen a fer de cangurs de dues cries de puma.</desc>
-    <length units="seconds">1209</length>
-    <episode-num system="onscreen">72</episode-num>
+  <programme start="20260926020249 +0200" stop="20260926022227 +0200" channel="sx3">
+    <title lang="ca">Viatges Pokémon</title>
+    <sub-title lang="ca">La flor blanca a la nit!</sub-title>
+    <desc lang="ca">Mentre l'Ash i el Goh passen l'estona al Parc Cirerer, les membres del grup de la Flabébé del Goh fan una cursa i evolucionen a Floette. Però la Flabébé de la flor blanca no és amb elles! Li costa volar perquè la seva flor ha perdut un pètal. Llavors, l'Ash i el Goh se'n van a Kalos a buscar-n'hi una altra, però resulta que no troben cap flor que li agradi a la Flabébé. Després de buscar molt, troben un grupet de flors, però en comptes de ser blanques, són roses.</desc>
+    <length units="seconds">1178</length>
+    <episode-num system="onscreen">66</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
@@ -156,12 +105,12 @@
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20260925234857 +0200" stop="20260926000907 +0200" channel="sx3">
-    <title lang="ca">Els germans Kratt</title>
-    <sub-title lang="ca">L'àliga pescadora</sub-title>
-    <desc lang="ca">A en Jimmy li cauen les claus de la Nau Tortuga al mar. El Chris, el Martin i l'Aviva s'afanyen a crear poders d'àliga pescadora per trobar les claus abans que desapareguin per sempre.</desc>
-    <length units="seconds">1210</length>
-    <episode-num system="onscreen">73</episode-num>
+  <programme start="20260926022227 +0200" stop="20260926024334 +0200" channel="sx3">
+    <title lang="ca">Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
+    <sub-title lang="ca">Optigami</sub-title>
+    <desc lang="ca">L'Esfinx Fosc coneix la identitat secreta d'alguns aliats de Ladybug i decideix tramar un pla per treure'n profit. I per estar segur de tenir èxit, fa tornar la seva akumatitzada més temible. Per la seva banda, a la Marinette i els seus amics els conviden a una cerimònia en què l'Adrien ha de rebre un premi atorgat per la revista de moda de l'Audrey Bourgeois. Però el que havia de ser una festa es convertirà en un malson quan l'Audrey es torni a transformar en la Style Queen i l'Adrien i la Marinette quedin tancats a dins d'un ascensor junts, sense poder transformar-se en Ladybug i el Gat Noir...</desc>
+    <length units="seconds">1267</length>
+    <episode-num system="onscreen">91</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
@@ -173,27 +122,26 @@
   <channel id="c33">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20260925225328 +0200" stop="20260926001817 +0200" channel="c33">
-    <title lang="ca">Illes salvatges</title>
-    <sub-title lang="ca">Illes salvatges</sub-title>
-    <desc lang="ca">ILLES SALVATGESSinopsiEl nostre planeta és ple de vida. D'oceans immensos a cels oberts, la diversitat de la vida sembla infinita. Però una de les espècies de la Terra està destarotant l'equilibri de totes les altres. El Regne Unit és un dels països del món amb la natura més delmada, però la història que us volem explicar està plena d'esperança i indica que els canvis podrien ser imminents.Aquest documental repassa alguns dels paisatges més remots del país, com ara Shetland, Cornualla, Pembrokeshire o el mar de les Hèbrides, per descobrir com els humans poden coexistir pacíficament amb la meravellosa natura d'aquestes illes salvatges.</desc>
-    <length units="seconds">5089</length>
-    <episode-num system="onscreen">1</episode-num>
-    <category lang="ca">DIVULGACIÓ</category>
-    <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
+  <programme start="20260926020025 +0200" stop="20260926024049 +0200" channel="c33">
+    <title lang="ca">km33</title>
+    <sub-title lang="ca">Mèxic entre amics</sub-title>
+    <desc lang="ca">En Marc viatja per Mèxic amb l'ajuda dels seus amics. Gràcies a ells descobreix la cara més 'freak' del DF. Visita els poblets màgics del Michoacán i alguns paradisos verges de la costa del Pacífic. Acaba integrant-se en l'emocionant dia a dia de Guadalajara. I a més a més: Mèxic per a tots els gustos, detalls d'un destí variat i exòtic; Cultues Mexicans, llocs espirituals, experiències místiques, sants i celebracions; Noves maneres de viatjar, els teus viatges poden ser més econòmics. Allotjar-se i moure's per 0 euros.</desc>
+    <length units="seconds">2424</length>
+    <episode-num system="onscreen">11</episode-num>
+    <category lang="ca">ENTRETENIMENT</category>
+    <category lang="ca">ALTRES</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
-    <icon src="https://img.3cat.cat/multimedia/jpg/1/2/1755859723021.jpg"/>
   </programme>
-  <programme start="20260926001817 +0200" stop="20260926010817 +0200" channel="c33">
-    <title lang="ca">La Rambla: secrets d'un escenari</title>
-    <sub-title lang="ca">La Rambla: secrets d'un escenari</sub-title>
-    <desc lang="ca">L'escriptor Lluís Permanyer ens endinsa en els secrets i misteris de La Rambla com a escenari del teatre de la complexa i variada història de Barcelona.En 'La Rambla: secrets d'un escenari, Permanyer ens descobreix per què aquest indret barceloní s'ha consagrat com un carrer únic al món i una veritable síntesi de la dinàmica ciutadana. Aquest documental ens mostra La Rambla com l'escenari escollit pels ciutadans per representar els grans esdeveniments de Barcelona.Amb Ventura Pons, Joan Gaspart, Nazario i altres personatges que han viscut aquest carrer, l'escriptor ens porta a reconèixer la força del patrimoni immaterial que reflecteix l'ànima ciutadana a través de: la vida, la mort, la guerra, la diversió, el sexe i l'urbanisme.L'escriptor ens explica com era La Rambla on es van concentrar els primers llocs d'oci i cultura de la ciutat: el teatre permanent mes antic d'Espanya, el primer cafè de Barcelona, el Liceu... i ens presenta personatges que ens parlen de La Rambla com un espai de llibertat on s'expressen desitjos, tendències i reivindicacions. Tot plegat ha fet que a la Rambla s'hagin donat espontàniament les formes de producció estètica i social més innovadores.Un carrer únic al món que, en paraules de Lluís Permanyer, no ens hem de deixar perdre.</desc>
-    <length units="seconds">3000</length>
-    <episode-num system="onscreen">1</episode-num>
+  <programme start="20260926024049 +0200" stop="20260926030826 +0200" channel="c33">
+    <title lang="ca">GR Barcelona</title>
+    <sub-title lang="ca">Llum de nit</sub-title>
+    <desc lang="ca">'Quan el sol es pon, es desperta una nova Barcelona. El mateix escenari, sí, però podríem dir que amb l'ànima disfressada. Qualsevol ciutat quan cau la nit es posa les millors gales. I Barcelona, més. En aquest gran recorregut el Marc seguirà la llum d'una nit que el portarà per l'avinguda Reina Cristina a veure la font màgica de Montjuïc, a continuació als carrers de Ciutat Vella per viure la nit de la llum durant les Festes de Santa Eulàlia, després seguirà la multitudinària patinada nocturna, aprendrà a cuinar una de les millors hamburgueses de la ciutat i també a fer un gin tònic, farà una ruta per algunes de les zones de marxa del centre, parlarà amb taxistes i acabarà a Catalunya Ràdio, despertant Catalunya amb Mònica Terribas.</desc>
+    <length units="seconds">1657</length>
+    <episode-num system="onscreen">8</episode-num>
     <category lang="ca">DIVULGACIÓ</category>
     <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
     <rating>
@@ -201,7 +149,6 @@
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
-    <icon src="https://img.3cat.cat/multimedia/jpg/6/4/1789603569346.jpg"/>
   </programme>
   <channel id="oca1">
     <display-name>OCA1</display-name>
