@@ -3,27 +3,27 @@
   <channel id="tvi">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20260926113443 +0200" stop="20260926125040 +0200" channel="tvi">
-    <title lang="ca">Soc i Seré</title>
-    <sub-title lang="ca">Un poble cantaire</sub-title>
-    <desc lang="ca">Comença la batalla per convertir-se en la persona que sap més de Catalunya. Dividits en dos equips de 50 persones, els aspirants s'enfrontaran als primers reptes de la segona temporada.El repte d'avantatge, anomenat Casa meva és casa vostra, serà una intrèpida gimcana de banderes on els aspirants hauran de demostrar els seus coneixements sobre els municipis catalans. Però tot es decidirà al repte eliminatori, titulat Canto jo i la colònia balla. Per continuar al programa, els dos equips hauran d'emocionar un jurat format per Nina, Laura Andrés i Arnau Vilà amb les versions corals de dues conegudes havaneres.Només un equip continuarà al programa i es ficarà els primeres 10.000 euros a la butxaca. Les 50 persones restants se n'aniran a casa, però alguns eliminats rebran unca carta misteriosa que els donarà una seogna oportunitat.Qui guanyarà aquest primer duel, els Alls o els Olis? Aquí comença 'Soc i seré'.</desc>
-    <length units="seconds">4557</length>
-    <episode-num system="onscreen">7</episode-num>
-    <category lang="ca">ENTRETENIMENT</category>
-    <category lang="ca">CONCURS</category>
+  <programme start="20260926153119 +0200" stop="20260926162735 +0200" channel="tvi">
+    <title lang="ca">Infidels</title>
+    <desc lang="ca">La Lídia rep una trucada al mòbil: el Toni ha tingut un accident i sembla que està molt greu. L'Eduard i la Cruz es vesteixen per anar a l'enterrament d'en Raimon. L'Oriol culpa la Joana del petó que li va fer a en Peter. El Francesc ve a visitar els nens i la Joana li explica que ara treballa en un súper. L'Oriol s'escapa per buscar el seu pare i acaba trobant-se la Cecília. En Víctor s'emprenya perquè l'Arlet fa temps que no vol fer l'amor amb ell. El noi pregunta a en Dani si sap què carai li passa, a la seva nòvia, i li demana ajuda per preparar-li una festa sorpresa. La Carlota ofereix ajuda econòmica a l'Eduard, però la Cruz li demana que ho refusi.</desc>
+    <length units="seconds">3376</length>
+    <episode-num system="onscreen">9</episode-num>
+    <category lang="ca">FICCIÓ</category>
+    <category lang="ca">TELESÈRIE</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
+    <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20260926125040 +0200" stop="20260926134930 +0200" channel="tvi">
-    <title lang="ca">País d'altura</title>
-    <sub-title lang="ca">Costa Brava</sub-title>
-    <desc lang="ca">La Costa Brava és molt més que cales de postal: és tramuntana, artistes, pirates, rucs catalans, Dalí i racons que et fan pensar que el paradís existeix.</desc>
-    <length units="seconds">3530</length>
-    <episode-num system="onscreen">1</episode-num>
-    <category lang="ca">ENTRETENIMENT</category>
-    <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
+  <programme start="20260926162735 +0200" stop="20260926164854 +0200" channel="tvi">
+    <title lang="ca">Jet lag</title>
+    <sub-title lang="ca">CRISI</sub-title>
+    <desc lang="ca">Un director de televisió ha triat el bar del Mario per rodar-hi l'anunci publicitari d'una nova marca de cerveses. Ja està tot preparat, només falta triar la noia que protagonitzarà l'anunci. A cap de les nostres protagonistes els hi fa gràcia aparèixer per la televisió fins que s'assabenten que el noi de l'anunci serà... el Javier Bardem. A partir d'aquest moment començarà una guerra entre totes elles per ser la protagonista de l'anunci i poder estar ben a prop del seu ídol.</desc>
+    <length units="seconds">1279</length>
+    <episode-num system="onscreen">14</episode-num>
+    <category lang="ca">FICCIÓ</category>
+    <category lang="ca">TELESÈRIE</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
@@ -33,125 +33,124 @@
   <channel id="324">
     <display-name>324</display-name>
   </channel>
-  <programme start="20260926100000 +0200" stop="20260926120000 +0200" channel="324">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">7200</length>
-    <episode-num system="onscreen">11272</episode-num>
+  <programme start="20260926154000 +0200" stop="20260926163000 +0200" channel="324">
+    <title lang="ca">Telenotícies migdia (reemissió)</title>
+    <length units="seconds">3000</length>
+    <episode-num system="onscreen">4189</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
+    <previously-shown/>
   </programme>
-  <programme start="20260926120000 +0200" stop="20260926143000 +0200" channel="324">
+  <programme start="20260926163000 +0200" stop="20260926183000 +0200" channel="324">
     <title lang="ca">Notícies 3CatInfo</title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">9000</length>
-    <episode-num system="onscreen">11273</episode-num>
+    <length units="seconds">7200</length>
+    <episode-num system="onscreen">11274</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
+    <subtitles type="teletext"/>
     <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
   <channel id="esport3">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20260926101930 +0200" stop="20260926115500 +0200" channel="esport3">
-    <title lang="ca">Onze</title>
-    <sub-title lang="ca">Julán, el passat? Raphinha superestrella; Fàbregas, Delmàs i Cazorla</sub-title>
-    <desc lang="ca">Míriam Riau fa tertúlia amb Carles Fité, Laia Bonals, Juli Garcia i Edgar Fornós. Comentem les declaracions de Deco en les que gira full de l'afer Julián Álvarez. Amb Àlex Delmàs repassem l'impacte que ha tingut fins ara Raphinha a la posició de davanter centre. Ens visita Joan Fàbregas, entrevistem la campiona de motocròs Daniela Guillén i acabem amb l'humor de Xavi Cazorla.</desc>
-    <length units="seconds">5730</length>
-    <episode-num system="onscreen">1256</episode-num>
+  <programme start="20260926154037 +0200" stop="20260926160732 +0200" channel="esport3">
+    <title lang="ca">E3</title>
+    <sub-title lang="ca">Matchday Champions Women J1</sub-title>
+    <desc lang="ca">Les escenes més destacades de la primera jornada a la fase de lliga de la Champions femenina de futbol. El Barça ha començat la defensa del títol contra el París FC.</desc>
+    <length units="seconds">1615</length>
+    <episode-num system="onscreen">2385</episode-num>
     <category lang="ca">ESPORTS</category>
-    <category lang="ca">MAGAZINE</category>
+    <category lang="ca">REPORTATGES</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <subtitles type="teletext"/>
     <previously-shown/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/1/1/1688543515711.jpg"/>
+    <icon src="https://img.3cat.cat/multimedia/jpg/7/7/1765293437977.jpg"/>
   </programme>
-  <programme start="20260926115500 +0200" stop="20260926125030 +0200" channel="esport3">
-    <title lang="ca">Futbol</title>
-    <sub-title lang="ca">FC Badalona Women-Granada CF / Lliga F / J5</sub-title>
-    <desc lang="ca">Les badalonines estan fent un bon inici de campionat, han sumat 7 punts de 12, i una nova victòria les mantindria a la zona alta de la classificació.</desc>
-    <length units="seconds">3330</length>
-    <episode-num system="onscreen">50</episode-num>
+  <programme start="20260926160732 +0200" stop="20260926164920 +0200" channel="esport3">
+    <title lang="ca">Zona zàping</title>
+    <sub-title lang="ca">Raphinha fa un Hat Trick, mentre a Madrid torna el Xou de Mou</sub-title>
+    <desc lang="ca">El Barça ja supera el Real Madrid de 6 punts i és líder indiscutible de la Lliga, després del hat trick de Raphinha a Sevilla, i la derrota dels blancs amb l'Atlético. Una derrota amb força polèmica que ha fet tornar el Mourinho més esperpèntic a la sala de premsa.Edu Esteve, exconcursant d'Eufòria, acomiad el programa amb el seu nou tema 'Torna'.</desc>
+    <length units="seconds">2508</length>
+    <episode-num system="onscreen">1081</episode-num>
     <category lang="ca">ESPORTS</category>
-    <category lang="ca">RETRANSMISSIONS ESPORTS</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <subtitles type="teletext"/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/0/8/1730389343680.jpg"/>
-  </programme>
-  <channel id="sx3">
-    <display-name>SX3</display-name>
-  </channel>
-  <programme start="20260926113328 +0200" stop="20260926115527 +0200" channel="sx3">
-    <title lang="ca">El carreró del misteri</title>
-    <sub-title lang="ca">L'adversari invencible</sub-title>
-    <desc lang="ca">L'agent Paxton, el colom de Scotland Yard, està a punt de compartir una informació important amb el seu cap, l'inspector McFlaire. Just en aquell moment, però, els ataca un adversari petit, esmunyedís i misteriós, que fa servir tècniques de combat ninja.</desc>
-    <length units="seconds">1319</length>
-    <episode-num system="onscreen">9</episode-num>
-    <category lang="ca">FICCIÓ</category>
-    <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
-    <rating>
-      <value>INFANTIL</value>
-    </rating>
-    <subtitles type="teletext"/>
-    <previously-shown/>
-  </programme>
-  <programme start="20260926115527 +0200" stop="20260926120222 +0200" channel="sx3">
-    <title lang="ca">En Grizzy i els Lèmmings</title>
-    <sub-title lang="ca">Os volador</sub-title>
-    <desc lang="ca">Els lèmmings han aconseguit uns imants que fan levitar els objectes on s'enganxen. Com no podria ser d'una altra manera, en Grizzy n'és la primera víctima: el fan fora de la cabana a bord del seu sofà transformat en ovni. Però durant l'aterratgeen Grizzy descobreix per casualitat que l'imant que du enganxat al front li permet volar com en Peter Pan. Això segur que encaterinarà la seva Wendy plantígrada particular.</desc>
-    <length units="seconds">415</length>
-    <episode-num system="onscreen">131</episode-num>
-    <category lang="ca">FICCIÓ</category>
-    <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
-    <rating>
-      <value>INFANTIL</value>
-    </rating>
-    <previously-shown/>
-  </programme>
-  <channel id="c33">
-    <display-name>C33</display-name>
-  </channel>
-  <programme start="20260926112534 +0200" stop="20260926115905 +0200" channel="c33">
-    <title lang="ca">Animals arquitectes</title>
-    <sub-title lang="ca">H Arquitectes</sub-title>
-    <desc lang="ca">Després de setmanes visitant i rodant a molts dels seus edificis -jo fins i tot vaig tenir la sort de dormir en una casa de somni!-, ens vam adonar d'una cosa que tots aquells espais tenien en comú. A tots ells ens hi sentíem molt a gust, però molt. Hi havia pau, tranquil·litat, benestar, confort. No saps ben bé per què, no es pot mesurar ni calcular objectivament, però de ben cert aquells edificis desprenien una energia positiva que et feia somriure i quedar-t'hi. Per unanimitat de tot l'equip de rodatge, si mai encarreguéssim una casa a algú, ens quedem amb H arquitectes. La seva arquitectura aprèn de les construccions anònimes dels pobles catalans. Aquella de materials humils, tradicionals, que s'adapta al lloc sense estridències. Ceràmica, molta ceràmica, però molt ben dissenyada, aplicada des d'un altre punt de vista. Aposten per una estètica nua, despullada. Deixen els materials vistos, tal com són. El resultat: una bellesa austera d'una gran sensibilitat. O, com diuen ells, una normalitat radical. El luxe no està en l'ostentació, sinó en la qualitat dels espais i els materials.Saben d'on venim, però alhora miren cap endavant. Aportant innovació, sostenibilitat i modernitat. Són especialistes en crear edificis on no et cal aire condicionat, prioritzant els sistemes bioclimàtics i dissenys eficients. Construeixen edificis que respiren. Fins i tot, una escolta amb xemeneies solars gegants a la coberta! Per tal de generar grans corrents de ventilació sense cost energètic. Tot plegat, els ha situat com un dels estudis més premiats i respectats del sector.  </desc>
-    <length units="seconds">2011</length>
-    <episode-num system="onscreen">2</episode-num>
-    <category lang="ca">ENTRETENIMENT</category>
     <category lang="ca">ALTRES</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/1/6/1698653096861.jpg"/>
+    <icon src="https://img.3cat.cat/multimedia/jpg/4/7/1763564970974.jpg"/>
   </programme>
-  <programme start="20260926115905 +0200" stop="20260926125932 +0200" channel="c33">
-    <title lang="ca">Una altra història</title>
-    <sub-title lang="ca">Monestir de Santes Creus a Tarragona</sub-title>
-    <desc lang="ca">Avui l'Albert Om arriba al Reial Monestir de Santes Creus en un dels tractors que van participar a la manifestació del 3 d'octubre de 2017. El monestir, símbol de la transició del romànic al gòtic ens servirà d'escenari per mostrar les eines amb les que s'assistia als parts fa 50 anys. Descobrirem com un soldat de la Guerra Civil va portar una bala al cos durant 40 anys i tindrem a les mans el trofeu que Pau Casals va entregar als guanyadors del I Concurs de Castells de Tarragona.</desc>
-    <length units="seconds">3627</length>
-    <episode-num system="onscreen">1</episode-num>
-    <category lang="ca">ENTRETENIMENT</category>
-    <category lang="ca">CONCURS</category>
+  <channel id="sx3">
+    <display-name>SX3</display-name>
+  </channel>
+  <programme start="20260926154407 +0200" stop="20260926155538 +0200" channel="sx3">
+    <title lang="ca">Les Sisters</title>
+    <sub-title lang="ca">Les Sisters perfectes</sub-title>
+    <desc lang="ca">La Wendy creu que l'Emma i la Gemma són les Sisters perfectes. Les dues bessones no es barallen mai, no pas com la Wendy i la Marine! La Marine s'enfada perquè la Wendy s'estima més la companyia de les bessones i es proposa demostrar que fins i tot les Sisters perfectes a vegades discuteixen. Quan intenta provocar tensions entre l'Emma i la Gemma, la Marine desperta un vell ressentiment que pren proporcions èpiques.</desc>
+    <length units="seconds">691</length>
+    <episode-num system="onscreen">133</episode-num>
+    <category lang="ca">FICCIÓ</category>
+    <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
+    <rating>
+      <value>INFANTIL</value>
+    </rating>
+    <subtitles type="teletext"/>
+    <previously-shown/>
+  </programme>
+  <programme start="20260926155538 +0200" stop="20260926160752 +0200" channel="sx3">
+    <title lang="ca">Les Sisters</title>
+    <sub-title lang="ca">Les Sisters Panteres</sub-title>
+    <desc lang="ca">La Marine i les seves amigues espien la Wendy i el Maxence al parc quan, de sobte, el Maxence s'aixeca i crida: 'Gol'. Estava mirant un partit de futbol mentre feia un petó a la Wendy! La Wendy es pensa que al Maxou li agrada més el futbol que ella. Però apareix la Marine per salvar la seva germana. Potser la millor manera perquè els dos colomins facin les paus és jugar junts a futbol!</desc>
+    <length units="seconds">734</length>
+    <episode-num system="onscreen">134</episode-num>
+    <category lang="ca">FICCIÓ</category>
+    <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
+    <rating>
+      <value>INFANTIL</value>
+    </rating>
+    <subtitles type="teletext"/>
+    <previously-shown/>
+  </programme>
+  <channel id="c33">
+    <display-name>C33</display-name>
+  </channel>
+  <programme start="20260926153027 +0200" stop="20260926155639 +0200" channel="c33">
+    <title lang="ca">Volcans i homes</title>
+    <sub-title lang="ca">Les illes Vestman, sentinelles volcànics d'Islàndia</sub-title>
+    <desc lang="ca">En aquest episodi, Arnaud Guérin, geòleg i fotògraf professional, ens porta a les illes Vestman, davant la costa d'Islàndia. Entre d'altres coses, l'acompanyarem en la seva visita al poble d'Heimaey, on un volcà va aparèixer sobtadament al mig del poble, i a Surtsey, una illa volcànica acabada de crear on es pot observar el lent procés de colonització, des de zero, per part de la vida.</desc>
+    <length units="seconds">1572</length>
+    <episode-num system="onscreen">5</episode-num>
+    <category lang="ca">DIVULGACIÓ</category>
+    <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/9/2/1698049504229.jpg"/>
+  </programme>
+  <programme start="20260926155639 +0200" stop="20260926162224 +0200" channel="c33">
+    <title lang="ca">Volcans i homes</title>
+    <sub-title lang="ca">Islàndia. Els senyors de foc</sub-title>
+    <desc lang="ca">En aquest episodi, Arnaud Guérin, geòleg i fotògraf professional, ens porta a Islàndia. Entre d'altres coses, l'acompanyarem en la seva visita al rift de Thingvellir, enmig de les dues plaques tectòniques, a la fractura d'Eldja, el congost de foc, i al centre de control de trànsit aeri de l'aeroport de Reykjavík, que va haver de gestionar les conseqüències en el trànsit aeri de l'erupció del volcà Eyjafjallajökull el 2010.</desc>
+    <length units="seconds">1545</length>
+    <episode-num system="onscreen">6</episode-num>
+    <category lang="ca">DIVULGACIÓ</category>
+    <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <subtitles type="teletext"/>
+    <previously-shown/>
   </programme>
   <channel id="oca1">
     <display-name>OCA1</display-name>
