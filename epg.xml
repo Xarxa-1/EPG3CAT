@@ -3,53 +3,63 @@
   <channel id="tvi">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20260926153119 +0200" stop="20260926162735 +0200" channel="tvi">
-    <title lang="ca">Infidels</title>
-    <desc lang="ca">La Lídia rep una trucada al mòbil: el Toni ha tingut un accident i sembla que està molt greu. L'Eduard i la Cruz es vesteixen per anar a l'enterrament d'en Raimon. L'Oriol culpa la Joana del petó que li va fer a en Peter. El Francesc ve a visitar els nens i la Joana li explica que ara treballa en un súper. L'Oriol s'escapa per buscar el seu pare i acaba trobant-se la Cecília. En Víctor s'emprenya perquè l'Arlet fa temps que no vol fer l'amor amb ell. El noi pregunta a en Dani si sap què carai li passa, a la seva nòvia, i li demana ajuda per preparar-li una festa sorpresa. La Carlota ofereix ajuda econòmica a l'Eduard, però la Cruz li demana que ho refusi.</desc>
-    <length units="seconds">3376</length>
-    <episode-num system="onscreen">9</episode-num>
+  <programme start="20260926182932 +0200" stop="20260926201652 +0200" channel="tvi">
+    <title lang="ca">Tarda de cine</title>
+    <sub-title lang="ca">Fills</sub-title>
+    <desc lang="ca">FILLS 'Figli'Direcció: Giuseppe BonitoGuió: Mattia TorreProducció: Wildside, The Apartment, Vision DistributionAny: 2020Durada: 97País: ItàliaMúsica: Giuliano Taviani, Carmelo TraviaFotografia: Roberto ForzaIntèrprets: Valerio Mastandrea, Paola Cortellesi, Stefano Fresi, Valerio Aprea, Paolo Calabresi, Andrea Sartoretti, Massimo De Lorenzo, Gianfelice Imparato El naixement d'un nou fill trasbalsarà una família romana. És un nadó tan estimat com inesperat, i ho capgira tot.</desc>
+    <credits>
+      <writer>Mattia Torre</writer>
+      <actor>Valerio Mastandrea</actor>
+      <actor>Paola Cortellesi</actor>
+      <actor>Stefano Fresi</actor>
+      <actor>Valerio Aprea</actor>
+      <actor>Paolo Calabresi</actor>
+      <actor>Andrea Sartoretti</actor>
+      <actor>Massimo De Lorenzo</actor>
+      <actor>Gianfelice Imparato El naixement d'un nou fill trasbalsarà una família romana. És un nadó tan estimat com inesperat</actor>
+      <actor>ho capgira tot.</actor>
+    </credits>
+    <length units="seconds">6440</length>
+    <episode-num system="onscreen">1</episode-num>
     <category lang="ca">FICCIÓ</category>
-    <category lang="ca">TELESÈRIE</category>
+    <category lang="ca">PEL·LÍCULA / TELEFILM</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <subtitles type="teletext"/>
-    <previously-shown/>
   </programme>
-  <programme start="20260926162735 +0200" stop="20260926164854 +0200" channel="tvi">
-    <title lang="ca">Jet lag</title>
-    <sub-title lang="ca">CRISI</sub-title>
-    <desc lang="ca">Un director de televisió ha triat el bar del Mario per rodar-hi l'anunci publicitari d'una nova marca de cerveses. Ja està tot preparat, només falta triar la noia que protagonitzarà l'anunci. A cap de les nostres protagonistes els hi fa gràcia aparèixer per la televisió fins que s'assabenten que el noi de l'anunci serà... el Javier Bardem. A partir d'aquest moment començarà una guerra entre totes elles per ser la protagonista de l'anunci i poder estar ben a prop del seu ídol.</desc>
-    <length units="seconds">1279</length>
-    <episode-num system="onscreen">14</episode-num>
-    <category lang="ca">FICCIÓ</category>
-    <category lang="ca">TELESÈRIE</category>
+  <programme start="20260926201652 +0200" stop="20260926202145 +0200" channel="tvi">
+    <title lang="ca">Atrapa'm si pots. Els millors moments.</title>
+    <desc lang="ca">'Atrapa'm si pots' és un 'quiz show' clàssic, de preguntes i respostes, presentat per Llucià Ferrer, en què sis concursants competeixen per arribar a la fase final i guanyar el pot. 'Atrapa'm si pots' és entreteniment pur i on gairebé és més important passar-s'ho bé que els diners. És un concurs en què pesa més la intuïció que no els coneixements acadèmics, més l'estratègia en el joc que no la sort.</desc>
+    <length units="seconds">293</length>
+    <episode-num system="onscreen">928</episode-num>
+    <category lang="ca">ENTRETENIMENT</category>
+    <category lang="ca">CONCURS</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
   <channel id="324">
     <display-name>324</display-name>
   </channel>
-  <programme start="20260926154000 +0200" stop="20260926163000 +0200" channel="324">
-    <title lang="ca">Telenotícies migdia (reemissió)</title>
-    <length units="seconds">3000</length>
-    <episode-num system="onscreen">4189</episode-num>
+  <programme start="20260926183000 +0200" stop="20260926200000 +0200" channel="324">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="seconds">5400</length>
+    <episode-num system="onscreen">11275</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
-    <previously-shown/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
-  <programme start="20260926163000 +0200" stop="20260926183000 +0200" channel="324">
+  <programme start="20260926200000 +0200" stop="20260926210000 +0200" channel="324">
     <title lang="ca">Notícies 3CatInfo</title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">7200</length>
-    <episode-num system="onscreen">11274</episode-num>
+    <length units="seconds">3600</length>
+    <episode-num system="onscreen">11276</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
@@ -61,44 +71,41 @@
   <channel id="esport3">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20260926154037 +0200" stop="20260926160732 +0200" channel="esport3">
-    <title lang="ca">E3</title>
-    <sub-title lang="ca">Matchday Champions Women J1</sub-title>
-    <desc lang="ca">Les escenes més destacades de la primera jornada a la fase de lliga de la Champions femenina de futbol. El Barça ha començat la defensa del títol contra el París FC.</desc>
-    <length units="seconds">1615</length>
-    <episode-num system="onscreen">2385</episode-num>
+  <programme start="20260926183500 +0200" stop="20260926193129 +0200" channel="esport3">
+    <title lang="ca">Futbol</title>
+    <sub-title lang="ca">Gimnàstic de Tarragona-UE Sant Andreu / Primera Federació / J5</sub-title>
+    <desc lang="ca">Els tarragonins han sumat 7 punts de 12 i són a la part alta de la classificació. Els barcelonins en tenen 4, i volen sortir de la part baixa. Amb la narració d'Oriol Vidal, i l'anàlisi d'Alberto Manga i Santi Triguero.</desc>
+    <length units="seconds">3389</length>
+    <episode-num system="onscreen">203</episode-num>
     <category lang="ca">ESPORTS</category>
-    <category lang="ca">REPORTATGES</category>
+    <category lang="ca">RETRANSMISSIONS ESPORTS</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <previously-shown/>
-    <icon src="https://img.3cat.cat/multimedia/jpg/7/7/1765293437977.jpg"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/0/7/1698446098170.jpg"/>
   </programme>
-  <programme start="20260926160732 +0200" stop="20260926164920 +0200" channel="esport3">
-    <title lang="ca">Zona zàping</title>
-    <sub-title lang="ca">Raphinha fa un Hat Trick, mentre a Madrid torna el Xou de Mou</sub-title>
-    <desc lang="ca">El Barça ja supera el Real Madrid de 6 punts i és líder indiscutible de la Lliga, després del hat trick de Raphinha a Sevilla, i la derrota dels blancs amb l'Atlético. Una derrota amb força polèmica que ha fet tornar el Mourinho més esperpèntic a la sala de premsa.Edu Esteve, exconcursant d'Eufòria, acomiad el programa amb el seu nou tema 'Torna'.</desc>
-    <length units="seconds">2508</length>
-    <episode-num system="onscreen">1081</episode-num>
+  <programme start="20260926193129 +0200" stop="20260926193957 +0200" channel="esport3">
+    <title lang="ca">Esport Club Cap de Setmana</title>
+    <sub-title lang="ca">Esport Club</sub-title>
+    <desc lang="ca">Magazín amb tota l'actualitat esportiva del cap de setmana, amb atenció especial a la jornada de futbol i les principals competicions del nostre esport.</desc>
+    <length units="seconds">508</length>
+    <episode-num system="onscreen">1388</episode-num>
     <category lang="ca">ESPORTS</category>
-    <category lang="ca">ALTRES</category>
+    <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <subtitles type="teletext"/>
-    <previously-shown/>
-    <icon src="https://img.3cat.cat/multimedia/jpg/4/7/1763564970974.jpg"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/7/3/1698145091337.jpg"/>
   </programme>
   <channel id="sx3">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20260926154407 +0200" stop="20260926155538 +0200" channel="sx3">
-    <title lang="ca">Les Sisters</title>
-    <sub-title lang="ca">Les Sisters perfectes</sub-title>
-    <desc lang="ca">La Wendy creu que l'Emma i la Gemma són les Sisters perfectes. Les dues bessones no es barallen mai, no pas com la Wendy i la Marine! La Marine s'enfada perquè la Wendy s'estima més la companyia de les bessones i es proposa demostrar que fins i tot les Sisters perfectes a vegades discuteixen. Quan intenta provocar tensions entre l'Emma i la Gemma, la Marine desperta un vell ressentiment que pren proporcions èpiques.</desc>
-    <length units="seconds">691</length>
-    <episode-num system="onscreen">133</episode-num>
+  <programme start="20260926192646 +0200" stop="20260926194911 +0200" channel="sx3">
+    <title lang="ca">El detectiu Conan</title>
+    <sub-title lang="ca">El carreró de la trista venjança</sub-title>
+    <desc lang="ca">En Kogoro i en Conan han anat a sopar a un restaurant italià d'un carreró de Beika del barri gastronòmic. Xerrant amb l'amo del negoci descobreixen que tots els restauradors del carreró pateixen l'assetjament del propietari dels locals, en Hiroyuki Kusumi, que els amenaça constantment perquè se'n vagin. Al cap d'una estona, en Kusumi apareix inconscient dins del lavabo. Primer sembla que hagi relliscat accidentalment, però en Conan descobreix que l'han agredit.</desc>
+    <length units="seconds">1345</length>
+    <episode-num system="onscreen">1139</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
@@ -107,12 +114,12 @@
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20260926155538 +0200" stop="20260926160752 +0200" channel="sx3">
-    <title lang="ca">Les Sisters</title>
-    <sub-title lang="ca">Les Sisters Panteres</sub-title>
-    <desc lang="ca">La Marine i les seves amigues espien la Wendy i el Maxence al parc quan, de sobte, el Maxence s'aixeca i crida: 'Gol'. Estava mirant un partit de futbol mentre feia un petó a la Wendy! La Wendy es pensa que al Maxou li agrada més el futbol que ella. Però apareix la Marine per salvar la seva germana. Potser la millor manera perquè els dos colomins facin les paus és jugar junts a futbol!</desc>
-    <length units="seconds">734</length>
-    <episode-num system="onscreen">134</episode-num>
+  <programme start="20260926194911 +0200" stop="20260926200941 +0200" channel="sx3">
+    <title lang="ca">El detectiu Conan</title>
+    <sub-title lang="ca">Un gran partit de la J. League, entre bastidors</sub-title>
+    <desc lang="ca">En Conan, la Haibara, en Genta, en Mitsuhiko i l'Ayumi guanyen un sorteig per assistir a un partit commemoratiu del trentè aniversari de la J. League. Entre el públic, en Conan veu un home sospitós que no sembla interessar-se pel futbol. Mentrestant, els seguidors del Frontale no poden accedir a l'estadi tot i tenir les entrades. La Lliga de Detectius Júnior investiga si aquests fets tenen alguna relació.</desc>
+    <length units="seconds">1230</length>
+    <episode-num system="onscreen">1140</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
@@ -124,12 +131,12 @@
   <channel id="c33">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20260926153027 +0200" stop="20260926155639 +0200" channel="c33">
-    <title lang="ca">Volcans i homes</title>
-    <sub-title lang="ca">Les illes Vestman, sentinelles volcànics d'Islàndia</sub-title>
-    <desc lang="ca">En aquest episodi, Arnaud Guérin, geòleg i fotògraf professional, ens porta a les illes Vestman, davant la costa d'Islàndia. Entre d'altres coses, l'acompanyarem en la seva visita al poble d'Heimaey, on un volcà va aparèixer sobtadament al mig del poble, i a Surtsey, una illa volcànica acabada de crear on es pot observar el lent procés de colonització, des de zero, per part de la vida.</desc>
-    <length units="seconds">1572</length>
-    <episode-num system="onscreen">5</episode-num>
+  <programme start="20260926184834 +0200" stop="20260926193221 +0200" channel="c33">
+    <title lang="ca">Viatges insòlits</title>
+    <sub-title lang="ca">El Caire</sub-title>
+    <desc lang="ca">La imatge icònica d'Egipte, les piràmides, és a molt poca distància de la gran metròpoli del Caire. Una ciutat que no para de créixer amb immigrants de la resta del país, fins al punt que els embussos de trànsit són infinits i el president ha decidit construir una capital nova al mig del desert i traslladar-hi tots els edificis governamentals. En Tom visita aquesta nova ciutat, i també diferents barris de l'actual, on descobrirà la passió dels seus habitants pels coloms i com viuen les persones que es dediquen a reciclar manualment les tones d'escombraries que s'hi generen cada dia.</desc>
+    <length units="seconds">2627</length>
+    <episode-num system="onscreen">37</episode-num>
     <category lang="ca">DIVULGACIÓ</category>
     <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
     <rating>
@@ -138,12 +145,12 @@
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20260926155639 +0200" stop="20260926162224 +0200" channel="c33">
-    <title lang="ca">Volcans i homes</title>
-    <sub-title lang="ca">Islàndia. Els senyors de foc</sub-title>
-    <desc lang="ca">En aquest episodi, Arnaud Guérin, geòleg i fotògraf professional, ens porta a Islàndia. Entre d'altres coses, l'acompanyarem en la seva visita al rift de Thingvellir, enmig de les dues plaques tectòniques, a la fractura d'Eldja, el congost de foc, i al centre de control de trànsit aeri de l'aeroport de Reykjavík, que va haver de gestionar les conseqüències en el trànsit aeri de l'erupció del volcà Eyjafjallajökull el 2010.</desc>
-    <length units="seconds">1545</length>
-    <episode-num system="onscreen">6</episode-num>
+  <programme start="20260926193221 +0200" stop="20260926201543 +0200" channel="c33">
+    <title lang="ca">Viatges insòlits</title>
+    <sub-title lang="ca">Dubai</sub-title>
+    <desc lang="ca">Dubai és ciutat de rècords, d'innovacions, de luxes i de controvèrsies. Però en Tom s'endinsarà amb el seu guia per descobrir l'autèntic dubaitià. Les tradicions i la cultura de Dubai semblen viure d'esquena a una ciutat que preveu un futur confrontat per la sostenibilitat i la modernitat.</desc>
+    <length units="seconds">2602</length>
+    <episode-num system="onscreen">45</episode-num>
     <category lang="ca">DIVULGACIÓ</category>
     <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
     <rating>
