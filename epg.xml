@@ -3,22 +3,10 @@
   <channel id="tvi">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20260926014421 +0200" stop="20260926030406 +0200" channel="tvi">
-    <title lang="ca">Mésnit</title>
-    <desc lang="ca">El 'Mésnit' arriba a la desena temporada, amb Marina Romero al capdavant de l'espai i amb la voluntat de continuar sent un centre de debat d'idees i d'anàlisi de l'activitat política.</desc>
-    <length units="seconds">4785</length>
-    <episode-num system="onscreen">2167</episode-num>
-    <category lang="ca">ACTUALITAT</category>
-    <category lang="ca">DEBAT</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <previously-shown/>
-  </programme>
-  <programme start="20260926030406 +0200" stop="20260926040000 +0200" channel="tvi">
+  <programme start="20260926060000 +0200" stop="20260926070000 +0200" channel="tvi">
     <title lang="ca">Notícies 3CatInfo</title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">3354</length>
+    <length units="seconds">3600</length>
     <episode-num system="onscreen">11270</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
@@ -26,24 +14,23 @@
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <previously-shown/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
+  </programme>
+  <programme start="20260926070000 +0200" stop="20260926100000 +0200" channel="tvi">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="seconds">10800</length>
+    <episode-num system="onscreen">11271</episode-num>
+    <category lang="ca">ACTUALITAT</category>
+    <category lang="ca">INFORMATIU DIÀRI</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
     <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
   <channel id="324">
     <display-name>324</display-name>
   </channel>
-  <programme start="20260926010000 +0200" stop="20260926060000 +0200" channel="324">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">18000</length>
-    <episode-num system="onscreen">11270</episode-num>
-    <category lang="ca">ACTUALITAT</category>
-    <category lang="ca">INFORMATIU DIÀRI</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <previously-shown/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
-  </programme>
   <programme start="20260926060000 +0200" stop="20260926070000 +0200" channel="324">
     <title lang="ca">Notícies 3CatInfo</title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
@@ -57,14 +44,27 @@
     <previously-shown/>
     <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
+  <programme start="20260926070000 +0200" stop="20260926100000 +0200" channel="324">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="seconds">10800</length>
+    <episode-num system="onscreen">11271</episode-num>
+    <category lang="ca">ACTUALITAT</category>
+    <category lang="ca">INFORMATIU DIÀRI</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <subtitles type="teletext"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
+  </programme>
   <channel id="esport3">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20260926005109 +0200" stop="20260926022626 +0200" channel="esport3">
+  <programme start="20260926065630 +0200" stop="20260926083107 +0200" channel="esport3">
     <title lang="ca">Onze</title>
     <sub-title lang="ca">Julán, el passat? Raphinha superestrella; Fàbregas, Delmàs i Cazorla</sub-title>
     <desc lang="ca">Míriam Riau fa tertúlia amb Carles Fité, Laia Bonals, Juli Garcia i Edgar Fornós. Comentem les declaracions de Deco en les que gira full de l'afer Julián Álvarez. Amb Àlex Delmàs repassem l'impacte que ha tingut fins ara Raphinha a la posició de davanter centre. Ens visita Joan Fàbregas, entrevistem la campiona de motocròs Daniela Guillén i acabem amb l'humor de Xavi Cazorla.</desc>
-    <length units="seconds">5717</length>
+    <length units="seconds">5677</length>
     <episode-num system="onscreen">1256</episode-num>
     <category lang="ca">ESPORTS</category>
     <category lang="ca">MAGAZINE</category>
@@ -75,10 +75,10 @@
     <previously-shown/>
     <icon src="https://img.ccma.cat/multimedia/jpg/1/1/1688543515711.jpg"/>
   </programme>
-  <programme start="20260926022626 +0200" stop="20260926024314 +0200" channel="esport3">
+  <programme start="20260926083107 +0200" stop="20260926084725 +0200" channel="esport3">
     <title lang="ca">3CatInfo Esports</title>
     <desc lang="ca">Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.</desc>
-    <length units="seconds">1008</length>
+    <length units="seconds">978</length>
     <episode-num system="onscreen">5519</episode-num>
     <category lang="ca">ESPORTS</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
@@ -91,12 +91,12 @@
   <channel id="sx3">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20260926020249 +0200" stop="20260926022227 +0200" channel="sx3">
-    <title lang="ca">Viatges Pokémon</title>
-    <sub-title lang="ca">La flor blanca a la nit!</sub-title>
-    <desc lang="ca">Mentre l'Ash i el Goh passen l'estona al Parc Cirerer, les membres del grup de la Flabébé del Goh fan una cursa i evolucionen a Floette. Però la Flabébé de la flor blanca no és amb elles! Li costa volar perquè la seva flor ha perdut un pètal. Llavors, l'Ash i el Goh se'n van a Kalos a buscar-n'hi una altra, però resulta que no troben cap flor que li agradi a la Flabébé. Després de buscar molt, troben un grupet de flors, però en comptes de ser blanques, són roses.</desc>
-    <length units="seconds">1178</length>
-    <episode-num system="onscreen">66</episode-num>
+  <programme start="20260926064527 +0200" stop="20260926070934 +0200" channel="sx3">
+    <title lang="ca">Les Tres Bessones</title>
+    <sub-title lang="ca">Les tres bessones a l'Everest</sub-title>
+    <desc lang="ca">L'Avorrida està tan enfadada amb les Bessones que les ha castigades a l'Himàlaia, al campament d'un equip d'alpinistes que vol fer l'Everest. El cap de l'equip les vol fer tornar cap a casa, però elles estan decidides a fer-se un lloc a l'expedició. Evidentment, la Bruixa Avorrida no els ho posarà gens fácil.</desc>
+    <length units="seconds">1447</length>
+    <episode-num system="onscreen">77</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
@@ -105,12 +105,12 @@
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20260926022227 +0200" stop="20260926024334 +0200" channel="sx3">
-    <title lang="ca">Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
-    <sub-title lang="ca">Optigami</sub-title>
-    <desc lang="ca">L'Esfinx Fosc coneix la identitat secreta d'alguns aliats de Ladybug i decideix tramar un pla per treure'n profit. I per estar segur de tenir èxit, fa tornar la seva akumatitzada més temible. Per la seva banda, a la Marinette i els seus amics els conviden a una cerimònia en què l'Adrien ha de rebre un premi atorgat per la revista de moda de l'Audrey Bourgeois. Però el que havia de ser una festa es convertirà en un malson quan l'Audrey es torni a transformar en la Style Queen i l'Adrien i la Marinette quedin tancats a dins d'un ascensor junts, sense poder transformar-se en Ladybug i el Gat Noir...</desc>
-    <length units="seconds">1267</length>
-    <episode-num system="onscreen">91</episode-num>
+  <programme start="20260926070934 +0200" stop="20260926072132 +0200" channel="sx3">
+    <title lang="ca">L'abella Maia</title>
+    <sub-title lang="ca">L'abella fugitiva</sub-title>
+    <desc lang="ca">Aquesta vegada en Zig, que sempre ha sigut una mica entremaliat, n'ha fet un gra massa amb el Senyor Jutge i l'han acabat expulsant del rusc. Quan s'ha trobat amb la Maia pel prat, li ha dit que volia viure com ella, però no li ha explicat tota la veritat. Aviat en Zig descobrirà que al final tot s'acaba sabent i que això del viure al prat és més complicat del que sembla!</desc>
+    <length units="seconds">718</length>
+    <episode-num system="onscreen">73</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
@@ -122,33 +122,34 @@
   <channel id="c33">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20260926020025 +0200" stop="20260926024049 +0200" channel="c33">
-    <title lang="ca">km33</title>
-    <sub-title lang="ca">Mèxic entre amics</sub-title>
-    <desc lang="ca">En Marc viatja per Mèxic amb l'ajuda dels seus amics. Gràcies a ells descobreix la cara més 'freak' del DF. Visita els poblets màgics del Michoacán i alguns paradisos verges de la costa del Pacífic. Acaba integrant-se en l'emocionant dia a dia de Guadalajara. I a més a més: Mèxic per a tots els gustos, detalls d'un destí variat i exòtic; Cultues Mexicans, llocs espirituals, experiències místiques, sants i celebracions; Noves maneres de viatjar, els teus viatges poden ser més econòmics. Allotjar-se i moure's per 0 euros.</desc>
-    <length units="seconds">2424</length>
-    <episode-num system="onscreen">11</episode-num>
-    <category lang="ca">ENTRETENIMENT</category>
-    <category lang="ca">ALTRES</category>
+  <programme start="20260926064914 +0200" stop="20260926072120 +0200" channel="c33">
+    <title lang="ca">Quèquicom</title>
+    <sub-title lang="ca">Antenes sí, a casa del veí</sub-title>
+    <desc lang="ca">És recomanable apagar el wifi durant la nit? I per quina raó? Són un perill per a la salut, les seves ones? I les microones de la telefonia mòbil? Quina densitat de potència podem rebre de les antenes d'una estació base? I del nostre propi mòbil? Tenen fuites, els forns microones? 'Quèquicom' aporta el coneixement bàsic que cal tenir per prendre posició respecte a les ones electromagnètiques comunes en l'àmbit domèstic.</desc>
+    <length units="seconds">1926</length>
+    <episode-num system="onscreen">266</episode-num>
+    <category lang="ca">DIVULGACIÓ</category>
+    <category lang="ca">MAGAZINE ESPECIALITZAT</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20260926024049 +0200" stop="20260926030826 +0200" channel="c33">
-    <title lang="ca">GR Barcelona</title>
-    <sub-title lang="ca">Llum de nit</sub-title>
-    <desc lang="ca">'Quan el sol es pon, es desperta una nova Barcelona. El mateix escenari, sí, però podríem dir que amb l'ànima disfressada. Qualsevol ciutat quan cau la nit es posa les millors gales. I Barcelona, més. En aquest gran recorregut el Marc seguirà la llum d'una nit que el portarà per l'avinguda Reina Cristina a veure la font màgica de Montjuïc, a continuació als carrers de Ciutat Vella per viure la nit de la llum durant les Festes de Santa Eulàlia, després seguirà la multitudinària patinada nocturna, aprendrà a cuinar una de les millors hamburgueses de la ciutat i també a fer un gin tònic, farà una ruta per algunes de les zones de marxa del centre, parlarà amb taxistes i acabarà a Catalunya Ràdio, despertant Catalunya amb Mònica Terribas.</desc>
-    <length units="seconds">1657</length>
-    <episode-num system="onscreen">8</episode-num>
+  <programme start="20260926072120 +0200" stop="20260926080820 +0200" channel="c33">
+    <title lang="ca">La Renaixença</title>
+    <sub-title lang="ca">El compàs</sub-title>
+    <desc lang="ca">Tots hem fet servir el compàs durant la nostra època escolar. Alguns amb més destresa que d'altres, però tots l'hem fet servir alguna vegada per punxar la goma d'esborrar. En això segur que coincidim. Els músics també en fan servir un de compàs, però no és el mateix. Ens visita en Llorenç Barba, responsable del refugi Vicenç Barber de Montserrat. Fa'passejades' de 45 minuts fins al refugi diàriament pujant més de 200 kg a l'esquena cada setmana. A 'Històries per passejar el gos' anem amb la Dobby fins al 1960, a la catàstrofe de Nedelin.</desc>
+    <length units="seconds">2820</length>
+    <episode-num system="onscreen">67</episode-num>
     <category lang="ca">DIVULGACIÓ</category>
-    <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
+    <category lang="ca">ALTRES</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/3/3/1756148014833.jpg"/>
   </programme>
   <channel id="oca1">
     <display-name>OCA1</display-name>
