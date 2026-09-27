@@ -3,69 +3,81 @@
   <channel id="tvi">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20260927024043 +0200" stop="20260927040000 +0200" channel="tvi">
+  <programme start="20260927070000 +0200" stop="20260927095115 +0200" channel="tvi">
     <title lang="ca">Notícies 3CatInfo</title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">4757</length>
-    <episode-num system="onscreen">11278</episode-num>
+    <length units="seconds">10275</length>
+    <episode-num system="onscreen">11279</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <previously-shown/>
     <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
-  <programme start="20260927040000 +0200" stop="20260927050000 +0200" channel="tvi">
-    <title lang="ca">Blues a l'estudi</title>
-    <sub-title lang="ca">Biel &amp; Randy</sub-title>
-    <desc lang="ca">Biel Ballester i Randy Greer. Dos grans intèrprets, que uneixen forces per acostar-nos al seu univers de música d'arrel i amb cert regust dels anys 50. Aquests dos creadors, defineixen l'estil del seu projecte comú com un blues primitiu i pantanós, barrejat amb el Rockabilly i el country més primari.Acompanyen Biel and Randy, dos dels músics més actius i carismàtics del panorama del Rhythm'n'blues a Catalunya: Anton Jarl, a la bateria, i Ivan Kovacevic, al contrabaix.</desc>
-    <length units="seconds">3600</length>
-    <episode-num system="onscreen">1</episode-num>
-    <category lang="ca">MUSICALS</category>
-    <category lang="ca">ALTRES</category>
+  <programme start="20260927095115 +0200" stop="20260927101251 +0200" channel="tvi">
+    <title lang="ca">Néixer de nou</title>
+    <sub-title lang="ca">Protestants sota el franquisme, els protestants de Barcelona</sub-title>
+    <desc lang="ca">La Restauració borbònica va venir de la mà de la Constitució del 1876. Amb aquesta Constitució, els protestants vam perdre les llibertats que s'havien aconseguit gràcies a la Revolució del 1868. Quin és el tarannà religiós de la ciutat de Barcelona 150 anys més tard? De tot això avui en parlarem aquí, a 'Néixer de nou', amb el comissionat de Relacions Ciutadanes i Diversitat Cultural i Religiosa: Sr. Richard Sánchez.</desc>
+    <length units="seconds">1296</length>
+    <episode-num system="onscreen">344</episode-num>
+    <category lang="ca">DIVULGACIÓ</category>
+    <category lang="ca">MAGAZINE ESPECIALITZAT</category>
     <rating>
-      <value>PÚBLIC ADULT</value>
+      <value>TOTS ELS PÚBLICS</value>
     </rating>
     <previously-shown/>
   </programme>
   <channel id="324">
     <display-name>324</display-name>
   </channel>
-  <programme start="20260927010000 +0200" stop="20260927060000 +0200" channel="324">
+  <programme start="20260927070000 +0200" stop="20260927100000 +0200" channel="324">
     <title lang="ca">Notícies 3CatInfo</title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">18000</length>
-    <episode-num system="onscreen">11278</episode-num>
+    <length units="seconds">10800</length>
+    <episode-num system="onscreen">11279</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <previously-shown/>
+    <subtitles type="teletext"/>
     <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
-  <programme start="20260927060000 +0200" stop="20260927070000 +0200" channel="324">
+  <programme start="20260927100000 +0200" stop="20260927120000 +0200" channel="324">
     <title lang="ca">Notícies 3CatInfo</title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">3600</length>
-    <episode-num system="onscreen">11278</episode-num>
+    <length units="seconds">7200</length>
+    <episode-num system="onscreen">11280</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <previously-shown/>
+    <subtitles type="teletext"/>
     <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
   <channel id="esport3">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20260927014941 +0200" stop="20260927033851 +0200" channel="esport3">
+  <programme start="20260927074431 +0200" stop="20260927080649 +0200" channel="esport3">
+    <title lang="ca">3CatInfo Esports</title>
+    <desc lang="ca">Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.</desc>
+    <length units="seconds">1338</length>
+    <episode-num system="onscreen">5520</episode-num>
+    <category lang="ca">ESPORTS</category>
+    <category lang="ca">INFORMATIU DIÀRI</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <previously-shown/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/9/7/1758888682179.jpg"/>
+  </programme>
+  <programme start="20260927080649 +0200" stop="20260927095500 +0200" channel="esport3">
     <title lang="ca">Futbol</title>
     <sub-title lang="ca">Logronyo-FC Barcelona / Lliga F / J5</sub-title>
     <desc lang="ca">Les blaugranes volen sumar la 5a victòria en 5 jornades per seguir liderant la classificació. El conjunt de La Rioja ha guanyat 2 partits i n'ha perdut els altres 2.</desc>
-    <length units="seconds">6550</length>
+    <length units="seconds">6491</length>
     <episode-num system="onscreen">51</episode-num>
     <category lang="ca">ESPORTS</category>
     <category lang="ca">RETRANSMISSIONS ESPORTS</category>
@@ -76,44 +88,31 @@
     <previously-shown/>
     <icon src="https://img.ccma.cat/multimedia/jpg/0/8/1730389343680.jpg"/>
   </programme>
-  <programme start="20260927033851 +0200" stop="20260927040044 +0200" channel="esport3">
-    <title lang="ca">3CatInfo Esports</title>
-    <desc lang="ca">Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.</desc>
-    <length units="seconds">1313</length>
-    <episode-num system="onscreen">5520</episode-num>
-    <category lang="ca">ESPORTS</category>
-    <category lang="ca">INFORMATIU DIÀRI</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <previously-shown/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/9/7/1758888682179.jpg"/>
-  </programme>
   <channel id="sx3">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20260927024852 +0200" stop="20260927025845 +0200" channel="sx3">
-    <title lang="ca">Com dibuixar còmics amb el Will Sliney</title>
-    <sub-title lang="ca">Comença la gran batalla</sub-title>
-    <desc lang="ca">Com que el Will havia fet una crida als espectadors del programa perquè enviessin dibuixos de superherois que poguessin contribuir a la victòria contra el Crònica, aquest va fer el mateix i en l'episodi d'avui veurem els diferents dolents creats pels espectadors. I el Will ens ensenyarà a dibuixar una nova mena de personatge, l'antiheroi, un personatge a mig camí entre bo i dolent i amb característiques de tots dos.</desc>
-    <length units="seconds">593</length>
-    <episode-num system="onscreen">38</episode-num>
+  <programme start="20260927074439 +0200" stop="20260927075522 +0200" channel="sx3">
+    <title lang="ca">El Mic i els seus amics</title>
+    <sub-title lang="ca">Animals i animalons</sub-title>
+    <desc lang="ca">Al Mic l'interessen tots els animals, grossos i petits. Li agrada saber com viuen, on dormen, què mengen i com es diuen</desc>
+    <length units="seconds">643</length>
+    <episode-num system="onscreen">680</episode-num>
     <category lang="ca">FICCIÓ</category>
-    <category lang="ca">ALTRES</category>
+    <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
       <value>INFANTIL</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20260927025845 +0200" stop="20260927030847 +0200" channel="sx3">
-    <title lang="ca">Com dibuixar còmics amb el Will Sliney</title>
-    <sub-title lang="ca">El Megacrònica</sub-title>
-    <desc lang="ca">Gràcies als poders que ha aconseguit amb l'ajuda del misteriós Torcements, el Crònica ha aconseguit dominar les ments de tots els herois i dolents que s'havien creat al llarg de la sèrie, la qual cosa li ha permès mutar en una versió superpoderosa d'ell mateix, el Megacrònica. I com que fins i tot l'Ogam ha sucumbit al seu poder, el Will es troba sol en la seva missió de salvar la Terra.</desc>
-    <length units="seconds">602</length>
-    <episode-num system="onscreen">39</episode-num>
+  <programme start="20260927075522 +0200" stop="20260927080635 +0200" channel="sx3">
+    <title lang="ca">El Mic i els seus amics</title>
+    <sub-title lang="ca">En Cincsegons llegeix</sub-title>
+    <desc lang="ca">A en Cincsegons li agrada molt llegir el seu llibre del temps. Està molt tranquil fins que el Mic arriba amb ganes de jugar.</desc>
+    <length units="seconds">673</length>
+    <episode-num system="onscreen">656</episode-num>
     <category lang="ca">FICCIÓ</category>
-    <category lang="ca">ALTRES</category>
+    <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
       <value>INFANTIL</value>
     </rating>
@@ -123,35 +122,34 @@
   <channel id="c33">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20260927025039 +0200" stop="20260927034603 +0200" channel="c33">
-    <title lang="ca">1942</title>
-    <sub-title lang="ca">Si cal resistir</sub-title>
-    <desc lang="ca">SINOPSI: És Cap d'Any del 1942, un any que s'inicia en un món trasbalsat per una guerra que havia començat a Europa però que ara ja afecta tot el món. Un any que es presenta ple d'incerteses i en què es pot esperar qualsevol cosa, el millor i el pitjor. Hi ha gent al planeta que ja fa anys que està en guerra, uns altres tot just hi entren ara. I sabrem com ho van viure persones dels diferents països implicats a través de les cartes que van escriure.</desc>
-    <length units="seconds">3324</length>
-    <episode-num system="onscreen">1</episode-num>
+  <programme start="20260927072009 +0200" stop="20260927075005 +0200" channel="c33">
+    <title lang="ca">Quèquicom</title>
+    <sub-title lang="ca">Mestres de la fusta</sub-title>
+    <desc lang="ca">Pere Renom assisteix a l'autentificació d'una guitarra teòricament construïda a Sevilla l'any 1867 per Antonio de Torres, l'equivalent a l'Stradivarius dels violins. També participa en la construcció d'una casa de fusta, més ecològica i més ràpida de fer que les cases convencionals. I visita l'únic taller del món on s'utilitza la fusta per fabricar una embarcació genuïnament catalana: el patí de vela. A més, Jaume Vilalta explica l'art d'assecar la fusta, i la serra, una eina més semblant a una llima que a un ganivet.</desc>
+    <length units="seconds">1796</length>
+    <episode-num system="onscreen">268</episode-num>
     <category lang="ca">DIVULGACIÓ</category>
-    <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
+    <category lang="ca">MAGAZINE ESPECIALITZAT</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
-    <icon src="https://img.3cat.cat/multimedia/jpg/9/8/1786345299589.jpg"/>
   </programme>
-  <programme start="20260927034603 +0200" stop="20260927044127 +0200" channel="c33">
-    <title lang="ca">1942</title>
-    <sub-title lang="ca">Si cal creure-hi</sub-title>
-    <desc lang="ca">SINOPSI:L'any 1942, amb el món en guerra, les nacions necessiten l'adhesió ferma de la seva població. I una de les maneres d'aconseguir-la és l'adoctrinament d'infants i joves en els valors patriòtics, com ens demostraran les experiències de l'Ursula, una jove alemanya allistada a les Joventuts Hitlerianes; la Nina, enrolada en l'exèrcit soviètic; o l'Eric, un jove anglès que se'n va a Singapur a defensar l'Imperi Britànic.</desc>
-    <length units="seconds">3324</length>
-    <episode-num system="onscreen">2</episode-num>
+  <programme start="20260927075005 +0200" stop="20260927083658 +0200" channel="c33">
+    <title lang="ca">La Renaixença</title>
+    <sub-title lang="ca">Les puntes de coixí</sub-title>
+    <desc lang="ca">Que som uns nostàlgics ja ho sabem, nosaltres i vosaltres. Però és que no podem deixar de ser-ho. Per això, hem decidit dedicar aquest capítol a les puntes de coixí. Per si no ho sabeu, antigament s'havien utilitzat per enviar missatges secrets! Poca broma amb les puntaires! Passen per 'La Renaixença' Els Amics de les Arts. Parlar amb ells i escoltar-los amb l'Arnau i la Laia fent 'Jean-Luc' és d'aquelles coses que recordarem. A 'Històries per passejar el gos' anem amb en Jumo fins a la vaga dels tramvies del 1951.</desc>
+    <length units="seconds">2813</length>
+    <episode-num system="onscreen">68</episode-num>
     <category lang="ca">DIVULGACIÓ</category>
-    <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
+    <category lang="ca">ALTRES</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
-    <icon src="https://img.3cat.cat/multimedia/jpg/9/8/1786345299589.jpg"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/3/3/1756148014833.jpg"/>
   </programme>
   <channel id="oca1">
     <display-name>OCA1</display-name>
