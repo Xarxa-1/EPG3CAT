@@ -3,38 +3,73 @@
   <channel id="tvi">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20260927115643 +0200" stop="20260927142932 +0200" channel="tvi">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">9169</length>
-    <episode-num system="onscreen">11281</episode-num>
-    <category lang="ca">ACTUALITAT</category>
-    <category lang="ca">INFORMATIU DIÀRI</category>
+  <programme start="20260927172204 +0200" stop="20260927190902 +0200" channel="tvi">
+    <title lang="ca">Tarda de cine</title>
+    <sub-title lang="ca">Assassinats a Mulhouse</sub-title>
+    <desc lang="ca">ASSASSINATS A MULHOUSE 'Meurtres à Mulhouse'Direcció: Delphine LemoineGuió: Jérôme Amory, François GuérinProducció: Ping Pong Productions, France TV, AT-Production, RTBF (Télévision Belge), Radio Télévision Suisse (RTS), Région Grand Est, Communauté d'Agglomération Mulhouse Alsace, CNC,France TV DistributionAny: 2021Durada: 91País: FrançaMúsica: Franck Pilant, Maïdi RothIntèrprets: Mélanie Maudran, François-David Cardonnel, Nicolas Van Beveren, Madi Belem, Natalia Dontcheva, Aurore Erguy, Catherine Arditi, Willy Rovelli, Erick Deshors, Charlotte Valandrey, Jean-François Vlerick, Philippe Ohrel, Zhoer Zhu, Aude Koegler, Jean-Philippe Meyer,Claire Cahen. Quan investiga un crim comès en una antiga mina a prop de Mulhouse, la tinenta Sandra Bauer sospita de l'advocada que li va prendre la custòdia del seu fill quan es va divorciar. Però, per atrapar-la, la Sandra s'ha d'enfrontar al seu germà, el Frédéric Bauer, que també és advocat. Durant la investigació, la tinenta s'ha d'endinsar en una llegenda sobre sant Nicolau. A més, la Sandra i el seu germà retornen a un fet tràgic del passat: la desaparició, tres anys abans, del seu nebot Bastien, d'onze anys.</desc>
+    <credits>
+      <director>Delphine Lemoine</director>
+      <writer>Jérôme Amory</writer>
+      <writer>François Guérin</writer>
+      <actor>Mélanie Maudran</actor>
+      <actor>François-David Cardonnel</actor>
+      <actor>Nicolas Van Beveren</actor>
+      <actor>Madi Belem</actor>
+      <actor>Natalia Dontcheva</actor>
+      <actor>Aurore Erguy</actor>
+      <actor>Catherine Arditi</actor>
+      <actor>Willy Rovelli</actor>
+      <actor>Erick Deshors</actor>
+      <actor>Charlotte Valandrey</actor>
+      <actor>Jean-François Vlerick</actor>
+      <actor>Philippe Ohrel</actor>
+      <actor>Zhoer Zhu</actor>
+      <actor>Aude Koegler</actor>
+      <actor>Jean-Philippe Meyer</actor>
+      <actor>Claire Cahen. Quan investiga un crim comès en una antiga mina a prop de Mulhouse</actor>
+      <actor>la tinenta Sandra Bauer sospita de l'advocada que li va prendre la custòdia del seu fill quan es va divorciar. Però</actor>
+      <actor>per atrapar-la</actor>
+      <actor>la Sandra s'ha d'enfrontar al seu germà</actor>
+      <actor>el Frédéric Bauer</actor>
+      <actor>que també és advocat. Durant la investigació</actor>
+      <actor>la tinenta s'ha d'endinsar en una llegenda sobre sant Nicolau. A més</actor>
+      <actor>la Sandra</actor>
+      <actor>el seu germà retornen a un fet tràgic del passat: la desaparició</actor>
+      <actor>tres anys abans</actor>
+      <actor>del seu nebot Bastien</actor>
+      <actor>d'onze anys.</actor>
+    </credits>
+    <length units="seconds">6418</length>
+    <episode-num system="onscreen">1</episode-num>
+    <category lang="ca">FICCIÓ</category>
+    <category lang="ca">PEL·LÍCULA / TELEFILM</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <previously-shown/>
+  </programme>
+  <programme start="20260928190921 +0200" stop="20260928195814 +0200" channel="tvi">
+    <title lang="ca">Temps de silenci</title>
+    <sub-title lang="ca">INFILTRATS</sub-title>
+    <desc lang="ca">Arriba la televisió.Barcelona es prepara per rebre la visita del Generalísimo. I no tots ho esperen de la mateixa manera... En Llorenç es retroba amb un vell conegut.</desc>
+    <length units="seconds">2933</length>
+    <episode-num system="onscreen">14</episode-num>
+    <category lang="ca">FICCIÓ</category>
+    <category lang="ca">SÈRIE DRAMÀTICA</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
-  </programme>
-  <programme start="20260927142932 +0200" stop="20260927153803 +0200" channel="tvi">
-    <title lang="ca">Telenotícies migdia</title>
-    <length units="seconds">4111</length>
-    <episode-num system="onscreen">7341</episode-num>
-    <category lang="ca">ACTUALITAT</category>
-    <category lang="ca">INFORMATIU DIÀRI</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <icon src="https://img.ccma.cat/multimedia/jpg/5/4/1758025766345.jpg"/>
+    <previously-shown/>
   </programme>
   <channel id="324">
     <display-name>324</display-name>
   </channel>
-  <programme start="20260927120000 +0200" stop="20260927143000 +0200" channel="324">
+  <programme start="20260927163000 +0200" stop="20260927183000 +0200" channel="324">
     <title lang="ca">Notícies 3CatInfo</title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">9000</length>
-    <episode-num system="onscreen">11281</episode-num>
+    <length units="seconds">7200</length>
+    <episode-num system="onscreen">11282</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
@@ -43,56 +78,57 @@
     <subtitles type="teletext"/>
     <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
-  <programme start="20260927143000 +0200" stop="20260927154000 +0200" channel="324">
-    <title lang="ca">Telenotícies migdia</title>
-    <length units="seconds">4200</length>
-    <episode-num system="onscreen">7341</episode-num>
+  <programme start="20260927183000 +0200" stop="20260927200000 +0200" channel="324">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="seconds">5400</length>
+    <episode-num system="onscreen">11283</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <icon src="https://img.ccma.cat/multimedia/jpg/5/4/1758025766345.jpg"/>
+    <subtitles type="teletext"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
   <channel id="esport3">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20260927123110 +0200" stop="20260927140204 +0200" channel="esport3">
-    <title lang="ca">Voleibol</title>
-    <sub-title lang="ca">Lliga catalana femenina voleibol / DSV CV Sant Cugat - Voleibol San Just</sub-title>
-    <desc lang="ca">Esport3 t'ofereix les millors retransmissions esportives en directe. Viu l'esport amb nosaltres!</desc>
-    <length units="seconds">5454</length>
-    <episode-num system="onscreen">8133</episode-num>
+  <programme start="20260927165500 +0200" stop="20260927174538 +0200" channel="esport3">
+    <title lang="ca">Futbol</title>
+    <sub-title lang="ca">RCD Espanyol B-CD Arnedo / Segona Federació / J4</sub-title>
+    <desc lang="ca">Els blanc-i-blaus, 2 victòries i 1 derrota, volen guanyar per seguir a la zona de play-off d'ascens. El conjunt de La Rioja encara no ha puntuat. Amb la narració d'Oriol Vidal, i l'anàlisi de Santi Triguero.</desc>
+    <length units="seconds">3038</length>
+    <episode-num system="onscreen">68</episode-num>
     <category lang="ca">ESPORTS</category>
     <category lang="ca">RETRANSMISSIONS ESPORTS</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <icon src="https://img.ccma.cat/multimedia/jpg/4/0/1790165555204.jpg"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/0/7/1698446098170.jpg"/>
   </programme>
-  <programme start="20260927140204 +0200" stop="20260927142900 +0200" channel="esport3">
-    <title lang="ca">E3</title>
-    <sub-title lang="ca">Matchday Champions Women J1</sub-title>
-    <desc lang="ca">Les escenes més destacades de la primera jornada a la fase de lliga de la Champions femenina de futbol. El Barça ha començat la defensa del títol contra el París FC.</desc>
-    <length units="seconds">1616</length>
-    <episode-num system="onscreen">2385</episode-num>
+  <programme start="20260927174538 +0200" stop="20260927175347 +0200" channel="esport3">
+    <title lang="ca">Esport Club Cap de Setmana</title>
+    <sub-title lang="ca">Esport Club</sub-title>
+    <desc lang="ca">Magazín amb tota l'actualitat esportiva del cap de setmana, amb atenció especial a la jornada de futbol i les principals competicions del nostre esport.</desc>
+    <length units="seconds">489</length>
+    <episode-num system="onscreen">1390</episode-num>
     <category lang="ca">ESPORTS</category>
-    <category lang="ca">REPORTATGES</category>
+    <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <previously-shown/>
-    <icon src="https://img.3cat.cat/multimedia/jpg/7/7/1765293437977.jpg"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/7/3/1698145091337.jpg"/>
   </programme>
   <channel id="sx3">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20260927125330 +0200" stop="20260927131516 +0200" channel="sx3">
-    <title lang="ca">Els germans Kratt</title>
-    <sub-title lang="ca">Miniherois i boques gegants</sub-title>
-    <desc lang="ca">Els germans Kratt es miniaturitzen i comencen una missió amb l'amfípode per entendre millor els fonaments de la vida marina. Un cop al fons del mar, entren en una floració de plàncton que els arrossega corrent avall. Però llavors, arriba una balena geperuda i separa els germans Kratt. L'Aviva, la Koki i el Jimmy els hauran d'ajudar.</desc>
-    <length units="seconds">1306</length>
-    <episode-num system="onscreen">169</episode-num>
+  <programme start="20260927172826 +0200" stop="20260927173956 +0200" channel="sx3">
+    <title lang="ca">Ideafix i els irreductibles</title>
+    <sub-title lang="ca">Amb un Arcabús n'hi ha prou</sub-title>
+    <desc lang="ca">El Labiè fa engarjolar l'Ordralfabètix, acusat injustament d'haver robat un carregament de peix. Els Irreductibles malden per alliberar-lo, però una poció del Voldenix fa un clon de l'Arcabús que encara els complica més les coses. Finalment, l'Ordralfabètix es guanya la llibertat en un combat contra el gladiador Trencarròtulus.</desc>
+    <length units="seconds">690</length>
+    <episode-num system="onscreen">56</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
@@ -101,44 +137,42 @@
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20260927131516 +0200" stop="20260927133751 +0200" channel="sx3">
-    <title lang="ca">Els germans Kratt</title>
-    <sub-title lang="ca">A buscar salamandres</sub-title>
-    <desc lang="ca">L'equip Kratt està mirant una pel·lícula i de cop la Tortuga es queda sense electricitat. Mentre la Koki investiga què ha passat i prova d'arreglar la nau, la resta de l'equip decideix viure una aventura: la de buscar salamandres. Es tracta de baixar riu avall miniaturitzats en barquetes i buscar salamandres, i qui en trobi més serà guanyarà. Però no ho tindran fàcil, perquè hi ha un altre animal que els farà la vida impossible.</desc>
-    <length units="seconds">1355</length>
-    <episode-num system="onscreen">170</episode-num>
+  <programme start="20260927173956 +0200" stop="20260927174650 +0200" channel="sx3">
+    <title lang="ca">En Grizzy i els Lèmmings</title>
+    <sub-title lang="ca">Os zen</sub-title>
+    <desc lang="ca">En Grizzy descobreix l'interès de l'ossa dels seus amors per la meditació. Per seduir-la, es proposa demostrar-li que ell també pot adoptar l'actitud zen. Evidentment, això demana entrenament, però sobretot molta voluntat i concentració per desfer-se dels lèmmings enredaires sense perdre els estreps i quedar fatal amb la seva enamorada. Amb paciència i dedicació tot s'aconsegueix, però. O gairebé tot.</desc>
+    <length units="seconds">414</length>
+    <episode-num system="onscreen">127</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
       <value>INFANTIL</value>
     </rating>
-    <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
   <channel id="c33">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20260927123233 +0200" stop="20260927133341 +0200" channel="c33">
-    <title lang="ca">Una altra història</title>
-    <sub-title lang="ca">Museu d'Art de Girona</sub-title>
-    <desc lang="ca">Des del Museu d'art de Girona, l'Albert Om amb els nostres historiadors descobriran la història del xofer d'en Josep Pla i com li va canviar la vida dinar un dia amb l'escriptor. També veuran els piolets que van participar al rescat de Balandrau o el casc militar que va acompanyar als primers objectors de consciència durant les manifestacions a finals dels 70.</desc>
-    <length units="seconds">3668</length>
-    <episode-num system="onscreen">2</episode-num>
-    <category lang="ca">ENTRETENIMENT</category>
-    <category lang="ca">CONCURS</category>
+  <programme start="20260927165856 +0200" stop="20260927174257 +0200" channel="c33">
+    <title lang="ca">Viatges insòlits</title>
+    <sub-title lang="ca">Ulan Bator</sub-title>
+    <desc lang="ca">Mongòlia desperta sentiments d'aventura, llibertat i paisatges inhòspits. Bé, una cosa és ben certa: Mongòlia és el país menys poblat del món. Tot i així, Ulaanbaatar és a la llista d'en Tom de grans ciutats del món. Malgrat el rapidíssim creixement de la capital, al Tom no li costarà gens trobar tota l'autenticitat mongola.</desc>
+    <length units="seconds">2641</length>
+    <episode-num system="onscreen">39</episode-num>
+    <category lang="ca">DIVULGACIÓ</category>
+    <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/9/2/1698049504229.jpg"/>
   </programme>
-  <programme start="20260927133341 +0200" stop="20260927143244 +0200" channel="c33">
-    <title lang="ca">Els caps de setmana llargs d'en Rick Stein</title>
-    <sub-title lang="ca">Tessalònica</sub-title>
-    <desc lang="ca">En Rick és un enamorat de la cuina grega. Li encanta el cafè espès que fa, la gran varietat de plats i, sobretot, la forta influència rebuda de llocs com Turquia, el Pròxim Orient i els Balcans. Aquest cap de setmana coneixerà una estrella de la televisió culinària grega, la Vefa Alexiadou, tastarà especialitats de Tessalònica, com la 'trigona', una 'bugatsa' de carn molt engrecadora i diversos plats fets amb préssec.</desc>
-    <length units="seconds">3543</length>
-    <episode-num system="onscreen">9</episode-num>
+  <programme start="20260927174257 +0200" stop="20260927180907 +0200" channel="c33">
+    <title lang="ca">Volcans i homes</title>
+    <sub-title lang="ca">L'illa de la Reunió. Al cor dels volcans</sub-title>
+    <desc lang="ca">En aquest episodi, Arnaud Guérin, geòleg i fotògraf professional, ens porta a l'illa de la Reunió. Entre d'altres coses, l'acompanyarem en la seva visita als dos grans volcans de l'illa, el vell i suposadament apagat Piton des Neiges i el jove volcà Piton de la Fournaise, que manté una activitat constant. També veurem la seva incursió espeleològica en un túnel creat per la lava i l'acompanyarem en la seva visita al circ geològic de Mafate, al Piton des Neiges, i a la remota comunitat de Marla, que viu gairebé en l'autarquia. </desc>
+    <length units="seconds">1570</length>
+    <episode-num system="onscreen">11</episode-num>
     <category lang="ca">DIVULGACIÓ</category>
     <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
     <rating>
@@ -150,19 +184,6 @@
   <channel id="oca1">
     <display-name>OCA1</display-name>
   </channel>
-  <programme start="20260927114530 +0200" stop="20260927140025 +0200" channel="oca1">
-    <title lang="ca">Bàsquet</title>
-    <sub-title lang="ca">- Río Breogán-Asisa Joventut / Lliga / J1</sub-title>
-    <desc lang="ca">Després de celebrar la gran victòria a la Supercopa d'Espanya, els badalonins comencen la seva participació a la Lliga Endesa, a la pista del conjunt de Lugo.</desc>
-    <length units="seconds">8095</length>
-    <episode-num system="onscreen">42</episode-num>
-    <category lang="ca">ESPORTS</category>
-    <category lang="ca">RETRANSMISSIONS ESPORTS</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <icon src="https://img.3cat.cat/multimedia/jpg/4/5/1769511199554.jpg"/>
-  </programme>
   <channel id="oca2">
     <display-name>OCA2</display-name>
   </channel>
