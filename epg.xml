@@ -3,39 +3,38 @@
   <channel id="tvi">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20260927070000 +0200" stop="20260927095115 +0200" channel="tvi">
+  <programme start="20260927115643 +0200" stop="20260927142932 +0200" channel="tvi">
     <title lang="ca">Notícies 3CatInfo</title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">10275</length>
-    <episode-num system="onscreen">11279</episode-num>
+    <length units="seconds">9169</length>
+    <episode-num system="onscreen">11281</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
+    <subtitles type="teletext"/>
     <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
-  <programme start="20260927095115 +0200" stop="20260927101251 +0200" channel="tvi">
-    <title lang="ca">Néixer de nou</title>
-    <sub-title lang="ca">Protestants sota el franquisme, els protestants de Barcelona</sub-title>
-    <desc lang="ca">La Restauració borbònica va venir de la mà de la Constitució del 1876. Amb aquesta Constitució, els protestants vam perdre les llibertats que s'havien aconseguit gràcies a la Revolució del 1868. Quin és el tarannà religiós de la ciutat de Barcelona 150 anys més tard? De tot això avui en parlarem aquí, a 'Néixer de nou', amb el comissionat de Relacions Ciutadanes i Diversitat Cultural i Religiosa: Sr. Richard Sánchez.</desc>
-    <length units="seconds">1296</length>
-    <episode-num system="onscreen">344</episode-num>
-    <category lang="ca">DIVULGACIÓ</category>
-    <category lang="ca">MAGAZINE ESPECIALITZAT</category>
+  <programme start="20260927142932 +0200" stop="20260927153803 +0200" channel="tvi">
+    <title lang="ca">Telenotícies migdia</title>
+    <length units="seconds">4111</length>
+    <episode-num system="onscreen">7341</episode-num>
+    <category lang="ca">ACTUALITAT</category>
+    <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <previously-shown/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/5/4/1758025766345.jpg"/>
   </programme>
   <channel id="324">
     <display-name>324</display-name>
   </channel>
-  <programme start="20260927070000 +0200" stop="20260927100000 +0200" channel="324">
+  <programme start="20260927120000 +0200" stop="20260927143000 +0200" channel="324">
     <title lang="ca">Notícies 3CatInfo</title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">10800</length>
-    <episode-num system="onscreen">11279</episode-num>
+    <length units="seconds">9000</length>
+    <episode-num system="onscreen">11281</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
@@ -44,59 +43,56 @@
     <subtitles type="teletext"/>
     <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
-  <programme start="20260927100000 +0200" stop="20260927120000 +0200" channel="324">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">7200</length>
-    <episode-num system="onscreen">11280</episode-num>
+  <programme start="20260927143000 +0200" stop="20260927154000 +0200" channel="324">
+    <title lang="ca">Telenotícies migdia</title>
+    <length units="seconds">4200</length>
+    <episode-num system="onscreen">7341</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <subtitles type="teletext"/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/5/4/1758025766345.jpg"/>
   </programme>
   <channel id="esport3">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20260927074431 +0200" stop="20260927080649 +0200" channel="esport3">
-    <title lang="ca">3CatInfo Esports</title>
-    <desc lang="ca">Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.</desc>
-    <length units="seconds">1338</length>
-    <episode-num system="onscreen">5520</episode-num>
-    <category lang="ca">ESPORTS</category>
-    <category lang="ca">INFORMATIU DIÀRI</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <previously-shown/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/9/7/1758888682179.jpg"/>
-  </programme>
-  <programme start="20260927080649 +0200" stop="20260927095500 +0200" channel="esport3">
-    <title lang="ca">Futbol</title>
-    <sub-title lang="ca">Logronyo-FC Barcelona / Lliga F / J5</sub-title>
-    <desc lang="ca">Les blaugranes volen sumar la 5a victòria en 5 jornades per seguir liderant la classificació. El conjunt de La Rioja ha guanyat 2 partits i n'ha perdut els altres 2.</desc>
-    <length units="seconds">6491</length>
-    <episode-num system="onscreen">51</episode-num>
+  <programme start="20260927123110 +0200" stop="20260927140204 +0200" channel="esport3">
+    <title lang="ca">Voleibol</title>
+    <sub-title lang="ca">Lliga catalana femenina voleibol / DSV CV Sant Cugat - Voleibol San Just</sub-title>
+    <desc lang="ca">Esport3 t'ofereix les millors retransmissions esportives en directe. Viu l'esport amb nosaltres!</desc>
+    <length units="seconds">5454</length>
+    <episode-num system="onscreen">8133</episode-num>
     <category lang="ca">ESPORTS</category>
     <category lang="ca">RETRANSMISSIONS ESPORTS</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <subtitles type="teletext"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/4/0/1790165555204.jpg"/>
+  </programme>
+  <programme start="20260927140204 +0200" stop="20260927142900 +0200" channel="esport3">
+    <title lang="ca">E3</title>
+    <sub-title lang="ca">Matchday Champions Women J1</sub-title>
+    <desc lang="ca">Les escenes més destacades de la primera jornada a la fase de lliga de la Champions femenina de futbol. El Barça ha començat la defensa del títol contra el París FC.</desc>
+    <length units="seconds">1616</length>
+    <episode-num system="onscreen">2385</episode-num>
+    <category lang="ca">ESPORTS</category>
+    <category lang="ca">REPORTATGES</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
     <previously-shown/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/0/8/1730389343680.jpg"/>
+    <icon src="https://img.3cat.cat/multimedia/jpg/7/7/1765293437977.jpg"/>
   </programme>
   <channel id="sx3">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20260927074439 +0200" stop="20260927075522 +0200" channel="sx3">
-    <title lang="ca">El Mic i els seus amics</title>
-    <sub-title lang="ca">Animals i animalons</sub-title>
-    <desc lang="ca">Al Mic l'interessen tots els animals, grossos i petits. Li agrada saber com viuen, on dormen, què mengen i com es diuen</desc>
-    <length units="seconds">643</length>
-    <episode-num system="onscreen">680</episode-num>
+  <programme start="20260927125330 +0200" stop="20260927131516 +0200" channel="sx3">
+    <title lang="ca">Els germans Kratt</title>
+    <sub-title lang="ca">Miniherois i boques gegants</sub-title>
+    <desc lang="ca">Els germans Kratt es miniaturitzen i comencen una missió amb l'amfípode per entendre millor els fonaments de la vida marina. Un cop al fons del mar, entren en una floració de plàncton que els arrossega corrent avall. Però llavors, arriba una balena geperuda i separa els germans Kratt. L'Aviva, la Koki i el Jimmy els hauran d'ajudar.</desc>
+    <length units="seconds">1306</length>
+    <episode-num system="onscreen">169</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
@@ -105,12 +101,12 @@
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20260927075522 +0200" stop="20260927080635 +0200" channel="sx3">
-    <title lang="ca">El Mic i els seus amics</title>
-    <sub-title lang="ca">En Cincsegons llegeix</sub-title>
-    <desc lang="ca">A en Cincsegons li agrada molt llegir el seu llibre del temps. Està molt tranquil fins que el Mic arriba amb ganes de jugar.</desc>
-    <length units="seconds">673</length>
-    <episode-num system="onscreen">656</episode-num>
+  <programme start="20260927131516 +0200" stop="20260927133751 +0200" channel="sx3">
+    <title lang="ca">Els germans Kratt</title>
+    <sub-title lang="ca">A buscar salamandres</sub-title>
+    <desc lang="ca">L'equip Kratt està mirant una pel·lícula i de cop la Tortuga es queda sense electricitat. Mentre la Koki investiga què ha passat i prova d'arreglar la nau, la resta de l'equip decideix viure una aventura: la de buscar salamandres. Es tracta de baixar riu avall miniaturitzats en barquetes i buscar salamandres, i qui en trobi més serà guanyarà. Però no ho tindran fàcil, perquè hi ha un altre animal que els farà la vida impossible.</desc>
+    <length units="seconds">1355</length>
+    <episode-num system="onscreen">170</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
@@ -122,38 +118,51 @@
   <channel id="c33">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20260927072009 +0200" stop="20260927075005 +0200" channel="c33">
-    <title lang="ca">Quèquicom</title>
-    <sub-title lang="ca">Mestres de la fusta</sub-title>
-    <desc lang="ca">Pere Renom assisteix a l'autentificació d'una guitarra teòricament construïda a Sevilla l'any 1867 per Antonio de Torres, l'equivalent a l'Stradivarius dels violins. També participa en la construcció d'una casa de fusta, més ecològica i més ràpida de fer que les cases convencionals. I visita l'únic taller del món on s'utilitza la fusta per fabricar una embarcació genuïnament catalana: el patí de vela. A més, Jaume Vilalta explica l'art d'assecar la fusta, i la serra, una eina més semblant a una llima que a un ganivet.</desc>
-    <length units="seconds">1796</length>
-    <episode-num system="onscreen">268</episode-num>
-    <category lang="ca">DIVULGACIÓ</category>
-    <category lang="ca">MAGAZINE ESPECIALITZAT</category>
+  <programme start="20260927123233 +0200" stop="20260927133341 +0200" channel="c33">
+    <title lang="ca">Una altra història</title>
+    <sub-title lang="ca">Museu d'Art de Girona</sub-title>
+    <desc lang="ca">Des del Museu d'art de Girona, l'Albert Om amb els nostres historiadors descobriran la història del xofer d'en Josep Pla i com li va canviar la vida dinar un dia amb l'escriptor. També veuran els piolets que van participar al rescat de Balandrau o el casc militar que va acompanyar als primers objectors de consciència durant les manifestacions a finals dels 70.</desc>
+    <length units="seconds">3668</length>
+    <episode-num system="onscreen">2</episode-num>
+    <category lang="ca">ENTRETENIMENT</category>
+    <category lang="ca">CONCURS</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/9/2/1698049504229.jpg"/>
   </programme>
-  <programme start="20260927075005 +0200" stop="20260927083658 +0200" channel="c33">
-    <title lang="ca">La Renaixença</title>
-    <sub-title lang="ca">Les puntes de coixí</sub-title>
-    <desc lang="ca">Que som uns nostàlgics ja ho sabem, nosaltres i vosaltres. Però és que no podem deixar de ser-ho. Per això, hem decidit dedicar aquest capítol a les puntes de coixí. Per si no ho sabeu, antigament s'havien utilitzat per enviar missatges secrets! Poca broma amb les puntaires! Passen per 'La Renaixença' Els Amics de les Arts. Parlar amb ells i escoltar-los amb l'Arnau i la Laia fent 'Jean-Luc' és d'aquelles coses que recordarem. A 'Històries per passejar el gos' anem amb en Jumo fins a la vaga dels tramvies del 1951.</desc>
-    <length units="seconds">2813</length>
-    <episode-num system="onscreen">68</episode-num>
+  <programme start="20260927133341 +0200" stop="20260927143244 +0200" channel="c33">
+    <title lang="ca">Els caps de setmana llargs d'en Rick Stein</title>
+    <sub-title lang="ca">Tessalònica</sub-title>
+    <desc lang="ca">En Rick és un enamorat de la cuina grega. Li encanta el cafè espès que fa, la gran varietat de plats i, sobretot, la forta influència rebuda de llocs com Turquia, el Pròxim Orient i els Balcans. Aquest cap de setmana coneixerà una estrella de la televisió culinària grega, la Vefa Alexiadou, tastarà especialitats de Tessalònica, com la 'trigona', una 'bugatsa' de carn molt engrecadora i diversos plats fets amb préssec.</desc>
+    <length units="seconds">3543</length>
+    <episode-num system="onscreen">9</episode-num>
     <category lang="ca">DIVULGACIÓ</category>
-    <category lang="ca">ALTRES</category>
+    <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/3/3/1756148014833.jpg"/>
   </programme>
   <channel id="oca1">
     <display-name>OCA1</display-name>
   </channel>
+  <programme start="20260927114530 +0200" stop="20260927140025 +0200" channel="oca1">
+    <title lang="ca">Bàsquet</title>
+    <sub-title lang="ca">- Río Breogán-Asisa Joventut / Lliga / J1</sub-title>
+    <desc lang="ca">Després de celebrar la gran victòria a la Supercopa d'Espanya, els badalonins comencen la seva participació a la Lliga Endesa, a la pista del conjunt de Lugo.</desc>
+    <length units="seconds">8095</length>
+    <episode-num system="onscreen">42</episode-num>
+    <category lang="ca">ESPORTS</category>
+    <category lang="ca">RETRANSMISSIONS ESPORTS</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <icon src="https://img.3cat.cat/multimedia/jpg/4/5/1769511199554.jpg"/>
+  </programme>
   <channel id="oca2">
     <display-name>OCA2</display-name>
   </channel>
