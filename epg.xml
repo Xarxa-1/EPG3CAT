@@ -3,46 +3,35 @@
   <channel id="tvi">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20260926221100 +0200" stop="20260927005519 +0200" channel="tvi">
-    <title lang="ca">Col·lapse</title>
-    <sub-title lang="ca">25/09/2026</sub-title>
-    <desc lang="ca">Estrenem temporada entrevistant el xef que va revolucionar la gastronomia mundial: FERRAN ADRIÀ. Ens visita la parella de moda de la nova temporada de 'La travessa': RAQUEL SANS i MIKI NÚÑEZ. Amb ells també descobrirem algunes de les coses més emocionants que han passat en aquesta edició vip tan especial que s'ha rodat a Mallorca i que comença a emetre's la setmana que ve. S'incorporen com a col·laboradors fixos Carlos Latre, Maria Fernández Vidal, Àngel Llàcer i l'influencer Marc Biarnès. I abordarem un tema d'actualitat com són els segrestos exprés que en menys un mes s'han produït a diferents indrets de Catalunya. Un d'ells, la setmana passada a l'AP-7, davant la sorpresa i la incredulitat de molts ciutadans que, en aquell moment, hi circulaven i ho van veure en directe. </desc>
-    <length units="seconds">9859</length>
-    <episode-num system="onscreen">154</episode-num>
-    <category lang="ca">ENTRETENIMENT</category>
-    <category lang="ca">TALK-SHOW</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-  </programme>
-  <programme start="20260927005519 +0200" stop="20260927011834 +0200" channel="tvi">
-    <title lang="ca">Marcians</title>
-    <sub-title lang="ca">Quan ja no hi sigui</sub-title>
-    <desc lang="ca">La carrera dels artistes va més enllà del seu temps. Els creadors generen una obra, material o immaterial, que manté la vigència més enllà de la seva vida. Aquest reportatge demana a tres artistes que ja han passat de la vuitantena com es plantegen el seu llegat un cop ells ja no hi siguin.Pilar Aymerich té més de 100.000 negatius de les fotografies que ha fet durant la seva llarga trajectòria. Ja sigui a través de retrats d'artistes, de fotografies polítiques, feministes o de Barcelona, l'obra d'Aymerich és una crònica dels últims cinquanta anys del país. Per això ella vol que la seva obra sigui un llegat per a Catalunya.Francesc Parcerisas mai es va plantejar quina havia de ser la seva obra. Ha escrit poesia, prosa, ha fet traduccions. I al final, la seva producció intel·lectual ha conformat una gran obra. Però Parcerisas també ha anat guardant papers de tota mena, que permeten fer una mena d'arqueologia de la seva vida i la seva època.Josep Maria Pou creu que la seva feina d'actor, com diria Shakespeare, és com una ombra que passa un moment per l'escenari i ja no se'l veu mai més. I ell vol que sigui així: el seu llegat immaterial quedaria viu en el record dels espectadors mentre n'hi hagi un de sol de viu que l'hagi vist en un escenari.</desc>
-    <length units="seconds">1395</length>
-    <episode-num system="onscreen">96</episode-num>
-    <category lang="ca">ENTRETENIMENT</category>
-    <category lang="ca">ALTRES</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <previously-shown/>
-  </programme>
-  <channel id="324">
-    <display-name>324</display-name>
-  </channel>
-  <programme start="20260927003000 +0200" stop="20260927010000 +0200" channel="324">
+  <programme start="20260927024043 +0200" stop="20260927040000 +0200" channel="tvi">
     <title lang="ca">Notícies 3CatInfo</title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">1800</length>
+    <length units="seconds">4757</length>
     <episode-num system="onscreen">11278</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
+    <previously-shown/>
     <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
+  <programme start="20260927040000 +0200" stop="20260927050000 +0200" channel="tvi">
+    <title lang="ca">Blues a l'estudi</title>
+    <sub-title lang="ca">Biel &amp; Randy</sub-title>
+    <desc lang="ca">Biel Ballester i Randy Greer. Dos grans intèrprets, que uneixen forces per acostar-nos al seu univers de música d'arrel i amb cert regust dels anys 50. Aquests dos creadors, defineixen l'estil del seu projecte comú com un blues primitiu i pantanós, barrejat amb el Rockabilly i el country més primari.Acompanyen Biel and Randy, dos dels músics més actius i carismàtics del panorama del Rhythm'n'blues a Catalunya: Anton Jarl, a la bateria, i Ivan Kovacevic, al contrabaix.</desc>
+    <length units="seconds">3600</length>
+    <episode-num system="onscreen">1</episode-num>
+    <category lang="ca">MUSICALS</category>
+    <category lang="ca">ALTRES</category>
+    <rating>
+      <value>PÚBLIC ADULT</value>
+    </rating>
+    <previously-shown/>
+  </programme>
+  <channel id="324">
+    <display-name>324</display-name>
+  </channel>
   <programme start="20260927010000 +0200" stop="20260927060000 +0200" channel="324">
     <title lang="ca">Notícies 3CatInfo</title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
@@ -56,27 +45,41 @@
     <previously-shown/>
     <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
-  <channel id="esport3">
-    <display-name>ESPORT3</display-name>
-  </channel>
-  <programme start="20260927002421 +0200" stop="20260927012721 +0200" channel="esport3">
-    <title lang="ca">Esport Club Cap de Setmana</title>
-    <sub-title lang="ca">Esport Club</sub-title>
-    <desc lang="ca">Magazín amb tota l'actualitat esportiva del cap de setmana, amb atenció especial a la jornada de futbol i les principals competicions del nostre esport.</desc>
-    <length units="seconds">3780</length>
-    <episode-num system="onscreen">1389</episode-num>
-    <category lang="ca">ESPORTS</category>
+  <programme start="20260927060000 +0200" stop="20260927070000 +0200" channel="324">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="seconds">3600</length>
+    <episode-num system="onscreen">11278</episode-num>
+    <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <previously-shown/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/7/3/1698145091337.jpg"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
-  <programme start="20260927012721 +0200" stop="20260927014939 +0200" channel="esport3">
+  <channel id="esport3">
+    <display-name>ESPORT3</display-name>
+  </channel>
+  <programme start="20260927014941 +0200" stop="20260927033851 +0200" channel="esport3">
+    <title lang="ca">Futbol</title>
+    <sub-title lang="ca">Logronyo-FC Barcelona / Lliga F / J5</sub-title>
+    <desc lang="ca">Les blaugranes volen sumar la 5a victòria en 5 jornades per seguir liderant la classificació. El conjunt de La Rioja ha guanyat 2 partits i n'ha perdut els altres 2.</desc>
+    <length units="seconds">6550</length>
+    <episode-num system="onscreen">51</episode-num>
+    <category lang="ca">ESPORTS</category>
+    <category lang="ca">RETRANSMISSIONS ESPORTS</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <subtitles type="teletext"/>
+    <previously-shown/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/0/8/1730389343680.jpg"/>
+  </programme>
+  <programme start="20260927033851 +0200" stop="20260927040044 +0200" channel="esport3">
     <title lang="ca">3CatInfo Esports</title>
     <desc lang="ca">Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.</desc>
-    <length units="seconds">1338</length>
+    <length units="seconds">1313</length>
     <episode-num system="onscreen">5520</episode-num>
     <category lang="ca">ESPORTS</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
@@ -89,28 +92,28 @@
   <channel id="sx3">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20260927003212 +0200" stop="20260927004259 +0200" channel="sx3">
-    <title lang="ca">La gateta Arc iris papallona unicorn</title>
-    <sub-title lang="ca">El cranc de la son</sub-title>
-    <desc lang="ca">La Felicity ha organitzat una festa, però els convidats s'estan avorrint. I tot just quan tothom es comença a animar, arriba el cranc de la son, l'encarregat de fer que tots els habitants de Mitelàndia se'n vagin a dormir.</desc>
-    <length units="seconds">647</length>
-    <episode-num system="onscreen">6</episode-num>
+  <programme start="20260927024852 +0200" stop="20260927025845 +0200" channel="sx3">
+    <title lang="ca">Com dibuixar còmics amb el Will Sliney</title>
+    <sub-title lang="ca">Comença la gran batalla</sub-title>
+    <desc lang="ca">Com que el Will havia fet una crida als espectadors del programa perquè enviessin dibuixos de superherois que poguessin contribuir a la victòria contra el Crònica, aquest va fer el mateix i en l'episodi d'avui veurem els diferents dolents creats pels espectadors. I el Will ens ensenyarà a dibuixar una nova mena de personatge, l'antiheroi, un personatge a mig camí entre bo i dolent i amb característiques de tots dos.</desc>
+    <length units="seconds">593</length>
+    <episode-num system="onscreen">38</episode-num>
     <category lang="ca">FICCIÓ</category>
-    <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
+    <category lang="ca">ALTRES</category>
     <rating>
       <value>INFANTIL</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20260927004259 +0200" stop="20260927010422 +0200" channel="sx3">
-    <title lang="ca">Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
-    <sub-title lang="ca">Complidor</sub-title>
-    <desc lang="ca">La Marinette és una adolescent molt normal que està enamorada de l'Adrien, un company de classe. Però sense que ells dos en siguin conscients, tots dos es converteixen en superherois quan hi ha problemes a París, normalment provocats per l'odi del súpermalvat Esfinx. Aleshores, la Marinette es converteix en Ladybug i l'Adrien en el Gat Negre, dos herois capaços de fer tornar la normalitat a la ciutat.</desc>
-    <length units="seconds">1283</length>
-    <episode-num system="onscreen">96</episode-num>
+  <programme start="20260927025845 +0200" stop="20260927030847 +0200" channel="sx3">
+    <title lang="ca">Com dibuixar còmics amb el Will Sliney</title>
+    <sub-title lang="ca">El Megacrònica</sub-title>
+    <desc lang="ca">Gràcies als poders que ha aconseguit amb l'ajuda del misteriós Torcements, el Crònica ha aconseguit dominar les ments de tots els herois i dolents que s'havien creat al llarg de la sèrie, la qual cosa li ha permès mutar en una versió superpoderosa d'ell mateix, el Megacrònica. I com que fins i tot l'Ogam ha sucumbit al seu poder, el Will es troba sol en la seva missió de salvar la Terra.</desc>
+    <length units="seconds">602</length>
+    <episode-num system="onscreen">39</episode-num>
     <category lang="ca">FICCIÓ</category>
-    <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
+    <category lang="ca">ALTRES</category>
     <rating>
       <value>INFANTIL</value>
     </rating>
@@ -120,25 +123,11 @@
   <channel id="c33">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20260927001401 +0200" stop="20260927010556 +0200" channel="c33">
-    <title lang="ca">Els quaderns de cuina de la Julie</title>
-    <sub-title lang="ca">La península de cap Cors</sub-title>
-    <desc lang="ca">En Jean-Louis conrea castanyes i en fa farina, amb la qual la dona, la Nathalie, fa una mena de creps que es farceixen amb una mena de mató. En Xavier i la Sophie conreen poncems i els confiten. La Valérie fa uns bunyols d'arròs amb salsa bolonyesa enriquida amb bolets, olives i vi blanc. En René fa una llíssera de l'estany de Biguglia enfarinada i fregida amb el budellam, acompanyada d'espaguetis assaonats amb botàriga. En Jean-Noël, la Marine i en Sébastien són viticultors. Treballen sota una microdenominació d'origen i fan vins a petita escala.</desc>
-    <length units="seconds">3115</length>
-    <episode-num system="onscreen">81</episode-num>
-    <category lang="ca">DIVULGACIÓ</category>
-    <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <subtitles type="teletext"/>
-    <previously-shown/>
-  </programme>
-  <programme start="20260927010556 +0200" stop="20260927013133 +0200" channel="c33">
-    <title lang="ca">Els hotels més remots del món</title>
-    <sub-title lang="ca">Tree hotel</sub-title>
-    <desc lang="ca">El Kent, el fundador, la seva dona Brita, i la seva filla Sofia, tots nascuts en un poble veí, són els fundadors i els amfitrions acollidors d'aquest extraordinari hotel. Actualment l'Hotel dels arbres compta amb 7 cabanes, de les més luxoses a les més exuberants, totes creades per grans noms de l'arquitectura sueca. El concepte clau d'aquest lloc és l'harmonia amb la natura: aïllats a les seves cabanes a les capçades dels arbres, els hostes perden gradualment la seva concepció urbana i es deixen endur pel paisatge.</desc>
-    <length units="seconds">1537</length>
+  <programme start="20260927025039 +0200" stop="20260927034603 +0200" channel="c33">
+    <title lang="ca">1942</title>
+    <sub-title lang="ca">Si cal resistir</sub-title>
+    <desc lang="ca">SINOPSI: És Cap d'Any del 1942, un any que s'inicia en un món trasbalsat per una guerra que havia començat a Europa però que ara ja afecta tot el món. Un any que es presenta ple d'incerteses i en què es pot esperar qualsevol cosa, el millor i el pitjor. Hi ha gent al planeta que ja fa anys que està en guerra, uns altres tot just hi entren ara. I sabrem com ho van viure persones dels diferents països implicats a través de les cartes que van escriure.</desc>
+    <length units="seconds">3324</length>
     <episode-num system="onscreen">1</episode-num>
     <category lang="ca">DIVULGACIÓ</category>
     <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
@@ -147,6 +136,22 @@
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
+    <icon src="https://img.3cat.cat/multimedia/jpg/9/8/1786345299589.jpg"/>
+  </programme>
+  <programme start="20260927034603 +0200" stop="20260927044127 +0200" channel="c33">
+    <title lang="ca">1942</title>
+    <sub-title lang="ca">Si cal creure-hi</sub-title>
+    <desc lang="ca">SINOPSI:L'any 1942, amb el món en guerra, les nacions necessiten l'adhesió ferma de la seva població. I una de les maneres d'aconseguir-la és l'adoctrinament d'infants i joves en els valors patriòtics, com ens demostraran les experiències de l'Ursula, una jove alemanya allistada a les Joventuts Hitlerianes; la Nina, enrolada en l'exèrcit soviètic; o l'Eric, un jove anglès que se'n va a Singapur a defensar l'Imperi Britànic.</desc>
+    <length units="seconds">3324</length>
+    <episode-num system="onscreen">2</episode-num>
+    <category lang="ca">DIVULGACIÓ</category>
+    <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <subtitles type="teletext"/>
+    <previously-shown/>
+    <icon src="https://img.3cat.cat/multimedia/jpg/9/8/1786345299589.jpg"/>
   </programme>
   <channel id="oca1">
     <display-name>OCA1</display-name>
