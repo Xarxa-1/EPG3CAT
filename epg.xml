@@ -3,48 +3,33 @@
   <channel id="tvi">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20260928010000 +0200" stop="20260928040000 +0200" channel="tvi">
+  <programme start="20260928060000 +0200" stop="20260928080000 +0200" channel="tvi">
     <title lang="ca">Notícies 3CatInfo</title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">10800</length>
-    <episode-num system="onscreen">11286</episode-num>
+    <length units="seconds">7200</length>
+    <episode-num system="onscreen">11287</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <previously-shown/>
     <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
-  <programme start="20260928040000 +0200" stop="20260928050014 +0200" channel="tvi">
-    <title lang="ca">Blues a l'estudi</title>
-    <sub-title lang="ca">Bernat Font Trio</sub-title>
-    <desc lang="ca">Aquest jove pianista barceloní ha consolidat la seva formació després de la publicació del primer disc. Va rebre el guardó de Millor Nova Proposta de la revista 'Jaç' i no ha parat de tocar per tot l'estat.El repertori d'avui veu dels clàssics i oscil·la entre el blues i el swing. Ivan Kovacevic al contrabaix, Martí Elías a la bateria i el mateix Font al piano: un trio que desprèn una energia càlida i sincera.</desc>
-    <length units="seconds">3614</length>
-    <episode-num system="onscreen">2</episode-num>
-    <category lang="ca">MUSICALS</category>
-    <category lang="ca">ALTRES</category>
+  <programme start="20260928080000 +0200" stop="20260928103000 +0200" channel="tvi">
+    <title lang="ca">Matins</title>
+    <desc lang="ca">'Matins' és un dels puntals informatius de TV3. El programa matinal dona les claus del dia que comença, explica les notícies que han passat aportant-ne el context per entendre-les i analitza amb veus acreditades l'actualitat més propera i la d'arreu del món. 'Matins' comença a les 8 del matí, de dilluns a divendres, i està presentat per Ariadna Oltra.</desc>
+    <length units="seconds">9000</length>
+    <episode-num system="onscreen">4680</episode-num>
+    <category lang="ca">ACTUALITAT</category>
+    <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
-      <value>PÚBLIC ADULT</value>
+      <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <previously-shown/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/2/0/1758040151402.jpg"/>
   </programme>
   <channel id="324">
     <display-name>324</display-name>
   </channel>
-  <programme start="20260928010000 +0200" stop="20260928060000 +0200" channel="324">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">18000</length>
-    <episode-num system="onscreen">11286</episode-num>
-    <category lang="ca">ACTUALITAT</category>
-    <category lang="ca">INFORMATIU DIÀRI</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <previously-shown/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
-  </programme>
   <programme start="20260928060000 +0200" stop="20260928080000 +0200" channel="324">
     <title lang="ca">Notícies 3CatInfo</title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
@@ -58,25 +43,36 @@
     <subtitles type="teletext"/>
     <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
-  <channel id="esport3">
-    <display-name>ESPORT3</display-name>
-  </channel>
-  <programme start="20260928014322 +0200" stop="20260928033941 +0200" channel="esport3">
-    <title lang="ca">Bàsquet</title>
-    <sub-title lang="ca">Río Breogán-Asisa Joventut / Lliga / J1</sub-title>
-    <desc lang="ca">Després de celebrar la gran victòria a la Supercopa d'Espanya, els badalonins comencen la seva participació a la Lliga Endesa, a la pista del conjunt de Lugo.</desc>
-    <length units="seconds">6979</length>
-    <episode-num system="onscreen">42</episode-num>
-    <category lang="ca">ESPORTS</category>
-    <category lang="ca">RETRANSMISSIONS ESPORTS</category>
+  <programme start="20260928080000 +0200" stop="20260928103000 +0200" channel="324">
+    <title lang="ca">Matins</title>
+    <desc lang="ca">'Matins' és un dels puntals informatius de TV3. El programa matinal dona les claus del dia que comença, explica les notícies que han passat aportant-ne el context per entendre-les i analitza amb veus acreditades l'actualitat més propera i la d'arreu del món. 'Matins' comença a les 8 del matí, de dilluns a divendres, i està presentat per Ariadna Oltra.</desc>
+    <length units="seconds">9000</length>
+    <episode-num system="onscreen">4680</episode-num>
+    <category lang="ca">ACTUALITAT</category>
+    <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <subtitles type="teletext"/>
-    <previously-shown/>
-    <icon src="https://img.3cat.cat/multimedia/jpg/4/5/1769511199554.jpg"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/2/0/1758040151402.jpg"/>
   </programme>
-  <programme start="20260928033941 +0200" stop="20260928035924 +0200" channel="esport3">
+  <channel id="esport3">
+    <display-name>ESPORT3</display-name>
+  </channel>
+  <programme start="20260928072424 +0200" stop="20260928082505 +0200" channel="esport3">
+    <title lang="ca">Esport Club Cap de Setmana</title>
+    <sub-title lang="ca">Esport Club</sub-title>
+    <desc lang="ca">Magazín amb tota l'actualitat esportiva del cap de setmana, amb atenció especial a la jornada de futbol i les principals competicions del nostre esport.</desc>
+    <length units="seconds">3641</length>
+    <episode-num system="onscreen">1392</episode-num>
+    <category lang="ca">ESPORTS</category>
+    <category lang="ca">INFORMATIU DIÀRI</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <previously-shown/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/7/3/1698145091337.jpg"/>
+  </programme>
+  <programme start="20260928082505 +0200" stop="20260928084448 +0200" channel="esport3">
     <title lang="ca">3CatInfo Esports</title>
     <desc lang="ca">Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.</desc>
     <length units="seconds">1183</length>
@@ -92,65 +88,63 @@
   <channel id="sx3">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20260928023918 +0200" stop="20260928024851 +0200" channel="sx3">
-    <title lang="ca">Com dibuixar còmics amb el Will Sliney</title>
-    <sub-title lang="ca">Els vostres herois</sub-title>
-    <desc lang="ca">En aquest últim episodi de la temporada, el dibuixant de còmics Will Sliney aprofitarà per ensenyar-nos molts dels dibuixos que han enviat els espectadors del programa i per explicar-nos quins trucs i tècniques ha fet servir a l'hora de crear la seva pròpia versió de cadascun. També ens donarà uns últims consells sobre com planificar la creació d'un còmic en general: idea, personatges, línia argumental, vinyetes...</desc>
-    <length units="seconds">573</length>
-    <episode-num system="onscreen">42</episode-num>
+  <programme start="20260928074642 +0200" stop="20260928080129 +0200" channel="sx3">
+    <title lang="ca">La Patrulla Peluda</title>
+    <sub-title lang="ca">La Patrulla salva un rellotge de cucut</sub-title>
+    <desc lang="ca">La Chickaletta es queda tancada a dins del rellotge de cucut d'en Jake i el rellotge comença a caure muntanya avall. En Ryder i la Patrulla Peluda hauran d'anar a rescatar la gallina i el rellotge.</desc>
+    <length units="seconds">887</length>
+    <episode-num system="onscreen">225</episode-num>
     <category lang="ca">FICCIÓ</category>
-    <category lang="ca">ALTRES</category>
+    <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
       <value>INFANTIL</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20260928024851 +0200" stop="20260928025857 +0200" channel="sx3">
-    <title lang="ca">Com dibuixar còmics amb el Will Sliney</title>
-    <sub-title lang="ca">Elit</sub-title>
-    <desc lang="ca">En aquesta nova temporada, el Will Sliney rep una trucada de la presidenta d'Irlanda, del president dels Estats Units i del president de la galàxia per informar-lo que uns dolents molt dolents avancen amb la seva nau espacial cap a la Terra amb la intenció de destruir-la. Això el durà a transformar-se en un superheroi, el Wil·lustrador, que té el superpoder de crear altres herois que puguin fer front a l'amenaça extraterrestre.</desc>
-    <length units="seconds">606</length>
-    <episode-num system="onscreen">21</episode-num>
-    <category lang="ca">FICCIÓ</category>
+  <programme start="20260928080129 +0200" stop="20260928081109 +0200" channel="sx3">
+    <title lang="ca">Titó</title>
+    <sub-title lang="ca">Excursió a fer ràfting</sub-title>
+    <desc lang="ca">L'excursió d'avui ve carregada d'aventura! Baixarem riu avall fent ràfting. Tothom amb les pales preparades i endavant!</desc>
+    <length units="seconds">580</length>
+    <episode-num system="onscreen">183</episode-num>
+    <category lang="ca">ENTRETENIMENT</category>
     <category lang="ca">ALTRES</category>
     <rating>
       <value>INFANTIL</value>
     </rating>
     <subtitles type="teletext"/>
-    <previously-shown/>
   </programme>
   <channel id="c33">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20260928024320 +0200" stop="20260928031025 +0200" channel="c33">
-    <title lang="ca">Els hotels més remots del món</title>
-    <sub-title lang="ca">El Torridon - Escòcia</sub-title>
-    <desc lang="ca">Emmarcat pels turons ondulats i el paisatge indòmit de les Highlands (*) (ALT.: terres altes) escoceses, aquest hotel victorià és un niu d'amor de conte de fades on el temps sembla haver-se aturat. Una última fortalesa al peu d'una de les últimes terres verges d'Europa.Construït el 1887 per William King-Noel, 1r comte de Lovelace, El Torridon es va utilitzar com a pavelló de caça fins a la dècada dels 60, quan va obrir com a hotel.L'any 1992 els pares dels actuals directors, la Rohaise i el Dan, van comprar l'establiment, que en aquells moments oferia un allotjament molt bàsic. Amb la Rohaise i el Dan dirigint-lo, s'ha convertit en un hotel de cinc estrelles, un èxit sorprenent per una ubicació tan remota. La sostenibilitat també ha estat clau per al seu desenvolupament, perquè la majoria dels productes que fan servir es cultiven en els nombrosos hivernacles o són produïts per agricultors locals. La senzillesa i l'hospitalitat del Dan i la Rohaise contrasten amb la sofisticació de l'hotel, i fan d'aquest documental una autèntica història humana.</desc>
-    <length units="seconds">1625</length>
-    <episode-num system="onscreen">10</episode-num>
-    <category lang="ca">DIVULGACIÓ</category>
-    <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
+  <programme start="20260928072908 +0200" stop="20260928082129 +0200" channel="c33">
+    <title lang="ca">Experiència Catalana</title>
+    <sub-title lang="ca">Família Toulat</sub-title>
+    <desc lang="ca">La família Toulat ve des de París i l'acompanyem a participar en la Festa dels Raiers a la Pobla de Segur. A més, coneixen el parc d'Aigüestortes i el romànic de la Vall de Boí. Però el viatge té altres sorpreses, sobretot pels dos petits de la família: el Camp Nou i el Circ Cric.</desc>
+    <length units="seconds">3141</length>
+    <episode-num system="onscreen">11</episode-num>
+    <category lang="ca">ENTRETENIMENT</category>
+    <category lang="ca">ALTRES</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20260928031025 +0200" stop="20260928040917 +0200" channel="c33">
-    <title lang="ca">1942</title>
-    <sub-title lang="ca">Si cal morir</sub-title>
-    <desc lang="ca">SINOPSI: L'any 1942, els drets humans no existeixen. Perquè les persones no són lliures ni de creure ni de pensar. Perquè, per vèncer, tant hi fan les penúries, les epidèmies, la fatiga... L'home ho ha de donar tot: la força de treball, el compromís, la salut, la vida. Les derrotes individuals valen molt menys que la victòria comuna. Tot va bé, per guanyar: les arbitrarietats, les il*legalitats, les traïcions...</desc>
-    <length units="seconds">3532</length>
-    <episode-num system="onscreen">4</episode-num>
+  <programme start="20260928082129 +0200" stop="20260928085558 +0200" channel="c33">
+    <title lang="ca">Cosins Germans</title>
+    <sub-title lang="ca">Els altres cosins</sub-title>
+    <desc lang="ca">Després de recórrer amunt i avall la geografia de Catalunya i el País Valencià toca ja una visita als altres cosins de la família. És per això que l'Empar i el Ferran visiten Mallorca. Volen fugir del tòpics de sol i platja i descobrir la Mallorca autèntica. L'escriptor i amic de tots dos Sebastià Alzamora serà l'amfitrió a Palma. Després s'endinsaran en la Mallorca rural. Visitaran el petit llogaret de Ruberts. Un dels seus 15 veïns és Biel Torrens, un pagès apassionat de la terra que col·labora en diversos projectes de recuperació de llavors autòctones de blat i de pebre, i que lluita perquè la sobrassada de Mallorca sigui feta amb productes mallorquins. L'Empar i el Ferran assistiran també a una festa de gegants i capgrossos per trobar-se amb l'actor teatral Toni Gomila. L'última destinació d'aquest viatge serà la serra de Tramuntana, on gaudiran d'un concert privat del grup de música Oliva Trencada.</desc>
+    <length units="seconds">2069</length>
+    <episode-num system="onscreen">11</episode-num>
     <category lang="ca">DIVULGACIÓ</category>
-    <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
+    <category lang="ca">ALTRES</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
-    <icon src="https://img.3cat.cat/multimedia/jpg/9/8/1786345299589.jpg"/>
   </programme>
   <channel id="oca1">
     <display-name>OCA1</display-name>
