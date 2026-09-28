@@ -3,143 +3,146 @@
   <channel id="tvi">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20260928060000 +0200" stop="20260928080000 +0200" channel="tvi">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">7200</length>
-    <episode-num system="onscreen">11287</episode-num>
+  <programme start="20260928143000 +0200" stop="20260928152959 +0200" channel="tvi">
+    <title lang="ca">Telenotícies migdia</title>
+    <length units="seconds">3599</length>
+    <episode-num system="onscreen">7342</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/5/4/1758025766345.jpg"/>
   </programme>
-  <programme start="20260928080000 +0200" stop="20260928103000 +0200" channel="tvi">
-    <title lang="ca">Matins</title>
-    <desc lang="ca">'Matins' és un dels puntals informatius de TV3. El programa matinal dona les claus del dia que comença, explica les notícies que han passat aportant-ne el context per entendre-les i analitza amb veus acreditades l'actualitat més propera i la d'arreu del món. 'Matins' comença a les 8 del matí, de dilluns a divendres, i està presentat per Ariadna Oltra.</desc>
-    <length units="seconds">9000</length>
-    <episode-num system="onscreen">4680</episode-num>
-    <category lang="ca">ACTUALITAT</category>
-    <category lang="ca">INFORMATIU DIÀRI</category>
+  <programme start="20260928152959 +0200" stop="20260928155038 +0200" channel="tvi">
+    <title lang="ca">Cuines</title>
+    <sub-title lang="ca">Fideus amb pil-pil de navalles</sub-title>
+    <desc lang="ca">El pil-pil és un dels plats amb més mística de la gastronomia basca. La salsa, que surt de la pell del bacallà o el lluç, es lliga per art de màgia amb l'oli. Però el pil-pil també admet variacions i experimentació. Fem un pil-pil amb marisc. </desc>
+    <length units="seconds">1239</length>
+    <episode-num system="onscreen">2435</episode-num>
+    <category lang="ca">DIVULGACIÓ</category>
+    <category lang="ca">CUINA</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <icon src="https://img.ccma.cat/multimedia/jpg/2/0/1758040151402.jpg"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/2/5/1653464509252.jpg"/>
   </programme>
   <channel id="324">
     <display-name>324</display-name>
   </channel>
-  <programme start="20260928060000 +0200" stop="20260928080000 +0200" channel="324">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">7200</length>
-    <episode-num system="onscreen">11287</episode-num>
+  <programme start="20260928143000 +0200" stop="20260928153000 +0200" channel="324">
+    <title lang="ca">Telenotícies migdia</title>
+    <length units="seconds">3600</length>
+    <episode-num system="onscreen">7342</episode-num>
+    <category lang="ca">ACTUALITAT</category>
+    <category lang="ca">INFORMATIU DIÀRI</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <icon src="https://img.ccma.cat/multimedia/jpg/5/4/1758025766345.jpg"/>
+  </programme>
+  <programme start="20260928153000 +0200" stop="20260928160000 +0200" channel="324">
+    <title lang="ca">3CatInfo en aranès</title>
+    <desc lang="ca">Informatiu de continguts generalistes en llengua aranesa, presentat per Ares Riu, en emissió per a tot Catalunya.</desc>
+    <length units="seconds">1800</length>
+    <episode-num system="onscreen">2564</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
-  </programme>
-  <programme start="20260928080000 +0200" stop="20260928103000 +0200" channel="324">
-    <title lang="ca">Matins</title>
-    <desc lang="ca">'Matins' és un dels puntals informatius de TV3. El programa matinal dona les claus del dia que comença, explica les notícies que han passat aportant-ne el context per entendre-les i analitza amb veus acreditades l'actualitat més propera i la d'arreu del món. 'Matins' comença a les 8 del matí, de dilluns a divendres, i està presentat per Ariadna Oltra.</desc>
-    <length units="seconds">9000</length>
-    <episode-num system="onscreen">4680</episode-num>
-    <category lang="ca">ACTUALITAT</category>
-    <category lang="ca">INFORMATIU DIÀRI</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <icon src="https://img.ccma.cat/multimedia/jpg/2/0/1758040151402.jpg"/>
+    <icon src="https://img.ccma.cat/multimedia/png/5/8/1758125433085.png"/>
   </programme>
   <channel id="esport3">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20260928072424 +0200" stop="20260928082505 +0200" channel="esport3">
-    <title lang="ca">Esport Club Cap de Setmana</title>
-    <sub-title lang="ca">Esport Club</sub-title>
-    <desc lang="ca">Magazín amb tota l'actualitat esportiva del cap de setmana, amb atenció especial a la jornada de futbol i les principals competicions del nostre esport.</desc>
-    <length units="seconds">3641</length>
-    <episode-num system="onscreen">1392</episode-num>
+  <programme start="20260928140105 +0200" stop="20260928154300 +0200" channel="esport3">
+    <title lang="ca">Esport Club</title>
+    <sub-title lang="ca">La Pilota d'Or, Daniela Guillén i Adrià Figueras</sub-title>
+    <desc lang="ca">Avui s'acaben les votacions per a la Pilota d'Or. Lamine, entre els grans favorits. Entrevistem Daniela Guillén, campiona del món de motocròs. I també parlem amb Adrià Figueras, jugador del Fraikin BM Granollers. A la tertúlia ens acompanyen Maria Josep Hostalrich, Orfeo Suárez i Pichi Alonso.</desc>
+    <length units="seconds">6115</length>
+    <episode-num system="onscreen">3249</episode-num>
     <category lang="ca">ESPORTS</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <previously-shown/>
+    <subtitles type="teletext"/>
     <icon src="https://img.ccma.cat/multimedia/jpg/7/3/1698145091337.jpg"/>
   </programme>
-  <programme start="20260928082505 +0200" stop="20260928084448 +0200" channel="esport3">
-    <title lang="ca">3CatInfo Esports</title>
-    <desc lang="ca">Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.</desc>
-    <length units="seconds">1183</length>
-    <episode-num system="onscreen">5521</episode-num>
-    <category lang="ca">ESPORTS</category>
-    <category lang="ca">INFORMATIU DIÀRI</category>
+  <programme start="20260928154300 +0200" stop="20260928160945 +0200" channel="esport3">
+    <title lang="ca">GR Pirineus</title>
+    <sub-title lang="ca">Maridant la història</sub-title>
+    <desc lang="ca">En aquest cinquè GR, la ruta ens portarà des d'Empuriabrava fins al castell de Requesens, direcció nord per l'interior de l'Alt Empordà. En total uns 70 km, repartits en dues jornades, fets a peu, en cotxe i en quad. El Marc creuarà per Castelló d'Empúries, Vilanova de la Muga i farà una paradeta a Peralada, on toparà amb una veritable heroïna! Després seguirà fins a Garriguella, un poble molt dolç on descobrirà l'avantpassat del vi. I acabarà el dia passant per Espolla i Sant Climent Sescebes.</desc>
+    <length units="seconds">1605</length>
+    <episode-num system="onscreen">5</episode-num>
+    <category lang="ca">DIVULGACIÓ</category>
+    <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
+    <subtitles type="teletext"/>
     <previously-shown/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/9/7/1758888682179.jpg"/>
+    <icon src="https://img.3cat.cat/multimedia/jpg/9/8/1736612891089.jpg"/>
   </programme>
   <channel id="sx3">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20260928074642 +0200" stop="20260928080129 +0200" channel="sx3">
-    <title lang="ca">La Patrulla Peluda</title>
-    <sub-title lang="ca">La Patrulla salva un rellotge de cucut</sub-title>
-    <desc lang="ca">La Chickaletta es queda tancada a dins del rellotge de cucut d'en Jake i el rellotge comença a caure muntanya avall. En Ryder i la Patrulla Peluda hauran d'anar a rescatar la gallina i el rellotge.</desc>
-    <length units="seconds">887</length>
-    <episode-num system="onscreen">225</episode-num>
+  <programme start="20260928145513 +0200" stop="20260928151758 +0200" channel="sx3">
+    <title lang="ca">Bola de drac Z</title>
+    <sub-title lang="ca">La vida nova d'en Son Gohan</sub-title>
+    <desc lang="ca">Després de la derrota d'en Cèl·lula queden moltes qüestions per resoldre. Què en faran, de l'androide 18? I qui serà l'encarregat de comunicar-li a la Xixi que en Son Goku és mort? D'altra banda, també ha arribat l'hora d'acomiadar-se d'en Trunks, que ha de tornar al seu temps amb una altra missió molt important: intentar acabar amb els androides.</desc>
+    <length units="seconds">1365</length>
+    <episode-num system="onscreen">193</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
+    <rating>
+      <value>JUVENIL</value>
+    </rating>
+    <subtitles type="teletext"/>
+    <previously-shown/>
+  </programme>
+  <programme start="20260928151758 +0200" stop="20260928153928 +0200" channel="sx3">
+    <title lang="ca">Henry Danger</title>
+    <sub-title lang="ca">Gestió de la ràbia per a adolescents</sub-title>
+    <desc lang="ca">Quan la Piper descobreix que els seus amics l'han exclòs d'una excursió pel seu mal geni, accepta apuntar-se a un curs per aprendre a controlar la ràbia.</desc>
+    <length units="seconds">1290</length>
+    <episode-num system="onscreen">54</episode-num>
+    <category lang="ca">FICCIÓ</category>
+    <category lang="ca">SÈRIE DRAMÀTICA</category>
     <rating>
       <value>INFANTIL</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20260928080129 +0200" stop="20260928081109 +0200" channel="sx3">
-    <title lang="ca">Titó</title>
-    <sub-title lang="ca">Excursió a fer ràfting</sub-title>
-    <desc lang="ca">L'excursió d'avui ve carregada d'aventura! Baixarem riu avall fent ràfting. Tothom amb les pales preparades i endavant!</desc>
-    <length units="seconds">580</length>
-    <episode-num system="onscreen">183</episode-num>
-    <category lang="ca">ENTRETENIMENT</category>
-    <category lang="ca">ALTRES</category>
-    <rating>
-      <value>INFANTIL</value>
-    </rating>
-    <subtitles type="teletext"/>
-  </programme>
   <channel id="c33">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20260928072908 +0200" stop="20260928082129 +0200" channel="c33">
-    <title lang="ca">Experiència Catalana</title>
-    <sub-title lang="ca">Família Toulat</sub-title>
-    <desc lang="ca">La família Toulat ve des de París i l'acompanyem a participar en la Festa dels Raiers a la Pobla de Segur. A més, coneixen el parc d'Aigüestortes i el romànic de la Vall de Boí. Però el viatge té altres sorpreses, sobretot pels dos petits de la família: el Camp Nou i el Circ Cric.</desc>
-    <length units="seconds">3141</length>
-    <episode-num system="onscreen">11</episode-num>
-    <category lang="ca">ENTRETENIMENT</category>
+  <programme start="20260928144222 +0200" stop="20260928152848 +0200" channel="c33">
+    <title lang="ca">La Renaixença</title>
+    <sub-title lang="ca">El rellotge de polsera</sub-title>
+    <desc lang="ca">El rellotge de polsera va arribar per substituir el rellotge de butxaca. Era vist com un objecte per a dones, fins que els homes es van adonar que al mig d'una guerra era una mica incòmode treure el rellotge de la butxaca per mirar quina hora era mentre els disparaven. Parlem amb en Xavi Lozano, un multiinstrumentista que vol demostrar que podem convertir qualsevol objecte que ens envolta en un instrument. Sabeu com sona una cadira? I una regadora? A les 'Històries per passejar el gos', acompanyem en Torb fins al descobriment de la pedra de Rosetta.</desc>
+    <length units="seconds">2786</length>
+    <episode-num system="onscreen">22</episode-num>
+    <category lang="ca">DIVULGACIÓ</category>
     <category lang="ca">ALTRES</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/3/3/1756148014833.jpg"/>
   </programme>
-  <programme start="20260928082129 +0200" stop="20260928085558 +0200" channel="c33">
-    <title lang="ca">Cosins Germans</title>
-    <sub-title lang="ca">Els altres cosins</sub-title>
-    <desc lang="ca">Després de recórrer amunt i avall la geografia de Catalunya i el País Valencià toca ja una visita als altres cosins de la família. És per això que l'Empar i el Ferran visiten Mallorca. Volen fugir del tòpics de sol i platja i descobrir la Mallorca autèntica. L'escriptor i amic de tots dos Sebastià Alzamora serà l'amfitrió a Palma. Després s'endinsaran en la Mallorca rural. Visitaran el petit llogaret de Ruberts. Un dels seus 15 veïns és Biel Torrens, un pagès apassionat de la terra que col·labora en diversos projectes de recuperació de llavors autòctones de blat i de pebre, i que lluita perquè la sobrassada de Mallorca sigui feta amb productes mallorquins. L'Empar i el Ferran assistiran també a una festa de gegants i capgrossos per trobar-se amb l'actor teatral Toni Gomila. L'última destinació d'aquest viatge serà la serra de Tramuntana, on gaudiran d'un concert privat del grup de música Oliva Trencada.</desc>
-    <length units="seconds">2069</length>
-    <episode-num system="onscreen">11</episode-num>
+  <programme start="20260928152848 +0200" stop="20260928161629 +0200" channel="c33">
+    <title lang="ca">Aeroport</title>
+    <sub-title lang="ca">Méteo</sub-title>
+    <desc lang="ca">El mal temps afecta el funcionament de l'aeroport i també els seus treballadors: fred siberià els matins d'hivern i calor infernal a l'estiu. Enmig, tempestes del tipus 'Mórdor' que obliguen a tancar l'aeroport, de vegades invisible per un mur de boira a l'estil 'Casablanca'.</desc>
+    <length units="seconds">2861</length>
+    <episode-num system="onscreen">24</episode-num>
     <category lang="ca">DIVULGACIÓ</category>
-    <category lang="ca">ALTRES</category>
+    <category lang="ca">Docu-Entreteniment</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
