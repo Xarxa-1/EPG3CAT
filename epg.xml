@@ -3,20 +3,6 @@
   <channel id="tvi">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20260927235127 +0200" stop="20260928010000 +0200" channel="tvi">
-    <title lang="ca">Passeig de Gràcia, l'escenari burgès</title>
-    <sub-title lang="ca">Passeig de Gràcia, l'escenari burgès</sub-title>
-    <desc lang="ca">El documental presenta una Barcelona oprimida per les muralles i els militars. I la història que Lluís Permanyer ens explica té l'origen en un caminet rural i abandonat que unia la ciutat i la vila de Gràcia, anomenat el camí de Jesús i que es transformaria en el Passeig de Gràcia.</desc>
-    <length units="seconds">4113</length>
-    <episode-num system="onscreen">1</episode-num>
-    <category lang="ca">ACTUALITAT</category>
-    <category lang="ca">DOCUMENTAL</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <previously-shown/>
-    <icon src="https://img.3cat.cat/multimedia/jpg/2/4/1668086805342.jpg"/>
-  </programme>
   <programme start="20260928010000 +0200" stop="20260928040000 +0200" channel="tvi">
     <title lang="ca">Notícies 3CatInfo</title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
@@ -30,88 +16,104 @@
     <previously-shown/>
     <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
+  <programme start="20260928040000 +0200" stop="20260928050014 +0200" channel="tvi">
+    <title lang="ca">Blues a l'estudi</title>
+    <sub-title lang="ca">Bernat Font Trio</sub-title>
+    <desc lang="ca">Aquest jove pianista barceloní ha consolidat la seva formació després de la publicació del primer disc. Va rebre el guardó de Millor Nova Proposta de la revista 'Jaç' i no ha parat de tocar per tot l'estat.El repertori d'avui veu dels clàssics i oscil·la entre el blues i el swing. Ivan Kovacevic al contrabaix, Martí Elías a la bateria i el mateix Font al piano: un trio que desprèn una energia càlida i sincera.</desc>
+    <length units="seconds">3614</length>
+    <episode-num system="onscreen">2</episode-num>
+    <category lang="ca">MUSICALS</category>
+    <category lang="ca">ALTRES</category>
+    <rating>
+      <value>PÚBLIC ADULT</value>
+    </rating>
+    <previously-shown/>
+  </programme>
   <channel id="324">
     <display-name>324</display-name>
   </channel>
-  <programme start="20260927230000 +0200" stop="20260928003000 +0200" channel="324">
+  <programme start="20260928010000 +0200" stop="20260928060000 +0200" channel="324">
     <title lang="ca">Notícies 3CatInfo</title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">5400</length>
-    <episode-num system="onscreen">11285</episode-num>
-    <category lang="ca">ACTUALITAT</category>
-    <category lang="ca">INFORMATIU DIÀRI</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <subtitles type="teletext"/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
-  </programme>
-  <programme start="20260928003000 +0200" stop="20260928010000 +0200" channel="324">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">1800</length>
+    <length units="seconds">18000</length>
     <episode-num system="onscreen">11286</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
+    <previously-shown/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
+  </programme>
+  <programme start="20260928060000 +0200" stop="20260928080000 +0200" channel="324">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="seconds">7200</length>
+    <episode-num system="onscreen">11287</episode-num>
+    <category lang="ca">ACTUALITAT</category>
+    <category lang="ca">INFORMATIU DIÀRI</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <subtitles type="teletext"/>
     <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
   <channel id="esport3">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20260928000054 +0200" stop="20260928002127 +0200" channel="esport3">
+  <programme start="20260928014322 +0200" stop="20260928033941 +0200" channel="esport3">
+    <title lang="ca">Bàsquet</title>
+    <sub-title lang="ca">Río Breogán-Asisa Joventut / Lliga / J1</sub-title>
+    <desc lang="ca">Després de celebrar la gran victòria a la Supercopa d'Espanya, els badalonins comencen la seva participació a la Lliga Endesa, a la pista del conjunt de Lugo.</desc>
+    <length units="seconds">6979</length>
+    <episode-num system="onscreen">42</episode-num>
+    <category lang="ca">ESPORTS</category>
+    <category lang="ca">RETRANSMISSIONS ESPORTS</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <subtitles type="teletext"/>
+    <previously-shown/>
+    <icon src="https://img.3cat.cat/multimedia/jpg/4/5/1769511199554.jpg"/>
+  </programme>
+  <programme start="20260928033941 +0200" stop="20260928035924 +0200" channel="esport3">
     <title lang="ca">3CatInfo Esports</title>
     <desc lang="ca">Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.</desc>
-    <length units="seconds">1233</length>
+    <length units="seconds">1183</length>
     <episode-num system="onscreen">5521</episode-num>
     <category lang="ca">ESPORTS</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <icon src="https://img.ccma.cat/multimedia/jpg/9/7/1758888682179.jpg"/>
-  </programme>
-  <programme start="20260928002127 +0200" stop="20260928013706 +0200" channel="esport3">
-    <title lang="ca">Esport Club Cap de Setmana</title>
-    <sub-title lang="ca">Esport Club</sub-title>
-    <desc lang="ca">Magazín amb tota l'actualitat esportiva del cap de setmana, amb atenció especial a la jornada de futbol i les principals competicions del nostre esport.</desc>
-    <length units="seconds">4539</length>
-    <episode-num system="onscreen">1392</episode-num>
-    <category lang="ca">ESPORTS</category>
-    <category lang="ca">INFORMATIU DIÀRI</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
     <previously-shown/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/7/3/1698145091337.jpg"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/9/7/1758888682179.jpg"/>
   </programme>
   <channel id="sx3">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20260928001036 +0200" stop="20260928002055 +0200" channel="sx3">
-    <title lang="ca">La gateta Arc iris papallona unicorn</title>
-    <sub-title lang="ca">La poderosa Meu i el Superlluita</sub-title>
-    <desc lang="ca">La Felicity i el Miguel es disfressen de superherois per combatre el crim a Mitelàndia. S'ho passen tan bé que decideixen renunciar a la seva identitat real. Però l'Athena i la Yana estan molt amoïnades perquè no tenen notícies d'ells.</desc>
-    <length units="seconds">619</length>
-    <episode-num system="onscreen">10</episode-num>
+  <programme start="20260928023918 +0200" stop="20260928024851 +0200" channel="sx3">
+    <title lang="ca">Com dibuixar còmics amb el Will Sliney</title>
+    <sub-title lang="ca">Els vostres herois</sub-title>
+    <desc lang="ca">En aquest últim episodi de la temporada, el dibuixant de còmics Will Sliney aprofitarà per ensenyar-nos molts dels dibuixos que han enviat els espectadors del programa i per explicar-nos quins trucs i tècniques ha fet servir a l'hora de crear la seva pròpia versió de cadascun. També ens donarà uns últims consells sobre com planificar la creació d'un còmic en general: idea, personatges, línia argumental, vinyetes...</desc>
+    <length units="seconds">573</length>
+    <episode-num system="onscreen">42</episode-num>
     <category lang="ca">FICCIÓ</category>
-    <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
+    <category lang="ca">ALTRES</category>
     <rating>
       <value>INFANTIL</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20260928002055 +0200" stop="20260928003114 +0200" channel="sx3">
-    <title lang="ca">La gateta Arc iris papallona unicorn</title>
-    <sub-title lang="ca">Allò que la vareta s'endugué</sub-title>
-    <desc lang="ca">El Magnífic Max es deixa la vareta màgica a la gelateria, i la Felicity i els seus amics l'hi van a portar al castell. Pel camí, però, no poden resistir la temptació d'anar demanant desitjos a la vareta fins al punt de deixar-la sense poder.</desc>
-    <length units="seconds">619</length>
-    <episode-num system="onscreen">11</episode-num>
+  <programme start="20260928024851 +0200" stop="20260928025857 +0200" channel="sx3">
+    <title lang="ca">Com dibuixar còmics amb el Will Sliney</title>
+    <sub-title lang="ca">Elit</sub-title>
+    <desc lang="ca">En aquesta nova temporada, el Will Sliney rep una trucada de la presidenta d'Irlanda, del president dels Estats Units i del president de la galàxia per informar-lo que uns dolents molt dolents avancen amb la seva nau espacial cap a la Terra amb la intenció de destruir-la. Això el durà a transformar-se en un superheroi, el Wil·lustrador, que té el superpoder de crear altres herois que puguin fer front a l'amenaça extraterrestre.</desc>
+    <length units="seconds">606</length>
+    <episode-num system="onscreen">21</episode-num>
     <category lang="ca">FICCIÓ</category>
-    <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
+    <category lang="ca">ALTRES</category>
     <rating>
       <value>INFANTIL</value>
     </rating>
@@ -121,26 +123,12 @@
   <channel id="c33">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20260928001421 +0200" stop="20260928005629 +0200" channel="c33">
-    <title lang="ca">Un món de Jocs</title>
-    <sub-title lang="ca">La recerca de la perfecció</sub-title>
-    <desc lang="ca">Som animals que ens enorgullim d'estar al cim de l'ordre natural. Per això, ens esforcem per demostrar que som superiors a la resta, esperem que el nostre talent ens faci més valents i impressionants. Però hi ha res més darrere d'aquestes activitats que l'afany de ser els millors? En aquest episodi, parlarem d'espais de joc on el que compta no és ser els primers de creuar la línia de meta i on els jugadors fan servir els seus cossos per oferir els millors espectacles del món.Surf d'onades gegants, Nazaré, PortugalSalt de penya-segat, MèxicDrifting, CisjordàniaMister Olympia, els Estats Units</desc>
-    <length units="seconds">2528</length>
-    <episode-num system="onscreen">4</episode-num>
-    <category lang="ca">DIVULGACIÓ</category>
-    <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <subtitles type="teletext"/>
-    <icon src="https://img.3cat.cat/multimedia/jpg/3/7/1788343809373.jpg"/>
-  </programme>
-  <programme start="20260928005629 +0200" stop="20260928012347 +0200" channel="c33">
+  <programme start="20260928024320 +0200" stop="20260928031025 +0200" channel="c33">
     <title lang="ca">Els hotels més remots del món</title>
-    <sub-title lang="ca">Hoshi Onsen</sub-title>
-    <desc lang="ca">És un dels més antics del món i la mateixa família gestiona aquest ryokan tradicional des de 1875 anys. A la vall verge del parc nacional de Joshintetsu, l'hostal atrau escriptors, pintors, a la recerca de la increïble serenitat d'aquest lloc. Els banys històrics de les fonts termals naturals del riu Hoshi, construïts al voltant d'una antiga estructura de fusta, són molt coneguts al Japó i completen la sensació d'haver estat enviat en un segle més. Tot el personal és de la regió de Gunma i viu amb la família dins de l'hostal, compartint la increïble tradició d'hospitalitat amb els hostes. Apassionat per les espases, el fill del propietari és artesà en un taller ancestral del poble veí, i a l'hotel se'n conserven alguns exemples rars i originals.</desc>
-    <length units="seconds">1638</length>
-    <episode-num system="onscreen">6</episode-num>
+    <sub-title lang="ca">El Torridon - Escòcia</sub-title>
+    <desc lang="ca">Emmarcat pels turons ondulats i el paisatge indòmit de les Highlands (*) (ALT.: terres altes) escoceses, aquest hotel victorià és un niu d'amor de conte de fades on el temps sembla haver-se aturat. Una última fortalesa al peu d'una de les últimes terres verges d'Europa.Construït el 1887 per William King-Noel, 1r comte de Lovelace, El Torridon es va utilitzar com a pavelló de caça fins a la dècada dels 60, quan va obrir com a hotel.L'any 1992 els pares dels actuals directors, la Rohaise i el Dan, van comprar l'establiment, que en aquells moments oferia un allotjament molt bàsic. Amb la Rohaise i el Dan dirigint-lo, s'ha convertit en un hotel de cinc estrelles, un èxit sorprenent per una ubicació tan remota. La sostenibilitat també ha estat clau per al seu desenvolupament, perquè la majoria dels productes que fan servir es cultiven en els nombrosos hivernacles o són produïts per agricultors locals. La senzillesa i l'hospitalitat del Dan i la Rohaise contrasten amb la sofisticació de l'hotel, i fan d'aquest documental una autèntica història humana.</desc>
+    <length units="seconds">1625</length>
+    <episode-num system="onscreen">10</episode-num>
     <category lang="ca">DIVULGACIÓ</category>
     <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
     <rating>
@@ -148,6 +136,21 @@
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
+  </programme>
+  <programme start="20260928031025 +0200" stop="20260928040917 +0200" channel="c33">
+    <title lang="ca">1942</title>
+    <sub-title lang="ca">Si cal morir</sub-title>
+    <desc lang="ca">SINOPSI: L'any 1942, els drets humans no existeixen. Perquè les persones no són lliures ni de creure ni de pensar. Perquè, per vèncer, tant hi fan les penúries, les epidèmies, la fatiga... L'home ho ha de donar tot: la força de treball, el compromís, la salut, la vida. Les derrotes individuals valen molt menys que la victòria comuna. Tot va bé, per guanyar: les arbitrarietats, les il*legalitats, les traïcions...</desc>
+    <length units="seconds">3532</length>
+    <episode-num system="onscreen">4</episode-num>
+    <category lang="ca">DIVULGACIÓ</category>
+    <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <subtitles type="teletext"/>
+    <previously-shown/>
+    <icon src="https://img.3cat.cat/multimedia/jpg/9/8/1786345299589.jpg"/>
   </programme>
   <channel id="oca1">
     <display-name>OCA1</display-name>
