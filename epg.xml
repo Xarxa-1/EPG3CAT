@@ -3,97 +3,96 @@
   <channel id="tvi">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20260928143000 +0200" stop="20260928152959 +0200" channel="tvi">
-    <title lang="ca">Telenotícies migdia</title>
-    <length units="seconds">3599</length>
-    <episode-num system="onscreen">7342</episode-num>
+  <programme start="20260928210000 +0200" stop="20260928220438 +0200" channel="tvi">
+    <title lang="ca">Telenotícies vespre</title>
+    <length units="seconds">3878</length>
+    <episode-num system="onscreen">7341</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <icon src="https://img.ccma.cat/multimedia/jpg/5/4/1758025766345.jpg"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/7/2/1758026176427.jpg"/>
   </programme>
-  <programme start="20260928152959 +0200" stop="20260928155038 +0200" channel="tvi">
-    <title lang="ca">Cuines</title>
-    <sub-title lang="ca">Fideus amb pil-pil de navalles</sub-title>
-    <desc lang="ca">El pil-pil és un dels plats amb més mística de la gastronomia basca. La salsa, que surt de la pell del bacallà o el lluç, es lliga per art de màgia amb l'oli. Però el pil-pil també admet variacions i experimentació. Fem un pil-pil amb marisc. </desc>
-    <length units="seconds">1239</length>
-    <episode-num system="onscreen">2435</episode-num>
-    <category lang="ca">DIVULGACIÓ</category>
-    <category lang="ca">CUINA</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <icon src="https://img.ccma.cat/multimedia/jpg/2/5/1653464509252.jpg"/>
-  </programme>
-  <channel id="324">
-    <display-name>324</display-name>
-  </channel>
-  <programme start="20260928143000 +0200" stop="20260928153000 +0200" channel="324">
-    <title lang="ca">Telenotícies migdia</title>
-    <length units="seconds">3600</length>
-    <episode-num system="onscreen">7342</episode-num>
-    <category lang="ca">ACTUALITAT</category>
-    <category lang="ca">INFORMATIU DIÀRI</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <icon src="https://img.ccma.cat/multimedia/jpg/5/4/1758025766345.jpg"/>
-  </programme>
-  <programme start="20260928153000 +0200" stop="20260928160000 +0200" channel="324">
-    <title lang="ca">3CatInfo en aranès</title>
-    <desc lang="ca">Informatiu de continguts generalistes en llengua aranesa, presentat per Ares Riu, en emissió per a tot Catalunya.</desc>
-    <length units="seconds">1800</length>
-    <episode-num system="onscreen">2564</episode-num>
-    <category lang="ca">ACTUALITAT</category>
-    <category lang="ca">INFORMATIU DIÀRI</category>
+  <programme start="20260928220032 +0200" stop="20260928223130 +0200" channel="tvi">
+    <title lang="ca">L'un per l'altre</title>
+    <sub-title lang="ca">Sospites habituals</sub-title>
+    <desc lang="ca">Per l'aniversari de la Maria el Toni li regala uns prismàtics. Ella els fa servir per espiar els veïns, dia i nit. Fins que un dia li sembla veure que es comet un crim a l'edifici del davant. Decideixen que, abans d'avisar la policia, han d'entrar al pis a buscar proves. Ho fan a sorts i li toca al Toni, que estarà a punt de ser descobert pel suposat assassí.</desc>
+    <length units="seconds">1858</length>
+    <episode-num system="onscreen">21</episode-num>
+    <category lang="ca">FICCIÓ</category>
+    <category lang="ca">SITCOM (COMÈDIA DE SITUACIÓ)</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
-    <icon src="https://img.ccma.cat/multimedia/png/5/8/1758125433085.png"/>
+    <previously-shown/>
+  </programme>
+  <channel id="324">
+    <display-name>324</display-name>
+  </channel>
+  <programme start="20260928210000 +0200" stop="20260928220500 +0200" channel="324">
+    <title lang="ca">Telenotícies vespre</title>
+    <length units="seconds">3900</length>
+    <episode-num system="onscreen">7341</episode-num>
+    <category lang="ca">ACTUALITAT</category>
+    <category lang="ca">INFORMATIU DIÀRI</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <icon src="https://img.ccma.cat/multimedia/jpg/7/2/1758026176427.jpg"/>
+  </programme>
+  <programme start="20260928220500 +0200" stop="20260929000000 +0200" channel="324">
+    <title lang="ca">Mésnit</title>
+    <desc lang="ca">El 'Mésnit' arriba a la desena temporada, amb Marina Romero al capdavant de l'espai i amb la voluntat de continuar sent un centre de debat d'idees i d'anàlisi de l'activitat política.</desc>
+    <length units="seconds">6900</length>
+    <episode-num system="onscreen">2168</episode-num>
+    <category lang="ca">ACTUALITAT</category>
+    <category lang="ca">DEBAT</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <subtitles type="teletext"/>
   </programme>
   <channel id="esport3">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20260928140105 +0200" stop="20260928154300 +0200" channel="esport3">
-    <title lang="ca">Esport Club</title>
-    <sub-title lang="ca">La Pilota d'Or, Daniela Guillén i Adrià Figueras</sub-title>
-    <desc lang="ca">Avui s'acaben les votacions per a la Pilota d'Or. Lamine, entre els grans favorits. Entrevistem Daniela Guillén, campiona del món de motocròs. I també parlem amb Adrià Figueras, jugador del Fraikin BM Granollers. A la tertúlia ens acompanyen Maria Josep Hostalrich, Orfeo Suárez i Pichi Alonso.</desc>
-    <length units="seconds">6115</length>
-    <episode-num system="onscreen">3249</episode-num>
+  <programme start="20260928214550 +0200" stop="20260928230000 +0200" channel="esport3">
+    <title lang="ca">Tot Costa</title>
+    <sub-title lang="ca">Lamine té rival?</sub-title>
+    <desc lang="ca">Avui es tanquen les votacions per a la Pilota d'Or. Ho analitzem amb Dani Senabre, Marcos López i Mireia Ruiz. Amb Roger Arbusà expliquem l'última hora d'Eric Garcia i Adeyemi. Laia Tudel parlarà dels no internacionals i també ens visita Albert Om per donar el seu punt de vista barcelonista de l'aturada de tres setmanes. Amb Marta Ferrer ens endinsem en la sèrie documental sobre Mourinho. </desc>
+    <length units="seconds">4450</length>
+    <episode-num system="onscreen">1012</episode-num>
     <category lang="ca">ESPORTS</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/7/3/1698145091337.jpg"/>
+    <previously-shown/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/0/4/1706209193140.jpg"/>
   </programme>
-  <programme start="20260928154300 +0200" stop="20260928160945 +0200" channel="esport3">
-    <title lang="ca">GR Pirineus</title>
-    <sub-title lang="ca">Maridant la història</sub-title>
-    <desc lang="ca">En aquest cinquè GR, la ruta ens portarà des d'Empuriabrava fins al castell de Requesens, direcció nord per l'interior de l'Alt Empordà. En total uns 70 km, repartits en dues jornades, fets a peu, en cotxe i en quad. El Marc creuarà per Castelló d'Empúries, Vilanova de la Muga i farà una paradeta a Peralada, on toparà amb una veritable heroïna! Després seguirà fins a Garriguella, un poble molt dolç on descobrirà l'avantpassat del vi. I acabarà el dia passant per Espolla i Sant Climent Sescebes.</desc>
-    <length units="seconds">1605</length>
-    <episode-num system="onscreen">5</episode-num>
-    <category lang="ca">DIVULGACIÓ</category>
-    <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
+  <programme start="20260928230000 +0200" stop="20260929003100 +0200" channel="esport3">
+    <title lang="ca">Onze</title>
+    <desc lang="ca">Les nits d'Esport3 tornen a concentrar tota la informació, les millors opinions i l'entreteniment necessari per acabar el dia al voltant de l'actualitat esportiva. Un xou cada nit per acabar informat, saber cap on va l'actualitat i mantenir sempre un somriure.</desc>
+    <length units="seconds">5460</length>
+    <episode-num system="onscreen">1257</episode-num>
+    <category lang="ca">ESPORTS</category>
+    <category lang="ca">MAGAZINE</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
-    <previously-shown/>
-    <icon src="https://img.3cat.cat/multimedia/jpg/9/8/1736612891089.jpg"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/1/1/1688543515711.jpg"/>
   </programme>
   <channel id="sx3">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20260928145513 +0200" stop="20260928151758 +0200" channel="sx3">
+  <programme start="20260928214243 +0200" stop="20260928220636 +0200" channel="sx3">
     <title lang="ca">Bola de drac Z</title>
     <sub-title lang="ca">La vida nova d'en Son Gohan</sub-title>
     <desc lang="ca">Després de la derrota d'en Cèl·lula queden moltes qüestions per resoldre. Què en faran, de l'androide 18? I qui serà l'encarregat de comunicar-li a la Xixi que en Son Goku és mort? D'altra banda, també ha arribat l'hora d'acomiadar-se d'en Trunks, que ha de tornar al seu temps amb una altra missió molt important: intentar acabar amb els androides.</desc>
-    <length units="seconds">1365</length>
+    <length units="seconds">1433</length>
     <episode-num system="onscreen">193</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
@@ -103,14 +102,14 @@
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20260928151758 +0200" stop="20260928153928 +0200" channel="sx3">
-    <title lang="ca">Henry Danger</title>
-    <sub-title lang="ca">Gestió de la ràbia per a adolescents</sub-title>
-    <desc lang="ca">Quan la Piper descobreix que els seus amics l'han exclòs d'una excursió pel seu mal geni, accepta apuntar-se a un curs per aprendre a controlar la ràbia.</desc>
-    <length units="seconds">1290</length>
-    <episode-num system="onscreen">54</episode-num>
+  <programme start="20260928220636 +0200" stop="20260928222749 +0200" channel="sx3">
+    <title lang="ca">El detectiu Conan</title>
+    <sub-title lang="ca">L'assassinat del detectiu dels esperits (1a part)</sub-title>
+    <desc lang="ca">En Kogoro rep una trucada per participar en un programa de televisió en què en Gaito Hotta, un suposat mèdium en hores baixes, invocarà l'esperit d'en Koji Haneda. Això fa que en Conan sospiti que aquest home sap alguna cosa sobre la mort del famós jugador de shogi i decideixi acompanyar en Kogoro a l'hotel on s'allotja el mèdium. Però quan arriben a la seva habitació, el troben mort al llit.</desc>
+    <length units="seconds">1273</length>
+    <episode-num system="onscreen">918</episode-num>
     <category lang="ca">FICCIÓ</category>
-    <category lang="ca">SÈRIE DRAMÀTICA</category>
+    <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
       <value>INFANTIL</value>
     </rating>
@@ -120,34 +119,33 @@
   <channel id="c33">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20260928144222 +0200" stop="20260928152848 +0200" channel="c33">
+  <programme start="20260928213818 +0200" stop="20260928220924 +0200" channel="c33">
+    <title lang="ca">Plats bruts</title>
+    <sub-title lang="ca">Ho tinc tot controlat</sub-title>
+    <desc lang="ca">L'Emma no sap com dir-li a l'Àngel que no vol casar-se amb ell, tot i que cada vegada s'acosta més el dia del casament. El David i el Lopes tampoc ho veuen clar i volen convèncer l'Emma que no es casi.</desc>
+    <length units="seconds">1866</length>
+    <episode-num system="onscreen">65</episode-num>
+    <category lang="ca">FICCIÓ</category>
+    <category lang="ca">SITCOM (COMÈDIA DE SITUACIÓ)</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <subtitles type="teletext"/>
+    <previously-shown/>
+  </programme>
+  <programme start="20260928220924 +0200" stop="20260928230138 +0200" channel="c33">
     <title lang="ca">La Renaixença</title>
-    <sub-title lang="ca">El rellotge de polsera</sub-title>
-    <desc lang="ca">El rellotge de polsera va arribar per substituir el rellotge de butxaca. Era vist com un objecte per a dones, fins que els homes es van adonar que al mig d'una guerra era una mica incòmode treure el rellotge de la butxaca per mirar quina hora era mentre els disparaven. Parlem amb en Xavi Lozano, un multiinstrumentista que vol demostrar que podem convertir qualsevol objecte que ens envolta en un instrument. Sabeu com sona una cadira? I una regadora? A les 'Històries per passejar el gos', acompanyem en Torb fins al descobriment de la pedra de Rosetta.</desc>
-    <length units="seconds">2786</length>
-    <episode-num system="onscreen">22</episode-num>
+    <sub-title lang="ca">L'esprai manual</sub-title>
+    <desc lang="ca">Ja sabem que cap de vosaltres sap què és un 'esprai manual'. És el que a casa vostra en dieu 'flis-flis', o com a molt, 'flus-flus'. Com nosaltres, vaja. Però noi, els lingüistes de Catalunya Ràdio són molt intransigents amb aquestes coses, deuen tenir por ressusciti en Pompeu Fabra i els piqui els dits. Bé, dediquem el programa a aquesta cosa. Ens visita l'actriu Rosa Boladeras, història de la tele catalana. I passegem el gos pel dia en què un boig decideix rebentar el seu poble amb una excavadora que ha convertit en una màquina de destrucció.</desc>
+    <length units="seconds">3134</length>
+    <episode-num system="onscreen">240</episode-num>
     <category lang="ca">DIVULGACIÓ</category>
     <category lang="ca">ALTRES</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
-    <previously-shown/>
     <icon src="https://img.ccma.cat/multimedia/jpg/3/3/1756148014833.jpg"/>
-  </programme>
-  <programme start="20260928152848 +0200" stop="20260928161629 +0200" channel="c33">
-    <title lang="ca">Aeroport</title>
-    <sub-title lang="ca">Méteo</sub-title>
-    <desc lang="ca">El mal temps afecta el funcionament de l'aeroport i també els seus treballadors: fred siberià els matins d'hivern i calor infernal a l'estiu. Enmig, tempestes del tipus 'Mórdor' que obliguen a tancar l'aeroport, de vegades invisible per un mur de boira a l'estil 'Casablanca'.</desc>
-    <length units="seconds">2861</length>
-    <episode-num system="onscreen">24</episode-num>
-    <category lang="ca">DIVULGACIÓ</category>
-    <category lang="ca">Docu-Entreteniment</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <subtitles type="teletext"/>
-    <previously-shown/>
   </programme>
   <channel id="oca1">
     <display-name>OCA1</display-name>
