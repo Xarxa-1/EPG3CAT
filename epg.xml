@@ -3,48 +3,33 @@
   <channel id="tvi">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20260929010421 +0200" stop="20260929024857 +0200" channel="tvi">
-    <title lang="ca">Mésnit</title>
-    <desc lang="ca">El 'Mésnit' arriba a la desena temporada, amb Marina Romero al capdavant de l'espai i amb la voluntat de continuar sent un centre de debat d'idees i d'anàlisi de l'activitat política.</desc>
-    <length units="seconds">6276</length>
-    <episode-num system="onscreen">2168</episode-num>
-    <category lang="ca">ACTUALITAT</category>
-    <category lang="ca">DEBAT</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <previously-shown/>
-  </programme>
-  <programme start="20260929024857 +0200" stop="20260929040000 +0200" channel="tvi">
+  <programme start="20260929060000 +0200" stop="20260929080000 +0200" channel="tvi">
     <title lang="ca">Notícies 3CatInfo</title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">4263</length>
-    <episode-num system="onscreen">11295</episode-num>
+    <length units="seconds">7200</length>
+    <episode-num system="onscreen">11296</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <previously-shown/>
     <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
+  </programme>
+  <programme start="20260929080000 +0200" stop="20260929103000 +0200" channel="tvi">
+    <title lang="ca">Matins</title>
+    <desc lang="ca">'Matins' és un dels puntals informatius de TV3. El programa matinal dona les claus del dia que comença, explica les notícies que han passat aportant-ne el context per entendre-les i analitza amb veus acreditades l'actualitat més propera i la d'arreu del món. 'Matins' comença a les 8 del matí, de dilluns a divendres, i està presentat per Ariadna Oltra.</desc>
+    <length units="seconds">9000</length>
+    <episode-num system="onscreen">4681</episode-num>
+    <category lang="ca">ACTUALITAT</category>
+    <category lang="ca">INFORMATIU DIÀRI</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <icon src="https://img.ccma.cat/multimedia/jpg/2/0/1758040151402.jpg"/>
   </programme>
   <channel id="324">
     <display-name>324</display-name>
   </channel>
-  <programme start="20260929010000 +0200" stop="20260929060000 +0200" channel="324">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">18000</length>
-    <episode-num system="onscreen">11295</episode-num>
-    <category lang="ca">ACTUALITAT</category>
-    <category lang="ca">INFORMATIU DIÀRI</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <subtitles type="teletext"/>
-    <previously-shown/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
-  </programme>
   <programme start="20260929060000 +0200" stop="20260929080000 +0200" channel="324">
     <title lang="ca">Notícies 3CatInfo</title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
@@ -58,10 +43,22 @@
     <subtitles type="teletext"/>
     <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
+  <programme start="20260929080000 +0200" stop="20260929103000 +0200" channel="324">
+    <title lang="ca">Matins</title>
+    <desc lang="ca">'Matins' és un dels puntals informatius de TV3. El programa matinal dona les claus del dia que comença, explica les notícies que han passat aportant-ne el context per entendre-les i analitza amb veus acreditades l'actualitat més propera i la d'arreu del món. 'Matins' comença a les 8 del matí, de dilluns a divendres, i està presentat per Ariadna Oltra.</desc>
+    <length units="seconds">9000</length>
+    <episode-num system="onscreen">4681</episode-num>
+    <category lang="ca">ACTUALITAT</category>
+    <category lang="ca">INFORMATIU DIÀRI</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <icon src="https://img.ccma.cat/multimedia/jpg/2/0/1758040151402.jpg"/>
+  </programme>
   <channel id="esport3">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20260929004954 +0200" stop="20260929022239 +0200" channel="esport3">
+  <programme start="20260929065331 +0200" stop="20260929082616 +0200" channel="esport3">
     <title lang="ca">Onze</title>
     <sub-title lang="ca">Final de campanya; sanció al City i 'El colegiado'</sub-title>
     <desc lang="ca">Carles Fité, Aina Cerdà, Xavi Torres i Jordi Martí comenten com està la votació de la pilota d'or l'últim dia de les votacions. En Joan Fàbregas analitza les polèmiques de la jornada de Nations League.</desc>
@@ -76,28 +73,29 @@
     <previously-shown/>
     <icon src="https://img.ccma.cat/multimedia/jpg/1/1/1688543515711.jpg"/>
   </programme>
-  <programme start="20260929022239 +0200" stop="20260929023908 +0200" channel="esport3">
-    <title lang="ca">3CatInfo Esports</title>
-    <desc lang="ca">Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.</desc>
-    <length units="seconds">989</length>
-    <episode-num system="onscreen">5522</episode-num>
+  <programme start="20260929082616 +0200" stop="20260929091221 +0200" channel="esport3">
+    <title lang="ca">Aire Lliure</title>
+    <sub-title lang="ca">Empordanet, amb Bruno Oro</sub-title>
+    <desc lang="ca">Diuen que la millor manera de conèixer la Costa Brava és des del mar; ho tenen claríssim els monitors de caiac que acompanyaran Núria Picas vorejant les millors cales, però també ho diu Miquel Sunyer creador de les anomenades 'Vies Braves' El convidat del programa serà l'actor Bruno Oro.</desc>
+    <length units="seconds">2765</length>
+    <episode-num system="onscreen">6</episode-num>
     <category lang="ca">ESPORTS</category>
-    <category lang="ca">INFORMATIU DIÀRI</category>
+    <category lang="ca">REPORTATGES</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
+    <subtitles type="teletext"/>
     <previously-shown/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/9/7/1758888682179.jpg"/>
   </programme>
   <channel id="sx3">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20260929020236 +0200" stop="20260929022215 +0200" channel="sx3">
-    <title lang="ca">Viatges Pokémon</title>
-    <sub-title lang="ca">Ral·li d’encàrrecs!</sub-title>
-    <desc lang="ca">Mentre fan encàrrecs pel professor Cirerer, el Goh i la Chloe es posen a lloar el Grookey i l'Eevee, però llavors s'adonen que els dos Pokémon encara no han fet mai cap encàrrec sols. Quan el Grookey i l'Eevee proven de fer-ne un, l'Ash proposa vigilar-los d'amagat. Mentrestant, el Team Rocket també ha enviat el Pelipper a fer un encàrrec: comprar gelat de vainilla per acompanyar pastís de poma. Llavors, el Pelipper es troba el Grookey, que accepta que el porti.</desc>
-    <length units="seconds">1179</length>
-    <episode-num system="onscreen">69</episode-num>
+  <programme start="20260929075249 +0200" stop="20260929080612 +0200" channel="sx3">
+    <title lang="ca">La Patrulla Peluda</title>
+    <sub-title lang="ca">La Patrulla salva el Dia d’Acció de Gràcies</sub-title>
+    <desc lang="ca">El gall dindi inflable del Dia d'Acció de Gràcies se n'ha anat volant amb l'alcalde Humdinger i els gatets a dins.</desc>
+    <length units="seconds">803</length>
+    <episode-num system="onscreen">227</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
@@ -106,14 +104,14 @@
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20260929022215 +0200" stop="20260929024326 +0200" channel="sx3">
-    <title lang="ca">Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
-    <sub-title lang="ca">Multiplicació</sub-title>
-    <desc lang="ca">La Marinette està convençuda que els seus sentiments envers l'Adrien van ser la causa de la derrota quan es va enfrontar al Monarca com a Ladybug. Per això decideix renunciar al seu amor pel seu company d'institut. A més, com a Ladybug, es prepara per lluitar, amb l'ajuda del Gat Noir, contra un Monarca més poderós que mai. Però van passant els dies i no apareix cap akumatitzat que atemoreixi París. Podria ser que el Monarca s'hagués rendit?</desc>
-    <length units="seconds">1271</length>
-    <episode-num system="onscreen">106</episode-num>
-    <category lang="ca">FICCIÓ</category>
-    <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
+  <programme start="20260929080612 +0200" stop="20260929081656 +0200" channel="sx3">
+    <title lang="ca">Titó</title>
+    <sub-title lang="ca">Excursió amb ocells exòtics</sub-title>
+    <desc lang="ca">Avui anirem d'excursió amb la Tat i en Titó a un parc d'ocells exòtics. Jugarem a buscar un tucà, un guacamai i una gura. I en John C ens portarà de sorpresa un ocell australià: una nimfa!</desc>
+    <length units="seconds">644</length>
+    <episode-num system="onscreen">176</episode-num>
+    <category lang="ca">ENTRETENIMENT</category>
+    <category lang="ca">ALTRES</category>
     <rating>
       <value>INFANTIL</value>
     </rating>
@@ -123,11 +121,11 @@
   <channel id="c33">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20260929015015 +0200" stop="20260929022851 +0200" channel="c33">
-    <title lang="ca">km33</title>
-    <sub-title lang="ca">Camerun, cuiners sense fronteres</sub-title>
-    <desc lang="ca">En Flip busca pel Camerun els llocs on es van conèixer els seus pares. Marxa amb el Paco, un amic que també és cuiner. Descobreixen mercats, menjars exòtics i receptes. Recorren la selva i la sabana, i acaben remullant-se a la platja. I a més a més: El Camerun en dades, informacions útils per planificar un viatge; Allotjaments de religiosos, llocs econòmics on només s'hi dorm o també viure-hi experiències; moure's per l'Àfrica Occidental, els vols d'avió com a alternativa a les carreteres precàries i les llargues distàncies.</desc>
-    <length units="seconds">2316</length>
+  <programme start="20260929073319 +0200" stop="20260929082531 +0200" channel="c33">
+    <title lang="ca">Experiència Catalana</title>
+    <sub-title lang="ca">Resum</sub-title>
+    <desc lang="ca">Tanquem la primera temporada amb un resum dels millors moments dels rodatges, tant davant com darrere de càmeres. A més, descobrim imatges exclusives d'aquests onze capítols.</desc>
+    <length units="seconds">3132</length>
     <episode-num system="onscreen">12</episode-num>
     <category lang="ca">ENTRETENIMENT</category>
     <category lang="ca">ALTRES</category>
@@ -137,13 +135,13 @@
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20260929022851 +0200" stop="20260929031127 +0200" channel="c33">
-    <title lang="ca">km33</title>
-    <sub-title lang="ca">Els souvenirs fantàstics del Japó</sub-title>
-    <desc lang="ca">En Juanra i la Zaide se'n van al Japó a comprar souvenirs originals per al seu basar. Els fascina el Tòquio més avantguardista i extravagant. Fan un onsen a la muntanya i es troben una geisha en els temples de Kyoto. El viatge s'acaba en un lloc 'kitsch:' Parque España. I a més a més: Coordenades japoneses, dades bàsiques i consells útils per anar al país del sol naixent; allotjaments atípics, llocs econòmics i alhora estranys per convertir el dormir en una experiència única; més enllà del Sushi, gastronomia japonesa per a tots els gustos.</desc>
-    <length units="seconds">2556</length>
-    <episode-num system="onscreen">13</episode-num>
-    <category lang="ca">ENTRETENIMENT</category>
+  <programme start="20260929082531 +0200" stop="20260929085257 +0200" channel="c33">
+    <title lang="ca">Cosins Germans</title>
+    <sub-title lang="ca">Sense peatges</sub-title>
+    <desc lang="ca">Cosins Germans està plantejat com una road movie per les comarques de Catalunya i el País Valencià per descobrir els espais, la gent, els costums i la gastronomia dels dos territoris.Als primers 13 capítols Ferrant Torrent i Empar Moliner viatgen junts per territoris catalans i valencians, i als 13 capítols següents, Ferran Torrent s'endinsa pels territoris dels Països Catalans amb Sílvia Bel, Elisabet Carnicé, Llucia Ramis i Araceli Segarra. Sempre amb un to proper, àgil, també un punt irreverent i ple d'humor.</desc>
+    <length units="seconds">1646</length>
+    <episode-num system="onscreen">12</episode-num>
+    <category lang="ca">DIVULGACIÓ</category>
     <category lang="ca">ALTRES</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
