@@ -3,36 +3,37 @@
   <channel id="tvi">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20260929102949 +0200" stop="20260929135456 +0200" channel="tvi">
-    <title lang="ca">Tot es mou</title>
-    <desc lang="ca">El programa presentat per Helena Garcia Melero s'emet de dilluns a divendres, de 10.30 a 13.55. Un magazín d'actualitat que busca informar, analitzar i debatre sobre temes que marquen l'actualitat social, econòmica i cultural del dia, amb una àmplia presència en directe dels reporters i reporteres, repartits per tot Catalunya. A més, el 'Tot es mou' compta amb seccions diàries de gastronomia (amb els principals cuiners i cuineres del país), successos, economia, mobilitat, temes mèdics i de tecnologia, entre d'altres.</desc>
-    <length units="seconds">12307</length>
-    <episode-num system="onscreen">1818</episode-num>
-    <category lang="ca">ACTUALITAT</category>
+  <programme start="20260929172613 +0200" stop="20260929191422 +0200" channel="tvi">
+    <title lang="ca">La Selva</title>
+    <desc lang="ca">Xavier Grasset presenta La Selva, el nou magazín d'entreteniment de les tardes de TV3. Un show d'autor on parlarem de tot de forma distesa i lliure, una trobada fixa a la nova cafeteria de la televisió pública catalana, regentada per la Mercè Fonoll (l'actriu i humorista, Anna Bertran). A La Selva sempre hi passen coses, és un món ple d'activitat on diverses espècies hi conviuen de forma lliure.Hi passaran Antoni Bassas, Montse Barderi, Fel Faixedas, Sílvia Bel, la Nina, en Biel Duran, l'Alba Alfageme o la Carlota Gurt, entre molts d'altres. Una trobada plena de coneixement i seguiment de l'actualitat, però també d'entreteniment. Els acompanyaran, per exemple fent recomanacions, Sergi Cutillas, amb la seva música de capçalera, en Godai García que ens apropa a la terra -amb una mirada molt pròpia- o la cuinera i influencer, Sofia Janer.A La Selva farem un repàs al què ha passat durant el dia i a la vida en general d'aquella manera única del Xavier Grasset acompanyat al sofà per la Maria Xinxó, la Núria Martínez o l'Ester Pagès. La resta de l'equip treballarà per explicar-vos el que ha passat dins i fora de La Selva, acostar-vos al territori i oferir-vos entreteniment, però sempre amb contingut. Cada dia hi haurà entrevistes, no hi faltaran els llibres, la cultura o històries humanes de tot tipus. I, a més, comptarem amb la participació del nostre públic. Us convidarem a jugar en un concurs diari, divertit i enginyós. Quan t'endinses a la Selva mai saps què t'hi pots acabar trobant!Cada tarda, et farem companyia a 3cat. Us espera una nova aventura plena de personatges interessants, converses, reflexions, descobriments i uns quants somriures. Sempre amb un ull posat a tot el que passa al nostre voltant. Quedem a La Selva!</desc>
+    <length units="seconds">6489</length>
+    <episode-num system="onscreen">419</episode-num>
+    <category lang="ca">ENTRETENIMENT</category>
     <category lang="ca">MAGAZINE</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
+    <icon src="https://img.3cat.cat/multimedia/jpg/6/3/1725871608136.jpg"/>
   </programme>
-  <programme start="20260929135456 +0200" stop="20260929143029 +0200" channel="tvi">
-    <title lang="ca">Telenotícies comarques</title>
-    <length units="seconds">2133</length>
-    <episode-num system="onscreen">7044</episode-num>
-    <category lang="ca">ACTUALITAT</category>
-    <category lang="ca">INFORMATIU DIÀRI</category>
+  <programme start="20260929191422 +0200" stop="20260929201500 +0200" channel="tvi">
+    <title lang="ca">Atrapa'm si pots</title>
+    <desc lang="ca">'Atrapa'm si pots' és un 'quiz show' clàssic, de preguntes i respostes, presentat per Llucià Ferrer, en què sis concursants competeixen per arribar a la fase final i guanyar el pot. 'Atrapa'm si pots' és entreteniment pur i on gairebé és més important passar-s'ho bé que els diners. És un concurs en què pesa més la intuïció que no els coneixements acadèmics, més l'estratègia en el joc que no la sort.</desc>
+    <length units="seconds">3638</length>
+    <episode-num system="onscreen">934</episode-num>
+    <category lang="ca">ENTRETENIMENT</category>
+    <category lang="ca">CONCURS</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <icon src="https://img.ccma.cat/multimedia/jpg/5/2/1758026313525.jpg"/>
   </programme>
   <channel id="324">
     <display-name>324</display-name>
   </channel>
-  <programme start="20260929130000 +0200" stop="20260929135500 +0200" channel="324">
+  <programme start="20260929183000 +0200" stop="20260929200000 +0200" channel="324">
     <title lang="ca">Notícies 3CatInfo</title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">3300</length>
-    <episode-num system="onscreen">11298</episode-num>
+    <length units="seconds">5400</length>
+    <episode-num system="onscreen">11301</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
@@ -41,57 +42,57 @@
     <subtitles type="teletext"/>
     <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
-  <programme start="20260929135500 +0200" stop="20260929143000 +0200" channel="324">
-    <title lang="ca">Telenotícies comarques</title>
-    <length units="seconds">2100</length>
-    <episode-num system="onscreen">7044</episode-num>
+  <programme start="20260929200000 +0200" stop="20260929210000 +0200" channel="324">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="seconds">3600</length>
+    <episode-num system="onscreen">11302</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <icon src="https://img.ccma.cat/multimedia/jpg/5/2/1758026313525.jpg"/>
+    <subtitles type="teletext"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
   <channel id="esport3">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20260929130009 +0200" stop="20260929140053 +0200" channel="esport3">
-    <title lang="ca">Esport Club</title>
-    <sub-title lang="ca">Selecció blaugrana, Pepa Muñoz i desè aniversari 'Tot Costa'</sub-title>
-    <desc lang="ca">Última hora del partit Espanya-Croàcia, amb set jugadors del Barça. Entrevistem Pepa Muñoz, presidenta d'Acell-Special Olympics, i felicitem el 'Tot Costa' pel seu desè aniversari. A la tertúlia ens acompanyen Àlex Esteban, Nacho Peña i Raúl Fuentes.</desc>
-    <length units="seconds">3644</length>
-    <episode-num system="onscreen">3250</episode-num>
+  <programme start="20260929190000 +0200" stop="20260929210049 +0200" channel="esport3">
+    <title lang="ca">Tot Costa</title>
+    <desc lang="ca">Jordi Costa i Sònia Gelmà analitzen diàriament de manera rigorosa, però també amb un to desenfadat, tota l'actualitat esportiva.</desc>
+    <length units="seconds">7249</length>
+    <episode-num system="onscreen">1013</episode-num>
     <category lang="ca">ESPORTS</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/7/3/1698145091337.jpg"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/0/4/1706209193140.jpg"/>
   </programme>
-  <programme start="20260929140053 +0200" stop="20260929142507 +0200" channel="esport3">
-    <title lang="ca">Top gols La Lliga</title>
-    <sub-title lang="ca">Jornada 7</sub-title>
-    <desc lang="ca">'Top gols La Lliga' repassa cada setmana tots els gols de la jornada de la Primera Divisió. Amb la locució de Catalunya Ràdio i d'altres emissores catalanes, viu i emocionat amb els gols dels equips del nostre país i també amb els de la resta d'equips de la màxima categoria estatal de futbol.</desc>
-    <length units="seconds">1454</length>
-    <episode-num system="onscreen">392</episode-num>
+  <programme start="20260929210049 +0200" stop="20260929211035 +0200" channel="esport3">
+    <title lang="ca">Zona UFEC</title>
+    <desc lang="ca">'Zona UFEC' és l'espai que pren el pols a la situació de l'esport català en les diferents disciplines. A través de reportatges i entrevistes, i en col·laboració amb la Unió de Federacions Esportives de Catalunya, cada setmana repassem els èxits i el treball dels esportistes catalans en les competicions de casa nostra i d'arreu del món.</desc>
+    <length units="seconds">586</length>
+    <episode-num system="onscreen">708</episode-num>
     <category lang="ca">ESPORTS</category>
-    <category lang="ca">ESPECIALS</category>
+    <category lang="ca">REPORTATGES</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <previously-shown/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/0/5/1697737572850.jpg"/>
+    <subtitles type="teletext"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/0/0/1702403805000.jpg"/>
   </programme>
   <channel id="sx3">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20260929132549 +0200" stop="20260929134705 +0200" channel="sx3">
-    <title lang="ca">El detectiu Conan</title>
-    <sub-title lang="ca">L'escenari de la traïció (2a part)</sub-title>
-    <desc lang="ca">En Conan, en Subaru Okiya i en Toru Amuro acaben descobrint el truc que ha fet servir el culpable per penjar la víctima: un enginyós sistema de politges fabricat amb una simple corda que permet aixecar objectes molt pesants. En Toru comença a sospitar que en Subaru podria ser l'Akai, l'agent que va matar el seu amic Scotch. Igual que el cas que estan investigant, però, la mort de l'Scotch tampoc és el que sembla.</desc>
-    <length units="seconds">1276</length>
-    <episode-num system="onscreen">922</episode-num>
+  <programme start="20260929185832 +0200" stop="20260929192144 +0200" channel="sx3">
+    <title lang="ca">Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
+    <sub-title lang="ca">La Princesa Sirena</sub-title>
+    <desc lang="ca">L'Ondine està preocupada perquè encara no s'ha fet cap petó amb el Kim i dubta dels sentiments del noi. La Marinette, autoproclamada especialista en primers petons i declaracions d'amor, decideix ajudar la seva amiga... a la seva manera! Una altra oportunitat perquè la Marinette s'adoni que no totes les parelles funcionen de la mateixa manera.</desc>
+    <length units="seconds">1392</length>
+    <episode-num system="onscreen">137</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
@@ -100,12 +101,12 @@
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20260929134705 +0200" stop="20260929140833 +0200" channel="sx3">
-    <title lang="ca">El detectiu Conan</title>
-    <sub-title lang="ca">El xiulet d'un tren entre llibres antics</sub-title>
-    <desc lang="ca">En Yujiro Tamaki és un senyor gran que té una llibreria d'ocasió. Un dia, en Conan i la seva colla li donen un cop de mà amb unes caixes de llibres i el veuen discutir amb el seu fill Ichiro, que fa temps que intenta convence'l perquè tanqui. Al cap de poc, les prestatgeries de la llibreria es tomben i fereixen el senyor Tamaki. En Conan descobrirà que l'accident no ha estat casualitat.</desc>
-    <length units="seconds">1288</length>
-    <episode-num system="onscreen">923</episode-num>
+  <programme start="20260929192144 +0200" stop="20260929194635 +0200" channel="sx3">
+    <title lang="ca">Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
+    <sub-title lang="ca">El Toro de Piedra</sub-title>
+    <desc lang="ca">Mentre ajuda l'Adrien a endreçar caixes de records de la infantesa, la Marinette troba una carta adreçada a l'Adrien. Problema: la carta conté informació que li podria causar una pena immensa. La Marinette no sap què fer: li hauria de donar la carta a l'Adrien o mantenir en secret el que ha descobert per protegir-lo?</desc>
+    <length units="seconds">1491</length>
+    <episode-num system="onscreen">138</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
@@ -117,27 +118,28 @@
   <channel id="c33">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20260929124016 +0200" stop="20260929140542 +0200" channel="c33">
-    <title lang="ca">El Gran Dictat, VIP</title>
-    <sub-title lang="ca">El Gran Gran Dictat</sub-title>
-    <desc lang="ca">'EL GRAN GRAN DICTAT' comptarà amb tres convidats molt especials: la presentadora Carolina Ferre, el periodista Roger de Gràcia i l'actor Jordi Martínez, protagonista de la sèrie 'Kubala, Moreno i Manchón'. Tots tres jugaran amb l'Òscar Dalmau per aconseguir un premi de 2.000 euros que donaran a l'ONG que hagin escollit.També demostraran el seu sentit de l'humor participant en una sèrie d'esquetxos gràcies als quals sabrem com s'han preparat per venir a concursar. Així, assistirem a l'entrenament de Roger de Gràcia, descobrirem el costat més espiritual de Carolina Ferre i serem testimonis del que és capaç de fer Jordi Martínez per guanyar el concurs.El col·laborador estrella d'aquesta temporada no dubtarà a sumar-se a la festa. El Mag Lari demanarà l'ajuda del presentador i dels concursants per fer diferents trucs de màgia que deixaran a tothom bocabadat.</desc>
-    <length units="seconds">5126</length>
-    <episode-num system="onscreen">13</episode-num>
+  <programme start="20260929184711 +0200" stop="20260929193128 +0200" channel="c33">
+    <title lang="ca">Viatges insòlits</title>
+    <sub-title lang="ca">Sao Paulo</sub-title>
+    <desc lang="ca">Sao Paulo pertany indiscutiblement a la llista de ciutats del món d'en Tom. Amb més de 24 milions d'habitants, no és només la ciutat més gran del Brasil, sinó també la més gran de tot l'hemisferi sud i de tot el continent sud-americà. Aquesta megaciutat és un reflex de tot el Brasil. Un país de la mida de la Unión Europea, amb la desorbitada xifra de 210 milions d'habitants. A més, l'anomenen escaientment 'Selva de pedra'. Per al turista mitjà, Rio de Janeiro és més fascinant que la Sao Paulo de formigó. Però juntament amb el seu company de viatge i intèrpret Tomaz, en Tom descobrirà que Sao Paulo també té molt per oferir...</desc>
+    <length units="seconds">2657</length>
+    <episode-num system="onscreen">44</episode-num>
     <category lang="ca">DIVULGACIÓ</category>
-    <category lang="ca">EDUCATIU</category>
+    <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20260929140542 +0200" stop="20260929143545 +0200" channel="c33">
-    <title lang="ca">No tenim vergonya</title>
-    <desc lang="ca">'No tenim vergonya' revisa els grans moments a Televisió de Catalunya. Se'ls mira des d'un altre punt de vista, per comparar-los amb la realitat actual o repassar moments televisius molt recordats. Mai, però, des d'un punt de vista nostàlgic. NTV és una cadena de televisió. I, com a tal, conté tota mena d'elements (molinets, publicitat...) i de programes (informatius, d'esports, magazines, musicals, concursos...). De què es nodreix la seva programació? De l'arxiu de la televisió pública catalana revisionada sense complexos. D'aquí ve el nom de la cadena NTV, de 'No tenim vergonya'.</desc>
-    <length units="seconds">1803</length>
-    <episode-num system="onscreen">223</episode-num>
-    <category lang="ca">ESPORTS</category>
-    <category lang="ca">REPORTATGES</category>
+  <programme start="20260929193128 +0200" stop="20260929201353 +0200" channel="c33">
+    <title lang="ca">Viatges insòlits</title>
+    <sub-title lang="ca">Nairobi</sub-title>
+    <desc lang="ca">Nairobi és la ciutat amb el creixement més ràpid del món. Raó per la qual en Tom l'ha inclòs en la seva llista de grans ciutats del món. El seu dinamisme i innovació deixaran enlluernat a en Tom, i alhora, es trobarà amb els grans reptes d'aquest creixement imparable: la lluita per sortir de la pobresa i per protegir una naturalesa amenaçada.</desc>
+    <length units="seconds">2545</length>
+    <episode-num system="onscreen">42</episode-num>
+    <category lang="ca">DIVULGACIÓ</category>
+    <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
@@ -150,20 +152,21 @@
   <channel id="oca2">
     <display-name>OCA2</display-name>
   </channel>
-  <programme start="20260929125500 +0200" stop="20260929145955 +0200" channel="oca2">
-    <title lang="ca">Roda de premsa posterior al Consell de Ministres</title>
-    <length units="seconds">7195</length>
-    <episode-num system="onscreen">4135</episode-num>
-    <category lang="ca">ACTUALITAT</category>
-    <category lang="ca">RETRANSMISSIONS ACTUALITAT</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <icon src="https://img.ccma.cat/multimedia/jpg/8/5/1766758430658.jpg"/>
-  </programme>
   <channel id="oca3">
     <display-name>OCA3</display-name>
   </channel>
+  <programme start="20260929185952 +0200" stop="20260929205947 +0200" channel="oca3">
+    <title lang="ca">Tot Costa</title>
+    <desc lang="ca">Jordi Costa i Sònia Gelmà analitzen diàriament de manera rigorosa, però també amb un to desenfadat, tota l'actualitat esportiva.</desc>
+    <length units="seconds">7195</length>
+    <episode-num system="onscreen">1013</episode-num>
+    <category lang="ca">ESPORTS</category>
+    <category lang="ca">INFORMATIU DIÀRI</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <icon src="https://img.ccma.cat/multimedia/jpg/0/4/1706209193140.jpg"/>
+  </programme>
   <channel id="oca4">
     <display-name>OCA4</display-name>
   </channel>
