@@ -3,50 +3,55 @@
   <channel id="tvi">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20260929172613 +0200" stop="20260929191422 +0200" channel="tvi">
-    <title lang="ca">La Selva</title>
-    <desc lang="ca">Xavier Grasset presenta La Selva, el nou magazín d'entreteniment de les tardes de TV3. Un show d'autor on parlarem de tot de forma distesa i lliure, una trobada fixa a la nova cafeteria de la televisió pública catalana, regentada per la Mercè Fonoll (l'actriu i humorista, Anna Bertran). A La Selva sempre hi passen coses, és un món ple d'activitat on diverses espècies hi conviuen de forma lliure.Hi passaran Antoni Bassas, Montse Barderi, Fel Faixedas, Sílvia Bel, la Nina, en Biel Duran, l'Alba Alfageme o la Carlota Gurt, entre molts d'altres. Una trobada plena de coneixement i seguiment de l'actualitat, però també d'entreteniment. Els acompanyaran, per exemple fent recomanacions, Sergi Cutillas, amb la seva música de capçalera, en Godai García que ens apropa a la terra -amb una mirada molt pròpia- o la cuinera i influencer, Sofia Janer.A La Selva farem un repàs al què ha passat durant el dia i a la vida en general d'aquella manera única del Xavier Grasset acompanyat al sofà per la Maria Xinxó, la Núria Martínez o l'Ester Pagès. La resta de l'equip treballarà per explicar-vos el que ha passat dins i fora de La Selva, acostar-vos al territori i oferir-vos entreteniment, però sempre amb contingut. Cada dia hi haurà entrevistes, no hi faltaran els llibres, la cultura o històries humanes de tot tipus. I, a més, comptarem amb la participació del nostre públic. Us convidarem a jugar en un concurs diari, divertit i enginyós. Quan t'endinses a la Selva mai saps què t'hi pots acabar trobant!Cada tarda, et farem companyia a 3cat. Us espera una nova aventura plena de personatges interessants, converses, reflexions, descobriments i uns quants somriures. Sempre amb un ull posat a tot el que passa al nostre voltant. Quedem a La Selva!</desc>
-    <length units="seconds">6489</length>
-    <episode-num system="onscreen">419</episode-num>
-    <category lang="ca">ENTRETENIMENT</category>
-    <category lang="ca">MAGAZINE</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <icon src="https://img.3cat.cat/multimedia/jpg/6/3/1725871608136.jpg"/>
-  </programme>
-  <programme start="20260929191422 +0200" stop="20260929201500 +0200" channel="tvi">
-    <title lang="ca">Atrapa'm si pots</title>
-    <desc lang="ca">'Atrapa'm si pots' és un 'quiz show' clàssic, de preguntes i respostes, presentat per Llucià Ferrer, en què sis concursants competeixen per arribar a la fase final i guanyar el pot. 'Atrapa'm si pots' és entreteniment pur i on gairebé és més important passar-s'ho bé que els diners. És un concurs en què pesa més la intuïció que no els coneixements acadèmics, més l'estratègia en el joc que no la sort.</desc>
-    <length units="seconds">3638</length>
-    <episode-num system="onscreen">934</episode-num>
-    <category lang="ca">ENTRETENIMENT</category>
-    <category lang="ca">CONCURS</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-  </programme>
-  <channel id="324">
-    <display-name>324</display-name>
-  </channel>
-  <programme start="20260929183000 +0200" stop="20260929200000 +0200" channel="324">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">5400</length>
-    <episode-num system="onscreen">11301</episode-num>
+  <programme start="20260929231419 +0200" stop="20260930001426 +0200" channel="tvi">
+    <title lang="ca">Nits Sense ficció</title>
+    <sub-title lang="ca">Els Pets: Bon dia, joves!</sub-title>
+    <desc lang="ca">Són l'únic grup que perviu en actiu del famós boom del rock català dels anys 80, amb més de tretze discos d'estudi i 20 intenses gires en directe. La seva carrera musical és, també, la banda sonora de tres generacions. 'Els Pets: bon dia, joves' recorre la petja emocional d'una de les bandes més carismàtiques del país.</desc>
+    <length units="seconds">3607</length>
+    <episode-num system="onscreen">1</episode-num>
     <category lang="ca">ACTUALITAT</category>
-    <category lang="ca">INFORMATIU DIÀRI</category>
+    <category lang="ca">DOCUMENTAL</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
+    <previously-shown/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/3/3/1579190261433.jpg"/>
   </programme>
-  <programme start="20260929200000 +0200" stop="20260929210000 +0200" channel="324">
+  <programme start="20260930001426 +0200" stop="20260930004156 +0200" channel="tvi">
+    <title lang="ca">El local</title>
+    <sub-title lang="ca">Buhos-Andrea Motis</sub-title>
+    <desc lang="ca">El grup de rock festiu Buhos invita la trompetista i cantant jazzística Andrea Motis a El Local. Ells porten anys fent gires explosives per tot Catalunya i ella, des que era adolescent, toca als millors escenaris del món. No es coneixen personalment i mai s'haguessin imaginat que farien un feat junts, però han decidit entrar al joc. Primer s'asseuen a la taula de so de l'estudi de gravació a escoltar 'Volcans', un dels èxits Buhos, i consensuen donar-li un toc de bossa. Després passen a l'acció. Entren a l'estudi a assajar i ho posen tot en pràctica. També dialoguen i comparteixen vivències cara a cara. Durant l'assaig hi ha diversió, professionalitat i, sobretot, molts vents. El capítol acaba amb la col·laboració en directe de Buhos i Andrea Motis fent una versió molt interessant de 'Volcans'. </desc>
+    <length units="seconds">1650</length>
+    <episode-num system="onscreen">1</episode-num>
+    <category lang="ca">ENTRETENIMENT</category>
+    <category lang="ca">ALTRES</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <subtitles type="teletext"/>
+    <previously-shown/>
+  </programme>
+  <channel id="324">
+    <display-name>324</display-name>
+  </channel>
+  <programme start="20260929220500 +0200" stop="20260930000000 +0200" channel="324">
+    <title lang="ca">Mésnit</title>
+    <desc lang="ca">El 'Mésnit' arriba a la desena temporada, amb Marina Romero al capdavant de l'espai i amb la voluntat de continuar sent un centre de debat d'idees i d'anàlisi de l'activitat política.</desc>
+    <length units="seconds">6900</length>
+    <episode-num system="onscreen">2169</episode-num>
+    <category lang="ca">ACTUALITAT</category>
+    <category lang="ca">DEBAT</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <subtitles type="teletext"/>
+  </programme>
+  <programme start="20260930000000 +0200" stop="20260930003000 +0200" channel="324">
     <title lang="ca">Notícies 3CatInfo</title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">3600</length>
-    <episode-num system="onscreen">11302</episode-num>
+    <length units="seconds">1800</length>
+    <episode-num system="onscreen">11303</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
@@ -58,41 +63,41 @@
   <channel id="esport3">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20260929190000 +0200" stop="20260929210049 +0200" channel="esport3">
-    <title lang="ca">Tot Costa</title>
-    <desc lang="ca">Jordi Costa i Sònia Gelmà analitzen diàriament de manera rigorosa, però també amb un to desenfadat, tota l'actualitat esportiva.</desc>
-    <length units="seconds">7249</length>
-    <episode-num system="onscreen">1013</episode-num>
+  <programme start="20260929230000 +0200" stop="20260930003100 +0200" channel="esport3">
+    <title lang="ca">Onze</title>
+    <sub-title lang="ca">Ensurt Raphinha; 'Onzeclopèdia' i 'El consultori'</sub-title>
+    <desc lang="ca">Juvenal Edjogo, Fernando Polo, Irati Vidal i Ivan San Antonio comenten la lesió de Raphinha en l'amistós del Brasil. En Fran Domènech presenta els titulats més curiosos de la premsa esportiva. En Sergi Ferrer respon les consultes dels espectadors de l'Onze.</desc>
+    <length units="seconds">5460</length>
+    <episode-num system="onscreen">1258</episode-num>
+    <category lang="ca">ESPORTS</category>
+    <category lang="ca">MAGAZINE</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <subtitles type="teletext"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/1/1/1688543515711.jpg"/>
+  </programme>
+  <programme start="20260930003100 +0200" stop="20260930005219 +0200" channel="esport3">
+    <title lang="ca">3CatInfo Esports</title>
+    <desc lang="ca">Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.</desc>
+    <length units="seconds">1279</length>
+    <episode-num system="onscreen">5523</episode-num>
     <category lang="ca">ESPORTS</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <subtitles type="teletext"/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/0/4/1706209193140.jpg"/>
-  </programme>
-  <programme start="20260929210049 +0200" stop="20260929211035 +0200" channel="esport3">
-    <title lang="ca">Zona UFEC</title>
-    <desc lang="ca">'Zona UFEC' és l'espai que pren el pols a la situació de l'esport català en les diferents disciplines. A través de reportatges i entrevistes, i en col·laboració amb la Unió de Federacions Esportives de Catalunya, cada setmana repassem els èxits i el treball dels esportistes catalans en les competicions de casa nostra i d'arreu del món.</desc>
-    <length units="seconds">586</length>
-    <episode-num system="onscreen">708</episode-num>
-    <category lang="ca">ESPORTS</category>
-    <category lang="ca">REPORTATGES</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <subtitles type="teletext"/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/0/0/1702403805000.jpg"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/9/7/1758888682179.jpg"/>
   </programme>
   <channel id="sx3">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20260929185832 +0200" stop="20260929192144 +0200" channel="sx3">
-    <title lang="ca">Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
-    <sub-title lang="ca">La Princesa Sirena</sub-title>
-    <desc lang="ca">L'Ondine està preocupada perquè encara no s'ha fet cap petó amb el Kim i dubta dels sentiments del noi. La Marinette, autoproclamada especialista en primers petons i declaracions d'amor, decideix ajudar la seva amiga... a la seva manera! Una altra oportunitat perquè la Marinette s'adoni que no totes les parelles funcionen de la mateixa manera.</desc>
-    <length units="seconds">1392</length>
-    <episode-num system="onscreen">137</episode-num>
+  <programme start="20260929230320 +0200" stop="20260929232412 +0200" channel="sx3">
+    <title lang="ca">Els germans Kratt</title>
+    <sub-title lang="ca">Objectiu, camaleó</sub-title>
+    <desc lang="ca">L'equip dels germans Kratt és a Madagascar. L'Aviva està treballant en un anell-xip dissenyat per evitar alguns problemes de funcionament en els Vestits de Poder Animal, però un misteriós animal l'hi roba. El Martin i el Chris surten a buscar-lo amb l'ajuda dels extraordinaris poders del camaleó, dels quals n'aprendran moltes coses. </desc>
+    <length units="seconds">1252</length>
+    <episode-num system="onscreen">81</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
@@ -101,12 +106,12 @@
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20260929192144 +0200" stop="20260929194635 +0200" channel="sx3">
-    <title lang="ca">Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
-    <sub-title lang="ca">El Toro de Piedra</sub-title>
-    <desc lang="ca">Mentre ajuda l'Adrien a endreçar caixes de records de la infantesa, la Marinette troba una carta adreçada a l'Adrien. Problema: la carta conté informació que li podria causar una pena immensa. La Marinette no sap què fer: li hauria de donar la carta a l'Adrien o mantenir en secret el que ha descobert per protegir-lo?</desc>
-    <length units="seconds">1491</length>
-    <episode-num system="onscreen">138</episode-num>
+  <programme start="20260929232412 +0200" stop="20260929234422 +0200" channel="sx3">
+    <title lang="ca">Els germans Kratt</title>
+    <sub-title lang="ca">Fossa grossa</sub-title>
+    <desc lang="ca">El Chris no se'n vol anar de Madagascar sense haver vist un animal extraordinari, la fossa, però han de tornar a casa perquè l'endemà és el dia de la mare i no poden deixar d'anar a felicitar la seva. Però quan ja han marxat, el Chris torna involuntàriament a l'illa, on coneixerà les fosses. Allà haurà de lluitar contra la Donita, que caça lèmurs per fer-ne bufandes. </desc>
+    <length units="seconds">1210</length>
+    <episode-num system="onscreen">82</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
@@ -118,28 +123,28 @@
   <channel id="c33">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20260929184711 +0200" stop="20260929193128 +0200" channel="c33">
-    <title lang="ca">Viatges insòlits</title>
-    <sub-title lang="ca">Sao Paulo</sub-title>
-    <desc lang="ca">Sao Paulo pertany indiscutiblement a la llista de ciutats del món d'en Tom. Amb més de 24 milions d'habitants, no és només la ciutat més gran del Brasil, sinó també la més gran de tot l'hemisferi sud i de tot el continent sud-americà. Aquesta megaciutat és un reflex de tot el Brasil. Un país de la mida de la Unión Europea, amb la desorbitada xifra de 210 milions d'habitants. A més, l'anomenen escaientment 'Selva de pedra'. Per al turista mitjà, Rio de Janeiro és més fascinant que la Sao Paulo de formigó. Però juntament amb el seu company de viatge i intèrpret Tomaz, en Tom descobrirà que Sao Paulo també té molt per oferir...</desc>
-    <length units="seconds">2657</length>
-    <episode-num system="onscreen">44</episode-num>
+  <programme start="20260929225727 +0200" stop="20260929235739 +0200" channel="c33">
+    <title lang="ca">Xefs: noves generacions</title>
+    <sub-title lang="ca">Xefs, noves generacions 'La trobada'</sub-title>
+    <desc lang="ca">Els 10 millors xefs joves que han protagonitzat la sèrie documental 'Xefs ·Noves generacions' es reuneixen a 'La trobada'. Un dinar de germanor és l'excusa perquè el talent emergent de la cuina catalana es conegui i es posi cara. Mentre preparen plats senzills de la cuina catalana i sempre al voltant d'uns fogons i d'una taula, els millors cuiners i cuineres joves del país mostraran la riquesa cultural i del territori, el producte de proximitat i, sobretot, la feina d'una generació que ha d'agafar el relleu de figures clau com Carme Ruscalleda, Albert Adrià, Eduard Xatruch o els Germans Roca.</desc>
+    <length units="seconds">3612</length>
+    <episode-num system="onscreen">11</episode-num>
     <category lang="ca">DIVULGACIÓ</category>
-    <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
+    <category lang="ca">SÈRIE DOCUMENTAL</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20260929193128 +0200" stop="20260929201353 +0200" channel="c33">
-    <title lang="ca">Viatges insòlits</title>
-    <sub-title lang="ca">Nairobi</sub-title>
-    <desc lang="ca">Nairobi és la ciutat amb el creixement més ràpid del món. Raó per la qual en Tom l'ha inclòs en la seva llista de grans ciutats del món. El seu dinamisme i innovació deixaran enlluernat a en Tom, i alhora, es trobarà amb els grans reptes d'aquest creixement imparable: la lluita per sortir de la pobresa i per protegir una naturalesa amenaçada.</desc>
-    <length units="seconds">2545</length>
-    <episode-num system="onscreen">42</episode-num>
+  <programme start="20260929235739 +0200" stop="20260930003126 +0200" channel="c33">
+    <title lang="ca">Xefs: noves generacions</title>
+    <sub-title lang="ca">Rafel Muria (Restaurant Quatre Molins)</sub-title>
+    <desc lang="ca">Rafel Muria és l'ànima de Quatre Molins, un projecte que connecta la cuina d'autor amb els vins del Priorat. Format al costat de grans noms de l'alta gastronomia, com Michel Bras i Joël Robuchon, Muria ha construït una proposta personal, arrelada i exigent que l'ha portat a guanyar una Estrella Michelin. Hereu d'una nissaga d'apicultors del Perelló, és conegut com 'el xef de la mel', un ingredient que apareix amb precisió i equilibri en els seus plats. El capítol mostra una cuina que explica territori, paisatge i emoció, i que situa el Priorat al centre del mapa gastronòmic contemporani.</desc>
+    <length units="seconds">2027</length>
+    <episode-num system="onscreen">1</episode-num>
     <category lang="ca">DIVULGACIÓ</category>
-    <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
+    <category lang="ca">SÈRIE DOCUMENTAL</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
@@ -155,18 +160,6 @@
   <channel id="oca3">
     <display-name>OCA3</display-name>
   </channel>
-  <programme start="20260929185952 +0200" stop="20260929205947 +0200" channel="oca3">
-    <title lang="ca">Tot Costa</title>
-    <desc lang="ca">Jordi Costa i Sònia Gelmà analitzen diàriament de manera rigorosa, però també amb un to desenfadat, tota l'actualitat esportiva.</desc>
-    <length units="seconds">7195</length>
-    <episode-num system="onscreen">1013</episode-num>
-    <category lang="ca">ESPORTS</category>
-    <category lang="ca">INFORMATIU DIÀRI</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <icon src="https://img.ccma.cat/multimedia/jpg/0/4/1706209193140.jpg"/>
-  </programme>
   <channel id="oca4">
     <display-name>OCA4</display-name>
   </channel>
