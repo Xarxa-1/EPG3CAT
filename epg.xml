@@ -3,79 +3,69 @@
   <channel id="tvi">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20260928210000 +0200" stop="20260928220438 +0200" channel="tvi">
-    <title lang="ca">Telenotícies vespre</title>
-    <length units="seconds">3878</length>
-    <episode-num system="onscreen">7341</episode-num>
-    <category lang="ca">ACTUALITAT</category>
-    <category lang="ca">INFORMATIU DIÀRI</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <icon src="https://img.ccma.cat/multimedia/jpg/7/2/1758026176427.jpg"/>
-  </programme>
-  <programme start="20260928220032 +0200" stop="20260928223130 +0200" channel="tvi">
-    <title lang="ca">L'un per l'altre</title>
-    <sub-title lang="ca">Sospites habituals</sub-title>
-    <desc lang="ca">Per l'aniversari de la Maria el Toni li regala uns prismàtics. Ella els fa servir per espiar els veïns, dia i nit. Fins que un dia li sembla veure que es comet un crim a l'edifici del davant. Decideixen que, abans d'avisar la policia, han d'entrar al pis a buscar proves. Ho fan a sorts i li toca al Toni, que estarà a punt de ser descobert pel suposat assassí.</desc>
-    <length units="seconds">1858</length>
-    <episode-num system="onscreen">21</episode-num>
-    <category lang="ca">FICCIÓ</category>
-    <category lang="ca">SITCOM (COMÈDIA DE SITUACIÓ)</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <subtitles type="teletext"/>
-    <previously-shown/>
-  </programme>
-  <channel id="324">
-    <display-name>324</display-name>
-  </channel>
-  <programme start="20260928210000 +0200" stop="20260928220500 +0200" channel="324">
-    <title lang="ca">Telenotícies vespre</title>
-    <length units="seconds">3900</length>
-    <episode-num system="onscreen">7341</episode-num>
-    <category lang="ca">ACTUALITAT</category>
-    <category lang="ca">INFORMATIU DIÀRI</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <icon src="https://img.ccma.cat/multimedia/jpg/7/2/1758026176427.jpg"/>
-  </programme>
-  <programme start="20260928220500 +0200" stop="20260929000000 +0200" channel="324">
+  <programme start="20260929010421 +0200" stop="20260929024857 +0200" channel="tvi">
     <title lang="ca">Mésnit</title>
     <desc lang="ca">El 'Mésnit' arriba a la desena temporada, amb Marina Romero al capdavant de l'espai i amb la voluntat de continuar sent un centre de debat d'idees i d'anàlisi de l'activitat política.</desc>
-    <length units="seconds">6900</length>
+    <length units="seconds">6276</length>
     <episode-num system="onscreen">2168</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">DEBAT</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <subtitles type="teletext"/>
+    <previously-shown/>
   </programme>
-  <channel id="esport3">
-    <display-name>ESPORT3</display-name>
+  <programme start="20260929024857 +0200" stop="20260929040000 +0200" channel="tvi">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="seconds">4263</length>
+    <episode-num system="onscreen">11295</episode-num>
+    <category lang="ca">ACTUALITAT</category>
+    <category lang="ca">INFORMATIU DIÀRI</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <previously-shown/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
+  </programme>
+  <channel id="324">
+    <display-name>324</display-name>
   </channel>
-  <programme start="20260928214550 +0200" stop="20260928230000 +0200" channel="esport3">
-    <title lang="ca">Tot Costa</title>
-    <sub-title lang="ca">Lamine té rival?</sub-title>
-    <desc lang="ca">Avui es tanquen les votacions per a la Pilota d'Or. Ho analitzem amb Dani Senabre, Marcos López i Mireia Ruiz. Amb Roger Arbusà expliquem l'última hora d'Eric Garcia i Adeyemi. Laia Tudel parlarà dels no internacionals i també ens visita Albert Om per donar el seu punt de vista barcelonista de l'aturada de tres setmanes. Amb Marta Ferrer ens endinsem en la sèrie documental sobre Mourinho. </desc>
-    <length units="seconds">4450</length>
-    <episode-num system="onscreen">1012</episode-num>
-    <category lang="ca">ESPORTS</category>
+  <programme start="20260929010000 +0200" stop="20260929060000 +0200" channel="324">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="seconds">18000</length>
+    <episode-num system="onscreen">11295</episode-num>
+    <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/0/4/1706209193140.jpg"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
-  <programme start="20260928230000 +0200" stop="20260929003100 +0200" channel="esport3">
+  <programme start="20260929060000 +0200" stop="20260929080000 +0200" channel="324">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="seconds">7200</length>
+    <episode-num system="onscreen">11296</episode-num>
+    <category lang="ca">ACTUALITAT</category>
+    <category lang="ca">INFORMATIU DIÀRI</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <subtitles type="teletext"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
+  </programme>
+  <channel id="esport3">
+    <display-name>ESPORT3</display-name>
+  </channel>
+  <programme start="20260929004954 +0200" stop="20260929022239 +0200" channel="esport3">
     <title lang="ca">Onze</title>
-    <desc lang="ca">Les nits d'Esport3 tornen a concentrar tota la informació, les millors opinions i l'entreteniment necessari per acabar el dia al voltant de l'actualitat esportiva. Un xou cada nit per acabar informat, saber cap on va l'actualitat i mantenir sempre un somriure.</desc>
-    <length units="seconds">5460</length>
+    <sub-title lang="ca">Final de campanya; sanció al City i 'El colegiado'</sub-title>
+    <desc lang="ca">Carles Fité, Aina Cerdà, Xavi Torres i Jordi Martí comenten com està la votació de la pilota d'or l'últim dia de les votacions. En Joan Fàbregas analitza les polèmiques de la jornada de Nations League.</desc>
+    <length units="seconds">5565</length>
     <episode-num system="onscreen">1257</episode-num>
     <category lang="ca">ESPORTS</category>
     <category lang="ca">MAGAZINE</category>
@@ -83,31 +73,45 @@
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
+    <previously-shown/>
     <icon src="https://img.ccma.cat/multimedia/jpg/1/1/1688543515711.jpg"/>
+  </programme>
+  <programme start="20260929022239 +0200" stop="20260929023908 +0200" channel="esport3">
+    <title lang="ca">3CatInfo Esports</title>
+    <desc lang="ca">Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.</desc>
+    <length units="seconds">989</length>
+    <episode-num system="onscreen">5522</episode-num>
+    <category lang="ca">ESPORTS</category>
+    <category lang="ca">INFORMATIU DIÀRI</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <previously-shown/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/9/7/1758888682179.jpg"/>
   </programme>
   <channel id="sx3">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20260928214243 +0200" stop="20260928220636 +0200" channel="sx3">
-    <title lang="ca">Bola de drac Z</title>
-    <sub-title lang="ca">La vida nova d'en Son Gohan</sub-title>
-    <desc lang="ca">Després de la derrota d'en Cèl·lula queden moltes qüestions per resoldre. Què en faran, de l'androide 18? I qui serà l'encarregat de comunicar-li a la Xixi que en Son Goku és mort? D'altra banda, també ha arribat l'hora d'acomiadar-se d'en Trunks, que ha de tornar al seu temps amb una altra missió molt important: intentar acabar amb els androides.</desc>
-    <length units="seconds">1433</length>
-    <episode-num system="onscreen">193</episode-num>
+  <programme start="20260929020236 +0200" stop="20260929022215 +0200" channel="sx3">
+    <title lang="ca">Viatges Pokémon</title>
+    <sub-title lang="ca">Ral·li d’encàrrecs!</sub-title>
+    <desc lang="ca">Mentre fan encàrrecs pel professor Cirerer, el Goh i la Chloe es posen a lloar el Grookey i l'Eevee, però llavors s'adonen que els dos Pokémon encara no han fet mai cap encàrrec sols. Quan el Grookey i l'Eevee proven de fer-ne un, l'Ash proposa vigilar-los d'amagat. Mentrestant, el Team Rocket també ha enviat el Pelipper a fer un encàrrec: comprar gelat de vainilla per acompanyar pastís de poma. Llavors, el Pelipper es troba el Grookey, que accepta que el porti.</desc>
+    <length units="seconds">1179</length>
+    <episode-num system="onscreen">69</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
-      <value>JUVENIL</value>
+      <value>INFANTIL</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20260928220636 +0200" stop="20260928222749 +0200" channel="sx3">
-    <title lang="ca">El detectiu Conan</title>
-    <sub-title lang="ca">L'assassinat del detectiu dels esperits (1a part)</sub-title>
-    <desc lang="ca">En Kogoro rep una trucada per participar en un programa de televisió en què en Gaito Hotta, un suposat mèdium en hores baixes, invocarà l'esperit d'en Koji Haneda. Això fa que en Conan sospiti que aquest home sap alguna cosa sobre la mort del famós jugador de shogi i decideixi acompanyar en Kogoro a l'hotel on s'allotja el mèdium. Però quan arriben a la seva habitació, el troben mort al llit.</desc>
-    <length units="seconds">1273</length>
-    <episode-num system="onscreen">918</episode-num>
+  <programme start="20260929022215 +0200" stop="20260929024326 +0200" channel="sx3">
+    <title lang="ca">Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
+    <sub-title lang="ca">Multiplicació</sub-title>
+    <desc lang="ca">La Marinette està convençuda que els seus sentiments envers l'Adrien van ser la causa de la derrota quan es va enfrontar al Monarca com a Ladybug. Per això decideix renunciar al seu amor pel seu company d'institut. A més, com a Ladybug, es prepara per lluitar, amb l'ajuda del Gat Noir, contra un Monarca més poderós que mai. Però van passant els dies i no apareix cap akumatitzat que atemoreixi París. Podria ser que el Monarca s'hagués rendit?</desc>
+    <length units="seconds">1271</length>
+    <episode-num system="onscreen">106</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
@@ -119,33 +123,33 @@
   <channel id="c33">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20260928213818 +0200" stop="20260928220924 +0200" channel="c33">
-    <title lang="ca">Plats bruts</title>
-    <sub-title lang="ca">Ho tinc tot controlat</sub-title>
-    <desc lang="ca">L'Emma no sap com dir-li a l'Àngel que no vol casar-se amb ell, tot i que cada vegada s'acosta més el dia del casament. El David i el Lopes tampoc ho veuen clar i volen convèncer l'Emma que no es casi.</desc>
-    <length units="seconds">1866</length>
-    <episode-num system="onscreen">65</episode-num>
-    <category lang="ca">FICCIÓ</category>
-    <category lang="ca">SITCOM (COMÈDIA DE SITUACIÓ)</category>
+  <programme start="20260929015015 +0200" stop="20260929022851 +0200" channel="c33">
+    <title lang="ca">km33</title>
+    <sub-title lang="ca">Camerun, cuiners sense fronteres</sub-title>
+    <desc lang="ca">En Flip busca pel Camerun els llocs on es van conèixer els seus pares. Marxa amb el Paco, un amic que també és cuiner. Descobreixen mercats, menjars exòtics i receptes. Recorren la selva i la sabana, i acaben remullant-se a la platja. I a més a més: El Camerun en dades, informacions útils per planificar un viatge; Allotjaments de religiosos, llocs econòmics on només s'hi dorm o també viure-hi experiències; moure's per l'Àfrica Occidental, els vols d'avió com a alternativa a les carreteres precàries i les llargues distàncies.</desc>
+    <length units="seconds">2316</length>
+    <episode-num system="onscreen">12</episode-num>
+    <category lang="ca">ENTRETENIMENT</category>
+    <category lang="ca">ALTRES</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20260928220924 +0200" stop="20260928230138 +0200" channel="c33">
-    <title lang="ca">La Renaixença</title>
-    <sub-title lang="ca">L'esprai manual</sub-title>
-    <desc lang="ca">Ja sabem que cap de vosaltres sap què és un 'esprai manual'. És el que a casa vostra en dieu 'flis-flis', o com a molt, 'flus-flus'. Com nosaltres, vaja. Però noi, els lingüistes de Catalunya Ràdio són molt intransigents amb aquestes coses, deuen tenir por ressusciti en Pompeu Fabra i els piqui els dits. Bé, dediquem el programa a aquesta cosa. Ens visita l'actriu Rosa Boladeras, història de la tele catalana. I passegem el gos pel dia en què un boig decideix rebentar el seu poble amb una excavadora que ha convertit en una màquina de destrucció.</desc>
-    <length units="seconds">3134</length>
-    <episode-num system="onscreen">240</episode-num>
-    <category lang="ca">DIVULGACIÓ</category>
+  <programme start="20260929022851 +0200" stop="20260929031127 +0200" channel="c33">
+    <title lang="ca">km33</title>
+    <sub-title lang="ca">Els souvenirs fantàstics del Japó</sub-title>
+    <desc lang="ca">En Juanra i la Zaide se'n van al Japó a comprar souvenirs originals per al seu basar. Els fascina el Tòquio més avantguardista i extravagant. Fan un onsen a la muntanya i es troben una geisha en els temples de Kyoto. El viatge s'acaba en un lloc 'kitsch:' Parque España. I a més a més: Coordenades japoneses, dades bàsiques i consells útils per anar al país del sol naixent; allotjaments atípics, llocs econòmics i alhora estranys per convertir el dormir en una experiència única; més enllà del Sushi, gastronomia japonesa per a tots els gustos.</desc>
+    <length units="seconds">2556</length>
+    <episode-num system="onscreen">13</episode-num>
+    <category lang="ca">ENTRETENIMENT</category>
     <category lang="ca">ALTRES</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/3/3/1756148014833.jpg"/>
+    <previously-shown/>
   </programme>
   <channel id="oca1">
     <display-name>OCA1</display-name>
