@@ -3,60 +3,51 @@
   <channel id="tvi">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20260930183457 +0200" stop="20260930192147 +0200" channel="tvi">
-    <title lang="ca">Nervi</title>
-    <sub-title lang="ca">Sofiane Pamart, festivals singulars, futbol pop, Remei de Ca la Fresca</sub-title>
-    <desc lang="ca">Superestrella del rap o de la música clàssica? El pianista Sofiane Pamart omple grans estadis reunint el millor dels dos mons. Conegut a França com el rei del piano, Andrea Gumes l'entrevista per saber què fa d'ell un dels músics clàssics més escoltats per streaming. Amb el periodista Blai Marsé fem una ruta pels festivals d'estiu catalans més singulars, i amb el Jacint Casademont repassem pel·lícules, còmics, cançons i tota mena d'artefactes pop inspirats en el futbol. Acabem amb el directe dels Remei de Ca la Fresca ara que reediten en vinil el seu disc de debut homònim. </desc>
-    <length units="seconds">2810</length>
-    <episode-num system="onscreen">85</episode-num>
+  <programme start="20260930221138 +0200" stop="20260930233312 +0200" channel="tvi">
+    <title lang="ca">Soc i Seré</title>
+    <sub-title lang="ca">Un territori amb història</sub-title>
+    <desc lang="ca">Després de sobreviure a la primera eliminació, 50 aspirants continuen a la competició i s'hauran d'enfrontar als seus antics aliats. En aquest capítol, es dividiran en 5 equips formats per 10 persones, i cada equip durà el nom d'un emblemàtic cim català.Al repte d'avantatge, els aspirants es mouran Amunt i Avall per demostrar que dominen les dades geogràfiques més rellevants de Catalunya, però l'expulsió es decidirà amb el primer repte d'història que s'ha fet mai a 'Soc i seré'. Els equips viatjaran a diferents etapes del passat del nostre país per posar Cada cosa al seu temps.Un dels 5 equips se'n tornarà cap a casa, mentre que les 10 persones que guanyin el repte eliminatori ompliran la seva butxaca persona amb 10.000 euros més.Quin equip serà el més resolutiu en aquesta segona etapa del programa? I qui, d'entre els que se'n vagin, tindrà l'oportunitat de tornar al concurs?</desc>
+    <length units="seconds">4894</length>
+    <episode-num system="onscreen">8</episode-num>
     <category lang="ca">ENTRETENIMENT</category>
-    <category lang="ca">ALTRES</category>
+    <category lang="ca">CONCURS</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <subtitles type="teletext"/>
-    <previously-shown/>
   </programme>
-  <programme start="20260930192147 +0200" stop="20260930204846 +0200" channel="tvi">
-    <title lang="ca">Documental</title>
-    <sub-title lang="ca">Totes les criatures</sub-title>
-    <desc lang="ca">'Totes les criatures' (2021). Una producció de Elsabeth produccions amb la col·laboració de Televisió de Catalunya i el Bisbat de la Seu d'Urgell. Amb el suport de l' ICEC.Un grup de veïns ideen un fórmula imaginativa per reviure l'edifici més emblemàtic de Saurí: demanen a l'artista Santi Moix que pinti les parets de l'església romànica del poble que l'ha vist créixer. El pintor -que viu i treballa a Nova York des de fa trenta anys- accepta el repte i comença així un viatge de retorn als seus orígens, gairebé místic, que durarà 4 anys. La pel·lícula segueix el llarg procés de creació i retrata els dos mons en col·lisió que habiten dins del Santi: Nova York, una ciutat moderna, superpoblada, aparador del capitalisme més ferotge, i Saurí, un poble de dotze habitants, castigat pel despoblament rural, però que es resisteix a desaparèixer.Direcció: Xavier PuigGuió: Raimon Fransoy, Xavier Puig i Macià Florit Realització: ElsabethProducció i muntatge: Xavier Puig i Macià FloritProductor executiu TVC: Jordi AmbròsProductor delegat TVC: Daniel BareaDirector fotografia: Xavier PuigDirectora de producció: Laia BonetMúsica: Xarim Aresté Grafisme: Oriol Frías Veu en off: Joan Solé</desc>
-    <credits>
-      <director>Xavier Puig</director>
-      <writer>Raimon Fransoy</writer>
-      <writer>Xavier</writer>
-    </credits>
-    <length units="seconds">5219</length>
-    <episode-num system="onscreen">1</episode-num>
-    <category lang="ca">DIVULGACIÓ</category>
+  <programme start="20260930233312 +0200" stop="20261001003146 +0200" channel="tvi">
+    <title lang="ca">País d'altura</title>
+    <sub-title lang="ca">Pirineus</sub-title>
+    <desc lang="ca">Els Pirineus són una frontera de muntanyes gegants i vides a gran altitud. Pobles penjats del mapa, cims que toquen el cel i gent que viu més a prop dels núvols que dels embussos.</desc>
+    <length units="seconds">3514</length>
+    <episode-num system="onscreen">2</episode-num>
+    <category lang="ca">ENTRETENIMENT</category>
     <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
-    <previously-shown/>
   </programme>
   <channel id="324">
     <display-name>324</display-name>
   </channel>
-  <programme start="20260930183000 +0200" stop="20260930200000 +0200" channel="324">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">5400</length>
-    <episode-num system="onscreen">11310</episode-num>
+  <programme start="20260930220500 +0200" stop="20261001000000 +0200" channel="324">
+    <title lang="ca">Mésnit</title>
+    <desc lang="ca">El 'Mésnit' arriba a la desena temporada, amb Marina Romero al capdavant de l'espai i amb la voluntat de continuar sent un centre de debat d'idees i d'anàlisi de l'activitat política.</desc>
+    <length units="seconds">6900</length>
+    <episode-num system="onscreen">2170</episode-num>
     <category lang="ca">ACTUALITAT</category>
-    <category lang="ca">INFORMATIU DIÀRI</category>
+    <category lang="ca">DEBAT</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
-  <programme start="20260930200000 +0200" stop="20260930210000 +0200" channel="324">
+  <programme start="20261001000000 +0200" stop="20261001003000 +0200" channel="324">
     <title lang="ca">Notícies 3CatInfo</title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">3600</length>
-    <episode-num system="onscreen">11311</episode-num>
+    <length units="seconds">1800</length>
+    <episode-num system="onscreen">11312</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
@@ -68,41 +59,41 @@
   <channel id="esport3">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20260930184000 +0200" stop="20260930202656 +0200" channel="esport3">
-    <title lang="ca">Handbol</title>
-    <sub-title lang="ca">Flensburg-BM Granollers / EHF European League / J1</sub-title>
-    <desc lang="ca">El Fraikin Granollers s'estrena, en una nova edició del campionat continental, a la pista del conjunt de Schleswig-Holstein. El Flensburg és un històric de l'handbol alemany amb un gran palmarès, que inclou la Champions de la temporada 2013-2014 i tres European League, l'última fa dues campanyes.</desc>
-    <length units="seconds">6416</length>
-    <episode-num system="onscreen">42</episode-num>
+  <programme start="20260930230000 +0200" stop="20261001003108 +0200" channel="esport3">
+    <title lang="ca">Onze</title>
+    <sub-title lang="ca">Rendits a Lamine; Cristiano explota i 'El predicador'</sub-title>
+    <desc lang="ca">Lluís Carrasco, Jordi Costa, Gemma Mallorca i Jofre Mateu opinen sobre el gran moment de forma de Lamine Yamal i l'abandonament de Ronaldo de la concentració de Portugal. L'Òscar Pérez-Dolz predica els manaments del bon culer.</desc>
+    <length units="seconds">5468</length>
+    <episode-num system="onscreen">1259</episode-num>
     <category lang="ca">ESPORTS</category>
-    <category lang="ca">RETRANSMISSIONS ESPORTS</category>
+    <category lang="ca">MAGAZINE</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <icon src="https://img.ccma.cat/multimedia/jpg/2/7/1729614341772.jpg"/>
+    <subtitles type="teletext"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/1/1/1688543515711.jpg"/>
   </programme>
-  <programme start="20260930202656 +0200" stop="20260930222102 +0200" channel="esport3">
-    <title lang="ca">Bàsquet</title>
-    <sub-title lang="ca">Bàsquet Girona-Emlak Konut / Euroleague / Prèvia</sub-title>
-    <desc lang="ca">L'Spar es juga l'accés a la màxima competició continental en aquesta eliminatòria prèvia, a un sol partit, contra el conjunt turc.</desc>
-    <length units="seconds">6846</length>
-    <episode-num system="onscreen">68</episode-num>
+  <programme start="20261001003108 +0200" stop="20261001004946 +0200" channel="esport3">
+    <title lang="ca">3CatInfo Esports</title>
+    <desc lang="ca">Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.</desc>
+    <length units="seconds">1118</length>
+    <episode-num system="onscreen">5524</episode-num>
     <category lang="ca">ESPORTS</category>
-    <category lang="ca">RETRANSMISSIONS ESPORTS</category>
+    <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <icon src="https://img.3cat.cat/multimedia/jpg/1/9/1790606432091.jpg"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/9/7/1758888682179.jpg"/>
   </programme>
   <channel id="sx3">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20260930185216 +0200" stop="20260930190357 +0200" channel="sx3">
-    <title lang="ca">Els barrufets (3D)</title>
-    <sub-title lang="ca">La ruta</sub-title>
-    <desc lang="ca">El Poruc confessa a la Flor que li fa pànic anar al bosc i ella li proposa d'anar-hi a fer un tomb en cotxe perquè vegi totes les meravelles que hi ha. A la ruta els acompanyen el Forçut i la Barrufeta perquè el Poruc se senti més segur, però no hi ha manera que es relaxi. Quan la sortida es complica, serà ell, però, qui traurà les castanyes del foc als altres.</desc>
-    <length units="seconds">701</length>
-    <episode-num system="onscreen">69</episode-num>
+  <programme start="20260930230148 +0200" stop="20260930232241 +0200" channel="sx3">
+    <title lang="ca">Els germans Kratt</title>
+    <sub-title lang="ca">El combat de pudor dels lèmurs</sub-title>
+    <desc lang="ca">Un matí, mentre són a Madagascar, els germans Kratt i els seus amics senten crits que indiquen que està tenint lloc una baralla entre dos grups de lèmurs de cua anellada. Encuriosits per aquest fet decideixen infiltrar-se en aquests grups per tal de descobrir la causa de la disputa. Així aprendran noves formes de comunicació animal.</desc>
+    <length units="seconds">1253</length>
+    <episode-num system="onscreen">86</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
@@ -111,67 +102,82 @@
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20260930190357 +0200" stop="20260930192647 +0200" channel="sx3">
-    <title lang="ca">Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
-    <sub-title lang="ca">Les Embrutaires</sub-title>
-    <desc lang="ca">Després d'una festa de pijames plena de sorpreses, la Marinette i les seves amigues es pregunten què li passa a la Kagami. S'aïlla de la colla, acaba desapareixent i les amigues no la troben. Surten a buscar-la però de seguida ho han de deixar córrer perquè apareixen supermalvats. Aconseguirà Ladybug superar les Embrutaires i trobar la Kagami?</desc>
-    <length units="seconds">1370</length>
-    <episode-num system="onscreen">149</episode-num>
+  <programme start="20260930232241 +0200" stop="20260930234250 +0200" channel="sx3">
+    <title lang="ca">Els germans Kratt</title>
+    <sub-title lang="ca">El lèmur daurat</sub-title>
+    <desc lang="ca">A Madagascar, la Patricia, que és membre del Club d'Amics dels Kratt, comunica a l'equip una bona notícia: ha nascut una cria de lèmur daurat, que és un animal molt escàs i amenaçat. L'equip decideix quedar-se més temps a l'illa per estudiar aquest lèmur tan rar. Aquesta vegada s'hauran de veure les cares amb la perversa Donita Donata, que es vol fer un vestit amb un lèmur per assistir a una festa.</desc>
+    <length units="seconds">1209</length>
+    <episode-num system="onscreen">87</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
       <value>INFANTIL</value>
     </rating>
     <subtitles type="teletext"/>
+    <previously-shown/>
   </programme>
   <channel id="c33">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20260930183318 +0200" stop="20260930193050 +0200" channel="c33">
-    <title lang="ca">Un planeta perfecte</title>
-    <sub-title lang="ca">Mars</sub-title>
-    <desc lang="ca">Perquè hi hagi vida al mar, cal que l'aigua es mogui. L'aigua dels corrents marins trasllada nutrients a grans distàncies i això propicia concentracions d'éssers vius que es beneficien directament o indirectament d'aquest dinamisme. Al centre del Pacífic, a la costa de Sud-àfrica, a les Bahames, a les Galápagos o a les illes Falkland trobem exemples sorprenents de com tothom que viu al mar aprofita la font de vida que són els corrents marins.</desc>
-    <length units="seconds">3452</length>
-    <episode-num system="onscreen">4</episode-num>
-    <category lang="ca">DIVULGACIÓ</category>
-    <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <subtitles type="teletext"/>
-    <previously-shown/>
-    <icon src="https://img.3cat.cat/multimedia/jpg/0/9/1766143230590.jpg"/>
-  </programme>
-  <programme start="20260930193050 +0200" stop="20260930201713 +0200" channel="c33">
-    <title lang="ca">Arxipèlag blau</title>
-    <sub-title lang="ca">Praderies i arenals</sub-title>
-    <desc lang="ca">Miquel Salamanca ens presenta en aquest primer capítol de la sèrie 'Arxipèlag blau' dos dels ambients més característics de les nostres aigües: els arenals i els alguers, el que es coneix tradicionalment com 'el blanc' i 'el negre'. Ens endinsarem als alguers o praderies de posidònia per conèixer el cicle vital d'aquesta planta marina, les seves funcions ecològiques i les espècies que amaga entre les seves fulles. Ens sorprendrà descobrir com els arenals, en aparença extensions desèrtiques, són plens de vida, amb espècies que han desenvolupat complexos sistemes de camuflatge i defensa. Ferrasses, agulletes, serpetons, pedaços, pops i moltes altres criatures marines seran protagonistes d'aquest capítol. Per finalitzar acompanyarem Gàdor Muntaner a la seva visita a s'Espardell, a la reserva marina dels Freus d'Eivissa i Formentera.</desc>
-    <length units="seconds">2783</length>
+  <programme start="20260930225801 +0200" stop="20261001005449 +0200" channel="c33">
+    <title lang="ca">Pel·lícula</title>
+    <sub-title lang="ca">Match point</sub-title>
+    <desc lang="ca">MATCH POINT (Match point)Idioma versió original: anglèsProducció: BBC Films, Thema Productions i Jada Productions, 2005 (Gran Bretanya i Estats Units)Direcció i guió: Woody AllenDurada: 122 minutsFotografia: Remi Adefarasin (color)Intèrprets: Jonathan Rhys-Meyers (Chris Wilton), Scarlett Johansson (Nola), Matthew Goode (Tom Hewett), Emily Mortimer (Chloe Hewett), Brian Cox (Alex Hewett), Penelope Wilson (Eleanor Hewett)Dramàtica història sobre l'ascens d'un jove en la societat londinenca i de les terribles conseqüències de la seva ambició. Chris Wilton és un professor de tennis que dóna classes a Tom Hewett, un jove molt ric. Chloe, la germana de Tom, s'enamora de Chris i es casen. Però Chris i la nòvia de Tom, una actriu nord-americana, es fan amants. La noia queda embarassada i Chris es trobarà en un carreró sense sortida.</desc>
+    <credits>
+      <actor>Jonathan Rhys-Meyers (Chris Wilton)</actor>
+      <actor>Scarlett Johansson (Nola)</actor>
+      <actor>Matthew Goode (Tom Hewett)</actor>
+      <actor>Emily Mortimer (Chloe Hewett)</actor>
+      <actor>Brian Cox (Alex Hewett)</actor>
+      <actor>Penelope Wilson (Eleanor Hewett)Dramàtica història sobre l'ascens d'un jove en la societat londinenca</actor>
+      <actor>de les terribles conseqüències de la seva ambició. Chris Wilton és un professor de tennis que dóna classes a Tom Hewett</actor>
+      <actor>un jove molt ric. Chloe</actor>
+      <actor>la germana de Tom</actor>
+      <actor>s'enamora de Chris</actor>
+      <actor>es casen. Però Chris</actor>
+      <actor>la nòvia de Tom</actor>
+      <actor>una actriu nord-americana</actor>
+      <actor>es fan amants. La noia queda embarassada</actor>
+      <actor>Chris es trobarà en un carreró sense sortida.</actor>
+    </credits>
+    <length units="seconds">7008</length>
     <episode-num system="onscreen">1</episode-num>
-    <category lang="ca">DIVULGACIÓ</category>
-    <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
+    <category lang="ca">FICCIÓ</category>
+    <category lang="ca">PEL·LÍCULA / TELEFILM</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
+    <icon src="https://img.3cat.cat/multimedia//jpg/3/9/1787666178593.jpg"/>
+  </programme>
+  <programme start="20261001005449 +0200" stop="20261001023026 +0200" channel="c33">
+    <title lang="ca">Pel·lícula</title>
+    <sub-title lang="ca">La increïble Elisa</sub-title>
+    <desc lang="ca">ASOMBROSA ELISAProducció de La Charito Films amb la participació de TV3.Director: Sadrac González-PerellónGuionista: Sadrac González-PerellónDirector fotografia: Iván RomeroIntèrprets: Silvia Abascal, Asier Etxeandia, Ivan Massagué i Jana San Antonio.SINOPSIElisa és una nena de dotze anys que, després de la mort accidental de la seva mare, intenta convèncer el seu pare que?posseeix els superpoders de la seva heroïna de còmic favorita, amb els quals pot venjar-se de qui va provocar l'accident mortal. </desc>
+    <credits>
+      <actor>Silvia Abascal</actor>
+      <actor>Asier Etxeandia</actor>
+      <actor>Ivan Massagué</actor>
+      <actor>Jana San Antonio.SINOPSIElisa és una nena de dotze anys que</actor>
+      <actor>després de la mort accidental de la seva mare</actor>
+      <actor>intenta convèncer el seu pare que?posseeix els superpoders de la seva heroïna de còmic favorita</actor>
+      <actor>amb els quals pot venjar-se de qui va provocar l'accident mortal.</actor>
+    </credits>
+    <length units="seconds">5737</length>
+    <episode-num system="onscreen">1</episode-num>
+    <category lang="ca">FICCIÓ</category>
+    <category lang="ca">PEL·LÍCULA / TELEFILM</category>
+    <rating>
+      <value>PÚBLIC ADULT</value>
+    </rating>
+    <subtitles type="teletext"/>
+    <previously-shown/>
+    <icon src="https://img.3cat.cat/multimedia/jpg/2/7/1762796155872.jpg"/>
   </programme>
   <channel id="oca1">
     <display-name>OCA1</display-name>
   </channel>
-  <programme start="20260930185822 +0200" stop="20260930210317 +0200" channel="oca1">
-    <title lang="ca">Bàsquet</title>
-    <sub-title lang="ca">- PAOK-Kids&amp;Us Manresa / Eurocup / J1</sub-title>
-    <desc lang="ca">Els del Bages visiten la ciutat grega de Tessalònica per debutar en una nova edició d'aquesta competició europea de bàsquet.</desc>
-    <length units="seconds">7495</length>
-    <episode-num system="onscreen">96</episode-num>
-    <category lang="ca">ESPORTS</category>
-    <category lang="ca">RETRANSMISSIONS ESPORTS</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <icon src="https://img.3cat.cat/multimedia/jpg/0/7/1761644896070.jpg"/>
-  </programme>
   <channel id="oca2">
     <display-name>OCA2</display-name>
   </channel>
