@@ -3,99 +3,95 @@
   <channel id="tvi">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20260930060000 +0200" stop="20260930080000 +0200" channel="tvi">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">7200</length>
-    <episode-num system="onscreen">11305</episode-num>
+  <programme start="20260930103027 +0200" stop="20260930135500 +0200" channel="tvi">
+    <title lang="ca">Tot es mou</title>
+    <desc lang="ca">El programa presentat per Helena Garcia Melero s'emet de dilluns a divendres, de 10.30 a 13.55. Un magazín d'actualitat que busca informar, analitzar i debatre sobre temes que marquen l'actualitat social, econòmica i cultural del dia, amb una àmplia presència en directe dels reporters i reporteres, repartits per tot Catalunya. A més, el 'Tot es mou' compta amb seccions diàries de gastronomia (amb els principals cuiners i cuineres del país), successos, economia, mobilitat, temes mèdics i de tecnologia, entre d'altres.</desc>
+    <length units="seconds">12273</length>
+    <episode-num system="onscreen">1819</episode-num>
     <category lang="ca">ACTUALITAT</category>
-    <category lang="ca">INFORMATIU DIÀRI</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
-  </programme>
-  <programme start="20260930080000 +0200" stop="20260930103000 +0200" channel="tvi">
-    <title lang="ca">Matins</title>
-    <desc lang="ca">'Matins' és un dels puntals informatius de TV3. El programa matinal dona les claus del dia que comença, explica les notícies que han passat aportant-ne el context per entendre-les i analitza amb veus acreditades l'actualitat més propera i la d'arreu del món. 'Matins' comença a les 8 del matí, de dilluns a divendres, i està presentat per Ariadna Oltra.</desc>
-    <length units="seconds">9000</length>
-    <episode-num system="onscreen">4682</episode-num>
-    <category lang="ca">ACTUALITAT</category>
-    <category lang="ca">INFORMATIU DIÀRI</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <icon src="https://img.ccma.cat/multimedia/jpg/2/0/1758040151402.jpg"/>
-  </programme>
-  <channel id="324">
-    <display-name>324</display-name>
-  </channel>
-  <programme start="20260930060000 +0200" stop="20260930080000 +0200" channel="324">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">7200</length>
-    <episode-num system="onscreen">11305</episode-num>
-    <category lang="ca">ACTUALITAT</category>
-    <category lang="ca">INFORMATIU DIÀRI</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <subtitles type="teletext"/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
-  </programme>
-  <programme start="20260930080000 +0200" stop="20260930090000 +0200" channel="324">
-    <title lang="ca">Matins</title>
-    <desc lang="ca">'Matins' és un dels puntals informatius de TV3. El programa matinal dona les claus del dia que comença, explica les notícies que han passat aportant-ne el context per entendre-les i analitza amb veus acreditades l'actualitat més propera i la d'arreu del món. 'Matins' comença a les 8 del matí, de dilluns a divendres, i està presentat per Ariadna Oltra.</desc>
-    <length units="seconds">3600</length>
-    <episode-num system="onscreen">4682</episode-num>
-    <category lang="ca">ACTUALITAT</category>
-    <category lang="ca">INFORMATIU DIÀRI</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <icon src="https://img.ccma.cat/multimedia/jpg/2/0/1758040151402.jpg"/>
-  </programme>
-  <channel id="esport3">
-    <display-name>ESPORT3</display-name>
-  </channel>
-  <programme start="20260930071035 +0200" stop="20260930084110 +0200" channel="esport3">
-    <title lang="ca">Onze</title>
-    <sub-title lang="ca">Ensurt Raphinha; 'Onzeclopèdia' i 'El consultori'</sub-title>
-    <desc lang="ca">Juvenal Edjogo, Fernando Polo, Irati Vidal i Ivan San Antonio comenten la lesió de Raphinha en l'amistós del Brasil. En Fran Domènech presenta els titulats més curiosos de la premsa esportiva. En Sergi Ferrer respon les consultes dels espectadors de l'Onze.</desc>
-    <length units="seconds">5435</length>
-    <episode-num system="onscreen">1258</episode-num>
-    <category lang="ca">ESPORTS</category>
     <category lang="ca">MAGAZINE</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <subtitles type="teletext"/>
-    <previously-shown/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/1/1/1688543515711.jpg"/>
   </programme>
-  <programme start="20260930084110 +0200" stop="20260930100105 +0200" channel="esport3">
-    <title lang="ca">Handbol</title>
-    <sub-title lang="ca">Montada-Barça / Mundial de Clubs / J3</sub-title>
-    <desc lang="ca">Els barcelonistes, que ja tenen assegurada la presència a la final, volen acabar invictes la fase de grups.</desc>
-    <length units="seconds">4795</length>
-    <episode-num system="onscreen">16</episode-num>
-    <category lang="ca">ESPORTS</category>
-    <category lang="ca">RETRANSMISSIONS ESPORTS</category>
+  <programme start="20260930135500 +0200" stop="20260930143000 +0200" channel="tvi">
+    <title lang="ca">Telenotícies comarques</title>
+    <length units="seconds">2100</length>
+    <episode-num system="onscreen">7045</episode-num>
+    <category lang="ca">ACTUALITAT</category>
+    <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <previously-shown/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/9/1/1788346445719.jpg"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/5/2/1758026313525.jpg"/>
+  </programme>
+  <channel id="324">
+    <display-name>324</display-name>
+  </channel>
+  <programme start="20260930120000 +0200" stop="20260930135500 +0200" channel="324">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="seconds">6900</length>
+    <episode-num system="onscreen">11307</episode-num>
+    <category lang="ca">ACTUALITAT</category>
+    <category lang="ca">INFORMATIU DIÀRI</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <subtitles type="teletext"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
+  </programme>
+  <programme start="20260930135500 +0200" stop="20260930143000 +0200" channel="324">
+    <title lang="ca">Telenotícies comarques</title>
+    <length units="seconds">2100</length>
+    <episode-num system="onscreen">7045</episode-num>
+    <category lang="ca">ACTUALITAT</category>
+    <category lang="ca">INFORMATIU DIÀRI</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <icon src="https://img.ccma.cat/multimedia/jpg/5/2/1758026313525.jpg"/>
+  </programme>
+  <channel id="esport3">
+    <display-name>ESPORT3</display-name>
+  </channel>
+  <programme start="20260930130010 +0200" stop="20260930140058 +0200" channel="esport3">
+    <title lang="ca">Esport Club</title>
+    <sub-title lang="ca">Roma-Barça, exhibició de Lamine i Queralt Casas</sub-title>
+    <desc lang="ca">Avui, Roma-Barça de Champions per TV3. Raphinha torna cap a Barcelona. Exhibició de Lamine Yamal a Sevilla. En parlem amb l'Àlex Delmàs. Què és la llei Wenger? Ens ho explica Joan Fàbregas. Entrevistem Queralt Casas, jugadora de l'Spar Girona. A la tertúlia ens acompanyen Dani Senabre, Frederic Porta i Gemma Mallorca.</desc>
+    <length units="seconds">3648</length>
+    <episode-num system="onscreen">3251</episode-num>
+    <category lang="ca">ESPORTS</category>
+    <category lang="ca">INFORMATIU DIÀRI</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <subtitles type="teletext"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/7/3/1698145091337.jpg"/>
+  </programme>
+  <programme start="20260930140058 +0200" stop="20260930150245 +0200" channel="esport3">
+    <title lang="ca">Esport Club</title>
+    <sub-title lang="ca">Roma-Barça, exhibició de Lamine i Queralt Casas</sub-title>
+    <desc lang="ca">Avui, Roma-Barça de Champions per TV3. Raphinha torna cap a Barcelona. Exhibició de Lamine Yamal a Sevilla. En parlem amb l'Àlex Delmàs. Què és la llei Wenger? Ens ho explica Joan Fàbregas. Entrevistem Queralt Casas, jugadora de l'Spar Girona. A la tertúlia ens acompanyen Dani Senabre, Frederic Porta i Gemma Mallorca.</desc>
+    <length units="seconds">3707</length>
+    <episode-num system="onscreen">3251</episode-num>
+    <category lang="ca">ESPORTS</category>
+    <category lang="ca">INFORMATIU DIÀRI</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <subtitles type="teletext"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/7/3/1698145091337.jpg"/>
   </programme>
   <channel id="sx3">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20260930075246 +0200" stop="20260930080741 +0200" channel="sx3">
-    <title lang="ca">La Patrulla Peluda</title>
-    <sub-title lang="ca">La Patrulla salva una acampada molt freda</sub-title>
-    <desc lang="ca">L'Alex i el senyor Porter van d'acampada a una illa tropical i de cop i volta hi ha una tempesta de neu.</desc>
-    <length units="seconds">895</length>
-    <episode-num system="onscreen">229</episode-num>
+  <programme start="20260930132935 +0200" stop="20260930134921 +0200" channel="sx3">
+    <title lang="ca">El detectiu Conan</title>
+    <sub-title lang="ca">En Conan cau per un penya-segat (2a part)</sub-title>
+    <desc lang="ca">Per salvar en Yuji Isehara de la banda del Zorro, en Conan es llança daltabaix d'un penya-segat i desapareix. La Ran i companyia no se'n saben avenir i no es volen ni imaginar la possibilitat d'haver perdut el seu amic, però, en realitat, tothom el dona per mort. La pròxima a desaparèixer és l'Ai, que rep un missatge que podria ser el principi de la salvació del seu amic de l'ànima.</desc>
+    <length units="seconds">1186</length>
+    <episode-num system="onscreen">925</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
@@ -104,14 +100,14 @@
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20260930080741 +0200" stop="20260930081749 +0200" channel="sx3">
-    <title lang="ca">Titó</title>
-    <sub-title lang="ca">Excursió d'agents rurals</sub-title>
-    <desc lang="ca">Avui farem d'agents rurals! Alliberarem un xoriguer, salvarem un eriçó i investigarem un incendi amb un ajudant molt pelut: un gos!</desc>
-    <length units="seconds">608</length>
-    <episode-num system="onscreen">173</episode-num>
-    <category lang="ca">ENTRETENIMENT</category>
-    <category lang="ca">ALTRES</category>
+  <programme start="20260930134921 +0200" stop="20260930141112 +0200" channel="sx3">
+    <title lang="ca">El detectiu Conan</title>
+    <sub-title lang="ca">El cas Nobunaga, 450è aniversari</sub-title>
+    <desc lang="ca">El doctor Agasa i la Lliga de Detectius Júnior se'n van a Gifu convidats per un amic del doctor. Allà visiten els principals monuments de la ciutat. Després de veure un espectacle de superherois, els Nobuna Gaizers, en Mitsuhiko s'adona que s'ha descuidat de demanar-los els autògrafs i hi torna corrents per veure si encara els troba. La resta l'esperen, però en Mitsuhiko no torna. Ell i els Nobuna Gaizers han desaparegut.</desc>
+    <length units="seconds">1311</length>
+    <episode-num system="onscreen">926</episode-num>
+    <category lang="ca">FICCIÓ</category>
+    <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
       <value>INFANTIL</value>
     </rating>
@@ -121,33 +117,34 @@
   <channel id="c33">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20260930070149 +0200" stop="20260930075258 +0200" channel="c33">
-    <title lang="ca">El Foraster</title>
-    <sub-title lang="ca">Llívia</sub-title>
-    <desc lang="ca">Llívia, a la comarca de la Cerdanya, té dues peculiaritats. La primera és que és un municipi català totalment envoltat per territori francès. I la segona, tal i com està a punt de descobrir en Quim, és que és un poble amb vocació... de capital del món.En ple hivern, la neu marca la vida dels veïns i les veïnes de Llívia. I no tots la viuen de la mateixa manera. Coneixerem a la Rosor, que la detesta. I al Marcel, que la idolatra fins al punt d'anomenar-la 'or blanc'. Amb ell, que es vanta de ser un crack de les pistes d'esquí, en Quim s'enfrontarà al repte d'aprendre a esquiar en només deu minuts. I amb en Carles, es posarà les raquetes per pujar al Castell de Llívia i gaudir de les millors vistes de la Cerdanya. També veurem en acció l'equip d'hoquei gel de Puigcerdà i coneixerem els acròbates d'un snowpark improvisat, que li ensenyaran al Quim que és tenir 'flow'. Amb en Josep Maria, que ha passat per un tràngol molt dur, aprendrem que cada sortida de sol és una nova oportunitat per gaudir de la vida. I si és a Llívia, la capital del món, millor que millor!</desc>
-    <length units="seconds">3069</length>
-    <episode-num system="onscreen">86</episode-num>
-    <category lang="ca">ENTRETENIMENT</category>
-    <category lang="ca">VARIETATS</category>
+  <programme start="20260930131129 +0200" stop="20260930144816 +0200" channel="c33">
+    <title lang="ca">El Gran Dictat, VIP</title>
+    <sub-title lang="ca">El Gran Gran Dictat</sub-title>
+    <desc lang="ca">El plató d''EL GRAN GRAN DICTAT' de TV3, presentat per Òscar Dalmau, rebrà tres concursants famosos molt diferents entre ells: l'actor Toni Albà, la model i presentadora de televisió Judit Mascó i el campió del món de Moto2, Pol Espargaró. Tots tres s'enfrontaran per guanyar un premi final de 2.000 euros i donar-lo a l'ONG que hagin escollit.En aquesta edició, els populars concursants també participaran en una sèrie d'esquetxos en què descobrirem què fan quan no treballen. Així, veurem quina és l'afició preferida del Toni Albà, descobrirem el negoci a Internet que ha muntat la Judit Mascó i comprovarem que el Pol Espargaró aprofita el poc temps lliure que té per dedicar-lo a família i amics.Com cada setmana, el Mag Lari comptarà amb la col·laboració del presentador i dels convidats per fer diferents trucs de màgia.</desc>
+    <length units="seconds">5807</length>
+    <episode-num system="onscreen">14</episode-num>
+    <category lang="ca">DIVULGACIÓ</category>
+    <category lang="ca">EDUCATIU</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20260930075258 +0200" stop="20260930084550 +0200" channel="c33">
-    <title lang="ca">Experiència Catalana</title>
-    <sub-title lang="ca">Germans Green</sub-title>
-    <desc lang="ca">La Ivana Miño acompanya la Katie Green i al seu germà Barney per les Terres de l'Ebre. Un territori molt lligat a la seva història i a la de la seva família: el seu avi va morir al front de l'Ebre.</desc>
-    <length units="seconds">3172</length>
-    <episode-num system="onscreen">13</episode-num>
-    <category lang="ca">ENTRETENIMENT</category>
+  <programme start="20260930144816 +0200" stop="20260930153424 +0200" channel="c33">
+    <title lang="ca">La Renaixença</title>
+    <sub-title lang="ca">Millors moments - setmana 5</sub-title>
+    <desc lang="ca">Sabem que sou gent ocupada, per això us hem fet un recull dels millors moments dels capítols d'aquesta setmana. Així podeu veure algunes pinzellades del que hem viscut i podeu decidir en quin ordre mirar els capítols que hem fet. Això sí, no us en deixeu cap, que a cada un hi ha detalls que no hem pogut posar aquí.</desc>
+    <length units="seconds">2768</length>
+    <episode-num system="onscreen">25</episode-num>
+    <category lang="ca">DIVULGACIÓ</category>
     <category lang="ca">ALTRES</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/3/3/1756148014833.jpg"/>
   </programme>
   <channel id="oca1">
     <display-name>OCA1</display-name>
