@@ -3,55 +3,54 @@
   <channel id="tvi">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20260929231419 +0200" stop="20260930001426 +0200" channel="tvi">
-    <title lang="ca">Nits Sense ficció</title>
-    <sub-title lang="ca">Els Pets: Bon dia, joves!</sub-title>
-    <desc lang="ca">Són l'únic grup que perviu en actiu del famós boom del rock català dels anys 80, amb més de tretze discos d'estudi i 20 intenses gires en directe. La seva carrera musical és, també, la banda sonora de tres generacions. 'Els Pets: bon dia, joves' recorre la petja emocional d'una de les bandes més carismàtiques del país.</desc>
-    <length units="seconds">3607</length>
-    <episode-num system="onscreen">1</episode-num>
+  <programme start="20260930022219 +0200" stop="20260930040000 +0200" channel="tvi">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="seconds">5861</length>
+    <episode-num system="onscreen">11304</episode-num>
     <category lang="ca">ACTUALITAT</category>
-    <category lang="ca">DOCUMENTAL</category>
+    <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <subtitles type="teletext"/>
     <previously-shown/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/3/3/1579190261433.jpg"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
-  <programme start="20260930001426 +0200" stop="20260930004156 +0200" channel="tvi">
-    <title lang="ca">El local</title>
-    <sub-title lang="ca">Buhos-Andrea Motis</sub-title>
-    <desc lang="ca">El grup de rock festiu Buhos invita la trompetista i cantant jazzística Andrea Motis a El Local. Ells porten anys fent gires explosives per tot Catalunya i ella, des que era adolescent, toca als millors escenaris del món. No es coneixen personalment i mai s'haguessin imaginat que farien un feat junts, però han decidit entrar al joc. Primer s'asseuen a la taula de so de l'estudi de gravació a escoltar 'Volcans', un dels èxits Buhos, i consensuen donar-li un toc de bossa. Després passen a l'acció. Entren a l'estudi a assajar i ho posen tot en pràctica. També dialoguen i comparteixen vivències cara a cara. Durant l'assaig hi ha diversió, professionalitat i, sobretot, molts vents. El capítol acaba amb la col·laboració en directe de Buhos i Andrea Motis fent una versió molt interessant de 'Volcans'. </desc>
-    <length units="seconds">1650</length>
-    <episode-num system="onscreen">1</episode-num>
-    <category lang="ca">ENTRETENIMENT</category>
+  <programme start="20260930040000 +0200" stop="20260930050004 +0200" channel="tvi">
+    <title lang="ca">Blues a l'estudi</title>
+    <sub-title lang="ca">The Walking Stick Man</sub-title>
+    <desc lang="ca">L'ànima d'aquest projecte és el multiinstrumentista i compositor barceloní Jordi Llaurens. Amb una densa trajectòria i desenes de col·laboracions amb el grans noms del blues com Alvin Young Blood Heart, James Harman o Barrel-House Chuck. Jordi Llaurens ens visita avui al programa, acompanyat de David Giorcelli, Reginald Vilardell, Josep Martí i Llorenç Barceló.</desc>
+    <length units="seconds">3604</length>
+    <episode-num system="onscreen">4</episode-num>
+    <category lang="ca">MUSICALS</category>
     <category lang="ca">ALTRES</category>
     <rating>
-      <value>TOTS ELS PÚBLICS</value>
+      <value>PÚBLIC ADULT</value>
     </rating>
-    <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
   <channel id="324">
     <display-name>324</display-name>
   </channel>
-  <programme start="20260929220500 +0200" stop="20260930000000 +0200" channel="324">
-    <title lang="ca">Mésnit</title>
-    <desc lang="ca">El 'Mésnit' arriba a la desena temporada, amb Marina Romero al capdavant de l'espai i amb la voluntat de continuar sent un centre de debat d'idees i d'anàlisi de l'activitat política.</desc>
-    <length units="seconds">6900</length>
-    <episode-num system="onscreen">2169</episode-num>
+  <programme start="20260930010000 +0200" stop="20260930060000 +0200" channel="324">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="seconds">18000</length>
+    <episode-num system="onscreen">11304</episode-num>
     <category lang="ca">ACTUALITAT</category>
-    <category lang="ca">DEBAT</category>
+    <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
+    <previously-shown/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
-  <programme start="20260930000000 +0200" stop="20260930003000 +0200" channel="324">
+  <programme start="20260930060000 +0200" stop="20260930080000 +0200" channel="324">
     <title lang="ca">Notícies 3CatInfo</title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">1800</length>
-    <episode-num system="onscreen">11303</episode-num>
+    <length units="seconds">7200</length>
+    <episode-num system="onscreen">11305</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
@@ -63,41 +62,42 @@
   <channel id="esport3">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20260929230000 +0200" stop="20260930003100 +0200" channel="esport3">
-    <title lang="ca">Onze</title>
-    <sub-title lang="ca">Ensurt Raphinha; 'Onzeclopèdia' i 'El consultori'</sub-title>
-    <desc lang="ca">Juvenal Edjogo, Fernando Polo, Irati Vidal i Ivan San Antonio comenten la lesió de Raphinha en l'amistós del Brasil. En Fran Domènech presenta els titulats més curiosos de la premsa esportiva. En Sergi Ferrer respon les consultes dels espectadors de l'Onze.</desc>
-    <length units="seconds">5460</length>
-    <episode-num system="onscreen">1258</episode-num>
-    <category lang="ca">ESPORTS</category>
-    <category lang="ca">MAGAZINE</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <subtitles type="teletext"/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/1/1/1688543515711.jpg"/>
-  </programme>
-  <programme start="20260930003100 +0200" stop="20260930005219 +0200" channel="esport3">
+  <programme start="20260930022134 +0200" stop="20260930024119 +0200" channel="esport3">
     <title lang="ca">3CatInfo Esports</title>
     <desc lang="ca">Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.</desc>
-    <length units="seconds">1279</length>
+    <length units="seconds">1185</length>
     <episode-num system="onscreen">5523</episode-num>
     <category lang="ca">ESPORTS</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
+    <previously-shown/>
     <icon src="https://img.ccma.cat/multimedia/jpg/9/7/1758888682179.jpg"/>
+  </programme>
+  <programme start="20260930024119 +0200" stop="20260930040047 +0200" channel="esport3">
+    <title lang="ca">Handbol</title>
+    <sub-title lang="ca">Montada-Barça / Mundial de Clubs / J3</sub-title>
+    <desc lang="ca">Els barcelonistes, que ja tenen assegurada la presència a la final, volen acabar invictes la fase de grups.</desc>
+    <length units="seconds">4768</length>
+    <episode-num system="onscreen">16</episode-num>
+    <category lang="ca">ESPORTS</category>
+    <category lang="ca">RETRANSMISSIONS ESPORTS</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <previously-shown/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/9/1/1788346445719.jpg"/>
   </programme>
   <channel id="sx3">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20260929230320 +0200" stop="20260929232412 +0200" channel="sx3">
-    <title lang="ca">Els germans Kratt</title>
-    <sub-title lang="ca">Objectiu, camaleó</sub-title>
-    <desc lang="ca">L'equip dels germans Kratt és a Madagascar. L'Aviva està treballant en un anell-xip dissenyat per evitar alguns problemes de funcionament en els Vestits de Poder Animal, però un misteriós animal l'hi roba. El Martin i el Chris surten a buscar-lo amb l'ajuda dels extraordinaris poders del camaleó, dels quals n'aprendran moltes coses. </desc>
-    <length units="seconds">1252</length>
-    <episode-num system="onscreen">81</episode-num>
+  <programme start="20260930022935 +0200" stop="20260930025103 +0200" channel="sx3">
+    <title lang="ca">Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
+    <sub-title lang="ca">Reunió</sub-title>
+    <desc lang="ca">Mentre visita el museu del Louvre, la Marinette fa un doble descobriment. Primer, s'adona que la seva amiga Alix, a qui va confiar el prodigi del conill, ha descobert una manera de comunicar-se amb els seus éssers estimats sense tornar al present. Segon, la Marinette s'assabenta que ella també pot fer servir el seu kwagatama per comunicar-se amb els records dels antics guardians dels prodigis. Potser això l'ajudarà a salvar-se de la trampa que li ha parat el Monarca?</desc>
+    <length units="seconds">1288</length>
+    <episode-num system="onscreen">112</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
@@ -106,12 +106,12 @@
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20260929232412 +0200" stop="20260929234422 +0200" channel="sx3">
-    <title lang="ca">Els germans Kratt</title>
-    <sub-title lang="ca">Fossa grossa</sub-title>
-    <desc lang="ca">El Chris no se'n vol anar de Madagascar sense haver vist un animal extraordinari, la fossa, però han de tornar a casa perquè l'endemà és el dia de la mare i no poden deixar d'anar a felicitar la seva. Però quan ja han marxat, el Chris torna involuntàriament a l'illa, on coneixerà les fosses. Allà haurà de lluitar contra la Donita, que caça lèmurs per fer-ne bufandes. </desc>
-    <length units="seconds">1210</length>
-    <episode-num system="onscreen">82</episode-num>
+  <programme start="20260930025103 +0200" stop="20260930031240 +0200" channel="sx3">
+    <title lang="ca">Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
+    <sub-title lang="ca">Exaltació</sub-title>
+    <desc lang="ca">Quan Ladybug persegueix el Gat Noir, ell l'esquiva. Quan l'Adrien persegueix la Marinette, ella l'esquiva a ell. La Tikki i l'Alya cada vegada estan més amoïnades pel comportament de la Marinette. Està buscant una altra excusa per no reconèixer el que sent per l'Adrien o s'està enamorant d'un altre noi de veritat? Quan la Marinette i el Gat Noir troben l'André, el gelater que ven gelats màgics que coneixen tots els secrets de l'amor, descobriran una cosa que els deixarà glaçats.</desc>
+    <length units="seconds">1297</length>
+    <episode-num system="onscreen">113</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
@@ -123,28 +123,53 @@
   <channel id="c33">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20260929225727 +0200" stop="20260929235739 +0200" channel="c33">
-    <title lang="ca">Xefs: noves generacions</title>
-    <sub-title lang="ca">Xefs, noves generacions 'La trobada'</sub-title>
-    <desc lang="ca">Els 10 millors xefs joves que han protagonitzat la sèrie documental 'Xefs ·Noves generacions' es reuneixen a 'La trobada'. Un dinar de germanor és l'excusa perquè el talent emergent de la cuina catalana es conegui i es posi cara. Mentre preparen plats senzills de la cuina catalana i sempre al voltant d'uns fogons i d'una taula, els millors cuiners i cuineres joves del país mostraran la riquesa cultural i del territori, el producte de proximitat i, sobretot, la feina d'una generació que ha d'agafar el relleu de figures clau com Carme Ruscalleda, Albert Adrià, Eduard Xatruch o els Germans Roca.</desc>
-    <length units="seconds">3612</length>
-    <episode-num system="onscreen">11</episode-num>
-    <category lang="ca">DIVULGACIÓ</category>
-    <category lang="ca">SÈRIE DOCUMENTAL</category>
+  <programme start="20260930013013 +0200" stop="20260930030630 +0200" channel="c33">
+    <title lang="ca">Pel·lícula</title>
+    <sub-title lang="ca">Falses aparences</sub-title>
+    <desc lang="ca">FALSES APARENCES 'Faux-semblants'Direcció: Akim IskerGuió: Isabelle Polin, Frédéric J. LozetProducció: Les Films du Printemps, France TV, BE-FILMS, RTBF (Télévision Belge), Radio Télévision Suisse (RTS), Région des Pays-de-la-Loire, CNCAny: 2020Durada: 97País: FrançaMúsica: Éric NeveuxFotografia: Emmanuel de FleuryIntèrprets: Thierry Godard, Noémie Schmidt, Francis Renaud, Marc Ruchmann, Laurent Bateau, Steve Tientcheu, Thor Schenker, Thomas Drelon, Gigi Ledron, Florence Janas, Félicien Juttner, Elisa Sergent, Caroline Piette, Erika Vandelet, Étienne MénardLa jove capitana Valentine Ventura, de la divisió econòmica de la policia, s'incorpora a la brigada criminal per treballar al costat del famós comandant Antoine Thomas, que acaba de reprendre l'activitat després d'un terrible accident de cotxe que el va deixar en cadira de rodes. Tots dos policies investiguen l'assassinat d'una jove periodista de Nantes, que sembla que estigui relacionat amb dues altres morts. Tot indica que es troben davant d'un assassí en sèrie, però la Valentine aviat sospita que les aparences enganyen.</desc>
+    <credits>
+      <director>Akim Isker</director>
+      <writer>Isabelle</writer>
+      <actor>Thierry Godard</actor>
+      <actor>Noémie Schmidt</actor>
+      <actor>Francis Renaud</actor>
+      <actor>Marc Ruchmann</actor>
+      <actor>Laurent Bateau</actor>
+      <actor>Steve Tientcheu</actor>
+      <actor>Thor Schenker</actor>
+      <actor>Thomas Drelon</actor>
+      <actor>Gigi Ledron</actor>
+      <actor>Florence Janas</actor>
+      <actor>Félicien Juttner</actor>
+      <actor>Elisa Sergent</actor>
+      <actor>Caroline Piette</actor>
+      <actor>Erika Vandelet</actor>
+      <actor>Étienne MénardLa jove capitana Valentine Ventura</actor>
+      <actor>de la divisió econòmica de la policia</actor>
+      <actor>s'incorpora a la brigada criminal per treballar al costat del famós comandant Antoine Thomas</actor>
+      <actor>que acaba de reprendre l'activitat després d'un terrible accident de cotxe que el va deixar en cadira de rodes. Tots dos policies investiguen l'assassinat d'una jove periodista de Nantes</actor>
+      <actor>que sembla que estigui relacionat amb dues altres morts. Tot indica que es troben davant d'un assassí en sèrie</actor>
+      <actor>però la Valentine aviat sospita que les aparences enganyen.</actor>
+    </credits>
+    <length units="seconds">5777</length>
+    <episode-num system="onscreen">1</episode-num>
+    <category lang="ca">FICCIÓ</category>
+    <category lang="ca">PEL·LÍCULA / TELEFILM</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
+    <icon src="https://img.3cat.cat/multimedia//jpg/4/0/1787303035004.jpg"/>
   </programme>
-  <programme start="20260929235739 +0200" stop="20260930003126 +0200" channel="c33">
-    <title lang="ca">Xefs: noves generacions</title>
-    <sub-title lang="ca">Rafel Muria (Restaurant Quatre Molins)</sub-title>
-    <desc lang="ca">Rafel Muria és l'ànima de Quatre Molins, un projecte que connecta la cuina d'autor amb els vins del Priorat. Format al costat de grans noms de l'alta gastronomia, com Michel Bras i Joël Robuchon, Muria ha construït una proposta personal, arrelada i exigent que l'ha portat a guanyar una Estrella Michelin. Hereu d'una nissaga d'apicultors del Perelló, és conegut com 'el xef de la mel', un ingredient que apareix amb precisió i equilibri en els seus plats. El capítol mostra una cuina que explica territori, paisatge i emoció, i que situa el Priorat al centre del mapa gastronòmic contemporani.</desc>
-    <length units="seconds">2027</length>
-    <episode-num system="onscreen">1</episode-num>
-    <category lang="ca">DIVULGACIÓ</category>
-    <category lang="ca">SÈRIE DOCUMENTAL</category>
+  <programme start="20260930030630 +0200" stop="20260930034735 +0200" channel="c33">
+    <title lang="ca">km33</title>
+    <sub-title lang="ca">Polinèsia,la meva terra és el mar</sub-title>
+    <desc lang="ca">El Santi i la Míriam són dos mariners que viatgen a la Polinèsia. Descobreixen illes paradisíaques, postes de sol inoblidables i una cultura que viu del mar. Segueixen una competició de piragües, lloguen un catamarà i es banyen entre taurons. I a més a més: Polinèsia francesa, números i coordinades per situar la Polinèsia al món. Destins de somni: opcions a l'abast de tothom per visitar illes paradisíaques. On el vent et porti: navegar pel món amb velers, canoes i embarcacions tradicionals.</desc>
+    <length units="seconds">2465</length>
+    <episode-num system="onscreen">14</episode-num>
+    <category lang="ca">ENTRETENIMENT</category>
+    <category lang="ca">ALTRES</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
