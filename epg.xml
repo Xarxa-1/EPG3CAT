@@ -3,113 +3,118 @@
   <channel id="tvi">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20261001210000 +0200" stop="20261001220513 +0200" channel="tvi">
-    <title lang="ca">Telenotícies vespre</title>
-    <length units="seconds">3913</length>
-    <episode-num system="onscreen">7344</episode-num>
-    <category lang="ca">ACTUALITAT</category>
-    <category lang="ca">INFORMATIU DIÀRI</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <icon src="https://img.ccma.cat/multimedia/jpg/7/2/1758026176427.jpg"/>
-  </programme>
-  <programme start="20261001220513 +0200" stop="20261001224545 +0200" channel="tvi">
-    <title lang="ca">Polònia</title>
-    <sub-title lang="ca">Maricarmen també és la protagonista a 'Polònia'</sub-title>
-    <desc lang="ca">Tota la classe política fa un ús partidista del desnonament de Maricarmen al ritme de La Pegatina.Pedro Sánchez (Pep Plaza) viatja al passat per evitar que els pares de la Constitució escriguin un text sobre el dret a l'habitatge que el pugui perjudicar en un futur. Darrere seu també viatgen Alberto Núñez Feijóo (David Marcé), Miriam Nogueras (Alba Florejachs), Ada Colau (Agnès Busquets) i Gabriel Rufián (Xavi Espinosa) per fer-hi esmenes.En paral·lel, una onada de solidaritat socialista liderada per Salvador Illa (Queco Novell), Margarita Robles (Agnès Busquets) i Yolanda Díaz (Alba Florejachs) intenta evitar que el president espanyol sigui desnonat de La Moncloa.José Luis Martínez-Almeida (Albert Mèlich) s'infiltra a la manifestació del Sindicat de Llogateres per treure'ls de la plaça del Sol de Madrid i que acampin al plató, mentre Isabel Díaz Ayuso (Lara Díez) se solidaritza amb els manifestants per raons equivocades. D'altra banda, els rendistes també han muntat una protesta contra l'estigmatització del seu col·lectiu i reclamen una llei per protegir el petit fons voltor. Santiago Abascal (Noé Blancafort) creu que el seu partit necessita la seva particular Mari Carmen i mira de convèncer la seva tieta Puri perquè es faci passar per immigrant marroquina i aconsegueixi que Pedro Sánchez li 'regali' un pis.L'1 d'Octubre celebra el seu novè aniversari, però ni Oriol Junqueras (Cesc Casanovas) ni Carles Puigdemont (Queco Novell) ni la CUP se'n recordaven.Gabriel Rufián (Xavi Espinosa) i Ada Colau (Agnès Busquets) no es posen d'acord sobre si s'ha d'enterrar o no la llista unitària d'esquerres i comptaran amb l'ajuda dels germans Liam i Noel Gallagher.I Quim Monzó (Pep Plaza) es presentarà a casa d'una família per convèncer el fill que llegir és divertit, ara que tornen les lectures obligatòries al batxillerat.</desc>
-    <length units="seconds">2432</length>
-    <episode-num system="onscreen">824</episode-num>
-    <category lang="ca">ENTRETENIMENT</category>
-    <category lang="ca">GAGS. HUMOR</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <icon src="https://img.ccma.cat/multimedia/jpg/4/4/1665652336244.jpg"/>
-  </programme>
-  <channel id="324">
-    <display-name>324</display-name>
-  </channel>
-  <programme start="20261001210000 +0200" stop="20261001220500 +0200" channel="324">
-    <title lang="ca">Telenotícies vespre</title>
-    <length units="seconds">3900</length>
-    <episode-num system="onscreen">7344</episode-num>
-    <category lang="ca">ACTUALITAT</category>
-    <category lang="ca">INFORMATIU DIÀRI</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <icon src="https://img.ccma.cat/multimedia/jpg/7/2/1758026176427.jpg"/>
-  </programme>
-  <programme start="20261001220500 +0200" stop="20261002000000 +0200" channel="324">
+  <programme start="20261002003547 +0200" stop="20261002022025 +0200" channel="tvi">
     <title lang="ca">Mésnit</title>
     <desc lang="ca">El 'Mésnit' arriba a la desena temporada, amb Marina Romero al capdavant de l'espai i amb la voluntat de continuar sent un centre de debat d'idees i d'anàlisi de l'activitat política.</desc>
-    <length units="seconds">6900</length>
+    <length units="seconds">6278</length>
     <episode-num system="onscreen">2171</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">DEBAT</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
+    <previously-shown/>
+  </programme>
+  <programme start="20261002022025 +0200" stop="20261002040000 +0200" channel="tvi">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="seconds">5975</length>
+    <episode-num system="onscreen">11322</episode-num>
+    <category lang="ca">ACTUALITAT</category>
+    <category lang="ca">INFORMATIU DIÀRI</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <previously-shown/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
+  </programme>
+  <channel id="324">
+    <display-name>324</display-name>
+  </channel>
+  <programme start="20261002010000 +0200" stop="20261002060000 +0200" channel="324">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="seconds">18000</length>
+    <episode-num system="onscreen">11322</episode-num>
+    <category lang="ca">ACTUALITAT</category>
+    <category lang="ca">INFORMATIU DIÀRI</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
     <subtitles type="teletext"/>
+    <previously-shown/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
+  </programme>
+  <programme start="20261002060000 +0200" stop="20261002080000 +0200" channel="324">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="seconds">7200</length>
+    <episode-num system="onscreen">11323</episode-num>
+    <category lang="ca">ACTUALITAT</category>
+    <category lang="ca">INFORMATIU DIÀRI</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
   <channel id="esport3">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20261001204714 +0200" stop="20261001213451 +0200" channel="esport3">
-    <title lang="ca">Handbol</title>
-    <sub-title lang="ca">Barça-Veszprém / Mundial de Clubs / Final</sub-title>
-    <desc lang="ca">Els blaugranes, que dominen el palmarès d'aquest Mundial de clubs, aspiren al 7è títol. Com la temporada passada, el rival és el campió hongarès. En aquell precedent, el Barça es va imposar al Veszprém per 30-31 després d'un matx molt igualat i dues pròrrogues. </desc>
-    <length units="seconds">2857</length>
-    <episode-num system="onscreen">17</episode-num>
+  <programme start="20261002004722 +0200" stop="20261002021904 +0200" channel="esport3">
+    <title lang="ca">Onze</title>
+    <sub-title lang="ca">Guerra per Negreira; Mbappé de festa i 'El consultori'</sub-title>
+    <desc lang="ca">David Bernabeu, Víctor Lozano, Juli Garcia i Sique Rodriguez parlen de la guerra de comunicats entre Barça i Madrid pel cas Negreira. En Sergi Ferrer respon les consultes dels espectadors.</desc>
+    <length units="seconds">5502</length>
+    <episode-num system="onscreen">1260</episode-num>
     <category lang="ca">ESPORTS</category>
-    <category lang="ca">RETRANSMISSIONS ESPORTS</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <icon src="https://img.ccma.cat/multimedia/jpg/9/1/1788346445719.jpg"/>
-  </programme>
-  <programme start="20261001213451 +0200" stop="20261001230000 +0200" channel="esport3">
-    <title lang="ca">Billar a 3 bandes</title>
-    <sub-title lang="ca">PBA Team League</sub-title>
-    <desc lang="ca">Les partides més destacades del català Dani Sánchez en aquesta competició per equips de billar a 3 bandes organitzada per la PBA (Professional Billiards Association).</desc>
-    <length units="seconds">5109</length>
-    <episode-num system="onscreen">8139</episode-num>
-    <category lang="ca">ESPORTS</category>
-    <category lang="ca">RETRANSMISSIONS ESPORTS</category>
+    <category lang="ca">MAGAZINE</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
-    <icon src="https://img.3cat.cat/multimedia/jpg/3/3/1766061188133.jpg"/>
+    <previously-shown/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/1/1/1688543515711.jpg"/>
+  </programme>
+  <programme start="20261002021904 +0200" stop="20261002023411 +0200" channel="esport3">
+    <title lang="ca">3CatInfo Esports</title>
+    <desc lang="ca">Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.</desc>
+    <length units="seconds">907</length>
+    <episode-num system="onscreen">5525</episode-num>
+    <category lang="ca">ESPORTS</category>
+    <category lang="ca">INFORMATIU DIÀRI</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <previously-shown/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/9/7/1758888682179.jpg"/>
   </programme>
   <channel id="sx3">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20261001210005 +0200" stop="20261001212222 +0200" channel="sx3">
-    <title lang="ca">Bola de drac Z</title>
-    <sub-title lang="ca">En Son Gohan ja a l'Institut</sub-title>
-    <desc lang="ca">Han passat 7 anys des que en Son Goku va morir al Torneig d'en Cèl·lula i han canviat moltes coses. A en Krilin li han crescut els cabells i en Son Gohan ja va a l'institut, a la Ciutat de Satan, que és el que es va endur el mèrit per haver matat en Cèl·lula. A més, en Son Gohan també ha heretat el núvol Kinton del seu pare.</desc>
-    <length units="seconds">1337</length>
-    <episode-num system="onscreen">200</episode-num>
+  <programme start="20261002005629 +0200" stop="20261002010732 +0200" channel="sx3">
+    <title lang="ca">Les Sisters</title>
+    <sub-title lang="ca">Somrieu si us hi atreviu!</sub-title>
+    <desc lang="ca">Per guanyar un monocicle elèctric, la Marine i la Wendy han de fer una foto graciosa d'un parent o d'un amic. Les dues germanes es trien mútuament i intenten enxampar l'altra en la postura més ridícula possible. Però cap de les dues no es vol rendir davant l'altra i acaben desesperant els pares, que els confisquen les càmeres de fotos. La Marine decideix recórrer a la seva amiga Loulou...</desc>
+    <length units="seconds">663</length>
+    <episode-num system="onscreen">49</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
-      <value>JUVENIL</value>
+      <value>INFANTIL</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20261001212222 +0200" stop="20261001214122 +0200" channel="sx3">
-    <title lang="ca">Bola de drac Z</title>
-    <sub-title lang="ca">Un altre superheroi: el gran Guerrer del Vent</sub-title>
-    <desc lang="ca">En Son Gohan, que ja va a l'institut, ha decidit fer servir els seus poders per ajudar els altres i s'ha convertit en un superheroi, el gran Guerrer del Vent. Per no revelar la seva identitat, li ha demanat a la Bulma que li faci un vestit. Avui també coneixerem la Videl, una companya de classe d'en Son Gohan, i en Son Goten, el segon fill d'en Son Goku.</desc>
-    <length units="seconds">1140</length>
-    <episode-num system="onscreen">201</episode-num>
+  <programme start="20261002010732 +0200" stop="20261002011855 +0200" channel="sx3">
+    <title lang="ca">Les Sisters</title>
+    <sub-title lang="ca">El singlot del K.O.</sub-title>
+    <desc lang="ca">La Marine ha inscrit la Wendy al concurs de cant de Pom-les-Bains. La seva germana canta tan bé que la petita esta segura que guanyarà. Però a la pobra Wendy li ve un singlot espantós que li impedeix practicar. La Marine farà servir un munt de trucs per mirar de treure-li el singlot.</desc>
+    <length units="seconds">683</length>
+    <episode-num system="onscreen">85</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
-      <value>JUVENIL</value>
+      <value>INFANTIL</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
@@ -117,28 +122,28 @@
   <channel id="c33">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20261001210222 +0200" stop="20261001212929 +0200" channel="c33">
-    <title lang="ca">Plats bruts</title>
-    <sub-title lang="ca">Tinc 48 hores</sub-title>
-    <desc lang="ca">El Lopes té planejat passar un cap de setmana amb la Guillermina, però tothom el convenç que no seran capaços d'aguantar tantes hores junts. El David té un greu problema que no sap com solucionar: es fa pipí al llit.</desc>
-    <length units="seconds">1627</length>
-    <episode-num system="onscreen">70</episode-num>
-    <category lang="ca">FICCIÓ</category>
-    <category lang="ca">SITCOM (COMÈDIA DE SITUACIÓ)</category>
+  <programme start="20261002003405 +0200" stop="20261002011257 +0200" channel="c33">
+    <title lang="ca">Arxipèlag blau</title>
+    <sub-title lang="ca">Fons circalitorals poc profunds</sub-title>
+    <desc lang="ca">En aquest capítol d''Arxipèlag blau' ens endinsarem més enllà del límit d'on creix la posidònia, als fons circalitorals, entre els 40 i els 60 metres de fondària. Miquel Salamanca ens presentarà un món on la llum és escassa, però que és ple de color. Hi trobem criatures estranyes i desconegudes. Però també és l'hàbitat de peixos ben coneguts, com els raors, les cànteres o els anfosos. És un ambient ric en invertebrats tan diversos com les llagostes, diversos tipus de crancs o els coralls i les gorgònies. Per finalitzar acompanyarem Gàdor Muntaner en un recorregut per la costa de Cala Blanca, a Ciutadella, amb el fotògraf submarí Víctor de Valles.</desc>
+    <length units="seconds">2332</length>
+    <episode-num system="onscreen">4</episode-num>
+    <category lang="ca">DIVULGACIÓ</category>
+    <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20261001212929 +0200" stop="20261001215942 +0200" channel="c33">
-    <title lang="ca">Plats bruts</title>
-    <sub-title lang="ca">Tinc un cacao</sub-title>
-    <desc lang="ca">El Lopes es vol casar amb la Guillermina i va a Finlàndia a demanar els papers del divorci a la Diana. I allà se li desperta alguna coseta a ritme de salsa. L'Emma i l'Stasky entren en una feroç competició sobre la correcció lingüística.</desc>
-    <length units="seconds">1813</length>
-    <episode-num system="onscreen">71</episode-num>
-    <category lang="ca">FICCIÓ</category>
-    <category lang="ca">SITCOM (COMÈDIA DE SITUACIÓ)</category>
+  <programme start="20261002011257 +0200" stop="20261002015533 +0200" channel="c33">
+    <title lang="ca">Arxipèlag blau</title>
+    <sub-title lang="ca">Costa rocosa</sub-title>
+    <desc lang="ca">En aquest capítol d''Arxipèlag blau' recorrerem les costes rocoses, des de la part emergida on crien corbs marins i virots, fins als fons coral·lígens. Miquel Salamanca ens presentarà aquest món acolorit i divers. Als primers metres hi trobem les criatures adaptades al moviment continu de l'aigua a la vorera, com els peixos de la família dels blènnids, pegellides, crancs, anemones i gambetes. Als fons de roca les espècies i comunitats van canviant a mesura que ens endisem i varia la llum i la temperatura. Coneixerem com es reprodueixen peixos com els tords, els fadrins, les tutes o els anfosos. Unes imatges úniques ens mostraran les diverses estratègies que tenen els depredadors, com els déntols, anfosos, sirvioles, palomides, espets, tonyines, virots..., per capturar els bancs de peixos petits com els gerrets, les bogues o les sardines. Per finalitzar, ens endinsarem a les aigües de la reserva marina i parc natural de Llevant amb Gàdor Muntaner, guiada pel fotògraf i documentalista Agustí Torres, gran coneixedor d'aquest espai i membre de l'equip d''Arxipèlag blau'.</desc>
+    <length units="seconds">2556</length>
+    <episode-num system="onscreen">5</episode-num>
+    <category lang="ca">DIVULGACIÓ</category>
+    <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
@@ -148,19 +153,6 @@
   <channel id="oca1">
     <display-name>OCA1</display-name>
   </channel>
-  <programme start="20261001195418 +0200" stop="20261001223413 +0200" channel="oca1">
-    <title lang="ca">Handbol</title>
-    <sub-title lang="ca">- Barça-Veszprém / Mundial de Clubs / Final</sub-title>
-    <desc lang="ca">Els blaugranes, que dominen el palmarès d'aquest Mundial de clubs, aspiren al 7è títol. Com la temporada passada, el rival és el campió hongarès. En aquell precedent, el Barça es va imposar al Veszprém per 30-31 després d'un matx molt igualat i dues pròrrogues. </desc>
-    <length units="seconds">9595</length>
-    <episode-num system="onscreen">17</episode-num>
-    <category lang="ca">ESPORTS</category>
-    <category lang="ca">RETRANSMISSIONS ESPORTS</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <icon src="https://img.ccma.cat/multimedia/jpg/9/1/1788346445719.jpg"/>
-  </programme>
   <channel id="oca2">
     <display-name>OCA2</display-name>
   </channel>
