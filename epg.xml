@@ -3,54 +3,49 @@
   <channel id="tvi">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20261001021510 +0200" stop="20261001040000 +0200" channel="tvi">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">6290</length>
-    <episode-num system="onscreen">11313</episode-num>
+  <programme start="20261001080006 +0200" stop="20261001103000 +0200" channel="tvi">
+    <title lang="ca">Matins</title>
+    <desc lang="ca">'Matins' és un dels puntals informatius de TV3. El programa matinal dona les claus del dia que comença, explica les notícies que han passat aportant-ne el context per entendre-les i analitza amb veus acreditades l'actualitat més propera i la d'arreu del món. 'Matins' comença a les 8 del matí, de dilluns a divendres, i està presentat per Ariadna Oltra.</desc>
+    <length units="seconds">8994</length>
+    <episode-num system="onscreen">4683</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <previously-shown/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/2/0/1758040151402.jpg"/>
   </programme>
-  <programme start="20261001040000 +0200" stop="20261001050000 +0200" channel="tvi">
-    <title lang="ca">Blues a l'estudi</title>
-    <sub-title lang="ca">The Booty Hunters</sub-title>
-    <desc lang="ca">Els seus temes estan inspirats per tota una estètica referida als ambients rurals dels Estats Units, però també pels bandolers de casa nostra. 'Blues a l'estudi' obre les portes a Jordi Ollé, a la bateria i washboard, Javi Ollé a la veu, banjo i guitarra acústica, a Dani Banon, a la guitarra elèctrica, a Javi Banon, al contrabaix, i a Lluís Gómez, al fiddle i al banjo.</desc>
-    <length units="seconds">3600</length>
-    <episode-num system="onscreen">5</episode-num>
-    <category lang="ca">MUSICALS</category>
-    <category lang="ca">ALTRES</category>
+  <programme start="20261001103000 +0200" stop="20261001135500 +0200" channel="tvi">
+    <title lang="ca">Tot es mou</title>
+    <desc lang="ca">El programa presentat per Helena Garcia Melero s'emet de dilluns a divendres, de 10.30 a 13.55. Un magazín d'actualitat que busca informar, analitzar i debatre sobre temes que marquen l'actualitat social, econòmica i cultural del dia, amb una àmplia presència en directe dels reporters i reporteres, repartits per tot Catalunya. A més, el 'Tot es mou' compta amb seccions diàries de gastronomia (amb els principals cuiners i cuineres del país), successos, economia, mobilitat, temes mèdics i de tecnologia, entre d'altres.</desc>
+    <length units="seconds">12300</length>
+    <episode-num system="onscreen">1820</episode-num>
+    <category lang="ca">ACTUALITAT</category>
+    <category lang="ca">MAGAZINE</category>
     <rating>
-      <value>PÚBLIC ADULT</value>
+      <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <previously-shown/>
   </programme>
   <channel id="324">
     <display-name>324</display-name>
   </channel>
-  <programme start="20261001010000 +0200" stop="20261001060000 +0200" channel="324">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">18000</length>
-    <episode-num system="onscreen">11313</episode-num>
+  <programme start="20261001080000 +0200" stop="20261001103000 +0200" channel="324">
+    <title lang="ca">Matins</title>
+    <desc lang="ca">'Matins' és un dels puntals informatius de TV3. El programa matinal dona les claus del dia que comença, explica les notícies que han passat aportant-ne el context per entendre-les i analitza amb veus acreditades l'actualitat més propera i la d'arreu del món. 'Matins' comença a les 8 del matí, de dilluns a divendres, i està presentat per Ariadna Oltra.</desc>
+    <length units="seconds">9000</length>
+    <episode-num system="onscreen">4683</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <subtitles type="teletext"/>
-    <previously-shown/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/2/0/1758040151402.jpg"/>
   </programme>
-  <programme start="20261001060000 +0200" stop="20261001080000 +0200" channel="324">
+  <programme start="20261001103000 +0200" stop="20261001120000 +0200" channel="324">
     <title lang="ca">Notícies 3CatInfo</title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">7200</length>
-    <episode-num system="onscreen">11314</episode-num>
+    <length units="seconds">5400</length>
+    <episode-num system="onscreen">11315</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
@@ -62,24 +57,11 @@
   <channel id="esport3">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20261001022130 +0200" stop="20261001023950 +0200" channel="esport3">
-    <title lang="ca">3CatInfo Esports</title>
-    <desc lang="ca">Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.</desc>
-    <length units="seconds">1100</length>
-    <episode-num system="onscreen">5524</episode-num>
-    <category lang="ca">ESPORTS</category>
-    <category lang="ca">INFORMATIU DIÀRI</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <previously-shown/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/9/7/1758888682179.jpg"/>
-  </programme>
-  <programme start="20261001023950 +0200" stop="20261001041741 +0200" channel="esport3">
+  <programme start="20261001082859 +0200" stop="20261001100749 +0200" channel="esport3">
     <title lang="ca">Futbol</title>
     <sub-title lang="ca">AS Roma-FC Barcelona / Champions League / J2</sub-title>
     <desc lang="ca">Les blaugranes visiten la capital d'Itàlia en el primer desplaçament a la fase de lliga. Després de golejar el París FC, per 5 a 2, hi van a la recerca d'una nova victòria per seguir a la zona de privilegi.</desc>
-    <length units="seconds">5871</length>
+    <length units="seconds">5930</length>
     <episode-num system="onscreen">91</episode-num>
     <category lang="ca">ESPORTS</category>
     <category lang="ca">RETRANSMISSIONS ESPORTS</category>
@@ -90,29 +72,43 @@
     <previously-shown/>
     <icon src="https://img.ccma.cat/multimedia/jpg/5/0/1702464930005.jpg"/>
   </programme>
+  <programme start="20261001100749 +0200" stop="20261001105934 +0200" channel="esport3">
+    <title lang="ca">Terreny personal</title>
+    <sub-title lang="ca">L'Empordanet</sub-title>
+    <desc lang="ca">El primer capítol ens porta a un dels paisatges il·lustres d'aquest país. Entre el Montgrí i la vall d'Aro i de les Gavarres fins al mar s'emmarca un territori batejat per Josep Pla com 'l'Empordanet'.Una petita plana afortunada que els protagonistes del programa ens ajuden a conèixer més bé. L'Albert Grassot és la quarta generació d'una família d'arrossaires de Pals. El Marçal Lladó forma part d'un segell discogràfic emergent, amb seu a Barcelona, i del qual tres dels quatre socis són bisbalencs. L'Eulàlia Gili és de Sabadell i va començar a estiuejar a Calella de Palafrugell fa més de 50 anys, quan hi havia pocs turistes. El Carlos Trijueque és de Palamós i viu en una masia aïllada al mig del massís de les Gavarres. I el Joan Massagué, desobeint els desitjos del pare, surt cada dia a pescar davant de les illes Medes.Tots ens porten als espais que formen part del seu dia a dia i ens expliquen quin paper juguen a les seves vides.I per enriquir la mirada sobre el territori també hi incorporem altres intervencions especials, més breus, que van apareixent al llarg del capítol. Els nens de l'Escola Francesc Cambó de Verges ens expliquen quin és el seu racó preferit, la Sílvia Pérez Cruz canta a les voltes de Calella de Palafrugell i l'Antoni Puigverd llegeix textos de Josep Pla a Ullastret i Pals. </desc>
+    <length units="seconds">3105</length>
+    <episode-num system="onscreen">1</episode-num>
+    <category lang="ca">DIVULGACIÓ</category>
+    <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <subtitles type="teletext"/>
+    <previously-shown/>
+  </programme>
   <channel id="sx3">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20261001022833 +0200" stop="20261001025029 +0200" channel="sx3">
-    <title lang="ca">Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
-    <sub-title lang="ca">Burla</sub-title>
-    <desc lang="ca">Quan per fi sembla que la Marinette està a punt de tenir una cita normal amb l'Adrien, comença a patir uns atacs de pànic molt estranys. No entén per què li passa. A més, comença a posar en perill la relació amb el noi que estima. El seu malestar emocional la podria convertir en l'objectiu perfecte pel Monarca. I si l'explicació del que li passa es trobés en el seu propi passat? Quan la Marinette encara no era la Marinette que coneixem avui dia?</desc>
-    <length units="seconds">1316</length>
-    <episode-num system="onscreen">118</episode-num>
-    <category lang="ca">FICCIÓ</category>
-    <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
+  <programme start="20261001082621 +0200" stop="20261001083715 +0200" channel="sx3">
+    <title lang="ca">A jugar! Amb en Titó i els Fa la la</title>
+    <sub-title lang="ca">A jugar amb bolets</sub-title>
+    <desc lang="ca">Buscar bolets a la tardor és molt divertit, però encara ho seria més si els bolets poguessin moure's... així jugaríem a fet i amagar amb ells! Per sort, amb la màgia de la banyeta del Ruquicorn tot és possible.</desc>
+    <length units="seconds">654</length>
+    <episode-num system="onscreen">37</episode-num>
+    <category lang="ca">ENTRETENIMENT</category>
+    <category lang="ca">ALTRES</category>
     <rating>
       <value>INFANTIL</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20261001025029 +0200" stop="20261001031047 +0200" channel="sx3">
-    <title lang="ca">Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
-    <sub-title lang="ca">Intuïció</sub-title>
-    <desc lang="ca">El Monarca té molt mala sort amb el poder de la intuïció. O bé el Lucky Charm de Ladybug s'adapta sempre a cada situació, o bé l'imprevisible Gat Noir ho espatlla tot a l'últim segon. Però quan Tecnologies Tsurugi decideixen provar el seu nou avió espacial, Monarca pensa que és una ocasió única per tenir una segona oportunitat de veritat. Està disposat a fer el que calgui per aprofitar-la i intentar apoderar-se dels prodigis.</desc>
-    <length units="seconds">1218</length>
-    <episode-num system="onscreen">119</episode-num>
+  <programme start="20261001083715 +0200" stop="20261001084834 +0200" channel="sx3">
+    <title lang="ca">El Mic i els seus amics</title>
+    <sub-title lang="ca">El Mic està malalt</sub-title>
+    <desc lang="ca">El Mic s'avorreix perquè està pioc i ha de descansar. En Cincsegons el cuida i li explica un conte per distreure'l.</desc>
+    <length units="seconds">679</length>
+    <episode-num system="onscreen">660</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
@@ -124,27 +120,28 @@
   <channel id="c33">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20261001023028 +0200" stop="20261001032444 +0200" channel="c33">
-    <title lang="ca">Downton Abbey</title>
-    <sub-title lang="ca">Les maneres de Downton Abbey</sub-title>
-    <desc lang="ca">A través de l'historiador Alastair Bruce, aquest especial retrata les estrictes normes d'etiqueta que regien la vida a Downton Abbey. Les maneres eduardianes definien cada gest: com seure a taula, com vestir-se, com parlar, estimar o casar-se. Tant l'aristocràcia com els servents vivien sotmesos a un codi rigorós que mantenia l'ordre social, el poder i la reputació en un món ple de canvis. Un retrat fascinant d'un univers refinat, complex i profundament jeràrquic.</desc>
-    <length units="seconds">3256</length>
-    <episode-num system="onscreen">58</episode-num>
-    <category lang="ca">FICCIÓ</category>
-    <category lang="ca">SÈRIE DRAMÀTICA</category>
+  <programme start="20261001080131 +0200" stop="20261001085457 +0200" channel="c33">
+    <title lang="ca">Cosins Germans</title>
+    <sub-title lang="ca">Calendari lunar</sub-title>
+    <desc lang="ca">Cada any, tres festes oscil·len al calendari per acoblar-se amb el cicle lunar. Són el Carnaval, la Setmana Santa i el Corpus. Per conèixer-les millor, Ferran i Sívlia Bel batallaran en una guerra de merenga al Carnaval de Vilanova i la Geltrú. A Verges, Lluís Llach els explicarà el significat de la dansa de la Mort. A València, durant la celebració del Corpus, Ferran viurà amb Araceli Segarra com els actes religiosos i lúdics es barregen en una amalgama singular.</desc>
+    <length units="seconds">3206</length>
+    <episode-num system="onscreen">14</episode-num>
+    <category lang="ca">DIVULGACIÓ</category>
+    <category lang="ca">ALTRES</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
+    <previously-shown/>
   </programme>
-  <programme start="20261001032444 +0200" stop="20261001034634 +0200" channel="c33">
-    <title lang="ca">Caçadors de paraules</title>
-    <sub-title lang="ca">Salut i cos</sub-title>
-    <desc lang="ca">Segons les enquestes, la salut és una de les principals preocupacions dels catalans. I Roger de Gràcia, el nostre presentador hipocondríac, no n'és una excepció. Preocupat pel seu estat físic, es disposa a sotmetre's a un examen mèdic intensiu que, a més, l'acostarà a l'argot dels metges i del personal d'infermeria. I sobretot, a les múltiples formes que els catalans tenim per parlar dels nostres mals: amb una infermera rural que treballa a l'Alt Berguedà, descobrirem les maneres populars d'anomenar les malalties, i rastrejarem els noms de les diferents parts del cos. Estressat per tantes bates blanques, en Roger de Gràcia acabarà en un balneari, provant dietes i tècniques de relaxació plenes de paraules.</desc>
-    <length units="seconds">1310</length>
-    <episode-num system="onscreen">15</episode-num>
+  <programme start="20261001085457 +0200" stop="20261001094900 +0200" channel="c33">
+    <title lang="ca">Katalonski</title>
+    <sub-title lang="ca">Islàndia</sub-title>
+    <desc lang="ca">Halldor viatja fins a casa seva per descobrir d'on ve, el seu origen. Presentarà la seva família, dispersa per tot el país, i els seus amics. I, per descomptat, els katalonskis que hi viuen. Amb Ana Geppert viurà un moment delirant quan Halldor es posa per primera vegada un neoprè; s'entrenarà corrent per la muntanya, de nit, amb Rebekka Samper, que es prepara per a una gran competició; amb Gudny Hilmarsdóttir es banyarà en un llac calent i secret; aprendrà a fer ramen amb Erna Petursdottir; i el programa acabarà amb el Halldor cantant amb l'antiga banda del seu l'institut.</desc>
+    <length units="seconds">3243</length>
+    <episode-num system="onscreen">14</episode-num>
     <category lang="ca">DIVULGACIÓ</category>
-    <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
+    <category lang="ca">Docu-Entreteniment</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
