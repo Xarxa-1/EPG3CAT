@@ -3,149 +3,142 @@
   <channel id="tvi">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20261001153552 +0200" stop="20261001155359 +0200" channel="tvi">
-    <title lang="ca">Cuines</title>
-    <sub-title lang="ca">Bombons d'avellana caramel·litzada</sub-title>
-    <desc lang="ca">Si hi ha una parella que mai falla en pastisseria, és la de la fruita seca i la xocolata. La Gessamí Caramés les uneix per fer uns bombons de xocolata blanca amb avellana caramel·litzada.</desc>
-    <length units="seconds">1087</length>
-    <episode-num system="onscreen">2498</episode-num>
-    <category lang="ca">DIVULGACIÓ</category>
-    <category lang="ca">CUINA</category>
+  <programme start="20261001210000 +0200" stop="20261001220513 +0200" channel="tvi">
+    <title lang="ca">Telenotícies vespre</title>
+    <length units="seconds">3913</length>
+    <episode-num system="onscreen">7344</episode-num>
+    <category lang="ca">ACTUALITAT</category>
+    <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <icon src="https://img.ccma.cat/multimedia/jpg/2/5/1653464509252.jpg"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/7/2/1758026176427.jpg"/>
   </programme>
-  <programme start="20261001155359 +0200" stop="20261001160044 +0200" channel="tvi">
-    <title lang="ca">Cuines</title>
-    <sub-title lang="ca">Amanida de conserves amb ou dur</sub-title>
-    <desc lang="ca">Acceptem-ho. Hi ha dies que la mandra ens guanya i no tenim ganes de cuinar. Ens arrosseguem fins la nevera, veiem que hi ha un trist tomàquet oblidat i ja ens imaginem que el sopar serà de pa sucat amb oli. Doncs no! La Rais us proposta una amanida a base de conserves que tots podem tenir a casa i que concentrarà tota la potència de les tàperes, els tomàquets, les piparres, olives, pebrots... I un bon ou dur que cuinarà d'una manera molt original: amb la fregidora d'aire.</desc>
-    <length units="seconds">405</length>
-    <episode-num system="onscreen">2455</episode-num>
-    <category lang="ca">DIVULGACIÓ</category>
-    <category lang="ca">CUINA</category>
+  <programme start="20261001220513 +0200" stop="20261001224545 +0200" channel="tvi">
+    <title lang="ca">Polònia</title>
+    <sub-title lang="ca">Maricarmen també és la protagonista a 'Polònia'</sub-title>
+    <desc lang="ca">Tota la classe política fa un ús partidista del desnonament de Maricarmen al ritme de La Pegatina.Pedro Sánchez (Pep Plaza) viatja al passat per evitar que els pares de la Constitució escriguin un text sobre el dret a l'habitatge que el pugui perjudicar en un futur. Darrere seu també viatgen Alberto Núñez Feijóo (David Marcé), Miriam Nogueras (Alba Florejachs), Ada Colau (Agnès Busquets) i Gabriel Rufián (Xavi Espinosa) per fer-hi esmenes.En paral·lel, una onada de solidaritat socialista liderada per Salvador Illa (Queco Novell), Margarita Robles (Agnès Busquets) i Yolanda Díaz (Alba Florejachs) intenta evitar que el president espanyol sigui desnonat de La Moncloa.José Luis Martínez-Almeida (Albert Mèlich) s'infiltra a la manifestació del Sindicat de Llogateres per treure'ls de la plaça del Sol de Madrid i que acampin al plató, mentre Isabel Díaz Ayuso (Lara Díez) se solidaritza amb els manifestants per raons equivocades. D'altra banda, els rendistes també han muntat una protesta contra l'estigmatització del seu col·lectiu i reclamen una llei per protegir el petit fons voltor. Santiago Abascal (Noé Blancafort) creu que el seu partit necessita la seva particular Mari Carmen i mira de convèncer la seva tieta Puri perquè es faci passar per immigrant marroquina i aconsegueixi que Pedro Sánchez li 'regali' un pis.L'1 d'Octubre celebra el seu novè aniversari, però ni Oriol Junqueras (Cesc Casanovas) ni Carles Puigdemont (Queco Novell) ni la CUP se'n recordaven.Gabriel Rufián (Xavi Espinosa) i Ada Colau (Agnès Busquets) no es posen d'acord sobre si s'ha d'enterrar o no la llista unitària d'esquerres i comptaran amb l'ajuda dels germans Liam i Noel Gallagher.I Quim Monzó (Pep Plaza) es presentarà a casa d'una família per convèncer el fill que llegir és divertit, ara que tornen les lectures obligatòries al batxillerat.</desc>
+    <length units="seconds">2432</length>
+    <episode-num system="onscreen">824</episode-num>
+    <category lang="ca">ENTRETENIMENT</category>
+    <category lang="ca">GAGS. HUMOR</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <previously-shown/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/2/5/1653464509252.jpg"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/4/4/1665652336244.jpg"/>
   </programme>
   <channel id="324">
     <display-name>324</display-name>
   </channel>
-  <programme start="20261001153000 +0200" stop="20261001160000 +0200" channel="324">
-    <title lang="ca">3CatInfo en aranès</title>
-    <desc lang="ca">Informatiu de continguts generalistes en llengua aranesa, presentat per Ares Riu, en emissió per a tot Catalunya.</desc>
-    <length units="seconds">1800</length>
-    <episode-num system="onscreen">2566</episode-num>
+  <programme start="20261001210000 +0200" stop="20261001220500 +0200" channel="324">
+    <title lang="ca">Telenotícies vespre</title>
+    <length units="seconds">3900</length>
+    <episode-num system="onscreen">7344</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <subtitles type="teletext"/>
-    <icon src="https://img.ccma.cat/multimedia/png/5/8/1758125433085.png"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/7/2/1758026176427.jpg"/>
   </programme>
-  <programme start="20261001160000 +0200" stop="20261001170000 +0200" channel="324">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">3600</length>
-    <episode-num system="onscreen">11317</episode-num>
+  <programme start="20261001220500 +0200" stop="20261002000000 +0200" channel="324">
+    <title lang="ca">Mésnit</title>
+    <desc lang="ca">El 'Mésnit' arriba a la desena temporada, amb Marina Romero al capdavant de l'espai i amb la voluntat de continuar sent un centre de debat d'idees i d'anàlisi de l'activitat política.</desc>
+    <length units="seconds">6900</length>
+    <episode-num system="onscreen">2171</episode-num>
     <category lang="ca">ACTUALITAT</category>
-    <category lang="ca">INFORMATIU DIÀRI</category>
+    <category lang="ca">DEBAT</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
   <channel id="esport3">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20261001153322 +0200" stop="20261001162825 +0200" channel="esport3">
-    <title lang="ca">Experiència Catalana</title>
-    <sub-title lang="ca">Trevor i Cori</sub-title>
-    <desc lang="ca">La Ivana Miño acompanya en Trevor i la Cori, una simpàtica parella nord-americana, per diferents indrets de l'Alt Empordà i de la Garrotxa. Allá tasten la millor gastronomia mediterrània i viuen moments molt emotius.</desc>
-    <length units="seconds">3303</length>
-    <episode-num system="onscreen">1</episode-num>
-    <category lang="ca">ENTRETENIMENT</category>
-    <category lang="ca">ALTRES</category>
+  <programme start="20261001204714 +0200" stop="20261001213451 +0200" channel="esport3">
+    <title lang="ca">Handbol</title>
+    <sub-title lang="ca">Barça-Veszprém / Mundial de Clubs / Final</sub-title>
+    <desc lang="ca">Els blaugranes, que dominen el palmarès d'aquest Mundial de clubs, aspiren al 7è títol. Com la temporada passada, el rival és el campió hongarès. En aquell precedent, el Barça es va imposar al Veszprém per 30-31 després d'un matx molt igualat i dues pròrrogues. </desc>
+    <length units="seconds">2857</length>
+    <episode-num system="onscreen">17</episode-num>
+    <category lang="ca">ESPORTS</category>
+    <category lang="ca">RETRANSMISSIONS ESPORTS</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <subtitles type="teletext"/>
-    <previously-shown/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/9/1/1788346445719.jpg"/>
   </programme>
-  <programme start="20261001162825 +0200" stop="20261001172053 +0200" channel="esport3">
-    <title lang="ca">Experiència Catalana</title>
-    <sub-title lang="ca">Allan</sub-title>
-    <desc lang="ca">Amb l'Allan Edward Hinton viatgem pel Pallars Jussà i la Noguera. Aquest experimentat viatger descobreix, amb la Ivana Miño, l'especial gastronomia de la zona i algun dels paisatges més espectaculars de Catalunya.</desc>
-    <length units="seconds">3148</length>
-    <episode-num system="onscreen">2</episode-num>
-    <category lang="ca">ENTRETENIMENT</category>
-    <category lang="ca">ALTRES</category>
+  <programme start="20261001213451 +0200" stop="20261001230000 +0200" channel="esport3">
+    <title lang="ca">Billar a 3 bandes</title>
+    <sub-title lang="ca">PBA Team League</sub-title>
+    <desc lang="ca">Les partides més destacades del català Dani Sánchez en aquesta competició per equips de billar a 3 bandes organitzada per la PBA (Professional Billiards Association).</desc>
+    <length units="seconds">5109</length>
+    <episode-num system="onscreen">8139</episode-num>
+    <category lang="ca">ESPORTS</category>
+    <category lang="ca">RETRANSMISSIONS ESPORTS</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
-    <previously-shown/>
+    <icon src="https://img.3cat.cat/multimedia/jpg/3/3/1766061188133.jpg"/>
   </programme>
   <channel id="sx3">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20261001153115 +0200" stop="20261001155203 +0200" channel="sx3">
-    <title lang="ca">Henry Danger</title>
-    <sub-title lang="ca">Bonavista Té Talent</sub-title>
-    <desc lang="ca">Quan diversos participants d'un popular concurs de talents comencen a desmaiar-se misteriosament, en Henry i el Capità Man investiguen què s'amaga darrere l'espectacle.</desc>
-    <length units="seconds">1248</length>
-    <episode-num system="onscreen">61</episode-num>
+  <programme start="20261001210005 +0200" stop="20261001212222 +0200" channel="sx3">
+    <title lang="ca">Bola de drac Z</title>
+    <sub-title lang="ca">En Son Gohan ja a l'Institut</sub-title>
+    <desc lang="ca">Han passat 7 anys des que en Son Goku va morir al Torneig d'en Cèl·lula i han canviat moltes coses. A en Krilin li han crescut els cabells i en Son Gohan ja va a l'institut, a la Ciutat de Satan, que és el que es va endur el mèrit per haver matat en Cèl·lula. A més, en Son Gohan també ha heretat el núvol Kinton del seu pare.</desc>
+    <length units="seconds">1337</length>
+    <episode-num system="onscreen">200</episode-num>
     <category lang="ca">FICCIÓ</category>
-    <category lang="ca">SÈRIE DRAMÀTICA</category>
+    <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
-      <value>INFANTIL</value>
+      <value>JUVENIL</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20261001155203 +0200" stop="20261001155858 +0200" channel="sx3">
-    <title lang="ca">En Grizzy i els Lèmmings</title>
-    <sub-title lang="ca">1 + 1 = 1</sub-title>
-    <desc lang="ca">L'enfrontament d'en Grizzy amb els Lèmmings els condueix fins a una habitació de la torre del castell. Allà, l'os activa per accident un mecanisme i hi apareix un gran bagul medieval màgic. Descobreixen que, quan s'hi col·loca alguna cosa a l'interior, el bagul pot unir dos objectes en un de sol. Els Lèmmings s'afanyen a endur-se'l per jugar amb tota mena d'objectes que han millorat, però és en Grizzy qui descobreix la forma de fer-se superpoderós.</desc>
-    <length units="seconds">415</length>
-    <episode-num system="onscreen">209</episode-num>
+  <programme start="20261001212222 +0200" stop="20261001214122 +0200" channel="sx3">
+    <title lang="ca">Bola de drac Z</title>
+    <sub-title lang="ca">Un altre superheroi: el gran Guerrer del Vent</sub-title>
+    <desc lang="ca">En Son Gohan, que ja va a l'institut, ha decidit fer servir els seus poders per ajudar els altres i s'ha convertit en un superheroi, el gran Guerrer del Vent. Per no revelar la seva identitat, li ha demanat a la Bulma que li faci un vestit. Avui també coneixerem la Videl, una companya de classe d'en Son Gohan, i en Son Goten, el segon fill d'en Son Goku.</desc>
+    <length units="seconds">1140</length>
+    <episode-num system="onscreen">201</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
-      <value>INFANTIL</value>
+      <value>JUVENIL</value>
     </rating>
+    <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
   <channel id="c33">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20261001150407 +0200" stop="20261001155104 +0200" channel="c33">
-    <title lang="ca">La Renaixença</title>
-    <sub-title lang="ca">La bufanda</sub-title>
-    <desc lang="ca">S'acosta l'hivern, els mals de coll i els refredats, per això ens fa il·lusió dedicar un capítol a la bufanda. Sou dels que la porteu des de finals d'agost o dels que us queixeu quan us refredeu perquè us resistiu a admetre que s'ha acabat l'estiu durant el mes de desembre? Que vingui en Pemi Fortuny a 'La Renaixença' és un honor, i sentir una de les seves cançons més mítiques a l'escenari del programa, encara més. Anem amb en Saki a passejar per Portugal durant la coneguda com a Revolució dels Clavells.</desc>
-    <length units="seconds">2817</length>
-    <episode-num system="onscreen">28</episode-num>
-    <category lang="ca">DIVULGACIÓ</category>
-    <category lang="ca">ALTRES</category>
+  <programme start="20261001210222 +0200" stop="20261001212929 +0200" channel="c33">
+    <title lang="ca">Plats bruts</title>
+    <sub-title lang="ca">Tinc 48 hores</sub-title>
+    <desc lang="ca">El Lopes té planejat passar un cap de setmana amb la Guillermina, però tothom el convenç que no seran capaços d'aguantar tantes hores junts. El David té un greu problema que no sap com solucionar: es fa pipí al llit.</desc>
+    <length units="seconds">1627</length>
+    <episode-num system="onscreen">70</episode-num>
+    <category lang="ca">FICCIÓ</category>
+    <category lang="ca">SITCOM (COMÈDIA DE SITUACIÓ)</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/3/3/1756148014833.jpg"/>
   </programme>
-  <programme start="20261001155104 +0200" stop="20261001161708 +0200" channel="c33">
-    <title lang="ca">Els hotels més remots del món</title>
-    <sub-title lang="ca">Tree hotel</sub-title>
-    <desc lang="ca">El Kent, el fundador, la seva dona Brita, i la seva filla Sofia, tots nascuts en un poble veí, són els fundadors i els amfitrions acollidors d'aquest extraordinari hotel. Actualment l'Hotel dels arbres compta amb 7 cabanes, de les més luxoses a les més exuberants, totes creades per grans noms de l'arquitectura sueca. El concepte clau d'aquest lloc és l'harmonia amb la natura: aïllats a les seves cabanes a les capçades dels arbres, els hostes perden gradualment la seva concepció urbana i es deixen endur pel paisatge.</desc>
-    <length units="seconds">1564</length>
-    <episode-num system="onscreen">1</episode-num>
-    <category lang="ca">DIVULGACIÓ</category>
-    <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
+  <programme start="20261001212929 +0200" stop="20261001215942 +0200" channel="c33">
+    <title lang="ca">Plats bruts</title>
+    <sub-title lang="ca">Tinc un cacao</sub-title>
+    <desc lang="ca">El Lopes es vol casar amb la Guillermina i va a Finlàndia a demanar els papers del divorci a la Diana. I allà se li desperta alguna coseta a ritme de salsa. L'Emma i l'Stasky entren en una feroç competició sobre la correcció lingüística.</desc>
+    <length units="seconds">1813</length>
+    <episode-num system="onscreen">71</episode-num>
+    <category lang="ca">FICCIÓ</category>
+    <category lang="ca">SITCOM (COMÈDIA DE SITUACIÓ)</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
@@ -155,6 +148,19 @@
   <channel id="oca1">
     <display-name>OCA1</display-name>
   </channel>
+  <programme start="20261001195418 +0200" stop="20261001223413 +0200" channel="oca1">
+    <title lang="ca">Handbol</title>
+    <sub-title lang="ca">- Barça-Veszprém / Mundial de Clubs / Final</sub-title>
+    <desc lang="ca">Els blaugranes, que dominen el palmarès d'aquest Mundial de clubs, aspiren al 7è títol. Com la temporada passada, el rival és el campió hongarès. En aquell precedent, el Barça es va imposar al Veszprém per 30-31 després d'un matx molt igualat i dues pròrrogues. </desc>
+    <length units="seconds">9595</length>
+    <episode-num system="onscreen">17</episode-num>
+    <category lang="ca">ESPORTS</category>
+    <category lang="ca">RETRANSMISSIONS ESPORTS</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <icon src="https://img.ccma.cat/multimedia/jpg/9/1/1788346445719.jpg"/>
+  </programme>
   <channel id="oca2">
     <display-name>OCA2</display-name>
   </channel>
@@ -164,15 +170,4 @@
   <channel id="oca4">
     <display-name>OCA4</display-name>
   </channel>
-  <programme start="20261001143619 +0200" stop="20261001193614 +0200" channel="oca4">
-    <title lang="ca">Última jornada del debat de política general</title>
-    <length units="seconds">17995</length>
-    <episode-num system="onscreen">4133</episode-num>
-    <category lang="ca">ACTUALITAT</category>
-    <category lang="ca">RETRANSMISSIONS ACTUALITAT</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <icon src="https://img.ccma.cat/multimedia/jpg/9/7/1699359531979.jpg"/>
-  </programme>
 </tv>
