@@ -3,51 +3,54 @@
   <channel id="tvi">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20260930221138 +0200" stop="20260930233312 +0200" channel="tvi">
-    <title lang="ca">Soc i Seré</title>
-    <sub-title lang="ca">Un territori amb història</sub-title>
-    <desc lang="ca">Després de sobreviure a la primera eliminació, 50 aspirants continuen a la competició i s'hauran d'enfrontar als seus antics aliats. En aquest capítol, es dividiran en 5 equips formats per 10 persones, i cada equip durà el nom d'un emblemàtic cim català.Al repte d'avantatge, els aspirants es mouran Amunt i Avall per demostrar que dominen les dades geogràfiques més rellevants de Catalunya, però l'expulsió es decidirà amb el primer repte d'història que s'ha fet mai a 'Soc i seré'. Els equips viatjaran a diferents etapes del passat del nostre país per posar Cada cosa al seu temps.Un dels 5 equips se'n tornarà cap a casa, mentre que les 10 persones que guanyin el repte eliminatori ompliran la seva butxaca persona amb 10.000 euros més.Quin equip serà el més resolutiu en aquesta segona etapa del programa? I qui, d'entre els que se'n vagin, tindrà l'oportunitat de tornar al concurs?</desc>
-    <length units="seconds">4894</length>
-    <episode-num system="onscreen">8</episode-num>
-    <category lang="ca">ENTRETENIMENT</category>
-    <category lang="ca">CONCURS</category>
+  <programme start="20261001021510 +0200" stop="20261001040000 +0200" channel="tvi">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="seconds">6290</length>
+    <episode-num system="onscreen">11313</episode-num>
+    <category lang="ca">ACTUALITAT</category>
+    <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
+    <previously-shown/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
-  <programme start="20260930233312 +0200" stop="20261001003146 +0200" channel="tvi">
-    <title lang="ca">País d'altura</title>
-    <sub-title lang="ca">Pirineus</sub-title>
-    <desc lang="ca">Els Pirineus són una frontera de muntanyes gegants i vides a gran altitud. Pobles penjats del mapa, cims que toquen el cel i gent que viu més a prop dels núvols que dels embussos.</desc>
-    <length units="seconds">3514</length>
-    <episode-num system="onscreen">2</episode-num>
-    <category lang="ca">ENTRETENIMENT</category>
-    <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
+  <programme start="20261001040000 +0200" stop="20261001050000 +0200" channel="tvi">
+    <title lang="ca">Blues a l'estudi</title>
+    <sub-title lang="ca">The Booty Hunters</sub-title>
+    <desc lang="ca">Els seus temes estan inspirats per tota una estètica referida als ambients rurals dels Estats Units, però també pels bandolers de casa nostra. 'Blues a l'estudi' obre les portes a Jordi Ollé, a la bateria i washboard, Javi Ollé a la veu, banjo i guitarra acústica, a Dani Banon, a la guitarra elèctrica, a Javi Banon, al contrabaix, i a Lluís Gómez, al fiddle i al banjo.</desc>
+    <length units="seconds">3600</length>
+    <episode-num system="onscreen">5</episode-num>
+    <category lang="ca">MUSICALS</category>
+    <category lang="ca">ALTRES</category>
     <rating>
-      <value>TOTS ELS PÚBLICS</value>
+      <value>PÚBLIC ADULT</value>
     </rating>
-    <subtitles type="teletext"/>
+    <previously-shown/>
   </programme>
   <channel id="324">
     <display-name>324</display-name>
   </channel>
-  <programme start="20260930220500 +0200" stop="20261001000000 +0200" channel="324">
-    <title lang="ca">Mésnit</title>
-    <desc lang="ca">El 'Mésnit' arriba a la desena temporada, amb Marina Romero al capdavant de l'espai i amb la voluntat de continuar sent un centre de debat d'idees i d'anàlisi de l'activitat política.</desc>
-    <length units="seconds">6900</length>
-    <episode-num system="onscreen">2170</episode-num>
+  <programme start="20261001010000 +0200" stop="20261001060000 +0200" channel="324">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="seconds">18000</length>
+    <episode-num system="onscreen">11313</episode-num>
     <category lang="ca">ACTUALITAT</category>
-    <category lang="ca">DEBAT</category>
+    <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
+    <previously-shown/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
-  <programme start="20261001000000 +0200" stop="20261001003000 +0200" channel="324">
+  <programme start="20261001060000 +0200" stop="20261001080000 +0200" channel="324">
     <title lang="ca">Notícies 3CatInfo</title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">1800</length>
-    <episode-num system="onscreen">11312</episode-num>
+    <length units="seconds">7200</length>
+    <episode-num system="onscreen">11314</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
@@ -59,41 +62,43 @@
   <channel id="esport3">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20260930230000 +0200" stop="20261001003108 +0200" channel="esport3">
-    <title lang="ca">Onze</title>
-    <sub-title lang="ca">Rendits a Lamine; Cristiano explota i 'El predicador'</sub-title>
-    <desc lang="ca">Lluís Carrasco, Jordi Costa, Gemma Mallorca i Jofre Mateu opinen sobre el gran moment de forma de Lamine Yamal i l'abandonament de Ronaldo de la concentració de Portugal. L'Òscar Pérez-Dolz predica els manaments del bon culer.</desc>
-    <length units="seconds">5468</length>
-    <episode-num system="onscreen">1259</episode-num>
-    <category lang="ca">ESPORTS</category>
-    <category lang="ca">MAGAZINE</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <subtitles type="teletext"/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/1/1/1688543515711.jpg"/>
-  </programme>
-  <programme start="20261001003108 +0200" stop="20261001004946 +0200" channel="esport3">
+  <programme start="20261001022130 +0200" stop="20261001023950 +0200" channel="esport3">
     <title lang="ca">3CatInfo Esports</title>
     <desc lang="ca">Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.</desc>
-    <length units="seconds">1118</length>
+    <length units="seconds">1100</length>
     <episode-num system="onscreen">5524</episode-num>
     <category lang="ca">ESPORTS</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
+    <previously-shown/>
     <icon src="https://img.ccma.cat/multimedia/jpg/9/7/1758888682179.jpg"/>
+  </programme>
+  <programme start="20261001023950 +0200" stop="20261001041741 +0200" channel="esport3">
+    <title lang="ca">Futbol</title>
+    <sub-title lang="ca">AS Roma-FC Barcelona / Champions League / J2</sub-title>
+    <desc lang="ca">Les blaugranes visiten la capital d'Itàlia en el primer desplaçament a la fase de lliga. Després de golejar el París FC, per 5 a 2, hi van a la recerca d'una nova victòria per seguir a la zona de privilegi.</desc>
+    <length units="seconds">5871</length>
+    <episode-num system="onscreen">91</episode-num>
+    <category lang="ca">ESPORTS</category>
+    <category lang="ca">RETRANSMISSIONS ESPORTS</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <subtitles type="teletext"/>
+    <previously-shown/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/5/0/1702464930005.jpg"/>
   </programme>
   <channel id="sx3">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20260930230148 +0200" stop="20260930232241 +0200" channel="sx3">
-    <title lang="ca">Els germans Kratt</title>
-    <sub-title lang="ca">El combat de pudor dels lèmurs</sub-title>
-    <desc lang="ca">Un matí, mentre són a Madagascar, els germans Kratt i els seus amics senten crits que indiquen que està tenint lloc una baralla entre dos grups de lèmurs de cua anellada. Encuriosits per aquest fet decideixen infiltrar-se en aquests grups per tal de descobrir la causa de la disputa. Així aprendran noves formes de comunicació animal.</desc>
-    <length units="seconds">1253</length>
-    <episode-num system="onscreen">86</episode-num>
+  <programme start="20261001022833 +0200" stop="20261001025029 +0200" channel="sx3">
+    <title lang="ca">Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
+    <sub-title lang="ca">Burla</sub-title>
+    <desc lang="ca">Quan per fi sembla que la Marinette està a punt de tenir una cita normal amb l'Adrien, comença a patir uns atacs de pànic molt estranys. No entén per què li passa. A més, comença a posar en perill la relació amb el noi que estima. El seu malestar emocional la podria convertir en l'objectiu perfecte pel Monarca. I si l'explicació del que li passa es trobés en el seu propi passat? Quan la Marinette encara no era la Marinette que coneixem avui dia?</desc>
+    <length units="seconds">1316</length>
+    <episode-num system="onscreen">118</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
@@ -102,12 +107,12 @@
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20260930232241 +0200" stop="20260930234250 +0200" channel="sx3">
-    <title lang="ca">Els germans Kratt</title>
-    <sub-title lang="ca">El lèmur daurat</sub-title>
-    <desc lang="ca">A Madagascar, la Patricia, que és membre del Club d'Amics dels Kratt, comunica a l'equip una bona notícia: ha nascut una cria de lèmur daurat, que és un animal molt escàs i amenaçat. L'equip decideix quedar-se més temps a l'illa per estudiar aquest lèmur tan rar. Aquesta vegada s'hauran de veure les cares amb la perversa Donita Donata, que es vol fer un vestit amb un lèmur per assistir a una festa.</desc>
-    <length units="seconds">1209</length>
-    <episode-num system="onscreen">87</episode-num>
+  <programme start="20261001025029 +0200" stop="20261001031047 +0200" channel="sx3">
+    <title lang="ca">Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
+    <sub-title lang="ca">Intuïció</sub-title>
+    <desc lang="ca">El Monarca té molt mala sort amb el poder de la intuïció. O bé el Lucky Charm de Ladybug s'adapta sempre a cada situació, o bé l'imprevisible Gat Noir ho espatlla tot a l'últim segon. Però quan Tecnologies Tsurugi decideixen provar el seu nou avió espacial, Monarca pensa que és una ocasió única per tenir una segona oportunitat de veritat. Està disposat a fer el que calgui per aprofitar-la i intentar apoderar-se dels prodigis.</desc>
+    <length units="seconds">1218</length>
+    <episode-num system="onscreen">119</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
@@ -119,61 +124,32 @@
   <channel id="c33">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20260930225801 +0200" stop="20261001005449 +0200" channel="c33">
-    <title lang="ca">Pel·lícula</title>
-    <sub-title lang="ca">Match point</sub-title>
-    <desc lang="ca">MATCH POINT (Match point)Idioma versió original: anglèsProducció: BBC Films, Thema Productions i Jada Productions, 2005 (Gran Bretanya i Estats Units)Direcció i guió: Woody AllenDurada: 122 minutsFotografia: Remi Adefarasin (color)Intèrprets: Jonathan Rhys-Meyers (Chris Wilton), Scarlett Johansson (Nola), Matthew Goode (Tom Hewett), Emily Mortimer (Chloe Hewett), Brian Cox (Alex Hewett), Penelope Wilson (Eleanor Hewett)Dramàtica història sobre l'ascens d'un jove en la societat londinenca i de les terribles conseqüències de la seva ambició. Chris Wilton és un professor de tennis que dóna classes a Tom Hewett, un jove molt ric. Chloe, la germana de Tom, s'enamora de Chris i es casen. Però Chris i la nòvia de Tom, una actriu nord-americana, es fan amants. La noia queda embarassada i Chris es trobarà en un carreró sense sortida.</desc>
-    <credits>
-      <actor>Jonathan Rhys-Meyers (Chris Wilton)</actor>
-      <actor>Scarlett Johansson (Nola)</actor>
-      <actor>Matthew Goode (Tom Hewett)</actor>
-      <actor>Emily Mortimer (Chloe Hewett)</actor>
-      <actor>Brian Cox (Alex Hewett)</actor>
-      <actor>Penelope Wilson (Eleanor Hewett)Dramàtica història sobre l'ascens d'un jove en la societat londinenca</actor>
-      <actor>de les terribles conseqüències de la seva ambició. Chris Wilton és un professor de tennis que dóna classes a Tom Hewett</actor>
-      <actor>un jove molt ric. Chloe</actor>
-      <actor>la germana de Tom</actor>
-      <actor>s'enamora de Chris</actor>
-      <actor>es casen. Però Chris</actor>
-      <actor>la nòvia de Tom</actor>
-      <actor>una actriu nord-americana</actor>
-      <actor>es fan amants. La noia queda embarassada</actor>
-      <actor>Chris es trobarà en un carreró sense sortida.</actor>
-    </credits>
-    <length units="seconds">7008</length>
-    <episode-num system="onscreen">1</episode-num>
+  <programme start="20261001023028 +0200" stop="20261001032444 +0200" channel="c33">
+    <title lang="ca">Downton Abbey</title>
+    <sub-title lang="ca">Les maneres de Downton Abbey</sub-title>
+    <desc lang="ca">A través de l'historiador Alastair Bruce, aquest especial retrata les estrictes normes d'etiqueta que regien la vida a Downton Abbey. Les maneres eduardianes definien cada gest: com seure a taula, com vestir-se, com parlar, estimar o casar-se. Tant l'aristocràcia com els servents vivien sotmesos a un codi rigorós que mantenia l'ordre social, el poder i la reputació en un món ple de canvis. Un retrat fascinant d'un univers refinat, complex i profundament jeràrquic.</desc>
+    <length units="seconds">3256</length>
+    <episode-num system="onscreen">58</episode-num>
     <category lang="ca">FICCIÓ</category>
-    <category lang="ca">PEL·LÍCULA / TELEFILM</category>
+    <category lang="ca">SÈRIE DRAMÀTICA</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <subtitles type="teletext"/>
+  </programme>
+  <programme start="20261001032444 +0200" stop="20261001034634 +0200" channel="c33">
+    <title lang="ca">Caçadors de paraules</title>
+    <sub-title lang="ca">Salut i cos</sub-title>
+    <desc lang="ca">Segons les enquestes, la salut és una de les principals preocupacions dels catalans. I Roger de Gràcia, el nostre presentador hipocondríac, no n'és una excepció. Preocupat pel seu estat físic, es disposa a sotmetre's a un examen mèdic intensiu que, a més, l'acostarà a l'argot dels metges i del personal d'infermeria. I sobretot, a les múltiples formes que els catalans tenim per parlar dels nostres mals: amb una infermera rural que treballa a l'Alt Berguedà, descobrirem les maneres populars d'anomenar les malalties, i rastrejarem els noms de les diferents parts del cos. Estressat per tantes bates blanques, en Roger de Gràcia acabarà en un balneari, provant dietes i tècniques de relaxació plenes de paraules.</desc>
+    <length units="seconds">1310</length>
+    <episode-num system="onscreen">15</episode-num>
+    <category lang="ca">DIVULGACIÓ</category>
+    <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
-    <icon src="https://img.3cat.cat/multimedia//jpg/3/9/1787666178593.jpg"/>
-  </programme>
-  <programme start="20261001005449 +0200" stop="20261001023026 +0200" channel="c33">
-    <title lang="ca">Pel·lícula</title>
-    <sub-title lang="ca">La increïble Elisa</sub-title>
-    <desc lang="ca">ASOMBROSA ELISAProducció de La Charito Films amb la participació de TV3.Director: Sadrac González-PerellónGuionista: Sadrac González-PerellónDirector fotografia: Iván RomeroIntèrprets: Silvia Abascal, Asier Etxeandia, Ivan Massagué i Jana San Antonio.SINOPSIElisa és una nena de dotze anys que, després de la mort accidental de la seva mare, intenta convèncer el seu pare que?posseeix els superpoders de la seva heroïna de còmic favorita, amb els quals pot venjar-se de qui va provocar l'accident mortal. </desc>
-    <credits>
-      <actor>Silvia Abascal</actor>
-      <actor>Asier Etxeandia</actor>
-      <actor>Ivan Massagué</actor>
-      <actor>Jana San Antonio.SINOPSIElisa és una nena de dotze anys que</actor>
-      <actor>després de la mort accidental de la seva mare</actor>
-      <actor>intenta convèncer el seu pare que?posseeix els superpoders de la seva heroïna de còmic favorita</actor>
-      <actor>amb els quals pot venjar-se de qui va provocar l'accident mortal.</actor>
-    </credits>
-    <length units="seconds">5737</length>
-    <episode-num system="onscreen">1</episode-num>
-    <category lang="ca">FICCIÓ</category>
-    <category lang="ca">PEL·LÍCULA / TELEFILM</category>
-    <rating>
-      <value>PÚBLIC ADULT</value>
-    </rating>
-    <subtitles type="teletext"/>
-    <previously-shown/>
-    <icon src="https://img.3cat.cat/multimedia/jpg/2/7/1762796155872.jpg"/>
   </programme>
   <channel id="oca1">
     <display-name>OCA1</display-name>
