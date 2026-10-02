@@ -3,26 +3,25 @@
   <channel id="tvi">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20261002164716 +0200" stop="20261002172722 +0200" channel="tvi">
-    <title lang="ca">La Riera</title>
-    <desc lang="ca">Un nou enfrontament amb els seus pares, fa que la Txell s'adoni de com els tracta en Joan. La Mercè té problemes per reconciliar-se amb els seus fills i es recolza en mossèn Esteve. El capellà pateix una mica... En Claudi dóna diners de l'herència als seus fills i l'Ona té una idea per invertir, però necessita socis. A la cuina, en Carlos vol aclarir què passa amb en Sergi i la Maribel.</desc>
-    <length units="seconds">2406</length>
-    <episode-num system="onscreen">143</episode-num>
-    <category lang="ca">FICCIÓ</category>
-    <category lang="ca">TELENOVEL·LA</category>
+  <programme start="20261002210000 +0200" stop="20261002220430 +0200" channel="tvi">
+    <title lang="ca">Telenotícies vespre</title>
+    <length units="seconds">3870</length>
+    <episode-num system="onscreen">7345</episode-num>
+    <category lang="ca">ACTUALITAT</category>
+    <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <subtitles type="teletext"/>
-    <previously-shown/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/7/2/1758026176427.jpg"/>
   </programme>
-  <programme start="20261002172722 +0200" stop="20261002173213 +0200" channel="tvi">
-    <title lang="ca">Ets música</title>
-    <sub-title lang="ca">Bernstein - Mambo</sub-title>
-    <length units="seconds">291</length>
-    <episode-num system="onscreen">2</episode-num>
-    <category lang="ca">MUSICALS</category>
-    <category lang="ca">CLÀSSICA</category>
+  <programme start="20261002220036 +0200" stop="20261002222517 +0200" channel="tvi">
+    <title lang="ca">Després de tu</title>
+    <sub-title lang="ca">Fem una birra?</sub-title>
+    <desc lang="ca">Aconsellat per en Valentí, el terapeuta, en Pau afronta un repte pendent: treure's el carnet de conduir. Així coneix l'Helena, la professora, i hi ha química entre els dos. L'Òscar pateix les penúries de ser rider i l'Alba és incapaç de tocar el violí tot i tenir-ne un de nou. </desc>
+    <length units="seconds">1481</length>
+    <episode-num system="onscreen">12</episode-num>
+    <category lang="ca">FICCIÓ</category>
+    <category lang="ca">SÈRIE DRAMÀTICA</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
@@ -32,89 +31,85 @@
   <channel id="324">
     <display-name>324</display-name>
   </channel>
-  <programme start="20261002153000 +0200" stop="20261002170000 +0200" channel="324">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">5400</length>
-    <episode-num system="onscreen">11326</episode-num>
+  <programme start="20261002210000 +0200" stop="20261002220500 +0200" channel="324">
+    <title lang="ca">Telenotícies vespre</title>
+    <length units="seconds">3900</length>
+    <episode-num system="onscreen">7345</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <subtitles type="teletext"/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/7/2/1758026176427.jpg"/>
   </programme>
-  <programme start="20261002170000 +0200" stop="20261002183000 +0200" channel="324">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">5400</length>
-    <episode-num system="onscreen">11327</episode-num>
+  <programme start="20261002220500 +0200" stop="20261002233000 +0200" channel="324">
+    <title lang="ca">Mésnit</title>
+    <desc lang="ca">El 'Mésnit' arriba a la desena temporada, amb Marina Romero al capdavant de l'espai i amb la voluntat de continuar sent un centre de debat d'idees i d'anàlisi de l'activitat política.</desc>
+    <length units="seconds">5100</length>
+    <episode-num system="onscreen">2172</episode-num>
     <category lang="ca">ACTUALITAT</category>
-    <category lang="ca">INFORMATIU DIÀRI</category>
+    <category lang="ca">DEBAT</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
   <channel id="esport3">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20261002162656 +0200" stop="20261002172117 +0200" channel="esport3">
-    <title lang="ca">Experiència Catalana</title>
-    <sub-title lang="ca">Annabel</sub-title>
-    <desc lang="ca">Amb l'Annabel Candy, una dona australiana, visitem Montserrat i la Vall de Núria. Ja a Barcelona, la Ivana Miño la porta a la Pedrera i a l'Anella Olímpica, però el viatge no acaba aquí, sinó al Carnaval de Vilanova.</desc>
-    <length units="seconds">3261</length>
-    <episode-num system="onscreen">4</episode-num>
-    <category lang="ca">ENTRETENIMENT</category>
-    <category lang="ca">ALTRES</category>
+  <programme start="20261002205819 +0200" stop="20261002230156 +0200" channel="esport3">
+    <title lang="ca">Hípica</title>
+    <sub-title lang="ca">Gran Premi Ciutat de Barcelona / CSIO</sub-title>
+    <desc lang="ca">Des del Reial Club de Polo de Barcelona, la prova individual del Concurs de Salts Internacional Oficial.</desc>
+    <length units="seconds">7417</length>
+    <episode-num system="onscreen">8135</episode-num>
+    <category lang="ca">ESPORTS</category>
+    <category lang="ca">RETRANSMISSIONS ESPORTS</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <subtitles type="teletext"/>
-    <previously-shown/>
+    <icon src="https://img.3cat.cat/multimedia/jpg/3/6/1790764872063.jpg"/>
   </programme>
-  <programme start="20261002172117 +0200" stop="20261002173421 +0200" channel="esport3">
-    <title lang="ca">Thalassa curts</title>
-    <sub-title lang="ca">Un mar sense arrossegadors</sub-title>
-    <length units="seconds">784</length>
-    <episode-num system="onscreen">140</episode-num>
-    <category lang="ca">DIVULGACIÓ</category>
-    <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
+  <programme start="20261002230156 +0200" stop="20261002230352 +0200" channel="esport3">
+    <title lang="ca">WRC</title>
+    <sub-title lang="ca">Ral·li d'Itàlia-Sardenya / WRC 2026 / J1</sub-title>
+    <desc lang="ca">13a i última prova del Mundial amb el títol de campió en joc. El Ral·li de Sardenya, amb seu a la població de l'Alguer, té un total de 307 quilòmetres cronometrats en 17 trams de carreteres sobre terra. Us oferim el més destacat de la primera jornada. </desc>
+    <length units="seconds">116</length>
+    <episode-num system="onscreen">257</episode-num>
+    <category lang="ca">ESPORTS</category>
+    <category lang="ca">RETRANSMISSIONS ESPORTS</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <subtitles type="teletext"/>
-    <previously-shown/>
+    <icon src="https://img.3cat.cat/multimedia/jpg/1/7/1783953384771.jpg"/>
   </programme>
   <channel id="sx3">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20261002165356 +0200" stop="20261002170600 +0200" channel="sx3">
-    <title lang="ca">Titó</title>
-    <sub-title lang="ca">Excursió al musical</sub-title>
-    <desc lang="ca">Avui descobrirem que un musical és una obra de teatre amb música, cançons i balls. Passarem per musicals coneguts mundialment i ens aturarem en el musical català més famós: 'Mar i cel'. </desc>
-    <length units="seconds">724</length>
-    <episode-num system="onscreen">147</episode-num>
-    <category lang="ca">ENTRETENIMENT</category>
-    <category lang="ca">ALTRES</category>
+  <programme start="20261002212226 +0200" stop="20261002214143 +0200" channel="sx3">
+    <title lang="ca">Bola de drac Z</title>
+    <sub-title lang="ca">En Son Gohan contra la Videl</sub-title>
+    <desc lang="ca">Després de recuperar la cria de dinosaure que havia segrestat el propietari d'un circ, en Son Gohan és acusat de robatori i obligat a enfrontar-se a la Videl, que més tard descobreix la identitat del gran Guerrer del Vent. Si vol que li guardi el secret, en Son Gohan s'haurà de presentar al Campionat Mundial d'Arts Marcials.</desc>
+    <length units="seconds">1157</length>
+    <episode-num system="onscreen">204</episode-num>
+    <category lang="ca">FICCIÓ</category>
+    <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
-      <value>INFANTIL</value>
+      <value>JUVENIL</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20261002170600 +0200" stop="20261002171628 +0200" channel="sx3">
-    <title lang="ca">Titó</title>
-    <sub-title lang="ca">Excursió a les pomeres</sub-title>
-    <desc lang="ca">D'on surten les pomes? A l'excursió d'avui ho descobrirem! Enmig d'un camp de pomeres, cantarem cançons, parlarem de Newton i la gravetat i en John C. ens farà petar de riure intentant agafar les pomes de més amunt!</desc>
-    <length units="seconds">628</length>
-    <episode-num system="onscreen">150</episode-num>
-    <category lang="ca">ENTRETENIMENT</category>
-    <category lang="ca">ALTRES</category>
+  <programme start="20261002214143 +0200" stop="20261002220240 +0200" channel="sx3">
+    <title lang="ca">Bola de drac Z</title>
+    <sub-title lang="ca">En Son Gohan participarà en el Campionat Mundial d'Arts Marcials</sub-title>
+    <desc lang="ca">La Videl, que ha descobert la identitat secreta d'en Son Gohan, l'ha obligat, a canvi de no fer-ho públic, a presentar-se al Campionat Mundial d'Arts Marcials. En Krilin, en Vegeta, en Cor Petit i l'A-17 també s'hi inscriuen, i la sorpresa arriba quan en Son Goku afirma que passarà un dia a la Terra, el dia de la competició.</desc>
+    <length units="seconds">1257</length>
+    <episode-num system="onscreen">205</episode-num>
+    <category lang="ca">FICCIÓ</category>
+    <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
-      <value>INFANTIL</value>
+      <value>JUVENIL</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
@@ -122,33 +117,33 @@
   <channel id="c33">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20261002163534 +0200" stop="20261002170421 +0200" channel="c33">
-    <title lang="ca">Els hotels més remots del món</title>
-    <sub-title lang="ca">Budir - Islàndia</sub-title>
-    <desc lang="ca">Situat enmig d'un camp de lava a la part oest més remota d'Islàndia, l'hotel Budir existeix des dels anys 40. Propietat d'un empresari local, dur al damunt la història d'aquestes terres desolades, i el personal, que no ha canviat des de fa anys, prové del mateix poble de la península. Atrau clients habituals que utilitzen l'hotel com un lloc de retir davant de l'oceà Atlàntic. Es creu que Jules Vernes va localitzar l'escenari d'un dels seus llibres, 'Viatge al centre de la terra', just al costat de la icònica església negra que hi ha al davant de l'hotel.</desc>
-    <length units="seconds">1727</length>
-    <episode-num system="onscreen">7</episode-num>
-    <category lang="ca">DIVULGACIÓ</category>
-    <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
+  <programme start="20261002212627 +0200" stop="20261002215911 +0200" channel="c33">
+    <title lang="ca">Plats bruts</title>
+    <sub-title lang="ca">Tinc 'touchdown'</sub-title>
+    <desc lang="ca">El David va a fer unes proves per què l'agafin als Barcelona Dragons i, finalment, el fitxen per fer de 'waterboy'. El 'quarterback' de l'equip es lesiona i el substitueix el David. Aleshores, la iaia pren el rol de 'watergirl' i, sense adonar-se'n, intoxica tot l'equip.</desc>
+    <length units="seconds">1964</length>
+    <episode-num system="onscreen">73</episode-num>
+    <category lang="ca">FICCIÓ</category>
+    <category lang="ca">SITCOM (COMÈDIA DE SITUACIÓ)</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20261002170421 +0200" stop="20261002173024 +0200" channel="c33">
-    <title lang="ca">Els hotels més remots del món</title>
-    <sub-title lang="ca">Qasr Al Sarab d'Anantara - Emirats Àrabs Units</sub-title>
-    <desc lang="ca">Enclavat en una vall desèrtica enmig d'immenses dunes, i davant d'unes salines, l'hotel destaca amb les seves torres de pedra, grans enreixats i fonts d'aigua, recordant una antiga fortalesa àrab. Qasr Al Sarab és pràcticament l'única estructura en un radi de diversos quilòmetres: un vaixell solitari a la deriva en un mar de sorra. L'hotel, per tant, ha de satisfer les seves pròpies necessitats. L'hotel recicla tota la seva aigua, té la seva pròpia planta de tractament i fins i tot cultiva les seves pròpies fruites i verdures en un hivernacle al desert. Va ser elegit com el gran hotel més sostenible del món l'any 2022.</desc>
-    <length units="seconds">1563</length>
-    <episode-num system="onscreen">8</episode-num>
+  <programme start="20261002215911 +0200" stop="20261002225341 +0200" channel="c33">
+    <title lang="ca">La Renaixença</title>
+    <sub-title lang="ca">Millors moments - setmana 5</sub-title>
+    <desc lang="ca">Esprai manual, estisores, ulleres de sol i corretja de gos. Podria tractar-se del kit d'un sadomasoquista, però no, són els objectes d'aquesta setmana. Com podeu veure, amb una mica de gràcia es pot fer humor de qualsevol cosa. Els il·lustres catalans que passen pel nostre escó són l'actriu Rosa Boladeras, el campanòleg Xavier Pallàs, en Titot, el cantant de Brams i la Roser Gol, llevadora i doctora en ciències de la salut. De veritat, fa lleig que ho diguem nosaltres, però ens han quedat uns programes fantàstics.</desc>
+    <length units="seconds">3270</length>
+    <episode-num system="onscreen">244</episode-num>
     <category lang="ca">DIVULGACIÓ</category>
-    <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
+    <category lang="ca">ALTRES</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
-    <previously-shown/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/3/3/1756148014833.jpg"/>
   </programme>
   <channel id="oca1">
     <display-name>OCA1</display-name>
@@ -162,4 +157,17 @@
   <channel id="oca4">
     <display-name>OCA4</display-name>
   </channel>
+  <programme start="20261002205819 +0200" stop="20261002235314 +0200" channel="oca4">
+    <title lang="ca">Hípica</title>
+    <sub-title lang="ca">- Gran Premi Ciutat de Barcelona / CSIO</sub-title>
+    <desc lang="ca">Des del Reial Club de Polo de Barcelona, la prova individual del Concurs de Salts Internacional Oficial.</desc>
+    <length units="seconds">10495</length>
+    <episode-num system="onscreen">8135</episode-num>
+    <category lang="ca">ESPORTS</category>
+    <category lang="ca">RETRANSMISSIONS ESPORTS</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <icon src="https://img.3cat.cat/multimedia/jpg/3/6/1790764872063.jpg"/>
+  </programme>
 </tv>
