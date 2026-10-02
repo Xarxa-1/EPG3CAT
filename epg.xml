@@ -3,78 +3,94 @@
   <channel id="tvi">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20261002210000 +0200" stop="20261002220430 +0200" channel="tvi">
-    <title lang="ca">Telenotícies vespre</title>
-    <length units="seconds">3870</length>
-    <episode-num system="onscreen">7345</episode-num>
-    <category lang="ca">ACTUALITAT</category>
-    <category lang="ca">INFORMATIU DIÀRI</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <icon src="https://img.ccma.cat/multimedia/jpg/7/2/1758026176427.jpg"/>
-  </programme>
-  <programme start="20261002220036 +0200" stop="20261002222517 +0200" channel="tvi">
-    <title lang="ca">Després de tu</title>
-    <sub-title lang="ca">Fem una birra?</sub-title>
-    <desc lang="ca">Aconsellat per en Valentí, el terapeuta, en Pau afronta un repte pendent: treure's el carnet de conduir. Així coneix l'Helena, la professora, i hi ha química entre els dos. L'Òscar pateix les penúries de ser rider i l'Alba és incapaç de tocar el violí tot i tenir-ne un de nou. </desc>
-    <length units="seconds">1481</length>
-    <episode-num system="onscreen">12</episode-num>
+  <programme start="20261003000337 +0200" stop="20261003013521 +0200" channel="tvi">
+    <title lang="ca">Pel·lícula</title>
+    <sub-title lang="ca">Assassinats a Chantilly</sub-title>
+    <desc lang="ca">ASSASSINATS A CHANTILLY 'Meurtres à Chantilly'Direcció: Marjolaine de LecluseGuió: Matthieu SavignacProducció: Siècle Productions, France Télévisions, AT-Production, Radio Télévision Belge Francophone (RTBF), Pictanovo, Centre national du cinéma et de l'image animée (CNC), TV5MONDE, Radio Télévision Suisse (RTS)Any: 2023Durada: 90País: França Música: Armand AmarIntèrprets: Bruno Todeschini, Elodie Frenck, Nathalie Richard, Hippolyte Girardot, Sofiia Manousha, Damien Jouillerot, Vincent Martin, Michaël Vander-Meiren, Mélissandre Fortumeau, Charlotte Talpaert, Aymen Saïdi, Luna Lou, Matthieu Le Goaster, Cristina Garcia Rios, Bruno Tuchszer, Sylvie Flepp, Saverio Maligno, Floriane PotiezUna amazona de vint anys apareix assassinada al castell de Chantilly. Aquesta tràgica mort fa ressorgir una antiga llegenda: la de l'anell màgic de Louise de Budos, que tenia el poder de tornar irresistible qualsevol dona que el portés. Els capitans de la gendarmeria Antoine Mercier i Juliette Delambre, que s'acaben de divorciar, es veuen obligats a unir forces per resoldre el cas. </desc>
+    <credits>
+      <director>Marjolaine de Lecluse</director>
+      <writer>Matthieu Savignac</writer>
+      <actor>Bruno Todeschini</actor>
+      <actor>Elodie Frenck</actor>
+      <actor>Nathalie Richard</actor>
+      <actor>Hippolyte Girardot</actor>
+      <actor>Sofiia Manousha</actor>
+      <actor>Damien Jouillerot</actor>
+      <actor>Vincent Martin</actor>
+      <actor>Michaël Vander-Meiren</actor>
+      <actor>Mélissandre Fortumeau</actor>
+      <actor>Charlotte Talpaert</actor>
+      <actor>Aymen Saïdi</actor>
+      <actor>Luna Lou</actor>
+      <actor>Matthieu Le Goaster</actor>
+      <actor>Cristina Garcia Rios</actor>
+      <actor>Bruno Tuchszer</actor>
+      <actor>Sylvie Flepp</actor>
+      <actor>Saverio Maligno</actor>
+      <actor>Floriane PotiezUna amazona de vint anys apareix assassinada al castell de Chantilly. Aquesta tràgica mort fa ressorgir una antiga llegenda: la de l'anell màgic de Louise de Budos</actor>
+      <actor>que tenia el poder de tornar irresistible qualsevol dona que el portés. Els capitans de la gendarmeria Antoine Mercier</actor>
+      <actor>Juliette Delambre</actor>
+      <actor>que s'acaben de divorciar</actor>
+      <actor>es veuen obligats a unir forces per resoldre el cas.</actor>
+    </credits>
+    <length units="seconds">5504</length>
+    <episode-num system="onscreen">1</episode-num>
     <category lang="ca">FICCIÓ</category>
-    <category lang="ca">SÈRIE DRAMÀTICA</category>
+    <category lang="ca">PEL·LÍCULA / TELEFILM</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <channel id="324">
-    <display-name>324</display-name>
-  </channel>
-  <programme start="20261002210000 +0200" stop="20261002220500 +0200" channel="324">
-    <title lang="ca">Telenotícies vespre</title>
-    <length units="seconds">3900</length>
-    <episode-num system="onscreen">7345</episode-num>
-    <category lang="ca">ACTUALITAT</category>
-    <category lang="ca">INFORMATIU DIÀRI</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <icon src="https://img.ccma.cat/multimedia/jpg/7/2/1758026176427.jpg"/>
-  </programme>
-  <programme start="20261002220500 +0200" stop="20261002233000 +0200" channel="324">
+  <programme start="20261003013521 +0200" stop="20261003025932 +0200" channel="tvi">
     <title lang="ca">Mésnit</title>
     <desc lang="ca">El 'Mésnit' arriba a la desena temporada, amb Marina Romero al capdavant de l'espai i amb la voluntat de continuar sent un centre de debat d'idees i d'anàlisi de l'activitat política.</desc>
-    <length units="seconds">5100</length>
+    <length units="seconds">5051</length>
     <episode-num system="onscreen">2172</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">DEBAT</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <subtitles type="teletext"/>
+    <previously-shown/>
+  </programme>
+  <channel id="324">
+    <display-name>324</display-name>
+  </channel>
+  <programme start="20261003010000 +0200" stop="20261003060000 +0200" channel="324">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="seconds">18000</length>
+    <episode-num system="onscreen">11331</episode-num>
+    <category lang="ca">ACTUALITAT</category>
+    <category lang="ca">INFORMATIU DIÀRI</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <previously-shown/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
+  </programme>
+  <programme start="20261003060000 +0200" stop="20261003070000 +0200" channel="324">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="seconds">3600</length>
+    <episode-num system="onscreen">11331</episode-num>
+    <category lang="ca">ACTUALITAT</category>
+    <category lang="ca">INFORMATIU DIÀRI</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <previously-shown/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
   <channel id="esport3">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20261002205819 +0200" stop="20261002230156 +0200" channel="esport3">
-    <title lang="ca">Hípica</title>
-    <sub-title lang="ca">Gran Premi Ciutat de Barcelona / CSIO</sub-title>
-    <desc lang="ca">Des del Reial Club de Polo de Barcelona, la prova individual del Concurs de Salts Internacional Oficial.</desc>
-    <length units="seconds">7417</length>
-    <episode-num system="onscreen">8135</episode-num>
-    <category lang="ca">ESPORTS</category>
-    <category lang="ca">RETRANSMISSIONS ESPORTS</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <icon src="https://img.3cat.cat/multimedia/jpg/3/6/1790764872063.jpg"/>
-  </programme>
-  <programme start="20261002230156 +0200" stop="20261002230352 +0200" channel="esport3">
+  <programme start="20261003005327 +0200" stop="20261003012051 +0200" channel="esport3">
     <title lang="ca">WRC</title>
     <sub-title lang="ca">Ral·li d'Itàlia-Sardenya / WRC 2026 / J1</sub-title>
     <desc lang="ca">13a i última prova del Mundial amb el títol de campió en joc. El Ral·li de Sardenya, amb seu a la població de l'Alguer, té un total de 307 quilòmetres cronometrats en 17 trams de carreteres sobre terra. Us oferim el més destacat de la primera jornada. </desc>
-    <length units="seconds">116</length>
+    <length units="seconds">1644</length>
     <episode-num system="onscreen">257</episode-num>
     <category lang="ca">ESPORTS</category>
     <category lang="ca">RETRANSMISSIONS ESPORTS</category>
@@ -83,33 +99,47 @@
     </rating>
     <icon src="https://img.3cat.cat/multimedia/jpg/1/7/1783953384771.jpg"/>
   </programme>
+  <programme start="20261003012051 +0200" stop="20261003025427 +0200" channel="esport3">
+    <title lang="ca">Onze</title>
+    <sub-title lang="ca">Raphina, OK; Ganes de clàssic; Delmàs, Fàbregas i Cazorla</sub-title>
+    <desc lang="ca">Míriam Riau condueix la tertúlia amb Laia Tudel, David Ibáñez, Albert Rogé i Laura Aparicio. Repassem les declaracions més importants de Luís de la Fuente abans de l'Espanya-república Txeca de dissabte. Fem la prèvia del clàssic femení al Camp Nou amb Gemma Mallorca, Àlex Delmàs ens parla del poder ofensiu del Barça. Acabem amb l'humor de Xavi Cazorla. </desc>
+    <length units="seconds">5616</length>
+    <episode-num system="onscreen">1261</episode-num>
+    <category lang="ca">ESPORTS</category>
+    <category lang="ca">MAGAZINE</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <subtitles type="teletext"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/1/1/1688543515711.jpg"/>
+  </programme>
   <channel id="sx3">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20261002212226 +0200" stop="20261002214143 +0200" channel="sx3">
-    <title lang="ca">Bola de drac Z</title>
-    <sub-title lang="ca">En Son Gohan contra la Videl</sub-title>
-    <desc lang="ca">Després de recuperar la cria de dinosaure que havia segrestat el propietari d'un circ, en Son Gohan és acusat de robatori i obligat a enfrontar-se a la Videl, que més tard descobreix la identitat del gran Guerrer del Vent. Si vol que li guardi el secret, en Son Gohan s'haurà de presentar al Campionat Mundial d'Arts Marcials.</desc>
-    <length units="seconds">1157</length>
-    <episode-num system="onscreen">204</episode-num>
+  <programme start="20261003010851 +0200" stop="20261003012027 +0200" channel="sx3">
+    <title lang="ca">Les Sisters</title>
+    <sub-title lang="ca">La feina més bonica del món</sub-title>
+    <desc lang="ca">Quan sigui gran, la Marine vol ser 'ninfermera', com la mama. Diu que és la feina més bonica del món. Però per això ha d'entrenar-se a curar pacients. El problema és que a casa seva no es posa mai ningú malalt. Per arreglar-ho, la Marine s'ha d'espavilar una mica...</desc>
+    <length units="seconds">696</length>
+    <episode-num system="onscreen">53</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
-      <value>JUVENIL</value>
+      <value>INFANTIL</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20261002214143 +0200" stop="20261002220240 +0200" channel="sx3">
-    <title lang="ca">Bola de drac Z</title>
-    <sub-title lang="ca">En Son Gohan participarà en el Campionat Mundial d'Arts Marcials</sub-title>
-    <desc lang="ca">La Videl, que ha descobert la identitat secreta d'en Son Gohan, l'ha obligat, a canvi de no fer-ho públic, a presentar-se al Campionat Mundial d'Arts Marcials. En Krilin, en Vegeta, en Cor Petit i l'A-17 també s'hi inscriuen, i la sorpresa arriba quan en Son Goku afirma que passarà un dia a la Terra, el dia de la competició.</desc>
-    <length units="seconds">1257</length>
-    <episode-num system="onscreen">205</episode-num>
+  <programme start="20261003012027 +0200" stop="20261003014023 +0200" channel="sx3">
+    <title lang="ca">Viatges Pokémon</title>
+    <sub-title lang="ca">Dia i nit, tots dos en feu un!</sub-title>
+    <desc lang="ca">Com que la Chloe i l'Eevee volen aprendre coses de l'Espeon i l'Umbreon, el professor Cirerer proposa als nostres amics d'anar al Festival de l'Eclipsi Solar del Castell Eclipsi de Johto. Un cop allà, la Chloe coneix la Soleil, la futura senyora del Castell Eclipsi, i resulta que les dues noies són clavades. L'Espeon i l'Umbreon de la Soleil li demostren una lleialtat total. Just abans que la Soleil s'estreni com a senyora, un altre descendent de la família del castell, l'Illunes, segresta per error la Chloe en lloc de la Soleil.</desc>
+    <length units="seconds">1196</length>
+    <episode-num system="onscreen">79</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
-      <value>JUVENIL</value>
+      <value>INFANTIL</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
@@ -117,33 +147,39 @@
   <channel id="c33">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20261002212627 +0200" stop="20261002215911 +0200" channel="c33">
-    <title lang="ca">Plats bruts</title>
-    <sub-title lang="ca">Tinc 'touchdown'</sub-title>
-    <desc lang="ca">El David va a fer unes proves per què l'agafin als Barcelona Dragons i, finalment, el fitxen per fer de 'waterboy'. El 'quarterback' de l'equip es lesiona i el substitueix el David. Aleshores, la iaia pren el rol de 'watergirl' i, sense adonar-se'n, intoxica tot l'equip.</desc>
-    <length units="seconds">1964</length>
-    <episode-num system="onscreen">73</episode-num>
-    <category lang="ca">FICCIÓ</category>
-    <category lang="ca">SITCOM (COMÈDIA DE SITUACIÓ)</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <subtitles type="teletext"/>
-    <previously-shown/>
-  </programme>
-  <programme start="20261002215911 +0200" stop="20261002225341 +0200" channel="c33">
-    <title lang="ca">La Renaixença</title>
-    <sub-title lang="ca">Millors moments - setmana 5</sub-title>
-    <desc lang="ca">Esprai manual, estisores, ulleres de sol i corretja de gos. Podria tractar-se del kit d'un sadomasoquista, però no, són els objectes d'aquesta setmana. Com podeu veure, amb una mica de gràcia es pot fer humor de qualsevol cosa. Els il·lustres catalans que passen pel nostre escó són l'actriu Rosa Boladeras, el campanòleg Xavier Pallàs, en Titot, el cantant de Brams i la Roser Gol, llevadora i doctora en ciències de la salut. De veritat, fa lleig que ho diguem nosaltres, però ens han quedat uns programes fantàstics.</desc>
-    <length units="seconds">3270</length>
-    <episode-num system="onscreen">244</episode-num>
-    <category lang="ca">DIVULGACIÓ</category>
+  <programme start="20261003001220 +0200" stop="20261003013330 +0200" channel="c33">
+    <title lang="ca">Al Cim</title>
+    <sub-title lang="ca">Al Cim</sub-title>
+    <length units="seconds">4870</length>
+    <episode-num system="onscreen">1</episode-num>
+    <category lang="ca">ENTRETENIMENT</category>
     <category lang="ca">ALTRES</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/3/3/1756148014833.jpg"/>
+    <previously-shown/>
+    <icon src="https://img.3cat.cat/multimedia/jpg/8/6/1728060903668.jpg"/>
+  </programme>
+  <programme start="20261003013330 +0200" stop="20261003030331 +0200" channel="c33">
+    <title lang="ca">Sagrada família, el repte de Gaudí</title>
+    <sub-title lang="ca">Sagrada Família, el repte de Gaudí</sub-title>
+    <desc lang="ca">Sagrada Família, el repte de Gaudí (2022), una producción de Produccions Quart en coproducció amb Atomis Media i Gedeon Programmes, amb la participació de Televisió de Catalunya, Arte, M+, Tourespaña, i el suport de l'ICEC.Dirigit per Marc Jampolsky, reconegut internacionalment pels seus documentals sobre grans monuments històrics com Versalles o el Vaticà, 'Sagrada Família, el repte de Gaudí' relata la desmesura artística de Gaudí en la recta final de la construcció del temple, l'únic del món començat al segle XIX que encara es continua aixecant al XX. Equip:Direcció: Marc JampolskyGuió: Marc Jampolsky i Marie ThiryRealització: Raul FernándezProducció: Abigaïl Schaaff, Isavel Raventós, Stephane MillereProducció executiva TV3: Jordi Ambròs HortensiEdició continguts TV3: Montse Armengou MartínRealització TV3: Jacob Peña GómezProducció delegada TV3: Daniel Barea DelgadoDirector de fotografia: Raul FernándezMuntatge: Giller PerruDirector de producció: Rejané Gay, Diane Riethof i Jorge VelascoMúsica: Bruno CourtinLingüista: David ArnauGrafisme: Christophe DentinVeu en off: Luis Posadas</desc>
+    <credits>
+      <director>Marc Jampolsky</director>
+      <writer>Marc Jampolsky</writer>
+      <writer>Marie ThiryRealització: Raul Fernández</writer>
+    </credits>
+    <length units="seconds">5401</length>
+    <episode-num system="onscreen">1</episode-num>
+    <category lang="ca">DIVULGACIÓ</category>
+    <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <subtitles type="teletext"/>
+    <previously-shown/>
+    <icon src="https://img.3cat.cat/multimedia/jpg/3/3/1730743738033.jpg"/>
   </programme>
   <channel id="oca1">
     <display-name>OCA1</display-name>
@@ -157,17 +193,4 @@
   <channel id="oca4">
     <display-name>OCA4</display-name>
   </channel>
-  <programme start="20261002205819 +0200" stop="20261002235314 +0200" channel="oca4">
-    <title lang="ca">Hípica</title>
-    <sub-title lang="ca">- Gran Premi Ciutat de Barcelona / CSIO</sub-title>
-    <desc lang="ca">Des del Reial Club de Polo de Barcelona, la prova individual del Concurs de Salts Internacional Oficial.</desc>
-    <length units="seconds">10495</length>
-    <episode-num system="onscreen">8135</episode-num>
-    <category lang="ca">ESPORTS</category>
-    <category lang="ca">RETRANSMISSIONS ESPORTS</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <icon src="https://img.3cat.cat/multimedia/jpg/3/6/1790764872063.jpg"/>
-  </programme>
 </tv>
