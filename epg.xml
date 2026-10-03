@@ -3,42 +3,35 @@
   <channel id="tvi">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20261003210000 +0200" stop="20261003220455 +0200" channel="tvi">
-    <title lang="ca">Telenotícies vespre</title>
-    <length units="seconds">3895</length>
-    <episode-num system="onscreen">7346</episode-num>
+  <programme start="20261003231420 +0200" stop="20261004004353 +0200" channel="tvi">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="seconds">5373</length>
+    <episode-num system="onscreen">11339</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <icon src="https://img.ccma.cat/multimedia/jpg/7/2/1758026176427.jpg"/>
+    <previously-shown/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
-  <programme start="20261003220455 +0200" stop="20261003230655 +0200" channel="tvi">
-    <title lang="ca">Col·lapse</title>
-    <desc lang="ca">La crisi de l'habitatge a 'Col·lapse'. Jordi González visita la casa d'Ivan Giesen, al barri del Poblenou de Barcelona. Coneixerem la seva història personal. L'han intentat desnonar en dues ocasions i ara viu pendent d'una negociació amb els propietaris que no arriba mai.  Pilar Eyre ens despulla la monarquia espanyola amb tot luxe de detalls en la seva nova novel·la 'Sucesión'. L'actor Marcos Franz explicarà el malson que va viure quan protagonitzava la sèrie 'Merlí' i de quina manera va afectar a totes les àrees de la seva vida privada. Parlarem amb Lluís Soler, una de les grans veus de Catalunya que es va fer especialment popular per ser 'el violador' d'El Cor de la ciutat. Hem visitat Macondo Park amb el promotor de concerts i president de Live Nation Pino Sagliocco i parlem els pros i contres d'aquesta residència musical que ha portat Shakira a Europa durant un mes amb l'analista musical Oscar Nin i una fan incondicional Meritxell Falgueras. L'Àngel Llacer estrena la seva particular secció titulada 'L'àngel de la guarda'. </desc>
-    <length units="seconds">3720</length>
-    <episode-num system="onscreen">155</episode-num>
-    <category lang="ca">ENTRETENIMENT</category>
-    <category lang="ca">TALK-SHOW</category>
+  <programme start="20261004004353 +0200" stop="20261004060000 +0200" channel="tvi">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="seconds">18967</length>
+    <episode-num system="onscreen">11339</episode-num>
+    <category lang="ca">ACTUALITAT</category>
+    <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
+    <previously-shown/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
   <channel id="324">
     <display-name>324</display-name>
   </channel>
-  <programme start="20261003210000 +0200" stop="20261003230000 +0200" channel="324">
-    <title lang="ca">Telenotícies vespre</title>
-    <length units="seconds">7200</length>
-    <episode-num system="onscreen">7346</episode-num>
-    <category lang="ca">ACTUALITAT</category>
-    <category lang="ca">INFORMATIU DIÀRI</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <icon src="https://img.ccma.cat/multimedia/jpg/7/2/1758026176427.jpg"/>
-  </programme>
   <programme start="20261003230000 +0200" stop="20261004003000 +0200" channel="324">
     <title lang="ca">Notícies 3CatInfo</title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
@@ -52,38 +45,56 @@
     <subtitles type="teletext"/>
     <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
+  <programme start="20261004003000 +0200" stop="20261004010000 +0200" channel="324">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="seconds">1800</length>
+    <episode-num system="onscreen">11339</episode-num>
+    <category lang="ca">ACTUALITAT</category>
+    <category lang="ca">INFORMATIU DIÀRI</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
+  </programme>
   <channel id="esport3">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20261003192706 +0200" stop="20261003224340 +0200" channel="esport3">
-    <title lang="ca">CURSES DE MUNTANYA</title>
-    <sub-title lang="ca">- MARATÓ PIRINEU</sub-title>
-    <desc lang="ca">Sense Descripció</desc>
-    <length units="seconds">11794</length>
-  </programme>
-  <programme start="20261003224340 +0200" stop="20261003230433 +0200" channel="esport3">
-    <title lang="ca">Zona zàping</title>
-    <sub-title lang="ca">Lamine Yamal, exhibició cap a la pilota d'or</sub-title>
-    <desc lang="ca">Lamine Yamal ha demostrat en un parell de partits amb la selecció espanyola, perquè és el candidat a guanyar la pilota d'or, amb una exhibició de joc, 3 gols i una assistència.Siderland acomiada el programa amb la seva nova cançó, 'L'última'.</desc>
-    <length units="seconds">1253</length>
-    <episode-num system="onscreen">1083</episode-num>
-    <category lang="ca">ESPORTS</category>
-    <category lang="ca">ALTRES</category>
+  <programme start="20261003231420 +0200" stop="20261004002527 +0200" channel="esport3">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="seconds">4267</length>
+    <episode-num system="onscreen">11338</episode-num>
+    <category lang="ca">ACTUALITAT</category>
+    <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
-    <icon src="https://img.3cat.cat/multimedia/jpg/4/7/1763564970974.jpg"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
+  </programme>
+  <programme start="20261004002527 +0200" stop="20261004060000 +0200" channel="esport3">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="seconds">20073</length>
+    <episode-num system="onscreen">11339</episode-num>
+    <category lang="ca">ACTUALITAT</category>
+    <category lang="ca">INFORMATIU DIÀRI</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <subtitles type="teletext"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
   <channel id="sx3">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20261003214115 +0200" stop="20261003220236 +0200" channel="sx3">
-    <title lang="ca">Els germans Kratt</title>
-    <sub-title lang="ca">Animals de les profunditats del mar (1a part)</sub-title>
-    <desc lang="ca">L'equip dels germans Kratt s'endinsa en l'últim territori que quedava verge per descobrir noves espècies d'animals a bord de la nau d'exploració de les grans profunditats marines que ha creat l'Aviva. Al fons de tot del mar hauran de superar grans reptes i, a l'hora de la veritat, tot l'equip dels germans Kratt haurà de decidir què és realment important i què no ho és. </desc>
-    <length units="seconds">1281</length>
-    <episode-num system="onscreen">117</episode-num>
+  <programme start="20261004002100 +0200" stop="20261004003119 +0200" channel="sx3">
+    <title lang="ca">La gateta Arc iris papallona unicorn</title>
+    <sub-title lang="ca">El monstre d'ulls verds</sub-title>
+    <desc lang="ca">La Felicity i el Miguel celebren l'aniversari de la seva amistat amb una excursió i el Miguel hi convida una nova amiga: una petita esquirol molt tímida. De seguida, però, la Felicity comença a sospitar que l'animaló no és tan inofensiu com sembla.</desc>
+    <length units="seconds">619</length>
+    <episode-num system="onscreen">17</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
@@ -92,12 +103,12 @@
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20261003220236 +0200" stop="20261003221332 +0200" channel="sx3">
-    <title lang="ca">Les filles del Dad</title>
-    <sub-title lang="ca">L'edifici del terror</sub-title>
-    <desc lang="ca">Nit de tempesta amb llamps i trons a la ciutat, el Dad és fora treballant i la Roxane mira una pel·li de terror a la tele, cosa que no fa cap gràcia a les seves germanes, que són una mica porugues. Però vet aquí que un llamp fa saltar els ploms i tot l'edifici es queda a les fosques. A partir d'aquest moment, la realitat es convertirà en un seguit d'esglais i de xiscles.</desc>
-    <length units="seconds">656</length>
-    <episode-num system="onscreen">7</episode-num>
+  <programme start="20261004003119 +0200" stop="20261004004207 +0200" channel="sx3">
+    <title lang="ca">La gateta Arc iris papallona unicorn</title>
+    <sub-title lang="ca">Ningú és purrfecte</sub-title>
+    <desc lang="ca">La Felicity està obsessionada amb convertir-se en una gateta perfecta. Però, com més ho intenta, més malament li surt tot i més sapastre se sent, fins al punt que els poders li comencen a fallar. Els seus amics, amoïnats, ideen un pla per animar-la.</desc>
+    <length units="seconds">648</length>
+    <episode-num system="onscreen">18</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
@@ -109,32 +120,42 @@
   <channel id="c33">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20261003211048 +0200" stop="20261003220345 +0200" channel="c33">
-    <title lang="ca">Experiència Catalana</title>
-    <sub-title lang="ca">Puan</sub-title>
-    <desc lang="ca">La Putri Anindya, més coneguda com la 'Puan', és una jove indonèsia que, acompanyada de la Ivana Miño, descobreix la Sagrada Família, el Tibidabo i llocs magnífics del Berguedà. A més, a Berga, l'espera una experiència única; la Patum.</desc>
-    <length units="seconds">3177</length>
-    <episode-num system="onscreen">7</episode-num>
-    <category lang="ca">ENTRETENIMENT</category>
-    <category lang="ca">ALTRES</category>
+  <programme start="20261003234327 +0200" stop="20261004003500 +0200" channel="c33">
+    <title lang="ca">60 minuts</title>
+    <sub-title lang="ca">11 de setembre, l'avís ignorat</sub-title>
+    <desc lang="ca">11 de setembre, l'advertiment ignorat és un documental de Nicolas Jallot que recupera la figura d'Ahmad Shah Massoud, el llegendari líder de la resistència afganesa conegut com el 'Lleó del Panjshir'. Assassinat per membres d'Al-Qaeda el 9 de setembre de 2001, dos dies abans dels atemptats contra els Estats Units, Massoud havia advertit mesos abans les capitals occidentals de l'amenaça creixent dels talibans, i els plans d'Ossama bin Laden. A través d'arxius, testimonis i una investigació històrica, la cinta mostra com els seus crits d'auxili van ser ignorats per Europa i els EUA, que tampoc van fer cas de l'advertiment de Massoud sobre el paper del Pakistan en el suport als talibans. El documental reflexiona sobre una oportunitat perduda que hauria pogut canviar el curs de la història recent.</desc>
+    <length units="seconds">3093</length>
+    <episode-num system="onscreen">1</episode-num>
+    <category lang="ca">DIVULGACIÓ</category>
+    <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20261003220345 +0200" stop="20261003222109 +0200" channel="c33">
-    <title lang="ca">Marcians</title>
-    <sub-title lang="ca">Una bona història</sub-title>
-    <desc lang="ca">Quins són els elements que fan que una història funcioni, atrapi l'espectador i no el deixi anar? Hi ha fórmules infal·libles o cadascú troba els seus viaranys? Per al director de cinema Kike Maíllo i el guionista Markos Goikolea, que han estrenat el documental 'La supervivent' a 3Cat, una bona història ha de tenir un bon personatge, ha d'apel·lar a una pulsió humana universal i ha d'aconseguir una estructura dramàtica que capti i mantingui l'atenció de l'espectador. Per a la periodista Teresa Turiera-Puigbò, investigadora del col·lectiu 'Cultura i conflicte', que han estrenat al teatre La Biblioteca de Barcelona l'obra 'No miris', una bona història no cal que sigui èpica. Les bones històries es troben quan vas estirant del fil de les vides de la gent 'normal', perquè sempre trobes sorpreses amagades darrere dels fets que semblen més quotidians. I per a la guionista Valentina Viso, una bona història sempre ha de tenir emoció i veu pròpia, no ha de seguir el camí habitual, sinó tot el contrari, boicotejar les respostes més òbvies. Ella té una veu autoritzada per parlar d'històries, ja que és responsable de molts dels guions de les pel·lícules d'èxit firmades per la nova onada de directores catalanes, com 'Tres dies amb la família' (2009), 'Tots volem el millor per a ella' (2013), 'María (y los demás)' (2016), 'Salve Maria'(2024), 'Viva' (2026) o la sèrie 'Això no és Suècia' (2023).</desc>
-    <length units="seconds">1044</length>
-    <episode-num system="onscreen">97</episode-num>
-    <category lang="ca">ENTRETENIMENT</category>
-    <category lang="ca">ALTRES</category>
+  <programme start="20261004003500 +0200" stop="20261004015200 +0200" channel="c33">
+    <title lang="ca">Perifèria</title>
+    <sub-title lang="ca">Perifèria</sub-title>
+    <desc lang="ca">'PERIFÈRIA' (2020). Una producció de Antivaho Cinematográfico S.L. en coproducció amb TV3 i la col·laboració de : Ajuntament de Santa Coloma de Gramenet, Ajuntament de Barcelona, AMB, Pla Estratègic Metropolità de Barcelona, Màster de Documental de Creació de la Universitat Pompeu Fabra, i el suport de l' ICAA.Perifèria és un viatge als ecos del passat de Santa Coloma de Gramenet, municipi proper a Barcelona. Els seus veïns van transformar el suburbi que els imposava l'especulació franquista en una ciutat digna. Aquest passat reverbera en el present dels seus carrers, places i rostres.Xavier Valls va ser l'arquitecte que elaborà el Pla Popular, una experiència pionera de participació ciutadana. El 1987, va ser assassinat per ETA a l'atemptat d'Hipercor. Els seus fills tornen al soterrani on va quedar sepultat el seu arxiu personal per recuperar aquella epopeia i, amb ella, la de tota una ciutat en lluita.Partint d'aquest descens a la memòria, Perifèria navega, a través d'una estructura en espiral, per diversos espais i personatges del present de la ciutat, convidant-nos a reflexionar sobre què sosté l'urbanisme d'una ciutat i l'arquitectura de les nostres formes de vida: què significa implicar-se en un món que no es deixa transformar a millor? Un cop més, les perifèries se'ns revelen com espais on assajar formes de vida genuïnes.Direcció: Xavi Esteban / Odei A.-EtxearteGuió: Odei A.-Etxearte, Xavi Esteban, Èrika Sánchez, Xavier VallsRealització i producció: Èrika SánchezProductor executiu TVC: Jordi AmbrósProductor delegat TVC: Daniel BareaDirector fotografia: Julián ElizaldeMuntatge: Xavi EstebanDirector de producció: Gemma ComasMúsica: Xavi Alías</desc>
+    <credits>
+      <director>Xavi Esteban / Odei A.-Etxearte</director>
+      <writer>Odei A.-Etxearte</writer>
+      <writer>Xavi Esteban</writer>
+      <writer>Èrika Sánchez</writer>
+      <writer>Xavier VallsRealització</writer>
+      <writer>producció: Èrika Sánchez</writer>
+    </credits>
+    <length units="seconds">4620</length>
+    <episode-num system="onscreen">1</episode-num>
+    <category lang="ca">DIVULGACIÓ</category>
+    <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
+    <previously-shown/>
+    <icon src="https://img.3cat.cat/multimedia/jpg/7/6/1610701423467.jpg"/>
   </programme>
   <channel id="oca1">
     <display-name>OCA1</display-name>
