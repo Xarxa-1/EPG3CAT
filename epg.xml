@@ -3,52 +3,27 @@
   <channel id="tvi">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20261003000337 +0200" stop="20261003013521 +0200" channel="tvi">
-    <title lang="ca">Pel·lícula</title>
-    <sub-title lang="ca">Assassinats a Chantilly</sub-title>
-    <desc lang="ca">ASSASSINATS A CHANTILLY 'Meurtres à Chantilly'Direcció: Marjolaine de LecluseGuió: Matthieu SavignacProducció: Siècle Productions, France Télévisions, AT-Production, Radio Télévision Belge Francophone (RTBF), Pictanovo, Centre national du cinéma et de l'image animée (CNC), TV5MONDE, Radio Télévision Suisse (RTS)Any: 2023Durada: 90País: França Música: Armand AmarIntèrprets: Bruno Todeschini, Elodie Frenck, Nathalie Richard, Hippolyte Girardot, Sofiia Manousha, Damien Jouillerot, Vincent Martin, Michaël Vander-Meiren, Mélissandre Fortumeau, Charlotte Talpaert, Aymen Saïdi, Luna Lou, Matthieu Le Goaster, Cristina Garcia Rios, Bruno Tuchszer, Sylvie Flepp, Saverio Maligno, Floriane PotiezUna amazona de vint anys apareix assassinada al castell de Chantilly. Aquesta tràgica mort fa ressorgir una antiga llegenda: la de l'anell màgic de Louise de Budos, que tenia el poder de tornar irresistible qualsevol dona que el portés. Els capitans de la gendarmeria Antoine Mercier i Juliette Delambre, que s'acaben de divorciar, es veuen obligats a unir forces per resoldre el cas. </desc>
-    <credits>
-      <director>Marjolaine de Lecluse</director>
-      <writer>Matthieu Savignac</writer>
-      <actor>Bruno Todeschini</actor>
-      <actor>Elodie Frenck</actor>
-      <actor>Nathalie Richard</actor>
-      <actor>Hippolyte Girardot</actor>
-      <actor>Sofiia Manousha</actor>
-      <actor>Damien Jouillerot</actor>
-      <actor>Vincent Martin</actor>
-      <actor>Michaël Vander-Meiren</actor>
-      <actor>Mélissandre Fortumeau</actor>
-      <actor>Charlotte Talpaert</actor>
-      <actor>Aymen Saïdi</actor>
-      <actor>Luna Lou</actor>
-      <actor>Matthieu Le Goaster</actor>
-      <actor>Cristina Garcia Rios</actor>
-      <actor>Bruno Tuchszer</actor>
-      <actor>Sylvie Flepp</actor>
-      <actor>Saverio Maligno</actor>
-      <actor>Floriane PotiezUna amazona de vint anys apareix assassinada al castell de Chantilly. Aquesta tràgica mort fa ressorgir una antiga llegenda: la de l'anell màgic de Louise de Budos</actor>
-      <actor>que tenia el poder de tornar irresistible qualsevol dona que el portés. Els capitans de la gendarmeria Antoine Mercier</actor>
-      <actor>Juliette Delambre</actor>
-      <actor>que s'acaben de divorciar</actor>
-      <actor>es veuen obligats a unir forces per resoldre el cas.</actor>
-    </credits>
-    <length units="seconds">5504</length>
-    <episode-num system="onscreen">1</episode-num>
-    <category lang="ca">FICCIÓ</category>
-    <category lang="ca">PEL·LÍCULA / TELEFILM</category>
+  <programme start="20261003040000 +0200" stop="20261003050000 +0200" channel="tvi">
+    <title lang="ca">Blues a l'estudi</title>
+    <sub-title lang="ca">Ivan Kovacevic 5 Spots</sub-title>
+    <desc lang="ca">El contrabaixísta serbi és un dels músics més treballadors dins l'escena del blues a Catalunya. Després d'onze anys a casa nostra, es presenta per primera vegada amb una formació sota el seu nom. Ho fa acompanyat d'uns músics de primera línia: David Pastor a la trompeta, Toni Solà al saxo, Bernat Font al piano i Roger Gutierrez a la bateria.</desc>
+    <length units="seconds">3600</length>
+    <episode-num system="onscreen">7</episode-num>
+    <category lang="ca">MUSICALS</category>
+    <category lang="ca">ALTRES</category>
     <rating>
-      <value>TOTS ELS PÚBLICS</value>
+      <value>PÚBLIC ADULT</value>
     </rating>
     <previously-shown/>
   </programme>
-  <programme start="20261003013521 +0200" stop="20261003025932 +0200" channel="tvi">
-    <title lang="ca">Mésnit</title>
-    <desc lang="ca">El 'Mésnit' arriba a la desena temporada, amb Marina Romero al capdavant de l'espai i amb la voluntat de continuar sent un centre de debat d'idees i d'anàlisi de l'activitat política.</desc>
-    <length units="seconds">5051</length>
-    <episode-num system="onscreen">2172</episode-num>
-    <category lang="ca">ACTUALITAT</category>
-    <category lang="ca">DEBAT</category>
+  <programme start="20261003050000 +0200" stop="20261003060001 +0200" channel="tvi">
+    <title lang="ca">Jazz a l'estudi</title>
+    <sub-title lang="ca">Giulia Valle</sub-title>
+    <desc lang="ca">Durant el segle XX el jazz s'ha convertit en un llenguatge musical universal. Gèneres com el be bop, el blues o el swing han trencat fronteres geogràfiques i racials per esdevenir una música popular, que músics d'arreu del món han adaptat a la seva manera de fer. Jazz a l'estudi és un programa de seixanta minuts de durada dedicat al gènere musical jazzístic per on passen músics arrelats a Catalunya. Des d'aquest espai es proposa fer un cop d'ull al panorama del jazz i les seves variants al nostre país.I ho fa d'una manera diferent, perquè el programa ofereix la possibilitat de veure els artistes en un dels seus àmbits naturals: l'estudi de gravació on s'enregistren les sessions, com una instantània sonora, i on es couen les millors receptes musicals del jazz a Catalunya. </desc>
+    <length units="seconds">3601</length>
+    <episode-num system="onscreen">16</episode-num>
+    <category lang="ca">MUSICALS</category>
+    <category lang="ca">JAZZ</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
@@ -86,42 +61,44 @@
   <channel id="esport3">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20261003005327 +0200" stop="20261003012051 +0200" channel="esport3">
-    <title lang="ca">WRC</title>
-    <sub-title lang="ca">Ral·li d'Itàlia-Sardenya / WRC 2026 / J1</sub-title>
-    <desc lang="ca">13a i última prova del Mundial amb el títol de campió en joc. El Ral·li de Sardenya, amb seu a la població de l'Alguer, té un total de 307 quilòmetres cronometrats en 17 trams de carreteres sobre terra. Us oferim el més destacat de la primera jornada. </desc>
-    <length units="seconds">1644</length>
-    <episode-num system="onscreen">257</episode-num>
+  <programme start="20261003034055 +0200" stop="20261003051248 +0200" channel="esport3">
+    <title lang="ca">Tot Costa</title>
+    <sub-title lang="ca">Arriba el primer clàssic</sub-title>
+    <desc lang="ca">El Barça femení rep diumenge el Madrid en partit de Lliga. Analitzem com hi arriben unes i altres amb Sergi Solé, Gemma Herrero i Oriol Domènech. Amb Marcos García expliquem l'última hora de les blaugranes i sentim Clara Serrajordi. Amb Laia Tudel, expliquem com han anat les proves mèdiques de Raphinha. I acabem amb entrevista al jugador blanc-i-blau Omar El Hilali. </desc>
+    <length units="seconds">5513</length>
+    <episode-num system="onscreen">1015</episode-num>
+    <category lang="ca">ESPORTS</category>
+    <category lang="ca">INFORMATIU DIÀRI</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <subtitles type="teletext"/>
+    <previously-shown/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/0/4/1706209193140.jpg"/>
+  </programme>
+  <programme start="20261003051248 +0200" stop="20261003060739 +0200" channel="esport3">
+    <title lang="ca">E3D</title>
+    <sub-title lang="ca">BMX UCI HC / Extreme Barcelona / Final femenina</sub-title>
+    <desc lang="ca">Final femenina de BMX a la 18a edició de l'Extrem Barcelona, que es fa al Parc del Fòrum. Amb la narració de Jordi Gil. </desc>
+    <length units="seconds">3291</length>
+    <episode-num system="onscreen">8116</episode-num>
     <category lang="ca">ESPORTS</category>
     <category lang="ca">RETRANSMISSIONS ESPORTS</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <icon src="https://img.3cat.cat/multimedia/jpg/1/7/1783953384771.jpg"/>
-  </programme>
-  <programme start="20261003012051 +0200" stop="20261003025427 +0200" channel="esport3">
-    <title lang="ca">Onze</title>
-    <sub-title lang="ca">Raphina, OK; Ganes de clàssic; Delmàs, Fàbregas i Cazorla</sub-title>
-    <desc lang="ca">Míriam Riau condueix la tertúlia amb Laia Tudel, David Ibáñez, Albert Rogé i Laura Aparicio. Repassem les declaracions més importants de Luís de la Fuente abans de l'Espanya-república Txeca de dissabte. Fem la prèvia del clàssic femení al Camp Nou amb Gemma Mallorca, Àlex Delmàs ens parla del poder ofensiu del Barça. Acabem amb l'humor de Xavi Cazorla. </desc>
-    <length units="seconds">5616</length>
-    <episode-num system="onscreen">1261</episode-num>
-    <category lang="ca">ESPORTS</category>
-    <category lang="ca">MAGAZINE</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <subtitles type="teletext"/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/1/1/1688543515711.jpg"/>
+    <previously-shown/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/3/2/1788358923323.jpg"/>
   </programme>
   <channel id="sx3">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20261003010851 +0200" stop="20261003012027 +0200" channel="sx3">
-    <title lang="ca">Les Sisters</title>
-    <sub-title lang="ca">La feina més bonica del món</sub-title>
-    <desc lang="ca">Quan sigui gran, la Marine vol ser 'ninfermera', com la mama. Diu que és la feina més bonica del món. Però per això ha d'entrenar-se a curar pacients. El problema és que a casa seva no es posa mai ningú malalt. Per arreglar-ho, la Marine s'ha d'espavilar una mica...</desc>
-    <length units="seconds">696</length>
-    <episode-num system="onscreen">53</episode-num>
+  <programme start="20261003034618 +0200" stop="20261003040727 +0200" channel="sx3">
+    <title lang="ca">Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
+    <sub-title lang="ca">Sublimació</sub-title>
+    <desc lang="ca">La Marinette està fascinada per la Sublime, una noia que s'ha fet amiga de l'Adrien. Bé per gelosia, bé per curiositat, la Marinette també vol fer-se amiga de la Sublime tant sí com no. Però hi ha un problema: la Marinette no sap com fer-se amiga d'una persona que no necessita ajuda. I els seus intents maldestres poden tenir conseqüències greus.</desc>
+    <length units="seconds">1269</length>
+    <episode-num system="onscreen">134</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
@@ -130,12 +107,12 @@
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20261003012027 +0200" stop="20261003014023 +0200" channel="sx3">
-    <title lang="ca">Viatges Pokémon</title>
-    <sub-title lang="ca">Dia i nit, tots dos en feu un!</sub-title>
-    <desc lang="ca">Com que la Chloe i l'Eevee volen aprendre coses de l'Espeon i l'Umbreon, el professor Cirerer proposa als nostres amics d'anar al Festival de l'Eclipsi Solar del Castell Eclipsi de Johto. Un cop allà, la Chloe coneix la Soleil, la futura senyora del Castell Eclipsi, i resulta que les dues noies són clavades. L'Espeon i l'Umbreon de la Soleil li demostren una lleialtat total. Just abans que la Soleil s'estreni com a senyora, un altre descendent de la família del castell, l'Illunes, segresta per error la Chloe en lloc de la Soleil.</desc>
-    <length units="seconds">1196</length>
-    <episode-num system="onscreen">79</episode-num>
+  <programme start="20261003040727 +0200" stop="20261003042822 +0200" channel="sx3">
+    <title lang="ca">Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
+    <sub-title lang="ca">Papapoli</sub-title>
+    <desc lang="ca">Per celebrar el petó número 100 amb l'Adrien, la Marinette ha preparat la vetllada romàntica definitiva. Però no recorda que ja havia quedat, a la mateixa hora i al mateix lloc, per fer una nit de pel·li amb les seves amigues. Aconseguirà combinar la seva vida amorosa i les seves amistats, i alhora enfrontar-se a un supermalvat com a Ladybug?</desc>
+    <length units="seconds">1255</length>
+    <episode-num system="onscreen">135</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
@@ -147,31 +124,12 @@
   <channel id="c33">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20261003001220 +0200" stop="20261003013330 +0200" channel="c33">
-    <title lang="ca">Al Cim</title>
-    <sub-title lang="ca">Al Cim</sub-title>
-    <length units="seconds">4870</length>
-    <episode-num system="onscreen">1</episode-num>
-    <category lang="ca">ENTRETENIMENT</category>
-    <category lang="ca">ALTRES</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <subtitles type="teletext"/>
-    <previously-shown/>
-    <icon src="https://img.3cat.cat/multimedia/jpg/8/6/1728060903668.jpg"/>
-  </programme>
-  <programme start="20261003013330 +0200" stop="20261003030331 +0200" channel="c33">
-    <title lang="ca">Sagrada família, el repte de Gaudí</title>
-    <sub-title lang="ca">Sagrada Família, el repte de Gaudí</sub-title>
-    <desc lang="ca">Sagrada Família, el repte de Gaudí (2022), una producción de Produccions Quart en coproducció amb Atomis Media i Gedeon Programmes, amb la participació de Televisió de Catalunya, Arte, M+, Tourespaña, i el suport de l'ICEC.Dirigit per Marc Jampolsky, reconegut internacionalment pels seus documentals sobre grans monuments històrics com Versalles o el Vaticà, 'Sagrada Família, el repte de Gaudí' relata la desmesura artística de Gaudí en la recta final de la construcció del temple, l'únic del món començat al segle XIX que encara es continua aixecant al XX. Equip:Direcció: Marc JampolskyGuió: Marc Jampolsky i Marie ThiryRealització: Raul FernándezProducció: Abigaïl Schaaff, Isavel Raventós, Stephane MillereProducció executiva TV3: Jordi Ambròs HortensiEdició continguts TV3: Montse Armengou MartínRealització TV3: Jacob Peña GómezProducció delegada TV3: Daniel Barea DelgadoDirector de fotografia: Raul FernándezMuntatge: Giller PerruDirector de producció: Rejané Gay, Diane Riethof i Jorge VelascoMúsica: Bruno CourtinLingüista: David ArnauGrafisme: Christophe DentinVeu en off: Luis Posadas</desc>
-    <credits>
-      <director>Marc Jampolsky</director>
-      <writer>Marc Jampolsky</writer>
-      <writer>Marie ThiryRealització: Raul Fernández</writer>
-    </credits>
-    <length units="seconds">5401</length>
-    <episode-num system="onscreen">1</episode-num>
+  <programme start="20261003040211 +0200" stop="20261003042512 +0200" channel="c33">
+    <title lang="ca">Caçadors de paraules</title>
+    <sub-title lang="ca">Resum (temporada 1era)</sub-title>
+    <desc lang="ca">'Caçadors de paraules' s'acomiada aquest dilluns amb un programa especial en què Roger de Gràcia explica als espectadors com s'ha convertit en un bon caçador: quines són les estratègies per trobar els millors interlocutors, on cal buscar les paraules més estranyes i com moure's en els pantanosos terrenys de la llengua. En aquest últim programa de la temporada veurem els millors moments de la sèrie, i alguns dels que s'han quedat fora de la sala de muntatge, juntament amb imatges del rodatge i les errades més divertides del nostre 'caçador de paraules'. L'humor, que ja ha estat present al llarg de tota la sèrie, capitalitzarà aquest capítol.Un èxit que tornarà a TV3'Caçadors de paraules' ha aconseguit en els seus 18 capítols una mitjana d'audiència 758.000 espectadorsi una quota de pantalla del 24,2 %, un èxit que ha portat la cadena a preparar ja els nous capítols de la sèrie per a emetre l'any vinent.A més del bon seguiment de l'audiència, el programa també ha rebut una important participació dels telespectadors. Setmana rere setmana, els 'caçadors de paraules' han enviat més de 3.000 paraules i moltes peticions i consultes, que han contribuït a millorar i fer més viu el programa. </desc>
+    <length units="seconds">1381</length>
+    <episode-num system="onscreen">19</episode-num>
     <category lang="ca">DIVULGACIÓ</category>
     <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
     <rating>
@@ -179,7 +137,20 @@
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
-    <icon src="https://img.3cat.cat/multimedia/jpg/3/3/1730743738033.jpg"/>
+  </programme>
+  <programme start="20261003042512 +0200" stop="20261003044711 +0200" channel="c33">
+    <title lang="ca">Caçadors de paraules</title>
+    <sub-title lang="ca">La llengua dels polítics</sub-title>
+    <desc lang="ca">Després de l'èxit de la primera temporada, 'Caçadors de paraules' continua la feina de divulgació i descoberta del tresor de la nostra llengua. Amb l'esperit rigorós però gamberro que ja va caracteritzar els primers 19 capítols de la sèrie, Roger de Gràcia tornarà a recórrer el país buscant paraules, fent el xafarder, parant l'orella a tots els accents i recollint les meravelles de la llengua parlada. El programa, produït pel Departament de Documentals, Educatius i Nous Formats, va tenir al llarg de la temporada passada un magnífic seguiment per part de l'audiència, amb una mitjana del 24,2% i 760.000 espectadors cada setmana.'Caçadors de paraules' torna amb el mateix model de programa però amb algunes novetats: una preocupació encara més gran per reflectir tots els accents i recórrer totes les zones on es parla català que es tradueix en quilòmetres i quilòmetres de viatge. Per gravar els 13 capítols de la nova temporada, Roger de Gràcia i el seu equip recorreran aproximadament 10.000 quilòmetres per terra, mar i aire: des de la Franja fins a les Balears, des de la Catalunya Nord fins a Alacant. Malauradament, una altra novetat és la 'desaparició' del mestre Quimi Portet, que s'ha retirat al seu refugi de Hollywood (el Hollywoodès), on prepara l'edició definitiva de les seves obres completes. Roger de Gràcia, malgrat tot, segueix buscant consol espiritual al final del programa, i en aquesta nova temporada en trobarà en la música de Quim Vila, que ha compost una cançó per a cada capítol: rap, country, cançó protesta, blues, techno... qualsevol estil és bo per dir la seva a 'Caçadors de paraules'.I, parlant de les novetats, en els 13 nous capítols de la sèrie analitzarem el català dels polítics, la llengua dels pescadors i els homes de mar, els topònims, buscarem les millors paraules relacionades amb la verema i el vi, amb la roba, amb els pastissos i els dolços, amb els jocs... tornarem a viatjar per totes les terres on es parla català </desc>
+    <length units="seconds">1319</length>
+    <episode-num system="onscreen">20</episode-num>
+    <category lang="ca">DIVULGACIÓ</category>
+    <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <subtitles type="teletext"/>
+    <previously-shown/>
   </programme>
   <channel id="oca1">
     <display-name>OCA1</display-name>
