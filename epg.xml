@@ -3,102 +3,100 @@
   <channel id="tvi">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20261003040000 +0200" stop="20261003050000 +0200" channel="tvi">
-    <title lang="ca">Blues a l'estudi</title>
-    <sub-title lang="ca">Ivan Kovacevic 5 Spots</sub-title>
-    <desc lang="ca">El contrabaixísta serbi és un dels músics més treballadors dins l'escena del blues a Catalunya. Després d'onze anys a casa nostra, es presenta per primera vegada amb una formació sota el seu nom. Ho fa acompanyat d'uns músics de primera línia: David Pastor a la trompeta, Toni Solà al saxo, Bernat Font al piano i Roger Gutierrez a la bateria.</desc>
-    <length units="seconds">3600</length>
-    <episode-num system="onscreen">7</episode-num>
-    <category lang="ca">MUSICALS</category>
-    <category lang="ca">ALTRES</category>
-    <rating>
-      <value>PÚBLIC ADULT</value>
-    </rating>
-    <previously-shown/>
-  </programme>
-  <programme start="20261003050000 +0200" stop="20261003060001 +0200" channel="tvi">
-    <title lang="ca">Jazz a l'estudi</title>
-    <sub-title lang="ca">Giulia Valle</sub-title>
-    <desc lang="ca">Durant el segle XX el jazz s'ha convertit en un llenguatge musical universal. Gèneres com el be bop, el blues o el swing han trencat fronteres geogràfiques i racials per esdevenir una música popular, que músics d'arreu del món han adaptat a la seva manera de fer. Jazz a l'estudi és un programa de seixanta minuts de durada dedicat al gènere musical jazzístic per on passen músics arrelats a Catalunya. Des d'aquest espai es proposa fer un cop d'ull al panorama del jazz i les seves variants al nostre país.I ho fa d'una manera diferent, perquè el programa ofereix la possibilitat de veure els artistes en un dels seus àmbits naturals: l'estudi de gravació on s'enregistren les sessions, com una instantània sonora, i on es couen les millors receptes musicals del jazz a Catalunya. </desc>
-    <length units="seconds">3601</length>
-    <episode-num system="onscreen">16</episode-num>
-    <category lang="ca">MUSICALS</category>
-    <category lang="ca">JAZZ</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <previously-shown/>
-  </programme>
-  <channel id="324">
-    <display-name>324</display-name>
-  </channel>
-  <programme start="20261003010000 +0200" stop="20261003060000 +0200" channel="324">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">18000</length>
-    <episode-num system="onscreen">11331</episode-num>
-    <category lang="ca">ACTUALITAT</category>
-    <category lang="ca">INFORMATIU DIÀRI</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <previously-shown/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
-  </programme>
-  <programme start="20261003060000 +0200" stop="20261003070000 +0200" channel="324">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">3600</length>
-    <episode-num system="onscreen">11331</episode-num>
-    <category lang="ca">ACTUALITAT</category>
-    <category lang="ca">INFORMATIU DIÀRI</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <previously-shown/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
-  </programme>
-  <channel id="esport3">
-    <display-name>ESPORT3</display-name>
-  </channel>
-  <programme start="20261003034055 +0200" stop="20261003051248 +0200" channel="esport3">
-    <title lang="ca">Tot Costa</title>
-    <sub-title lang="ca">Arriba el primer clàssic</sub-title>
-    <desc lang="ca">El Barça femení rep diumenge el Madrid en partit de Lliga. Analitzem com hi arriben unes i altres amb Sergi Solé, Gemma Herrero i Oriol Domènech. Amb Marcos García expliquem l'última hora de les blaugranes i sentim Clara Serrajordi. Amb Laia Tudel, expliquem com han anat les proves mèdiques de Raphinha. I acabem amb entrevista al jugador blanc-i-blau Omar El Hilali. </desc>
-    <length units="seconds">5513</length>
-    <episode-num system="onscreen">1015</episode-num>
-    <category lang="ca">ESPORTS</category>
-    <category lang="ca">INFORMATIU DIÀRI</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <subtitles type="teletext"/>
-    <previously-shown/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/0/4/1706209193140.jpg"/>
-  </programme>
-  <programme start="20261003051248 +0200" stop="20261003060739 +0200" channel="esport3">
-    <title lang="ca">E3D</title>
-    <sub-title lang="ca">BMX UCI HC / Extreme Barcelona / Final femenina</sub-title>
-    <desc lang="ca">Final femenina de BMX a la 18a edició de l'Extrem Barcelona, que es fa al Parc del Fòrum. Amb la narració de Jordi Gil. </desc>
-    <length units="seconds">3291</length>
-    <episode-num system="onscreen">8116</episode-num>
+  <programme start="20261003095946 +0200" stop="20261003120000 +0200" channel="tvi">
+    <title lang="ca">Curses de Muntanya</title>
+    <sub-title lang="ca">Marató Pirineu</sub-title>
+    <desc lang="ca">La Salomon Ultra Pirineu se celebra al Parc Natural del Cadí-Moixeró, amb sortida i arribada a Bagà. Els primers en arribar a la meta són els participants en la marató i la mitja marató.</desc>
+    <length units="seconds">7214</length>
+    <episode-num system="onscreen">37</episode-num>
     <category lang="ca">ESPORTS</category>
     <category lang="ca">RETRANSMISSIONS ESPORTS</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
+    <icon src="https://img.3cat.cat/multimedia/jpg/8/5/1782470121258.jpg"/>
+  </programme>
+  <programme start="20261003120000 +0200" stop="20261003132933 +0200" channel="tvi">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="seconds">5373</length>
+    <episode-num system="onscreen">11334</episode-num>
+    <category lang="ca">ACTUALITAT</category>
+    <category lang="ca">INFORMATIU DIÀRI</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
+  </programme>
+  <channel id="324">
+    <display-name>324</display-name>
+  </channel>
+  <programme start="20261003070000 +0200" stop="20261003100000 +0200" channel="324">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="seconds">10800</length>
+    <episode-num system="onscreen">11332</episode-num>
+    <category lang="ca">ACTUALITAT</category>
+    <category lang="ca">INFORMATIU DIÀRI</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <subtitles type="teletext"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
+  </programme>
+  <programme start="20261003100000 +0200" stop="20261003120000 +0200" channel="324">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="seconds">7200</length>
+    <episode-num system="onscreen">11333</episode-num>
+    <category lang="ca">ACTUALITAT</category>
+    <category lang="ca">INFORMATIU DIÀRI</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <subtitles type="teletext"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
+  </programme>
+  <channel id="esport3">
+    <display-name>ESPORT3</display-name>
+  </channel>
+  <programme start="20261003095534 +0200" stop="20261003101041 +0200" channel="esport3">
+    <title lang="ca">E3</title>
+    <sub-title lang="ca">Sea Otter Europe</sub-title>
+    <desc lang="ca">Girona ha tornat a convertir-se en l'epicentre del ciclisme internacional amb la 10a edició de la Sea Otter Europe. La cita reuneix durant tot un cap de setmana alguns dels millors especialistes del món en disciplines com les BTT i el gravel, al costat de centenars de participants amateurs. Més enllà de la competició, l'esdeveniment combina curses, exhibicions i una gran zona comercial que converteix la ciutat en un punt de trobada per als amants de la bicicleta.</desc>
+    <length units="seconds">907</length>
+    <episode-num system="onscreen">2387</episode-num>
+    <category lang="ca">ESPORTS</category>
+    <category lang="ca">REPORTATGES</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <subtitles type="teletext"/>
     <previously-shown/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/3/2/1788358923323.jpg"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/2/5/1750321785952.jpg"/>
+  </programme>
+  <programme start="20261003101041 +0200" stop="20261003102226 +0200" channel="esport3">
+    <title lang="ca">Pitch&amp;Cat</title>
+    <sub-title lang="ca">Campionat de Catalunya per equips. Final 2026</sub-title>
+    <desc lang="ca">Vivim la gran final del Campionat de Catalunya per Equips de 1a Divisió, des del P&amp;P Montseny, a Gualba. I, com sempre, completem el programa amb noves classes d'iniciació al pitch&amp;putt de la mà dels nostres col·laboradors habituals.</desc>
+    <length units="seconds">705</length>
+    <episode-num system="onscreen">108</episode-num>
+    <category lang="ca">ESPORTS</category>
+    <category lang="ca">REPORTATGES</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <icon src="https://img.ccma.cat/multimedia/jpg/6/8/1727969229786.jpg"/>
   </programme>
   <channel id="sx3">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20261003034618 +0200" stop="20261003040727 +0200" channel="sx3">
-    <title lang="ca">Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
-    <sub-title lang="ca">Sublimació</sub-title>
-    <desc lang="ca">La Marinette està fascinada per la Sublime, una noia que s'ha fet amiga de l'Adrien. Bé per gelosia, bé per curiositat, la Marinette també vol fer-se amiga de la Sublime tant sí com no. Però hi ha un problema: la Marinette no sap com fer-se amiga d'una persona que no necessita ajuda. I els seus intents maldestres poden tenir conseqüències greus.</desc>
-    <length units="seconds">1269</length>
-    <episode-num system="onscreen">134</episode-num>
+  <programme start="20261003100037 +0200" stop="20261003102212 +0200" channel="sx3">
+    <title lang="ca">La Patrulla Peluda</title>
+    <sub-title lang="ca">Rescats extrems: La Patrulla salva els tigres</sub-title>
+    <desc lang="ca">Mentre busquen els tigres del Cim Retruny, els Turbot cauen en una cova que es fica a l'interior d'un volcà. La Patrulla Peluda ha de fer una missió de rescat extrem dels cosins amb l'helicòpter extrem de la Skye!</desc>
+    <length units="seconds">1295</length>
+    <episode-num system="onscreen">213</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
@@ -107,14 +105,14 @@
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20261003040727 +0200" stop="20261003042822 +0200" channel="sx3">
-    <title lang="ca">Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
-    <sub-title lang="ca">Papapoli</sub-title>
-    <desc lang="ca">Per celebrar el petó número 100 amb l'Adrien, la Marinette ha preparat la vetllada romàntica definitiva. Però no recorda que ja havia quedat, a la mateixa hora i al mateix lloc, per fer una nit de pel·li amb les seves amigues. Aconseguirà combinar la seva vida amorosa i les seves amistats, i alhora enfrontar-se a un supermalvat com a Ladybug?</desc>
-    <length units="seconds">1255</length>
-    <episode-num system="onscreen">135</episode-num>
-    <category lang="ca">FICCIÓ</category>
-    <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
+  <programme start="20261003102212 +0200" stop="20261003105553 +0200" channel="sx3">
+    <title lang="ca">Fang</title>
+    <sub-title lang="ca">Activem el tauler!</sub-title>
+    <desc lang="ca">Torna Fang!, totalment renovat però amb l'esperit de sempre. Un plató nou ple de sorpreses, un tauler gegant, jocs nous que us sorprendran i un dau final amb el poder de capgirar-ho tot.Comencem amb les quatre primeres escoles disposades a enfangar-se, en un episodi trepidant, èpic… i ple de música! 3, 2, 1… Fang!</desc>
+    <length units="seconds">2021</length>
+    <episode-num system="onscreen">29</episode-num>
+    <category lang="ca">ENTRETENIMENT</category>
+    <category lang="ca">ALTRES</category>
     <rating>
       <value>INFANTIL</value>
     </rating>
@@ -124,12 +122,11 @@
   <channel id="c33">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20261003040211 +0200" stop="20261003042512 +0200" channel="c33">
-    <title lang="ca">Caçadors de paraules</title>
-    <sub-title lang="ca">Resum (temporada 1era)</sub-title>
-    <desc lang="ca">'Caçadors de paraules' s'acomiada aquest dilluns amb un programa especial en què Roger de Gràcia explica als espectadors com s'ha convertit en un bon caçador: quines són les estratègies per trobar els millors interlocutors, on cal buscar les paraules més estranyes i com moure's en els pantanosos terrenys de la llengua. En aquest últim programa de la temporada veurem els millors moments de la sèrie, i alguns dels que s'han quedat fora de la sala de muntatge, juntament amb imatges del rodatge i les errades més divertides del nostre 'caçador de paraules'. L'humor, que ja ha estat present al llarg de tota la sèrie, capitalitzarà aquest capítol.Un èxit que tornarà a TV3'Caçadors de paraules' ha aconseguit en els seus 18 capítols una mitjana d'audiència 758.000 espectadorsi una quota de pantalla del 24,2 %, un èxit que ha portat la cadena a preparar ja els nous capítols de la sèrie per a emetre l'any vinent.A més del bon seguiment de l'audiència, el programa també ha rebut una important participació dels telespectadors. Setmana rere setmana, els 'caçadors de paraules' han enviat més de 3.000 paraules i moltes peticions i consultes, que han contribuït a millorar i fer més viu el programa. </desc>
-    <length units="seconds">1381</length>
-    <episode-num system="onscreen">19</episode-num>
+  <programme start="20261003091329 +0200" stop="20261003100520 +0200" channel="c33">
+    <title lang="ca">Viure als Pirineus- A banda i banda</title>
+    <sub-title lang="ca">Francesc Guillamet i Jaume Taurinyà - Hivern</sub-title>
+    <length units="seconds">3111</length>
+    <episode-num system="onscreen">12</episode-num>
     <category lang="ca">DIVULGACIÓ</category>
     <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
     <rating>
@@ -138,12 +135,12 @@
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20261003042512 +0200" stop="20261003044711 +0200" channel="c33">
-    <title lang="ca">Caçadors de paraules</title>
-    <sub-title lang="ca">La llengua dels polítics</sub-title>
-    <desc lang="ca">Després de l'èxit de la primera temporada, 'Caçadors de paraules' continua la feina de divulgació i descoberta del tresor de la nostra llengua. Amb l'esperit rigorós però gamberro que ja va caracteritzar els primers 19 capítols de la sèrie, Roger de Gràcia tornarà a recórrer el país buscant paraules, fent el xafarder, parant l'orella a tots els accents i recollint les meravelles de la llengua parlada. El programa, produït pel Departament de Documentals, Educatius i Nous Formats, va tenir al llarg de la temporada passada un magnífic seguiment per part de l'audiència, amb una mitjana del 24,2% i 760.000 espectadors cada setmana.'Caçadors de paraules' torna amb el mateix model de programa però amb algunes novetats: una preocupació encara més gran per reflectir tots els accents i recórrer totes les zones on es parla català que es tradueix en quilòmetres i quilòmetres de viatge. Per gravar els 13 capítols de la nova temporada, Roger de Gràcia i el seu equip recorreran aproximadament 10.000 quilòmetres per terra, mar i aire: des de la Franja fins a les Balears, des de la Catalunya Nord fins a Alacant. Malauradament, una altra novetat és la 'desaparició' del mestre Quimi Portet, que s'ha retirat al seu refugi de Hollywood (el Hollywoodès), on prepara l'edició definitiva de les seves obres completes. Roger de Gràcia, malgrat tot, segueix buscant consol espiritual al final del programa, i en aquesta nova temporada en trobarà en la música de Quim Vila, que ha compost una cançó per a cada capítol: rap, country, cançó protesta, blues, techno... qualsevol estil és bo per dir la seva a 'Caçadors de paraules'.I, parlant de les novetats, en els 13 nous capítols de la sèrie analitzarem el català dels polítics, la llengua dels pescadors i els homes de mar, els topònims, buscarem les millors paraules relacionades amb la verema i el vi, amb la roba, amb els pastissos i els dolços, amb els jocs... tornarem a viatjar per totes les terres on es parla català </desc>
-    <length units="seconds">1319</length>
-    <episode-num system="onscreen">20</episode-num>
+  <programme start="20261003100520 +0200" stop="20261003103416 +0200" channel="c33">
+    <title lang="ca">GR Pirineus</title>
+    <sub-title lang="ca">Tàndem a la pallaresa</sub-title>
+    <desc lang="ca">Seguim al Pallars Sobirà, aquest cop per fer-ne la part nord, des de la vall de Cardós fins a les valls d'Àneu.La ruta començarà a Ribera de Cardós i passa per Tírvia, Llavorsí, Espot, el Parc Nacional d'Aigüestortes i Estany de Sant Maurici, la Guingueta, Escalarre, Gavàs, Esterri, Isavarre, Borén, Isil i acaba a Alós d'Isil.Durant el trajecte practicarem ràfting per la Noguera Pallaresa, farem una ruta a peu per l'estany de Sant Maurici visitant els Encantats, reviurem el Doctor Music Festival amb els 4t 1a (Quart Primera) i 4 vaques, munyirem cabres per fer formatge artesanal, assitirem al festival Esbaiola't, on el Marc aprendrà a fer salts mortals en llit elàstic; i, finalment, farem una ruta en tàndem per les valls d'Àneu fins a Alós d'Isil.</desc>
+    <length units="seconds">1736</length>
+    <episode-num system="onscreen">15</episode-num>
     <category lang="ca">DIVULGACIÓ</category>
     <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
     <rating>
@@ -151,10 +148,24 @@
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
+    <icon src="https://img.3cat.cat/multimedia/jpg/9/8/1736612891089.jpg"/>
   </programme>
   <channel id="oca1">
     <display-name>OCA1</display-name>
   </channel>
+  <programme start="20261003090008 +0200" stop="20261003133503 +0200" channel="oca1">
+    <title lang="ca">Curses de muntanya</title>
+    <sub-title lang="ca">- Marató Pirineu</sub-title>
+    <desc lang="ca">La Salomon Ultra Pirineu se celebra al Parc Natural del Cadí-Moixeró, amb sortida i arribada a Bagà. Els primers en arribar a la meta són els participants en la marató i la mitja marató.</desc>
+    <length units="seconds">16495</length>
+    <episode-num system="onscreen">37</episode-num>
+    <category lang="ca">ESPORTS</category>
+    <category lang="ca">RETRANSMISSIONS ESPORTS</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <icon src="https://img.3cat.cat/multimedia/jpg/8/5/1782470121258.jpg"/>
+  </programme>
   <channel id="oca2">
     <display-name>OCA2</display-name>
   </channel>
