@@ -3,24 +3,28 @@
   <channel id="tvi">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20261003143000 +0200" stop="20261003153903 +0200" channel="tvi">
-    <title lang="ca">Telenotícies migdia</title>
-    <length units="seconds">4143</length>
-    <episode-num system="onscreen">7347</episode-num>
-    <category lang="ca">ACTUALITAT</category>
-    <category lang="ca">INFORMATIU DIÀRI</category>
+  <programme start="20261003184911 +0200" stop="20261003191648 +0200" channel="tvi">
+    <title lang="ca">Viure als Pirineus</title>
+    <sub-title lang="ca">Un hoteler dels Pirineus (Tardor - Hivern))</sub-title>
+    <desc lang="ca">Cinto Gabriel és hoteler, però quan arriba la tardor i els clients són menys nombrosos, ho aprofita per fer excursions i sortir de l'hotel. En aquest cas, ho fa amb la Coloma, la petita de la casa, que sembla voler seguir la seva petja, i evoquen la història familiar durant la Guerra Civil. Un altre dia ho fa també amb la Lluïsa, la seva dona, i evoquen els seus primers records com a parella.Quan s'acosta Tots Sants, en Cinto també cultiva l'art de les flors per honorar els seus avantpassats. I més tard, als volts de Nadal, temps de vacances per a la majoria, per ell és el moment de tornar al bosc a buscar molsa i altres materials, ja que ha arribat el moment de fer el pessebre. Una col·lecció més que cultiva des de petit. Per Nadal, en Cinto tanca l'hotel, per fi pot dedicar el seu temps a altres aficions. I, com que també li agrada el teatre, actua en una companyia d'Esterri d'Àneu. Ara assagen una versió d''Els pastorets' que reflecteix prou bé el que passa a les seves muntanyes. Els protagonistes són contrabandistes, emigrants clandestins i gent del país enmig d'un paisatge nevat. I amb la primera neu esquia tot evocant la seva infància, però les vacances s'acaben i demà tornarà a fer d'hoteler, el centre de la seva vida.</desc>
+    <length units="seconds">1657</length>
+    <episode-num system="onscreen">3</episode-num>
+    <category lang="ca">DIVULGACIÓ</category>
+    <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <icon src="https://img.ccma.cat/multimedia/jpg/5/4/1758025766345.jpg"/>
+    <subtitles type="teletext"/>
+    <previously-shown/>
   </programme>
-  <programme start="20261003153121 +0200" stop="20261003163119 +0200" channel="tvi">
-    <title lang="ca">Infidels</title>
-    <desc lang="ca">En Toni s'instal·la uns dies a casa de la Lídia per acabar de recuperar-se. El noi va a visitar la seva àvia i s'adona que algú més, a part d'el,l la visita. La Cruz somia angoixada perquè no sap si el fill que espera és o no de l'Eduard. En Robert vol veure els moviments del compte de l''Abadal i la Cruz, per despistar-lo, li diu que està embarassada. L'Eduard menteix a en Jesús sobre la procedència de l'ingrés providencial que va salvar la immobiliària. La Paula i en Marc han d'anul·lar els seus plans de viatge, perquè ella es troba malament. En Dani i l'Arlet parlen de què faran a l'estiu, però de seguida s'adonen que són massa diferents. L'Arlet no té cap ganes d'anar a casa seva.</desc>
-    <length units="seconds">3598</length>
-    <episode-num system="onscreen">10</episode-num>
-    <category lang="ca">FICCIÓ</category>
-    <category lang="ca">TELESÈRIE</category>
+  <programme start="20261003191648 +0200" stop="20261003201606 +0200" channel="tvi">
+    <title lang="ca">Una història de la literatura</title>
+    <sub-title lang="ca">Quim Monzó</sub-title>
+    <desc lang="ca">No és molt conegut que Quim Monzó va treballar com a reporter de guerra. Oi que, no? Doncs bé, tot això que heu après avui. Però en aquest capítol també aprendreu coses tan útils com els perills que es pot viure a la redacció de La Vanguardia, una fanfarroneria rural de Mata-porc que us poc fer quedar molt bé, «El Monzó d'Or», un premi per dur penjat al retrovisor del cotxe i com fer parlaments amb molta taronja. Però molta. Ah! I també descobrirem que la majoria dels clàssics universals parlen del Procés. Tot això i molt més amb en Toni Soler com a convidat.</desc>
+    <length units="seconds">3558</length>
+    <episode-num system="onscreen">3</episode-num>
+    <category lang="ca">ENTRETENIMENT</category>
+    <category lang="ca">ALTRES</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
@@ -30,22 +34,24 @@
   <channel id="324">
     <display-name>324</display-name>
   </channel>
-  <programme start="20261003143000 +0200" stop="20261003163000 +0200" channel="324">
-    <title lang="ca">Telenotícies migdia</title>
-    <length units="seconds">7200</length>
-    <episode-num system="onscreen">7347</episode-num>
+  <programme start="20261003183000 +0200" stop="20261003200000 +0200" channel="324">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="seconds">5400</length>
+    <episode-num system="onscreen">11336</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <icon src="https://img.ccma.cat/multimedia/jpg/5/4/1758025766345.jpg"/>
+    <subtitles type="teletext"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
-  <programme start="20261003163000 +0200" stop="20261003183000 +0200" channel="324">
+  <programme start="20261003200000 +0200" stop="20261003210000 +0200" channel="324">
     <title lang="ca">Notícies 3CatInfo</title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">7200</length>
-    <episode-num system="onscreen">11335</episode-num>
+    <length units="seconds">3600</length>
+    <episode-num system="onscreen">11337</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
@@ -57,90 +63,77 @@
   <channel id="esport3">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20261003144607 +0200" stop="20261003151102 +0200" channel="esport3">
-    <title lang="ca">E3</title>
-    <sub-title lang="ca">Monster Jam / Seattle / 9</sub-title>
-    <desc lang="ca">La gran competició de motor amb els vehicles de quatre rodes més espectaculars. Monster Jam posa a prova la velocitat i la destresa dels pilots en un circuit ple d'obstacles. </desc>
-    <length units="seconds">1495</length>
-    <episode-num system="onscreen">2376</episode-num>
+  <programme start="20261003180045 +0200" stop="20261003192659 +0200" channel="esport3">
+    <title lang="ca">Hípica</title>
+    <sub-title lang="ca">Copa de la Reina / CSIO</sub-title>
+    <desc lang="ca">Retransmissió de la Copa de la Reina d'hípica que forma part del Concurs de Salts Internacional Oficial que s'està disputant al Reial Club de Polo de Barcelona. </desc>
+    <length units="seconds">5174</length>
+    <episode-num system="onscreen">8136</episode-num>
     <category lang="ca">ESPORTS</category>
-    <category lang="ca">REPORTATGES</category>
+    <category lang="ca">RETRANSMISSIONS ESPORTS</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <subtitles type="teletext"/>
-    <previously-shown/>
-    <icon src="https://img.3cat.cat/multimedia/jpg/3/4/1781782901343.jpg"/>
+    <icon src="https://img.3cat.cat/multimedia/jpg/3/5/1759143921253.jpg"/>
   </programme>
-  <programme start="20261003151102 +0200" stop="20261003153220 +0200" channel="esport3">
-    <title lang="ca">Zona zàping</title>
-    <sub-title lang="ca">Lamine Yamal, exhibició cap a la pilota d'or</sub-title>
-    <desc lang="ca">Lamine Yamal ha demostrat en un parell de partits amb la selecció espanyola, perquè és el candidat a guanyar la pilota d'or, amb una exhibició de joc, 3 gols i una assistència.Siderland acomiada el programa amb la seva nova cançó, 'L'última'.</desc>
-    <length units="seconds">1278</length>
-    <episode-num system="onscreen">1083</episode-num>
-    <category lang="ca">ESPORTS</category>
-    <category lang="ca">ALTRES</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <subtitles type="teletext"/>
-    <previously-shown/>
-    <icon src="https://img.3cat.cat/multimedia/jpg/4/7/1763564970974.jpg"/>
+  <programme start="20261003192659 +0200" stop="20261003192752 +0200" channel="esport3">
+    <title lang="ca">CURSES DE MUNTANYA</title>
+    <sub-title lang="ca">- MARATÓ PIRINEU</sub-title>
+    <desc lang="ca">Sense Descripció</desc>
+    <length units="seconds">53</length>
   </programme>
   <channel id="sx3">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20261003145657 +0200" stop="20261003150828 +0200" channel="sx3">
-    <title lang="ca">Les Sisters</title>
-    <sub-title lang="ca">El regal cutre</sub-title>
-    <desc lang="ca">La Wendy li regala un paraigua a la Marine... però la germana petita el troba lleig i no gosa dir-l'hi per no ferir els seus sentiments. La Marine mira de treure-se'l discretament de sobre com sigui... però la Wendy se n'adona i posa la seva germana petita en situacions en què es veu obligada a fer servir el paraigua que detesta!</desc>
-    <length units="seconds">691</length>
-    <episode-num system="onscreen">145</episode-num>
+  <programme start="20261003190800 +0200" stop="20261003191359 +0200" channel="sx3">
+    <title lang="ca">El xai Shaun</title>
+    <sub-title lang="ca">La festa</sub-title>
+    <desc lang="ca">El granger ha decidit fer una festa de disfresses pel seu aniversari i ha encarregat a en Bitzer la feina de repartir les invitacions. El problema és que s'ha posat a fer el burro i les ha perdut! Ara en Shaun i companyia, tots ben disfressats, intentaran fer-se passar pels amics del granger. Vols dir que se'n sortiran?!</desc>
+    <length units="seconds">359</length>
+    <episode-num system="onscreen">57</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
       <value>INFANTIL</value>
     </rating>
-    <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20261003150828 +0200" stop="20261003151959 +0200" channel="sx3">
-    <title lang="ca">Les Sisters</title>
-    <sub-title lang="ca">Germanes de substitució</sub-title>
-    <desc lang="ca">La Marine descobreix que han acceptat la seva germana a l'escola regional per estudiar música i que passarà la setmana en un internat. A la Marine li sap greu, però diu a la seva germana que pot viure perfectament sense ella. Proposa a les amigues de la Wendy que li facin de 'germanes de substitució' durant la setmana. Abans de tirar la idea endavant, les 'noves germanes' hauran de passar una prova.</desc>
-    <length units="seconds">691</length>
-    <episode-num system="onscreen">146</episode-num>
+  <programme start="20261003191359 +0200" stop="20261003191959 +0200" channel="sx3">
+    <title lang="ca">El xai Shaun</title>
+    <sub-title lang="ca">Qui ha perdut el cap?</sub-title>
+    <desc lang="ca">Dos extraterrestres científics i una mica eixelebrats han abduït en Shaun i en Pidsley a la seva nau i, per error, els han canviat el cervell. Ara tornen a voltar per la granja l'un amb el cos de l'altre! Si els extraterrestres no tornen aviat a posar les coses a lloc, això pot acabar com el rosari de l'aurora!</desc>
+    <length units="seconds">360</length>
+    <episode-num system="onscreen">58</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
       <value>INFANTIL</value>
     </rating>
-    <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
   <channel id="c33">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20261003144742 +0200" stop="20261003151357 +0200" channel="c33">
-    <title lang="ca">Quèquicom</title>
-    <sub-title lang="ca">Conviure amb lloros</sub-title>
-    <desc lang="ca">El reporter Pere Renom és testimoni de com parlen i ensinistren els lloros de Portaventura. També descobreix què és la malaltia anomenada 'pulmó de l'ocellaire' amb el Dr. Ferran Morell, de la Vall d'Hebron, qui tracta un cas associat als agapornis. I finalment, unes nouvingudes: les cotorres argentines. Es descriu el seguiment que en fan des del Museu de Ciències Naturals, de Barcelona. L'èxit de l'espècie es relaciona directament amb la seva variada dieta i amb el fet que cria en els nius que construeix, en lloc de criar en forats, com la majoria de lloros del món. DesenvolupamentEls lloros són una de les famílies d'ocells més intel·ligents que hi ha. La conducta social, un crani desproporcionadament gros respecte a la mida del cos i unes potes amb gran capacitat prènsil sembla que en són les causes determinants. Precisament perquè són intel·ligents i sociables ens resulten especialment simpàtics. Si, a més, hi afegim la seva exuberant bellesa i el fet que suporten relativament bé la captivitat, és lògic que hagin esdevingut mascotes ideals i actors preferents en espectacles circenses. El Reporter Pere Renom presencia un espectacle amb lloros a Portaventura i aprèn que l'ensinistrament és una barreja d'etologia, és a dir, del coneixement de la conducta animal, i de psicologia, ja que cada individu té el seu propi caràcter. L'ensinistrador Paco Navarro ha d'identificar les habilitats particulars de cada lloro, de cada actor, i treballar per potenciar-les. El resultat és un 'paper' diferent per cadascun: uns volen, altres interaccionen amb el públic o parlen i canten amb fluïdesa. Però conviure amb lloros també pot portar maldecaps. Carme Baraldés fa cinc anys que té agapornis a casa. Des d'aleshores té problemes respiratoris. El doctor Ferran Morell, de la unitat de pneumologia de la Vall d'Hebron, explica que hi ha una malaltia anomenada 'pulmó de l'ocellaire', que consisteix en una inflamació pulmonar produïda per la inhalació de certe</desc>
-    <length units="seconds">1575</length>
-    <episode-num system="onscreen">90</episode-num>
+  <programme start="20261003184645 +0200" stop="20261003191249 +0200" channel="c33">
+    <title lang="ca">Els hotels més remots del món</title>
+    <sub-title lang="ca">Tree hotel</sub-title>
+    <desc lang="ca">El Kent, el fundador, la seva dona Brita, i la seva filla Sofia, tots nascuts en un poble veí, són els fundadors i els amfitrions acollidors d'aquest extraordinari hotel. Actualment l'Hotel dels arbres compta amb 7 cabanes, de les més luxoses a les més exuberants, totes creades per grans noms de l'arquitectura sueca. El concepte clau d'aquest lloc és l'harmonia amb la natura: aïllats a les seves cabanes a les capçades dels arbres, els hostes perden gradualment la seva concepció urbana i es deixen endur pel paisatge.</desc>
+    <length units="seconds">1564</length>
+    <episode-num system="onscreen">1</episode-num>
     <category lang="ca">DIVULGACIÓ</category>
-    <category lang="ca">MAGAZINE ESPECIALITZAT</category>
+    <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20261003151357 +0200" stop="20261003161300 +0200" channel="c33">
-    <title lang="ca">Els caps de setmana llargs d'en Rick Stein</title>
-    <sub-title lang="ca">Tessalònica</sub-title>
-    <desc lang="ca">En Rick és un enamorat de la cuina grega. Li encanta el cafè espès que fa, la gran varietat de plats i, sobretot, la forta influència rebuda de llocs com Turquia, el Pròxim Orient i els Balcans. Aquest cap de setmana coneixerà una estrella de la televisió culinària grega, la Vefa Alexiadou, tastarà especialitats de Tessalònica, com la 'trigona', una 'bugatsa' de carn molt engrecadora i diversos plats fets amb préssec.</desc>
-    <length units="seconds">3543</length>
-    <episode-num system="onscreen">9</episode-num>
+  <programme start="20261003191249 +0200" stop="20261003193948 +0200" channel="c33">
+    <title lang="ca">Els hotels més remots del món</title>
+    <sub-title lang="ca">Briol</sub-title>
+    <desc lang="ca">L'única manera d'arribar a aquesta encantadora fonda és a peu. La Johanna Fink von Klebelsberg, l'excèntrica propietària de Briol, besneta de la fundadora, ha preservat intel·ligentment el caràcter antic de la fonda sense afegir-hi cap luxe modern...ni homes! La tradició demana que tot el personal familiar de l'hotel sigui exclusivament femení. La majoria dels menús estan elaborats amb ingredients locals produïts per la comunitat local, creant una atmosfera única entre les muntanyes tiroleses. Fis a 4 generacions de dones ha dirigit aquest hotel fins avui. </desc>
+    <length units="seconds">1619</length>
+    <episode-num system="onscreen">2</episode-num>
     <category lang="ca">DIVULGACIÓ</category>
     <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
     <rating>
