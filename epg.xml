@@ -3,52 +3,49 @@
   <channel id="tvi">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20261003095946 +0200" stop="20261003120000 +0200" channel="tvi">
-    <title lang="ca">Curses de Muntanya</title>
-    <sub-title lang="ca">Marató Pirineu</sub-title>
-    <desc lang="ca">La Salomon Ultra Pirineu se celebra al Parc Natural del Cadí-Moixeró, amb sortida i arribada a Bagà. Els primers en arribar a la meta són els participants en la marató i la mitja marató.</desc>
-    <length units="seconds">7214</length>
-    <episode-num system="onscreen">37</episode-num>
-    <category lang="ca">ESPORTS</category>
-    <category lang="ca">RETRANSMISSIONS ESPORTS</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <icon src="https://img.3cat.cat/multimedia/jpg/8/5/1782470121258.jpg"/>
-  </programme>
-  <programme start="20261003120000 +0200" stop="20261003132933 +0200" channel="tvi">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">5373</length>
-    <episode-num system="onscreen">11334</episode-num>
+  <programme start="20261003143000 +0200" stop="20261003153903 +0200" channel="tvi">
+    <title lang="ca">Telenotícies migdia</title>
+    <length units="seconds">4143</length>
+    <episode-num system="onscreen">7347</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/5/4/1758025766345.jpg"/>
   </programme>
-  <channel id="324">
-    <display-name>324</display-name>
-  </channel>
-  <programme start="20261003070000 +0200" stop="20261003100000 +0200" channel="324">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">10800</length>
-    <episode-num system="onscreen">11332</episode-num>
-    <category lang="ca">ACTUALITAT</category>
-    <category lang="ca">INFORMATIU DIÀRI</category>
+  <programme start="20261003153121 +0200" stop="20261003163119 +0200" channel="tvi">
+    <title lang="ca">Infidels</title>
+    <desc lang="ca">En Toni s'instal·la uns dies a casa de la Lídia per acabar de recuperar-se. El noi va a visitar la seva àvia i s'adona que algú més, a part d'el,l la visita. La Cruz somia angoixada perquè no sap si el fill que espera és o no de l'Eduard. En Robert vol veure els moviments del compte de l''Abadal i la Cruz, per despistar-lo, li diu que està embarassada. L'Eduard menteix a en Jesús sobre la procedència de l'ingrés providencial que va salvar la immobiliària. La Paula i en Marc han d'anul·lar els seus plans de viatge, perquè ella es troba malament. En Dani i l'Arlet parlen de què faran a l'estiu, però de seguida s'adonen que són massa diferents. L'Arlet no té cap ganes d'anar a casa seva.</desc>
+    <length units="seconds">3598</length>
+    <episode-num system="onscreen">10</episode-num>
+    <category lang="ca">FICCIÓ</category>
+    <category lang="ca">TELESÈRIE</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
+    <previously-shown/>
   </programme>
-  <programme start="20261003100000 +0200" stop="20261003120000 +0200" channel="324">
+  <channel id="324">
+    <display-name>324</display-name>
+  </channel>
+  <programme start="20261003143000 +0200" stop="20261003163000 +0200" channel="324">
+    <title lang="ca">Telenotícies migdia</title>
+    <length units="seconds">7200</length>
+    <episode-num system="onscreen">7347</episode-num>
+    <category lang="ca">ACTUALITAT</category>
+    <category lang="ca">INFORMATIU DIÀRI</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <icon src="https://img.ccma.cat/multimedia/jpg/5/4/1758025766345.jpg"/>
+  </programme>
+  <programme start="20261003163000 +0200" stop="20261003183000 +0200" channel="324">
     <title lang="ca">Notícies 3CatInfo</title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <length units="seconds">7200</length>
-    <episode-num system="onscreen">11333</episode-num>
+    <episode-num system="onscreen">11335</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
@@ -60,12 +57,12 @@
   <channel id="esport3">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20261003095534 +0200" stop="20261003101041 +0200" channel="esport3">
+  <programme start="20261003144607 +0200" stop="20261003151102 +0200" channel="esport3">
     <title lang="ca">E3</title>
-    <sub-title lang="ca">Sea Otter Europe</sub-title>
-    <desc lang="ca">Girona ha tornat a convertir-se en l'epicentre del ciclisme internacional amb la 10a edició de la Sea Otter Europe. La cita reuneix durant tot un cap de setmana alguns dels millors especialistes del món en disciplines com les BTT i el gravel, al costat de centenars de participants amateurs. Més enllà de la competició, l'esdeveniment combina curses, exhibicions i una gran zona comercial que converteix la ciutat en un punt de trobada per als amants de la bicicleta.</desc>
-    <length units="seconds">907</length>
-    <episode-num system="onscreen">2387</episode-num>
+    <sub-title lang="ca">Monster Jam / Seattle / 9</sub-title>
+    <desc lang="ca">La gran competició de motor amb els vehicles de quatre rodes més espectaculars. Monster Jam posa a prova la velocitat i la destresa dels pilots en un circuit ple d'obstacles. </desc>
+    <length units="seconds">1495</length>
+    <episode-num system="onscreen">2376</episode-num>
     <category lang="ca">ESPORTS</category>
     <category lang="ca">REPORTATGES</category>
     <rating>
@@ -73,30 +70,32 @@
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/2/5/1750321785952.jpg"/>
+    <icon src="https://img.3cat.cat/multimedia/jpg/3/4/1781782901343.jpg"/>
   </programme>
-  <programme start="20261003101041 +0200" stop="20261003102226 +0200" channel="esport3">
-    <title lang="ca">Pitch&amp;Cat</title>
-    <sub-title lang="ca">Campionat de Catalunya per equips. Final 2026</sub-title>
-    <desc lang="ca">Vivim la gran final del Campionat de Catalunya per Equips de 1a Divisió, des del P&amp;P Montseny, a Gualba. I, com sempre, completem el programa amb noves classes d'iniciació al pitch&amp;putt de la mà dels nostres col·laboradors habituals.</desc>
-    <length units="seconds">705</length>
-    <episode-num system="onscreen">108</episode-num>
+  <programme start="20261003151102 +0200" stop="20261003153220 +0200" channel="esport3">
+    <title lang="ca">Zona zàping</title>
+    <sub-title lang="ca">Lamine Yamal, exhibició cap a la pilota d'or</sub-title>
+    <desc lang="ca">Lamine Yamal ha demostrat en un parell de partits amb la selecció espanyola, perquè és el candidat a guanyar la pilota d'or, amb una exhibició de joc, 3 gols i una assistència.Siderland acomiada el programa amb la seva nova cançó, 'L'última'.</desc>
+    <length units="seconds">1278</length>
+    <episode-num system="onscreen">1083</episode-num>
     <category lang="ca">ESPORTS</category>
-    <category lang="ca">REPORTATGES</category>
+    <category lang="ca">ALTRES</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <icon src="https://img.ccma.cat/multimedia/jpg/6/8/1727969229786.jpg"/>
+    <subtitles type="teletext"/>
+    <previously-shown/>
+    <icon src="https://img.3cat.cat/multimedia/jpg/4/7/1763564970974.jpg"/>
   </programme>
   <channel id="sx3">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20261003100037 +0200" stop="20261003102212 +0200" channel="sx3">
-    <title lang="ca">La Patrulla Peluda</title>
-    <sub-title lang="ca">Rescats extrems: La Patrulla salva els tigres</sub-title>
-    <desc lang="ca">Mentre busquen els tigres del Cim Retruny, els Turbot cauen en una cova que es fica a l'interior d'un volcà. La Patrulla Peluda ha de fer una missió de rescat extrem dels cosins amb l'helicòpter extrem de la Skye!</desc>
-    <length units="seconds">1295</length>
-    <episode-num system="onscreen">213</episode-num>
+  <programme start="20261003145657 +0200" stop="20261003150828 +0200" channel="sx3">
+    <title lang="ca">Les Sisters</title>
+    <sub-title lang="ca">El regal cutre</sub-title>
+    <desc lang="ca">La Wendy li regala un paraigua a la Marine... però la germana petita el troba lleig i no gosa dir-l'hi per no ferir els seus sentiments. La Marine mira de treure-se'l discretament de sobre com sigui... però la Wendy se n'adona i posa la seva germana petita en situacions en què es veu obligada a fer servir el paraigua que detesta!</desc>
+    <length units="seconds">691</length>
+    <episode-num system="onscreen">145</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
@@ -105,14 +104,14 @@
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20261003102212 +0200" stop="20261003105553 +0200" channel="sx3">
-    <title lang="ca">Fang</title>
-    <sub-title lang="ca">Activem el tauler!</sub-title>
-    <desc lang="ca">Torna Fang!, totalment renovat però amb l'esperit de sempre. Un plató nou ple de sorpreses, un tauler gegant, jocs nous que us sorprendran i un dau final amb el poder de capgirar-ho tot.Comencem amb les quatre primeres escoles disposades a enfangar-se, en un episodi trepidant, èpic… i ple de música! 3, 2, 1… Fang!</desc>
-    <length units="seconds">2021</length>
-    <episode-num system="onscreen">29</episode-num>
-    <category lang="ca">ENTRETENIMENT</category>
-    <category lang="ca">ALTRES</category>
+  <programme start="20261003150828 +0200" stop="20261003151959 +0200" channel="sx3">
+    <title lang="ca">Les Sisters</title>
+    <sub-title lang="ca">Germanes de substitució</sub-title>
+    <desc lang="ca">La Marine descobreix que han acceptat la seva germana a l'escola regional per estudiar música i que passarà la setmana en un internat. A la Marine li sap greu, però diu a la seva germana que pot viure perfectament sense ella. Proposa a les amigues de la Wendy que li facin de 'germanes de substitució' durant la setmana. Abans de tirar la idea endavant, les 'noves germanes' hauran de passar una prova.</desc>
+    <length units="seconds">691</length>
+    <episode-num system="onscreen">146</episode-num>
+    <category lang="ca">FICCIÓ</category>
+    <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
       <value>INFANTIL</value>
     </rating>
@@ -122,25 +121,26 @@
   <channel id="c33">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20261003091329 +0200" stop="20261003100520 +0200" channel="c33">
-    <title lang="ca">Viure als Pirineus- A banda i banda</title>
-    <sub-title lang="ca">Francesc Guillamet i Jaume Taurinyà - Hivern</sub-title>
-    <length units="seconds">3111</length>
-    <episode-num system="onscreen">12</episode-num>
+  <programme start="20261003144742 +0200" stop="20261003151357 +0200" channel="c33">
+    <title lang="ca">Quèquicom</title>
+    <sub-title lang="ca">Conviure amb lloros</sub-title>
+    <desc lang="ca">El reporter Pere Renom és testimoni de com parlen i ensinistren els lloros de Portaventura. També descobreix què és la malaltia anomenada 'pulmó de l'ocellaire' amb el Dr. Ferran Morell, de la Vall d'Hebron, qui tracta un cas associat als agapornis. I finalment, unes nouvingudes: les cotorres argentines. Es descriu el seguiment que en fan des del Museu de Ciències Naturals, de Barcelona. L'èxit de l'espècie es relaciona directament amb la seva variada dieta i amb el fet que cria en els nius que construeix, en lloc de criar en forats, com la majoria de lloros del món. DesenvolupamentEls lloros són una de les famílies d'ocells més intel·ligents que hi ha. La conducta social, un crani desproporcionadament gros respecte a la mida del cos i unes potes amb gran capacitat prènsil sembla que en són les causes determinants. Precisament perquè són intel·ligents i sociables ens resulten especialment simpàtics. Si, a més, hi afegim la seva exuberant bellesa i el fet que suporten relativament bé la captivitat, és lògic que hagin esdevingut mascotes ideals i actors preferents en espectacles circenses. El Reporter Pere Renom presencia un espectacle amb lloros a Portaventura i aprèn que l'ensinistrament és una barreja d'etologia, és a dir, del coneixement de la conducta animal, i de psicologia, ja que cada individu té el seu propi caràcter. L'ensinistrador Paco Navarro ha d'identificar les habilitats particulars de cada lloro, de cada actor, i treballar per potenciar-les. El resultat és un 'paper' diferent per cadascun: uns volen, altres interaccionen amb el públic o parlen i canten amb fluïdesa. Però conviure amb lloros també pot portar maldecaps. Carme Baraldés fa cinc anys que té agapornis a casa. Des d'aleshores té problemes respiratoris. El doctor Ferran Morell, de la unitat de pneumologia de la Vall d'Hebron, explica que hi ha una malaltia anomenada 'pulmó de l'ocellaire', que consisteix en una inflamació pulmonar produïda per la inhalació de certe</desc>
+    <length units="seconds">1575</length>
+    <episode-num system="onscreen">90</episode-num>
     <category lang="ca">DIVULGACIÓ</category>
-    <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
+    <category lang="ca">MAGAZINE ESPECIALITZAT</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20261003100520 +0200" stop="20261003103416 +0200" channel="c33">
-    <title lang="ca">GR Pirineus</title>
-    <sub-title lang="ca">Tàndem a la pallaresa</sub-title>
-    <desc lang="ca">Seguim al Pallars Sobirà, aquest cop per fer-ne la part nord, des de la vall de Cardós fins a les valls d'Àneu.La ruta començarà a Ribera de Cardós i passa per Tírvia, Llavorsí, Espot, el Parc Nacional d'Aigüestortes i Estany de Sant Maurici, la Guingueta, Escalarre, Gavàs, Esterri, Isavarre, Borén, Isil i acaba a Alós d'Isil.Durant el trajecte practicarem ràfting per la Noguera Pallaresa, farem una ruta a peu per l'estany de Sant Maurici visitant els Encantats, reviurem el Doctor Music Festival amb els 4t 1a (Quart Primera) i 4 vaques, munyirem cabres per fer formatge artesanal, assitirem al festival Esbaiola't, on el Marc aprendrà a fer salts mortals en llit elàstic; i, finalment, farem una ruta en tàndem per les valls d'Àneu fins a Alós d'Isil.</desc>
-    <length units="seconds">1736</length>
-    <episode-num system="onscreen">15</episode-num>
+  <programme start="20261003151357 +0200" stop="20261003161300 +0200" channel="c33">
+    <title lang="ca">Els caps de setmana llargs d'en Rick Stein</title>
+    <sub-title lang="ca">Tessalònica</sub-title>
+    <desc lang="ca">En Rick és un enamorat de la cuina grega. Li encanta el cafè espès que fa, la gran varietat de plats i, sobretot, la forta influència rebuda de llocs com Turquia, el Pròxim Orient i els Balcans. Aquest cap de setmana coneixerà una estrella de la televisió culinària grega, la Vefa Alexiadou, tastarà especialitats de Tessalònica, com la 'trigona', una 'bugatsa' de carn molt engrecadora i diversos plats fets amb préssec.</desc>
+    <length units="seconds">3543</length>
+    <episode-num system="onscreen">9</episode-num>
     <category lang="ca">DIVULGACIÓ</category>
     <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
     <rating>
@@ -148,24 +148,10 @@
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
-    <icon src="https://img.3cat.cat/multimedia/jpg/9/8/1736612891089.jpg"/>
   </programme>
   <channel id="oca1">
     <display-name>OCA1</display-name>
   </channel>
-  <programme start="20261003090008 +0200" stop="20261003133503 +0200" channel="oca1">
-    <title lang="ca">Curses de muntanya</title>
-    <sub-title lang="ca">- Marató Pirineu</sub-title>
-    <desc lang="ca">La Salomon Ultra Pirineu se celebra al Parc Natural del Cadí-Moixeró, amb sortida i arribada a Bagà. Els primers en arribar a la meta són els participants en la marató i la mitja marató.</desc>
-    <length units="seconds">16495</length>
-    <episode-num system="onscreen">37</episode-num>
-    <category lang="ca">ESPORTS</category>
-    <category lang="ca">RETRANSMISSIONS ESPORTS</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <icon src="https://img.3cat.cat/multimedia/jpg/8/5/1782470121258.jpg"/>
-  </programme>
   <channel id="oca2">
     <display-name>OCA2</display-name>
   </channel>
