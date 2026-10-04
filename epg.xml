@@ -3,72 +3,41 @@
   <channel id="tvi">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20261004143000 +0200" stop="20261004153635 +0200" channel="tvi">
-    <title lang="ca">Telenotícies migdia</title>
-    <length units="seconds">3995</length>
-    <episode-num system="onscreen">7348</episode-num>
-    <category lang="ca">ACTUALITAT</category>
-    <category lang="ca">INFORMATIU DIÀRI</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <icon src="https://img.ccma.cat/multimedia/jpg/5/4/1758025766345.jpg"/>
-  </programme>
-  <programme start="20261004153635 +0200" stop="20261004172009 +0200" channel="tvi">
-    <title lang="ca">Tarda de cine</title>
-    <sub-title lang="ca">Assassinat a Brocelianda</sub-title>
-    <desc lang="ca">ASSASSINAT A BROCELIANDA 'L'inconnu de Brocéliande'Direcció: Vincent GiovanniGuió: Virginie Brami, Yann Le GalProducció: TV5 Monde, Radio Télévision Suisse (RTS), BE-FILMS, CNC, Région Bretagne, Compagnie des Phares et Balises, France Télévisions, RTBF (Télévision Belge)Any: 2016Durada: 90País: FrançaMúsica: Hadrien BongueFotografia: Penélope PourriatIntèrprets: Claire Keim, Fred Bianconi, François Vincentelli, Carole Bianic, Stéphane Boucher, Yanis Richard, Féodor Atkine, Nadia Fossier, Francis Renaud, Anouck Montreuil, Vinciane Amilhon, Dominique Prie, Vanessa BeucherEn ple bosc de Brocelianda apareix un cadàver sense identificar parcialment cremat i un nen de tretze anys en estat de xoc incapaç de parlar. Què hi fa, allà? I per què no pot dir res? La seva presència està relacionada amb l'assassinat? La Marie Delorme i l'Eric Guillaumond, els dos gendarmes encarregats del cas, i un psiquiatre infantil poc convencional intenten aclarir el misteri.</desc>
-    <credits>
-      <director>Vincent</director>
-      <writer>Virginie Brami</writer>
-      <writer>Yann Le Gal</writer>
-      <actor>Claire Keim</actor>
-      <actor>Fred Bianconi</actor>
-      <actor>François Vincentelli</actor>
-      <actor>Carole Bianic</actor>
-      <actor>Stéphane Boucher</actor>
-      <actor>Yanis Richard</actor>
-      <actor>Féodor Atkine</actor>
-      <actor>Nadia Fossier</actor>
-      <actor>Francis Renaud</actor>
-      <actor>Anouck Montreuil</actor>
-      <actor>Vinciane Amilhon</actor>
-      <actor>Dominique Prie</actor>
-      <actor>Vanessa BeucherEn ple bosc de Brocelianda apareix un cadàver sense identificar parcialment cremat</actor>
-      <actor>un nen de tretze anys en estat de xoc incapaç de parlar. Què hi fa</actor>
-      <actor>allà? I per què no pot dir res? La seva presència està relacionada amb l'assassinat? La Marie Delorme</actor>
-      <actor>l'Eric Guillaumond</actor>
-      <actor>els dos gendarmes encarregats del cas</actor>
-      <actor>un psiquiatre infantil poc convencional intenten aclarir el misteri.</actor>
-    </credits>
-    <length units="seconds">6214</length>
-    <episode-num system="onscreen">1</episode-num>
+  <programme start="20261004192530 +0200" stop="20261004201533 +0200" channel="tvi">
+    <title lang="ca">Temps de silenci</title>
+    <sub-title lang="ca">TEATRE</sub-title>
+    <desc lang="ca">Hi haurà una representació teatral a la plaça, a càrrec dels veïns. Retrobaments esperats i inesperats... La Isabel i en Ramon, junts a l'escenari...En Xavier confirma que es tracta d'un noi conflictiu.</desc>
+    <length units="seconds">3003</length>
+    <episode-num system="onscreen">15</episode-num>
     <category lang="ca">FICCIÓ</category>
-    <category lang="ca">PEL·LÍCULA / TELEFILM</category>
+    <category lang="ca">SÈRIE DRAMÀTICA</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
+    <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
   <channel id="324">
     <display-name>324</display-name>
   </channel>
-  <programme start="20261004143000 +0200" stop="20261004163000 +0200" channel="324">
-    <title lang="ca">Telenotícies migdia</title>
-    <length units="seconds">7200</length>
-    <episode-num system="onscreen">7348</episode-num>
+  <programme start="20261004183000 +0200" stop="20261004200000 +0200" channel="324">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="seconds">5400</length>
+    <episode-num system="onscreen">11344</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <icon src="https://img.ccma.cat/multimedia/jpg/5/4/1758025766345.jpg"/>
+    <subtitles type="teletext"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
-  <programme start="20261004163000 +0200" stop="20261004183000 +0200" channel="324">
+  <programme start="20261004200000 +0200" stop="20261004210000 +0200" channel="324">
     <title lang="ca">Notícies 3CatInfo</title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">7200</length>
-    <episode-num system="onscreen">11343</episode-num>
+    <length units="seconds">3600</length>
+    <episode-num system="onscreen">11345</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
@@ -80,57 +49,55 @@
   <channel id="esport3">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20261004142500 +0200" stop="20261004160802 +0200" channel="esport3">
+  <programme start="20261004190000 +0200" stop="20261004194538 +0200" channel="esport3">
+    <title lang="ca">Motor a fons</title>
+    <sub-title lang="ca">GP del Japó</sub-title>
+    <desc lang="ca">Setzena prova del Campionat del Món de motociclisme. Us oferim el més destacat a les curses de MotoGP, Moto2 i Moto3. Amb Xavier Guillén, i l'anàlisi de Montse Sogues i Ramon Forcada.</desc>
+    <length units="seconds">2738</length>
+    <episode-num system="onscreen">957</episode-num>
+    <category lang="ca">ESPORTS</category>
+    <category lang="ca">MAGAZINE</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <icon src="https://img.ccma.cat/multimedia/jpg/5/7/1678886130275.jpg"/>
+  </programme>
+  <programme start="20261004194538 +0200" stop="20261004205000 +0200" channel="esport3">
     <title lang="ca">Hípica</title>
     <sub-title lang="ca">Lliga de les Nacions / CSIO / 2a mànega</sub-title>
     <desc lang="ca">El Reial Club de Polo de Barcelona és l'escenari de la competició per equips a la Lliga de les Nacions del Concurs de Salts Internacional Oficial. </desc>
-    <length units="seconds">6182</length>
+    <length units="seconds">3862</length>
     <episode-num system="onscreen">8138</episode-num>
     <category lang="ca">ESPORTS</category>
     <category lang="ca">RETRANSMISSIONS ESPORTS</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <icon src="https://img.3cat.cat/multimedia/jpg/3/6/1790764872063.jpg"/>
-  </programme>
-  <programme start="20261004160802 +0200" stop="20261004165500 +0200" channel="esport3">
-    <title lang="ca">Sala de Premsa</title>
-    <sub-title lang="ca">Pere Romeu / Prèvia Barça-R. Madrid / J6</sub-title>
-    <desc lang="ca">Esport3 t'ofereix les compareixences de dirigents, jugadors i entrenadors dels equips catalans davant els mitjans de comunicació.</desc>
-    <length units="seconds">2818</length>
-    <episode-num system="onscreen">733</episode-num>
-    <category lang="ca">ESPORTS</category>
-    <category lang="ca">INFORMATIU DIÀRI</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <subtitles type="teletext"/>
     <previously-shown/>
-    <icon src="https://img.3cat.cat/multimedia/jpg/7/4/1778665728847.jpg"/>
+    <icon src="https://img.3cat.cat/multimedia/jpg/3/6/1790764872063.jpg"/>
   </programme>
   <channel id="sx3">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20261004151921 +0200" stop="20261004153051 +0200" channel="sx3">
-    <title lang="ca">Les Sisters</title>
-    <sub-title lang="ca">El noviet a casa</sub-title>
-    <desc lang="ca">Per unes reparacions que han de fer a casa seva, el Maxence passarà uns dies a casa de les Sisters i la Marine té por que s'hi quedi per sempre. La Marine explica a la Wendy que passar massa temps amb la parella no és bo per la relació i la convenç que s'allunyi del Maxence!</desc>
-    <length units="seconds">690</length>
-    <episode-num system="onscreen">156</episode-num>
+  <programme start="20261004194219 +0200" stop="20261004195035 +0200" channel="sx3">
+    <title lang="ca">El xai Shaun</title>
+    <sub-title lang="ca">La garsa</sub-title>
+    <desc lang="ca">Una garsa ha decidit fer el niu a l'arbre gran que hi ha a la granja i no para de pispar tot el que troba. Els saquejos del nouvingut comencen a preocupar tothom, i el niu ben aviat es converteix en una mena de tresor digne del pirata més espavilat dels Set Cels! En Shaun s'haurà d'empescar algun pla per engalipar aquest rapinyaire, abans que els deixi sense res!</desc>
+    <length units="seconds">496</length>
+    <episode-num system="onscreen">71</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
       <value>INFANTIL</value>
     </rating>
-    <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20261004153051 +0200" stop="20261004154158 +0200" channel="sx3">
-    <title lang="ca">Les Sisters</title>
-    <sub-title lang="ca">Adéu vacances!</sub-title>
-    <desc lang="ca">La Marine i la Wendy tenen grans plans per passar les vacances amb els seus amics, però els seus pares les volen enviar a casa l'avi i l'àvia. Ni parlar-ne! La parella de germanes decideix portar-se supermalament perquè els pares les castiguin sense anar a casa els avis. Finalment, però, les coses no surten com esperaven.</desc>
-    <length units="seconds">667</length>
-    <episode-num system="onscreen">1</episode-num>
+  <programme start="20261004195035 +0200" stop="20261004201344 +0200" channel="sx3">
+    <title lang="ca">El detectiu Conan</title>
+    <sub-title lang="ca">El culpable que desapareix a la ciutat dorment</sub-title>
+    <desc lang="ca">La Ran, en Kogoro i en Conan tornen de nit cap a casa. El soroll d'un xiulet els alerta de la presència d'un guàrdia de seguretat que està greument ferit, i que mor al cap de poc. A poca distància troben un altre home que ha mort apunyalat. Les petjades fan pensar en l'existència d'un culpable X.</desc>
+    <length units="seconds">1389</length>
+    <episode-num system="onscreen">1147</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
@@ -142,26 +109,20 @@
   <channel id="c33">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20261004151054 +0200" stop="20261004153312 +0200" channel="c33">
-    <title lang="ca">Quèquicom</title>
-    <sub-title lang="ca">Transgènics a la carta</sub-title>
-    <desc lang="ca">'Quèquicom' sotmetrà a examen els aliments transgènics. El programa examinarà els pros i els contres d'aquests conreus i els seus possibles efectes sobre la salut humana. El blat de moro és l'única planta transgènica que té autorització per ser cultivada a Espanya, i molts pagesos la trien per la seva resistència a les malures. La reportera Anna Lasaga farà un viatge pels camps i els laboratoris on s'estudien aquestes plantes per treure l'aigua clara sobre què és un transgènic i quins efectes pot tenir sobre l'ambient i els sers humans. A més, Francesc Vilarroya, professor de biotecnologia de la Universitat de Barcelona, explicarà com processa el cos humà els productes transgènics per poder-los assimilar. I Pere Puigdomènec, director del laboratori CSIC- IRTA, creu que els transgènics són útils i considera excessius els tràmits que es necessiten per autoritzar que un nou transgènic surti al mercat.</desc>
-    <length units="seconds">1338</length>
-    <episode-num system="onscreen">93</episode-num>
-    <category lang="ca">DIVULGACIÓ</category>
-    <category lang="ca">MAGAZINE ESPECIALITZAT</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <subtitles type="teletext"/>
-    <previously-shown/>
-  </programme>
-  <programme start="20261004153312 +0200" stop="20261004163104 +0200" channel="c33">
-    <title lang="ca">Un planeta perfecte</title>
-    <sub-title lang="ca">Humans</sub-title>
-    <desc lang="ca">L'activitat humana ha afectat la majoria dels hàbitats del planeta. En aquest episodi, 'la història més important del nostres temps' en paraules de David Attenborough, veiem com la nostra addicció als combustibles fòssils altera les forces de la natura. Però encara hi ha esperança: els projectes de recuperació de boscos i fauna, i d'aprofitament de l'energia van en la direcció correcta. Si ens ho proposem, encara estem a temps de salvar el nostre planeta perfecte.</desc>
-    <length units="seconds">3472</length>
-    <episode-num system="onscreen">5</episode-num>
+  <programme start="20261004193020 +0200" stop="20261004205940 +0200" channel="c33">
+    <title lang="ca">Eugenio</title>
+    <sub-title lang="ca">Eugenio</sub-title>
+    <desc lang="ca">'EUGENIO' (2018), una producció de REC Videoproduccions, en coproducció amb TVE i Televisió de Catalunya, amb la col·laboració del Departament de Cultura de la Generalitat de Catalunya.Milions de persones de diverses generacions van riure amb els seus acudits. Tenia classe, un estil únic i una gran popularitat. No obstant, la mort prematura de la seva dona Conchita, peça clau en el seu èxit professional, va ser el punt d'inflexió que va marcar la seva vida. Es va apoderar d'ell una tristesa que el va portar a una espiral autodestructiva de la qual no va saber escapar. Dues dècades després de la seva mort, per primer cop, la seva família i els amics expliquen com va ser la vida d'Eugenio.Direcció: Xavier Baig i Jordi RoviraGuió: Òscar Moreno i Jordi RoviraRealització, fotografia i muntatge: Xavier BaigProductor: Xavier Baig i Òscar MorenoProductor executiu TVC: Jordi AmbròsProductor delegat TVC: Elisa PlazaLingüista: Dolors SenserrichGrafisme: Xavier Dávila</desc>
+    <credits>
+      <director>Xavier Baig</director>
+      <director>Jordi Rovira</director>
+      <writer>Òscar Moreno</writer>
+      <writer>Jordi RoviraRealització</writer>
+      <writer>fotografia</writer>
+      <writer>muntatge: Xavier Baig</writer>
+    </credits>
+    <length units="seconds">5360</length>
+    <episode-num system="onscreen">1</episode-num>
     <category lang="ca">DIVULGACIÓ</category>
     <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
     <rating>
@@ -169,7 +130,12 @@
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
-    <icon src="https://img.3cat.cat/multimedia/jpg/0/9/1766143230590.jpg"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/3/3/1579190261433.jpg"/>
+  </programme>
+  <programme start="20261004205940 +0200" stop="20261004210116 +0200" channel="c33">
+    <title lang="ca">SENSE FI CANAL 33</title>
+    <desc lang="ca">Sense Descripció</desc>
+    <length units="seconds">96</length>
   </programme>
   <channel id="oca1">
     <display-name>OCA1</display-name>
@@ -177,13 +143,26 @@
   <channel id="oca2">
     <display-name>OCA2</display-name>
   </channel>
+  <programme start="20261004160144 +0200" stop="20261004210500 +0200" channel="oca2">
+    <title lang="ca">Diades Castelleres Especials</title>
+    <sub-title lang="ca">- Concurs de Castells de Tarragona 2026 - Jornada de diumenge (part 1)</sub-title>
+    <desc lang="ca">Màximes expectatives al Concurs de Castells de Tarragona en una nova cita biennal, el primer cap de setmana d'octubre. L'única diada castellera en format competitiu que arriba en una temporada de bogeria en què de bon començament ja s'han aixecat estructures de gamma alta i hi han sovintejat els castells de 10. La jornada més espectacular, la de diumenge a la Tarraco Arena, on competeixen les 12 millors colles, amb els verds de Vilafranca; la Vella i la Jove dels Xiquets de Valls, i la colla Jove dels Xiquets de Tarragona com a grans favorites. Un concurs molt renyit on les colles estan preparades per donar-ho tot. S'aixecaran castells mai vistos fins ara? Quines estratègies es desplegaran a plaça? L'emoció castellera està servida. La retransmissió del Concurs de Castells de Tarragona és una producció de La Xarxa i TAC12</desc>
+    <length units="seconds">18196</length>
+    <episode-num system="onscreen">90</episode-num>
+    <category lang="ca">DIVULGACIÓ</category>
+    <category lang="ca">MAGAZINE ESPECIALITZAT</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <icon src="https://img.3cat.cat/multimedia/jpg/7/1/1790689831717.jpg"/>
+  </programme>
   <channel id="oca3">
     <display-name>OCA3</display-name>
   </channel>
-  <programme start="20261004060241 +0200" stop="20261004160000 +0200" channel="oca3">
+  <programme start="20261004165158 +0200" stop="20261004214500 +0200" channel="oca3">
     <title lang="ca">Radar meteorològic: segueix l'evolució de les tempestes</title>
-    <length units="seconds">35839</length>
-    <episode-num system="onscreen">4148</episode-num>
+    <length units="seconds">17582</length>
+    <episode-num system="onscreen">4151</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">RETRANSMISSIONS ACTUALITAT</category>
     <rating>
