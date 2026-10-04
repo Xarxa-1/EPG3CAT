@@ -3,75 +3,80 @@
   <channel id="tvi">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20261004210000 +0200" stop="20261004215944 +0200" channel="tvi">
-    <title lang="ca">Telenotícies vespre</title>
-    <length units="seconds">3584</length>
-    <episode-num system="onscreen">7347</episode-num>
+  <programme start="20261005002941 +0200" stop="20261005040000 +0200" channel="tvi">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="seconds">12619</length>
+    <episode-num system="onscreen">11347</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <icon src="https://img.ccma.cat/multimedia/jpg/7/2/1758026176427.jpg"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
-  <programme start="20261004215944 +0200" stop="20261004232239 +0200" channel="tvi">
-    <title lang="ca">Vèrtex</title>
-    <desc lang="ca">Hi ha notícies que només s'entenen quan s'observen des de diferents perspectives. Amb aquesta premissa neix 'Vèrtex', el nou programa d'actualitat setmanal que converteix la complexitat dels grans temes en una conversa rigorosa, visual i propera. El programa ofereix una mirada transversal dels assumptes que han marcat la setmana i dels que definiran la que està a punt de començar.</desc>
-    <length units="seconds">4975</length>
-    <episode-num system="onscreen">2</episode-num>
-    <category lang="ca">DIVULGACIÓ</category>
-    <category lang="ca">ENTREVISTES</category>
+  <programme start="20261005040000 +0200" stop="20261005050000 +0200" channel="tvi">
+    <title lang="ca">Blues a l'estudi</title>
+    <sub-title lang="ca">David Philips</sub-title>
+    <desc lang="ca">Cantautor del Regne Unit que ens presenta un repertori a cavall del blues i el folk americà. En ocasions ens pot evocar atmosferes de rock acústic com les de Ry Cooder, Kelly Joe Phelps o Amos Lee. Però, sens dubte, Philips té un estil propi. Caspar St. Charles a la bateria, Thomas Kent Warburton, al baix; Abel Boquera als teclats i el mateix David Philips a la guitarra i veu.</desc>
+    <length units="seconds">3600</length>
+    <episode-num system="onscreen">9</episode-num>
+    <category lang="ca">MUSICALS</category>
+    <category lang="ca">ALTRES</category>
     <rating>
-      <value>TOTS ELS PÚBLICS</value>
+      <value>PÚBLIC ADULT</value>
     </rating>
+    <previously-shown/>
   </programme>
   <channel id="324">
     <display-name>324</display-name>
   </channel>
-  <programme start="20261004210000 +0200" stop="20261004230000 +0200" channel="324">
-    <title lang="ca">Telenotícies vespre</title>
-    <length units="seconds">7200</length>
-    <episode-num system="onscreen">7347</episode-num>
-    <category lang="ca">ACTUALITAT</category>
-    <category lang="ca">INFORMATIU DIÀRI</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <icon src="https://img.ccma.cat/multimedia/jpg/7/2/1758026176427.jpg"/>
-  </programme>
-  <programme start="20261004230000 +0200" stop="20261005003000 +0200" channel="324">
+  <programme start="20261005010000 +0200" stop="20261005060000 +0200" channel="324">
     <title lang="ca">Notícies 3CatInfo</title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">5400</length>
-    <episode-num system="onscreen">11346</episode-num>
+    <length units="seconds">18000</length>
+    <episode-num system="onscreen">11347</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <subtitles type="teletext"/>
+    <previously-shown/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
+  </programme>
+  <programme start="20261005060000 +0200" stop="20261005080000 +0200" channel="324">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="seconds">7200</length>
+    <episode-num system="onscreen">11348</episode-num>
+    <category lang="ca">ACTUALITAT</category>
+    <category lang="ca">INFORMATIU DIÀRI</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
     <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
   <channel id="esport3">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20261004220639 +0200" stop="20261004223156 +0200" channel="esport3">
-    <title lang="ca">Espòiler</title>
-    <desc lang="ca">'Espòiler' és un programa dedicat al món dels cotxes i del caravàning, un espai on hi té cabuda tot el que té a veure amb aquests vehicles a motor. Descobrim les novetats del sector, amb models que s'acaben d'estrenar, test drives, una secció d'electromobilitat i també les millors autocaravanes del moment.Mercè Rivas, Sergio Domínguez, Oriol Llardén i Telva Somoza són els encarregats de posar a prova els automòbils i transmetre les seves sensacions. Dani Blasco capitaneja la secció 'Contravolant', on us sorprèn amb històries extraordinàries i divertides. El programa també té un espai anomenat 'Al volant amb...', en què cada setmana un famós ajuda Carles Llinars, instructor del Circuit Escola del RACC, a explicar un consell de conducció.'Espòiler' és una producció de Televisió de Catalunya amb la col·laboració de Drive Media i la realització de HolyCars Studio.</desc>
-    <length units="seconds">1517</length>
-    <episode-num system="onscreen">61</episode-num>
+  <programme start="20261005012845 +0200" stop="20261005015019 +0200" channel="esport3">
+    <title lang="ca">3CatInfo Esports</title>
+    <desc lang="ca">Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.</desc>
+    <length units="seconds">1294</length>
+    <episode-num system="onscreen">5528</episode-num>
     <category lang="ca">ESPORTS</category>
-    <category lang="ca">REPORTATGES</category>
+    <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <icon src="https://img.ccma.cat/multimedia/jpg/1/0/1698433593401.jpg"/>
+    <previously-shown/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/9/7/1758888682179.jpg"/>
   </programme>
-  <programme start="20261004223156 +0200" stop="20261004230000 +0200" channel="esport3">
+  <programme start="20261005015019 +0200" stop="20261005021658 +0200" channel="esport3">
     <title lang="ca">WRC</title>
     <sub-title lang="ca">Ral·li d'Itàlia-Sardenya / WRC 2026 / J3</sub-title>
     <desc lang="ca">13a i última prova del Mundial amb el títol de campió en joc. El Ral·li de Sardenya, amb seu a la població de l'Alguer, té un total de 307 quilòmetres cronometrats en 17 trams de carreteres sobre terra. Us oferim el desenllaç de la cursa italiana i el Campionat del Món.</desc>
-    <length units="seconds">1684</length>
+    <length units="seconds">1599</length>
     <episode-num system="onscreen">259</episode-num>
     <category lang="ca">ESPORTS</category>
     <category lang="ca">RETRANSMISSIONS ESPORTS</category>
@@ -83,12 +88,12 @@
   <channel id="sx3">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20261004222312 +0200" stop="20261004223347 +0200" channel="sx3">
-    <title lang="ca">Les filles del Dad</title>
-    <sub-title lang="ca">Malalta de gelosia</sub-title>
-    <desc lang="ca">És dissabte i tant la Roxane com l'Ondine tenien plans per passar el dia en companyia del Dad, una anant a veure un partit de bàsquet i l'altra anant de compres al centre comercial. Però vet aquí que la Panda està malalta i el Dad es veu obligat a quedar-se a casa per ocupar-se'n. Geloses de no poder tenir les atencions del pare, les dues germanes es faran passar per malaltes.</desc>
-    <length units="seconds">635</length>
-    <episode-num system="onscreen">12</episode-num>
+  <programme start="20261005012428 +0200" stop="20261005014537 +0200" channel="sx3">
+    <title lang="ca">Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
+    <sub-title lang="ca">Vampigami</sub-title>
+    <desc lang="ca">A la Marinette li fa por que l'Adrien deixi d'estimar-la si no va al cine amb ell, i per això s'obliga a acompanyar-lo a veure una pel·lícula de terror, que és la pitjor fòbia de la Marinette. L'espera una sessió d'esgarrifances, angoixa i terror! Uh!</desc>
+    <length units="seconds">1269</length>
+    <episode-num system="onscreen">139</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
@@ -97,12 +102,12 @@
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20261004223347 +0200" stop="20261004224433 +0200" channel="sx3">
-    <title lang="ca">La tropa del corral</title>
-    <sub-title lang="ca">Gnom hi ha cap lloc com a casa</sub-title>
-    <desc lang="ca">L'Albert truca la Tropa: l'han d'ajudar, el persegueix un gnom de jardí! Els nostres herois li intenten demostrar que només és una estàtua però, sense voler, l'acaben convencent que és ben real i ara està més espantat que mai.</desc>
-    <length units="seconds">646</length>
-    <episode-num system="onscreen">47</episode-num>
+  <programme start="20261005014537 +0200" stop="20261005020739 +0200" channel="sx3">
+    <title lang="ca">Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
+    <sub-title lang="ca">El senyor Agreste</sub-title>
+    <desc lang="ca">L'Adrien ha de donar el seu vistiplau perquè erigeixin una estàtua en honor al seu pare, Gabriel Agreste, i a la Marinette cada vegada li costa més mantenir el secret que li amaga sobre el seu pare. I l'arribada d'un supermalvat que és com el seu vell enemic no l'ajudarà gens.</desc>
+    <length units="seconds">1322</length>
+    <episode-num system="onscreen">140</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
@@ -114,34 +119,34 @@
   <channel id="c33">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20261004220037 +0200" stop="20261004233756 +0200" channel="c33">
-    <title lang="ca">Pel.lícula</title>
-    <sub-title lang="ca">Pau, la força d'un silenci</sub-title>
-    <desc lang="ca">Pau, la força d'un silenciProductores :Televisió de Catalunya, Minoria Absoluta i Euskal Telebista amb el suport d'Institut Català de les Empreses Culturals. 2017Director : Manuel HuergaProductor : Francesc EscribanoProductora executiva TVC : Elisa PlazaGuió : Jordi Vallejo i Maria JaénDirector fotografia : Mario MonteroComposició musical : Xavi CapellasIntèrprets : Joan Pera( Pau Casals), Nao Albet (Pierre Fermat), Carme Sansa ( Frasquita Capdevila), Marc Cartes (Schneider), Albert Pérez (Antoine Giraud), Joan Carreras (Heimlich), Josean Bengoetxea (MIkel), David Bagès (Enric Casals), Manel Dueso ( Doctor Puig)Sinopsi :Exiliat a Prada de Conflent, Pau Casals, considerat el millor intèrpret del moment, ha decidit no tocar més en públic fins que la dictadura de Franco no caigui. Pierre, un jove francès a qui el mestre fa classes, intentarà convèncer-lo que faci un concert extraordinari que pot convertir-se en un homenatge a la llibertat.</desc>
-    <length units="seconds">5839</length>
+  <programme start="20261005010710 +0200" stop="20261005020638 +0200" channel="c33">
+    <title lang="ca">Pau Casals, l'home que va fer sentir el silenci</title>
+    <sub-title lang="ca">Pau Casals, l'home que va fer sentir el silenci</sub-title>
+    <desc lang="ca">'Pau Casals, l'home que va fer sentir el silenci' (2011), un documental de RBA Audiovisuales en coproducció amb TELEVISIÓ DE CATALUNYA i amb la col·laboració de Fundació Pau Casals, Memorial Democràtic i l'ICEC. Va fer sonar la música més sublim i la va fer callar allà on la pau, la justícia i la llibertat no eren respectades. La música no podia elevar els esperits mentre la gent patia, era humiliada o moria. Però, ¿podia potser donar una llum d'esperança, l'esperança que un món millor és possible?Pau Casals va ser un músic importantíssim, que ocupa un lloc molt destacat a la història de la música. Però també va ser un símbol perquè va encarnar com ningú i abans que tots la figura de l'artista compromès. Ho va fer fins al punt de sacrificar el seu art, de fer callar la música durant anys i fer sentir un silenci que va ser eloqüent com un clam de llibertat.Pau Casals va viure convençut que la música podia portar a un món millor, més fraternal i just. Un món nou que la realitat del segle més violent de la història va negar-li un cop i un altre. La lluita entre aquest ideal esperançat i aquesta realitat dolorosa va ser la vida de Pau Casals. En ella se centra aquest documental, fet amb la col·laboració de la Fundació Pau Casals, la participació directa de la viuda del mestre, Marta Casals Istomin, testimonis de grans músics i una detallada documentació que presenta materials poc coneguts dels arxius personals, alguns fins ara inèdits.Producció executiva: Jordi Sellas i Francisco Vargas EcheverríaProducció executiva TVC: Jordi Ambròs Producció: Susanna AlcorizaProducció delegada TVC: Ruth Llòria Direcció i guió: Jaume BoixAssessorament històric: Núria BallesterRealització: Miguel E. LópezDirecció de producció: Cristina BoschDirecció de fotografia: Raül FabregatMúsics: Eulàlia Subirà, Marina González, Bruna González, Minerva Comerma, Helena Castells, Gemma Dalmau, Clara Dalmau, Pere Puertas, Quim Puertas, Pau Codina, Jordi Claret i Fe</desc>
+    <length units="seconds">3568</length>
     <episode-num system="onscreen">1</episode-num>
-    <category lang="ca">FICCIÓ</category>
-    <category lang="ca">PEL·LÍCULA / TELEFILM</category>
+    <category lang="ca">DIVULGACIÓ</category>
+    <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
+    <icon src="https://img.3cat.cat/multimedia/jpg/2/8/1634806186282.jpg"/>
   </programme>
-  <programme start="20261004233756 +0200" stop="20261005001536 +0200" channel="c33">
-    <title lang="ca">Les nacions prohibides. Ciemen</title>
-    <sub-title lang="ca">Les nacions prohibides. Ciemen</sub-title>
-    <desc lang="ca">A l'escola aprenem que el món es divideix en països, separats per fronteres que semblen òbvies. Però moltes d'aquelles ratlles són arbitràries, i sota el mapa oficial bateguen realitats diferents: llengües, cultures i nacions soterrades. Les nacions prohibides és la història dels qui s'han dedicat a fer-les visibles. Al centre del relat hi ha el CIEMEN –Centre Internacional Escarré per a les Minories Ètniques i les Nacions&amp;mdash; i el seu fundador, Aureli Argemí. Fundat a Milà el 1974, a l'exili, el CIEMEN va voler defensar la identitat catalana i connectar-la, alhora, amb totes les nacions sense estat i les llengües minoritzades del món. A través de les veus de Jordi Sànchez, Carles Riera, David Minoves, Mònica Sabata, Anne Degenève i Omaira Beltran, el documental ressegueix de quina manera aquesta entitat va ser el motor a l'ombra de la Crida a la Solidaritat i el 'Som una Nació' del Camp Nou, com va portar la causa catalana a Europa i a la UNESCO, com va impulsar la Declaració Universal dels Drets Lingüístics i la solidaritat amb els pobles d'arreu, i com va ser el bressol de la Plataforma pel Dret de Decidir, llavor de l'1 d'Octubre del 2017. Un retrat coral d'Argemí –l'ànima intel·lectual, el mestre, l'home dels acudits– i una manera de fer país: discreta, internacionalista i tossuda. Perquè els mapes oficials continuen amagant nacions i sempre hi haurà qui s'entesti a dibuixar-ne de noves.</desc>
-    <length units="seconds">2260</length>
-    <episode-num system="onscreen">1</episode-num>
-    <category lang="ca">ACTUALITAT</category>
-    <category lang="ca">DOCUMENTAL</category>
+  <programme start="20261005020638 +0200" stop="20261005025052 +0200" channel="c33">
+    <title lang="ca">Arxipèlag blau</title>
+    <sub-title lang="ca">Mar pelágica</sub-title>
+    <desc lang="ca">Ens endinsarem a la mar oberta, un univers desconegut i misteriós, on habiten des del microscòpic plàncton fins als grans mamífers marins. Enmig de la mar, la costa és lluny i el fons és gairebé inabastable. Una immensitat que és la llar sense fronteres de grans mamífers marins, intel·ligents i gregaris, com alguns dofins o els caps d'olla. Però cap d'aquests animals podria viure si no existissin uns organismes gairebé invisibles: el plàncton. Més de la meitat de l'oxigen que respirem prové d'uns minúsculs organismes que viuen a la deriva a mars i oceans: és el plàncton vegetal o fitoplàncton. A la mar és la base de la cadena alimentària marina i fa possible que es desenvolupi la resta de diversitat marina.</desc>
+    <length units="seconds">2654</length>
+    <episode-num system="onscreen">3</episode-num>
+    <category lang="ca">DIVULGACIÓ</category>
+    <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
-    <icon src="https://img.3cat.cat/multimedia/jpg/3/6/1785239151163.jpg"/>
   </programme>
   <channel id="oca1">
     <display-name>OCA1</display-name>
@@ -149,19 +154,6 @@
   <channel id="oca2">
     <display-name>OCA2</display-name>
   </channel>
-  <programme start="20261004194514 +0200" stop="20261004234514 +0200" channel="oca2">
-    <title lang="ca">Diades Castelleres Especials</title>
-    <sub-title lang="ca">- Concurs de Castells de Tarragona 2026 - Jornada de diumenge (part 2)</sub-title>
-    <desc lang="ca">Màximes expectatives al Concurs de Castells de Tarragona en una nova cita biennal, el primer cap de setmana d'octubre. L'única diada castellera en format competitiu que arriba en una temporada de bogeria en què de bon començament ja s'han aixecat estructures de gamma alta i hi han sovintejat els castells de 10. La jornada més espectacular, la de diumenge a la Tarraco Arena, on competeixen les 12 millors colles, amb els verds de Vilafranca; la Vella i la Jove dels Xiquets de Valls, i la colla Jove dels Xiquets de Tarragona com a grans favorites. Un concurs molt renyit on les colles estan preparades per donar-ho tot. S'aixecaran castells mai vistos fins ara? Quines estratègies es desplegaran a plaça? L'emoció castellera està servida. La retransmissió del Concurs de Castells de Tarragona és una producció de La Xarxa i TAC12</desc>
-    <length units="seconds">14400</length>
-    <episode-num system="onscreen">91</episode-num>
-    <category lang="ca">DIVULGACIÓ</category>
-    <category lang="ca">MAGAZINE ESPECIALITZAT</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <icon src="https://img.3cat.cat/multimedia/jpg/7/1/1790689831717.jpg"/>
-  </programme>
   <channel id="oca3">
     <display-name>OCA3</display-name>
   </channel>
