@@ -3,41 +3,47 @@
   <channel id="tvi">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20261004192530 +0200" stop="20261004201533 +0200" channel="tvi">
-    <title lang="ca">Temps de silenci</title>
-    <sub-title lang="ca">TEATRE</sub-title>
-    <desc lang="ca">Hi haurà una representació teatral a la plaça, a càrrec dels veïns. Retrobaments esperats i inesperats... La Isabel i en Ramon, junts a l'escenari...En Xavier confirma que es tracta d'un noi conflictiu.</desc>
-    <length units="seconds">3003</length>
-    <episode-num system="onscreen">15</episode-num>
-    <category lang="ca">FICCIÓ</category>
-    <category lang="ca">SÈRIE DRAMÀTICA</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <subtitles type="teletext"/>
-    <previously-shown/>
-  </programme>
-  <channel id="324">
-    <display-name>324</display-name>
-  </channel>
-  <programme start="20261004183000 +0200" stop="20261004200000 +0200" channel="324">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">5400</length>
-    <episode-num system="onscreen">11344</episode-num>
+  <programme start="20261004210000 +0200" stop="20261004215944 +0200" channel="tvi">
+    <title lang="ca">Telenotícies vespre</title>
+    <length units="seconds">3584</length>
+    <episode-num system="onscreen">7347</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <subtitles type="teletext"/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/7/2/1758026176427.jpg"/>
   </programme>
-  <programme start="20261004200000 +0200" stop="20261004210000 +0200" channel="324">
+  <programme start="20261004215944 +0200" stop="20261004232239 +0200" channel="tvi">
+    <title lang="ca">Vèrtex</title>
+    <desc lang="ca">Hi ha notícies que només s'entenen quan s'observen des de diferents perspectives. Amb aquesta premissa neix 'Vèrtex', el nou programa d'actualitat setmanal que converteix la complexitat dels grans temes en una conversa rigorosa, visual i propera. El programa ofereix una mirada transversal dels assumptes que han marcat la setmana i dels que definiran la que està a punt de començar.</desc>
+    <length units="seconds">4975</length>
+    <episode-num system="onscreen">2</episode-num>
+    <category lang="ca">DIVULGACIÓ</category>
+    <category lang="ca">ENTREVISTES</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+  </programme>
+  <channel id="324">
+    <display-name>324</display-name>
+  </channel>
+  <programme start="20261004210000 +0200" stop="20261004230000 +0200" channel="324">
+    <title lang="ca">Telenotícies vespre</title>
+    <length units="seconds">7200</length>
+    <episode-num system="onscreen">7347</episode-num>
+    <category lang="ca">ACTUALITAT</category>
+    <category lang="ca">INFORMATIU DIÀRI</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <icon src="https://img.ccma.cat/multimedia/jpg/7/2/1758026176427.jpg"/>
+  </programme>
+  <programme start="20261004230000 +0200" stop="20261005003000 +0200" channel="324">
     <title lang="ca">Notícies 3CatInfo</title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">3600</length>
-    <episode-num system="onscreen">11345</episode-num>
+    <length units="seconds">5400</length>
+    <episode-num system="onscreen">11346</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
@@ -49,55 +55,54 @@
   <channel id="esport3">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20261004190000 +0200" stop="20261004194538 +0200" channel="esport3">
-    <title lang="ca">Motor a fons</title>
-    <sub-title lang="ca">GP del Japó</sub-title>
-    <desc lang="ca">Setzena prova del Campionat del Món de motociclisme. Us oferim el més destacat a les curses de MotoGP, Moto2 i Moto3. Amb Xavier Guillén, i l'anàlisi de Montse Sogues i Ramon Forcada.</desc>
-    <length units="seconds">2738</length>
-    <episode-num system="onscreen">957</episode-num>
+  <programme start="20261004220639 +0200" stop="20261004223156 +0200" channel="esport3">
+    <title lang="ca">Espòiler</title>
+    <desc lang="ca">'Espòiler' és un programa dedicat al món dels cotxes i del caravàning, un espai on hi té cabuda tot el que té a veure amb aquests vehicles a motor. Descobrim les novetats del sector, amb models que s'acaben d'estrenar, test drives, una secció d'electromobilitat i també les millors autocaravanes del moment.Mercè Rivas, Sergio Domínguez, Oriol Llardén i Telva Somoza són els encarregats de posar a prova els automòbils i transmetre les seves sensacions. Dani Blasco capitaneja la secció 'Contravolant', on us sorprèn amb històries extraordinàries i divertides. El programa també té un espai anomenat 'Al volant amb...', en què cada setmana un famós ajuda Carles Llinars, instructor del Circuit Escola del RACC, a explicar un consell de conducció.'Espòiler' és una producció de Televisió de Catalunya amb la col·laboració de Drive Media i la realització de HolyCars Studio.</desc>
+    <length units="seconds">1517</length>
+    <episode-num system="onscreen">61</episode-num>
     <category lang="ca">ESPORTS</category>
-    <category lang="ca">MAGAZINE</category>
+    <category lang="ca">REPORTATGES</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <icon src="https://img.ccma.cat/multimedia/jpg/5/7/1678886130275.jpg"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/1/0/1698433593401.jpg"/>
   </programme>
-  <programme start="20261004194538 +0200" stop="20261004205000 +0200" channel="esport3">
-    <title lang="ca">Hípica</title>
-    <sub-title lang="ca">Lliga de les Nacions / CSIO / 2a mànega</sub-title>
-    <desc lang="ca">El Reial Club de Polo de Barcelona és l'escenari de la competició per equips a la Lliga de les Nacions del Concurs de Salts Internacional Oficial. </desc>
-    <length units="seconds">3862</length>
-    <episode-num system="onscreen">8138</episode-num>
+  <programme start="20261004223156 +0200" stop="20261004230000 +0200" channel="esport3">
+    <title lang="ca">WRC</title>
+    <sub-title lang="ca">Ral·li d'Itàlia-Sardenya / WRC 2026 / J3</sub-title>
+    <desc lang="ca">13a i última prova del Mundial amb el títol de campió en joc. El Ral·li de Sardenya, amb seu a la població de l'Alguer, té un total de 307 quilòmetres cronometrats en 17 trams de carreteres sobre terra. Us oferim el desenllaç de la cursa italiana i el Campionat del Món.</desc>
+    <length units="seconds">1684</length>
+    <episode-num system="onscreen">259</episode-num>
     <category lang="ca">ESPORTS</category>
     <category lang="ca">RETRANSMISSIONS ESPORTS</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <previously-shown/>
-    <icon src="https://img.3cat.cat/multimedia/jpg/3/6/1790764872063.jpg"/>
+    <icon src="https://img.3cat.cat/multimedia/jpg/1/7/1783953384771.jpg"/>
   </programme>
   <channel id="sx3">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20261004194219 +0200" stop="20261004195035 +0200" channel="sx3">
-    <title lang="ca">El xai Shaun</title>
-    <sub-title lang="ca">La garsa</sub-title>
-    <desc lang="ca">Una garsa ha decidit fer el niu a l'arbre gran que hi ha a la granja i no para de pispar tot el que troba. Els saquejos del nouvingut comencen a preocupar tothom, i el niu ben aviat es converteix en una mena de tresor digne del pirata més espavilat dels Set Cels! En Shaun s'haurà d'empescar algun pla per engalipar aquest rapinyaire, abans que els deixi sense res!</desc>
-    <length units="seconds">496</length>
-    <episode-num system="onscreen">71</episode-num>
+  <programme start="20261004222312 +0200" stop="20261004223347 +0200" channel="sx3">
+    <title lang="ca">Les filles del Dad</title>
+    <sub-title lang="ca">Malalta de gelosia</sub-title>
+    <desc lang="ca">És dissabte i tant la Roxane com l'Ondine tenien plans per passar el dia en companyia del Dad, una anant a veure un partit de bàsquet i l'altra anant de compres al centre comercial. Però vet aquí que la Panda està malalta i el Dad es veu obligat a quedar-se a casa per ocupar-se'n. Geloses de no poder tenir les atencions del pare, les dues germanes es faran passar per malaltes.</desc>
+    <length units="seconds">635</length>
+    <episode-num system="onscreen">12</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
       <value>INFANTIL</value>
     </rating>
+    <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20261004195035 +0200" stop="20261004201344 +0200" channel="sx3">
-    <title lang="ca">El detectiu Conan</title>
-    <sub-title lang="ca">El culpable que desapareix a la ciutat dorment</sub-title>
-    <desc lang="ca">La Ran, en Kogoro i en Conan tornen de nit cap a casa. El soroll d'un xiulet els alerta de la presència d'un guàrdia de seguretat que està greument ferit, i que mor al cap de poc. A poca distància troben un altre home que ha mort apunyalat. Les petjades fan pensar en l'existència d'un culpable X.</desc>
-    <length units="seconds">1389</length>
-    <episode-num system="onscreen">1147</episode-num>
+  <programme start="20261004223347 +0200" stop="20261004224433 +0200" channel="sx3">
+    <title lang="ca">La tropa del corral</title>
+    <sub-title lang="ca">Gnom hi ha cap lloc com a casa</sub-title>
+    <desc lang="ca">L'Albert truca la Tropa: l'han d'ajudar, el persegueix un gnom de jardí! Els nostres herois li intenten demostrar que només és una estàtua però, sense voler, l'acaben convencent que és ben real i ara està més espantat que mai.</desc>
+    <length units="seconds">646</length>
+    <episode-num system="onscreen">47</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
@@ -109,33 +114,34 @@
   <channel id="c33">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20261004193020 +0200" stop="20261004205940 +0200" channel="c33">
-    <title lang="ca">Eugenio</title>
-    <sub-title lang="ca">Eugenio</sub-title>
-    <desc lang="ca">'EUGENIO' (2018), una producció de REC Videoproduccions, en coproducció amb TVE i Televisió de Catalunya, amb la col·laboració del Departament de Cultura de la Generalitat de Catalunya.Milions de persones de diverses generacions van riure amb els seus acudits. Tenia classe, un estil únic i una gran popularitat. No obstant, la mort prematura de la seva dona Conchita, peça clau en el seu èxit professional, va ser el punt d'inflexió que va marcar la seva vida. Es va apoderar d'ell una tristesa que el va portar a una espiral autodestructiva de la qual no va saber escapar. Dues dècades després de la seva mort, per primer cop, la seva família i els amics expliquen com va ser la vida d'Eugenio.Direcció: Xavier Baig i Jordi RoviraGuió: Òscar Moreno i Jordi RoviraRealització, fotografia i muntatge: Xavier BaigProductor: Xavier Baig i Òscar MorenoProductor executiu TVC: Jordi AmbròsProductor delegat TVC: Elisa PlazaLingüista: Dolors SenserrichGrafisme: Xavier Dávila</desc>
-    <credits>
-      <director>Xavier Baig</director>
-      <director>Jordi Rovira</director>
-      <writer>Òscar Moreno</writer>
-      <writer>Jordi RoviraRealització</writer>
-      <writer>fotografia</writer>
-      <writer>muntatge: Xavier Baig</writer>
-    </credits>
-    <length units="seconds">5360</length>
+  <programme start="20261004220037 +0200" stop="20261004233756 +0200" channel="c33">
+    <title lang="ca">Pel.lícula</title>
+    <sub-title lang="ca">Pau, la força d'un silenci</sub-title>
+    <desc lang="ca">Pau, la força d'un silenciProductores :Televisió de Catalunya, Minoria Absoluta i Euskal Telebista amb el suport d'Institut Català de les Empreses Culturals. 2017Director : Manuel HuergaProductor : Francesc EscribanoProductora executiva TVC : Elisa PlazaGuió : Jordi Vallejo i Maria JaénDirector fotografia : Mario MonteroComposició musical : Xavi CapellasIntèrprets : Joan Pera( Pau Casals), Nao Albet (Pierre Fermat), Carme Sansa ( Frasquita Capdevila), Marc Cartes (Schneider), Albert Pérez (Antoine Giraud), Joan Carreras (Heimlich), Josean Bengoetxea (MIkel), David Bagès (Enric Casals), Manel Dueso ( Doctor Puig)Sinopsi :Exiliat a Prada de Conflent, Pau Casals, considerat el millor intèrpret del moment, ha decidit no tocar més en públic fins que la dictadura de Franco no caigui. Pierre, un jove francès a qui el mestre fa classes, intentarà convèncer-lo que faci un concert extraordinari que pot convertir-se en un homenatge a la llibertat.</desc>
+    <length units="seconds">5839</length>
     <episode-num system="onscreen">1</episode-num>
-    <category lang="ca">DIVULGACIÓ</category>
-    <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
+    <category lang="ca">FICCIÓ</category>
+    <category lang="ca">PEL·LÍCULA / TELEFILM</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/3/3/1579190261433.jpg"/>
   </programme>
-  <programme start="20261004205940 +0200" stop="20261004210116 +0200" channel="c33">
-    <title lang="ca">SENSE FI CANAL 33</title>
-    <desc lang="ca">Sense Descripció</desc>
-    <length units="seconds">96</length>
+  <programme start="20261004233756 +0200" stop="20261005001536 +0200" channel="c33">
+    <title lang="ca">Les nacions prohibides. Ciemen</title>
+    <sub-title lang="ca">Les nacions prohibides. Ciemen</sub-title>
+    <desc lang="ca">A l'escola aprenem que el món es divideix en països, separats per fronteres que semblen òbvies. Però moltes d'aquelles ratlles són arbitràries, i sota el mapa oficial bateguen realitats diferents: llengües, cultures i nacions soterrades. Les nacions prohibides és la història dels qui s'han dedicat a fer-les visibles. Al centre del relat hi ha el CIEMEN –Centre Internacional Escarré per a les Minories Ètniques i les Nacions&amp;mdash; i el seu fundador, Aureli Argemí. Fundat a Milà el 1974, a l'exili, el CIEMEN va voler defensar la identitat catalana i connectar-la, alhora, amb totes les nacions sense estat i les llengües minoritzades del món. A través de les veus de Jordi Sànchez, Carles Riera, David Minoves, Mònica Sabata, Anne Degenève i Omaira Beltran, el documental ressegueix de quina manera aquesta entitat va ser el motor a l'ombra de la Crida a la Solidaritat i el 'Som una Nació' del Camp Nou, com va portar la causa catalana a Europa i a la UNESCO, com va impulsar la Declaració Universal dels Drets Lingüístics i la solidaritat amb els pobles d'arreu, i com va ser el bressol de la Plataforma pel Dret de Decidir, llavor de l'1 d'Octubre del 2017. Un retrat coral d'Argemí –l'ànima intel·lectual, el mestre, l'home dels acudits– i una manera de fer país: discreta, internacionalista i tossuda. Perquè els mapes oficials continuen amagant nacions i sempre hi haurà qui s'entesti a dibuixar-ne de noves.</desc>
+    <length units="seconds">2260</length>
+    <episode-num system="onscreen">1</episode-num>
+    <category lang="ca">ACTUALITAT</category>
+    <category lang="ca">DOCUMENTAL</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <subtitles type="teletext"/>
+    <previously-shown/>
+    <icon src="https://img.3cat.cat/multimedia/jpg/3/6/1785239151163.jpg"/>
   </programme>
   <channel id="oca1">
     <display-name>OCA1</display-name>
@@ -143,12 +149,12 @@
   <channel id="oca2">
     <display-name>OCA2</display-name>
   </channel>
-  <programme start="20261004160144 +0200" stop="20261004210500 +0200" channel="oca2">
+  <programme start="20261004194514 +0200" stop="20261004234514 +0200" channel="oca2">
     <title lang="ca">Diades Castelleres Especials</title>
-    <sub-title lang="ca">- Concurs de Castells de Tarragona 2026 - Jornada de diumenge (part 1)</sub-title>
+    <sub-title lang="ca">- Concurs de Castells de Tarragona 2026 - Jornada de diumenge (part 2)</sub-title>
     <desc lang="ca">Màximes expectatives al Concurs de Castells de Tarragona en una nova cita biennal, el primer cap de setmana d'octubre. L'única diada castellera en format competitiu que arriba en una temporada de bogeria en què de bon començament ja s'han aixecat estructures de gamma alta i hi han sovintejat els castells de 10. La jornada més espectacular, la de diumenge a la Tarraco Arena, on competeixen les 12 millors colles, amb els verds de Vilafranca; la Vella i la Jove dels Xiquets de Valls, i la colla Jove dels Xiquets de Tarragona com a grans favorites. Un concurs molt renyit on les colles estan preparades per donar-ho tot. S'aixecaran castells mai vistos fins ara? Quines estratègies es desplegaran a plaça? L'emoció castellera està servida. La retransmissió del Concurs de Castells de Tarragona és una producció de La Xarxa i TAC12</desc>
-    <length units="seconds">18196</length>
-    <episode-num system="onscreen">90</episode-num>
+    <length units="seconds">14400</length>
+    <episode-num system="onscreen">91</episode-num>
     <category lang="ca">DIVULGACIÓ</category>
     <category lang="ca">MAGAZINE ESPECIALITZAT</category>
     <rating>
@@ -159,17 +165,6 @@
   <channel id="oca3">
     <display-name>OCA3</display-name>
   </channel>
-  <programme start="20261004165158 +0200" stop="20261004214500 +0200" channel="oca3">
-    <title lang="ca">Radar meteorològic: segueix l'evolució de les tempestes</title>
-    <length units="seconds">17582</length>
-    <episode-num system="onscreen">4151</episode-num>
-    <category lang="ca">ACTUALITAT</category>
-    <category lang="ca">RETRANSMISSIONS ACTUALITAT</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <icon src="https://img.3cat.cat/multimedia/jpg/0/0/1791048300700.jpg"/>
-  </programme>
   <channel id="oca4">
     <display-name>OCA4</display-name>
   </channel>
