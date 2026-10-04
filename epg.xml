@@ -3,10 +3,10 @@
   <channel id="tvi">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20261003231420 +0200" stop="20261004004353 +0200" channel="tvi">
+  <programme start="20261004002527 +0200" stop="20261004060000 +0200" channel="tvi">
     <title lang="ca">Notícies 3CatInfo</title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">5373</length>
+    <length units="seconds">20073</length>
     <episode-num system="onscreen">11339</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
@@ -16,11 +16,11 @@
     <previously-shown/>
     <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
-  <programme start="20261004004353 +0200" stop="20261004060000 +0200" channel="tvi">
+  <programme start="20261004060000 +0200" stop="20261004090000 +0200" channel="tvi">
     <title lang="ca">Notícies 3CatInfo</title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">18967</length>
-    <episode-num system="onscreen">11339</episode-num>
+    <length units="seconds">10800</length>
+    <episode-num system="onscreen">11340</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
@@ -32,24 +32,24 @@
   <channel id="324">
     <display-name>324</display-name>
   </channel>
-  <programme start="20261003230000 +0200" stop="20261004003000 +0200" channel="324">
+  <programme start="20261004010000 +0200" stop="20261004060000 +0200" channel="324">
     <title lang="ca">Notícies 3CatInfo</title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">5400</length>
-    <episode-num system="onscreen">11338</episode-num>
+    <length units="seconds">18000</length>
+    <episode-num system="onscreen">11339</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <subtitles type="teletext"/>
+    <previously-shown/>
     <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
-  <programme start="20261004003000 +0200" stop="20261004010000 +0200" channel="324">
+  <programme start="20261004060000 +0200" stop="20261004090000 +0200" channel="324">
     <title lang="ca">Notícies 3CatInfo</title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">1800</length>
-    <episode-num system="onscreen">11339</episode-num>
+    <length units="seconds">10800</length>
+    <episode-num system="onscreen">11340</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
@@ -60,11 +60,11 @@
   <channel id="esport3">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20261003231420 +0200" stop="20261004002527 +0200" channel="esport3">
+  <programme start="20261004005657 +0200" stop="20261004060000 +0200" channel="esport3">
     <title lang="ca">Notícies 3CatInfo</title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">4267</length>
-    <episode-num system="onscreen">11338</episode-num>
+    <length units="seconds">18183</length>
+    <episode-num system="onscreen">11339</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
@@ -73,11 +73,11 @@
     <subtitles type="teletext"/>
     <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
-  <programme start="20261004002527 +0200" stop="20261004060000 +0200" channel="esport3">
+  <programme start="20261004060000 +0200" stop="20261004090000 +0200" channel="esport3">
     <title lang="ca">Notícies 3CatInfo</title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">20073</length>
-    <episode-num system="onscreen">11339</episode-num>
+    <length units="seconds">10800</length>
+    <episode-num system="onscreen">11340</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
@@ -89,12 +89,12 @@
   <channel id="sx3">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20261004002100 +0200" stop="20261004003119 +0200" channel="sx3">
-    <title lang="ca">La gateta Arc iris papallona unicorn</title>
-    <sub-title lang="ca">El monstre d'ulls verds</sub-title>
-    <desc lang="ca">La Felicity i el Miguel celebren l'aniversari de la seva amistat amb una excursió i el Miguel hi convida una nova amiga: una petita esquirol molt tímida. De seguida, però, la Felicity comença a sospitar que l'animaló no és tan inofensiu com sembla.</desc>
-    <length units="seconds">619</length>
-    <episode-num system="onscreen">17</episode-num>
+  <programme start="20261004034211 +0200" stop="20261004035211 +0200" channel="sx3">
+    <title lang="ca">Pop, la ciutat de paper</title>
+    <sub-title lang="ca">El gran agraïment</sub-title>
+    <desc lang="ca">En l'aventura poptàstica d'avui, els amics li fan una festa fantàstica a la Mà Amiga! Però, amb tantes coses per fer, la Phoebe sabrà treballar amb els seus amics per preparar-ho tot a temps?</desc>
+    <length units="seconds">600</length>
+    <episode-num system="onscreen">27</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
@@ -103,12 +103,12 @@
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20261004003119 +0200" stop="20261004004207 +0200" channel="sx3">
-    <title lang="ca">La gateta Arc iris papallona unicorn</title>
-    <sub-title lang="ca">Ningú és purrfecte</sub-title>
-    <desc lang="ca">La Felicity està obsessionada amb convertir-se en una gateta perfecta. Però, com més ho intenta, més malament li surt tot i més sapastre se sent, fins al punt que els poders li comencen a fallar. Els seus amics, amoïnats, ideen un pla per animar-la.</desc>
-    <length units="seconds">648</length>
-    <episode-num system="onscreen">18</episode-num>
+  <programme start="20261004035211 +0200" stop="20261004040216 +0200" channel="sx3">
+    <title lang="ca">Pop, la ciutat de paper</title>
+    <sub-title lang="ca">La pel·lícula d'en Zip</sub-title>
+    <desc lang="ca">A l'aventura poptàstica d'avui, els amics volen fer les seves pròpies pel·lícules, però a en Zip li costa pensar una idea. Podrà fer la pel·lícula a temps per la gran nit de cinema?</desc>
+    <length units="seconds">605</length>
+    <episode-num system="onscreen">28</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
@@ -120,11 +120,11 @@
   <channel id="c33">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20261003234327 +0200" stop="20261004003500 +0200" channel="c33">
-    <title lang="ca">60 minuts</title>
-    <sub-title lang="ca">11 de setembre, l'avís ignorat</sub-title>
-    <desc lang="ca">11 de setembre, l'advertiment ignorat és un documental de Nicolas Jallot que recupera la figura d'Ahmad Shah Massoud, el llegendari líder de la resistència afganesa conegut com el 'Lleó del Panjshir'. Assassinat per membres d'Al-Qaeda el 9 de setembre de 2001, dos dies abans dels atemptats contra els Estats Units, Massoud havia advertit mesos abans les capitals occidentals de l'amenaça creixent dels talibans, i els plans d'Ossama bin Laden. A través d'arxius, testimonis i una investigació històrica, la cinta mostra com els seus crits d'auxili van ser ignorats per Europa i els EUA, que tampoc van fer cas de l'advertiment de Massoud sobre el paper del Pakistan en el suport als talibans. El documental reflexiona sobre una oportunitat perduda que hauria pogut canviar el curs de la història recent.</desc>
-    <length units="seconds">3093</length>
+  <programme start="20261004033300 +0200" stop="20261004041900 +0200" channel="c33">
+    <title lang="ca">Arxipèlag blau</title>
+    <sub-title lang="ca">Praderies i arenals</sub-title>
+    <desc lang="ca">Miquel Salamanca ens presenta en aquest primer capítol de la sèrie 'Arxipèlag blau' dos dels ambients més característics de les nostres aigües: els arenals i els alguers, el que es coneix tradicionalment com 'el blanc' i 'el negre'. Ens endinsarem als alguers o praderies de posidònia per conèixer el cicle vital d'aquesta planta marina, les seves funcions ecològiques i les espècies que amaga entre les seves fulles. Ens sorprendrà descobrir com els arenals, en aparença extensions desèrtiques, són plens de vida, amb espècies que han desenvolupat complexos sistemes de camuflatge i defensa. Ferrasses, agulletes, serpetons, pedaços, pops i moltes altres criatures marines seran protagonistes d'aquest capítol. Per finalitzar acompanyarem Gàdor Muntaner a la seva visita a s'Espardell, a la reserva marina dels Freus d'Eivissa i Formentera.</desc>
+    <length units="seconds">2760</length>
     <episode-num system="onscreen">1</episode-num>
     <category lang="ca">DIVULGACIÓ</category>
     <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
@@ -134,20 +134,12 @@
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20261004003500 +0200" stop="20261004015200 +0200" channel="c33">
-    <title lang="ca">Perifèria</title>
-    <sub-title lang="ca">Perifèria</sub-title>
-    <desc lang="ca">'PERIFÈRIA' (2020). Una producció de Antivaho Cinematográfico S.L. en coproducció amb TV3 i la col·laboració de : Ajuntament de Santa Coloma de Gramenet, Ajuntament de Barcelona, AMB, Pla Estratègic Metropolità de Barcelona, Màster de Documental de Creació de la Universitat Pompeu Fabra, i el suport de l' ICAA.Perifèria és un viatge als ecos del passat de Santa Coloma de Gramenet, municipi proper a Barcelona. Els seus veïns van transformar el suburbi que els imposava l'especulació franquista en una ciutat digna. Aquest passat reverbera en el present dels seus carrers, places i rostres.Xavier Valls va ser l'arquitecte que elaborà el Pla Popular, una experiència pionera de participació ciutadana. El 1987, va ser assassinat per ETA a l'atemptat d'Hipercor. Els seus fills tornen al soterrani on va quedar sepultat el seu arxiu personal per recuperar aquella epopeia i, amb ella, la de tota una ciutat en lluita.Partint d'aquest descens a la memòria, Perifèria navega, a través d'una estructura en espiral, per diversos espais i personatges del present de la ciutat, convidant-nos a reflexionar sobre què sosté l'urbanisme d'una ciutat i l'arquitectura de les nostres formes de vida: què significa implicar-se en un món que no es deixa transformar a millor? Un cop més, les perifèries se'ns revelen com espais on assajar formes de vida genuïnes.Direcció: Xavi Esteban / Odei A.-EtxearteGuió: Odei A.-Etxearte, Xavi Esteban, Èrika Sánchez, Xavier VallsRealització i producció: Èrika SánchezProductor executiu TVC: Jordi AmbrósProductor delegat TVC: Daniel BareaDirector fotografia: Julián ElizaldeMuntatge: Xavi EstebanDirector de producció: Gemma ComasMúsica: Xavi Alías</desc>
-    <credits>
-      <director>Xavi Esteban / Odei A.-Etxearte</director>
-      <writer>Odei A.-Etxearte</writer>
-      <writer>Xavi Esteban</writer>
-      <writer>Èrika Sánchez</writer>
-      <writer>Xavier VallsRealització</writer>
-      <writer>producció: Èrika Sánchez</writer>
-    </credits>
-    <length units="seconds">4620</length>
-    <episode-num system="onscreen">1</episode-num>
+  <programme start="20261004041900 +0200" stop="20261004045900 +0200" channel="c33">
+    <title lang="ca">Arxipèlag blau</title>
+    <sub-title lang="ca">Albuferes i aigües somes</sub-title>
+    <desc lang="ca">En aquest capítol conduït per Miquel Salamanca seguirem el camí de l'aigua, des de la pluja, passant pels torrents i les zones humides, fins a la vorera de la mar. Ens detindrem a un peculiar ecosistema d'aigua dolça, a s'Albufera, on trobem espècies úniques i amenaçades per la salinització. Seguint el camí de l'anguila arribarem a la mar, on coneixerem les aigües somes, uns ambients litorals resguardats i de poca fondària, de gran importància com a refugi, zona de cria i de creixement dels exemplars juvenils de moltes espècies de peixos. Aquí trobem plantes marines com l'algueró, algues úniques al món i espècies tan peculiars com els serpetons i agulletes. Es tracta d'un ambient fràgil que ha patit molt les transformacions de les nostres costes. Per finalitzar acompanyarem Gàdor Muntaner per la badia de Fornells amb la biòloga Emma Cebrián.</desc>
+    <length units="seconds">2400</length>
+    <episode-num system="onscreen">2</episode-num>
     <category lang="ca">DIVULGACIÓ</category>
     <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
     <rating>
@@ -155,14 +147,13 @@
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
-    <icon src="https://img.3cat.cat/multimedia/jpg/7/6/1610701423467.jpg"/>
   </programme>
   <channel id="oca1">
     <display-name>OCA1</display-name>
   </channel>
-  <programme start="20261003195512 +0200" stop="20261003222503 +0200" channel="oca1">
+  <programme start="20261004030814 +0200" stop="20261004113400 +0200" channel="oca1">
     <title lang="ca">Radar meteorològic: segueix l'evolució de les tempestes</title>
-    <length units="seconds">8991</length>
+    <length units="seconds">30346</length>
     <episode-num system="onscreen">4147</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">RETRANSMISSIONS ACTUALITAT</category>
