@@ -3,51 +3,72 @@
   <channel id="tvi">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20261004090000 +0200" stop="20261004103545 +0200" channel="tvi">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">5745</length>
-    <episode-num system="onscreen">11341</episode-num>
+  <programme start="20261004143000 +0200" stop="20261004153635 +0200" channel="tvi">
+    <title lang="ca">Telenotícies migdia</title>
+    <length units="seconds">3995</length>
+    <episode-num system="onscreen">7348</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/5/4/1758025766345.jpg"/>
   </programme>
-  <programme start="20261004103545 +0200" stop="20261004115044 +0200" channel="tvi">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">4499</length>
-    <episode-num system="onscreen">11341</episode-num>
-    <category lang="ca">ACTUALITAT</category>
-    <category lang="ca">INFORMATIU DIÀRI</category>
+  <programme start="20261004153635 +0200" stop="20261004172009 +0200" channel="tvi">
+    <title lang="ca">Tarda de cine</title>
+    <sub-title lang="ca">Assassinat a Brocelianda</sub-title>
+    <desc lang="ca">ASSASSINAT A BROCELIANDA 'L'inconnu de Brocéliande'Direcció: Vincent GiovanniGuió: Virginie Brami, Yann Le GalProducció: TV5 Monde, Radio Télévision Suisse (RTS), BE-FILMS, CNC, Région Bretagne, Compagnie des Phares et Balises, France Télévisions, RTBF (Télévision Belge)Any: 2016Durada: 90País: FrançaMúsica: Hadrien BongueFotografia: Penélope PourriatIntèrprets: Claire Keim, Fred Bianconi, François Vincentelli, Carole Bianic, Stéphane Boucher, Yanis Richard, Féodor Atkine, Nadia Fossier, Francis Renaud, Anouck Montreuil, Vinciane Amilhon, Dominique Prie, Vanessa BeucherEn ple bosc de Brocelianda apareix un cadàver sense identificar parcialment cremat i un nen de tretze anys en estat de xoc incapaç de parlar. Què hi fa, allà? I per què no pot dir res? La seva presència està relacionada amb l'assassinat? La Marie Delorme i l'Eric Guillaumond, els dos gendarmes encarregats del cas, i un psiquiatre infantil poc convencional intenten aclarir el misteri.</desc>
+    <credits>
+      <director>Vincent</director>
+      <writer>Virginie Brami</writer>
+      <writer>Yann Le Gal</writer>
+      <actor>Claire Keim</actor>
+      <actor>Fred Bianconi</actor>
+      <actor>François Vincentelli</actor>
+      <actor>Carole Bianic</actor>
+      <actor>Stéphane Boucher</actor>
+      <actor>Yanis Richard</actor>
+      <actor>Féodor Atkine</actor>
+      <actor>Nadia Fossier</actor>
+      <actor>Francis Renaud</actor>
+      <actor>Anouck Montreuil</actor>
+      <actor>Vinciane Amilhon</actor>
+      <actor>Dominique Prie</actor>
+      <actor>Vanessa BeucherEn ple bosc de Brocelianda apareix un cadàver sense identificar parcialment cremat</actor>
+      <actor>un nen de tretze anys en estat de xoc incapaç de parlar. Què hi fa</actor>
+      <actor>allà? I per què no pot dir res? La seva presència està relacionada amb l'assassinat? La Marie Delorme</actor>
+      <actor>l'Eric Guillaumond</actor>
+      <actor>els dos gendarmes encarregats del cas</actor>
+      <actor>un psiquiatre infantil poc convencional intenten aclarir el misteri.</actor>
+    </credits>
+    <length units="seconds">6214</length>
+    <episode-num system="onscreen">1</episode-num>
+    <category lang="ca">FICCIÓ</category>
+    <category lang="ca">PEL·LÍCULA / TELEFILM</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
+    <previously-shown/>
   </programme>
   <channel id="324">
     <display-name>324</display-name>
   </channel>
-  <programme start="20261004090000 +0200" stop="20261004120000 +0200" channel="324">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">10800</length>
-    <episode-num system="onscreen">11341</episode-num>
+  <programme start="20261004143000 +0200" stop="20261004163000 +0200" channel="324">
+    <title lang="ca">Telenotícies migdia</title>
+    <length units="seconds">7200</length>
+    <episode-num system="onscreen">7348</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <subtitles type="teletext"/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/5/4/1758025766345.jpg"/>
   </programme>
-  <programme start="20261004120000 +0200" stop="20261004143000 +0200" channel="324">
+  <programme start="20261004163000 +0200" stop="20261004183000 +0200" channel="324">
     <title lang="ca">Notícies 3CatInfo</title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">9000</length>
-    <episode-num system="onscreen">11342</episode-num>
+    <length units="seconds">7200</length>
+    <episode-num system="onscreen">11343</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
@@ -59,42 +80,43 @@
   <channel id="esport3">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20261004090000 +0200" stop="20261004100000 +0200" channel="esport3">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">3600</length>
-    <episode-num system="onscreen">11341</episode-num>
-    <category lang="ca">ACTUALITAT</category>
+  <programme start="20261004142500 +0200" stop="20261004160802 +0200" channel="esport3">
+    <title lang="ca">Hípica</title>
+    <sub-title lang="ca">Lliga de les Nacions / CSIO / 2a mànega</sub-title>
+    <desc lang="ca">El Reial Club de Polo de Barcelona és l'escenari de la competició per equips a la Lliga de les Nacions del Concurs de Salts Internacional Oficial. </desc>
+    <length units="seconds">6182</length>
+    <episode-num system="onscreen">8138</episode-num>
+    <category lang="ca">ESPORTS</category>
+    <category lang="ca">RETRANSMISSIONS ESPORTS</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <icon src="https://img.3cat.cat/multimedia/jpg/3/6/1790764872063.jpg"/>
+  </programme>
+  <programme start="20261004160802 +0200" stop="20261004165500 +0200" channel="esport3">
+    <title lang="ca">Sala de Premsa</title>
+    <sub-title lang="ca">Pere Romeu / Prèvia Barça-R. Madrid / J6</sub-title>
+    <desc lang="ca">Esport3 t'ofereix les compareixences de dirigents, jugadors i entrenadors dels equips catalans davant els mitjans de comunicació.</desc>
+    <length units="seconds">2818</length>
+    <episode-num system="onscreen">733</episode-num>
+    <category lang="ca">ESPORTS</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
-  </programme>
-  <programme start="20261004100000 +0200" stop="20261004102750 +0200" channel="esport3">
-    <title lang="ca">E3</title>
-    <sub-title lang="ca">Matchday Champions Women J2</sub-title>
-    <desc lang="ca">Les milors imatges a la segona jornada de la gran competició europea femenina de futbol. El FC Barcelona ha visitat el camp de la Roma.</desc>
-    <length units="seconds">1670</length>
-    <episode-num system="onscreen">2388</episode-num>
-    <category lang="ca">ESPORTS</category>
-    <category lang="ca">REPORTATGES</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
     <previously-shown/>
-    <icon src="https://img.3cat.cat/multimedia/jpg/7/7/1765293437977.jpg"/>
+    <icon src="https://img.3cat.cat/multimedia/jpg/7/4/1778665728847.jpg"/>
   </programme>
   <channel id="sx3">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20261004091909 +0200" stop="20261004093224 +0200" channel="sx3">
-    <title lang="ca">La Patrulla Peluda</title>
-    <sub-title lang="ca">En Rocky se salva ell mateix</sub-title>
-    <desc lang="ca">En Rocky es queda atrapat en una illa plena de deixalles per culpa de l'alcalde Humdinger.</desc>
-    <length units="seconds">795</length>
-    <episode-num system="onscreen">214</episode-num>
+  <programme start="20261004151921 +0200" stop="20261004153051 +0200" channel="sx3">
+    <title lang="ca">Les Sisters</title>
+    <sub-title lang="ca">El noviet a casa</sub-title>
+    <desc lang="ca">Per unes reparacions que han de fer a casa seva, el Maxence passarà uns dies a casa de les Sisters i la Marine té por que s'hi quedi per sempre. La Marine explica a la Wendy que passar massa temps amb la parella no és bo per la relació i la convenç que s'allunyi del Maxence!</desc>
+    <length units="seconds">690</length>
+    <episode-num system="onscreen">156</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
@@ -103,12 +125,12 @@
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20261004093224 +0200" stop="20261004094257 +0200" channel="sx3">
-    <title lang="ca">La Patrulla Peluda</title>
-    <sub-title lang="ca">La Patrulla i el misteri de vehicle eruga sense conductor</sub-title>
-    <desc lang="ca">En Danny l'Audaç té un nou comandament a distància que pren el control del vehicle eruga de l'Everest i de tots els vehicles de Badia Aventures!</desc>
-    <length units="seconds">633</length>
-    <episode-num system="onscreen">215</episode-num>
+  <programme start="20261004153051 +0200" stop="20261004154158 +0200" channel="sx3">
+    <title lang="ca">Les Sisters</title>
+    <sub-title lang="ca">Adéu vacances!</sub-title>
+    <desc lang="ca">La Marine i la Wendy tenen grans plans per passar les vacances amb els seus amics, però els seus pares les volen enviar a casa l'avi i l'àvia. Ni parlar-ne! La parella de germanes decideix portar-se supermalament perquè els pares les castiguin sense anar a casa els avis. Finalment, però, les coses no surten com esperaven.</desc>
+    <length units="seconds">667</length>
+    <episode-num system="onscreen">1</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
@@ -120,27 +142,26 @@
   <channel id="c33">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20261004091927 +0200" stop="20261004095150 +0200" channel="c33">
-    <title lang="ca">GR Pirineus</title>
-    <sub-title lang="ca">De vall a vall</sub-title>
-    <desc lang="ca">Avui el nostre viatge comença a la Vall d'Aran i acaba a la Vall de Boí. Sortirem de Casau, el balcó de Vielha e Mijaran, i travessant el seu famós túnel farem un tram llarg de carretera passant per Senet de Barravés, Vilaller i després ens endinsarem de cap a la Vall de Boí. I què no podem deixar de fer aquí? sobretot descobrir el seu romànic, una meravella. I acabarem el dia a Erill la Vall, on coneixerem uns germans molt vinculats a la vaca bruna: amb un la pasturarem, i amb l'altre..., eeeh!, la tastarem. L'endemà matinarem per passejar pel Parc Nacional d'Aigüestortes i Estany de Sant Maurici. Anirem a Barruera per aprendre a tocar l'acordió diatònic... I tancarem la ruta anant de falles. A València no, a Durro! Una festa molt emblemàtica.</desc>
-    <length units="seconds">1943</length>
-    <episode-num system="onscreen">17</episode-num>
+  <programme start="20261004151054 +0200" stop="20261004153312 +0200" channel="c33">
+    <title lang="ca">Quèquicom</title>
+    <sub-title lang="ca">Transgènics a la carta</sub-title>
+    <desc lang="ca">'Quèquicom' sotmetrà a examen els aliments transgènics. El programa examinarà els pros i els contres d'aquests conreus i els seus possibles efectes sobre la salut humana. El blat de moro és l'única planta transgènica que té autorització per ser cultivada a Espanya, i molts pagesos la trien per la seva resistència a les malures. La reportera Anna Lasaga farà un viatge pels camps i els laboratoris on s'estudien aquestes plantes per treure l'aigua clara sobre què és un transgènic i quins efectes pot tenir sobre l'ambient i els sers humans. A més, Francesc Vilarroya, professor de biotecnologia de la Universitat de Barcelona, explicarà com processa el cos humà els productes transgènics per poder-los assimilar. I Pere Puigdomènec, director del laboratori CSIC- IRTA, creu que els transgènics són útils i considera excessius els tràmits que es necessiten per autoritzar que un nou transgènic surti al mercat.</desc>
+    <length units="seconds">1338</length>
+    <episode-num system="onscreen">93</episode-num>
     <category lang="ca">DIVULGACIÓ</category>
-    <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
+    <category lang="ca">MAGAZINE ESPECIALITZAT</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
-    <icon src="https://img.3cat.cat/multimedia/jpg/9/8/1736612891089.jpg"/>
   </programme>
-  <programme start="20261004095150 +0200" stop="20261004102222 +0200" channel="c33">
-    <title lang="ca">GR Pirineus</title>
-    <sub-title lang="ca">Pura energia</sub-title>
-    <desc lang="ca">Avui el nostre viatge transcorrerà pel Pallars Jussà, des de la Vall Fosca fins a Tremp!Començarem a la capçalera de la Vall, a l'estany de Sallente, on primer pujarem amb el telefèric per visitar l'estany Gento i després baixarem a l'interior de la Terra per descobrir la central hidroelèctrica més gran de Catalunya. A partir d'aquí creuarem la Vall per anar fins al seu límit, Senterada, on tastarem la girella, l'embotit típic del Pallars i hi farem nit.L'endemà matinarem per visitar la Pobla de Segur i Salàs, el poble de les botigues. Passarem per Talarn, on ens endinsarem de ple en el món del vi, i acabarem la ruta a la capital, Tremp.En total, uns 50 quilòmetres, repartits en 2 jornades, fets a peu, amb cotxe i amb telefèric... </desc>
-    <length units="seconds">1832</length>
-    <episode-num system="onscreen">18</episode-num>
+  <programme start="20261004153312 +0200" stop="20261004163104 +0200" channel="c33">
+    <title lang="ca">Un planeta perfecte</title>
+    <sub-title lang="ca">Humans</sub-title>
+    <desc lang="ca">L'activitat humana ha afectat la majoria dels hàbitats del planeta. En aquest episodi, 'la història més important del nostres temps' en paraules de David Attenborough, veiem com la nostra addicció als combustibles fòssils altera les forces de la natura. Però encara hi ha esperança: els projectes de recuperació de boscos i fauna, i d'aprofitament de l'energia van en la direcció correcta. Si ens ho proposem, encara estem a temps de salvar el nostre planeta perfecte.</desc>
+    <length units="seconds">3472</length>
+    <episode-num system="onscreen">5</episode-num>
     <category lang="ca">DIVULGACIÓ</category>
     <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
     <rating>
@@ -148,7 +169,7 @@
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
-    <icon src="https://img.3cat.cat/multimedia/jpg/9/8/1736612891089.jpg"/>
+    <icon src="https://img.3cat.cat/multimedia/jpg/0/9/1766143230590.jpg"/>
   </programme>
   <channel id="oca1">
     <display-name>OCA1</display-name>
@@ -156,17 +177,6 @@
   <channel id="oca2">
     <display-name>OCA2</display-name>
   </channel>
-  <programme start="20261004092500 +0200" stop="20261004102955 +0200" channel="oca2">
-    <title lang="ca">El govern actualitza l'alerta i les restriccions per les pluges torrencials</title>
-    <length units="seconds">3595</length>
-    <episode-num system="onscreen">4149</episode-num>
-    <category lang="ca">ACTUALITAT</category>
-    <category lang="ca">RETRANSMISSIONS ACTUALITAT</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <icon src="https://img.ccma.cat/multimedia/jpeg/1/6/1791092610461.jpeg"/>
-  </programme>
   <channel id="oca3">
     <display-name>OCA3</display-name>
   </channel>
