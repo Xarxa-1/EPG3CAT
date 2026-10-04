@@ -3,68 +3,67 @@
   <channel id="tvi">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20261004002527 +0200" stop="20261004060000 +0200" channel="tvi">
+  <programme start="20261004090000 +0200" stop="20261004103545 +0200" channel="tvi">
     <title lang="ca">Notícies 3CatInfo</title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">20073</length>
-    <episode-num system="onscreen">11339</episode-num>
+    <length units="seconds">5745</length>
+    <episode-num system="onscreen">11341</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <previously-shown/>
     <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
-  <programme start="20261004060000 +0200" stop="20261004090000 +0200" channel="tvi">
+  <programme start="20261004103545 +0200" stop="20261004115044 +0200" channel="tvi">
     <title lang="ca">Notícies 3CatInfo</title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">10800</length>
-    <episode-num system="onscreen">11340</episode-num>
+    <length units="seconds">4499</length>
+    <episode-num system="onscreen">11341</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <previously-shown/>
     <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
   <channel id="324">
     <display-name>324</display-name>
   </channel>
-  <programme start="20261004010000 +0200" stop="20261004060000 +0200" channel="324">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">18000</length>
-    <episode-num system="onscreen">11339</episode-num>
-    <category lang="ca">ACTUALITAT</category>
-    <category lang="ca">INFORMATIU DIÀRI</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <previously-shown/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
-  </programme>
-  <programme start="20261004060000 +0200" stop="20261004090000 +0200" channel="324">
+  <programme start="20261004090000 +0200" stop="20261004120000 +0200" channel="324">
     <title lang="ca">Notícies 3CatInfo</title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <length units="seconds">10800</length>
-    <episode-num system="onscreen">11340</episode-num>
+    <episode-num system="onscreen">11341</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
+    <subtitles type="teletext"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
+  </programme>
+  <programme start="20261004120000 +0200" stop="20261004143000 +0200" channel="324">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="seconds">9000</length>
+    <episode-num system="onscreen">11342</episode-num>
+    <category lang="ca">ACTUALITAT</category>
+    <category lang="ca">INFORMATIU DIÀRI</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <subtitles type="teletext"/>
     <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
   <channel id="esport3">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20261004005657 +0200" stop="20261004060000 +0200" channel="esport3">
+  <programme start="20261004090000 +0200" stop="20261004100000 +0200" channel="esport3">
     <title lang="ca">Notícies 3CatInfo</title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">18183</length>
-    <episode-num system="onscreen">11339</episode-num>
+    <length units="seconds">3600</length>
+    <episode-num system="onscreen">11341</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
@@ -73,28 +72,29 @@
     <subtitles type="teletext"/>
     <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
-  <programme start="20261004060000 +0200" stop="20261004090000 +0200" channel="esport3">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">10800</length>
-    <episode-num system="onscreen">11340</episode-num>
-    <category lang="ca">ACTUALITAT</category>
-    <category lang="ca">INFORMATIU DIÀRI</category>
+  <programme start="20261004100000 +0200" stop="20261004102750 +0200" channel="esport3">
+    <title lang="ca">E3</title>
+    <sub-title lang="ca">Matchday Champions Women J2</sub-title>
+    <desc lang="ca">Les milors imatges a la segona jornada de la gran competició europea femenina de futbol. El FC Barcelona ha visitat el camp de la Roma.</desc>
+    <length units="seconds">1670</length>
+    <episode-num system="onscreen">2388</episode-num>
+    <category lang="ca">ESPORTS</category>
+    <category lang="ca">REPORTATGES</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <subtitles type="teletext"/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
+    <previously-shown/>
+    <icon src="https://img.3cat.cat/multimedia/jpg/7/7/1765293437977.jpg"/>
   </programme>
   <channel id="sx3">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20261004034211 +0200" stop="20261004035211 +0200" channel="sx3">
-    <title lang="ca">Pop, la ciutat de paper</title>
-    <sub-title lang="ca">El gran agraïment</sub-title>
-    <desc lang="ca">En l'aventura poptàstica d'avui, els amics li fan una festa fantàstica a la Mà Amiga! Però, amb tantes coses per fer, la Phoebe sabrà treballar amb els seus amics per preparar-ho tot a temps?</desc>
-    <length units="seconds">600</length>
-    <episode-num system="onscreen">27</episode-num>
+  <programme start="20261004091909 +0200" stop="20261004093224 +0200" channel="sx3">
+    <title lang="ca">La Patrulla Peluda</title>
+    <sub-title lang="ca">En Rocky se salva ell mateix</sub-title>
+    <desc lang="ca">En Rocky es queda atrapat en una illa plena de deixalles per culpa de l'alcalde Humdinger.</desc>
+    <length units="seconds">795</length>
+    <episode-num system="onscreen">214</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
@@ -103,12 +103,12 @@
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20261004035211 +0200" stop="20261004040216 +0200" channel="sx3">
-    <title lang="ca">Pop, la ciutat de paper</title>
-    <sub-title lang="ca">La pel·lícula d'en Zip</sub-title>
-    <desc lang="ca">A l'aventura poptàstica d'avui, els amics volen fer les seves pròpies pel·lícules, però a en Zip li costa pensar una idea. Podrà fer la pel·lícula a temps per la gran nit de cinema?</desc>
-    <length units="seconds">605</length>
-    <episode-num system="onscreen">28</episode-num>
+  <programme start="20261004093224 +0200" stop="20261004094257 +0200" channel="sx3">
+    <title lang="ca">La Patrulla Peluda</title>
+    <sub-title lang="ca">La Patrulla i el misteri de vehicle eruga sense conductor</sub-title>
+    <desc lang="ca">En Danny l'Audaç té un nou comandament a distància que pren el control del vehicle eruga de l'Everest i de tots els vehicles de Badia Aventures!</desc>
+    <length units="seconds">633</length>
+    <episode-num system="onscreen">215</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
@@ -120,12 +120,12 @@
   <channel id="c33">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20261004033300 +0200" stop="20261004041900 +0200" channel="c33">
-    <title lang="ca">Arxipèlag blau</title>
-    <sub-title lang="ca">Praderies i arenals</sub-title>
-    <desc lang="ca">Miquel Salamanca ens presenta en aquest primer capítol de la sèrie 'Arxipèlag blau' dos dels ambients més característics de les nostres aigües: els arenals i els alguers, el que es coneix tradicionalment com 'el blanc' i 'el negre'. Ens endinsarem als alguers o praderies de posidònia per conèixer el cicle vital d'aquesta planta marina, les seves funcions ecològiques i les espècies que amaga entre les seves fulles. Ens sorprendrà descobrir com els arenals, en aparença extensions desèrtiques, són plens de vida, amb espècies que han desenvolupat complexos sistemes de camuflatge i defensa. Ferrasses, agulletes, serpetons, pedaços, pops i moltes altres criatures marines seran protagonistes d'aquest capítol. Per finalitzar acompanyarem Gàdor Muntaner a la seva visita a s'Espardell, a la reserva marina dels Freus d'Eivissa i Formentera.</desc>
-    <length units="seconds">2760</length>
-    <episode-num system="onscreen">1</episode-num>
+  <programme start="20261004091927 +0200" stop="20261004095150 +0200" channel="c33">
+    <title lang="ca">GR Pirineus</title>
+    <sub-title lang="ca">De vall a vall</sub-title>
+    <desc lang="ca">Avui el nostre viatge comença a la Vall d'Aran i acaba a la Vall de Boí. Sortirem de Casau, el balcó de Vielha e Mijaran, i travessant el seu famós túnel farem un tram llarg de carretera passant per Senet de Barravés, Vilaller i després ens endinsarem de cap a la Vall de Boí. I què no podem deixar de fer aquí? sobretot descobrir el seu romànic, una meravella. I acabarem el dia a Erill la Vall, on coneixerem uns germans molt vinculats a la vaca bruna: amb un la pasturarem, i amb l'altre..., eeeh!, la tastarem. L'endemà matinarem per passejar pel Parc Nacional d'Aigüestortes i Estany de Sant Maurici. Anirem a Barruera per aprendre a tocar l'acordió diatònic... I tancarem la ruta anant de falles. A València no, a Durro! Una festa molt emblemàtica.</desc>
+    <length units="seconds">1943</length>
+    <episode-num system="onscreen">17</episode-num>
     <category lang="ca">DIVULGACIÓ</category>
     <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
     <rating>
@@ -133,13 +133,14 @@
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
+    <icon src="https://img.3cat.cat/multimedia/jpg/9/8/1736612891089.jpg"/>
   </programme>
-  <programme start="20261004041900 +0200" stop="20261004045900 +0200" channel="c33">
-    <title lang="ca">Arxipèlag blau</title>
-    <sub-title lang="ca">Albuferes i aigües somes</sub-title>
-    <desc lang="ca">En aquest capítol conduït per Miquel Salamanca seguirem el camí de l'aigua, des de la pluja, passant pels torrents i les zones humides, fins a la vorera de la mar. Ens detindrem a un peculiar ecosistema d'aigua dolça, a s'Albufera, on trobem espècies úniques i amenaçades per la salinització. Seguint el camí de l'anguila arribarem a la mar, on coneixerem les aigües somes, uns ambients litorals resguardats i de poca fondària, de gran importància com a refugi, zona de cria i de creixement dels exemplars juvenils de moltes espècies de peixos. Aquí trobem plantes marines com l'algueró, algues úniques al món i espècies tan peculiars com els serpetons i agulletes. Es tracta d'un ambient fràgil que ha patit molt les transformacions de les nostres costes. Per finalitzar acompanyarem Gàdor Muntaner per la badia de Fornells amb la biòloga Emma Cebrián.</desc>
-    <length units="seconds">2400</length>
-    <episode-num system="onscreen">2</episode-num>
+  <programme start="20261004095150 +0200" stop="20261004102222 +0200" channel="c33">
+    <title lang="ca">GR Pirineus</title>
+    <sub-title lang="ca">Pura energia</sub-title>
+    <desc lang="ca">Avui el nostre viatge transcorrerà pel Pallars Jussà, des de la Vall Fosca fins a Tremp!Començarem a la capçalera de la Vall, a l'estany de Sallente, on primer pujarem amb el telefèric per visitar l'estany Gento i després baixarem a l'interior de la Terra per descobrir la central hidroelèctrica més gran de Catalunya. A partir d'aquí creuarem la Vall per anar fins al seu límit, Senterada, on tastarem la girella, l'embotit típic del Pallars i hi farem nit.L'endemà matinarem per visitar la Pobla de Segur i Salàs, el poble de les botigues. Passarem per Talarn, on ens endinsarem de ple en el món del vi, i acabarem la ruta a la capital, Tremp.En total, uns 50 quilòmetres, repartits en 2 jornades, fets a peu, amb cotxe i amb telefèric... </desc>
+    <length units="seconds">1832</length>
+    <episode-num system="onscreen">18</episode-num>
     <category lang="ca">DIVULGACIÓ</category>
     <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
     <rating>
@@ -147,14 +148,32 @@
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
+    <icon src="https://img.3cat.cat/multimedia/jpg/9/8/1736612891089.jpg"/>
   </programme>
   <channel id="oca1">
     <display-name>OCA1</display-name>
   </channel>
-  <programme start="20261004030814 +0200" stop="20261004113400 +0200" channel="oca1">
+  <channel id="oca2">
+    <display-name>OCA2</display-name>
+  </channel>
+  <programme start="20261004092500 +0200" stop="20261004102955 +0200" channel="oca2">
+    <title lang="ca">El govern actualitza l'alerta i les restriccions per les pluges torrencials</title>
+    <length units="seconds">3595</length>
+    <episode-num system="onscreen">4149</episode-num>
+    <category lang="ca">ACTUALITAT</category>
+    <category lang="ca">RETRANSMISSIONS ACTUALITAT</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <icon src="https://img.ccma.cat/multimedia/jpeg/1/6/1791092610461.jpeg"/>
+  </programme>
+  <channel id="oca3">
+    <display-name>OCA3</display-name>
+  </channel>
+  <programme start="20261004060241 +0200" stop="20261004160000 +0200" channel="oca3">
     <title lang="ca">Radar meteorològic: segueix l'evolució de les tempestes</title>
-    <length units="seconds">30346</length>
-    <episode-num system="onscreen">4147</episode-num>
+    <length units="seconds">35839</length>
+    <episode-num system="onscreen">4148</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">RETRANSMISSIONS ACTUALITAT</category>
     <rating>
@@ -162,12 +181,6 @@
     </rating>
     <icon src="https://img.3cat.cat/multimedia/jpg/0/0/1791048300700.jpg"/>
   </programme>
-  <channel id="oca2">
-    <display-name>OCA2</display-name>
-  </channel>
-  <channel id="oca3">
-    <display-name>OCA3</display-name>
-  </channel>
   <channel id="oca4">
     <display-name>OCA4</display-name>
   </channel>
