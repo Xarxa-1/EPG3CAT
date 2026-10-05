@@ -3,18 +3,6 @@
   <channel id="tvi">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20261005002941 +0200" stop="20261005040000 +0200" channel="tvi">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">12619</length>
-    <episode-num system="onscreen">11347</episode-num>
-    <category lang="ca">ACTUALITAT</category>
-    <category lang="ca">INFORMATIU DIÀRI</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
-  </programme>
   <programme start="20261005040000 +0200" stop="20261005050000 +0200" channel="tvi">
     <title lang="ca">Blues a l'estudi</title>
     <sub-title lang="ca">David Philips</sub-title>
@@ -25,6 +13,19 @@
     <category lang="ca">ALTRES</category>
     <rating>
       <value>PÚBLIC ADULT</value>
+    </rating>
+    <previously-shown/>
+  </programme>
+  <programme start="20261005050000 +0200" stop="20261005055942 +0200" channel="tvi">
+    <title lang="ca">Jazz a l'estudi</title>
+    <sub-title lang="ca">Victor de Diego</sub-title>
+    <desc lang="ca">Durant el segle XX el jazz s'ha convertit en un llenguatge musical universal. Gèneres com el be bop, el blues o el swing han trencat fronteres geogràfiques i racials per esdevenir una música popular, que músics d'arreu del món han adaptat a la seva manera de fer. Jazz a l'estudi és un programa de seixanta minuts de durada dedicat al gènere musical jazzístic per on passen músics arrelats a Catalunya. Des d'aquest espai es proposa fer un cop d'ull al panorama del jazz i les seves variants al nostre país.I ho fa d'una manera diferent, perquè el programa ofereix la possibilitat de veure els artistes en un dels seus àmbits naturals: l'estudi de gravació on s'enregistren les sessions, com una instantània sonora, i on es couen les millors receptes musicals del jazz a Catalunya. </desc>
+    <length units="seconds">3582</length>
+    <episode-num system="onscreen">18</episode-num>
+    <category lang="ca">MUSICALS</category>
+    <category lang="ca">JAZZ</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
     </rating>
     <previously-shown/>
   </programme>
@@ -54,46 +55,48 @@
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
+    <subtitles type="teletext"/>
     <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
   <channel id="esport3">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20261005012845 +0200" stop="20261005015019 +0200" channel="esport3">
-    <title lang="ca">3CatInfo Esports</title>
-    <desc lang="ca">Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.</desc>
-    <length units="seconds">1294</length>
-    <episode-num system="onscreen">5528</episode-num>
+  <programme start="20261005040807 +0200" stop="20261005060322 +0200" channel="esport3">
+    <title lang="ca">Bàsquet</title>
+    <sub-title lang="ca">iLERNA Lleida-RS San Pablo Burgos / Lliga / J2</sub-title>
+    <desc lang="ca">Després de la gran victòria a València (100-105), en la 1a jornada, el conjunt de la Terra Ferma s'estrena a Barris Nord contra els castellans.</desc>
+    <length units="seconds">6915</length>
+    <episode-num system="onscreen">43</episode-num>
     <category lang="ca">ESPORTS</category>
-    <category lang="ca">INFORMATIU DIÀRI</category>
+    <category lang="ca">RETRANSMISSIONS ESPORTS</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <previously-shown/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/9/7/1758888682179.jpg"/>
+    <icon src="https://img.3cat.cat/multimedia/jpg/4/5/1769511199554.jpg"/>
   </programme>
-  <programme start="20261005015019 +0200" stop="20261005021658 +0200" channel="esport3">
+  <programme start="20261005060322 +0200" stop="20261005062955 +0200" channel="esport3">
     <title lang="ca">WRC</title>
     <sub-title lang="ca">Ral·li d'Itàlia-Sardenya / WRC 2026 / J3</sub-title>
     <desc lang="ca">13a i última prova del Mundial amb el títol de campió en joc. El Ral·li de Sardenya, amb seu a la població de l'Alguer, té un total de 307 quilòmetres cronometrats en 17 trams de carreteres sobre terra. Us oferim el desenllaç de la cursa italiana i el Campionat del Món.</desc>
-    <length units="seconds">1599</length>
+    <length units="seconds">1593</length>
     <episode-num system="onscreen">259</episode-num>
     <category lang="ca">ESPORTS</category>
     <category lang="ca">RETRANSMISSIONS ESPORTS</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
+    <previously-shown/>
     <icon src="https://img.3cat.cat/multimedia/jpg/1/7/1783953384771.jpg"/>
   </programme>
   <channel id="sx3">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20261005012428 +0200" stop="20261005014537 +0200" channel="sx3">
-    <title lang="ca">Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
-    <sub-title lang="ca">Vampigami</sub-title>
-    <desc lang="ca">A la Marinette li fa por que l'Adrien deixi d'estimar-la si no va al cine amb ell, i per això s'obliga a acompanyar-lo a veure una pel·lícula de terror, que és la pitjor fòbia de la Marinette. L'espera una sessió d'esgarrifances, angoixa i terror! Uh!</desc>
-    <length units="seconds">1269</length>
-    <episode-num system="onscreen">139</episode-num>
+  <programme start="20261005041441 +0200" stop="20261005042611 +0200" channel="sx3">
+    <title lang="ca">La família Teixó-Guineu</title>
+    <sub-title lang="ca">Malalt de mentida</sub-title>
+    <desc lang="ca">La família Teixó-Guineu està recollint les provisions per a l'hivern i ha de carretejar un munt de caixes. En Pinxo, quan veu que la Trufa agafa tos i l'Edmond l'envia al llit, decideix fer-se passar per malalt per ficar-se al llit i no haver de treballar. En vista de l'èxit que té, tots els seus germans intenten fer el mateix.</desc>
+    <length units="seconds">690</length>
+    <episode-num system="onscreen">22</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
@@ -102,12 +105,12 @@
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20261005014537 +0200" stop="20261005020739 +0200" channel="sx3">
-    <title lang="ca">Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
-    <sub-title lang="ca">El senyor Agreste</sub-title>
-    <desc lang="ca">L'Adrien ha de donar el seu vistiplau perquè erigeixin una estàtua en honor al seu pare, Gabriel Agreste, i a la Marinette cada vegada li costa més mantenir el secret que li amaga sobre el seu pare. I l'arribada d'un supermalvat que és com el seu vell enemic no l'ajudarà gens.</desc>
-    <length units="seconds">1322</length>
-    <episode-num system="onscreen">140</episode-num>
+  <programme start="20261005042611 +0200" stop="20261005043740 +0200" channel="sx3">
+    <title lang="ca">La família Teixó-Guineu</title>
+    <sub-title lang="ca">El riure d'en Martís</sub-title>
+    <desc lang="ca">En Martís té un riure molt curiós, que crida l'atenció dels seus amics i es riuen d'ell. Però en Martís no s'ho pren gens bé, i el que al principi semblava una broma divertida, acaba provocant problemes entre ells, i llavors en Martís decideix buscar-se uns altres amics.</desc>
+    <length units="seconds">689</length>
+    <episode-num system="onscreen">42</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
@@ -119,12 +122,12 @@
   <channel id="c33">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20261005010710 +0200" stop="20261005020638 +0200" channel="c33">
-    <title lang="ca">Pau Casals, l'home que va fer sentir el silenci</title>
-    <sub-title lang="ca">Pau Casals, l'home que va fer sentir el silenci</sub-title>
-    <desc lang="ca">'Pau Casals, l'home que va fer sentir el silenci' (2011), un documental de RBA Audiovisuales en coproducció amb TELEVISIÓ DE CATALUNYA i amb la col·laboració de Fundació Pau Casals, Memorial Democràtic i l'ICEC. Va fer sonar la música més sublim i la va fer callar allà on la pau, la justícia i la llibertat no eren respectades. La música no podia elevar els esperits mentre la gent patia, era humiliada o moria. Però, ¿podia potser donar una llum d'esperança, l'esperança que un món millor és possible?Pau Casals va ser un músic importantíssim, que ocupa un lloc molt destacat a la història de la música. Però també va ser un símbol perquè va encarnar com ningú i abans que tots la figura de l'artista compromès. Ho va fer fins al punt de sacrificar el seu art, de fer callar la música durant anys i fer sentir un silenci que va ser eloqüent com un clam de llibertat.Pau Casals va viure convençut que la música podia portar a un món millor, més fraternal i just. Un món nou que la realitat del segle més violent de la història va negar-li un cop i un altre. La lluita entre aquest ideal esperançat i aquesta realitat dolorosa va ser la vida de Pau Casals. En ella se centra aquest documental, fet amb la col·laboració de la Fundació Pau Casals, la participació directa de la viuda del mestre, Marta Casals Istomin, testimonis de grans músics i una detallada documentació que presenta materials poc coneguts dels arxius personals, alguns fins ara inèdits.Producció executiva: Jordi Sellas i Francisco Vargas EcheverríaProducció executiva TVC: Jordi Ambròs Producció: Susanna AlcorizaProducció delegada TVC: Ruth Llòria Direcció i guió: Jaume BoixAssessorament històric: Núria BallesterRealització: Miguel E. LópezDirecció de producció: Cristina BoschDirecció de fotografia: Raül FabregatMúsics: Eulàlia Subirà, Marina González, Bruna González, Minerva Comerma, Helena Castells, Gemma Dalmau, Clara Dalmau, Pere Puertas, Quim Puertas, Pau Codina, Jordi Claret i Fe</desc>
-    <length units="seconds">3568</length>
-    <episode-num system="onscreen">1</episode-num>
+  <programme start="20261005041209 +0200" stop="20261005044400 +0200" channel="c33">
+    <title lang="ca">Arxipèlag blau</title>
+    <sub-title lang="ca">Passat, present i futur</sub-title>
+    <desc lang="ca">El darrer capítol d''Arxipèlag blau' està dedicat als canvis que ha patit la nostra mar i a plantejar propostes per aturar la seva degradació, conservar les seves espècies i hàbitats. Miquel Salamanca ens presentarà el testimoni de pescadors que varen conèixer espècies avui desaparegudes, científics i experts que han estudiat els impactes al medi marí i plantegen propostes de recuperació. Enric Ballesteros, Xisco Riera, Lluís Cardona, Xisco Avellà, Miguel Ángel Mateo i Marta Sales ens parlaran de la desaparició dels taurons a les nostres aigües, dels impactes de l'activitat pesquera, la desaparició dels hàbitats d'aigües somes, l'extinció del vell marí, la introducció d'espècies invasores, l'alteració dels ecosistemes i l'amenaça global que suposa el canvi climàtic. Tot això amb una crida a l'esperança i la responsabilitat per aplicar mesures de conservació a la mar, les seves espècies i hàbitats i poder deixar així a les següents generacions el meravellós món marí del qual nosaltres hem pogut gaudir. La seva salut depèn de nosaltres i del que fem a partir d'ara.</desc>
+    <length units="seconds">1911</length>
+    <episode-num system="onscreen">6</episode-num>
     <category lang="ca">DIVULGACIÓ</category>
     <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
     <rating>
@@ -132,14 +135,13 @@
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
-    <icon src="https://img.3cat.cat/multimedia/jpg/2/8/1634806186282.jpg"/>
   </programme>
-  <programme start="20261005020638 +0200" stop="20261005025052 +0200" channel="c33">
-    <title lang="ca">Arxipèlag blau</title>
-    <sub-title lang="ca">Mar pelágica</sub-title>
-    <desc lang="ca">Ens endinsarem a la mar oberta, un univers desconegut i misteriós, on habiten des del microscòpic plàncton fins als grans mamífers marins. Enmig de la mar, la costa és lluny i el fons és gairebé inabastable. Una immensitat que és la llar sense fronteres de grans mamífers marins, intel·ligents i gregaris, com alguns dofins o els caps d'olla. Però cap d'aquests animals podria viure si no existissin uns organismes gairebé invisibles: el plàncton. Més de la meitat de l'oxigen que respirem prové d'uns minúsculs organismes que viuen a la deriva a mars i oceans: és el plàncton vegetal o fitoplàncton. A la mar és la base de la cadena alimentària marina i fa possible que es desenvolupi la resta de diversitat marina.</desc>
-    <length units="seconds">2654</length>
-    <episode-num system="onscreen">3</episode-num>
+  <programme start="20261005044400 +0200" stop="20261005045824 +0200" channel="c33">
+    <title lang="ca">Pastors i ramats: un món que se'n va</title>
+    <sub-title lang="ca">Familia Domènech</sub-title>
+    <desc lang="ca">'Pastors i ramats, un món que se'n va', és una sèrie de 15 capítols protagonitzada per pastors i pastores que, al llarg del nostre país, treuen a pasturar cada dia el seu ramat. Malgrat fer la mateixa feina, cada pastor és un món, una forma particular de relacionar-se amb el ramat, un mosaic de veus i gestos units per l'estimació pels animals. I també un conjunt de converses amb persones que són allà on volen ser, perseverant tossudament per continuar l'ofici malgrat totes les dificultats... Pastors i ramats... és la lluita silenciosa i plena de dignitat d'un món que se'n va.</desc>
+    <length units="seconds">864</length>
+    <episode-num system="onscreen">4</episode-num>
     <category lang="ca">DIVULGACIÓ</category>
     <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
     <rating>
