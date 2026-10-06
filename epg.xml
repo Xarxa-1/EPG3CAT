@@ -3,83 +3,84 @@
   <channel id="tvi">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20261006080008 +0200" stop="20261006103000 +0200" channel="tvi">
-    <title lang="ca">Matins</title>
-    <desc lang="ca">'Matins' és un dels puntals informatius de TV3. El programa matinal dona les claus del dia que comença, explica les notícies que han passat aportant-ne el context per entendre-les i analitza amb veus acreditades l'actualitat més propera i la d'arreu del món. 'Matins' comença a les 8 del matí, de dilluns a divendres, i està presentat per Ariadna Oltra.</desc>
-    <length units="seconds">8992</length>
-    <episode-num system="onscreen">4686</episode-num>
+  <programme start="20261006143000 +0200" stop="20261006152939 +0200" channel="tvi">
+    <title lang="ca">Telenotícies migdia</title>
+    <length units="seconds">3579</length>
+    <episode-num system="onscreen">7350</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <icon src="https://img.ccma.cat/multimedia/jpg/2/0/1758040151402.jpg"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/5/4/1758025766345.jpg"/>
   </programme>
-  <programme start="20261006103000 +0200" stop="20261006135500 +0200" channel="tvi">
-    <title lang="ca">Tot es mou</title>
-    <desc lang="ca">El programa presentat per Helena Garcia Melero s'emet de dilluns a divendres, de 10.30 a 13.55. Un magazín d'actualitat que busca informar, analitzar i debatre sobre temes que marquen l'actualitat social, econòmica i cultural del dia, amb una àmplia presència en directe dels reporters i reporteres, repartits per tot Catalunya. A més, el 'Tot es mou' compta amb seccions diàries de gastronomia (amb els principals cuiners i cuineres del país), successos, economia, mobilitat, temes mèdics i de tecnologia, entre d'altres.</desc>
-    <length units="seconds">12300</length>
-    <episode-num system="onscreen">1823</episode-num>
-    <category lang="ca">ACTUALITAT</category>
-    <category lang="ca">MAGAZINE</category>
+  <programme start="20261006152939 +0200" stop="20261006155238 +0200" channel="tvi">
+    <title lang="ca">Cuines</title>
+    <sub-title lang="ca">Filet rus de bolets</sub-title>
+    <desc lang="ca">De les hamburgueses abans se'n deien filets russos. Eren el mateix, però s'arrebossaven amb ou i farina i es passaven per la paella perquè fossin ben cruixents. Reprenem aquesta recepta i hi afegim una aroma de tardor.</desc>
+    <length units="seconds">1379</length>
+    <episode-num system="onscreen">2151</episode-num>
+    <category lang="ca">DIVULGACIÓ</category>
+    <category lang="ca">CUINA</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
+    <previously-shown/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/2/5/1653464509252.jpg"/>
   </programme>
   <channel id="324">
     <display-name>324</display-name>
   </channel>
-  <programme start="20261006080000 +0200" stop="20261006103000 +0200" channel="324">
-    <title lang="ca">Matins</title>
-    <desc lang="ca">'Matins' és un dels puntals informatius de TV3. El programa matinal dona les claus del dia que comença, explica les notícies que han passat aportant-ne el context per entendre-les i analitza amb veus acreditades l'actualitat més propera i la d'arreu del món. 'Matins' comença a les 8 del matí, de dilluns a divendres, i està presentat per Ariadna Oltra.</desc>
-    <length units="seconds">9000</length>
-    <episode-num system="onscreen">4686</episode-num>
+  <programme start="20261006143000 +0200" stop="20261006153000 +0200" channel="324">
+    <title lang="ca">Telenotícies migdia</title>
+    <length units="seconds">3600</length>
+    <episode-num system="onscreen">7350</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <icon src="https://img.ccma.cat/multimedia/jpg/2/0/1758040151402.jpg"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/5/4/1758025766345.jpg"/>
   </programme>
-  <programme start="20261006103000 +0200" stop="20261006123000 +0200" channel="324">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">7200</length>
-    <episode-num system="onscreen">11358</episode-num>
+  <programme start="20261006153000 +0200" stop="20261006160000 +0200" channel="324">
+    <title lang="ca">3CatInfo en aranès</title>
+    <desc lang="ca">Informatiu de continguts generalistes en llengua aranesa, presentat per Ares Riu, en emissió per a tot Catalunya.</desc>
+    <length units="seconds">1800</length>
+    <episode-num system="onscreen">2568</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
+    <icon src="https://img.ccma.cat/multimedia/png/5/8/1758125433085.png"/>
   </programme>
   <channel id="esport3">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20261006070625 +0200" stop="20261006083619 +0200" channel="esport3">
-    <title lang="ca">Onze</title>
-    <sub-title lang="ca">L'endemà de l'humiliació al clàssic femení; Mbappé en bici i 'El colegiado'</sub-title>
-    <desc lang="ca">Carles Fité, Aina Cerdà, Xavi Torres, Joan Poquí i Joaquín Maroto parlen del 7-0 al clàssic femení i de la polèmica publicació d'Mbappé enfilat a una bicicleta. En Joan Fàbregas repassa les jugades conflictives del cap de setmana.</desc>
-    <length units="seconds">5394</length>
-    <episode-num system="onscreen">1262</episode-num>
-    <category lang="ca">ESPORTS</category>
-    <category lang="ca">MAGAZINE</category>
+  <programme start="20261006150525 +0200" stop="20261006153630 +0200" channel="esport3">
+    <title lang="ca">GR Pirineus</title>
+    <sub-title lang="ca">Trens, mines i monestirs</sub-title>
+    <desc lang="ca">En aquesta nova ruta, Marc de las Heras anirà de Castellar de n'Hug fins a Sant Jaume de Frontanyà, a través d'un viatge per les entranyes del Berguedà. En total, uns 70 quilòmetres, repartits en dues jornades, fets a peu, en cotxe i en tren... Una recerca del tresor en tota regla!! En Marc encetarà la ruta aprenent a fer el dolç típic de Castellar de n'Hug: els croissants gegants. A partir d'aquí començarà un repte singular buscant tresors passant per la fàbrica Asland, el tren del ciment, els Jardins Artigas, la Pobla de Lillet, la mina de petroli de Riutort i el monestir de Guardiola de Berguedà... A continuació, a Sant Corneli, s'endinsarà en una mina per entendre com era la vida d'un miner. I acabarà la primera jornada passant per Cercs, el Pantà de la Baells i el Pont de Pedret... L'endemà, en Marc passejarà per Berga, la ciutat de la Patum, on va viure el polèmic trobador Guillem de Berguedà, que coneixerem de la mà d'un altre trobador, el Titot. Després, en Marc anirà a menjar bolets, però no com a plat principal..., sinó de postres! I finalment passarà per Vilada, Borredà i posarà fi a la ruta a Sant Jaume de Frontanyà.</desc>
+    <length units="seconds">1865</length>
+    <episode-num system="onscreen">11</episode-num>
+    <category lang="ca">DIVULGACIÓ</category>
+    <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/1/1/1688543515711.jpg"/>
+    <icon src="https://img.3cat.cat/multimedia/jpg/9/8/1736612891089.jpg"/>
   </programme>
-  <programme start="20261006083619 +0200" stop="20261006092117 +0200" channel="esport3">
-    <title lang="ca">Aire Lliure</title>
-    <sub-title lang="ca">La Vall de Boí, amb Silvia Bel</sub-title>
-    <desc lang="ca">La Vall de Boí ha fet un canvi radical en la seva economia de muntanya. Si fa trenta anys es basava en la ramaderia i l'agricultura, ara s'adapten al segle XXI afegint-hi el turisme esportiu. En aquest capítol comptarem amb la presència de l'actiu Silvia Bel, una enamorada de la Vall .</desc>
-    <length units="seconds">2698</length>
-    <episode-num system="onscreen">8</episode-num>
-    <category lang="ca">ESPORTS</category>
-    <category lang="ca">REPORTATGES</category>
+  <programme start="20261006153630 +0200" stop="20261006162921 +0200" channel="esport3">
+    <title lang="ca">Experiència Catalana</title>
+    <sub-title lang="ca">Puan</sub-title>
+    <desc lang="ca">La Putri Anindya, més coneguda com la 'Puan', és una jove indonèsia que, acompanyada de la Ivana Miño, descobreix la Sagrada Família, el Tibidabo i llocs magnífics del Berguedà. A més, a Berga, l'espera una experiència única; la Patum.</desc>
+    <length units="seconds">3171</length>
+    <episode-num system="onscreen">7</episode-num>
+    <category lang="ca">ENTRETENIMENT</category>
+    <category lang="ca">ALTRES</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
@@ -89,28 +90,28 @@
   <channel id="sx3">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20261006081740 +0200" stop="20261006082752 +0200" channel="sx3">
-    <title lang="ca">Titó</title>
-    <sub-title lang="ca">Excursió a l''A jugar!'</sub-title>
-    <desc lang="ca">Avui anem d'excursió a l''A jugar!'. Coneixerem els ninos de joguina dels Fa La La i en John C ens portarà una sorpresa increïble: voleu saber qui juga amb els ninots dels Fa La La? Voleu saber de qui són les mans que veiem? A l'excursió d'avui ho descobrirem!</desc>
-    <length units="seconds">612</length>
-    <episode-num system="onscreen">142</episode-num>
-    <category lang="ca">ENTRETENIMENT</category>
-    <category lang="ca">ALTRES</category>
+  <programme start="20261006151224 +0200" stop="20261006153256 +0200" channel="sx3">
+    <title lang="ca">Henry Danger</title>
+    <sub-title lang="ca">Un directe perillós, segona part</sub-title>
+    <desc lang="ca">Amb el pla de Frankini ja en marxa, els amics d'en Henry lluiten contra rellotge per evitar que tot se'n vagi en orris.</desc>
+    <length units="seconds">1232</length>
+    <episode-num system="onscreen">65</episode-num>
+    <category lang="ca">FICCIÓ</category>
+    <category lang="ca">SÈRIE DRAMÀTICA</category>
     <rating>
       <value>INFANTIL</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20261006082752 +0200" stop="20261006083750 +0200" channel="sx3">
-    <title lang="ca">Titó</title>
-    <sub-title lang="ca">Excursió a la tardor</sub-title>
-    <desc lang="ca">Avui anem d'excursió al bosc per celebrar que som a la tardor. Les fulles cauen dels arbres i n'hi ha de tots colors: groc, vermell, marró... En JohnC ens farà una 'Leaf Mandala'!</desc>
-    <length units="seconds">598</length>
-    <episode-num system="onscreen">99</episode-num>
-    <category lang="ca">ENTRETENIMENT</category>
-    <category lang="ca">ALTRES</category>
+  <programme start="20261006153256 +0200" stop="20261006155427 +0200" channel="sx3">
+    <title lang="ca">Henry Danger</title>
+    <sub-title lang="ca">Una peixnyata plena d'insectes mortífers</sub-title>
+    <desc lang="ca">El primer dia d'en Jasper treballant amb els seus amics es complica quan una peixnyata aparentment inofensiva acaba provocant una situació molt perillosa. </desc>
+    <length units="seconds">1291</length>
+    <episode-num system="onscreen">46</episode-num>
+    <category lang="ca">FICCIÓ</category>
+    <category lang="ca">SÈRIE DRAMÀTICA</category>
     <rating>
       <value>INFANTIL</value>
     </rating>
@@ -120,12 +121,12 @@
   <channel id="c33">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20261006082015 +0200" stop="20261006091747 +0200" channel="c33">
-    <title lang="ca">Cosins Germans</title>
-    <sub-title lang="ca">Terra de músics</sub-title>
-    <desc lang="ca">La música forma part de la nostra vida diària. Però poques vegades ens hem parat a pensar qui són els nostres músics, quin n'és l'origen i quina la seva funció social. Corals i bandes de música han estat responsables d'acostar la cultura al poble, a les classes humils. Creen identitat i promouen la socialització del seu entorn. Amb la Llucia Ramis com a companya de viatge, Ferran viurà un dia d'estrena al Liceu de Barcelona. Per Santa Cecília, patrona dels músics, acompanyarà una jove de Pego el dia que entra a la banda del poble. Visitaran un dels millors fabricants de trompetes a Xirivella, i descobriran la rivalitat centenària de dues de les millors bandes de música, les de Llíria.</desc>
-    <length units="seconds">3452</length>
-    <episode-num system="onscreen">17</episode-num>
+  <programme start="20261006145404 +0200" stop="20261006154140 +0200" channel="c33">
+    <title lang="ca">La Renaixença</title>
+    <sub-title lang="ca">L'ortodòncia</sub-title>
+    <desc lang="ca">Sabeu que l'ortodòncia es va inventar fa més de 9.000 anys i que els egipcis ja portaven filferros d'or per mantenir les dents al seu lloc? Doncs per això hem decidit dedicar aquest capítol a l'ortodòncia. Ens visita en Pere Alzina, un biòleg especialitzat en ocells a qui posem a prova per si de veritat en sap tant. Però no només això, sinó que també els imita! I ens en fa una demostració. A 'Històries per passejar el gos' anem amb en Tor fins a un dia tràgic: la mort del mag Wellington.</desc>
+    <length units="seconds">2856</length>
+    <episode-num system="onscreen">33</episode-num>
     <category lang="ca">DIVULGACIÓ</category>
     <category lang="ca">ALTRES</category>
     <rating>
@@ -133,20 +134,22 @@
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/3/3/1756148014833.jpg"/>
   </programme>
-  <programme start="20261006091747 +0200" stop="20261006101143 +0200" channel="c33">
-    <title lang="ca">Katalonski</title>
-    <sub-title lang="ca">Sao Paulo</sub-title>
-    <desc lang="ca">Halldor Mar anirà a Sao Paulo en plena celebració del carnaval. Thaisa Bestetti el convidarà a la seva escola de samba, la Vai-Vai, i aniran al sambòdrom per veure aquesta festa monumental; amb la seva amiga Lili Mendoça aprendrà a fer una autèntica caipirinha brasilera; i després coneixerà la penya barcelonista de Sao Paulo mentre veuen el clàssic Reial Madrid-Barça; amb Raul Ribas visitarà una fàbrica on fan fuets i botifarres, una empresa familiar d'origen català, i coneixerà la seva dona, la fotògrafa Vanessa Zanforlin, una autèntica katalonski; anirà a casa de Núria Vives, que sotmetrà en Halldor a una sessió d'acupuntura; i amb Luciana Vilela i Jefferson Ribeiro, el presentador aprendrà a fer pole dance.</desc>
-    <length units="seconds">3236</length>
-    <episode-num system="onscreen">17</episode-num>
+  <programme start="20261006154140 +0200" stop="20261006162757 +0200" channel="c33">
+    <title lang="ca">La Renaixença</title>
+    <sub-title lang="ca">La mosquitera</sub-title>
+    <desc lang="ca">Aquest capítol de 'La Renaixença' està dedicat a la mosquitera, un objecte que ens ha salvat la vida, literalment, perquè resulta que els mosquits són l'animal que causa més morts humanes del món. Si no teniu mosquiteres a casa, ara és el moment de posar-les. Ve l'Andrea Motis, amb qui parlem una estona i que comparteix escenari amb la Laia Glück i l'Arnau Tordera per interpretar 'Record de nit'. I sortim a passejar el gos per l'epidèmia del ball d'Estrasburg, el 1518.</desc>
+    <length units="seconds">2777</length>
+    <episode-num system="onscreen">34</episode-num>
     <category lang="ca">DIVULGACIÓ</category>
-    <category lang="ca">Docu-Entreteniment</category>
+    <category lang="ca">ALTRES</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/3/3/1756148014833.jpg"/>
   </programme>
   <channel id="oca1">
     <display-name>OCA1</display-name>
@@ -160,4 +163,15 @@
   <channel id="oca4">
     <display-name>OCA4</display-name>
   </channel>
+  <programme start="20261006145930 +0200" stop="20261006172925 +0200" channel="oca4">
+    <title lang="ca">Ple del Parlament</title>
+    <length units="seconds">8995</length>
+    <episode-num system="onscreen">4159</episode-num>
+    <category lang="ca">ACTUALITAT</category>
+    <category lang="ca">RETRANSMISSIONS ACTUALITAT</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <icon src="https://img.ccma.cat/multimedia/jpg/9/7/1699359531979.jpg"/>
+  </programme>
 </tv>
