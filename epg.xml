@@ -3,37 +3,52 @@
   <channel id="tvi">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20261005201500 +0200" stop="20261005210000 +0200" channel="tvi">
-    <title lang="ca">Està passant</title>
-    <desc lang="ca">L'Òscar Andreu i el Queco parlen del tema del dia: la convocatòria d'eleccions. En Marc Sarrats ens parla dels meteoròlegs i la Judit Martín és una tarotista per ajudar-nos a esbrinar què passarà amb el món.</desc>
-    <length units="seconds">2700</length>
-    <episode-num system="onscreen">1824</episode-num>
-    <category lang="ca">ENTRETENIMENT</category>
-    <category lang="ca">GAGS. HUMOR</category>
+  <programme start="20261006005712 +0200" stop="20261006024159 +0200" channel="tvi">
+    <title lang="ca">Mésnit</title>
+    <desc lang="ca">El 'Mésnit' arriba a la desena temporada, amb Marina Romero al capdavant de l'espai i amb la voluntat de continuar sent un centre de debat d'idees i d'anàlisi de l'activitat política.</desc>
+    <length units="seconds">6287</length>
+    <episode-num system="onscreen">2173</episode-num>
+    <category lang="ca">ACTUALITAT</category>
+    <category lang="ca">DEBAT</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <icon src="https://img.ccma.cat/multimedia/png/3/8/1705511272683.png"/>
+    <previously-shown/>
   </programme>
-  <programme start="20261005210000 +0200" stop="20261005220441 +0200" channel="tvi">
-    <title lang="ca">Telenotícies vespre</title>
-    <length units="seconds">3881</length>
-    <episode-num system="onscreen">7348</episode-num>
+  <programme start="20261006024159 +0200" stop="20261006040000 +0200" channel="tvi">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="seconds">4681</length>
+    <episode-num system="onscreen">11356</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <icon src="https://img.ccma.cat/multimedia/jpg/7/2/1758026176427.jpg"/>
+    <previously-shown/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
   <channel id="324">
     <display-name>324</display-name>
   </channel>
-  <programme start="20261005200000 +0200" stop="20261005210000 +0200" channel="324">
+  <programme start="20261006010000 +0200" stop="20261006060000 +0200" channel="324">
     <title lang="ca">Notícies 3CatInfo</title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">3600</length>
-    <episode-num system="onscreen">11354</episode-num>
+    <length units="seconds">18000</length>
+    <episode-num system="onscreen">11356</episode-num>
+    <category lang="ca">ACTUALITAT</category>
+    <category lang="ca">INFORMATIU DIÀRI</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <previously-shown/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
+  </programme>
+  <programme start="20261006060000 +0200" stop="20261006080000 +0200" channel="324">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="seconds">7200</length>
+    <episode-num system="onscreen">11357</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
@@ -42,25 +57,27 @@
     <subtitles type="teletext"/>
     <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
-  <programme start="20261005210000 +0200" stop="20261005220500 +0200" channel="324">
-    <title lang="ca">Telenotícies vespre</title>
-    <length units="seconds">3900</length>
-    <episode-num system="onscreen">7348</episode-num>
-    <category lang="ca">ACTUALITAT</category>
+  <channel id="esport3">
+    <display-name>ESPORT3</display-name>
+  </channel>
+  <programme start="20261006021239 +0200" stop="20261006022410 +0200" channel="esport3">
+    <title lang="ca">3CatInfo Esports</title>
+    <desc lang="ca">Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.</desc>
+    <length units="seconds">691</length>
+    <episode-num system="onscreen">5529</episode-num>
+    <category lang="ca">ESPORTS</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <icon src="https://img.ccma.cat/multimedia/jpg/7/2/1758026176427.jpg"/>
+    <previously-shown/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/9/7/1758888682179.jpg"/>
   </programme>
-  <channel id="esport3">
-    <display-name>ESPORT3</display-name>
-  </channel>
-  <programme start="20261005190000 +0200" stop="20261005203047 +0200" channel="esport3">
+  <programme start="20261006022410 +0200" stop="20261006035529 +0200" channel="esport3">
     <title lang="ca">Tot Costa</title>
     <sub-title lang="ca">Raphinha renova aquesta setmana</sub-title>
     <desc lang="ca">El Barça vol Raphinha per anys. Quin seria el podi de brasilers del Barça? En parlem amb Marcos López, Dani Senabre i Mireia Vera. Ricard Torquemada ens farà el seu podi de brasilers, i amb Laia Tudel i Ramon Salmurri explicarem la setmana blaugrana. També estarem pendents de la compareixença del seleccionador espanyol, Luis de la Fuente, per saber quants minuts usarà els jugadors catalans i del Barça.</desc>
-    <length units="seconds">5447</length>
+    <length units="seconds">5479</length>
     <episode-num system="onscreen">1016</episode-num>
     <category lang="ca">ESPORTS</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
@@ -68,48 +85,34 @@
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/0/4/1706209193140.jpg"/>
-  </programme>
-  <programme start="20261005203047 +0200" stop="20261005210649 +0200" channel="esport3">
-    <title lang="ca">Esport Club</title>
-    <sub-title lang="ca">El sorteig de Copa, clàssic de rècords i tertúlia</sub-title>
-    <desc lang="ca">El sorteig de la Copa del Rei. Golejada de rècord. Parlem del 7 a 0 del clàssic amb Joan Ferran. Analitzem l'octubre del Barça amb la lupa de l'Albert Blaya. A la tertúlia ens acompanyen Maria Josep Hostalrich, Orfeo Suárez i Pichi Alonso</desc>
-    <length units="seconds">2162</length>
-    <episode-num system="onscreen">3254</episode-num>
-    <category lang="ca">ESPORTS</category>
-    <category lang="ca">INFORMATIU DIÀRI</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <subtitles type="teletext"/>
     <previously-shown/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/7/3/1698145091337.jpg"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/0/4/1706209193140.jpg"/>
   </programme>
   <channel id="sx3">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20261005201841 +0200" stop="20261005203913 +0200" channel="sx3">
-    <title lang="ca">Henry Danger</title>
-    <sub-title lang="ca">Un directe perillós, segona part</sub-title>
-    <desc lang="ca">Amb el pla de Frankini ja en marxa, els amics d'en Henry lluiten contra rellotge per evitar que tot se'n vagi en orris.</desc>
-    <length units="seconds">1232</length>
-    <episode-num system="onscreen">65</episode-num>
+  <programme start="20261006020108 +0200" stop="20261006022044 +0200" channel="sx3">
+    <title lang="ca">Viatges Pokémon</title>
+    <sub-title lang="ca">Una aventura de dimensions mega!</sub-title>
+    <desc lang="ca">Després de veure com la Corelia i el seu Mega Lucario guanyen un combat al Gimnàs de Ciutat Yantra, parlen amb ella sobre la Megaevolució. La Corelia li dona a l'Ash un megaguant amb una pedra activadora, però el Lucario no pot megaevolucionar sense la seva pròpia lucarita, de manera que els nostres herois viatgen a Mega Illa per trobar-ne una. Un cop allà, s'acaben separant, però l'Ash i el Lucario fan servir l'Aura per tornar-se a reunir... i trobar la lucarita! De sobte, apareix allà un vell estrany que planteja un repte: el Lucario li ha de prendre la lucarita al seu Mega Alakazam. El Lucario ho aconsegueix i el vell revela que en realitat era el Corneli disfressat! </desc>
+    <length units="seconds">1176</length>
+    <episode-num system="onscreen">84</episode-num>
     <category lang="ca">FICCIÓ</category>
-    <category lang="ca">SÈRIE DRAMÀTICA</category>
+    <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
       <value>INFANTIL</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20261005203913 +0200" stop="20261005210000 +0200" channel="sx3">
-    <title lang="ca">Henry Danger</title>
-    <sub-title lang="ca">Una peixnyata plena d'insectes mortífers</sub-title>
-    <desc lang="ca">El primer dia d'en Jasper treballant amb els seus amics es complica quan una peixnyata aparentment inofensiva acaba provocant una situació molt perillosa. </desc>
-    <length units="seconds">1247</length>
-    <episode-num system="onscreen">46</episode-num>
+  <programme start="20261006022044 +0200" stop="20261006024312 +0200" channel="sx3">
+    <title lang="ca">Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
+    <sub-title lang="ca">Revelador</sub-title>
+    <desc lang="ca">La Marinette i l'Adrien són la parella més famosa de París i desperten l'interès d'un influencer poc escrupolós, disposat a tot per fer-se viral a les xarxes, fins i tot a destruir l'amor entre els dos adolescents. Podrà la seva relació sobreviure a una mentida?</desc>
+    <length units="seconds">1348</length>
+    <episode-num system="onscreen">142</episode-num>
     <category lang="ca">FICCIÓ</category>
-    <category lang="ca">SÈRIE DRAMÀTICA</category>
+    <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
       <value>INFANTIL</value>
     </rating>
@@ -119,26 +122,33 @@
   <channel id="c33">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20261005200156 +0200" stop="20261005205949 +0200" channel="c33">
-    <title lang="ca">Un planeta perfecte</title>
-    <sub-title lang="ca">Humans</sub-title>
-    <desc lang="ca">L'activitat humana ha afectat la majoria dels hàbitats del planeta. En aquest episodi, 'la història més important del nostres temps' en paraules de David Attenborough, veiem com la nostra addicció als combustibles fòssils altera les forces de la natura. Però encara hi ha esperança: els projectes de recuperació de boscos i fauna, i d'aprofitament de l'energia van en la direcció correcta. Si ens ho proposem, encara estem a temps de salvar el nostre planeta perfecte.</desc>
-    <length units="seconds">3473</length>
-    <episode-num system="onscreen">5</episode-num>
-    <category lang="ca">DIVULGACIÓ</category>
-    <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
+  <programme start="20261006020317 +0200" stop="20261006024059 +0200" channel="c33">
+    <title lang="ca">km33</title>
+    <sub-title lang="ca">Turquia. Passaport a la felicitat</sub-title>
+    <desc lang="ca">El Gonçal, que és tècnic de so, no pot viatjar a Turquia i quedar-se sense coneixe'n els instruments musicals. Amb la Míriam es passejarà per les botigues i els basars d'Istanbul. A la Capadòcia es perdran per les roques i les esglésies rupestres. I no marxaran sense relaxar-se en un hammam i menjar un quants plats típics.</desc>
+    <length units="seconds">2262</length>
+    <episode-num system="onscreen">24</episode-num>
+    <category lang="ca">ENTRETENIMENT</category>
+    <category lang="ca">ALTRES</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
-    <icon src="https://img.3cat.cat/multimedia/jpg/0/9/1766143230590.jpg"/>
   </programme>
-  <programme start="20261005205949 +0200" stop="20261005210227 +0200" channel="c33">
-    <title lang="ca">SENSE FI CANAL 33</title>
-    <desc lang="ca">Sense Descripció</desc>
-    <length units="seconds">158</length>
+  <programme start="20261006024059 +0200" stop="20261006032312 +0200" channel="c33">
+    <title lang="ca">km33</title>
+    <sub-title lang="ca">Portugal. Tan proper, tan captivador</sub-title>
+    <desc lang="ca">La Susanna, una dissenyadora de moda, i la Mariona, una guia turística, se'n van a conèixer la Lisboa amb més arrel i alhora més contemporània. Des de la capital portuguesa, s'escapen per descobrir els plaers gastronòmics i la calma que ofereix una regió poc coneguda, amb paisatges àrids, pobles blancs i una costa de platges i penyasegats espectaculars: l'Alentejo.</desc>
+    <length units="seconds">2533</length>
+    <episode-num system="onscreen">25</episode-num>
+    <category lang="ca">ENTRETENIMENT</category>
+    <category lang="ca">ALTRES</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
     <subtitles type="teletext"/>
+    <previously-shown/>
   </programme>
   <channel id="oca1">
     <display-name>OCA1</display-name>
@@ -149,18 +159,6 @@
   <channel id="oca3">
     <display-name>OCA3</display-name>
   </channel>
-  <programme start="20261005185950 +0200" stop="20261005203000 +0200" channel="oca3">
-    <title lang="ca">Tot Costa</title>
-    <desc lang="ca">El Barça vol Raphinha per anys. Quin seria el podi de brasilers del Barça? En parlem amb Marcos López, Dani Senabre i Mireia Vera. Ricard Torquemada ens farà el seu podi de brasilers, i amb Laia Tudel i Ramon Salmurri explicarem la setmana blaugrana. També estarem pendents de la compareixença del seleccionador espanyol, Luis de la Fuente, per saber quants minuts usarà els jugadors catalans i del Barça.</desc>
-    <length units="seconds">5410</length>
-    <episode-num system="onscreen">1016</episode-num>
-    <category lang="ca">ESPORTS</category>
-    <category lang="ca">INFORMATIU DIÀRI</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <icon src="https://img.ccma.cat/multimedia/jpg/0/4/1706209193140.jpg"/>
-  </programme>
   <channel id="oca4">
     <display-name>OCA4</display-name>
   </channel>
