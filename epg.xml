@@ -3,32 +3,39 @@
   <channel id="tvi">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20261006210005 +0200" stop="20261006215958 +0200" channel="tvi">
-    <title lang="ca">Telenotícies vespre</title>
-    <length units="seconds">3593</length>
-    <episode-num system="onscreen">7349</episode-num>
+  <programme start="20261007002942 +0200" stop="20261007021138 +0200" channel="tvi">
+    <title lang="ca">Mésnit</title>
+    <desc lang="ca">El 'Mésnit' arriba a la desena temporada, amb Marina Romero al capdavant de l'espai i amb la voluntat de continuar sent un centre de debat d'idees i d'anàlisi de l'activitat política.</desc>
+    <length units="seconds">6116</length>
+    <episode-num system="onscreen">2174</episode-num>
+    <category lang="ca">ACTUALITAT</category>
+    <category lang="ca">DEBAT</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <previously-shown/>
+  </programme>
+  <programme start="20261007021138 +0200" stop="20261007040000 +0200" channel="tvi">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="seconds">6502</length>
+    <episode-num system="onscreen">11365</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <icon src="https://img.ccma.cat/multimedia/jpg/7/2/1758026176427.jpg"/>
-  </programme>
-  <programme start="20261006215958 +0200" stop="20261006220733 +0200" channel="tvi">
-    <title lang="ca">De primera!</title>
-    <sub-title lang="ca">- De primera: De la mar a la memòria</sub-title>
-    <desc lang="ca">Sense Descripció</desc>
-    <length units="seconds">455</length>
-    <episode-num system="onscreen">6</episode-num>
+    <previously-shown/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
   <channel id="324">
     <display-name>324</display-name>
   </channel>
-  <programme start="20261006200000 +0200" stop="20261006210000 +0200" channel="324">
+  <programme start="20261007003000 +0200" stop="20261007010000 +0200" channel="324">
     <title lang="ca">Notícies 3CatInfo</title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">3600</length>
-    <episode-num system="onscreen">11363</episode-num>
+    <length units="seconds">1800</length>
+    <episode-num system="onscreen">11365</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
@@ -36,74 +43,77 @@
     </rating>
     <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
-  <programme start="20261006210000 +0200" stop="20261006220500 +0200" channel="324">
-    <title lang="ca">Telenotícies vespre</title>
-    <length units="seconds">3900</length>
-    <episode-num system="onscreen">7349</episode-num>
+  <programme start="20261007010000 +0200" stop="20261007060000 +0200" channel="324">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="seconds">18000</length>
+    <episode-num system="onscreen">11365</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <subtitles type="teletext"/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/7/2/1758026176427.jpg"/>
+    <previously-shown/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
   <channel id="esport3">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20261006194000 +0200" stop="20261006214156 +0200" channel="esport3">
-    <title lang="ca">Bàsquet</title>
-    <sub-title lang="ca">FIATC Girona-Dinamo Bucarest / Fiba Europe Cup / J1</sub-title>
-    <desc lang="ca">Els gironins s'estrenen, a Fontajau, en la primera jornada a la fase de grups d'aquesta competició europea.</desc>
-    <length units="seconds">7316</length>
-    <episode-num system="onscreen">1</episode-num>
+  <programme start="20261007005005 +0200" stop="20261007022232 +0200" channel="esport3">
+    <title lang="ca">Onze</title>
+    <sub-title lang="ca">L'últim tango de Messi; Mayola Academy i 'Onzeclopèdia'</sub-title>
+    <desc lang="ca">Sique Rodríguez, Fernando Polo, Paula Reverter i Ivan San Antonio comenten l'últim partit de Messi amb la selecció argentina. En Marc Mayola analitza alguns aspectes tàctics del joc del Barça i en Fran Domènech presenta els titulars més curiosos de la premsa esportiva.</desc>
+    <length units="seconds">5547</length>
+    <episode-num system="onscreen">1263</episode-num>
     <category lang="ca">ESPORTS</category>
-    <category lang="ca">RETRANSMISSIONS ESPORTS</category>
+    <category lang="ca">MAGAZINE</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <icon src="https://img.3cat.cat/multimedia/jpg/4/8/1791200744284.jpg"/>
+    <subtitles type="teletext"/>
+    <previously-shown/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/1/1/1688543515711.jpg"/>
   </programme>
-  <programme start="20261006214156 +0200" stop="20261006222815 +0200" channel="esport3">
-    <title lang="ca">Bàsquet</title>
-    <sub-title lang="ca">Asisa Joventut-Bnei Penlink / Champions League / J1</sub-title>
-    <desc lang="ca">El conjunt de Badalona comença la nova participació a la Champions contra l'equip israelià de Herzliya.  </desc>
-    <length units="seconds">2779</length>
-    <episode-num system="onscreen">23</episode-num>
+  <programme start="20261007022232 +0200" stop="20261007023956 +0200" channel="esport3">
+    <title lang="ca">3CatInfo Esports</title>
+    <desc lang="ca">Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.</desc>
+    <length units="seconds">1044</length>
+    <episode-num system="onscreen">5530</episode-num>
     <category lang="ca">ESPORTS</category>
-    <category lang="ca">RETRANSMISSIONS ESPORTS</category>
+    <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <icon src="https://img.3cat.cat/multimedia/jpg/1/1/1761643119911.jpg"/>
+    <previously-shown/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/9/7/1758888682179.jpg"/>
   </programme>
   <channel id="sx3">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20261006210000 +0200" stop="20261006212217 +0200" channel="sx3">
-    <title lang="ca">Bola de drac Z</title>
-    <sub-title lang="ca">La invasió de les càmeres</sub-title>
-    <desc lang="ca">Comença el Campionat Mundial d'Arts Marcials amb una prova que classificarà 15 dels 194 participants. En Son Gohan s'hi ha inscrit amb el nom de Guerrer del Vent, perquè els seus companys d'institut no sospitin res, però la gran quantitat de càmeres i la gelosia d'algun dels seus rivals li podrien fer una mala passada.</desc>
-    <length units="seconds">1337</length>
-    <episode-num system="onscreen">209</episode-num>
+  <programme start="20261007004647 +0200" stop="20261007005834 +0200" channel="sx3">
+    <title lang="ca">Les Sisters</title>
+    <sub-title lang="ca">El meu regne per un 'utògraf'!</sub-title>
+    <desc lang="ca">La Marine i la Wendy senten per la tele que l'estrella Joy D firmarà autògrafs en una sala de festes de Pom-les-Bains. Per desgràcia, els seus pares no les hi poden portar perquè la mare treballa a l'hospital i el pare té una reunió amb el seu editor per ensenyar-li uns dibuixos. Per solucionar-ho, les dues germanes faran tot el possible per anul·lar la reunió del seu pare.</desc>
+    <length units="seconds">707</length>
+    <episode-num system="onscreen">57</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
-      <value>JUVENIL</value>
+      <value>INFANTIL</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20261006212217 +0200" stop="20261006214052 +0200" channel="sx3">
-    <title lang="ca">Bola de drac Z</title>
-    <sub-title lang="ca">En Trunks és un guerrer fabulós</sub-title>
-    <desc lang="ca">El campionat infantil comença sense gaires sorpreses. En Trunks, que s'avorreix una mica, i en Son Goten, que està impressionat amb la quantitat de públic que hi ha, no tenen rival i demostren que són molt superiors a la resta. A la Bulma i a la Xixi els cau la bava amb les victòries dels seus fills, i en Son Goku se'n sent més orgullós que mai.</desc>
-    <length units="seconds">1115</length>
-    <episode-num system="onscreen">210</episode-num>
+  <programme start="20261007005834 +0200" stop="20261007010956 +0200" channel="sx3">
+    <title lang="ca">Les Sisters</title>
+    <sub-title lang="ca">La 'potocleosi'</sub-title>
+    <desc lang="ca">Avui la Wendy ha convidat el seu nòvio a mirar una pel·lícula a casa seva. Mentrestant la Marine mirarà el seu programa preferit a la tauleta de la seva germana. Mentre espera que comenci, veu un espot que avisa dels perills de la mononucleosi, una malaltia que es pot transmetre per la saliva. La Marine s'espanta: i si la seva germaneta agafa la malaltia fent-li un petó al Maxence?</desc>
+    <length units="seconds">682</length>
+    <episode-num system="onscreen">58</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
-      <value>JUVENIL</value>
+      <value>INFANTIL</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
@@ -111,12 +121,12 @@
   <channel id="c33">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20261006200043 +0200" stop="20261006205943 +0200" channel="c33">
+  <programme start="20261007003621 +0200" stop="20261007013401 +0200" channel="c33">
     <title lang="ca">Rick Stein: De Venècia a Istanbul</title>
-    <sub-title lang="ca">Venècia</sub-title>
-    <desc lang="ca">El nou viatge culinari d'en Rick Stein comença a Venècia, una ciutat que coneix bé i adora per la seva senzilla i fabulosa gastronomia, que va incorporar les espècies gràcies al comerç amb Bizanci. En Rick recorrerà tot Venècia per terra i per la llacuna, visitarà el mercat de Rialto, el Lido o la Giudecca, i degustarà moltíssims menjars, com els 'cicchetti' -tapes venecianes-, els espaguetis 'alle vongole' o el fetge a la veneciana. I cuinarà nyoquis amb cranc, un tiramisú i un 'risotto' de marisc.</desc>
-    <length units="seconds">3540</length>
-    <episode-num system="onscreen">1</episode-num>
+    <sub-title lang="ca">Croàcia</sub-title>
+    <desc lang="ca">En Rick deixa Venècia i es dirigeix a Ravenna, on menja unes piadine delicioses. D'allà va amb ferri a Split, Croàcia, on descobreix una ciutat encantadora. A Croàcia tasta plats de peix boníssims, però també un xai deliciós fet d'una manera molt especial a les muntanyes. A la seva cuina de l'illa grega de Simi, en Rick prepara tres plats: llagostins a la buzara, pašticada, i llonzes de porc amb crosta de nous i salsa de figues.</desc>
+    <length units="seconds">3460</length>
+    <episode-num system="onscreen">2</episode-num>
     <category lang="ca">DIVULGACIÓ</category>
     <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
     <rating>
@@ -125,49 +135,32 @@
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20261006205943 +0200" stop="20261006210109 +0200" channel="c33">
-    <title lang="ca">SENSE FI CANAL 33</title>
-    <desc lang="ca">Sense Descripció</desc>
-    <length units="seconds">86</length>
+  <programme start="20261007013401 +0200" stop="20261007023230 +0200" channel="c33">
+    <title lang="ca">Rick Stein: De Venècia a Istanbul</title>
+    <sub-title lang="ca">Croàcia</sub-title>
+    <desc lang="ca">El viatge culinari d'en Rick Stein continua per Croàcia, on tastarà les ostres de Ston i recorrerà les vinyes que fan el raïm del vi negre 'dingac'. Tot seguit, s'endinsa a la desconeguda Albània, que, després del règim comunista, malda per recuperar la gastronomia autòctona, com ara un estofat de mongetes i porc fumat, arròs amb anguiles o menuts de xai a l'ast. I ens farà un 'risotto' negre amb sípia, un estofat de conill albanès i un 'tavë kosi', que és xai al forn amb crema de iogurt, també albanès.</desc>
+    <length units="seconds">3509</length>
+    <episode-num system="onscreen">3</episode-num>
+    <category lang="ca">DIVULGACIÓ</category>
+    <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <subtitles type="teletext"/>
+    <previously-shown/>
   </programme>
   <channel id="oca1">
     <display-name>OCA1</display-name>
   </channel>
-  <programme start="20261006202500 +0200" stop="20261006222455 +0200" channel="oca1">
-    <title lang="ca">Bàsquet</title>
-    <sub-title lang="ca">- Asisa Joventut-Bnei Penlink / Champions League / J1</sub-title>
-    <desc lang="ca">El conjunt de Badalona comença la nova participació a la Champions contra l'equip israelià de Herzliya.  </desc>
-    <length units="seconds">7195</length>
-    <episode-num system="onscreen">23</episode-num>
-    <category lang="ca">ESPORTS</category>
-    <category lang="ca">RETRANSMISSIONS ESPORTS</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <icon src="https://img.3cat.cat/multimedia/jpg/1/1/1761643119911.jpg"/>
-  </programme>
   <channel id="oca2">
     <display-name>OCA2</display-name>
   </channel>
-  <programme start="20261006203500 +0200" stop="20261006222955 +0200" channel="oca2">
-    <title lang="ca">Handbol</title>
-    <sub-title lang="ca">- BM Granollers-Buzau / EHF European League / J2</sub-title>
-    <desc lang="ca">El Fraikin rep el conjunt rumanès amb l'objectiu de sumar la primera victòria en el campionat.</desc>
-    <length units="seconds">6895</length>
-    <episode-num system="onscreen">43</episode-num>
-    <category lang="ca">ESPORTS</category>
-    <category lang="ca">RETRANSMISSIONS ESPORTS</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <icon src="https://img.ccma.cat/multimedia/jpg/2/7/1729614341772.jpg"/>
-  </programme>
   <channel id="oca3">
     <display-name>OCA3</display-name>
   </channel>
-  <programme start="20261006200202 +0200" stop="20261007055954 +0200" channel="oca3">
+  <programme start="20261007000001 +0200" stop="20261007055945 +0200" channel="oca3">
     <title lang="ca">Radar meteorològic: segueix l'evolució de les tempestes</title>
-    <length units="seconds">35872</length>
+    <length units="seconds">21584</length>
     <episode-num system="onscreen">4169</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">RETRANSMISSIONS ACTUALITAT</category>
