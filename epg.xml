@@ -3,117 +3,107 @@
   <channel id="tvi">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20261006143000 +0200" stop="20261006152939 +0200" channel="tvi">
-    <title lang="ca">Telenotícies migdia</title>
-    <length units="seconds">3579</length>
-    <episode-num system="onscreen">7350</episode-num>
+  <programme start="20261006210005 +0200" stop="20261006215958 +0200" channel="tvi">
+    <title lang="ca">Telenotícies vespre</title>
+    <length units="seconds">3593</length>
+    <episode-num system="onscreen">7349</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <icon src="https://img.ccma.cat/multimedia/jpg/5/4/1758025766345.jpg"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/7/2/1758026176427.jpg"/>
   </programme>
-  <programme start="20261006152939 +0200" stop="20261006155238 +0200" channel="tvi">
-    <title lang="ca">Cuines</title>
-    <sub-title lang="ca">Filet rus de bolets</sub-title>
-    <desc lang="ca">De les hamburgueses abans se'n deien filets russos. Eren el mateix, però s'arrebossaven amb ou i farina i es passaven per la paella perquè fossin ben cruixents. Reprenem aquesta recepta i hi afegim una aroma de tardor.</desc>
-    <length units="seconds">1379</length>
-    <episode-num system="onscreen">2151</episode-num>
-    <category lang="ca">DIVULGACIÓ</category>
-    <category lang="ca">CUINA</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <previously-shown/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/2/5/1653464509252.jpg"/>
+  <programme start="20261006215958 +0200" stop="20261006220733 +0200" channel="tvi">
+    <title lang="ca">De primera!</title>
+    <sub-title lang="ca">- De primera: De la mar a la memòria</sub-title>
+    <desc lang="ca">Sense Descripció</desc>
+    <length units="seconds">455</length>
+    <episode-num system="onscreen">6</episode-num>
   </programme>
   <channel id="324">
     <display-name>324</display-name>
   </channel>
-  <programme start="20261006143000 +0200" stop="20261006153000 +0200" channel="324">
-    <title lang="ca">Telenotícies migdia</title>
+  <programme start="20261006200000 +0200" stop="20261006210000 +0200" channel="324">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <length units="seconds">3600</length>
-    <episode-num system="onscreen">7350</episode-num>
+    <episode-num system="onscreen">11363</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <icon src="https://img.ccma.cat/multimedia/jpg/5/4/1758025766345.jpg"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
-  <programme start="20261006153000 +0200" stop="20261006160000 +0200" channel="324">
-    <title lang="ca">3CatInfo en aranès</title>
-    <desc lang="ca">Informatiu de continguts generalistes en llengua aranesa, presentat per Ares Riu, en emissió per a tot Catalunya.</desc>
-    <length units="seconds">1800</length>
-    <episode-num system="onscreen">2568</episode-num>
+  <programme start="20261006210000 +0200" stop="20261006220500 +0200" channel="324">
+    <title lang="ca">Telenotícies vespre</title>
+    <length units="seconds">3900</length>
+    <episode-num system="onscreen">7349</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
-    <icon src="https://img.ccma.cat/multimedia/png/5/8/1758125433085.png"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/7/2/1758026176427.jpg"/>
   </programme>
   <channel id="esport3">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20261006150525 +0200" stop="20261006153630 +0200" channel="esport3">
-    <title lang="ca">GR Pirineus</title>
-    <sub-title lang="ca">Trens, mines i monestirs</sub-title>
-    <desc lang="ca">En aquesta nova ruta, Marc de las Heras anirà de Castellar de n'Hug fins a Sant Jaume de Frontanyà, a través d'un viatge per les entranyes del Berguedà. En total, uns 70 quilòmetres, repartits en dues jornades, fets a peu, en cotxe i en tren... Una recerca del tresor en tota regla!! En Marc encetarà la ruta aprenent a fer el dolç típic de Castellar de n'Hug: els croissants gegants. A partir d'aquí començarà un repte singular buscant tresors passant per la fàbrica Asland, el tren del ciment, els Jardins Artigas, la Pobla de Lillet, la mina de petroli de Riutort i el monestir de Guardiola de Berguedà... A continuació, a Sant Corneli, s'endinsarà en una mina per entendre com era la vida d'un miner. I acabarà la primera jornada passant per Cercs, el Pantà de la Baells i el Pont de Pedret... L'endemà, en Marc passejarà per Berga, la ciutat de la Patum, on va viure el polèmic trobador Guillem de Berguedà, que coneixerem de la mà d'un altre trobador, el Titot. Després, en Marc anirà a menjar bolets, però no com a plat principal..., sinó de postres! I finalment passarà per Vilada, Borredà i posarà fi a la ruta a Sant Jaume de Frontanyà.</desc>
-    <length units="seconds">1865</length>
-    <episode-num system="onscreen">11</episode-num>
-    <category lang="ca">DIVULGACIÓ</category>
-    <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
+  <programme start="20261006194000 +0200" stop="20261006214156 +0200" channel="esport3">
+    <title lang="ca">Bàsquet</title>
+    <sub-title lang="ca">FIATC Girona-Dinamo Bucarest / Fiba Europe Cup / J1</sub-title>
+    <desc lang="ca">Els gironins s'estrenen, a Fontajau, en la primera jornada a la fase de grups d'aquesta competició europea.</desc>
+    <length units="seconds">7316</length>
+    <episode-num system="onscreen">1</episode-num>
+    <category lang="ca">ESPORTS</category>
+    <category lang="ca">RETRANSMISSIONS ESPORTS</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <subtitles type="teletext"/>
-    <previously-shown/>
-    <icon src="https://img.3cat.cat/multimedia/jpg/9/8/1736612891089.jpg"/>
+    <icon src="https://img.3cat.cat/multimedia/jpg/4/8/1791200744284.jpg"/>
   </programme>
-  <programme start="20261006153630 +0200" stop="20261006162921 +0200" channel="esport3">
-    <title lang="ca">Experiència Catalana</title>
-    <sub-title lang="ca">Puan</sub-title>
-    <desc lang="ca">La Putri Anindya, més coneguda com la 'Puan', és una jove indonèsia que, acompanyada de la Ivana Miño, descobreix la Sagrada Família, el Tibidabo i llocs magnífics del Berguedà. A més, a Berga, l'espera una experiència única; la Patum.</desc>
-    <length units="seconds">3171</length>
-    <episode-num system="onscreen">7</episode-num>
-    <category lang="ca">ENTRETENIMENT</category>
-    <category lang="ca">ALTRES</category>
+  <programme start="20261006214156 +0200" stop="20261006222815 +0200" channel="esport3">
+    <title lang="ca">Bàsquet</title>
+    <sub-title lang="ca">Asisa Joventut-Bnei Penlink / Champions League / J1</sub-title>
+    <desc lang="ca">El conjunt de Badalona comença la nova participació a la Champions contra l'equip israelià de Herzliya.  </desc>
+    <length units="seconds">2779</length>
+    <episode-num system="onscreen">23</episode-num>
+    <category lang="ca">ESPORTS</category>
+    <category lang="ca">RETRANSMISSIONS ESPORTS</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <subtitles type="teletext"/>
-    <previously-shown/>
+    <icon src="https://img.3cat.cat/multimedia/jpg/1/1/1761643119911.jpg"/>
   </programme>
   <channel id="sx3">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20261006151224 +0200" stop="20261006153256 +0200" channel="sx3">
-    <title lang="ca">Henry Danger</title>
-    <sub-title lang="ca">Un directe perillós, segona part</sub-title>
-    <desc lang="ca">Amb el pla de Frankini ja en marxa, els amics d'en Henry lluiten contra rellotge per evitar que tot se'n vagi en orris.</desc>
-    <length units="seconds">1232</length>
-    <episode-num system="onscreen">65</episode-num>
+  <programme start="20261006210000 +0200" stop="20261006212217 +0200" channel="sx3">
+    <title lang="ca">Bola de drac Z</title>
+    <sub-title lang="ca">La invasió de les càmeres</sub-title>
+    <desc lang="ca">Comença el Campionat Mundial d'Arts Marcials amb una prova que classificarà 15 dels 194 participants. En Son Gohan s'hi ha inscrit amb el nom de Guerrer del Vent, perquè els seus companys d'institut no sospitin res, però la gran quantitat de càmeres i la gelosia d'algun dels seus rivals li podrien fer una mala passada.</desc>
+    <length units="seconds">1337</length>
+    <episode-num system="onscreen">209</episode-num>
     <category lang="ca">FICCIÓ</category>
-    <category lang="ca">SÈRIE DRAMÀTICA</category>
+    <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
-      <value>INFANTIL</value>
+      <value>JUVENIL</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20261006153256 +0200" stop="20261006155427 +0200" channel="sx3">
-    <title lang="ca">Henry Danger</title>
-    <sub-title lang="ca">Una peixnyata plena d'insectes mortífers</sub-title>
-    <desc lang="ca">El primer dia d'en Jasper treballant amb els seus amics es complica quan una peixnyata aparentment inofensiva acaba provocant una situació molt perillosa. </desc>
-    <length units="seconds">1291</length>
-    <episode-num system="onscreen">46</episode-num>
+  <programme start="20261006212217 +0200" stop="20261006214052 +0200" channel="sx3">
+    <title lang="ca">Bola de drac Z</title>
+    <sub-title lang="ca">En Trunks és un guerrer fabulós</sub-title>
+    <desc lang="ca">El campionat infantil comença sense gaires sorpreses. En Trunks, que s'avorreix una mica, i en Son Goten, que està impressionat amb la quantitat de públic que hi ha, no tenen rival i demostren que són molt superiors a la resta. A la Bulma i a la Xixi els cau la bava amb les victòries dels seus fills, i en Son Goku se'n sent més orgullós que mai.</desc>
+    <length units="seconds">1115</length>
+    <episode-num system="onscreen">210</episode-num>
     <category lang="ca">FICCIÓ</category>
-    <category lang="ca">SÈRIE DRAMÀTICA</category>
+    <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
-      <value>INFANTIL</value>
+      <value>JUVENIL</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
@@ -121,57 +111,72 @@
   <channel id="c33">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20261006145404 +0200" stop="20261006154140 +0200" channel="c33">
-    <title lang="ca">La Renaixença</title>
-    <sub-title lang="ca">L'ortodòncia</sub-title>
-    <desc lang="ca">Sabeu que l'ortodòncia es va inventar fa més de 9.000 anys i que els egipcis ja portaven filferros d'or per mantenir les dents al seu lloc? Doncs per això hem decidit dedicar aquest capítol a l'ortodòncia. Ens visita en Pere Alzina, un biòleg especialitzat en ocells a qui posem a prova per si de veritat en sap tant. Però no només això, sinó que també els imita! I ens en fa una demostració. A 'Històries per passejar el gos' anem amb en Tor fins a un dia tràgic: la mort del mag Wellington.</desc>
-    <length units="seconds">2856</length>
-    <episode-num system="onscreen">33</episode-num>
+  <programme start="20261006200043 +0200" stop="20261006205943 +0200" channel="c33">
+    <title lang="ca">Rick Stein: De Venècia a Istanbul</title>
+    <sub-title lang="ca">Venècia</sub-title>
+    <desc lang="ca">El nou viatge culinari d'en Rick Stein comença a Venècia, una ciutat que coneix bé i adora per la seva senzilla i fabulosa gastronomia, que va incorporar les espècies gràcies al comerç amb Bizanci. En Rick recorrerà tot Venècia per terra i per la llacuna, visitarà el mercat de Rialto, el Lido o la Giudecca, i degustarà moltíssims menjars, com els 'cicchetti' -tapes venecianes-, els espaguetis 'alle vongole' o el fetge a la veneciana. I cuinarà nyoquis amb cranc, un tiramisú i un 'risotto' de marisc.</desc>
+    <length units="seconds">3540</length>
+    <episode-num system="onscreen">1</episode-num>
     <category lang="ca">DIVULGACIÓ</category>
-    <category lang="ca">ALTRES</category>
+    <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/3/3/1756148014833.jpg"/>
   </programme>
-  <programme start="20261006154140 +0200" stop="20261006162757 +0200" channel="c33">
-    <title lang="ca">La Renaixença</title>
-    <sub-title lang="ca">La mosquitera</sub-title>
-    <desc lang="ca">Aquest capítol de 'La Renaixença' està dedicat a la mosquitera, un objecte que ens ha salvat la vida, literalment, perquè resulta que els mosquits són l'animal que causa més morts humanes del món. Si no teniu mosquiteres a casa, ara és el moment de posar-les. Ve l'Andrea Motis, amb qui parlem una estona i que comparteix escenari amb la Laia Glück i l'Arnau Tordera per interpretar 'Record de nit'. I sortim a passejar el gos per l'epidèmia del ball d'Estrasburg, el 1518.</desc>
-    <length units="seconds">2777</length>
-    <episode-num system="onscreen">34</episode-num>
-    <category lang="ca">DIVULGACIÓ</category>
-    <category lang="ca">ALTRES</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <subtitles type="teletext"/>
-    <previously-shown/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/3/3/1756148014833.jpg"/>
+  <programme start="20261006205943 +0200" stop="20261006210109 +0200" channel="c33">
+    <title lang="ca">SENSE FI CANAL 33</title>
+    <desc lang="ca">Sense Descripció</desc>
+    <length units="seconds">86</length>
   </programme>
   <channel id="oca1">
     <display-name>OCA1</display-name>
   </channel>
+  <programme start="20261006202500 +0200" stop="20261006222455 +0200" channel="oca1">
+    <title lang="ca">Bàsquet</title>
+    <sub-title lang="ca">- Asisa Joventut-Bnei Penlink / Champions League / J1</sub-title>
+    <desc lang="ca">El conjunt de Badalona comença la nova participació a la Champions contra l'equip israelià de Herzliya.  </desc>
+    <length units="seconds">7195</length>
+    <episode-num system="onscreen">23</episode-num>
+    <category lang="ca">ESPORTS</category>
+    <category lang="ca">RETRANSMISSIONS ESPORTS</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <icon src="https://img.3cat.cat/multimedia/jpg/1/1/1761643119911.jpg"/>
+  </programme>
   <channel id="oca2">
     <display-name>OCA2</display-name>
   </channel>
+  <programme start="20261006203500 +0200" stop="20261006222955 +0200" channel="oca2">
+    <title lang="ca">Handbol</title>
+    <sub-title lang="ca">- BM Granollers-Buzau / EHF European League / J2</sub-title>
+    <desc lang="ca">El Fraikin rep el conjunt rumanès amb l'objectiu de sumar la primera victòria en el campionat.</desc>
+    <length units="seconds">6895</length>
+    <episode-num system="onscreen">43</episode-num>
+    <category lang="ca">ESPORTS</category>
+    <category lang="ca">RETRANSMISSIONS ESPORTS</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <icon src="https://img.ccma.cat/multimedia/jpg/2/7/1729614341772.jpg"/>
+  </programme>
   <channel id="oca3">
     <display-name>OCA3</display-name>
   </channel>
-  <channel id="oca4">
-    <display-name>OCA4</display-name>
-  </channel>
-  <programme start="20261006145930 +0200" stop="20261006172925 +0200" channel="oca4">
-    <title lang="ca">Ple del Parlament</title>
-    <length units="seconds">8995</length>
-    <episode-num system="onscreen">4159</episode-num>
+  <programme start="20261006200202 +0200" stop="20261007055954 +0200" channel="oca3">
+    <title lang="ca">Radar meteorològic: segueix l'evolució de les tempestes</title>
+    <length units="seconds">35872</length>
+    <episode-num system="onscreen">4169</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">RETRANSMISSIONS ACTUALITAT</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <icon src="https://img.ccma.cat/multimedia/jpg/9/7/1699359531979.jpg"/>
+    <icon src="https://img.3cat.cat/multimedia/jpg/0/0/1791048300700.jpg"/>
   </programme>
+  <channel id="oca4">
+    <display-name>OCA4</display-name>
+  </channel>
 </tv>
