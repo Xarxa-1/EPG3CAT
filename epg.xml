@@ -3,100 +3,97 @@
   <channel id="tvi">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20261007040000 +0200" stop="20261007045959 +0200" channel="tvi">
-    <title lang="ca">Blues a l'estudi</title>
-    <sub-title lang="ca">Cece Giannotti</sub-title>
-    <desc lang="ca">Cece Giannotti ja ens ha demostrat la seva destresa a l'hora de canviar d'estils i passar del rock al pop, o del jazz al blues sempre amb el seu segell inconfusible. Ara ens presenta el seu nou disc 'Deja Voodoo' amb arrels de Nova Orleans. L'acompanyen Francesc Chaparro a la percussió i teclats, Jordi Picazos a les guitarres i Matías Míguez al baix.</desc>
-    <length units="seconds">3599</length>
-    <episode-num system="onscreen">11</episode-num>
-    <category lang="ca">MUSICALS</category>
-    <category lang="ca">ALTRES</category>
-    <rating>
-      <value>PÚBLIC ADULT</value>
-    </rating>
-    <previously-shown/>
-  </programme>
-  <programme start="20261007045959 +0200" stop="20261007060000 +0200" channel="tvi">
-    <title lang="ca">Jazz a l'estudi</title>
-    <sub-title lang="ca">Dani Nel.lo</sub-title>
-    <desc lang="ca">Durant el segle XX el jazz s'ha convertit en un llenguatge musical universal. Gèneres com el be bop, el blues o el swing han trencat fronteres geogràfiques i racials per esdevenir una música popular, que músics d'arreu del món han adaptat a la seva manera de fer. Jazz a l'estudi és un programa de seixanta minuts de durada dedicat al gènere musical jazzístic per on passen músics arrelats a Catalunya. Des d'aquest espai es proposa fer un cop d'ull al panorama del jazz i les seves variants al nostre país.I ho fa d'una manera diferent, perquè el programa ofereix la possibilitat de veure els artistes en un dels seus àmbits naturals: l'estudi de gravació on s'enregistren les sessions, com una instantània sonora, i on es couen les millors receptes musicals del jazz a Catalunya. </desc>
-    <length units="seconds">3601</length>
-    <episode-num system="onscreen">20</episode-num>
-    <category lang="ca">MUSICALS</category>
-    <category lang="ca">JAZZ</category>
+  <programme start="20261007103053 +0200" stop="20261007135500 +0200" channel="tvi">
+    <title lang="ca">Tot es mou</title>
+    <desc lang="ca">El programa presentat per Helena Garcia Melero s'emet de dilluns a divendres, de 10.30 a 13.55. Un magazín d'actualitat que busca informar, analitzar i debatre sobre temes que marquen l'actualitat social, econòmica i cultural del dia, amb una àmplia presència en directe dels reporters i reporteres, repartits per tot Catalunya. A més, el 'Tot es mou' compta amb seccions diàries de gastronomia (amb els principals cuiners i cuineres del país), successos, economia, mobilitat, temes mèdics i de tecnologia, entre d'altres.</desc>
+    <length units="seconds">12247</length>
+    <episode-num system="onscreen">1824</episode-num>
+    <category lang="ca">ACTUALITAT</category>
+    <category lang="ca">MAGAZINE</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <previously-shown/>
+  </programme>
+  <programme start="20261007135500 +0200" stop="20261007143000 +0200" channel="tvi">
+    <title lang="ca">Telenotícies comarques</title>
+    <length units="seconds">2100</length>
+    <episode-num system="onscreen">7050</episode-num>
+    <category lang="ca">ACTUALITAT</category>
+    <category lang="ca">INFORMATIU DIÀRI</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <icon src="https://img.ccma.cat/multimedia/jpg/5/2/1758026313525.jpg"/>
   </programme>
   <channel id="324">
     <display-name>324</display-name>
   </channel>
-  <programme start="20261007010000 +0200" stop="20261007060000 +0200" channel="324">
+  <programme start="20261007090000 +0200" stop="20261007120000 +0200" channel="324">
     <title lang="ca">Notícies 3CatInfo</title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">18000</length>
-    <episode-num system="onscreen">11365</episode-num>
+    <length units="seconds">10800</length>
+    <episode-num system="onscreen">11367</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <previously-shown/>
+    <subtitles type="teletext"/>
     <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
-  <programme start="20261007060000 +0200" stop="20261007080000 +0200" channel="324">
+  <programme start="20261007120000 +0200" stop="20261007135500 +0200" channel="324">
     <title lang="ca">Notícies 3CatInfo</title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">7200</length>
-    <episode-num system="onscreen">11366</episode-num>
+    <length units="seconds">6900</length>
+    <episode-num system="onscreen">11368</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
+    <subtitles type="teletext"/>
     <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
   <channel id="esport3">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20261007023958 +0200" stop="20261007042956 +0200" channel="esport3">
-    <title lang="ca">Bàsquet</title>
-    <sub-title lang="ca">Asisa Joventut-Bnei Penlink / Champions League / J1</sub-title>
-    <desc lang="ca">El conjunt de Badalona comença la nova participació a la Champions contra l'equip israelià de Herzliya.  </desc>
-    <length units="seconds">6598</length>
-    <episode-num system="onscreen">23</episode-num>
-    <category lang="ca">ESPORTS</category>
-    <category lang="ca">RETRANSMISSIONS ESPORTS</category>
+  <programme start="20261007100815 +0200" stop="20261007105730 +0200" channel="esport3">
+    <title lang="ca">Terreny personal</title>
+    <sub-title lang="ca">Cerdanya</sub-title>
+    <desc lang="ca">Aquest capítol ens descobreix una de les valls més amples i assolellades de tot Europa: Cerdanya. Entre Meranges i el Coll de la Perxa i de Martinet a la Molina hi ha aquest terreny envoltat de muntanyes on la natura domina el paisatge. Coneixerem aquest territori de la mà de quatre protagonistes que hi viuen i se l'estimen. Albert Pons va estudiar econòmiques, va treballar a la banca i durant un breu període de temps va dirigir un camp de golf. Fins que, un dia, va deixar enrere la vida d'economista per fer realitat el seu somni: fer vi i formatge a Cerdanya. Octavi Galceran va néixer a Sant Cugat del Vallès, però la seva família era de Cerdanya. La neu és la seva passió. I l'esquí de muntanya, una afició que comparteix amb tota la família. Fa uns quants anys va demanar un trasllat a la feina que li permetés anar a viure a Cerdanya, tornar a començar i retrobar les seves arrels. Roser Bombardó és conscient que va contra corrent, però ella es resisteix a marxar del poble on ha viscut tota la vida i des d'on ara ha impulsat la seva pròpia empresa: una consultoria forestal. Pierre Campmajo és descendent de cerdans. Ell, però, va néixer a Perpinyà. Quan es va jubilar, es va instal·lar definitivament a Cerdanya i en aquest territori ha pogut centrar-se en una de les seves passions: l'arqueologia. Aquest capítol també compta amb les aportacions dels nens de l'Escola Alfons I, de Puigcerdà; amb la cantant Beth, que interpreta un tema propi a la Molina, i amb l'escriptor Rafael Vallbona, que ens llegeix un fragment de la seva obra a Puigcerdà.</desc>
+    <length units="seconds">2955</length>
+    <episode-num system="onscreen">5</episode-num>
+    <category lang="ca">DIVULGACIÓ</category>
+    <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
+    <subtitles type="teletext"/>
     <previously-shown/>
-    <icon src="https://img.3cat.cat/multimedia/jpg/1/1/1761643119911.jpg"/>
   </programme>
-  <programme start="20261007042956 +0200" stop="20261007060301 +0200" channel="esport3">
-    <title lang="ca">Handbol</title>
-    <sub-title lang="ca">BM Granollers-Buzau / EHF European League / J2</sub-title>
-    <desc lang="ca">El Fraikin rep el conjunt rumanès amb l'objectiu de sumar la primera victòria en el campionat.</desc>
-    <length units="seconds">5585</length>
-    <episode-num system="onscreen">43</episode-num>
-    <category lang="ca">ESPORTS</category>
-    <category lang="ca">RETRANSMISSIONS ESPORTS</category>
+  <programme start="20261007105730 +0200" stop="20261007112635 +0200" channel="esport3">
+    <title lang="ca">GR Barcelona</title>
+    <sub-title lang="ca">Pedres que parlen</sub-title>
+    <desc lang="ca">'El poble que oblida la seva història està condemnat a repetir-la'.Farem un gran recorregut pels indrets que han marcat la història de la ciutat, des de l'època romana fins a l'actualitat, veient com estem rodejats de pedres que ens diuen molt més del que sembla. Amb l'historiador Dani Cortijo passejarem per racons amagats de Barcelona que han tingut una rellevància clau en la nostra evolució, respirarem l'aroma de la Barcino romana al MUHBA, aprendrem com es fa el trencadís al taller de la Llívia Garreta després d'haver visitat el Park Güell, farem un taller de cuina de 1714 al bell mig del Born amb la jove cuinera Rais Esteve, visitarem el Refugi 307, un búnquer antiaeri de la Guerra Civil i acabarem en una botiga de diaris antics.</desc>
+    <length units="seconds">1745</length>
+    <episode-num system="onscreen">5</episode-num>
+    <category lang="ca">DIVULGACIÓ</category>
+    <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
+    <subtitles type="teletext"/>
     <previously-shown/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/2/7/1729614341772.jpg"/>
   </programme>
   <channel id="sx3">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20261007035521 +0200" stop="20261007041645 +0200" channel="sx3">
-    <title lang="ca">Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
-    <sub-title lang="ca">Els titans encadenats</sub-title>
-    <desc lang="ca">Pensant que la parella Marinette-Adrien està en perill, en Nino proposa a l'Alya convertir-los en els suplents del Cuirassa i la Guineu Roja: convertir-se en superherois els ajudarà a reforçar els vincles que els uneixen i consolidar el seu amor. Si més no, això és el que ell espera. Però l'arribada de dos supermalvats suposarà un problema per la Marinette i l'Adrien: com poden ser suplents dels seus amics i Ladybug i el Gat Noir alhora?</desc>
-    <length units="seconds">1284</length>
-    <episode-num system="onscreen">152</episode-num>
+  <programme start="20261007102720 +0200" stop="20261007103906 +0200" channel="sx3">
+    <title lang="ca">Les Sisters</title>
+    <sub-title lang="ca">Gat amagat</sub-title>
+    <desc lang="ca">La Marine troba un gatet al carrer i el porta a casa sense dir-ne res als pares. Aconsegueix convèncer la seva germana perquè l'ajudi a amagar-lo... fins que aquesta descobreix que el seu nòvio Maxence té al·lèrgia al pèl de gat. Llavors la Wendy no vol que el gat es quedi a casa per res del món. Però la Marine no es dona per vençuda...</desc>
+    <length units="seconds">706</length>
+    <episode-num system="onscreen">70</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
@@ -105,12 +102,12 @@
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20261007041645 +0200" stop="20261007043859 +0200" channel="sx3">
-    <title lang="ca">Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
-    <sub-title lang="ca">Lady Caos</sub-title>
-    <desc lang="ca">L'Adrien decideix fer un documental sobre el seu pare, Gabriel Agreste, i demana ajuda al Nino i la Marinette. L'objectiu és entrevistar les persones que el van conèixer bé, com la Nathalie o la senyora Tsurugi. La Marinette intenta protegir els seus secrets convençuda que, d'aquesta manera, protegeix els sentiments del seu amor.</desc>
-    <length units="seconds">1334</length>
-    <episode-num system="onscreen">153</episode-num>
+  <programme start="20261007103906 +0200" stop="20261007105028 +0200" channel="sx3">
+    <title lang="ca">Les Sisters</title>
+    <sub-title lang="ca">Quin coco!</sub-title>
+    <desc lang="ca">La Marine contesta correctament les preguntes d'un famós concurs de ràdio... sense dir-li a la Wendy que era una reemissió i que el dia abans havia sentit totes les respostes. La Wendy queda bocabadada amb la nova intel·ligència de la seva germana. La Marine hauria d'estar contenta, però es veu que la Wendy estima més la nova Marine, amb la seva passada de quocient intel·lectual, que la Marine de tota la vida.</desc>
+    <length units="seconds">682</length>
+    <episode-num system="onscreen">71</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
@@ -122,13 +119,13 @@
   <channel id="c33">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20261007034601 +0200" stop="20261007041459 +0200" channel="c33">
-    <title lang="ca">Arts i oficis</title>
-    <sub-title lang="ca">Turisme cultural</sub-title>
-    <desc lang="ca">El turisme del segle XXI ja no consisteix en viatjar a territoris i fer-hi el que més convingui. Els territoris visitats volen ser subjectes actius del discurs que generen. En això consisteix aquest ofici en expansió que s'ensenya al Màster de Turisme Cultural de la Universitat de Girona. 'Vostè em visita però jo m'explico' i aquesta interacció afegeix valor a l'experiència d'ambdues parts, és font de prestigi i de consum ulterior. Les aplicacions d'aquest ofici són la feina de guia cultural, el treballs des de l'interior de les institucions culturals i la gestió per a la posta en valor del patrimoni. Tot això per mig d'un relat transversal en benefici del turista usuari.</desc>
-    <length units="seconds">1738</length>
-    <episode-num system="onscreen">23</episode-num>
-    <category lang="ca">DIVULGACIÓ</category>
+  <programme start="20261007101031 +0200" stop="20261007104018 +0200" channel="c33">
+    <title lang="ca">Marcians</title>
+    <sub-title lang="ca">Una copa, una pel·li i un Gaudí</sub-title>
+    <desc lang="ca">Com ha reflectit el cinema del 2024 la societat catalana i els seus neguits? Aquest és el punt de partida del programa especial que 'Marcians' dedica als Premis Gaudí i en què conversen guionistes, directors, directores i actrius d'algunes de les pel·lícules catalanes protagonistes de l'any. El guionista de 'Casa en flames', Eduard Sola, i el director i guionista de 'Calladita', Miguel Faus, posen en comú la mirada crítica vers la burgesia catalana els que els seus respectius films comparteixen. Les maternitats no convencionals són la base de la conversa entre la directora i la protagonista de 'Salve Maria', Mar Coll i Laura Weissmahr, i la protagonista de 'Mamífera', Maria Rodríguez Soto. Tot i que la nostra societat està cada cop més envellida, trobem poques persones de més de 70 anys que protagonitzen històries a la gran pantalla. No és el cas de 'L'àvia i el foraster' i 'L'edat imminent', produccions que posen damunt la taula temes com l'envelliment, les cures i el futur de la població quan entra en l'etapa de dependència. Sergi Miralles, director de la primera, i Gerard Simó (director) i Ariadna Ulldemolins (guionista), integrants del Col·lectiu Vigília responsable de 'L'edat imminent', comparteixen punts de vista. La mort assistida i l'eutanàsia és un altre dels temes que s'ha colat en el cinema català d'aquest any. La conversa entre la directora i guionista de 'Los destellos', Pilar Palomero, i el director i guionista de 'Polvo serán', Carlos Marques-Marcet, posa de manifest que la mort forma part de la vida, un factor que hauria de conferir més valor als petits fets del dia a dia, que al final és el que reivindiquen les dues pel·lícules.</desc>
+    <length units="seconds">1787</length>
+    <episode-num system="onscreen">36</episode-num>
+    <category lang="ca">ENTRETENIMENT</category>
     <category lang="ca">ALTRES</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
@@ -136,14 +133,14 @@
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20261007041459 +0200" stop="20261007043634 +0200" channel="c33">
-    <title lang="ca">Caçadors de paraules</title>
-    <sub-title lang="ca">Catalunya se la juga</sub-title>
-    <desc lang="ca">En el capítol d'aquest dilluns, Roger de Gràcia treu la seva faceta més juganera i es dedica a buscar les paraules més 'lúdiques' del mercat. Jocs tradicionals i moderns, recuperats o mig oblidats, infantils i d'adults..., tot per demostrar que el vocabulari dels jocs és inacabable i que, sovint, exporta algunes expressions al parlar popular. Sabíeu, per exemple, que 'anar de bòlit' té el seu origen en un joc a què jugaven els nostres avis?Roger de Gràcia comença el seu recorregut 'caçant' els jocs de paraules més coneguts, els mots encreuats, amb un especialista: Màrius Serra. Continua amb els jocs de cartes i investiga l'argot del joc català per excel·lència: la botifarra. I encara hi haurà temps per jugar al bòlit a Girona, descobrir el joc de la morra a Sant Carles de la Ràpita, intentar seguir el ritme del 'quinto', la rifa nadalenca de Sabadell, i practicar el billar amb un gran mestre, el terrassenc Valerià Parera. </desc>
-    <length units="seconds">1295</length>
-    <episode-num system="onscreen">23</episode-num>
-    <category lang="ca">DIVULGACIÓ</category>
-    <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
+  <programme start="20261007104018 +0200" stop="20261007112103 +0200" channel="c33">
+    <title lang="ca">Tot el temps del món</title>
+    <sub-title lang="ca">Mathias Enard</sub-title>
+    <desc lang="ca">MATHIAS ENARDAquesta setmana entrevistem l'escriptor francès Mathias Enard, que fa molt de temps que viu a Barcelona. L'entrevistem per parlar d''El banquet anual de la confraria d'enterramorts' (Empúries), la seva última novel·la, que el fa tornar al seu lloc d'origen, la costa oest de França. El llibre és el diari tragicòmic d'un estudiant d'an¬tropologia que s'instal·la en un poblet francès i s'entrelliga amb un recorregut insòlit i fascinant per la història de França des de la invasió dels francs fins al segle xx. Episodis d'amor i de tragèdia, de present i passat, embolcallen un esdeveniment excepcional: mentre arreu les defuncions no cessen de succeir-se, en aquest poble la Mort dona una treva de tres dies als vius i ofereix un parèntesi sorprenent de men¬jar, beure i celebració als seus servidors més fidels.Parlem amb ell dels seus inicis com a lector i com a escriptor, de la curiositat, de la mort, de la importància de la natura i de la manera com volem viure. </desc>
+    <length units="seconds">2445</length>
+    <episode-num system="onscreen">35</episode-num>
+    <category lang="ca">ALTRES</category>
+    <category lang="ca">ENTREVISTES</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
@@ -159,18 +156,18 @@
   <channel id="oca3">
     <display-name>OCA3</display-name>
   </channel>
-  <programme start="20261007000001 +0200" stop="20261007055945 +0200" channel="oca3">
-    <title lang="ca">Radar meteorològic: segueix l'evolució de les tempestes</title>
-    <length units="seconds">21584</length>
-    <episode-num system="onscreen">4169</episode-num>
+  <channel id="oca4">
+    <display-name>OCA4</display-name>
+  </channel>
+  <programme start="20261007093706 +0200" stop="20261007135201 +0200" channel="oca4">
+    <title lang="ca">Ple del Parlament</title>
+    <length units="seconds">15295</length>
+    <episode-num system="onscreen">4161</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">RETRANSMISSIONS ACTUALITAT</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <icon src="https://img.3cat.cat/multimedia/jpg/0/0/1791048300700.jpg"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/9/7/1699359531979.jpg"/>
   </programme>
-  <channel id="oca4">
-    <display-name>OCA4</display-name>
-  </channel>
 </tv>
