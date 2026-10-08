@@ -3,67 +3,82 @@
   <channel id="tvi">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20261007221039 +0200" stop="20261007233149 +0200" channel="tvi">
-    <title lang="ca">Soc i Seré</title>
-    <sub-title lang="ca">Que no et balli la llengua</sub-title>
-    <desc lang="ca">En el tercer capítols d'aquesta temporada, els concursants s'organitzaran en dos equips de 20 persones amb noms molt festius. Els Gresca i els Xerinola hauran de fer front a dos nous reptes on la coordinació i el domini de la llengua catalana seran molt importants.Per aconseguir l'avantatge, els aspirants hauran de donar un Bon cop de pals i sorprendre Mari Pau Huguet i els bastoners d'Oló amb un ball de bastons molt complicat. Quin equip demostrarà que porta les danses populars al cos i quin serà incapaç de seguir el ritme?En canvi, el repte eliminatori serà menys físic, però el seu cervell haurà de treballar de valent. Els barbarismes tornen a 'Soc i seré' i , en aquest ocasió, ho fan acompanyats dels refranys catalans, que els aspirants hauran de completar sense cometre cap error. Tot sota l'atenta mirada d'unes expertes en el tema: la Maria Bouabdellah i la Shalana, dues convidades que vetllaran perquè tot quedi Clar i català.Al final del programa només quedaran 20 aspirants, i dos eliminats rebran la tan desitjada segona oportunitat.</desc>
-    <length units="seconds">4870</length>
-    <episode-num system="onscreen">9</episode-num>
-    <category lang="ca">ENTRETENIMENT</category>
-    <category lang="ca">CONCURS</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-  </programme>
-  <programme start="20261007233149 +0200" stop="20261008002931 +0200" channel="tvi">
-    <title lang="ca">País d'altura</title>
-    <sub-title lang="ca">Terres de Lleida</sub-title>
-    <desc lang="ca">Ponent és una plana ordenada com un Excel, amb una aigua que ho va capgirar tot, castells, oli, xocolata i un cel amb més estrelles que un hotel de luxe. </desc>
-    <length units="seconds">3462</length>
-    <episode-num system="onscreen">3</episode-num>
-    <category lang="ca">ENTRETENIMENT</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <subtitles type="teletext"/>
-  </programme>
-  <channel id="324">
-    <display-name>324</display-name>
-  </channel>
-  <programme start="20261007220500 +0200" stop="20261008000000 +0200" channel="324">
-    <title lang="ca">Mésnit</title>
-    <desc lang="ca">El 'Mésnit' arriba a la desena temporada, amb Marina Romero al capdavant de l'espai i amb la voluntat de continuar sent un centre de debat d'idees i d'anàlisi de l'activitat política.</desc>
-    <length units="seconds">6900</length>
-    <episode-num system="onscreen">2175</episode-num>
-    <category lang="ca">ACTUALITAT</category>
-    <category lang="ca">DEBAT</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <subtitles type="teletext"/>
-  </programme>
-  <programme start="20261008000000 +0200" stop="20261008003000 +0200" channel="324">
+  <programme start="20261008021526 +0200" stop="20261008040000 +0200" channel="tvi">
     <title lang="ca">Notícies 3CatInfo</title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">1800</length>
-    <episode-num system="onscreen">11373</episode-num>
+    <length units="seconds">6274</length>
+    <episode-num system="onscreen">11374</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <subtitles type="teletext"/>
+    <previously-shown/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
+  </programme>
+  <programme start="20261008040000 +0200" stop="20261008050000 +0200" channel="tvi">
+    <title lang="ca">Blues a l'estudi</title>
+    <sub-title lang="ca">Blas Picón</sub-title>
+    <desc lang="ca">Picón ofereix un repertori clàssic, però a la vegada amb una veu pròpia. En la seva música, el sentiment està per damunt del virtuosisme, i l'honestedat i la simplicitat, per damunt dels malabarismes musicals. Blues i Rhythm'n'Blues apassionat i enèrgic. L'acompanyen en la sessió d'avui: Òscar Rabadán a la guitarra, Johnny Pedraza també a la guitarra i Reginald Vilardell a la bateria.</desc>
+    <length units="seconds">3600</length>
+    <episode-num system="onscreen">12</episode-num>
+    <category lang="ca">MUSICALS</category>
+    <category lang="ca">ALTRES</category>
+    <rating>
+      <value>PÚBLIC ADULT</value>
+    </rating>
+    <previously-shown/>
+  </programme>
+  <channel id="324">
+    <display-name>324</display-name>
+  </channel>
+  <programme start="20261008010000 +0200" stop="20261008060000 +0200" channel="324">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="seconds">18000</length>
+    <episode-num system="onscreen">11374</episode-num>
+    <category lang="ca">ACTUALITAT</category>
+    <category lang="ca">INFORMATIU DIÀRI</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <previously-shown/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
+  </programme>
+  <programme start="20261008060000 +0200" stop="20261008080000 +0200" channel="324">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="seconds">7200</length>
+    <episode-num system="onscreen">11375</episode-num>
+    <category lang="ca">ACTUALITAT</category>
+    <category lang="ca">INFORMATIU DIÀRI</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
     <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
   <channel id="esport3">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20261007224711 +0200" stop="20261007230000 +0200" channel="esport3">
-    <title lang="ca">Esport Club</title>
-    <sub-title lang="ca">Leo Messi, l'NBA i tertúlia</sub-title>
-    <desc lang="ca">L'últim tango de Leo Messi, que s'ha retirat de la selecció. En parlem amb l'Àlex Delmàs. L'NBA amb Jordi de Mas, i tertúlia. Ens acompanyen Irati Vidal, Edgar Fornós i Dani Senabre.</desc>
-    <length units="seconds">769</length>
-    <episode-num system="onscreen">3256</episode-num>
+  <programme start="20261008021727 +0200" stop="20261008023206 +0200" channel="esport3">
+    <title lang="ca">3CatInfo Esports</title>
+    <desc lang="ca">Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.</desc>
+    <length units="seconds">879</length>
+    <episode-num system="onscreen">5531</episode-num>
+    <category lang="ca">ESPORTS</category>
+    <category lang="ca">INFORMATIU DIÀRI</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <previously-shown/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/9/7/1758888682179.jpg"/>
+  </programme>
+  <programme start="20261008023206 +0200" stop="20261008035626 +0200" channel="esport3">
+    <title lang="ca">Tot Costa</title>
+    <sub-title lang="ca">El comiat de Messi</sub-title>
+    <desc lang="ca">Messi ja no serà mai més internacional, Pedro es retira i Cristiano fa un comunicat. Ho analitzem tot plegat amb Gerard Autet, Laia Bonals i Ferran Correas. Amb Laia Tudel també analitzarem com ha anat la finestra FIFA pel que fa al Barça: Lamine ha jugat un pèl massa? Acabarem amb el 'Cinquè quart' sobre l'actualitat basquetbolística amb Laura Antoja, Xavi Ballesteros i Ernest Macià.</desc>
+    <length units="seconds">5060</length>
+    <episode-num system="onscreen">1018</episode-num>
     <category lang="ca">ESPORTS</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
@@ -71,31 +86,17 @@
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/7/3/1698145091337.jpg"/>
-  </programme>
-  <programme start="20261007230000 +0200" stop="20261008003139 +0200" channel="esport3">
-    <title lang="ca">Onze</title>
-    <sub-title lang="ca">Leo, et trobarem a faltar; l'ego de Cristiano i 'El predicador'</sub-title>
-    <desc lang="ca">Lluís Carrasco, Jordi Martí, Gemma Mallorca, Jofre Mateu i Joaquín Maroto comenten l'adeu de Messi de la selecció argentina. L'Òscar Pérez-Dolz predica els manaments del bon culer.</desc>
-    <length units="seconds">5499</length>
-    <episode-num system="onscreen">1264</episode-num>
-    <category lang="ca">ESPORTS</category>
-    <category lang="ca">MAGAZINE</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <subtitles type="teletext"/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/1/1/1688543515711.jpg"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/0/4/1706209193140.jpg"/>
   </programme>
   <channel id="sx3">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20261007224425 +0200" stop="20261007230155 +0200" channel="sx3">
-    <title lang="ca">El detectiu Conan</title>
-    <sub-title lang="ca">Resolent misteris al Cafè Poirot (2a part)</sub-title>
-    <desc lang="ca">Cap dels tres sospitosos d'haver apunyalat en Tengo Anzai té taques de sang ni a les mans ni als braços, cosa que complica la resolució del cas. De tota manera, una poètica pista revelada per l'estrany home de la gavardina ajudarà en Conan i en Heiji a resoldre'l. Però qui és en realitat aquest home misteriós? I en Heiji, de debò que ha vingut fins a Tòquio només per veure la il·luminació de Kinza?</desc>
-    <length units="seconds">1050</length>
-    <episode-num system="onscreen">941</episode-num>
+  <programme start="20261008020851 +0200" stop="20261008022845 +0200" channel="sx3">
+    <title lang="ca">Viatges Pokémon</title>
+    <sub-title lang="ca">Enfrontament als portals de la distorsió!</sub-title>
+    <desc lang="ca">Després de viatjar a través d'uns portals misteriosos, l'Ash, el Goh, la Chloe i la Maia es troben en un món paral·lel, on el flux invers del temps ha provocat la regressió dels Pokémons fins que s'han convertit novament en ous! Juntament amb els seus homòlegs del món paral·lel, l'Ash i els seus amics investiguen l'origen dels portals i troben dos Pokémon llegendaris, el Diaga i el Palkia, que combaten amb molta força. Després de derrotar el Team Rocket del món paral·lel, als nostres herois també els afecta la inversió del temps i es tornen més petits! Desesperats per aturar el combat dels Pokémon llegendaris i restaurar l'espaitemps, els nois comparteixen els seus sentiments amb el Dialga, el Palkia i el Pokémon singular Arceus, que apareix breument per apaivagar el conflicte. Quan tot recupera la normalitat, els nostres herois tornen a casa! </desc>
+    <length units="seconds">1194</length>
+    <episode-num system="onscreen">90</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
@@ -104,12 +105,12 @@
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20261007230155 +0200" stop="20261007232248 +0200" channel="sx3">
-    <title lang="ca">Els germans Kratt</title>
-    <sub-title lang="ca">Animals que viuen fins als 100 anys</sub-title>
-    <desc lang="ca">El Martin ensenya als companys un animal nou que té. És una mosca de la fruita que de cop i volta es mor, perquè les mosques de la fruita viuen molt poc. Llavors es posen a buscar i a estudiar els animals que viuen més, els que arriben als cent anys. Però, com passa sempre, s'hauran d'enfrontar amb un dels malvats, el Zach, que també busca aquests animals per trobar el secret de la vida eterna.</desc>
-    <length units="seconds">1253</length>
-    <episode-num system="onscreen">111</episode-num>
+  <programme start="20261008022845 +0200" stop="20261008025103 +0200" channel="sx3">
+    <title lang="ca">Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
+    <sub-title lang="ca">Tristanansi</sub-title>
+    <desc lang="ca">La Marinette està segura que la Nora i el seu company Brindille senten alguna cosa l'un per l'altre però no gosen dir-ho. Si amaguen els seus sentiments, hi ha el perill que girin l'esquena a l'amor. Per la Marinette és completament inconcebible i decideix intervenir-hi, per bé o per mal.</desc>
+    <length units="seconds">1338</length>
+    <episode-num system="onscreen">154</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
@@ -121,46 +122,33 @@
   <channel id="c33">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20261007215712 +0200" stop="20261007224945 +0200" channel="c33">
-    <title lang="ca">La Renaixença</title>
-    <sub-title lang="ca">El porticó</sub-title>
-    <desc lang="ca">Dediquem el capítol a un objecte tan trist com necessari: el porticó. Vosaltres també sou de dormir completament a les fosques? Quants cops heu hagut de patir anar a l'estranger i no tenir ni persianes i ni porticons a les finestres de l'habitació? I aquells porticons de fusta amb un cor al mig? Fantàstic. Avui entrevistem a cantautora i poetessa Ivette Nadal, ja veieu que tindrem poesia i bona música! Durant el passeig del cos anem a la Itàlia feixista per veure com li va amb en Mussolini. I això serà tot.</desc>
-    <length units="seconds">3153</length>
-    <episode-num system="onscreen">247</episode-num>
+  <programme start="20261008021554 +0200" stop="20261008024410 +0200" channel="c33">
+    <title lang="ca">Arts i oficis</title>
+    <sub-title lang="ca">Publicitat</sub-title>
+    <desc lang="ca">Digitalització, Xarxes Socials i interactivitat han canviat radicalment les relacions entre marques i usuaris. Abans les marques, a través d'una comunicació unidireccional, s'imposaven sense control de l'usuari. Ara els usuaris poden denunciar, queixar-se o criticar amb repercussió immediata i amplíssima. La marca ja no imposa sinó que proposa i resta atenta a la reacció del seu públic. La crisi econòmica ha fet que hi hagi menys diners per a la comunicació però els costos de producció són molt més baixos i això permet a marques petites nivells de comunicació abans inaccessible. 'Crema el teu portafoli' ens diuen des dels màsters de Comunicació i Direcció d'Art d'ELISAVA perquè les oportunitats són nombrosos.</desc>
+    <length units="seconds">1696</length>
+    <episode-num system="onscreen">26</episode-num>
     <category lang="ca">DIVULGACIÓ</category>
     <category lang="ca">ALTRES</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/3/3/1756148014833.jpg"/>
+    <previously-shown/>
   </programme>
-  <programme start="20261007224945 +0200" stop="20261008001301 +0200" channel="c33">
-    <title lang="ca">Pel·lícula</title>
-    <sub-title lang="ca">Escape room</sub-title>
-    <desc lang="ca">ESCAPE ROOMProducció d'Arriska, Focus i Nakatomi que compta amb la participació de Televisió de Catalunya i el suport de l'ICEC.Director: Hèctor Claramunt Guió: Joel Joan i Hèctor Claramunt Director Fotografia: Xavi GiménezBasat en l'obra 'Escape room' de Joel Joan &amp; Hèctor Claramunt Intèrprets: Joel Joan, Paula Vives, Mònica Pérez i Ivan Massagué,SINOPSIQuatre amics, una habitació, molts secrets i una única via de sortida: la veritat. La comèdia més delirant de la temporada capgira els plans de dues parelles disposades a passar una gran nit en?un escape room. Si volen sortir d'aquest joc tan imprevisible com esbojarrat hauran de posar a prova la seva amistat. Els ha arribat l'hora de la veritat.? </desc>
-    <credits>
-      <writer>Joel Joan</writer>
-      <writer>Hèctor Claramunt Director Fotografia: Xavi GiménezBasat en l'obra 'Escape room' de Joel Joan &amp; Hèctor Claramunt Intèrprets: Joel Joan</writer>
-      <actor>Joel Joan</actor>
-      <actor>Paula Vives</actor>
-      <actor>Mònica Pérez</actor>
-      <actor>Ivan Massagué</actor>
-      <actor>SINOPSIQuatre amics</actor>
-      <actor>una habitació</actor>
-      <actor>molts secrets</actor>
-      <actor>una única via de sortida: la veritat. La comèdia més delirant de la temporada capgira els plans de dues parelles disposades a passar una gran nit en?un escape room. Si volen sortir d'aquest joc tan imprevisible com esbojarrat hauran de posar a prova la seva amistat. Els ha arribat l'hora de la veritat.?</actor>
-    </credits>
-    <length units="seconds">4996</length>
-    <episode-num system="onscreen">1</episode-num>
-    <category lang="ca">FICCIÓ</category>
-    <category lang="ca">PEL·LÍCULA / TELEFILM</category>
+  <programme start="20261008024410 +0200" stop="20261008030525 +0200" channel="c33">
+    <title lang="ca">Caçadors de paraules</title>
+    <sub-title lang="ca">El Delta de l'Ebre</sub-title>
+    <desc lang="ca">Si voleu 'xalar' una miqueta amb el parlar 'pla' de la gent del Delta, agafeu la 'granera' i prepareu-vos per recollir uns 'catxels', disfrutar d'un correbous o navegar pels aiguamolls amb un 'cavero' dalt d'un 'barquet de perxar'.En un dels capítols de la primera temporada de la sèrie, Roger de Gràcia va recórrer l'Ebre i els pobles que el voregen, des de Mequinensa fins a les portes del Delta. Aleshores va prometre tornar-hi, i ara ho compleix en un programa ple fins dalt de les meravelles del català que parlen a Deltebre, a Sant Carles de la Ràpita o a Sant Jaume d'Enveja. I no hi ha res millor per començar que assistir a la Festa de la Sega, que recrea els vells mètodes tradicionals per recollir l'arròs. El nostre 'caçador' també visitarà la 'barraca' tradicional d'una parella de 'caveros', de La Cava, al municipi de Deltebre. I li costarà seguir el ritme de la Sònia Tomàs i de la seva manera de parlar, plena d'expressions i paraules lligades a la terra.I com que a les Terres de l'Ebre no hi ha festa sense correbous, el programa posarà en perill (només una mica) la vida del seu presentador. Roger de Gràcia també intentarà descobrir per què els catalans no trobem mai la paraula adequada per anomenar els 'berberechos', que al Delta s'anomenen 'catxels', buscarà els millors malnoms de la zona, i recorrerà les basses a dalt d'una 'barqueta de perxar' amb Josep Bertomeu 'Polet', un dels millors coneixedors del Delta.</desc>
+    <length units="seconds">1275</length>
+    <episode-num system="onscreen">25</episode-num>
+    <category lang="ca">DIVULGACIÓ</category>
+    <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
-    <icon src="https://img.3cat.cat/multimedia/jpg/6/0/1725015673706.jpg"/>
   </programme>
   <channel id="oca1">
     <display-name>OCA1</display-name>
