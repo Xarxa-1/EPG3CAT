@@ -3,113 +3,117 @@
   <channel id="tvi">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20261008210000 +0200" stop="20261008220507 +0200" channel="tvi">
-    <title lang="ca">Telenotícies vespre</title>
-    <length units="seconds">3907</length>
-    <episode-num system="onscreen">7351</episode-num>
-    <category lang="ca">ACTUALITAT</category>
-    <category lang="ca">INFORMATIU DIÀRI</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <icon src="https://img.ccma.cat/multimedia/jpg/7/2/1758026176427.jpg"/>
-  </programme>
-  <programme start="20261008220507 +0200" stop="20261008224507 +0200" channel="tvi">
-    <title lang="ca">Polònia</title>
-    <sub-title lang="ca">El possible retorn de Puigdemont, a 'Polònia'</sub-title>
-    <desc lang="ca">Carles Puigdemont (Queco Novell) valorarà l'aplicació de l'amnistia i el seu possible retorn a Catalunya. I es transformarà en Carles el Pilós, malferit a Ripoll després que les enquestes pronostiquin un creixement d'Aliança Catalana i la davallada de Junts. De fet, les enquestes de cara a les eleccions catalanes són tan favorables a Sílvia Orriols (Nesa Vidaurrázaga) que haurà de buscar gent per ocupar el nombre de diputats al qual aspira. I comptarà amb l'ajuda d'en Josep Maria (Jordi Soriano), el nostre cunyat de guàrdia. Després de convocar eleccions, Pedro Sánchez (Pep Plaza) necessita semblar més d'esquerres. Per això redactarà un manifest que pugui convèncer el seu electorat al ritme de 'Sarà perché ti amo', de Ricchi e Poveri.Salvador Illa (Queco Novell) i Albert Dalmau (Ivan Labanda) miraran d'anar a Madrid per donar suport a Pedro Sánchez. Però els serà impossible per culpa del caos provocat per les últimes pluges que han col·lapsat Catalunya. En una setmana carregada d'ES-Alerts, Francesc Mauri (Xavi Espinosa) i Núria Parlon (Agnès Busquets) participen en el concurs 'L'alerta justa' per veure qui dels dos encerta l'alerta que cal enviar a la població, sense passar-se.En un nou 'Sense ficció', coneixerem l'attrezzista de Gabriel Rufián (Xavi Espinosa), figura clau en les posades en escena del polític d'Esquerra al Congrés dels Diputats.I, finalment, Ricard Ustrell (Xavi Espinosa) i Jordi Basté (Pep Plaza) competiran per veure qui dels dos aguanta més hores en antena informant la població.</desc>
-    <length units="seconds">2400</length>
-    <episode-num system="onscreen">825</episode-num>
-    <category lang="ca">ENTRETENIMENT</category>
-    <category lang="ca">GAGS. HUMOR</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <icon src="https://img.ccma.cat/multimedia/jpg/4/4/1665652336244.jpg"/>
-  </programme>
-  <channel id="324">
-    <display-name>324</display-name>
-  </channel>
-  <programme start="20261008210000 +0200" stop="20261008220500 +0200" channel="324">
-    <title lang="ca">Telenotícies vespre</title>
-    <length units="seconds">3900</length>
-    <episode-num system="onscreen">7351</episode-num>
-    <category lang="ca">ACTUALITAT</category>
-    <category lang="ca">INFORMATIU DIÀRI</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <icon src="https://img.ccma.cat/multimedia/jpg/7/2/1758026176427.jpg"/>
-  </programme>
-  <programme start="20261008220500 +0200" stop="20261009000000 +0200" channel="324">
+  <programme start="20261009001414 +0200" stop="20261009020850 +0200" channel="tvi">
     <title lang="ca">Mésnit</title>
     <desc lang="ca">El 'Mésnit' arriba a la desena temporada, amb Marina Romero al capdavant de l'espai i amb la voluntat de continuar sent un centre de debat d'idees i d'anàlisi de l'activitat política.</desc>
-    <length units="seconds">6900</length>
+    <length units="seconds">6876</length>
     <episode-num system="onscreen">2176</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">DEBAT</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <subtitles type="teletext"/>
+    <previously-shown/>
+  </programme>
+  <programme start="20261009020850 +0200" stop="20261009040000 +0200" channel="tvi">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="seconds">6670</length>
+    <episode-num system="onscreen">11383</episode-num>
+    <category lang="ca">ACTUALITAT</category>
+    <category lang="ca">INFORMATIU DIÀRI</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <previously-shown/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
+  </programme>
+  <channel id="324">
+    <display-name>324</display-name>
+  </channel>
+  <programme start="20261009010000 +0200" stop="20261009060000 +0200" channel="324">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="seconds">18000</length>
+    <episode-num system="onscreen">11383</episode-num>
+    <category lang="ca">ACTUALITAT</category>
+    <category lang="ca">INFORMATIU DIÀRI</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <previously-shown/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
+  </programme>
+  <programme start="20261009060000 +0200" stop="20261009080000 +0200" channel="324">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="seconds">7200</length>
+    <episode-num system="onscreen">11384</episode-num>
+    <category lang="ca">ACTUALITAT</category>
+    <category lang="ca">INFORMATIU DIÀRI</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
   <channel id="esport3">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20261008202959 +0200" stop="20261008222834 +0200" channel="esport3">
-    <title lang="ca">Handbol</title>
-    <sub-title lang="ca">Barça-Dinamo Bucarest / EHF Champions / J3</sub-title>
-    <desc lang="ca">Els blaugranes volen la tercera victòria per consolidar el liderat al grup E de la Champions.</desc>
-    <length units="seconds">7115</length>
-    <episode-num system="onscreen">424</episode-num>
+  <programme start="20261009004703 +0200" stop="20261009021906 +0200" channel="esport3">
+    <title lang="ca">Onze</title>
+    <sub-title lang="ca">La prova del 9; 'El Colegiado' i 'El consultori'</sub-title>
+    <desc lang="ca">Víctor Lozano, David Bernabeu, Juli Garcia i Jordi Costa comenten les opcions de Flick per substituir Raphinha a la davantera del Barça. En Joan Fàbregas porta una notícia sobre l'àrbitre del clàssic. En Sergi Ferrer respon les preguntes dels espectadors.</desc>
+    <length units="seconds">5523</length>
+    <episode-num system="onscreen">1265</episode-num>
     <category lang="ca">ESPORTS</category>
-    <category lang="ca">RETRANSMISSIONS ESPORTS</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1729614070941.jpg"/>
-  </programme>
-  <programme start="20261008222834 +0200" stop="20261008230000 +0200" channel="esport3">
-    <title lang="ca">E3</title>
-    <sub-title lang="ca">Prèvia WEC Barcelona</sub-title>
-    <desc lang="ca">Per primera vegada a la seva història, el Campionat Mundial de Resistència de la FIA (World Endurance Championship) arriba al Circuit de Barcelona-Catalunya. Després d'Imola, Spa, Le Mans, São Paulo, Austin i Fuji, la penúltima ronda de la temporada serà decisiva en la lluita pels títols mundials.</desc>
-    <length units="seconds">1886</length>
-    <episode-num system="onscreen">2393</episode-num>
-    <category lang="ca">ESPORTS</category>
-    <category lang="ca">REPORTATGES</category>
+    <category lang="ca">MAGAZINE</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
-    <icon src="https://img.3cat.cat/multimedia/jpg/0/1/1791283263910.jpg"/>
+    <previously-shown/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/1/1/1688543515711.jpg"/>
+  </programme>
+  <programme start="20261009021906 +0200" stop="20261009023315 +0200" channel="esport3">
+    <title lang="ca">3CatInfo Esports</title>
+    <desc lang="ca">Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.</desc>
+    <length units="seconds">849</length>
+    <episode-num system="onscreen">5532</episode-num>
+    <category lang="ca">ESPORTS</category>
+    <category lang="ca">INFORMATIU DIÀRI</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <previously-shown/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/9/7/1758888682179.jpg"/>
   </programme>
   <channel id="sx3">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20261008212233 +0200" stop="20261008214117 +0200" channel="sx3">
-    <title lang="ca">Bola de drac Z</title>
-    <sub-title lang="ca">El cos invulnerable de l'Spopovitx</sub-title>
-    <desc lang="ca">En Cor Petit acaba descobrint que el seu adversari és el déu Neptú, un ésser superior a tots els altres déus, però no acaba d'entendre què hi fa, al Campionat Mundial d'Arts Marcials. D'altra banda, la Videl comença a lluitar contra l'Spopovitx, un rival que sembla immortal i que ha canviat molt des de l'últim campionat, on en Satan el va vèncer amb molta facilitat.</desc>
-    <length units="seconds">1124</length>
-    <episode-num system="onscreen">216</episode-num>
+  <programme start="20261009014059 +0200" stop="20261009015958 +0200" channel="sx3">
+    <title lang="ca">Viatges Pokémon</title>
+    <sub-title lang="ca">Un camí sinuós cap a la grandesa!</sub-title>
+    <desc lang="ca">L'Ash i el Goh arriben a Poble Vessant amb l'objectiu d'ajudar el Gengar a gigamaxitzar-se. Aquí, tornen a trobar l'Alistair, el noi emmascarat que havien conegut al Tren Espectral, que resulta que és un líder de gimnàs del poble. L'Alistair s'afegeix als nostres amics i tots junts, entren en bosc fantasmagòric per agafar maxibolets, l'ingredient principal de la maxisopa, que permet que uns quants Pokémon es puguin gigamaxitzar. Però trobar aquests maxibolets i agafar-los no serà gens fàcil en un bosc on tot seran dificultats!</desc>
+    <length units="seconds">1139</length>
+    <episode-num system="onscreen">92</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
-      <value>JUVENIL</value>
+      <value>INFANTIL</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20261008214117 +0200" stop="20261008220410 +0200" channel="sx3">
-    <title lang="ca">Bola de drac Z</title>
-    <sub-title lang="ca">La impotència d'en Son Gohan davant la derrota de la Videl</sub-title>
-    <desc lang="ca">El cos invulnerable de l'Spopovitx ha deixat sense forces la Videl, que ja ho té tot perdut, però l'Spopovitx, que per guanyar-la només l'hauria de fer fora del ring, la continua pegant sense pietat. En Son Gohan, que de la ràbia que sent s'ha transformat en un superguerrer, jura que tard o d'hora es venjarà de l'Spopovitx.</desc>
-    <length units="seconds">1373</length>
-    <episode-num system="onscreen">217</episode-num>
+  <programme start="20261009015958 +0200" stop="20261009021937 +0200" channel="sx3">
+    <title lang="ca">Viatges Pokémon</title>
+    <sub-title lang="ca">El nom ho diu tot!</sub-title>
+    <desc lang="ca">Unes ones magnètiques que venen d'un satèl·lit avariat provoquen que els Magnemite de Ciutat Carmí comencin a fer coses estranyes, i el Ren està decidit a protegir el François. L'Ash i el Goh volen acompanyar el Ren i el François fora de la ciutat, però els ataquen uns altres Magnemite, que es queden el François. En aquests moments tan difícils, el Ren recorda com va conèixer el seu amic i pensa en el lligam que tenen des de llavors. Tot les dificultats, el Ren no cedeix i mira de fer tornar el François.</desc>
+    <length units="seconds">1179</length>
+    <episode-num system="onscreen">93</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
-      <value>JUVENIL</value>
+      <value>INFANTIL</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
@@ -117,28 +121,28 @@
   <channel id="c33">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20261008210842 +0200" stop="20261008213300 +0200" channel="c33">
-    <title lang="ca">L'un per l'altre</title>
-    <sub-title lang="ca">Fregues</sub-title>
-    <desc lang="ca">Mentre un massatgista li fa massatges pel lumbago, el Toni té una erecció. Li explica el que li ha passat al Calafell i aquest no dubte ni un moment: si li ha passat això és perquè és homosexual o bisexual. A partir d'aquest moment, tots dos començaran un regitzell de proves per esbrinar la veritable naturalesa sexual del Toni. Mentrestant la Rosa i el Poppins han decidit vendre el sex shop i retirar-se.</desc>
-    <length units="seconds">1458</length>
-    <episode-num system="onscreen">7</episode-num>
-    <category lang="ca">FICCIÓ</category>
-    <category lang="ca">SITCOM (COMÈDIA DE SITUACIÓ)</category>
+  <programme start="20261009012801 +0200" stop="20261009015558 +0200" channel="c33">
+    <title lang="ca">Diaris fotogràfics</title>
+    <sub-title lang="ca">Txema Salvans</sub-title>
+    <desc lang="ca">Sinopsi genèrica</desc>
+    <length units="seconds">1677</length>
+    <episode-num system="onscreen">1</episode-num>
+    <category lang="ca">ENTRETENIMENT</category>
+    <category lang="ca">ALTRES</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20261008213300 +0200" stop="20261008220010 +0200" channel="c33">
-    <title lang="ca">L'un per l'altre</title>
-    <sub-title lang="ca">Fums</sub-title>
-    <desc lang="ca">De forma casual la Maria es retroba amb una antiga companya de classe. S'ha casat amb un home ric i ara està carregada de calers. La Maria no vol que la seva antiga companya descobreixi que ella és recepcionista d'un hotel de tercera i menteix sobre la seva situació. A partir d'aquest moment, la Maria i el Toni comencen a dur un tren de vida altíssim per donar credibilitat a la mentida. Però el Toni veu que això no es pot aguantar. I, la Maria, tampoc no hi ha qui l'aguanti.</desc>
-    <length units="seconds">1630</length>
-    <episode-num system="onscreen">8</episode-num>
-    <category lang="ca">FICCIÓ</category>
-    <category lang="ca">SITCOM (COMÈDIA DE SITUACIÓ)</category>
+  <programme start="20261009015558 +0200" stop="20261009022942 +0200" channel="c33">
+    <title lang="ca">Diaris fotogràfics</title>
+    <sub-title lang="ca">Laia Abril</sub-title>
+    <desc lang="ca">Sinopsis capítol 2: Laia Abril</desc>
+    <length units="seconds">2024</length>
+    <episode-num system="onscreen">2</episode-num>
+    <category lang="ca">ENTRETENIMENT</category>
+    <category lang="ca">ALTRES</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
