@@ -3,148 +3,142 @@
   <channel id="tvi">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20261008153237 +0200" stop="20261008155353 +0200" channel="tvi">
-    <title lang="ca">Cuines</title>
-    <sub-title lang="ca">Brandada de bacallà gratinada</sub-title>
-    <desc lang="ca">De receptes de brandada de bacallà n'hi ha per a tots els gustos. La que cuina en Marc Ribas us atraparà per la seva textura, sabor i pel seu final cruixent.</desc>
-    <length units="seconds">1276</length>
-    <episode-num system="onscreen">2428</episode-num>
-    <category lang="ca">DIVULGACIÓ</category>
-    <category lang="ca">CUINA</category>
+  <programme start="20261008210000 +0200" stop="20261008220507 +0200" channel="tvi">
+    <title lang="ca">Telenotícies vespre</title>
+    <length units="seconds">3907</length>
+    <episode-num system="onscreen">7351</episode-num>
+    <category lang="ca">ACTUALITAT</category>
+    <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <icon src="https://img.ccma.cat/multimedia/jpg/2/5/1653464509252.jpg"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/7/2/1758026176427.jpg"/>
   </programme>
-  <programme start="20261008155353 +0200" stop="20261008160201 +0200" channel="tvi">
-    <title lang="ca">Cuines</title>
-    <sub-title lang="ca">Farcellets de xocolata</sub-title>
-    <desc lang="ca">La combinació pa amb xocolata és un clàssic d'esmorzars i berenars. L'Arnau hi suma l'oli i la sal i en fa uns farcells que us encantaran.</desc>
-    <length units="seconds">488</length>
-    <episode-num system="onscreen">2308</episode-num>
-    <category lang="ca">DIVULGACIÓ</category>
-    <category lang="ca">CUINA</category>
+  <programme start="20261008220507 +0200" stop="20261008224507 +0200" channel="tvi">
+    <title lang="ca">Polònia</title>
+    <sub-title lang="ca">El possible retorn de Puigdemont, a 'Polònia'</sub-title>
+    <desc lang="ca">Carles Puigdemont (Queco Novell) valorarà l'aplicació de l'amnistia i el seu possible retorn a Catalunya. I es transformarà en Carles el Pilós, malferit a Ripoll després que les enquestes pronostiquin un creixement d'Aliança Catalana i la davallada de Junts. De fet, les enquestes de cara a les eleccions catalanes són tan favorables a Sílvia Orriols (Nesa Vidaurrázaga) que haurà de buscar gent per ocupar el nombre de diputats al qual aspira. I comptarà amb l'ajuda d'en Josep Maria (Jordi Soriano), el nostre cunyat de guàrdia. Després de convocar eleccions, Pedro Sánchez (Pep Plaza) necessita semblar més d'esquerres. Per això redactarà un manifest que pugui convèncer el seu electorat al ritme de 'Sarà perché ti amo', de Ricchi e Poveri.Salvador Illa (Queco Novell) i Albert Dalmau (Ivan Labanda) miraran d'anar a Madrid per donar suport a Pedro Sánchez. Però els serà impossible per culpa del caos provocat per les últimes pluges que han col·lapsat Catalunya. En una setmana carregada d'ES-Alerts, Francesc Mauri (Xavi Espinosa) i Núria Parlon (Agnès Busquets) participen en el concurs 'L'alerta justa' per veure qui dels dos encerta l'alerta que cal enviar a la població, sense passar-se.En un nou 'Sense ficció', coneixerem l'attrezzista de Gabriel Rufián (Xavi Espinosa), figura clau en les posades en escena del polític d'Esquerra al Congrés dels Diputats.I, finalment, Ricard Ustrell (Xavi Espinosa) i Jordi Basté (Pep Plaza) competiran per veure qui dels dos aguanta més hores en antena informant la població.</desc>
+    <length units="seconds">2400</length>
+    <episode-num system="onscreen">825</episode-num>
+    <category lang="ca">ENTRETENIMENT</category>
+    <category lang="ca">GAGS. HUMOR</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <previously-shown/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/2/5/1653464509252.jpg"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/4/4/1665652336244.jpg"/>
   </programme>
   <channel id="324">
     <display-name>324</display-name>
   </channel>
-  <programme start="20261008153000 +0200" stop="20261008160000 +0200" channel="324">
-    <title lang="ca">3CatInfo en aranès</title>
-    <desc lang="ca">Informatiu de continguts generalistes en llengua aranesa, presentat per Ares Riu, en emissió per a tot Catalunya.</desc>
-    <length units="seconds">1800</length>
-    <episode-num system="onscreen">2570</episode-num>
+  <programme start="20261008210000 +0200" stop="20261008220500 +0200" channel="324">
+    <title lang="ca">Telenotícies vespre</title>
+    <length units="seconds">3900</length>
+    <episode-num system="onscreen">7351</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <subtitles type="teletext"/>
-    <icon src="https://img.ccma.cat/multimedia/png/5/8/1758125433085.png"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/7/2/1758026176427.jpg"/>
   </programme>
-  <programme start="20261008160000 +0200" stop="20261008170000 +0200" channel="324">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">3600</length>
-    <episode-num system="onscreen">11378</episode-num>
+  <programme start="20261008220500 +0200" stop="20261009000000 +0200" channel="324">
+    <title lang="ca">Mésnit</title>
+    <desc lang="ca">El 'Mésnit' arriba a la desena temporada, amb Marina Romero al capdavant de l'espai i amb la voluntat de continuar sent un centre de debat d'idees i d'anàlisi de l'activitat política.</desc>
+    <length units="seconds">6900</length>
+    <episode-num system="onscreen">2176</episode-num>
     <category lang="ca">ACTUALITAT</category>
-    <category lang="ca">INFORMATIU DIÀRI</category>
+    <category lang="ca">DEBAT</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
   <channel id="esport3">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20261008153757 +0200" stop="20261008163018 +0200" channel="esport3">
-    <title lang="ca">Experiència Catalana</title>
-    <sub-title lang="ca">Família Toulat</sub-title>
-    <desc lang="ca">La família Toulat ve des de París i l'acompanyem a participar en la Festa dels Raiers a la Pobla de Segur. A més, coneixen el parc d'Aigüestortes i el romànic de la Vall de Boí. Però el viatge té altres sorpreses, sobretot pels dos petits de la família: el Camp Nou i el Circ Cric.</desc>
-    <length units="seconds">3141</length>
-    <episode-num system="onscreen">11</episode-num>
-    <category lang="ca">ENTRETENIMENT</category>
-    <category lang="ca">ALTRES</category>
+  <programme start="20261008202959 +0200" stop="20261008222834 +0200" channel="esport3">
+    <title lang="ca">Handbol</title>
+    <sub-title lang="ca">Barça-Dinamo Bucarest / EHF Champions / J3</sub-title>
+    <desc lang="ca">Els blaugranes volen la tercera victòria per consolidar el liderat al grup E de la Champions.</desc>
+    <length units="seconds">7115</length>
+    <episode-num system="onscreen">424</episode-num>
+    <category lang="ca">ESPORTS</category>
+    <category lang="ca">RETRANSMISSIONS ESPORTS</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <subtitles type="teletext"/>
-    <previously-shown/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1729614070941.jpg"/>
   </programme>
-  <programme start="20261008163018 +0200" stop="20261008172310 +0200" channel="esport3">
-    <title lang="ca">Experiència Catalana</title>
-    <sub-title lang="ca">Germans Green</sub-title>
-    <desc lang="ca">La Ivana Miño acompanya la Katie Green i al seu germà Barney per les Terres de l'Ebre. Un territori molt lligat a la seva història i a la de la seva família: el seu avi va morir al front de l'Ebre.</desc>
-    <length units="seconds">3172</length>
-    <episode-num system="onscreen">13</episode-num>
-    <category lang="ca">ENTRETENIMENT</category>
-    <category lang="ca">ALTRES</category>
+  <programme start="20261008222834 +0200" stop="20261008230000 +0200" channel="esport3">
+    <title lang="ca">E3</title>
+    <sub-title lang="ca">Prèvia WEC Barcelona</sub-title>
+    <desc lang="ca">Per primera vegada a la seva història, el Campionat Mundial de Resistència de la FIA (World Endurance Championship) arriba al Circuit de Barcelona-Catalunya. Després d'Imola, Spa, Le Mans, São Paulo, Austin i Fuji, la penúltima ronda de la temporada serà decisiva en la lluita pels títols mundials.</desc>
+    <length units="seconds">1886</length>
+    <episode-num system="onscreen">2393</episode-num>
+    <category lang="ca">ESPORTS</category>
+    <category lang="ca">REPORTATGES</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
-    <previously-shown/>
+    <icon src="https://img.3cat.cat/multimedia/jpg/0/1/1791283263910.jpg"/>
   </programme>
   <channel id="sx3">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20261008154519 +0200" stop="20261008155214 +0200" channel="sx3">
-    <title lang="ca">En Grizzy i els Lèmmings</title>
-    <sub-title lang="ca">Una simfonia per als Lèmmings</sub-title>
-    <desc lang="ca">En Grizzy vol mirar la televisió tranquil, però els Lèmmings tenen altres plans: divertir-se tocant música amb instruments que han fabricat ells mateixos. Molest pel soroll que fan al garatge, en Grizzy els destrueix els instruments i els expulsa de la cabana. Els Lèmmings descobreixen un ukulele màgic que embruixa qualsevol que l'escolti: és l'instrument perfecte per recuperar el control de la cabana i tornar a començar el concert.</desc>
-    <length units="seconds">415</length>
-    <episode-num system="onscreen">272</episode-num>
+  <programme start="20261008212233 +0200" stop="20261008214117 +0200" channel="sx3">
+    <title lang="ca">Bola de drac Z</title>
+    <sub-title lang="ca">El cos invulnerable de l'Spopovitx</sub-title>
+    <desc lang="ca">En Cor Petit acaba descobrint que el seu adversari és el déu Neptú, un ésser superior a tots els altres déus, però no acaba d'entendre què hi fa, al Campionat Mundial d'Arts Marcials. D'altra banda, la Videl comença a lluitar contra l'Spopovitx, un rival que sembla immortal i que ha canviat molt des de l'últim campionat, on en Satan el va vèncer amb molta facilitat.</desc>
+    <length units="seconds">1124</length>
+    <episode-num system="onscreen">216</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
-      <value>INFANTIL</value>
+      <value>JUVENIL</value>
     </rating>
+    <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20261008155214 +0200" stop="20261008155843 +0200" channel="sx3">
-    <title lang="ca">En Grizzy i els Lèmmings</title>
-    <sub-title lang="ca">Os animat</sub-title>
-    <desc lang="ca">Els lèmmings estan tots assegudets al sofà mirant uns dibuixos animats en què un ratolí fa bromes pesades a un gat. En Grizzy, que té intenció de fer una migdiada, apaga la televisió i confisca les piles del comandament a distància per assegurar-se que no podran tornar a posar el seu programa. Potser s'ho hauria d'haver pensat dues vegades abans d'interposar-se entre una colla de lèmmings i el seu interès per l'animació.</desc>
-    <length units="seconds">389</length>
-    <episode-num system="onscreen">118</episode-num>
+  <programme start="20261008214117 +0200" stop="20261008220410 +0200" channel="sx3">
+    <title lang="ca">Bola de drac Z</title>
+    <sub-title lang="ca">La impotència d'en Son Gohan davant la derrota de la Videl</sub-title>
+    <desc lang="ca">El cos invulnerable de l'Spopovitx ha deixat sense forces la Videl, que ja ho té tot perdut, però l'Spopovitx, que per guanyar-la només l'hauria de fer fora del ring, la continua pegant sense pietat. En Son Gohan, que de la ràbia que sent s'ha transformat en un superguerrer, jura que tard o d'hora es venjarà de l'Spopovitx.</desc>
+    <length units="seconds">1373</length>
+    <episode-num system="onscreen">217</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
-      <value>INFANTIL</value>
+      <value>JUVENIL</value>
     </rating>
+    <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
   <channel id="c33">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20261008152911 +0200" stop="20261008161517 +0200" channel="c33">
-    <title lang="ca">La Renaixença</title>
-    <sub-title lang="ca">La samarreta imperi</sub-title>
-    <desc lang="ca">Portar samarreta imperi és tot un art, o un senyal que la vida t'ha anat molt malament. Elegància o deixadesa? Orgull o vergonya? En portaven a la Renaixença o els humans del segle XXI? Sigui com sigui, és la protagonista del programa d'avui. Ens visiten El Pony Pisador, que estrenen al nostre escenari un tema inèdit: 'L'havanera del raier'. I a 'Històries per passejar el gos' anem amb la Rita, una gossa de Calldetenes, a un dia tràgic: el 20 de gener del 1948, concretament a Nova Delhi, on hi va haver l'assassinat de Gandhi.</desc>
-    <length units="seconds">2766</length>
-    <episode-num system="onscreen">38</episode-num>
-    <category lang="ca">DIVULGACIÓ</category>
-    <category lang="ca">ALTRES</category>
+  <programme start="20261008210842 +0200" stop="20261008213300 +0200" channel="c33">
+    <title lang="ca">L'un per l'altre</title>
+    <sub-title lang="ca">Fregues</sub-title>
+    <desc lang="ca">Mentre un massatgista li fa massatges pel lumbago, el Toni té una erecció. Li explica el que li ha passat al Calafell i aquest no dubte ni un moment: si li ha passat això és perquè és homosexual o bisexual. A partir d'aquest moment, tots dos començaran un regitzell de proves per esbrinar la veritable naturalesa sexual del Toni. Mentrestant la Rosa i el Poppins han decidit vendre el sex shop i retirar-se.</desc>
+    <length units="seconds">1458</length>
+    <episode-num system="onscreen">7</episode-num>
+    <category lang="ca">FICCIÓ</category>
+    <category lang="ca">SITCOM (COMÈDIA DE SITUACIÓ)</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/3/3/1756148014833.jpg"/>
   </programme>
-  <programme start="20261008161517 +0200" stop="20261008172450 +0200" channel="c33">
-    <title lang="ca">Còmics</title>
-    <sub-title lang="ca">Rubianes</sub-title>
-    <desc lang="ca">L''actor galaico-català' és el màxim exponent del monologuista vital, entranyablement groller, enèrgic, sarcàstic i amb una ironia lúcida i propera. Molt amic dels seus amics, el seu somriure el feia irresistible per als espectadors i també, fora de l'escenari, per a una bona part de la població femenina. Un bon amic seu, periodista i presentador de televisió, reviu al programa anècdotes compartides i fragments dels seus espectacles</desc>
-    <length units="seconds">4173</length>
-    <episode-num system="onscreen">4</episode-num>
-    <category lang="ca">ENTRETENIMENT</category>
-    <category lang="ca">GAGS. HUMOR</category>
+  <programme start="20261008213300 +0200" stop="20261008220010 +0200" channel="c33">
+    <title lang="ca">L'un per l'altre</title>
+    <sub-title lang="ca">Fums</sub-title>
+    <desc lang="ca">De forma casual la Maria es retroba amb una antiga companya de classe. S'ha casat amb un home ric i ara està carregada de calers. La Maria no vol que la seva antiga companya descobreixi que ella és recepcionista d'un hotel de tercera i menteix sobre la seva situació. A partir d'aquest moment, la Maria i el Toni comencen a dur un tren de vida altíssim per donar credibilitat a la mentida. Però el Toni veu que això no es pot aguantar. I, la Maria, tampoc no hi ha qui l'aguanti.</desc>
+    <length units="seconds">1630</length>
+    <episode-num system="onscreen">8</episode-num>
+    <category lang="ca">FICCIÓ</category>
+    <category lang="ca">SITCOM (COMÈDIA DE SITUACIÓ)</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
@@ -163,15 +157,4 @@
   <channel id="oca4">
     <display-name>OCA4</display-name>
   </channel>
-  <programme start="20261008153009 +0200" stop="20261008183004 +0200" channel="oca4">
-    <title lang="ca">Ple del Parlament</title>
-    <length units="seconds">10795</length>
-    <episode-num system="onscreen">4164</episode-num>
-    <category lang="ca">ACTUALITAT</category>
-    <category lang="ca">RETRANSMISSIONS ACTUALITAT</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <icon src="https://img.ccma.cat/multimedia/jpg/9/7/1699359531979.jpg"/>
-  </programme>
 </tv>
