@@ -3,116 +3,113 @@
   <channel id="tvi">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20261008021526 +0200" stop="20261008040000 +0200" channel="tvi">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">6274</length>
-    <episode-num system="onscreen">11374</episode-num>
+  <programme start="20261008080011 +0200" stop="20261008103000 +0200" channel="tvi">
+    <title lang="ca">Matins</title>
+    <desc lang="ca">'Matins' és un dels puntals informatius de TV3. El programa matinal dona les claus del dia que comença, explica les notícies que han passat aportant-ne el context per entendre-les i analitza amb veus acreditades l'actualitat més propera i la d'arreu del món. 'Matins' comença a les 8 del matí, de dilluns a divendres, i està presentat per Ariadna Oltra.</desc>
+    <length units="seconds">8989</length>
+    <episode-num system="onscreen">4688</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <previously-shown/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/2/0/1758040151402.jpg"/>
   </programme>
-  <programme start="20261008040000 +0200" stop="20261008050000 +0200" channel="tvi">
-    <title lang="ca">Blues a l'estudi</title>
-    <sub-title lang="ca">Blas Picón</sub-title>
-    <desc lang="ca">Picón ofereix un repertori clàssic, però a la vegada amb una veu pròpia. En la seva música, el sentiment està per damunt del virtuosisme, i l'honestedat i la simplicitat, per damunt dels malabarismes musicals. Blues i Rhythm'n'Blues apassionat i enèrgic. L'acompanyen en la sessió d'avui: Òscar Rabadán a la guitarra, Johnny Pedraza també a la guitarra i Reginald Vilardell a la bateria.</desc>
-    <length units="seconds">3600</length>
-    <episode-num system="onscreen">12</episode-num>
-    <category lang="ca">MUSICALS</category>
-    <category lang="ca">ALTRES</category>
+  <programme start="20261008103000 +0200" stop="20261008135500 +0200" channel="tvi">
+    <title lang="ca">Tot es mou</title>
+    <desc lang="ca">El programa presentat per Helena Garcia Melero s'emet de dilluns a divendres, de 10.30 a 13.55. Un magazín d'actualitat que busca informar, analitzar i debatre sobre temes que marquen l'actualitat social, econòmica i cultural del dia, amb una àmplia presència en directe dels reporters i reporteres, repartits per tot Catalunya. A més, el 'Tot es mou' compta amb seccions diàries de gastronomia (amb els principals cuiners i cuineres del país), successos, economia, mobilitat, temes mèdics i de tecnologia, entre d'altres.</desc>
+    <length units="seconds">12300</length>
+    <episode-num system="onscreen">1825</episode-num>
+    <category lang="ca">ACTUALITAT</category>
+    <category lang="ca">MAGAZINE</category>
     <rating>
-      <value>PÚBLIC ADULT</value>
+      <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <previously-shown/>
   </programme>
   <channel id="324">
     <display-name>324</display-name>
   </channel>
-  <programme start="20261008010000 +0200" stop="20261008060000 +0200" channel="324">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">18000</length>
-    <episode-num system="onscreen">11374</episode-num>
+  <programme start="20261008080000 +0200" stop="20261008103000 +0200" channel="324">
+    <title lang="ca">Matins</title>
+    <desc lang="ca">'Matins' és un dels puntals informatius de TV3. El programa matinal dona les claus del dia que comença, explica les notícies que han passat aportant-ne el context per entendre-les i analitza amb veus acreditades l'actualitat més propera i la d'arreu del món. 'Matins' comença a les 8 del matí, de dilluns a divendres, i està presentat per Ariadna Oltra.</desc>
+    <length units="seconds">9000</length>
+    <episode-num system="onscreen">4688</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <previously-shown/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/2/0/1758040151402.jpg"/>
   </programme>
-  <programme start="20261008060000 +0200" stop="20261008080000 +0200" channel="324">
+  <programme start="20261008103000 +0200" stop="20261008120000 +0200" channel="324">
     <title lang="ca">Notícies 3CatInfo</title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">7200</length>
-    <episode-num system="onscreen">11375</episode-num>
+    <length units="seconds">5400</length>
+    <episode-num system="onscreen">11376</episode-num>
     <category lang="ca">ACTUALITAT</category>
-    <category lang="ca">INFORMATIU DIÀRI</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
-  </programme>
-  <channel id="esport3">
-    <display-name>ESPORT3</display-name>
-  </channel>
-  <programme start="20261008021727 +0200" stop="20261008023206 +0200" channel="esport3">
-    <title lang="ca">3CatInfo Esports</title>
-    <desc lang="ca">Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.</desc>
-    <length units="seconds">879</length>
-    <episode-num system="onscreen">5531</episode-num>
-    <category lang="ca">ESPORTS</category>
-    <category lang="ca">INFORMATIU DIÀRI</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <previously-shown/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/9/7/1758888682179.jpg"/>
-  </programme>
-  <programme start="20261008023206 +0200" stop="20261008035626 +0200" channel="esport3">
-    <title lang="ca">Tot Costa</title>
-    <sub-title lang="ca">El comiat de Messi</sub-title>
-    <desc lang="ca">Messi ja no serà mai més internacional, Pedro es retira i Cristiano fa un comunicat. Ho analitzem tot plegat amb Gerard Autet, Laia Bonals i Ferran Correas. Amb Laia Tudel també analitzarem com ha anat la finestra FIFA pel que fa al Barça: Lamine ha jugat un pèl massa? Acabarem amb el 'Cinquè quart' sobre l'actualitat basquetbolística amb Laura Antoja, Xavi Ballesteros i Ernest Macià.</desc>
-    <length units="seconds">5060</length>
-    <episode-num system="onscreen">1018</episode-num>
-    <category lang="ca">ESPORTS</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
+  </programme>
+  <channel id="esport3">
+    <display-name>ESPORT3</display-name>
+  </channel>
+  <programme start="20261008075952 +0200" stop="20261008100136 +0200" channel="esport3">
+    <title lang="ca">Bàsquet</title>
+    <sub-title lang="ca">Kids&amp;Us Manresa-Ratiopharm Ulm / Eurocup / J2</sub-title>
+    <desc lang="ca">Després de la derrota en l'estrena, a la pista del PAOK de Tessalònica, el conjunt del Bages disputa el primer partit europeu del curs al Nou Congost.</desc>
+    <length units="seconds">7304</length>
+    <episode-num system="onscreen">97</episode-num>
+    <category lang="ca">ESPORTS</category>
+    <category lang="ca">RETRANSMISSIONS ESPORTS</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
     <previously-shown/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/0/4/1706209193140.jpg"/>
+    <icon src="https://img.3cat.cat/multimedia/jpg/0/7/1761644896070.jpg"/>
+  </programme>
+  <programme start="20261008100136 +0200" stop="20261008105321 +0200" channel="esport3">
+    <title lang="ca">Terreny personal</title>
+    <sub-title lang="ca">Plana de Vic</sub-title>
+    <desc lang="ca">En aquest capítol descobrirem un terreny envoltat de muntanyes que s'amaga sota la boira. Situat entre les Guilleries i el Moianès, entre el Montseny i el Lluçanès, travessa la comarca d'Osona de nord a sud: és la plana de Vic.Els protagonistes d'aquest programa estan molt lligats a aquest terreny tancat que els defineix. El Xevi Crosas ha decidit muntar una granja d'ovelles a la terra on va néixer, a prop del Ter, un riu que ell defensa i reivindica. El Quico Arumí buscava feina a la cuina, però tenia clar que havia de ser al costat de casa i la va trobar... a Can Jubany. El Miquel Saborit és de Vic. Escalador, li agrada mirar des de ben amunt la terra on va néixer.I la Ouafae Dabbou va arribar a Manlleu de gran, però d'aquest territori n'ha fet casa seva i de la seva família.En aquest capítol també hi intervenen nens de l'escola Vall del Ges de Torelló, que ens expliquen els seus espais preferits. L'escriptor Jordi Puntí llegeix un fragment del seu llibre 'Els castellans' a Manlleu, on va néixer, i l'Ernest Crusats, cantant de La Iaia, canta 'Sota l'arbre' i recorda la seva infantesa a la plaça de Vic.</desc>
+    <length units="seconds">3105</length>
+    <episode-num system="onscreen">6</episode-num>
+    <category lang="ca">DIVULGACIÓ</category>
+    <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <subtitles type="teletext"/>
+    <previously-shown/>
   </programme>
   <channel id="sx3">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20261008020851 +0200" stop="20261008022845 +0200" channel="sx3">
-    <title lang="ca">Viatges Pokémon</title>
-    <sub-title lang="ca">Enfrontament als portals de la distorsió!</sub-title>
-    <desc lang="ca">Després de viatjar a través d'uns portals misteriosos, l'Ash, el Goh, la Chloe i la Maia es troben en un món paral·lel, on el flux invers del temps ha provocat la regressió dels Pokémons fins que s'han convertit novament en ous! Juntament amb els seus homòlegs del món paral·lel, l'Ash i els seus amics investiguen l'origen dels portals i troben dos Pokémon llegendaris, el Diaga i el Palkia, que combaten amb molta força. Després de derrotar el Team Rocket del món paral·lel, als nostres herois també els afecta la inversió del temps i es tornen més petits! Desesperats per aturar el combat dels Pokémon llegendaris i restaurar l'espaitemps, els nois comparteixen els seus sentiments amb el Dialga, el Palkia i el Pokémon singular Arceus, que apareix breument per apaivagar el conflicte. Quan tot recupera la normalitat, els nostres herois tornen a casa! </desc>
-    <length units="seconds">1194</length>
-    <episode-num system="onscreen">90</episode-num>
-    <category lang="ca">FICCIÓ</category>
-    <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
+  <programme start="20261008081705 +0200" stop="20261008083024 +0200" channel="sx3">
+    <title lang="ca">Titó</title>
+    <sub-title lang="ca">Excursió a plegar avellanes</sub-title>
+    <desc lang="ca">Avui anem a plegar avellanes. Descobrirem com es feia antigament, amb la senalla, i com es fa avui en dia, amb la bufadora, el rasclet, el tractor i la màquina de xuclar. Pot passar de tot quan en John C agafi la xucladora! </desc>
+    <length units="seconds">799</length>
+    <episode-num system="onscreen">101</episode-num>
+    <category lang="ca">ENTRETENIMENT</category>
+    <category lang="ca">ALTRES</category>
     <rating>
       <value>INFANTIL</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20261008022845 +0200" stop="20261008025103 +0200" channel="sx3">
-    <title lang="ca">Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
-    <sub-title lang="ca">Tristanansi</sub-title>
-    <desc lang="ca">La Marinette està segura que la Nora i el seu company Brindille senten alguna cosa l'un per l'altre però no gosen dir-ho. Si amaguen els seus sentiments, hi ha el perill que girin l'esquena a l'amor. Per la Marinette és completament inconcebible i decideix intervenir-hi, per bé o per mal.</desc>
-    <length units="seconds">1338</length>
-    <episode-num system="onscreen">154</episode-num>
-    <category lang="ca">FICCIÓ</category>
-    <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
+  <programme start="20261008083024 +0200" stop="20261008084139 +0200" channel="sx3">
+    <title lang="ca">A jugar! Amb en Titó i els Fa la la</title>
+    <sub-title lang="ca">A jugar amb el monstre del riu</sub-title>
+    <desc lang="ca">Tens ganes de jugar? Doncs prepara't per viure històries fantàstiques amb els ninos dels Fa La La, d'en Titó i d'en John C. Farem supersalts secrets amb el Tritó del Montseny, invocarem la tramuntana amb l'Oca de l'Empordà, farem màgia amb la banya del Ruquicorn, trobarem solucions brutals amb l'Os Bru... i molt més! T'hi apuntes? A jugar! </desc>
+    <length units="seconds">675</length>
+    <episode-num system="onscreen">38</episode-num>
+    <category lang="ca">ENTRETENIMENT</category>
+    <category lang="ca">ALTRES</category>
     <rating>
       <value>INFANTIL</value>
     </rating>
@@ -122,13 +119,13 @@
   <channel id="c33">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20261008021554 +0200" stop="20261008024410 +0200" channel="c33">
-    <title lang="ca">Arts i oficis</title>
-    <sub-title lang="ca">Publicitat</sub-title>
-    <desc lang="ca">Digitalització, Xarxes Socials i interactivitat han canviat radicalment les relacions entre marques i usuaris. Abans les marques, a través d'una comunicació unidireccional, s'imposaven sense control de l'usuari. Ara els usuaris poden denunciar, queixar-se o criticar amb repercussió immediata i amplíssima. La marca ja no imposa sinó que proposa i resta atenta a la reacció del seu públic. La crisi econòmica ha fet que hi hagi menys diners per a la comunicació però els costos de producció són molt més baixos i això permet a marques petites nivells de comunicació abans inaccessible. 'Crema el teu portafoli' ens diuen des dels màsters de Comunicació i Direcció d'Art d'ELISAVA perquè les oportunitats són nombrosos.</desc>
-    <length units="seconds">1696</length>
-    <episode-num system="onscreen">26</episode-num>
-    <category lang="ca">DIVULGACIÓ</category>
+  <programme start="20261008073916 +0200" stop="20261008083226 +0200" channel="c33">
+    <title lang="ca">Experiència Catalana</title>
+    <sub-title lang="ca">Robert Englund</sub-title>
+    <desc lang="ca">L'actor de Hollywood Robert Englund, el mític Freddy Krueger, visita Catalunya de la mà d''Experiència catalana' i la Ivana Miño. Junts visiten el cementiri de Montjuïc, els banys jueus de Besalú i el Restaurant Hispània d'Arenys. Tot plegat, just abans d'enfrontar-se a una nit d'espant a Mataró.</desc>
+    <length units="seconds">3190</length>
+    <episode-num system="onscreen">19</episode-num>
+    <category lang="ca">ENTRETENIMENT</category>
     <category lang="ca">ALTRES</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
@@ -136,14 +133,14 @@
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20261008024410 +0200" stop="20261008030525 +0200" channel="c33">
-    <title lang="ca">Caçadors de paraules</title>
-    <sub-title lang="ca">El Delta de l'Ebre</sub-title>
-    <desc lang="ca">Si voleu 'xalar' una miqueta amb el parlar 'pla' de la gent del Delta, agafeu la 'granera' i prepareu-vos per recollir uns 'catxels', disfrutar d'un correbous o navegar pels aiguamolls amb un 'cavero' dalt d'un 'barquet de perxar'.En un dels capítols de la primera temporada de la sèrie, Roger de Gràcia va recórrer l'Ebre i els pobles que el voregen, des de Mequinensa fins a les portes del Delta. Aleshores va prometre tornar-hi, i ara ho compleix en un programa ple fins dalt de les meravelles del català que parlen a Deltebre, a Sant Carles de la Ràpita o a Sant Jaume d'Enveja. I no hi ha res millor per començar que assistir a la Festa de la Sega, que recrea els vells mètodes tradicionals per recollir l'arròs. El nostre 'caçador' també visitarà la 'barraca' tradicional d'una parella de 'caveros', de La Cava, al municipi de Deltebre. I li costarà seguir el ritme de la Sònia Tomàs i de la seva manera de parlar, plena d'expressions i paraules lligades a la terra.I com que a les Terres de l'Ebre no hi ha festa sense correbous, el programa posarà en perill (només una mica) la vida del seu presentador. Roger de Gràcia també intentarà descobrir per què els catalans no trobem mai la paraula adequada per anomenar els 'berberechos', que al Delta s'anomenen 'catxels', buscarà els millors malnoms de la zona, i recorrerà les basses a dalt d'una 'barqueta de perxar' amb Josep Bertomeu 'Polet', un dels millors coneixedors del Delta.</desc>
-    <length units="seconds">1275</length>
-    <episode-num system="onscreen">25</episode-num>
+  <programme start="20261008083226 +0200" stop="20261008092313 +0200" channel="c33">
+    <title lang="ca">Cosins Germans</title>
+    <sub-title lang="ca">Cultura de l'aigua</sub-title>
+    <desc lang="ca">L'aigua és la font de la vida i és present en molts dels nostres rituals. A la Pobla de Segur, Ferran Torrent perd una aposta i Araceli Segarra li ho fa pagar baixant pels ràpids del Noguera Pallaresa, en la Festa dels Raiers. A les aigües plàcides de l'Albufera de València, Ferran tindrà la seva revenja particular, i junts embarcaran per conèixer els secrets de la vela llatina, un dels sistemes de navegació més antics. Acabarem en companyia d'Elisabet Carnicé al barri del Serrallo de Tarragona, on serem testimonis de la processó marítima del Carme, una de les més genuïnes.</desc>
+    <length units="seconds">3047</length>
+    <episode-num system="onscreen">19</episode-num>
     <category lang="ca">DIVULGACIÓ</category>
-    <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
+    <category lang="ca">ALTRES</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
