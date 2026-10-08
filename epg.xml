@@ -3,49 +3,54 @@
   <channel id="tvi">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20261008080011 +0200" stop="20261008103000 +0200" channel="tvi">
-    <title lang="ca">Matins</title>
-    <desc lang="ca">'Matins' és un dels puntals informatius de TV3. El programa matinal dona les claus del dia que comença, explica les notícies que han passat aportant-ne el context per entendre-les i analitza amb veus acreditades l'actualitat més propera i la d'arreu del món. 'Matins' comença a les 8 del matí, de dilluns a divendres, i està presentat per Ariadna Oltra.</desc>
-    <length units="seconds">8989</length>
-    <episode-num system="onscreen">4688</episode-num>
-    <category lang="ca">ACTUALITAT</category>
-    <category lang="ca">INFORMATIU DIÀRI</category>
+  <programme start="20261008153237 +0200" stop="20261008155353 +0200" channel="tvi">
+    <title lang="ca">Cuines</title>
+    <sub-title lang="ca">Brandada de bacallà gratinada</sub-title>
+    <desc lang="ca">De receptes de brandada de bacallà n'hi ha per a tots els gustos. La que cuina en Marc Ribas us atraparà per la seva textura, sabor i pel seu final cruixent.</desc>
+    <length units="seconds">1276</length>
+    <episode-num system="onscreen">2428</episode-num>
+    <category lang="ca">DIVULGACIÓ</category>
+    <category lang="ca">CUINA</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <icon src="https://img.ccma.cat/multimedia/jpg/2/0/1758040151402.jpg"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/2/5/1653464509252.jpg"/>
   </programme>
-  <programme start="20261008103000 +0200" stop="20261008135500 +0200" channel="tvi">
-    <title lang="ca">Tot es mou</title>
-    <desc lang="ca">El programa presentat per Helena Garcia Melero s'emet de dilluns a divendres, de 10.30 a 13.55. Un magazín d'actualitat que busca informar, analitzar i debatre sobre temes que marquen l'actualitat social, econòmica i cultural del dia, amb una àmplia presència en directe dels reporters i reporteres, repartits per tot Catalunya. A més, el 'Tot es mou' compta amb seccions diàries de gastronomia (amb els principals cuiners i cuineres del país), successos, economia, mobilitat, temes mèdics i de tecnologia, entre d'altres.</desc>
-    <length units="seconds">12300</length>
-    <episode-num system="onscreen">1825</episode-num>
-    <category lang="ca">ACTUALITAT</category>
-    <category lang="ca">MAGAZINE</category>
+  <programme start="20261008155353 +0200" stop="20261008160201 +0200" channel="tvi">
+    <title lang="ca">Cuines</title>
+    <sub-title lang="ca">Farcellets de xocolata</sub-title>
+    <desc lang="ca">La combinació pa amb xocolata és un clàssic d'esmorzars i berenars. L'Arnau hi suma l'oli i la sal i en fa uns farcells que us encantaran.</desc>
+    <length units="seconds">488</length>
+    <episode-num system="onscreen">2308</episode-num>
+    <category lang="ca">DIVULGACIÓ</category>
+    <category lang="ca">CUINA</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
+    <previously-shown/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/2/5/1653464509252.jpg"/>
   </programme>
   <channel id="324">
     <display-name>324</display-name>
   </channel>
-  <programme start="20261008080000 +0200" stop="20261008103000 +0200" channel="324">
-    <title lang="ca">Matins</title>
-    <desc lang="ca">'Matins' és un dels puntals informatius de TV3. El programa matinal dona les claus del dia que comença, explica les notícies que han passat aportant-ne el context per entendre-les i analitza amb veus acreditades l'actualitat més propera i la d'arreu del món. 'Matins' comença a les 8 del matí, de dilluns a divendres, i està presentat per Ariadna Oltra.</desc>
-    <length units="seconds">9000</length>
-    <episode-num system="onscreen">4688</episode-num>
+  <programme start="20261008153000 +0200" stop="20261008160000 +0200" channel="324">
+    <title lang="ca">3CatInfo en aranès</title>
+    <desc lang="ca">Informatiu de continguts generalistes en llengua aranesa, presentat per Ares Riu, en emissió per a tot Catalunya.</desc>
+    <length units="seconds">1800</length>
+    <episode-num system="onscreen">2570</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <icon src="https://img.ccma.cat/multimedia/jpg/2/0/1758040151402.jpg"/>
+    <subtitles type="teletext"/>
+    <icon src="https://img.ccma.cat/multimedia/png/5/8/1758125433085.png"/>
   </programme>
-  <programme start="20261008103000 +0200" stop="20261008120000 +0200" channel="324">
+  <programme start="20261008160000 +0200" stop="20261008170000 +0200" channel="324">
     <title lang="ca">Notícies 3CatInfo</title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">5400</length>
-    <episode-num system="onscreen">11376</episode-num>
+    <length units="seconds">3600</length>
+    <episode-num system="onscreen">11378</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
@@ -57,28 +62,28 @@
   <channel id="esport3">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20261008075952 +0200" stop="20261008100136 +0200" channel="esport3">
-    <title lang="ca">Bàsquet</title>
-    <sub-title lang="ca">Kids&amp;Us Manresa-Ratiopharm Ulm / Eurocup / J2</sub-title>
-    <desc lang="ca">Després de la derrota en l'estrena, a la pista del PAOK de Tessalònica, el conjunt del Bages disputa el primer partit europeu del curs al Nou Congost.</desc>
-    <length units="seconds">7304</length>
-    <episode-num system="onscreen">97</episode-num>
-    <category lang="ca">ESPORTS</category>
-    <category lang="ca">RETRANSMISSIONS ESPORTS</category>
+  <programme start="20261008153757 +0200" stop="20261008163018 +0200" channel="esport3">
+    <title lang="ca">Experiència Catalana</title>
+    <sub-title lang="ca">Família Toulat</sub-title>
+    <desc lang="ca">La família Toulat ve des de París i l'acompanyem a participar en la Festa dels Raiers a la Pobla de Segur. A més, coneixen el parc d'Aigüestortes i el romànic de la Vall de Boí. Però el viatge té altres sorpreses, sobretot pels dos petits de la família: el Camp Nou i el Circ Cric.</desc>
+    <length units="seconds">3141</length>
+    <episode-num system="onscreen">11</episode-num>
+    <category lang="ca">ENTRETENIMENT</category>
+    <category lang="ca">ALTRES</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
+    <subtitles type="teletext"/>
     <previously-shown/>
-    <icon src="https://img.3cat.cat/multimedia/jpg/0/7/1761644896070.jpg"/>
   </programme>
-  <programme start="20261008100136 +0200" stop="20261008105321 +0200" channel="esport3">
-    <title lang="ca">Terreny personal</title>
-    <sub-title lang="ca">Plana de Vic</sub-title>
-    <desc lang="ca">En aquest capítol descobrirem un terreny envoltat de muntanyes que s'amaga sota la boira. Situat entre les Guilleries i el Moianès, entre el Montseny i el Lluçanès, travessa la comarca d'Osona de nord a sud: és la plana de Vic.Els protagonistes d'aquest programa estan molt lligats a aquest terreny tancat que els defineix. El Xevi Crosas ha decidit muntar una granja d'ovelles a la terra on va néixer, a prop del Ter, un riu que ell defensa i reivindica. El Quico Arumí buscava feina a la cuina, però tenia clar que havia de ser al costat de casa i la va trobar... a Can Jubany. El Miquel Saborit és de Vic. Escalador, li agrada mirar des de ben amunt la terra on va néixer.I la Ouafae Dabbou va arribar a Manlleu de gran, però d'aquest territori n'ha fet casa seva i de la seva família.En aquest capítol també hi intervenen nens de l'escola Vall del Ges de Torelló, que ens expliquen els seus espais preferits. L'escriptor Jordi Puntí llegeix un fragment del seu llibre 'Els castellans' a Manlleu, on va néixer, i l'Ernest Crusats, cantant de La Iaia, canta 'Sota l'arbre' i recorda la seva infantesa a la plaça de Vic.</desc>
-    <length units="seconds">3105</length>
-    <episode-num system="onscreen">6</episode-num>
-    <category lang="ca">DIVULGACIÓ</category>
-    <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
+  <programme start="20261008163018 +0200" stop="20261008172310 +0200" channel="esport3">
+    <title lang="ca">Experiència Catalana</title>
+    <sub-title lang="ca">Germans Green</sub-title>
+    <desc lang="ca">La Ivana Miño acompanya la Katie Green i al seu germà Barney per les Terres de l'Ebre. Un territori molt lligat a la seva història i a la de la seva família: el seu avi va morir al front de l'Ebre.</desc>
+    <length units="seconds">3172</length>
+    <episode-num system="onscreen">13</episode-num>
+    <category lang="ca">ENTRETENIMENT</category>
+    <category lang="ca">ALTRES</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
@@ -88,59 +93,58 @@
   <channel id="sx3">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20261008081705 +0200" stop="20261008083024 +0200" channel="sx3">
-    <title lang="ca">Titó</title>
-    <sub-title lang="ca">Excursió a plegar avellanes</sub-title>
-    <desc lang="ca">Avui anem a plegar avellanes. Descobrirem com es feia antigament, amb la senalla, i com es fa avui en dia, amb la bufadora, el rasclet, el tractor i la màquina de xuclar. Pot passar de tot quan en John C agafi la xucladora! </desc>
-    <length units="seconds">799</length>
-    <episode-num system="onscreen">101</episode-num>
-    <category lang="ca">ENTRETENIMENT</category>
-    <category lang="ca">ALTRES</category>
+  <programme start="20261008154519 +0200" stop="20261008155214 +0200" channel="sx3">
+    <title lang="ca">En Grizzy i els Lèmmings</title>
+    <sub-title lang="ca">Una simfonia per als Lèmmings</sub-title>
+    <desc lang="ca">En Grizzy vol mirar la televisió tranquil, però els Lèmmings tenen altres plans: divertir-se tocant música amb instruments que han fabricat ells mateixos. Molest pel soroll que fan al garatge, en Grizzy els destrueix els instruments i els expulsa de la cabana. Els Lèmmings descobreixen un ukulele màgic que embruixa qualsevol que l'escolti: és l'instrument perfecte per recuperar el control de la cabana i tornar a començar el concert.</desc>
+    <length units="seconds">415</length>
+    <episode-num system="onscreen">272</episode-num>
+    <category lang="ca">FICCIÓ</category>
+    <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
       <value>INFANTIL</value>
     </rating>
-    <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20261008083024 +0200" stop="20261008084139 +0200" channel="sx3">
-    <title lang="ca">A jugar! Amb en Titó i els Fa la la</title>
-    <sub-title lang="ca">A jugar amb el monstre del riu</sub-title>
-    <desc lang="ca">Tens ganes de jugar? Doncs prepara't per viure històries fantàstiques amb els ninos dels Fa La La, d'en Titó i d'en John C. Farem supersalts secrets amb el Tritó del Montseny, invocarem la tramuntana amb l'Oca de l'Empordà, farem màgia amb la banya del Ruquicorn, trobarem solucions brutals amb l'Os Bru... i molt més! T'hi apuntes? A jugar! </desc>
-    <length units="seconds">675</length>
-    <episode-num system="onscreen">38</episode-num>
-    <category lang="ca">ENTRETENIMENT</category>
-    <category lang="ca">ALTRES</category>
+  <programme start="20261008155214 +0200" stop="20261008155843 +0200" channel="sx3">
+    <title lang="ca">En Grizzy i els Lèmmings</title>
+    <sub-title lang="ca">Os animat</sub-title>
+    <desc lang="ca">Els lèmmings estan tots assegudets al sofà mirant uns dibuixos animats en què un ratolí fa bromes pesades a un gat. En Grizzy, que té intenció de fer una migdiada, apaga la televisió i confisca les piles del comandament a distància per assegurar-se que no podran tornar a posar el seu programa. Potser s'ho hauria d'haver pensat dues vegades abans d'interposar-se entre una colla de lèmmings i el seu interès per l'animació.</desc>
+    <length units="seconds">389</length>
+    <episode-num system="onscreen">118</episode-num>
+    <category lang="ca">FICCIÓ</category>
+    <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
       <value>INFANTIL</value>
     </rating>
-    <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
   <channel id="c33">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20261008073916 +0200" stop="20261008083226 +0200" channel="c33">
-    <title lang="ca">Experiència Catalana</title>
-    <sub-title lang="ca">Robert Englund</sub-title>
-    <desc lang="ca">L'actor de Hollywood Robert Englund, el mític Freddy Krueger, visita Catalunya de la mà d''Experiència catalana' i la Ivana Miño. Junts visiten el cementiri de Montjuïc, els banys jueus de Besalú i el Restaurant Hispània d'Arenys. Tot plegat, just abans d'enfrontar-se a una nit d'espant a Mataró.</desc>
-    <length units="seconds">3190</length>
-    <episode-num system="onscreen">19</episode-num>
-    <category lang="ca">ENTRETENIMENT</category>
+  <programme start="20261008152911 +0200" stop="20261008161517 +0200" channel="c33">
+    <title lang="ca">La Renaixença</title>
+    <sub-title lang="ca">La samarreta imperi</sub-title>
+    <desc lang="ca">Portar samarreta imperi és tot un art, o un senyal que la vida t'ha anat molt malament. Elegància o deixadesa? Orgull o vergonya? En portaven a la Renaixença o els humans del segle XXI? Sigui com sigui, és la protagonista del programa d'avui. Ens visiten El Pony Pisador, que estrenen al nostre escenari un tema inèdit: 'L'havanera del raier'. I a 'Històries per passejar el gos' anem amb la Rita, una gossa de Calldetenes, a un dia tràgic: el 20 de gener del 1948, concretament a Nova Delhi, on hi va haver l'assassinat de Gandhi.</desc>
+    <length units="seconds">2766</length>
+    <episode-num system="onscreen">38</episode-num>
+    <category lang="ca">DIVULGACIÓ</category>
     <category lang="ca">ALTRES</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/3/3/1756148014833.jpg"/>
   </programme>
-  <programme start="20261008083226 +0200" stop="20261008092313 +0200" channel="c33">
-    <title lang="ca">Cosins Germans</title>
-    <sub-title lang="ca">Cultura de l'aigua</sub-title>
-    <desc lang="ca">L'aigua és la font de la vida i és present en molts dels nostres rituals. A la Pobla de Segur, Ferran Torrent perd una aposta i Araceli Segarra li ho fa pagar baixant pels ràpids del Noguera Pallaresa, en la Festa dels Raiers. A les aigües plàcides de l'Albufera de València, Ferran tindrà la seva revenja particular, i junts embarcaran per conèixer els secrets de la vela llatina, un dels sistemes de navegació més antics. Acabarem en companyia d'Elisabet Carnicé al barri del Serrallo de Tarragona, on serem testimonis de la processó marítima del Carme, una de les més genuïnes.</desc>
-    <length units="seconds">3047</length>
-    <episode-num system="onscreen">19</episode-num>
-    <category lang="ca">DIVULGACIÓ</category>
-    <category lang="ca">ALTRES</category>
+  <programme start="20261008161517 +0200" stop="20261008172450 +0200" channel="c33">
+    <title lang="ca">Còmics</title>
+    <sub-title lang="ca">Rubianes</sub-title>
+    <desc lang="ca">L''actor galaico-català' és el màxim exponent del monologuista vital, entranyablement groller, enèrgic, sarcàstic i amb una ironia lúcida i propera. Molt amic dels seus amics, el seu somriure el feia irresistible per als espectadors i també, fora de l'escenari, per a una bona part de la població femenina. Un bon amic seu, periodista i presentador de televisió, reviu al programa anècdotes compartides i fragments dels seus espectacles</desc>
+    <length units="seconds">4173</length>
+    <episode-num system="onscreen">4</episode-num>
+    <category lang="ca">ENTRETENIMENT</category>
+    <category lang="ca">GAGS. HUMOR</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
@@ -159,4 +163,15 @@
   <channel id="oca4">
     <display-name>OCA4</display-name>
   </channel>
+  <programme start="20261008153009 +0200" stop="20261008183004 +0200" channel="oca4">
+    <title lang="ca">Ple del Parlament</title>
+    <length units="seconds">10795</length>
+    <episode-num system="onscreen">4164</episode-num>
+    <category lang="ca">ACTUALITAT</category>
+    <category lang="ca">RETRANSMISSIONS ACTUALITAT</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <icon src="https://img.ccma.cat/multimedia/jpg/9/7/1699359531979.jpg"/>
+  </programme>
 </tv>
