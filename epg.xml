@@ -3,29 +3,29 @@
   <channel id="tvi">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20261009001414 +0200" stop="20261009020850 +0200" channel="tvi">
-    <title lang="ca">Mésnit</title>
-    <desc lang="ca">El 'Mésnit' arriba a la desena temporada, amb Marina Romero al capdavant de l'espai i amb la voluntat de continuar sent un centre de debat d'idees i d'anàlisi de l'activitat política.</desc>
-    <length units="seconds">6876</length>
-    <episode-num system="onscreen">2176</episode-num>
-    <category lang="ca">ACTUALITAT</category>
-    <category lang="ca">DEBAT</category>
+  <programme start="20261009050007 +0200" stop="20261009060000 +0200" channel="tvi">
+    <title lang="ca">Jazz a l'estudi</title>
+    <sub-title lang="ca">Amador/Medeiros/Galiana</sub-title>
+    <desc lang="ca">Durant el segle XX el jazz s'ha convertit en un llenguatge musical universal. Gèneres com el be bop, el blues o el swing han trencat fronteres geogràfiques i racials per esdevenir una música popular, que músics d'arreu del món han adaptat a la seva manera de fer. Jazz a l'estudi és un programa de seixanta minuts de durada dedicat al gènere musical jazzístic per on passen músics arrelats a Catalunya. Des d'aquest espai es proposa fer un cop d'ull al panorama del jazz i les seves variants al nostre país.I ho fa d'una manera diferent, perquè el programa ofereix la possibilitat de veure els artistes en un dels seus àmbits naturals: l'estudi de gravació on s'enregistren les sessions, com una instantània sonora, i on es couen les millors receptes musicals del jazz a Catalunya. </desc>
+    <length units="seconds">3593</length>
+    <episode-num system="onscreen">22</episode-num>
+    <category lang="ca">MUSICALS</category>
+    <category lang="ca">JAZZ</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <previously-shown/>
   </programme>
-  <programme start="20261009020850 +0200" stop="20261009040000 +0200" channel="tvi">
+  <programme start="20261009060000 +0200" stop="20261009080000 +0200" channel="tvi">
     <title lang="ca">Notícies 3CatInfo</title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">6670</length>
-    <episode-num system="onscreen">11383</episode-num>
+    <length units="seconds">7200</length>
+    <episode-num system="onscreen">11384</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <previously-shown/>
     <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
   <channel id="324">
@@ -54,30 +54,29 @@
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
+    <subtitles type="teletext"/>
     <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
   <channel id="esport3">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20261009004703 +0200" stop="20261009021906 +0200" channel="esport3">
-    <title lang="ca">Onze</title>
-    <sub-title lang="ca">La prova del 9; 'El Colegiado' i 'El consultori'</sub-title>
-    <desc lang="ca">Víctor Lozano, David Bernabeu, Juli Garcia i Jordi Costa comenten les opcions de Flick per substituir Raphinha a la davantera del Barça. En Joan Fàbregas porta una notícia sobre l'àrbitre del clàssic. En Sergi Ferrer respon les preguntes dels espectadors.</desc>
-    <length units="seconds">5523</length>
-    <episode-num system="onscreen">1265</episode-num>
+  <programme start="20261009052934 +0200" stop="20261009060029 +0200" channel="esport3">
+    <title lang="ca">E3</title>
+    <sub-title lang="ca">Prèvia WEC Barcelona</sub-title>
+    <desc lang="ca">Per primera vegada a la seva història, el Campionat Mundial de Resistència de la FIA (World Endurance Championship) arriba al Circuit de Barcelona-Catalunya. Després d'Imola, Spa, Le Mans, São Paulo, Austin i Fuji, la penúltima ronda de la temporada serà decisiva en la lluita pels títols mundials.</desc>
+    <length units="seconds">1855</length>
+    <episode-num system="onscreen">2393</episode-num>
     <category lang="ca">ESPORTS</category>
-    <category lang="ca">MAGAZINE</category>
+    <category lang="ca">REPORTATGES</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <subtitles type="teletext"/>
-    <previously-shown/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/1/1/1688543515711.jpg"/>
+    <icon src="https://img.3cat.cat/multimedia/jpg/0/1/1791283263910.jpg"/>
   </programme>
-  <programme start="20261009021906 +0200" stop="20261009023315 +0200" channel="esport3">
+  <programme start="20261009060029 +0200" stop="20261009061858 +0200" channel="esport3">
     <title lang="ca">3CatInfo Esports</title>
     <desc lang="ca">Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.</desc>
-    <length units="seconds">849</length>
+    <length units="seconds">1109</length>
     <episode-num system="onscreen">5532</episode-num>
     <category lang="ca">ESPORTS</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
@@ -90,64 +89,63 @@
   <channel id="sx3">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20261009014059 +0200" stop="20261009015958 +0200" channel="sx3">
-    <title lang="ca">Viatges Pokémon</title>
-    <sub-title lang="ca">Un camí sinuós cap a la grandesa!</sub-title>
-    <desc lang="ca">L'Ash i el Goh arriben a Poble Vessant amb l'objectiu d'ajudar el Gengar a gigamaxitzar-se. Aquí, tornen a trobar l'Alistair, el noi emmascarat que havien conegut al Tren Espectral, que resulta que és un líder de gimnàs del poble. L'Alistair s'afegeix als nostres amics i tots junts, entren en bosc fantasmagòric per agafar maxibolets, l'ingredient principal de la maxisopa, que permet que uns quants Pokémon es puguin gigamaxitzar. Però trobar aquests maxibolets i agafar-los no serà gens fàcil en un bosc on tot seran dificultats!</desc>
-    <length units="seconds">1139</length>
-    <episode-num system="onscreen">92</episode-num>
+  <programme start="20261009052851 +0200" stop="20261009053450 +0200" channel="sx3">
+    <title lang="ca">El xai Shaun</title>
+    <sub-title lang="ca">Adéu, estable</sub-title>
+    <desc lang="ca">Avui en Shaun i les ovelles s'han quedat amb un pam de nas quan han descobert que el granger té intenció de remodelar l'estable de dalt a baix i que, a partir d'ara, ja no comptarà més amb la seva presència. Si volen que la vida a la granja continuï sent com fins ara, hauran de prendre mesures dràstiques. Avui més que mai!</desc>
+    <length units="seconds">359</length>
+    <episode-num system="onscreen">86</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
       <value>INFANTIL</value>
     </rating>
-    <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20261009015958 +0200" stop="20261009021937 +0200" channel="sx3">
-    <title lang="ca">Viatges Pokémon</title>
-    <sub-title lang="ca">El nom ho diu tot!</sub-title>
-    <desc lang="ca">Unes ones magnètiques que venen d'un satèl·lit avariat provoquen que els Magnemite de Ciutat Carmí comencin a fer coses estranyes, i el Ren està decidit a protegir el François. L'Ash i el Goh volen acompanyar el Ren i el François fora de la ciutat, però els ataquen uns altres Magnemite, que es queden el François. En aquests moments tan difícils, el Ren recorda com va conèixer el seu amic i pensa en el lligam que tenen des de llavors. Tot les dificultats, el Ren no cedeix i mira de fer tornar el François.</desc>
-    <length units="seconds">1179</length>
-    <episode-num system="onscreen">93</episode-num>
+  <programme start="20261009053450 +0200" stop="20261009054050 +0200" channel="sx3">
+    <title lang="ca">El xai Shaun</title>
+    <sub-title lang="ca">Partit de rounders</sub-title>
+    <desc lang="ca">El partit de rounders entre els porcs i les ovelles està més emocionant que mai. En Shaun està a punt de batre i podria aconseguir la carrera que els donaria la victòria. Els porcs, com sempre, intentaran fer trampes perquè és la seva manera de jugar. Només queda una jugada i el granger està a punt de descobrir-los. Qui guanyarà?! Podran acabar el partit?! Aviat ho sabrem!</desc>
+    <length units="seconds">360</length>
+    <episode-num system="onscreen">87</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
       <value>INFANTIL</value>
     </rating>
-    <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
   <channel id="c33">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20261009012801 +0200" stop="20261009015558 +0200" channel="c33">
-    <title lang="ca">Diaris fotogràfics</title>
-    <sub-title lang="ca">Txema Salvans</sub-title>
-    <desc lang="ca">Sinopsi genèrica</desc>
-    <length units="seconds">1677</length>
-    <episode-num system="onscreen">1</episode-num>
-    <category lang="ca">ENTRETENIMENT</category>
-    <category lang="ca">ALTRES</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <subtitles type="teletext"/>
-    <previously-shown/>
-  </programme>
-  <programme start="20261009015558 +0200" stop="20261009022942 +0200" channel="c33">
-    <title lang="ca">Diaris fotogràfics</title>
-    <sub-title lang="ca">Laia Abril</sub-title>
-    <desc lang="ca">Sinopsis capítol 2: Laia Abril</desc>
-    <length units="seconds">2024</length>
+  <programme start="20261009045925 +0200" stop="20261009054556 +0200" channel="c33">
+    <title lang="ca">La Renaixença</title>
+    <sub-title lang="ca">El paper de vàter</sub-title>
+    <desc lang="ca">Dediquem el segon capítol de 'La renaixença' al paper de vàter, un dels pocs objectes que segurament ens posen a tots al mateix nivell. Ens visita una 'sàvia per conèixer', la Marina Casanelles. És ensinistradora de gossos especialitzats en el rescat de persones, la detecció d'explosius, drogues... i ha decidit venir-nos a visitar amb en Ratatouille, un chihuahua que detecta marihuana. Acabem el programa amb una nova història per passejar el gos: avui sortim amb en Rumbo per la Barcelona del 1909, durant la Setmana Tràgica.</desc>
+    <length units="seconds">2791</length>
     <episode-num system="onscreen">2</episode-num>
-    <category lang="ca">ENTRETENIMENT</category>
+    <category lang="ca">DIVULGACIÓ</category>
     <category lang="ca">ALTRES</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/3/3/1756148014833.jpg"/>
+  </programme>
+  <programme start="20261009054556 +0200" stop="20261009055132 +0200" channel="c33">
+    <title lang="ca">Xarxa Natura</title>
+    <sub-title lang="ca">Garraf</sub-title>
+    <desc lang="ca">En la llista d'espais inclosos a la Xarxa Natura 2000 hi ha tots els parcs naturals, però també molts altres espais emblemàtics com ara les Guilleries, l'estany de Banyoles, l'Alta Garrotxa, la serra del Montsec o les Gavarres. La majoria d'aquests espais són autèntics desconeguts i els seus valors naturals i culturals no han estat mai objecte de cap divulgació específica. Aquesta sèrie vol donar a conèixer aquest patrimoni.</desc>
+    <length units="seconds">336</length>
+    <episode-num system="onscreen">17</episode-num>
+    <category lang="ca">ALTRES</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <subtitles type="teletext"/>
+    <previously-shown/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/4/1/1721308939614.jpg"/>
   </programme>
   <channel id="oca1">
     <display-name>OCA1</display-name>
