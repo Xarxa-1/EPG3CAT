@@ -3,37 +3,37 @@
   <channel id="tvi">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20261009191218 +0200" stop="20261009201554 +0200" channel="tvi">
-    <title lang="ca">Atrapa'm si pots</title>
-    <desc lang="ca">'Atrapa'm si pots' és un 'quiz show' clàssic, de preguntes i respostes, presentat per Llucià Ferrer, en què sis concursants competeixen per arribar a la fase final i guanyar el pot. 'Atrapa'm si pots' és entreteniment pur i on gairebé és més important passar-s'ho bé que els diners. És un concurs en què pesa més la intuïció que no els coneixements acadèmics, més l'estratègia en el joc que no la sort.</desc>
-    <length units="seconds">3816</length>
-    <episode-num system="onscreen">941</episode-num>
+  <programme start="20261009220555 +0200" stop="20261010004656 +0200" channel="tvi">
+    <title lang="ca">Col·lapse</title>
+    <desc lang="ca">Jordi González visita una de les zones afectades pels aiguats. Parlarà amb Patricia Lucas, una veïna de Malgrat de Mar a qui la pluja intensa ha inundat completament la casa i l'ha obligada a viure temporalment en un càmping. Queden 50 dies per a les eleccions generals; és decisiu el vot dels catalans. Què ens espera? En parlem amb els periodistes Maiol Roger (subdirector d''El matí de Catalunya Ràdio'), Josep Capella (de la delegació de Madrid de TV3), i Iva Angera. Carlos Latre, l'home de les mil cares, estrena una secció en què barreja actualitat i humor.Analitzem l'esdeveniment musical de l'any: els concerts de comiat d'Oques Grasses, amb Oscar Nin (crític d'art), Gal·la Castelltort (presentadora de 'Loft ' a Icat Fm) i fan número 1 del grup, i la cantant Suu.I el psiconeuroinmunòleg Xevi Verdaguer explica trucs per entendre el nostre metabolisme si volem treure'ns els quilos de més que encara tenim acumulats de l'estiu. I, com sempre, ens acompanyaran els nostres col·laboradora fixos Sergi Pàmies, Albert Montagut i els membres de la taula final.Aquesta setmana i de forma excepcional, divendres 22:10. </desc>
+    <length units="seconds">9661</length>
+    <episode-num system="onscreen">156</episode-num>
     <category lang="ca">ENTRETENIMENT</category>
-    <category lang="ca">CONCURS</category>
+    <category lang="ca">TALK-SHOW</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
   </programme>
-  <programme start="20261009201554 +0200" stop="20261009210000 +0200" channel="tvi">
-    <title lang="ca">Està passant</title>
-    <desc lang="ca">'Està passant' és un programa d'humor que analitza les claus de l'actualitat cada dia, durant 45 minuts, en la franja anterior al 'Telenotícies vespre'.El programa, presentat per Òscar Andreu, Jair Domínguez, Natza Farré, Queco Novell i Núria Marín, ens apropa als principals temes del dia, amb especial atenció a l'actualitat política i al seguiment dels mitjans de comunicació i les xarxes socials. Tot plegat, sense renunciar a la sàtira que caracteritza la trajectòria de l'equip de Minoria Absoluta.</desc>
-    <length units="seconds">2646</length>
-    <episode-num system="onscreen">1828</episode-num>
+  <programme start="20261010004656 +0200" stop="20261010011350 +0200" channel="tvi">
+    <title lang="ca">Marcians</title>
+    <sub-title lang="ca">El Lluçanès existeix</sub-title>
+    <desc lang="ca">Mar Pujol publica el seu tercer disc consolidada ja com una figura clau de la cançó catalana actual. Es titula 'D'aquesta aigua no en beuré', i de les seves composicions en torna a brollar el paisatge i el caràcter de la terra que les ha vist néixer, el Lluçanès. La seva comarca té menys de 6.000 habitants, però entre ells s'hi compten força artistes. Al bell mig de la comarca, a Sant Martí d'Albars, hi viu Griselda Juncà. És una lluçanesa que amb el mallorquí Tomeu Amer van formar Hotel iocandi, una companyia de circ que va començar la carrera a Barcelona, però que s'ha acabat instal·lant i treballant a la terra d'ella. També hi ha molts lluçanesos que no es dediquen a cap disciplina artística, però que la practiquen. Això es pot comprovar a l'escola de circ La Cabirola, de la qual Juncà forma part. És a Lluçà, un municipi de menys de 300 habitants, i l'escola ha arribat a tenir un centenar d'alumnes, entre elles Mar Pujol i Laia Pujol. És precisament Laia Pujol qui va dirigir l'Escola de Música de Prats de Lluçanès fins que fa 5 anys va viatjar als Estats Units per formar-se en música comunitària, i va obtenir una nova perspectiva de la seva comarca. Ara treballa a l'Academy for Impact through Music, organització que porta diversos projectes de música comunitària a escala internacional. Té, però, molt presents els seus orígens en aquesta petita comarca de la Catalunya Central.</desc>
+    <length units="seconds">1614</length>
+    <episode-num system="onscreen">98</episode-num>
     <category lang="ca">ENTRETENIMENT</category>
-    <category lang="ca">GAGS. HUMOR</category>
+    <category lang="ca">ALTRES</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <icon src="https://img.ccma.cat/multimedia/png/3/8/1705511272683.png"/>
   </programme>
   <channel id="324">
     <display-name>324</display-name>
   </channel>
-  <programme start="20261009183000 +0200" stop="20261009200000 +0200" channel="324">
+  <programme start="20261009233000 +0200" stop="20261010003000 +0200" channel="324">
     <title lang="ca">Notícies 3CatInfo</title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">5400</length>
-    <episode-num system="onscreen">11389</episode-num>
+    <length units="seconds">3600</length>
+    <episode-num system="onscreen">11391</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
@@ -42,11 +42,11 @@
     <subtitles type="teletext"/>
     <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
-  <programme start="20261009200000 +0200" stop="20261009210000 +0200" channel="324">
+  <programme start="20261010003000 +0200" stop="20261010010000 +0200" channel="324">
     <title lang="ca">Notícies 3CatInfo</title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">3600</length>
-    <episode-num system="onscreen">11390</episode-num>
+    <length units="seconds">1800</length>
+    <episode-num system="onscreen">11392</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
@@ -58,43 +58,41 @@
   <channel id="esport3">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20261009191253 +0200" stop="20261009192728 +0200" channel="esport3">
-    <title lang="ca">Sala de Premsa</title>
-    <sub-title lang="ca">Hansi Flick / Prèvia Barça-Getafe / J8</sub-title>
-    <desc lang="ca">Esport3 t'ofereix les compareixences de dirigents, jugadors i entrenadors dels equips catalans davant els mitjans de comunicació.</desc>
-    <length units="seconds">875</length>
-    <episode-num system="onscreen">735</episode-num>
+  <programme start="20261009230000 +0200" stop="20261010003109 +0200" channel="esport3">
+    <title lang="ca">Onze</title>
+    <sub-title lang="ca">L'hora de Gabriel Jesus; el Màlaga-Espanyol i Mou defensa Mbappé</sub-title>
+    <desc lang="ca">Míriam Riau fa tertúlia amb Juvenal Edjogo, Laia Tudel, Irati Vidal i Santi Ovalle. Rapinha està lesionat i no jugarà contra el Getafe: el davanter centre serà Gabriel Jesús. Veiem el resum del Màlaga-Espanyol amb David Balaguer i analitzem la roda de premsa de Mourinho, que ha defensat Mbappé. Acabem amb les golfes de l'Onze, amb Òscar Nin.</desc>
+    <length units="seconds">5469</length>
+    <episode-num system="onscreen">1266</episode-num>
     <category lang="ca">ESPORTS</category>
-    <category lang="ca">INFORMATIU DIÀRI</category>
+    <category lang="ca">MAGAZINE</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
-    <icon src="https://img.3cat.cat/multimedia/jpg/7/4/1778665728847.jpg"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/1/1/1688543515711.jpg"/>
   </programme>
-  <programme start="20261009192728 +0200" stop="20261009205000 +0200" channel="esport3">
-    <title lang="ca">Sala de Premsa</title>
-    <sub-title lang="ca">Comiat de Pedro Rodríguez</sub-title>
-    <desc lang="ca">Homenatge al davanter canari, component del millor Barça de la història, que ha anunciat la retirada del futbol professional. Aquell 2009 perfecte va ser quan Pedro Rodríguez es va convertir en el primer futbolista que marcava en les sis competicions oficials: Lliga, Copa del Rei, Champions, Supercopa d'Espanya, Supercopa d'Europa i Mundial de Clubs.</desc>
-    <length units="seconds">4952</length>
-    <episode-num system="onscreen">737</episode-num>
+  <programme start="20261010003109 +0200" stop="20261010005056 +0200" channel="esport3">
+    <title lang="ca">3CatInfo Esports</title>
+    <desc lang="ca">Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.</desc>
+    <length units="seconds">1187</length>
+    <episode-num system="onscreen">5533</episode-num>
     <category lang="ca">ESPORTS</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <subtitles type="teletext"/>
-    <icon src="https://img.3cat.cat/multimedia/jpg/7/5/1791447971257.jpg"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/9/7/1758888682179.jpg"/>
   </programme>
   <channel id="sx3">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20261009185255 +0200" stop="20261009191555 +0200" channel="sx3">
-    <title lang="ca">Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
-    <sub-title lang="ca">Revelador</sub-title>
-    <desc lang="ca">La Marinette i l'Adrien són la parella més famosa de París i desperten l'interès d'un influencer poc escrupolós, disposat a tot per fer-se viral a les xarxes, fins i tot a destruir l'amor entre els dos adolescents. Podrà la seva relació sobreviure a una mentida?</desc>
-    <length units="seconds">1380</length>
-    <episode-num system="onscreen">142</episode-num>
+  <programme start="20261009232747 +0200" stop="20261009234757 +0200" channel="sx3">
+    <title lang="ca">Els germans Kratt</title>
+    <sub-title lang="ca">El rei de les cobres</sub-title>
+    <desc lang="ca">El Martin perd l'animalpod i el Chris l'ajuda a buscar-lo. Quan el troben, hi ha una cobra índia cargolada al voltant. Per aprendre més coses d'aquest animal es miniaturitzen i s'enfilen dalt d'una mangosta, un animal immune al verí de les cobres. Però quan volen recuperar la mida normal s'adonen que han perdut el miniaturitzador! Mentrestant, la Koki i l'Aviva descobreixen un niu de cobra reial.</desc>
+    <length units="seconds">1210</length>
+    <episode-num system="onscreen">122</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
@@ -103,12 +101,12 @@
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20261009191555 +0200" stop="20261009193821 +0200" channel="sx3">
-    <title lang="ca">Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
-    <sub-title lang="ca">Psiconductora</sub-title>
-    <desc lang="ca">Traumatitzada des que la van akumatitzar, l'Aglaé té fòbia a les papallones i fins i tot li fa por sortir de casa. A la Marinette li agradaria trobar una solució màgica per ajudar la seva amiga, però, com per desgràcia descobrirà, Ladybug no pot arreglar tots els problemes.</desc>
-    <length units="seconds">1346</length>
-    <episode-num system="onscreen">143</episode-num>
+  <programme start="20261009234757 +0200" stop="20261010000806 +0200" channel="sx3">
+    <title lang="ca">Els germans Kratt</title>
+    <sub-title lang="ca">La salamandra del foc</sub-title>
+    <desc lang="ca">Explorant la Selva Negra, a Alemanya, els germans Kratt troben unes salamandres que surten d'entre les flames d'una foguera i no s'han cremat ni fet mal. Amb tot l'equip, decideixen investigar aquest misteri, perquè les salamandres precisament necessiten la humitat per viure. Al mateix temps, hauran d'impedir que la Donita Donata faci mal a les salamandres, perquè, convençuda que les salamandres tenen propietats ignífugues, es vol fer un vestit especial amb la pell d'aquest amfibi per lluir-lo en una desfilada de moda.</desc>
+    <length units="seconds">1209</length>
+    <episode-num system="onscreen">123</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
@@ -120,35 +118,32 @@
   <channel id="c33">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20261009180424 +0200" stop="20261009195041 +0200" channel="c33">
-    <title lang="ca">Bicicleta cullera poma</title>
-    <sub-title lang="ca">Bicicleta cullera poma</sub-title>
-    <desc lang="ca">Guanyador del Premi Gaudí, del Premi Goya i del Premi José María Forqué a la millor pel·lícula documental 2011. A la tardor del 2007, a Pasqual Maragall se li diagnostica Alzheimer. Superat el cop inicial, ell i la seva família inicien una croada contra la malaltia, i, des del primer moment, aquesta pel·lícula es converteix en testimoni d'excepció. Amb intel·ligència, sinceritat i bon humor, Maragall es deixa retratar juntament amb la seva família i els metges per deixar constància del dia a dia de la seva lluita personal.'Sense ficció' estrena a la televisió aquest treball que ha recollit diversos premis: el Gaudí, el Goya i el José María Forqué. El documental de Carles Bosch ha suposat dos anys de seguiment de Pasqual Maragall i de la seva família, que han obert les portes a l'autor. Aquest fet ha permès a Bosch fer un retrat íntim d'un pacient excepcional disposat que els científics trobin la cura abans que la xifra de 26 milions de malalts de tot el món es multipliqui per 10. Una pel·lícula dura, però optimista malgrat tot, i que arriba a la televisió després d'un recorregut d'èxit per les sales de cinema.</desc>
-    <length units="seconds">6377</length>
-    <episode-num system="onscreen">1</episode-num>
-    <category lang="ca">DIVULGACIÓ</category>
-    <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
+  <programme start="20261009233552 +0200" stop="20261010002454 +0200" channel="c33">
+    <title lang="ca">País d'altura</title>
+    <sub-title lang="ca">Pirineus</sub-title>
+    <desc lang="ca">Els Pirineus són una frontera de muntanyes gegants i vides a gran altitud. Pobles penjats del mapa, cims que toquen el cel i gent que viu més a prop dels núvols que dels embussos.</desc>
+    <length units="seconds">2942</length>
+    <episode-num system="onscreen">2</episode-num>
+    <category lang="ca">ENTRETENIMENT</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
-    <icon src="https://img.3cat.cat/multimedia/jpg/8/5/1704982435258.jpg"/>
   </programme>
-  <programme start="20261009195041 +0200" stop="20261009205947 +0200" channel="c33">
-    <title lang="ca">Joana Biarnés, una entre tots</title>
-    <sub-title lang="ca">Joana Biarnés, una entre tots</sub-title>
-    <desc lang="ca">'JOANA BIARNÉS, UNA ENTRE TOTS' (2016), una producció de REC Videoproduccions en coproducció amb Televisió de Catalunya i TVE.Va estar tres hores a la suite dels Beatles, va enganyar Roman Polanski adoptant una identitat falsa, va ser fotògrafa personal de Raphael, va escollir el vestit de Massiel per a Eurovisió i es va ruboritzar quan Clint Eastwood va besar-la als llavis. Amiga íntima de Xavier Cugat, Joan Manuel Serrat, la duquessa d'Alba, Salvador Dalí, Fernando Rey, el Cordobés, Lola Flores...'Una entre tots' és l'extraordinària i desconeguda història de Joana Biarnés, la primera fotoperiodista espanyola. Una pionera que va superar els prejudicis d'una època per triomfar a la seva professió, que va immortalitzar grans personalitats històriques i que, quan podia haver-se convertit en una llegenda, va desaparèixer. Fins avui.Direcció, guió i documentació: Òscar Moreno, Jordi RoviraRealització, muntatge i edició musical: Xavier BaigIdea original: Jordi RoviraProductors: Xavier Baig, Òscar Moreno Productora executiva: Helena GómezProductor executiu TVC: Jordi AmbròsProductor executiu TVE: Andrés LuqueProducció delegada TVC: Joan PavonImatge i so: REC Disseny de so: Estudi RECRetoc fotogràfic: Òscar Moreno</desc>
-    <length units="seconds">4146</length>
-    <episode-num system="onscreen">1</episode-num>
-    <category lang="ca">DIVULGACIÓ</category>
-    <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
+  <programme start="20261010002454 +0200" stop="20261010011751 +0200" channel="c33">
+    <title lang="ca">Experiència Catalana</title>
+    <sub-title lang="ca">Germans Green</sub-title>
+    <desc lang="ca">La Ivana Miño acompanya la Katie Green i al seu germà Barney per les Terres de l'Ebre. Un territori molt lligat a la seva història i a la de la seva família: el seu avi va morir al front de l'Ebre.</desc>
+    <length units="seconds">3177</length>
+    <episode-num system="onscreen">13</episode-num>
+    <category lang="ca">ENTRETENIMENT</category>
+    <category lang="ca">ALTRES</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
-    <icon src="https://img.3cat.cat/multimedia/jpg/5/5/1462676838555.jpg"/>
   </programme>
   <channel id="oca1">
     <display-name>OCA1</display-name>
