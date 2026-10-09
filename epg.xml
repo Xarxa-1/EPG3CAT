@@ -3,52 +3,49 @@
   <channel id="tvi">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20261009050007 +0200" stop="20261009060000 +0200" channel="tvi">
-    <title lang="ca">Jazz a l'estudi</title>
-    <sub-title lang="ca">Amador/Medeiros/Galiana</sub-title>
-    <desc lang="ca">Durant el segle XX el jazz s'ha convertit en un llenguatge musical universal. Gèneres com el be bop, el blues o el swing han trencat fronteres geogràfiques i racials per esdevenir una música popular, que músics d'arreu del món han adaptat a la seva manera de fer. Jazz a l'estudi és un programa de seixanta minuts de durada dedicat al gènere musical jazzístic per on passen músics arrelats a Catalunya. Des d'aquest espai es proposa fer un cop d'ull al panorama del jazz i les seves variants al nostre país.I ho fa d'una manera diferent, perquè el programa ofereix la possibilitat de veure els artistes en un dels seus àmbits naturals: l'estudi de gravació on s'enregistren les sessions, com una instantània sonora, i on es couen les millors receptes musicals del jazz a Catalunya. </desc>
-    <length units="seconds">3593</length>
-    <episode-num system="onscreen">22</episode-num>
-    <category lang="ca">MUSICALS</category>
-    <category lang="ca">JAZZ</category>
+  <programme start="20261009103031 +0200" stop="20261009135500 +0200" channel="tvi">
+    <title lang="ca">Tot es mou</title>
+    <desc lang="ca">El programa presentat per Helena Garcia Melero s'emet de dilluns a divendres, de 10.30 a 13.55. Un magazín d'actualitat que busca informar, analitzar i debatre sobre temes que marquen l'actualitat social, econòmica i cultural del dia, amb una àmplia presència en directe dels reporters i reporteres, repartits per tot Catalunya. A més, el 'Tot es mou' compta amb seccions diàries de gastronomia (amb els principals cuiners i cuineres del país), successos, economia, mobilitat, temes mèdics i de tecnologia, entre d'altres.</desc>
+    <length units="seconds">12269</length>
+    <episode-num system="onscreen">1826</episode-num>
+    <category lang="ca">ACTUALITAT</category>
+    <category lang="ca">MAGAZINE</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <previously-shown/>
   </programme>
-  <programme start="20261009060000 +0200" stop="20261009080000 +0200" channel="tvi">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">7200</length>
-    <episode-num system="onscreen">11384</episode-num>
+  <programme start="20261009135500 +0200" stop="20261009143000 +0200" channel="tvi">
+    <title lang="ca">Telenotícies comarques</title>
+    <length units="seconds">2100</length>
+    <episode-num system="onscreen">7052</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/5/2/1758026313525.jpg"/>
   </programme>
   <channel id="324">
     <display-name>324</display-name>
   </channel>
-  <programme start="20261009010000 +0200" stop="20261009060000 +0200" channel="324">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">18000</length>
-    <episode-num system="onscreen">11383</episode-num>
-    <category lang="ca">ACTUALITAT</category>
-    <category lang="ca">INFORMATIU DIÀRI</category>
+  <programme start="20261009123000 +0200" stop="20261009131500 +0200" channel="324">
+    <title lang="ca">Premis Nacionals de Cultura</title>
+    <sub-title lang="ca">Premis Nacionals de Cultura 2026</sub-title>
+    <desc lang="ca">Emissió del reconeixement a les persones i entitats guardonades cada any amb els Premis Nacionals de Cultura que atorga el CoNCA.</desc>
+    <length units="seconds">2700</length>
+    <episode-num system="onscreen">39</episode-num>
+    <category lang="ca">ALTRES</category>
+    <category lang="ca">ESPECIALS</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <previously-shown/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
+    <subtitles type="teletext"/>
   </programme>
-  <programme start="20261009060000 +0200" stop="20261009080000 +0200" channel="324">
+  <programme start="20261009131500 +0200" stop="20261009135500 +0200" channel="324">
     <title lang="ca">Notícies 3CatInfo</title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">7200</length>
-    <episode-num system="onscreen">11384</episode-num>
+    <length units="seconds">2400</length>
+    <episode-num system="onscreen">11386</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
@@ -60,92 +57,94 @@
   <channel id="esport3">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20261009052934 +0200" stop="20261009060029 +0200" channel="esport3">
-    <title lang="ca">E3</title>
-    <sub-title lang="ca">Prèvia WEC Barcelona</sub-title>
-    <desc lang="ca">Per primera vegada a la seva història, el Campionat Mundial de Resistència de la FIA (World Endurance Championship) arriba al Circuit de Barcelona-Catalunya. Després d'Imola, Spa, Le Mans, São Paulo, Austin i Fuji, la penúltima ronda de la temporada serà decisiva en la lluita pels títols mundials.</desc>
-    <length units="seconds">1855</length>
-    <episode-num system="onscreen">2393</episode-num>
-    <category lang="ca">ESPORTS</category>
-    <category lang="ca">REPORTATGES</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <icon src="https://img.3cat.cat/multimedia/jpg/0/1/1791283263910.jpg"/>
-  </programme>
-  <programme start="20261009060029 +0200" stop="20261009061858 +0200" channel="esport3">
-    <title lang="ca">3CatInfo Esports</title>
-    <desc lang="ca">Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.</desc>
-    <length units="seconds">1109</length>
-    <episode-num system="onscreen">5532</episode-num>
+  <programme start="20261009113918 +0200" stop="20261009125700 +0200" channel="esport3">
+    <title lang="ca">Sala de Premsa</title>
+    <sub-title lang="ca">Comiat de Pedro Rodríguez</sub-title>
+    <desc lang="ca">Homenatge al davanter canari, component del millor Barça de la història, que ha anunciat la retirada del futbol professional. Aquell 2009 perfecte va ser quan Pedro Rodríguez es va convertir en el primer futbolista que marcava en les sis competicions oficials: Lliga, Copa del Rei, Champions, Supercopa d'Espanya, Supercopa d'Europa i Mundial de Clubs.</desc>
+    <length units="seconds">4662</length>
+    <episode-num system="onscreen">737</episode-num>
     <category lang="ca">ESPORTS</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <previously-shown/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/9/7/1758888682179.jpg"/>
+    <subtitles type="teletext"/>
+    <icon src="https://img.3cat.cat/multimedia/jpg/7/5/1791447971257.jpg"/>
+  </programme>
+  <programme start="20261009125700 +0200" stop="20261009140107 +0200" channel="esport3">
+    <title lang="ca">Esport Club</title>
+    <sub-title lang="ca">Hansi Flick, Màlaga-Espanyol i tertúlia</sub-title>
+    <desc lang="ca">La roda de premsa de Hansi Flick en la prèvia del Getafe-Barça de demà. Avui, l'Espanyol juga contra el Màlaga a La Rosaleda. Última hora de l'equip blanc-i-blau amb Oriol Vidal. A la tertúlia ens acompanyen Gemma Mallorca, David Sánchez i Nacho Peña.</desc>
+    <length units="seconds">3847</length>
+    <episode-num system="onscreen">3258</episode-num>
+    <category lang="ca">ESPORTS</category>
+    <category lang="ca">INFORMATIU DIÀRI</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <subtitles type="teletext"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/7/3/1698145091337.jpg"/>
   </programme>
   <channel id="sx3">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20261009052851 +0200" stop="20261009053450 +0200" channel="sx3">
-    <title lang="ca">El xai Shaun</title>
-    <sub-title lang="ca">Adéu, estable</sub-title>
-    <desc lang="ca">Avui en Shaun i les ovelles s'han quedat amb un pam de nas quan han descobert que el granger té intenció de remodelar l'estable de dalt a baix i que, a partir d'ara, ja no comptarà més amb la seva presència. Si volen que la vida a la granja continuï sent com fins ara, hauran de prendre mesures dràstiques. Avui més que mai!</desc>
-    <length units="seconds">359</length>
-    <episode-num system="onscreen">86</episode-num>
+  <programme start="20261009123725 +0200" stop="20261009125952 +0200" channel="sx3">
+    <title lang="ca">Els germans Kratt</title>
+    <sub-title lang="ca">A la càrrega, rinoceronts!</sub-title>
+    <desc lang="ca">Avui, els germans Kratt han anat de missió a la sabana africana a descobrir com és que estan desapareixent tants rinoceronts. Aviat descobriran que és cosa d'en Zach, que els està segrestant per construir l'invent més genial de tots: el rinodòzer! Però també descobriran com es defensen els rinoceronts... i potser fins i tot ho faran servir! T'ho perdràs?!</desc>
+    <length units="seconds">1347</length>
+    <episode-num system="onscreen">18</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
       <value>INFANTIL</value>
     </rating>
+    <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20261009053450 +0200" stop="20261009054050 +0200" channel="sx3">
-    <title lang="ca">El xai Shaun</title>
-    <sub-title lang="ca">Partit de rounders</sub-title>
-    <desc lang="ca">El partit de rounders entre els porcs i les ovelles està més emocionant que mai. En Shaun està a punt de batre i podria aconseguir la carrera que els donaria la victòria. Els porcs, com sempre, intentaran fer trampes perquè és la seva manera de jugar. Només queda una jugada i el granger està a punt de descobrir-los. Qui guanyarà?! Podran acabar el partit?! Aviat ho sabrem!</desc>
-    <length units="seconds">360</length>
-    <episode-num system="onscreen">87</episode-num>
+  <programme start="20261009125952 +0200" stop="20261009132413 +0200" channel="sx3">
+    <title lang="ca">El detectiu Conan</title>
+    <sub-title lang="ca">El cas de l'esquelet i la mestra nova (2a part)</sub-title>
+    <desc lang="ca">En Conan i els seus companys de la Lliga de Detectius Júnior acompanyen la mestra de suport nova a buscar guix a un cobert vell. Quan baixen al soterrani del cobert, hi troben un esquelet amb una cinta a la mà en què hi ha escrit un misteriós missatge en clau. Pot ser que tingui alguna relació amb un robatori i un assassinat que es van cometre fa deu anys. Si aconseguissin desxifrar-lo...</desc>
+    <length units="seconds">1461</length>
+    <episode-num system="onscreen">945</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
       <value>INFANTIL</value>
     </rating>
+    <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
   <channel id="c33">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20261009045925 +0200" stop="20261009054556 +0200" channel="c33">
-    <title lang="ca">La Renaixença</title>
-    <sub-title lang="ca">El paper de vàter</sub-title>
-    <desc lang="ca">Dediquem el segon capítol de 'La renaixença' al paper de vàter, un dels pocs objectes que segurament ens posen a tots al mateix nivell. Ens visita una 'sàvia per conèixer', la Marina Casanelles. És ensinistradora de gossos especialitzats en el rescat de persones, la detecció d'explosius, drogues... i ha decidit venir-nos a visitar amb en Ratatouille, un chihuahua que detecta marihuana. Acabem el programa amb una nova història per passejar el gos: avui sortim amb en Rumbo per la Barcelona del 1909, durant la Setmana Tràgica.</desc>
-    <length units="seconds">2791</length>
-    <episode-num system="onscreen">2</episode-num>
+  <programme start="20261009123620 +0200" stop="20261009140308 +0200" channel="c33">
+    <title lang="ca">El Gran Dictat, VIP</title>
+    <sub-title lang="ca">El Gran Gran Dictat</sub-title>
+    <desc lang="ca">Òscar Dalmau rebrà al plató d''EL GRAN GRAN DICTAT' tres convidats disposats a jugar i a riure durant una bona estona. El periodista Pere Escobar, que condueix 'El club de la mitjanit', a Catalunya Ràdio; l'actriu Mariona Ribas, la Marta d''El cor de la ciutat'; i l'actor Fermí Fernàndez, que fa d'Angela Merkel i Jordi Cañas a 'Polònia', concursaran per endur-se un premi de 2.000 euros, que donaran a l'ONG que hagin triat.Els tres famosos, a més de posar a prova els seus coneixements de llengua, demostraran que tenen un gran sentit de l'humor protagonitzant diversos esquetxos. Així, els veurem fent d'alumnes de l'Òscar Dalmau en una delirant revisió d'exàmens. També voldran demostrar que ells van ensenyar màgia al Mag Lari. El Pere Escobar ens descobrirà el truc amb què es va pagar la carrera, la Mariona Ribas farà una espectacular desaparició davant de càmera i el Fermí Fernández no tindrà manies a l'hora de partir algú per la meitat.Però els convidats no seran els únics que faran màgia: el Mag Lari apareixerà en qualsevol moment per deixar l'audiència bocabadada amb els seus trucs.</desc>
+    <length units="seconds">5208</length>
+    <episode-num system="onscreen">21</episode-num>
     <category lang="ca">DIVULGACIÓ</category>
-    <category lang="ca">ALTRES</category>
+    <category lang="ca">EDUCATIU</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/3/3/1756148014833.jpg"/>
   </programme>
-  <programme start="20261009054556 +0200" stop="20261009055132 +0200" channel="c33">
-    <title lang="ca">Xarxa Natura</title>
-    <sub-title lang="ca">Garraf</sub-title>
-    <desc lang="ca">En la llista d'espais inclosos a la Xarxa Natura 2000 hi ha tots els parcs naturals, però també molts altres espais emblemàtics com ara les Guilleries, l'estany de Banyoles, l'Alta Garrotxa, la serra del Montsec o les Gavarres. La majoria d'aquests espais són autèntics desconeguts i els seus valors naturals i culturals no han estat mai objecte de cap divulgació específica. Aquesta sèrie vol donar a conèixer aquest patrimoni.</desc>
-    <length units="seconds">336</length>
-    <episode-num system="onscreen">17</episode-num>
-    <category lang="ca">ALTRES</category>
+  <programme start="20261009140308 +0200" stop="20261009143300 +0200" channel="c33">
+    <title lang="ca">No tenim vergonya</title>
+    <desc lang="ca">'No tenim vergonya' revisa els grans moments a Televisió de Catalunya. Se'ls mira des d'un altre punt de vista, per comparar-los amb la realitat actual o repassar moments televisius molt recordats. Mai, però, des d'un punt de vista nostàlgic. NTV és una cadena de televisió. I, com a tal, conté tota mena d'elements (molinets, publicitat...) i de programes (informatius, d'esports, magazines, musicals, concursos...). De què es nodreix la seva programació? De l'arxiu de la televisió pública catalana revisionada sense complexos. D'aquí ve el nom de la cadena NTV, de 'No tenim vergonya'.</desc>
+    <length units="seconds">1792</length>
+    <episode-num system="onscreen">231</episode-num>
+    <category lang="ca">ESPORTS</category>
+    <category lang="ca">REPORTATGES</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/4/1/1721308939614.jpg"/>
   </programme>
   <channel id="oca1">
     <display-name>OCA1</display-name>
