@@ -3,49 +3,50 @@
   <channel id="tvi">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20261009103031 +0200" stop="20261009135500 +0200" channel="tvi">
-    <title lang="ca">Tot es mou</title>
-    <desc lang="ca">El programa presentat per Helena Garcia Melero s'emet de dilluns a divendres, de 10.30 a 13.55. Un magazín d'actualitat que busca informar, analitzar i debatre sobre temes que marquen l'actualitat social, econòmica i cultural del dia, amb una àmplia presència en directe dels reporters i reporteres, repartits per tot Catalunya. A més, el 'Tot es mou' compta amb seccions diàries de gastronomia (amb els principals cuiners i cuineres del país), successos, economia, mobilitat, temes mèdics i de tecnologia, entre d'altres.</desc>
-    <length units="seconds">12269</length>
-    <episode-num system="onscreen">1826</episode-num>
-    <category lang="ca">ACTUALITAT</category>
-    <category lang="ca">MAGAZINE</category>
+  <programme start="20261009191218 +0200" stop="20261009201554 +0200" channel="tvi">
+    <title lang="ca">Atrapa'm si pots</title>
+    <desc lang="ca">'Atrapa'm si pots' és un 'quiz show' clàssic, de preguntes i respostes, presentat per Llucià Ferrer, en què sis concursants competeixen per arribar a la fase final i guanyar el pot. 'Atrapa'm si pots' és entreteniment pur i on gairebé és més important passar-s'ho bé que els diners. És un concurs en què pesa més la intuïció que no els coneixements acadèmics, més l'estratègia en el joc que no la sort.</desc>
+    <length units="seconds">3816</length>
+    <episode-num system="onscreen">941</episode-num>
+    <category lang="ca">ENTRETENIMENT</category>
+    <category lang="ca">CONCURS</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
   </programme>
-  <programme start="20261009135500 +0200" stop="20261009143000 +0200" channel="tvi">
-    <title lang="ca">Telenotícies comarques</title>
-    <length units="seconds">2100</length>
-    <episode-num system="onscreen">7052</episode-num>
+  <programme start="20261009201554 +0200" stop="20261009210000 +0200" channel="tvi">
+    <title lang="ca">Està passant</title>
+    <desc lang="ca">'Està passant' és un programa d'humor que analitza les claus de l'actualitat cada dia, durant 45 minuts, en la franja anterior al 'Telenotícies vespre'.El programa, presentat per Òscar Andreu, Jair Domínguez, Natza Farré, Queco Novell i Núria Marín, ens apropa als principals temes del dia, amb especial atenció a l'actualitat política i al seguiment dels mitjans de comunicació i les xarxes socials. Tot plegat, sense renunciar a la sàtira que caracteritza la trajectòria de l'equip de Minoria Absoluta.</desc>
+    <length units="seconds">2646</length>
+    <episode-num system="onscreen">1828</episode-num>
+    <category lang="ca">ENTRETENIMENT</category>
+    <category lang="ca">GAGS. HUMOR</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <icon src="https://img.ccma.cat/multimedia/png/3/8/1705511272683.png"/>
+  </programme>
+  <channel id="324">
+    <display-name>324</display-name>
+  </channel>
+  <programme start="20261009183000 +0200" stop="20261009200000 +0200" channel="324">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="seconds">5400</length>
+    <episode-num system="onscreen">11389</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <icon src="https://img.ccma.cat/multimedia/jpg/5/2/1758026313525.jpg"/>
-  </programme>
-  <channel id="324">
-    <display-name>324</display-name>
-  </channel>
-  <programme start="20261009123000 +0200" stop="20261009131500 +0200" channel="324">
-    <title lang="ca">Premis Nacionals de Cultura</title>
-    <sub-title lang="ca">Premis Nacionals de Cultura 2026</sub-title>
-    <desc lang="ca">Emissió del reconeixement a les persones i entitats guardonades cada any amb els Premis Nacionals de Cultura que atorga el CoNCA.</desc>
-    <length units="seconds">2700</length>
-    <episode-num system="onscreen">39</episode-num>
-    <category lang="ca">ALTRES</category>
-    <category lang="ca">ESPECIALS</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
     <subtitles type="teletext"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
-  <programme start="20261009131500 +0200" stop="20261009135500 +0200" channel="324">
+  <programme start="20261009200000 +0200" stop="20261009210000 +0200" channel="324">
     <title lang="ca">Notícies 3CatInfo</title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">2400</length>
-    <episode-num system="onscreen">11386</episode-num>
+    <length units="seconds">3600</length>
+    <episode-num system="onscreen">11390</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
@@ -57,11 +58,25 @@
   <channel id="esport3">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20261009113918 +0200" stop="20261009125700 +0200" channel="esport3">
+  <programme start="20261009191253 +0200" stop="20261009192728 +0200" channel="esport3">
+    <title lang="ca">Sala de Premsa</title>
+    <sub-title lang="ca">Hansi Flick / Prèvia Barça-Getafe / J8</sub-title>
+    <desc lang="ca">Esport3 t'ofereix les compareixences de dirigents, jugadors i entrenadors dels equips catalans davant els mitjans de comunicació.</desc>
+    <length units="seconds">875</length>
+    <episode-num system="onscreen">735</episode-num>
+    <category lang="ca">ESPORTS</category>
+    <category lang="ca">INFORMATIU DIÀRI</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <subtitles type="teletext"/>
+    <icon src="https://img.3cat.cat/multimedia/jpg/7/4/1778665728847.jpg"/>
+  </programme>
+  <programme start="20261009192728 +0200" stop="20261009205000 +0200" channel="esport3">
     <title lang="ca">Sala de Premsa</title>
     <sub-title lang="ca">Comiat de Pedro Rodríguez</sub-title>
     <desc lang="ca">Homenatge al davanter canari, component del millor Barça de la història, que ha anunciat la retirada del futbol professional. Aquell 2009 perfecte va ser quan Pedro Rodríguez es va convertir en el primer futbolista que marcava en les sis competicions oficials: Lliga, Copa del Rei, Champions, Supercopa d'Espanya, Supercopa d'Europa i Mundial de Clubs.</desc>
-    <length units="seconds">4662</length>
+    <length units="seconds">4952</length>
     <episode-num system="onscreen">737</episode-num>
     <category lang="ca">ESPORTS</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
@@ -71,29 +86,15 @@
     <subtitles type="teletext"/>
     <icon src="https://img.3cat.cat/multimedia/jpg/7/5/1791447971257.jpg"/>
   </programme>
-  <programme start="20261009125700 +0200" stop="20261009140107 +0200" channel="esport3">
-    <title lang="ca">Esport Club</title>
-    <sub-title lang="ca">Hansi Flick, Màlaga-Espanyol i tertúlia</sub-title>
-    <desc lang="ca">La roda de premsa de Hansi Flick en la prèvia del Getafe-Barça de demà. Avui, l'Espanyol juga contra el Màlaga a La Rosaleda. Última hora de l'equip blanc-i-blau amb Oriol Vidal. A la tertúlia ens acompanyen Gemma Mallorca, David Sánchez i Nacho Peña.</desc>
-    <length units="seconds">3847</length>
-    <episode-num system="onscreen">3258</episode-num>
-    <category lang="ca">ESPORTS</category>
-    <category lang="ca">INFORMATIU DIÀRI</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <subtitles type="teletext"/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/7/3/1698145091337.jpg"/>
-  </programme>
   <channel id="sx3">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20261009123725 +0200" stop="20261009125952 +0200" channel="sx3">
-    <title lang="ca">Els germans Kratt</title>
-    <sub-title lang="ca">A la càrrega, rinoceronts!</sub-title>
-    <desc lang="ca">Avui, els germans Kratt han anat de missió a la sabana africana a descobrir com és que estan desapareixent tants rinoceronts. Aviat descobriran que és cosa d'en Zach, que els està segrestant per construir l'invent més genial de tots: el rinodòzer! Però també descobriran com es defensen els rinoceronts... i potser fins i tot ho faran servir! T'ho perdràs?!</desc>
-    <length units="seconds">1347</length>
-    <episode-num system="onscreen">18</episode-num>
+  <programme start="20261009185255 +0200" stop="20261009191555 +0200" channel="sx3">
+    <title lang="ca">Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
+    <sub-title lang="ca">Revelador</sub-title>
+    <desc lang="ca">La Marinette i l'Adrien són la parella més famosa de París i desperten l'interès d'un influencer poc escrupolós, disposat a tot per fer-se viral a les xarxes, fins i tot a destruir l'amor entre els dos adolescents. Podrà la seva relació sobreviure a una mentida?</desc>
+    <length units="seconds">1380</length>
+    <episode-num system="onscreen">142</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
@@ -102,12 +103,12 @@
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20261009125952 +0200" stop="20261009132413 +0200" channel="sx3">
-    <title lang="ca">El detectiu Conan</title>
-    <sub-title lang="ca">El cas de l'esquelet i la mestra nova (2a part)</sub-title>
-    <desc lang="ca">En Conan i els seus companys de la Lliga de Detectius Júnior acompanyen la mestra de suport nova a buscar guix a un cobert vell. Quan baixen al soterrani del cobert, hi troben un esquelet amb una cinta a la mà en què hi ha escrit un misteriós missatge en clau. Pot ser que tingui alguna relació amb un robatori i un assassinat que es van cometre fa deu anys. Si aconseguissin desxifrar-lo...</desc>
-    <length units="seconds">1461</length>
-    <episode-num system="onscreen">945</episode-num>
+  <programme start="20261009191555 +0200" stop="20261009193821 +0200" channel="sx3">
+    <title lang="ca">Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
+    <sub-title lang="ca">Psiconductora</sub-title>
+    <desc lang="ca">Traumatitzada des que la van akumatitzar, l'Aglaé té fòbia a les papallones i fins i tot li fa por sortir de casa. A la Marinette li agradaria trobar una solució màgica per ajudar la seva amiga, però, com per desgràcia descobrirà, Ladybug no pot arreglar tots els problemes.</desc>
+    <length units="seconds">1346</length>
+    <episode-num system="onscreen">143</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
@@ -119,32 +120,35 @@
   <channel id="c33">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20261009123620 +0200" stop="20261009140308 +0200" channel="c33">
-    <title lang="ca">El Gran Dictat, VIP</title>
-    <sub-title lang="ca">El Gran Gran Dictat</sub-title>
-    <desc lang="ca">Òscar Dalmau rebrà al plató d''EL GRAN GRAN DICTAT' tres convidats disposats a jugar i a riure durant una bona estona. El periodista Pere Escobar, que condueix 'El club de la mitjanit', a Catalunya Ràdio; l'actriu Mariona Ribas, la Marta d''El cor de la ciutat'; i l'actor Fermí Fernàndez, que fa d'Angela Merkel i Jordi Cañas a 'Polònia', concursaran per endur-se un premi de 2.000 euros, que donaran a l'ONG que hagin triat.Els tres famosos, a més de posar a prova els seus coneixements de llengua, demostraran que tenen un gran sentit de l'humor protagonitzant diversos esquetxos. Així, els veurem fent d'alumnes de l'Òscar Dalmau en una delirant revisió d'exàmens. També voldran demostrar que ells van ensenyar màgia al Mag Lari. El Pere Escobar ens descobrirà el truc amb què es va pagar la carrera, la Mariona Ribas farà una espectacular desaparició davant de càmera i el Fermí Fernández no tindrà manies a l'hora de partir algú per la meitat.Però els convidats no seran els únics que faran màgia: el Mag Lari apareixerà en qualsevol moment per deixar l'audiència bocabadada amb els seus trucs.</desc>
-    <length units="seconds">5208</length>
-    <episode-num system="onscreen">21</episode-num>
+  <programme start="20261009180424 +0200" stop="20261009195041 +0200" channel="c33">
+    <title lang="ca">Bicicleta cullera poma</title>
+    <sub-title lang="ca">Bicicleta cullera poma</sub-title>
+    <desc lang="ca">Guanyador del Premi Gaudí, del Premi Goya i del Premi José María Forqué a la millor pel·lícula documental 2011. A la tardor del 2007, a Pasqual Maragall se li diagnostica Alzheimer. Superat el cop inicial, ell i la seva família inicien una croada contra la malaltia, i, des del primer moment, aquesta pel·lícula es converteix en testimoni d'excepció. Amb intel·ligència, sinceritat i bon humor, Maragall es deixa retratar juntament amb la seva família i els metges per deixar constància del dia a dia de la seva lluita personal.'Sense ficció' estrena a la televisió aquest treball que ha recollit diversos premis: el Gaudí, el Goya i el José María Forqué. El documental de Carles Bosch ha suposat dos anys de seguiment de Pasqual Maragall i de la seva família, que han obert les portes a l'autor. Aquest fet ha permès a Bosch fer un retrat íntim d'un pacient excepcional disposat que els científics trobin la cura abans que la xifra de 26 milions de malalts de tot el món es multipliqui per 10. Una pel·lícula dura, però optimista malgrat tot, i que arriba a la televisió després d'un recorregut d'èxit per les sales de cinema.</desc>
+    <length units="seconds">6377</length>
+    <episode-num system="onscreen">1</episode-num>
     <category lang="ca">DIVULGACIÓ</category>
-    <category lang="ca">EDUCATIU</category>
+    <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
+    <icon src="https://img.3cat.cat/multimedia/jpg/8/5/1704982435258.jpg"/>
   </programme>
-  <programme start="20261009140308 +0200" stop="20261009143300 +0200" channel="c33">
-    <title lang="ca">No tenim vergonya</title>
-    <desc lang="ca">'No tenim vergonya' revisa els grans moments a Televisió de Catalunya. Se'ls mira des d'un altre punt de vista, per comparar-los amb la realitat actual o repassar moments televisius molt recordats. Mai, però, des d'un punt de vista nostàlgic. NTV és una cadena de televisió. I, com a tal, conté tota mena d'elements (molinets, publicitat...) i de programes (informatius, d'esports, magazines, musicals, concursos...). De què es nodreix la seva programació? De l'arxiu de la televisió pública catalana revisionada sense complexos. D'aquí ve el nom de la cadena NTV, de 'No tenim vergonya'.</desc>
-    <length units="seconds">1792</length>
-    <episode-num system="onscreen">231</episode-num>
-    <category lang="ca">ESPORTS</category>
-    <category lang="ca">REPORTATGES</category>
+  <programme start="20261009195041 +0200" stop="20261009205947 +0200" channel="c33">
+    <title lang="ca">Joana Biarnés, una entre tots</title>
+    <sub-title lang="ca">Joana Biarnés, una entre tots</sub-title>
+    <desc lang="ca">'JOANA BIARNÉS, UNA ENTRE TOTS' (2016), una producció de REC Videoproduccions en coproducció amb Televisió de Catalunya i TVE.Va estar tres hores a la suite dels Beatles, va enganyar Roman Polanski adoptant una identitat falsa, va ser fotògrafa personal de Raphael, va escollir el vestit de Massiel per a Eurovisió i es va ruboritzar quan Clint Eastwood va besar-la als llavis. Amiga íntima de Xavier Cugat, Joan Manuel Serrat, la duquessa d'Alba, Salvador Dalí, Fernando Rey, el Cordobés, Lola Flores...'Una entre tots' és l'extraordinària i desconeguda història de Joana Biarnés, la primera fotoperiodista espanyola. Una pionera que va superar els prejudicis d'una època per triomfar a la seva professió, que va immortalitzar grans personalitats històriques i que, quan podia haver-se convertit en una llegenda, va desaparèixer. Fins avui.Direcció, guió i documentació: Òscar Moreno, Jordi RoviraRealització, muntatge i edició musical: Xavier BaigIdea original: Jordi RoviraProductors: Xavier Baig, Òscar Moreno Productora executiva: Helena GómezProductor executiu TVC: Jordi AmbròsProductor executiu TVE: Andrés LuqueProducció delegada TVC: Joan PavonImatge i so: REC Disseny de so: Estudi RECRetoc fotogràfic: Òscar Moreno</desc>
+    <length units="seconds">4146</length>
+    <episode-num system="onscreen">1</episode-num>
+    <category lang="ca">DIVULGACIÓ</category>
+    <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
+    <icon src="https://img.3cat.cat/multimedia/jpg/5/5/1462676838555.jpg"/>
   </programme>
   <channel id="oca1">
     <display-name>OCA1</display-name>
