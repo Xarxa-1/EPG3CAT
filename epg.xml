@@ -3,46 +3,48 @@
   <channel id="tvi">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20261010153349 +0200" stop="20261010165938 +0200" channel="tvi">
-    <title lang="ca">Pel·lícula</title>
-    <sub-title lang="ca">La nova escola</sub-title>
-    <desc lang="ca">'LA NOVA ESCOLA' (2020), una producció de Nanouk Films en coproducció amb Televisió de Catalunya, amb el suport de l'ICEC.Per què ha de servir l'escola, avui? Aquesta pregunta va propiciar una revolució educativa a través del programa Escola Nova 21. La Nova Escola segueix els tres anys de vida del programa, basat en l'aprenentatge competencial i que ha generat una revolució educativa a Catalunya. Observant el fenomen des d'una perspectiva d'espècie i analitzant-ne el context històric i científic amb les veus científiques més qualificades, el film s'endinsa en l'aventura dels seus impulsors i d'aquells que han estat al centre de l'experimentació dels nous mètodes implementats. Es pot canviar un sistema educatiu des de baix cap a dalt amb èxit? Només el temps ens donarà la resposta, però la llavor per repensar l'educació dels ciutadans i ciutadanes del futur ha arribat per quedar-se. I és imparable.Direcció, guió i producció: Ventura DurallGuió: Ventura Durall i Guillem RocaRealització: Nina Solà, Júlia Girós, Pol Picas, Ventura DurallProducció executiva: Ventura Durall, Andrés Mellinas, Marija CapekProductor executiu TVC: Jordi AmbròsDirector fotografia: Júlia GirósMúsica: Diego Pedragosa, Aleix MontanyésVeu en off: Ventura Durall</desc>
-    <credits>
-      <writer>Ventura Durall</writer>
-      <writer>Guillem RocaRealització: Nina Solà</writer>
-      <writer>Júlia Girós</writer>
-    </credits>
-    <length units="seconds">5149</length>
-    <episode-num system="onscreen">1</episode-num>
-    <category lang="ca">DIVULGACIÓ</category>
-    <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
+  <programme start="20261010200000 +0200" stop="20261010203338 +0200" channel="tvi">
+    <title lang="ca">Telenotícies vespre</title>
+    <length units="seconds">2018</length>
+    <episode-num system="onscreen">7353</episode-num>
+    <category lang="ca">ACTUALITAT</category>
+    <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <subtitles type="teletext"/>
-    <previously-shown/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/7/2/1758026176427.jpg"/>
   </programme>
-  <programme start="20261010165938 +0200" stop="20261010175658 +0200" channel="tvi">
-    <title lang="ca">Infidels</title>
-    <sub-title lang="ca">Infidels</sub-title>
-    <desc lang="ca">La Maria li retreu a la Paula que sigui una egoista. En Marc pateix en veure que l'Adrià no vol quedar-se al pis amb la Paula. En Toni li diu a la Lídia que ell ja s'ha enfrontat amb el seu passat, i que ara li toca a ella. L'Eduard es mostra il·lusionat amb la idea de tenir un fill, però, quan es queda sol, truca a en Jesús i el cita per acomiadar-lo. Els pares de l'Arlet es presenten al pis sense avisar i pregunten per en Víctor. Ella els posa al corrent de la ruptura, però no es veu en cor de parlar-los de la seva relació amb en Dani. La Joana s'ha comprat una faixa reductora per compensar que menja massa.</desc>
-    <length units="seconds">3440</length>
-    <episode-num system="onscreen">11</episode-num>
-    <category lang="ca">FICCIÓ</category>
-    <category lang="ca">TELESÈRIE</category>
+  <programme start="20261010203338 +0200" stop="20261010230020 +0200" channel="tvi">
+    <title lang="ca">Oques Grasses. L'últim concert</title>
+    <sub-title lang="ca">Oques Grasses. L'últim concert</sub-title>
+    <desc lang="ca">Oques Grasses: L'últim concertPer amor va començar, per amor s'acaba. Després de 14 anys de trajectòria, Oques Grasses s'acomiaden definitivament dels escenaris amb una sèrie de concerts històrics a l'Estadi Olímpic Lluís Companys de Barcelona.La banda liderada per Josep Montero posa punt final a una de les històries d'èxit més extraordinàries de la música catalana, amb un espectacle multitudinari que repassa les cançons que han marcat tota una generació.Una última nit irrepetible, plena de música, emoció i celebració. El comiat d'un grup que ha canviat per sempre el panorama musical del país. La darrera gran festa d'Oques Grasses, en directe a TV3 i 3Cat.</desc>
+    <length units="seconds">8802</length>
+    <episode-num system="onscreen">1</episode-num>
+    <category lang="ca">MUSICALS</category>
+    <category lang="ca">POP-ROCK</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <subtitles type="teletext"/>
-    <previously-shown/>
+    <icon src="https://img.3cat.cat/multimedia/jpg/3/4/1791548484143.jpg"/>
   </programme>
   <channel id="324">
     <display-name>324</display-name>
   </channel>
-  <programme start="20261010154000 +0200" stop="20261010163000 +0200" channel="324">
-    <title lang="ca">Telenotícies migdia (reemissió)</title>
-    <length units="seconds">3000</length>
-    <episode-num system="onscreen">7354</episode-num>
+  <programme start="20261010200000 +0200" stop="20261010203200 +0200" channel="324">
+    <title lang="ca">Telenotícies vespre</title>
+    <length units="seconds">1920</length>
+    <episode-num system="onscreen">7353</episode-num>
+    <category lang="ca">ACTUALITAT</category>
+    <category lang="ca">INFORMATIU DIÀRI</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <icon src="https://img.ccma.cat/multimedia/jpg/7/2/1758026176427.jpg"/>
+  </programme>
+  <programme start="20261010203200 +0200" stop="20261010210000 +0200" channel="324">
+    <title lang="ca">Telenotícies vespre (reemissió)</title>
+    <length units="seconds">1680</length>
+    <episode-num system="onscreen">7353</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
@@ -50,77 +52,68 @@
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/5/4/1758025766345.jpg"/>
-  </programme>
-  <programme start="20261010163000 +0200" stop="20261010183000 +0200" channel="324">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">7200</length>
-    <episode-num system="onscreen">11396</episode-num>
-    <category lang="ca">ACTUALITAT</category>
-    <category lang="ca">INFORMATIU DIÀRI</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <subtitles type="teletext"/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/7/2/1758026176427.jpg"/>
   </programme>
   <channel id="esport3">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20261010153945 +0200" stop="20261010155500 +0200" channel="esport3">
-    <title lang="ca">Sala de Premsa</title>
-    <sub-title lang="ca">Hansi Flick / Prèvia Barça-Getafe / J8</sub-title>
-    <desc lang="ca">Esport3 t'ofereix les compareixences de dirigents, jugadors i entrenadors dels equips catalans davant els mitjans de comunicació.</desc>
-    <length units="seconds">915</length>
-    <episode-num system="onscreen">735</episode-num>
-    <category lang="ca">ESPORTS</category>
-    <category lang="ca">INFORMATIU DIÀRI</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <subtitles type="teletext"/>
-    <previously-shown/>
-    <icon src="https://img.3cat.cat/multimedia/jpg/7/4/1778665728847.jpg"/>
-  </programme>
-  <programme start="20261010155500 +0200" stop="20261010165037 +0200" channel="esport3">
-    <title lang="ca">Futbol</title>
-    <sub-title lang="ca">Barça Atlètic-SD Logronyès / Segona Federació / J6</sub-title>
-    <desc lang="ca">El filial blaugrana, que es manté invicte, defensa el liderat. El conjunt de la Rioja és antepenúltim i encara no ha guanyat cap partit. Amb la narració de Jordi Sunyer i l'anàlisi d'Alberto Manga.</desc>
-    <length units="seconds">3337</length>
-    <episode-num system="onscreen">70</episode-num>
+  <programme start="20261010182712 +0200" stop="20261010202546 +0200" channel="esport3">
+    <title lang="ca">Un dia de partit</title>
+    <sub-title lang="ca">Barça-Getafe</sub-title>
+    <desc lang="ca">A 'Un dia de partit' arreglem el Barça. O no. A cada partit, sis culers hi diuen la seva. Famosos i anònims. Cadascun a casa seva. Davant del televisor. Tot a base de videotrucades, en format Twitch i en rigorós directe. Ah! I a la mitja part no aturem màquines. Amb els jugadors als vestidors, nosaltres seguim fent bullir l'olla! Només sis culers? Negatiu. Durant el partit van apareixent els Jimmy Jump: els espontanis que demanen saltar a 'Un dia de partit' via WhatsApp.</desc>
+    <length units="seconds">7114</length>
+    <episode-num system="onscreen">252</episode-num>
     <category lang="ca">ESPORTS</category>
     <category lang="ca">RETRANSMISSIONS ESPORTS</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <icon src="https://img.ccma.cat/multimedia/jpg/0/7/1698446098170.jpg"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/2/7/1678885232972.jpg"/>
+  </programme>
+  <programme start="20261010202546 +0200" stop="20261010212721 +0200" channel="esport3">
+    <title lang="ca">Gol a gol</title>
+    <sub-title lang="ca">Post Barça-Getafe / J8</sub-title>
+    <desc lang="ca">'Gol a gol' us ofereix els resums dels partits de futbol de Primera i Segona Divisió. Presentat per Jordi Grau a Esport3, cada dissabte i cada diumenge podeu veure les millors imatges de la jornada de Lliga amb l'anàlisi dels experts, amb especial atenció als equips catalans, sobretot el Barça, el Girona i l'Espanyol.</desc>
+    <length units="seconds">3695</length>
+    <episode-num system="onscreen">1786</episode-num>
+    <category lang="ca">ESPORTS</category>
+    <category lang="ca">MAGAZINE</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <subtitles type="teletext"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/2/1/1698144123212.jpg"/>
   </programme>
   <channel id="sx3">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20261010153238 +0200" stop="20261010154342 +0200" channel="sx3">
-    <title lang="ca">Les Sisters</title>
-    <sub-title lang="ca">La rossa, la meva germana i jo</sub-title>
-    <desc lang="ca">La Wendy està molt deprimida perquè li ha sortit un gra enorme al front, però la Marine creu que la seva germana està deprimida per culpa d'una rossa que ha vist agafada de la mà del Maxence. La Marine fa tot el que pot per desempallegar-se de la rossa, que resulta ser la cosina del Maxence. El gra de la Wendy és el primer símptoma de la varicel·la, una malaltia molt contagiosa.</desc>
-    <length units="seconds">664</length>
-    <episode-num system="onscreen">10</episode-num>
+  <programme start="20261010191331 +0200" stop="20261010203824 +0200" channel="sx3">
+    <title lang="ca">El detectiu Conan: Black Iron Mystery Train</title>
+    <sub-title lang="ca">El detectiu Conan: Black Iron Mystery Train</sub-title>
+    <desc lang="ca">EL DETECTIU CONAN: BLACK IRON MYSTERY TRAIN 'Detective Conan Haibara Aimonogatari Black Iron Mystery Train'Direcció: Shunsuke IshiharaGuió: Junichi Miyashita Producció: Silverline MultimediaAny: 2023Durada: 90País: JapóMúsica: Katsuo OnoCentrada en el passat d'Ai Haibara, una dona amb diferents identitats, és un spin-off amb contingut de diferents episodis de la sèrie d'anime, com 'The Jet-Black Mistery Train', i escenes noves.</desc>
+    <credits>
+      <director>Shunsuke Ishihara</director>
+      <writer>Junichi Miyashita</writer>
+    </credits>
+    <length units="seconds">5093</length>
+    <episode-num system="onscreen">1</episode-num>
     <category lang="ca">FICCIÓ</category>
-    <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
+    <category lang="ca">PEL·LÍCULA DIBUIXOS ANIMATS</category>
     <rating>
       <value>INFANTIL</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
+    <icon src="https://img.3cat.cat/multimedia/jpg/6/1/1744215039716.jpg"/>
   </programme>
-  <programme start="20261010154342 +0200" stop="20261010155446 +0200" channel="sx3">
-    <title lang="ca">Les Sisters</title>
-    <sub-title lang="ca">L'any simpàtic</sub-title>
-    <desc lang="ca">La mare de la Wendy i la Marine decideix agafar-se un any sabàtic. Al principi les germanes estan encantades, però la mare s'acaba fent molt pesada. Com la poden convèncer perquè torni a treballar? Resposta de les germanes: fent-li la vida impossible de totes les maneres imaginables.</desc>
-    <length units="seconds">664</length>
-    <episode-num system="onscreen">11</episode-num>
+  <programme start="20261010203824 +0200" stop="20261010205957 +0200" channel="sx3">
+    <title lang="ca">Henry Danger</title>
+    <sub-title lang="ca">Perill nadalenc</sub-title>
+    <desc lang="ca">En Henry i en Jasper intenten salvar en Ray quan és empresonat per una norma absurda, provocant un caos nadalenc que els porta a tots a la presó.</desc>
+    <length units="seconds">1293</length>
+    <episode-num system="onscreen">35</episode-num>
     <category lang="ca">FICCIÓ</category>
-    <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
+    <category lang="ca">SÈRIE DRAMÀTICA</category>
     <rating>
       <value>INFANTIL</value>
     </rating>
@@ -130,32 +123,25 @@
   <channel id="c33">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20261010153910 +0200" stop="20261010162800 +0200" channel="c33">
-    <title lang="ca">País d'altura</title>
-    <sub-title lang="ca">Pirineus</sub-title>
-    <desc lang="ca">Els Pirineus són una frontera de muntanyes gegants i vides a gran altitud. Pobles penjats del mapa, cims que toquen el cel i gent que viu més a prop dels núvols que dels embussos.</desc>
-    <length units="seconds">2930</length>
-    <episode-num system="onscreen">2</episode-num>
-    <category lang="ca">ENTRETENIMENT</category>
+  <programme start="20261010195444 +0200" stop="20261010205949 +0200" channel="c33">
+    <title lang="ca">Fràgils</title>
+    <sub-title lang="ca">Fràgils</sub-title>
+    <desc lang="ca">'FRÀGILS' (2017), una producció de La Lupa Produccions en coproducció amb Amanda Sans Pantling, Lluís Jené i Televisió de Catalunya i amb el suport de l'ICEC.El 2005 i el 2006 vam filmar el naixement i el primer any de vida de 4 nenes de 4 continents. Totes elles tenien en comú la seva fràgil situació de pobresa extrema. A Libèria, la Secret va néixer a casa perquè la seva mare Esther tenia por de sortir al carrer en plena nit; la Noelia ho va fer en una posta perduda al sud de Bolívia on la seva mare Hilaria hi va arribar en moto; l'Alaishri, al nord de l'Índia, després d'una duríssima nit de part per a la seva mare Dukushri; i la Daniela va néixer al terra d'un apartament dels afores d'Estocolm, Suècia, perquè la seva mare Micheline, immigrant indocumentada, tenia por d'anar a l'hospital i que la delatessin.Ara, 10 anys després, tornem a veure com estan aquelles nenes i quina és la situació de les seves famílies i els seus països. Hauran millorat les seves vides o, per contra, hauran empitjorat?Direcció i guió: Lluís Jené, Amanda Sans i Oriol GispertRealització: Lluís Jené i Oriol GispertProductor: Marta Valls i Sandra ReinaProductor executiu TVC: Jordi AmbròsProductor delegat TVC: Joan PavonDirector fotografia: Lluís JenéMuntatge: Pau BacarditDirector de producció: Marta PalacínGrafisme: Fernando SueiroVeu en off: Anna YcobalzetaMúsica: Varis</desc>
+    <length units="seconds">3905</length>
+    <episode-num system="onscreen">1</episode-num>
+    <category lang="ca">DIVULGACIÓ</category>
+    <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
+    <icon src="https://img.3cat.cat/multimedia/jpg/1/9/1790762839791.jpg"/>
   </programme>
-  <programme start="20261010162800 +0200" stop="20261010172051 +0200" channel="c33">
-    <title lang="ca">Experiència Catalana</title>
-    <sub-title lang="ca">Germans Green</sub-title>
-    <desc lang="ca">La Ivana Miño acompanya la Katie Green i al seu germà Barney per les Terres de l'Ebre. Un territori molt lligat a la seva història i a la de la seva família: el seu avi va morir al front de l'Ebre.</desc>
-    <length units="seconds">3171</length>
-    <episode-num system="onscreen">13</episode-num>
-    <category lang="ca">ENTRETENIMENT</category>
-    <category lang="ca">ALTRES</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <subtitles type="teletext"/>
-    <previously-shown/>
+  <programme start="20261010205949 +0200" stop="20261010210202 +0200" channel="c33">
+    <title lang="ca">SENSE FI CANAL 33</title>
+    <desc lang="ca">Sense Descripció</desc>
+    <length units="seconds">133</length>
   </programme>
   <channel id="oca1">
     <display-name>OCA1</display-name>
