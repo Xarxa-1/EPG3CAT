@@ -3,117 +3,110 @@
   <channel id="tvi">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20261010200000 +0200" stop="20261010203338 +0200" channel="tvi">
-    <title lang="ca">Telenotícies vespre</title>
-    <length units="seconds">2018</length>
-    <episode-num system="onscreen">7353</episode-num>
-    <category lang="ca">ACTUALITAT</category>
-    <category lang="ca">INFORMATIU DIÀRI</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <icon src="https://img.ccma.cat/multimedia/jpg/7/2/1758026176427.jpg"/>
-  </programme>
-  <programme start="20261010203338 +0200" stop="20261010230020 +0200" channel="tvi">
-    <title lang="ca">Oques Grasses. L'últim concert</title>
-    <sub-title lang="ca">Oques Grasses. L'últim concert</sub-title>
-    <desc lang="ca">Oques Grasses: L'últim concertPer amor va començar, per amor s'acaba. Després de 14 anys de trajectòria, Oques Grasses s'acomiaden definitivament dels escenaris amb una sèrie de concerts històrics a l'Estadi Olímpic Lluís Companys de Barcelona.La banda liderada per Josep Montero posa punt final a una de les històries d'èxit més extraordinàries de la música catalana, amb un espectacle multitudinari que repassa les cançons que han marcat tota una generació.Una última nit irrepetible, plena de música, emoció i celebració. El comiat d'un grup que ha canviat per sempre el panorama musical del país. La darrera gran festa d'Oques Grasses, en directe a TV3 i 3Cat.</desc>
-    <length units="seconds">8802</length>
-    <episode-num system="onscreen">1</episode-num>
-    <category lang="ca">MUSICALS</category>
-    <category lang="ca">POP-ROCK</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <icon src="https://img.3cat.cat/multimedia/jpg/3/4/1791548484143.jpg"/>
-  </programme>
-  <channel id="324">
-    <display-name>324</display-name>
-  </channel>
-  <programme start="20261010200000 +0200" stop="20261010203200 +0200" channel="324">
-    <title lang="ca">Telenotícies vespre</title>
-    <length units="seconds">1920</length>
-    <episode-num system="onscreen">7353</episode-num>
-    <category lang="ca">ACTUALITAT</category>
-    <category lang="ca">INFORMATIU DIÀRI</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <icon src="https://img.ccma.cat/multimedia/jpg/7/2/1758026176427.jpg"/>
-  </programme>
-  <programme start="20261010203200 +0200" stop="20261010210000 +0200" channel="324">
-    <title lang="ca">Telenotícies vespre (reemissió)</title>
-    <length units="seconds">1680</length>
-    <episode-num system="onscreen">7353</episode-num>
-    <category lang="ca">ACTUALITAT</category>
-    <category lang="ca">INFORMATIU DIÀRI</category>
+  <programme start="20261010224509 +0200" stop="20261011000232 +0200" channel="tvi">
+    <title lang="ca">La Puntual</title>
+    <sub-title lang="ca">La Puntual: Vermell o verd</sub-title>
+    <desc lang="ca">Tanquem la fase de 'Laboratori teatral' i ja sabrem qui seran els 11 integrants de la companyia que representarà 'L'auca del senyor Esteve'. Viurem la decisió final de l'equip de 'La Puntual', però abans caldrà que els candidats donin el millor de si mateixos per convèncer-los.</desc>
+    <length units="seconds">4643</length>
+    <episode-num system="onscreen">13</episode-num>
+    <category lang="ca">ENTRETENIMENT</category>
+    <category lang="ca">VARIETATS</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/7/2/1758026176427.jpg"/>
+    <icon src="https://img.ccma.cat/multimedia//jpg/7/8/1721226172787.jpg"/>
+  </programme>
+  <programme start="20261011000232 +0200" stop="20261011004419 +0200" channel="tvi">
+    <title lang="ca">Gran!</title>
+    <sub-title lang="ca">Sau: 'Quina nit'</sub-title>
+    <desc lang="ca">El febrer del 2024 va fer 25 anys de la mort de Carles Sabater, cantant dels Sau. 'Quina nit' (1990) va ser l'àlbum que va convertir el grup de Pep Sala i Carles Sabater en artistes mainstream i que inclou la seva cançó més emblemàtica, 'Boig per tu', que ha estat versionada per gent tan diversa com Luz Casal o Shakira. Va ser l'inici d'un gran èxit que els va dur a omplir grans recintes, a fitxar per una multinacional i a gravar amb llegendes del rock com Phil Manzanera (Roxy Music) o Robbie Robertson (The Band). </desc>
+    <length units="seconds">2507</length>
+    <episode-num system="onscreen">2</episode-num>
+    <category lang="ca">ENTRETENIMENT</category>
+    <category lang="ca">ALTRES</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <subtitles type="teletext"/>
+    <previously-shown/>
+    <icon src="https://img.ccma.cat/multimedia//jpg/0/1/1714397571710.jpg"/>
+  </programme>
+  <channel id="324">
+    <display-name>324</display-name>
+  </channel>
+  <programme start="20261010230000 +0200" stop="20261011003000 +0200" channel="324">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="seconds">5400</length>
+    <episode-num system="onscreen">11399</episode-num>
+    <category lang="ca">ACTUALITAT</category>
+    <category lang="ca">INFORMATIU DIÀRI</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
+  </programme>
+  <programme start="20261011003000 +0200" stop="20261011010000 +0200" channel="324">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="seconds">1800</length>
+    <episode-num system="onscreen">11400</episode-num>
+    <category lang="ca">ACTUALITAT</category>
+    <category lang="ca">INFORMATIU DIÀRI</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
   <channel id="esport3">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20261010182712 +0200" stop="20261010202546 +0200" channel="esport3">
-    <title lang="ca">Un dia de partit</title>
-    <sub-title lang="ca">Barça-Getafe</sub-title>
-    <desc lang="ca">A 'Un dia de partit' arreglem el Barça. O no. A cada partit, sis culers hi diuen la seva. Famosos i anònims. Cadascun a casa seva. Davant del televisor. Tot a base de videotrucades, en format Twitch i en rigorós directe. Ah! I a la mitja part no aturem màquines. Amb els jugadors als vestidors, nosaltres seguim fent bullir l'olla! Només sis culers? Negatiu. Durant el partit van apareixent els Jimmy Jump: els espontanis que demanen saltar a 'Un dia de partit' via WhatsApp.</desc>
-    <length units="seconds">7114</length>
-    <episode-num system="onscreen">252</episode-num>
+  <programme start="20261010222345 +0200" stop="20261011001023 +0200" channel="esport3">
+    <title lang="ca">Futbol</title>
+    <sub-title lang="ca">Barça Atlètic-SD Logronyès / Segona Federació / J6</sub-title>
+    <desc lang="ca">El filial blaugrana, que es manté invicte, defensa el liderat. El conjunt de la Rioja és antepenúltim i encara no ha guanyat cap partit. Amb la narració de Jordi Sunyer i l'anàlisi d'Alberto Manga.</desc>
+    <length units="seconds">6398</length>
+    <episode-num system="onscreen">70</episode-num>
     <category lang="ca">ESPORTS</category>
     <category lang="ca">RETRANSMISSIONS ESPORTS</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <icon src="https://img.ccma.cat/multimedia/jpg/2/7/1678885232972.jpg"/>
+    <previously-shown/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/0/7/1698446098170.jpg"/>
   </programme>
-  <programme start="20261010202546 +0200" stop="20261010212721 +0200" channel="esport3">
-    <title lang="ca">Gol a gol</title>
-    <sub-title lang="ca">Post Barça-Getafe / J8</sub-title>
-    <desc lang="ca">'Gol a gol' us ofereix els resums dels partits de futbol de Primera i Segona Divisió. Presentat per Jordi Grau a Esport3, cada dissabte i cada diumenge podeu veure les millors imatges de la jornada de Lliga amb l'anàlisi dels experts, amb especial atenció als equips catalans, sobretot el Barça, el Girona i l'Espanyol.</desc>
-    <length units="seconds">3695</length>
-    <episode-num system="onscreen">1786</episode-num>
-    <category lang="ca">ESPORTS</category>
-    <category lang="ca">MAGAZINE</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <subtitles type="teletext"/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/2/1/1698144123212.jpg"/>
+  <programme start="20261011001023 +0200" stop="20261011002550 +0200" channel="esport3">
+    <title lang="ca">SALA DE PREMSA</title>
+    <desc lang="ca">Sense Descripció</desc>
+    <length units="seconds">927</length>
   </programme>
   <channel id="sx3">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20261010191331 +0200" stop="20261010203824 +0200" channel="sx3">
-    <title lang="ca">El detectiu Conan: Black Iron Mystery Train</title>
-    <sub-title lang="ca">El detectiu Conan: Black Iron Mystery Train</sub-title>
-    <desc lang="ca">EL DETECTIU CONAN: BLACK IRON MYSTERY TRAIN 'Detective Conan Haibara Aimonogatari Black Iron Mystery Train'Direcció: Shunsuke IshiharaGuió: Junichi Miyashita Producció: Silverline MultimediaAny: 2023Durada: 90País: JapóMúsica: Katsuo OnoCentrada en el passat d'Ai Haibara, una dona amb diferents identitats, és un spin-off amb contingut de diferents episodis de la sèrie d'anime, com 'The Jet-Black Mistery Train', i escenes noves.</desc>
-    <credits>
-      <director>Shunsuke Ishihara</director>
-      <writer>Junichi Miyashita</writer>
-    </credits>
-    <length units="seconds">5093</length>
-    <episode-num system="onscreen">1</episode-num>
+  <programme start="20261010233004 +0200" stop="20261010234039 +0200" channel="sx3">
+    <title lang="ca">La tropa del corral</title>
+    <sub-title lang="ca">Gust per l'art</sub-title>
+    <desc lang="ca">L'Albert truca esverat. Tenia tanta gana que s'ha menjat un quadre de natura morta perquè pensava que les fruites eren de veritat. En Clive i la Maggie es preparen per tornar a pintar el quadre, mentre els altres recorren Vilanimal de punta a punta per trobar els objectes que necessiten per recrear-lo.</desc>
+    <length units="seconds">635</length>
+    <episode-num system="onscreen">6</episode-num>
     <category lang="ca">FICCIÓ</category>
-    <category lang="ca">PEL·LÍCULA DIBUIXOS ANIMATS</category>
+    <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
       <value>INFANTIL</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
-    <icon src="https://img.3cat.cat/multimedia/jpg/6/1/1744215039716.jpg"/>
   </programme>
-  <programme start="20261010203824 +0200" stop="20261010205957 +0200" channel="sx3">
-    <title lang="ca">Henry Danger</title>
-    <sub-title lang="ca">Perill nadalenc</sub-title>
-    <desc lang="ca">En Henry i en Jasper intenten salvar en Ray quan és empresonat per una norma absurda, provocant un caos nadalenc que els porta a tots a la presó.</desc>
-    <length units="seconds">1293</length>
-    <episode-num system="onscreen">35</episode-num>
+  <programme start="20261010234039 +0200" stop="20261010235128 +0200" channel="sx3">
+    <title lang="ca">La gateta Arc iris papallona unicorn</title>
+    <sub-title lang="ca">El Sengloracle</sub-title>
+    <desc lang="ca">Un senglar que endevina el futur li fa un parell de prediccions encertades al Miguel. En realitat, tot és una estratègia per enganyar-lo i prendre-li el bàcul-guitarra. Per recuperar l'instrument, el Miguel l'haurà de guanyar en un duel musical.</desc>
+    <length units="seconds">649</length>
+    <episode-num system="onscreen">25</episode-num>
     <category lang="ca">FICCIÓ</category>
-    <category lang="ca">SÈRIE DRAMÀTICA</category>
+    <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
       <value>INFANTIL</value>
     </rating>
@@ -123,25 +116,31 @@
   <channel id="c33">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20261010195444 +0200" stop="20261010205949 +0200" channel="c33">
-    <title lang="ca">Fràgils</title>
-    <sub-title lang="ca">Fràgils</sub-title>
-    <desc lang="ca">'FRÀGILS' (2017), una producció de La Lupa Produccions en coproducció amb Amanda Sans Pantling, Lluís Jené i Televisió de Catalunya i amb el suport de l'ICEC.El 2005 i el 2006 vam filmar el naixement i el primer any de vida de 4 nenes de 4 continents. Totes elles tenien en comú la seva fràgil situació de pobresa extrema. A Libèria, la Secret va néixer a casa perquè la seva mare Esther tenia por de sortir al carrer en plena nit; la Noelia ho va fer en una posta perduda al sud de Bolívia on la seva mare Hilaria hi va arribar en moto; l'Alaishri, al nord de l'Índia, després d'una duríssima nit de part per a la seva mare Dukushri; i la Daniela va néixer al terra d'un apartament dels afores d'Estocolm, Suècia, perquè la seva mare Micheline, immigrant indocumentada, tenia por d'anar a l'hospital i que la delatessin.Ara, 10 anys després, tornem a veure com estan aquelles nenes i quina és la situació de les seves famílies i els seus països. Hauran millorat les seves vides o, per contra, hauran empitjorat?Direcció i guió: Lluís Jené, Amanda Sans i Oriol GispertRealització: Lluís Jené i Oriol GispertProductor: Marta Valls i Sandra ReinaProductor executiu TVC: Jordi AmbròsProductor delegat TVC: Joan PavonDirector fotografia: Lluís JenéMuntatge: Pau BacarditDirector de producció: Marta PalacínGrafisme: Fernando SueiroVeu en off: Anna YcobalzetaMúsica: Varis</desc>
-    <length units="seconds">3905</length>
+  <programme start="20261010222423 +0200" stop="20261010233505 +0200" channel="c33">
+    <title lang="ca">El documental</title>
+    <sub-title lang="ca">Sunu Gaal. El nostre cayuco</sub-title>
+    <desc lang="ca">Sunu Gaal. El nostre cayuco, (2024), una producció de Karavan Productions Films amb la col·laboració de l'Associació Solidària i Logística, el suport de l'ICEC i la participació de 3Cat.El documental segueix les vides de diversos joves del Senegal a través de la mirada de la Mariatou, una noia de 18 anys que lluita per viatjar a Europa; l'Àrfa, un adolescent pescador; i l'Aliou, que fa apostes en línia per finançar el seu viatge. El documental ens mostra una joventut conscient del racisme a Europa, del nou colonialisme que saqueja els recursos del seu país, i de la fam de feminisme d'una generació de noies que reclama més llibertat. Coneixerem joves decidits, preparats i amb un objectiu clar: viatjar a altres països, tot i ser conscients que potser mai no hi arribaran.Equip:Direcció i guió: Josep T. ParísRealització: Alex GarcíaProductor: Marc PetitpierreProductor executiu 3Cat: David Bassa, Sílvia PairóCoordinació de continguts 3Cat: Agustí Argelich, Ricard BelisProductor delegat 3Cat: Daniel BareaDirector fotografia: Alex GarcíaMuntatge: Iván Guarnizo, Josep T. ParísDirector de producció: Marc PetitpierreMúsica: Josh DoughtyLingüista: Dolors SenserrichGrafisme: Eva Bono</desc>
+    <length units="seconds">4242</length>
+    <episode-num system="onscreen">1</episode-num>
+    <category lang="ca">DIVULGACIÓ</category>
+    <category lang="ca">DOCUMENTAL DE CREACIÓ</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <previously-shown/>
+  </programme>
+  <programme start="20261010233505 +0200" stop="20261011011954 +0200" channel="c33">
+    <title lang="ca">60 minuts</title>
+    <sub-title lang="ca">Les filles d'Olfa</sub-title>
+    <desc lang="ca">Radiografia íntima sobre les dones d'una família tunisiana amb una història duríssima, de violència, separació i mecanismes de supervivència. És una història sobre l'opressió del patriarcat, de violència, d'abusos, del pes de la religió, de política, d'esperances truncades i d'esperança de canvi. Interessant format que integra realitat i ficció a través de les actrius que interpreten les filles absents.</desc>
+    <length units="seconds">6289</length>
     <episode-num system="onscreen">1</episode-num>
     <category lang="ca">DIVULGACIÓ</category>
     <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <subtitles type="teletext"/>
     <previously-shown/>
-    <icon src="https://img.3cat.cat/multimedia/jpg/1/9/1790762839791.jpg"/>
-  </programme>
-  <programme start="20261010205949 +0200" stop="20261010210202 +0200" channel="c33">
-    <title lang="ca">SENSE FI CANAL 33</title>
-    <desc lang="ca">Sense Descripció</desc>
-    <length units="seconds">133</length>
   </programme>
   <channel id="oca1">
     <display-name>OCA1</display-name>
