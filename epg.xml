@@ -3,96 +3,101 @@
   <channel id="tvi">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20261009220555 +0200" stop="20261010004656 +0200" channel="tvi">
-    <title lang="ca">Col·lapse</title>
-    <desc lang="ca">Jordi González visita una de les zones afectades pels aiguats. Parlarà amb Patricia Lucas, una veïna de Malgrat de Mar a qui la pluja intensa ha inundat completament la casa i l'ha obligada a viure temporalment en un càmping. Queden 50 dies per a les eleccions generals; és decisiu el vot dels catalans. Què ens espera? En parlem amb els periodistes Maiol Roger (subdirector d''El matí de Catalunya Ràdio'), Josep Capella (de la delegació de Madrid de TV3), i Iva Angera. Carlos Latre, l'home de les mil cares, estrena una secció en què barreja actualitat i humor.Analitzem l'esdeveniment musical de l'any: els concerts de comiat d'Oques Grasses, amb Oscar Nin (crític d'art), Gal·la Castelltort (presentadora de 'Loft ' a Icat Fm) i fan número 1 del grup, i la cantant Suu.I el psiconeuroinmunòleg Xevi Verdaguer explica trucs per entendre el nostre metabolisme si volem treure'ns els quilos de més que encara tenim acumulats de l'estiu. I, com sempre, ens acompanyaran els nostres col·laboradora fixos Sergi Pàmies, Albert Montagut i els membres de la taula final.Aquesta setmana i de forma excepcional, divendres 22:10. </desc>
-    <length units="seconds">9661</length>
-    <episode-num system="onscreen">156</episode-num>
-    <category lang="ca">ENTRETENIMENT</category>
-    <category lang="ca">TALK-SHOW</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-  </programme>
-  <programme start="20261010004656 +0200" stop="20261010011350 +0200" channel="tvi">
-    <title lang="ca">Marcians</title>
-    <sub-title lang="ca">El Lluçanès existeix</sub-title>
-    <desc lang="ca">Mar Pujol publica el seu tercer disc consolidada ja com una figura clau de la cançó catalana actual. Es titula 'D'aquesta aigua no en beuré', i de les seves composicions en torna a brollar el paisatge i el caràcter de la terra que les ha vist néixer, el Lluçanès. La seva comarca té menys de 6.000 habitants, però entre ells s'hi compten força artistes. Al bell mig de la comarca, a Sant Martí d'Albars, hi viu Griselda Juncà. És una lluçanesa que amb el mallorquí Tomeu Amer van formar Hotel iocandi, una companyia de circ que va començar la carrera a Barcelona, però que s'ha acabat instal·lant i treballant a la terra d'ella. També hi ha molts lluçanesos que no es dediquen a cap disciplina artística, però que la practiquen. Això es pot comprovar a l'escola de circ La Cabirola, de la qual Juncà forma part. És a Lluçà, un municipi de menys de 300 habitants, i l'escola ha arribat a tenir un centenar d'alumnes, entre elles Mar Pujol i Laia Pujol. És precisament Laia Pujol qui va dirigir l'Escola de Música de Prats de Lluçanès fins que fa 5 anys va viatjar als Estats Units per formar-se en música comunitària, i va obtenir una nova perspectiva de la seva comarca. Ara treballa a l'Academy for Impact through Music, organització que porta diversos projectes de música comunitària a escala internacional. Té, però, molt presents els seus orígens en aquesta petita comarca de la Catalunya Central.</desc>
-    <length units="seconds">1614</length>
-    <episode-num system="onscreen">98</episode-num>
-    <category lang="ca">ENTRETENIMENT</category>
-    <category lang="ca">ALTRES</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-  </programme>
-  <channel id="324">
-    <display-name>324</display-name>
-  </channel>
-  <programme start="20261009233000 +0200" stop="20261010003000 +0200" channel="324">
+  <programme start="20261010023813 +0200" stop="20261010040000 +0200" channel="tvi">
     <title lang="ca">Notícies 3CatInfo</title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">3600</length>
-    <episode-num system="onscreen">11391</episode-num>
-    <category lang="ca">ACTUALITAT</category>
-    <category lang="ca">INFORMATIU DIÀRI</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <subtitles type="teletext"/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
-  </programme>
-  <programme start="20261010003000 +0200" stop="20261010010000 +0200" channel="324">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">1800</length>
+    <length units="seconds">4907</length>
     <episode-num system="onscreen">11392</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <subtitles type="teletext"/>
+    <previously-shown/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
+  </programme>
+  <programme start="20261010040000 +0200" stop="20261010045958 +0200" channel="tvi">
+    <title lang="ca">Blues a l'estudi</title>
+    <sub-title lang="ca">Lluís Coloma</sub-title>
+    <desc lang="ca">El pianista barceloní és un del màxims exponents del blues i el bugui-bugui, no tan sols a casa nostra, sinó a tot Europa. Amb cadascuna de les seves formacions, Coloma ens ofereix un repertori personal que uneix tradició i originalitat. L'acompanyen: Manolo Germán, al contrabaix; Marc Ruiz, a la bateria; Pep Pasqual, al saxo alt; Dani Pérez, al saxo tenor; Jaume Badrenas, també al tenor, i Joan Chamorro, al saxo baríton.</desc>
+    <length units="seconds">3598</length>
+    <episode-num system="onscreen">14</episode-num>
+    <category lang="ca">MUSICALS</category>
+    <category lang="ca">ALTRES</category>
+    <rating>
+      <value>PÚBLIC ADULT</value>
+    </rating>
+    <previously-shown/>
+  </programme>
+  <channel id="324">
+    <display-name>324</display-name>
+  </channel>
+  <programme start="20261010010000 +0200" stop="20261010060000 +0200" channel="324">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="seconds">18000</length>
+    <episode-num system="onscreen">11392</episode-num>
+    <category lang="ca">ACTUALITAT</category>
+    <category lang="ca">INFORMATIU DIÀRI</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <previously-shown/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
+  </programme>
+  <programme start="20261010060000 +0200" stop="20261010070000 +0200" channel="324">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="seconds">3600</length>
+    <episode-num system="onscreen">11392</episode-num>
+    <category lang="ca">ACTUALITAT</category>
+    <category lang="ca">INFORMATIU DIÀRI</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <previously-shown/>
     <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
   <channel id="esport3">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20261009230000 +0200" stop="20261010003109 +0200" channel="esport3">
-    <title lang="ca">Onze</title>
-    <sub-title lang="ca">L'hora de Gabriel Jesus; el Màlaga-Espanyol i Mou defensa Mbappé</sub-title>
-    <desc lang="ca">Míriam Riau fa tertúlia amb Juvenal Edjogo, Laia Tudel, Irati Vidal i Santi Ovalle. Rapinha està lesionat i no jugarà contra el Getafe: el davanter centre serà Gabriel Jesús. Veiem el resum del Màlaga-Espanyol amb David Balaguer i analitzem la roda de premsa de Mourinho, que ha defensat Mbappé. Acabem amb les golfes de l'Onze, amb Òscar Nin.</desc>
-    <length units="seconds">5469</length>
-    <episode-num system="onscreen">1266</episode-num>
+  <programme start="20261010024623 +0200" stop="20261010035908 +0200" channel="esport3">
+    <title lang="ca">Atletisme</title>
+    <sub-title lang="ca">Inauguració Special Olympics</sub-title>
+    <desc lang="ca">Des del Tarraco Arena, cerimònia inaugural de la 13a edició dels Special Olympics que se celebren a Tarragona amb la participació de 1.600 esportistes en 15 disciplines.</desc>
+    <length units="seconds">4365</length>
+    <episode-num system="onscreen">8140</episode-num>
     <category lang="ca">ESPORTS</category>
-    <category lang="ca">MAGAZINE</category>
+    <category lang="ca">RETRANSMISSIONS ESPORTS</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/1/1/1688543515711.jpg"/>
+    <previously-shown/>
+    <icon src="https://img.3cat.cat/multimedia/jpg/1/2/1791452323221.jpg"/>
   </programme>
-  <programme start="20261010003109 +0200" stop="20261010005056 +0200" channel="esport3">
+  <programme start="20261010035908 +0200" stop="20261010041637 +0200" channel="esport3">
     <title lang="ca">3CatInfo Esports</title>
     <desc lang="ca">Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.</desc>
-    <length units="seconds">1187</length>
+    <length units="seconds">1049</length>
     <episode-num system="onscreen">5533</episode-num>
     <category lang="ca">ESPORTS</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
+    <previously-shown/>
     <icon src="https://img.ccma.cat/multimedia/jpg/9/7/1758888682179.jpg"/>
   </programme>
   <channel id="sx3">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20261009232747 +0200" stop="20261009234757 +0200" channel="sx3">
-    <title lang="ca">Els germans Kratt</title>
-    <sub-title lang="ca">El rei de les cobres</sub-title>
-    <desc lang="ca">El Martin perd l'animalpod i el Chris l'ajuda a buscar-lo. Quan el troben, hi ha una cobra índia cargolada al voltant. Per aprendre més coses d'aquest animal es miniaturitzen i s'enfilen dalt d'una mangosta, un animal immune al verí de les cobres. Però quan volen recuperar la mida normal s'adonen que han perdut el miniaturitzador! Mentrestant, la Koki i l'Aviva descobreixen un niu de cobra reial.</desc>
-    <length units="seconds">1210</length>
-    <episode-num system="onscreen">122</episode-num>
+  <programme start="20261010030423 +0200" stop="20261010032501 +0200" channel="sx3">
+    <title lang="ca">Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
+    <sub-title lang="ca">El Desamorós</sub-title>
+    <desc lang="ca">És el dia dels enamorats i el Kim es prepara per fer un regal a la Choé, però ella el rebutja i el deixa en ridícul. L'Esfinx aprofita el disgust i la ràbia del Kim per convertir-lo en el Desamorós, un súper malvat que es dedica a destruir les relacions d'amistat i d'amor entre les persones.</desc>
+    <length units="seconds">1238</length>
+    <episode-num system="onscreen">11</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
@@ -101,12 +106,12 @@
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20261009234757 +0200" stop="20261010000806 +0200" channel="sx3">
-    <title lang="ca">Els germans Kratt</title>
-    <sub-title lang="ca">La salamandra del foc</sub-title>
-    <desc lang="ca">Explorant la Selva Negra, a Alemanya, els germans Kratt troben unes salamandres que surten d'entre les flames d'una foguera i no s'han cremat ni fet mal. Amb tot l'equip, decideixen investigar aquest misteri, perquè les salamandres precisament necessiten la humitat per viure. Al mateix temps, hauran d'impedir que la Donita Donata faci mal a les salamandres, perquè, convençuda que les salamandres tenen propietats ignífugues, es vol fer un vestit especial amb la pell d'aquest amfibi per lluir-lo en una desfilada de moda.</desc>
-    <length units="seconds">1209</length>
-    <episode-num system="onscreen">123</episode-num>
+  <programme start="20261010032501 +0200" stop="20261010034540 +0200" channel="sx3">
+    <title lang="ca">Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
+    <sub-title lang="ca">Els orígens (1a part)</sub-title>
+    <desc lang="ca">Després d'uns quants episodis, per fi coneixerem els orígens dels superpoders de Ladybug i el Gat Noir. Sabrem d'on procedeixen aquests poders i qui va triar la Marinette i l'Adrien com a candidats a superherois. Aquest episodi i el següent ens desvelen tots els dubtes i totes les incògnites que puguem tenir sobre aquests adolescents que salven sempre els ciutadans de París.  </desc>
+    <length units="seconds">1239</length>
+    <episode-num system="onscreen">12</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
@@ -118,26 +123,27 @@
   <channel id="c33">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20261009233552 +0200" stop="20261010002454 +0200" channel="c33">
-    <title lang="ca">País d'altura</title>
-    <sub-title lang="ca">Pirineus</sub-title>
-    <desc lang="ca">Els Pirineus són una frontera de muntanyes gegants i vides a gran altitud. Pobles penjats del mapa, cims que toquen el cel i gent que viu més a prop dels núvols que dels embussos.</desc>
-    <length units="seconds">2942</length>
-    <episode-num system="onscreen">2</episode-num>
-    <category lang="ca">ENTRETENIMENT</category>
+  <programme start="20261010024317 +0200" stop="20261010032400 +0200" channel="c33">
+    <title lang="ca">Sala 30</title>
+    <sub-title lang="ca">La forma i el fons</sub-title>
+    <desc lang="ca">Sinopsis curtes</desc>
+    <length units="seconds">2443</length>
+    <episode-num system="onscreen">1</episode-num>
+    <category lang="ca">DIVULGACIÓ</category>
+    <category lang="ca">ALTRES</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20261010002454 +0200" stop="20261010011751 +0200" channel="c33">
-    <title lang="ca">Experiència Catalana</title>
-    <sub-title lang="ca">Germans Green</sub-title>
-    <desc lang="ca">La Ivana Miño acompanya la Katie Green i al seu germà Barney per les Terres de l'Ebre. Un territori molt lligat a la seva història i a la de la seva família: el seu avi va morir al front de l'Ebre.</desc>
-    <length units="seconds">3177</length>
-    <episode-num system="onscreen">13</episode-num>
-    <category lang="ca">ENTRETENIMENT</category>
+  <programme start="20261010032400 +0200" stop="20261010040241 +0200" channel="c33">
+    <title lang="ca">Sala 30</title>
+    <sub-title lang="ca">La lluita</sub-title>
+    <desc lang="ca">Quan Pilar Aymerich va començar a fer fotos, Espanya vivia l'època de la Transició i les dones iniciaven la lluita feminista. Albert Pla vol saber si l'art porta implícita una lluita. I els artistes, han de servir sempre aquestes lluites? Altres tres dones sumen la seva valuosa mirada a la d'Aymerich: Laia Abril, Sinéad Spelman i Mireia Sallarés, tres artistes que han après a mirar a través d'un prisma que, com els retrats d'Aymerich, tampoc deixa indiferent el món que les mira.</desc>
+    <length units="seconds">2321</length>
+    <episode-num system="onscreen">2</episode-num>
+    <category lang="ca">DIVULGACIÓ</category>
     <category lang="ca">ALTRES</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
