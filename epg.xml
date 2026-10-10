@@ -3,101 +3,100 @@
   <channel id="tvi">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20261010023813 +0200" stop="20261010040000 +0200" channel="tvi">
+  <programme start="20261010070000 +0200" stop="20261010100000 +0200" channel="tvi">
     <title lang="ca">Notícies 3CatInfo</title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">4907</length>
-    <episode-num system="onscreen">11392</episode-num>
+    <length units="seconds">10800</length>
+    <episode-num system="onscreen">11393</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <previously-shown/>
     <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
-  <programme start="20261010040000 +0200" stop="20261010045958 +0200" channel="tvi">
-    <title lang="ca">Blues a l'estudi</title>
-    <sub-title lang="ca">Lluís Coloma</sub-title>
-    <desc lang="ca">El pianista barceloní és un del màxims exponents del blues i el bugui-bugui, no tan sols a casa nostra, sinó a tot Europa. Amb cadascuna de les seves formacions, Coloma ens ofereix un repertori personal que uneix tradició i originalitat. L'acompanyen: Manolo Germán, al contrabaix; Marc Ruiz, a la bateria; Pep Pasqual, al saxo alt; Dani Pérez, al saxo tenor; Jaume Badrenas, també al tenor, i Joan Chamorro, al saxo baríton.</desc>
-    <length units="seconds">3598</length>
-    <episode-num system="onscreen">14</episode-num>
-    <category lang="ca">MUSICALS</category>
-    <category lang="ca">ALTRES</category>
+  <programme start="20261010100000 +0200" stop="20261010110041 +0200" channel="tvi">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="seconds">3641</length>
+    <episode-num system="onscreen">11394</episode-num>
+    <category lang="ca">ACTUALITAT</category>
+    <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
-      <value>PÚBLIC ADULT</value>
+      <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <previously-shown/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
   <channel id="324">
     <display-name>324</display-name>
   </channel>
-  <programme start="20261010010000 +0200" stop="20261010060000 +0200" channel="324">
+  <programme start="20261010070000 +0200" stop="20261010100000 +0200" channel="324">
     <title lang="ca">Notícies 3CatInfo</title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">18000</length>
-    <episode-num system="onscreen">11392</episode-num>
+    <length units="seconds">10800</length>
+    <episode-num system="onscreen">11393</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <previously-shown/>
+    <subtitles type="teletext"/>
     <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
-  <programme start="20261010060000 +0200" stop="20261010070000 +0200" channel="324">
+  <programme start="20261010100000 +0200" stop="20261010120000 +0200" channel="324">
     <title lang="ca">Notícies 3CatInfo</title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">3600</length>
-    <episode-num system="onscreen">11392</episode-num>
+    <length units="seconds">7200</length>
+    <episode-num system="onscreen">11394</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <previously-shown/>
+    <subtitles type="teletext"/>
     <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
   <channel id="esport3">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20261010024623 +0200" stop="20261010035908 +0200" channel="esport3">
-    <title lang="ca">Atletisme</title>
-    <sub-title lang="ca">Inauguració Special Olympics</sub-title>
-    <desc lang="ca">Des del Tarraco Arena, cerimònia inaugural de la 13a edició dels Special Olympics que se celebren a Tarragona amb la participació de 1.600 esportistes en 15 disciplines.</desc>
-    <length units="seconds">4365</length>
-    <episode-num system="onscreen">8140</episode-num>
+  <programme start="20261010085219 +0200" stop="20261010094533 +0200" channel="esport3">
+    <title lang="ca">WRC</title>
+    <sub-title lang="ca">Ral·li d'Itàlia-Sardenya / WRC 2026 / Resum final</sub-title>
+    <desc lang="ca">El desenllaç del Campionat del Món de Ral·lis 2026 que s'ha decidit a en la 13a i última prova disputada a Sardenya. Amb seu a la població de l'Alguer, la cursa ha constat de 307 quilòmetres cronometrats repartits en 17 trams de carreteres sobre terra.</desc>
+    <length units="seconds">3194</length>
+    <episode-num system="onscreen">260</episode-num>
     <category lang="ca">ESPORTS</category>
     <category lang="ca">RETRANSMISSIONS ESPORTS</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <subtitles type="teletext"/>
     <previously-shown/>
-    <icon src="https://img.3cat.cat/multimedia/jpg/1/2/1791452323221.jpg"/>
+    <icon src="https://img.3cat.cat/multimedia/jpg/1/7/1783953384771.jpg"/>
   </programme>
-  <programme start="20261010035908 +0200" stop="20261010041637 +0200" channel="esport3">
-    <title lang="ca">3CatInfo Esports</title>
-    <desc lang="ca">Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.</desc>
-    <length units="seconds">1049</length>
-    <episode-num system="onscreen">5533</episode-num>
+  <programme start="20261010094533 +0200" stop="20261010101614 +0200" channel="esport3">
+    <title lang="ca">E3</title>
+    <sub-title lang="ca">Prèvia WEC Barcelona</sub-title>
+    <desc lang="ca">Per primera vegada a la seva història, el Campionat Mundial de Resistència de la FIA (World Endurance Championship) arriba al Circuit de Barcelona-Catalunya. Després d'Imola, Spa, Le Mans, São Paulo, Austin i Fuji, la penúltima ronda de la temporada serà decisiva en la lluita pels títols mundials.</desc>
+    <length units="seconds">1841</length>
+    <episode-num system="onscreen">2393</episode-num>
     <category lang="ca">ESPORTS</category>
-    <category lang="ca">INFORMATIU DIÀRI</category>
+    <category lang="ca">REPORTATGES</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
+    <subtitles type="teletext"/>
     <previously-shown/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/9/7/1758888682179.jpg"/>
+    <icon src="https://img.3cat.cat/multimedia/jpg/0/1/1791283263910.jpg"/>
   </programme>
   <channel id="sx3">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20261010030423 +0200" stop="20261010032501 +0200" channel="sx3">
-    <title lang="ca">Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
-    <sub-title lang="ca">El Desamorós</sub-title>
-    <desc lang="ca">És el dia dels enamorats i el Kim es prepara per fer un regal a la Choé, però ella el rebutja i el deixa en ridícul. L'Esfinx aprofita el disgust i la ràbia del Kim per convertir-lo en el Desamorós, un súper malvat que es dedica a destruir les relacions d'amistat i d'amor entre les persones.</desc>
-    <length units="seconds">1238</length>
-    <episode-num system="onscreen">11</episode-num>
+  <programme start="20261010091122 +0200" stop="20261010093424 +0200" channel="sx3">
+    <title lang="ca">La Patrulla Peluda</title>
+    <sub-title lang="ca">La Patrulla Marina: Els cadells pirates als rescat</sub-title>
+    <desc lang="ca">En Carlos i en Tracker buscant un tresor pirata en una illa deserta i hi queden atrapats. La Patrulla els haurà de rescatar!</desc>
+    <length units="seconds">1382</length>
+    <episode-num system="onscreen">175</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
@@ -106,12 +105,12 @@
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20261010032501 +0200" stop="20261010034540 +0200" channel="sx3">
-    <title lang="ca">Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
-    <sub-title lang="ca">Els orígens (1a part)</sub-title>
-    <desc lang="ca">Després d'uns quants episodis, per fi coneixerem els orígens dels superpoders de Ladybug i el Gat Noir. Sabrem d'on procedeixen aquests poders i qui va triar la Marinette i l'Adrien com a candidats a superherois. Aquest episodi i el següent ens desvelen tots els dubtes i totes les incògnites que puguem tenir sobre aquests adolescents que salven sempre els ciutadans de París.  </desc>
-    <length units="seconds">1239</length>
-    <episode-num system="onscreen">12</episode-num>
+  <programme start="20261010093424 +0200" stop="20261010094457 +0200" channel="sx3">
+    <title lang="ca">La Patrulla Peluda</title>
+    <sub-title lang="ca">Missió Peluda: La Patrulla salva el concert reial</sub-title>
+    <desc lang="ca">En Luke Stars ha desaparegut abans del seu concert reial de Bordaburg, i la Sweetie vol prendre-li el lloc!</desc>
+    <length units="seconds">633</length>
+    <episode-num system="onscreen">219</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
@@ -123,33 +122,35 @@
   <channel id="c33">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20261010024317 +0200" stop="20261010032400 +0200" channel="c33">
-    <title lang="ca">Sala 30</title>
-    <sub-title lang="ca">La forma i el fons</sub-title>
-    <desc lang="ca">Sinopsis curtes</desc>
-    <length units="seconds">2443</length>
-    <episode-num system="onscreen">1</episode-num>
+  <programme start="20261010085925 +0200" stop="20261010092850 +0200" channel="c33">
+    <title lang="ca">GR Pirineus</title>
+    <sub-title lang="ca">El mont més sec</sub-title>
+    <desc lang="ca">Avui la nostra ruta creuarà d'extrem a extrem la serra del Montsec.Començarem a Vilanova de Meià on coneixerem una raça de cabra catalana en perill d'extinció. Després enfilarem camí fins a Sant Martí de Barcedana, on visitarem una casa rural, on fan unes confitures per llepar-se'n els dits! Passarem per Sant Cristòfol de la Vall, Llimiana i arribarem a l'embassament de Terradets, on farem nit i tastarem la cuina de la terra amb un toc molt innovador.L'endemà començarem la jornada a sobre d'un caiac remant pel pantà. Anirem a Guàrdia de Noguera, el castell de Mur i ens endinsarem a la Vall d'Àger, on gaudirem, primer, del cel des de la terra, observant l'univers amb un telescopi; i, posteriorment, de la terra des del cel, practicant el parapent. I acabarem al congost de Mont-rebei, l'anomenat Gran Canó català. En total 65 quilòmetres, repartits en 2 jornades, fets a peu, amb cotxe i amb parapent. Un mont molt sec, però amb molta vida.</desc>
+    <length units="seconds">1765</length>
+    <episode-num system="onscreen">19</episode-num>
     <category lang="ca">DIVULGACIÓ</category>
-    <category lang="ca">ALTRES</category>
+    <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
+    <icon src="https://img.3cat.cat/multimedia/jpg/9/8/1736612891089.jpg"/>
   </programme>
-  <programme start="20261010032400 +0200" stop="20261010040241 +0200" channel="c33">
-    <title lang="ca">Sala 30</title>
-    <sub-title lang="ca">La lluita</sub-title>
-    <desc lang="ca">Quan Pilar Aymerich va començar a fer fotos, Espanya vivia l'època de la Transició i les dones iniciaven la lluita feminista. Albert Pla vol saber si l'art porta implícita una lluita. I els artistes, han de servir sempre aquestes lluites? Altres tres dones sumen la seva valuosa mirada a la d'Aymerich: Laia Abril, Sinéad Spelman i Mireia Sallarés, tres artistes que han après a mirar a través d'un prisma que, com els retrats d'Aymerich, tampoc deixa indiferent el món que les mira.</desc>
-    <length units="seconds">2321</length>
-    <episode-num system="onscreen">2</episode-num>
+  <programme start="20261010092850 +0200" stop="20261010100158 +0200" channel="c33">
+    <title lang="ca">GR Pirineus</title>
+    <sub-title lang="ca">Un mar de muntanyes</sub-title>
+    <desc lang="ca">Avui la ruta ens portarà des de la Noguera fins a l'Alt Urgell.Començarem a la Baronia de Rialb, on buscarem un fong molt preuat per la gastronomia: la tòfona! I després continuarem per Ponts, Bassella, Ogern i Oliana, on el Marc aprendrà a jugar a la botifarra! L'endemà matinarem per anar a pescar truites al riu Segre. I anirem fins a Tragó i a Peramola, on farem una coca de bolets amb allioli de codony. A Coll de Nargó descobrirem com era la Catalunya de fa milions d'anys i qui l'habitava. I, finalment, acabarem a Organyà, bressol de les 'Homilies' i de la nostra llengua.En total, uns 66 quilòmetres, fets a peu, amb cotxe i també navegant, però sense vaixell!</desc>
+    <length units="seconds">1988</length>
+    <episode-num system="onscreen">20</episode-num>
     <category lang="ca">DIVULGACIÓ</category>
-    <category lang="ca">ALTRES</category>
+    <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
+    <icon src="https://img.3cat.cat/multimedia/jpg/9/8/1736612891089.jpg"/>
   </programme>
   <channel id="oca1">
     <display-name>OCA1</display-name>
