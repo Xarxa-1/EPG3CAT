@@ -3,51 +3,60 @@
   <channel id="tvi">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20261010070000 +0200" stop="20261010100000 +0200" channel="tvi">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">10800</length>
-    <episode-num system="onscreen">11393</episode-num>
-    <category lang="ca">ACTUALITAT</category>
-    <category lang="ca">INFORMATIU DIÀRI</category>
+  <programme start="20261010153349 +0200" stop="20261010165938 +0200" channel="tvi">
+    <title lang="ca">Pel·lícula</title>
+    <sub-title lang="ca">La nova escola</sub-title>
+    <desc lang="ca">'LA NOVA ESCOLA' (2020), una producció de Nanouk Films en coproducció amb Televisió de Catalunya, amb el suport de l'ICEC.Per què ha de servir l'escola, avui? Aquesta pregunta va propiciar una revolució educativa a través del programa Escola Nova 21. La Nova Escola segueix els tres anys de vida del programa, basat en l'aprenentatge competencial i que ha generat una revolució educativa a Catalunya. Observant el fenomen des d'una perspectiva d'espècie i analitzant-ne el context històric i científic amb les veus científiques més qualificades, el film s'endinsa en l'aventura dels seus impulsors i d'aquells que han estat al centre de l'experimentació dels nous mètodes implementats. Es pot canviar un sistema educatiu des de baix cap a dalt amb èxit? Només el temps ens donarà la resposta, però la llavor per repensar l'educació dels ciutadans i ciutadanes del futur ha arribat per quedar-se. I és imparable.Direcció, guió i producció: Ventura DurallGuió: Ventura Durall i Guillem RocaRealització: Nina Solà, Júlia Girós, Pol Picas, Ventura DurallProducció executiva: Ventura Durall, Andrés Mellinas, Marija CapekProductor executiu TVC: Jordi AmbròsDirector fotografia: Júlia GirósMúsica: Diego Pedragosa, Aleix MontanyésVeu en off: Ventura Durall</desc>
+    <credits>
+      <writer>Ventura Durall</writer>
+      <writer>Guillem RocaRealització: Nina Solà</writer>
+      <writer>Júlia Girós</writer>
+    </credits>
+    <length units="seconds">5149</length>
+    <episode-num system="onscreen">1</episode-num>
+    <category lang="ca">DIVULGACIÓ</category>
+    <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
+    <subtitles type="teletext"/>
+    <previously-shown/>
   </programme>
-  <programme start="20261010100000 +0200" stop="20261010110041 +0200" channel="tvi">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">3641</length>
-    <episode-num system="onscreen">11394</episode-num>
-    <category lang="ca">ACTUALITAT</category>
-    <category lang="ca">INFORMATIU DIÀRI</category>
+  <programme start="20261010165938 +0200" stop="20261010175658 +0200" channel="tvi">
+    <title lang="ca">Infidels</title>
+    <sub-title lang="ca">Infidels</sub-title>
+    <desc lang="ca">La Maria li retreu a la Paula que sigui una egoista. En Marc pateix en veure que l'Adrià no vol quedar-se al pis amb la Paula. En Toni li diu a la Lídia que ell ja s'ha enfrontat amb el seu passat, i que ara li toca a ella. L'Eduard es mostra il·lusionat amb la idea de tenir un fill, però, quan es queda sol, truca a en Jesús i el cita per acomiadar-lo. Els pares de l'Arlet es presenten al pis sense avisar i pregunten per en Víctor. Ella els posa al corrent de la ruptura, però no es veu en cor de parlar-los de la seva relació amb en Dani. La Joana s'ha comprat una faixa reductora per compensar que menja massa.</desc>
+    <length units="seconds">3440</length>
+    <episode-num system="onscreen">11</episode-num>
+    <category lang="ca">FICCIÓ</category>
+    <category lang="ca">TELESÈRIE</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
+    <subtitles type="teletext"/>
+    <previously-shown/>
   </programme>
   <channel id="324">
     <display-name>324</display-name>
   </channel>
-  <programme start="20261010070000 +0200" stop="20261010100000 +0200" channel="324">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">10800</length>
-    <episode-num system="onscreen">11393</episode-num>
+  <programme start="20261010154000 +0200" stop="20261010163000 +0200" channel="324">
+    <title lang="ca">Telenotícies migdia (reemissió)</title>
+    <length units="seconds">3000</length>
+    <episode-num system="onscreen">7354</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
+    <previously-shown/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/5/4/1758025766345.jpg"/>
   </programme>
-  <programme start="20261010100000 +0200" stop="20261010120000 +0200" channel="324">
+  <programme start="20261010163000 +0200" stop="20261010183000 +0200" channel="324">
     <title lang="ca">Notícies 3CatInfo</title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <length units="seconds">7200</length>
-    <episode-num system="onscreen">11394</episode-num>
+    <episode-num system="onscreen">11396</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
@@ -59,44 +68,43 @@
   <channel id="esport3">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20261010085219 +0200" stop="20261010094533 +0200" channel="esport3">
-    <title lang="ca">WRC</title>
-    <sub-title lang="ca">Ral·li d'Itàlia-Sardenya / WRC 2026 / Resum final</sub-title>
-    <desc lang="ca">El desenllaç del Campionat del Món de Ral·lis 2026 que s'ha decidit a en la 13a i última prova disputada a Sardenya. Amb seu a la població de l'Alguer, la cursa ha constat de 307 quilòmetres cronometrats repartits en 17 trams de carreteres sobre terra.</desc>
-    <length units="seconds">3194</length>
-    <episode-num system="onscreen">260</episode-num>
+  <programme start="20261010153945 +0200" stop="20261010155500 +0200" channel="esport3">
+    <title lang="ca">Sala de Premsa</title>
+    <sub-title lang="ca">Hansi Flick / Prèvia Barça-Getafe / J8</sub-title>
+    <desc lang="ca">Esport3 t'ofereix les compareixences de dirigents, jugadors i entrenadors dels equips catalans davant els mitjans de comunicació.</desc>
+    <length units="seconds">915</length>
+    <episode-num system="onscreen">735</episode-num>
     <category lang="ca">ESPORTS</category>
-    <category lang="ca">RETRANSMISSIONS ESPORTS</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <previously-shown/>
-    <icon src="https://img.3cat.cat/multimedia/jpg/1/7/1783953384771.jpg"/>
-  </programme>
-  <programme start="20261010094533 +0200" stop="20261010101614 +0200" channel="esport3">
-    <title lang="ca">E3</title>
-    <sub-title lang="ca">Prèvia WEC Barcelona</sub-title>
-    <desc lang="ca">Per primera vegada a la seva història, el Campionat Mundial de Resistència de la FIA (World Endurance Championship) arriba al Circuit de Barcelona-Catalunya. Després d'Imola, Spa, Le Mans, São Paulo, Austin i Fuji, la penúltima ronda de la temporada serà decisiva en la lluita pels títols mundials.</desc>
-    <length units="seconds">1841</length>
-    <episode-num system="onscreen">2393</episode-num>
-    <category lang="ca">ESPORTS</category>
-    <category lang="ca">REPORTATGES</category>
+    <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
-    <icon src="https://img.3cat.cat/multimedia/jpg/0/1/1791283263910.jpg"/>
+    <icon src="https://img.3cat.cat/multimedia/jpg/7/4/1778665728847.jpg"/>
+  </programme>
+  <programme start="20261010155500 +0200" stop="20261010165037 +0200" channel="esport3">
+    <title lang="ca">Futbol</title>
+    <sub-title lang="ca">Barça Atlètic-SD Logronyès / Segona Federació / J6</sub-title>
+    <desc lang="ca">El filial blaugrana, que es manté invicte, defensa el liderat. El conjunt de la Rioja és antepenúltim i encara no ha guanyat cap partit. Amb la narració de Jordi Sunyer i l'anàlisi d'Alberto Manga.</desc>
+    <length units="seconds">3337</length>
+    <episode-num system="onscreen">70</episode-num>
+    <category lang="ca">ESPORTS</category>
+    <category lang="ca">RETRANSMISSIONS ESPORTS</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <icon src="https://img.ccma.cat/multimedia/jpg/0/7/1698446098170.jpg"/>
   </programme>
   <channel id="sx3">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20261010091122 +0200" stop="20261010093424 +0200" channel="sx3">
-    <title lang="ca">La Patrulla Peluda</title>
-    <sub-title lang="ca">La Patrulla Marina: Els cadells pirates als rescat</sub-title>
-    <desc lang="ca">En Carlos i en Tracker buscant un tresor pirata en una illa deserta i hi queden atrapats. La Patrulla els haurà de rescatar!</desc>
-    <length units="seconds">1382</length>
-    <episode-num system="onscreen">175</episode-num>
+  <programme start="20261010153238 +0200" stop="20261010154342 +0200" channel="sx3">
+    <title lang="ca">Les Sisters</title>
+    <sub-title lang="ca">La rossa, la meva germana i jo</sub-title>
+    <desc lang="ca">La Wendy està molt deprimida perquè li ha sortit un gra enorme al front, però la Marine creu que la seva germana està deprimida per culpa d'una rossa que ha vist agafada de la mà del Maxence. La Marine fa tot el que pot per desempallegar-se de la rossa, que resulta ser la cosina del Maxence. El gra de la Wendy és el primer símptoma de la varicel·la, una malaltia molt contagiosa.</desc>
+    <length units="seconds">664</length>
+    <episode-num system="onscreen">10</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
@@ -105,12 +113,12 @@
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20261010093424 +0200" stop="20261010094457 +0200" channel="sx3">
-    <title lang="ca">La Patrulla Peluda</title>
-    <sub-title lang="ca">Missió Peluda: La Patrulla salva el concert reial</sub-title>
-    <desc lang="ca">En Luke Stars ha desaparegut abans del seu concert reial de Bordaburg, i la Sweetie vol prendre-li el lloc!</desc>
-    <length units="seconds">633</length>
-    <episode-num system="onscreen">219</episode-num>
+  <programme start="20261010154342 +0200" stop="20261010155446 +0200" channel="sx3">
+    <title lang="ca">Les Sisters</title>
+    <sub-title lang="ca">L'any simpàtic</sub-title>
+    <desc lang="ca">La mare de la Wendy i la Marine decideix agafar-se un any sabàtic. Al principi les germanes estan encantades, però la mare s'acaba fent molt pesada. Com la poden convèncer perquè torni a treballar? Resposta de les germanes: fent-li la vida impossible de totes les maneres imaginables.</desc>
+    <length units="seconds">664</length>
+    <episode-num system="onscreen">11</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
@@ -122,35 +130,32 @@
   <channel id="c33">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20261010085925 +0200" stop="20261010092850 +0200" channel="c33">
-    <title lang="ca">GR Pirineus</title>
-    <sub-title lang="ca">El mont més sec</sub-title>
-    <desc lang="ca">Avui la nostra ruta creuarà d'extrem a extrem la serra del Montsec.Començarem a Vilanova de Meià on coneixerem una raça de cabra catalana en perill d'extinció. Després enfilarem camí fins a Sant Martí de Barcedana, on visitarem una casa rural, on fan unes confitures per llepar-se'n els dits! Passarem per Sant Cristòfol de la Vall, Llimiana i arribarem a l'embassament de Terradets, on farem nit i tastarem la cuina de la terra amb un toc molt innovador.L'endemà començarem la jornada a sobre d'un caiac remant pel pantà. Anirem a Guàrdia de Noguera, el castell de Mur i ens endinsarem a la Vall d'Àger, on gaudirem, primer, del cel des de la terra, observant l'univers amb un telescopi; i, posteriorment, de la terra des del cel, practicant el parapent. I acabarem al congost de Mont-rebei, l'anomenat Gran Canó català. En total 65 quilòmetres, repartits en 2 jornades, fets a peu, amb cotxe i amb parapent. Un mont molt sec, però amb molta vida.</desc>
-    <length units="seconds">1765</length>
-    <episode-num system="onscreen">19</episode-num>
-    <category lang="ca">DIVULGACIÓ</category>
-    <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
+  <programme start="20261010153910 +0200" stop="20261010162800 +0200" channel="c33">
+    <title lang="ca">País d'altura</title>
+    <sub-title lang="ca">Pirineus</sub-title>
+    <desc lang="ca">Els Pirineus són una frontera de muntanyes gegants i vides a gran altitud. Pobles penjats del mapa, cims que toquen el cel i gent que viu més a prop dels núvols que dels embussos.</desc>
+    <length units="seconds">2930</length>
+    <episode-num system="onscreen">2</episode-num>
+    <category lang="ca">ENTRETENIMENT</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
-    <icon src="https://img.3cat.cat/multimedia/jpg/9/8/1736612891089.jpg"/>
   </programme>
-  <programme start="20261010092850 +0200" stop="20261010100158 +0200" channel="c33">
-    <title lang="ca">GR Pirineus</title>
-    <sub-title lang="ca">Un mar de muntanyes</sub-title>
-    <desc lang="ca">Avui la ruta ens portarà des de la Noguera fins a l'Alt Urgell.Començarem a la Baronia de Rialb, on buscarem un fong molt preuat per la gastronomia: la tòfona! I després continuarem per Ponts, Bassella, Ogern i Oliana, on el Marc aprendrà a jugar a la botifarra! L'endemà matinarem per anar a pescar truites al riu Segre. I anirem fins a Tragó i a Peramola, on farem una coca de bolets amb allioli de codony. A Coll de Nargó descobrirem com era la Catalunya de fa milions d'anys i qui l'habitava. I, finalment, acabarem a Organyà, bressol de les 'Homilies' i de la nostra llengua.En total, uns 66 quilòmetres, fets a peu, amb cotxe i també navegant, però sense vaixell!</desc>
-    <length units="seconds">1988</length>
-    <episode-num system="onscreen">20</episode-num>
-    <category lang="ca">DIVULGACIÓ</category>
-    <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
+  <programme start="20261010162800 +0200" stop="20261010172051 +0200" channel="c33">
+    <title lang="ca">Experiència Catalana</title>
+    <sub-title lang="ca">Germans Green</sub-title>
+    <desc lang="ca">La Ivana Miño acompanya la Katie Green i al seu germà Barney per les Terres de l'Ebre. Un territori molt lligat a la seva història i a la de la seva família: el seu avi va morir al front de l'Ebre.</desc>
+    <length units="seconds">3171</length>
+    <episode-num system="onscreen">13</episode-num>
+    <category lang="ca">ENTRETENIMENT</category>
+    <category lang="ca">ALTRES</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
-    <icon src="https://img.3cat.cat/multimedia/jpg/9/8/1736612891089.jpg"/>
   </programme>
   <channel id="oca1">
     <display-name>OCA1</display-name>
