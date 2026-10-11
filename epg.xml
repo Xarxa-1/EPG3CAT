@@ -3,100 +3,91 @@
   <channel id="tvi">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20261011070000 +0200" stop="20261011103023 +0200" channel="tvi">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">12623</length>
-    <episode-num system="onscreen">11401</episode-num>
+  <programme start="20261011143000 +0200" stop="20261011153325 +0200" channel="tvi">
+    <title lang="ca">Telenotícies migdia</title>
+    <length units="seconds">3805</length>
+    <episode-num system="onscreen">7355</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/5/4/1758025766345.jpg"/>
   </programme>
-  <programme start="20261011103023 +0200" stop="20261011105635 +0200" channel="tvi">
-    <title lang="ca">Signes dels temps</title>
-    <sub-title lang="ca">Art d'estil bizantí a l'església d'Hostalric</sub-title>
-    <desc lang="ca">L'artista Joan Carles Osuna, especialitzat en art medieval, ha transformat l'interior de l'església de Santa Maria dels Socors d'Hostalric (la Selva). Ha pintat els murals d'estil bizantí com l'Anunciació a Maria i la Presentació de Jesús al Temple seguint la tècnica del tremp a l'ou i el pa d'or, que aporten lluminositat i profunditat. Joan Carles Osuna s'ha fet creient a través de l'art. Fa uns anys, mentre esmorzava, va veure a 'Signes dels temps' de TV3 que el gran mestre xilè, Juan Echenique, feia un curs d'iconografia bizantina al monestir de Poblet, i això li va canviar la vida. Els murals de l'església d'Hostalric han tingut molt bona acollida al poble, i entre els visitants d'altres llocs. Per finançar el projecte, que té el suport del bisbat de Girona, s'han fet diverses activitats culturals. I també hi ha col·laborat l'Associació pel Patrimoni Històric d'Hostalric.</desc>
-    <length units="seconds">1572</length>
-    <episode-num system="onscreen">1646</episode-num>
-    <category lang="ca">DIVULGACIÓ</category>
-    <category lang="ca">MAGAZINE ESPECIALITZAT</category>
+  <programme start="20261011153028 +0200" stop="20261011164734 +0200" channel="tvi">
+    <title lang="ca">Pel·lícula</title>
+    <sub-title lang="ca">Cançó per a tu</sub-title>
+    <desc lang="ca">Productores :TV3 i Galápagos Media amb el suport del Departament de Cultura de la Generalitat de Catalunya.Director : Oriol Ferrer.Productor : Pau Calpe RufatProductors executius TV3 : Cruz Rodríguez i Oriol Sala-PatauArgument : Pau Calpe RufatGuió : Marta GrauFotografia : David OmedesMúsica : David Cervera'Cançó per a tu' és un tema de Ivette Nadal.Intèrprets : Laia ( Candela Serrat), David ( Nao Albet), Ignasi (Fèlix Herzog), Núria (Paula Mèlia)Sinopsi : Barcelona, 1965. La Laia estudia dret a la Universitat de Barcelona. Treballa els matins a la biblioteca de la Universitat per pagar-se els estudis, i compon cançons en el seu temps lliure. La Laia acaba de començar a sortir amb l'Ignasi, un estudiant de matins compromès amb la lluita clandestina contra el franquisme. El problema de la Laia és que no suporta el millor amic de l'Ignasi, el David, un nen superficial de casa bona. Però el David no és el que sembla. Nova cançó. Caputxinada. Assemblea de Catalunya. Manifestacions del febrer del 76.</desc>
+    <length units="seconds">4626</length>
+    <episode-num system="onscreen">1</episode-num>
+    <category lang="ca">FICCIÓ</category>
+    <category lang="ca">PEL·LÍCULA / TELEFILM</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
+    <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
   <channel id="324">
     <display-name>324</display-name>
   </channel>
-  <programme start="20261011070000 +0200" stop="20261011100000 +0200" channel="324">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">10800</length>
-    <episode-num system="onscreen">11401</episode-num>
+  <programme start="20261011143000 +0200" stop="20261011154000 +0200" channel="324">
+    <title lang="ca">Telenotícies migdia</title>
+    <length units="seconds">4200</length>
+    <episode-num system="onscreen">7355</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <subtitles type="teletext"/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/5/4/1758025766345.jpg"/>
   </programme>
-  <programme start="20261011100000 +0200" stop="20261011120000 +0200" channel="324">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">7200</length>
-    <episode-num system="onscreen">11402</episode-num>
+  <programme start="20261011154000 +0200" stop="20261011163000 +0200" channel="324">
+    <title lang="ca">Telenotícies migdia (reemissió)</title>
+    <length units="seconds">3000</length>
+    <episode-num system="onscreen">7355</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
+    <previously-shown/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/5/4/1758025766345.jpg"/>
   </programme>
   <channel id="esport3">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20261011063934 +0200" stop="20261011081127 +0200" channel="esport3">
-    <title lang="ca">Gol a gol</title>
-    <sub-title lang="ca">Anàlisi de la jornada / J8 / Dissabte</sub-title>
-    <desc lang="ca">'Gol a gol' us ofereix els resums dels partits de futbol de Primera i Segona Divisió. Presentat per Jordi Grau a Esport3, cada dissabte i cada diumenge podeu veure les millors imatges de la jornada de Lliga amb l'anàlisi dels experts, amb especial atenció als equips catalans, sobretot el Barça, el Girona i l'Espanyol.</desc>
-    <length units="seconds">5513</length>
-    <episode-num system="onscreen">1787</episode-num>
+  <programme start="20261011140313 +0200" stop="20261011152019 +0200" channel="esport3">
+    <title lang="ca">FUTBOL SALA</title>
+    <sub-title lang="ca">- BARÇA-OSASUNA / PRIMERA DIVISIÓ / J5</sub-title>
+    <desc lang="ca">Sense Descripció</desc>
+    <length units="seconds">4626</length>
+  </programme>
+  <programme start="20261011152019 +0200" stop="20261011155500 +0200" channel="esport3">
+    <title lang="ca">Zona zàping</title>
+    <sub-title lang="ca">El Barça esclafa el Madrid</sub-title>
+    <desc lang="ca">El Barça va golejar el Real Madrid en el primer clàssic de la temporada, per 7 a 0, amb 4 gols de Clàudia Pina. La mateixa setmana en què Lamine Yamal continua marcant amb la selecció, i que Lionel Messi ha jugat el seu últim partit amb Argentina.Aquesta setmana debuta al programa una nova col.laboradora, Laia Bonjorn, que presentarà els vídeos més virals i curiosos del món de l'esport.La cantautora granollerina Ivette Nadal acomiada el programa amb la seva nova cançó, 'Pedres, ocells i flors</desc>
+    <length units="seconds">2081</length>
+    <episode-num system="onscreen">1085</episode-num>
     <category lang="ca">ESPORTS</category>
-    <category lang="ca">MAGAZINE</category>
+    <category lang="ca">ALTRES</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/2/1/1698144123212.jpg"/>
-  </programme>
-  <programme start="20261011081127 +0200" stop="20261011083225 +0200" channel="esport3">
-    <title lang="ca">3CatInfo Esports</title>
-    <desc lang="ca">Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.</desc>
-    <length units="seconds">1258</length>
-    <episode-num system="onscreen">5534</episode-num>
-    <category lang="ca">ESPORTS</category>
-    <category lang="ca">INFORMATIU DIÀRI</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <previously-shown/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/9/7/1758888682179.jpg"/>
+    <icon src="https://img.3cat.cat/multimedia/jpg/4/7/1763564970974.jpg"/>
   </programme>
   <channel id="sx3">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20261011075530 +0200" stop="20261011080525 +0200" channel="sx3">
-    <title lang="ca">El Mic i els seus amics</title>
-    <sub-title lang="ca">Pa de plastilina</sub-title>
-    <desc lang="ca">'El Mic i els seus amics' presenta les històries del Mic agrupades en capítols. Les aventures dels titelles s'acompanyen de petits vídeos protagonitzats per nens i nenes, i separadors amb imatges de natura. És una sèrie pensada perquè els súpers més petits gaudeixin encara més! El Mic i els seus amics es troben cada dia per cantar cançons, explicar contes, dir endevinalles... Viuen en un lloc on hi ha turons, arbres, flors i papallones.Tot està a punt per jugar. Només cal fer... MAC, MEC, MIC, TOCA'T EL MELIC!</desc>
-    <length units="seconds">595</length>
-    <episode-num system="onscreen">412</episode-num>
+  <programme start="20261011141423 +0200" stop="20261011142550 +0200" channel="sx3">
+    <title lang="ca">Les Sisters</title>
+    <sub-title lang="ca">Prohibit als menors de 12 anys</sub-title>
+    <desc lang="ca">La Wendy vol anar al ball de Pom-les-Bains amb el Maxence. La Marine també hi vol anar i vol obligar la seva germana a posar-se un vestit de princesa molt cursi. La Wendy no se'l pensa posar ni boja! Però quan a la Marine se li fica una cosa al cap, és capaç de fer el que sigui per fer-la realitat.</desc>
+    <length units="seconds">687</length>
+    <episode-num system="onscreen">13</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
@@ -105,12 +96,12 @@
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20261011080525 +0200" stop="20261011081736 +0200" channel="sx3">
-    <title lang="ca">El Mic i els seus amics</title>
-    <sub-title lang="ca">Castanyes amb punxes</sub-title>
-    <desc lang="ca">Les castanyes, quan són tendres, es posen un abric de punxes.</desc>
-    <length units="seconds">731</length>
-    <episode-num system="onscreen">590</episode-num>
+  <programme start="20261011142550 +0200" stop="20261011143654 +0200" channel="sx3">
+    <title lang="ca">Les Sisters</title>
+    <sub-title lang="ca">Por en família</sub-title>
+    <desc lang="ca">La Marine és una autèntica paparra i no deixa que la Wendy i la Sammie vegin tranquil·lament la seva pel·lícula de por preferida. Els pares de les germanes troben el DVD i menteixen a les seves filles per poder mirar la pel·lícula tots dos sols. Quan descobreixen el pastís, les germanes decideixen espantar els pares per castigar-los per la mentida que els han dit.</desc>
+    <length units="seconds">664</length>
+    <episode-num system="onscreen">14</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
@@ -122,35 +113,33 @@
   <channel id="c33">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20261011073439 +0200" stop="20261011082145 +0200" channel="c33">
-    <title lang="ca">La Renaixença</title>
-    <sub-title lang="ca">El ratolí d'ordinador</sub-title>
-    <desc lang="ca">Aquest capítol de 'La Renaixença' el dediquem al ratolí d'ordinador. És dels objectes més joves que segurament hem fet, perquè va néixer el 1963. L'Arnau i la Laia ho han aprofitat per parlar de música electrònica catalana, no us ho podeu perdre. Parlem amb la Violant Bonet, restauradora i conservadora d'art. Ha treballat restaurant llocs tan emblemàtics i importants com la Portalada del monestir de Santa Maria de Ripoll o el Pantocràtor de Sant Climent de Taüll. I sortim a passejar el gos per l'engany del capità Köpenick, el 1906.</desc>
-    <length units="seconds">2826</length>
-    <episode-num system="onscreen">72</episode-num>
+  <programme start="20261011142625 +0200" stop="20261011144846 +0200" channel="c33">
+    <title lang="ca">Quèquicom</title>
+    <sub-title lang="ca">L9. Un metro únic al món.</sub-title>
+    <desc lang="ca">L9. Un metro únic al mónTrens sense conductor i túnels de dos pisos, en l'obra d'enginyeria més complexa de la història de Catalunya.El sistema de construcció de la línia 9 del metro de Barcelona és únic al món: consisteix en un únic túnel dividit en dos pisos per on circulen els trens en un i altre sentit. Aquesta és l'obra d'enginyeria més complexa de la història de Catalunya. Una altra singularitat és l''automatisme dels combois, que funcionaran sense conductor, teledirigits des d'un centre de control.'Quèquicom' viatja al subsòl de Barcelona a bord d'una de les màquines més sofisticades que hi ha al planeta: una tuneladora. Les seves dimensions i potència són tan enormes que fins i tot té menjador i lavabo. El director d'infraestructures subterrànies de la Generalitat, Jordi Jubany, explica al reporter Miquel Piris com s'està realitzant aquesta obra i les característiques que la fan única al món. La novetat rau, a més, en la construcció de pous que s'endinsen a la terra arribant a profunditats de fins a 60 metres. Allà, el túnel es divideix en dos pisos per col·locar-hi les dues vies del tren, una damunt de l'altra. Aquesta nova construcció està integrada en el mateix túnel i permet construir de manera més ràpida i segura. Miquel Piris també fa un curset accelerat de maquinista de metro. Una feina que, per altra banda, desapareix a la línia 9. Els trens seran teledirigits i se'ls enviarà informació automàtica des d'un centre de control. Es tracta d'una experiència aplicada ja en altres països, però que ara també s'implanta a la línia 9, el tram de metro més llarg d'Europa.Conceptes didàctics / paraules clau: - Tuneladora- Cargol d'Arquimedes- Enginyeria - Sistemes hidràulics- La pressió en obres subterrànies - Conduir a través de ràdio control</desc>
+    <length units="seconds">1341</length>
+    <episode-num system="onscreen">98</episode-num>
     <category lang="ca">DIVULGACIÓ</category>
-    <category lang="ca">ALTRES</category>
+    <category lang="ca">MAGAZINE ESPECIALITZAT</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/3/3/1756148014833.jpg"/>
   </programme>
-  <programme start="20261011082145 +0200" stop="20261011085317 +0200" channel="c33">
-    <title lang="ca">GR Pirineus</title>
-    <sub-title lang="ca">El ball del gegant</sub-title>
-    <desc lang="ca">Avui a la nostra ruta travessarem el Solsonès.Començarem el viatge al monestir de Sant Pere de Graudescales, a la Valldora, passarem per Sant Lleïr i des d'allà enfilarem camí cap a la Serra de Busa, un mirador natural simplement espectacular. Des d'aquí passarem pel Pantà de la Llosa del Cavall i a la vora recuperarem energies cruspint-nos unes patates amb fredolics. I per acabar aquesta jornada tan esportiva, arribarem fins a Sant Llorenç de Morunys, on el Marc aprendrà a jugar a les bitlles catalanes!L'endemà, de bon matí, seguirem un tram del Camí dels Bons Homes fent marxa nòrdica, passant per Timoneda, Lladurs i fins a Solsona. I un cop a la capital, coneixerem els gegants més bojos de Catalunya, una tradició genial!! Vaaa... I acabarem de Carnaval.En total, uns 45 quilòmetres, repartits en dues jornades, fets a peu i... </desc>
-    <length units="seconds">1892</length>
-    <episode-num system="onscreen">21</episode-num>
+  <programme start="20261011144846 +0200" stop="20261011151031 +0200" channel="c33">
+    <title lang="ca">Quèquicom</title>
+    <sub-title lang="ca">Cosmètica contra el temps</sub-title>
+    <desc lang="ca">'Quèquicom' provarà els efectes dels productes cosmètics en la lluita contra el temps, amb diversos exemples sota el títol genèric 'Cosmètica contra el temps'.La reportera Anna Lasaga prova una crema antiarrugues d'última generació que s'ha formulat al Parc Científic de Barcelona i que Infinitec, una empresa d'investigació cosmètica del Parc, ha desenvolupat, a través d'un principi actiu que estimula la producció de col·lagen. Durant un mes, Anna Lasaga s'ha aplicat aquesta crema, que encara té un cost molt elevat perquè fa servir l'or com a vehicle per penetrar a la pell, per provar científicament si efectivament li disminueixen les arrugues, les potes de gall. La reportera pregunta a especialistes si realment hi ha diferència entre les cremes segons el preu. El programa de ciència del 33 explica també com es combaten les taques de l'edat. Perquè, a més d'arrugues, amb els anys surten també taques a la pell, que es poden fer desaparèixer amb un làser específic. La doctora especialista Montse Serra l'aplica a la pell de la reportera per mostrar com amb aquesta tecnologia es poden cremar les capes més internes de l'epidermis, sense afectar la part més extensa. Així es recupera la pigmentació original de la zona. En qualsevol cas, tothom aconsella protecció solar i una bona hidratació. I això és el que explica, des del plató, Marc Boada: com actuen les cremes hidratants i què es pot fer per tenir una pell ben hidratada. Marc Boada explica també com funcionen les tovalloletes autobrozejadores, que tenen una substància que reacciona químicament amb el mantell àcid gras de la pell i l'enfosqueix, però que no ofereixen cap protecció contra el sol.</desc>
+    <length units="seconds">1305</length>
+    <episode-num system="onscreen">99</episode-num>
     <category lang="ca">DIVULGACIÓ</category>
-    <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
+    <category lang="ca">MAGAZINE ESPECIALITZAT</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
-    <icon src="https://img.3cat.cat/multimedia/jpg/9/8/1736612891089.jpg"/>
   </programme>
   <channel id="oca1">
     <display-name>OCA1</display-name>
