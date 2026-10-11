@@ -3,107 +3,119 @@
   <channel id="tvi">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20261011143000 +0200" stop="20261011153325 +0200" channel="tvi">
-    <title lang="ca">Telenotícies migdia</title>
-    <length units="seconds">3805</length>
-    <episode-num system="onscreen">7355</episode-num>
-    <category lang="ca">ACTUALITAT</category>
-    <category lang="ca">INFORMATIU DIÀRI</category>
+  <programme start="20261011194042 +0200" stop="20261011195309 +0200" channel="tvi">
+    <title lang="ca">Atrapa'm si pots. Els millors moments.</title>
+    <desc lang="ca">'Atrapa'm si pots' és un 'quiz show' clàssic, de preguntes i respostes, presentat per Llucià Ferrer, en què sis concursants competeixen per arribar a la fase final i guanyar el pot. 'Atrapa'm si pots' és entreteniment pur i on gairebé és més important passar-s'ho bé que els diners. És un concurs en què pesa més la intuïció que no els coneixements acadèmics, més l'estratègia en el joc que no la sort.</desc>
+    <length units="seconds">747</length>
+    <episode-num system="onscreen">939</episode-num>
+    <category lang="ca">ENTRETENIMENT</category>
+    <category lang="ca">CONCURS</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <icon src="https://img.ccma.cat/multimedia/jpg/5/4/1758025766345.jpg"/>
+    <previously-shown/>
   </programme>
-  <programme start="20261011153028 +0200" stop="20261011164734 +0200" channel="tvi">
-    <title lang="ca">Pel·lícula</title>
-    <sub-title lang="ca">Cançó per a tu</sub-title>
-    <desc lang="ca">Productores :TV3 i Galápagos Media amb el suport del Departament de Cultura de la Generalitat de Catalunya.Director : Oriol Ferrer.Productor : Pau Calpe RufatProductors executius TV3 : Cruz Rodríguez i Oriol Sala-PatauArgument : Pau Calpe RufatGuió : Marta GrauFotografia : David OmedesMúsica : David Cervera'Cançó per a tu' és un tema de Ivette Nadal.Intèrprets : Laia ( Candela Serrat), David ( Nao Albet), Ignasi (Fèlix Herzog), Núria (Paula Mèlia)Sinopsi : Barcelona, 1965. La Laia estudia dret a la Universitat de Barcelona. Treballa els matins a la biblioteca de la Universitat per pagar-se els estudis, i compon cançons en el seu temps lliure. La Laia acaba de començar a sortir amb l'Ignasi, un estudiant de matins compromès amb la lluita clandestina contra el franquisme. El problema de la Laia és que no suporta el millor amic de l'Ignasi, el David, un nen superficial de casa bona. Però el David no és el que sembla. Nova cançó. Caputxinada. Assemblea de Catalunya. Manifestacions del febrer del 76.</desc>
-    <length units="seconds">4626</length>
-    <episode-num system="onscreen">1</episode-num>
-    <category lang="ca">FICCIÓ</category>
-    <category lang="ca">PEL·LÍCULA / TELEFILM</category>
+  <programme start="20261011195309 +0200" stop="20261011200600 +0200" channel="tvi">
+    <title lang="ca">Atrapa'm si pots. Els millors moments.</title>
+    <desc lang="ca">'Atrapa'm si pots' és un 'quiz show' clàssic, de preguntes i respostes, presentat per Llucià Ferrer, en què sis concursants competeixen per arribar a la fase final i guanyar el pot. 'Atrapa'm si pots' és entreteniment pur i on gairebé és més important passar-s'ho bé que els diners. És un concurs en què pesa més la intuïció que no els coneixements acadèmics, més l'estratègia en el joc que no la sort.</desc>
+    <length units="seconds">771</length>
+    <episode-num system="onscreen">940</episode-num>
+    <category lang="ca">ENTRETENIMENT</category>
+    <category lang="ca">CONCURS</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
   <channel id="324">
     <display-name>324</display-name>
   </channel>
-  <programme start="20261011143000 +0200" stop="20261011154000 +0200" channel="324">
-    <title lang="ca">Telenotícies migdia</title>
-    <length units="seconds">4200</length>
-    <episode-num system="onscreen">7355</episode-num>
-    <category lang="ca">ACTUALITAT</category>
-    <category lang="ca">INFORMATIU DIÀRI</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <icon src="https://img.ccma.cat/multimedia/jpg/5/4/1758025766345.jpg"/>
-  </programme>
-  <programme start="20261011154000 +0200" stop="20261011163000 +0200" channel="324">
-    <title lang="ca">Telenotícies migdia (reemissió)</title>
-    <length units="seconds">3000</length>
-    <episode-num system="onscreen">7355</episode-num>
+  <programme start="20261011183000 +0200" stop="20261011200000 +0200" channel="324">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="seconds">5400</length>
+    <episode-num system="onscreen">11405</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
-    <previously-shown/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/5/4/1758025766345.jpg"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
+  </programme>
+  <programme start="20261011200000 +0200" stop="20261011210000 +0200" channel="324">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="seconds">3600</length>
+    <episode-num system="onscreen">11406</episode-num>
+    <category lang="ca">ACTUALITAT</category>
+    <category lang="ca">INFORMATIU DIÀRI</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <subtitles type="teletext"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
   <channel id="esport3">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20261011140313 +0200" stop="20261011152019 +0200" channel="esport3">
-    <title lang="ca">FUTBOL SALA</title>
-    <sub-title lang="ca">- BARÇA-OSASUNA / PRIMERA DIVISIÓ / J5</sub-title>
-    <desc lang="ca">Sense Descripció</desc>
-    <length units="seconds">4626</length>
-  </programme>
-  <programme start="20261011152019 +0200" stop="20261011155500 +0200" channel="esport3">
-    <title lang="ca">Zona zàping</title>
-    <sub-title lang="ca">El Barça esclafa el Madrid</sub-title>
-    <desc lang="ca">El Barça va golejar el Real Madrid en el primer clàssic de la temporada, per 7 a 0, amb 4 gols de Clàudia Pina. La mateixa setmana en què Lamine Yamal continua marcant amb la selecció, i que Lionel Messi ha jugat el seu últim partit amb Argentina.Aquesta setmana debuta al programa una nova col.laboradora, Laia Bonjorn, que presentarà els vídeos més virals i curiosos del món de l'esport.La cantautora granollerina Ivette Nadal acomiada el programa amb la seva nova cançó, 'Pedres, ocells i flors</desc>
-    <length units="seconds">2081</length>
-    <episode-num system="onscreen">1085</episode-num>
+  <programme start="20261011191813 +0200" stop="20261011200905 +0200" channel="esport3">
+    <title lang="ca">Futbol</title>
+    <sub-title lang="ca">CE Europa-Algesires / Primera Federació / J7</sub-title>
+    <desc lang="ca">Els escapulats, antepenúltims a l'inici de la jornada, necessiten la victòria per sortir de la zona baixa de la classificació.</desc>
+    <length units="seconds">3052</length>
+    <episode-num system="onscreen">204</episode-num>
     <category lang="ca">ESPORTS</category>
-    <category lang="ca">ALTRES</category>
+    <category lang="ca">RETRANSMISSIONS ESPORTS</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <subtitles type="teletext"/>
     <previously-shown/>
-    <icon src="https://img.3cat.cat/multimedia/jpg/4/7/1763564970974.jpg"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/0/7/1698446098170.jpg"/>
+  </programme>
+  <programme start="20261011200905 +0200" stop="20261011203731 +0200" channel="esport3">
+    <title lang="ca">Esport Club Cap de Setmana</title>
+    <sub-title lang="ca">Esport Club</sub-title>
+    <desc lang="ca">Magazín amb tota l'actualitat esportiva del cap de setmana, amb atenció especial a la jornada de futbol i les principals competicions del nostre esport.</desc>
+    <length units="seconds">1706</length>
+    <episode-num system="onscreen">1400</episode-num>
+    <category lang="ca">ESPORTS</category>
+    <category lang="ca">INFORMATIU DIÀRI</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <icon src="https://img.ccma.cat/multimedia/jpg/7/3/1698145091337.jpg"/>
   </programme>
   <channel id="sx3">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20261011141423 +0200" stop="20261011142550 +0200" channel="sx3">
-    <title lang="ca">Les Sisters</title>
-    <sub-title lang="ca">Prohibit als menors de 12 anys</sub-title>
-    <desc lang="ca">La Wendy vol anar al ball de Pom-les-Bains amb el Maxence. La Marine també hi vol anar i vol obligar la seva germana a posar-se un vestit de princesa molt cursi. La Wendy no se'l pensa posar ni boja! Però quan a la Marine se li fica una cosa al cap, és capaç de fer el que sigui per fer-la realitat.</desc>
-    <length units="seconds">687</length>
-    <episode-num system="onscreen">13</episode-num>
+  <programme start="20261011185113 +0200" stop="20261011203737 +0200" channel="sx3">
+    <title lang="ca">El detectiu Conan: Black Iron Submarine</title>
+    <sub-title lang="ca">El detectiu Conan: Black Iron Submarine</sub-title>
+    <desc lang="ca">EL DETECTIU CONAN: BLACK IRON SUBMARINE 'Detective Conan: Kurogane no Submarine'Direcció: Yuzuru TachikawaGuió: Takeharu Sakurai Producció: TMS Entertainment, Nippon TV, ShoPro, TOHO animationAny: 2023Durada: 110País: JapóMúsica: Yûgo KannoUn grup d'enginyers de diversos països es reuneix a l'illa de Hachijo-jima, al Japó, per seguir en directe la posada en marxa d'un nou sistema de seguretat que connecta els dispositius de càmeres policials d'arreu del món i fa possible el reconeixement facial. Mentrestant, en Conan i la seva colla visiten la mateixa illa per observar balenes.</desc>
+    <credits>
+      <director>Yuzuru Tachikawa</director>
+      <writer>Takeharu Sakurai</writer>
+    </credits>
+    <length units="seconds">6384</length>
+    <episode-num system="onscreen">1</episode-num>
     <category lang="ca">FICCIÓ</category>
-    <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
+    <category lang="ca">PEL·LÍCULA DIBUIXOS ANIMATS</category>
     <rating>
       <value>INFANTIL</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
+    <icon src="https://img.3cat.cat/multimedia/jpg/4/3/1744214865634.jpg"/>
   </programme>
-  <programme start="20261011142550 +0200" stop="20261011143654 +0200" channel="sx3">
-    <title lang="ca">Les Sisters</title>
-    <sub-title lang="ca">Por en família</sub-title>
-    <desc lang="ca">La Marine és una autèntica paparra i no deixa que la Wendy i la Sammie vegin tranquil·lament la seva pel·lícula de por preferida. Els pares de les germanes troben el DVD i menteixen a les seves filles per poder mirar la pel·lícula tots dos sols. Quan descobreixen el pastís, les germanes decideixen espantar els pares per castigar-los per la mentida que els han dit.</desc>
-    <length units="seconds">664</length>
-    <episode-num system="onscreen">14</episode-num>
+  <programme start="20261011203737 +0200" stop="20261011205921 +0200" channel="sx3">
+    <title lang="ca">Henry Danger</title>
+    <sub-title lang="ca">L'indestructible Henry (Part 1)</sub-title>
+    <desc lang="ca">El Capità Man i en Kid Danger intenten evitar una catàstrofe mentre descobreixen un perillós secret que podria canviar-ho tot.</desc>
+    <length units="seconds">1304</length>
+    <episode-num system="onscreen">36</episode-num>
     <category lang="ca">FICCIÓ</category>
-    <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
+    <category lang="ca">SÈRIE DRAMÀTICA</category>
     <rating>
       <value>INFANTIL</value>
     </rating>
@@ -113,28 +125,29 @@
   <channel id="c33">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20261011142625 +0200" stop="20261011144846 +0200" channel="c33">
-    <title lang="ca">Quèquicom</title>
-    <sub-title lang="ca">L9. Un metro únic al món.</sub-title>
-    <desc lang="ca">L9. Un metro únic al mónTrens sense conductor i túnels de dos pisos, en l'obra d'enginyeria més complexa de la història de Catalunya.El sistema de construcció de la línia 9 del metro de Barcelona és únic al món: consisteix en un únic túnel dividit en dos pisos per on circulen els trens en un i altre sentit. Aquesta és l'obra d'enginyeria més complexa de la història de Catalunya. Una altra singularitat és l''automatisme dels combois, que funcionaran sense conductor, teledirigits des d'un centre de control.'Quèquicom' viatja al subsòl de Barcelona a bord d'una de les màquines més sofisticades que hi ha al planeta: una tuneladora. Les seves dimensions i potència són tan enormes que fins i tot té menjador i lavabo. El director d'infraestructures subterrànies de la Generalitat, Jordi Jubany, explica al reporter Miquel Piris com s'està realitzant aquesta obra i les característiques que la fan única al món. La novetat rau, a més, en la construcció de pous que s'endinsen a la terra arribant a profunditats de fins a 60 metres. Allà, el túnel es divideix en dos pisos per col·locar-hi les dues vies del tren, una damunt de l'altra. Aquesta nova construcció està integrada en el mateix túnel i permet construir de manera més ràpida i segura. Miquel Piris també fa un curset accelerat de maquinista de metro. Una feina que, per altra banda, desapareix a la línia 9. Els trens seran teledirigits i se'ls enviarà informació automàtica des d'un centre de control. Es tracta d'una experiència aplicada ja en altres països, però que ara també s'implanta a la línia 9, el tram de metro més llarg d'Europa.Conceptes didàctics / paraules clau: - Tuneladora- Cargol d'Arquimedes- Enginyeria - Sistemes hidràulics- La pressió en obres subterrànies - Conduir a través de ràdio control</desc>
-    <length units="seconds">1341</length>
-    <episode-num system="onscreen">98</episode-num>
+  <programme start="20261011191928 +0200" stop="20261011202427 +0200" channel="c33">
+    <title lang="ca">Sol a Groenlàndia</title>
+    <sub-title lang="ca">Sol a Groenlàndia</sub-title>
+    <desc lang="ca">'Sol a Groenlàndia' (2025) una producció de OHM Proyectos de Implantación en coproducció amb Wanda Films i 3Cat, i la col·laboració de Rumbak. L'Unai, un jove estudiant d'antropologia, viatja en solitari a Groenlàndia a la recerca d'ossos polars i bous mesquers. Travessa la tundra i passa més de cent nits acampant entre glaceres i llacs mentre filma els bous i descobreix la vida salvatge de l'Àrtic. A l'hivern, l'Unai es trasllada a l'oceà glaçat per intentar trobar l'os polar. Passa diverses setmanes tot sol en un poblat abandonat, però no aconsegueix veure'n cap. El seu pare, un experimentat fotògraf de natura, arriba per ajudar-lo. Finalment, junts, aconsegueixen observar i filmar els ossos polars. Equip:Direcció i guió: Unai Canela Realització: Unai Canela i Andoni Canela Productor: José María Morales Productor executiu 3Cat: David Bassa Cabanas i Sílvia Pairó Vila Coordinació de continguts 3Cat: Ricard Belis Garcia Productor delegat 3Cat: Daniel Barea Delgado Director fotografia: Andoni Canela Muntatge: Unai CanelaDirector de producció: Miguel Morales Música: Kirill Valeev, Marina Iñesta, Biel Pons, Damià Lingüista: Anna Sadurní Grafisme: Adrià Rodríguez Veu en off: Unai Canela  </desc>
+    <length units="seconds">3899</length>
+    <episode-num system="onscreen">1</episode-num>
     <category lang="ca">DIVULGACIÓ</category>
-    <category lang="ca">MAGAZINE ESPECIALITZAT</category>
+    <category lang="ca">DOCUMENTAL DE CREACIÓ</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
+    <icon src="https://img.3cat.cat/multimedia/jpg/3/5/1751879429353.jpg"/>
   </programme>
-  <programme start="20261011144846 +0200" stop="20261011151031 +0200" channel="c33">
-    <title lang="ca">Quèquicom</title>
-    <sub-title lang="ca">Cosmètica contra el temps</sub-title>
-    <desc lang="ca">'Quèquicom' provarà els efectes dels productes cosmètics en la lluita contra el temps, amb diversos exemples sota el títol genèric 'Cosmètica contra el temps'.La reportera Anna Lasaga prova una crema antiarrugues d'última generació que s'ha formulat al Parc Científic de Barcelona i que Infinitec, una empresa d'investigació cosmètica del Parc, ha desenvolupat, a través d'un principi actiu que estimula la producció de col·lagen. Durant un mes, Anna Lasaga s'ha aplicat aquesta crema, que encara té un cost molt elevat perquè fa servir l'or com a vehicle per penetrar a la pell, per provar científicament si efectivament li disminueixen les arrugues, les potes de gall. La reportera pregunta a especialistes si realment hi ha diferència entre les cremes segons el preu. El programa de ciència del 33 explica també com es combaten les taques de l'edat. Perquè, a més d'arrugues, amb els anys surten també taques a la pell, que es poden fer desaparèixer amb un làser específic. La doctora especialista Montse Serra l'aplica a la pell de la reportera per mostrar com amb aquesta tecnologia es poden cremar les capes més internes de l'epidermis, sense afectar la part més extensa. Així es recupera la pigmentació original de la zona. En qualsevol cas, tothom aconsella protecció solar i una bona hidratació. I això és el que explica, des del plató, Marc Boada: com actuen les cremes hidratants i què es pot fer per tenir una pell ben hidratada. Marc Boada explica també com funcionen les tovalloletes autobrozejadores, que tenen una substància que reacciona químicament amb el mantell àcid gras de la pell i l'enfosqueix, però que no ofereixen cap protecció contra el sol.</desc>
-    <length units="seconds">1305</length>
-    <episode-num system="onscreen">99</episode-num>
+  <programme start="20261011202427 +0200" stop="20261011205227 +0200" channel="c33">
+    <title lang="ca">Entre quatre parets</title>
+    <sub-title lang="ca">Bojan Krkic</sub-title>
+    <desc lang="ca">Bojan Krkic era un futbolista diferent de la resta. I, com era d'esperar, casa seva també està allunyada del que entenem per 'casa de futbolista'. Un pis a Les Corts on la reforma ha estat guiada pel menys és més i per conceptes de la cultura japonesa.</desc>
+    <length units="seconds">1680</length>
+    <episode-num system="onscreen">1</episode-num>
     <category lang="ca">DIVULGACIÓ</category>
-    <category lang="ca">MAGAZINE ESPECIALITZAT</category>
+    <category lang="ca">Docu-Entreteniment</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
