@@ -3,55 +3,10 @@
   <channel id="tvi">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20261010224509 +0200" stop="20261011000232 +0200" channel="tvi">
-    <title lang="ca">La Puntual</title>
-    <sub-title lang="ca">La Puntual: Vermell o verd</sub-title>
-    <desc lang="ca">Tanquem la fase de 'Laboratori teatral' i ja sabrem qui seran els 11 integrants de la companyia que representarà 'L'auca del senyor Esteve'. Viurem la decisió final de l'equip de 'La Puntual', però abans caldrà que els candidats donin el millor de si mateixos per convèncer-los.</desc>
-    <length units="seconds">4643</length>
-    <episode-num system="onscreen">13</episode-num>
-    <category lang="ca">ENTRETENIMENT</category>
-    <category lang="ca">VARIETATS</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <subtitles type="teletext"/>
-    <previously-shown/>
-    <icon src="https://img.ccma.cat/multimedia//jpg/7/8/1721226172787.jpg"/>
-  </programme>
-  <programme start="20261011000232 +0200" stop="20261011004419 +0200" channel="tvi">
-    <title lang="ca">Gran!</title>
-    <sub-title lang="ca">Sau: 'Quina nit'</sub-title>
-    <desc lang="ca">El febrer del 2024 va fer 25 anys de la mort de Carles Sabater, cantant dels Sau. 'Quina nit' (1990) va ser l'àlbum que va convertir el grup de Pep Sala i Carles Sabater en artistes mainstream i que inclou la seva cançó més emblemàtica, 'Boig per tu', que ha estat versionada per gent tan diversa com Luz Casal o Shakira. Va ser l'inici d'un gran èxit que els va dur a omplir grans recintes, a fitxar per una multinacional i a gravar amb llegendes del rock com Phil Manzanera (Roxy Music) o Robbie Robertson (The Band). </desc>
-    <length units="seconds">2507</length>
-    <episode-num system="onscreen">2</episode-num>
-    <category lang="ca">ENTRETENIMENT</category>
-    <category lang="ca">ALTRES</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <subtitles type="teletext"/>
-    <previously-shown/>
-    <icon src="https://img.ccma.cat/multimedia//jpg/0/1/1714397571710.jpg"/>
-  </programme>
-  <channel id="324">
-    <display-name>324</display-name>
-  </channel>
-  <programme start="20261010230000 +0200" stop="20261011003000 +0200" channel="324">
+  <programme start="20261011003244 +0200" stop="20261011040000 +0200" channel="tvi">
     <title lang="ca">Notícies 3CatInfo</title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">5400</length>
-    <episode-num system="onscreen">11399</episode-num>
-    <category lang="ca">ACTUALITAT</category>
-    <category lang="ca">INFORMATIU DIÀRI</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
-  </programme>
-  <programme start="20261011003000 +0200" stop="20261011010000 +0200" channel="324">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">1800</length>
+    <length units="seconds">12436</length>
     <episode-num system="onscreen">11400</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
@@ -60,37 +15,86 @@
     </rating>
     <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
+  <programme start="20261011040000 +0200" stop="20261011050000 +0200" channel="tvi">
+    <title lang="ca">Blues a l'estudi</title>
+    <sub-title lang="ca">Tòfol Martínez</sub-title>
+    <desc lang="ca">Guitarrista, compositor i productor musical sabadellenc que després del seu debut discogràfic en solitari, ens presenta el seu nou repertori. Del blues més clàssic al funk més contemporani, Martínez combina l'essència d'aire blues, sempre present en els seus projectes, amb lletres que ens mostren un univers molt personal. En aquesta ocasió, entra a l'estudi acompanyat de Josep Buch al baix, Marc Buch a la bateria i Lluís Coloma al piano i l'orgue Hammond.</desc>
+    <length units="seconds">3600</length>
+    <episode-num system="onscreen">15</episode-num>
+    <category lang="ca">MUSICALS</category>
+    <category lang="ca">ALTRES</category>
+    <rating>
+      <value>PÚBLIC ADULT</value>
+    </rating>
+    <previously-shown/>
+  </programme>
+  <channel id="324">
+    <display-name>324</display-name>
+  </channel>
+  <programme start="20261011010000 +0200" stop="20261011060000 +0200" channel="324">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="seconds">18000</length>
+    <episode-num system="onscreen">11400</episode-num>
+    <category lang="ca">ACTUALITAT</category>
+    <category lang="ca">INFORMATIU DIÀRI</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <previously-shown/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
+  </programme>
+  <programme start="20261011060000 +0200" stop="20261011070000 +0200" channel="324">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="seconds">3600</length>
+    <episode-num system="onscreen">11400</episode-num>
+    <category lang="ca">ACTUALITAT</category>
+    <category lang="ca">INFORMATIU DIÀRI</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <previously-shown/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
+  </programme>
   <channel id="esport3">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20261010222345 +0200" stop="20261011001023 +0200" channel="esport3">
-    <title lang="ca">Futbol</title>
-    <sub-title lang="ca">Barça Atlètic-SD Logronyès / Segona Federació / J6</sub-title>
-    <desc lang="ca">El filial blaugrana, que es manté invicte, defensa el liderat. El conjunt de la Rioja és antepenúltim i encara no ha guanyat cap partit. Amb la narració de Jordi Sunyer i l'anàlisi d'Alberto Manga.</desc>
-    <length units="seconds">6398</length>
-    <episode-num system="onscreen">70</episode-num>
+  <programme start="20261011021842 +0200" stop="20261011023947 +0200" channel="esport3">
+    <title lang="ca">3CatInfo Esports</title>
+    <desc lang="ca">Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.</desc>
+    <length units="seconds">1265</length>
+    <episode-num system="onscreen">5534</episode-num>
+    <category lang="ca">ESPORTS</category>
+    <category lang="ca">INFORMATIU DIÀRI</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <icon src="https://img.ccma.cat/multimedia/jpg/9/7/1758888682179.jpg"/>
+  </programme>
+  <programme start="20261011023947 +0200" stop="20261011035608 +0200" channel="esport3">
+    <title lang="ca">Futbol sala</title>
+    <sub-title lang="ca">Barça-Osasuna / Primera divisió / J5</sub-title>
+    <desc lang="ca">Els blaugranes necessiten la quarta victòria en cinc jornades per seguir a la part alta de la taula. Els navarresos encara no han puntuat i tanquen la classificació.</desc>
+    <length units="seconds">4581</length>
+    <episode-num system="onscreen">484</episode-num>
     <category lang="ca">ESPORTS</category>
     <category lang="ca">RETRANSMISSIONS ESPORTS</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <previously-shown/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/0/7/1698446098170.jpg"/>
-  </programme>
-  <programme start="20261011001023 +0200" stop="20261011002550 +0200" channel="esport3">
-    <title lang="ca">SALA DE PREMSA</title>
-    <desc lang="ca">Sense Descripció</desc>
-    <length units="seconds">927</length>
+    <icon src="https://img.ccma.cat/multimedia/jpg/1/5/1699004339351.jpg"/>
   </programme>
   <channel id="sx3">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20261010233004 +0200" stop="20261010234039 +0200" channel="sx3">
-    <title lang="ca">La tropa del corral</title>
-    <sub-title lang="ca">Gust per l'art</sub-title>
-    <desc lang="ca">L'Albert truca esverat. Tenia tanta gana que s'ha menjat un quadre de natura morta perquè pensava que les fruites eren de veritat. En Clive i la Maggie es preparen per tornar a pintar el quadre, mentre els altres recorren Vilanimal de punta a punta per trobar els objectes que necessiten per recrear-lo.</desc>
-    <length units="seconds">635</length>
-    <episode-num system="onscreen">6</episode-num>
+  <programme start="20261011020632 +0200" stop="20261011022710 +0200" channel="sx3">
+    <title lang="ca">Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
+    <sub-title lang="ca">Pixelator</sub-title>
+    <desc lang="ca">La classe de la Marinette fa pràctiques a l'hotel del senyor Bourgeois, el pare de la Chloé. Casualment l'estrella de rock Jagged Stone entra a l'hotel i demana la suite més luxosa. Tot sembla tranquil fins que un fan de l'Stone, que l'ha seguit per tots els concerts, aconsegueix entrar a l'hotel per fotografiar-se amb el seu ídol, però l'equip de l'Stone el fa fora de mala manera. </desc>
+    <length units="seconds">1238</length>
+    <episode-num system="onscreen">18</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
@@ -99,12 +103,12 @@
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20261010234039 +0200" stop="20261010235128 +0200" channel="sx3">
-    <title lang="ca">La gateta Arc iris papallona unicorn</title>
-    <sub-title lang="ca">El Sengloracle</sub-title>
-    <desc lang="ca">Un senglar que endevina el futur li fa un parell de prediccions encertades al Miguel. En realitat, tot és una estratègia per enganyar-lo i prendre-li el bàcul-guitarra. Per recuperar l'instrument, el Miguel l'haurà de guanyar en un duel musical.</desc>
-    <length units="seconds">649</length>
-    <episode-num system="onscreen">25</episode-num>
+  <programme start="20261011022710 +0200" stop="20261011024816 +0200" channel="sx3">
+    <title lang="ca">Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
+    <sub-title lang="ca">El Guitarrista Malvat</sub-title>
+    <desc lang="ca">Al Jagged Stone, l'estrella del rock, li surt un competidor jove i arrogant, anomenat XY, que el desbanca en la llista dels més venuts i deixa el Jagged en segon lloc. La discogràfica pressiona el Jagged, perquè canviï d'estil, però s'hi nega en rodó. L'Esfinx, llavors, aprofita la ràbia i la frustració del cantant per obtenir els prodigis de Ladybug i el Gat Noir. </desc>
+    <length units="seconds">1266</length>
+    <episode-num system="onscreen">19</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
@@ -116,30 +120,32 @@
   <channel id="c33">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20261010222423 +0200" stop="20261010233505 +0200" channel="c33">
-    <title lang="ca">El documental</title>
-    <sub-title lang="ca">Sunu Gaal. El nostre cayuco</sub-title>
-    <desc lang="ca">Sunu Gaal. El nostre cayuco, (2024), una producció de Karavan Productions Films amb la col·laboració de l'Associació Solidària i Logística, el suport de l'ICEC i la participació de 3Cat.El documental segueix les vides de diversos joves del Senegal a través de la mirada de la Mariatou, una noia de 18 anys que lluita per viatjar a Europa; l'Àrfa, un adolescent pescador; i l'Aliou, que fa apostes en línia per finançar el seu viatge. El documental ens mostra una joventut conscient del racisme a Europa, del nou colonialisme que saqueja els recursos del seu país, i de la fam de feminisme d'una generació de noies que reclama més llibertat. Coneixerem joves decidits, preparats i amb un objectiu clar: viatjar a altres països, tot i ser conscients que potser mai no hi arribaran.Equip:Direcció i guió: Josep T. ParísRealització: Alex GarcíaProductor: Marc PetitpierreProductor executiu 3Cat: David Bassa, Sílvia PairóCoordinació de continguts 3Cat: Agustí Argelich, Ricard BelisProductor delegat 3Cat: Daniel BareaDirector fotografia: Alex GarcíaMuntatge: Iván Guarnizo, Josep T. ParísDirector de producció: Marc PetitpierreMúsica: Josh DoughtyLingüista: Dolors SenserrichGrafisme: Eva Bono</desc>
-    <length units="seconds">4242</length>
-    <episode-num system="onscreen">1</episode-num>
-    <category lang="ca">DIVULGACIÓ</category>
-    <category lang="ca">DOCUMENTAL DE CREACIÓ</category>
+  <programme start="20261011011956 +0200" stop="20261011025712 +0200" channel="c33">
+    <title lang="ca">Concert Oques Grasses al Palau Sant Jordi.¨La gent que estimo¨</title>
+    <sub-title lang="ca">Documental del concert d'Oques Grasses</sub-title>
+    <length units="seconds">5836</length>
+    <episode-num system="onscreen">2</episode-num>
+    <category lang="ca">MUSICALS</category>
+    <category lang="ca">POP-ROCK</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
+    <subtitles type="teletext"/>
     <previously-shown/>
+    <icon src="https://img.3cat.cat/multimedia/jpg/3/4/1763144837243.jpg"/>
   </programme>
-  <programme start="20261010233505 +0200" stop="20261011011954 +0200" channel="c33">
-    <title lang="ca">60 minuts</title>
-    <sub-title lang="ca">Les filles d'Olfa</sub-title>
-    <desc lang="ca">Radiografia íntima sobre les dones d'una família tunisiana amb una història duríssima, de violència, separació i mecanismes de supervivència. És una història sobre l'opressió del patriarcat, de violència, d'abusos, del pes de la religió, de política, d'esperances truncades i d'esperança de canvi. Interessant format que integra realitat i ficció a través de les actrius que interpreten les filles absents.</desc>
-    <length units="seconds">6289</length>
+  <programme start="20261011025712 +0200" stop="20261011034024 +0200" channel="c33">
+    <title lang="ca">El Crac</title>
+    <sub-title lang="ca">El gran calamar</sub-title>
+    <desc lang="ca">La gran producció cinematogràfica catalana de l'any, 'Moragues, el gran general', es queda sense actor protagonista en l'últim moment. En Joel Joan, en hores baixes, somia a fer-se amb aquest paper, però en Nico Carrillo, director de la pel·lícula, detesta profundament en Joel. En Nico només li donarà el paper a canvi d'una condició. Quin preu serà capaç de pagar en Joel per aconseguir el paper de la seva vida?</desc>
+    <length units="seconds">2592</length>
     <episode-num system="onscreen">1</episode-num>
-    <category lang="ca">DIVULGACIÓ</category>
-    <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
+    <category lang="ca">FICCIÓ</category>
+    <category lang="ca">SÈRIE DRAMÀTICA</category>
     <rating>
-      <value>TOTS ELS PÚBLICS</value>
+      <value>PÚBLIC ADULT</value>
     </rating>
+    <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
   <channel id="oca1">
