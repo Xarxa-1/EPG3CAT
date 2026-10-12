@@ -3,11 +3,11 @@
   <channel id="tvi">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20261012003654 +0200" stop="20261012040000 +0200" channel="tvi">
+  <programme start="20261012070000 +0200" stop="20261012100000 +0200" channel="tvi">
     <title lang="ca">Notícies 3CatInfo</title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">12186</length>
-    <episode-num system="onscreen">11408</episode-num>
+    <length units="seconds">10800</length>
+    <episode-num system="onscreen">11409</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
@@ -15,69 +15,54 @@
     </rating>
     <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
-  <programme start="20261012040000 +0200" stop="20261012050000 +0200" channel="tvi">
-    <title lang="ca">Blues a l'estudi</title>
-    <sub-title lang="ca">August Tharrats</sub-title>
-    <desc lang="ca">August Tharrats ha estat el pianista pioner del blues i el boogie-woogie al nostre país i ha format part de les formacions més representatives d'aquests estils en el context català. Des de fa anys, lidera el seu propi trio, amb què ha gravat tres àlbums i ha creat un blues amb accent de swing, que ens orienta al jazz clàssic. L'acompanyen Jaume Badrenes als saxos, Jordi Mestres al contrabaix i Anton Jarl a la bateria.</desc>
-    <length units="seconds">3600</length>
-    <episode-num system="onscreen">16</episode-num>
-    <category lang="ca">MUSICALS</category>
-    <category lang="ca">ALTRES</category>
+  <programme start="20261012100000 +0200" stop="20261012120000 +0200" channel="tvi">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="seconds">7200</length>
+    <episode-num system="onscreen">11410</episode-num>
+    <category lang="ca">ACTUALITAT</category>
+    <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
-      <value>PÚBLIC ADULT</value>
+      <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <previously-shown/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
   <channel id="324">
     <display-name>324</display-name>
   </channel>
-  <programme start="20261012010000 +0200" stop="20261012060000 +0200" channel="324">
+  <programme start="20261012070000 +0200" stop="20261012100000 +0200" channel="324">
     <title lang="ca">Notícies 3CatInfo</title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">18000</length>
-    <episode-num system="onscreen">11408</episode-num>
+    <length units="seconds">10800</length>
+    <episode-num system="onscreen">11409</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <previously-shown/>
+    <subtitles type="teletext"/>
     <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
-  <programme start="20261012060000 +0200" stop="20261012070000 +0200" channel="324">
+  <programme start="20261012100000 +0200" stop="20261012120000 +0200" channel="324">
     <title lang="ca">Notícies 3CatInfo</title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">3600</length>
-    <episode-num system="onscreen">11408</episode-num>
+    <length units="seconds">7200</length>
+    <episode-num system="onscreen">11410</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <previously-shown/>
+    <subtitles type="teletext"/>
     <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
   <channel id="esport3">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20261012022731 +0200" stop="20261012040821 +0200" channel="esport3">
-    <title lang="ca">Bàsquet Lliga Endesa ACB Masculina</title>
-    <sub-title lang="ca">Reial Madrid-Kids&amp;Us Manresa / Lliga / J3</sub-title>
-    <desc lang="ca">El conjunt del Bages vol la primera victòria en el campionat. Una missió complicada, a la pista dels blancs, sempre candidats a guanyar el títol.</desc>
-    <length units="seconds">6050</length>
-    <episode-num system="onscreen">44</episode-num>
-    <category lang="ca">ESPORTS</category>
-    <category lang="ca">RETRANSMISSIONS ESPORTS</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <subtitles type="teletext"/>
-    <icon src="https://img.3cat.cat/multimedia/jpg/4/5/1769511199554.jpg"/>
-  </programme>
-  <programme start="20261012040821 +0200" stop="20261012043014 +0200" channel="esport3">
+  <programme start="20261012080452 +0200" stop="20261012082845 +0200" channel="esport3">
     <title lang="ca">3CatInfo Esports</title>
     <desc lang="ca">Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.</desc>
-    <length units="seconds">1313</length>
+    <length units="seconds">1433</length>
     <episode-num system="onscreen">5535</episode-num>
     <category lang="ca">ESPORTS</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
@@ -87,30 +72,44 @@
     <previously-shown/>
     <icon src="https://img.ccma.cat/multimedia/jpg/9/7/1758888682179.jpg"/>
   </programme>
+  <programme start="20261012082845 +0200" stop="20261012100944 +0200" channel="esport3">
+    <title lang="ca">Bàsquet Lliga Endesa ACB Masculina</title>
+    <sub-title lang="ca">Reial Madrid-Kids&amp;Us Manresa / Lliga / J3</sub-title>
+    <desc lang="ca">El conjunt del Bages vol la primera victòria en el campionat. Una missió complicada, a la pista dels blancs, sempre candidats a guanyar el títol.</desc>
+    <length units="seconds">6059</length>
+    <episode-num system="onscreen">44</episode-num>
+    <category lang="ca">ESPORTS</category>
+    <category lang="ca">RETRANSMISSIONS ESPORTS</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <subtitles type="teletext"/>
+    <previously-shown/>
+    <icon src="https://img.3cat.cat/multimedia/jpg/4/5/1769511199554.jpg"/>
+  </programme>
   <channel id="sx3">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20261012022553 +0200" stop="20261012024700 +0200" channel="sx3">
-    <title lang="ca">Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
-    <sub-title lang="ca">Volpina</sub-title>
-    <desc lang="ca">La Lila és una alumna nova que desperta una gran admiració entre els seus companys pel seu trepidant ritme de vida. Tothom parla d'ella amb entusiasme, excepte la Marinette, que no veu amb bons ulls que la Lila vulgui lligar-se l'Adrien i a més a més vagi dient que és íntima amiga de Ladybug.</desc>
-    <length units="seconds">1267</length>
-    <episode-num system="onscreen">26</episode-num>
-    <category lang="ca">FICCIÓ</category>
-    <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
+  <programme start="20261012081325 +0200" stop="20261012082302 +0200" channel="sx3">
+    <title lang="ca">Titó</title>
+    <sub-title lang="ca">Excursió al refugi de muntanya</sub-title>
+    <desc lang="ca">Avui hem anat d'excursió a la muntanya! Estem molt cansats de caminar tot el dia, però per sort descansarem i agafarem forces en un refugi de muntanya! Vols descobrir-lo amb la Tat i en Titó? Som-hi!</desc>
+    <length units="seconds">577</length>
+    <episode-num system="onscreen">185</episode-num>
+    <category lang="ca">ENTRETENIMENT</category>
+    <category lang="ca">ALTRES</category>
     <rating>
       <value>INFANTIL</value>
     </rating>
     <subtitles type="teletext"/>
-    <previously-shown/>
   </programme>
-  <programme start="20261012024700 +0200" stop="20261012025716 +0200" channel="sx3">
-    <title lang="ca">Com dibuixar còmics amb el Will Sliney</title>
-    <sub-title lang="ca">El retorn del Crònica</sub-title>
-    <desc lang="ca">En aquest episodi, el malvat Crònica ha creat una versió malèfica del Will, el Vil, un superdolent que té el poder de crear els superdolents que s'enfrontaran als superherois que ha creat el Will. I el primer superdolent que crearà serà el Púrria, pensat per enfrontar-se a l'Elit. Entre tots dos, el Vil i el Will, ens ensenyaran trucs per dibuixar els malvats i també coneixerem els orígens del Púrria.</desc>
-    <length units="seconds">616</length>
-    <episode-num system="onscreen">30</episode-num>
-    <category lang="ca">FICCIÓ</category>
+  <programme start="20261012082302 +0200" stop="20261012083004 +0200" channel="sx3">
+    <title lang="ca">Titó</title>
+    <sub-title lang="ca">Excursió a la castanyeda</sub-title>
+    <desc lang="ca">Avui el Titó va d'excursió per descobrir d'on surten les castanyes. Primer trobarà un roure que fa aglans, després un avellaner que fa avellanes... i finalment trobarà un munt de castanyers! Descobrirem que les castanyes estan envoltades de punxes i acabarem ballant 'La Castanyera' amb en John C.</desc>
+    <length units="seconds">422</length>
+    <episode-num system="onscreen">9</episode-num>
+    <category lang="ca">ENTRETENIMENT</category>
     <category lang="ca">ALTRES</category>
     <rating>
       <value>INFANTIL</value>
@@ -121,30 +120,30 @@
   <channel id="c33">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20261012015609 +0200" stop="20261012024000 +0200" channel="c33">
-    <title lang="ca">El Crac</title>
-    <sub-title lang="ca">La gran fantasia</sub-title>
-    <desc lang="ca">Capítol 3.- 'La gran fantasia'Després de trencar amb la Sandra, el Joel busca alguna aventura nocturna, però surt amb la cua entre cames. Per això, quan l'Aina Clotet abandona la pel·lícula, el Joel veu una oportunitat de recuperar la Sandra i s'ofereix a ajudar-la a preparar una prova per al paper de protagonista femenina. La Sandra fa un bon càsting i, agraïda amb en Joel, es mostra disposada a fer les paus. </desc>
-    <length units="seconds">2631</length>
-    <episode-num system="onscreen">3</episode-num>
-    <category lang="ca">FICCIÓ</category>
-    <category lang="ca">SÈRIE DRAMÀTICA</category>
+  <programme start="20261012080604 +0200" stop="20261012085341 +0200" channel="c33">
+    <title lang="ca">Cosins Germans</title>
+    <sub-title lang="ca">El patró de la corona</sub-title>
+    <desc lang="ca">Soldat romà, màrtir cristià, cavaller matadracs o sant guerrer protagonista de la reconquesta: són els rostres sota els quals s'ha venerat la figura de Sant Jordi. Però què hi ha de realitat i de mite al voltant del patró de l'antiga Corona d'Aragó? Per a esbrinar-ho, Ferran i Sílvia Bel viuran a Barcelona la diada cívica del llibre i la rosa. I a Alcoi, s'endinsaran a les festes de Moros i Cristians més importants i sumptuoses del País Valencià.</desc>
+    <length units="seconds">2857</length>
+    <episode-num system="onscreen">21</episode-num>
+    <category lang="ca">DIVULGACIÓ</category>
+    <category lang="ca">ALTRES</category>
     <rating>
-      <value>PÚBLIC ADULT</value>
+      <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20261012024000 +0200" stop="20261012032254 +0200" channel="c33">
-    <title lang="ca">El Crac</title>
-    <sub-title lang="ca">El gran cabronàs</sub-title>
-    <desc lang="ca">En un roda de premsa en Nico declara que en Joel, per motius evidents, és ideal per encarnar el duc de Berwick, el personatge més odiós i fastigós de la pel·lícula. En Joel s'ho pren com una cosa personal i decideix embarcar-se en una recerca històrica per demostrar que el seu personatge també tenia una vessant humana. En Joel localitzarà un excèntric descendent d'en Berwick que el portarà a fer un descobriment històric sense precedents.</desc>
-    <length units="seconds">2574</length>
-    <episode-num system="onscreen">4</episode-num>
-    <category lang="ca">FICCIÓ</category>
-    <category lang="ca">SÈRIE DRAMÀTICA</category>
+  <programme start="20261012085341 +0200" stop="20261012094753 +0200" channel="c33">
+    <title lang="ca">Katalonski</title>
+    <sub-title lang="ca">Amsterdam</sub-title>
+    <desc lang="ca">El Halldor anirà a Amsterdam per conèixer una família que viu en un vaixell, la d'Hugo Niesing, l'home que tot ho fa sostenible; seguirà a l'aigua remant amb Vir Mellado, que li presentarà la seva família nòmada, nombrosa i molt trapella; jugarà al billar a casa de Joris van Santen, tot un bon partit: té el millor pis d'estudiants que es coneix, té una banda de rock que sona de meravella i, a més, és jove, guapo i vol ser president d'Holanda; la seva mare, professora de català, el deixarà entrar a la classe de la universitat, on Halldor coneixerà el primer macedoni de la seva vida; i finalment es relaxarà amb Ezma Luna, de pare holandès i mare italiana, que parla un català perfecte i amb qui acabarà ballant danses africanes i sardanes desconstruïdes.</desc>
+    <length units="seconds">3252</length>
+    <episode-num system="onscreen">21</episode-num>
+    <category lang="ca">DIVULGACIÓ</category>
+    <category lang="ca">Docu-Entreteniment</category>
     <rating>
-      <value>PÚBLIC ADULT</value>
+      <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
