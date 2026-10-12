@@ -3,49 +3,10 @@
   <channel id="tvi">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20261011224634 +0200" stop="20261011235716 +0200" channel="tvi">
-    <title lang="ca">Vèrtex</title>
-    <desc lang="ca">Hi ha notícies que només s'entenen quan s'observen des de diferents perspectives. Amb aquesta premissa neix 'Vèrtex', el nou programa d'actualitat setmanal que converteix la complexitat dels grans temes en una conversa rigorosa, visual i propera. El programa ofereix una mirada transversal dels assumptes que han marcat la setmana i dels que definiran la que està a punt de començar.</desc>
-    <length units="seconds">4242</length>
-    <episode-num system="onscreen">3</episode-num>
-    <category lang="ca">DIVULGACIÓ</category>
-    <category lang="ca">ENTREVISTES</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-  </programme>
-  <programme start="20261011235716 +0200" stop="20261012003651 +0200" channel="tvi">
-    <title lang="ca">Gent amb DO</title>
-    <sub-title lang="ca">DO Conca de Barberà. 'Trepat, l'orgull recuperat'</sub-title>
-    <desc lang="ca">A la Conca de Barberà, la història del vi comença entre els murs de Poblet i continua entre ceps de trepat. Empar Moliner recorre una terra que va transformar una varietat gairebé oblidada en un dels grans vins elegants del país. Entre monestirs, catedrals del vi i la memòria d'un territori resilient, descobrim com la perseverança també es pot embotellar. Quin és el do de la DO Conca de Barberà?</desc>
-    <length units="seconds">2375</length>
-    <episode-num system="onscreen">1</episode-num>
-    <category lang="ca">DIVULGACIÓ</category>
-    <category lang="ca">SÈRIE DOCUMENTAL</category>
-    <rating>
-      <value>PÚBLIC ADULT</value>
-    </rating>
-  </programme>
-  <channel id="324">
-    <display-name>324</display-name>
-  </channel>
-  <programme start="20261011230000 +0200" stop="20261012003000 +0200" channel="324">
+  <programme start="20261012003654 +0200" stop="20261012040000 +0200" channel="tvi">
     <title lang="ca">Notícies 3CatInfo</title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">5400</length>
-    <episode-num system="onscreen">11407</episode-num>
-    <category lang="ca">ACTUALITAT</category>
-    <category lang="ca">INFORMATIU DIÀRI</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <subtitles type="teletext"/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
-  </programme>
-  <programme start="20261012003000 +0200" stop="20261012010000 +0200" channel="324">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">1800</length>
+    <length units="seconds">12186</length>
     <episode-num system="onscreen">11408</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
@@ -54,44 +15,87 @@
     </rating>
     <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
+  <programme start="20261012040000 +0200" stop="20261012050000 +0200" channel="tvi">
+    <title lang="ca">Blues a l'estudi</title>
+    <sub-title lang="ca">August Tharrats</sub-title>
+    <desc lang="ca">August Tharrats ha estat el pianista pioner del blues i el boogie-woogie al nostre país i ha format part de les formacions més representatives d'aquests estils en el context català. Des de fa anys, lidera el seu propi trio, amb què ha gravat tres àlbums i ha creat un blues amb accent de swing, que ens orienta al jazz clàssic. L'acompanyen Jaume Badrenes als saxos, Jordi Mestres al contrabaix i Anton Jarl a la bateria.</desc>
+    <length units="seconds">3600</length>
+    <episode-num system="onscreen">16</episode-num>
+    <category lang="ca">MUSICALS</category>
+    <category lang="ca">ALTRES</category>
+    <rating>
+      <value>PÚBLIC ADULT</value>
+    </rating>
+    <previously-shown/>
+  </programme>
+  <channel id="324">
+    <display-name>324</display-name>
+  </channel>
+  <programme start="20261012010000 +0200" stop="20261012060000 +0200" channel="324">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="seconds">18000</length>
+    <episode-num system="onscreen">11408</episode-num>
+    <category lang="ca">ACTUALITAT</category>
+    <category lang="ca">INFORMATIU DIÀRI</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <previously-shown/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
+  </programme>
+  <programme start="20261012060000 +0200" stop="20261012070000 +0200" channel="324">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="seconds">3600</length>
+    <episode-num system="onscreen">11408</episode-num>
+    <category lang="ca">ACTUALITAT</category>
+    <category lang="ca">INFORMATIU DIÀRI</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <previously-shown/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
+  </programme>
   <channel id="esport3">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20261011230229 +0200" stop="20261012001821 +0200" channel="esport3">
-    <title lang="ca">Gol a gol</title>
-    <sub-title lang="ca">Anàlisi de la jornada / J8 / Diumenge</sub-title>
-    <desc lang="ca">'Gol a gol' us ofereix els resums dels partits de futbol de Primera i Segona Divisió. Presentat per Jordi Grau a Esport3, cada dissabte i cada diumenge podeu veure les millors imatges de la jornada de Lliga amb l'anàlisi dels experts, amb especial atenció als equips catalans, sobretot el Barça, el Girona i l'Espanyol.</desc>
-    <length units="seconds">4552</length>
-    <episode-num system="onscreen">1788</episode-num>
+  <programme start="20261012022731 +0200" stop="20261012040821 +0200" channel="esport3">
+    <title lang="ca">Bàsquet Lliga Endesa ACB Masculina</title>
+    <sub-title lang="ca">Reial Madrid-Kids&amp;Us Manresa / Lliga / J3</sub-title>
+    <desc lang="ca">El conjunt del Bages vol la primera victòria en el campionat. Una missió complicada, a la pista dels blancs, sempre candidats a guanyar el títol.</desc>
+    <length units="seconds">6050</length>
+    <episode-num system="onscreen">44</episode-num>
     <category lang="ca">ESPORTS</category>
-    <category lang="ca">MAGAZINE</category>
+    <category lang="ca">RETRANSMISSIONS ESPORTS</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/2/1/1698144123212.jpg"/>
+    <icon src="https://img.3cat.cat/multimedia/jpg/4/5/1769511199554.jpg"/>
   </programme>
-  <programme start="20261012001821 +0200" stop="20261012003536 +0200" channel="esport3">
+  <programme start="20261012040821 +0200" stop="20261012043014 +0200" channel="esport3">
     <title lang="ca">3CatInfo Esports</title>
     <desc lang="ca">Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.</desc>
-    <length units="seconds">1035</length>
+    <length units="seconds">1313</length>
     <episode-num system="onscreen">5535</episode-num>
     <category lang="ca">ESPORTS</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
+    <previously-shown/>
     <icon src="https://img.ccma.cat/multimedia/jpg/9/7/1758888682179.jpg"/>
   </programme>
   <channel id="sx3">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20261011225555 +0200" stop="20261011230640 +0200" channel="sx3">
-    <title lang="ca">La tropa del corral</title>
-    <sub-title lang="ca">Com un conill dalt d'un arbre</sub-title>
-    <desc lang="ca">Les cacatues truquen la Tropa del Corral perquè en Prince s'ha quedat atrapat dalt de tot d'un arbre a la plaça major i els seus miols les faran parar boges. La Maggie, sense pensar-ho gaire, puja l'arbre per salvar el Prince, però un cop dalt de tot descobreix que li fan por les altures i no en pot baixar! Ara la Tropa haurà de buscar la manera de salvar-los a tots dos.</desc>
-    <length units="seconds">645</length>
-    <episode-num system="onscreen">9</episode-num>
+  <programme start="20261012022553 +0200" stop="20261012024700 +0200" channel="sx3">
+    <title lang="ca">Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
+    <sub-title lang="ca">Volpina</sub-title>
+    <desc lang="ca">La Lila és una alumna nova que desperta una gran admiració entre els seus companys pel seu trepidant ritme de vida. Tothom parla d'ella amb entusiasme, excepte la Marinette, que no veu amb bons ulls que la Lila vulgui lligar-se l'Adrien i a més a més vagi dient que és íntima amiga de Ladybug.</desc>
+    <length units="seconds">1267</length>
+    <episode-num system="onscreen">26</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
@@ -100,14 +104,14 @@
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20261011230640 +0200" stop="20261011231730 +0200" channel="sx3">
-    <title lang="ca">La tropa del corral</title>
-    <sub-title lang="ca">Perduda a Correus</sub-title>
-    <desc lang="ca">L'Agnes truca molt nerviosa. Els seus amos han confós la closca d'en Reggie amb un bol i l'han enviat com a regal de noces. La Flo, la Maggie i en Jo passen a l'acció i decideixen buscar el carter per canviar la closca per un altre paquet. Mentrestant, en Clive i en Billy vigilen en Reggie, que vol recuperar la closca tot sol com sigui.</desc>
-    <length units="seconds">650</length>
-    <episode-num system="onscreen">10</episode-num>
+  <programme start="20261012024700 +0200" stop="20261012025716 +0200" channel="sx3">
+    <title lang="ca">Com dibuixar còmics amb el Will Sliney</title>
+    <sub-title lang="ca">El retorn del Crònica</sub-title>
+    <desc lang="ca">En aquest episodi, el malvat Crònica ha creat una versió malèfica del Will, el Vil, un superdolent que té el poder de crear els superdolents que s'enfrontaran als superherois que ha creat el Will. I el primer superdolent que crearà serà el Púrria, pensat per enfrontar-se a l'Elit. Entre tots dos, el Vil i el Will, ens ensenyaran trucs per dibuixar els malvats i també coneixerem els orígens del Púrria.</desc>
+    <length units="seconds">616</length>
+    <episode-num system="onscreen">30</episode-num>
     <category lang="ca">FICCIÓ</category>
-    <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
+    <category lang="ca">ALTRES</category>
     <rating>
       <value>INFANTIL</value>
     </rating>
@@ -117,30 +121,30 @@
   <channel id="c33">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20261011224434 +0200" stop="20261011232837 +0200" channel="c33">
-    <title lang="ca">Els habitants de la fi del món</title>
-    <sub-title lang="ca">Irlanda</sub-title>
-    <desc lang="ca">En Ben viatja a l'illa Great Blasket, a la costa irlandesa. Allà passa uns dies amb en Dan i l'Emily, una parella londinenca que tenen una feina extraordinària: són els cuidadors de les illes de l'irregular frontera occidental d'Europa. Per aconseguir-la, han hagut de superar 40.000 candidats més. En Ben és testimoni de l'adaptació de la parella a la vida aïllada, tot el que han aconseguit sense cap mena d'experiència i, també, on els pot conduir aquest salt de fe. En Ben arregla una bomba d'aigua, agafa ovelles, recull algues i neda amb foques a les aigües clares de l'Atlàntic. També coneix el passat extraordinari de l'illa i l'home que va triar en Dan i l'Emily per dirigir l'illa, amb qui recorren el camí precari que cal fer per aconseguir subministraments per a l'illa. Envoltat de penya-segats i batut per les tempestes, en Ben s'adona que l'illa Great Blasket és un lloc que nodreix l'esperit i ens recorda el poder de la natura.</desc>
-    <length units="seconds">2643</length>
-    <episode-num system="onscreen">71</episode-num>
-    <category lang="ca">DIVULGACIÓ</category>
-    <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
+  <programme start="20261012015609 +0200" stop="20261012024000 +0200" channel="c33">
+    <title lang="ca">El Crac</title>
+    <sub-title lang="ca">La gran fantasia</sub-title>
+    <desc lang="ca">Capítol 3.- 'La gran fantasia'Després de trencar amb la Sandra, el Joel busca alguna aventura nocturna, però surt amb la cua entre cames. Per això, quan l'Aina Clotet abandona la pel·lícula, el Joel veu una oportunitat de recuperar la Sandra i s'ofereix a ajudar-la a preparar una prova per al paper de protagonista femenina. La Sandra fa un bon càsting i, agraïda amb en Joel, es mostra disposada a fer les paus. </desc>
+    <length units="seconds">2631</length>
+    <episode-num system="onscreen">3</episode-num>
+    <category lang="ca">FICCIÓ</category>
+    <category lang="ca">SÈRIE DRAMÀTICA</category>
     <rating>
-      <value>TOTS ELS PÚBLICS</value>
+      <value>PÚBLIC ADULT</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20261011232837 +0200" stop="20261012001336 +0200" channel="c33">
-    <title lang="ca">Els habitants de la fi del món</title>
-    <sub-title lang="ca">Tailàndia</sub-title>
-    <desc lang="ca">Acompanyem en Ben al sud-est asiàtic per conèixer en Niall, un emprenedor que va deixar la seva carrera prometedora per anar-se'n a les platges de Tailàndia a ajudar els gossos de carrer que, a la vegada, l'han salvat a ell. En Ben es troba amb el seu amfitrió al seu tros de selva salvatge i al santuari per a gossos que ell mateix ha construït a l'illa de Koh Samui. En Ben passa uns dies amb voluntaris i altres vilatans amants dels gossos i els ajuda amb les tasques diàries, prepara menjar per a 800 gossos i acompanyà en Niall a fer rondes per la muntanya per alimentar-los. La parella construeix llits per a gossos amb bidons d'oli i una piscina canina mentre en Ben s'assabenta que el seu amfitrió era un xef expert en xarxes socials que voltava pel món. També descobreix que en Niall va estar a punt de morir, i la visita del seu pare confirma que ha trobat la seva autèntica vocació amb una ambició que no té límits.</desc>
-    <length units="seconds">2699</length>
-    <episode-num system="onscreen">72</episode-num>
-    <category lang="ca">DIVULGACIÓ</category>
-    <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
+  <programme start="20261012024000 +0200" stop="20261012032254 +0200" channel="c33">
+    <title lang="ca">El Crac</title>
+    <sub-title lang="ca">El gran cabronàs</sub-title>
+    <desc lang="ca">En un roda de premsa en Nico declara que en Joel, per motius evidents, és ideal per encarnar el duc de Berwick, el personatge més odiós i fastigós de la pel·lícula. En Joel s'ho pren com una cosa personal i decideix embarcar-se en una recerca històrica per demostrar que el seu personatge també tenia una vessant humana. En Joel localitzarà un excèntric descendent d'en Berwick que el portarà a fer un descobriment històric sense precedents.</desc>
+    <length units="seconds">2574</length>
+    <episode-num system="onscreen">4</episode-num>
+    <category lang="ca">FICCIÓ</category>
+    <category lang="ca">SÈRIE DRAMÀTICA</category>
     <rating>
-      <value>TOTS ELS PÚBLICS</value>
+      <value>PÚBLIC ADULT</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
