@@ -3,36 +3,37 @@
   <channel id="tvi">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20261013103010 +0200" stop="20261013135500 +0200" channel="tvi">
-    <title lang="ca">Tot es mou</title>
-    <desc lang="ca">El programa presentat per Helena Garcia Melero s'emet de dilluns a divendres, de 10.30 a 13.55. Un magazín d'actualitat que busca informar, analitzar i debatre sobre temes que marquen l'actualitat social, econòmica i cultural del dia, amb una àmplia presència en directe dels reporters i reporteres, repartits per tot Catalunya. A més, el 'Tot es mou' compta amb seccions diàries de gastronomia (amb els principals cuiners i cuineres del país), successos, economia, mobilitat, temes mèdics i de tecnologia, entre d'altres.</desc>
-    <length units="seconds">12290</length>
-    <episode-num system="onscreen">1827</episode-num>
-    <category lang="ca">ACTUALITAT</category>
-    <category lang="ca">MAGAZINE</category>
+  <programme start="20261013191354 +0200" stop="20261013201456 +0200" channel="tvi">
+    <title lang="ca">Atrapa'm si pots</title>
+    <desc lang="ca">'Atrapa'm si pots' és un 'quiz show' clàssic, de preguntes i respostes, presentat per Llucià Ferrer, en què sis concursants competeixen per arribar a la fase final i guanyar el pot. 'Atrapa'm si pots' és entreteniment pur i on gairebé és més important passar-s'ho bé que els diners. És un concurs en què pesa més la intuïció que no els coneixements acadèmics, més l'estratègia en el joc que no la sort.</desc>
+    <length units="seconds">3662</length>
+    <episode-num system="onscreen">942</episode-num>
+    <category lang="ca">ENTRETENIMENT</category>
+    <category lang="ca">CONCURS</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
   </programme>
-  <programme start="20261013135500 +0200" stop="20261013143000 +0200" channel="tvi">
-    <title lang="ca">Telenotícies comarques</title>
-    <length units="seconds">2100</length>
-    <episode-num system="onscreen">7053</episode-num>
-    <category lang="ca">ACTUALITAT</category>
-    <category lang="ca">INFORMATIU DIÀRI</category>
+  <programme start="20261013201456 +0200" stop="20261013210000 +0200" channel="tvi">
+    <title lang="ca">Està passant</title>
+    <desc lang="ca">L'Òscar Andreu i el Queco parlen de les novetats de les properes eleccions. Torna en Marc Buxaderas per mediar els vostres problemes i l'Elisenda Carod ha anat a la manifestació del 12-O.</desc>
+    <length units="seconds">2704</length>
+    <episode-num system="onscreen">1829</episode-num>
+    <category lang="ca">ENTRETENIMENT</category>
+    <category lang="ca">GAGS. HUMOR</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <icon src="https://img.ccma.cat/multimedia/jpg/5/2/1758026313525.jpg"/>
+    <icon src="https://img.ccma.cat/multimedia/png/3/8/1705511272683.png"/>
   </programme>
   <channel id="324">
     <display-name>324</display-name>
   </channel>
-  <programme start="20261013103000 +0200" stop="20261013123000 +0200" channel="324">
+  <programme start="20261013183000 +0200" stop="20261013200000 +0200" channel="324">
     <title lang="ca">Notícies 3CatInfo</title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">7200</length>
-    <episode-num system="onscreen">11419</episode-num>
+    <length units="seconds">5400</length>
+    <episode-num system="onscreen">11423</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
@@ -41,58 +42,59 @@
     <subtitles type="teletext"/>
     <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
-  <programme start="20261013123000 +0200" stop="20261013133000 +0200" channel="324">
-    <title lang="ca">Roda de premsa posterior al Consell Executiu</title>
+  <programme start="20261013200000 +0200" stop="20261013210000 +0200" channel="324">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <length units="seconds">3600</length>
-    <episode-num system="onscreen">261</episode-num>
+    <episode-num system="onscreen">11424</episode-num>
     <category lang="ca">ACTUALITAT</category>
-    <category lang="ca">ESPECIALS INFORMATIUS</category>
+    <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/3/4/1723457240743.jpg"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
   <channel id="esport3">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20261013112959 +0200" stop="20261013130000 +0200" channel="esport3">
-    <title lang="ca">Onze</title>
-    <sub-title lang="ca">El xou capil·lar de Vini; Mayola Academy i 'El colegiado'</sub-title>
-    <desc lang="ca">Carles Fité, Xavi Torres, Irati Vidal, Jordi Martí i Joaquín Maroto comenten l'expulsió de Vinicius per estirar dels cabells d'un rival. En Marc Mayola posa la lupa en alguns aspectes tàctics del partit del Barça. En Joan Fàbregas analitza les jugades polèmiques de la jornada.</desc>
-    <length units="seconds">5401</length>
-    <episode-num system="onscreen">1267</episode-num>
+  <programme start="20261013191124 +0200" stop="20261013200000 +0200" channel="esport3">
+    <title lang="ca">Bàsquet</title>
+    <sub-title lang="ca">Bahçesehir-Kids&amp;Us Manresa / Eurocup / J3</sub-title>
+    <desc lang="ca">Després d'una derrota i una victòria, els del Bages visiten la pista del líder del grup. Els turcs han guanyat el dos partits disputats.</desc>
+    <length units="seconds">2916</length>
+    <episode-num system="onscreen">98</episode-num>
+    <category lang="ca">ESPORTS</category>
+    <category lang="ca">RETRANSMISSIONS ESPORTS</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <previously-shown/>
+    <icon src="https://img.3cat.cat/multimedia/jpg/0/7/1761644896070.jpg"/>
+  </programme>
+  <programme start="20261013200000 +0200" stop="20261013205614 +0200" channel="esport3">
+    <title lang="ca">Zona Champions</title>
+    <sub-title lang="ca">Prèvia Galatasaray-Barça / J2</sub-title>
+    <desc lang="ca">El bo i millor de la màxima competició de futbol continental de la mà del Departament d'Esports de Televisió de Catalunya. Viu tots els partits de la Lliga de Campions a 3Cat!</desc>
+    <length units="seconds">3374</length>
+    <episode-num system="onscreen">852</episode-num>
     <category lang="ca">ESPORTS</category>
     <category lang="ca">MAGAZINE</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
-    <previously-shown/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/1/1/1688543515711.jpg"/>
-  </programme>
-  <programme start="20261013130000 +0200" stop="20261013140141 +0200" channel="esport3">
-    <title lang="ca">Esport Club</title>
-    <desc lang="ca">En Jordi Sanuy i Víctor Patsi us expliquen l'última hora esportiva i l'analitzen amb el seu equip de col·laboradors. El programa és molt actiu a les xarxes socials. L''Esport Club' té presència a Twitter, a Facebook i a Instagram. L'espai dirigeix moltes accions de participació amb l'audiència a través de les xarxes socials.</desc>
-    <length units="seconds">3701</length>
-    <episode-num system="onscreen">3260</episode-num>
-    <category lang="ca">ESPORTS</category>
-    <category lang="ca">INFORMATIU DIÀRI</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <subtitles type="teletext"/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/7/3/1698145091337.jpg"/>
+    <icon src="https://img.3cat.cat/multimedia/jpg/3/4/1769511614843.jpg"/>
   </programme>
   <channel id="sx3">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20261013120942 +0200" stop="20261013123127 +0200" channel="sx3">
-    <title lang="ca">Els germans Kratt</title>
-    <sub-title lang="ca">El poble dels porcs formiguers</sub-title>
-    <desc lang="ca">Avui en Chris i en Martin descobriran el poble dels porcs formiguers, uns animals que costen molt de veure i que estan emparentats amb... els elefants?! A més, els coneixeran molt de prop! Sobretot en Chris! Un porc formiguer, tot fugint d'una hiena, se li ha amagat a la motxilla! Ara els tocarà tornar-lo al seu cau! Els hi acompanyes?!</desc>
-    <length units="seconds">1305</length>
-    <episode-num system="onscreen">3</episode-num>
+  <programme start="20261013192907 +0200" stop="20261013195115 +0200" channel="sx3">
+    <title lang="ca">Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
+    <sub-title lang="ca">Bolquerot</sub-title>
+    <desc lang="ca">Mentre la Zoé busca la manera d'evitar que la gent malintencionada faci mal als altres, Ladybug i el seu equip s'enfronten a un seguit d'esdeveniments estranys a París. A més de lluitar contra un supermalvat especialment furibund, els Prodigiosos hauran de trobar un misteriós justicier emmascarat que fa servir mètodes poc convencionals.</desc>
+    <length units="seconds">1328</length>
+    <episode-num system="onscreen">145</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
@@ -101,45 +103,44 @@
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20261013123127 +0200" stop="20261013125227 +0200" channel="sx3">
-    <title lang="ca">Els germans Kratt</title>
-    <sub-title lang="ca">El vol del dragó</sub-title>
-    <desc lang="ca">En Chris i en Martin, que han sortit d'excursió a buscar dragons voladors, han acabat descobrint el pla malèfic de l'encara més malèfica Donita Donata. Té intenció de fer servir dragons voladors per crear la nova col·lecció de tardor de les joies vivents! Per aturar-la, hauran d'incorporar el poder del dragó al Vestit de Poder Animal! T'ho perdràs?!</desc>
-    <length units="seconds">1260</length>
-    <episode-num system="onscreen">4</episode-num>
-    <category lang="ca">FICCIÓ</category>
-    <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
+  <programme start="20261013195115 +0200" stop="20261013200000 +0200" channel="sx3">
+    <title lang="ca">Betapodcast</title>
+    <sub-title lang="ca">Les supersticions de la Kai</sub-title>
+    <desc lang="ca">Avui la Kai no està de sort, sembla que tot li passi a ella, i per això s'ha decidit a investigar què pot fer per cridar la bona sort i ens explica l'origen d'algunes de les supersticions més populars.</desc>
+    <length units="seconds">525</length>
+    <episode-num system="onscreen">386</episode-num>
+    <category lang="ca">ENTRETENIMENT</category>
+    <category lang="ca">ALTRES</category>
     <rating>
       <value>INFANTIL</value>
     </rating>
     <subtitles type="teletext"/>
-    <previously-shown/>
   </programme>
   <channel id="c33">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20261013122550 +0200" stop="20261013123337 +0200" channel="c33">
-    <title lang="ca">Cuines</title>
-    <sub-title lang="ca">Llagostins amb cuixent de patata i porro</sub-title>
-    <desc lang="ca">Dificultat: mitjanaTemps d'elaboració: Producte principal: llagostinsTemporada: tot l'anyRestaurant SILVESTRE</desc>
-    <length units="seconds">467</length>
-    <episode-num system="onscreen">3426</episode-num>
+  <programme start="20261013193045 +0200" stop="20261013201518 +0200" channel="c33">
+    <title lang="ca">Els habitants de la fi del món</title>
+    <sub-title lang="ca">Irlanda</sub-title>
+    <desc lang="ca">En Ben viatja a l'illa Great Blasket, a la costa irlandesa. Allà passa uns dies amb en Dan i l'Emily, una parella londinenca que tenen una feina extraordinària: són els cuidadors de les illes de l'irregular frontera occidental d'Europa. Per aconseguir-la, han hagut de superar 40.000 candidats més. En Ben és testimoni de l'adaptació de la parella a la vida aïllada, tot el que han aconseguit sense cap mena d'experiència i, també, on els pot conduir aquest salt de fe. En Ben arregla una bomba d'aigua, agafa ovelles, recull algues i neda amb foques a les aigües clares de l'Atlàntic. També coneix el passat extraordinari de l'illa i l'home que va triar en Dan i l'Emily per dirigir l'illa, amb qui recorren el camí precari que cal fer per aconseguir subministraments per a l'illa. Envoltat de penya-segats i batut per les tempestes, en Ben s'adona que l'illa Great Blasket és un lloc que nodreix l'esperit i ens recorda el poder de la natura.</desc>
+    <length units="seconds">2673</length>
+    <episode-num system="onscreen">71</episode-num>
     <category lang="ca">DIVULGACIÓ</category>
-    <category lang="ca">MAGAZINE ESPECIALITZAT</category>
+    <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20261013123337 +0200" stop="20261013140338 +0200" channel="c33">
-    <title lang="ca">El Gran Dictat, VIP</title>
-    <sub-title lang="ca">El Gran Gran Dictat</sub-title>
-    <desc lang="ca">La versió amb famosos del concurs de TV3 avui tindrà tres 'grans grans concursants' Oriol Grau, Beth Rodergas i Sergi Mas. Tots tres concursaran per endur-se un premi de 2.000 euros, que donaran a l'ONG que hagin triat.Com cada setmana veurem com els concursants afronten les proves del programa i participen en un seguit d'esquetxos d'humor. En aquesta ocasió, descobrirem quina relació hi ha entre ells i el presentador. Així, sabrem que l'amistat de l'Oriol i l'Òscar va molt més enllà del que es pot considerar normal. La Beth ens donarà una gran exclusiva: ella i el barbut més famós de la tele van tenir un idil·li. I, finalment, el Sergi Mas recordarà el seu passat com a mascota de l'Òscar.Els trucs del Mag Lari tornaran a aparèixer entre prova i prova per posar una mica de màgia al programa. Aprofitant que és l'última oportunitat per desfer-se del presentador, farà un número amb què posarà en perill la seva integritat física.</desc>
-    <length units="seconds">5401</length>
-    <episode-num system="onscreen">23</episode-num>
+  <programme start="20261013201518 +0200" stop="20261013205959 +0200" channel="c33">
+    <title lang="ca">Els habitants de la fi del món</title>
+    <sub-title lang="ca">Tailàndia</sub-title>
+    <desc lang="ca">Acompanyem en Ben al sud-est asiàtic per conèixer en Niall, un emprenedor que va deixar la seva carrera prometedora per anar-se'n a les platges de Tailàndia a ajudar els gossos de carrer que, a la vegada, l'han salvat a ell. En Ben es troba amb el seu amfitrió al seu tros de selva salvatge i al santuari per a gossos que ell mateix ha construït a l'illa de Koh Samui. En Ben passa uns dies amb voluntaris i altres vilatans amants dels gossos i els ajuda amb les tasques diàries, prepara menjar per a 800 gossos i acompanyà en Niall a fer rondes per la muntanya per alimentar-los. La parella construeix llits per a gossos amb bidons d'oli i una piscina canina mentre en Ben s'assabenta que el seu amfitrió era un xef expert en xarxes socials que voltava pel món. També descobreix que en Niall va estar a punt de morir, i la visita del seu pare confirma que ha trobat la seva autèntica vocació amb una ambició que no té límits.</desc>
+    <length units="seconds">2681</length>
+    <episode-num system="onscreen">72</episode-num>
     <category lang="ca">DIVULGACIÓ</category>
-    <category lang="ca">EDUCATIU</category>
+    <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
@@ -149,45 +150,12 @@
   <channel id="oca1">
     <display-name>OCA1</display-name>
   </channel>
-  <programme start="20261013122500 +0200" stop="20261013135955 +0200" channel="oca1">
-    <title lang="ca">Roda de premsa posterior al Consell Executiu</title>
-    <length units="seconds">5395</length>
-    <episode-num system="onscreen">4173</episode-num>
-    <category lang="ca">ACTUALITAT</category>
-    <category lang="ca">RETRANSMISSIONS ACTUALITAT</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <icon src="https://img.ccma.cat/multimedia/jpg/6/2/1723647268726.jpg"/>
-  </programme>
   <channel id="oca2">
     <display-name>OCA2</display-name>
   </channel>
-  <programme start="20261013122500 +0200" stop="20261013135955 +0200" channel="oca2">
-    <title lang="ca">Roda de premsa posterior al Consell de Ministres</title>
-    <length units="seconds">5395</length>
-    <episode-num system="onscreen">4174</episode-num>
-    <category lang="ca">ACTUALITAT</category>
-    <category lang="ca">RETRANSMISSIONS ACTUALITAT</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <icon src="https://img.ccma.cat/multimedia/jpg/8/5/1766758430658.jpg"/>
-  </programme>
   <channel id="oca3">
     <display-name>OCA3</display-name>
   </channel>
-  <programme start="20261013122500 +0200" stop="20261013135955 +0200" channel="oca3">
-    <title lang="ca">Esquerra explica l'acord de col·laboració amb Podem per a les eleccions generals</title>
-    <length units="seconds">5395</length>
-    <episode-num system="onscreen">4176</episode-num>
-    <category lang="ca">ACTUALITAT</category>
-    <category lang="ca">RETRANSMISSIONS ACTUALITAT</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <icon src="https://img.ccma.cat/multimedia/jpg/6/1/1791881862616.jpg"/>
-  </programme>
   <channel id="oca4">
     <display-name>OCA4</display-name>
   </channel>
