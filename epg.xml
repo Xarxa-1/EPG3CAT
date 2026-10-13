@@ -3,98 +3,100 @@
   <channel id="tvi">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20261013191354 +0200" stop="20261013201456 +0200" channel="tvi">
-    <title lang="ca">Atrapa'm si pots</title>
-    <desc lang="ca">'Atrapa'm si pots' és un 'quiz show' clàssic, de preguntes i respostes, presentat per Llucià Ferrer, en què sis concursants competeixen per arribar a la fase final i guanyar el pot. 'Atrapa'm si pots' és entreteniment pur i on gairebé és més important passar-s'ho bé que els diners. És un concurs en què pesa més la intuïció que no els coneixements acadèmics, més l'estratègia en el joc que no la sort.</desc>
-    <length units="seconds">3662</length>
-    <episode-num system="onscreen">942</episode-num>
+  <programme start="20261013235038 +0200" stop="20261014001009 +0200" channel="tvi">
+    <title lang="ca">Nervi</title>
+    <sub-title lang="ca">Clara Roquet. Guionista i directora de cinema</sub-title>
+    <desc lang="ca">Directora de la premiada 'Libertad' i coguionista de projectes de relleu com 'Creatura', 'Els dies que vindran' i '10.000 km', Clara Roquet és una de les cineastes d'aquí amb una trajectòria ascendent. Ho demostra, per exemple, el desafiament d'haver dirigit la seva primera superproducció, la sèrie 'Las largas sombras'.</desc>
+    <length units="seconds">1171</length>
+    <episode-num system="onscreen">208</episode-num>
     <category lang="ca">ENTRETENIMENT</category>
-    <category lang="ca">CONCURS</category>
+    <category lang="ca">ALTRES</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
+    <subtitles type="teletext"/>
+    <previously-shown/>
   </programme>
-  <programme start="20261013201456 +0200" stop="20261013210000 +0200" channel="tvi">
-    <title lang="ca">Està passant</title>
-    <desc lang="ca">L'Òscar Andreu i el Queco parlen de les novetats de les properes eleccions. Torna en Marc Buxaderas per mediar els vostres problemes i l'Elisenda Carod ha anat a la manifestació del 12-O.</desc>
-    <length units="seconds">2704</length>
-    <episode-num system="onscreen">1829</episode-num>
+  <programme start="20261014001009 +0200" stop="20261014004304 +0200" channel="tvi">
+    <title lang="ca">Les Feres</title>
+    <sub-title lang="ca">Manacor Connection</sub-title>
+    <desc lang="ca">Aquest capítol especial de 'Les feres' vol posar el radar en l'escena musical de Manacor i visibilitzar la valuosa personalitat d'alguns artistes locals. La sala de concerts de Can Lliro es converteix en el centre neuràlgic on cinc solistes i bandes mostren el seu singular cançoner. Parlem de l'associació entre Puput Lab (Joana Gomila i Laia Vallès) amb Carles Medina; SAÏM; Roger Pistola; Caspary i Mar Grimalt. Seguint un caràcter unitari i a mode de pròleg, la peça acaba amb la interpretació d'una cançó del cantant, guitarrista i compositor Miquel Serra, protagonista del capítol següent de 'Les feres'. PUPUT LAB + CARLES MEDINAJoana Gomila - veu Laia Vallès - electrònica Carles Medina - saxo 'Cueta' SAÏM Joan Roig - veu i guitarra Natàlia Gómez - baix Dani Gómez -bateria 'Angle mort' ROGER PISTOLA Roger Antoni Pasqual - veu i guitarra Esteve Huguet - guitarra 'Oxímorons' CASPARY Pau Dalmau - veu Andreu Beltran - guitarra Miquel Crespí - guitarra Pere Plomer - baix Bernat Cantallops - bateria 'Mirall negre' MAR GRIMALT Mar Grimal - guitarra 'Mai te n' ' MIQUEL SERRA Miquel Serra - veu i guitarra Jorra Santiago - guitarra Michael Mesquida - baix Miquel Perelló - bateria 'Saps les meves eines' Localització: Can Lliro, a Manacor, Mallorca Data: 28 de febrer del 2025   </desc>
+    <length units="seconds">1975</length>
+    <episode-num system="onscreen">39</episode-num>
     <category lang="ca">ENTRETENIMENT</category>
-    <category lang="ca">GAGS. HUMOR</category>
+    <category lang="ca">ALTRES</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <icon src="https://img.ccma.cat/multimedia/png/3/8/1705511272683.png"/>
+    <subtitles type="teletext"/>
+    <previously-shown/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/3/4/1719854188043.jpg"/>
   </programme>
   <channel id="324">
     <display-name>324</display-name>
   </channel>
-  <programme start="20261013183000 +0200" stop="20261013200000 +0200" channel="324">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">5400</length>
-    <episode-num system="onscreen">11423</episode-num>
+  <programme start="20261013220500 +0200" stop="20261014000000 +0200" channel="324">
+    <title lang="ca">Mésnit</title>
+    <desc lang="ca">El 'Mésnit' arriba a la desena temporada, amb Marina Romero al capdavant de l'espai i amb la voluntat de continuar sent un centre de debat d'idees i d'anàlisi de l'activitat política.</desc>
+    <length units="seconds">6900</length>
+    <episode-num system="onscreen">2178</episode-num>
     <category lang="ca">ACTUALITAT</category>
-    <category lang="ca">INFORMATIU DIÀRI</category>
+    <category lang="ca">DEBAT</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
-  <programme start="20261013200000 +0200" stop="20261013210000 +0200" channel="324">
+  <programme start="20261014000000 +0200" stop="20261014003000 +0200" channel="324">
     <title lang="ca">Notícies 3CatInfo</title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">3600</length>
-    <episode-num system="onscreen">11424</episode-num>
+    <length units="seconds">1800</length>
+    <episode-num system="onscreen">11425</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <subtitles type="teletext"/>
     <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
   <channel id="esport3">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20261013191124 +0200" stop="20261013200000 +0200" channel="esport3">
-    <title lang="ca">Bàsquet</title>
-    <sub-title lang="ca">Bahçesehir-Kids&amp;Us Manresa / Eurocup / J3</sub-title>
-    <desc lang="ca">Després d'una derrota i una victòria, els del Bages visiten la pista del líder del grup. Els turcs han guanyat el dos partits disputats.</desc>
-    <length units="seconds">2916</length>
-    <episode-num system="onscreen">98</episode-num>
+  <programme start="20261013230512 +0200" stop="20261014003739 +0200" channel="esport3">
+    <title lang="ca">Handbol</title>
+    <sub-title lang="ca">Aguas Santas-BM Granollers / EHF European League / J3</sub-title>
+    <desc lang="ca">El Fraikin juga al districte de Porto amb l'objectiu de sumar la primera victòria com a visitant de la temporada europea.</desc>
+    <length units="seconds">5547</length>
+    <episode-num system="onscreen">44</episode-num>
     <category lang="ca">ESPORTS</category>
     <category lang="ca">RETRANSMISSIONS ESPORTS</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <previously-shown/>
-    <icon src="https://img.3cat.cat/multimedia/jpg/0/7/1761644896070.jpg"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/2/7/1729614341772.jpg"/>
   </programme>
-  <programme start="20261013200000 +0200" stop="20261013205614 +0200" channel="esport3">
-    <title lang="ca">Zona Champions</title>
-    <sub-title lang="ca">Prèvia Galatasaray-Barça / J2</sub-title>
-    <desc lang="ca">El bo i millor de la màxima competició de futbol continental de la mà del Departament d'Esports de Televisió de Catalunya. Viu tots els partits de la Lliga de Campions a 3Cat!</desc>
-    <length units="seconds">3374</length>
-    <episode-num system="onscreen">852</episode-num>
+  <programme start="20261014003739 +0200" stop="20261014004713 +0200" channel="esport3">
+    <title lang="ca">Zona UFEC</title>
+    <desc lang="ca">'Zona UFEC' és l'espai que pren el pols a la situació de l'esport català en les diferents disciplines. A través de reportatges i entrevistes, i en col·laboració amb la Unió de Federacions Esportives de Catalunya, cada setmana repassem els èxits i el treball dels esportistes catalans en les competicions de casa nostra i d'arreu del món.</desc>
+    <length units="seconds">574</length>
+    <episode-num system="onscreen">710</episode-num>
     <category lang="ca">ESPORTS</category>
-    <category lang="ca">MAGAZINE</category>
+    <category lang="ca">REPORTATGES</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
-    <icon src="https://img.3cat.cat/multimedia/jpg/3/4/1769511614843.jpg"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/0/0/1702403805000.jpg"/>
   </programme>
   <channel id="sx3">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20261013192907 +0200" stop="20261013195115 +0200" channel="sx3">
-    <title lang="ca">Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
-    <sub-title lang="ca">Bolquerot</sub-title>
-    <desc lang="ca">Mentre la Zoé busca la manera d'evitar que la gent malintencionada faci mal als altres, Ladybug i el seu equip s'enfronten a un seguit d'esdeveniments estranys a París. A més de lluitar contra un supermalvat especialment furibund, els Prodigiosos hauran de trobar un misteriós justicier emmascarat que fa servir mètodes poc convencionals.</desc>
-    <length units="seconds">1328</length>
-    <episode-num system="onscreen">145</episode-num>
+  <programme start="20261013234308 +0200" stop="20261014000317 +0200" channel="sx3">
+    <title lang="ca">Els germans Kratt</title>
+    <sub-title lang="ca">El dragó de Komodo</sub-title>
+    <desc lang="ca">Els germans Kratt i els seus amics van a l'illa de Komodo perquè han vist que el Gormand s'ha posat a robar tots els ous de dragó de Komodo per una recepta malvada. És una missió urgent, perquè d'aquests dragons només n'hi ha en aquesta illa i són una espècie en perill d'extinció. Per dur a terme el rescat, necessiten el vestit de poder de dragó de Komodo, que els farà experimentar totes les capacitats d'aquest animal.</desc>
+    <length units="seconds">1209</length>
+    <episode-num system="onscreen">131</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
@@ -103,44 +105,45 @@
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20261013195115 +0200" stop="20261013200000 +0200" channel="sx3">
-    <title lang="ca">Betapodcast</title>
-    <sub-title lang="ca">Les supersticions de la Kai</sub-title>
-    <desc lang="ca">Avui la Kai no està de sort, sembla que tot li passi a ella, i per això s'ha decidit a investigar què pot fer per cridar la bona sort i ens explica l'origen d'algunes de les supersticions més populars.</desc>
-    <length units="seconds">525</length>
-    <episode-num system="onscreen">386</episode-num>
-    <category lang="ca">ENTRETENIMENT</category>
-    <category lang="ca">ALTRES</category>
+  <programme start="20261014000317 +0200" stop="20261014002327 +0200" channel="sx3">
+    <title lang="ca">Els germans Kratt</title>
+    <sub-title lang="ca">El viatge de l'heroïna (1a part)</sub-title>
+    <desc lang="ca">Per Nadal l'Aviva li va regalar al Chris un val per un Saltatemps. Encara no l'ha pogut fabricar però ja n'ha fet un dels elements més difícils: el propulsor temporal. El problema és que els ha caigut a l'aigua i ha quedat enganxat a un salmó roig que acaba de començar la migració riu amunt cap al lloc on va néixer. L'equip dels germans Kratt fa tot el possible per recuperar-lo.</desc>
+    <length units="seconds">1210</length>
+    <episode-num system="onscreen">132</episode-num>
+    <category lang="ca">FICCIÓ</category>
+    <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
       <value>INFANTIL</value>
     </rating>
     <subtitles type="teletext"/>
+    <previously-shown/>
   </programme>
   <channel id="c33">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20261013193045 +0200" stop="20261013201518 +0200" channel="c33">
-    <title lang="ca">Els habitants de la fi del món</title>
-    <sub-title lang="ca">Irlanda</sub-title>
-    <desc lang="ca">En Ben viatja a l'illa Great Blasket, a la costa irlandesa. Allà passa uns dies amb en Dan i l'Emily, una parella londinenca que tenen una feina extraordinària: són els cuidadors de les illes de l'irregular frontera occidental d'Europa. Per aconseguir-la, han hagut de superar 40.000 candidats més. En Ben és testimoni de l'adaptació de la parella a la vida aïllada, tot el que han aconseguit sense cap mena d'experiència i, també, on els pot conduir aquest salt de fe. En Ben arregla una bomba d'aigua, agafa ovelles, recull algues i neda amb foques a les aigües clares de l'Atlàntic. També coneix el passat extraordinari de l'illa i l'home que va triar en Dan i l'Emily per dirigir l'illa, amb qui recorren el camí precari que cal fer per aconseguir subministraments per a l'illa. Envoltat de penya-segats i batut per les tempestes, en Ben s'adona que l'illa Great Blasket és un lloc que nodreix l'esperit i ens recorda el poder de la natura.</desc>
-    <length units="seconds">2673</length>
-    <episode-num system="onscreen">71</episode-num>
+  <programme start="20261013233755 +0200" stop="20261014000718 +0200" channel="c33">
+    <title lang="ca">Xefs: noves generacions</title>
+    <sub-title lang="ca">Ivan Surinder (Restaurant Tandoor)</sub-title>
+    <desc lang="ca">La vida d'Ivan Surinder va canviar radicalment el 19 d'octubre de 2011 amb la mort sobtada del seu pare, un dels cuiners indis més rellevants a Barcelona. Això el va obligar, amb només 19 anys, a assumir un restaurant familiar sense tenir cap noció de cuina. Davant la urgència,es va formar a contrarellotge i va fer un salt decisiu a Tickets, amb Albert Adrià, on va aprendre organització, disciplina i rigor. Avui lidera Tandoor amb una visió contemporània: una cuina índia respectuosa amb l'arrel, adaptada al paladar català sense renunciar a la identitat ni al llegat del seu pare.</desc>
+    <length units="seconds">1763</length>
+    <episode-num system="onscreen">6</episode-num>
     <category lang="ca">DIVULGACIÓ</category>
-    <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
+    <category lang="ca">SÈRIE DOCUMENTAL</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20261013201518 +0200" stop="20261013205959 +0200" channel="c33">
-    <title lang="ca">Els habitants de la fi del món</title>
-    <sub-title lang="ca">Tailàndia</sub-title>
-    <desc lang="ca">Acompanyem en Ben al sud-est asiàtic per conèixer en Niall, un emprenedor que va deixar la seva carrera prometedora per anar-se'n a les platges de Tailàndia a ajudar els gossos de carrer que, a la vegada, l'han salvat a ell. En Ben es troba amb el seu amfitrió al seu tros de selva salvatge i al santuari per a gossos que ell mateix ha construït a l'illa de Koh Samui. En Ben passa uns dies amb voluntaris i altres vilatans amants dels gossos i els ajuda amb les tasques diàries, prepara menjar per a 800 gossos i acompanyà en Niall a fer rondes per la muntanya per alimentar-los. La parella construeix llits per a gossos amb bidons d'oli i una piscina canina mentre en Ben s'assabenta que el seu amfitrió era un xef expert en xarxes socials que voltava pel món. També descobreix que en Niall va estar a punt de morir, i la visita del seu pare confirma que ha trobat la seva autèntica vocació amb una ambició que no té límits.</desc>
-    <length units="seconds">2681</length>
-    <episode-num system="onscreen">72</episode-num>
+  <programme start="20261014000718 +0200" stop="20261014003929 +0200" channel="c33">
+    <title lang="ca">Xefs: noves generacions</title>
+    <sub-title lang="ca">Jaime Bes i Claudia Gozzi (Restaurant El Raier)</sub-title>
+    <desc lang="ca">Jaime Bes i Claudia Gozzi ho van deixar tot per començar de zero a la Pobla de Segur. Després d'una trajectòria sòlida en alguns dels restaurants més exigents, han creat a El Raier una cuina de producte i temporada, valenta, precisa i profundament honesta. Peix excepcional en plena muntanya, verdures del territori i una tècnica depurada que es mostra sense filtres en una barra oberta on fins i tot la ceràmica és d'origen local. Un capítol que retrata una decisió vital i una manera de cuinar viva i contemporània, demostrant que l'alta gastronomia també pot arrelar, créixer i innovar lluny de la ciutat.</desc>
+    <length units="seconds">1931</length>
+    <episode-num system="onscreen">7</episode-num>
     <category lang="ca">DIVULGACIÓ</category>
-    <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
+    <category lang="ca">SÈRIE DOCUMENTAL</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
