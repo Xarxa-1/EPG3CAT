@@ -3,67 +3,34 @@
   <channel id="tvi">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20261012235009 +0200" stop="20261013012233 +0200" channel="tvi">
-    <title lang="ca">El metralla</title>
-    <sub-title lang="ca">El metralla</sub-title>
-    <desc lang="ca">EL METRALLAProductores: La Drecera Produccions i la CCMA, amb el suport de l'ICEC.Producció executiva Televisió de Catalunya: Oriol Sala-Patau i Esther DueñasProducció executiva productora: Jordi Roigé, Raül Perales i Marc MuñozDirector i guió: Jordi RoigéDirector de fotografia: Àlex SansMúsica: Pep SalaIntèrprets: Joan Pera, Roger Pera, Mercè Pons, Cristina BrondoCoproducció: La drecera produccions 59,68% i la CCMA 40,32%Sinopsi:Mossèn Joan i el Metralla, un milicià comunista, passen bona part de la Guerra Civil amagats a unes golfes de Barcelona, a casa de la Pepeta. Aquesta parroquiana fidel els protegeix i els alimenta. En tots aquestes anys només rebran la visita de l'Aurora, una antiga companya del Metralla, que fuig a l'exili. L'odi, el recel i les diferències desapareixen amb els mesos, fins al punt d'arriscar la vida l'un per l'altre. L'absurditat de la guerra queda en evidència en aquesta comèdia sincera i humana. </desc>
-    <credits>
-      <actor>Joan Pera</actor>
-      <actor>Roger Pera</actor>
-      <actor>Mercè Pons</actor>
-      <actor>Cristina BrondoCoproducció: La drecera produccions 59</actor>
-      <actor>68%</actor>
-      <actor>la CCMA 40</actor>
-      <actor>32%Sinopsi:Mossèn Joan</actor>
-      <actor>el Metralla</actor>
-      <actor>un milicià comunista</actor>
-      <actor>passen bona part de la Guerra Civil amagats a unes golfes de Barcelona</actor>
-      <actor>a casa de la Pepeta. Aquesta parroquiana fidel els protegeix</actor>
-      <actor>els alimenta. En tots aquestes anys només rebran la visita de l'Aurora</actor>
-      <actor>una antiga companya del Metralla</actor>
-      <actor>que fuig a l'exili. L'odi</actor>
-      <actor>el recel</actor>
-      <actor>les diferències desapareixen amb els mesos</actor>
-      <actor>fins al punt d'arriscar la vida l'un per l'altre. L'absurditat de la guerra queda en evidència en aquesta comèdia sincera</actor>
-      <actor>humana.</actor>
-    </credits>
-    <length units="seconds">5544</length>
-    <episode-num system="onscreen">1</episode-num>
-    <category lang="ca">FICCIÓ</category>
-    <category lang="ca">PEL·LÍCULA / TELEFILM</category>
+  <programme start="20261013050004 +0200" stop="20261013060000 +0200" channel="tvi">
+    <title lang="ca">Jazz a l'estudi</title>
+    <sub-title lang="ca">My friend Marcko</sub-title>
+    <desc lang="ca">Aportant les seves composicions trobem el menorquí Marco Mezquida: un dels pianistes més actius, més joves i més valorats de la nova fornada de músics de jazz fets a Barcelona, junt amb el contrabaixista escandinau Marko Lohikari i el bateria sud-americà Carlos Falanga. Temes propis i estàndars on aconsegueixen el repte de tenir un'sò de grup propi', un sò orgànic, fluid, sense estridències però alhora apassionat que us captivarà.</desc>
+    <length units="seconds">3596</length>
+    <episode-num system="onscreen">26</episode-num>
+    <category lang="ca">MUSICALS</category>
+    <category lang="ca">JAZZ</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <previously-shown/>
   </programme>
-  <programme start="20261013012233 +0200" stop="20261013040000 +0200" channel="tvi">
+  <programme start="20261013060000 +0200" stop="20261013080000 +0200" channel="tvi">
     <title lang="ca">Notícies 3CatInfo</title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">9447</length>
-    <episode-num system="onscreen">11417</episode-num>
+    <length units="seconds">7200</length>
+    <episode-num system="onscreen">11418</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <previously-shown/>
     <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
   <channel id="324">
     <display-name>324</display-name>
   </channel>
-  <programme start="20261013003000 +0200" stop="20261013010000 +0200" channel="324">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">1800</length>
-    <episode-num system="onscreen">11417</episode-num>
-    <category lang="ca">ACTUALITAT</category>
-    <category lang="ca">INFORMATIU DIÀRI</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
-  </programme>
   <programme start="20261013010000 +0200" stop="20261013060000 +0200" channel="324">
     <title lang="ca">Notícies 3CatInfo</title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
@@ -77,45 +44,57 @@
     <previously-shown/>
     <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
-  <channel id="esport3">
-    <display-name>ESPORT3</display-name>
-  </channel>
-  <programme start="20261013003102 +0200" stop="20261013005753 +0200" channel="esport3">
-    <title lang="ca">3CatInfo Esports</title>
-    <desc lang="ca">Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.</desc>
-    <length units="seconds">1611</length>
-    <episode-num system="onscreen">5536</episode-num>
-    <category lang="ca">ESPORTS</category>
+  <programme start="20261013060000 +0200" stop="20261013080000 +0200" channel="324">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="seconds">7200</length>
+    <episode-num system="onscreen">11418</episode-num>
+    <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <icon src="https://img.ccma.cat/multimedia/jpg/9/7/1758888682179.jpg"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
-  <programme start="20261013005753 +0200" stop="20261013023424 +0200" channel="esport3">
-    <title lang="ca">Onze</title>
-    <sub-title lang="ca">El xou capil·lar de Vini; Mayola Academy i 'El colegiado'</sub-title>
-    <desc lang="ca">Carles Fité, Xavi Torres, Irati Vidal, Jordi Martí i Joaquín Maroto comenten l'expulsió de Vinicius per estirar dels cabells d'un rival. En Marc Mayola posa la lupa en alguns aspectes tàctics del partit del Barça. En Joan Fàbregas analitza les jugades polèmiques de la jornada.</desc>
-    <length units="seconds">5791</length>
-    <episode-num system="onscreen">1267</episode-num>
+  <channel id="esport3">
+    <display-name>ESPORT3</display-name>
+  </channel>
+  <programme start="20261013043845 +0200" stop="20261013060330 +0200" channel="esport3">
+    <title lang="ca">Billar a 3 bandes</title>
+    <sub-title lang="ca">PBA Team League</sub-title>
+    <desc lang="ca">Les partides més destacades del català Dani Sánchez en aquesta competició per equips de billar a 3 bandes organitzada per la PBA (Professional Billiards Association).</desc>
+    <length units="seconds">5085</length>
+    <episode-num system="onscreen">8139</episode-num>
     <category lang="ca">ESPORTS</category>
-    <category lang="ca">MAGAZINE</category>
+    <category lang="ca">RETRANSMISSIONS ESPORTS</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <subtitles type="teletext"/>
     <previously-shown/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/1/1/1688543515711.jpg"/>
+    <icon src="https://img.3cat.cat/multimedia/jpg/3/3/1766061188133.jpg"/>
+  </programme>
+  <programme start="20261013060330 +0200" stop="20261013063419 +0200" channel="esport3">
+    <title lang="ca">La frontal</title>
+    <desc lang="ca">'La Frontal', presentat pel periodista esportiu Carles Fité, repassa l'actualitat del futbol i el futbol sala català. Visitem i donem veu als clubs d'arreu del territori, a més d'oferir els resums de la jornada del cap de setmana. La Primera, Segona i Tercera RFEF, així com la Primera Catalana, tenen cabuda en el programa, que s'emet cada dilluns a Esport3.</desc>
+    <length units="seconds">1849</length>
+    <episode-num system="onscreen">179</episode-num>
+    <category lang="ca">ESPORTS</category>
+    <category lang="ca">ESPECIALS</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <previously-shown/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/2/4/1698432480342.jpg"/>
   </programme>
   <channel id="sx3">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20261013003114 +0200" stop="20261013005123 +0200" channel="sx3">
-    <title lang="ca">Els germans Kratt</title>
-    <sub-title lang="ca">La succió de l'ós peresós</sub-title>
-    <desc lang="ca">Mentre l'equip Kratt és a l'Índia, la Mala, dels Amics dels Germans Kratt, els avisa que hi ha un animal en perill. És un animal molt curiós i, com que l'equip no sap ben bé si es tracta d'un os o d'un peresós, decideixen estudiar-lo a fons per aclarir-ho. Al mateix temps, tenen la missió de rescatar un exemplar que la Donita Donata ha capturat per provar uns pentinats nous amb el pèl tan particular que té aquest animal.</desc>
-    <length units="seconds">1209</length>
-    <episode-num system="onscreen">127</episode-num>
+  <programme start="20261013050234 +0200" stop="20261013051404 +0200" channel="sx3">
+    <title lang="ca">La família Teixó-Guineu</title>
+    <sub-title lang="ca">La festa dels enamorats</sub-title>
+    <desc lang="ca">Al bosc és la festa dels enamorats. Mentre la Marguerite i l'Edmond rumien i preparen els regals que es faran, en Pinxo i la Guineta estan intrigats pel comportament d'en Timbal, ja que els sembla que amaga un gran secret, un secret, però, que estan disposats a descobrir. </desc>
+    <length units="seconds">690</length>
+    <episode-num system="onscreen">46</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
@@ -124,12 +103,12 @@
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20261013005123 +0200" stop="20261013011230 +0200" channel="sx3">
-    <title lang="ca">Els germans Kratt</title>
-    <sub-title lang="ca">Fem salts ben alts!</sub-title>
-    <desc lang="ca">Mentre els germans Kratt investiguen els poders animals de les llagostes, la Koki i l'Aviva ajuden el Nolan i la Sani a fer una catapulta. L'equip es fa amic d'una llagosta, que bategen amb el nom de Catapulta per la manera com s'impulsa per saltar. Però llavors veuen aparèixer les aeronaus de la Donita Donata i la Paisley Paviment que van cap a les oficines del Zach Virusmàtic... Quina en porten de cap?</desc>
-    <length units="seconds">1267</length>
-    <episode-num system="onscreen">128</episode-num>
+  <programme start="20261013051404 +0200" stop="20261013052724 +0200" channel="sx3">
+    <title lang="ca">La família Teixó-Guineu</title>
+    <sub-title lang="ca">Els aliats</sub-title>
+    <desc lang="ca">En Gatmoix i en Gatmoll roben l'estel amb què juguen la Guineta, en Pinxo i en Timbal, però quan fugen amb el seu botí es descuiden la maleta on guarden tots els seus objectes importants i els germans del cau se la queden. Per recuperar cadascú les seves coses, els dos bàndols enemics han d'arribar a un acord que en un principi sembla impossible. </desc>
+    <length units="seconds">800</length>
+    <episode-num system="onscreen">47</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
@@ -141,32 +120,35 @@
   <channel id="c33">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20261012235457 +0200" stop="20261013004203 +0200" channel="c33">
-    <title lang="ca">Aeroport</title>
-    <sub-title lang="ca">Manteniment</sub-title>
-    <desc lang="ca">A l'aeroport hi ha un equip de persones que treballen sense parar perquè tot funcioni i estigui net i polit. Fan el manteniment. Això, de vegades, vol dir canviar el motor d'un A320 que pesa més de 2.000 quilos o asfaltar una pista d'aterratge. Tot, per satisfer al viatger, com una monja que ha corregut món amb moltes aventures per explicar.</desc>
-    <length units="seconds">2826</length>
-    <episode-num system="onscreen">19</episode-num>
+  <programme start="20261013045426 +0200" stop="20261013054030 +0200" channel="c33">
+    <title lang="ca">La Renaixença</title>
+    <sub-title lang="ca">Els mitjons</sub-title>
+    <desc lang="ca">Encetem la segona setmana de 'La Renaixença' parlant sobre els mitjons. Qui no ha perdut un mitjó en el temps que passa entre que te'l treus fins que l'estens després de la rentadora? On han anat a parar tots aquests mitjons? Ho intentem descobrir. Parlem amb en Manel Alías, que no vol que se'l recordi com el corresponsal que va cobrir la guerra de Rússia i Ucraïna. Li hem demanat que ens expliqui com vol que el recordem. Acabem el programa passejant en Crus Baldiri, un gos de Sabadell, per la compra de Manhattan per 24 dòlars.</desc>
+    <length units="seconds">2764</length>
+    <episode-num system="onscreen">6</episode-num>
     <category lang="ca">DIVULGACIÓ</category>
-    <category lang="ca">Docu-Entreteniment</category>
+    <category lang="ca">ALTRES</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/3/3/1756148014833.jpg"/>
   </programme>
-  <programme start="20261013004203 +0200" stop="20261013005339 +0200" channel="c33">
-    <title lang="ca">Programa sindical CC.OO.</title>
-    <sub-title lang="ca">Capítol 329</sub-title>
-    <desc lang="ca">En aquest programa abordem el rebuig de Comissions Obreres de Catalunya al Llibre blanc sobre l'absentisme elaborat per Foment del Treball, que, entre altres coses, reclama recuperar l'acomiadament objectiu per baixes mèdiques. També coneixem la vida de l'Estrella Pineda, responsable de l'àrea de dones, cultura i memòria de la Federació de Pensionistes de Comissions de Catalunya, i parlem de l'exposició 'Barcelona, ciutat i treball', un nou espai del Museu d'Història de Barcelona que es pot veure al recuperat recinte fabril de Fabra i Coats.</desc>
-    <length units="seconds">696</length>
-    <episode-num system="onscreen">331</episode-num>
-    <category lang="ca">DIVULGACIÓ</category>
-    <category lang="ca">MAGAZINE ESPECIALITZAT</category>
+  <programme start="20261013054030 +0200" stop="20261013054913 +0200" channel="c33">
+    <title lang="ca">Gran!</title>
+    <sub-title lang="ca">'Mar i cel'</sub-title>
+    <desc lang="ca">'Mar i cel' és el musical de la companyia Dagoll Dagom que va revolucionar el teatre català amb la seva estrena el 1988. La història d'amor entre Saïd i Blanca, les cançons i l'espectacular escenografia amb un gran vaixell ha captivat a diverses generacions d'espectadors.</desc>
+    <length units="seconds">523</length>
+    <episode-num system="onscreen">9</episode-num>
+    <category lang="ca">ENTRETENIMENT</category>
+    <category lang="ca">ALTRES</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
+    <previously-shown/>
+    <icon src="https://img.ccma.cat/multimedia//jpg/0/1/1714397571710.jpg"/>
   </programme>
   <channel id="oca1">
     <display-name>OCA1</display-name>
