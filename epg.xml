@@ -3,36 +3,27 @@
   <channel id="tvi">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20261014103011 +0200" stop="20261014135500 +0200" channel="tvi">
-    <title lang="ca">Tot es mou</title>
-    <desc lang="ca">El programa presentat per Helena Garcia Melero s'emet de dilluns a divendres, de 10.30 a 13.55. Un magazín d'actualitat que busca informar, analitzar i debatre sobre temes que marquen l'actualitat social, econòmica i cultural del dia, amb una àmplia presència en directe dels reporters i reporteres, repartits per tot Catalunya. A més, el 'Tot es mou' compta amb seccions diàries de gastronomia (amb els principals cuiners i cuineres del país), successos, economia, mobilitat, temes mèdics i de tecnologia, entre d'altres.</desc>
-    <length units="seconds">12289</length>
-    <episode-num system="onscreen">1828</episode-num>
-    <category lang="ca">ACTUALITAT</category>
-    <category lang="ca">MAGAZINE</category>
+  <programme start="20261014172455 +0200" stop="20261014173041 +0200" channel="tvi">
+    <title lang="ca">Ets música</title>
+    <sub-title lang="ca">Gioacchino  Rossini - La garsa lladre</sub-title>
+    <length units="seconds">346</length>
+    <episode-num system="onscreen">23</episode-num>
+    <category lang="ca">MUSICALS</category>
+    <category lang="ca">CLÀSSICA</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-  </programme>
-  <programme start="20261014135500 +0200" stop="20261014143000 +0200" channel="tvi">
-    <title lang="ca">Telenotícies comarques</title>
-    <length units="seconds">2100</length>
-    <episode-num system="onscreen">7054</episode-num>
-    <category lang="ca">ACTUALITAT</category>
-    <category lang="ca">INFORMATIU DIÀRI</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <icon src="https://img.ccma.cat/multimedia/jpg/5/2/1758026313525.jpg"/>
+    <subtitles type="teletext"/>
+    <previously-shown/>
   </programme>
   <channel id="324">
     <display-name>324</display-name>
   </channel>
-  <programme start="20261014120000 +0200" stop="20261014135500 +0200" channel="324">
+  <programme start="20261014170000 +0200" stop="20261014183000 +0200" channel="324">
     <title lang="ca">Notícies 3CatInfo</title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">6900</length>
-    <episode-num system="onscreen">11429</episode-num>
+    <length units="seconds">5400</length>
+    <episode-num system="onscreen">11431</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
@@ -41,39 +32,40 @@
     <subtitles type="teletext"/>
     <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
-  <programme start="20261014135500 +0200" stop="20261014143000 +0200" channel="324">
-    <title lang="ca">Telenotícies comarques</title>
-    <length units="seconds">2100</length>
-    <episode-num system="onscreen">7054</episode-num>
+  <programme start="20261014183000 +0200" stop="20261014200000 +0200" channel="324">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="seconds">5400</length>
+    <episode-num system="onscreen">11432</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <icon src="https://img.ccma.cat/multimedia/jpg/5/2/1758026313525.jpg"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
   <channel id="esport3">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20261014113837 +0200" stop="20261014130000 +0200" channel="esport3">
-    <title lang="ca">Zona Champions</title>
-    <sub-title lang="ca">Post Galatasaray-Barça / J2</sub-title>
-    <desc lang="ca">El bo i millor de la màxima competició de futbol continental de la mà del Departament d'Esports de Televisió de Catalunya. Viu tots els partits de la Lliga de Campions a 3Cat!</desc>
-    <length units="seconds">4883</length>
-    <episode-num system="onscreen">853</episode-num>
+  <programme start="20261014172602 +0200" stop="20261014175745 +0200" channel="esport3">
+    <title lang="ca">La frontal</title>
+    <sub-title lang="ca">L'Esport Base i la UE Papiol</sub-title>
+    <desc lang="ca">Visitem la població del Baix Llobregat en la qual dos clubs s'han aliat per ser més forts. L'Esport Base del Papiol forma els nens i nenes en diferents esports, entre els quals destaca el futbol. Quan arriben a la categoria juvenil, estan preparats per nodrir el primer equip de la UE Papiol, el conjunt amateur del poble que competeix a Quarta Catalana. A l'espai, Carles Fité entrevistar el vicepresident de la UE Papiol, Arnau Carrió; el president de l'Esport Base del Papiol, Alfred Garcia; i el jugador i capità del primer equip, Albert Coll. I a més a més, els resums dels partits més destacats del cap de setmana.</desc>
+    <length units="seconds">1903</length>
+    <episode-num system="onscreen">179</episode-num>
     <category lang="ca">ESPORTS</category>
-    <category lang="ca">MAGAZINE</category>
+    <category lang="ca">ESPECIALS</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <subtitles type="teletext"/>
     <previously-shown/>
-    <icon src="https://img.3cat.cat/multimedia/jpg/3/4/1769511614843.jpg"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/2/4/1698432480342.jpg"/>
   </programme>
-  <programme start="20261014130000 +0200" stop="20261014140206 +0200" channel="esport3">
+  <programme start="20261014175745 +0200" stop="20261014190000 +0200" channel="esport3">
     <title lang="ca">Esport Club</title>
-    <desc lang="ca">En Jordi Sanuy i Víctor Patsi us expliquen l'última hora esportiva i l'analitzen amb el seu equip de col·laboradors. El programa és molt actiu a les xarxes socials. L''Esport Club' té presència a Twitter, a Facebook i a Instagram. L'espai dirigeix moltes accions de participació amb l'audiència a través de les xarxes socials.</desc>
-    <length units="seconds">3726</length>
+    <sub-title lang="ca">Un Barça de deu, la sanció a Vinícius Jr. i Anna Ferrer</sub-title>
+    <desc lang="ca">El Barça goleja el Galatasaray (1-4) i suma el deu de deu. Analitzem el partit amb la lupa de l'Albert Blaya. Vinícius Jr. pendent de la sanció després de ser expulsat contra el Vila-real. En parlem amb Joan Fàbregas. Entrevistem Anna Ferrer, campiona del món d'hoquei patins. A la tertúlia ens acompanyen Irati Vidal, Dani Senabre i Màrius Carol.</desc>
+    <length units="seconds">3735</length>
     <episode-num system="onscreen">3261</episode-num>
     <category lang="ca">ESPORTS</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
@@ -81,33 +73,34 @@
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
+    <previously-shown/>
     <icon src="https://img.ccma.cat/multimedia/jpg/7/3/1698145091337.jpg"/>
   </programme>
   <channel id="sx3">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20261014122359 +0200" stop="20261014124529 +0200" channel="sx3">
-    <title lang="ca">Els germans Kratt</title>
-    <sub-title lang="ca">Els óssos polars no ballen</sub-title>
-    <desc lang="ca">En plena missió per la regió àrtica, en Chris i en Martin han vist com el malvat Zach capturava una cria de morsa i una d'ós polar per al seu nou espectacle. Per salvar-les, els nostres amics hauran d'aprendre els secrets de les morses... i moltes coses més! L'Aviva ja els té preparats, els Vestits de Poder Animal, però per activar-los primer han de tocar els animals! Que no els passi res!</desc>
-    <length units="seconds">1290</length>
-    <episode-num system="onscreen">7</episode-num>
-    <category lang="ca">FICCIÓ</category>
-    <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
+  <programme start="20261014172427 +0200" stop="20261014173632 +0200" channel="sx3">
+    <title lang="ca">Titó</title>
+    <sub-title lang="ca">Excursió amb Dalí</sub-title>
+    <desc lang="ca">A l'excursió d'avui ens endinsarem al món de Dalí: crostons de pa, calaixos, rellotges tous... i la Gala. En JohnC, evidentment, ens portarà una sorpresa ben surrealista!</desc>
+    <length units="seconds">725</length>
+    <episode-num system="onscreen">88</episode-num>
+    <category lang="ca">ENTRETENIMENT</category>
+    <category lang="ca">ALTRES</category>
     <rating>
       <value>INFANTIL</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20261014124529 +0200" stop="20261014130742 +0200" channel="sx3">
-    <title lang="ca">Els germans Kratt</title>
-    <sub-title lang="ca">Els castors constructors</sub-title>
-    <desc lang="ca">Tot fent piragüisme pels rius nord-americans, els germans Kratt han fet malbé la presa d'una família de castors. Ara els hauran d'ajudar a refer-la i s'adonaran del que són capaços. Hi ha un munt d'animals que viuen a l'estany que es forma gràcies a la presa dels castors, com ara els talps de musell estrellat, les granotes bramadores, els ànecs carolins... Els vols conèixer?!</desc>
-    <length units="seconds">1333</length>
-    <episode-num system="onscreen">8</episode-num>
-    <category lang="ca">FICCIÓ</category>
-    <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
+  <programme start="20261014173632 +0200" stop="20261014174859 +0200" channel="sx3">
+    <title lang="ca">A jugar! Amb en Titó i els Fa la la</title>
+    <sub-title lang="ca">A jugar amb la convidada sorpresa</sub-title>
+    <desc lang="ca">L'escola sempre és divertida, però encara ho és més quan la mestra és... la Tat! Avui la mestra Tat ens porta una convidada molt especial. En Titó i els Fa La La hauran de descobrir qui és superant unes proves molt especials.</desc>
+    <length units="seconds">747</length>
+    <episode-num system="onscreen">39</episode-num>
+    <category lang="ca">ENTRETENIMENT</category>
+    <category lang="ca">ALTRES</category>
     <rating>
       <value>INFANTIL</value>
     </rating>
@@ -117,26 +110,26 @@
   <channel id="c33">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20261014123000 +0200" stop="20261014123652 +0200" channel="c33">
-    <title lang="ca">Cuines</title>
-    <sub-title lang="ca">Crema d'api-rave amb musclos</sub-title>
-    <desc lang="ca">Restaurant PORTA GAIG .- EL PRAT DE LLOBREGAT(AEROPORT)Dificultat: mitjanaTemps d'elaboració: 40'Producte principal: api-raveTemporada: tot l'any</desc>
-    <length units="seconds">412</length>
-    <episode-num system="onscreen">3430</episode-num>
-    <category lang="ca">DIVULGACIÓ</category>
-    <category lang="ca">MAGAZINE ESPECIALITZAT</category>
+  <programme start="20261014161526 +0200" stop="20261014172752 +0200" channel="c33">
+    <title lang="ca">Còmics</title>
+    <sub-title lang="ca">Capri</sub-title>
+    <desc lang="ca">Sens dubte, el primer gran monologuista de Catalunya, a partir del seva encarnació del prototip de 'català emprenyat'. Una personalitat complexa, turmentada i amb un humor àcid, lúcid, irresistiblement divertit i d'actualitat permanent. Revivim els seus millors moments i recreem a l'escenari una seqüència del 'Doctor Caparrós', la sèrie televisiva que protagonitzava, amb uns 'actors' molt especials</desc>
+    <length units="seconds">4346</length>
+    <episode-num system="onscreen">8</episode-num>
+    <category lang="ca">ENTRETENIMENT</category>
+    <category lang="ca">GAGS. HUMOR</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20261014123652 +0200" stop="20261014124324 +0200" channel="c33">
-    <title lang="ca">Cuines</title>
-    <sub-title lang="ca">Espatlleta de xai dessossada al forn</sub-title>
-    <desc lang="ca">Restaurant PORTA GAIG.- EL PRAT DE LLOBREGAT(AEROPORT)Dificultat: mitjanaTemps d'elaboració: 2HProducte principal: xaiTemporada: tot l'any</desc>
-    <length units="seconds">392</length>
-    <episode-num system="onscreen">3431</episode-num>
+  <programme start="20261014172752 +0200" stop="20261014181744 +0200" channel="c33">
+    <title lang="ca">No pot ser!</title>
+    <sub-title lang="ca">Doctor robot</sub-title>
+    <desc lang="ca">Jordi Basté explora les tecnologies mèdiques més avançades i que són a Catalunya. El binomi tecnologia i medicina promet més avanços en els pròxims 10 anys que en tot el segle XX. Al quiròfan de l'Hospital Clínic de Barcelona, Basté veurà en acció el robot quirúrgic Da Vinci, que opera amb una precisió inigualable sota el control d'un cirurgià humà i que està transformant la cirurgia. Amb el Dr. Antonio De Lacy, cap del Servei de Cirurgia del Clínic i una eminència mundial, descobrirà el quiròfan més avançat del món, l'Optimus, dissenyat pels millors enginyers i metges del planeta i que compta amb llums robotitzades sense ombres, esterilització per ozó, aparells sense cables i pantalles 3D de 4K, entre altres innovacions. En el Mobile World Congress 2019, l'Optimus va acollir la primera operació a distància del món, en coordinació amb l'equip del Dr. De Lacy i mitjançant tecnologia 5G. Jordi Basté també anirà a Sant Joan de Déu, on el cirurgià pediàtric Lucas Krauel explicarà com imprimeixen tumors idèntics als que han d'operar i així optimitzar la cirurgia. A l'Hospital Vall d'Hebron comprovem la bioimpressió 3D d'òrgans per trasplantar, una fita que aviat veurem, com ens explica Pere Barret, cap del Servei de Cirurgia Plàstica i Cremats d'aquest centre. El viatge de descoberta de la medicina 4.0 acabarà a l'Institut Guttman de Badalona. La directora assistencial del centre, la doctora Montserrat Bernabeu, ens explicarà com la realitat virtual pot ajudar a tornar a fer caminar a qui havia perdut tota esperança.</desc>
+    <length units="seconds">2992</length>
+    <episode-num system="onscreen">8</episode-num>
     <category lang="ca">DIVULGACIÓ</category>
     <category lang="ca">MAGAZINE ESPECIALITZAT</category>
     <rating>
