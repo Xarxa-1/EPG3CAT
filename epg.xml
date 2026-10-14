@@ -3,55 +3,53 @@
   <channel id="tvi">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20261013235038 +0200" stop="20261014001009 +0200" channel="tvi">
-    <title lang="ca">Nervi</title>
-    <sub-title lang="ca">Clara Roquet. Guionista i directora de cinema</sub-title>
-    <desc lang="ca">Directora de la premiada 'Libertad' i coguionista de projectes de relleu com 'Creatura', 'Els dies que vindran' i '10.000 km', Clara Roquet és una de les cineastes d'aquí amb una trajectòria ascendent. Ho demostra, per exemple, el desafiament d'haver dirigit la seva primera superproducció, la sèrie 'Las largas sombras'.</desc>
-    <length units="seconds">1171</length>
-    <episode-num system="onscreen">208</episode-num>
-    <category lang="ca">ENTRETENIMENT</category>
-    <category lang="ca">ALTRES</category>
+  <programme start="20261014022201 +0200" stop="20261014040000 +0200" channel="tvi">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="seconds">5879</length>
+    <episode-num system="onscreen">11426</episode-num>
+    <category lang="ca">ACTUALITAT</category>
+    <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <subtitles type="teletext"/>
     <previously-shown/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
-  <programme start="20261014001009 +0200" stop="20261014004304 +0200" channel="tvi">
-    <title lang="ca">Les Feres</title>
-    <sub-title lang="ca">Manacor Connection</sub-title>
-    <desc lang="ca">Aquest capítol especial de 'Les feres' vol posar el radar en l'escena musical de Manacor i visibilitzar la valuosa personalitat d'alguns artistes locals. La sala de concerts de Can Lliro es converteix en el centre neuràlgic on cinc solistes i bandes mostren el seu singular cançoner. Parlem de l'associació entre Puput Lab (Joana Gomila i Laia Vallès) amb Carles Medina; SAÏM; Roger Pistola; Caspary i Mar Grimalt. Seguint un caràcter unitari i a mode de pròleg, la peça acaba amb la interpretació d'una cançó del cantant, guitarrista i compositor Miquel Serra, protagonista del capítol següent de 'Les feres'. PUPUT LAB + CARLES MEDINAJoana Gomila - veu Laia Vallès - electrònica Carles Medina - saxo 'Cueta' SAÏM Joan Roig - veu i guitarra Natàlia Gómez - baix Dani Gómez -bateria 'Angle mort' ROGER PISTOLA Roger Antoni Pasqual - veu i guitarra Esteve Huguet - guitarra 'Oxímorons' CASPARY Pau Dalmau - veu Andreu Beltran - guitarra Miquel Crespí - guitarra Pere Plomer - baix Bernat Cantallops - bateria 'Mirall negre' MAR GRIMALT Mar Grimal - guitarra 'Mai te n' ' MIQUEL SERRA Miquel Serra - veu i guitarra Jorra Santiago - guitarra Michael Mesquida - baix Miquel Perelló - bateria 'Saps les meves eines' Localització: Can Lliro, a Manacor, Mallorca Data: 28 de febrer del 2025   </desc>
-    <length units="seconds">1975</length>
-    <episode-num system="onscreen">39</episode-num>
-    <category lang="ca">ENTRETENIMENT</category>
+  <programme start="20261014040000 +0200" stop="20261014045956 +0200" channel="tvi">
+    <title lang="ca">Blues a l'estudi</title>
+    <sub-title lang="ca">Mario Cobo</sub-title>
+    <desc lang="ca">Quan parlem d'aquest guitarrista ens ve al cap un so genuí que ens evoca 'música d'arrel' i una autenticitat en el seu discurs fora de dubte. En la sessió d'avui, Mario Cobo ens presenta el seu repertori, on repassa les seves infuències, que van del rock'a'billy al western-swing o del blues al country. Josep Lluís Pérez a la guitarra, Daniel Nunes al contrabaix i Marco Antonio López a la bateria.</desc>
+    <length units="seconds">3596</length>
+    <episode-num system="onscreen">18</episode-num>
+    <category lang="ca">MUSICALS</category>
     <category lang="ca">ALTRES</category>
     <rating>
-      <value>TOTS ELS PÚBLICS</value>
+      <value>PÚBLIC ADULT</value>
     </rating>
-    <subtitles type="teletext"/>
     <previously-shown/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/3/4/1719854188043.jpg"/>
   </programme>
   <channel id="324">
     <display-name>324</display-name>
   </channel>
-  <programme start="20261013220500 +0200" stop="20261014000000 +0200" channel="324">
-    <title lang="ca">Mésnit</title>
-    <desc lang="ca">El 'Mésnit' arriba a la desena temporada, amb Marina Romero al capdavant de l'espai i amb la voluntat de continuar sent un centre de debat d'idees i d'anàlisi de l'activitat política.</desc>
-    <length units="seconds">6900</length>
-    <episode-num system="onscreen">2178</episode-num>
+  <programme start="20261014010000 +0200" stop="20261014060000 +0200" channel="324">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="seconds">18000</length>
+    <episode-num system="onscreen">11426</episode-num>
     <category lang="ca">ACTUALITAT</category>
-    <category lang="ca">DEBAT</category>
+    <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <subtitles type="teletext"/>
+    <previously-shown/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
-  <programme start="20261014000000 +0200" stop="20261014003000 +0200" channel="324">
+  <programme start="20261014060000 +0200" stop="20261014080000 +0200" channel="324">
     <title lang="ca">Notícies 3CatInfo</title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">1800</length>
-    <episode-num system="onscreen">11425</episode-num>
+    <length units="seconds">7200</length>
+    <episode-num system="onscreen">11427</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
@@ -62,41 +60,42 @@
   <channel id="esport3">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20261013230512 +0200" stop="20261014003739 +0200" channel="esport3">
-    <title lang="ca">Handbol</title>
-    <sub-title lang="ca">Aguas Santas-BM Granollers / EHF European League / J3</sub-title>
-    <desc lang="ca">El Fraikin juga al districte de Porto amb l'objectiu de sumar la primera victòria com a visitant de la temporada europea.</desc>
-    <length units="seconds">5547</length>
-    <episode-num system="onscreen">44</episode-num>
+  <programme start="20261014023612 +0200" stop="20261014025942 +0200" channel="esport3">
+    <title lang="ca">3CatInfo Esports</title>
+    <desc lang="ca">Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.</desc>
+    <length units="seconds">1410</length>
+    <episode-num system="onscreen">5537</episode-num>
+    <category lang="ca">ESPORTS</category>
+    <category lang="ca">INFORMATIU DIÀRI</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <previously-shown/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/9/7/1758888682179.jpg"/>
+  </programme>
+  <programme start="20261014025942 +0200" stop="20261014050506 +0200" channel="esport3">
+    <title lang="ca">Bàsquet</title>
+    <sub-title lang="ca">Bahçesehir-Kids&amp;Us Manresa / Eurocup / J3</sub-title>
+    <desc lang="ca">Després d'una derrota i una victòria, els del Bages visiten la pista del líder del grup. Els turcs han guanyat el dos partits disputats.</desc>
+    <length units="seconds">7524</length>
+    <episode-num system="onscreen">98</episode-num>
     <category lang="ca">ESPORTS</category>
     <category lang="ca">RETRANSMISSIONS ESPORTS</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <icon src="https://img.ccma.cat/multimedia/jpg/2/7/1729614341772.jpg"/>
-  </programme>
-  <programme start="20261014003739 +0200" stop="20261014004713 +0200" channel="esport3">
-    <title lang="ca">Zona UFEC</title>
-    <desc lang="ca">'Zona UFEC' és l'espai que pren el pols a la situació de l'esport català en les diferents disciplines. A través de reportatges i entrevistes, i en col·laboració amb la Unió de Federacions Esportives de Catalunya, cada setmana repassem els èxits i el treball dels esportistes catalans en les competicions de casa nostra i d'arreu del món.</desc>
-    <length units="seconds">574</length>
-    <episode-num system="onscreen">710</episode-num>
-    <category lang="ca">ESPORTS</category>
-    <category lang="ca">REPORTATGES</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <subtitles type="teletext"/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/0/0/1702403805000.jpg"/>
+    <previously-shown/>
+    <icon src="https://img.3cat.cat/multimedia/jpg/0/7/1761644896070.jpg"/>
   </programme>
   <channel id="sx3">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20261013234308 +0200" stop="20261014000317 +0200" channel="sx3">
-    <title lang="ca">Els germans Kratt</title>
-    <sub-title lang="ca">El dragó de Komodo</sub-title>
-    <desc lang="ca">Els germans Kratt i els seus amics van a l'illa de Komodo perquè han vist que el Gormand s'ha posat a robar tots els ous de dragó de Komodo per una recepta malvada. És una missió urgent, perquè d'aquests dragons només n'hi ha en aquesta illa i són una espècie en perill d'extinció. Per dur a terme el rescat, necessiten el vestit de poder de dragó de Komodo, que els farà experimentar totes les capacitats d'aquest animal.</desc>
-    <length units="seconds">1209</length>
-    <episode-num system="onscreen">131</episode-num>
+  <programme start="20261014023847 +0200" stop="20261014025925 +0200" channel="sx3">
+    <title lang="ca">Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
+    <sub-title lang="ca">La Befana</sub-title>
+    <desc lang="ca">Avui és l'aniversari de la Marinette, i els seus amics i els seus pares li preparen una festa sorpresa. La Marinette ja s'ho imagina, i li fa molta il.lusió. Però l'arribada de la seva iaia, la Gina, trasbalsarà els plans de tothom, cosa que aprofitarà l'Esfinx per intentar apoder-se dels prodigis de Ladybug i el Gat Noir.</desc>
+    <length units="seconds">1238</length>
+    <episode-num system="onscreen">34</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
@@ -105,12 +104,12 @@
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20261014000317 +0200" stop="20261014002327 +0200" channel="sx3">
-    <title lang="ca">Els germans Kratt</title>
-    <sub-title lang="ca">El viatge de l'heroïna (1a part)</sub-title>
-    <desc lang="ca">Per Nadal l'Aviva li va regalar al Chris un val per un Saltatemps. Encara no l'ha pogut fabricar però ja n'ha fet un dels elements més difícils: el propulsor temporal. El problema és que els ha caigut a l'aigua i ha quedat enganxat a un salmó roig que acaba de començar la migració riu amunt cap al lloc on va néixer. L'equip dels germans Kratt fa tot el possible per recuperar-lo.</desc>
-    <length units="seconds">1210</length>
-    <episode-num system="onscreen">132</episode-num>
+  <programme start="20261014025925 +0200" stop="20261014032004 +0200" channel="sx3">
+    <title lang="ca">Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
+    <sub-title lang="ca">La Rossinnoble</sub-title>
+    <desc lang="ca">La Clara Rossinyol, la cantant de moda, ve a París per gravar el seu últim videoclip i buscar figurants i actors per fer de Ladybug i Gat Noir. Com sempre, la Chloé vol ser el centre de totes les atencions i acabarà provocant que el Rossinyol acabi akumatitzat.</desc>
+    <length units="seconds">1239</length>
+    <episode-num system="onscreen">35</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
@@ -122,12 +121,12 @@
   <channel id="c33">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20261013233755 +0200" stop="20261014000718 +0200" channel="c33">
+  <programme start="20261014023548 +0200" stop="20261014033600 +0200" channel="c33">
     <title lang="ca">Xefs: noves generacions</title>
-    <sub-title lang="ca">Ivan Surinder (Restaurant Tandoor)</sub-title>
-    <desc lang="ca">La vida d'Ivan Surinder va canviar radicalment el 19 d'octubre de 2011 amb la mort sobtada del seu pare, un dels cuiners indis més rellevants a Barcelona. Això el va obligar, amb només 19 anys, a assumir un restaurant familiar sense tenir cap noció de cuina. Davant la urgència,es va formar a contrarellotge i va fer un salt decisiu a Tickets, amb Albert Adrià, on va aprendre organització, disciplina i rigor. Avui lidera Tandoor amb una visió contemporània: una cuina índia respectuosa amb l'arrel, adaptada al paladar català sense renunciar a la identitat ni al llegat del seu pare.</desc>
-    <length units="seconds">1763</length>
-    <episode-num system="onscreen">6</episode-num>
+    <sub-title lang="ca">Xefs, noves generacions 'La trobada'</sub-title>
+    <desc lang="ca">Els 10 millors xefs joves que han protagonitzat la sèrie documental 'Xefs ·Noves generacions' es reuneixen a 'La trobada'. Un dinar de germanor és l'excusa perquè el talent emergent de la cuina catalana es conegui i es posi cara. Mentre preparen plats senzills de la cuina catalana i sempre al voltant d'uns fogons i d'una taula, els millors cuiners i cuineres joves del país mostraran la riquesa cultural i del territori, el producte de proximitat i, sobretot, la feina d'una generació que ha d'agafar el relleu de figures clau com Carme Ruscalleda, Albert Adrià, Eduard Xatruch o els Germans Roca.</desc>
+    <length units="seconds">3612</length>
+    <episode-num system="onscreen">11</episode-num>
     <category lang="ca">DIVULGACIÓ</category>
     <category lang="ca">SÈRIE DOCUMENTAL</category>
     <rating>
@@ -136,12 +135,12 @@
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20261014000718 +0200" stop="20261014003929 +0200" channel="c33">
+  <programme start="20261014033600 +0200" stop="20261014040528 +0200" channel="c33">
     <title lang="ca">Xefs: noves generacions</title>
-    <sub-title lang="ca">Jaime Bes i Claudia Gozzi (Restaurant El Raier)</sub-title>
-    <desc lang="ca">Jaime Bes i Claudia Gozzi ho van deixar tot per començar de zero a la Pobla de Segur. Després d'una trajectòria sòlida en alguns dels restaurants més exigents, han creat a El Raier una cuina de producte i temporada, valenta, precisa i profundament honesta. Peix excepcional en plena muntanya, verdures del territori i una tècnica depurada que es mostra sense filtres en una barra oberta on fins i tot la ceràmica és d'origen local. Un capítol que retrata una decisió vital i una manera de cuinar viva i contemporània, demostrant que l'alta gastronomia també pot arrelar, créixer i innovar lluny de la ciutat.</desc>
-    <length units="seconds">1931</length>
-    <episode-num system="onscreen">7</episode-num>
+    <sub-title lang="ca">Martina Puigvert (Restaurant Les Cols)</sub-title>
+    <desc lang="ca">Martina Puigvert lidera la cuina de Les Cols, on assumeix el relleu generacional amb les seves dues germanes, donant continuïtat i evolució a un dels projectes gastronòmics més singulars del país. Filla de Fina Puigdevall, ha sabut refinar una cuina radicalment garrotxina, basada en el producte de proximitat i de temporada, sense trencar l'ADN de la casa. Formada al Basque Culinary Center i amb experiències en cuines d'alta exigència com el Koy Shunka, aporta rigor, mètode i una visió contemporània al restaurant, cosa que l'ha portat a rebre el Premi Michelin al Millor Xef Jove.</desc>
+    <length units="seconds">1768</length>
+    <episode-num system="onscreen">5</episode-num>
     <category lang="ca">DIVULGACIÓ</category>
     <category lang="ca">SÈRIE DOCUMENTAL</category>
     <rating>
