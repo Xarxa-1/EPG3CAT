@@ -3,38 +3,36 @@
   <channel id="tvi">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20261014060000 +0200" stop="20261014080000 +0200" channel="tvi">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">7200</length>
-    <episode-num system="onscreen">11427</episode-num>
+  <programme start="20261014103011 +0200" stop="20261014135500 +0200" channel="tvi">
+    <title lang="ca">Tot es mou</title>
+    <desc lang="ca">El programa presentat per Helena Garcia Melero s'emet de dilluns a divendres, de 10.30 a 13.55. Un magazín d'actualitat que busca informar, analitzar i debatre sobre temes que marquen l'actualitat social, econòmica i cultural del dia, amb una àmplia presència en directe dels reporters i reporteres, repartits per tot Catalunya. A més, el 'Tot es mou' compta amb seccions diàries de gastronomia (amb els principals cuiners i cuineres del país), successos, economia, mobilitat, temes mèdics i de tecnologia, entre d'altres.</desc>
+    <length units="seconds">12289</length>
+    <episode-num system="onscreen">1828</episode-num>
     <category lang="ca">ACTUALITAT</category>
-    <category lang="ca">INFORMATIU DIÀRI</category>
+    <category lang="ca">MAGAZINE</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
-  <programme start="20261014080000 +0200" stop="20261014103000 +0200" channel="tvi">
-    <title lang="ca">Matins</title>
-    <desc lang="ca">'Matins' és un dels puntals informatius de TV3. El programa matinal dona les claus del dia que comença, explica les notícies que han passat aportant-ne el context per entendre-les i analitza amb veus acreditades l'actualitat més propera i la d'arreu del món. 'Matins' comença a les 8 del matí, de dilluns a divendres, i està presentat per Ariadna Oltra.</desc>
-    <length units="seconds">9000</length>
-    <episode-num system="onscreen">4691</episode-num>
+  <programme start="20261014135500 +0200" stop="20261014143000 +0200" channel="tvi">
+    <title lang="ca">Telenotícies comarques</title>
+    <length units="seconds">2100</length>
+    <episode-num system="onscreen">7054</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <icon src="https://img.ccma.cat/multimedia/jpg/2/0/1758040151402.jpg"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/5/2/1758026313525.jpg"/>
   </programme>
   <channel id="324">
     <display-name>324</display-name>
   </channel>
-  <programme start="20261014060000 +0200" stop="20261014080000 +0200" channel="324">
+  <programme start="20261014120000 +0200" stop="20261014135500 +0200" channel="324">
     <title lang="ca">Notícies 3CatInfo</title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">7200</length>
-    <episode-num system="onscreen">11427</episode-num>
+    <length units="seconds">6900</length>
+    <episode-num system="onscreen">11429</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
@@ -43,26 +41,25 @@
     <subtitles type="teletext"/>
     <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
-  <programme start="20261014080000 +0200" stop="20261014103000 +0200" channel="324">
-    <title lang="ca">Matins</title>
-    <desc lang="ca">'Matins' és un dels puntals informatius de TV3. El programa matinal dona les claus del dia que comença, explica les notícies que han passat aportant-ne el context per entendre-les i analitza amb veus acreditades l'actualitat més propera i la d'arreu del món. 'Matins' comença a les 8 del matí, de dilluns a divendres, i està presentat per Ariadna Oltra.</desc>
-    <length units="seconds">9000</length>
-    <episode-num system="onscreen">4691</episode-num>
+  <programme start="20261014135500 +0200" stop="20261014143000 +0200" channel="324">
+    <title lang="ca">Telenotícies comarques</title>
+    <length units="seconds">2100</length>
+    <episode-num system="onscreen">7054</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <icon src="https://img.ccma.cat/multimedia/jpg/2/0/1758040151402.jpg"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/5/2/1758026313525.jpg"/>
   </programme>
   <channel id="esport3">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20261014064836 +0200" stop="20261014081044 +0200" channel="esport3">
+  <programme start="20261014113837 +0200" stop="20261014130000 +0200" channel="esport3">
     <title lang="ca">Zona Champions</title>
     <sub-title lang="ca">Post Galatasaray-Barça / J2</sub-title>
     <desc lang="ca">El bo i millor de la màxima competició de futbol continental de la mà del Departament d'Esports de Televisió de Catalunya. Viu tots els partits de la Lliga de Campions a 3Cat!</desc>
-    <length units="seconds">4928</length>
+    <length units="seconds">4883</length>
     <episode-num system="onscreen">853</episode-num>
     <category lang="ca">ESPORTS</category>
     <category lang="ca">MAGAZINE</category>
@@ -73,29 +70,28 @@
     <previously-shown/>
     <icon src="https://img.3cat.cat/multimedia/jpg/3/4/1769511614843.jpg"/>
   </programme>
-  <programme start="20261014081044 +0200" stop="20261014101505 +0200" channel="esport3">
-    <title lang="ca">Bàsquet</title>
-    <sub-title lang="ca">Bahçesehir-Kids&amp;Us Manresa / Eurocup / J3</sub-title>
-    <desc lang="ca">Després d'una derrota i una victòria, els del Bages visiten la pista del líder del grup. Els turcs han guanyat el dos partits disputats.</desc>
-    <length units="seconds">7461</length>
-    <episode-num system="onscreen">98</episode-num>
+  <programme start="20261014130000 +0200" stop="20261014140206 +0200" channel="esport3">
+    <title lang="ca">Esport Club</title>
+    <desc lang="ca">En Jordi Sanuy i Víctor Patsi us expliquen l'última hora esportiva i l'analitzen amb el seu equip de col·laboradors. El programa és molt actiu a les xarxes socials. L''Esport Club' té presència a Twitter, a Facebook i a Instagram. L'espai dirigeix moltes accions de participació amb l'audiència a través de les xarxes socials.</desc>
+    <length units="seconds">3726</length>
+    <episode-num system="onscreen">3261</episode-num>
     <category lang="ca">ESPORTS</category>
-    <category lang="ca">RETRANSMISSIONS ESPORTS</category>
+    <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <previously-shown/>
-    <icon src="https://img.3cat.cat/multimedia/jpg/0/7/1761644896070.jpg"/>
+    <subtitles type="teletext"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/7/3/1698145091337.jpg"/>
   </programme>
   <channel id="sx3">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20261014074038 +0200" stop="20261014075144 +0200" channel="sx3">
-    <title lang="ca">La Patrulla Peluda</title>
-    <sub-title lang="ca">La Patrulla salva un drac juganer</sub-title>
-    <desc lang="ca">L'Alex i en Rubble llegeixen un conte on surt un drac que juga a fet i amagar, però de sobte... el drac passa a ser real!</desc>
-    <length units="seconds">666</length>
-    <episode-num system="onscreen">146</episode-num>
+  <programme start="20261014122359 +0200" stop="20261014124529 +0200" channel="sx3">
+    <title lang="ca">Els germans Kratt</title>
+    <sub-title lang="ca">Els óssos polars no ballen</sub-title>
+    <desc lang="ca">En plena missió per la regió àrtica, en Chris i en Martin han vist com el malvat Zach capturava una cria de morsa i una d'ós polar per al seu nou espectacle. Per salvar-les, els nostres amics hauran d'aprendre els secrets de les morses... i moltes coses més! L'Aviva ja els té preparats, els Vestits de Poder Animal, però per activar-los primer han de tocar els animals! Que no els passi res!</desc>
+    <length units="seconds">1290</length>
+    <episode-num system="onscreen">7</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
@@ -104,12 +100,12 @@
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20261014075144 +0200" stop="20261014080423 +0200" channel="sx3">
-    <title lang="ca">La Patrulla Peluda</title>
-    <sub-title lang="ca">La Patrulla salva les papallones</sub-title>
-    <desc lang="ca">La Chickaletta va dalt d'un dron descontrolat mentre hi ha tot de papallones misterioses provocant estralls a Badia Aventures.</desc>
-    <length units="seconds">759</length>
-    <episode-num system="onscreen">201</episode-num>
+  <programme start="20261014124529 +0200" stop="20261014130742 +0200" channel="sx3">
+    <title lang="ca">Els germans Kratt</title>
+    <sub-title lang="ca">Els castors constructors</sub-title>
+    <desc lang="ca">Tot fent piragüisme pels rius nord-americans, els germans Kratt han fet malbé la presa d'una família de castors. Ara els hauran d'ajudar a refer-la i s'adonaran del que són capaços. Hi ha un munt d'animals que viuen a l'estany que es forma gràcies a la presa dels castors, com ara els talps de musell estrellat, les granotes bramadores, els ànecs carolins... Els vols conèixer?!</desc>
+    <length units="seconds">1333</length>
+    <episode-num system="onscreen">8</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
@@ -121,28 +117,28 @@
   <channel id="c33">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20261014072640 +0200" stop="20261014075420 +0200" channel="c33">
-    <title lang="ca">La sobretaula</title>
-    <sub-title lang="ca">Palau-solità i Plegamans amb Miki Núñez</sub-title>
-    <desc lang="ca">La Sobretaula fa parada a Palau-solità i Plegamans, un municipi ple d'identitat, tradició i talent. Ho fem acompanyats d'un convidat molt especial, el músic i presentador Miki Núñez. Entre hoquei, gelats i productes de la terra descobrim històries, sabors i passions que defineixen el caràcter d'aquest racó del Vallès.</desc>
-    <length units="seconds">1660</length>
-    <episode-num system="onscreen">1</episode-num>
+  <programme start="20261014123000 +0200" stop="20261014123652 +0200" channel="c33">
+    <title lang="ca">Cuines</title>
+    <sub-title lang="ca">Crema d'api-rave amb musclos</sub-title>
+    <desc lang="ca">Restaurant PORTA GAIG .- EL PRAT DE LLOBREGAT(AEROPORT)Dificultat: mitjanaTemps d'elaboració: 40'Producte principal: api-raveTemporada: tot l'any</desc>
+    <length units="seconds">412</length>
+    <episode-num system="onscreen">3430</episode-num>
     <category lang="ca">DIVULGACIÓ</category>
-    <category lang="ca">CUINA</category>
+    <category lang="ca">MAGAZINE ESPECIALITZAT</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20261014075420 +0200" stop="20261014082343 +0200" channel="c33">
-    <title lang="ca">La sobretaula</title>
-    <sub-title lang="ca">Amposta amb Guillem Estadella</sub-title>
-    <desc lang="ca">La Sobretaula viatja fins Amposta, una ciutat un la tradició i la modernitat conviuen amb personalitat pròpia. Ho fem de la mà de l'humorista Guillem Estadella, que ens acompanya en un recorregut entre una sastreria, el mercat i una proposta gastronòmica reconeguda amb una estrella verda Michelin.</desc>
-    <length units="seconds">1763</length>
-    <episode-num system="onscreen">2</episode-num>
+  <programme start="20261014123652 +0200" stop="20261014124324 +0200" channel="c33">
+    <title lang="ca">Cuines</title>
+    <sub-title lang="ca">Espatlleta de xai dessossada al forn</sub-title>
+    <desc lang="ca">Restaurant PORTA GAIG.- EL PRAT DE LLOBREGAT(AEROPORT)Dificultat: mitjanaTemps d'elaboració: 2HProducte principal: xaiTemporada: tot l'any</desc>
+    <length units="seconds">392</length>
+    <episode-num system="onscreen">3431</episode-num>
     <category lang="ca">DIVULGACIÓ</category>
-    <category lang="ca">CUINA</category>
+    <category lang="ca">MAGAZINE ESPECIALITZAT</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
