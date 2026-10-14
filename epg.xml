@@ -3,109 +3,116 @@
   <channel id="tvi">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20261014210000 +0200" stop="20261014215945 +0200" channel="tvi">
-    <title lang="ca">Telenotícies vespre</title>
-    <length units="seconds">3585</length>
-    <episode-num system="onscreen">7357</episode-num>
-    <category lang="ca">ACTUALITAT</category>
-    <category lang="ca">INFORMATIU DIÀRI</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <icon src="https://img.ccma.cat/multimedia/jpg/7/2/1758026176427.jpg"/>
-  </programme>
-  <programme start="20261014215945 +0200" stop="20261014220803 +0200" channel="tvi">
-    <title lang="ca">De primera!</title>
-    <sub-title lang="ca">- Vaques lleteres 4.0</sub-title>
-    <desc lang="ca">Sense Descripció</desc>
-    <length units="seconds">498</length>
-    <episode-num system="onscreen">8</episode-num>
-  </programme>
-  <channel id="324">
-    <display-name>324</display-name>
-  </channel>
-  <programme start="20261014210000 +0200" stop="20261014220500 +0200" channel="324">
-    <title lang="ca">Telenotícies vespre</title>
-    <length units="seconds">3900</length>
-    <episode-num system="onscreen">7357</episode-num>
-    <category lang="ca">ACTUALITAT</category>
-    <category lang="ca">INFORMATIU DIÀRI</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <icon src="https://img.ccma.cat/multimedia/jpg/7/2/1758026176427.jpg"/>
-  </programme>
-  <programme start="20261014220500 +0200" stop="20261015000000 +0200" channel="324">
+  <programme start="20261015002057 +0200" stop="20261015021154 +0200" channel="tvi">
     <title lang="ca">Mésnit</title>
     <desc lang="ca">El 'Mésnit' arriba a la desena temporada, amb Marina Romero al capdavant de l'espai i amb la voluntat de continuar sent un centre de debat d'idees i d'anàlisi de l'activitat política.</desc>
-    <length units="seconds">6900</length>
+    <length units="seconds">6657</length>
     <episode-num system="onscreen">2179</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">DEBAT</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <subtitles type="teletext"/>
+    <previously-shown/>
+  </programme>
+  <programme start="20261015021154 +0200" stop="20261015040000 +0200" channel="tvi">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="seconds">6486</length>
+    <episode-num system="onscreen">11435</episode-num>
+    <category lang="ca">ACTUALITAT</category>
+    <category lang="ca">INFORMATIU DIÀRI</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <previously-shown/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
+  </programme>
+  <channel id="324">
+    <display-name>324</display-name>
+  </channel>
+  <programme start="20261015003000 +0200" stop="20261015010000 +0200" channel="324">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="seconds">1800</length>
+    <episode-num system="onscreen">11435</episode-num>
+    <category lang="ca">ACTUALITAT</category>
+    <category lang="ca">INFORMATIU DIÀRI</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
+  </programme>
+  <programme start="20261015010000 +0200" stop="20261015060000 +0200" channel="324">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="seconds">18000</length>
+    <episode-num system="onscreen">11435</episode-num>
+    <category lang="ca">ACTUALITAT</category>
+    <category lang="ca">INFORMATIU DIÀRI</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <previously-shown/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
   <channel id="esport3">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20261014210719 +0200" stop="20261014215658 +0200" channel="esport3">
-    <title lang="ca">Bàsquet</title>
-    <sub-title lang="ca">Spar Girona-Ostrava / Eurocup / J1</sub-title>
-    <desc lang="ca">L'estrena de les gironines a l'Eurocup. El rival que visita Fontajau és un conjunt de la República Txeca.</desc>
-    <length units="seconds">2979</length>
-    <episode-num system="onscreen">26</episode-num>
+  <programme start="20261015003459 +0200" stop="20261015010441 +0200" channel="esport3">
+    <title lang="ca">3CatInfo Esports</title>
+    <desc lang="ca">Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.</desc>
+    <length units="seconds">1782</length>
+    <episode-num system="onscreen">5538</episode-num>
     <category lang="ca">ESPORTS</category>
-    <category lang="ca">RETRANSMISSIONS ESPORTS</category>
+    <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <previously-shown/>
-    <icon src="https://img.3cat.cat/multimedia/jpg/7/8/1791975943787.jpg"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/9/7/1758888682179.jpg"/>
   </programme>
-  <programme start="20261014215658 +0200" stop="20261014223053 +0200" channel="esport3">
-    <title lang="ca">Espòiler</title>
-    <sub-title lang="ca">El Ferrari Amalfi, el Volkswagen I.D. Polo, el Geely E2 i el programa Ford Adapta</sub-title>
-    <desc lang="ca">En aquest capítol gaudim al volant de l'impressionant Ferrari Amalfi, la proposta gran turisme de la marca italiana que arriba amb un motor V8 de 640 CV. També conduïm el Volkswagen I.D. Polo a les carreteres de l'Albufera de València, assistim a la presentació del nou Geely E2 i descobrim com és el Ford Puma ST adaptat que el pilot Marc Roma ha estrenat gràcies al programa Ford Adapta. </desc>
-    <length units="seconds">2035</length>
-    <episode-num system="onscreen">61</episode-num>
+  <programme start="20261015010441 +0200" stop="20261015024043 +0200" channel="esport3">
+    <title lang="ca">Onze</title>
+    <sub-title lang="ca">'Laminadura'; Post Roma-Madrid i 'El Colegiado'</sub-title>
+    <desc lang="ca">Lluís Carrasco, Sique Rodríguez, Gemma Mallorca i Joan Poquí analitzen el partit del Barça a Istanbul i la jornada de Champions amb atenció al partit del Reial Madrid. En Joan Fàbregas repassa les jugades polèmiques.</desc>
+    <length units="seconds">5762</length>
+    <episode-num system="onscreen">1268</episode-num>
     <category lang="ca">ESPORTS</category>
-    <category lang="ca">REPORTATGES</category>
+    <category lang="ca">MAGAZINE</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/1/0/1698433593401.jpg"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/1/1/1688543515711.jpg"/>
   </programme>
   <channel id="sx3">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20261014212222 +0200" stop="20261014214103 +0200" channel="sx3">
-    <title lang="ca">Bola de drac Z</title>
-    <sub-title lang="ca">El desenllaç del combat entre l'emmascarat i l'A-18!</sub-title>
-    <desc lang="ca">El combat entre el Guerrer Emmascarat i l'A-18 continua amb més potència que mai. En Trunks i en Son Goten, que estan molt ben coordinats, decideixen convertir-se en superguerrers i l'A-18 cada cop ho té més complicat. Però el que ho té difícil de veritat és en Satan, que veu gairebé impossible acabar guanyant el campionat.</desc>
-    <length units="seconds">1121</length>
-    <episode-num system="onscreen">225</episode-num>
+  <programme start="20261015002632 +0200" stop="20261015004711 +0200" channel="sx3">
+    <title lang="ca">Els germans Kratt</title>
+    <sub-title lang="ca">Hèrcules, l'escarabat gegant</sub-title>
+    <desc lang="ca">L'equip dels germans Kratt és a la selva pluvial de l'Amèrica Central per estudiar les característiques de l'escarabat hèrcules, l'escarabat més gros i més fort que hi ha. A causa d'un accident amb el miniaturitzador, un escarabat d'aquests es fa més gros i es transforma en un escarabat gegant que amenaça de destruir la selva i una ciutat que hi ha a prop. L'equip dels germans Kratt haurà de trobar la manera d'evitar-ho i de fer-lo tornar a la mida normal. </desc>
+    <length units="seconds">1239</length>
+    <episode-num system="onscreen">138</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
-      <value>JUVENIL</value>
+      <value>INFANTIL</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20261014214103 +0200" stop="20261014220430 +0200" channel="sx3">
-    <title lang="ca">Bola de drac Z</title>
-    <sub-title lang="ca">Els dos grans combats simultanis estan a punt de començar</sub-title>
-    <desc lang="ca">Comença el combat entre en Satan i l'A-18, amb un avantatge molt clar per part de l'androide, que li proposa un tracte a en Satan perquè pugui continuar sent considerat el guerrer més fort de la Terra. Al mateix temps s'inicia el combat a mort entre en Son Gohan i el malvat Dabra, el rei dels dimonis.</desc>
-    <length units="seconds">1407</length>
-    <episode-num system="onscreen">226</episode-num>
+  <programme start="20261015004711 +0200" stop="20261015005857 +0200" channel="sx3">
+    <title lang="ca">Les Sisters</title>
+    <sub-title lang="ca">John Kevin Bryan</sub-title>
+    <desc lang="ca">La Wendy està deprimida: el Maxence fa un dia que no li diu res. La Marine està decidida a animar la seva germana. Per això decideix xatejar amb ella fent-se passar per un personatge que s'ha inventat: un noi molt guapo que es diu John Kevin Bryan. Però el noi fictici torna boja la Wendy, que el vol conèixer sigui com sigui.</desc>
+    <length units="seconds">706</length>
+    <episode-num system="onscreen">75</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
-      <value>JUVENIL</value>
+      <value>INFANTIL</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
@@ -113,33 +120,46 @@
   <channel id="c33">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20261014210221 +0200" stop="20261014213831 +0200" channel="c33">
-    <title lang="ca">L'un per l'altre</title>
-    <sub-title lang="ca">Sense pèls a la llengua</sub-title>
-    <desc lang="ca">El Toni i la Maria estan enganxats a un programa de televisió que es diu 'Sense pèls a la llengua' on les parelles on s'ha de demostrar que es coneixen molt bé. La Rosa i el Poppins decideixen apuntar la Maria i el Toni sense que ells ho sàpiguen. El Toni i la Maria decideixen fer trampes i pacten les respostes. La primera vegada els surt bé i passen a la següent fase, però quan tornen a provar-ho l'estratègia els surt fatal i queden en evidència davant tota l'audiència del programa.</desc>
-    <length units="seconds">2170</length>
-    <episode-num system="onscreen">15</episode-num>
+  <programme start="20261015001837 +0200" stop="20261015014942 +0200" channel="c33">
+    <title lang="ca">Pel·lícula</title>
+    <sub-title lang="ca">Visitant</sub-title>
+    <desc lang="ca">VISITANTProducció: Desconectada la Película AIE, Beniwood Producciones, Chester Media Producciones, Life &amp; Pictures, The Other Side FilmsDirector i guionista: Alberto EvangelioDirector fotografia: Guillem OliverIntèrprets: Irina del Río (Marga), Miquel Fernández ( Daniel), Jan Cornet (Carlos), Sandra Cervera (Diana)Sinopsi:Marga, en plena crisi amb el seu marit i carregada de dubtes sobre el seu futur, viatja a una antiga casa de la seva família. Al cap de poc d'estar-s'hi, descobreix un portal dimensional que la comunica amb una altra realitat. En aquella dimensió paral·lela, el seu altre jo l'avisa que està a punt de passar una cosa terrible a la seva vida si no pren una determinada decisió.</desc>
+    <credits>
+      <actor>Irina del Río (Marga)</actor>
+      <actor>Miquel Fernández ( Daniel)</actor>
+      <actor>Jan Cornet (Carlos)</actor>
+      <actor>Sandra Cervera (Diana)Sinopsi:Marga</actor>
+      <actor>en plena crisi amb el seu marit</actor>
+      <actor>carregada de dubtes sobre el seu futur</actor>
+      <actor>viatja a una antiga casa de la seva família. Al cap de poc d'estar-s'hi</actor>
+      <actor>descobreix un portal dimensional que la comunica amb una altra realitat. En aquella dimensió paral·lela</actor>
+      <actor>el seu altre jo l'avisa que està a punt de passar una cosa terrible a la seva vida si no pren una determinada decisió.</actor>
+    </credits>
+    <length units="seconds">5465</length>
+    <episode-num system="onscreen">1</episode-num>
     <category lang="ca">FICCIÓ</category>
-    <category lang="ca">SITCOM (COMÈDIA DE SITUACIÓ)</category>
+    <category lang="ca">PEL·LÍCULA / TELEFILM</category>
     <rating>
-      <value>TOTS ELS PÚBLICS</value>
+      <value>PÚBLIC ADULT</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
+    <icon src="https://img.3cat.cat/multimedia/jpg/1/9/1705669963891.jpg"/>
   </programme>
-  <programme start="20261014213831 +0200" stop="20261014220510 +0200" channel="c33">
-    <title lang="ca">L'un per l'altre</title>
-    <sub-title lang="ca">Les anàlisis</sub-title>
-    <desc lang="ca">La Rosa i la Maria posen a règim els seus marits perquè han descobert que el colesterol els surt per les orelles. El Toni i el Poppins fan tol el que poden per saltar-se'l</desc>
-    <length units="seconds">1599</length>
-    <episode-num system="onscreen">16</episode-num>
-    <category lang="ca">FICCIÓ</category>
-    <category lang="ca">SITCOM (COMÈDIA DE SITUACIÓ)</category>
+  <programme start="20261015014942 +0200" stop="20261015024116 +0200" channel="c33">
+    <title lang="ca">Com serem demà?</title>
+    <sub-title lang="ca">Com serem demà?</sub-title>
+    <desc lang="ca">Com serem demà? Convida el públic a fer un recorregut vertiginós per la ment dels experts que ens recorden que el nostre cos canvia constantment com a reacció al món que ens envolta. El que ens espera pot anar més enllà de qualsevol cosa que hàgim imaginat mai. Tot i que ningú no pot estar segur del que passarà, els biòlegs evolutius i els estadístics estan observant tendències que podrien voler dir que, en un futur, només tinguem quatre dits als peus (adeu, dit petit) o que les nostres cares tinguin combinacions de característiques noves. Els nous humans potser són molt més alts que els seus pares o avis, o potser tenen els cabells i els ulls més foscos. I malgrat que l'evolució requereix molt de temps, potser no cal que esperem gaire per aquesta versió nova de nosaltres mateixos. La tecnologia està redissenyant manera en què vivim i funcionem a un ritme molt més ràpid que l'evolució. Ens estem fusionant amb la tecnologia més que mai. Ara, podem dur xips implantats, extremitats intel·ligents, exoesquelets i òrgans impresos en 3D al cos. Una tècnica revolucionària d'edició de gens ens ha donat el poder d'agafar l'evolució amb les mans i alterar el nostre ADN. Quant de temps passarà fins que puguem dissenyar els nostres fills?</desc>
+    <length units="seconds">3094</length>
+    <episode-num system="onscreen">1</episode-num>
+    <category lang="ca">DIVULGACIÓ</category>
+    <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
+    <icon src="https://img.3cat.cat/multimedia/jpg/6/2/1706277609426.jpg"/>
   </programme>
   <channel id="oca1">
     <display-name>OCA1</display-name>
