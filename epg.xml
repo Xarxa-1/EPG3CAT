@@ -3,37 +3,51 @@
   <channel id="tvi">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20261015201511 +0200" stop="20261015210000 +0200" channel="tvi">
-    <title lang="ca">Està passant</title>
-    <desc lang="ca">La Natza i el Jair repassen les últimes novetats del Premi Planeta. L'Òscar Dalmau ens parla de ciència i la Oye Sherman ens descobreix vídeos d'internet.</desc>
-    <length units="seconds">2689</length>
-    <episode-num system="onscreen">1831</episode-num>
+  <programme start="20261015233713 +0200" stop="20261016002432 +0200" channel="tvi">
+    <title lang="ca">Nervi</title>
+    <sub-title lang="ca">Encara que sigui mentida</sub-title>
+    <desc lang="ca">No us cregueu res d'aquest 'Nervi'. Sembla que mentim més que mai, però com sobrevivim sense fingir, sense inventar? En parlem amb la filòsofa Sira Abenoza, directora del Festival Clàssics; amb el dramaturg i director Jordi Oriol, i amb un expert caçador de farsants, el periodista Carles Tamayo. Que la mentida i les màscares a internet no sempre són de covards, ens explica el realitzador Albert Lloreta en un assaig visual, i descobrim amb Jana Jubert que encara no s'ha dit tot sobre 'La bola negra'. Fem safareig cultural amb Oriol Puig Taulé i Emma Zafón, i acabem amb el directe d'un mestre de la disfressa i l'autoparòdia, el cantautor Irieix.</desc>
+    <length units="seconds">2839</length>
+    <episode-num system="onscreen">89</episode-num>
     <category lang="ca">ENTRETENIMENT</category>
-    <category lang="ca">GAGS. HUMOR</category>
+    <category lang="ca">ALTRES</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <icon src="https://img.ccma.cat/multimedia/png/3/8/1705511272683.png"/>
+    <previously-shown/>
   </programme>
-  <programme start="20261015210000 +0200" stop="20261015220553 +0200" channel="tvi">
-    <title lang="ca">Telenotícies vespre</title>
-    <length units="seconds">3953</length>
-    <episode-num system="onscreen">7358</episode-num>
+  <programme start="20261016002432 +0200" stop="20261016042623 +0200" channel="tvi">
+    <title lang="ca">Mésnit</title>
+    <desc lang="ca">El 'Mésnit' arriba a la desena temporada, amb Marina Romero al capdavant de l'espai i amb la voluntat de continuar sent un centre de debat d'idees i d'anàlisi de l'activitat política.</desc>
+    <length units="seconds">14511</length>
+    <episode-num system="onscreen">2180</episode-num>
     <category lang="ca">ACTUALITAT</category>
-    <category lang="ca">INFORMATIU DIÀRI</category>
+    <category lang="ca">DEBAT</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <icon src="https://img.ccma.cat/multimedia/jpg/7/2/1758026176427.jpg"/>
+    <previously-shown/>
   </programme>
   <channel id="324">
     <display-name>324</display-name>
   </channel>
-  <programme start="20261015200000 +0200" stop="20261015210000 +0200" channel="324">
+  <programme start="20261015220500 +0200" stop="20261016000000 +0200" channel="324">
+    <title lang="ca">Mésnit</title>
+    <desc lang="ca">El 'Mésnit' arriba a la desena temporada, amb Marina Romero al capdavant de l'espai i amb la voluntat de continuar sent un centre de debat d'idees i d'anàlisi de l'activitat política.</desc>
+    <length units="seconds">6900</length>
+    <episode-num system="onscreen">2180</episode-num>
+    <category lang="ca">ACTUALITAT</category>
+    <category lang="ca">DEBAT</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <subtitles type="teletext"/>
+  </programme>
+  <programme start="20261016000000 +0200" stop="20261016003000 +0200" channel="324">
     <title lang="ca">Notícies 3CatInfo</title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">3600</length>
-    <episode-num system="onscreen">11442</episode-num>
+    <length units="seconds">1800</length>
+    <episode-num system="onscreen">11443</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
@@ -41,75 +55,62 @@
     </rating>
     <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
-  <programme start="20261015210000 +0200" stop="20261015220500 +0200" channel="324">
-    <title lang="ca">Telenotícies vespre</title>
-    <length units="seconds">3900</length>
-    <episode-num system="onscreen">7358</episode-num>
-    <category lang="ca">ACTUALITAT</category>
-    <category lang="ca">INFORMATIU DIÀRI</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <icon src="https://img.ccma.cat/multimedia/jpg/7/2/1758026176427.jpg"/>
-  </programme>
   <channel id="esport3">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20261015201144 +0200" stop="20261015210855 +0200" channel="esport3">
-    <title lang="ca">Tot Costa</title>
-    <sub-title lang="ca">El Barça pot regnar a Europa?</sub-title>
-    <desc lang="ca">El Barça va golejar el Galatasaray en un ambient hostil per als blaugranes. Ho analitzem amb Gerard Autet, Gemma Mallorca i Ferran Correas. Amb Laia Tudel i Ramon Salmurri repassem les bones dades dels blaugranes, i amb Marc Crosas valorem fins on pot arribar aquest Barça. També sabrem com ho van viure des de la banqueta del Galatasaray. Pel que fa al bàsquet, avui entrevista amb Pierre Oriola per parlar de què li passa al Manresa. </desc>
-    <length units="seconds">3431</length>
-    <episode-num system="onscreen">1021</episode-num>
+  <programme start="20261015230000 +0200" stop="20261016003058 +0200" channel="esport3">
+    <title lang="ca">Onze</title>
+    <sub-title lang="ca">El gat amagat de Mou; 'El predicador' i 'El consultori'</sub-title>
+    <desc lang="ca">David Bernabeu, Víctor Lozano, Aina Cerdà i Jordi Costa comenten la metàfora felina de Mourinho a la sala de premsa de la Roma. L'Òscar Pérez-Dolz predica els manaments del bon culer. En Sergi Ferrer respon les inquietuds dels espectadors de l'Onze.</desc>
+    <length units="seconds">5458</length>
+    <episode-num system="onscreen">1269</episode-num>
+    <category lang="ca">ESPORTS</category>
+    <category lang="ca">MAGAZINE</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <subtitles type="teletext"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/1/1/1688543515711.jpg"/>
+  </programme>
+  <programme start="20261016003058 +0200" stop="20261016005141 +0200" channel="esport3">
+    <title lang="ca">3CatInfo Esports</title>
+    <desc lang="ca">Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.</desc>
+    <length units="seconds">1243</length>
+    <episode-num system="onscreen">5539</episode-num>
     <category lang="ca">ESPORTS</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <subtitles type="teletext"/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/0/4/1706209193140.jpg"/>
-  </programme>
-  <programme start="20261015210855 +0200" stop="20261015211637 +0200" channel="esport3">
-    <title lang="ca">E3</title>
-    <sub-title lang="ca">Marnaton Eivissa</sub-title>
-    <desc lang="ca">Sisena i última prova de la Copa Marnaton 2026, el campionat de natació en aigües obertes que se celebra a Catalunya i les Illes Balears.</desc>
-    <length units="seconds">462</length>
-    <episode-num system="onscreen">2394</episode-num>
-    <category lang="ca">ESPORTS</category>
-    <category lang="ca">REPORTATGES</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <subtitles type="teletext"/>
-    <icon src="https://img.3cat.cat/multimedia/jpg/0/6/1760439476560.jpg"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/9/7/1758888682179.jpg"/>
   </programme>
   <channel id="sx3">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20261015203938 +0200" stop="20261015210000 +0200" channel="sx3">
-    <title lang="ca">Henry Danger</title>
-    <sub-title lang="ca">Llicència per volar</sub-title>
-    <desc lang="ca">En Henry està decidit a demostrar que ja està preparat per pilotar el Mancòpter, però haurà de convèncer el Capità Man que és prou responsable.</desc>
-    <length units="seconds">1222</length>
-    <episode-num system="onscreen">60</episode-num>
+  <programme start="20261015234634 +0200" stop="20261016000644 +0200" channel="sx3">
+    <title lang="ca">Els germans Kratt</title>
+    <sub-title lang="ca">Taques al desert</sub-title>
+    <desc lang="ca">El Chris està enfeinat organitzant els discos de poder animal, quan reben una trucada del Manuel, un dels membres de l'equip dels germans Kratt que viu al desert de Sonora. Diu que ha vist un ocelot vora casa seva. Un ocelot al desert? És molt estrany, ja que aquests felins salvatges acostumen a viure a la selva. L'equip dels germans Kratt es proposa una nova missió animal: trobar un ocelot al desert.</desc>
+    <length units="seconds">1210</length>
+    <episode-num system="onscreen">141</episode-num>
     <category lang="ca">FICCIÓ</category>
-    <category lang="ca">SÈRIE DRAMÀTICA</category>
+    <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
       <value>INFANTIL</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20261015210000 +0200" stop="20261015212353 +0200" channel="sx3">
-    <title lang="ca">Bola de drac Z</title>
-    <sub-title lang="ca">El combat a mort entre el rei dels dimonis i en Son Gohan</sub-title>
-    <desc lang="ca">Per fi comença el combat a mort entre en Dabra i en Son Gohan, que fa set anys que no s'entrena i no està gaire en forma. A més, en Dabra s'adona que en Vegeta està molt enfadat per les ganes que té de lluitar contra en Son Goku i li explica a en Babidí que té un cor fàcil de posseir. En Dabra abandonarà el combat contra en Son Gohan, perquè ara ja té qui li faci la feina.</desc>
-    <length units="seconds">1433</length>
-    <episode-num system="onscreen">227</episode-num>
+  <programme start="20261016000644 +0200" stop="20261016002653 +0200" channel="sx3">
+    <title lang="ca">Els germans Kratt</title>
+    <sub-title lang="ca">El cérvol tossudet</sub-title>
+    <desc lang="ca">L'equip dels germans Kratt busca el Tossudet, un cervató que van ajudar fa uns anys, per veure com li van les coses. En la seva missió aprenen un munt de coses sobre la societat dels cérvols i la utilitat essencial de les banyes. I l'Aviva acaba fent dos discos de poder de cérvol de Virgínia.</desc>
+    <length units="seconds">1209</length>
+    <episode-num system="onscreen">142</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
-      <value>JUVENIL</value>
+      <value>INFANTIL</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
@@ -117,12 +118,26 @@
   <channel id="c33">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20261015200043 +0200" stop="20261015205943 +0200" channel="c33">
-    <title lang="ca">Rick Stein: De Venècia a Istanbul</title>
-    <sub-title lang="ca">Grècia</sub-title>
-    <desc lang="ca">En Rick Stein continua el viatge culinari, ara pel Peloponès, fins a la península de Mani. Recorrerà diversos capítols, també gastronòmics, de la història grega: Esparta, la ciutat bizantina de Mitràs, els segles de domini otomà, la guerra d'independència... Assaborirà la riquíssima cuina grega, amb el pollastre amb pasta 'hilopites' i formatge 'mizithra', sardines a la brasa, l'omnipresent amanida i molts altres plats. I cuinarà un 'galaktoboureko', que és un púding de crema; un 'saganaki', formatge arrebossat i fregit, i no hi podia faltar la deliciosa mussaca.</desc>
-    <length units="seconds">3540</length>
-    <episode-num system="onscreen">5</episode-num>
+  <programme start="20261015233320 +0200" stop="20261016002140 +0200" channel="c33">
+    <title lang="ca">Savis i sàvies</title>
+    <sub-title lang="ca">Carme Elias</sub-title>
+    <desc lang="ca">Va néixer a Barcelona, al barri del Camp de l'Arpa. Podria haver estat fornera o dependenta d'una merceria, però va decidir ser actriu. Amb més de quatre dècades de carrera, ha treballat amb els millors directors de l'Estat. Té un Goya i un Gaudí, el reconeixement del públic i la professió, i una de les mirades més lluminoses del nostre cinema. L'any 2022 li diagnostiquen Alzheimer i l'afronta com ha afrontat tots els reptes de la seva vida: amb valentia i humor. </desc>
+    <length units="seconds">2900</length>
+    <episode-num system="onscreen">112</episode-num>
+    <category lang="ca">DIVULGACIÓ</category>
+    <category lang="ca">ENTREVISTES</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <subtitles type="teletext"/>
+    <previously-shown/>
+  </programme>
+  <programme start="20261016002140 +0200" stop="20261016011417 +0200" channel="c33">
+    <title lang="ca">Dibuixar pel canvi</title>
+    <sub-title lang="ca">Mèxic. Som foc</sub-title>
+    <desc lang="ca">A Mèxic, una desena de dones moren assassinades cada dia, i en els darrers sis anys s'ha triplicat el nombre de dones i nenes desaparegudes. Artistes com Mar Maremoto intenten trencar el silenci que ha minimitzat durant massa temps l'abast de la violència de gènere en aquest país. Compartint les seves obres d'art al seu compte d'Instagram, ofereix un espai segur per al seu públic i fins i tot es relaciona amb víctimes reals per conèixer a fons les seves experiències i proporcionar-los eines per afrontar-les i mecanismes d'autodefensa. A més a més, la pel·lícula intenta indagar els motius que s'amaguen rere aquest índex de feminicidis tan elevat i explorar vies per aconseguir un canvi real i acabar amb la impunitat dels agressors.</desc>
+    <length units="seconds">3157</length>
+    <episode-num system="onscreen">2</episode-num>
     <category lang="ca">DIVULGACIÓ</category>
     <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
     <rating>
@@ -130,11 +145,6 @@
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
-  </programme>
-  <programme start="20261015205943 +0200" stop="20261015210231 +0200" channel="c33">
-    <title lang="ca">SENSE FI CANAL 33</title>
-    <desc lang="ca">Sense Descripció</desc>
-    <length units="seconds">168</length>
   </programme>
   <channel id="oca1">
     <display-name>OCA1</display-name>
