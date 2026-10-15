@@ -3,38 +3,36 @@
   <channel id="tvi">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20261015060000 +0200" stop="20261015080000 +0200" channel="tvi">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">7200</length>
-    <episode-num system="onscreen">11436</episode-num>
+  <programme start="20261015102956 +0200" stop="20261015135500 +0200" channel="tvi">
+    <title lang="ca">Tot es mou</title>
+    <desc lang="ca">El programa presentat per Helena Garcia Melero s'emet de dilluns a divendres, de 10.30 a 13.55. Un magazín d'actualitat que busca informar, analitzar i debatre sobre temes que marquen l'actualitat social, econòmica i cultural del dia, amb una àmplia presència en directe dels reporters i reporteres, repartits per tot Catalunya. A més, el 'Tot es mou' compta amb seccions diàries de gastronomia (amb els principals cuiners i cuineres del país), successos, economia, mobilitat, temes mèdics i de tecnologia, entre d'altres.</desc>
+    <length units="seconds">12304</length>
+    <episode-num system="onscreen">1829</episode-num>
     <category lang="ca">ACTUALITAT</category>
-    <category lang="ca">INFORMATIU DIÀRI</category>
+    <category lang="ca">MAGAZINE</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
-  <programme start="20261015080000 +0200" stop="20261015103009 +0200" channel="tvi">
-    <title lang="ca">Matins</title>
-    <desc lang="ca">'Matins' és un dels puntals informatius de TV3. El programa matinal dona les claus del dia que comença, explica les notícies que han passat aportant-ne el context per entendre-les i analitza amb veus acreditades l'actualitat més propera i la d'arreu del món. 'Matins' comença a les 8 del matí, de dilluns a divendres, i està presentat per Ariadna Oltra.</desc>
-    <length units="seconds">9009</length>
-    <episode-num system="onscreen">4692</episode-num>
+  <programme start="20261015135500 +0200" stop="20261015143000 +0200" channel="tvi">
+    <title lang="ca">Telenotícies comarques</title>
+    <length units="seconds">2100</length>
+    <episode-num system="onscreen">7055</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <icon src="https://img.ccma.cat/multimedia/jpg/2/0/1758040151402.jpg"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/5/2/1758026313525.jpg"/>
   </programme>
   <channel id="324">
     <display-name>324</display-name>
   </channel>
-  <programme start="20261015060000 +0200" stop="20261015080000 +0200" channel="324">
+  <programme start="20261015120000 +0200" stop="20261015135500 +0200" channel="324">
     <title lang="ca">Notícies 3CatInfo</title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">7200</length>
-    <episode-num system="onscreen">11436</episode-num>
+    <length units="seconds">6900</length>
+    <episode-num system="onscreen">11438</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
@@ -43,27 +41,26 @@
     <subtitles type="teletext"/>
     <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
-  <programme start="20261015080000 +0200" stop="20261015103000 +0200" channel="324">
-    <title lang="ca">Matins</title>
-    <desc lang="ca">'Matins' és un dels puntals informatius de TV3. El programa matinal dona les claus del dia que comença, explica les notícies que han passat aportant-ne el context per entendre-les i analitza amb veus acreditades l'actualitat més propera i la d'arreu del món. 'Matins' comença a les 8 del matí, de dilluns a divendres, i està presentat per Ariadna Oltra.</desc>
-    <length units="seconds">9000</length>
-    <episode-num system="onscreen">4692</episode-num>
+  <programme start="20261015135500 +0200" stop="20261015143000 +0200" channel="324">
+    <title lang="ca">Telenotícies comarques</title>
+    <length units="seconds">2100</length>
+    <episode-num system="onscreen">7055</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/2/0/1758040151402.jpg"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/5/2/1758026313525.jpg"/>
   </programme>
   <channel id="esport3">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20261015065527 +0200" stop="20261015082943 +0200" channel="esport3">
+  <programme start="20261015112555 +0200" stop="20261015130000 +0200" channel="esport3">
     <title lang="ca">Onze</title>
     <sub-title lang="ca">'Laminadura'; Post Roma-Madrid i 'El Colegiado'</sub-title>
     <desc lang="ca">Lluís Carrasco, Sique Rodríguez, Gemma Mallorca i Joan Poquí analitzen el partit del Barça a Istanbul i la jornada de Champions amb atenció al partit del Reial Madrid. En Joan Fàbregas repassa les jugades polèmiques.</desc>
-    <length units="seconds">5656</length>
+    <length units="seconds">5645</length>
     <episode-num system="onscreen">1268</episode-num>
     <category lang="ca">ESPORTS</category>
     <category lang="ca">MAGAZINE</category>
@@ -74,29 +71,28 @@
     <previously-shown/>
     <icon src="https://img.ccma.cat/multimedia/jpg/1/1/1688543515711.jpg"/>
   </programme>
-  <programme start="20261015082943 +0200" stop="20261015100320 +0200" channel="esport3">
-    <title lang="ca">Bàsquet</title>
-    <sub-title lang="ca">Spar Girona-Ostrava / Eurocup / J1</sub-title>
-    <desc lang="ca">L'estrena de les gironines a l'Eurocup. El rival que visita Fontajau és un conjunt de la República Txeca.</desc>
-    <length units="seconds">5617</length>
-    <episode-num system="onscreen">26</episode-num>
+  <programme start="20261015130000 +0200" stop="20261015140125 +0200" channel="esport3">
+    <title lang="ca">Esport Club</title>
+    <desc lang="ca">En Jordi Sanuy i Víctor Patsi us expliquen l'última hora esportiva i l'analitzen amb el seu equip de col·laboradors. El programa és molt actiu a les xarxes socials. L''Esport Club' té presència a Twitter, a Facebook i a Instagram. L'espai dirigeix moltes accions de participació amb l'audiència a través de les xarxes socials.</desc>
+    <length units="seconds">3685</length>
+    <episode-num system="onscreen">3262</episode-num>
     <category lang="ca">ESPORTS</category>
-    <category lang="ca">RETRANSMISSIONS ESPORTS</category>
+    <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <previously-shown/>
-    <icon src="https://img.3cat.cat/multimedia/jpg/7/8/1791975943787.jpg"/>
+    <subtitles type="teletext"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/7/3/1698145091337.jpg"/>
   </programme>
   <channel id="sx3">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20261015070955 +0200" stop="20261015073101 +0200" channel="sx3">
-    <title lang="ca">La Patrulla Peluda</title>
-    <sub-title lang="ca">Missió Peluda: A la recerca de la corona</sub-title>
-    <desc lang="ca">En Chase rep un encàrrec especial de Bordaburg: volen que protegeixi la corona reial. Ell no ho sap, però hi ha algú que planeja robar-la!</desc>
-    <length units="seconds">1266</length>
-    <episode-num system="onscreen">148</episode-num>
+  <programme start="20261015114941 +0200" stop="20261015121126 +0200" channel="sx3">
+    <title lang="ca">Els germans Kratt</title>
+    <sub-title lang="ca">El viatge del Papalloner XT</sub-title>
+    <desc lang="ca">L'Aviva acaba de construir el Papalloner XT, el vehicle que acompanyarà en Chris, en Martin i la Capitana Maxil·la a l'aventura més increïble que hagi viscut mai ningú, el viatge més llarg i més impressionant de tots els insectes de l'Amèrica del Nord: 4.800 quilòmetres fins a Mèxic! Però compte, que a mig camí es trobaran amb la malvada Donita Donata!</desc>
+    <length units="seconds">1305</length>
+    <episode-num system="onscreen">9</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
@@ -105,12 +101,12 @@
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20261015073101 +0200" stop="20261015074135 +0200" channel="sx3">
-    <title lang="ca">La Patrulla Peluda</title>
-    <sub-title lang="ca">La Patrulla salva una festa de pijames</sub-title>
-    <desc lang="ca">Els animals de la granja de l'Al se'n van a dormir a casa uns amics i a mitja nit, desapareixen.</desc>
-    <length units="seconds">634</length>
-    <episode-num system="onscreen">149</episode-num>
+  <programme start="20261015121126 +0200" stop="20261015123226 +0200" channel="sx3">
+    <title lang="ca">Els germans Kratt</title>
+    <sub-title lang="ca">Els buscadors de mel</sub-title>
+    <desc lang="ca">Avui toca sortir d'aventura a descobrir quin és l'animal més dur i més ferotge de l'Àfrica. Però a punt d'emprendre el viatge, el detector de dolents d'en Koki ha interceptat un missatge del Gormand, el xef il·legal d'espècies amenaçades. Canvi de plans! Comença l'operació 'Salvem l'animal misteriós dels fogons'! Els hi acompanyes?!</desc>
+    <length units="seconds">1260</length>
+    <episode-num system="onscreen">10</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
@@ -122,28 +118,28 @@
   <channel id="c33">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20261015062356 +0200" stop="20261015071454 +0200" channel="c33">
-    <title lang="ca">El Foraster</title>
-    <sub-title lang="ca">La Nou de Gaià</sub-title>
-    <desc lang="ca">Per primera vegada, 'El Foraster' viatja a la comarca del Tarragonès i ho fa per descobrir La Nou de Gaià, un dels municipis més petits de la comarca.Allà, en Quim coneixerà en Nan, un home a qui li agrada anar 'per fenya'. De la mà de les 'germanes Koplowitz', farà un tast de productes de proximitat. I també comprovarà com treballa en Pere, un saurí que es dedica a buscar aigua amb un pèndol que més aviat sembla un ventilador a plena potència. A La Nou, en Quim també coneixerà la història d'en Ricard, a qui la seva germana li va donar un ronyó que li va salvar la vida. A més, els joves del poble aprofitaran la visita del programa per passar una llista de peticions a l'alcaldessa, i el jutge de pau mirarà de demostrar, amb un èxit dubtós, les seves habilitats com a imitador. Finalment, a la petita sala de cinema d'en Josep Maria, en Quim descobrirà que la màgia del setè art continua sent molt i molt gran.</desc>
-    <length units="seconds">3058</length>
-    <episode-num system="onscreen">97</episode-num>
-    <category lang="ca">ENTRETENIMENT</category>
-    <category lang="ca">VARIETATS</category>
+  <programme start="20261015115735 +0200" stop="20261015120418 +0200" channel="c33">
+    <title lang="ca">Cuines</title>
+    <sub-title lang="ca">Milfulls de xocolata blanca amb lima i iogurt</sub-title>
+    <desc lang="ca">Cuina d'aficionat .-Cuiner Adam RocaDificultat: altaTemps d'elaboració: Producte principal: xocolata blancaTemporada: tot l'any</desc>
+    <length units="seconds">403</length>
+    <episode-num system="onscreen">3432</episode-num>
+    <category lang="ca">DIVULGACIÓ</category>
+    <category lang="ca">MAGAZINE ESPECIALITZAT</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20261015071454 +0200" stop="20261015074354 +0200" channel="c33">
-    <title lang="ca">La sobretaula</title>
-    <sub-title lang="ca">Santa Susanna amb Ricard Torquemada</sub-title>
-    <desc lang="ca">La Sobretaula fa parada a Santa Susanna per descobrir un territori on l'esport, l'agricultura i el relleu familiar són part essencial del seu dia a dia. Ho fem acompanyats del periodista Ricard Torquemada, amb qui parlem d'arrels, continuïtat i compromís amb el territori.</desc>
-    <length units="seconds">1740</length>
-    <episode-num system="onscreen">3</episode-num>
+  <programme start="20261015120418 +0200" stop="20261015120959 +0200" channel="c33">
+    <title lang="ca">Cuines</title>
+    <sub-title lang="ca">LLENGUADO AMB CARGOLS DE PUNXA</sub-title>
+    <desc lang="ca">HOTEL RESTAURANTt NERI.- BARCELONACuiner.- Benito iranzo</desc>
+    <length units="seconds">341</length>
+    <episode-num system="onscreen">3433</episode-num>
     <category lang="ca">DIVULGACIÓ</category>
-    <category lang="ca">CUINA</category>
+    <category lang="ca">MAGAZINE ESPECIALITZAT</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
