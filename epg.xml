@@ -3,120 +3,113 @@
   <channel id="tvi">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20261015163428 +0200" stop="20261015171431 +0200" channel="tvi">
-    <title lang="ca">La Riera</title>
-    <desc lang="ca">Un nou enfrontament amb els seus pares, fa que la Txell s'adoni de com els tracta en Joan. La Mercè té problemes per reconciliar-se amb els seus fills i es recolza en mossèn Esteve. El capellà pateix una mica... En Claudi dóna diners de l'herència als seus fills i l'Ona té una idea per invertir, però necessita socis. A la cuina, en Carlos vol aclarir què passa amb en Sergi i la Maribel.</desc>
-    <length units="seconds">2403</length>
-    <episode-num system="onscreen">143</episode-num>
-    <category lang="ca">FICCIÓ</category>
-    <category lang="ca">TELENOVEL·LA</category>
+  <programme start="20261015201511 +0200" stop="20261015210000 +0200" channel="tvi">
+    <title lang="ca">Està passant</title>
+    <desc lang="ca">La Natza i el Jair repassen les últimes novetats del Premi Planeta. L'Òscar Dalmau ens parla de ciència i la Oye Sherman ens descobreix vídeos d'internet.</desc>
+    <length units="seconds">2689</length>
+    <episode-num system="onscreen">1831</episode-num>
+    <category lang="ca">ENTRETENIMENT</category>
+    <category lang="ca">GAGS. HUMOR</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <subtitles type="teletext"/>
-    <previously-shown/>
+    <icon src="https://img.ccma.cat/multimedia/png/3/8/1705511272683.png"/>
   </programme>
-  <programme start="20261015171431 +0200" stop="20261015171952 +0200" channel="tvi">
-    <title lang="ca">Xarxa Natura</title>
-    <sub-title lang="ca">Banyoles</sub-title>
-    <desc lang="ca">En la llista d'espais inclosos a la Xarxa Natura 2000 hi ha tots els parcs naturals, però també molts altres espais emblemàtics com ara les Guilleries, l'estany de Banyoles, l'Alta Garrotxa, la serra del Montsec o les Gavarres. La majoria d'aquests espais són autèntics desconeguts i els seus valors naturals i culturals no han estat mai objecte de cap divulgació específica. Aquesta sèrie vol donar a conèixer aquest patrimoni.</desc>
-    <length units="seconds">321</length>
-    <episode-num system="onscreen">15</episode-num>
-    <category lang="ca">ALTRES</category>
+  <programme start="20261015210000 +0200" stop="20261015220553 +0200" channel="tvi">
+    <title lang="ca">Telenotícies vespre</title>
+    <length units="seconds">3953</length>
+    <episode-num system="onscreen">7358</episode-num>
+    <category lang="ca">ACTUALITAT</category>
+    <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <subtitles type="teletext"/>
-    <previously-shown/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/4/1/1721308939614.jpg"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/7/2/1758026176427.jpg"/>
   </programme>
   <channel id="324">
     <display-name>324</display-name>
   </channel>
-  <programme start="20261015160000 +0200" stop="20261015170000 +0200" channel="324">
+  <programme start="20261015200000 +0200" stop="20261015210000 +0200" channel="324">
     <title lang="ca">Notícies 3CatInfo</title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <length units="seconds">3600</length>
-    <episode-num system="onscreen">11439</episode-num>
+    <episode-num system="onscreen">11442</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <subtitles type="teletext"/>
     <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
-  <programme start="20261015170000 +0200" stop="20261015183000 +0200" channel="324">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">5400</length>
-    <episode-num system="onscreen">11440</episode-num>
+  <programme start="20261015210000 +0200" stop="20261015220500 +0200" channel="324">
+    <title lang="ca">Telenotícies vespre</title>
+    <length units="seconds">3900</length>
+    <episode-num system="onscreen">7358</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <subtitles type="teletext"/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/7/2/1758026176427.jpg"/>
   </programme>
   <channel id="esport3">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20261015163002 +0200" stop="20261015172230 +0200" channel="esport3">
-    <title lang="ca">Experiència Catalana</title>
-    <sub-title lang="ca">Rick Hansen</sub-title>
-    <desc lang="ca">El Rick Hansen és un exatleta paralímpic canadenc i la Ivana Miño ha decidit acompanyar-lo en la seva aventura per Catalunya. Viatjar en cadira de rodes no li impedeix fer un viatge espectacular i ple d'acció, com navegar o anar en bicicleta.</desc>
-    <length units="seconds">3148</length>
-    <episode-num system="onscreen">21</episode-num>
-    <category lang="ca">ENTRETENIMENT</category>
-    <category lang="ca">ALTRES</category>
+  <programme start="20261015201144 +0200" stop="20261015210855 +0200" channel="esport3">
+    <title lang="ca">Tot Costa</title>
+    <sub-title lang="ca">El Barça pot regnar a Europa?</sub-title>
+    <desc lang="ca">El Barça va golejar el Galatasaray en un ambient hostil per als blaugranes. Ho analitzem amb Gerard Autet, Gemma Mallorca i Ferran Correas. Amb Laia Tudel i Ramon Salmurri repassem les bones dades dels blaugranes, i amb Marc Crosas valorem fins on pot arribar aquest Barça. També sabrem com ho van viure des de la banqueta del Galatasaray. Pel que fa al bàsquet, avui entrevista amb Pierre Oriola per parlar de què li passa al Manresa. </desc>
+    <length units="seconds">3431</length>
+    <episode-num system="onscreen">1021</episode-num>
+    <category lang="ca">ESPORTS</category>
+    <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
-    <previously-shown/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/0/4/1706209193140.jpg"/>
   </programme>
-  <programme start="20261015172230 +0200" stop="20261015172902 +0200" channel="esport3">
-    <title lang="ca">Xarxa Natura</title>
-    <sub-title lang="ca">Garrotxa</sub-title>
-    <desc lang="ca">En la llista d'espais inclosos a la Xarxa Natura 2000 hi ha tots els parcs naturals, però també molts altres espais emblemàtics com ara les Guilleries, l'estany de Banyoles, l'Alta Garrotxa, la serra del Montsec o les Gavarres. La majoria d'aquests espais són autèntics desconeguts i els seus valors naturals i culturals no han estat mai objecte de cap divulgació específica. Aquesta sèrie vol donar a conèixer aquest patrimoni.</desc>
-    <length units="seconds">392</length>
-    <episode-num system="onscreen">18</episode-num>
-    <category lang="ca">ALTRES</category>
+  <programme start="20261015210855 +0200" stop="20261015211637 +0200" channel="esport3">
+    <title lang="ca">E3</title>
+    <sub-title lang="ca">Marnaton Eivissa</sub-title>
+    <desc lang="ca">Sisena i última prova de la Copa Marnaton 2026, el campionat de natació en aigües obertes que se celebra a Catalunya i les Illes Balears.</desc>
+    <length units="seconds">462</length>
+    <episode-num system="onscreen">2394</episode-num>
+    <category lang="ca">ESPORTS</category>
+    <category lang="ca">REPORTATGES</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
-    <previously-shown/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/4/1/1721308939614.jpg"/>
+    <icon src="https://img.3cat.cat/multimedia/jpg/0/6/1760439476560.jpg"/>
   </programme>
   <channel id="sx3">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20261015164853 +0200" stop="20261015165955 +0200" channel="sx3">
-    <title lang="ca">El Mic i els seus amics</title>
-    <sub-title lang="ca">Verdura i hortalisses</sub-title>
-    <desc lang="ca">Pastanaga, enciam, patata... les verdures i les hortalisses tenen noms molt divertits.</desc>
-    <length units="seconds">662</length>
-    <episode-num system="onscreen">646</episode-num>
+  <programme start="20261015203938 +0200" stop="20261015210000 +0200" channel="sx3">
+    <title lang="ca">Henry Danger</title>
+    <sub-title lang="ca">Llicència per volar</sub-title>
+    <desc lang="ca">En Henry està decidit a demostrar que ja està preparat per pilotar el Mancòpter, però haurà de convèncer el Capità Man que és prou responsable.</desc>
+    <length units="seconds">1222</length>
+    <episode-num system="onscreen">60</episode-num>
     <category lang="ca">FICCIÓ</category>
-    <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
+    <category lang="ca">SÈRIE DRAMÀTICA</category>
     <rating>
       <value>INFANTIL</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20261015165955 +0200" stop="20261015171053 +0200" channel="sx3">
-    <title lang="ca">El Mic i els seus amics</title>
-    <sub-title lang="ca">Maca-cama</sub-title>
-    <desc lang="ca">Jugar amb les paraules agrada molt els més petits. En aquest cas, la síl·laba final d'una paraula es transforma en la inicial d'una altra.</desc>
-    <length units="seconds">658</length>
-    <episode-num system="onscreen">612</episode-num>
+  <programme start="20261015210000 +0200" stop="20261015212353 +0200" channel="sx3">
+    <title lang="ca">Bola de drac Z</title>
+    <sub-title lang="ca">El combat a mort entre el rei dels dimonis i en Son Gohan</sub-title>
+    <desc lang="ca">Per fi comença el combat a mort entre en Dabra i en Son Gohan, que fa set anys que no s'entrena i no està gaire en forma. A més, en Dabra s'adona que en Vegeta està molt enfadat per les ganes que té de lluitar contra en Son Goku i li explica a en Babidí que té un cor fàcil de posseir. En Dabra abandonarà el combat contra en Son Gohan, perquè ara ja té qui li faci la feina.</desc>
+    <length units="seconds">1433</length>
+    <episode-num system="onscreen">227</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
-      <value>INFANTIL</value>
+      <value>JUVENIL</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
@@ -124,33 +117,24 @@
   <channel id="c33">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20261015160258 +0200" stop="20261015171213 +0200" channel="c33">
-    <title lang="ca">Còmics</title>
-    <sub-title lang="ca">Mary Santpere</sub-title>
-    <desc lang="ca">Una gran artista (en tots els sentits) que va triomfar als escenaris i al cinema traient partit del seu físic, tan enorme com el seu talent per connectar amb el públic d'una manera natural, propera i entranyable. Al programa tornarà un personatge que fa 22 anys que no apareixia a TV3, i una personalitat molt coneguda relacionada amb l'actualitat i la informació recrearà un número musical de la Mary</desc>
-    <length units="seconds">4155</length>
-    <episode-num system="onscreen">9</episode-num>
-    <category lang="ca">ENTRETENIMENT</category>
-    <category lang="ca">GAGS. HUMOR</category>
+  <programme start="20261015200043 +0200" stop="20261015205943 +0200" channel="c33">
+    <title lang="ca">Rick Stein: De Venècia a Istanbul</title>
+    <sub-title lang="ca">Grècia</sub-title>
+    <desc lang="ca">En Rick Stein continua el viatge culinari, ara pel Peloponès, fins a la península de Mani. Recorrerà diversos capítols, també gastronòmics, de la història grega: Esparta, la ciutat bizantina de Mitràs, els segles de domini otomà, la guerra d'independència... Assaborirà la riquíssima cuina grega, amb el pollastre amb pasta 'hilopites' i formatge 'mizithra', sardines a la brasa, l'omnipresent amanida i molts altres plats. I cuinarà un 'galaktoboureko', que és un púding de crema; un 'saganaki', formatge arrebossat i fregit, i no hi podia faltar la deliciosa mussaca.</desc>
+    <length units="seconds">3540</length>
+    <episode-num system="onscreen">5</episode-num>
+    <category lang="ca">DIVULGACIÓ</category>
+    <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20261015171213 +0200" stop="20261015180308 +0200" channel="c33">
-    <title lang="ca">No pot ser!</title>
-    <sub-title lang="ca">La jugada perfecta</sub-title>
-    <desc lang="ca">En aquest capítol Jordi Basté entra a la cuina del Barça i del Manchester City. Perquè el futbol d'elit no és aliè a la innovació tecnològica. A la seu del Manchester City Basté descobreix la tecnologia que es fa servir per optimitzar el rendiment dels futbolistes. I en aquesta visita a terres angleses, es retrobarà amb un vell conegut de l'afició catalana: Pep Guardiola. Allí també es vestirà de curt per provar la tecnologia esportiva. I descobrirem la sala de crioteràpia, on els futbolistes estan uns quants minuts a més de 130 graus sota zero per recuperar-se ràpidament de les microlesions musculars. A Barcelona veurem com el primer equip de futbol femení del Barça també es troba a l'avantguarda de la tecnologia. Ens ho explicaran tres de les seves estrelles i ho comentarem amb Ernesto Valverde. Basté es troba amb Álvaro Carmona, CEO de Driblab, una empresa que se submergeix en l'estadística avançada i analitza el 'big data' d'una enorme base de jugadors per trobar el nou Leo Messi. Per acabar, descobrirem el projecte Soccer Dream, amb el seu creador, Andreu Bartolí, una plataforma perquè els més petits entrenin a futbol en un entorn de realitat virtual. </desc>
-    <length units="seconds">3055</length>
-    <episode-num system="onscreen">9</episode-num>
-    <category lang="ca">DIVULGACIÓ</category>
-    <category lang="ca">MAGAZINE ESPECIALITZAT</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <subtitles type="teletext"/>
-    <previously-shown/>
+  <programme start="20261015205943 +0200" stop="20261015210231 +0200" channel="c33">
+    <title lang="ca">SENSE FI CANAL 33</title>
+    <desc lang="ca">Sense Descripció</desc>
+    <length units="seconds">168</length>
   </programme>
   <channel id="oca1">
     <display-name>OCA1</display-name>
