@@ -3,49 +3,7 @@
   <channel id="tvi">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20261015021156 +0200" stop="20261015040003 +0200" channel="tvi">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">6487</length>
-    <episode-num system="onscreen">11435</episode-num>
-    <category lang="ca">ACTUALITAT</category>
-    <category lang="ca">INFORMATIU DIÀRI</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <previously-shown/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
-  </programme>
-  <programme start="20261015040003 +0200" stop="20261015050002 +0200" channel="tvi">
-    <title lang="ca">Blues a l'estudi</title>
-    <sub-title lang="ca">Quico Pi de la Serra</sub-title>
-    <desc lang="ca">Quico Pi de la Serra, Amadeu Casas i Joan Pau Cumellas, es perden en un món de cordes i harmonies per presentar un repertori inspirat en els antics blues de Chicago i en els colors del blues del Delta i del blues de Louisiana. Els tres músics es reuneixen per presentar metafòricament la concepció que Pi de la Serra té del blues. Amadeu Casas a la guitarra, mandolina i el 'lap steel'; Joan Pau Cumelles, a l'harmònica, i el mateix Pi de la Serra, a la veu i la guitarra.</desc>
-    <length units="seconds">3599</length>
-    <episode-num system="onscreen">19</episode-num>
-    <category lang="ca">MUSICALS</category>
-    <category lang="ca">ALTRES</category>
-    <rating>
-      <value>PÚBLIC ADULT</value>
-    </rating>
-    <previously-shown/>
-  </programme>
-  <channel id="324">
-    <display-name>324</display-name>
-  </channel>
-  <programme start="20261015010000 +0200" stop="20261015060000 +0200" channel="324">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">18000</length>
-    <episode-num system="onscreen">11435</episode-num>
-    <category lang="ca">ACTUALITAT</category>
-    <category lang="ca">INFORMATIU DIÀRI</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <previously-shown/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
-  </programme>
-  <programme start="20261015060000 +0200" stop="20261015080000 +0200" channel="324">
+  <programme start="20261015060000 +0200" stop="20261015080000 +0200" channel="tvi">
     <title lang="ca">Notícies 3CatInfo</title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <length units="seconds">7200</length>
@@ -57,27 +15,70 @@
     </rating>
     <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
-  <channel id="esport3">
-    <display-name>ESPORT3</display-name>
-  </channel>
-  <programme start="20261015023357 +0200" stop="20261015025819 +0200" channel="esport3">
-    <title lang="ca">3CatInfo Esports</title>
-    <desc lang="ca">Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.</desc>
-    <length units="seconds">1462</length>
-    <episode-num system="onscreen">5538</episode-num>
-    <category lang="ca">ESPORTS</category>
+  <programme start="20261015080000 +0200" stop="20261015103009 +0200" channel="tvi">
+    <title lang="ca">Matins</title>
+    <desc lang="ca">'Matins' és un dels puntals informatius de TV3. El programa matinal dona les claus del dia que comença, explica les notícies que han passat aportant-ne el context per entendre-les i analitza amb veus acreditades l'actualitat més propera i la d'arreu del món. 'Matins' comença a les 8 del matí, de dilluns a divendres, i està presentat per Ariadna Oltra.</desc>
+    <length units="seconds">9009</length>
+    <episode-num system="onscreen">4692</episode-num>
+    <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <previously-shown/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/9/7/1758888682179.jpg"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/2/0/1758040151402.jpg"/>
   </programme>
-  <programme start="20261015025819 +0200" stop="20261015043151 +0200" channel="esport3">
+  <channel id="324">
+    <display-name>324</display-name>
+  </channel>
+  <programme start="20261015060000 +0200" stop="20261015080000 +0200" channel="324">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="seconds">7200</length>
+    <episode-num system="onscreen">11436</episode-num>
+    <category lang="ca">ACTUALITAT</category>
+    <category lang="ca">INFORMATIU DIÀRI</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <subtitles type="teletext"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
+  </programme>
+  <programme start="20261015080000 +0200" stop="20261015103000 +0200" channel="324">
+    <title lang="ca">Matins</title>
+    <desc lang="ca">'Matins' és un dels puntals informatius de TV3. El programa matinal dona les claus del dia que comença, explica les notícies que han passat aportant-ne el context per entendre-les i analitza amb veus acreditades l'actualitat més propera i la d'arreu del món. 'Matins' comença a les 8 del matí, de dilluns a divendres, i està presentat per Ariadna Oltra.</desc>
+    <length units="seconds">9000</length>
+    <episode-num system="onscreen">4692</episode-num>
+    <category lang="ca">ACTUALITAT</category>
+    <category lang="ca">INFORMATIU DIÀRI</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <subtitles type="teletext"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/2/0/1758040151402.jpg"/>
+  </programme>
+  <channel id="esport3">
+    <display-name>ESPORT3</display-name>
+  </channel>
+  <programme start="20261015065527 +0200" stop="20261015082943 +0200" channel="esport3">
+    <title lang="ca">Onze</title>
+    <sub-title lang="ca">'Laminadura'; Post Roma-Madrid i 'El Colegiado'</sub-title>
+    <desc lang="ca">Lluís Carrasco, Sique Rodríguez, Gemma Mallorca i Joan Poquí analitzen el partit del Barça a Istanbul i la jornada de Champions amb atenció al partit del Reial Madrid. En Joan Fàbregas repassa les jugades polèmiques.</desc>
+    <length units="seconds">5656</length>
+    <episode-num system="onscreen">1268</episode-num>
+    <category lang="ca">ESPORTS</category>
+    <category lang="ca">MAGAZINE</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <subtitles type="teletext"/>
+    <previously-shown/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/1/1/1688543515711.jpg"/>
+  </programme>
+  <programme start="20261015082943 +0200" stop="20261015100320 +0200" channel="esport3">
     <title lang="ca">Bàsquet</title>
     <sub-title lang="ca">Spar Girona-Ostrava / Eurocup / J1</sub-title>
     <desc lang="ca">L'estrena de les gironines a l'Eurocup. El rival que visita Fontajau és un conjunt de la República Txeca.</desc>
-    <length units="seconds">5612</length>
+    <length units="seconds">5617</length>
     <episode-num system="onscreen">26</episode-num>
     <category lang="ca">ESPORTS</category>
     <category lang="ca">RETRANSMISSIONS ESPORTS</category>
@@ -90,12 +91,12 @@
   <channel id="sx3">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20261015024211 +0200" stop="20261015030249 +0200" channel="sx3">
-    <title lang="ca">Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
-    <sub-title lang="ca">Sirena</sub-title>
-    <desc lang="ca">L'Ondine està molt enamorada del Kim i intenta fer-li saber a través d'un joc que juguen a la piscina. Però el Kim no se n'adona, i l'Esfinx aprofita el despit de l'Ondine per convertir-la en una supermalvada que deixarà París inundada sota les aigües.</desc>
-    <length units="seconds">1238</length>
-    <episode-num system="onscreen">40</episode-num>
+  <programme start="20261015070955 +0200" stop="20261015073101 +0200" channel="sx3">
+    <title lang="ca">La Patrulla Peluda</title>
+    <sub-title lang="ca">Missió Peluda: A la recerca de la corona</sub-title>
+    <desc lang="ca">En Chase rep un encàrrec especial de Bordaburg: volen que protegeixi la corona reial. Ell no ho sap, però hi ha algú que planeja robar-la!</desc>
+    <length units="seconds">1266</length>
+    <episode-num system="onscreen">148</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
@@ -104,12 +105,12 @@
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20261015030249 +0200" stop="20261015032327 +0200" channel="sx3">
-    <title lang="ca">Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
-    <sub-title lang="ca">La petonejadora</sub-title>
-    <desc lang="ca">Avui és l'aniversari de la senyoreta Bustier, la professora que més s'estima tota la classe. Tots els alumnes li han preparat algun regal, tret de la Chloé, que se n'ha descuidat. L'Esfinx aprofitarà la confusió de sentiments de la senyoreta Bustier per engendrar una de les supermalvades amb més poder que s'han vist mai a París.</desc>
-    <length units="seconds">1238</length>
-    <episode-num system="onscreen">41</episode-num>
+  <programme start="20261015073101 +0200" stop="20261015074135 +0200" channel="sx3">
+    <title lang="ca">La Patrulla Peluda</title>
+    <sub-title lang="ca">La Patrulla salva una festa de pijames</sub-title>
+    <desc lang="ca">Els animals de la granja de l'Al se'n van a dormir a casa uns amics i a mitja nit, desapareixen.</desc>
+    <length units="seconds">634</length>
+    <episode-num system="onscreen">149</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
@@ -121,29 +122,28 @@
   <channel id="c33">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20261015024119 +0200" stop="20261015033117 +0200" channel="c33">
-    <title lang="ca">El triunfante</title>
-    <sub-title lang="ca">El triunfante</sub-title>
-    <desc lang="ca">El Triunfante era un navili de guerra de 70 canons, enfonsat al golf de Roses durant la defensa de Ciutadella de Roses contra el setge francès el 1795. Es tracta d'un dels derelictes més grans, mai excavat, de tot el patrimoni subaquàtic català. Seguint els testimonis d'historiadors, arqueòlegs i alguns dels protagonistes del seu descobriment, coneixerem les innovacions tecnològiques que l'enginyer i matemàtic Jorge Juan i Santacilia va introduir en la construcció naval espanyola del segle XVIII. Des de la seva troballa als anys 70 del segle XX, ha representat el paradigma de l'espoli que ha patit el patrimoni subaquàtic català durant dècades. Tanmateix, la informació de les seves restes servirà perquè l'equip d'arqueòlegs del Centre d'Arqueologia Subaquàtica de Catalunya (CASC), després de tres campanyes d'excavació subaquàtica, desvelin els seus secrets.</desc>
-    <length units="seconds">2998</length>
-    <episode-num system="onscreen">1</episode-num>
-    <category lang="ca">DIVULGACIÓ</category>
-    <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
+  <programme start="20261015062356 +0200" stop="20261015071454 +0200" channel="c33">
+    <title lang="ca">El Foraster</title>
+    <sub-title lang="ca">La Nou de Gaià</sub-title>
+    <desc lang="ca">Per primera vegada, 'El Foraster' viatja a la comarca del Tarragonès i ho fa per descobrir La Nou de Gaià, un dels municipis més petits de la comarca.Allà, en Quim coneixerà en Nan, un home a qui li agrada anar 'per fenya'. De la mà de les 'germanes Koplowitz', farà un tast de productes de proximitat. I també comprovarà com treballa en Pere, un saurí que es dedica a buscar aigua amb un pèndol que més aviat sembla un ventilador a plena potència. A La Nou, en Quim també coneixerà la història d'en Ricard, a qui la seva germana li va donar un ronyó que li va salvar la vida. A més, els joves del poble aprofitaran la visita del programa per passar una llista de peticions a l'alcaldessa, i el jutge de pau mirarà de demostrar, amb un èxit dubtós, les seves habilitats com a imitador. Finalment, a la petita sala de cinema d'en Josep Maria, en Quim descobrirà que la màgia del setè art continua sent molt i molt gran.</desc>
+    <length units="seconds">3058</length>
+    <episode-num system="onscreen">97</episode-num>
+    <category lang="ca">ENTRETENIMENT</category>
+    <category lang="ca">VARIETATS</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
-    <icon src="https://img.3cat.cat/multimedia/jpg/6/0/1749140405006.jpg"/>
   </programme>
-  <programme start="20261015033117 +0200" stop="20261015041812 +0200" channel="c33">
-    <title lang="ca">Aeroport</title>
-    <sub-title lang="ca">Plataforma</sub-title>
-    <desc lang="ca">Viatjar ja no és un luxe i els aeroports s'han convertit en les noves catedrals del món. Un formiguer ple d'històries, de passatgers i dels que hi treballen, com el Pau, capatàs de rampa, que ha d'esbrinar si el seu equip ha ratllat a un avió de 75 milions d'euros amb una escala.</desc>
-    <length units="seconds">2815</length>
-    <episode-num system="onscreen">16</episode-num>
+  <programme start="20261015071454 +0200" stop="20261015074354 +0200" channel="c33">
+    <title lang="ca">La sobretaula</title>
+    <sub-title lang="ca">Santa Susanna amb Ricard Torquemada</sub-title>
+    <desc lang="ca">La Sobretaula fa parada a Santa Susanna per descobrir un territori on l'esport, l'agricultura i el relleu familiar són part essencial del seu dia a dia. Ho fem acompanyats del periodista Ricard Torquemada, amb qui parlem d'arrels, continuïtat i compromís amb el territori.</desc>
+    <length units="seconds">1740</length>
+    <episode-num system="onscreen">3</episode-num>
     <category lang="ca">DIVULGACIÓ</category>
-    <category lang="ca">Docu-Entreteniment</category>
+    <category lang="ca">CUINA</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
