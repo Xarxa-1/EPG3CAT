@@ -3,23 +3,10 @@
   <channel id="tvi">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20261015233713 +0200" stop="20261016002432 +0200" channel="tvi">
-    <title lang="ca">Nervi</title>
-    <sub-title lang="ca">Encara que sigui mentida</sub-title>
-    <desc lang="ca">No us cregueu res d'aquest 'Nervi'. Sembla que mentim més que mai, però com sobrevivim sense fingir, sense inventar? En parlem amb la filòsofa Sira Abenoza, directora del Festival Clàssics; amb el dramaturg i director Jordi Oriol, i amb un expert caçador de farsants, el periodista Carles Tamayo. Que la mentida i les màscares a internet no sempre són de covards, ens explica el realitzador Albert Lloreta en un assaig visual, i descobrim amb Jana Jubert que encara no s'ha dit tot sobre 'La bola negra'. Fem safareig cultural amb Oriol Puig Taulé i Emma Zafón, i acabem amb el directe d'un mestre de la disfressa i l'autoparòdia, el cantautor Irieix.</desc>
-    <length units="seconds">2839</length>
-    <episode-num system="onscreen">89</episode-num>
-    <category lang="ca">ENTRETENIMENT</category>
-    <category lang="ca">ALTRES</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <previously-shown/>
-  </programme>
-  <programme start="20261016002432 +0200" stop="20261016042623 +0200" channel="tvi">
+  <programme start="20261016002433 +0200" stop="20261016020808 +0200" channel="tvi">
     <title lang="ca">Mésnit</title>
     <desc lang="ca">El 'Mésnit' arriba a la desena temporada, amb Marina Romero al capdavant de l'espai i amb la voluntat de continuar sent un centre de debat d'idees i d'anàlisi de l'activitat política.</desc>
-    <length units="seconds">14511</length>
+    <length units="seconds">6215</length>
     <episode-num system="onscreen">2180</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">DEBAT</category>
@@ -27,27 +14,41 @@
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <previously-shown/>
+  </programme>
+  <programme start="20261016020808 +0200" stop="20261016040000 +0200" channel="tvi">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="seconds">6712</length>
+    <episode-num system="onscreen">11444</episode-num>
+    <category lang="ca">ACTUALITAT</category>
+    <category lang="ca">INFORMATIU DIÀRI</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <previously-shown/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
   <channel id="324">
     <display-name>324</display-name>
   </channel>
-  <programme start="20261015220500 +0200" stop="20261016000000 +0200" channel="324">
-    <title lang="ca">Mésnit</title>
-    <desc lang="ca">El 'Mésnit' arriba a la desena temporada, amb Marina Romero al capdavant de l'espai i amb la voluntat de continuar sent un centre de debat d'idees i d'anàlisi de l'activitat política.</desc>
-    <length units="seconds">6900</length>
-    <episode-num system="onscreen">2180</episode-num>
+  <programme start="20261016010000 +0200" stop="20261016060000 +0200" channel="324">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="seconds">18000</length>
+    <episode-num system="onscreen">11444</episode-num>
     <category lang="ca">ACTUALITAT</category>
-    <category lang="ca">DEBAT</category>
+    <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <subtitles type="teletext"/>
+    <previously-shown/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
-  <programme start="20261016000000 +0200" stop="20261016003000 +0200" channel="324">
+  <programme start="20261016060000 +0200" stop="20261016080000 +0200" channel="324">
     <title lang="ca">Notícies 3CatInfo</title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">1800</length>
-    <episode-num system="onscreen">11443</episode-num>
+    <length units="seconds">7200</length>
+    <episode-num system="onscreen">11445</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
@@ -58,11 +59,11 @@
   <channel id="esport3">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20261015230000 +0200" stop="20261016003058 +0200" channel="esport3">
+  <programme start="20261016004838 +0200" stop="20261016021915 +0200" channel="esport3">
     <title lang="ca">Onze</title>
     <sub-title lang="ca">El gat amagat de Mou; 'El predicador' i 'El consultori'</sub-title>
     <desc lang="ca">David Bernabeu, Víctor Lozano, Aina Cerdà i Jordi Costa comenten la metàfora felina de Mourinho a la sala de premsa de la Roma. L'Òscar Pérez-Dolz predica els manaments del bon culer. En Sergi Ferrer respon les inquietuds dels espectadors de l'Onze.</desc>
-    <length units="seconds">5458</length>
+    <length units="seconds">5437</length>
     <episode-num system="onscreen">1269</episode-num>
     <category lang="ca">ESPORTS</category>
     <category lang="ca">MAGAZINE</category>
@@ -70,29 +71,31 @@
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
+    <previously-shown/>
     <icon src="https://img.ccma.cat/multimedia/jpg/1/1/1688543515711.jpg"/>
   </programme>
-  <programme start="20261016003058 +0200" stop="20261016005141 +0200" channel="esport3">
+  <programme start="20261016021915 +0200" stop="20261016023719 +0200" channel="esport3">
     <title lang="ca">3CatInfo Esports</title>
     <desc lang="ca">Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.</desc>
-    <length units="seconds">1243</length>
+    <length units="seconds">1084</length>
     <episode-num system="onscreen">5539</episode-num>
     <category lang="ca">ESPORTS</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
+    <previously-shown/>
     <icon src="https://img.ccma.cat/multimedia/jpg/9/7/1758888682179.jpg"/>
   </programme>
   <channel id="sx3">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20261015234634 +0200" stop="20261016000644 +0200" channel="sx3">
-    <title lang="ca">Els germans Kratt</title>
-    <sub-title lang="ca">Taques al desert</sub-title>
-    <desc lang="ca">El Chris està enfeinat organitzant els discos de poder animal, quan reben una trucada del Manuel, un dels membres de l'equip dels germans Kratt que viu al desert de Sonora. Diu que ha vist un ocelot vora casa seva. Un ocelot al desert? És molt estrany, ja que aquests felins salvatges acostumen a viure a la selva. L'equip dels germans Kratt es proposa una nova missió animal: trobar un ocelot al desert.</desc>
-    <length units="seconds">1210</length>
-    <episode-num system="onscreen">141</episode-num>
+  <programme start="20261016014211 +0200" stop="20261016020120 +0200" channel="sx3">
+    <title lang="ca">Viatges Pokémon</title>
+    <sub-title lang="ca">El germà gran al rescat!</sub-title>
+    <desc lang="ca">L'Ash i el Goh són al Parc Cirerer cuidant els Pokémon que hi viuen. També hi ha la Chloe fent fotos als Pokémon, i el Yamper amunt i avall ajudant a tothom. Llavors troben dos grups de Pokémon que es barallen perquè, com que l'aigua és bruta, hi ha un grup que se n'ha anat del seu lloc. Amb l'ajuda del Yamper, els nostres amics descobreixen la causa de la contaminació: un Grimer i el seu niu sota una cascada. ¿Com solucionaran el problema?</desc>
+    <length units="seconds">1149</length>
+    <episode-num system="onscreen">107</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
@@ -101,12 +104,12 @@
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20261016000644 +0200" stop="20261016002653 +0200" channel="sx3">
-    <title lang="ca">Els germans Kratt</title>
-    <sub-title lang="ca">El cérvol tossudet</sub-title>
-    <desc lang="ca">L'equip dels germans Kratt busca el Tossudet, un cervató que van ajudar fa uns anys, per veure com li van les coses. En la seva missió aprenen un munt de coses sobre la societat dels cérvols i la utilitat essencial de les banyes. I l'Aviva acaba fent dos discos de poder de cérvol de Virgínia.</desc>
-    <length units="seconds">1209</length>
-    <episode-num system="onscreen">142</episode-num>
+  <programme start="20261016020120 +0200" stop="20261016022117 +0200" channel="sx3">
+    <title lang="ca">Viatges Pokémon</title>
+    <sub-title lang="ca">Atrapant l'aura del destí!</sub-title>
+    <desc lang="ca">L'Ash s'entrena amb totes les seves forces pel combat d'entrada als vuit mestres que aviat haurà de fer contra el Roy. Quan veu que el Froakie evoluciona a Frogadier se li acut una idea. S'adona que la seva amistat amb el Lucario s'assembla al lligam que té amb el Greninja i se'n va a Kalos amb el Goh. Allà, troben el Greninja, que en el combat li dona cent voltes al Lucario. Però al final, el Lucario aprèn a concentrar els seus poders aurals i a connectar-se amb l'Ash a un nivell més pròxim. Quan unes arrels gegants ataquen els nostres amics, els Pokémon han de demostrar els seus punts forts.</desc>
+    <length units="seconds">1197</length>
+    <episode-num system="onscreen">108</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
@@ -118,28 +121,28 @@
   <channel id="c33">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20261015233320 +0200" stop="20261016002140 +0200" channel="c33">
-    <title lang="ca">Savis i sàvies</title>
-    <sub-title lang="ca">Carme Elias</sub-title>
-    <desc lang="ca">Va néixer a Barcelona, al barri del Camp de l'Arpa. Podria haver estat fornera o dependenta d'una merceria, però va decidir ser actriu. Amb més de quatre dècades de carrera, ha treballat amb els millors directors de l'Estat. Té un Goya i un Gaudí, el reconeixement del públic i la professió, i una de les mirades més lluminoses del nostre cinema. L'any 2022 li diagnostiquen Alzheimer i l'afronta com ha afrontat tots els reptes de la seva vida: amb valentia i humor. </desc>
-    <length units="seconds">2900</length>
-    <episode-num system="onscreen">112</episode-num>
-    <category lang="ca">DIVULGACIÓ</category>
-    <category lang="ca">ENTREVISTES</category>
+  <programme start="20261016014852 +0200" stop="20261016022500 +0200" channel="c33">
+    <title lang="ca">Diaris fotogràfics</title>
+    <sub-title lang="ca">Rita Puig-Serra</sub-title>
+    <desc lang="ca">Sinopsis capítol 4: Rita Puig-Serra</desc>
+    <length units="seconds">2168</length>
+    <episode-num system="onscreen">4</episode-num>
+    <category lang="ca">ENTRETENIMENT</category>
+    <category lang="ca">ALTRES</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20261016002140 +0200" stop="20261016011417 +0200" channel="c33">
-    <title lang="ca">Dibuixar pel canvi</title>
-    <sub-title lang="ca">Mèxic. Som foc</sub-title>
-    <desc lang="ca">A Mèxic, una desena de dones moren assassinades cada dia, i en els darrers sis anys s'ha triplicat el nombre de dones i nenes desaparegudes. Artistes com Mar Maremoto intenten trencar el silenci que ha minimitzat durant massa temps l'abast de la violència de gènere en aquest país. Compartint les seves obres d'art al seu compte d'Instagram, ofereix un espai segur per al seu públic i fins i tot es relaciona amb víctimes reals per conèixer a fons les seves experiències i proporcionar-los eines per afrontar-les i mecanismes d'autodefensa. A més a més, la pel·lícula intenta indagar els motius que s'amaguen rere aquest índex de feminicidis tan elevat i explorar vies per aconseguir un canvi real i acabar amb la impunitat dels agressors.</desc>
-    <length units="seconds">3157</length>
-    <episode-num system="onscreen">2</episode-num>
-    <category lang="ca">DIVULGACIÓ</category>
-    <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
+  <programme start="20261016022500 +0200" stop="20261016031625 +0200" channel="c33">
+    <title lang="ca">Ale-Hop!</title>
+    <sub-title lang="ca">La ciència del circ</sub-title>
+    <desc lang="ca">Quan parlem de circ, quines lleis de la física tracten conceptes com ara la gravetat, el centre de masses, la fricció o l'equilibri? Què té a veure la neurociència amb els espectacles de màgia? I la meteorologia?Totes aquestes preguntes tenen resposta en aquest capítol. Coneixerem la Mariona Moya, la Córcoles, una artista que va més enllà del funambulisme amb les seves improvisacions dalt d'un cable a més de cinc metres de terra.La Martina Covone ens sorprendrà amb el seu desafiament a la gravetat penjant-se de la corda llisa. I els Flying Pikmis ens mostraran un dels seus números, espectaculars, d'una disciplina en perill d'extinció: el trapezi doble. La nostra presentadora, la Laia Fontan, intentarà el seu primer salt al trapezi doble i també es deixarà portar per la màgia del reconegut i premiat Jordi Caps.I com no podia faltar en un programa de circ dedicat a la ciència, la Mariona Esquerda (@LaDimonideMaxwell) ens ajudarà a entendre algunes claus de la física sobre les especialitats circenses.</desc>
+    <length units="seconds">3085</length>
+    <episode-num system="onscreen">3</episode-num>
+    <category lang="ca">ENTRETENIMENT</category>
+    <category lang="ca">ALTRES</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
