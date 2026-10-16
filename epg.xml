@@ -3,80 +3,80 @@
   <channel id="tvi">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20261016080013 +0200" stop="20261016103000 +0200" channel="tvi">
-    <title lang="ca">Matins</title>
-    <desc lang="ca">'Matins' és un dels puntals informatius de TV3. El programa matinal dona les claus del dia que comença, explica les notícies que han passat aportant-ne el context per entendre-les i analitza amb veus acreditades l'actualitat més propera i la d'arreu del món. 'Matins' comença a les 8 del matí, de dilluns a divendres, i està presentat per Ariadna Oltra.</desc>
-    <length units="seconds">8987</length>
-    <episode-num system="onscreen">4693</episode-num>
+  <programme start="20261016143000 +0200" stop="20261016153000 +0200" channel="tvi">
+    <title lang="ca">Telenotícies migdia</title>
+    <length units="seconds">3600</length>
+    <episode-num system="onscreen">7360</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <icon src="https://img.ccma.cat/multimedia/jpg/2/0/1758040151402.jpg"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/5/4/1758025766345.jpg"/>
   </programme>
-  <programme start="20261016103000 +0200" stop="20261016135500 +0200" channel="tvi">
-    <title lang="ca">Tot es mou</title>
-    <desc lang="ca">El programa presentat per Helena Garcia Melero s'emet de dilluns a divendres, de 10.30 a 13.55. Un magazín d'actualitat que busca informar, analitzar i debatre sobre temes que marquen l'actualitat social, econòmica i cultural del dia, amb una àmplia presència en directe dels reporters i reporteres, repartits per tot Catalunya. A més, el 'Tot es mou' compta amb seccions diàries de gastronomia (amb els principals cuiners i cuineres del país), successos, economia, mobilitat, temes mèdics i de tecnologia, entre d'altres.</desc>
-    <length units="seconds">12300</length>
-    <episode-num system="onscreen">1830</episode-num>
-    <category lang="ca">ACTUALITAT</category>
-    <category lang="ca">MAGAZINE</category>
+  <programme start="20261016153000 +0200" stop="20261016155201 +0200" channel="tvi">
+    <title lang="ca">Cuines</title>
+    <sub-title lang="ca">Pastís de formatge i bolets</sub-title>
+    <desc lang="ca">Presentem unes postres per als que tenen ganes de postres, però no tenen ganes de sucre. Un pastís de formatge intens i de bolets secs.  </desc>
+    <length units="seconds">1321</length>
+    <episode-num system="onscreen">2122</episode-num>
+    <category lang="ca">DIVULGACIÓ</category>
+    <category lang="ca">CUINA</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
+    <previously-shown/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/2/5/1653464509252.jpg"/>
   </programme>
   <channel id="324">
     <display-name>324</display-name>
   </channel>
-  <programme start="20261016080000 +0200" stop="20261016103000 +0200" channel="324">
-    <title lang="ca">Matins</title>
-    <desc lang="ca">'Matins' és un dels puntals informatius de TV3. El programa matinal dona les claus del dia que comença, explica les notícies que han passat aportant-ne el context per entendre-les i analitza amb veus acreditades l'actualitat més propera i la d'arreu del món. 'Matins' comença a les 8 del matí, de dilluns a divendres, i està presentat per Ariadna Oltra.</desc>
-    <length units="seconds">9000</length>
-    <episode-num system="onscreen">4693</episode-num>
+  <programme start="20261016135500 +0200" stop="20261016143000 +0200" channel="324">
+    <title lang="ca">Telenotícies comarques</title>
+    <length units="seconds">2100</length>
+    <episode-num system="onscreen">7056</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <icon src="https://img.ccma.cat/multimedia/jpg/2/0/1758040151402.jpg"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/5/2/1758026313525.jpg"/>
   </programme>
-  <programme start="20261016103000 +0200" stop="20261016120000 +0200" channel="324">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">5400</length>
-    <episode-num system="onscreen">11446</episode-num>
+  <programme start="20261016143000 +0200" stop="20261016153000 +0200" channel="324">
+    <title lang="ca">Telenotícies migdia</title>
+    <length units="seconds">3600</length>
+    <episode-num system="onscreen">7360</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/5/4/1758025766345.jpg"/>
   </programme>
   <channel id="esport3">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20261016085315 +0200" stop="20261016100608 +0200" channel="esport3">
-    <title lang="ca">Handbol</title>
-    <sub-title lang="ca">Dinamo Bucarest-Barça / EHF Champions / J4</sub-title>
-    <desc lang="ca">Els barcelonistes juguen a Romania, contra un rival que encara no ha guanyat, amb l'objectiu de mantenir el liderat solitari del grup.</desc>
-    <length units="seconds">4373</length>
-    <episode-num system="onscreen">425</episode-num>
+  <programme start="20261016141820 +0200" stop="20261016153916 +0200" channel="esport3">
+    <title lang="ca">Esport Club</title>
+    <sub-title lang="ca">Flick, Manolo, Fran Fernández i Jessica Vall</sub-title>
+    <desc lang="ca">Hansi Flick i Manolo González, en les prèvies dels partits Betis-Barça i Espanyol-Atlètic de Madrid. Entrevistem Fran Fernández, entrenador del Zodiac Club Natació Atlètic-Barceloneta, i Jessica Vall, presidenta de la Comissió de Natació de la Federació Catalana. A la tertúlia ens acompanyen Nacho Peña, David Sánchez i Laia Cervelló.</desc>
+    <length units="seconds">4856</length>
+    <episode-num system="onscreen">3263</episode-num>
     <category lang="ca">ESPORTS</category>
-    <category lang="ca">RETRANSMISSIONS ESPORTS</category>
+    <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <previously-shown/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1729614070941.jpg"/>
+    <subtitles type="teletext"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/7/3/1698145091337.jpg"/>
   </programme>
-  <programme start="20261016100608 +0200" stop="20261016105628 +0200" channel="esport3">
-    <title lang="ca">Terreny personal</title>
-    <sub-title lang="ca">La Vall de Boí</sub-title>
-    <desc lang="ca">Aquest capítol ens porta a un territori tan idíl·lic com dur. De la presa de Cavallers al parc d'Aigüestortes i de Caldes fins a Coll, s'estén una petita vall pirinenca amb un paisatge espectacular. Alta muntanya, salts d'aigua i romànic... És la Vall de Boí.Tots els protagonistes d'aquest programa són gent de muntanya o s'hi han acabat tornant. Ells ens mostren els seus espais, els racons que han influït d'alguna manera en les seves decisions vitals.Enric Plaza, de Ca de Llúsia, va néixer a Durro i s'imaginava que passaria tota la vida fent de pastor als prats del voltant de casa, però ha acabat mirant-se la vall des del cel. Ara viu de volar en parapent.Cristina Castellà és de Barcelona però totes les vacances de la seva infantesa les va passar a Barruera. Al final ha aconseguit convertir el paradís estiuenc en casa seva. Lluís Farrero, de Ca de Coll, va marxar a estudiar a fora i va estar a punt de quedar-se a viure a la ciutat, però va decidir tornar a la vall i apostar per muntar-hi un negoci. Josep M. Rispa de ben jove va deixar el Pont de Suert per iniciar una prometedora carrera d'atleta, però la seva història va fer un gir i al Parc d'Aigüestortes va trobar la feina de la seva vida. A més d'aquests testimonis, també participen en aquest capítol els nens i nenes de l'Escola Vall de Boí de Barruera, que, a través de fotos fetes per ells mateixos, ens ensenyen els seus racons preferits. L'escriptora Núria Garcia Quera ens explica com el paisatge del Pirineu l'ha fet començar a escriure, i Bikimel grava sons naturals a l'alta muntanya per incorporar-los a les noves cançons.</desc>
-    <length units="seconds">3020</length>
-    <episode-num system="onscreen">12</episode-num>
+  <programme start="20261016153916 +0200" stop="20261016161128 +0200" channel="esport3">
+    <title lang="ca">GR Pirineus</title>
+    <sub-title lang="ca">Pura energia</sub-title>
+    <desc lang="ca">Avui el nostre viatge transcorrerà pel Pallars Jussà, des de la Vall Fosca fins a Tremp!Començarem a la capçalera de la Vall, a l'estany de Sallente, on primer pujarem amb el telefèric per visitar l'estany Gento i després baixarem a l'interior de la Terra per descobrir la central hidroelèctrica més gran de Catalunya. A partir d'aquí creuarem la Vall per anar fins al seu límit, Senterada, on tastarem la girella, l'embotit típic del Pallars i hi farem nit.L'endemà matinarem per visitar la Pobla de Segur i Salàs, el poble de les botigues. Passarem per Talarn, on ens endinsarem de ple en el món del vi, i acabarem la ruta a la capital, Tremp.En total, uns 50 quilòmetres, repartits en 2 jornades, fets a peu, amb cotxe i amb telefèric... </desc>
+    <length units="seconds">1932</length>
+    <episode-num system="onscreen">18</episode-num>
     <category lang="ca">DIVULGACIÓ</category>
     <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
     <rating>
@@ -84,34 +84,35 @@
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
+    <icon src="https://img.3cat.cat/multimedia/jpg/9/8/1736612891089.jpg"/>
   </programme>
   <channel id="sx3">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20261016091136 +0200" stop="20261016093423 +0200" channel="sx3">
-    <title lang="ca">Les Tres Bessones</title>
-    <sub-title lang="ca">Les tres bessones i les set cabretes</sub-title>
-    <desc lang="ca">Les bessones són enviades al popular conte de les set cabretes, però aquesta vegada el llop s'haurà de fer passar per repartidor de pizzes o venedor d'enciclopèdies, per no despertar les sospites de les cabretes que la mare ha deixat soles a casa.</desc>
-    <length units="seconds">1367</length>
-    <episode-num system="onscreen">44</episode-num>
+  <programme start="20261016142314 +0200" stop="20261016144247 +0200" channel="sx3">
+    <title lang="ca">Bola de drac Z</title>
+    <sub-title lang="ca">L'encanteri es trenca, en Bu està a punt de ressuscitar</sub-title>
+    <desc lang="ca">El combat entre en Son Goku i en Vegeta continua amb més potència que mai i l'energia que desprenen alimenta el monstre Bu, que encara és a dins de la bola que el té presoner. Quan tingui tota l'energia que li cal, podrà ressuscitar, i en Son Gohan i el déu Neptú no hi podran fer res per evitar-ho.</desc>
+    <length units="seconds">1173</length>
+    <episode-num system="onscreen">231</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
-      <value>INFANTIL</value>
+      <value>JUVENIL</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20261016093423 +0200" stop="20261016095516 +0200" channel="sx3">
-    <title lang="ca">Les Tres Bessones</title>
-    <sub-title lang="ca">Polzet</sub-title>
-    <desc lang="ca">En Polzet, els seus germans i les Bessones cauen en una trampa que els transporta al castell d'un ogre malvat. Però dues de les nenes aconsegueixen escapar-se i robar les botes de set llegües a l'ogre, unes botes que fan passes de gegant! Amb elles aniran a rescatar tots els seus germans i germanes…</desc>
-    <length units="seconds">1253</length>
-    <episode-num system="onscreen">4</episode-num>
+  <programme start="20261016144247 +0200" stop="20261016150357 +0200" channel="sx3">
+    <title lang="ca">Bola de drac Z</title>
+    <sub-title lang="ca">El poder d'en Son Gohan no pot fer res per evitar que en Bu ressusciti</sub-title>
+    <desc lang="ca">En Son Gohan ha atacat fins al final el monstre Bu per evitar que ressuscités, però no se n'ha sortit. Sorprenentment, en Bu és molt diferent del que s'esperaven tots, és un ésser gras de color rosa que no para de fer ximpleries. En Vegeta i en Son Gohan el veuen inofensiu, però en Son Goku i el déu Neptú saben que té un poder sense límits.</desc>
+    <length units="seconds">1270</length>
+    <episode-num system="onscreen">232</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
-      <value>INFANTIL</value>
+      <value>JUVENIL</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
@@ -119,33 +120,35 @@
   <channel id="c33">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20261016090622 +0200" stop="20261016095940 +0200" channel="c33">
-    <title lang="ca">Katalonski</title>
-    <sub-title lang="ca">Jerusalem</sub-title>
-    <desc lang="ca">El Halldor viatjarà a Jerusalem per conèixer la cultura hebrea amb 4 katalonskis molt intel·lectuals. Ilil Baum, una doctora en Filologia Romànica, l'endinsarà en el món dels manuscrits i li farà de guia per les Quatre Sinagogues Sefardites i la ciutat antiga de Jerusalem. Itai Elper, un jove estudiant de batxillerat de 20 anys, li explicarà com ha estat la seva experiència fent el servei militar obligatori, com fan tots els joves israelians, durant 3 anys. O Amir Aharoni, el director de la fundació Wikipedia, que l'introduirà en el món de la gastronomia local visitant el mercat de Mahane Yehuda, el més famós i vistós de Jerusalem. I Hanan Amoyual, que va descobrir el català gràcies a la novel·la de Mercè Rodoreda 'La plaça del Diamant', li explicarà com es viu sent gai a Jerusalem.</desc>
-    <length units="seconds">3198</length>
-    <episode-num system="onscreen">25</episode-num>
-    <category lang="ca">DIVULGACIÓ</category>
-    <category lang="ca">Docu-Entreteniment</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <subtitles type="teletext"/>
-    <previously-shown/>
-  </programme>
-  <programme start="20261016095940 +0200" stop="20261016102013 +0200" channel="c33">
-    <title lang="ca">Marcians</title>
-    <sub-title lang="ca">Un conte filosòfic amb Ferran Sáez</sub-title>
-    <desc lang="ca">El filòsof Ferran Sáez Mateu ens explica un conte filosòfic protagonitzat per ell mateix: ha d'enviar a l'espai una selecció d'objectes i idees per explicar als marcians qui som els humans.</desc>
-    <length units="seconds">1233</length>
+  <programme start="20261016140839 +0200" stop="20261016145527 +0200" channel="c33">
+    <title lang="ca">La Renaixença</title>
+    <sub-title lang="ca">El xiulet</sub-title>
+    <desc lang="ca">A qui no li agradaria tenir un xiulet a mà quan mira un partit per poder arbitrar com toca i no com fan aquells que es fan dir àrbitres? Qui no voldria tenir un xiulet al mig d'un embús per ensenyar a conduir la gent que agafa el cotxe sense saber-ne? Doncs dediquem el programa al xiulet. Parlem amb en Ramon Vallès, pilot d'avió, que ens ajuda a fer passar les nostres pors quan hem de volar. Sortim a passejar en Sugus, un gos de Molins de Rei, pels Rebomboris del Pa del 1789. </desc>
+    <length units="seconds">2808</length>
     <episode-num system="onscreen">49</episode-num>
-    <category lang="ca">ENTRETENIMENT</category>
+    <category lang="ca">DIVULGACIÓ</category>
     <category lang="ca">ALTRES</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/3/3/1756148014833.jpg"/>
+  </programme>
+  <programme start="20261016145527 +0200" stop="20261016154142 +0200" channel="c33">
+    <title lang="ca">La Renaixença</title>
+    <sub-title lang="ca">Millors moments - setmana 10</sub-title>
+    <desc lang="ca">Als quatre últims programes hem rebut la visita d'un tòtem de l'audiovisual català, un cirurgià cardiovascular, un grup de música de l'Empordà i un pilot d'avió. També hem parlat del dòmino, de la pua de guitarra, de la pastilla i del xiulet. I hem sortit a passejar amb en Jambo, el Senyor Mel, la Mini i en Maxi, i en Sugus. Aquí, hi trobareu una pinzellada de totes aquestes coses. Si us agrada, mireu els programes sencers, que també tenen gràcia.</desc>
+    <length units="seconds">2775</length>
+    <episode-num system="onscreen">50</episode-num>
+    <category lang="ca">DIVULGACIÓ</category>
+    <category lang="ca">ALTRES</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <subtitles type="teletext"/>
+    <previously-shown/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/3/3/1756148014833.jpg"/>
   </programme>
   <channel id="oca1">
     <display-name>OCA1</display-name>
