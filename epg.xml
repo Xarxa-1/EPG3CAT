@@ -3,30 +3,31 @@
   <channel id="tvi">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20261016002433 +0200" stop="20261016020808 +0200" channel="tvi">
-    <title lang="ca">Mésnit</title>
-    <desc lang="ca">El 'Mésnit' arriba a la desena temporada, amb Marina Romero al capdavant de l'espai i amb la voluntat de continuar sent un centre de debat d'idees i d'anàlisi de l'activitat política.</desc>
-    <length units="seconds">6215</length>
-    <episode-num system="onscreen">2180</episode-num>
-    <category lang="ca">ACTUALITAT</category>
-    <category lang="ca">DEBAT</category>
+  <programme start="20261016040000 +0200" stop="20261016045939 +0200" channel="tvi">
+    <title lang="ca">Blues a l'estudi</title>
+    <sub-title lang="ca">Blue Heart</sub-title>
+    <desc lang="ca">Xavier Soranells i la seva banda ens presenten el seu nou material. Un repertori en què sentirem blues rural, blues contemporani i alguns temes de textura més roquera. En cada tema Soranells i els seus busquen l'emoció, la intensitat i l'energia; evocant sons del rock-blues dels 60 i 70. L'acompanyen Eudald Boluda a la bateria i Miki Santamaria al baix, Abel Boquera als teclats i el mateix Xavier Soranells a la guitarra i veu.</desc>
+    <length units="seconds">3579</length>
+    <episode-num system="onscreen">20</episode-num>
+    <category lang="ca">MUSICALS</category>
+    <category lang="ca">ALTRES</category>
     <rating>
-      <value>TOTS ELS PÚBLICS</value>
+      <value>PÚBLIC ADULT</value>
     </rating>
     <previously-shown/>
   </programme>
-  <programme start="20261016020808 +0200" stop="20261016040000 +0200" channel="tvi">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">6712</length>
-    <episode-num system="onscreen">11444</episode-num>
-    <category lang="ca">ACTUALITAT</category>
-    <category lang="ca">INFORMATIU DIÀRI</category>
+  <programme start="20261016045939 +0200" stop="20261016060000 +0200" channel="tvi">
+    <title lang="ca">Jazz a l'estudi</title>
+    <sub-title lang="ca">Juliane Heinemann</sub-title>
+    <desc lang="ca">La cantant berlinesa Juliane Heinemann va arribar a Barcelona fa cinc anys atreta per la seva escena del jazz. Des d'aleshores no ha parat de tocar, sempre fidel al seu estil intimista, col.laborant amb altres bandes i als seus propis projectes. Ve acompanyada del guitarrista Jordi Matas, el contrabaixista Juan Pablo Balcázar i el bateria Carlos Falanga.</desc>
+    <length units="seconds">3621</length>
+    <episode-num system="onscreen">29</episode-num>
+    <category lang="ca">MUSICALS</category>
+    <category lang="ca">JAZZ</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <previously-shown/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
   <channel id="324">
     <display-name>324</display-name>
@@ -59,43 +60,44 @@
   <channel id="esport3">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20261016004838 +0200" stop="20261016021915 +0200" channel="esport3">
-    <title lang="ca">Onze</title>
-    <sub-title lang="ca">El gat amagat de Mou; 'El predicador' i 'El consultori'</sub-title>
-    <desc lang="ca">David Bernabeu, Víctor Lozano, Aina Cerdà i Jordi Costa comenten la metàfora felina de Mourinho a la sala de premsa de la Roma. L'Òscar Pérez-Dolz predica els manaments del bon culer. En Sergi Ferrer respon les inquietuds dels espectadors de l'Onze.</desc>
-    <length units="seconds">5437</length>
-    <episode-num system="onscreen">1269</episode-num>
-    <category lang="ca">ESPORTS</category>
-    <category lang="ca">MAGAZINE</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <subtitles type="teletext"/>
-    <previously-shown/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/1/1/1688543515711.jpg"/>
-  </programme>
-  <programme start="20261016021915 +0200" stop="20261016023719 +0200" channel="esport3">
-    <title lang="ca">3CatInfo Esports</title>
-    <desc lang="ca">Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.</desc>
-    <length units="seconds">1084</length>
-    <episode-num system="onscreen">5539</episode-num>
+  <programme start="20261016040756 +0200" stop="20261016053952 +0200" channel="esport3">
+    <title lang="ca">Tot Costa</title>
+    <sub-title lang="ca">El Barça pot regnar a Europa?</sub-title>
+    <desc lang="ca">El Barça va golejar el Galatasaray en un ambient hostil per als blaugranes. Ho analitzem amb Gerard Autet, Gemma Mallorca i Ferran Correas. Amb Laia Tudel i Ramon Salmurri repassem les bones dades dels blaugranes, i amb Marc Crosas valorem fins on pot arribar aquest Barça. També sabrem com ho van viure des de la banqueta del Galatasaray. Pel que fa al bàsquet, avui entrevista amb Pierre Oriola per parlar de què li passa al Manresa. </desc>
+    <length units="seconds">5516</length>
+    <episode-num system="onscreen">1021</episode-num>
     <category lang="ca">ESPORTS</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
+    <subtitles type="teletext"/>
     <previously-shown/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/9/7/1758888682179.jpg"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/0/4/1706209193140.jpg"/>
+  </programme>
+  <programme start="20261016053952 +0200" stop="20261016062824 +0200" channel="esport3">
+    <title lang="ca">Espòiler</title>
+    <sub-title lang="ca">El Ferrari Amalfi, el Volkswagen I.D. Polo, el Geely E2 i el programa Ford Adapta</sub-title>
+    <desc lang="ca">En aquest capítol gaudim al volant de l'impressionant Ferrari Amalfi, la proposta gran turisme de la marca italiana que arriba amb un motor V8 de 640 CV. També conduïm el Volkswagen I.D. Polo a les carreteres de l'Albufera de València, assistim a la presentació del nou Geely E2 i descobrim com és el Ford Puma ST adaptat que el pilot Marc Roma ha estrenat gràcies al programa Ford Adapta. </desc>
+    <length units="seconds">2912</length>
+    <episode-num system="onscreen">61</episode-num>
+    <category lang="ca">ESPORTS</category>
+    <category lang="ca">REPORTATGES</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <previously-shown/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/1/0/1698433593401.jpg"/>
   </programme>
   <channel id="sx3">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20261016014211 +0200" stop="20261016020120 +0200" channel="sx3">
-    <title lang="ca">Viatges Pokémon</title>
-    <sub-title lang="ca">El germà gran al rescat!</sub-title>
-    <desc lang="ca">L'Ash i el Goh són al Parc Cirerer cuidant els Pokémon que hi viuen. També hi ha la Chloe fent fotos als Pokémon, i el Yamper amunt i avall ajudant a tothom. Llavors troben dos grups de Pokémon que es barallen perquè, com que l'aigua és bruta, hi ha un grup que se n'ha anat del seu lloc. Amb l'ajuda del Yamper, els nostres amics descobreixen la causa de la contaminació: un Grimer i el seu niu sota una cascada. ¿Com solucionaran el problema?</desc>
-    <length units="seconds">1149</length>
-    <episode-num system="onscreen">107</episode-num>
+  <programme start="20261016043934 +0200" stop="20261016045104 +0200" channel="sx3">
+    <title lang="ca">La família Teixó-Guineu</title>
+    <sub-title lang="ca">El professor Edmond</sub-title>
+    <desc lang="ca">La mare del Pico ha fet una classe a la canalla perquè aprenguin a treure's les puces rebolcant-se al fang. El Timbal no hi ha participat, perquè no li agrada ni la pudor del fang ni les classes de la mare del Pico. Aleshores, el Pico, que s'ha enfadat una mica, els diu que l'Edmund és pitjor, perquè ell no els ha fet mai cap classe. I ja s'ha embolicat la troca!</desc>
+    <length units="seconds">690</length>
+    <episode-num system="onscreen">5</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
@@ -104,12 +106,12 @@
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20261016020120 +0200" stop="20261016022117 +0200" channel="sx3">
-    <title lang="ca">Viatges Pokémon</title>
-    <sub-title lang="ca">Atrapant l'aura del destí!</sub-title>
-    <desc lang="ca">L'Ash s'entrena amb totes les seves forces pel combat d'entrada als vuit mestres que aviat haurà de fer contra el Roy. Quan veu que el Froakie evoluciona a Frogadier se li acut una idea. S'adona que la seva amistat amb el Lucario s'assembla al lligam que té amb el Greninja i se'n va a Kalos amb el Goh. Allà, troben el Greninja, que en el combat li dona cent voltes al Lucario. Però al final, el Lucario aprèn a concentrar els seus poders aurals i a connectar-se amb l'Ash a un nivell més pròxim. Quan unes arrels gegants ataquen els nostres amics, els Pokémon han de demostrar els seus punts forts.</desc>
-    <length units="seconds">1197</length>
-    <episode-num system="onscreen">108</episode-num>
+  <programme start="20261016045104 +0200" stop="20261016050234 +0200" channel="sx3">
+    <title lang="ca">La família Teixó-Guineu</title>
+    <sub-title lang="ca">El dia de la mare</sub-title>
+    <desc lang="ca">És el dia de les mares, i totes, sense excepció, es reuneixen per parlar de la seva vida quotidiana. I mentre les mares xerren, els pares preparen el menjar pel sopar i la canalla un regal per elles. La Guineta decideix fer una figura de fang per a la Marguerite, però en Gatmoll i en Gatmoix li esguerren el regal.</desc>
+    <length units="seconds">690</length>
+    <episode-num system="onscreen">6</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
@@ -121,33 +123,34 @@
   <channel id="c33">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20261016014852 +0200" stop="20261016022500 +0200" channel="c33">
-    <title lang="ca">Diaris fotogràfics</title>
-    <sub-title lang="ca">Rita Puig-Serra</sub-title>
-    <desc lang="ca">Sinopsis capítol 4: Rita Puig-Serra</desc>
-    <length units="seconds">2168</length>
-    <episode-num system="onscreen">4</episode-num>
-    <category lang="ca">ENTRETENIMENT</category>
-    <category lang="ca">ALTRES</category>
+  <programme start="20261016040901 +0200" stop="20261016045709 +0200" channel="c33">
+    <title lang="ca">Aeroport</title>
+    <sub-title lang="ca">MWC i rics</sub-title>
+    <desc lang="ca">El Mobile World Congress augmenta la pressió de l'aeroport perquè en poques hores hi passen més de 50.000 persones. S'incrementen els vols privats i els passatgers VIPs disposen de tota mena de luxes a les sales exclusives, fins i tot, de perruqueria. VIPs i famosos que generen expectació, com Neymar quan arriba a la terminal.</desc>
+    <length units="seconds">2888</length>
+    <episode-num system="onscreen">17</episode-num>
+    <category lang="ca">DIVULGACIÓ</category>
+    <category lang="ca">Docu-Entreteniment</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20261016022500 +0200" stop="20261016031625 +0200" channel="c33">
-    <title lang="ca">Ale-Hop!</title>
-    <sub-title lang="ca">La ciència del circ</sub-title>
-    <desc lang="ca">Quan parlem de circ, quines lleis de la física tracten conceptes com ara la gravetat, el centre de masses, la fricció o l'equilibri? Què té a veure la neurociència amb els espectacles de màgia? I la meteorologia?Totes aquestes preguntes tenen resposta en aquest capítol. Coneixerem la Mariona Moya, la Córcoles, una artista que va més enllà del funambulisme amb les seves improvisacions dalt d'un cable a més de cinc metres de terra.La Martina Covone ens sorprendrà amb el seu desafiament a la gravetat penjant-se de la corda llisa. I els Flying Pikmis ens mostraran un dels seus números, espectaculars, d'una disciplina en perill d'extinció: el trapezi doble. La nostra presentadora, la Laia Fontan, intentarà el seu primer salt al trapezi doble i també es deixarà portar per la màgia del reconegut i premiat Jordi Caps.I com no podia faltar en un programa de circ dedicat a la ciència, la Mariona Esquerda (@LaDimonideMaxwell) ens ajudarà a entendre algunes claus de la física sobre les especialitats circenses.</desc>
-    <length units="seconds">3085</length>
-    <episode-num system="onscreen">3</episode-num>
-    <category lang="ca">ENTRETENIMENT</category>
+  <programme start="20261016045709 +0200" stop="20261016054337 +0200" channel="c33">
+    <title lang="ca">La Renaixença</title>
+    <sub-title lang="ca">El pluviòmetre</sub-title>
+    <desc lang="ca">El pluviòmetre és l'objecte protagonista d'aquest capítol. Es pot convertir en una obsessió (si és que plou), sobretot si ets dels que envia fotos a l'espai del Temps. Ens visita l'actor Toni Albà. No sabem com, però hem acabat fent una escena d''Els Pastorets' de Folch i Torres en ple mes de setembre. I portem a passejar el gos per l'accident de les 24 hores de Le Mans del 1955. Hi portem en Rex, un gos que va tenir... un accident automobilístic. </desc>
+    <length units="seconds">2788</length>
+    <episode-num system="onscreen">9</episode-num>
+    <category lang="ca">DIVULGACIÓ</category>
     <category lang="ca">ALTRES</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/3/3/1756148014833.jpg"/>
   </programme>
   <channel id="oca1">
     <display-name>OCA1</display-name>
