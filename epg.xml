@@ -3,65 +3,66 @@
   <channel id="tvi">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20261016143000 +0200" stop="20261016153000 +0200" channel="tvi">
-    <title lang="ca">Telenotícies migdia</title>
-    <length units="seconds">3600</length>
-    <episode-num system="onscreen">7360</episode-num>
-    <category lang="ca">ACTUALITAT</category>
-    <category lang="ca">INFORMATIU DIÀRI</category>
+  <programme start="20261016172935 +0200" stop="20261016191259 +0200" channel="tvi">
+    <title lang="ca">La Selva</title>
+    <desc lang="ca">Xavier Grasset presenta La Selva, el nou magazín d'entreteniment de les tardes de TV3. Un show d'autor on parlarem de tot de forma distesa i lliure, una trobada fixa a la nova cafeteria de la televisió pública catalana, regentada per la Mercè Fonoll (l'actriu i humorista, Anna Bertran). A La Selva sempre hi passen coses, és un món ple d'activitat on diverses espècies hi conviuen de forma lliure.Hi passaran Antoni Bassas, Montse Barderi, Fel Faixedas, Sílvia Bel, la Nina, en Biel Duran, l'Alba Alfageme o la Carlota Gurt, entre molts d'altres. Una trobada plena de coneixement i seguiment de l'actualitat, però també d'entreteniment. Els acompanyaran, per exemple fent recomanacions, Sergi Cutillas, amb la seva música de capçalera, en Godai García que ens apropa a la terra -amb una mirada molt pròpia- o la cuinera i influencer, Sofia Janer.A La Selva farem un repàs al què ha passat durant el dia i a la vida en general d'aquella manera única del Xavier Grasset acompanyat al sofà per la Maria Xinxó, la Núria Martínez o l'Ester Pagès. La resta de l'equip treballarà per explicar-vos el que ha passat dins i fora de La Selva, acostar-vos al territori i oferir-vos entreteniment, però sempre amb contingut. Cada dia hi haurà entrevistes, no hi faltaran els llibres, la cultura o històries humanes de tot tipus. I, a més, comptarem amb la participació del nostre públic. Us convidarem a jugar en un concurs diari, divertit i enginyós. Quan t'endinses a la Selva mai saps què t'hi pots acabar trobant!Cada tarda, et farem companyia a 3cat. Us espera una nova aventura plena de personatges interessants, converses, reflexions, descobriments i uns quants somriures. Sempre amb un ull posat a tot el que passa al nostre voltant. Quedem a La Selva!</desc>
+    <length units="seconds">6204</length>
+    <episode-num system="onscreen">431</episode-num>
+    <category lang="ca">ENTRETENIMENT</category>
+    <category lang="ca">MAGAZINE</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <icon src="https://img.ccma.cat/multimedia/jpg/5/4/1758025766345.jpg"/>
+    <icon src="https://img.3cat.cat/multimedia/jpg/6/3/1725871608136.jpg"/>
   </programme>
-  <programme start="20261016153000 +0200" stop="20261016155201 +0200" channel="tvi">
-    <title lang="ca">Cuines</title>
-    <sub-title lang="ca">Pastís de formatge i bolets</sub-title>
-    <desc lang="ca">Presentem unes postres per als que tenen ganes de postres, però no tenen ganes de sucre. Un pastís de formatge intens i de bolets secs.  </desc>
-    <length units="seconds">1321</length>
-    <episode-num system="onscreen">2122</episode-num>
-    <category lang="ca">DIVULGACIÓ</category>
-    <category lang="ca">CUINA</category>
+  <programme start="20261016191259 +0200" stop="20261016201314 +0200" channel="tvi">
+    <title lang="ca">Atrapa'm si pots</title>
+    <desc lang="ca">'Atrapa'm si pots' és un 'quiz show' clàssic, de preguntes i respostes, presentat per Llucià Ferrer, en què sis concursants competeixen per arribar a la fase final i guanyar el pot. 'Atrapa'm si pots' és entreteniment pur i on gairebé és més important passar-s'ho bé que els diners. És un concurs en què pesa més la intuïció que no els coneixements acadèmics, més l'estratègia en el joc que no la sort.</desc>
+    <length units="seconds">3615</length>
+    <episode-num system="onscreen">945</episode-num>
+    <category lang="ca">ENTRETENIMENT</category>
+    <category lang="ca">CONCURS</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <previously-shown/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/2/5/1653464509252.jpg"/>
   </programme>
   <channel id="324">
     <display-name>324</display-name>
   </channel>
-  <programme start="20261016135500 +0200" stop="20261016143000 +0200" channel="324">
-    <title lang="ca">Telenotícies comarques</title>
-    <length units="seconds">2100</length>
-    <episode-num system="onscreen">7056</episode-num>
-    <category lang="ca">ACTUALITAT</category>
-    <category lang="ca">INFORMATIU DIÀRI</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <icon src="https://img.ccma.cat/multimedia/jpg/5/2/1758026313525.jpg"/>
-  </programme>
-  <programme start="20261016143000 +0200" stop="20261016153000 +0200" channel="324">
-    <title lang="ca">Telenotícies migdia</title>
-    <length units="seconds">3600</length>
-    <episode-num system="onscreen">7360</episode-num>
+  <programme start="20261016183000 +0200" stop="20261016200000 +0200" channel="324">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="seconds">5400</length>
+    <episode-num system="onscreen">11450</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/5/4/1758025766345.jpg"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
+  </programme>
+  <programme start="20261016200000 +0200" stop="20261016210000 +0200" channel="324">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="seconds">3600</length>
+    <episode-num system="onscreen">11451</episode-num>
+    <category lang="ca">ACTUALITAT</category>
+    <category lang="ca">INFORMATIU DIÀRI</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <subtitles type="teletext"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
   <channel id="esport3">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20261016141820 +0200" stop="20261016153916 +0200" channel="esport3">
+  <programme start="20261016174211 +0200" stop="20261016185955 +0200" channel="esport3">
     <title lang="ca">Esport Club</title>
     <sub-title lang="ca">Flick, Manolo, Fran Fernández i Jessica Vall</sub-title>
     <desc lang="ca">Hansi Flick i Manolo González, en les prèvies dels partits Betis-Barça i Espanyol-Atlètic de Madrid. Entrevistem Fran Fernández, entrenador del Zodiac Club Natació Atlètic-Barceloneta, i Jessica Vall, presidenta de la Comissió de Natació de la Federació Catalana. A la tertúlia ens acompanyen Nacho Peña, David Sánchez i Laia Cervelló.</desc>
-    <length units="seconds">4856</length>
+    <length units="seconds">4664</length>
     <episode-num system="onscreen">3263</episode-num>
     <category lang="ca">ESPORTS</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
@@ -69,50 +70,49 @@
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
+    <previously-shown/>
     <icon src="https://img.ccma.cat/multimedia/jpg/7/3/1698145091337.jpg"/>
   </programme>
-  <programme start="20261016153916 +0200" stop="20261016161128 +0200" channel="esport3">
-    <title lang="ca">GR Pirineus</title>
-    <sub-title lang="ca">Pura energia</sub-title>
-    <desc lang="ca">Avui el nostre viatge transcorrerà pel Pallars Jussà, des de la Vall Fosca fins a Tremp!Començarem a la capçalera de la Vall, a l'estany de Sallente, on primer pujarem amb el telefèric per visitar l'estany Gento i després baixarem a l'interior de la Terra per descobrir la central hidroelèctrica més gran de Catalunya. A partir d'aquí creuarem la Vall per anar fins al seu límit, Senterada, on tastarem la girella, l'embotit típic del Pallars i hi farem nit.L'endemà matinarem per visitar la Pobla de Segur i Salàs, el poble de les botigues. Passarem per Talarn, on ens endinsarem de ple en el món del vi, i acabarem la ruta a la capital, Tremp.En total, uns 50 quilòmetres, repartits en 2 jornades, fets a peu, amb cotxe i amb telefèric... </desc>
-    <length units="seconds">1932</length>
-    <episode-num system="onscreen">18</episode-num>
-    <category lang="ca">DIVULGACIÓ</category>
-    <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
+  <programme start="20261016185955 +0200" stop="20261016202501 +0200" channel="esport3">
+    <title lang="ca">Tot Costa</title>
+    <desc lang="ca">Jordi Costa i Sònia Gelmà analitzen diàriament de manera rigorosa, però també amb un to desenfadat, tota l'actualitat esportiva.</desc>
+    <length units="seconds">5106</length>
+    <episode-num system="onscreen">1022</episode-num>
+    <category lang="ca">ESPORTS</category>
+    <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
-    <previously-shown/>
-    <icon src="https://img.3cat.cat/multimedia/jpg/9/8/1736612891089.jpg"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/0/4/1706209193140.jpg"/>
   </programme>
   <channel id="sx3">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20261016142314 +0200" stop="20261016144247 +0200" channel="sx3">
-    <title lang="ca">Bola de drac Z</title>
-    <sub-title lang="ca">L'encanteri es trenca, en Bu està a punt de ressuscitar</sub-title>
-    <desc lang="ca">El combat entre en Son Goku i en Vegeta continua amb més potència que mai i l'energia que desprenen alimenta el monstre Bu, que encara és a dins de la bola que el té presoner. Quan tingui tota l'energia que li cal, podrà ressuscitar, i en Son Gohan i el déu Neptú no hi podran fer res per evitar-ho.</desc>
-    <length units="seconds">1173</length>
-    <episode-num system="onscreen">231</episode-num>
+  <programme start="20261016185420 +0200" stop="20261016191557 +0200" channel="sx3">
+    <title lang="ca">Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
+    <sub-title lang="ca">Riginarazione</sub-title>
+    <desc lang="ca">Quan s'acosta el 75è aniversari dels seus avis, la Marinette rep una notícia que trasbalsarà la seva vida i la de la seva família.</desc>
+    <length units="seconds">1297</length>
+    <episode-num system="onscreen">150</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
-      <value>JUVENIL</value>
+      <value>INFANTIL</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20261016144247 +0200" stop="20261016150357 +0200" channel="sx3">
-    <title lang="ca">Bola de drac Z</title>
-    <sub-title lang="ca">El poder d'en Son Gohan no pot fer res per evitar que en Bu ressusciti</sub-title>
-    <desc lang="ca">En Son Gohan ha atacat fins al final el monstre Bu per evitar que ressuscités, però no se n'ha sortit. Sorprenentment, en Bu és molt diferent del que s'esperaven tots, és un ésser gras de color rosa que no para de fer ximpleries. En Vegeta i en Son Gohan el veuen inofensiu, però en Son Goku i el déu Neptú saben que té un poder sense límits.</desc>
-    <length units="seconds">1270</length>
-    <episode-num system="onscreen">232</episode-num>
+  <programme start="20261016191557 +0200" stop="20261016193800 +0200" channel="sx3">
+    <title lang="ca">Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
+    <sub-title lang="ca">Capgiracors</sub-title>
+    <desc lang="ca">Convençuts que poden destruir la representació més bonica del que és l'Amor, en Nelson, en Loïc i en Ray decideixen deixar-se akumatitzar per trencar la parella que formen la Marinette i l'Adrien. Serà prou fort l'amor de tots dos per resistir als enganys dels supermalvats?</desc>
+    <length units="seconds">1323</length>
+    <episode-num system="onscreen">151</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
-      <value>JUVENIL</value>
+      <value>INFANTIL</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
@@ -120,35 +120,37 @@
   <channel id="c33">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20261016140839 +0200" stop="20261016145527 +0200" channel="c33">
-    <title lang="ca">La Renaixença</title>
-    <sub-title lang="ca">El xiulet</sub-title>
-    <desc lang="ca">A qui no li agradaria tenir un xiulet a mà quan mira un partit per poder arbitrar com toca i no com fan aquells que es fan dir àrbitres? Qui no voldria tenir un xiulet al mig d'un embús per ensenyar a conduir la gent que agafa el cotxe sense saber-ne? Doncs dediquem el programa al xiulet. Parlem amb en Ramon Vallès, pilot d'avió, que ens ajuda a fer passar les nostres pors quan hem de volar. Sortim a passejar en Sugus, un gos de Molins de Rei, pels Rebomboris del Pa del 1789. </desc>
-    <length units="seconds">2808</length>
-    <episode-num system="onscreen">49</episode-num>
-    <category lang="ca">DIVULGACIÓ</category>
+  <programme start="20261016183632 +0200" stop="20261016190612 +0200" channel="c33">
+    <title lang="ca">Tot torna</title>
+    <sub-title lang="ca">1999</sub-title>
+    <desc lang="ca">Repassem el 1999, l'any que el planeta entra en psicosi per l'arribada del canvi de mil·lenni mentre Catalunya queda inundada d'aigua i de Furbys. A més, Van Gaal perd els nervis i dues creacions catalanes ho revolucionen tot: el 'come kaca' i 'Plats bruts'.</desc>
+    <length units="seconds">1780</length>
+    <episode-num system="onscreen">2</episode-num>
+    <category lang="ca">ENTRETENIMENT</category>
     <category lang="ca">ALTRES</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/3/3/1756148014833.jpg"/>
   </programme>
-  <programme start="20261016145527 +0200" stop="20261016154142 +0200" channel="c33">
-    <title lang="ca">La Renaixença</title>
-    <sub-title lang="ca">Millors moments - setmana 10</sub-title>
-    <desc lang="ca">Als quatre últims programes hem rebut la visita d'un tòtem de l'audiovisual català, un cirurgià cardiovascular, un grup de música de l'Empordà i un pilot d'avió. També hem parlat del dòmino, de la pua de guitarra, de la pastilla i del xiulet. I hem sortit a passejar amb en Jambo, el Senyor Mel, la Mini i en Maxi, i en Sugus. Aquí, hi trobareu una pinzellada de totes aquestes coses. Si us agrada, mireu els programes sencers, que també tenen gràcia.</desc>
-    <length units="seconds">2775</length>
-    <episode-num system="onscreen">50</episode-num>
+  <programme start="20261016190612 +0200" stop="20261016195822 +0200" channel="c33">
+    <title lang="ca">És a l'aire</title>
+    <sub-title lang="ca">És a l'aire</sub-title>
+    <desc lang="ca">'ÉS A L'AIRE' (2019), una producció de Un Capricho de Producciones, S.L. en coproducció amb Televisió de Catalunya, amb el suport de Col·lectiu Ronda, l'Ajuntament del Morell i l'Ajuntament de Vilallonga del Camp.Segons l'Agència Europea del Medi Ambient, el principal focus contaminant de l'aire que respirem no és el trànsit, sinó la indústria. Al centre del Camp de Tarragona, s'hi aixeca el Complex Petroquímic de Tarragona. L'any 2012, un equip de la Universitat Politècnica de Catalunya, dirigit per Francesc Xavier Roca, va fer un estudi independent sobre la qualitat de l'aire del territori. Els resultats indicaven la presència de nivells molt alts de diferents tipus de gasos tòxics que poden arribar a provocar càncer. L'any 2015, un altre estudi d'aquest equip confirmava la presència a l'aire de substàncies malignes per a la salut. A finals de 2018, aquests científics emprenen un nou estudi sobre la contaminació atmosfèrica en aquest territori.Equip tècnicDirecció i realització: Christophe Sion / Santi SuárezGuió: Santi SuárezProductor: Belén Sánchez i Santi SuárezProductor executiu TVC: Jordi AmbròsProductor delegat TVC: Daniel BareaDirector fotografia: Christophe DesplanquesMuntatge: Carlos Prieto i Anaïs UrracaDirector de producció: Agnès BatlloriMúsica: David Pastor i Mario RoldánLingüista: Judit TerratsGrafisme: Adriana Perón i Kote BerberechoVeu en off: Núria Deulofeu</desc>
+    <credits>
+      <writer>Santi Suárez</writer>
+    </credits>
+    <length units="seconds">3130</length>
+    <episode-num system="onscreen">1</episode-num>
     <category lang="ca">DIVULGACIÓ</category>
-    <category lang="ca">ALTRES</category>
+    <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/3/3/1756148014833.jpg"/>
+    <icon src="https://img.3cat.cat/multimedia/jpg/3/5/1732015987253.jpg"/>
   </programme>
   <channel id="oca1">
     <display-name>OCA1</display-name>
@@ -159,6 +161,18 @@
   <channel id="oca3">
     <display-name>OCA3</display-name>
   </channel>
+  <programme start="20261016185000 +0200" stop="20261016202455 +0200" channel="oca3">
+    <title lang="ca">Tot Costa</title>
+    <desc lang="ca">El Barça juga aquest dissabte contra el Betis. Amb Raphinha i De Jong? Ens ho explicarà Ramon Salmurri i ho analitzarem amb Bernat Soler, Gemma Herrero i Oriol Domènech. També entrevistarem Ángel Cuéllar, exjugador de tots dos equips, i amb Laia Tudel sabrem què ha dit l'agent de Nico Williams sobre el seu no fitxatge pel Barça. La 'caçatalents' Andrea Orts ens parlarà dels davanters de moda i també parlarem del Madrid. Escalfant l'ambient per al clàssic?</desc>
+    <length units="seconds">5095</length>
+    <episode-num system="onscreen">1022</episode-num>
+    <category lang="ca">ESPORTS</category>
+    <category lang="ca">INFORMATIU DIÀRI</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <icon src="https://img.ccma.cat/multimedia/jpg/0/4/1706209193140.jpg"/>
+  </programme>
   <channel id="oca4">
     <display-name>OCA4</display-name>
   </channel>
