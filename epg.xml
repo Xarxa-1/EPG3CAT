@@ -3,28 +3,14 @@
   <channel id="tvi">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20261017170033 +0200" stop="20261017175944 +0200" channel="tvi">
-    <title lang="ca">Infidels</title>
-    <sub-title lang="ca">Infidels</sub-title>
-    <desc lang="ca">La Paula no es troba bé i ha anul·lat les sessions amb el sanador. En Marc se'n cuida com pot. La Maria topa amb en Marc, l'exmarit de la Paula, i per casualitat i li explica que ella i el nen ho estan passant fatal. La Lídia recupera la seva activitat de restaurar mobles. Tot i que ella no l'hi explica del tot, l'Albert descobreix amb ràbia que la psiquiatra manté una relació amb en Toni. La Joana no es pot treure del cap que en Peter hagués fet d'actor porno, però procura fer veure que no ho sap i ser feliç. L'Arlet menteix a la feina per passar més temps amb en Dani. La Cruz, destrossada per la ruptura amb l'Eduard, fa vida a la oficina per no estar-se sola a casa.</desc>
-    <length units="seconds">3551</length>
-    <episode-num system="onscreen">12</episode-num>
-    <category lang="ca">FICCIÓ</category>
-    <category lang="ca">TELESÈRIE</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <subtitles type="teletext"/>
-    <previously-shown/>
-  </programme>
-  <programme start="20261017175944 +0200" stop="20261017182401 +0200" channel="tvi">
-    <title lang="ca">Jet lag</title>
-    <sub-title lang="ca">CLAUSURA</sub-title>
-    <desc lang="ca">La Mariona rep la visita del seu exnòvio, que està molt content i a punt de casar-se amb una noia. La Mariona li diu que ella també està molt contenta amb el seu nòvio actual... el Mario. Però el Mario no serà l'única persona que la Mariona involucrarà amb les seves mentides. La Sílvia, per la seva banda, serà víctima d'un enquestador sense escrúpols. Actors convidats: Eduard Farelo, Cati Solivellas i Carles Martínez.</desc>
-    <length units="seconds">1457</length>
-    <episode-num system="onscreen">18</episode-num>
-    <category lang="ca">FICCIÓ</category>
-    <category lang="ca">TELESÈRIE</category>
+  <programme start="20261017194537 +0200" stop="20261017201157 +0200" channel="tvi">
+    <title lang="ca">Salut i muntanyes</title>
+    <sub-title lang="ca">Caregue</sub-title>
+    <desc lang="ca">La Clàudia Bellera viu a Caregue al Pallars Sobirà. Han hagut de passar catorze generacions, perquè una dona ostenti el títol d'hereva de Casa Bellera. La reportera Eva Clausó Estival l'anirà a visitar per descobrir més coses de la història d'aquesta família. Després pujarà fins al Santuari de la Mare de Déu de la Muntanya, el símbol de la Vall d'Àssua, on demanarà un desig. I acabarà l'aventura visitant Seurí on l'espera l'Eva, una veïna del poble, que li explicarà algunes curiositats del com la cançó del rucs i els gitanos. També entrarà a l'església de Seurí, on l'artista català Santi Moix hi ha deixat la seva empremta, situant-la en el mapa internacional de l'art contemporani. </desc>
+    <length units="seconds">1580</length>
+    <episode-num system="onscreen">4</episode-num>
+    <category lang="ca">DIVULGACIÓ</category>
+    <category lang="ca">ALTRES</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
@@ -34,11 +20,11 @@
   <channel id="324">
     <display-name>324</display-name>
   </channel>
-  <programme start="20261017163000 +0200" stop="20261017183000 +0200" channel="324">
+  <programme start="20261017200000 +0200" stop="20261017210000 +0200" channel="324">
     <title lang="ca">Notícies 3CatInfo</title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">7200</length>
-    <episode-num system="onscreen">11457</episode-num>
+    <length units="seconds">3600</length>
+    <episode-num system="onscreen">11459</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
@@ -47,41 +33,26 @@
     <subtitles type="teletext"/>
     <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
-  <programme start="20261017183000 +0200" stop="20261017200000 +0200" channel="324">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">5400</length>
-    <episode-num system="onscreen">11458</episode-num>
+  <programme start="20261017210000 +0200" stop="20261017230000 +0200" channel="324">
+    <title lang="ca">Telenotícies vespre</title>
+    <length units="seconds">7200</length>
+    <episode-num system="onscreen">7360</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/7/2/1758026176427.jpg"/>
   </programme>
   <channel id="esport3">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20261017173000 +0200" stop="20261017182544 +0200" channel="esport3">
-    <title lang="ca">Gol a gol</title>
-    <sub-title lang="ca">Prèvia Betis-Barça / J9</sub-title>
-    <desc lang="ca">'Gol a gol' us ofereix els resums dels partits de futbol de Primera i Segona Divisió. Presentat per Jordi Grau a Esport3, cada dissabte i cada diumenge podeu veure les millors imatges de la jornada de Lliga amb l'anàlisi dels experts, amb especial atenció als equips catalans, sobretot el Barça, el Girona i l'Espanyol.</desc>
-    <length units="seconds">3344</length>
-    <episode-num system="onscreen">1789</episode-num>
-    <category lang="ca">ESPORTS</category>
-    <category lang="ca">MAGAZINE</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <subtitles type="teletext"/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/2/1/1698144123212.jpg"/>
-  </programme>
-  <programme start="20261017182544 +0200" stop="20261017202626 +0200" channel="esport3">
+  <programme start="20261017182513 +0200" stop="20261017202556 +0200" channel="esport3">
     <title lang="ca">Un dia de partit</title>
     <sub-title lang="ca">Betis-Barça</sub-title>
     <desc lang="ca">A 'Un dia de partit' arreglem el Barça. O no. A cada partit, sis culers hi diuen la seva. Famosos i anònims. Cadascun a casa seva. Davant del televisor. Tot a base de videotrucades, en format Twitch i en rigorós directe. Ah! I a la mitja part no aturem màquines. Amb els jugadors als vestidors, nosaltres seguim fent bullir l'olla! Només sis culers? Negatiu. Durant el partit van apareixent els Jimmy Jump: els espontanis que demanen saltar a 'Un dia de partit' via WhatsApp.</desc>
-    <length units="seconds">7242</length>
+    <length units="seconds">7243</length>
     <episode-num system="onscreen">254</episode-num>
     <category lang="ca">ESPORTS</category>
     <category lang="ca">RETRANSMISSIONS ESPORTS</category>
@@ -90,44 +61,60 @@
     </rating>
     <icon src="https://img.ccma.cat/multimedia/jpg/2/7/1678885232972.jpg"/>
   </programme>
+  <programme start="20261017202556 +0200" stop="20261017213322 +0200" channel="esport3">
+    <title lang="ca">Gol a gol</title>
+    <sub-title lang="ca">Post Betis-Barça / J9</sub-title>
+    <desc lang="ca">'Gol a gol' us ofereix els resums dels partits de futbol de Primera i Segona Divisió. Presentat per Jordi Grau a Esport3, cada dissabte i cada diumenge podeu veure les millors imatges de la jornada de Lliga amb l'anàlisi dels experts, amb especial atenció als equips catalans, sobretot el Barça, el Girona i l'Espanyol.</desc>
+    <length units="seconds">4046</length>
+    <episode-num system="onscreen">1790</episode-num>
+    <category lang="ca">ESPORTS</category>
+    <category lang="ca">MAGAZINE</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <subtitles type="teletext"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/2/1/1698144123212.jpg"/>
+  </programme>
   <channel id="sx3">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20261017174955 +0200" stop="20261017175624 +0200" channel="sx3">
-    <title lang="ca">En Grizzy i els Lèmmings</title>
-    <sub-title lang="ca">Bojos pel gel!</sub-title>
-    <desc lang="ca">En plena onada de calor, en Grizzy i els Lèmmings es barallen per l'ús de la nevera: els rosegadors volen convertir-se en glaçons per lliscar per la seva pista de supercúrling i, en canvi, en Grizzy simplement vol estirar-s'hi dins, ben fresquet. Acaben partint l'electrodomèstic en dos, però els Lèmmings descobreixen un contenidor refrigerant que els permet continuar la partida de cúrling enmig de la sabana. Però en Grizzy encara no ha renunciat a la idea de descansar en un lloc ben fred!</desc>
-    <length units="seconds">389</length>
-    <episode-num system="onscreen">206</episode-num>
+  <programme start="20261017195500 +0200" stop="20261017201530 +0200" channel="sx3">
+    <title lang="ca">El detectiu Conan</title>
+    <sub-title lang="ca">La càpsula del temps de l'Akemi Miyano (1a part)</sub-title>
+    <desc lang="ca">En Conan, la Haibara, l'Ayumi, en Genta i en Mitsuhiko van a l'escola un diumenge perquè els toca cuidar els animals. Allà troben tres antics alumnes que hi han anat a desenterrar una càpsula del temps. Per saber on està enterrada, hauran de desxifrar un enigma ideat per l'Akemi Miyano, la germana de la Haibara.</desc>
+    <length units="seconds">1230</length>
+    <episode-num system="onscreen">1150</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
       <value>INFANTIL</value>
     </rating>
+    <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20261017175624 +0200" stop="20261017180254 +0200" channel="sx3">
-    <title lang="ca">En Grizzy i els Lèmmings</title>
-    <sub-title lang="ca">Lèmmings elementals</sub-title>
-    <desc lang="ca">En Grizzy descobreix per casualitat un antic medalló indi amb un símbol de vent inscrit que dona a aquell que el porta el poder de dominar els corrents d'aire. Per al nostre os panxacontent, és ideal per controlar-ho tot a distància sense haver d'aixecar-se del sofà.Per als lèmmings, en canvi, serveix per inventar jocs nous d'allò més al·lucinants i esbojarrats.</desc>
-    <length units="seconds">390</length>
-    <episode-num system="onscreen">142</episode-num>
+  <programme start="20261017201530 +0200" stop="20261017203833 +0200" channel="sx3">
+    <title lang="ca">El detectiu Conan</title>
+    <sub-title lang="ca">La càpsula del temps de l'Akemi Miyano (2a part)</sub-title>
+    <desc lang="ca">En Conan, la Haibara, l'Ayumi, en Genta i en Mitsuhiko van a l'escola, on troben tres antics alumnes que han vingut a desenterrar una càpsula del temps. Per saber on està enterrada hauran de desxifrar un enigma ideat per l'Akemi Miyano, la germana de la Haibara. La càpsula del temps també conté un missatge per a la Haibara de la seva germana.</desc>
+    <length units="seconds">1383</length>
+    <episode-num system="onscreen">1151</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
       <value>INFANTIL</value>
     </rating>
+    <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
   <channel id="c33">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20261017175258 +0200" stop="20261017183739 +0200" channel="c33">
+  <programme start="20261017192213 +0200" stop="20261017200654 +0200" channel="c33">
     <title lang="ca">Els habitants de la fi del món</title>
-    <sub-title lang="ca">Colòmbia</sub-title>
-    <desc lang="ca">Acompanyem l'experimentat Ben Fogle en la seva visita a la música Vanessa Forero (39), on esbrinarà què va portar la seva amfitriona a abandonar el seu Yorkshire natal per viure en una remota muntanya a Sud-amèrica. Coneixerà els esdeveniments que vinculen la Vanessa al passat violent de Colòmbia, i descobrirà com la preciosa llar que s'ha construït l'ajuda a guarir-se les ferides. En Ben es troba amb la Vanessa a les profunditats de la Sierra Nevada de Santa Marta, una serralada aïllada al nord del país. Allà descobreix la seva llar màgica, una antiga pastura descuidada convertida en un idíl·lic santuari de muntanya.Junts, s'encarreguen de fer millores a la llar i al vessant escarpat de la muntanya, des d'un telefèric nou fins a la construcció de parets; i també reben la visita d'un líder indígena. En Ben ajuda la Vanessa a compondre música i escolta una de les històries de supervivència més extraordinàries que ha sentit mai.</desc>
+    <sub-title lang="ca">Tailàndia</sub-title>
+    <desc lang="ca">Acompanyem en Ben al sud-est asiàtic per conèixer en Niall, un emprenedor que va deixar la seva carrera prometedora per anar-se'n a les platges de Tailàndia a ajudar els gossos de carrer que, a la vegada, l'han salvat a ell. En Ben es troba amb el seu amfitrió al seu tros de selva salvatge i al santuari per a gossos que ell mateix ha construït a l'illa de Koh Samui. En Ben passa uns dies amb voluntaris i altres vilatans amants dels gossos i els ajuda amb les tasques diàries, prepara menjar per a 800 gossos i acompanyà en Niall a fer rondes per la muntanya per alimentar-los. La parella construeix llits per a gossos amb bidons d'oli i una piscina canina mentre en Ben s'assabenta que el seu amfitrió era un xef expert en xarxes socials que voltava pel món. També descobreix que en Niall va estar a punt de morir, i la visita del seu pare confirma que ha trobat la seva autèntica vocació amb una ambició que no té límits.</desc>
     <length units="seconds">2681</length>
-    <episode-num system="onscreen">70</episode-num>
+    <episode-num system="onscreen">72</episode-num>
     <category lang="ca">DIVULGACIÓ</category>
     <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
     <rating>
@@ -136,12 +123,12 @@
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20261017183739 +0200" stop="20261017192213 +0200" channel="c33">
-    <title lang="ca">Els habitants de la fi del món</title>
-    <sub-title lang="ca">Irlanda</sub-title>
-    <desc lang="ca">En Ben viatja a l'illa Great Blasket, a la costa irlandesa. Allà passa uns dies amb en Dan i l'Emily, una parella londinenca que tenen una feina extraordinària: són els cuidadors de les illes de l'irregular frontera occidental d'Europa. Per aconseguir-la, han hagut de superar 40.000 candidats més. En Ben és testimoni de l'adaptació de la parella a la vida aïllada, tot el que han aconseguit sense cap mena d'experiència i, també, on els pot conduir aquest salt de fe. En Ben arregla una bomba d'aigua, agafa ovelles, recull algues i neda amb foques a les aigües clares de l'Atlàntic. També coneix el passat extraordinari de l'illa i l'home que va triar en Dan i l'Emily per dirigir l'illa, amb qui recorren el camí precari que cal fer per aconseguir subministraments per a l'illa. Envoltat de penya-segats i batut per les tempestes, en Ben s'adona que l'illa Great Blasket és un lloc que nodreix l'esperit i ens recorda el poder de la natura.</desc>
-    <length units="seconds">2674</length>
-    <episode-num system="onscreen">71</episode-num>
+  <programme start="20261017200654 +0200" stop="20261017205946 +0200" channel="c33">
+    <title lang="ca">Dibuixar pel canvi</title>
+    <sub-title lang="ca">Mèxic. Som foc</sub-title>
+    <desc lang="ca">A Mèxic, una desena de dones moren assassinades cada dia, i en els darrers sis anys s'ha triplicat el nombre de dones i nenes desaparegudes. Artistes com Mar Maremoto intenten trencar el silenci que ha minimitzat durant massa temps l'abast de la violència de gènere en aquest país. Compartint les seves obres d'art al seu compte d'Instagram, ofereix un espai segur per al seu públic i fins i tot es relaciona amb víctimes reals per conèixer a fons les seves experiències i proporcionar-los eines per afrontar-les i mecanismes d'autodefensa. A més a més, la pel·lícula intenta indagar els motius que s'amaguen rere aquest índex de feminicidis tan elevat i explorar vies per aconseguir un canvi real i acabar amb la impunitat dels agressors.</desc>
+    <length units="seconds">3172</length>
+    <episode-num system="onscreen">2</episode-num>
     <category lang="ca">DIVULGACIÓ</category>
     <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
     <rating>
@@ -156,22 +143,20 @@
   <channel id="oca2">
     <display-name>OCA2</display-name>
   </channel>
-  <programme start="20261017174000 +0200" stop="20261017192500 +0200" channel="oca2">
-    <title lang="ca">Hoquei patins</title>
-    <sub-title lang="ca">- Barça-CP Voltregà / Lliga Catalana / 2a Semifinal</sub-title>
-    <desc lang="ca">El FC Barcelona i el CP Voltregà Movento Stern s'enfronten a la segona semifinal de la Lliga Catalana d'hoquei patins.</desc>
-    <length units="seconds">5700</length>
-    <episode-num system="onscreen">8144</episode-num>
-    <category lang="ca">ESPORTS</category>
-    <category lang="ca">RETRANSMISSIONS ESPORTS</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <icon src="https://img.3cat.cat/multimedia/jpg/5/7/1758291200775.jpg"/>
-  </programme>
   <channel id="oca3">
     <display-name>OCA3</display-name>
   </channel>
+  <programme start="20261017200419 +0200" stop="20261017210414 +0200" channel="oca3">
+    <title lang="ca">L'última hora de l'alerta per pluja intensa</title>
+    <length units="seconds">3595</length>
+    <episode-num system="onscreen">4187</episode-num>
+    <category lang="ca">ACTUALITAT</category>
+    <category lang="ca">RETRANSMISSIONS ACTUALITAT</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <icon src="https://img.ccma.cat/multimedia/jpg/6/2/1723647268726.jpg"/>
+  </programme>
   <channel id="oca4">
     <display-name>OCA4</display-name>
   </channel>
