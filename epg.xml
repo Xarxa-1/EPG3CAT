@@ -3,36 +3,34 @@
   <channel id="tvi">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20261017194537 +0200" stop="20261017201157 +0200" channel="tvi">
-    <title lang="ca">Salut i muntanyes</title>
-    <sub-title lang="ca">Caregue</sub-title>
-    <desc lang="ca">La Clàudia Bellera viu a Caregue al Pallars Sobirà. Han hagut de passar catorze generacions, perquè una dona ostenti el títol d'hereva de Casa Bellera. La reportera Eva Clausó Estival l'anirà a visitar per descobrir més coses de la història d'aquesta família. Després pujarà fins al Santuari de la Mare de Déu de la Muntanya, el símbol de la Vall d'Àssua, on demanarà un desig. I acabarà l'aventura visitant Seurí on l'espera l'Eva, una veïna del poble, que li explicarà algunes curiositats del com la cançó del rucs i els gitanos. També entrarà a l'església de Seurí, on l'artista català Santi Moix hi ha deixat la seva empremta, situant-la en el mapa internacional de l'art contemporani. </desc>
-    <length units="seconds">1580</length>
-    <episode-num system="onscreen">4</episode-num>
-    <category lang="ca">DIVULGACIÓ</category>
+  <programme start="20261017222413 +0200" stop="20261018003325 +0200" channel="tvi">
+    <title lang="ca">Col·lapse</title>
+    <sub-title lang="ca">17/10/2026</sub-title>
+    <desc lang="ca">El periodista i escriptor Roberto Saviano, amenaçat de mort per la màfia, ens rep a Roma per parlar del seu nou llibre i la màfia a Catalunya.L'actualitat política i social no descansa, per això analitzem alguns dels temes que han marcat la setmana amb els periodistes Marta Monforte, Iva Anguera i Maiol Roger.Ens visita el Roger Ferrer, un home que va anar a l'hospital per sotmetre's a una operació d'apendicitis i va patir un xoc traumàtic en veure que l'anestèsia no li havia fet l'efecte esperat.</desc>
+    <length units="seconds">7752</length>
+    <episode-num system="onscreen">157</episode-num>
+    <category lang="ca">ENTRETENIMENT</category>
+    <category lang="ca">TALK-SHOW</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+  </programme>
+  <programme start="20261018003325 +0200" stop="20261018005344 +0200" channel="tvi">
+    <title lang="ca">Marcians</title>
+    <sub-title lang="ca">Qui carda la llana</sub-title>
+    <desc lang="ca">Qui carda avui la llana? Qui dona valor a aquest recurs que en els darrers temps s'ha tractat més aviat com un rebuig? La llana, i tot el que l'envolta, els ramats, les pastures, la cura dels boscos, formen part de la nostra identitat i cada cop més hi ha qui ho reivindica, també des d'un vessant artístic i artesanal. És el cas de la Laia Aguilà, que des del Pla de la Calma, i voltant per tot Catalunya a la recerca de llana, defensa com a artesana aquesta matèria i també els seus ramaders i pastors. També ho fa el col·lectiu artístic Tornen les esquelles. Els seus tapissos fets amb feltre de llana estan concebuts des d'un treball comunitari, amb voluntat pedagògica, i tenen una profunda capa de memòria. És el cas de la peça que exposen al Centre Grau-Garriga d'art tèxtil contemporani, a Sant Cugat, que celebra el centenari de Casa Aymat, que va ser centre neuràlgic de la pionera escola catalana de tapís durant els anys 60 i 70. Convertida en espai de formació i creació, s'hi imparteixen classes de tapís. I hi estan fent ara les seves residències artístiques la dissenyadora de roba Andrea Ayala, la poeta M. Antònia Massanet o l'artista visual Ignasi Prat Altimira, que porta més de quatre anys immers en la reproducció de la famosa foto del rei emèrit en una cacera d'elefants a Botswana. El pastor Joan Cuadern sap bé què vol dir haver-se de fer càrrec d'un ramat, i tant temps de convivència amb les bèsties ha fet que els hi dediqui bona part de les seves cançons. </desc>
+    <length units="seconds">1219</length>
+    <episode-num system="onscreen">99</episode-num>
+    <category lang="ca">ENTRETENIMENT</category>
     <category lang="ca">ALTRES</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
   <channel id="324">
     <display-name>324</display-name>
   </channel>
-  <programme start="20261017200000 +0200" stop="20261017210000 +0200" channel="324">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">3600</length>
-    <episode-num system="onscreen">11459</episode-num>
-    <category lang="ca">ACTUALITAT</category>
-    <category lang="ca">INFORMATIU DIÀRI</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <subtitles type="teletext"/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
-  </programme>
   <programme start="20261017210000 +0200" stop="20261017230000 +0200" channel="324">
     <title lang="ca">Telenotícies vespre</title>
     <length units="seconds">7200</length>
@@ -45,45 +43,58 @@
     <subtitles type="teletext"/>
     <icon src="https://img.ccma.cat/multimedia/jpg/7/2/1758026176427.jpg"/>
   </programme>
+  <programme start="20261017230000 +0200" stop="20261018003000 +0200" channel="324">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="seconds">5400</length>
+    <episode-num system="onscreen">11460</episode-num>
+    <category lang="ca">ACTUALITAT</category>
+    <category lang="ca">INFORMATIU DIÀRI</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
+  </programme>
   <channel id="esport3">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20261017182513 +0200" stop="20261017202556 +0200" channel="esport3">
-    <title lang="ca">Un dia de partit</title>
-    <sub-title lang="ca">Betis-Barça</sub-title>
-    <desc lang="ca">A 'Un dia de partit' arreglem el Barça. O no. A cada partit, sis culers hi diuen la seva. Famosos i anònims. Cadascun a casa seva. Davant del televisor. Tot a base de videotrucades, en format Twitch i en rigorós directe. Ah! I a la mitja part no aturem màquines. Amb els jugadors als vestidors, nosaltres seguim fent bullir l'olla! Només sis culers? Negatiu. Durant el partit van apareixent els Jimmy Jump: els espontanis que demanen saltar a 'Un dia de partit' via WhatsApp.</desc>
-    <length units="seconds">7243</length>
-    <episode-num system="onscreen">254</episode-num>
+  <programme start="20261017213636 +0200" stop="20261017222853 +0200" channel="esport3">
+    <title lang="ca">Futbol</title>
+    <sub-title lang="ca">Reial Madrid-RCD Espanyol / Lliga F / J7</sub-title>
+    <desc lang="ca">Les blanc-i-blaves visiten la ciutat esportiva Alfredo Di Stéfano amb la il·lusió de puntuar en un dels camps més complicats.</desc>
+    <length units="seconds">3137</length>
+    <episode-num system="onscreen">54</episode-num>
     <category lang="ca">ESPORTS</category>
     <category lang="ca">RETRANSMISSIONS ESPORTS</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <icon src="https://img.ccma.cat/multimedia/jpg/2/7/1678885232972.jpg"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/0/8/1730389343680.jpg"/>
   </programme>
-  <programme start="20261017202556 +0200" stop="20261017213322 +0200" channel="esport3">
-    <title lang="ca">Gol a gol</title>
-    <sub-title lang="ca">Post Betis-Barça / J9</sub-title>
-    <desc lang="ca">'Gol a gol' us ofereix els resums dels partits de futbol de Primera i Segona Divisió. Presentat per Jordi Grau a Esport3, cada dissabte i cada diumenge podeu veure les millors imatges de la jornada de Lliga amb l'anàlisi dels experts, amb especial atenció als equips catalans, sobretot el Barça, el Girona i l'Espanyol.</desc>
-    <length units="seconds">4046</length>
-    <episode-num system="onscreen">1790</episode-num>
+  <programme start="20261017222853 +0200" stop="20261017230000 +0200" channel="esport3">
+    <title lang="ca">Zona zàping</title>
+    <sub-title lang="ca">Lamine enlluerna Europa</sub-title>
+    <desc lang="ca">Lamine Yamal va tornar a exhibir-se en un partit de Champions. Contra el Galatasaray turc va fer una segona part espectacular on, tot i no marcar, va donar dues grans assistències. Una d'elles, després d'un regat de rabona que ha donat la volta al món.Continua al programa Laia Bonjorn, que en parlarà d'un vessant desconegut del davanter noruec Erling Haaland.L'actriu, ballarina i cantant Aina Reig acomiada el programa amb el seu nou tema 'No és massa tard'.</desc>
+    <length units="seconds">1867</length>
+    <episode-num system="onscreen">1086</episode-num>
     <category lang="ca">ESPORTS</category>
-    <category lang="ca">MAGAZINE</category>
+    <category lang="ca">ALTRES</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/2/1/1698144123212.jpg"/>
+    <previously-shown/>
+    <icon src="https://img.3cat.cat/multimedia/jpg/4/7/1763564970974.jpg"/>
   </programme>
   <channel id="sx3">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20261017195500 +0200" stop="20261017201530 +0200" channel="sx3">
-    <title lang="ca">El detectiu Conan</title>
-    <sub-title lang="ca">La càpsula del temps de l'Akemi Miyano (1a part)</sub-title>
-    <desc lang="ca">En Conan, la Haibara, l'Ayumi, en Genta i en Mitsuhiko van a l'escola un diumenge perquè els toca cuidar els animals. Allà troben tres antics alumnes que hi han anat a desenterrar una càpsula del temps. Per saber on està enterrada, hauran de desxifrar un enigma ideat per l'Akemi Miyano, la germana de la Haibara.</desc>
-    <length units="seconds">1230</length>
-    <episode-num system="onscreen">1150</episode-num>
+  <programme start="20261017222444 +0200" stop="20261017223519 +0200" channel="sx3">
+    <title lang="ca">Les filles del Dad</title>
+    <sub-title lang="ca">Un Dad massa seriós</sub-title>
+    <desc lang="ca">És el dia de les innocentades, i les noies n'estan fins al capdamunt de les bromes del Dad i comenten que voldrien tenir un pare normal. Però el Dad les sent i, ofès, decideix convertir-se en un pare seriós, la qual cosa resultarà força insuportable per a les germanes. Per aconseguir que el Dad s'adoni de com pot ser d'avorrida la vida, conviden a casa els seus avorridíssims veïns, els Lapraline.</desc>
+    <length units="seconds">635</length>
+    <episode-num system="onscreen">21</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
@@ -92,12 +103,12 @@
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20261017201530 +0200" stop="20261017203833 +0200" channel="sx3">
-    <title lang="ca">El detectiu Conan</title>
-    <sub-title lang="ca">La càpsula del temps de l'Akemi Miyano (2a part)</sub-title>
-    <desc lang="ca">En Conan, la Haibara, l'Ayumi, en Genta i en Mitsuhiko van a l'escola, on troben tres antics alumnes que han vingut a desenterrar una càpsula del temps. Per saber on està enterrada hauran de desxifrar un enigma ideat per l'Akemi Miyano, la germana de la Haibara. La càpsula del temps també conté un missatge per a la Haibara de la seva germana.</desc>
-    <length units="seconds">1383</length>
-    <episode-num system="onscreen">1151</episode-num>
+  <programme start="20261017223519 +0200" stop="20261017224615 +0200" channel="sx3">
+    <title lang="ca">La tropa del corral</title>
+    <sub-title lang="ca">Atrapats</sub-title>
+    <desc lang="ca">La Tropa del Corral rep una trucada. L'Albert s'ha quedat amb atrapat dins d'un tub de paper de cuina. Surten disparats però, de sobte, la nova tanca que ha instal·lat el granger els atura. Cada cop que l'intenten travessar, salta l'alarma. Com que en Jo pot passar per sota dels rajos vermells i la Maggie els pot saltar, tots dos corren a ajudar l'Albert, mentre la Flo, en Clive i en Billy intenten trobar una manera de sortir de la granja.</desc>
+    <length units="seconds">656</length>
+    <episode-num system="onscreen">13</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
@@ -109,54 +120,52 @@
   <channel id="c33">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20261017192213 +0200" stop="20261017200654 +0200" channel="c33">
-    <title lang="ca">Els habitants de la fi del món</title>
-    <sub-title lang="ca">Tailàndia</sub-title>
-    <desc lang="ca">Acompanyem en Ben al sud-est asiàtic per conèixer en Niall, un emprenedor que va deixar la seva carrera prometedora per anar-se'n a les platges de Tailàndia a ajudar els gossos de carrer que, a la vegada, l'han salvat a ell. En Ben es troba amb el seu amfitrió al seu tros de selva salvatge i al santuari per a gossos que ell mateix ha construït a l'illa de Koh Samui. En Ben passa uns dies amb voluntaris i altres vilatans amants dels gossos i els ajuda amb les tasques diàries, prepara menjar per a 800 gossos i acompanyà en Niall a fer rondes per la muntanya per alimentar-los. La parella construeix llits per a gossos amb bidons d'oli i una piscina canina mentre en Ben s'assabenta que el seu amfitrió era un xef expert en xarxes socials que voltava pel món. També descobreix que en Niall va estar a punt de morir, i la visita del seu pare confirma que ha trobat la seva autèntica vocació amb una ambició que no té límits.</desc>
-    <length units="seconds">2681</length>
-    <episode-num system="onscreen">72</episode-num>
+  <programme start="20261017221825 +0200" stop="20261017235341 +0200" channel="c33">
+    <title lang="ca">El documental</title>
+    <sub-title lang="ca">Un simple soldat</sub-title>
+    <length units="seconds">5716</length>
+    <episode-num system="onscreen">1</episode-num>
     <category lang="ca">DIVULGACIÓ</category>
     <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <subtitles type="teletext"/>
-    <previously-shown/>
   </programme>
-  <programme start="20261017200654 +0200" stop="20261017205946 +0200" channel="c33">
-    <title lang="ca">Dibuixar pel canvi</title>
-    <sub-title lang="ca">Mèxic. Som foc</sub-title>
-    <desc lang="ca">A Mèxic, una desena de dones moren assassinades cada dia, i en els darrers sis anys s'ha triplicat el nombre de dones i nenes desaparegudes. Artistes com Mar Maremoto intenten trencar el silenci que ha minimitzat durant massa temps l'abast de la violència de gènere en aquest país. Compartint les seves obres d'art al seu compte d'Instagram, ofereix un espai segur per al seu públic i fins i tot es relaciona amb víctimes reals per conèixer a fons les seves experiències i proporcionar-los eines per afrontar-les i mecanismes d'autodefensa. A més a més, la pel·lícula intenta indagar els motius que s'amaguen rere aquest índex de feminicidis tan elevat i explorar vies per aconseguir un canvi real i acabar amb la impunitat dels agressors.</desc>
-    <length units="seconds">3172</length>
-    <episode-num system="onscreen">2</episode-num>
+  <programme start="20261017235341 +0200" stop="20261018010856 +0200" channel="c33">
+    <title lang="ca">60 minuts</title>
+    <sub-title lang="ca">Els fills de la secta</sub-title>
+    <desc lang="ca">Una supervivent de les comunes Rajneesh investiga els abusos, la manipulació i l'explotació sexual que van patir centenars d'infants dins del moviment, destapant una història silenciada durant dècades.</desc>
+    <length units="seconds">4515</length>
+    <episode-num system="onscreen">1</episode-num>
     <category lang="ca">DIVULGACIÓ</category>
     <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
-    <previously-shown/>
   </programme>
   <channel id="oca1">
     <display-name>OCA1</display-name>
   </channel>
+  <programme start="20261017202753 +0200" stop="20261017223753 +0200" channel="oca1">
+    <title lang="ca">Futbol</title>
+    <sub-title lang="ca">- Reial Madrid-RCD Espanyol / Lliga F / J7</sub-title>
+    <desc lang="ca">Les blanc-i-blaves visiten la ciutat esportiva Alfredo Di Stéfano amb la il·lusió de puntuar en un dels camps més complicats.</desc>
+    <length units="seconds">7800</length>
+    <episode-num system="onscreen">54</episode-num>
+    <category lang="ca">ESPORTS</category>
+    <category lang="ca">RETRANSMISSIONS ESPORTS</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <icon src="https://img.ccma.cat/multimedia/jpg/0/8/1730389343680.jpg"/>
+  </programme>
   <channel id="oca2">
     <display-name>OCA2</display-name>
   </channel>
   <channel id="oca3">
     <display-name>OCA3</display-name>
   </channel>
-  <programme start="20261017200419 +0200" stop="20261017210414 +0200" channel="oca3">
-    <title lang="ca">L'última hora de l'alerta per pluja intensa</title>
-    <length units="seconds">3595</length>
-    <episode-num system="onscreen">4187</episode-num>
-    <category lang="ca">ACTUALITAT</category>
-    <category lang="ca">RETRANSMISSIONS ACTUALITAT</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <icon src="https://img.ccma.cat/multimedia/jpg/6/2/1723647268726.jpg"/>
-  </programme>
   <channel id="oca4">
     <display-name>OCA4</display-name>
   </channel>
