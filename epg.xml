@@ -3,22 +3,10 @@
   <channel id="tvi">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20261017060119 +0200" stop="20261017100001 +0200" channel="tvi">
+  <programme start="20261017100000 +0200" stop="20261017110111 +0200" channel="tvi">
     <title lang="ca">Notícies 3CatInfo</title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">14322</length>
-    <episode-num system="onscreen">11454</episode-num>
-    <category lang="ca">ACTUALITAT</category>
-    <category lang="ca">INFORMATIU DIÀRI</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
-  </programme>
-  <programme start="20261017100001 +0200" stop="20261017110105 +0200" channel="tvi">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">3664</length>
+    <length units="seconds">3671</length>
     <episode-num system="onscreen">11455</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
@@ -27,27 +15,40 @@
     </rating>
     <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
+  <programme start="20261017110111 +0200" stop="20261017121433 +0200" channel="tvi">
+    <title lang="ca">Soc i Seré</title>
+    <sub-title lang="ca">Un calçot d'autor</sub-title>
+    <desc lang="ca">Els 20 aspirants enceten un nou dia amb 10.000 euros més a la butxaca i amb una gran sorpresa: l'arribada de 5 cares familiars que sacsejaran el concurs. Després de la seva reincorporació, es formaran 5 equips de 5 persones, i cada equip portarà el nom d'un bolet present als boscos catalans.Aquest quart capítol demostrarà que Llibre tancat no fa lletrat, perquè els aspirants hauran de guanyar un repte molt complex sobre literatura contemporània si volen aconseguir l'avantatge més important de la història de 'Soc i seré': la immunitat. I, per posar veu a les obres literàries, rebrem la visita d'Àlex Casanovas.Un equip tindrà la continuïtat garantida, mentre que els altres quatre hauran de competir per la salvació en un repte eliminatori anomenat Qui no té un all, té una ceba. El jardí de la Colònia Rusiñol es convertirà en l'escenari d'una calçotada, les salses i les postres que prepararan els aspirants.L'equip amb el millor calçot d'autor s'embutxacarà 10.000 euros més i, habitualment, el pitjor equip quedarà eliminat.</desc>
+    <length units="seconds">4402</length>
+    <episode-num system="onscreen">10</episode-num>
+    <category lang="ca">ENTRETENIMENT</category>
+    <category lang="ca">CONCURS</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <previously-shown/>
+  </programme>
   <channel id="324">
     <display-name>324</display-name>
   </channel>
-  <programme start="20261017060000 +0200" stop="20261017070000 +0200" channel="324">
+  <programme start="20261017100000 +0200" stop="20261017120000 +0200" channel="324">
     <title lang="ca">Notícies 3CatInfo</title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">3600</length>
-    <episode-num system="onscreen">11453</episode-num>
+    <length units="seconds">7200</length>
+    <episode-num system="onscreen">11455</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <previously-shown/>
+    <subtitles type="teletext"/>
     <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
-  <programme start="20261017070000 +0200" stop="20261017100000 +0200" channel="324">
+  <programme start="20261017120000 +0200" stop="20261017143000 +0200" channel="324">
     <title lang="ca">Notícies 3CatInfo</title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">10800</length>
-    <episode-num system="onscreen">11454</episode-num>
+    <length units="seconds">9000</length>
+    <episode-num system="onscreen">11456</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
@@ -59,11 +60,11 @@
   <channel id="esport3">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20261017064236 +0200" stop="20261017081707 +0200" channel="esport3">
+  <programme start="20261017101947 +0200" stop="20261017115500 +0200" channel="esport3">
     <title lang="ca">Onze</title>
     <sub-title lang="ca">El Tourmalet del Barça; guerra Tebas-Florentino; Delmàs, Fàbregas i Cazorla</sub-title>
     <desc lang="ca">Míriam Riau condueix la tertúlia amb Lluís Carrasco, Anaïs Martí, Juli Garcia i Edgar Fornós. Àlex Delmàs ens explica quina pot ser la clau del Betis-Barça. Amb Siro López analitzem l'estat de forma del Madrid i la guerra de Tebas amb Florentino. Joan Fàbregas ens explica si els àrbitres realment perjudiquen el Madrid i acabem amb el 'Que n'aprenguin!' de Xavi Cazorla.</desc>
-    <length units="seconds">5671</length>
+    <length units="seconds">5713</length>
     <episode-num system="onscreen">1270</episode-num>
     <category lang="ca">ESPORTS</category>
     <category lang="ca">MAGAZINE</category>
@@ -74,29 +75,28 @@
     <previously-shown/>
     <icon src="https://img.ccma.cat/multimedia/jpg/1/1/1688543515711.jpg"/>
   </programme>
-  <programme start="20261017081707 +0200" stop="20261017100729 +0200" channel="esport3">
-    <title lang="ca">Bàsquet</title>
-    <sub-title lang="ca">Bàsquet Girona-Barça Atlètic / Lliga U / J4</sub-title>
-    <desc lang="ca">Derbi català al grup A del campionat que disputen les joves promeses dels equips de la Lliga Endesa de bàsquet.</desc>
-    <length units="seconds">6622</length>
-    <episode-num system="onscreen">8142</episode-num>
+  <programme start="20261017115500 +0200" stop="20261017135001 +0200" channel="esport3">
+    <title lang="ca">Futbol</title>
+    <sub-title lang="ca">FC Badalona Women-CD Tenerife / Lliga F / J7</sub-title>
+    <desc lang="ca">Tots dos equips empaten a la zona mitja de la classificació després de dues victòries, dos empats i dues derrotes.</desc>
+    <length units="seconds">6901</length>
+    <episode-num system="onscreen">53</episode-num>
     <category lang="ca">ESPORTS</category>
     <category lang="ca">RETRANSMISSIONS ESPORTS</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <previously-shown/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/8/0/1698775546608.jpg"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/0/8/1730389343680.jpg"/>
   </programme>
   <channel id="sx3">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20261017064500 +0200" stop="20261017070705 +0200" channel="sx3">
-    <title lang="ca">Les Tres Bessones</title>
-    <sub-title lang="ca">Les tres bessones i Tom Sawyer</sub-title>
-    <desc lang="ca">Les Bessones coneixeran en Mark Twain i en Huckleberry Finn, amb qui viuran tot d'aventures pel llegendari Mississipí. L'Avorrida va de bòlit intentant que no se'n surtin, però com sempre, la que no se'n surt és ella.</desc>
-    <length units="seconds">1325</length>
-    <episode-num system="onscreen">55</episode-num>
+  <programme start="20261017105432 +0200" stop="20261017111632 +0200" channel="sx3">
+    <title lang="ca">El carreró del misteri</title>
+    <sub-title lang="ca">L'atac de la formiga gegant</sub-title>
+    <desc lang="ca">La sobirana dels animals de Londres està preocupada per una sèrie de segrestos de gats que hi ha hagut al barri de Marylebone. Gràcies a un gat que s'ha aconseguit escapar, se sospita d'una mena de formiga gegant que llança líquid sobre els gats per immobilitzar-los abans de raptar-los.</desc>
+    <length units="seconds">1320</length>
+    <episode-num system="onscreen">11</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
@@ -105,12 +105,12 @@
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20261017070705 +0200" stop="20261017071911 +0200" channel="sx3">
-    <title lang="ca">L'abella Maia</title>
-    <sub-title lang="ca">L'ombra d'un dubte</sub-title>
-    <desc lang="ca">La reina vol prendre el sol a la terrassa on normalment hi toca el sol però ara hi ha ombra i no sap per què. En Beeswax mira amunt i veu una cosa estranya a sobre l'arbre del costat, i li sembla que és un monstre. Tot el rusc es posa en alerta i la reina prohibeix a les abelles que surtin a fora fins que el monstre hagi marxat. Però la Maia no té paciència i se'n va a veure si el monstre aquest és tan perillós com sembla.</desc>
-    <length units="seconds">726</length>
-    <episode-num system="onscreen">91</episode-num>
+  <programme start="20261017111632 +0200" stop="20261017113802 +0200" channel="sx3">
+    <title lang="ca">El carreró del misteri</title>
+    <sub-title lang="ca">El senyor del llamp</sub-title>
+    <desc lang="ca">Durant una apagada inusual al districte de Lexington de Londres, tots els llums i aparells electrònics s'apaguen. L'Espavilada investiga l'escena d'un robatori en una joieria on tot és força estrany.</desc>
+    <length units="seconds">1290</length>
+    <episode-num system="onscreen">22</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
@@ -122,33 +122,35 @@
   <channel id="c33">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20261017064347 +0200" stop="20261017070630 +0200" channel="c33">
-    <title lang="ca">Quèquicom</title>
-    <sub-title lang="ca">Rates amigues o enemigues</sub-title>
-    <desc lang="ca">'Quèquicom' planteja el dilema sobre la bondat o la maldat de les rates. El programa intentarà trobar respostes a la pregunta 'les rates són amigues o enemigues de la humanitat?'. Abans de trobar les respostes, una cosa queda clara: les rates transmeten malalties però també són imprescindibles en la investigació. I els reporters del programa les han anat a buscar a clavegueres i laboratoris.</desc>
-    <length units="seconds">1363</length>
-    <episode-num system="onscreen">103</episode-num>
-    <category lang="ca">DIVULGACIÓ</category>
-    <category lang="ca">MAGAZINE ESPECIALITZAT</category>
+  <programme start="20261017103945 +0200" stop="20261017110805 +0200" channel="c33">
+    <title lang="ca">Animals arquitectes</title>
+    <sub-title lang="ca">Josep Bunyesc</sub-title>
+    <desc lang="ca">El lleidatà Josep Bunyesc és un arquitecte de natura i muntanya, el Kilian Jornet de l'arquitectura. Construeix els edificis més alts de Catalunya, a més de 2.000 m, i és l'ideòleg de les cases positives, construccions sostenibles que generen més energia que la que consumeixen. La seva arquitectura incorpora materials locals com la fusta, la palla o la pedra, i es caracteritza per un gran respecte per l'entorn.</desc>
+    <length units="seconds">1700</length>
+    <episode-num system="onscreen">14</episode-num>
+    <category lang="ca">ENTRETENIMENT</category>
+    <category lang="ca">ALTRES</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/1/6/1698653096861.jpg"/>
   </programme>
-  <programme start="20261017070630 +0200" stop="20261017072846 +0200" channel="c33">
-    <title lang="ca">Quèquicom</title>
-    <sub-title lang="ca">Botox:el triomf de l'agulla</sub-title>
-    <desc lang="ca">La toxina botulínica és el verí més potent que hi ha a la natura. Tot i això, milers de dones se'n posen a la cara per treure's les arrugues. L'Anna Lasaga investiga com actua el botox i com s'aconsegueix convertir un verí en un medicament amb efectes terapèutics. El botox es va començar a utilitzar per tractar malalties com ara distonies o espasmes facials, perquè el seu mecanisme d'acció és la paralització del múscul on s'injecta. La neuròloga Fina Martí fa 20 anys que l'utilitza per tractar els seus pacients. L'ús en estètica a Espanya és més recent, del 2004. La doctora Sílvia Lleal ens explica què cal tenir en compte per aconseguir atenuar les arrugues sense perdre l'expressió. 'Quèquicom' parla també amb dues dones que han decidit posar-se botox per millorar el seu aspecte físic. Però en el món de l'estètica no tot és botox. El doctor Jaume Tufet ens ensenya com es pot remodelar una cara (o unes mans!) fent servir només agulles.</desc>
-    <length units="seconds">1336</length>
-    <episode-num system="onscreen">104</episode-num>
+  <programme start="20261017110805 +0200" stop="20261017115445 +0200" channel="c33">
+    <title lang="ca">La Renaixença</title>
+    <sub-title lang="ca">El globus aerostàtic</sub-title>
+    <desc lang="ca">Vic i Igualada podrien ser dues capitals del globus aerostàtic a Catalunya. Estem segurs que els viatges en globus és de les coses que has de fer un cop a la vida, però si això comporta llevar-se de matinada per no sé què dels vents, potser més d'un és baixa. Avui dediquem el capítol al globus aerostàtic. Ens visita en Toni Arbonés, un escalador català que ha obert més de 1.000 vies d'escalada arreu del món. Sortim a passejar en Patxi, un teckel de Barcelona, per la rebel·lió de Sobibor, el 1943.</desc>
+    <length units="seconds">2800</length>
+    <episode-num system="onscreen">74</episode-num>
     <category lang="ca">DIVULGACIÓ</category>
-    <category lang="ca">MAGAZINE ESPECIALITZAT</category>
+    <category lang="ca">ALTRES</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/3/3/1756148014833.jpg"/>
   </programme>
   <channel id="oca1">
     <display-name>OCA1</display-name>
