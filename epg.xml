@@ -3,48 +3,33 @@
   <channel id="tvi">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20261017021618 +0200" stop="20261017040000 +0200" channel="tvi">
+  <programme start="20261017060119 +0200" stop="20261017100001 +0200" channel="tvi">
     <title lang="ca">Notícies 3CatInfo</title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">6222</length>
-    <episode-num system="onscreen">11453</episode-num>
+    <length units="seconds">14322</length>
+    <episode-num system="onscreen">11454</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <previously-shown/>
     <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
-  <programme start="20261017040000 +0200" stop="20261017050000 +0200" channel="tvi">
-    <title lang="ca">Blues a l'estudi</title>
-    <sub-title lang="ca">Amadeu Casas</sub-title>
-    <desc lang="ca">Guitarrista de blues genuí i un dels pioners de l'estil de casa nostra. En aquesta ocasió, Casas ve en formació de trio i ens presenta una sessió en què repassa temes clàssics del seu repertori i estrena nou material que formarà part del seu pròxim disc. Matías Míguez al baix i Toni Pagès a la bateria acompanyen el guitarrista barceloní.</desc>
-    <length units="seconds">3600</length>
-    <episode-num system="onscreen">21</episode-num>
-    <category lang="ca">MUSICALS</category>
-    <category lang="ca">ALTRES</category>
+  <programme start="20261017100001 +0200" stop="20261017110105 +0200" channel="tvi">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="seconds">3664</length>
+    <episode-num system="onscreen">11455</episode-num>
+    <category lang="ca">ACTUALITAT</category>
+    <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
-      <value>PÚBLIC ADULT</value>
+      <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <previously-shown/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
   <channel id="324">
     <display-name>324</display-name>
   </channel>
-  <programme start="20261017010000 +0200" stop="20261017060000 +0200" channel="324">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">18000</length>
-    <episode-num system="onscreen">11453</episode-num>
-    <category lang="ca">ACTUALITAT</category>
-    <category lang="ca">INFORMATIU DIÀRI</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <previously-shown/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
-  </programme>
   <programme start="20261017060000 +0200" stop="20261017070000 +0200" channel="324">
     <title lang="ca">Notícies 3CatInfo</title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
@@ -58,46 +43,60 @@
     <previously-shown/>
     <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
-  <channel id="esport3">
-    <display-name>ESPORT3</display-name>
-  </channel>
-  <programme start="20261017022702 +0200" stop="20261017024503 +0200" channel="esport3">
-    <title lang="ca">3CatInfo Esports</title>
-    <desc lang="ca">Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.</desc>
-    <length units="seconds">1081</length>
-    <episode-num system="onscreen">5540</episode-num>
-    <category lang="ca">ESPORTS</category>
+  <programme start="20261017070000 +0200" stop="20261017100000 +0200" channel="324">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="seconds">10800</length>
+    <episode-num system="onscreen">11454</episode-num>
+    <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <previously-shown/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/9/7/1758888682179.jpg"/>
+    <subtitles type="teletext"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
-  <programme start="20261017024503 +0200" stop="20261017043529 +0200" channel="esport3">
+  <channel id="esport3">
+    <display-name>ESPORT3</display-name>
+  </channel>
+  <programme start="20261017064236 +0200" stop="20261017081707 +0200" channel="esport3">
+    <title lang="ca">Onze</title>
+    <sub-title lang="ca">El Tourmalet del Barça; guerra Tebas-Florentino; Delmàs, Fàbregas i Cazorla</sub-title>
+    <desc lang="ca">Míriam Riau condueix la tertúlia amb Lluís Carrasco, Anaïs Martí, Juli Garcia i Edgar Fornós. Àlex Delmàs ens explica quina pot ser la clau del Betis-Barça. Amb Siro López analitzem l'estat de forma del Madrid i la guerra de Tebas amb Florentino. Joan Fàbregas ens explica si els àrbitres realment perjudiquen el Madrid i acabem amb el 'Que n'aprenguin!' de Xavi Cazorla.</desc>
+    <length units="seconds">5671</length>
+    <episode-num system="onscreen">1270</episode-num>
+    <category lang="ca">ESPORTS</category>
+    <category lang="ca">MAGAZINE</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <subtitles type="teletext"/>
+    <previously-shown/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/1/1/1688543515711.jpg"/>
+  </programme>
+  <programme start="20261017081707 +0200" stop="20261017100729 +0200" channel="esport3">
     <title lang="ca">Bàsquet</title>
     <sub-title lang="ca">Bàsquet Girona-Barça Atlètic / Lliga U / J4</sub-title>
     <desc lang="ca">Derbi català al grup A del campionat que disputen les joves promeses dels equips de la Lliga Endesa de bàsquet.</desc>
-    <length units="seconds">6626</length>
+    <length units="seconds">6622</length>
     <episode-num system="onscreen">8142</episode-num>
     <category lang="ca">ESPORTS</category>
     <category lang="ca">RETRANSMISSIONS ESPORTS</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <subtitles type="teletext"/>
     <previously-shown/>
     <icon src="https://img.ccma.cat/multimedia/jpg/8/0/1698775546608.jpg"/>
   </programme>
   <channel id="sx3">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20261017022215 +0200" stop="20261017024313 +0200" channel="sx3">
-    <title lang="ca">Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
-    <sub-title lang="ca">Mayura - El dia dels herois (2a part)</sub-title>
-    <desc lang="ca">Com a continuació del capítol anterior, Ladybug i el Gat Noir s'enfronten amb la pitjor amenaça que ha tingut fins ara la ciutat de París. L'Esfinx ha trobat la manera d'akumatitzar tots els superherois i convertir-los en ajudants seus. Al final, s'hi hauran d'enfrontar tots dos sols, i estaran a punt de perdre la batalla per sempre més.</desc>
-    <length units="seconds">1258</length>
-    <episode-num system="onscreen">51</episode-num>
+  <programme start="20261017064500 +0200" stop="20261017070705 +0200" channel="sx3">
+    <title lang="ca">Les Tres Bessones</title>
+    <sub-title lang="ca">Les tres bessones i Tom Sawyer</sub-title>
+    <desc lang="ca">Les Bessones coneixeran en Mark Twain i en Huckleberry Finn, amb qui viuran tot d'aventures pel llegendari Mississipí. L'Avorrida va de bòlit intentant que no se'n surtin, però com sempre, la que no se'n surt és ella.</desc>
+    <length units="seconds">1325</length>
+    <episode-num system="onscreen">55</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
@@ -106,12 +105,12 @@
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20261017024313 +0200" stop="20261017030350 +0200" channel="sx3">
-    <title lang="ca">Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
-    <sub-title lang="ca">Papu Noel</sub-title>
-    <desc lang="ca">La Marinette i tots els seus amics es preparen per celebrar la nit de Nadal, en família. Però per l'Adrien és un Nadal trist perquè és el primer que passa sense la seva mare. Enfadat perquè creu que el seu pare no el vol celebrar amb ell, s'escapa de casa disposat a eliminar tots els símbols de Nadal.</desc>
-    <length units="seconds">1237</length>
-    <episode-num system="onscreen">52</episode-num>
+  <programme start="20261017070705 +0200" stop="20261017071911 +0200" channel="sx3">
+    <title lang="ca">L'abella Maia</title>
+    <sub-title lang="ca">L'ombra d'un dubte</sub-title>
+    <desc lang="ca">La reina vol prendre el sol a la terrassa on normalment hi toca el sol però ara hi ha ombra i no sap per què. En Beeswax mira amunt i veu una cosa estranya a sobre l'arbre del costat, i li sembla que és un monstre. Tot el rusc es posa en alerta i la reina prohibeix a les abelles que surtin a fora fins que el monstre hagi marxat. Però la Maia no té paciència i se'n va a veure si el monstre aquest és tan perillós com sembla.</desc>
+    <length units="seconds">726</length>
+    <episode-num system="onscreen">91</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
@@ -123,28 +122,28 @@
   <channel id="c33">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20261017021004 +0200" stop="20261017025225 +0200" channel="c33">
-    <title lang="ca">Teories de la relativitat</title>
-    <sub-title lang="ca">Salut mental, una crisi invisible</sub-title>
-    <desc lang="ca">La IA pot fer de psicòloga? El TDAH i l'ansietat són trastorns mentals o, mésaviat, unes etiquetes que donen molts beneficis a la indústria farmacèutica?</desc>
-    <length units="seconds">2541</length>
-    <episode-num system="onscreen">4</episode-num>
+  <programme start="20261017064347 +0200" stop="20261017070630 +0200" channel="c33">
+    <title lang="ca">Quèquicom</title>
+    <sub-title lang="ca">Rates amigues o enemigues</sub-title>
+    <desc lang="ca">'Quèquicom' planteja el dilema sobre la bondat o la maldat de les rates. El programa intentarà trobar respostes a la pregunta 'les rates són amigues o enemigues de la humanitat?'. Abans de trobar les respostes, una cosa queda clara: les rates transmeten malalties però també són imprescindibles en la investigació. I els reporters del programa les han anat a buscar a clavegueres i laboratoris.</desc>
+    <length units="seconds">1363</length>
+    <episode-num system="onscreen">103</episode-num>
     <category lang="ca">DIVULGACIÓ</category>
-    <category lang="ca">ALTRES</category>
+    <category lang="ca">MAGAZINE ESPECIALITZAT</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20261017025225 +0200" stop="20261017033507 +0200" channel="c33">
-    <title lang="ca">Sala 30</title>
-    <sub-title lang="ca">El concepte</sub-title>
-    <desc lang="ca">La vida d'Antoni Muntadas, un dels màxims exponents del videoart, ha estat marcada per dues ciutats: Barcelona i Nova York. Per això, la proposta d'acompanyar Albert Pla mentre s'encarrega de les gallines de la masia li sembla una mica llunyana. Tot l'art contemporani és conceptual? Un concepte és igual que una idea? Enric Farrès, Lucia C. Pino, Fito Conesa i Laia Estruch se sumen a la conversa entre Muntadas i Pla per reflexionar sobre aquestes qüestions i jugar una mica amb la intel·ligència artificial.</desc>
-    <length units="seconds">2562</length>
-    <episode-num system="onscreen">3</episode-num>
+  <programme start="20261017070630 +0200" stop="20261017072846 +0200" channel="c33">
+    <title lang="ca">Quèquicom</title>
+    <sub-title lang="ca">Botox:el triomf de l'agulla</sub-title>
+    <desc lang="ca">La toxina botulínica és el verí més potent que hi ha a la natura. Tot i això, milers de dones se'n posen a la cara per treure's les arrugues. L'Anna Lasaga investiga com actua el botox i com s'aconsegueix convertir un verí en un medicament amb efectes terapèutics. El botox es va començar a utilitzar per tractar malalties com ara distonies o espasmes facials, perquè el seu mecanisme d'acció és la paralització del múscul on s'injecta. La neuròloga Fina Martí fa 20 anys que l'utilitza per tractar els seus pacients. L'ús en estètica a Espanya és més recent, del 2004. La doctora Sílvia Lleal ens explica què cal tenir en compte per aconseguir atenuar les arrugues sense perdre l'expressió. 'Quèquicom' parla també amb dues dones que han decidit posar-se botox per millorar el seu aspecte físic. Però en el món de l'estètica no tot és botox. El doctor Jaume Tufet ens ensenya com es pot remodelar una cara (o unes mans!) fent servir només agulles.</desc>
+    <length units="seconds">1336</length>
+    <episode-num system="onscreen">104</episode-num>
     <category lang="ca">DIVULGACIÓ</category>
-    <category lang="ca">ALTRES</category>
+    <category lang="ca">MAGAZINE ESPECIALITZAT</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
