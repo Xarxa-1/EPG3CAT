@@ -3,97 +3,101 @@
   <channel id="tvi">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20261017001012 +0200" stop="20261017002528 +0200" channel="tvi">
-    <title lang="ca">Marcians</title>
-    <sub-title lang="ca">Sis nadals i un cap d'any</sub-title>
-    <desc lang="ca">Els MARCIANS també celebren el Nadal. I ho fan amb mitja dotzena de poemes nadalencs i un de cap d'any. El jove rapsode Arnau Baulenas, amb un 80 % de discapacitat, recita poemes nadalencs de Miquel Martí i Pol i Montse Asens en un exemple d'integració mitjançant la cultura. El traductor Josep Maria Jaumà recita una versió pròpia del poema 'Els bous', Tomàs Hardy, i la dragqueen Crossandra Brahms (alter ego del cantant, actor i director Pol Blancafort) recita Narcís Comadira. Els poetes Montse Maestre, Vicenç Ambròs i Aina Torras reciten els seus propis poemes nadalencs. Clou el programa la petita rapsode de set anys Helena Velat, recitant el vers de Nadal enfilada a la cadira. Un bon Nadal ben cultural us desitgen els MARCIANS!</desc>
-    <length units="seconds">916</length>
-    <episode-num system="onscreen">69</episode-num>
-    <category lang="ca">ENTRETENIMENT</category>
-    <category lang="ca">ALTRES</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <subtitles type="teletext"/>
-    <previously-shown/>
-  </programme>
-  <programme start="20261017002528 +0200" stop="20261017021616 +0200" channel="tvi">
-    <title lang="ca">Mésnit</title>
-    <desc lang="ca">El 'Mésnit' arriba a la desena temporada, amb Marina Romero al capdavant de l'espai i amb la voluntat de continuar sent un centre de debat d'idees i d'anàlisi de l'activitat política.</desc>
-    <length units="seconds">6648</length>
-    <episode-num system="onscreen">2181</episode-num>
-    <category lang="ca">ACTUALITAT</category>
-    <category lang="ca">DEBAT</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <previously-shown/>
-  </programme>
-  <channel id="324">
-    <display-name>324</display-name>
-  </channel>
-  <programme start="20261016233000 +0200" stop="20261017003000 +0200" channel="324">
+  <programme start="20261017021618 +0200" stop="20261017040000 +0200" channel="tvi">
     <title lang="ca">Notícies 3CatInfo</title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">3600</length>
-    <episode-num system="onscreen">11452</episode-num>
-    <category lang="ca">ACTUALITAT</category>
-    <category lang="ca">INFORMATIU DIÀRI</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
-  </programme>
-  <programme start="20261017003000 +0200" stop="20261017010000 +0200" channel="324">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">1800</length>
+    <length units="seconds">6222</length>
     <episode-num system="onscreen">11453</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
+    <previously-shown/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
+  </programme>
+  <programme start="20261017040000 +0200" stop="20261017050000 +0200" channel="tvi">
+    <title lang="ca">Blues a l'estudi</title>
+    <sub-title lang="ca">Amadeu Casas</sub-title>
+    <desc lang="ca">Guitarrista de blues genuí i un dels pioners de l'estil de casa nostra. En aquesta ocasió, Casas ve en formació de trio i ens presenta una sessió en què repassa temes clàssics del seu repertori i estrena nou material que formarà part del seu pròxim disc. Matías Míguez al baix i Toni Pagès a la bateria acompanyen el guitarrista barceloní.</desc>
+    <length units="seconds">3600</length>
+    <episode-num system="onscreen">21</episode-num>
+    <category lang="ca">MUSICALS</category>
+    <category lang="ca">ALTRES</category>
+    <rating>
+      <value>PÚBLIC ADULT</value>
+    </rating>
+    <previously-shown/>
+  </programme>
+  <channel id="324">
+    <display-name>324</display-name>
+  </channel>
+  <programme start="20261017010000 +0200" stop="20261017060000 +0200" channel="324">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="seconds">18000</length>
+    <episode-num system="onscreen">11453</episode-num>
+    <category lang="ca">ACTUALITAT</category>
+    <category lang="ca">INFORMATIU DIÀRI</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <previously-shown/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
+  </programme>
+  <programme start="20261017060000 +0200" stop="20261017070000 +0200" channel="324">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="seconds">3600</length>
+    <episode-num system="onscreen">11453</episode-num>
+    <category lang="ca">ACTUALITAT</category>
+    <category lang="ca">INFORMATIU DIÀRI</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <previously-shown/>
     <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
   <channel id="esport3">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20261016230004 +0200" stop="20261017003000 +0200" channel="esport3">
-    <title lang="ca">Onze</title>
-    <sub-title lang="ca">El Tourmalet del Barça; guerra Tebas-Florentino; Delmàs, Fàbregas i Cazorla</sub-title>
-    <desc lang="ca">Míriam Riau condueix la tertúlia amb Lluís Carrasco, Anaïs Martí, Juli Garcia i Edgar Fornós. Àlex Delmàs ens explica quina pot ser la clau del Betis-Barça. Amb Siro López analitzem l'estat de forma del Madrid i la guerra de Tebas amb Florentino. Joan Fàbregas ens explica si els àrbitres realment perjudiquen el Madrid i acabem amb el 'Que n'aprenguin!' de Xavi Cazorla.</desc>
-    <length units="seconds">5396</length>
-    <episode-num system="onscreen">1270</episode-num>
-    <category lang="ca">ESPORTS</category>
-    <category lang="ca">MAGAZINE</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <subtitles type="teletext"/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/1/1/1688543515711.jpg"/>
-  </programme>
-  <programme start="20261017003000 +0200" stop="20261017005100 +0200" channel="esport3">
+  <programme start="20261017022702 +0200" stop="20261017024503 +0200" channel="esport3">
     <title lang="ca">3CatInfo Esports</title>
     <desc lang="ca">Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.</desc>
-    <length units="seconds">1260</length>
+    <length units="seconds">1081</length>
     <episode-num system="onscreen">5540</episode-num>
     <category lang="ca">ESPORTS</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
+    <previously-shown/>
     <icon src="https://img.ccma.cat/multimedia/jpg/9/7/1758888682179.jpg"/>
+  </programme>
+  <programme start="20261017024503 +0200" stop="20261017043529 +0200" channel="esport3">
+    <title lang="ca">Bàsquet</title>
+    <sub-title lang="ca">Bàsquet Girona-Barça Atlètic / Lliga U / J4</sub-title>
+    <desc lang="ca">Derbi català al grup A del campionat que disputen les joves promeses dels equips de la Lliga Endesa de bàsquet.</desc>
+    <length units="seconds">6626</length>
+    <episode-num system="onscreen">8142</episode-num>
+    <category lang="ca">ESPORTS</category>
+    <category lang="ca">RETRANSMISSIONS ESPORTS</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <subtitles type="teletext"/>
+    <previously-shown/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/8/0/1698775546608.jpg"/>
   </programme>
   <channel id="sx3">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20261017000653 +0200" stop="20261017002702 +0200" channel="sx3">
-    <title lang="ca">Els germans Kratt</title>
-    <sub-title lang="ca">L'escurçana invisible</sub-title>
-    <desc lang="ca">El Martin i el Chris estan avorrits i decideixen jugar a fet a amagar animal amb els altres membres de l'equip. Li demanen en secret a l'Aviva que els ajudi i programi un disc de poder animal nou. Però abans han de trobar un animal amb un poder extraordinari per amagar-se: l'escurçana.</desc>
-    <length units="seconds">1209</length>
-    <episode-num system="onscreen">147</episode-num>
+  <programme start="20261017022215 +0200" stop="20261017024313 +0200" channel="sx3">
+    <title lang="ca">Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
+    <sub-title lang="ca">Mayura - El dia dels herois (2a part)</sub-title>
+    <desc lang="ca">Com a continuació del capítol anterior, Ladybug i el Gat Noir s'enfronten amb la pitjor amenaça que ha tingut fins ara la ciutat de París. L'Esfinx ha trobat la manera d'akumatitzar tots els superherois i convertir-los en ajudants seus. Al final, s'hi hauran d'enfrontar tots dos sols, i estaran a punt de perdre la batalla per sempre més.</desc>
+    <length units="seconds">1258</length>
+    <episode-num system="onscreen">51</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
@@ -102,12 +106,12 @@
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20261017002702 +0200" stop="20261017004741 +0200" channel="sx3">
-    <title lang="ca">Els germans Kratt</title>
-    <sub-title lang="ca">Lloros al poder</sub-title>
-    <desc lang="ca">Tot sobrevolant la selva amazònica, la colla es llepa els dits amb un bol de gominoles de diversos gustos. En Martin comenta que les gominoles el fan pensar en els lloros. Tots queden ben parats fins que els explica el motiu: hi ha lloros de gairebé tots els colors! Aquest cop la missió animal consistirà a trobar lloros de diferents colors per l'Amazònia.</desc>
-    <length units="seconds">1239</length>
-    <episode-num system="onscreen">148</episode-num>
+  <programme start="20261017024313 +0200" stop="20261017030350 +0200" channel="sx3">
+    <title lang="ca">Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
+    <sub-title lang="ca">Papu Noel</sub-title>
+    <desc lang="ca">La Marinette i tots els seus amics es preparen per celebrar la nit de Nadal, en família. Però per l'Adrien és un Nadal trist perquè és el primer que passa sense la seva mare. Enfadat perquè creu que el seu pare no el vol celebrar amb ell, s'escapa de casa disposat a eliminar tots els símbols de Nadal.</desc>
+    <length units="seconds">1237</length>
+    <episode-num system="onscreen">52</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
@@ -119,26 +123,27 @@
   <channel id="c33">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20261017000529 +0200" stop="20261017003514 +0200" channel="c33">
-    <title lang="ca">Patrimonis</title>
-    <sub-title lang="ca">Viure (la dieta mediterrània)</sub-title>
-    <desc lang="ca">A 'Patrimonis' ens aproximem a una manera de viure, de compartir i d'entendre la vida. També és la mirada atenta al territori, als productes de proximitat i a la gent que en té cura i els procura. Un cant a la vida i a una manera de viure. Parlem de la dieta mediterrània, i per fer-ho ens endinsem en l'ofici de pescador, de la mà del patró Albert Domingo, i d'un xef que treballa amb molt respecte i originalitat els productes de la terra: Quim Casellas, del restaurant Casamar. Toni Massanés, director general de la Fundació Alícia; Cristina Jolonch, periodista gastronòmica de La Vanguardia, i l'expert en dieta mediterrània, el Doctor Ramón Estruch, reflexionen sobre com és aquest estil de vida, què el conforma i quins patrons el configuren. També ens apropem a la vinya de la mà del productor de vins Josep Maria Albet i Noya, i el sommelier del restaurant Casamar, Alex Peiró. L'oli és, probablement, l'element més distintiu de la dieta mediterrània, i és per això que visitem la Masia Can Viver, de Bigues i Riells, però també anem a conèixer la productora d'avellanes Mercè Rubirola.</desc>
-    <length units="seconds">1785</length>
-    <episode-num system="onscreen">2</episode-num>
+  <programme start="20261017021004 +0200" stop="20261017025225 +0200" channel="c33">
+    <title lang="ca">Teories de la relativitat</title>
+    <sub-title lang="ca">Salut mental, una crisi invisible</sub-title>
+    <desc lang="ca">La IA pot fer de psicòloga? El TDAH i l'ansietat són trastorns mentals o, mésaviat, unes etiquetes que donen molts beneficis a la indústria farmacèutica?</desc>
+    <length units="seconds">2541</length>
+    <episode-num system="onscreen">4</episode-num>
     <category lang="ca">DIVULGACIÓ</category>
-    <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
+    <category lang="ca">ALTRES</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
+    <previously-shown/>
   </programme>
-  <programme start="20261017003514 +0200" stop="20261017012758 +0200" channel="c33">
-    <title lang="ca">Experiència Catalana</title>
-    <sub-title lang="ca">Jota i Daniela</sub-title>
-    <desc lang="ca">La Daniela i el Jota, uns joves viatgers argentins, descobreixen el Lluçanès, la Cerdanya i l'Alt Urgell. Abans d'acabar el viatge, però, la Ivana Miño també els acompanya a conèixer els llocs més típics de Barcelona.</desc>
-    <length units="seconds">3164</length>
-    <episode-num system="onscreen">14</episode-num>
-    <category lang="ca">ENTRETENIMENT</category>
+  <programme start="20261017025225 +0200" stop="20261017033507 +0200" channel="c33">
+    <title lang="ca">Sala 30</title>
+    <sub-title lang="ca">El concepte</sub-title>
+    <desc lang="ca">La vida d'Antoni Muntadas, un dels màxims exponents del videoart, ha estat marcada per dues ciutats: Barcelona i Nova York. Per això, la proposta d'acompanyar Albert Pla mentre s'encarrega de les gallines de la masia li sembla una mica llunyana. Tot l'art contemporani és conceptual? Un concepte és igual que una idea? Enric Farrès, Lucia C. Pino, Fito Conesa i Laia Estruch se sumen a la conversa entre Muntadas i Pla per reflexionar sobre aquestes qüestions i jugar una mica amb la intel·ligència artificial.</desc>
+    <length units="seconds">2562</length>
+    <episode-num system="onscreen">3</episode-num>
+    <category lang="ca">DIVULGACIÓ</category>
     <category lang="ca">ALTRES</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
@@ -149,11 +154,6 @@
   <channel id="oca1">
     <display-name>OCA1</display-name>
   </channel>
-  <programme start="20261016202455 +0200" stop="20261017055959 +0200" channel="oca1">
-    <title lang="ca">#SORTIDA#</title>
-    <desc lang="ca">Sense Descripció</desc>
-    <length units="seconds">34504</length>
-  </programme>
   <channel id="oca2">
     <display-name>OCA2</display-name>
   </channel>
