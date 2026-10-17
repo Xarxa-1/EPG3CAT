@@ -3,25 +3,28 @@
   <channel id="tvi">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20261017143000 +0200" stop="20261017153450 +0200" channel="tvi">
-    <title lang="ca">Telenotícies migdia</title>
-    <length units="seconds">3890</length>
-    <episode-num system="onscreen">7361</episode-num>
-    <category lang="ca">ACTUALITAT</category>
-    <category lang="ca">INFORMATIU DIÀRI</category>
+  <programme start="20261017170033 +0200" stop="20261017175944 +0200" channel="tvi">
+    <title lang="ca">Infidels</title>
+    <sub-title lang="ca">Infidels</sub-title>
+    <desc lang="ca">La Paula no es troba bé i ha anul·lat les sessions amb el sanador. En Marc se'n cuida com pot. La Maria topa amb en Marc, l'exmarit de la Paula, i per casualitat i li explica que ella i el nen ho estan passant fatal. La Lídia recupera la seva activitat de restaurar mobles. Tot i que ella no l'hi explica del tot, l'Albert descobreix amb ràbia que la psiquiatra manté una relació amb en Toni. La Joana no es pot treure del cap que en Peter hagués fet d'actor porno, però procura fer veure que no ho sap i ser feliç. L'Arlet menteix a la feina per passar més temps amb en Dani. La Cruz, destrossada per la ruptura amb l'Eduard, fa vida a la oficina per no estar-se sola a casa.</desc>
+    <length units="seconds">3551</length>
+    <episode-num system="onscreen">12</episode-num>
+    <category lang="ca">FICCIÓ</category>
+    <category lang="ca">TELESÈRIE</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <icon src="https://img.ccma.cat/multimedia/jpg/5/4/1758025766345.jpg"/>
+    <subtitles type="teletext"/>
+    <previously-shown/>
   </programme>
-  <programme start="20261017153120 +0200" stop="20261017165406 +0200" channel="tvi">
-    <title lang="ca">Pel·lícula</title>
-    <sub-title lang="ca">Formentera lady</sub-title>
-    <desc lang="ca">FORMENTERA LADYProducció : Good Machine, AIE, Sunrise Pictures,SL, Fosca Films,SL, La Perifèrica Produccions, amb la producció associada de TV3 amb la participació de IB3 i RTVE i col·laboració de l'Ivac-Culturarts i del Departament de Cultura de la Generalitat de Catalunya. 2018Director : Pau DuràGuió : Pau DuràProductors : David Ciurana , Ramiro AceroDirector de fotografia : Miguel LlorensMúsica : JOan AlavedraIntèrprets : José Sacristán (Samuel), Sandro Ballesteros ( Marc), Pepa Juan ( Greta), Nora Navas ( Anna), Jordi Sánchez ( Toni), Juli Mira ( Paco), Ferran Rañé ( Joan)SinopsiSamuel va arribar a la Formentera hippie dels 70 i allà segueix. Viu a una casa a la platja sense llum i toca el banjo a un bar. Un dia rep la visita de la seva filla Anna i del seu nét Marc. Aturada des de fa temps, l'Anna ha acceptat una feina a França i es veu obligada a deixar el seu fill a l'illa.</desc>
-    <length units="seconds">4966</length>
-    <episode-num system="onscreen">1</episode-num>
+  <programme start="20261017175944 +0200" stop="20261017182401 +0200" channel="tvi">
+    <title lang="ca">Jet lag</title>
+    <sub-title lang="ca">CLAUSURA</sub-title>
+    <desc lang="ca">La Mariona rep la visita del seu exnòvio, que està molt content i a punt de casar-se amb una noia. La Mariona li diu que ella també està molt contenta amb el seu nòvio actual... el Mario. Però el Mario no serà l'única persona que la Mariona involucrarà amb les seves mentides. La Sílvia, per la seva banda, serà víctima d'un enquestador sense escrúpols. Actors convidats: Eduard Farelo, Cati Solivellas i Carles Martínez.</desc>
+    <length units="seconds">1457</length>
+    <episode-num system="onscreen">18</episode-num>
     <category lang="ca">FICCIÓ</category>
-    <category lang="ca">PEL·LÍCULA / TELEFILM</category>
+    <category lang="ca">TELESÈRIE</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
@@ -31,17 +34,6 @@
   <channel id="324">
     <display-name>324</display-name>
   </channel>
-  <programme start="20261017143000 +0200" stop="20261017163000 +0200" channel="324">
-    <title lang="ca">Telenotícies migdia</title>
-    <length units="seconds">7200</length>
-    <episode-num system="onscreen">7361</episode-num>
-    <category lang="ca">ACTUALITAT</category>
-    <category lang="ca">INFORMATIU DIÀRI</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <icon src="https://img.ccma.cat/multimedia/jpg/5/4/1758025766345.jpg"/>
-  </programme>
   <programme start="20261017163000 +0200" stop="20261017183000 +0200" channel="324">
     <title lang="ca">Notícies 3CatInfo</title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
@@ -55,90 +47,87 @@
     <subtitles type="teletext"/>
     <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
+  <programme start="20261017183000 +0200" stop="20261017200000 +0200" channel="324">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="seconds">5400</length>
+    <episode-num system="onscreen">11458</episode-num>
+    <category lang="ca">ACTUALITAT</category>
+    <category lang="ca">INFORMATIU DIÀRI</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <subtitles type="teletext"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
+  </programme>
   <channel id="esport3">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20261017140130 +0200" stop="20261017152500 +0200" channel="esport3">
-    <title lang="ca">Bàsquet</title>
-    <sub-title lang="ca">Bàsquet Girona-Barça Atlètic / Lliga U / J4</sub-title>
-    <desc lang="ca">Derbi català al grup A del campionat que disputen les joves promeses dels equips de la Lliga Endesa de bàsquet.</desc>
-    <length units="seconds">5010</length>
-    <episode-num system="onscreen">8142</episode-num>
+  <programme start="20261017173000 +0200" stop="20261017182544 +0200" channel="esport3">
+    <title lang="ca">Gol a gol</title>
+    <sub-title lang="ca">Prèvia Betis-Barça / J9</sub-title>
+    <desc lang="ca">'Gol a gol' us ofereix els resums dels partits de futbol de Primera i Segona Divisió. Presentat per Jordi Grau a Esport3, cada dissabte i cada diumenge podeu veure les millors imatges de la jornada de Lliga amb l'anàlisi dels experts, amb especial atenció als equips catalans, sobretot el Barça, el Girona i l'Espanyol.</desc>
+    <length units="seconds">3344</length>
+    <episode-num system="onscreen">1789</episode-num>
     <category lang="ca">ESPORTS</category>
-    <category lang="ca">RETRANSMISSIONS ESPORTS</category>
+    <category lang="ca">MAGAZINE</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <previously-shown/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/8/0/1698775546608.jpg"/>
+    <subtitles type="teletext"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/2/1/1698144123212.jpg"/>
   </programme>
-  <programme start="20261017152500 +0200" stop="20261017161532 +0200" channel="esport3">
-    <title lang="ca">Hoquei patins</title>
-    <sub-title lang="ca">Igualada HC-CP Calafell / Lliga Catalana / 1a Semifinal</sub-title>
-    <desc lang="ca">L'Igualada Rigat HC i el CP Calafell La Menorquina disputen la primera semifinal a la Lliga Catalana d'hoquei patins.</desc>
-    <length units="seconds">3032</length>
-    <episode-num system="onscreen">8143</episode-num>
+  <programme start="20261017182544 +0200" stop="20261017202626 +0200" channel="esport3">
+    <title lang="ca">Un dia de partit</title>
+    <sub-title lang="ca">Betis-Barça</sub-title>
+    <desc lang="ca">A 'Un dia de partit' arreglem el Barça. O no. A cada partit, sis culers hi diuen la seva. Famosos i anònims. Cadascun a casa seva. Davant del televisor. Tot a base de videotrucades, en format Twitch i en rigorós directe. Ah! I a la mitja part no aturem màquines. Amb els jugadors als vestidors, nosaltres seguim fent bullir l'olla! Només sis culers? Negatiu. Durant el partit van apareixent els Jimmy Jump: els espontanis que demanen saltar a 'Un dia de partit' via WhatsApp.</desc>
+    <length units="seconds">7242</length>
+    <episode-num system="onscreen">254</episode-num>
     <category lang="ca">ESPORTS</category>
     <category lang="ca">RETRANSMISSIONS ESPORTS</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <icon src="https://img.3cat.cat/multimedia/jpg/5/7/1758291200775.jpg"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/2/7/1678885232972.jpg"/>
   </programme>
   <channel id="sx3">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20261017143622 +0200" stop="20261017144725 +0200" channel="sx3">
-    <title lang="ca">Les Sisters</title>
-    <sub-title lang="ca">Com enyoro el Max!</sub-title>
-    <desc lang="ca">El Maxence ha d'anar a passar un cap de setmana d'acampada amb els seus amics, sense la Wendy i sense cobertura per trucar-li ni enviar-li missatges. La Wendy està supernerviosa. No podrà passar dos dies seguits sense el seu Maxence! La Marine intentarà desintoxicar la seva germana del seu nòvio...</desc>
-    <length units="seconds">663</length>
-    <episode-num system="onscreen">24</episode-num>
+  <programme start="20261017174955 +0200" stop="20261017175624 +0200" channel="sx3">
+    <title lang="ca">En Grizzy i els Lèmmings</title>
+    <sub-title lang="ca">Bojos pel gel!</sub-title>
+    <desc lang="ca">En plena onada de calor, en Grizzy i els Lèmmings es barallen per l'ús de la nevera: els rosegadors volen convertir-se en glaçons per lliscar per la seva pista de supercúrling i, en canvi, en Grizzy simplement vol estirar-s'hi dins, ben fresquet. Acaben partint l'electrodomèstic en dos, però els Lèmmings descobreixen un contenidor refrigerant que els permet continuar la partida de cúrling enmig de la sabana. Però en Grizzy encara no ha renunciat a la idea de descansar en un lloc ben fred!</desc>
+    <length units="seconds">389</length>
+    <episode-num system="onscreen">206</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
       <value>INFANTIL</value>
     </rating>
-    <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20261017144725 +0200" stop="20261017145829 +0200" channel="sx3">
-    <title lang="ca">Les Sisters</title>
-    <sub-title lang="ca">El 'zoròscop'</sub-title>
-    <desc lang="ca">La Marine creu molt en l'horòscop, però la Wendy no. La Marine està decidida a demostrar a la seva germana que l'horòscop diu la veritat, encara que per fer-ho hagi de forçar una mica la situació. Però els plans de la Marine se'n van en orris i les dues germanes acaben perseguides per una vaca que entra al menjador de casa.</desc>
-    <length units="seconds">664</length>
-    <episode-num system="onscreen">25</episode-num>
+  <programme start="20261017175624 +0200" stop="20261017180254 +0200" channel="sx3">
+    <title lang="ca">En Grizzy i els Lèmmings</title>
+    <sub-title lang="ca">Lèmmings elementals</sub-title>
+    <desc lang="ca">En Grizzy descobreix per casualitat un antic medalló indi amb un símbol de vent inscrit que dona a aquell que el porta el poder de dominar els corrents d'aire. Per al nostre os panxacontent, és ideal per controlar-ho tot a distància sense haver d'aixecar-se del sofà.Per als lèmmings, en canvi, serveix per inventar jocs nous d'allò més al·lucinants i esbojarrats.</desc>
+    <length units="seconds">390</length>
+    <episode-num system="onscreen">142</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
       <value>INFANTIL</value>
     </rating>
-    <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
   <channel id="c33">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20261017143147 +0200" stop="20261017145413 +0200" channel="c33">
-    <title lang="ca">Quèquicom</title>
-    <sub-title lang="ca">Albufera de València: una joia en perill</sub-title>
-    <desc lang="ca">La reportera Anna Lasaga proposa una ruta turisticocientífica per l'Albufera i assisteix als esforços per recuperar, a partir de llavors antigues, una planta aquàtica extingida a causa de la contaminació de les aigües. L'Albufera és, juntament amb Doñana i el Delta de l'Ebre, un dels aiguamolls amb més presència d'ocells aquàtics. Unes 250 espècies d'ocells s'aturen o nidifiquen en aquest parc natural, però els herbívors hi estan en recessió. El problema és que les aigües són fosques i no arriba prou llum al fons perquè les plantes aquàtiques hi visquin. Ara, la Universitat de València ha aconseguit fer rebrotar una planta autòctona desapareguda, la 'Chara hispida', a partir de llavors que s'havien conservat en el fang de l'albufera. Però aquesta planta no s'hi podrà reintroduir si no es depuren millor les aigües que rep la llacuna. Manolín Marco, barquer i pescador, explica que fa poc més de trenta anys l'aigua era tan transparent que es podia beure.</desc>
-    <length units="seconds">1346</length>
-    <episode-num system="onscreen">102</episode-num>
-    <category lang="ca">DIVULGACIÓ</category>
-    <category lang="ca">MAGAZINE ESPECIALITZAT</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <subtitles type="teletext"/>
-    <previously-shown/>
-  </programme>
-  <programme start="20261017145413 +0200" stop="20261017155457 +0200" channel="c33">
-    <title lang="ca">Plou i fa sol</title>
-    <sub-title lang="ca">Plou i fa sol</sub-title>
-    <desc lang="ca">'PLOU I FA SOL' (2012), una producció de Curt Ficcions Curt Produccions, en coproducció amb TELEVISIÓ CATALUNYA i amb la col·laboració del Departament d'Agricultura, ICEC, Ajuntament de Sant Boi i Ajuntament de Santa Coloma de Cervelló.Aquesta és una història local, que des d'una situació particular vol explicar el que succeeix a qualsevol gran ciutat europea. Barcelona, como totes les grans metròpolis, necessita cada dia milions de tones d'aliments per abastir la seva població. Però en l'era de la comunicació on les mercaderies i les persones poden moure's per tot el territori amb relativa facilitat i on amb un clic es pot accedir a un munt d'informació, poca gent sap el que menja. Plou i fa sol vol analitzar aquesta immensa fractura entre la producció i el consum d'aliments. La pel·lícula reivindica la necessitat de mantenir l'agricultura periurbana i de proximitat, a través d'un nucli d'agricultors que mantenen els seus camps de producció al Parc Agrari, pròxim a la ciutat. Un espai on conviu la tradició camperola de fa segles amb les noves fórmules de producció i distribució dels joves pagesos que aposten pels productes ecològics i la venda directa. El documental també vol fer esment del paper que juga el Parc Agrari com a protector del medi i de l'ecosistema característics de la zona, imprescindible per a la protecció de la fauna i flora i del paisatge de l'àrea metropolitana de Barcelona, marcada també per comunicacions com els trens i avions.Guió i direcció: Pere Joan VenturaProducció executiva: Carmen IsasaProducció executiva TVC: Jordi AmbròsProducció delegada TVC: Ruth LlòriaDirecció de producció: Sara de LeceaDirecció de fotografia: Alberto MolinaCap de producció: Enric EscofetMuntatge: Anastasi RinosMúsica: Lluís de ArquerDocumentació: Eva de Lecea i Laura GallegoSo directe: Pau Xandri, Sergi MadridanoAjudant de muntatge: Gemma AlfòsImatges d'arxiu cedides per l'Arxiu Històric de la Ciutat de Barcelona</desc>
-    <length units="seconds">3644</length>
-    <episode-num system="onscreen">1</episode-num>
+  <programme start="20261017175258 +0200" stop="20261017183739 +0200" channel="c33">
+    <title lang="ca">Els habitants de la fi del món</title>
+    <sub-title lang="ca">Colòmbia</sub-title>
+    <desc lang="ca">Acompanyem l'experimentat Ben Fogle en la seva visita a la música Vanessa Forero (39), on esbrinarà què va portar la seva amfitriona a abandonar el seu Yorkshire natal per viure en una remota muntanya a Sud-amèrica. Coneixerà els esdeveniments que vinculen la Vanessa al passat violent de Colòmbia, i descobrirà com la preciosa llar que s'ha construït l'ajuda a guarir-se les ferides. En Ben es troba amb la Vanessa a les profunditats de la Sierra Nevada de Santa Marta, una serralada aïllada al nord del país. Allà descobreix la seva llar màgica, una antiga pastura descuidada convertida en un idíl·lic santuari de muntanya.Junts, s'encarreguen de fer millores a la llar i al vessant escarpat de la muntanya, des d'un telefèric nou fins a la construcció de parets; i també reben la visita d'un líder indígena. En Ben ajuda la Vanessa a compondre música i escolta una de les històries de supervivència més extraordinàries que ha sentit mai.</desc>
+    <length units="seconds">2681</length>
+    <episode-num system="onscreen">70</episode-num>
     <category lang="ca">DIVULGACIÓ</category>
     <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
     <rating>
@@ -146,7 +135,20 @@
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
-    <icon src="https://img.3cat.cat/multimedia/jpg/1/8/1792065584981.jpg"/>
+  </programme>
+  <programme start="20261017183739 +0200" stop="20261017192213 +0200" channel="c33">
+    <title lang="ca">Els habitants de la fi del món</title>
+    <sub-title lang="ca">Irlanda</sub-title>
+    <desc lang="ca">En Ben viatja a l'illa Great Blasket, a la costa irlandesa. Allà passa uns dies amb en Dan i l'Emily, una parella londinenca que tenen una feina extraordinària: són els cuidadors de les illes de l'irregular frontera occidental d'Europa. Per aconseguir-la, han hagut de superar 40.000 candidats més. En Ben és testimoni de l'adaptació de la parella a la vida aïllada, tot el que han aconseguit sense cap mena d'experiència i, també, on els pot conduir aquest salt de fe. En Ben arregla una bomba d'aigua, agafa ovelles, recull algues i neda amb foques a les aigües clares de l'Atlàntic. També coneix el passat extraordinari de l'illa i l'home que va triar en Dan i l'Emily per dirigir l'illa, amb qui recorren el camí precari que cal fer per aconseguir subministraments per a l'illa. Envoltat de penya-segats i batut per les tempestes, en Ben s'adona que l'illa Great Blasket és un lloc que nodreix l'esperit i ens recorda el poder de la natura.</desc>
+    <length units="seconds">2674</length>
+    <episode-num system="onscreen">71</episode-num>
+    <category lang="ca">DIVULGACIÓ</category>
+    <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <subtitles type="teletext"/>
+    <previously-shown/>
   </programme>
   <channel id="oca1">
     <display-name>OCA1</display-name>
@@ -154,6 +156,19 @@
   <channel id="oca2">
     <display-name>OCA2</display-name>
   </channel>
+  <programme start="20261017174000 +0200" stop="20261017192500 +0200" channel="oca2">
+    <title lang="ca">Hoquei patins</title>
+    <sub-title lang="ca">- Barça-CP Voltregà / Lliga Catalana / 2a Semifinal</sub-title>
+    <desc lang="ca">El FC Barcelona i el CP Voltregà Movento Stern s'enfronten a la segona semifinal de la Lliga Catalana d'hoquei patins.</desc>
+    <length units="seconds">5700</length>
+    <episode-num system="onscreen">8144</episode-num>
+    <category lang="ca">ESPORTS</category>
+    <category lang="ca">RETRANSMISSIONS ESPORTS</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <icon src="https://img.3cat.cat/multimedia/jpg/5/7/1758291200775.jpg"/>
+  </programme>
   <channel id="oca3">
     <display-name>OCA3</display-name>
   </channel>
