@@ -3,52 +3,50 @@
   <channel id="tvi">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20261017100000 +0200" stop="20261017110111 +0200" channel="tvi">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">3671</length>
-    <episode-num system="onscreen">11455</episode-num>
+  <programme start="20261017143000 +0200" stop="20261017153450 +0200" channel="tvi">
+    <title lang="ca">Telenotícies migdia</title>
+    <length units="seconds">3890</length>
+    <episode-num system="onscreen">7361</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/5/4/1758025766345.jpg"/>
   </programme>
-  <programme start="20261017110111 +0200" stop="20261017121433 +0200" channel="tvi">
-    <title lang="ca">Soc i Seré</title>
-    <sub-title lang="ca">Un calçot d'autor</sub-title>
-    <desc lang="ca">Els 20 aspirants enceten un nou dia amb 10.000 euros més a la butxaca i amb una gran sorpresa: l'arribada de 5 cares familiars que sacsejaran el concurs. Després de la seva reincorporació, es formaran 5 equips de 5 persones, i cada equip portarà el nom d'un bolet present als boscos catalans.Aquest quart capítol demostrarà que Llibre tancat no fa lletrat, perquè els aspirants hauran de guanyar un repte molt complex sobre literatura contemporània si volen aconseguir l'avantatge més important de la història de 'Soc i seré': la immunitat. I, per posar veu a les obres literàries, rebrem la visita d'Àlex Casanovas.Un equip tindrà la continuïtat garantida, mentre que els altres quatre hauran de competir per la salvació en un repte eliminatori anomenat Qui no té un all, té una ceba. El jardí de la Colònia Rusiñol es convertirà en l'escenari d'una calçotada, les salses i les postres que prepararan els aspirants.L'equip amb el millor calçot d'autor s'embutxacarà 10.000 euros més i, habitualment, el pitjor equip quedarà eliminat.</desc>
-    <length units="seconds">4402</length>
-    <episode-num system="onscreen">10</episode-num>
-    <category lang="ca">ENTRETENIMENT</category>
-    <category lang="ca">CONCURS</category>
+  <programme start="20261017153120 +0200" stop="20261017165406 +0200" channel="tvi">
+    <title lang="ca">Pel·lícula</title>
+    <sub-title lang="ca">Formentera lady</sub-title>
+    <desc lang="ca">FORMENTERA LADYProducció : Good Machine, AIE, Sunrise Pictures,SL, Fosca Films,SL, La Perifèrica Produccions, amb la producció associada de TV3 amb la participació de IB3 i RTVE i col·laboració de l'Ivac-Culturarts i del Departament de Cultura de la Generalitat de Catalunya. 2018Director : Pau DuràGuió : Pau DuràProductors : David Ciurana , Ramiro AceroDirector de fotografia : Miguel LlorensMúsica : JOan AlavedraIntèrprets : José Sacristán (Samuel), Sandro Ballesteros ( Marc), Pepa Juan ( Greta), Nora Navas ( Anna), Jordi Sánchez ( Toni), Juli Mira ( Paco), Ferran Rañé ( Joan)SinopsiSamuel va arribar a la Formentera hippie dels 70 i allà segueix. Viu a una casa a la platja sense llum i toca el banjo a un bar. Un dia rep la visita de la seva filla Anna i del seu nét Marc. Aturada des de fa temps, l'Anna ha acceptat una feina a França i es veu obligada a deixar el seu fill a l'illa.</desc>
+    <length units="seconds">4966</length>
+    <episode-num system="onscreen">1</episode-num>
+    <category lang="ca">FICCIÓ</category>
+    <category lang="ca">PEL·LÍCULA / TELEFILM</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
+    <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
   <channel id="324">
     <display-name>324</display-name>
   </channel>
-  <programme start="20261017100000 +0200" stop="20261017120000 +0200" channel="324">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+  <programme start="20261017143000 +0200" stop="20261017163000 +0200" channel="324">
+    <title lang="ca">Telenotícies migdia</title>
     <length units="seconds">7200</length>
-    <episode-num system="onscreen">11455</episode-num>
+    <episode-num system="onscreen">7361</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <subtitles type="teletext"/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/5/4/1758025766345.jpg"/>
   </programme>
-  <programme start="20261017120000 +0200" stop="20261017143000 +0200" channel="324">
+  <programme start="20261017163000 +0200" stop="20261017183000 +0200" channel="324">
     <title lang="ca">Notícies 3CatInfo</title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">9000</length>
-    <episode-num system="onscreen">11456</episode-num>
+    <length units="seconds">7200</length>
+    <episode-num system="onscreen">11457</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
@@ -60,43 +58,42 @@
   <channel id="esport3">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20261017101947 +0200" stop="20261017115500 +0200" channel="esport3">
-    <title lang="ca">Onze</title>
-    <sub-title lang="ca">El Tourmalet del Barça; guerra Tebas-Florentino; Delmàs, Fàbregas i Cazorla</sub-title>
-    <desc lang="ca">Míriam Riau condueix la tertúlia amb Lluís Carrasco, Anaïs Martí, Juli Garcia i Edgar Fornós. Àlex Delmàs ens explica quina pot ser la clau del Betis-Barça. Amb Siro López analitzem l'estat de forma del Madrid i la guerra de Tebas amb Florentino. Joan Fàbregas ens explica si els àrbitres realment perjudiquen el Madrid i acabem amb el 'Que n'aprenguin!' de Xavi Cazorla.</desc>
-    <length units="seconds">5713</length>
-    <episode-num system="onscreen">1270</episode-num>
-    <category lang="ca">ESPORTS</category>
-    <category lang="ca">MAGAZINE</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <subtitles type="teletext"/>
-    <previously-shown/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/1/1/1688543515711.jpg"/>
-  </programme>
-  <programme start="20261017115500 +0200" stop="20261017135001 +0200" channel="esport3">
-    <title lang="ca">Futbol</title>
-    <sub-title lang="ca">FC Badalona Women-CD Tenerife / Lliga F / J7</sub-title>
-    <desc lang="ca">Tots dos equips empaten a la zona mitja de la classificació després de dues victòries, dos empats i dues derrotes.</desc>
-    <length units="seconds">6901</length>
-    <episode-num system="onscreen">53</episode-num>
+  <programme start="20261017140130 +0200" stop="20261017152500 +0200" channel="esport3">
+    <title lang="ca">Bàsquet</title>
+    <sub-title lang="ca">Bàsquet Girona-Barça Atlètic / Lliga U / J4</sub-title>
+    <desc lang="ca">Derbi català al grup A del campionat que disputen les joves promeses dels equips de la Lliga Endesa de bàsquet.</desc>
+    <length units="seconds">5010</length>
+    <episode-num system="onscreen">8142</episode-num>
     <category lang="ca">ESPORTS</category>
     <category lang="ca">RETRANSMISSIONS ESPORTS</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <icon src="https://img.ccma.cat/multimedia/jpg/0/8/1730389343680.jpg"/>
+    <previously-shown/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/8/0/1698775546608.jpg"/>
+  </programme>
+  <programme start="20261017152500 +0200" stop="20261017161532 +0200" channel="esport3">
+    <title lang="ca">Hoquei patins</title>
+    <sub-title lang="ca">Igualada HC-CP Calafell / Lliga Catalana / 1a Semifinal</sub-title>
+    <desc lang="ca">L'Igualada Rigat HC i el CP Calafell La Menorquina disputen la primera semifinal a la Lliga Catalana d'hoquei patins.</desc>
+    <length units="seconds">3032</length>
+    <episode-num system="onscreen">8143</episode-num>
+    <category lang="ca">ESPORTS</category>
+    <category lang="ca">RETRANSMISSIONS ESPORTS</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <icon src="https://img.3cat.cat/multimedia/jpg/5/7/1758291200775.jpg"/>
   </programme>
   <channel id="sx3">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20261017105432 +0200" stop="20261017111632 +0200" channel="sx3">
-    <title lang="ca">El carreró del misteri</title>
-    <sub-title lang="ca">L'atac de la formiga gegant</sub-title>
-    <desc lang="ca">La sobirana dels animals de Londres està preocupada per una sèrie de segrestos de gats que hi ha hagut al barri de Marylebone. Gràcies a un gat que s'ha aconseguit escapar, se sospita d'una mena de formiga gegant que llança líquid sobre els gats per immobilitzar-los abans de raptar-los.</desc>
-    <length units="seconds">1320</length>
-    <episode-num system="onscreen">11</episode-num>
+  <programme start="20261017143622 +0200" stop="20261017144725 +0200" channel="sx3">
+    <title lang="ca">Les Sisters</title>
+    <sub-title lang="ca">Com enyoro el Max!</sub-title>
+    <desc lang="ca">El Maxence ha d'anar a passar un cap de setmana d'acampada amb els seus amics, sense la Wendy i sense cobertura per trucar-li ni enviar-li missatges. La Wendy està supernerviosa. No podrà passar dos dies seguits sense el seu Maxence! La Marine intentarà desintoxicar la seva germana del seu nòvio...</desc>
+    <length units="seconds">663</length>
+    <episode-num system="onscreen">24</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
@@ -105,12 +102,12 @@
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20261017111632 +0200" stop="20261017113802 +0200" channel="sx3">
-    <title lang="ca">El carreró del misteri</title>
-    <sub-title lang="ca">El senyor del llamp</sub-title>
-    <desc lang="ca">Durant una apagada inusual al districte de Lexington de Londres, tots els llums i aparells electrònics s'apaguen. L'Espavilada investiga l'escena d'un robatori en una joieria on tot és força estrany.</desc>
-    <length units="seconds">1290</length>
-    <episode-num system="onscreen">22</episode-num>
+  <programme start="20261017144725 +0200" stop="20261017145829 +0200" channel="sx3">
+    <title lang="ca">Les Sisters</title>
+    <sub-title lang="ca">El 'zoròscop'</sub-title>
+    <desc lang="ca">La Marine creu molt en l'horòscop, però la Wendy no. La Marine està decidida a demostrar a la seva germana que l'horòscop diu la veritat, encara que per fer-ho hagi de forçar una mica la situació. Però els plans de la Marine se'n van en orris i les dues germanes acaben perseguides per una vaca que entra al menjador de casa.</desc>
+    <length units="seconds">664</length>
+    <episode-num system="onscreen">25</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
@@ -122,35 +119,34 @@
   <channel id="c33">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20261017103945 +0200" stop="20261017110805 +0200" channel="c33">
-    <title lang="ca">Animals arquitectes</title>
-    <sub-title lang="ca">Josep Bunyesc</sub-title>
-    <desc lang="ca">El lleidatà Josep Bunyesc és un arquitecte de natura i muntanya, el Kilian Jornet de l'arquitectura. Construeix els edificis més alts de Catalunya, a més de 2.000 m, i és l'ideòleg de les cases positives, construccions sostenibles que generen més energia que la que consumeixen. La seva arquitectura incorpora materials locals com la fusta, la palla o la pedra, i es caracteritza per un gran respecte per l'entorn.</desc>
-    <length units="seconds">1700</length>
-    <episode-num system="onscreen">14</episode-num>
-    <category lang="ca">ENTRETENIMENT</category>
-    <category lang="ca">ALTRES</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <subtitles type="teletext"/>
-    <previously-shown/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/1/6/1698653096861.jpg"/>
-  </programme>
-  <programme start="20261017110805 +0200" stop="20261017115445 +0200" channel="c33">
-    <title lang="ca">La Renaixença</title>
-    <sub-title lang="ca">El globus aerostàtic</sub-title>
-    <desc lang="ca">Vic i Igualada podrien ser dues capitals del globus aerostàtic a Catalunya. Estem segurs que els viatges en globus és de les coses que has de fer un cop a la vida, però si això comporta llevar-se de matinada per no sé què dels vents, potser més d'un és baixa. Avui dediquem el capítol al globus aerostàtic. Ens visita en Toni Arbonés, un escalador català que ha obert més de 1.000 vies d'escalada arreu del món. Sortim a passejar en Patxi, un teckel de Barcelona, per la rebel·lió de Sobibor, el 1943.</desc>
-    <length units="seconds">2800</length>
-    <episode-num system="onscreen">74</episode-num>
+  <programme start="20261017143147 +0200" stop="20261017145413 +0200" channel="c33">
+    <title lang="ca">Quèquicom</title>
+    <sub-title lang="ca">Albufera de València: una joia en perill</sub-title>
+    <desc lang="ca">La reportera Anna Lasaga proposa una ruta turisticocientífica per l'Albufera i assisteix als esforços per recuperar, a partir de llavors antigues, una planta aquàtica extingida a causa de la contaminació de les aigües. L'Albufera és, juntament amb Doñana i el Delta de l'Ebre, un dels aiguamolls amb més presència d'ocells aquàtics. Unes 250 espècies d'ocells s'aturen o nidifiquen en aquest parc natural, però els herbívors hi estan en recessió. El problema és que les aigües són fosques i no arriba prou llum al fons perquè les plantes aquàtiques hi visquin. Ara, la Universitat de València ha aconseguit fer rebrotar una planta autòctona desapareguda, la 'Chara hispida', a partir de llavors que s'havien conservat en el fang de l'albufera. Però aquesta planta no s'hi podrà reintroduir si no es depuren millor les aigües que rep la llacuna. Manolín Marco, barquer i pescador, explica que fa poc més de trenta anys l'aigua era tan transparent que es podia beure.</desc>
+    <length units="seconds">1346</length>
+    <episode-num system="onscreen">102</episode-num>
     <category lang="ca">DIVULGACIÓ</category>
-    <category lang="ca">ALTRES</category>
+    <category lang="ca">MAGAZINE ESPECIALITZAT</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/3/3/1756148014833.jpg"/>
+  </programme>
+  <programme start="20261017145413 +0200" stop="20261017155457 +0200" channel="c33">
+    <title lang="ca">Plou i fa sol</title>
+    <sub-title lang="ca">Plou i fa sol</sub-title>
+    <desc lang="ca">'PLOU I FA SOL' (2012), una producció de Curt Ficcions Curt Produccions, en coproducció amb TELEVISIÓ CATALUNYA i amb la col·laboració del Departament d'Agricultura, ICEC, Ajuntament de Sant Boi i Ajuntament de Santa Coloma de Cervelló.Aquesta és una història local, que des d'una situació particular vol explicar el que succeeix a qualsevol gran ciutat europea. Barcelona, como totes les grans metròpolis, necessita cada dia milions de tones d'aliments per abastir la seva població. Però en l'era de la comunicació on les mercaderies i les persones poden moure's per tot el territori amb relativa facilitat i on amb un clic es pot accedir a un munt d'informació, poca gent sap el que menja. Plou i fa sol vol analitzar aquesta immensa fractura entre la producció i el consum d'aliments. La pel·lícula reivindica la necessitat de mantenir l'agricultura periurbana i de proximitat, a través d'un nucli d'agricultors que mantenen els seus camps de producció al Parc Agrari, pròxim a la ciutat. Un espai on conviu la tradició camperola de fa segles amb les noves fórmules de producció i distribució dels joves pagesos que aposten pels productes ecològics i la venda directa. El documental també vol fer esment del paper que juga el Parc Agrari com a protector del medi i de l'ecosistema característics de la zona, imprescindible per a la protecció de la fauna i flora i del paisatge de l'àrea metropolitana de Barcelona, marcada també per comunicacions com els trens i avions.Guió i direcció: Pere Joan VenturaProducció executiva: Carmen IsasaProducció executiva TVC: Jordi AmbròsProducció delegada TVC: Ruth LlòriaDirecció de producció: Sara de LeceaDirecció de fotografia: Alberto MolinaCap de producció: Enric EscofetMuntatge: Anastasi RinosMúsica: Lluís de ArquerDocumentació: Eva de Lecea i Laura GallegoSo directe: Pau Xandri, Sergi MadridanoAjudant de muntatge: Gemma AlfòsImatges d'arxiu cedides per l'Arxiu Històric de la Ciutat de Barcelona</desc>
+    <length units="seconds">3644</length>
+    <episode-num system="onscreen">1</episode-num>
+    <category lang="ca">DIVULGACIÓ</category>
+    <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <subtitles type="teletext"/>
+    <previously-shown/>
+    <icon src="https://img.3cat.cat/multimedia/jpg/1/8/1792065584981.jpg"/>
   </programme>
   <channel id="oca1">
     <display-name>OCA1</display-name>
