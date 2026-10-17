@@ -31,23 +31,11 @@
   <channel id="324">
     <display-name>324</display-name>
   </channel>
-  <programme start="20261017210000 +0200" stop="20261017230000 +0200" channel="324">
-    <title lang="ca">Telenotícies vespre</title>
-    <length units="seconds">7200</length>
-    <episode-num system="onscreen">7360</episode-num>
-    <category lang="ca">ACTUALITAT</category>
-    <category lang="ca">INFORMATIU DIÀRI</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <subtitles type="teletext"/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/7/2/1758026176427.jpg"/>
-  </programme>
-  <programme start="20261017230000 +0200" stop="20261018003000 +0200" channel="324">
+  <programme start="20261018003000 +0200" stop="20261018010000 +0200" channel="324">
     <title lang="ca">Notícies 3CatInfo</title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">5400</length>
-    <episode-num system="onscreen">11460</episode-num>
+    <length units="seconds">1800</length>
+    <episode-num system="onscreen">11461</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
@@ -55,14 +43,42 @@
     </rating>
     <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
+  <programme start="20261018010000 +0200" stop="20261018060000 +0200" channel="324">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="seconds">18000</length>
+    <episode-num system="onscreen">11461</episode-num>
+    <category lang="ca">ACTUALITAT</category>
+    <category lang="ca">INFORMATIU DIÀRI</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <previously-shown/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
+  </programme>
   <channel id="esport3">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20261017213636 +0200" stop="20261017222853 +0200" channel="esport3">
+  <programme start="20261018003423 +0200" stop="20261018023555 +0200" channel="esport3">
+    <title lang="ca">Gol a gol</title>
+    <sub-title lang="ca">Anàlisi de la jornada / J9 / Dissabte</sub-title>
+    <desc lang="ca">'Gol a gol' us ofereix els resums dels partits de futbol de Primera i Segona Divisió. Presentat per Jordi Grau a Esport3, cada dissabte i cada diumenge podeu veure les millors imatges de la jornada de Lliga amb l'anàlisi dels experts, amb especial atenció als equips catalans, sobretot el Barça, el Girona i l'Espanyol.</desc>
+    <length units="seconds">7292</length>
+    <episode-num system="onscreen">1791</episode-num>
+    <category lang="ca">ESPORTS</category>
+    <category lang="ca">MAGAZINE</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <subtitles type="teletext"/>
+    <previously-shown/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/2/1/1698144123212.jpg"/>
+  </programme>
+  <programme start="20261018023555 +0200" stop="20261018042151 +0200" channel="esport3">
     <title lang="ca">Futbol</title>
     <sub-title lang="ca">Reial Madrid-RCD Espanyol / Lliga F / J7</sub-title>
     <desc lang="ca">Les blanc-i-blaves visiten la ciutat esportiva Alfredo Di Stéfano amb la il·lusió de puntuar en un dels camps més complicats.</desc>
-    <length units="seconds">3137</length>
+    <length units="seconds">6356</length>
     <episode-num system="onscreen">54</episode-num>
     <category lang="ca">ESPORTS</category>
     <category lang="ca">RETRANSMISSIONS ESPORTS</category>
@@ -71,30 +87,15 @@
     </rating>
     <icon src="https://img.ccma.cat/multimedia/jpg/0/8/1730389343680.jpg"/>
   </programme>
-  <programme start="20261017222853 +0200" stop="20261017230000 +0200" channel="esport3">
-    <title lang="ca">Zona zàping</title>
-    <sub-title lang="ca">Lamine enlluerna Europa</sub-title>
-    <desc lang="ca">Lamine Yamal va tornar a exhibir-se en un partit de Champions. Contra el Galatasaray turc va fer una segona part espectacular on, tot i no marcar, va donar dues grans assistències. Una d'elles, després d'un regat de rabona que ha donat la volta al món.Continua al programa Laia Bonjorn, que en parlarà d'un vessant desconegut del davanter noruec Erling Haaland.L'actriu, ballarina i cantant Aina Reig acomiada el programa amb el seu nou tema 'No és massa tard'.</desc>
-    <length units="seconds">1867</length>
-    <episode-num system="onscreen">1086</episode-num>
-    <category lang="ca">ESPORTS</category>
-    <category lang="ca">ALTRES</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <subtitles type="teletext"/>
-    <previously-shown/>
-    <icon src="https://img.3cat.cat/multimedia/jpg/4/7/1763564970974.jpg"/>
-  </programme>
   <channel id="sx3">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20261017222444 +0200" stop="20261017223519 +0200" channel="sx3">
-    <title lang="ca">Les filles del Dad</title>
-    <sub-title lang="ca">Un Dad massa seriós</sub-title>
-    <desc lang="ca">És el dia de les innocentades, i les noies n'estan fins al capdamunt de les bromes del Dad i comenten que voldrien tenir un pare normal. Però el Dad les sent i, ofès, decideix convertir-se en un pare seriós, la qual cosa resultarà força insuportable per a les germanes. Per aconseguir que el Dad s'adoni de com pot ser d'avorrida la vida, conviden a casa els seus avorridíssims veïns, els Lapraline.</desc>
-    <length units="seconds">635</length>
-    <episode-num system="onscreen">21</episode-num>
+  <programme start="20261018003236 +0200" stop="20261018004324 +0200" channel="sx3">
+    <title lang="ca">La gateta Arc iris papallona unicorn</title>
+    <sub-title lang="ca">El gat, el gos i la rata</sub-title>
+    <desc lang="ca">El Rudy convoca la Poderosa Meu i el Superlluita amb l'excusa d'una emergència, però el que vol en realitat és ser l'ajudant dels dos superherois. La Felicity i el Miguel acaben cedint, però han de procurar que el Rudy no els descobreixi.</desc>
+    <length units="seconds">648</length>
+    <episode-num system="onscreen">42</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
@@ -103,12 +104,12 @@
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20261017223519 +0200" stop="20261017224615 +0200" channel="sx3">
-    <title lang="ca">La tropa del corral</title>
-    <sub-title lang="ca">Atrapats</sub-title>
-    <desc lang="ca">La Tropa del Corral rep una trucada. L'Albert s'ha quedat amb atrapat dins d'un tub de paper de cuina. Surten disparats però, de sobte, la nova tanca que ha instal·lat el granger els atura. Cada cop que l'intenten travessar, salta l'alarma. Com que en Jo pot passar per sota dels rajos vermells i la Maggie els pot saltar, tots dos corren a ajudar l'Albert, mentre la Flo, en Clive i en Billy intenten trobar una manera de sortir de la granja.</desc>
-    <length units="seconds">656</length>
-    <episode-num system="onscreen">13</episode-num>
+  <programme start="20261018004324 +0200" stop="20261018010431 +0200" channel="sx3">
+    <title lang="ca">Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
+    <sub-title lang="ca">Ninaflekta</sub-title>
+    <desc lang="ca">La Juleka vol ser model, però li costa molt fer el pas. La Marinette li proposa que faci una sessió fotogràfica amb les seves creacions, però la timidesa de la Juleka fa que les coses no surtin com estava previst, i el malvat Esfinx ho aprofitarà per tornar a sembrar el caos a París.</desc>
+    <length units="seconds">1267</length>
+    <episode-num system="onscreen">57</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
@@ -120,22 +121,11 @@
   <channel id="c33">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20261017221825 +0200" stop="20261017235341 +0200" channel="c33">
-    <title lang="ca">El documental</title>
-    <sub-title lang="ca">Un simple soldat</sub-title>
-    <length units="seconds">5716</length>
-    <episode-num system="onscreen">1</episode-num>
-    <category lang="ca">DIVULGACIÓ</category>
-    <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-  </programme>
-  <programme start="20261017235341 +0200" stop="20261018010856 +0200" channel="c33">
+  <programme start="20261017235342 +0200" stop="20261018010856 +0200" channel="c33">
     <title lang="ca">60 minuts</title>
     <sub-title lang="ca">Els fills de la secta</sub-title>
     <desc lang="ca">Una supervivent de les comunes Rajneesh investiga els abusos, la manipulació i l'explotació sexual que van patir centenars d'infants dins del moviment, destapant una història silenciada durant dècades.</desc>
-    <length units="seconds">4515</length>
+    <length units="seconds">4514</length>
     <episode-num system="onscreen">1</episode-num>
     <category lang="ca">DIVULGACIÓ</category>
     <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
@@ -144,22 +134,29 @@
     </rating>
     <subtitles type="teletext"/>
   </programme>
-  <channel id="oca1">
-    <display-name>OCA1</display-name>
-  </channel>
-  <programme start="20261017202753 +0200" stop="20261017223753 +0200" channel="oca1">
-    <title lang="ca">Futbol</title>
-    <sub-title lang="ca">- Reial Madrid-RCD Espanyol / Lliga F / J7</sub-title>
-    <desc lang="ca">Les blanc-i-blaves visiten la ciutat esportiva Alfredo Di Stéfano amb la il·lusió de puntuar en un dels camps més complicats.</desc>
-    <length units="seconds">7800</length>
-    <episode-num system="onscreen">54</episode-num>
-    <category lang="ca">ESPORTS</category>
-    <category lang="ca">RETRANSMISSIONS ESPORTS</category>
+  <programme start="20261018010856 +0200" stop="20261018020835 +0200" channel="c33">
+    <title lang="ca">Plat en blanc</title>
+    <sub-title lang="ca">Plat en blanc</sub-title>
+    <desc lang="ca">'Plat en blanc' (2025) una producció d'Abacus, en coproducció amb 3Cat i el suport de la Generalitat de Catalunya. 'Plat en blanc' és un inside al procés del restaurant Disfrutar fins aconseguir ser distingit com el millor restaurant del món en una espectacular gala a Las Vegas. A més d'aquest seguiment, el documental ens mostra la història dels tres xefs, Eduard Xatruch, Mateu Casañas i Oriol Castro, des del seu pas sacrificat per El Bulli fins aconseguir crear el seu propi restaurant. 'Plat en Blanc' és una immersió en la cuina com a art, ciència, territori i emoció, on cada plat és un llenç en blanc a punt per ser pintat amb sabors i innovació. Direcció: Alan Fàbregas i Ramon Pardina Guió: Ramon Pardina Realització: Alan Fàbregas Producció executiva: Oriol Cortacans i Marc Roma Producció: Carla Alpeñés Andrada Producció executiva 3Cat: David Bassa Cabanas Silvia Pairó Vila Producció delegada 3Cat: Daniel Barea Delgado Direcció de fotografia: Alan Fàbregas Muntatge: Roger Llorens Direcció de producció: Tatiana Iriarte Grafisme: Roger Llorens </desc>
+    <credits>
+      <director>Alan Fàbregas</director>
+      <director>Ramon Pardina</director>
+      <writer>Ramon</writer>
+    </credits>
+    <length units="seconds">3579</length>
+    <episode-num system="onscreen">1</episode-num>
+    <category lang="ca">ACTUALITAT</category>
+    <category lang="ca">DOCUMENTAL</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <icon src="https://img.ccma.cat/multimedia/jpg/0/8/1730389343680.jpg"/>
+    <subtitles type="teletext"/>
+    <previously-shown/>
+    <icon src="https://img.3cat.cat/multimedia/jpg/4/2/1747732419324.jpg"/>
   </programme>
+  <channel id="oca1">
+    <display-name>OCA1</display-name>
+  </channel>
   <channel id="oca2">
     <display-name>OCA2</display-name>
   </channel>
