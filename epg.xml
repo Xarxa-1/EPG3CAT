@@ -3,23 +3,26 @@
   <channel id="tvi">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20261018142933 +0200" stop="20261018153422 +0200" channel="tvi">
-    <title lang="ca">Telenotícies migdia</title>
-    <length units="seconds">3889</length>
-    <episode-num system="onscreen">7362</episode-num>
-    <category lang="ca">ACTUALITAT</category>
-    <category lang="ca">INFORMATIU DIÀRI</category>
+  <programme start="20261018182848 +0200" stop="20261018192000 +0200" channel="tvi">
+    <title lang="ca">Temps de silenci</title>
+    <sub-title lang="ca">Viatges</sub-title>
+    <desc lang="ca">La Isabel i en Ramon viuen la plenitud del seu amor. Però encara en secret. Hi ha qui pateix aquest amor retrobat. I hi ha les 'formes'. Formes que la Rossy voldria trencar, però el 'dol' és el dol... Els joves es van fent grans...</desc>
+    <length units="seconds">3072</length>
+    <episode-num system="onscreen">17</episode-num>
+    <category lang="ca">FICCIÓ</category>
+    <category lang="ca">SÈRIE DRAMÀTICA</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <icon src="https://img.ccma.cat/multimedia/jpg/5/4/1758025766345.jpg"/>
+    <subtitles type="teletext"/>
+    <previously-shown/>
   </programme>
-  <programme start="20261018153129 +0200" stop="20261018165116 +0200" channel="tvi">
-    <title lang="ca">Pel·lícula</title>
-    <sub-title lang="ca">L'home orquestra</sub-title>
-    <desc lang="ca">'L'home orquestra' (2017), una producció d'Àlex Gómez-Font (Swing Produccions) en coproducció amb Televisió de Catalunya i TVE, amb la col·laboració de l'ICEC i el suport d'AIE, VOTV, ADAG i Nova Jazz Cava.Aquest treball evoca tota una generació de músics, la major part catalans, que durant la dècada dels anys 40 i 50 van deixar enrere la dictadura franquista i van decidir embarcar-se i anar a fer les Amèriques.El relat pren com a protagonista i fil conductor la figura d'un dels darrers supervivents d'aquella aventura: el multiinstrumentista Jesús Peyrón (Barcelona, 1930), que va adoptar el nom artístic de Jesús Moreno. Peyrón va ser un dels protagonistes destacats de l?edat daurada de les grans orquestres de ball. És l'únic que va saber construir-se una carrera excepcional, actuant als millors escenaris del món i acompanyant artistes d'alçada com Frank Sinatra, Nat 'King' Cole, Édith Piaf, Judy Garland, Benny Goodman, Benny Moré, Xavier Cugat i molts altres.Direcció i guió: Àlex Gómez-Font i Carles RiobóRealització: Carles RiobóProductor: Àlex Gómez-FontProductor executiu TVC: Jordi AmbròsProductor delegat TVC: Joan PavónDirector fotografia: Toni TarifaMuntatge: Carles RiobóDirector de producció: Pau GuixàGrafisme: Mateu Marcet</desc>
-    <length units="seconds">4787</length>
-    <episode-num system="onscreen">1</episode-num>
+  <programme start="20261018192000 +0200" stop="20261018193505 +0200" channel="tvi">
+    <title lang="ca">Pastors i ramats: un món que se'n va</title>
+    <sub-title lang="ca">Gemma Clarena</sub-title>
+    <desc lang="ca">'Pastors i ramats, un món que se'n va', és una sèrie de 15 capítols protagonitzada per pastors i pastores que, al llarg del nostre país, treuen a pasturar cada dia el seu ramat. Malgrat fer la mateixa feina, cada pastor és un món, una forma particular de relacionar-se amb el ramat, un mosaic de veus i gestos units per l'estimació pels animals. I també un conjunt de converses amb persones que són allà on volen ser, perseverant tossudament per continuar l'ofici malgrat totes les dificultats... Pastors i ramats... és la lluita silenciosa i plena de dignitat d'un món que se'n va.</desc>
+    <length units="seconds">905</length>
+    <episode-num system="onscreen">2</episode-num>
     <category lang="ca">DIVULGACIÓ</category>
     <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
     <rating>
@@ -31,22 +34,24 @@
   <channel id="324">
     <display-name>324</display-name>
   </channel>
-  <programme start="20261018143000 +0200" stop="20261018163000 +0200" channel="324">
-    <title lang="ca">Telenotícies migdia</title>
-    <length units="seconds">7200</length>
-    <episode-num system="onscreen">7362</episode-num>
+  <programme start="20261018183000 +0200" stop="20261018200000 +0200" channel="324">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="seconds">5400</length>
+    <episode-num system="onscreen">11466</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <icon src="https://img.ccma.cat/multimedia/jpg/5/4/1758025766345.jpg"/>
+    <subtitles type="teletext"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
-  <programme start="20261018163000 +0200" stop="20261018183000 +0200" channel="324">
+  <programme start="20261018200000 +0200" stop="20261018210000 +0200" channel="324">
     <title lang="ca">Notícies 3CatInfo</title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">7200</length>
-    <episode-num system="onscreen">11465</episode-num>
+    <length units="seconds">3600</length>
+    <episode-num system="onscreen">11467</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
@@ -58,81 +63,70 @@
   <channel id="esport3">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20261018135108 +0200" stop="20261018152216 +0200" channel="esport3">
-    <title lang="ca">E3D</title>
-    <sub-title lang="ca">- BARÇA-CP VOLTREGÀ / LLIGA CATALANA / 2A SEMIFINAL</sub-title>
-    <desc lang="ca">Sense Descripció</desc>
-    <length units="seconds">5468</length>
-  </programme>
-  <programme start="20261018152216 +0200" stop="20261018155000 +0200" channel="esport3">
-    <title lang="ca">Zona zàping</title>
-    <sub-title lang="ca">Lamine enlluerna Europa</sub-title>
-    <desc lang="ca">Lamine Yamal va tornar a exhibir-se en un partit de Champions. Contra el Galatasaray turc va fer una segona part espectacular on, tot i no marcar, va donar dues grans assistències. Una d'elles, després d'un regat de rabona que ha donat la volta al món.Continua al programa Laia Bonjorn, que en parlarà d'un vessant desconegut del davanter noruec Erling Haaland.L'actriu, ballarina i cantant Aina Reig acomiada el programa amb el seu nou tema 'No és massa tard'.</desc>
-    <length units="seconds">1664</length>
-    <episode-num system="onscreen">1086</episode-num>
+  <programme start="20261018181000 +0200" stop="20261018185505 +0200" channel="esport3">
+    <title lang="ca">Handbol</title>
+    <sub-title lang="ca">Cangas-Barça / Lliga Asobal / J6</sub-title>
+    <desc lang="ca">Els blaugranes visiten la pista del conjunt gallec de Cangas do Morrazo per disputar el partit que tanca la 6a jornada de Lliga.</desc>
+    <length units="seconds">2705</length>
+    <episode-num system="onscreen">196</episode-num>
     <category lang="ca">ESPORTS</category>
-    <category lang="ca">ALTRES</category>
+    <category lang="ca">RETRANSMISSIONS ESPORTS</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <subtitles type="teletext"/>
-    <previously-shown/>
-    <icon src="https://img.3cat.cat/multimedia/jpg/4/7/1763564970974.jpg"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/9/1/1700215879019.jpg"/>
+  </programme>
+  <programme start="20261018185505 +0200" stop="20261018190540 +0200" channel="esport3">
+    <title lang="ca">Esport Club Cap de Setmana</title>
+    <sub-title lang="ca">Esport Club</sub-title>
+    <desc lang="ca">Magazín amb tota l'actualitat esportiva del cap de setmana, amb atenció especial a la jornada de futbol i les principals competicions del nostre esport.</desc>
+    <length units="seconds">635</length>
+    <episode-num system="onscreen">1404</episode-num>
+    <category lang="ca">ESPORTS</category>
+    <category lang="ca">INFORMATIU DIÀRI</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <icon src="https://img.ccma.cat/multimedia/jpg/7/3/1698145091337.jpg"/>
   </programme>
   <channel id="sx3">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20261018150001 +0200" stop="20261018151104 +0200" channel="sx3">
-    <title lang="ca">Les Sisters</title>
-    <sub-title lang="ca">Nòvios i peluixos</sub-title>
-    <desc lang="ca">La Marine, decidida a ser una nena gran, vol deixar els seus peluixos. I la Wendy és l'única que li pot ensenyar a fer-ho perquè ella se'n va sortir. La Marine es pensa que la Wendy va substituir els seus peluixos per un nòvio i vol fer el mateix. Però el nòvio en qüestió no s'hi esforça gaire...</desc>
-    <length units="seconds">663</length>
-    <episode-num system="onscreen">34</episode-num>
+  <programme start="20261018182725 +0200" stop="20261018183604 +0200" channel="sx3">
+    <title lang="ca">En Grizzy i els Lèmmings</title>
+    <sub-title lang="ca">La llegenda dels set Lèmmings</sub-title>
+    <desc lang="ca">Els Lèmmings creen un espectacle d'ombres xineses en què set Lèmmings de paper s'enfronten a un os per un pot de deliciosa crema de xocolata. Els Lèmmings del públic estan encantats, però a en Grizzy l'indigna com tracten el personatge de l'os i decideix intervenir a l'espectacle. Llavors equipa l'os de paper amb una armadura i un sabre. Els Lèmmings contraataquen amb les seves efígies ninja i preparen un atac per recuperar la preuada crema de xocolata.</desc>
+    <length units="seconds">519</length>
+    <episode-num system="onscreen">161</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
       <value>INFANTIL</value>
     </rating>
-    <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20261018151104 +0200" stop="20261018152208 +0200" channel="sx3">
-    <title lang="ca">Les Sisters</title>
-    <sub-title lang="ca">Hipnotitzada</sub-title>
-    <desc lang="ca">Hipnotitzada involuntàriament per un vídeo, la Wendy es converteix en una nena petita. A la Marine li toca fer el paper de germana gran. Intentarà de totes totes trobar l'hipnotitzador perquè desperti la Wendy. El mag li ensenyarà a fer obeir la Wendy fent petar els dits.</desc>
-    <length units="seconds">664</length>
-    <episode-num system="onscreen">35</episode-num>
+  <programme start="20261018183604 +0200" stop="20261018184244 +0200" channel="sx3">
+    <title lang="ca">El xai Shaun</title>
+    <sub-title lang="ca">L'empat</sub-title>
+    <desc lang="ca">És hora d'esmorzar, el granger s'adona que no té llet, es posa nerviós i se'n va desesperat a buscar-ne amb el cotxe, però acaba encallat enmig d'un embús. En Shaun i les ovelles, que també tenen ganes d'esmorzar i també s'han començat a posar nervioses, al final decideixen arreglar-ho a la seva manera. Si el dia comença així, com s'acabarà?!</desc>
+    <length units="seconds">400</length>
+    <episode-num system="onscreen">91</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
       <value>INFANTIL</value>
     </rating>
-    <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
   <channel id="c33">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20261018145515 +0200" stop="20261018152006 +0200" channel="c33">
-    <title lang="ca">Quèquicom</title>
-    <sub-title lang="ca">Suor, salut i llàgrimes.</sub-title>
-    <desc lang="ca">La suor és una reacció del cos necessària per viure. Sense, moriríem ofegats. Hi ha persones, però, que la pateixen en excés: és el que s'anomena hiperhidrosi. L'Alba Casals és una persona que pateix hiperhidrosi. Li suen les mans en excés i això ha influït tant en la seva vida personal com professional. Quèquicom l'acompanya al dermatòleg perquè l'aconselli què pot fer, i descobreix que una de les solucions és l'operació.</desc>
-    <length units="seconds">1491</length>
-    <episode-num system="onscreen">105</episode-num>
-    <category lang="ca">DIVULGACIÓ</category>
-    <category lang="ca">MAGAZINE ESPECIALITZAT</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <subtitles type="teletext"/>
-    <previously-shown/>
-  </programme>
-  <programme start="20261018152006 +0200" stop="20261018161238 +0200" channel="c33">
-    <title lang="ca">El Bulli, l'últim vals</title>
-    <sub-title lang="ca">El Bulli, l'últim vals</sub-title>
-    <desc lang="ca">El 30 de juliol de 2011, el Bulli -guanyador durant cinc edicions del guardó a millor restaurant del món- va tancar les seves portes per convertir-se, el 2014, en Fundació. El seu xef, Ferran Adrià, va servir un últim i espectacular sopar, acompanyat dels qui avui són els millors xefs del món i que en els darrers anys han passat a elBulli; René Redzepi (Noma), Joan Roca (El Celler de Can Roca), Andoni Luis Aduriz (Mugaritz), Grand Achat (Alinea), Massimo Bottura (Osteria Francescana) i José Andrés (Think Food Group).</desc>
-    <length units="seconds">3152</length>
-    <episode-num system="onscreen">1</episode-num>
+  <programme start="20261018182116 +0200" stop="20261018190153 +0200" channel="c33">
+    <title lang="ca">Un món de Jocs</title>
+    <sub-title lang="ca">L'espai de joc dels déus</sub-title>
+    <desc lang="ca">Els Jocs Olímpics van començar com una cerimònia religiosa. Milers d'anys després, la línia entre l'esport i la religió encara és poc clara. Als millors jugadors del món se'ls venera com si fossin divinitats i, com qualsevol divinitat, les seves accions inspiren les masses. Els jocs d'aquest episodi són profundes experiències religioses. Son molt més que espais de joc, són els espais de joc dels Déus.Alpinisme, FrançaPasola, IndonèsiaIoga, els Estats UnitsRarajipari, Mèxic</desc>
+    <length units="seconds">2437</length>
+    <episode-num system="onscreen">5</episode-num>
     <category lang="ca">DIVULGACIÓ</category>
     <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
     <rating>
@@ -140,7 +134,21 @@
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
-    <icon src="https://img.3cat.cat/multimedia/jpg/7/4/1734447007847.jpg"/>
+    <icon src="https://img.3cat.cat/multimedia/jpg/3/7/1788343809373.jpg"/>
+  </programme>
+  <programme start="20261018190153 +0200" stop="20261018200053 +0200" channel="c33">
+    <title lang="ca">Rick Stein: De Venècia a Istanbul</title>
+    <sub-title lang="ca">Grècia</sub-title>
+    <desc lang="ca">En Rick deixa Albània i entra al nord de Grècia, on tasta 'kotopita' i 'hortopita', unes panades delicioses fetes amb pasta de full. A Ioànnina tasta uns quants plats de peix del llac i un estofat amb un toc bizantí que li prepara una estudiant de cuina. A Préveza visita una botiga on venen 'ouzo', i a Mesolongi un lloc on fan botàriga (ous de peix assecat, usats com a condiment). A la seva cuina de l'illa de Simi ens farà 'souvlaki', 'avgolemono' (sopa de pollastre amb ou escaldat), i pebrots i tomàquets farcits.</desc>
+    <length units="seconds">3540</length>
+    <episode-num system="onscreen">4</episode-num>
+    <category lang="ca">DIVULGACIÓ</category>
+    <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <subtitles type="teletext"/>
+    <previously-shown/>
   </programme>
   <channel id="oca1">
     <display-name>OCA1</display-name>
