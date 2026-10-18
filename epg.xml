@@ -3,48 +3,36 @@
   <channel id="tvi">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20261018060001 +0200" stop="20261018070001 +0200" channel="tvi">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">3600</length>
-    <episode-num system="onscreen">11461</episode-num>
-    <category lang="ca">ACTUALITAT</category>
-    <category lang="ca">INFORMATIU DIÀRI</category>
+  <programme start="20261018100154 +0200" stop="20261018114202 +0200" channel="tvi">
+    <title lang="ca">Diumenge Concert</title>
+    <sub-title lang="ca">Judit Neddermann &amp; GIO Symphonia: 10 anys de trajectòria</sub-title>
+    <desc lang="ca">La reconeguda cantant i compositora Judit Neddermann arriba a la Sala Montsalvatge de l'Auditori de Girona acompanyada per la seva banda i la GIO Symphonia, sota la direcció de Joan Albert Amargós, per celebrar una trajectòria en constant evolució, que arriba als 10 anys, marcada per la poètica de la vida i l'amor per la música. Judit Neddermann compta amb els seus músics, col·laboradors habituals: Pau Figueras, guitarres; Isaac Coll, baix; Adrià Gonzàlez, piano; Dídac Fernández, bateria i percussió, a més de la GIO Symphonia i el mestre Joan Albert Amargós, a càrrec dels arranjaments i la direcció.Cançó i orquestra en un diàleg emocionant per celebrar els 10 anys de trajectòria de l'artista catalana des de l'Auditori de Girona, en un enregistrament fet el 28 febrer 2026 </desc>
+    <length units="seconds">6008</length>
+    <episode-num system="onscreen">115</episode-num>
+    <category lang="ca">MUSICALS</category>
+    <category lang="ca">CLÀSSICA</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <previously-shown/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
+    <icon src="https://img.3cat.cat/multimedia/jpg/2/1/1730826356312.jpg"/>
   </programme>
-  <programme start="20261018070001 +0200" stop="20261018092946 +0200" channel="tvi">
+  <programme start="20261018114202 +0200" stop="20261018141202 +0200" channel="tvi">
     <title lang="ca">Notícies 3CatInfo</title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">8985</length>
-    <episode-num system="onscreen">11462</episode-num>
-    <category lang="ca">ACTUALITAT</category>
-    <category lang="ca">INFORMATIU DIÀRI</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <previously-shown/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
-  </programme>
-  <channel id="324">
-    <display-name>324</display-name>
-  </channel>
-  <programme start="20261018060000 +0200" stop="20261018090000 +0200" channel="324">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">10800</length>
-    <episode-num system="onscreen">11462</episode-num>
+    <length units="seconds">9000</length>
+    <episode-num system="onscreen">11463</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
+    <previously-shown/>
     <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
+  <channel id="324">
+    <display-name>324</display-name>
+  </channel>
   <programme start="20261018090000 +0200" stop="20261018120000 +0200" channel="324">
     <title lang="ca">Notícies 3CatInfo</title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
@@ -58,30 +46,28 @@
     <subtitles type="teletext"/>
     <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
-  <channel id="esport3">
-    <display-name>ESPORT3</display-name>
-  </channel>
-  <programme start="20261018062926 +0200" stop="20261018064702 +0200" channel="esport3">
-    <title lang="ca">E3</title>
-    <sub-title lang="ca">Volta Cicloturista a Eivissa</sub-title>
-    <desc lang="ca">23a edició de la cursa ciclista que recorre, en tres etapes, les carreteres de l'illa.</desc>
-    <length units="seconds">1056</length>
-    <episode-num system="onscreen">2395</episode-num>
-    <category lang="ca">ESPORTS</category>
-    <category lang="ca">REPORTATGES</category>
+  <programme start="20261018120000 +0200" stop="20261018143000 +0200" channel="324">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="seconds">9000</length>
+    <episode-num system="onscreen">11464</episode-num>
+    <category lang="ca">ACTUALITAT</category>
+    <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
-    <previously-shown/>
-    <icon src="https://img.3cat.cat/multimedia/jpg/0/2/1773925571120.jpg"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
-  <programme start="20261018064702 +0200" stop="20261018083542 +0200" channel="esport3">
+  <channel id="esport3">
+    <display-name>ESPORT3</display-name>
+  </channel>
+  <programme start="20261018101105 +0200" stop="20261018115500 +0200" channel="esport3">
     <title lang="ca">Futbol</title>
-    <sub-title lang="ca">FC Badalona Women-CD Tenerife / Lliga F / J7</sub-title>
-    <desc lang="ca">Tots dos equips empaten a la zona mitja de la classificació després de dues victòries, dos empats i dues derrotes.</desc>
-    <length units="seconds">6520</length>
-    <episode-num system="onscreen">53</episode-num>
+    <sub-title lang="ca">Reial Madrid-RCD Espanyol / Lliga F / J7</sub-title>
+    <desc lang="ca">Les blanc-i-blaves visiten la ciutat esportiva Alfredo Di Stéfano amb la il·lusió de puntuar en un dels camps més complicats.</desc>
+    <length units="seconds">6235</length>
+    <episode-num system="onscreen">54</episode-num>
     <category lang="ca">ESPORTS</category>
     <category lang="ca">RETRANSMISSIONS ESPORTS</category>
     <rating>
@@ -89,15 +75,28 @@
     </rating>
     <icon src="https://img.ccma.cat/multimedia/jpg/0/8/1730389343680.jpg"/>
   </programme>
+  <programme start="20261018115500 +0200" stop="20261018155000 +0200" channel="esport3">
+    <title lang="ca">Futbol</title>
+    <sub-title lang="ca">Reus FC Reddis-RCD Espanyol B / Segona Federació / J7</sub-title>
+    <desc lang="ca">Duel entre dos conjunts que són a la part alta i lluiten per la zona de play-off d'ascens a Primera Federació.</desc>
+    <length units="seconds">14100</length>
+    <episode-num system="onscreen">72</episode-num>
+    <category lang="ca">ESPORTS</category>
+    <category lang="ca">RETRANSMISSIONS ESPORTS</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <icon src="https://img.ccma.cat/multimedia/jpg/0/7/1698446098170.jpg"/>
+  </programme>
   <channel id="sx3">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20261018062317 +0200" stop="20261018064445 +0200" channel="sx3">
-    <title lang="ca">Les Tres Bessones</title>
-    <sub-title lang="ca">La Blancaneu i els set nans</sub-title>
-    <desc lang="ca">La malvada madrastra de la Blancaneu ofereix un pastís de poma enverinat a les Tres Bessones. Només l'Helena, que sempre té gana, en tasta un tros i cau adormida. L'Anna i la Teresa saben que han de trobar un príncep perquè trenqui l'encanteri. Molt a prop, en una mina, troben tres bessons: són els tres fills de la Blancaneu.</desc>
-    <length units="seconds">1288</length>
-    <episode-num system="onscreen">2</episode-num>
+  <programme start="20261018105133 +0200" stop="20261018111303 +0200" channel="sx3">
+    <title lang="ca">El carreró del misteri</title>
+    <sub-title lang="ca">L'horda secreta</sub-title>
+    <desc lang="ca">El Benny, el gos més dolç i popular del barri, canvia de manera sobtada i radical de personalitat: després de veure gravat un símbol enigmàtic en un arbre del parc, no vol veure els seus amics i fins i tot mossega el seu amo.</desc>
+    <length units="seconds">1290</length>
+    <episode-num system="onscreen">15</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
@@ -106,12 +105,12 @@
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20261018064445 +0200" stop="20261018070905 +0200" channel="sx3">
-    <title lang="ca">Les Tres Bessones</title>
-    <sub-title lang="ca">Les tres bessones i Kim de l'Índia</sub-title>
-    <desc lang="ca">L'Avorrida castiga les Bessones a seguir una aventura amb en Kim, un noi molt llest que viu a l'Índia. Amb ell aconseguiran acabar amb una xarxa d'explotadors de nens i nenes, i els faran tornar a l'escola del seu poble.</desc>
-    <length units="seconds">1460</length>
-    <episode-num system="onscreen">54</episode-num>
+  <programme start="20261018111303 +0200" stop="20261018113433 +0200" channel="sx3">
+    <title lang="ca">El carreró del misteri</title>
+    <sub-title lang="ca">Projecte hipocamp</sub-title>
+    <desc lang="ca">Un gat que es diu Gominola va a veure l'Espavilada perquè el seu amo, un gran violinista, ha perdut el seny. El músic, que de sobte es comporta com si fos un nadó, ha trencat el seu violí en un atac de ràbia.</desc>
+    <length units="seconds">1290</length>
+    <episode-num system="onscreen">6</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
@@ -123,33 +122,35 @@
   <channel id="c33">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20261018060633 +0200" stop="20261018063124 +0200" channel="c33">
-    <title lang="ca">Quèquicom</title>
-    <sub-title lang="ca">Suor, salut i llàgrimes.</sub-title>
-    <desc lang="ca">La suor és una reacció del cos necessària per viure. Sense, moriríem ofegats. Hi ha persones, però, que la pateixen en excés: és el que s'anomena hiperhidrosi. L'Alba Casals és una persona que pateix hiperhidrosi. Li suen les mans en excés i això ha influït tant en la seva vida personal com professional. Quèquicom l'acompanya al dermatòleg perquè l'aconselli què pot fer, i descobreix que una de les solucions és l'operació.</desc>
-    <length units="seconds">1491</length>
-    <episode-num system="onscreen">105</episode-num>
-    <category lang="ca">DIVULGACIÓ</category>
-    <category lang="ca">MAGAZINE ESPECIALITZAT</category>
+  <programme start="20261018103056 +0200" stop="20261018105943 +0200" channel="c33">
+    <title lang="ca">Animals arquitectes</title>
+    <sub-title lang="ca">Beth Galí</sub-title>
+    <desc lang="ca">La Beth Galí és arquitecta, paisatgista, dissenyadora, música. Una dona polifacètica i avançada al seu temps que va transformar l'urbanisme de la Barcelona preolímpica i ha dissenyat espais públics per tot Europa, però que sovint ha quedat a l'ombra de la seva parella, l'Oriol Bohigas. Descobrim el seu caràcter, el seu posicionament i el seu pis, al bell mig de la plaça Reial, i amb ella parlem del passat i el present de Barcelona.</desc>
+    <length units="seconds">1727</length>
+    <episode-num system="onscreen">15</episode-num>
+    <category lang="ca">ENTRETENIMENT</category>
+    <category lang="ca">ALTRES</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/1/6/1698653096861.jpg"/>
   </programme>
-  <programme start="20261018063124 +0200" stop="20261018065634 +0200" channel="c33">
-    <title lang="ca">Quèquicom</title>
-    <sub-title lang="ca">Matant mosquits</sub-title>
-    <desc lang="ca">Els mosquits són insectes dotats d'unes capacitats extraordinàries adreçades a un únic objectiu: xuclar la sang. Les seves picades molesten i poden transmetre malalties perilloses. Per això els combatem sistemàticament. Molts predadors naturals, com les orenetes, els ratpenats, les gambúsies o les libèl·lules, són els nostres aliats en aquesta lluita. Segons sembla, els mosquits van aparèixer fa uns 200 milions d'anys. Alguns van quedar atrapats en gotes de resina, que posteriorment es va fossilitzar i es van convertir en ambre. Si avui ens piquen a nosaltres, fa 50 milions d'anys ja picaven els dinosaures. Això sí, només piquen les femelles, i ho fan perquè necessiten les proteïnes de la sang de les seves víctimes per formar els ous. Una vegada formats, la femella haurà de cercar un lloc on hi hagi aigua estancada per fer-hi la posta.</desc>
-    <length units="seconds">1510</length>
-    <episode-num system="onscreen">106</episode-num>
-    <category lang="ca">DIVULGACIÓ</category>
-    <category lang="ca">MAGAZINE ESPECIALITZAT</category>
+  <programme start="20261018105943 +0200" stop="20261018113251 +0200" channel="c33">
+    <title lang="ca">Animals arquitectes</title>
+    <sub-title lang="ca"> Bjarke ingels</sub-title>
+    <desc lang="ca">Bjarke Ingels és un dels arquitectes més reconeguts mundialment. L'últim arquitecte estrella, el Messi de l'arquitectura. És capaç de materialitzar les idees més extraordinàries i els seus edificis són d'una gran espectacularitat, arriscats i simbòlics. Actualment, té oficines a tres continents i una d'elles l'acaba d'obrir a Barcelona, la ciutat que li va canviar la vida i que el va fer ser arquitecte. Amb ell, des de Copenhaguen, descobrim el fort lligam que té amb Catalunya.</desc>
+    <length units="seconds">1988</length>
+    <episode-num system="onscreen">16</episode-num>
+    <category lang="ca">ENTRETENIMENT</category>
+    <category lang="ca">ALTRES</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/1/6/1698653096861.jpg"/>
   </programme>
   <channel id="oca1">
     <display-name>OCA1</display-name>
