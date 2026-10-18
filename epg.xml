@@ -3,50 +3,33 @@
   <channel id="tvi">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20261018182848 +0200" stop="20261018192000 +0200" channel="tvi">
-    <title lang="ca">Temps de silenci</title>
-    <sub-title lang="ca">Viatges</sub-title>
-    <desc lang="ca">La Isabel i en Ramon viuen la plenitud del seu amor. Però encara en secret. Hi ha qui pateix aquest amor retrobat. I hi ha les 'formes'. Formes que la Rossy voldria trencar, però el 'dol' és el dol... Els joves es van fent grans...</desc>
-    <length units="seconds">3072</length>
-    <episode-num system="onscreen">17</episode-num>
-    <category lang="ca">FICCIÓ</category>
-    <category lang="ca">SÈRIE DRAMÀTICA</category>
+  <programme start="20261018201513 +0200" stop="20261018210000 +0200" channel="tvi">
+    <title lang="ca">APM?</title>
+    <desc lang="ca">Joel Díaz tindrà a l'altra banda del plafó del 'Però vostè qui és?' Gerard Martín. Per primera vegada, un jugador del Barça trepitja el nostre terreny de joc, on les preguntes les posa el Joel i no hi ha VAR que valgui. Junts parlaran de viure amb els pares, de les bronques de Hansi Flick i de com és la vida de ric. Perquè pots jugar al primer equip del Barça i que a casa encara et preguntin si has recollit l'habitació.Mentrestant, Nerea Sanfe segueix 'On falla!' fent els reportatges que li suggereixen els nostres espectadors per Instagram. Aquest cop ha anat a parlar amb expats per resoldre un dels grans misteris de la Catalunya internacional: entre fer ioga i prendre te matcha, tenen temps per aprendre català? La flexibilitat la tenen entrenada; ara falta veure si també saben doblegar els pronoms febles. A més, veurem un nou capítol de 'L'Últim supervivent de Rodalies', on el protagonista s'enfrontarà al lloc més perillós de la Terra: un vagó de tren. Oblideu-vos de sobreviure a la selva: aquí el repte és arribar a destinació abans que us caduqui l'abonament; també estrenarem 'El discurs del Feijóo', on el líder del PP practicarà l'art de fer discursos. Primer, vocalitzar, que després ja veurem si hi ha alguna cosa a dir; i al 'Ho està petant', els pares d'alguns dels rapers més coneguts llegiran les lletres dels seus fills per primera vegada. Molt de flow, però ja veurem qui té l'última paraula quan tornin a casa. Se va a haber un follón… #APM3CAT</desc>
+    <length units="seconds">2687</length>
+    <episode-num system="onscreen">882</episode-num>
+    <category lang="ca">ENTRETENIMENT</category>
+    <category lang="ca">ALTRES</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <subtitles type="teletext"/>
     <previously-shown/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/0/2/1442394916120.jpg"/>
   </programme>
-  <programme start="20261018192000 +0200" stop="20261018193505 +0200" channel="tvi">
-    <title lang="ca">Pastors i ramats: un món que se'n va</title>
-    <sub-title lang="ca">Gemma Clarena</sub-title>
-    <desc lang="ca">'Pastors i ramats, un món que se'n va', és una sèrie de 15 capítols protagonitzada per pastors i pastores que, al llarg del nostre país, treuen a pasturar cada dia el seu ramat. Malgrat fer la mateixa feina, cada pastor és un món, una forma particular de relacionar-se amb el ramat, un mosaic de veus i gestos units per l'estimació pels animals. I també un conjunt de converses amb persones que són allà on volen ser, perseverant tossudament per continuar l'ofici malgrat totes les dificultats... Pastors i ramats... és la lluita silenciosa i plena de dignitat d'un món que se'n va.</desc>
-    <length units="seconds">905</length>
-    <episode-num system="onscreen">2</episode-num>
-    <category lang="ca">DIVULGACIÓ</category>
-    <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <subtitles type="teletext"/>
-    <previously-shown/>
-  </programme>
-  <channel id="324">
-    <display-name>324</display-name>
-  </channel>
-  <programme start="20261018183000 +0200" stop="20261018200000 +0200" channel="324">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">5400</length>
-    <episode-num system="onscreen">11466</episode-num>
+  <programme start="20261018210000 +0200" stop="20261018220851 +0200" channel="tvi">
+    <title lang="ca">Telenotícies vespre</title>
+    <length units="seconds">4131</length>
+    <episode-num system="onscreen">7361</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <subtitles type="teletext"/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/7/2/1758026176427.jpg"/>
   </programme>
+  <channel id="324">
+    <display-name>324</display-name>
+  </channel>
   <programme start="20261018200000 +0200" stop="20261018210000 +0200" channel="324">
     <title lang="ca">Notícies 3CatInfo</title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
@@ -57,31 +40,42 @@
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <subtitles type="teletext"/>
     <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
+  </programme>
+  <programme start="20261018210000 +0200" stop="20261018230000 +0200" channel="324">
+    <title lang="ca">Telenotícies vespre</title>
+    <length units="seconds">7200</length>
+    <episode-num system="onscreen">7361</episode-num>
+    <category lang="ca">ACTUALITAT</category>
+    <category lang="ca">INFORMATIU DIÀRI</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <subtitles type="teletext"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/7/2/1758026176427.jpg"/>
   </programme>
   <channel id="esport3">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20261018181000 +0200" stop="20261018185505 +0200" channel="esport3">
-    <title lang="ca">Handbol</title>
-    <sub-title lang="ca">Cangas-Barça / Lliga Asobal / J6</sub-title>
-    <desc lang="ca">Els blaugranes visiten la pista del conjunt gallec de Cangas do Morrazo per disputar el partit que tanca la 6a jornada de Lliga.</desc>
-    <length units="seconds">2705</length>
-    <episode-num system="onscreen">196</episode-num>
+  <programme start="20261018195000 +0200" stop="20261018205055 +0200" channel="esport3">
+    <title lang="ca">Hoquei patins</title>
+    <sub-title lang="ca">CP Calafell-Barça / Lliga Catalana / Final</sub-title>
+    <desc lang="ca">Des de Santa Perpètua de Mogoda, la final de la 22a edició de la Lliga Catalana d'hoquei patins en categoria masculina absoluta.</desc>
+    <length units="seconds">3655</length>
+    <episode-num system="onscreen">8147</episode-num>
     <category lang="ca">ESPORTS</category>
     <category lang="ca">RETRANSMISSIONS ESPORTS</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <icon src="https://img.ccma.cat/multimedia/jpg/9/1/1700215879019.jpg"/>
+    <icon src="https://img.3cat.cat/multimedia/jpg/5/7/1758291200775.jpg"/>
   </programme>
-  <programme start="20261018185505 +0200" stop="20261018190540 +0200" channel="esport3">
+  <programme start="20261018205055 +0200" stop="20261018205905 +0200" channel="esport3">
     <title lang="ca">Esport Club Cap de Setmana</title>
     <sub-title lang="ca">Esport Club</sub-title>
     <desc lang="ca">Magazín amb tota l'actualitat esportiva del cap de setmana, amb atenció especial a la jornada de futbol i les principals competicions del nostre esport.</desc>
-    <length units="seconds">635</length>
-    <episode-num system="onscreen">1404</episode-num>
+    <length units="seconds">490</length>
+    <episode-num system="onscreen">1405</episode-num>
     <category lang="ca">ESPORTS</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
@@ -92,40 +86,42 @@
   <channel id="sx3">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20261018182725 +0200" stop="20261018183604 +0200" channel="sx3">
-    <title lang="ca">En Grizzy i els Lèmmings</title>
-    <sub-title lang="ca">La llegenda dels set Lèmmings</sub-title>
-    <desc lang="ca">Els Lèmmings creen un espectacle d'ombres xineses en què set Lèmmings de paper s'enfronten a un os per un pot de deliciosa crema de xocolata. Els Lèmmings del públic estan encantats, però a en Grizzy l'indigna com tracten el personatge de l'os i decideix intervenir a l'espectacle. Llavors equipa l'os de paper amb una armadura i un sabre. Els Lèmmings contraataquen amb les seves efígies ninja i preparen un atac per recuperar la preuada crema de xocolata.</desc>
-    <length units="seconds">519</length>
-    <episode-num system="onscreen">161</episode-num>
+  <programme start="20261018203825 +0200" stop="20261018210002 +0200" channel="sx3">
+    <title lang="ca">Henry Danger</title>
+    <sub-title lang="ca">Missatge, mentides i vídeo</sub-title>
+    <desc lang="ca">Henry envia accidentalment un vídeo compromès a la seva germana i es veu obligat a recuperar-lo abans que descobreixi el seu secret</desc>
+    <length units="seconds">1297</length>
+    <episode-num system="onscreen">38</episode-num>
     <category lang="ca">FICCIÓ</category>
-    <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
+    <category lang="ca">SÈRIE DRAMÀTICA</category>
     <rating>
       <value>INFANTIL</value>
     </rating>
+    <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20261018183604 +0200" stop="20261018184244 +0200" channel="sx3">
-    <title lang="ca">El xai Shaun</title>
-    <sub-title lang="ca">L'empat</sub-title>
-    <desc lang="ca">És hora d'esmorzar, el granger s'adona que no té llet, es posa nerviós i se'n va desesperat a buscar-ne amb el cotxe, però acaba encallat enmig d'un embús. En Shaun i les ovelles, que també tenen ganes d'esmorzar i també s'han començat a posar nervioses, al final decideixen arreglar-ho a la seva manera. Si el dia comença així, com s'acabarà?!</desc>
-    <length units="seconds">400</length>
-    <episode-num system="onscreen">91</episode-num>
+  <programme start="20261018210002 +0200" stop="20261018212055 +0200" channel="sx3">
+    <title lang="ca">Els germans Kratt</title>
+    <sub-title lang="ca">Tria un peix espasa</sub-title>
+    <desc lang="ca">L'Aviva és una mestra de l'esgrima i proposa als germans Kratt un repte: que triïn quin vestit de peix amb espasa prefereixen per fer un duel amb ella. L'equip aprofita l'ocasió per estudiar les semblances i les diferències entre tres tipus de peixos que tenen espasa al morro: el marlí, el peix vela i el peix espasa. Mentrestant, s'hauran d'enfrontar amb el Zach, que vol dur a terme un altre projecte malvat dels seus: capturar tots els peixos del món per vendre'ls i fer-se més ric.</desc>
+    <length units="seconds">1253</length>
+    <episode-num system="onscreen">130</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
       <value>INFANTIL</value>
     </rating>
+    <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
   <channel id="c33">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20261018182116 +0200" stop="20261018190153 +0200" channel="c33">
-    <title lang="ca">Un món de Jocs</title>
-    <sub-title lang="ca">L'espai de joc dels déus</sub-title>
-    <desc lang="ca">Els Jocs Olímpics van començar com una cerimònia religiosa. Milers d'anys després, la línia entre l'esport i la religió encara és poc clara. Als millors jugadors del món se'ls venera com si fossin divinitats i, com qualsevol divinitat, les seves accions inspiren les masses. Els jocs d'aquest episodi són profundes experiències religioses. Son molt més que espais de joc, són els espais de joc dels Déus.Alpinisme, FrançaPasola, IndonèsiaIoga, els Estats UnitsRarajipari, Mèxic</desc>
-    <length units="seconds">2437</length>
+  <programme start="20261018200054 +0200" stop="20261018205954 +0200" channel="c33">
+    <title lang="ca">Rick Stein: De Venècia a Istanbul</title>
+    <sub-title lang="ca">Grècia</sub-title>
+    <desc lang="ca">En Rick Stein continua el viatge culinari, ara pel Peloponès, fins a la península de Mani. Recorrerà diversos capítols, també gastronòmics, de la història grega: Esparta, la ciutat bizantina de Mitràs, els segles de domini otomà, la guerra d'independència... Assaborirà la riquíssima cuina grega, amb el pollastre amb pasta 'hilopites' i formatge 'mizithra', sardines a la brasa, l'omnipresent amanida i molts altres plats. I cuinarà un 'galaktoboureko', que és un púding de crema; un 'saganaki', formatge arrebossat i fregit, i no hi podia faltar la deliciosa mussaca.</desc>
+    <length units="seconds">3540</length>
     <episode-num system="onscreen">5</episode-num>
     <category lang="ca">DIVULGACIÓ</category>
     <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
@@ -134,21 +130,11 @@
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
-    <icon src="https://img.3cat.cat/multimedia/jpg/3/7/1788343809373.jpg"/>
   </programme>
-  <programme start="20261018190153 +0200" stop="20261018200053 +0200" channel="c33">
-    <title lang="ca">Rick Stein: De Venècia a Istanbul</title>
-    <sub-title lang="ca">Grècia</sub-title>
-    <desc lang="ca">En Rick deixa Albània i entra al nord de Grècia, on tasta 'kotopita' i 'hortopita', unes panades delicioses fetes amb pasta de full. A Ioànnina tasta uns quants plats de peix del llac i un estofat amb un toc bizantí que li prepara una estudiant de cuina. A Préveza visita una botiga on venen 'ouzo', i a Mesolongi un lloc on fan botàriga (ous de peix assecat, usats com a condiment). A la seva cuina de l'illa de Simi ens farà 'souvlaki', 'avgolemono' (sopa de pollastre amb ou escaldat), i pebrots i tomàquets farcits.</desc>
-    <length units="seconds">3540</length>
-    <episode-num system="onscreen">4</episode-num>
-    <category lang="ca">DIVULGACIÓ</category>
-    <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <subtitles type="teletext"/>
-    <previously-shown/>
+  <programme start="20261018205954 +0200" stop="20261018210258 +0200" channel="c33">
+    <title lang="ca">SENSE FI CANAL 33</title>
+    <desc lang="ca">Sense Descripció</desc>
+    <length units="seconds">184</length>
   </programme>
   <channel id="oca1">
     <display-name>OCA1</display-name>
