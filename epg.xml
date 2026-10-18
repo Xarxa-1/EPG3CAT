@@ -3,25 +3,27 @@
   <channel id="tvi">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20261018225525 +0200" stop="20261019022544 +0200" channel="tvi">
-    <title lang="ca">Vèrtex</title>
-    <desc lang="ca">Hi ha notícies que només s'entenen quan s'observen des de diferents perspectives. Amb aquesta premissa neix 'Vèrtex', el nou programa d'actualitat setmanal que converteix la complexitat dels grans temes en una conversa rigorosa, visual i propera. El programa ofereix una mirada transversal dels assumptes que han marcat la setmana i dels que definiran la que està a punt de començar.</desc>
-    <length units="seconds">12619</length>
-    <episode-num system="onscreen">4</episode-num>
-    <category lang="ca">DIVULGACIÓ</category>
-    <category lang="ca">ENTREVISTES</category>
+  <programme start="20261019003830 +0200" stop="20261019040000 +0200" channel="tvi">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="seconds">12090</length>
+    <episode-num system="onscreen">11469</episode-num>
+    <category lang="ca">ACTUALITAT</category>
+    <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
+    <previously-shown/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
-  <programme start="20261019022544 +0200" stop="20261019030043 +0200" channel="tvi">
-    <title lang="ca">Gent amb DO</title>
-    <sub-title lang="ca">DO Empordà. 'Els 3 colors de la garnatxa i la carinyena'</sub-title>
-    <desc lang="ca">A l'Empordà, la tramuntana toca el paisatge, la gent i també els vins. Empar Moliner recorre en aquest capítol un territori de mar i també muntanya, entre carinyenes i lledoners de tres colors. Un viatge per descobrir com un vent indòmit pot modelar la terra i concentrar l'essència d'una DO. Quin és el do de la DO Empordà?</desc>
-    <length units="seconds">2099</length>
-    <episode-num system="onscreen">2</episode-num>
-    <category lang="ca">DIVULGACIÓ</category>
-    <category lang="ca">SÈRIE DOCUMENTAL</category>
+  <programme start="20261019040000 +0200" stop="20261019045944 +0200" channel="tvi">
+    <title lang="ca">Blues a l'estudi</title>
+    <sub-title lang="ca">Big Yuyu</sub-title>
+    <desc lang="ca">Avui entren a 'Blues a l'estudi' els Big Yuyu. I ho fan acompanyats de la secció de vent The Hot Nite Band. La banda mallorquina ja ha tret al mercat tres àlbums, i cadascun és un pas més per crear un llenguatge sòlid i personal dins del blues.El repertori que ens presenta avui surt de 'Burnin' Up', l'últim treball que han gravat en col·laboració amb el cantant de Chicago Lorenzo Thompson. El seu estil és ple de ritmes ballables, melodies contagioses, i descarnades històries d'amor.Jordi Álvarez, a la veu i guitarra; Juan Amaro, al baix; Pep Lluís Garcia, a la bateria; Miquel Gayà, al trombó; Pep Grau, a la trompeta; Pol Prats, al saxo, i Llorenç Barceló, al hammond. </desc>
+    <length units="seconds">3584</length>
+    <episode-num system="onscreen">23</episode-num>
+    <category lang="ca">MUSICALS</category>
+    <category lang="ca">ALTRES</category>
     <rating>
       <value>PÚBLIC ADULT</value>
     </rating>
@@ -30,40 +32,39 @@
   <channel id="324">
     <display-name>324</display-name>
   </channel>
-  <programme start="20261018230000 +0200" stop="20261019003000 +0200" channel="324">
+  <programme start="20261019010000 +0200" stop="20261019060000 +0200" channel="324">
     <title lang="ca">Notícies 3CatInfo</title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">5400</length>
-    <episode-num system="onscreen">11468</episode-num>
-    <category lang="ca">ACTUALITAT</category>
-    <category lang="ca">INFORMATIU DIÀRI</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <subtitles type="teletext"/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
-  </programme>
-  <programme start="20261019003000 +0200" stop="20261019010000 +0200" channel="324">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">1800</length>
+    <length units="seconds">18000</length>
     <episode-num system="onscreen">11469</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <subtitles type="teletext"/>
+    <previously-shown/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
+  </programme>
+  <programme start="20261019060000 +0200" stop="20261019080000 +0200" channel="324">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="seconds">7200</length>
+    <episode-num system="onscreen">11470</episode-num>
+    <category lang="ca">ACTUALITAT</category>
+    <category lang="ca">INFORMATIU DIÀRI</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
     <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
   <channel id="esport3">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20261018225500 +0200" stop="20261019003135 +0200" channel="esport3">
+  <programme start="20261019005956 +0200" stop="20261019023452 +0200" channel="esport3">
     <title lang="ca">Gol a gol</title>
     <sub-title lang="ca">Anàlisi de la jornada / J9 / Diumenge</sub-title>
     <desc lang="ca">'Gol a gol' us ofereix els resums dels partits de futbol de Primera i Segona Divisió. Presentat per Jordi Grau a Esport3, cada dissabte i cada diumenge podeu veure les millors imatges de la jornada de Lliga amb l'anàlisi dels experts, amb especial atenció als equips catalans, sobretot el Barça, el Girona i l'Espanyol.</desc>
-    <length units="seconds">5795</length>
+    <length units="seconds">5696</length>
     <episode-num system="onscreen">1792</episode-num>
     <category lang="ca">ESPORTS</category>
     <category lang="ca">MAGAZINE</category>
@@ -71,29 +72,31 @@
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
+    <previously-shown/>
     <icon src="https://img.ccma.cat/multimedia/jpg/2/1/1698144123212.jpg"/>
   </programme>
-  <programme start="20261019003135 +0200" stop="20261019005007 +0200" channel="esport3">
+  <programme start="20261019023452 +0200" stop="20261019031726 +0200" channel="esport3">
     <title lang="ca">3CatInfo Esports</title>
     <desc lang="ca">Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.</desc>
-    <length units="seconds">1112</length>
+    <length units="seconds">2554</length>
     <episode-num system="onscreen">5542</episode-num>
     <category lang="ca">ESPORTS</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
+    <previously-shown/>
     <icon src="https://img.ccma.cat/multimedia/jpg/9/7/1758888682179.jpg"/>
   </programme>
   <channel id="sx3">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20261018225731 +0200" stop="20261018230817 +0200" channel="sx3">
-    <title lang="ca">La tropa del corral</title>
-    <sub-title lang="ca">El cas del singlot</sub-title>
-    <desc lang="ca">La Crystal truca la Tropa del Corral perquè té un singlot que l'està fent parar boja. La podran ajudar? I tant! Tot i que cada membre de la Tropa té la seva pròpia manera de fer-ho, cadascuna més estranya que l'anterior. Al final, serà l'Elvis qui tingui la clau per fer-li passar el singlot.</desc>
-    <length units="seconds">646</length>
-    <episode-num system="onscreen">21</episode-num>
+  <programme start="20261019004359 +0200" stop="20261019010506 +0200" channel="sx3">
+    <title lang="ca">Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
+    <sub-title lang="ca">Desperada</sub-title>
+    <desc lang="ca">El Jagged Stone ha fet fora de la banda la seva guitarrista, la Vivica, i l'Esfinx aprofita la ràbia de la noia per convertir-la en la temible Desperada, una supermalvada amb uns poders difícils de derrotar. Ladybug i el Gat Noir necessitaran l'ajuda de l'Escurçó per derrotar-la.</desc>
+    <length units="seconds">1267</length>
+    <episode-num system="onscreen">63</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
@@ -102,12 +105,12 @@
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20261018230817 +0200" stop="20261018231905 +0200" channel="sx3">
-    <title lang="ca">La tropa del corral</title>
-    <sub-title lang="ca">Els tres treballs de la Tropa del Corral</sub-title>
-    <desc lang="ca">Un dels cadells d'en Sam ha llençat la sabatilla de l'amo al carrer, i ara l'Esther pensa que és un objecte sagrat. Diu que no els la pensa tornar fins que la Tropa no completi tres tasques inversemblants, però llavors canvia d'opinió...</desc>
-    <length units="seconds">648</length>
-    <episode-num system="onscreen">22</episode-num>
+  <programme start="20261019010506 +0200" stop="20261019012545 +0200" channel="sx3">
+    <title lang="ca">Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
+    <sub-title lang="ca">Amo Noel</sub-title>
+    <desc lang="ca">La Marinette ha de fer de cangur del germà del Nino, el Noel, que vol jugar a jocs de nens grans i que, davant la frustració de no poder tenir el regal de Nadal de seguida, cau víctima dels encanteris de l'Esfinx i es converteix en l'Amo Nadal.</desc>
+    <length units="seconds">1239</length>
+    <episode-num system="onscreen">64</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
@@ -119,12 +122,12 @@
   <channel id="c33">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20261018224147 +0200" stop="20261018232457 +0200" channel="c33">
-    <title lang="ca">Els habitants de la fi del món</title>
-    <sub-title lang="ca">Sri Lanka</sub-title>
-    <desc lang="ca">En Ben Fogle es dirigeix a la joia de l'oceà Índic, Sri Lanka, per conviure amb en Naveen i l'Anke, que han instal·lat la seva llar a les terres altes del país. Allà, descobrirà per què van canviar una de les ciutats del món per una existència autosuficient a quilòmetres de la civilització. Aprendrà els problemes que van tenir per establir-se a la seva nova vida, i veurà si volen trencar del tot els seus vincles amb el món exterior per apropar-se més a la natura.Els amfitrions d'en Ben s'han establert a les silencioses ruïnes d'una plantació de te. Les cabines de vidre, que són del tot autosuficients, ofereixen als viatgers que 's'allunyen del circuit turístic' un lloc únic per dormir. En Ben hi arregla una canonada trencada, construeix parets amb fems de vaca, baixa a la ciutat a carregar provisions i s'uneix a una petita empresa que sustenta la comunitat local. També descobreix que, tot i els anys complicats, els seus amfitrions ara aprofiten aquest nou equilibri entre la vida laboral i la vida personal que els aporta calma i satisfacció.</desc>
-    <length units="seconds">2590</length>
-    <episode-num system="onscreen">74</episode-num>
+  <programme start="20261019004932 +0200" stop="20261019014208 +0200" channel="c33">
+    <title lang="ca">El Bulli, l'últim vals</title>
+    <sub-title lang="ca">El Bulli, l'últim vals</sub-title>
+    <desc lang="ca">El 30 de juliol de 2011, el Bulli -guanyador durant cinc edicions del guardó a millor restaurant del món- va tancar les seves portes per convertir-se, el 2014, en Fundació. El seu xef, Ferran Adrià, va servir un últim i espectacular sopar, acompanyat dels qui avui són els millors xefs del món i que en els darrers anys han passat a elBulli; René Redzepi (Noma), Joan Roca (El Celler de Can Roca), Andoni Luis Aduriz (Mugaritz), Grand Achat (Alinea), Massimo Bottura (Osteria Francescana) i José Andrés (Think Food Group).</desc>
+    <length units="seconds">3156</length>
+    <episode-num system="onscreen">1</episode-num>
     <category lang="ca">DIVULGACIÓ</category>
     <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
     <rating>
@@ -132,17 +135,18 @@
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
+    <icon src="https://img.3cat.cat/multimedia/jpg/7/4/1734447007847.jpg"/>
   </programme>
-  <programme start="20261018232457 +0200" stop="20261019000846 +0200" channel="c33">
-    <title lang="ca">Ben Fogle: Retorn a la fi del món</title>
-    <sub-title lang="ca">Bulgària</sub-title>
-    <desc lang="ca">Ben torna a visitar els nòmades Miriam i Peter als boscos de les muntanyes Ròdopes a Bulgària, després d'haver conegut la parella el 2016. Se'ls uneix a la seva casa de camp fora de la xarxa i escolta com van fer front quan en Peter va patir una insuficiència renal aguda.</desc>
-    <length units="seconds">2629</length>
-    <episode-num system="onscreen">17</episode-num>
-    <category lang="ca">DIVULGACIÓ</category>
-    <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
+  <programme start="20261019014208 +0200" stop="20261019022508 +0200" channel="c33">
+    <title lang="ca">El Crac</title>
+    <sub-title lang="ca">La gran depre</sub-title>
+    <desc lang="ca">En una nit de depressió, en Joel coneix Gordon Gold, famós productor de Hollywood i veí d'habitació de l'hotel on s'allotja, i es corren una bona farra junts. Per això, quan la Kitti anuncia la suspensió del rodatge per manca de diners, en Joel veu en el seu amic Gold la solució als seus problemes. Gold, agraït amb en Joel per haver-lo salvat d'un afer sexual molt lleig, inverteix en la producció. Però en Nico, deprimit pel nou gir que ha pres la pel·lícula, sorprèn en Joel per on menys s'ho espera.</desc>
+    <length units="seconds">2580</length>
+    <episode-num system="onscreen">7</episode-num>
+    <category lang="ca">FICCIÓ</category>
+    <category lang="ca">SÈRIE DRAMÀTICA</category>
     <rating>
-      <value>TOTS ELS PÚBLICS</value>
+      <value>PÚBLIC ADULT</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
