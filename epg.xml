@@ -60,59 +60,60 @@
   <channel id="esport3">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20261019005956 +0200" stop="20261019023452 +0200" channel="esport3">
-    <title lang="ca">Gol a gol</title>
-    <sub-title lang="ca">Anàlisi de la jornada / J9 / Diumenge</sub-title>
-    <desc lang="ca">'Gol a gol' us ofereix els resums dels partits de futbol de Primera i Segona Divisió. Presentat per Jordi Grau a Esport3, cada dissabte i cada diumenge podeu veure les millors imatges de la jornada de Lliga amb l'anàlisi dels experts, amb especial atenció als equips catalans, sobretot el Barça, el Girona i l'Espanyol.</desc>
-    <length units="seconds">5696</length>
-    <episode-num system="onscreen">1792</episode-num>
+  <programme start="20261019030048 +0200" stop="20261019045425 +0200" channel="esport3">
+    <title lang="ca">Bàsquet</title>
+    <sub-title lang="ca">FIATC Girona-Leyma Corunya / Lliga / J4</sub-title>
+    <desc lang="ca">Catalans i gallecs estan empatats a la taula classificatòria amb 1 victòria i 2 derrotes.</desc>
+    <length units="seconds">6817</length>
+    <episode-num system="onscreen">45</episode-num>
     <category lang="ca">ESPORTS</category>
-    <category lang="ca">MAGAZINE</category>
+    <category lang="ca">RETRANSMISSIONS ESPORTS</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/2/1/1698144123212.jpg"/>
+    <icon src="https://img.3cat.cat/multimedia/jpg/4/5/1769511199554.jpg"/>
   </programme>
-  <programme start="20261019023452 +0200" stop="20261019031726 +0200" channel="esport3">
-    <title lang="ca">3CatInfo Esports</title>
-    <desc lang="ca">Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.</desc>
-    <length units="seconds">2554</length>
-    <episode-num system="onscreen">5542</episode-num>
+  <programme start="20261019045425 +0200" stop="20261019062145 +0200" channel="esport3">
+    <title lang="ca">Handbol</title>
+    <sub-title lang="ca">Cangas-Barça / Lliga Asobal / J6</sub-title>
+    <desc lang="ca">Els blaugranes visiten la pista del conjunt gallec de Cangas do Morrazo per disputar el partit que tanca la 6a jornada de Lliga.</desc>
+    <length units="seconds">5240</length>
+    <episode-num system="onscreen">196</episode-num>
     <category lang="ca">ESPORTS</category>
-    <category lang="ca">INFORMATIU DIÀRI</category>
+    <category lang="ca">RETRANSMISSIONS ESPORTS</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <previously-shown/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/9/7/1758888682179.jpg"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/9/1/1700215879019.jpg"/>
   </programme>
   <channel id="sx3">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20261019004359 +0200" stop="20261019010506 +0200" channel="sx3">
-    <title lang="ca">Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
-    <sub-title lang="ca">Desperada</sub-title>
-    <desc lang="ca">El Jagged Stone ha fet fora de la banda la seva guitarrista, la Vivica, i l'Esfinx aprofita la ràbia de la noia per convertir-la en la temible Desperada, una supermalvada amb uns poders difícils de derrotar. Ladybug i el Gat Noir necessitaran l'ajuda de l'Escurçó per derrotar-la.</desc>
-    <length units="seconds">1267</length>
-    <episode-num system="onscreen">63</episode-num>
+  <programme start="20261019025928 +0200" stop="20261019030933 +0200" channel="sx3">
+    <title lang="ca">Com dibuixar còmics amb el Will Sliney</title>
+    <sub-title lang="ca">Els dolents s’uneixen</sub-title>
+    <desc lang="ca">Com que el Will havia fet una crida als espectadors del programa perquè enviessin dibuixos de superherois que poguessin contribuir a la victòria contra el Crònica, aquest va fer el mateix i en l'episodi d'avui veurem els diferents dolents creats pels espectadors. I el Will ens ensenyarà a dibuixar una nova mena de personatge, l'antiheroi, un personatge a mig camí entre bo i dolent i amb característiques de tots dos.</desc>
+    <length units="seconds">605</length>
+    <episode-num system="onscreen">37</episode-num>
     <category lang="ca">FICCIÓ</category>
-    <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
+    <category lang="ca">ALTRES</category>
     <rating>
       <value>INFANTIL</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20261019010506 +0200" stop="20261019012545 +0200" channel="sx3">
-    <title lang="ca">Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
-    <sub-title lang="ca">Amo Noel</sub-title>
-    <desc lang="ca">La Marinette ha de fer de cangur del germà del Nino, el Noel, que vol jugar a jocs de nens grans i que, davant la frustració de no poder tenir el regal de Nadal de seguida, cau víctima dels encanteris de l'Esfinx i es converteix en l'Amo Nadal.</desc>
-    <length units="seconds">1239</length>
-    <episode-num system="onscreen">64</episode-num>
+  <programme start="20261019030933 +0200" stop="20261019031953 +0200" channel="sx3">
+    <title lang="ca">Com dibuixar còmics amb el Will Sliney</title>
+    <sub-title lang="ca">Comença la gran batalla</sub-title>
+    <desc lang="ca">Com que el Will havia fet una crida als espectadors del programa perquè enviessin dibuixos de superherois que poguessin contribuir a la victòria contra el Crònica, aquest va fer el mateix i en l'episodi d'avui veurem els diferents dolents creats pels espectadors. I el Will ens ensenyarà a dibuixar una nova mena de personatge, l'antiheroi, un personatge a mig camí entre bo i dolent i amb característiques de tots dos.</desc>
+    <length units="seconds">620</length>
+    <episode-num system="onscreen">38</episode-num>
     <category lang="ca">FICCIÓ</category>
-    <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
+    <category lang="ca">ALTRES</category>
     <rating>
       <value>INFANTIL</value>
     </rating>
@@ -122,31 +123,30 @@
   <channel id="c33">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20261019004932 +0200" stop="20261019014208 +0200" channel="c33">
-    <title lang="ca">El Bulli, l'últim vals</title>
-    <sub-title lang="ca">El Bulli, l'últim vals</sub-title>
-    <desc lang="ca">El 30 de juliol de 2011, el Bulli -guanyador durant cinc edicions del guardó a millor restaurant del món- va tancar les seves portes per convertir-se, el 2014, en Fundació. El seu xef, Ferran Adrià, va servir un últim i espectacular sopar, acompanyat dels qui avui són els millors xefs del món i que en els darrers anys han passat a elBulli; René Redzepi (Noma), Joan Roca (El Celler de Can Roca), Andoni Luis Aduriz (Mugaritz), Grand Achat (Alinea), Massimo Bottura (Osteria Francescana) i José Andrés (Think Food Group).</desc>
-    <length units="seconds">3156</length>
-    <episode-num system="onscreen">1</episode-num>
-    <category lang="ca">DIVULGACIÓ</category>
-    <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <subtitles type="teletext"/>
-    <previously-shown/>
-    <icon src="https://img.3cat.cat/multimedia/jpg/7/4/1734447007847.jpg"/>
-  </programme>
-  <programme start="20261019014208 +0200" stop="20261019022508 +0200" channel="c33">
+  <programme start="20261019022509 +0200" stop="20261019030924 +0200" channel="c33">
     <title lang="ca">El Crac</title>
-    <sub-title lang="ca">La gran depre</sub-title>
-    <desc lang="ca">En una nit de depressió, en Joel coneix Gordon Gold, famós productor de Hollywood i veí d'habitació de l'hotel on s'allotja, i es corren una bona farra junts. Per això, quan la Kitti anuncia la suspensió del rodatge per manca de diners, en Joel veu en el seu amic Gold la solució als seus problemes. Gold, agraït amb en Joel per haver-lo salvat d'un afer sexual molt lleig, inverteix en la producció. Però en Nico, deprimit pel nou gir que ha pres la pel·lícula, sorprèn en Joel per on menys s'ho espera.</desc>
-    <length units="seconds">2580</length>
-    <episode-num system="onscreen">7</episode-num>
+    <sub-title lang="ca">La gran volada</sub-title>
+    <desc lang="ca">El Joel i la Carla han de rodar la gran escena de sexe i passió de la pel·lícula. Excitat pel moment i incapaç de controlar la seva libido, el Joel recorre a un expert en hipnosi per mantenir l'excitació a ratlla. El remei funciona, però certs efectes secundaris no desitjats el fan quedar malament davant la Carla. El Joel veu una nova oportunitat de recuperar la Carla quan s'assabenta que la noia té debilitat pels pilots d'avió.</desc>
+    <length units="seconds">2655</length>
+    <episode-num system="onscreen">8</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DRAMÀTICA</category>
     <rating>
       <value>PÚBLIC ADULT</value>
+    </rating>
+    <subtitles type="teletext"/>
+    <previously-shown/>
+  </programme>
+  <programme start="20261019030924 +0200" stop="20261019040456 +0200" channel="c33">
+    <title lang="ca">Benvinguts a la família</title>
+    <sub-title lang="ca">La Lola</sub-title>
+    <desc lang="ca">Amb l'objectiu de blanquejar el diner negre de l'Eduardo, la família decideix utilitzar l'empresa de les 'Electropipes' de tapadora. Però per aconseguir l'estoc, el Nando es veurà obligat a retrobar-se amb la Lola, un antic amor que posarà en perill l'equilibri familiar.</desc>
+    <length units="seconds">3332</length>
+    <episode-num system="onscreen">5</episode-num>
+    <category lang="ca">FICCIÓ</category>
+    <category lang="ca">SÈRIE DRAMÀTICA</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
