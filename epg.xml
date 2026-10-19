@@ -3,98 +3,91 @@
   <channel id="tvi">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20261019143000 +0200" stop="20261019153036 +0200" channel="tvi">
-    <title lang="ca">Telenotícies migdia</title>
-    <length units="seconds">3636</length>
-    <episode-num system="onscreen">7363</episode-num>
+  <programme start="20261019205937 +0200" stop="20261019220141 +0200" channel="tvi">
+    <title lang="ca">Telenotícies vespre</title>
+    <length units="seconds">3724</length>
+    <episode-num system="onscreen">7362</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <icon src="https://img.ccma.cat/multimedia/jpg/5/4/1758025766345.jpg"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/7/2/1758026176427.jpg"/>
   </programme>
-  <programme start="20261019153036 +0200" stop="20261019155111 +0200" channel="tvi">
-    <title lang="ca">Cuines</title>
-    <sub-title lang="ca">Creps picardes amb pernil ibèric</sub-title>
-    <desc lang="ca">Ja sabem que les creps més conegudes arreu del món són les bretones, però el Marc Ribas ens vol mostrar com hi ha regions de França on en fan la seva pròpia versió. Aquest és el cas de la Picardia o fan les creps amb pernil dolç, formatge i bolets, una combinació suculenta que al Cuines variarem amb la incorporació d'un ingredient que tot ho millora: el pernil ibèric.</desc>
-    <length units="seconds">1235</length>
-    <episode-num system="onscreen">2429</episode-num>
-    <category lang="ca">DIVULGACIÓ</category>
-    <category lang="ca">CUINA</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <icon src="https://img.ccma.cat/multimedia/jpg/2/5/1653464509252.jpg"/>
+  <programme start="20261019220141 +0200" stop="20261019220924 +0200" channel="tvi">
+    <title lang="ca">Equip 012</title>
+    <sub-title lang="ca">- Tinc un poder</sub-title>
+    <desc lang="ca">Sense Descripció</desc>
+    <length units="seconds">463</length>
+    <episode-num system="onscreen">3</episode-num>
   </programme>
   <channel id="324">
     <display-name>324</display-name>
   </channel>
-  <programme start="20261019143000 +0200" stop="20261019153000 +0200" channel="324">
-    <title lang="ca">Telenotícies migdia</title>
-    <length units="seconds">3600</length>
-    <episode-num system="onscreen">7363</episode-num>
+  <programme start="20261019210000 +0200" stop="20261019220500 +0200" channel="324">
+    <title lang="ca">Telenotícies vespre</title>
+    <length units="seconds">3900</length>
+    <episode-num system="onscreen">7362</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <icon src="https://img.ccma.cat/multimedia/jpg/5/4/1758025766345.jpg"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/7/2/1758026176427.jpg"/>
   </programme>
-  <programme start="20261019153000 +0200" stop="20261019160000 +0200" channel="324">
-    <title lang="ca">3CatInfo en aranès</title>
-    <desc lang="ca">Informatiu de continguts generalistes en llengua aranesa, presentat per Ares Riu, en emissió per a tot Catalunya.</desc>
-    <length units="seconds">1800</length>
-    <episode-num system="onscreen">2576</episode-num>
+  <programme start="20261019220500 +0200" stop="20261020000000 +0200" channel="324">
+    <title lang="ca">Mésnit</title>
+    <desc lang="ca">El 'Mésnit' arriba a la desena temporada, amb Marina Romero al capdavant de l'espai i amb la voluntat de continuar sent un centre de debat d'idees i d'anàlisi de l'activitat política.</desc>
+    <length units="seconds">6900</length>
+    <episode-num system="onscreen">2182</episode-num>
     <category lang="ca">ACTUALITAT</category>
-    <category lang="ca">INFORMATIU DIÀRI</category>
+    <category lang="ca">DEBAT</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
-    <icon src="https://img.ccma.cat/multimedia/png/5/8/1758125433085.png"/>
   </programme>
   <channel id="esport3">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20261019140156 +0200" stop="20261019160210 +0200" channel="esport3">
-    <title lang="ca">Esport Club</title>
-    <sub-title lang="ca">Luis Enrique, el cop de colze de Güler, l'èxit del CPA Olot i tertúlia</sub-title>
-    <desc lang="ca">El Barça ja és a París per enfrontar-se al PSG. Sentirem la roda de premsa de Luis Enrique. Analitzarem el cop de colze d'Arda Güler a Peque amb Joan Fàbregas. Entrevistem Ester Fàbregas i Ricard Planiol, del CPA Olot. Han guanyat el Mundial de patinatge de grups de xou gran. A la tertúlia ens acompanyen Maria Josep Hostalrich, Orfeo Suárez i Raúl Fuentes. </desc>
-    <length units="seconds">7214</length>
-    <episode-num system="onscreen">3264</episode-num>
+  <programme start="20261019210536 +0200" stop="20261019213741 +0200" channel="esport3">
+    <title lang="ca">Zona zàping</title>
+    <desc lang="ca">.</desc>
+    <length units="seconds">1925</length>
+    <episode-num system="onscreen">1087</episode-num>
+    <category lang="ca">ESPORTS</category>
+    <category lang="ca">ALTRES</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <subtitles type="teletext"/>
+    <previously-shown/>
+    <icon src="https://img.3cat.cat/multimedia/jpg/4/7/1763564970974.jpg"/>
+  </programme>
+  <programme start="20261019213741 +0200" stop="20261019223137 +0200" channel="esport3">
+    <title lang="ca">Tot Costa</title>
+    <sub-title lang="ca">PSG-Barça, un test perfecte</sub-title>
+    <desc lang="ca">Hansi Flick espera que demà contra el PSG es vegi a quin nivell està el Barça aquesta temporada. Sabrem l'última hora del partit amb Bernat Soler i Ricard Torquemada. Analitzarem l'enfrontament amb Dani Senabre, Anaïs Martí i Marcos López. Al 'Torquelab', estudiarem com resoldre l'emergència de la defensa del Barça, que arriba a París amb moltes baixes. També obrirem el 'VARòmetre', amb Joan Fàbregas, i parlarem de les derrotes del Barça femení i del Barça de bàsquet.</desc>
+    <length units="seconds">3236</length>
+    <episode-num system="onscreen">1023</episode-num>
     <category lang="ca">ESPORTS</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/7/3/1698145091337.jpg"/>
-  </programme>
-  <programme start="20261019160210 +0200" stop="20261019163404 +0200" channel="esport3">
-    <title lang="ca">GR Pirineus</title>
-    <sub-title lang="ca">El mont més sec</sub-title>
-    <desc lang="ca">Avui la nostra ruta creuarà d'extrem a extrem la serra del Montsec.Començarem a Vilanova de Meià on coneixerem una raça de cabra catalana en perill d'extinció. Després enfilarem camí fins a Sant Martí de Barcedana, on visitarem una casa rural, on fan unes confitures per llepar-se'n els dits! Passarem per Sant Cristòfol de la Vall, Llimiana i arribarem a l'embassament de Terradets, on farem nit i tastarem la cuina de la terra amb un toc molt innovador.L'endemà començarem la jornada a sobre d'un caiac remant pel pantà. Anirem a Guàrdia de Noguera, el castell de Mur i ens endinsarem a la Vall d'Àger, on gaudirem, primer, del cel des de la terra, observant l'univers amb un telescopi; i, posteriorment, de la terra des del cel, practicant el parapent. I acabarem al congost de Mont-rebei, l'anomenat Gran Canó català. En total 65 quilòmetres, repartits en 2 jornades, fets a peu, amb cotxe i amb parapent. Un mont molt sec, però amb molta vida.</desc>
-    <length units="seconds">1914</length>
-    <episode-num system="onscreen">19</episode-num>
-    <category lang="ca">DIVULGACIÓ</category>
-    <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <subtitles type="teletext"/>
     <previously-shown/>
-    <icon src="https://img.3cat.cat/multimedia/jpg/9/8/1736612891089.jpg"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/0/4/1706209193140.jpg"/>
   </programme>
   <channel id="sx3">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20261019144610 +0200" stop="20261019150533 +0200" channel="sx3">
+  <programme start="20261019210008 +0200" stop="20261019212225 +0200" channel="sx3">
     <title lang="ca">Bola de drac Z</title>
-    <sub-title lang="ca">El combat a mort d'en Vegeta contra el monstre Bu</sub-title>
-    <desc lang="ca">En Dabra continua atacant en Bu, però quan sembla que el monstre està mort, comença a cantar, converteix en Dabra en una galeta i se'l cruspeix. Amb la mort d'en Dabra, en Cor Petit i en Krilin deixen de ser de pedra. En Trunks i en Son Goten també han arribat i ho han vist tot. Aleshores, apareix en Vegeta i inicia un combat a mort contra el monstre Bu.</desc>
-    <length units="seconds">1163</length>
-    <episode-num system="onscreen">235</episode-num>
+    <sub-title lang="ca">Fins on arriba el poder d'en Bu?</sub-title>
+    <desc lang="ca">En Vegeta no accepta el tracte que li proposa en Son Goku d'atacar conjuntament el monstre Bu, el deixa inconscient a traïció, es menja una mongeta màgica i es disposa a atacar tot sol el monstre Bu. Mentrestant, en Babidí ordena a en Bu que mati en Son Gohan i el déu Neptú, que intentarà dur a terme el seu pla abans que els atrapi el monstre.</desc>
+    <length units="seconds">1337</length>
+    <episode-num system="onscreen">233</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
@@ -103,12 +96,12 @@
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20261019150533 +0200" stop="20261019152604 +0200" channel="sx3">
+  <programme start="20261019212225 +0200" stop="20261019214106 +0200" channel="sx3">
     <title lang="ca">Bola de drac Z</title>
-    <sub-title lang="ca">La destrucció d'en Bu sembla un fet</sub-title>
-    <desc lang="ca">Després de demostrar-li al mag Babidí que ja no exerceix cap poder sobre ell, en Vegeta provoca el monstre Bu i el comença a atacar amb tota la seva potència. Els cops tomben el monstre, però no li provoquen cap ferida. Al cap d'una estona, comença a ser evident que el monstre Bu només està jugant amb en Vegeta, que tard o d'hora acabarà caient.</desc>
-    <length units="seconds">1231</length>
-    <episode-num system="onscreen">236</episode-num>
+    <sub-title lang="ca">El poder esfereïdor del monstre Bu esclafa en Son Gohan</sub-title>
+    <desc lang="ca">En Son Gohan, que ha intentat atacar en Bu, cada cop està més a prop de la mort. El déu Neptú també prova d'aturar-lo, però el monstre fins i tot podria acabar devorant-lo. Aleshores, en Dabra es torna a aixecar i li explica al mag Babidí que el monstre Bu no serà mai un bon servent i que, a la llarga, l'acabarà traint.</desc>
+    <length units="seconds">1121</length>
+    <episode-num system="onscreen">234</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
@@ -120,35 +113,33 @@
   <channel id="c33">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20261019140544 +0200" stop="20261019145145 +0200" channel="c33">
-    <title lang="ca">La Renaixença</title>
-    <sub-title lang="ca">La flauta dolça</sub-title>
-    <desc lang="ca">Estem tots d'acord que, si hi ha un enemic comú, aquest és... la flauta dolça. Si algú de vosaltres té per veí canalla que ha d'assajar OBLIGATÒRIAMENT cada dia aquest instrument del dimoni: ànims i escalf. No cal cap altre motiu per dedicar-li un capítol a la flauta dolça. Ens visita l'Empar Moliner, amb qui parlem de tot, creieu-nos. Heu llegit 'Cinquanta ombres d'en Grey'? Ella, sí. Un trosset. A 'Històries per passejar el gos' sortim amb en Ramon, un gos de 80?kg, pel rescat dels 33 miners de San José. </desc>
-    <length units="seconds">2761</length>
-    <episode-num system="onscreen">51</episode-num>
-    <category lang="ca">DIVULGACIÓ</category>
-    <category lang="ca">ALTRES</category>
+  <programme start="20261019210234 +0200" stop="20261019213543 +0200" channel="c33">
+    <title lang="ca">L'un per l'altre</title>
+    <sub-title lang="ca">Sospites habituals</sub-title>
+    <desc lang="ca">Per l'aniversari de la Maria el Toni li regala uns prismàtics. Ella els fa servir per espiar els veïns, dia i nit. Fins que un dia li sembla veure que es comet un crim a l'edifici del davant. Decideixen que, abans d'avisar la policia, han d'entrar al pis a buscar proves. Ho fan a sorts i li toca al Toni, que estarà a punt de ser descobert pel suposat assassí.</desc>
+    <length units="seconds">1989</length>
+    <episode-num system="onscreen">21</episode-num>
+    <category lang="ca">FICCIÓ</category>
+    <category lang="ca">SITCOM (COMÈDIA DE SITUACIÓ)</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/3/3/1756148014833.jpg"/>
   </programme>
-  <programme start="20261019145145 +0200" stop="20261019153802 +0200" channel="c33">
-    <title lang="ca">La Renaixença</title>
-    <sub-title lang="ca">El botó</sub-title>
-    <desc lang="ca">El botó és dels objectes que més fan patir: no heu vist mai aquell botó d'una camisa a punt de sortir disparat? Quants botons es deuen haver descosit al llarg de la història? Avui també descobrim què és la koumpounofòbia. L'Enric Aurich ha sigut fisioterapeuta de gent com Messi, Ronaldinho, Zidane, Rafael Nadal, Dalí... i el rei emèrit. Avui ha trobat una estona per venir a xerrar amb nosaltres, tot i tenir 80 anys i continuar treballant. I sortim a passejar amb en Potes, un gos de la Garriga, pel desastre del Hindenburg.</desc>
-    <length units="seconds">2777</length>
-    <episode-num system="onscreen">52</episode-num>
-    <category lang="ca">DIVULGACIÓ</category>
-    <category lang="ca">ALTRES</category>
+  <programme start="20261019213543 +0200" stop="20261019220034 +0200" channel="c33">
+    <title lang="ca">L'un per l'altre</title>
+    <sub-title lang="ca">L'assistenta</sub-title>
+    <desc lang="ca">La dona de fer feines del Toni i la Maria s'ha trencat les cames per culpa del Toni. Ell se sent tan culpable que decideix fer-li les feines sense dir-ho a ningú.</desc>
+    <length units="seconds">1491</length>
+    <episode-num system="onscreen">22</episode-num>
+    <category lang="ca">FICCIÓ</category>
+    <category lang="ca">SITCOM (COMÈDIA DE SITUACIÓ)</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/3/3/1756148014833.jpg"/>
   </programme>
   <channel id="oca1">
     <display-name>OCA1</display-name>
