@@ -3,83 +3,80 @@
   <channel id="tvi">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20261019003830 +0200" stop="20261019040000 +0200" channel="tvi">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">12090</length>
-    <episode-num system="onscreen">11469</episode-num>
+  <programme start="20261019080013 +0200" stop="20261019102957 +0200" channel="tvi">
+    <title lang="ca">Matins</title>
+    <desc lang="ca">'Matins' és un dels puntals informatius de TV3. El programa matinal dona les claus del dia que comença, explica les notícies que han passat aportant-ne el context per entendre-les i analitza amb veus acreditades l'actualitat més propera i la d'arreu del món. 'Matins' comença a les 8 del matí, de dilluns a divendres, i està presentat per Ariadna Oltra.</desc>
+    <length units="seconds">8984</length>
+    <episode-num system="onscreen">4694</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <previously-shown/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/2/0/1758040151402.jpg"/>
   </programme>
-  <programme start="20261019040000 +0200" stop="20261019045944 +0200" channel="tvi">
-    <title lang="ca">Blues a l'estudi</title>
-    <sub-title lang="ca">Big Yuyu</sub-title>
-    <desc lang="ca">Avui entren a 'Blues a l'estudi' els Big Yuyu. I ho fan acompanyats de la secció de vent The Hot Nite Band. La banda mallorquina ja ha tret al mercat tres àlbums, i cadascun és un pas més per crear un llenguatge sòlid i personal dins del blues.El repertori que ens presenta avui surt de 'Burnin' Up', l'últim treball que han gravat en col·laboració amb el cantant de Chicago Lorenzo Thompson. El seu estil és ple de ritmes ballables, melodies contagioses, i descarnades històries d'amor.Jordi Álvarez, a la veu i guitarra; Juan Amaro, al baix; Pep Lluís Garcia, a la bateria; Miquel Gayà, al trombó; Pep Grau, a la trompeta; Pol Prats, al saxo, i Llorenç Barceló, al hammond. </desc>
-    <length units="seconds">3584</length>
-    <episode-num system="onscreen">23</episode-num>
-    <category lang="ca">MUSICALS</category>
-    <category lang="ca">ALTRES</category>
+  <programme start="20261019102957 +0200" stop="20261019135457 +0200" channel="tvi">
+    <title lang="ca">Tot es mou</title>
+    <desc lang="ca">El programa presentat per Helena Garcia Melero s'emet de dilluns a divendres, de 10.30 a 13.55. Un magazín d'actualitat que busca informar, analitzar i debatre sobre temes que marquen l'actualitat social, econòmica i cultural del dia, amb una àmplia presència en directe dels reporters i reporteres, repartits per tot Catalunya. A més, el 'Tot es mou' compta amb seccions diàries de gastronomia (amb els principals cuiners i cuineres del país), successos, economia, mobilitat, temes mèdics i de tecnologia, entre d'altres.</desc>
+    <length units="seconds">12300</length>
+    <episode-num system="onscreen">1831</episode-num>
+    <category lang="ca">ACTUALITAT</category>
+    <category lang="ca">MAGAZINE</category>
     <rating>
-      <value>PÚBLIC ADULT</value>
+      <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <previously-shown/>
   </programme>
   <channel id="324">
     <display-name>324</display-name>
   </channel>
-  <programme start="20261019010000 +0200" stop="20261019060000 +0200" channel="324">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">18000</length>
-    <episode-num system="onscreen">11469</episode-num>
+  <programme start="20261019080000 +0200" stop="20261019103000 +0200" channel="324">
+    <title lang="ca">Matins</title>
+    <desc lang="ca">'Matins' és un dels puntals informatius de TV3. El programa matinal dona les claus del dia que comença, explica les notícies que han passat aportant-ne el context per entendre-les i analitza amb veus acreditades l'actualitat més propera i la d'arreu del món. 'Matins' comença a les 8 del matí, de dilluns a divendres, i està presentat per Ariadna Oltra.</desc>
+    <length units="seconds">9000</length>
+    <episode-num system="onscreen">4694</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <previously-shown/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/2/0/1758040151402.jpg"/>
   </programme>
-  <programme start="20261019060000 +0200" stop="20261019080000 +0200" channel="324">
+  <programme start="20261019103000 +0200" stop="20261019120000 +0200" channel="324">
     <title lang="ca">Notícies 3CatInfo</title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">7200</length>
-    <episode-num system="onscreen">11470</episode-num>
+    <length units="seconds">5400</length>
+    <episode-num system="onscreen">11471</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
+    <subtitles type="teletext"/>
     <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
   <channel id="esport3">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20261019030048 +0200" stop="20261019045425 +0200" channel="esport3">
-    <title lang="ca">Bàsquet</title>
-    <sub-title lang="ca">FIATC Girona-Leyma Corunya / Lliga / J4</sub-title>
-    <desc lang="ca">Catalans i gallecs estan empatats a la taula classificatòria amb 1 victòria i 2 derrotes.</desc>
-    <length units="seconds">6817</length>
-    <episode-num system="onscreen">45</episode-num>
+  <programme start="20261019065758 +0200" stop="20261019083336 +0200" channel="esport3">
+    <title lang="ca">Gol a gol</title>
+    <sub-title lang="ca">Anàlisi de la jornada / J9 / Diumenge</sub-title>
+    <desc lang="ca">'Gol a gol' us ofereix els resums dels partits de futbol de Primera i Segona Divisió. Presentat per Jordi Grau a Esport3, cada dissabte i cada diumenge podeu veure les millors imatges de la jornada de Lliga amb l'anàlisi dels experts, amb especial atenció als equips catalans, sobretot el Barça, el Girona i l'Espanyol.</desc>
+    <length units="seconds">5738</length>
+    <episode-num system="onscreen">1792</episode-num>
     <category lang="ca">ESPORTS</category>
-    <category lang="ca">RETRANSMISSIONS ESPORTS</category>
+    <category lang="ca">MAGAZINE</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
-    <icon src="https://img.3cat.cat/multimedia/jpg/4/5/1769511199554.jpg"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/2/1/1698144123212.jpg"/>
   </programme>
-  <programme start="20261019045425 +0200" stop="20261019062145 +0200" channel="esport3">
+  <programme start="20261019083336 +0200" stop="20261019095720 +0200" channel="esport3">
     <title lang="ca">Handbol</title>
     <sub-title lang="ca">Cangas-Barça / Lliga Asobal / J6</sub-title>
     <desc lang="ca">Els blaugranes visiten la pista del conjunt gallec de Cangas do Morrazo per disputar el partit que tanca la 6a jornada de Lliga.</desc>
-    <length units="seconds">5240</length>
+    <length units="seconds">5024</length>
     <episode-num system="onscreen">196</episode-num>
     <category lang="ca">ESPORTS</category>
     <category lang="ca">RETRANSMISSIONS ESPORTS</category>
@@ -92,27 +89,26 @@
   <channel id="sx3">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20261019025928 +0200" stop="20261019030933 +0200" channel="sx3">
-    <title lang="ca">Com dibuixar còmics amb el Will Sliney</title>
-    <sub-title lang="ca">Els dolents s’uneixen</sub-title>
-    <desc lang="ca">Com que el Will havia fet una crida als espectadors del programa perquè enviessin dibuixos de superherois que poguessin contribuir a la victòria contra el Crònica, aquest va fer el mateix i en l'episodi d'avui veurem els diferents dolents creats pels espectadors. I el Will ens ensenyarà a dibuixar una nova mena de personatge, l'antiheroi, un personatge a mig camí entre bo i dolent i amb característiques de tots dos.</desc>
-    <length units="seconds">605</length>
-    <episode-num system="onscreen">37</episode-num>
-    <category lang="ca">FICCIÓ</category>
+  <programme start="20261019080557 +0200" stop="20261019081748 +0200" channel="sx3">
+    <title lang="ca">Titó</title>
+    <sub-title lang="ca">Excursió amb visons i turons</sub-title>
+    <desc lang="ca">Avui anem d'excursió a un centre on crien visons i turons, dos animals del nostre territori que estan en perill d'extinció. Avui descobrirem si hi ha hagut sort i dues femelles han tingut cries.</desc>
+    <length units="seconds">711</length>
+    <episode-num system="onscreen">186</episode-num>
+    <category lang="ca">ENTRETENIMENT</category>
     <category lang="ca">ALTRES</category>
     <rating>
       <value>INFANTIL</value>
     </rating>
     <subtitles type="teletext"/>
-    <previously-shown/>
   </programme>
-  <programme start="20261019030933 +0200" stop="20261019031953 +0200" channel="sx3">
-    <title lang="ca">Com dibuixar còmics amb el Will Sliney</title>
-    <sub-title lang="ca">Comença la gran batalla</sub-title>
-    <desc lang="ca">Com que el Will havia fet una crida als espectadors del programa perquè enviessin dibuixos de superherois que poguessin contribuir a la victòria contra el Crònica, aquest va fer el mateix i en l'episodi d'avui veurem els diferents dolents creats pels espectadors. I el Will ens ensenyarà a dibuixar una nova mena de personatge, l'antiheroi, un personatge a mig camí entre bo i dolent i amb característiques de tots dos.</desc>
-    <length units="seconds">620</length>
-    <episode-num system="onscreen">38</episode-num>
-    <category lang="ca">FICCIÓ</category>
+  <programme start="20261019081748 +0200" stop="20261019082729 +0200" channel="sx3">
+    <title lang="ca">Titó</title>
+    <sub-title lang="ca">Excursió a fer ràfting</sub-title>
+    <desc lang="ca">L'excursió d'avui ve carregada d'aventura! Baixarem riu avall fent ràfting. Tothom amb les pales preparades i endavant!</desc>
+    <length units="seconds">581</length>
+    <episode-num system="onscreen">183</episode-num>
+    <category lang="ca">ENTRETENIMENT</category>
     <category lang="ca">ALTRES</category>
     <rating>
       <value>INFANTIL</value>
@@ -123,28 +119,28 @@
   <channel id="c33">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20261019022509 +0200" stop="20261019030924 +0200" channel="c33">
-    <title lang="ca">El Crac</title>
-    <sub-title lang="ca">La gran volada</sub-title>
-    <desc lang="ca">El Joel i la Carla han de rodar la gran escena de sexe i passió de la pel·lícula. Excitat pel moment i incapaç de controlar la seva libido, el Joel recorre a un expert en hipnosi per mantenir l'excitació a ratlla. El remei funciona, però certs efectes secundaris no desitjats el fan quedar malament davant la Carla. El Joel veu una nova oportunitat de recuperar la Carla quan s'assabenta que la noia té debilitat pels pilots d'avió.</desc>
-    <length units="seconds">2655</length>
+  <programme start="20261019075356 +0200" stop="20261019082327 +0200" channel="c33">
+    <title lang="ca">La sobretaula</title>
+    <sub-title lang="ca">Sant Andreu de la Barca amb Jordi Cruz</sub-title>
+    <desc lang="ca">Productes de proximitat, innovació i art defineixen aquest capítol de La Sobretaula, que visita Sant Andreu de la Barca. Ho fem acompanyats del polifacètic Jordi Cruz, amb qui descobrim un municipi creatiu, inquiet i connectat amb el territori.</desc>
+    <length units="seconds">1771</length>
     <episode-num system="onscreen">8</episode-num>
-    <category lang="ca">FICCIÓ</category>
-    <category lang="ca">SÈRIE DRAMÀTICA</category>
+    <category lang="ca">DIVULGACIÓ</category>
+    <category lang="ca">CUINA</category>
     <rating>
-      <value>PÚBLIC ADULT</value>
+      <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20261019030924 +0200" stop="20261019040456 +0200" channel="c33">
-    <title lang="ca">Benvinguts a la família</title>
-    <sub-title lang="ca">La Lola</sub-title>
-    <desc lang="ca">Amb l'objectiu de blanquejar el diner negre de l'Eduardo, la família decideix utilitzar l'empresa de les 'Electropipes' de tapadora. Però per aconseguir l'estoc, el Nando es veurà obligat a retrobar-se amb la Lola, un antic amor que posarà en perill l'equilibri familiar.</desc>
-    <length units="seconds">3332</length>
-    <episode-num system="onscreen">5</episode-num>
-    <category lang="ca">FICCIÓ</category>
-    <category lang="ca">SÈRIE DRAMÀTICA</category>
+  <programme start="20261019082327 +0200" stop="20261019091515 +0200" channel="c33">
+    <title lang="ca">Gent de món</title>
+    <sub-title lang="ca">Rússia</sub-title>
+    <desc lang="ca">Heu contemplat en directe l'autèntic llac dels cignes?Heu passejat per la humil llar de Vladímir Putin?Heu estat mai en un palau a sota terra?Heu sortit de nit a la llum del sol?No?Doncs segurament és perquè no sou un dels viatgers de 'Gent de món'. Però si veieu el programa d'aquesta setmana tindreu l'oportunitat de conèixer Moscou i Sant Petersburg, les dues principals ciutats d'un país que per una banda fa frontera amb Finlàndia i per l'altra..., és a tocar del Japó!!! Sí, Rússia és el país més gran del món... ei, i creixent!</desc>
+    <length units="seconds">3108</length>
+    <episode-num system="onscreen">1</episode-num>
+    <category lang="ca">ENTRETENIMENT</category>
+    <category lang="ca">ALTRES</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
