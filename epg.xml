@@ -3,115 +3,116 @@
   <channel id="tvi">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20261019080013 +0200" stop="20261019102957 +0200" channel="tvi">
-    <title lang="ca">Matins</title>
-    <desc lang="ca">'Matins' és un dels puntals informatius de TV3. El programa matinal dona les claus del dia que comença, explica les notícies que han passat aportant-ne el context per entendre-les i analitza amb veus acreditades l'actualitat més propera i la d'arreu del món. 'Matins' comença a les 8 del matí, de dilluns a divendres, i està presentat per Ariadna Oltra.</desc>
-    <length units="seconds">8984</length>
-    <episode-num system="onscreen">4694</episode-num>
+  <programme start="20261019143000 +0200" stop="20261019153036 +0200" channel="tvi">
+    <title lang="ca">Telenotícies migdia</title>
+    <length units="seconds">3636</length>
+    <episode-num system="onscreen">7363</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <icon src="https://img.ccma.cat/multimedia/jpg/2/0/1758040151402.jpg"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/5/4/1758025766345.jpg"/>
   </programme>
-  <programme start="20261019102957 +0200" stop="20261019135457 +0200" channel="tvi">
-    <title lang="ca">Tot es mou</title>
-    <desc lang="ca">El programa presentat per Helena Garcia Melero s'emet de dilluns a divendres, de 10.30 a 13.55. Un magazín d'actualitat que busca informar, analitzar i debatre sobre temes que marquen l'actualitat social, econòmica i cultural del dia, amb una àmplia presència en directe dels reporters i reporteres, repartits per tot Catalunya. A més, el 'Tot es mou' compta amb seccions diàries de gastronomia (amb els principals cuiners i cuineres del país), successos, economia, mobilitat, temes mèdics i de tecnologia, entre d'altres.</desc>
-    <length units="seconds">12300</length>
-    <episode-num system="onscreen">1831</episode-num>
-    <category lang="ca">ACTUALITAT</category>
-    <category lang="ca">MAGAZINE</category>
+  <programme start="20261019153036 +0200" stop="20261019155111 +0200" channel="tvi">
+    <title lang="ca">Cuines</title>
+    <sub-title lang="ca">Creps picardes amb pernil ibèric</sub-title>
+    <desc lang="ca">Ja sabem que les creps més conegudes arreu del món són les bretones, però el Marc Ribas ens vol mostrar com hi ha regions de França on en fan la seva pròpia versió. Aquest és el cas de la Picardia o fan les creps amb pernil dolç, formatge i bolets, una combinació suculenta que al Cuines variarem amb la incorporació d'un ingredient que tot ho millora: el pernil ibèric.</desc>
+    <length units="seconds">1235</length>
+    <episode-num system="onscreen">2429</episode-num>
+    <category lang="ca">DIVULGACIÓ</category>
+    <category lang="ca">CUINA</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
+    <icon src="https://img.ccma.cat/multimedia/jpg/2/5/1653464509252.jpg"/>
   </programme>
   <channel id="324">
     <display-name>324</display-name>
   </channel>
-  <programme start="20261019080000 +0200" stop="20261019103000 +0200" channel="324">
-    <title lang="ca">Matins</title>
-    <desc lang="ca">'Matins' és un dels puntals informatius de TV3. El programa matinal dona les claus del dia que comença, explica les notícies que han passat aportant-ne el context per entendre-les i analitza amb veus acreditades l'actualitat més propera i la d'arreu del món. 'Matins' comença a les 8 del matí, de dilluns a divendres, i està presentat per Ariadna Oltra.</desc>
-    <length units="seconds">9000</length>
-    <episode-num system="onscreen">4694</episode-num>
+  <programme start="20261019143000 +0200" stop="20261019153000 +0200" channel="324">
+    <title lang="ca">Telenotícies migdia</title>
+    <length units="seconds">3600</length>
+    <episode-num system="onscreen">7363</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <icon src="https://img.ccma.cat/multimedia/jpg/2/0/1758040151402.jpg"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/5/4/1758025766345.jpg"/>
   </programme>
-  <programme start="20261019103000 +0200" stop="20261019120000 +0200" channel="324">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">5400</length>
-    <episode-num system="onscreen">11471</episode-num>
+  <programme start="20261019153000 +0200" stop="20261019160000 +0200" channel="324">
+    <title lang="ca">3CatInfo en aranès</title>
+    <desc lang="ca">Informatiu de continguts generalistes en llengua aranesa, presentat per Ares Riu, en emissió per a tot Catalunya.</desc>
+    <length units="seconds">1800</length>
+    <episode-num system="onscreen">2576</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
+    <icon src="https://img.ccma.cat/multimedia/png/5/8/1758125433085.png"/>
   </programme>
   <channel id="esport3">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20261019065758 +0200" stop="20261019083336 +0200" channel="esport3">
-    <title lang="ca">Gol a gol</title>
-    <sub-title lang="ca">Anàlisi de la jornada / J9 / Diumenge</sub-title>
-    <desc lang="ca">'Gol a gol' us ofereix els resums dels partits de futbol de Primera i Segona Divisió. Presentat per Jordi Grau a Esport3, cada dissabte i cada diumenge podeu veure les millors imatges de la jornada de Lliga amb l'anàlisi dels experts, amb especial atenció als equips catalans, sobretot el Barça, el Girona i l'Espanyol.</desc>
-    <length units="seconds">5738</length>
-    <episode-num system="onscreen">1792</episode-num>
+  <programme start="20261019140156 +0200" stop="20261019160210 +0200" channel="esport3">
+    <title lang="ca">Esport Club</title>
+    <sub-title lang="ca">Luis Enrique, el cop de colze de Güler, l'èxit del CPA Olot i tertúlia</sub-title>
+    <desc lang="ca">El Barça ja és a París per enfrontar-se al PSG. Sentirem la roda de premsa de Luis Enrique. Analitzarem el cop de colze d'Arda Güler a Peque amb Joan Fàbregas. Entrevistem Ester Fàbregas i Ricard Planiol, del CPA Olot. Han guanyat el Mundial de patinatge de grups de xou gran. A la tertúlia ens acompanyen Maria Josep Hostalrich, Orfeo Suárez i Raúl Fuentes. </desc>
+    <length units="seconds">7214</length>
+    <episode-num system="onscreen">3264</episode-num>
     <category lang="ca">ESPORTS</category>
-    <category lang="ca">MAGAZINE</category>
+    <category lang="ca">INFORMATIU DIÀRI</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <subtitles type="teletext"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/7/3/1698145091337.jpg"/>
+  </programme>
+  <programme start="20261019160210 +0200" stop="20261019163404 +0200" channel="esport3">
+    <title lang="ca">GR Pirineus</title>
+    <sub-title lang="ca">El mont més sec</sub-title>
+    <desc lang="ca">Avui la nostra ruta creuarà d'extrem a extrem la serra del Montsec.Començarem a Vilanova de Meià on coneixerem una raça de cabra catalana en perill d'extinció. Després enfilarem camí fins a Sant Martí de Barcedana, on visitarem una casa rural, on fan unes confitures per llepar-se'n els dits! Passarem per Sant Cristòfol de la Vall, Llimiana i arribarem a l'embassament de Terradets, on farem nit i tastarem la cuina de la terra amb un toc molt innovador.L'endemà començarem la jornada a sobre d'un caiac remant pel pantà. Anirem a Guàrdia de Noguera, el castell de Mur i ens endinsarem a la Vall d'Àger, on gaudirem, primer, del cel des de la terra, observant l'univers amb un telescopi; i, posteriorment, de la terra des del cel, practicant el parapent. I acabarem al congost de Mont-rebei, l'anomenat Gran Canó català. En total 65 quilòmetres, repartits en 2 jornades, fets a peu, amb cotxe i amb parapent. Un mont molt sec, però amb molta vida.</desc>
+    <length units="seconds">1914</length>
+    <episode-num system="onscreen">19</episode-num>
+    <category lang="ca">DIVULGACIÓ</category>
+    <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/2/1/1698144123212.jpg"/>
-  </programme>
-  <programme start="20261019083336 +0200" stop="20261019095720 +0200" channel="esport3">
-    <title lang="ca">Handbol</title>
-    <sub-title lang="ca">Cangas-Barça / Lliga Asobal / J6</sub-title>
-    <desc lang="ca">Els blaugranes visiten la pista del conjunt gallec de Cangas do Morrazo per disputar el partit que tanca la 6a jornada de Lliga.</desc>
-    <length units="seconds">5024</length>
-    <episode-num system="onscreen">196</episode-num>
-    <category lang="ca">ESPORTS</category>
-    <category lang="ca">RETRANSMISSIONS ESPORTS</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <previously-shown/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/9/1/1700215879019.jpg"/>
+    <icon src="https://img.3cat.cat/multimedia/jpg/9/8/1736612891089.jpg"/>
   </programme>
   <channel id="sx3">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20261019080557 +0200" stop="20261019081748 +0200" channel="sx3">
-    <title lang="ca">Titó</title>
-    <sub-title lang="ca">Excursió amb visons i turons</sub-title>
-    <desc lang="ca">Avui anem d'excursió a un centre on crien visons i turons, dos animals del nostre territori que estan en perill d'extinció. Avui descobrirem si hi ha hagut sort i dues femelles han tingut cries.</desc>
-    <length units="seconds">711</length>
-    <episode-num system="onscreen">186</episode-num>
-    <category lang="ca">ENTRETENIMENT</category>
-    <category lang="ca">ALTRES</category>
+  <programme start="20261019144610 +0200" stop="20261019150533 +0200" channel="sx3">
+    <title lang="ca">Bola de drac Z</title>
+    <sub-title lang="ca">El combat a mort d'en Vegeta contra el monstre Bu</sub-title>
+    <desc lang="ca">En Dabra continua atacant en Bu, però quan sembla que el monstre està mort, comença a cantar, converteix en Dabra en una galeta i se'l cruspeix. Amb la mort d'en Dabra, en Cor Petit i en Krilin deixen de ser de pedra. En Trunks i en Son Goten també han arribat i ho han vist tot. Aleshores, apareix en Vegeta i inicia un combat a mort contra el monstre Bu.</desc>
+    <length units="seconds">1163</length>
+    <episode-num system="onscreen">235</episode-num>
+    <category lang="ca">FICCIÓ</category>
+    <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
-      <value>INFANTIL</value>
+      <value>JUVENIL</value>
     </rating>
     <subtitles type="teletext"/>
+    <previously-shown/>
   </programme>
-  <programme start="20261019081748 +0200" stop="20261019082729 +0200" channel="sx3">
-    <title lang="ca">Titó</title>
-    <sub-title lang="ca">Excursió a fer ràfting</sub-title>
-    <desc lang="ca">L'excursió d'avui ve carregada d'aventura! Baixarem riu avall fent ràfting. Tothom amb les pales preparades i endavant!</desc>
-    <length units="seconds">581</length>
-    <episode-num system="onscreen">183</episode-num>
-    <category lang="ca">ENTRETENIMENT</category>
-    <category lang="ca">ALTRES</category>
+  <programme start="20261019150533 +0200" stop="20261019152604 +0200" channel="sx3">
+    <title lang="ca">Bola de drac Z</title>
+    <sub-title lang="ca">La destrucció d'en Bu sembla un fet</sub-title>
+    <desc lang="ca">Després de demostrar-li al mag Babidí que ja no exerceix cap poder sobre ell, en Vegeta provoca el monstre Bu i el comença a atacar amb tota la seva potència. Els cops tomben el monstre, però no li provoquen cap ferida. Al cap d'una estona, comença a ser evident que el monstre Bu només està jugant amb en Vegeta, que tard o d'hora acabarà caient.</desc>
+    <length units="seconds">1231</length>
+    <episode-num system="onscreen">236</episode-num>
+    <category lang="ca">FICCIÓ</category>
+    <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
-      <value>INFANTIL</value>
+      <value>JUVENIL</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
@@ -119,33 +120,35 @@
   <channel id="c33">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20261019075356 +0200" stop="20261019082327 +0200" channel="c33">
-    <title lang="ca">La sobretaula</title>
-    <sub-title lang="ca">Sant Andreu de la Barca amb Jordi Cruz</sub-title>
-    <desc lang="ca">Productes de proximitat, innovació i art defineixen aquest capítol de La Sobretaula, que visita Sant Andreu de la Barca. Ho fem acompanyats del polifacètic Jordi Cruz, amb qui descobrim un municipi creatiu, inquiet i connectat amb el territori.</desc>
-    <length units="seconds">1771</length>
-    <episode-num system="onscreen">8</episode-num>
+  <programme start="20261019140544 +0200" stop="20261019145145 +0200" channel="c33">
+    <title lang="ca">La Renaixença</title>
+    <sub-title lang="ca">La flauta dolça</sub-title>
+    <desc lang="ca">Estem tots d'acord que, si hi ha un enemic comú, aquest és... la flauta dolça. Si algú de vosaltres té per veí canalla que ha d'assajar OBLIGATÒRIAMENT cada dia aquest instrument del dimoni: ànims i escalf. No cal cap altre motiu per dedicar-li un capítol a la flauta dolça. Ens visita l'Empar Moliner, amb qui parlem de tot, creieu-nos. Heu llegit 'Cinquanta ombres d'en Grey'? Ella, sí. Un trosset. A 'Històries per passejar el gos' sortim amb en Ramon, un gos de 80?kg, pel rescat dels 33 miners de San José. </desc>
+    <length units="seconds">2761</length>
+    <episode-num system="onscreen">51</episode-num>
     <category lang="ca">DIVULGACIÓ</category>
-    <category lang="ca">CUINA</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <subtitles type="teletext"/>
-    <previously-shown/>
-  </programme>
-  <programme start="20261019082327 +0200" stop="20261019091515 +0200" channel="c33">
-    <title lang="ca">Gent de món</title>
-    <sub-title lang="ca">Rússia</sub-title>
-    <desc lang="ca">Heu contemplat en directe l'autèntic llac dels cignes?Heu passejat per la humil llar de Vladímir Putin?Heu estat mai en un palau a sota terra?Heu sortit de nit a la llum del sol?No?Doncs segurament és perquè no sou un dels viatgers de 'Gent de món'. Però si veieu el programa d'aquesta setmana tindreu l'oportunitat de conèixer Moscou i Sant Petersburg, les dues principals ciutats d'un país que per una banda fa frontera amb Finlàndia i per l'altra..., és a tocar del Japó!!! Sí, Rússia és el país més gran del món... ei, i creixent!</desc>
-    <length units="seconds">3108</length>
-    <episode-num system="onscreen">1</episode-num>
-    <category lang="ca">ENTRETENIMENT</category>
     <category lang="ca">ALTRES</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/3/3/1756148014833.jpg"/>
+  </programme>
+  <programme start="20261019145145 +0200" stop="20261019153802 +0200" channel="c33">
+    <title lang="ca">La Renaixença</title>
+    <sub-title lang="ca">El botó</sub-title>
+    <desc lang="ca">El botó és dels objectes que més fan patir: no heu vist mai aquell botó d'una camisa a punt de sortir disparat? Quants botons es deuen haver descosit al llarg de la història? Avui també descobrim què és la koumpounofòbia. L'Enric Aurich ha sigut fisioterapeuta de gent com Messi, Ronaldinho, Zidane, Rafael Nadal, Dalí... i el rei emèrit. Avui ha trobat una estona per venir a xerrar amb nosaltres, tot i tenir 80 anys i continuar treballant. I sortim a passejar amb en Potes, un gos de la Garriga, pel desastre del Hindenburg.</desc>
+    <length units="seconds">2777</length>
+    <episode-num system="onscreen">52</episode-num>
+    <category lang="ca">DIVULGACIÓ</category>
+    <category lang="ca">ALTRES</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <subtitles type="teletext"/>
+    <previously-shown/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/3/3/1756148014833.jpg"/>
   </programme>
   <channel id="oca1">
     <display-name>OCA1</display-name>
