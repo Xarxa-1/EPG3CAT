@@ -3,109 +3,117 @@
   <channel id="tvi">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20261019205937 +0200" stop="20261019220141 +0200" channel="tvi">
-    <title lang="ca">Telenotícies vespre</title>
-    <length units="seconds">3724</length>
-    <episode-num system="onscreen">7362</episode-num>
-    <category lang="ca">ACTUALITAT</category>
-    <category lang="ca">INFORMATIU DIÀRI</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <icon src="https://img.ccma.cat/multimedia/jpg/7/2/1758026176427.jpg"/>
-  </programme>
-  <programme start="20261019220141 +0200" stop="20261019220924 +0200" channel="tvi">
-    <title lang="ca">Equip 012</title>
-    <sub-title lang="ca">- Tinc un poder</sub-title>
-    <desc lang="ca">Sense Descripció</desc>
-    <length units="seconds">463</length>
-    <episode-num system="onscreen">3</episode-num>
-  </programme>
-  <channel id="324">
-    <display-name>324</display-name>
-  </channel>
-  <programme start="20261019210000 +0200" stop="20261019220500 +0200" channel="324">
-    <title lang="ca">Telenotícies vespre</title>
-    <length units="seconds">3900</length>
-    <episode-num system="onscreen">7362</episode-num>
-    <category lang="ca">ACTUALITAT</category>
-    <category lang="ca">INFORMATIU DIÀRI</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <icon src="https://img.ccma.cat/multimedia/jpg/7/2/1758026176427.jpg"/>
-  </programme>
-  <programme start="20261019220500 +0200" stop="20261020000000 +0200" channel="324">
+  <programme start="20261020001756 +0200" stop="20261020020739 +0200" channel="tvi">
     <title lang="ca">Mésnit</title>
     <desc lang="ca">El 'Mésnit' arriba a la desena temporada, amb Marina Romero al capdavant de l'espai i amb la voluntat de continuar sent un centre de debat d'idees i d'anàlisi de l'activitat política.</desc>
-    <length units="seconds">6900</length>
+    <length units="seconds">6583</length>
     <episode-num system="onscreen">2182</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">DEBAT</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <subtitles type="teletext"/>
+    <previously-shown/>
+  </programme>
+  <programme start="20261020020739 +0200" stop="20261020040000 +0200" channel="tvi">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="seconds">6741</length>
+    <episode-num system="onscreen">11478</episode-num>
+    <category lang="ca">ACTUALITAT</category>
+    <category lang="ca">INFORMATIU DIÀRI</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <previously-shown/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
+  </programme>
+  <channel id="324">
+    <display-name>324</display-name>
+  </channel>
+  <programme start="20261020003000 +0200" stop="20261020010000 +0200" channel="324">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="seconds">1800</length>
+    <episode-num system="onscreen">11478</episode-num>
+    <category lang="ca">ACTUALITAT</category>
+    <category lang="ca">INFORMATIU DIÀRI</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
+  </programme>
+  <programme start="20261020010000 +0200" stop="20261020060000 +0200" channel="324">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="seconds">18000</length>
+    <episode-num system="onscreen">11478</episode-num>
+    <category lang="ca">ACTUALITAT</category>
+    <category lang="ca">INFORMATIU DIÀRI</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <previously-shown/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
   <channel id="esport3">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20261019210536 +0200" stop="20261019213741 +0200" channel="esport3">
-    <title lang="ca">Zona zàping</title>
-    <desc lang="ca">.</desc>
-    <length units="seconds">1925</length>
-    <episode-num system="onscreen">1087</episode-num>
+  <programme start="20261020004345 +0200" stop="20261020021630 +0200" channel="esport3">
+    <title lang="ca">Onze</title>
+    <sub-title lang="ca">París, la gran batalla; Mayola Academy i 'El Colegiado'</sub-title>
+    <desc lang="ca">Carles Fité, Xavi Torres, Aina Cerdà, Jordi Martí i Joaquín Maroto pentinen la prèvia del partit a París entre el PSG i el Barça. En Marc Mayola analitza alguns aspectes tàctics del Betis-Barça i en Joan Fàbregas repassa les jugades polèmiques de la jornada.</desc>
+    <length units="seconds">5565</length>
+    <episode-num system="onscreen">1271</episode-num>
     <category lang="ca">ESPORTS</category>
-    <category lang="ca">ALTRES</category>
+    <category lang="ca">MAGAZINE</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
-    <icon src="https://img.3cat.cat/multimedia/jpg/4/7/1763564970974.jpg"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/1/1/1688543515711.jpg"/>
   </programme>
-  <programme start="20261019213741 +0200" stop="20261019223137 +0200" channel="esport3">
-    <title lang="ca">Tot Costa</title>
-    <sub-title lang="ca">PSG-Barça, un test perfecte</sub-title>
-    <desc lang="ca">Hansi Flick espera que demà contra el PSG es vegi a quin nivell està el Barça aquesta temporada. Sabrem l'última hora del partit amb Bernat Soler i Ricard Torquemada. Analitzarem l'enfrontament amb Dani Senabre, Anaïs Martí i Marcos López. Al 'Torquelab', estudiarem com resoldre l'emergència de la defensa del Barça, que arriba a París amb moltes baixes. També obrirem el 'VARòmetre', amb Joan Fàbregas, i parlarem de les derrotes del Barça femení i del Barça de bàsquet.</desc>
-    <length units="seconds">3236</length>
-    <episode-num system="onscreen">1023</episode-num>
+  <programme start="20261020021630 +0200" stop="20261020022657 +0200" channel="esport3">
+    <title lang="ca">3CatInfo Esports</title>
+    <desc lang="ca">Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.</desc>
+    <length units="seconds">627</length>
+    <episode-num system="onscreen">5543</episode-num>
     <category lang="ca">ESPORTS</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <subtitles type="teletext"/>
     <previously-shown/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/0/4/1706209193140.jpg"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/9/7/1758888682179.jpg"/>
   </programme>
   <channel id="sx3">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20261019210008 +0200" stop="20261019212225 +0200" channel="sx3">
-    <title lang="ca">Bola de drac Z</title>
-    <sub-title lang="ca">Fins on arriba el poder d'en Bu?</sub-title>
-    <desc lang="ca">En Vegeta no accepta el tracte que li proposa en Son Goku d'atacar conjuntament el monstre Bu, el deixa inconscient a traïció, es menja una mongeta màgica i es disposa a atacar tot sol el monstre Bu. Mentrestant, en Babidí ordena a en Bu que mati en Son Gohan i el déu Neptú, que intentarà dur a terme el seu pla abans que els atrapi el monstre.</desc>
-    <length units="seconds">1337</length>
-    <episode-num system="onscreen">233</episode-num>
+  <programme start="20261020004359 +0200" stop="20261020010438 +0200" channel="sx3">
+    <title lang="ca">Els germans Kratt</title>
+    <sub-title lang="ca">Tartígrad al límit</sub-title>
+    <desc lang="ca">Els germans Kratt i tota la colla contemplen el cel estrellat i es pregunten si hi ha vida a l'espai exterior. Com sempre, l'única manera d'esbrinar-ho és sortint a explorar. Alhora constaten que hi ha animals a la Terra que tenen capacitats extraordinàries i que no sempre són grans com un elefant. Gairebé de casualitat, en Jimmy en descobreix un d'ells: el tardígrad, petit com el cap d'una agulla i un professional de la supervivència.</desc>
+    <length units="seconds">1239</length>
+    <episode-num system="onscreen">153</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
-      <value>JUVENIL</value>
+      <value>INFANTIL</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20261019212225 +0200" stop="20261019214106 +0200" channel="sx3">
-    <title lang="ca">Bola de drac Z</title>
-    <sub-title lang="ca">El poder esfereïdor del monstre Bu esclafa en Son Gohan</sub-title>
-    <desc lang="ca">En Son Gohan, que ha intentat atacar en Bu, cada cop està més a prop de la mort. El déu Neptú també prova d'aturar-lo, però el monstre fins i tot podria acabar devorant-lo. Aleshores, en Dabra es torna a aixecar i li explica al mag Babidí que el monstre Bu no serà mai un bon servent i que, a la llarga, l'acabarà traint.</desc>
-    <length units="seconds">1121</length>
-    <episode-num system="onscreen">234</episode-num>
+  <programme start="20261020010438 +0200" stop="20261020012432 +0200" channel="sx3">
+    <title lang="ca">Viatges Pokémon</title>
+    <sub-title lang="ca">Donant suport a l’heroi local!</sub-title>
+    <desc lang="ca">Ara que la família de la Lylia torna a estar reunida, l'Ash, el Goh i la Chloe els acompanyen a casa seva, a Alola. La visita dona a l'Ash l'oportunitat de demostrar com han millorat les seves habilitats des que es va convertir en el campió de la regió: han organitzat un Battle Royale, i el professor Kukui, el Gladio i el Kiawe seran els seus oponents! El combat és intens i l'Estadi Royale és ple de gent que anima l'Ash i li desitja molt èxit en el pròxim torneig dels Vuit Mestres. Després del combat, l'Ash se'n va a la platja, on ben aviat es troba amb el professor Kokui i el Tapu Koko. El guardià de l'illa mostra a l'Ash el seu suport i el nostre heroi promet esforçar-s'hi al màxim! </desc>
+    <length units="seconds">1194</length>
+    <episode-num system="onscreen">112</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
-      <value>JUVENIL</value>
+      <value>INFANTIL</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
@@ -113,28 +121,26 @@
   <channel id="c33">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20261019210234 +0200" stop="20261019213543 +0200" channel="c33">
-    <title lang="ca">L'un per l'altre</title>
-    <sub-title lang="ca">Sospites habituals</sub-title>
-    <desc lang="ca">Per l'aniversari de la Maria el Toni li regala uns prismàtics. Ella els fa servir per espiar els veïns, dia i nit. Fins que un dia li sembla veure que es comet un crim a l'edifici del davant. Decideixen que, abans d'avisar la policia, han d'entrar al pis a buscar proves. Ho fan a sorts i li toca al Toni, que estarà a punt de ser descobert pel suposat assassí.</desc>
-    <length units="seconds">1989</length>
-    <episode-num system="onscreen">21</episode-num>
-    <category lang="ca">FICCIÓ</category>
-    <category lang="ca">SITCOM (COMÈDIA DE SITUACIÓ)</category>
+  <programme start="20261020005312 +0200" stop="20261020012317 +0200" channel="c33">
+    <title lang="ca">No tenim vergonya</title>
+    <desc lang="ca">'No tenim vergonya' revisa els grans moments a Televisió de Catalunya. Se'ls mira des d'un altre punt de vista, per comparar-los amb la realitat actual o repassar moments televisius molt recordats. Mai, però, des d'un punt de vista nostàlgic. NTV és una cadena de televisió. I, com a tal, conté tota mena d'elements (molinets, publicitat...) i de programes (informatius, d'esports, magazines, musicals, concursos...). De què es nodreix la seva programació? De l'arxiu de la televisió pública catalana revisionada sense complexos. D'aquí ve el nom de la cadena NTV, de 'No tenim vergonya'.</desc>
+    <length units="seconds">1805</length>
+    <episode-num system="onscreen">227</episode-num>
+    <category lang="ca">ESPORTS</category>
+    <category lang="ca">REPORTATGES</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20261019213543 +0200" stop="20261019220034 +0200" channel="c33">
-    <title lang="ca">L'un per l'altre</title>
-    <sub-title lang="ca">L'assistenta</sub-title>
-    <desc lang="ca">La dona de fer feines del Toni i la Maria s'ha trencat les cames per culpa del Toni. Ell se sent tan culpable que decideix fer-li les feines sense dir-ho a ningú.</desc>
-    <length units="seconds">1491</length>
-    <episode-num system="onscreen">22</episode-num>
-    <category lang="ca">FICCIÓ</category>
-    <category lang="ca">SITCOM (COMÈDIA DE SITUACIÓ)</category>
+  <programme start="20261020012317 +0200" stop="20261020015329 +0200" channel="c33">
+    <title lang="ca">No tenim vergonya</title>
+    <desc lang="ca">'No tenim vergonya' revisa els grans moments a Televisió de Catalunya. Se'ls mira des d'un altre punt de vista, per comparar-los amb la realitat actual o repassar moments televisius molt recordats. Mai, però, des d'un punt de vista nostàlgic. NTV és una cadena de televisió. I, com a tal, conté tota mena d'elements (molinets, publicitat...) i de programes (informatius, d'esports, magazines, musicals, concursos...). De què es nodreix la seva programació? De l'arxiu de la televisió pública catalana revisionada sense complexos. D'aquí ve el nom de la cadena NTV, de 'No tenim vergonya'.</desc>
+    <length units="seconds">1812</length>
+    <episode-num system="onscreen">228</episode-num>
+    <category lang="ca">ESPORTS</category>
+    <category lang="ca">REPORTATGES</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
