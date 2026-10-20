@@ -3,22 +3,10 @@
   <channel id="tvi">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20261020001756 +0200" stop="20261020020739 +0200" channel="tvi">
-    <title lang="ca">Mésnit</title>
-    <desc lang="ca">El 'Mésnit' arriba a la desena temporada, amb Marina Romero al capdavant de l'espai i amb la voluntat de continuar sent un centre de debat d'idees i d'anàlisi de l'activitat política.</desc>
-    <length units="seconds">6583</length>
-    <episode-num system="onscreen">2182</episode-num>
-    <category lang="ca">ACTUALITAT</category>
-    <category lang="ca">DEBAT</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <previously-shown/>
-  </programme>
-  <programme start="20261020020739 +0200" stop="20261020040000 +0200" channel="tvi">
+  <programme start="20261020020819 +0200" stop="20261020040000 +0200" channel="tvi">
     <title lang="ca">Notícies 3CatInfo</title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">6741</length>
+    <length units="seconds">6701</length>
     <episode-num system="onscreen">11478</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
@@ -27,22 +15,23 @@
     </rating>
     <previously-shown/>
     <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
+  </programme>
+  <programme start="20261020040000 +0200" stop="20261020045954 +0200" channel="tvi">
+    <title lang="ca">Blues a l'estudi</title>
+    <sub-title lang="ca">Augie Burr</sub-title>
+    <desc lang="ca">Aquest jove cantant barceloní, amb esforç i tenacitat, s'ha fet un lloc dins l'escena del blues i el rock'n'roll a casa nostra. Agustí Burriel es mou amb solvència dins del doo-wop i el rhythm'n'blues vocal. Ho ha fet amb formacions com els Big Jamboree o els Velvet Candles. L'acompanyen Blas Picón a la bateria, Juanma Rodríguez al contrabaix, Enma Fernández al piano, Mario Cobo a la guitarra i Big Dani Pérez al saxo tenor.</desc>
+    <length units="seconds">3594</length>
+    <episode-num system="onscreen">24</episode-num>
+    <category lang="ca">MUSICALS</category>
+    <category lang="ca">ALTRES</category>
+    <rating>
+      <value>PÚBLIC ADULT</value>
+    </rating>
+    <previously-shown/>
   </programme>
   <channel id="324">
     <display-name>324</display-name>
   </channel>
-  <programme start="20261020003000 +0200" stop="20261020010000 +0200" channel="324">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">1800</length>
-    <episode-num system="onscreen">11478</episode-num>
-    <category lang="ca">ACTUALITAT</category>
-    <category lang="ca">INFORMATIU DIÀRI</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
-  </programme>
   <programme start="20261020010000 +0200" stop="20261020060000 +0200" channel="324">
     <title lang="ca">Notícies 3CatInfo</title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
@@ -56,28 +45,40 @@
     <previously-shown/>
     <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
+  <programme start="20261020060000 +0200" stop="20261020080000 +0200" channel="324">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="seconds">7200</length>
+    <episode-num system="onscreen">11479</episode-num>
+    <category lang="ca">ACTUALITAT</category>
+    <category lang="ca">INFORMATIU DIÀRI</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
+  </programme>
   <channel id="esport3">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20261020004345 +0200" stop="20261020021630 +0200" channel="esport3">
-    <title lang="ca">Onze</title>
-    <sub-title lang="ca">París, la gran batalla; Mayola Academy i 'El Colegiado'</sub-title>
-    <desc lang="ca">Carles Fité, Xavi Torres, Aina Cerdà, Jordi Martí i Joaquín Maroto pentinen la prèvia del partit a París entre el PSG i el Barça. En Marc Mayola analitza alguns aspectes tàctics del Betis-Barça i en Joan Fàbregas repassa les jugades polèmiques de la jornada.</desc>
-    <length units="seconds">5565</length>
-    <episode-num system="onscreen">1271</episode-num>
+  <programme start="20261020022659 +0200" stop="20261020035657 +0200" channel="esport3">
+    <title lang="ca">Tot Costa</title>
+    <sub-title lang="ca">PSG-Barça, un test perfecte</sub-title>
+    <desc lang="ca">Hansi Flick espera que demà contra el PSG es vegi a quin nivell està el Barça aquesta temporada. Sabrem l'última hora del partit amb Bernat Soler i Ricard Torquemada. Analitzarem l'enfrontament amb Dani Senabre, Anaïs Martí i Marcos López. Al 'Torquelab', estudiarem com resoldre l'emergència de la defensa del Barça, que arriba a París amb moltes baixes. També obrirem el 'VARòmetre', amb Joan Fàbregas, i parlarem de les derrotes del Barça femení i del Barça de bàsquet.</desc>
+    <length units="seconds">5398</length>
+    <episode-num system="onscreen">1023</episode-num>
     <category lang="ca">ESPORTS</category>
-    <category lang="ca">MAGAZINE</category>
+    <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/1/1/1688543515711.jpg"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/0/4/1706209193140.jpg"/>
   </programme>
-  <programme start="20261020021630 +0200" stop="20261020022657 +0200" channel="esport3">
+  <programme start="20261020035657 +0200" stop="20261020040759 +0200" channel="esport3">
     <title lang="ca">3CatInfo Esports</title>
     <desc lang="ca">Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.</desc>
-    <length units="seconds">627</length>
+    <length units="seconds">662</length>
     <episode-num system="onscreen">5543</episode-num>
     <category lang="ca">ESPORTS</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
@@ -90,12 +91,12 @@
   <channel id="sx3">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20261020004359 +0200" stop="20261020010438 +0200" channel="sx3">
-    <title lang="ca">Els germans Kratt</title>
-    <sub-title lang="ca">Tartígrad al límit</sub-title>
-    <desc lang="ca">Els germans Kratt i tota la colla contemplen el cel estrellat i es pregunten si hi ha vida a l'espai exterior. Com sempre, l'única manera d'esbrinar-ho és sortint a explorar. Alhora constaten que hi ha animals a la Terra que tenen capacitats extraordinàries i que no sempre són grans com un elefant. Gairebé de casualitat, en Jimmy en descobreix un d'ells: el tardígrad, petit com el cap d'una agulla i un professional de la supervivència.</desc>
-    <length units="seconds">1239</length>
-    <episode-num system="onscreen">153</episode-num>
+  <programme start="20261020030544 +0200" stop="20261020032638 +0200" channel="sx3">
+    <title lang="ca">Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
+    <sub-title lang="ca">L'aixafaguitarres</sub-title>
+    <desc lang="ca">Els amics de l'Adrien aprofiten que el seu pare se n'ha anat de viatge, o això es pensen, per organitzar una gran festa d'amics a casa seva. Hi va un munt de gent, però el Wayem es pensa que l'han deixat de banda, i l'Esfinx aprofitarà aquest sentiment per convertir-lo en un dels malvats més potents que ha creat mai.</desc>
+    <length units="seconds">1254</length>
+    <episode-num system="onscreen">72</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
@@ -104,12 +105,12 @@
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20261020010438 +0200" stop="20261020012432 +0200" channel="sx3">
-    <title lang="ca">Viatges Pokémon</title>
-    <sub-title lang="ca">Donant suport a l’heroi local!</sub-title>
-    <desc lang="ca">Ara que la família de la Lylia torna a estar reunida, l'Ash, el Goh i la Chloe els acompanyen a casa seva, a Alola. La visita dona a l'Ash l'oportunitat de demostrar com han millorat les seves habilitats des que es va convertir en el campió de la regió: han organitzat un Battle Royale, i el professor Kukui, el Gladio i el Kiawe seran els seus oponents! El combat és intens i l'Estadi Royale és ple de gent que anima l'Ash i li desitja molt èxit en el pròxim torneig dels Vuit Mestres. Després del combat, l'Ash se'n va a la platja, on ben aviat es troba amb el professor Kokui i el Tapu Koko. El guardià de l'illa mostra a l'Ash el seu suport i el nostre heroi promet esforçar-s'hi al màxim! </desc>
-    <length units="seconds">1194</length>
-    <episode-num system="onscreen">112</episode-num>
+  <programme start="20261020032638 +0200" stop="20261020034716 +0200" channel="sx3">
+    <title lang="ca">Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
+    <sub-title lang="ca">La Titellaire 2</sub-title>
+    <desc lang="ca">L'Adrien ha d'anar al museu de cera perquè han de fer una reparació a la seva estàtua i convida el Nino a acompanyar-lo. El Nino convida l'Alya, que al seu torn convida la Marinette, que fa de cangur a la Manon. A la nena li fa la sensació que ningú li fa cas, i l'Esfinx aprofita aquest sentiment d'abandó per convertir-la un altre cop en la Titellaire.</desc>
+    <length units="seconds">1238</length>
+    <episode-num system="onscreen">73</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
@@ -121,26 +122,26 @@
   <channel id="c33">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20261020005312 +0200" stop="20261020012317 +0200" channel="c33">
-    <title lang="ca">No tenim vergonya</title>
-    <desc lang="ca">'No tenim vergonya' revisa els grans moments a Televisió de Catalunya. Se'ls mira des d'un altre punt de vista, per comparar-los amb la realitat actual o repassar moments televisius molt recordats. Mai, però, des d'un punt de vista nostàlgic. NTV és una cadena de televisió. I, com a tal, conté tota mena d'elements (molinets, publicitat...) i de programes (informatius, d'esports, magazines, musicals, concursos...). De què es nodreix la seva programació? De l'arxiu de la televisió pública catalana revisionada sense complexos. D'aquí ve el nom de la cadena NTV, de 'No tenim vergonya'.</desc>
-    <length units="seconds">1805</length>
-    <episode-num system="onscreen">227</episode-num>
-    <category lang="ca">ESPORTS</category>
-    <category lang="ca">REPORTATGES</category>
+  <programme start="20261020030115 +0200" stop="20261020033448 +0200" channel="c33">
+    <title lang="ca">Gran Reserva. Còmics</title>
+    <sub-title lang="ca">Carles Rexach</sub-title>
+    <length units="seconds">2013</length>
+    <episode-num system="onscreen">7</episode-num>
+    <category lang="ca">ENTRETENIMENT</category>
+    <category lang="ca">GAGS. HUMOR</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20261020012317 +0200" stop="20261020015329 +0200" channel="c33">
-    <title lang="ca">No tenim vergonya</title>
-    <desc lang="ca">'No tenim vergonya' revisa els grans moments a Televisió de Catalunya. Se'ls mira des d'un altre punt de vista, per comparar-los amb la realitat actual o repassar moments televisius molt recordats. Mai, però, des d'un punt de vista nostàlgic. NTV és una cadena de televisió. I, com a tal, conté tota mena d'elements (molinets, publicitat...) i de programes (informatius, d'esports, magazines, musicals, concursos...). De què es nodreix la seva programació? De l'arxiu de la televisió pública catalana revisionada sense complexos. D'aquí ve el nom de la cadena NTV, de 'No tenim vergonya'.</desc>
-    <length units="seconds">1812</length>
-    <episode-num system="onscreen">228</episode-num>
-    <category lang="ca">ESPORTS</category>
-    <category lang="ca">REPORTATGES</category>
+  <programme start="20261020033448 +0200" stop="20261020040813 +0200" channel="c33">
+    <title lang="ca">Gran Reserva. Còmics</title>
+    <sub-title lang="ca">Nina</sub-title>
+    <length units="seconds">2005</length>
+    <episode-num system="onscreen">8</episode-num>
+    <category lang="ca">ENTRETENIMENT</category>
+    <category lang="ca">GAGS. HUMOR</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
