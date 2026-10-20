@@ -3,22 +3,10 @@
   <channel id="tvi">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20261020080014 +0200" stop="20261020103000 +0200" channel="tvi">
-    <title lang="ca">Matins</title>
-    <desc lang="ca">'Matins' és un dels puntals informatius de TV3. El programa matinal dona les claus del dia que comença, explica les notícies que han passat aportant-ne el context per entendre-les i analitza amb veus acreditades l'actualitat més propera i la d'arreu del món. 'Matins' comença a les 8 del matí, de dilluns a divendres, i està presentat per Ariadna Oltra.</desc>
-    <length units="seconds">8986</length>
-    <episode-num system="onscreen">4695</episode-num>
-    <category lang="ca">ACTUALITAT</category>
-    <category lang="ca">INFORMATIU DIÀRI</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <icon src="https://img.ccma.cat/multimedia/jpg/2/0/1758040151402.jpg"/>
-  </programme>
-  <programme start="20261020103000 +0200" stop="20261020135500 +0200" channel="tvi">
+  <programme start="20261020103016 +0200" stop="20261020135500 +0200" channel="tvi">
     <title lang="ca">Tot es mou</title>
     <desc lang="ca">El programa presentat per Helena Garcia Melero s'emet de dilluns a divendres, de 10.30 a 13.55. Un magazín d'actualitat que busca informar, analitzar i debatre sobre temes que marquen l'actualitat social, econòmica i cultural del dia, amb una àmplia presència en directe dels reporters i reporteres, repartits per tot Catalunya. A més, el 'Tot es mou' compta amb seccions diàries de gastronomia (amb els principals cuiners i cuineres del país), successos, economia, mobilitat, temes mèdics i de tecnologia, entre d'altres.</desc>
-    <length units="seconds">12300</length>
+    <length units="seconds">12284</length>
     <episode-num system="onscreen">1832</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">MAGAZINE</category>
@@ -26,26 +14,25 @@
       <value>TOTS ELS PÚBLICS</value>
     </rating>
   </programme>
-  <channel id="324">
-    <display-name>324</display-name>
-  </channel>
-  <programme start="20261020080000 +0200" stop="20261020103000 +0200" channel="324">
-    <title lang="ca">Matins</title>
-    <desc lang="ca">'Matins' és un dels puntals informatius de TV3. El programa matinal dona les claus del dia que comença, explica les notícies que han passat aportant-ne el context per entendre-les i analitza amb veus acreditades l'actualitat més propera i la d'arreu del món. 'Matins' comença a les 8 del matí, de dilluns a divendres, i està presentat per Ariadna Oltra.</desc>
-    <length units="seconds">9000</length>
-    <episode-num system="onscreen">4695</episode-num>
+  <programme start="20261020135500 +0200" stop="20261020143000 +0200" channel="tvi">
+    <title lang="ca">Telenotícies comarques</title>
+    <length units="seconds">2100</length>
+    <episode-num system="onscreen">7058</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <icon src="https://img.ccma.cat/multimedia/jpg/2/0/1758040151402.jpg"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/5/2/1758026313525.jpg"/>
   </programme>
-  <programme start="20261020103000 +0200" stop="20261020123000 +0200" channel="324">
+  <channel id="324">
+    <display-name>324</display-name>
+  </channel>
+  <programme start="20261020130000 +0200" stop="20261020135500 +0200" channel="324">
     <title lang="ca">Notícies 3CatInfo</title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">7200</length>
-    <episode-num system="onscreen">11480</episode-num>
+    <length units="seconds">3300</length>
+    <episode-num system="onscreen">11481</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
@@ -54,57 +41,73 @@
     <subtitles type="teletext"/>
     <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
+  <programme start="20261020135500 +0200" stop="20261020143000 +0200" channel="324">
+    <title lang="ca">Telenotícies comarques</title>
+    <length units="seconds">2100</length>
+    <episode-num system="onscreen">7058</episode-num>
+    <category lang="ca">ACTUALITAT</category>
+    <category lang="ca">INFORMATIU DIÀRI</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <icon src="https://img.ccma.cat/multimedia/jpg/5/2/1758026313525.jpg"/>
+  </programme>
   <channel id="esport3">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20261020065019 +0200" stop="20261020082227 +0200" channel="esport3">
-    <title lang="ca">Onze</title>
-    <sub-title lang="ca">París, la gran batalla; Mayola Academy i 'El Colegiado'</sub-title>
-    <desc lang="ca">Carles Fité, Xavi Torres, Aina Cerdà, Jordi Martí i Joaquín Maroto pentinen la prèvia del partit a París entre el PSG i el Barça. En Marc Mayola analitza alguns aspectes tàctics del Betis-Barça i en Joan Fàbregas repassa les jugades polèmiques de la jornada.</desc>
-    <length units="seconds">5528</length>
-    <episode-num system="onscreen">1271</episode-num>
+  <programme start="20261020130836 +0200" stop="20261020140949 +0200" channel="esport3">
+    <title lang="ca">Esport Club</title>
+    <sub-title lang="ca">PSG-Barça, Artistic Skating Cunit i tertúlia</sub-title>
+    <desc lang="ca">PSG-Barça. Partit d'alt voltatge a París. Última hora amb Xavi Lemus i l'anàlisi de l'Àlex Delmàs. L'Artistic Skating Cunit torna del Mundial de Patinatge del Paraguai amb tres medalles d'or. A la tertúlia ens acompanyen Gemma Mallorca, Joan Prats i Federic Porta.</desc>
+    <length units="seconds">3673</length>
+    <episode-num system="onscreen">3265</episode-num>
     <category lang="ca">ESPORTS</category>
-    <category lang="ca">MAGAZINE</category>
+    <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
-    <previously-shown/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/1/1/1688543515711.jpg"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/7/3/1698145091337.jpg"/>
   </programme>
-  <programme start="20261020082227 +0200" stop="20261020090802 +0200" channel="esport3">
-    <title lang="ca">Aire Lliure</title>
-    <sub-title lang="ca">Ebre, amb Peyu</sub-title>
-    <desc lang="ca">La majoria de les modalitats esportives que farem a les terres de l'Ebre son aquàtiques i com no podia ser d'una altra manera guarden gran relació amb el riu. En aquest episodi Núria Picas aprendrà la tècnica per practicar, riu avall: pàdel surf, rem i piragüisme. El convidat al sud de Catalunya serà l'humorista Peyu, gran aficionat a la BTT. </desc>
-    <length units="seconds">2735</length>
-    <episode-num system="onscreen">10</episode-num>
+  <programme start="20261020140949 +0200" stop="20261020161219 +0200" channel="esport3">
+    <title lang="ca">Esport Club</title>
+    <sub-title lang="ca">PSG-Barça, Artistic Skating Cunit i tertúlia</sub-title>
+    <desc lang="ca">PSG-Barça. Partit d'alt voltatge a París. Última hora amb Xavi Lemus i l'anàlisi de l'Àlex Delmàs. L'Artistic Skating Cunit torna del Mundial de Patinatge del Paraguai amb tres medalles d'or. A la tertúlia ens acompanyen Gemma Mallorca, Joan Prats i Federic Porta.</desc>
+    <length units="seconds">7350</length>
+    <episode-num system="onscreen">3265</episode-num>
     <category lang="ca">ESPORTS</category>
-    <category lang="ca">REPORTATGES</category>
+    <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
-    <previously-shown/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/7/3/1698145091337.jpg"/>
   </programme>
   <channel id="sx3">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20261020080328 +0200" stop="20261020081639 +0200" channel="sx3">
-    <title lang="ca">La Patrulla Peluda</title>
-    <sub-title lang="ca">- La Patrulla salva l’estany dels ànecs</sub-title>
-    <desc lang="ca">Sense Descripció</desc>
-    <length units="seconds">791</length>
-    <episode-num system="onscreen">210</episode-num>
+  <programme start="20261020132709 +0200" stop="20261020134644 +0200" channel="sx3">
+    <title lang="ca">El detectiu Conan</title>
+    <sub-title lang="ca">El misteri de la tenda cremada (1a part)</sub-title>
+    <desc lang="ca">En Conan i la seva colla van a passar el cap de setmana en un càmping amb la senyoreta Wakasa. Allà coneixen quatre universitaris, membres d'un club de bàsquet. Aquella nit, hi ha un incendi a la tenda d'un dels jugadors de bàsquet i el noi mor carbonitzat. L'inspector en cap Kuroda, que havia acampat a la tenda del costat amb la intenció d'espiar la senyoreta Wakasa, haurà de descobrir si l'incendi ha estat provocat.</desc>
+    <length units="seconds">1175</length>
+    <episode-num system="onscreen">964</episode-num>
+    <category lang="ca">FICCIÓ</category>
+    <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
+    <rating>
+      <value>INFANTIL</value>
+    </rating>
     <subtitles type="teletext"/>
+    <previously-shown/>
   </programme>
-  <programme start="20261020081639 +0200" stop="20261020082737 +0200" channel="sx3">
-    <title lang="ca">Titó</title>
-    <sub-title lang="ca">Excursió amb jocs tradicionals</sub-title>
-    <desc lang="ca">Avui hem sortit a la plaça del poble per jugar a jocs tradicionals. A la Tat li encanta jugar, així que ha vingut encantada a aquesta excursió! Jugarem a tocar i parar, a fet i amagar, al pica paret...</desc>
-    <length units="seconds">658</length>
-    <episode-num system="onscreen">145</episode-num>
-    <category lang="ca">ENTRETENIMENT</category>
-    <category lang="ca">ALTRES</category>
+  <programme start="20261020134644 +0200" stop="20261020140518 +0200" channel="sx3">
+    <title lang="ca">El detectiu Conan</title>
+    <sub-title lang="ca">El misteri de la tenda cremada (2a part)</sub-title>
+    <desc lang="ca">Per les proves que han quedat a l'escenari del crim, sembla evident que la mort d'en Fumiaki Urushibara no ha estat accidental. En Conan acabarà descobrint que el culpable ha fet servir un enginyós mecanisme construït amb espelmes per provocar l'incendi que li ha cremat la tenda i li ha provocat la mort. Un cop desemmascarat l'assassí, la senyoreta Wakasa tornarà a demostrar que no és una simple mestra d'escola.</desc>
+    <length units="seconds">1114</length>
+    <episode-num system="onscreen">965</episode-num>
+    <category lang="ca">FICCIÓ</category>
+    <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
       <value>INFANTIL</value>
     </rating>
@@ -114,33 +117,34 @@
   <channel id="c33">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20261020073732 +0200" stop="20261020080423 +0200" channel="c33">
-    <title lang="ca">La sobretaula</title>
-    <sub-title lang="ca">Vilanova i la Geltrú amb Gessamí Caramés</sub-title>
-    <desc lang="ca">Un port, dones d'hores i un enorme Carnestoltes marquen el fil d'aquest capítol de La Sobretaula, que visita Vilanova i la Geltrú. Acompanyats de la cuinera Gessamí Caramés, descobrim un municipi obert al mar, arrelat a la terra i amb una forta identitat festiva.</desc>
-    <length units="seconds">1611</length>
-    <episode-num system="onscreen">9</episode-num>
+  <programme start="20261020123442 +0200" stop="20261020140107 +0200" channel="c33">
+    <title lang="ca">El Gran Dictat, VIP</title>
+    <sub-title lang="ca">El Gran Gran Dictat</sub-title>
+    <desc lang="ca">Aquest dissabte, tres concursants de carrera meteòrica vindran a jugar a 'El gran gran dictat', un concurs presentat per l'Òscar Dalmau. L'Ivan Labanda, actor i cantant, o l'altra cara de l'Oriol Junqueras, el Miquel Iceta o el Luis Enrique. El Francesc Mauri, meteoròleg, un dels homes del temps d'aquesta casa. I la Marta Marco, actriu de llarga i exitosa carrera a qui recentment hem vist a la sèrie de TV3 'Merlí'.Aquests tres concursants, grans coneguts dels nostres espectadors, no només vindran a demostrar els seus coneixements de català. La Marta Marco ens ensenyarà com es posa en el paper quan ha de fer de pedra o de poma. El Francesc Mauri farà una retransmissió en directe del primer eclipsi de la Via Làctia, un fenomen que no es repetirà fins d'aquí 100 anys. Mínim. I per últim, descobrirem com s'ho fa l'Ivan Labanda per vèncer la seva timidesa extrema.I tot això amenitzat per un dels mags més irreverents del panorama català: el Mag Lari, que aquesta temporada farà més d'una aparició estel·lar i, de pas, tocarà una mica el voraviu a l'Òscar Dalmau.</desc>
+    <length units="seconds">5185</length>
+    <episode-num system="onscreen">28</episode-num>
     <category lang="ca">DIVULGACIÓ</category>
-    <category lang="ca">CUINA</category>
+    <category lang="ca">EDUCATIU</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20261020080423 +0200" stop="20261020083205 +0200" channel="c33">
-    <title lang="ca">La sobretaula</title>
-    <sub-title lang="ca">Igualada amb Ruth Jiménez</sub-title>
-    <desc lang="ca">Globus, moda de proximitat i el bressol del cuir són els protagonistes d'aquest capítol de La Sobretaula, que visita Igualada. Acompanyats de la presentadora Ruth Jiménez, descobrim un municipi amb tradició artesanal, creativitat i història viva.</desc>
-    <length units="seconds">1662</length>
-    <episode-num system="onscreen">10</episode-num>
+  <programme start="20261020140107 +0200" stop="20261020144803 +0200" channel="c33">
+    <title lang="ca">La Renaixença</title>
+    <sub-title lang="ca">La navalla</sub-title>
+    <desc lang="ca">Dediquem el capítol a la navalla, un objecte que poca gent sap diferenciar del ganivet. Però pot ser que la navalla sigui més útil que el ganivet? Qui no té a casa una navalla suïssa o una bona pallaresa per tallar l'embotit o els bolets? Xerrem amb en Xarim Aresté, músic, poeta i filòsof, que puja a l'escenari de 'La Renaixença' per interpretar 'Canta, cadernera', amb l'Arnau Tordera i la Laia Glück. A 'Històries per passejar el gos' portem en Berni fins a la travessa dels Alps d'Anníbal, el 218 aC.</desc>
+    <length units="seconds">2816</length>
+    <episode-num system="onscreen">53</episode-num>
     <category lang="ca">DIVULGACIÓ</category>
-    <category lang="ca">CUINA</category>
+    <category lang="ca">ALTRES</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/3/3/1756148014833.jpg"/>
   </programme>
   <channel id="oca1">
     <display-name>OCA1</display-name>
