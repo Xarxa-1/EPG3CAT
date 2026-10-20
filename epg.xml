@@ -3,116 +3,108 @@
   <channel id="tvi">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20261020020819 +0200" stop="20261020040000 +0200" channel="tvi">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">6701</length>
-    <episode-num system="onscreen">11478</episode-num>
+  <programme start="20261020080014 +0200" stop="20261020103000 +0200" channel="tvi">
+    <title lang="ca">Matins</title>
+    <desc lang="ca">'Matins' és un dels puntals informatius de TV3. El programa matinal dona les claus del dia que comença, explica les notícies que han passat aportant-ne el context per entendre-les i analitza amb veus acreditades l'actualitat més propera i la d'arreu del món. 'Matins' comença a les 8 del matí, de dilluns a divendres, i està presentat per Ariadna Oltra.</desc>
+    <length units="seconds">8986</length>
+    <episode-num system="onscreen">4695</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <previously-shown/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/2/0/1758040151402.jpg"/>
   </programme>
-  <programme start="20261020040000 +0200" stop="20261020045954 +0200" channel="tvi">
-    <title lang="ca">Blues a l'estudi</title>
-    <sub-title lang="ca">Augie Burr</sub-title>
-    <desc lang="ca">Aquest jove cantant barceloní, amb esforç i tenacitat, s'ha fet un lloc dins l'escena del blues i el rock'n'roll a casa nostra. Agustí Burriel es mou amb solvència dins del doo-wop i el rhythm'n'blues vocal. Ho ha fet amb formacions com els Big Jamboree o els Velvet Candles. L'acompanyen Blas Picón a la bateria, Juanma Rodríguez al contrabaix, Enma Fernández al piano, Mario Cobo a la guitarra i Big Dani Pérez al saxo tenor.</desc>
-    <length units="seconds">3594</length>
-    <episode-num system="onscreen">24</episode-num>
-    <category lang="ca">MUSICALS</category>
-    <category lang="ca">ALTRES</category>
+  <programme start="20261020103000 +0200" stop="20261020135500 +0200" channel="tvi">
+    <title lang="ca">Tot es mou</title>
+    <desc lang="ca">El programa presentat per Helena Garcia Melero s'emet de dilluns a divendres, de 10.30 a 13.55. Un magazín d'actualitat que busca informar, analitzar i debatre sobre temes que marquen l'actualitat social, econòmica i cultural del dia, amb una àmplia presència en directe dels reporters i reporteres, repartits per tot Catalunya. A més, el 'Tot es mou' compta amb seccions diàries de gastronomia (amb els principals cuiners i cuineres del país), successos, economia, mobilitat, temes mèdics i de tecnologia, entre d'altres.</desc>
+    <length units="seconds">12300</length>
+    <episode-num system="onscreen">1832</episode-num>
+    <category lang="ca">ACTUALITAT</category>
+    <category lang="ca">MAGAZINE</category>
     <rating>
-      <value>PÚBLIC ADULT</value>
+      <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <previously-shown/>
   </programme>
   <channel id="324">
     <display-name>324</display-name>
   </channel>
-  <programme start="20261020010000 +0200" stop="20261020060000 +0200" channel="324">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">18000</length>
-    <episode-num system="onscreen">11478</episode-num>
+  <programme start="20261020080000 +0200" stop="20261020103000 +0200" channel="324">
+    <title lang="ca">Matins</title>
+    <desc lang="ca">'Matins' és un dels puntals informatius de TV3. El programa matinal dona les claus del dia que comença, explica les notícies que han passat aportant-ne el context per entendre-les i analitza amb veus acreditades l'actualitat més propera i la d'arreu del món. 'Matins' comença a les 8 del matí, de dilluns a divendres, i està presentat per Ariadna Oltra.</desc>
+    <length units="seconds">9000</length>
+    <episode-num system="onscreen">4695</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <previously-shown/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/2/0/1758040151402.jpg"/>
   </programme>
-  <programme start="20261020060000 +0200" stop="20261020080000 +0200" channel="324">
+  <programme start="20261020103000 +0200" stop="20261020123000 +0200" channel="324">
     <title lang="ca">Notícies 3CatInfo</title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <length units="seconds">7200</length>
-    <episode-num system="onscreen">11479</episode-num>
+    <episode-num system="onscreen">11480</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
+    <subtitles type="teletext"/>
     <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
   <channel id="esport3">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20261020022659 +0200" stop="20261020035657 +0200" channel="esport3">
-    <title lang="ca">Tot Costa</title>
-    <sub-title lang="ca">PSG-Barça, un test perfecte</sub-title>
-    <desc lang="ca">Hansi Flick espera que demà contra el PSG es vegi a quin nivell està el Barça aquesta temporada. Sabrem l'última hora del partit amb Bernat Soler i Ricard Torquemada. Analitzarem l'enfrontament amb Dani Senabre, Anaïs Martí i Marcos López. Al 'Torquelab', estudiarem com resoldre l'emergència de la defensa del Barça, que arriba a París amb moltes baixes. També obrirem el 'VARòmetre', amb Joan Fàbregas, i parlarem de les derrotes del Barça femení i del Barça de bàsquet.</desc>
-    <length units="seconds">5398</length>
-    <episode-num system="onscreen">1023</episode-num>
+  <programme start="20261020065019 +0200" stop="20261020082227 +0200" channel="esport3">
+    <title lang="ca">Onze</title>
+    <sub-title lang="ca">París, la gran batalla; Mayola Academy i 'El Colegiado'</sub-title>
+    <desc lang="ca">Carles Fité, Xavi Torres, Aina Cerdà, Jordi Martí i Joaquín Maroto pentinen la prèvia del partit a París entre el PSG i el Barça. En Marc Mayola analitza alguns aspectes tàctics del Betis-Barça i en Joan Fàbregas repassa les jugades polèmiques de la jornada.</desc>
+    <length units="seconds">5528</length>
+    <episode-num system="onscreen">1271</episode-num>
     <category lang="ca">ESPORTS</category>
-    <category lang="ca">INFORMATIU DIÀRI</category>
+    <category lang="ca">MAGAZINE</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/0/4/1706209193140.jpg"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/1/1/1688543515711.jpg"/>
   </programme>
-  <programme start="20261020035657 +0200" stop="20261020040759 +0200" channel="esport3">
-    <title lang="ca">3CatInfo Esports</title>
-    <desc lang="ca">Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.</desc>
-    <length units="seconds">662</length>
-    <episode-num system="onscreen">5543</episode-num>
+  <programme start="20261020082227 +0200" stop="20261020090802 +0200" channel="esport3">
+    <title lang="ca">Aire Lliure</title>
+    <sub-title lang="ca">Ebre, amb Peyu</sub-title>
+    <desc lang="ca">La majoria de les modalitats esportives que farem a les terres de l'Ebre son aquàtiques i com no podia ser d'una altra manera guarden gran relació amb el riu. En aquest episodi Núria Picas aprendrà la tècnica per practicar, riu avall: pàdel surf, rem i piragüisme. El convidat al sud de Catalunya serà l'humorista Peyu, gran aficionat a la BTT. </desc>
+    <length units="seconds">2735</length>
+    <episode-num system="onscreen">10</episode-num>
     <category lang="ca">ESPORTS</category>
-    <category lang="ca">INFORMATIU DIÀRI</category>
+    <category lang="ca">REPORTATGES</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
+    <subtitles type="teletext"/>
     <previously-shown/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/9/7/1758888682179.jpg"/>
   </programme>
   <channel id="sx3">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20261020030544 +0200" stop="20261020032638 +0200" channel="sx3">
-    <title lang="ca">Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
-    <sub-title lang="ca">L'aixafaguitarres</sub-title>
-    <desc lang="ca">Els amics de l'Adrien aprofiten que el seu pare se n'ha anat de viatge, o això es pensen, per organitzar una gran festa d'amics a casa seva. Hi va un munt de gent, però el Wayem es pensa que l'han deixat de banda, i l'Esfinx aprofitarà aquest sentiment per convertir-lo en un dels malvats més potents que ha creat mai.</desc>
-    <length units="seconds">1254</length>
-    <episode-num system="onscreen">72</episode-num>
-    <category lang="ca">FICCIÓ</category>
-    <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
-    <rating>
-      <value>INFANTIL</value>
-    </rating>
+  <programme start="20261020080328 +0200" stop="20261020081639 +0200" channel="sx3">
+    <title lang="ca">La Patrulla Peluda</title>
+    <sub-title lang="ca">- La Patrulla salva l’estany dels ànecs</sub-title>
+    <desc lang="ca">Sense Descripció</desc>
+    <length units="seconds">791</length>
+    <episode-num system="onscreen">210</episode-num>
     <subtitles type="teletext"/>
-    <previously-shown/>
   </programme>
-  <programme start="20261020032638 +0200" stop="20261020034716 +0200" channel="sx3">
-    <title lang="ca">Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
-    <sub-title lang="ca">La Titellaire 2</sub-title>
-    <desc lang="ca">L'Adrien ha d'anar al museu de cera perquè han de fer una reparació a la seva estàtua i convida el Nino a acompanyar-lo. El Nino convida l'Alya, que al seu torn convida la Marinette, que fa de cangur a la Manon. A la nena li fa la sensació que ningú li fa cas, i l'Esfinx aprofita aquest sentiment d'abandó per convertir-la un altre cop en la Titellaire.</desc>
-    <length units="seconds">1238</length>
-    <episode-num system="onscreen">73</episode-num>
-    <category lang="ca">FICCIÓ</category>
-    <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
+  <programme start="20261020081639 +0200" stop="20261020082737 +0200" channel="sx3">
+    <title lang="ca">Titó</title>
+    <sub-title lang="ca">Excursió amb jocs tradicionals</sub-title>
+    <desc lang="ca">Avui hem sortit a la plaça del poble per jugar a jocs tradicionals. A la Tat li encanta jugar, així que ha vingut encantada a aquesta excursió! Jugarem a tocar i parar, a fet i amagar, al pica paret...</desc>
+    <length units="seconds">658</length>
+    <episode-num system="onscreen">145</episode-num>
+    <category lang="ca">ENTRETENIMENT</category>
+    <category lang="ca">ALTRES</category>
     <rating>
       <value>INFANTIL</value>
     </rating>
@@ -122,26 +114,28 @@
   <channel id="c33">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20261020030115 +0200" stop="20261020033448 +0200" channel="c33">
-    <title lang="ca">Gran Reserva. Còmics</title>
-    <sub-title lang="ca">Carles Rexach</sub-title>
-    <length units="seconds">2013</length>
-    <episode-num system="onscreen">7</episode-num>
-    <category lang="ca">ENTRETENIMENT</category>
-    <category lang="ca">GAGS. HUMOR</category>
+  <programme start="20261020073732 +0200" stop="20261020080423 +0200" channel="c33">
+    <title lang="ca">La sobretaula</title>
+    <sub-title lang="ca">Vilanova i la Geltrú amb Gessamí Caramés</sub-title>
+    <desc lang="ca">Un port, dones d'hores i un enorme Carnestoltes marquen el fil d'aquest capítol de La Sobretaula, que visita Vilanova i la Geltrú. Acompanyats de la cuinera Gessamí Caramés, descobrim un municipi obert al mar, arrelat a la terra i amb una forta identitat festiva.</desc>
+    <length units="seconds">1611</length>
+    <episode-num system="onscreen">9</episode-num>
+    <category lang="ca">DIVULGACIÓ</category>
+    <category lang="ca">CUINA</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20261020033448 +0200" stop="20261020040813 +0200" channel="c33">
-    <title lang="ca">Gran Reserva. Còmics</title>
-    <sub-title lang="ca">Nina</sub-title>
-    <length units="seconds">2005</length>
-    <episode-num system="onscreen">8</episode-num>
-    <category lang="ca">ENTRETENIMENT</category>
-    <category lang="ca">GAGS. HUMOR</category>
+  <programme start="20261020080423 +0200" stop="20261020083205 +0200" channel="c33">
+    <title lang="ca">La sobretaula</title>
+    <sub-title lang="ca">Igualada amb Ruth Jiménez</sub-title>
+    <desc lang="ca">Globus, moda de proximitat i el bressol del cuir són els protagonistes d'aquest capítol de La Sobretaula, que visita Igualada. Acompanyats de la presentadora Ruth Jiménez, descobrim un municipi amb tradició artesanal, creativitat i història viva.</desc>
+    <length units="seconds">1662</length>
+    <episode-num system="onscreen">10</episode-num>
+    <category lang="ca">DIVULGACIÓ</category>
+    <category lang="ca">CUINA</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
