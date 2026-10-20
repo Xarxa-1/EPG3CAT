@@ -3,25 +3,25 @@
   <channel id="tvi">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20261020173058 +0200" stop="20261020191123 +0200" channel="tvi">
-    <title lang="ca">La Selva</title>
-    <desc lang="ca">Xavier Grasset presenta La Selva, el nou magazín d'entreteniment de les tardes de TV3. Un show d'autor on parlarem de tot de forma distesa i lliure, una trobada fixa a la nova cafeteria de la televisió pública catalana, regentada per la Mercè Fonoll (l'actriu i humorista, Anna Bertran). A La Selva sempre hi passen coses, és un món ple d'activitat on diverses espècies hi conviuen de forma lliure.Hi passaran Antoni Bassas, Montse Barderi, Fel Faixedas, Sílvia Bel, la Nina, en Biel Duran, l'Alba Alfageme o la Carlota Gurt, entre molts d'altres. Una trobada plena de coneixement i seguiment de l'actualitat, però també d'entreteniment. Els acompanyaran, per exemple fent recomanacions, Sergi Cutillas, amb la seva música de capçalera, en Godai García que ens apropa a la terra -amb una mirada molt pròpia- o la cuinera i influencer, Sofia Janer.A La Selva farem un repàs al què ha passat durant el dia i a la vida en general d'aquella manera única del Xavier Grasset acompanyat al sofà per la Maria Xinxó, la Núria Martínez o l'Ester Pagès. La resta de l'equip treballarà per explicar-vos el que ha passat dins i fora de La Selva, acostar-vos al territori i oferir-vos entreteniment, però sempre amb contingut. Cada dia hi haurà entrevistes, no hi faltaran els llibres, la cultura o històries humanes de tot tipus. I, a més, comptarem amb la participació del nostre públic. Us convidarem a jugar en un concurs diari, divertit i enginyós. Quan t'endinses a la Selva mai saps què t'hi pots acabar trobant!Cada tarda, et farem companyia a 3cat. Us espera una nova aventura plena de personatges interessants, converses, reflexions, descobriments i uns quants somriures. Sempre amb un ull posat a tot el que passa al nostre voltant. Quedem a La Selva!</desc>
-    <length units="seconds">6025</length>
-    <episode-num system="onscreen">433</episode-num>
-    <category lang="ca">ENTRETENIMENT</category>
-    <category lang="ca">MAGAZINE</category>
+  <programme start="20261020210000 +0200" stop="20261020220445 +0200" channel="tvi">
+    <title lang="ca">Telenotícies vespre</title>
+    <length units="seconds">3885</length>
+    <episode-num system="onscreen">7363</episode-num>
+    <category lang="ca">ACTUALITAT</category>
+    <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <icon src="https://img.3cat.cat/multimedia/jpg/6/3/1725871608136.jpg"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/7/2/1758026176427.jpg"/>
   </programme>
-  <programme start="20261020191123 +0200" stop="20261020201500 +0200" channel="tvi">
-    <title lang="ca">Atrapa'm si pots</title>
-    <desc lang="ca">'Atrapa'm si pots' és un 'quiz show' clàssic, de preguntes i respostes, presentat per Llucià Ferrer, en què sis concursants competeixen per arribar a la fase final i guanyar el pot. 'Atrapa'm si pots' és entreteniment pur i on gairebé és més important passar-s'ho bé que els diners. És un concurs en què pesa més la intuïció que no els coneixements acadèmics, més l'estratègia en el joc que no la sort.</desc>
-    <length units="seconds">3817</length>
-    <episode-num system="onscreen">947</episode-num>
-    <category lang="ca">ENTRETENIMENT</category>
-    <category lang="ca">CONCURS</category>
+  <programme start="20261020220445 +0200" stop="20261020230000 +0200" channel="tvi">
+    <title lang="ca">Nits Sense ficció</title>
+    <sub-title lang="ca">La cadira buida</sub-title>
+    <desc lang="ca">La soledat no desitjada s'ha convertit en un dels grans reptes socials del nostre temps, però continua sent una realitat sovint invisible i silenciada.En una societat cada vegada més individualista i hiperconnectada, persones de totes les edats expliquen què significa sentir-se soles i com aquesta realitat impacta en la seva vida i la seva salut. A través de les seves veus, i de la mirada de professionals, filòsofs, sociòlegs i entitats socials, el documental explora les causes de la soledat i la necessitat de detectar-la i abordar-la col·lectivament. Una peça coral que reivindica la idea esperançadora que recuperar els vincles i la vida comunitària pot contribuir a trencar la soledat i a fer que la vida sigui més vida.</desc>
+    <length units="seconds">3315</length>
+    <episode-num system="onscreen">1</episode-num>
+    <category lang="ca">DIVULGACIÓ</category>
+    <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
@@ -29,90 +29,85 @@
   <channel id="324">
     <display-name>324</display-name>
   </channel>
-  <programme start="20261020170000 +0200" stop="20261020183000 +0200" channel="324">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">5400</length>
-    <episode-num system="onscreen">11483</episode-num>
+  <programme start="20261020210000 +0200" stop="20261020220500 +0200" channel="324">
+    <title lang="ca">Telenotícies vespre</title>
+    <length units="seconds">3900</length>
+    <episode-num system="onscreen">7363</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <subtitles type="teletext"/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/7/2/1758026176427.jpg"/>
   </programme>
-  <programme start="20261020183000 +0200" stop="20261020200000 +0200" channel="324">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">5400</length>
-    <episode-num system="onscreen">11484</episode-num>
+  <programme start="20261020220500 +0200" stop="20261021000000 +0200" channel="324">
+    <title lang="ca">Mésnit</title>
+    <desc lang="ca">El 'Mésnit' arriba a la desena temporada, amb Marina Romero al capdavant de l'espai i amb la voluntat de continuar sent un centre de debat d'idees i d'anàlisi de l'activitat política.</desc>
+    <length units="seconds">6900</length>
+    <episode-num system="onscreen">2183</episode-num>
     <category lang="ca">ACTUALITAT</category>
-    <category lang="ca">INFORMATIU DIÀRI</category>
+    <category lang="ca">DEBAT</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
   <channel id="esport3">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20261020173058 +0200" stop="20261020175850 +0200" channel="esport3">
-    <title lang="ca">Top gols La Lliga</title>
-    <sub-title lang="ca">Jornada 9</sub-title>
-    <desc lang="ca">'Top gols La Lliga' repassa cada setmana tots els gols de la jornada de la Primera Divisió. Amb la locució de Catalunya Ràdio i d'altres emissores catalanes, viu i emocionat amb els gols dels equips del nostre país i també amb els de la resta d'equips de la màxima categoria estatal de futbol.</desc>
-    <length units="seconds">1672</length>
-    <episode-num system="onscreen">394</episode-num>
-    <category lang="ca">ESPORTS</category>
-    <category lang="ca">ESPECIALS</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <icon src="https://img.ccma.cat/multimedia/jpg/0/5/1697737572850.jpg"/>
-  </programme>
-  <programme start="20261020175850 +0200" stop="20261020190000 +0200" channel="esport3">
-    <title lang="ca">Esport Club</title>
+  <programme start="20261020205549 +0200" stop="20261020230009 +0200" channel="esport3">
+    <title lang="ca">Un dia de partit</title>
     <sub-title lang="ca">PSG-Barça</sub-title>
-    <desc lang="ca">PSG-Barça. Partit d'alt voltatge a París. Última hora amb Xavi Lemus i l'anàlisi de l'Àlex Delmàs. A la tertúlia ens acompanyen Gemma Mallorca, Joan Prats i Federic Porta.</desc>
-    <length units="seconds">3670</length>
-    <episode-num system="onscreen">3265</episode-num>
+    <desc lang="ca">A 'Un dia de partit' arreglem el Barça. O no. A cada partit, sis culers hi diuen la seva. Famosos i anònims. Cadascun a casa seva. Davant del televisor. Tot a base de videotrucades, en format Twitch i en rigorós directe. Ah! I a la mitja part no aturem màquines. Amb els jugadors als vestidors, nosaltres seguim fent bullir l'olla! Només sis culers? Negatiu. Durant el partit van apareixent els Jimmy Jump: els espontanis que demanen saltar a 'Un dia de partit' via WhatsApp.</desc>
+    <length units="seconds">7460</length>
+    <episode-num system="onscreen">255</episode-num>
     <category lang="ca">ESPORTS</category>
-    <category lang="ca">INFORMATIU DIÀRI</category>
+    <category lang="ca">RETRANSMISSIONS ESPORTS</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <subtitles type="teletext"/>
-    <previously-shown/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/7/3/1698145091337.jpg"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/2/7/1678885232972.jpg"/>
+  </programme>
+  <programme start="20261020230009 +0200" stop="20261020233530 +0200" channel="esport3">
+    <title lang="ca">Bàsquet</title>
+    <sub-title lang="ca">Kids&amp;Us Manresa-Roma / Eurocup / J4</sub-title>
+    <desc lang="ca">Els del Bages, que han guanyat 1 partit i n'han perdut 2, volen igualar el balanç per millorar la seva posició.</desc>
+    <length units="seconds">2121</length>
+    <episode-num system="onscreen">99</episode-num>
+    <category lang="ca">ESPORTS</category>
+    <category lang="ca">RETRANSMISSIONS ESPORTS</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <icon src="https://img.3cat.cat/multimedia/jpg/4/8/1791200744284.jpg"/>
   </programme>
   <channel id="sx3">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20261020174725 +0200" stop="20261020175155 +0200" channel="sx3">
-    <title lang="ca">Wonderblocks</title>
-    <sub-title lang="ca">L'esmorzar dels ossos</sub-title>
-    <desc lang="ca">Els tres ossos tenen problemes per preparar-se un bol de llet amb cereals per esmorzar perquè no saben en quin ordre han de fer les coses.</desc>
-    <length units="seconds">270</length>
-    <episode-num system="onscreen">8</episode-num>
+  <programme start="20261020212208 +0200" stop="20261020214112 +0200" channel="sx3">
+    <title lang="ca">Bola de drac Z</title>
+    <sub-title lang="ca">El malson continua, el monstre Bu encara és viu</sub-title>
+    <desc lang="ca">L'ona expansiva de l'explosió d'energia d'en Vegeta també inutilitza la nau on viatgen la Bulma, la Xixi, el Follet Tortuga, l'A-18 i en Iamxa, que estan buscant les Boles de Drac. En Cor Petit troba les restes d'en Vegeta i del monstre Bu, que es comença a regenerar com per art de màgia. El malson continua i la raça humana corre més perill que mai.</desc>
+    <length units="seconds">1144</length>
+    <episode-num system="onscreen">238</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
-      <value>INFANTIL</value>
+      <value>JUVENIL</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20261020175155 +0200" stop="20261020175625 +0200" channel="sx3">
-    <title lang="ca">Wonderblocks</title>
-    <sub-title lang="ca">Muuu! Cloc-cloc! Bee!</sub-title>
-    <desc lang="ca">La Vaca, l'Ovella i l'agent secret Gallina participen en un fantàstic concurs musical amb l'ajuda de la Som-hi i la Prou com a presentadores.</desc>
-    <length units="seconds">270</length>
-    <episode-num system="onscreen">9</episode-num>
+  <programme start="20261020214112 +0200" stop="20261020215958 +0200" channel="sx3">
+    <title lang="ca">Bola de drac Z</title>
+    <sub-title lang="ca">En Son Goku arriba al palau de Déu</sub-title>
+    <desc lang="ca">En Son Goku se n'haurà d'anar aviat i no té prou poder per acabar amb en Bu. A més, sense en Vegeta i en Son Gohan les probabilitats de vènce'l són gairebé nul·les. Abans d'anar-se'n en Son Goku explica a en Cor Petit i a en Krilin que hi ha una altra manera d'aconseguir guerrers superiors: la fusió, una tècnica que només funciona amb persones que tinguin característiques similars.</desc>
+    <length units="seconds">1126</length>
+    <episode-num system="onscreen">239</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
-      <value>INFANTIL</value>
+      <value>JUVENIL</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
@@ -120,40 +115,66 @@
   <channel id="c33">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20261020172356 +0200" stop="20261020174841 +0200" channel="c33">
-    <title lang="ca">Quèquicom</title>
-    <sub-title lang="ca">Neurorehabilitació: aprendre dels encerts</sub-title>
-    <desc lang="ca">Un simple mirall pot fer desaparèixer el dolor d'un membre amputat fent creure al cervell que l'extremitat perduda es mou. Això és una de les coses aparentment impossibles que fan a l'Institut Guttmann. Una altra és aconseguir la recuperació del moviment en persones que han patit una lesió important, però no absoluta, del sistema nerviós. En tots dos casos apliquen tècniques basades en el reforçament positiu per restablir els camins neuronals perduts en un accident.</desc>
-    <length units="seconds">1485</length>
-    <episode-num system="onscreen">89</episode-num>
-    <category lang="ca">DIVULGACIÓ</category>
-    <category lang="ca">MAGAZINE ESPECIALITZAT</category>
+  <programme start="20261020213430 +0200" stop="20261020215910 +0200" channel="c33">
+    <title lang="ca">L'un per l'altre</title>
+    <sub-title lang="ca">L'amic encallat</sub-title>
+    <desc lang="ca">De forma inesperada es presenta a casa del Toni el que havia estat el seu millor amic d'adolescència i joventut. Fa temps havien acabat barallats, però ara sembla que la seva amistat torna amb més força que mai. El Toni i el seu amic comencen a comportar-se igual com es comportaven vint anys enrera. I això, no agrada a gairebé ningú.</desc>
+    <length units="seconds">1480</length>
+    <episode-num system="onscreen">24</episode-num>
+    <category lang="ca">FICCIÓ</category>
+    <category lang="ca">SITCOM (COMÈDIA DE SITUACIÓ)</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20261020174841 +0200" stop="20261020181438 +0200" channel="c33">
-    <title lang="ca">Quèquicom</title>
-    <sub-title lang="ca">Conviure amb lloros</sub-title>
-    <desc lang="ca">El reporter Pere Renom és testimoni de com parlen i ensinistren els lloros de Portaventura. També descobreix què és la malaltia anomenada 'pulmó de l'ocellaire' amb el Dr. Ferran Morell, de la Vall d'Hebron, qui tracta un cas associat als agapornis. I finalment, unes nouvingudes: les cotorres argentines. Es descriu el seguiment que en fan des del Museu de Ciències Naturals, de Barcelona. L'èxit de l'espècie es relaciona directament amb la seva variada dieta i amb el fet que cria en els nius que construeix, en lloc de criar en forats, com la majoria de lloros del món. DesenvolupamentEls lloros són una de les famílies d'ocells més intel·ligents que hi ha. La conducta social, un crani desproporcionadament gros respecte a la mida del cos i unes potes amb gran capacitat prènsil sembla que en són les causes determinants. Precisament perquè són intel·ligents i sociables ens resulten especialment simpàtics. Si, a més, hi afegim la seva exuberant bellesa i el fet que suporten relativament bé la captivitat, és lògic que hagin esdevingut mascotes ideals i actors preferents en espectacles circenses. El Reporter Pere Renom presencia un espectacle amb lloros a Portaventura i aprèn que l'ensinistrament és una barreja d'etologia, és a dir, del coneixement de la conducta animal, i de psicologia, ja que cada individu té el seu propi caràcter. L'ensinistrador Paco Navarro ha d'identificar les habilitats particulars de cada lloro, de cada actor, i treballar per potenciar-les. El resultat és un 'paper' diferent per cadascun: uns volen, altres interaccionen amb el públic o parlen i canten amb fluïdesa. Però conviure amb lloros també pot portar maldecaps. Carme Baraldés fa cinc anys que té agapornis a casa. Des d'aleshores té problemes respiratoris. El doctor Ferran Morell, de la unitat de pneumologia de la Vall d'Hebron, explica que hi ha una malaltia anomenada 'pulmó de l'ocellaire', que consisteix en una inflamació pulmonar produïda per la inhalació de certe</desc>
-    <length units="seconds">1557</length>
-    <episode-num system="onscreen">90</episode-num>
+  <programme start="20261020215910 +0200" stop="20261020225002 +0200" channel="c33">
+    <title lang="ca">La Renaixença</title>
+    <sub-title lang="ca">La campana extractora</sub-title>
+    <desc lang="ca">AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA!! OOOOOOOOOOOOOOOO!! Què? Fa ràbia, oi? Doncs és el que fa l'objecte del dia. La campana extractora permet que no tinguem la casa plena de fum, però a canvi, fa un dels sorolls més molestos que hi ha. No tenim clar si compensa. Ens visita l'Imma Roquet, la catalana que ha tingut la màxima puntuació en la modalitat de salt muntant a cavall. El gos el passegem per un experiment que acaba amb un nen volant pels aires. Les famílies desestructurades sempre fan festa.</desc>
+    <length units="seconds">3052</length>
+    <episode-num system="onscreen">255</episode-num>
     <category lang="ca">DIVULGACIÓ</category>
-    <category lang="ca">MAGAZINE ESPECIALITZAT</category>
+    <category lang="ca">ALTRES</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
-    <previously-shown/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/3/3/1756148014833.jpg"/>
   </programme>
   <channel id="oca1">
     <display-name>OCA1</display-name>
   </channel>
+  <programme start="20261020195500 +0200" stop="20261020220500 +0200" channel="oca1">
+    <title lang="ca">Bàsquet</title>
+    <sub-title lang="ca">- FIATC Girona-Zastal Zielona / Fiba Europe Cup / J3</sub-title>
+    <desc lang="ca">Els gironins, que són líders del grup B amb dues victòries en dues jornades, reben a Fontajau el conjunt polonès de la ciutat de Góra. </desc>
+    <length units="seconds">7800</length>
+    <episode-num system="onscreen">3</episode-num>
+    <category lang="ca">ESPORTS</category>
+    <category lang="ca">RETRANSMISSIONS ESPORTS</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <icon src="https://img.3cat.cat/multimedia/jpg/4/8/1791200744284.jpg"/>
+  </programme>
   <channel id="oca2">
     <display-name>OCA2</display-name>
   </channel>
+  <programme start="20261020202500 +0200" stop="20261020223500 +0200" channel="oca2">
+    <title lang="ca">Bàsquet</title>
+    <sub-title lang="ca">- Kids&amp;Us Manresa-Roma / Eurocup / J4</sub-title>
+    <desc lang="ca">Els del Bages, que han guanyat 1 partit i n'han perdut 2, volen igualar el balanç per millorar la seva posició.</desc>
+    <length units="seconds">7800</length>
+    <episode-num system="onscreen">99</episode-num>
+    <category lang="ca">ESPORTS</category>
+    <category lang="ca">RETRANSMISSIONS ESPORTS</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <icon src="https://img.3cat.cat/multimedia/jpg/4/8/1791200744284.jpg"/>
+  </programme>
   <channel id="oca3">
     <display-name>OCA3</display-name>
   </channel>
