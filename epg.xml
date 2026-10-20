@@ -3,111 +3,114 @@
   <channel id="tvi">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20261020210000 +0200" stop="20261020220445 +0200" channel="tvi">
-    <title lang="ca">Telenotícies vespre</title>
-    <length units="seconds">3885</length>
-    <episode-num system="onscreen">7363</episode-num>
-    <category lang="ca">ACTUALITAT</category>
-    <category lang="ca">INFORMATIU DIÀRI</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <icon src="https://img.ccma.cat/multimedia/jpg/7/2/1758026176427.jpg"/>
-  </programme>
-  <programme start="20261020220445 +0200" stop="20261020230000 +0200" channel="tvi">
-    <title lang="ca">Nits Sense ficció</title>
-    <sub-title lang="ca">La cadira buida</sub-title>
-    <desc lang="ca">La soledat no desitjada s'ha convertit en un dels grans reptes socials del nostre temps, però continua sent una realitat sovint invisible i silenciada.En una societat cada vegada més individualista i hiperconnectada, persones de totes les edats expliquen què significa sentir-se soles i com aquesta realitat impacta en la seva vida i la seva salut. A través de les seves veus, i de la mirada de professionals, filòsofs, sociòlegs i entitats socials, el documental explora les causes de la soledat i la necessitat de detectar-la i abordar-la col·lectivament. Una peça coral que reivindica la idea esperançadora que recuperar els vincles i la vida comunitària pot contribuir a trencar la soledat i a fer que la vida sigui més vida.</desc>
-    <length units="seconds">3315</length>
-    <episode-num system="onscreen">1</episode-num>
-    <category lang="ca">DIVULGACIÓ</category>
-    <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-  </programme>
-  <channel id="324">
-    <display-name>324</display-name>
-  </channel>
-  <programme start="20261020210000 +0200" stop="20261020220500 +0200" channel="324">
-    <title lang="ca">Telenotícies vespre</title>
-    <length units="seconds">3900</length>
-    <episode-num system="onscreen">7363</episode-num>
-    <category lang="ca">ACTUALITAT</category>
-    <category lang="ca">INFORMATIU DIÀRI</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <icon src="https://img.ccma.cat/multimedia/jpg/7/2/1758026176427.jpg"/>
-  </programme>
-  <programme start="20261020220500 +0200" stop="20261021000000 +0200" channel="324">
+  <programme start="20261021003121 +0200" stop="20261021024635 +0200" channel="tvi">
     <title lang="ca">Mésnit</title>
     <desc lang="ca">El 'Mésnit' arriba a la desena temporada, amb Marina Romero al capdavant de l'espai i amb la voluntat de continuar sent un centre de debat d'idees i d'anàlisi de l'activitat política.</desc>
-    <length units="seconds">6900</length>
+    <length units="seconds">8114</length>
     <episode-num system="onscreen">2183</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">DEBAT</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <subtitles type="teletext"/>
+    <previously-shown/>
+  </programme>
+  <programme start="20261021024635 +0200" stop="20261021040000 +0200" channel="tvi">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="seconds">4405</length>
+    <episode-num system="onscreen">11487</episode-num>
+    <category lang="ca">ACTUALITAT</category>
+    <category lang="ca">INFORMATIU DIÀRI</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <previously-shown/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
+  </programme>
+  <channel id="324">
+    <display-name>324</display-name>
+  </channel>
+  <programme start="20261021003000 +0200" stop="20261021010000 +0200" channel="324">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="seconds">1800</length>
+    <episode-num system="onscreen">11487</episode-num>
+    <category lang="ca">ACTUALITAT</category>
+    <category lang="ca">INFORMATIU DIÀRI</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
+  </programme>
+  <programme start="20261021010000 +0200" stop="20261021060000 +0200" channel="324">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="seconds">18000</length>
+    <episode-num system="onscreen">11487</episode-num>
+    <category lang="ca">ACTUALITAT</category>
+    <category lang="ca">INFORMATIU DIÀRI</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <previously-shown/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
   <channel id="esport3">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20261020205549 +0200" stop="20261020230009 +0200" channel="esport3">
-    <title lang="ca">Un dia de partit</title>
-    <sub-title lang="ca">PSG-Barça</sub-title>
-    <desc lang="ca">A 'Un dia de partit' arreglem el Barça. O no. A cada partit, sis culers hi diuen la seva. Famosos i anònims. Cadascun a casa seva. Davant del televisor. Tot a base de videotrucades, en format Twitch i en rigorós directe. Ah! I a la mitja part no aturem màquines. Amb els jugadors als vestidors, nosaltres seguim fent bullir l'olla! Només sis culers? Negatiu. Durant el partit van apareixent els Jimmy Jump: els espontanis que demanen saltar a 'Un dia de partit' via WhatsApp.</desc>
-    <length units="seconds">7460</length>
-    <episode-num system="onscreen">255</episode-num>
-    <category lang="ca">ESPORTS</category>
-    <category lang="ca">RETRANSMISSIONS ESPORTS</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <icon src="https://img.ccma.cat/multimedia/jpg/2/7/1678885232972.jpg"/>
-  </programme>
-  <programme start="20261020230009 +0200" stop="20261020233530 +0200" channel="esport3">
+  <programme start="20261020230346 +0200" stop="20261021005436 +0200" channel="esport3">
     <title lang="ca">Bàsquet</title>
     <sub-title lang="ca">Kids&amp;Us Manresa-Roma / Eurocup / J4</sub-title>
     <desc lang="ca">Els del Bages, que han guanyat 1 partit i n'han perdut 2, volen igualar el balanç per millorar la seva posició.</desc>
-    <length units="seconds">2121</length>
+    <length units="seconds">6650</length>
     <episode-num system="onscreen">99</episode-num>
     <category lang="ca">ESPORTS</category>
     <category lang="ca">RETRANSMISSIONS ESPORTS</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <icon src="https://img.3cat.cat/multimedia/jpg/4/8/1791200744284.jpg"/>
+    <icon src="https://img.3cat.cat/multimedia/jpg/5/6/1759922947765.jpg"/>
+  </programme>
+  <programme start="20261021005436 +0200" stop="20261021011523 +0200" channel="esport3">
+    <title lang="ca">3CatInfo Esports</title>
+    <desc lang="ca">Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.</desc>
+    <length units="seconds">1247</length>
+    <episode-num system="onscreen">5544</episode-num>
+    <category lang="ca">ESPORTS</category>
+    <category lang="ca">INFORMATIU DIÀRI</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <icon src="https://img.ccma.cat/multimedia/jpg/9/7/1758888682179.jpg"/>
   </programme>
   <channel id="sx3">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20261020212208 +0200" stop="20261020214112 +0200" channel="sx3">
-    <title lang="ca">Bola de drac Z</title>
-    <sub-title lang="ca">El malson continua, el monstre Bu encara és viu</sub-title>
-    <desc lang="ca">L'ona expansiva de l'explosió d'energia d'en Vegeta també inutilitza la nau on viatgen la Bulma, la Xixi, el Follet Tortuga, l'A-18 i en Iamxa, que estan buscant les Boles de Drac. En Cor Petit troba les restes d'en Vegeta i del monstre Bu, que es comença a regenerar com per art de màgia. El malson continua i la raça humana corre més perill que mai.</desc>
-    <length units="seconds">1144</length>
-    <episode-num system="onscreen">238</episode-num>
+  <programme start="20261021002126 +0200" stop="20261021004135 +0200" channel="sx3">
+    <title lang="ca">Els germans Kratt</title>
+    <sub-title lang="ca">Fèlids i cànids (1a part)</sub-title>
+    <desc lang="ca">A la sabana africana en Martin i en Chris observen una pila de cànids i fèlids salvatges que interactuen entre ells. Ben aviat, nens i nenes de tot el món els envien preguntes sobre aquests animals que tant s'assemblen a les seves mascotes. En Zach, que els ha estat escoltant en secret, idea un pla per capturar i vendre els animals salvatges com a mascotes 'especials'. La colla primer investigarà a fons els cànids amb una bandada de licaons.</desc>
+    <length units="seconds">1209</length>
+    <episode-num system="onscreen">157</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
-      <value>JUVENIL</value>
+      <value>INFANTIL</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20261020214112 +0200" stop="20261020215958 +0200" channel="sx3">
-    <title lang="ca">Bola de drac Z</title>
-    <sub-title lang="ca">En Son Goku arriba al palau de Déu</sub-title>
-    <desc lang="ca">En Son Goku se n'haurà d'anar aviat i no té prou poder per acabar amb en Bu. A més, sense en Vegeta i en Son Gohan les probabilitats de vènce'l són gairebé nul·les. Abans d'anar-se'n en Son Goku explica a en Cor Petit i a en Krilin que hi ha una altra manera d'aconseguir guerrers superiors: la fusió, una tècnica que només funciona amb persones que tinguin característiques similars.</desc>
-    <length units="seconds">1126</length>
-    <episode-num system="onscreen">239</episode-num>
+  <programme start="20261021004135 +0200" stop="20261021010214 +0200" channel="sx3">
+    <title lang="ca">Els germans Kratt</title>
+    <sub-title lang="ca">Fèlids i cànids (2a part)</sub-title>
+    <desc lang="ca">Després d'aconseguir-se desempallegar d'en Zach i salvar el Caracarabassa i els seus germans licaons de les urpes d'un lleopard, els germans Kratt segueixen investigant els cànids i els fèlids salvatges. Ben aviat coneixeran el Megaullals, una cria de pantera nebulosa que tot i pertànyer a la família dels fèlids li entusiasma l'aigua. Gràcies al nou vestit de poder animal, en Martin i en Chris aniran a rescatar la Viva, la gata salvatge, i el Guinella, l'otoció, de les urpes d'en Zach, que ha seguit fent de les seves.</desc>
+    <length units="seconds">1239</length>
+    <episode-num system="onscreen">158</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
-      <value>JUVENIL</value>
+      <value>INFANTIL</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
@@ -115,66 +118,40 @@
   <channel id="c33">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20261020213430 +0200" stop="20261020215910 +0200" channel="c33">
-    <title lang="ca">L'un per l'altre</title>
-    <sub-title lang="ca">L'amic encallat</sub-title>
-    <desc lang="ca">De forma inesperada es presenta a casa del Toni el que havia estat el seu millor amic d'adolescència i joventut. Fa temps havien acabat barallats, però ara sembla que la seva amistat torna amb més força que mai. El Toni i el seu amic comencen a comportar-se igual com es comportaven vint anys enrera. I això, no agrada a gairebé ningú.</desc>
-    <length units="seconds">1480</length>
-    <episode-num system="onscreen">24</episode-num>
-    <category lang="ca">FICCIÓ</category>
-    <category lang="ca">SITCOM (COMÈDIA DE SITUACIÓ)</category>
+  <programme start="20261021002224 +0200" stop="20261021012022 +0200" channel="c33">
+    <title lang="ca">Rick Stein: De Venècia a Istanbul</title>
+    <sub-title lang="ca">Grècia</sub-title>
+    <desc lang="ca">El penúltim capítol del viatge es divideix entre Grècia i Turquia. A Grècia, en Rick pescarà molls a Gerakas i visitarà l'antic poble de Monemvasia, i un celler on una parella treballa per recuperar un vi deliciós de fa 500 anys, fet amb raïm malvasia. A Turquia, en Rick menja un esmorzar tradicional turc, visita una granja de cabres, i un jardiner reconvertit en viticultor. A Simi prepara pop a la graella, un pa pla amb fetge especiat i molls fregits amb un toc de taronja.</desc>
+    <length units="seconds">3478</length>
+    <episode-num system="onscreen">6</episode-num>
+    <category lang="ca">DIVULGACIÓ</category>
+    <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20261020215910 +0200" stop="20261020225002 +0200" channel="c33">
-    <title lang="ca">La Renaixença</title>
-    <sub-title lang="ca">La campana extractora</sub-title>
-    <desc lang="ca">AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA!! OOOOOOOOOOOOOOOO!! Què? Fa ràbia, oi? Doncs és el que fa l'objecte del dia. La campana extractora permet que no tinguem la casa plena de fum, però a canvi, fa un dels sorolls més molestos que hi ha. No tenim clar si compensa. Ens visita l'Imma Roquet, la catalana que ha tingut la màxima puntuació en la modalitat de salt muntant a cavall. El gos el passegem per un experiment que acaba amb un nen volant pels aires. Les famílies desestructurades sempre fan festa.</desc>
-    <length units="seconds">3052</length>
-    <episode-num system="onscreen">255</episode-num>
+  <programme start="20261021012022 +0200" stop="20261021021849 +0200" channel="c33">
+    <title lang="ca">Rick Stein: De Venècia a Istanbul</title>
+    <sub-title lang="ca">Turquía</sub-title>
+    <desc lang="ca">Aquest viatge culinari d'en Rick Stein té l'última etapa a Turquia, amb el punt final a la ciutat d'Istanbul, just a temps per a la temporada de pesca del deliciós tallahams. Sortirà a pescar al Bòsfor, un dels passos marítims més estratègics del món, que divideix Istanbul en dos continents. I cuinarà un pollastre al forn amb sumac, una planta que li dóna un sabor allimonat, i també dos plats autòctons molt apreciats: el fabulós 'köfte' amb pistatxos, i 'kapuska', un estofat tradicional turc de la regió de la mar Negra amb un nom rus.</desc>
+    <length units="seconds">3507</length>
+    <episode-num system="onscreen">7</episode-num>
     <category lang="ca">DIVULGACIÓ</category>
-    <category lang="ca">ALTRES</category>
+    <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/3/3/1756148014833.jpg"/>
+    <previously-shown/>
   </programme>
   <channel id="oca1">
     <display-name>OCA1</display-name>
   </channel>
-  <programme start="20261020195500 +0200" stop="20261020220500 +0200" channel="oca1">
-    <title lang="ca">Bàsquet</title>
-    <sub-title lang="ca">- FIATC Girona-Zastal Zielona / Fiba Europe Cup / J3</sub-title>
-    <desc lang="ca">Els gironins, que són líders del grup B amb dues victòries en dues jornades, reben a Fontajau el conjunt polonès de la ciutat de Góra. </desc>
-    <length units="seconds">7800</length>
-    <episode-num system="onscreen">3</episode-num>
-    <category lang="ca">ESPORTS</category>
-    <category lang="ca">RETRANSMISSIONS ESPORTS</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <icon src="https://img.3cat.cat/multimedia/jpg/4/8/1791200744284.jpg"/>
-  </programme>
   <channel id="oca2">
     <display-name>OCA2</display-name>
   </channel>
-  <programme start="20261020202500 +0200" stop="20261020223500 +0200" channel="oca2">
-    <title lang="ca">Bàsquet</title>
-    <sub-title lang="ca">- Kids&amp;Us Manresa-Roma / Eurocup / J4</sub-title>
-    <desc lang="ca">Els del Bages, que han guanyat 1 partit i n'han perdut 2, volen igualar el balanç per millorar la seva posició.</desc>
-    <length units="seconds">7800</length>
-    <episode-num system="onscreen">99</episode-num>
-    <category lang="ca">ESPORTS</category>
-    <category lang="ca">RETRANSMISSIONS ESPORTS</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <icon src="https://img.3cat.cat/multimedia/jpg/4/8/1791200744284.jpg"/>
-  </programme>
   <channel id="oca3">
     <display-name>OCA3</display-name>
   </channel>
