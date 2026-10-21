@@ -3,22 +3,10 @@
   <channel id="tvi">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20261021003121 +0200" stop="20261021024635 +0200" channel="tvi">
-    <title lang="ca">Mésnit</title>
-    <desc lang="ca">El 'Mésnit' arriba a la desena temporada, amb Marina Romero al capdavant de l'espai i amb la voluntat de continuar sent un centre de debat d'idees i d'anàlisi de l'activitat política.</desc>
-    <length units="seconds">8114</length>
-    <episode-num system="onscreen">2183</episode-num>
-    <category lang="ca">ACTUALITAT</category>
-    <category lang="ca">DEBAT</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <previously-shown/>
-  </programme>
-  <programme start="20261021024635 +0200" stop="20261021040000 +0200" channel="tvi">
+  <programme start="20261021022159 +0200" stop="20261021040000 +0200" channel="tvi">
     <title lang="ca">Notícies 3CatInfo</title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">4405</length>
+    <length units="seconds">5881</length>
     <episode-num system="onscreen">11487</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
@@ -27,22 +15,23 @@
     </rating>
     <previously-shown/>
     <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
+  </programme>
+  <programme start="20261021040000 +0200" stop="20261021045648 +0200" channel="tvi">
+    <title lang="ca">Blues a l'estudi</title>
+    <sub-title lang="ca">Dani Nel·lo</sub-title>
+    <desc lang="ca">Dani Nel·lo ens presenta el seu nou repertori. Abans que la guitarra elèctrica fos l'instrument rei de la música popular, el saxo va ser l'eina més utilitzada per fer-se sentir en les formacions de rhythm'n'blues i soul. King Curtis en va ser un dels màxims exponents. Els temes que sentireu avui volen ser un homentatge a aquest gran saxofonista que ha influït tants i tants músics. L'acompanyen Mario Cobo a la guitarra, Pere Puertas també a la guitarra, Santi Ursul al baix i Anton Jarl a la bateria.</desc>
+    <length units="seconds">3408</length>
+    <episode-num system="onscreen">25</episode-num>
+    <category lang="ca">MUSICALS</category>
+    <category lang="ca">ALTRES</category>
+    <rating>
+      <value>PÚBLIC ADULT</value>
+    </rating>
+    <previously-shown/>
   </programme>
   <channel id="324">
     <display-name>324</display-name>
   </channel>
-  <programme start="20261021003000 +0200" stop="20261021010000 +0200" channel="324">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">1800</length>
-    <episode-num system="onscreen">11487</episode-num>
-    <category lang="ca">ACTUALITAT</category>
-    <category lang="ca">INFORMATIU DIÀRI</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
-  </programme>
   <programme start="20261021010000 +0200" stop="20261021060000 +0200" channel="324">
     <title lang="ca">Notícies 3CatInfo</title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
@@ -56,43 +45,56 @@
     <previously-shown/>
     <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
+  <programme start="20261021060000 +0200" stop="20261021080000 +0200" channel="324">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="seconds">7200</length>
+    <episode-num system="onscreen">11488</episode-num>
+    <category lang="ca">ACTUALITAT</category>
+    <category lang="ca">INFORMATIU DIÀRI</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
+  </programme>
   <channel id="esport3">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20261020230346 +0200" stop="20261021005436 +0200" channel="esport3">
+  <programme start="20261021025341 +0200" stop="20261021042308 +0200" channel="esport3">
     <title lang="ca">Bàsquet</title>
-    <sub-title lang="ca">Kids&amp;Us Manresa-Roma / Eurocup / J4</sub-title>
-    <desc lang="ca">Els del Bages, que han guanyat 1 partit i n'han perdut 2, volen igualar el balanç per millorar la seva posició.</desc>
-    <length units="seconds">6650</length>
-    <episode-num system="onscreen">99</episode-num>
+    <sub-title lang="ca">FIATC Girona-Zastal Zielona / Fiba Europe Cup / J3</sub-title>
+    <desc lang="ca">Els gironins, que són líders del grup B amb dues victòries en dues jornades, reben a Fontajau el conjunt polonès de la ciutat de Góra. </desc>
+    <length units="seconds">5367</length>
+    <episode-num system="onscreen">3</episode-num>
     <category lang="ca">ESPORTS</category>
     <category lang="ca">RETRANSMISSIONS ESPORTS</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <icon src="https://img.3cat.cat/multimedia/jpg/5/6/1759922947765.jpg"/>
+    <icon src="https://img.3cat.cat/multimedia/jpg/4/8/1791200744284.jpg"/>
   </programme>
-  <programme start="20261021005436 +0200" stop="20261021011523 +0200" channel="esport3">
+  <programme start="20261021042308 +0200" stop="20261021044050 +0200" channel="esport3">
     <title lang="ca">3CatInfo Esports</title>
     <desc lang="ca">Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.</desc>
-    <length units="seconds">1247</length>
+    <length units="seconds">1062</length>
     <episode-num system="onscreen">5544</episode-num>
     <category lang="ca">ESPORTS</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
+    <previously-shown/>
     <icon src="https://img.ccma.cat/multimedia/jpg/9/7/1758888682179.jpg"/>
   </programme>
   <channel id="sx3">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20261021002126 +0200" stop="20261021004135 +0200" channel="sx3">
-    <title lang="ca">Els germans Kratt</title>
-    <sub-title lang="ca">Fèlids i cànids (1a part)</sub-title>
-    <desc lang="ca">A la sabana africana en Martin i en Chris observen una pila de cànids i fèlids salvatges que interactuen entre ells. Ben aviat, nens i nenes de tot el món els envien preguntes sobre aquests animals que tant s'assemblen a les seves mascotes. En Zach, que els ha estat escoltant en secret, idea un pla per capturar i vendre els animals salvatges com a mascotes 'especials'. La colla primer investigarà a fons els cànids amb una bandada de licaons.</desc>
-    <length units="seconds">1209</length>
-    <episode-num system="onscreen">157</episode-num>
+  <programme start="20261021024253 +0200" stop="20261021030355 +0200" channel="sx3">
+    <title lang="ca">Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
+    <sub-title lang="ca">Menjaamor (1a part)</sub-title>
+    <desc lang="ca">L'André Bourgeois i la seva dona, l'Audrey, fan anys de casats. Però a la festa que celebren, tothom veu que no se suporten. L'Esfinx ho aprofita per crear un monstre que s'alimenta de l'amor dels altres, un monstre tan poderós que la Marinette haurà de demanar ajuda al mestre Fu, i l'Esfinx no perdrà aquesta ocasió per localitzar-lo.</desc>
+    <length units="seconds">1262</length>
+    <episode-num system="onscreen">77</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
@@ -101,12 +103,12 @@
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20261021004135 +0200" stop="20261021010214 +0200" channel="sx3">
-    <title lang="ca">Els germans Kratt</title>
-    <sub-title lang="ca">Fèlids i cànids (2a part)</sub-title>
-    <desc lang="ca">Després d'aconseguir-se desempallegar d'en Zach i salvar el Caracarabassa i els seus germans licaons de les urpes d'un lleopard, els germans Kratt segueixen investigant els cànids i els fèlids salvatges. Ben aviat coneixeran el Megaullals, una cria de pantera nebulosa que tot i pertànyer a la família dels fèlids li entusiasma l'aigua. Gràcies al nou vestit de poder animal, en Martin i en Chris aniran a rescatar la Viva, la gata salvatge, i el Guinella, l'otoció, de les urpes d'en Zach, que ha seguit fent de les seves.</desc>
-    <length units="seconds">1239</length>
-    <episode-num system="onscreen">158</episode-num>
+  <programme start="20261021030355 +0200" stop="20261021032408 +0200" channel="sx3">
+    <title lang="ca">Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
+    <sub-title lang="ca">Miracle Queen: La batalla dels prodigis (2a part)</sub-title>
+    <desc lang="ca">Ara que ha descobert el guardià dels prodigis, l'Esfinx es llança a la batalla final per aconseguir tots els poders. A través de la Chloé, convertida en la Miracle Queen, l'Esfinx està a punt de guanyar per sempre. Però el mestre Fu es reserva un moviment inesperat.</desc>
+    <length units="seconds">1213</length>
+    <episode-num system="onscreen">78</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
@@ -118,33 +120,34 @@
   <channel id="c33">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20261021002224 +0200" stop="20261021012022 +0200" channel="c33">
-    <title lang="ca">Rick Stein: De Venècia a Istanbul</title>
-    <sub-title lang="ca">Grècia</sub-title>
-    <desc lang="ca">El penúltim capítol del viatge es divideix entre Grècia i Turquia. A Grècia, en Rick pescarà molls a Gerakas i visitarà l'antic poble de Monemvasia, i un celler on una parella treballa per recuperar un vi deliciós de fa 500 anys, fet amb raïm malvasia. A Turquia, en Rick menja un esmorzar tradicional turc, visita una granja de cabres, i un jardiner reconvertit en viticultor. A Simi prepara pop a la graella, un pa pla amb fetge especiat i molls fregits amb un toc de taronja.</desc>
-    <length units="seconds">3478</length>
-    <episode-num system="onscreen">6</episode-num>
+  <programme start="20261021024815 +0200" stop="20261021032010 +0200" channel="c33">
+    <title lang="ca">Xefs: noves generacions</title>
+    <sub-title lang="ca">Jaime Bes i Claudia Gozzi (Restaurant El Raier)</sub-title>
+    <desc lang="ca">Jaime Bes i Claudia Gozzi ho van deixar tot per començar de zero a la Pobla de Segur. Després d'una trajectòria sòlida en alguns dels restaurants més exigents, han creat a El Raier una cuina de producte i temporada, valenta, precisa i profundament honesta. Peix excepcional en plena muntanya, verdures del territori i una tècnica depurada que es mostra sense filtres en una barra oberta on fins i tot la ceràmica és d'origen local. Un capítol que retrata una decisió vital i una manera de cuinar viva i contemporània, demostrant que l'alta gastronomia també pot arrelar, créixer i innovar lluny de la ciutat.</desc>
+    <length units="seconds">1915</length>
+    <episode-num system="onscreen">7</episode-num>
     <category lang="ca">DIVULGACIÓ</category>
-    <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
+    <category lang="ca">SÈRIE DOCUMENTAL</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20261021012022 +0200" stop="20261021021849 +0200" channel="c33">
-    <title lang="ca">Rick Stein: De Venècia a Istanbul</title>
-    <sub-title lang="ca">Turquía</sub-title>
-    <desc lang="ca">Aquest viatge culinari d'en Rick Stein té l'última etapa a Turquia, amb el punt final a la ciutat d'Istanbul, just a temps per a la temporada de pesca del deliciós tallahams. Sortirà a pescar al Bòsfor, un dels passos marítims més estratègics del món, que divideix Istanbul en dos continents. I cuinarà un pollastre al forn amb sumac, una planta que li dóna un sabor allimonat, i també dos plats autòctons molt apreciats: el fabulós 'köfte' amb pistatxos, i 'kapuska', un estofat tradicional turc de la regió de la mar Negra amb un nom rus.</desc>
-    <length units="seconds">3507</length>
-    <episode-num system="onscreen">7</episode-num>
-    <category lang="ca">DIVULGACIÓ</category>
-    <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
+  <programme start="20261021032010 +0200" stop="20261021033725 +0200" channel="c33">
+    <title lang="ca">Les Feres</title>
+    <sub-title lang="ca">Siroll</sub-title>
+    <desc lang="ca">Des de Cardona, els Siroll! s'han convertit en un puntal dins del metal cantat en català. Amb una ja generosa discografia, que comprèn discos com 'Doble o res', el disc en viu 'Directe del camp' o 'Al Gra!', el grup manté una actitud molt reivindicativa i contundent en les seves lletres.  Gou: veu Albert Colell: bateria Thomas Meier: baix Jaume Roca: guitarra Venty: guitarra  Cançons: 1- Tu mateix 2- Pobre 3- Acció 4- Més llenya al foc 5- Odi a l'amor  Localització: gravat al Padrinot de Mollerussa, organitzat per l'Associació Cultural Padrirock Data: 8 de juny 2024  </desc>
+    <length units="seconds">1035</length>
+    <episode-num system="onscreen">10</episode-num>
+    <category lang="ca">ENTRETENIMENT</category>
+    <category lang="ca">ALTRES</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/3/4/1719854188043.jpg"/>
   </programme>
   <channel id="oca1">
     <display-name>OCA1</display-name>
