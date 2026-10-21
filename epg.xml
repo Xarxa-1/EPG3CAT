@@ -3,118 +3,101 @@
   <channel id="tvi">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20261021173141 +0200" stop="20261021191236 +0200" channel="tvi">
-    <title lang="ca">La Selva</title>
-    <desc lang="ca">Xavier Grasset presenta La Selva, el nou magazín d'entreteniment de les tardes de TV3. Un show d'autor on parlarem de tot de forma distesa i lliure, una trobada fixa a la nova cafeteria de la televisió pública catalana, regentada per la Mercè Fonoll (l'actriu i humorista, Anna Bertran). A La Selva sempre hi passen coses, és un món ple d'activitat on diverses espècies hi conviuen de forma lliure.Hi passaran Antoni Bassas, Montse Barderi, Fel Faixedas, Sílvia Bel, la Nina, en Biel Duran, l'Alba Alfageme o la Carlota Gurt, entre molts d'altres. Una trobada plena de coneixement i seguiment de l'actualitat, però també d'entreteniment. Els acompanyaran, per exemple fent recomanacions, Sergi Cutillas, amb la seva música de capçalera, en Godai García que ens apropa a la terra -amb una mirada molt pròpia- o la cuinera i influencer, Sofia Janer.A La Selva farem un repàs al què ha passat durant el dia i a la vida en general d'aquella manera única del Xavier Grasset acompanyat al sofà per la Maria Xinxó, la Núria Martínez o l'Ester Pagès. La resta de l'equip treballarà per explicar-vos el que ha passat dins i fora de La Selva, acostar-vos al territori i oferir-vos entreteniment, però sempre amb contingut. Cada dia hi haurà entrevistes, no hi faltaran els llibres, la cultura o històries humanes de tot tipus. I, a més, comptarem amb la participació del nostre públic. Us convidarem a jugar en un concurs diari, divertit i enginyós. Quan t'endinses a la Selva mai saps què t'hi pots acabar trobant!Cada tarda, et farem companyia a 3cat. Us espera una nova aventura plena de personatges interessants, converses, reflexions, descobriments i uns quants somriures. Sempre amb un ull posat a tot el que passa al nostre voltant. Quedem a La Selva!</desc>
-    <length units="seconds">6055</length>
-    <episode-num system="onscreen">434</episode-num>
-    <category lang="ca">ENTRETENIMENT</category>
-    <category lang="ca">MAGAZINE</category>
+  <programme start="20261021210000 +0200" stop="20261021215935 +0200" channel="tvi">
+    <title lang="ca">Telenotícies vespre</title>
+    <length units="seconds">3575</length>
+    <episode-num system="onscreen">7364</episode-num>
+    <category lang="ca">ACTUALITAT</category>
+    <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <previously-shown/>
-    <icon src="https://img.3cat.cat/multimedia/jpg/6/3/1725871608136.jpg"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/7/2/1758026176427.jpg"/>
   </programme>
-  <programme start="20261021191236 +0200" stop="20261021201500 +0200" channel="tvi">
-    <title lang="ca">Atrapa'm si pots</title>
-    <desc lang="ca">'Atrapa'm si pots' és un 'quiz show' clàssic, de preguntes i respostes, presentat per Llucià Ferrer, en què sis concursants competeixen per arribar a la fase final i guanyar el pot. 'Atrapa'm si pots' és entreteniment pur i on gairebé és més important passar-s'ho bé que els diners. És un concurs en què pesa més la intuïció que no els coneixements acadèmics, més l'estratègia en el joc que no la sort.</desc>
-    <length units="seconds">3744</length>
-    <episode-num system="onscreen">948</episode-num>
-    <category lang="ca">ENTRETENIMENT</category>
-    <category lang="ca">CONCURS</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
+  <programme start="20261021215935 +0200" stop="20261021220728 +0200" channel="tvi">
+    <title lang="ca">De primera!</title>
+    <sub-title lang="ca">- De problema a solució</sub-title>
+    <desc lang="ca">Sense Descripció</desc>
+    <length units="seconds">473</length>
+    <episode-num system="onscreen">10</episode-num>
   </programme>
   <channel id="324">
     <display-name>324</display-name>
   </channel>
-  <programme start="20261021170000 +0200" stop="20261021183000 +0200" channel="324">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">5400</length>
-    <episode-num system="onscreen">11492</episode-num>
+  <programme start="20261021210000 +0200" stop="20261021220500 +0200" channel="324">
+    <title lang="ca">Telenotícies vespre</title>
+    <length units="seconds">3900</length>
+    <episode-num system="onscreen">7364</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <subtitles type="teletext"/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/7/2/1758026176427.jpg"/>
   </programme>
-  <programme start="20261021183000 +0200" stop="20261021200000 +0200" channel="324">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">5400</length>
-    <episode-num system="onscreen">11493</episode-num>
+  <programme start="20261021220500 +0200" stop="20261022000000 +0200" channel="324">
+    <title lang="ca">Mésnit</title>
+    <desc lang="ca">El 'Mésnit' arriba a la desena temporada, amb Marina Romero al capdavant de l'espai i amb la voluntat de continuar sent un centre de debat d'idees i d'anàlisi de l'activitat política.</desc>
+    <length units="seconds">6900</length>
+    <episode-num system="onscreen">2184</episode-num>
     <category lang="ca">ACTUALITAT</category>
-    <category lang="ca">INFORMATIU DIÀRI</category>
+    <category lang="ca">DEBAT</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
   <channel id="esport3">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20261021172650 +0200" stop="20261021175849 +0200" channel="esport3">
-    <title lang="ca">La frontal</title>
-    <sub-title lang="ca">El CA Masnou, de les arrels al creixement del futbol base</sub-title>
-    <desc lang="ca">Visitem el Club Atlètic Masnou, una entitat amb gairebé sis dècades d'història que ha experimentat una gran transformació en els darrers anys. Els seus orígens es remunten al 1967, quan Camilo Fernández i un grup d'amics van impulsar un club de futbol per als joves del poble que acabaria convertint-se en l'actual Atlètic Masnou. Des d'aleshores, l'entitat ha crescut fins a consolidar-se com un dels projectes de futbol formatiu del municipi, amb una estructura que ha passat de 16 a 50 equips en només sis temporades. Actualment, el club aposta per la formació dels entrenadors, la professionalització de la gestió i la millora dels serveis a les famílies. Carles Fité entrevista el president del club maresmenc, Rubén Sáez; el director esportiu, Sergi González; i la filla de Camilo Fernández, fundador del club, Carme Fernández. I a més a més, els resums dels partits més destacats del cap de setmana.</desc>
-    <length units="seconds">1919</length>
-    <episode-num system="onscreen">180</episode-num>
+  <programme start="20261021205836 +0200" stop="20261021215406 +0200" channel="esport3">
+    <title lang="ca">Bàsquet</title>
+    <sub-title lang="ca">Asisa Joventut-Telekom / Champions League / J2</sub-title>
+    <desc lang="ca">El guanyador d'aquest partit serà el líder solitari del grup H a la Champions de bàsquet.</desc>
+    <length units="seconds">3330</length>
+    <episode-num system="onscreen">24</episode-num>
     <category lang="ca">ESPORTS</category>
-    <category lang="ca">ESPECIALS</category>
+    <category lang="ca">RETRANSMISSIONS ESPORTS</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <previously-shown/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/2/4/1698432480342.jpg"/>
+    <icon src="https://img.3cat.cat/multimedia/jpg/1/1/1761643119911.jpg"/>
   </programme>
-  <programme start="20261021175849 +0200" stop="20261021190000 +0200" channel="esport3">
-    <title lang="ca">Esport Club</title>
-    <sub-title lang="ca">Ratxa trencada, Madrid-Leipzig i tertúlia</sub-title>
-    <desc lang="ca">El PSG trenca la ratxa del Barça. Analitzem el partit amb la lupa de l'Albert Blaya. Quatre dies abans del clàssic, Reial Madrid-Leipzig al Santiago Bernabéu. Connectem amb Sebas Guim. A la tertúlia ens acompanyen Dani Senabre, Martí Molina i en Pere de Cal Tet.</desc>
-    <length units="seconds">3671</length>
-    <episode-num system="onscreen">3266</episode-num>
-    <category lang="ca">ESPORTS</category>
-    <category lang="ca">INFORMATIU DIÀRI</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <subtitles type="teletext"/>
-    <previously-shown/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/7/3/1698145091337.jpg"/>
+  <programme start="20261021215406 +0200" stop="20261021223613 +0200" channel="esport3">
+    <title lang="ca">Bàsquet</title>
+    <sub-title lang="ca">- FIATC Girona-Zastal Zielona / Fiba Europe Cup / J3</sub-title>
+    <desc lang="ca">Sense Descripció</desc>
+    <length units="seconds">2527</length>
+    <episode-num system="onscreen">3</episode-num>
   </programme>
   <channel id="sx3">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20261021173328 +0200" stop="20261021173819 +0200" channel="sx3">
-    <title lang="ca">Wonderblocks</title>
-    <sub-title lang="ca">La torre de flors</sub-title>
-    <desc lang="ca">La Som-hi vol sorprendre el Gripau fent-li una torre de flors de colors al seu jardí. La podran ajudar, l'Arty i els blocs de colors, a fer-la ben bonica?</desc>
-    <length units="seconds">291</length>
-    <episode-num system="onscreen">13</episode-num>
+  <programme start="20261021212234 +0200" stop="20261021214152 +0200" channel="sx3">
+    <title lang="ca">Bola de drac Z</title>
+    <sub-title lang="ca">En Son Gohan ha ressuscitat. Quina és l'arma secreta del déu Neptú?</sub-title>
+    <desc lang="ca">Després de ressuscitar en Son Gohan, el déu Neptú se l'emporta al seu planeta per explicar-li la manera de vèncer el monstre Bu i li parla de la llegendària espasa Z. Mentrestant, en Son Goku dóna la notícia de la mort d'en Son Gohan i d'en Vegeta a en Son Goten i a en Trunks i els ensenya la tècnica de la fusió.</desc>
+    <length units="seconds">1158</length>
+    <episode-num system="onscreen">242</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
-      <value>INFANTIL</value>
+      <value>JUVENIL</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20261021173819 +0200" stop="20261021174249 +0200" channel="sx3">
-    <title lang="ca">Wonderblocks</title>
-    <sub-title lang="ca">Fem castells de sorra</sub-title>
-    <desc lang="ca">Els tres ossos volen fer castells de sorra i no se'n surten. Quantes palades de sorra calen per omplir cada galleda diferent? La Som-hi i la Prou els ajudaran.</desc>
-    <length units="seconds">270</length>
-    <episode-num system="onscreen">14</episode-num>
+  <programme start="20261021214152 +0200" stop="20261021220034 +0200" channel="sx3">
+    <title lang="ca">Bola de drac Z</title>
+    <sub-title lang="ca">En Son Gohan desclava la llegendària espasa Z</sub-title>
+    <desc lang="ca">En Son Gohan, després de convertir-se en superguerrer, aconsegueix desclavar la llegendària espasa Z de la roca. Mentrestant, en Son Goku continua ensenyant la tècnica de la fusió a en Son Goten i a en Trunks, que es comuniquen telepàticament amb en Babidí i en Bu i els diuen que ben aviat acabaran amb el temible monstre.</desc>
+    <length units="seconds">1122</length>
+    <episode-num system="onscreen">243</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
-      <value>INFANTIL</value>
+      <value>JUVENIL</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
@@ -122,48 +105,37 @@
   <channel id="c33">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20261021173200 +0200" stop="20261021175358 +0200" channel="c33">
-    <title lang="ca">Quèquicom</title>
-    <sub-title lang="ca">Meteorits: l'amenaça que ve de l'espai</sub-title>
-    <desc lang="ca">'Quèquicom' analitzarà demà el fenomen dels meteorits, uns cossos que venen de l'espai i que són una amenaça per a la humanitat. Fa pocs dies, el 2 de març passat, va passar fregant la Terra un meteorit que, en cas d'haver-hi xocat, hauria alliberat una energia equivalent a centenars de bombes atòmiques. El programa de ciència del 33 posarà de relleu, a partir de les 21.30, els pocs recursos que es destinen a detectar aquests cossos perillosos.El meteorit DD45 mesurava uns trenta metres de diàmetre i hauria destruït una superfície com l'illa de Mallorca. No va impactar amb la Terra per només 39 minuts. ¿Però és possible detectar-los a temps i desviar-los o destruir-los?El reporter Miquel Piris visitarà l'Observatori Astronòmic de Mallorca, AOM, on hi ha un dels tres equips més importants de tot el món en detecció i seguiment d'asteroides. Els altres dos són la NASA i l'USAF, tots dos nord-americans. Un dels observadors de l'OAM, Jaume Nomen, explica com ho fan per localitzar els asteroides. Conjuntament amb el científic de la Universitat de Barcelona, Jordi Llorca, Piris farà un experiment per fer xocar asteroides, tal com passa a l'espai. El projecte Quijote, que es desenvoluparà amb capital espanyol, estudia maneres de destruir o desviar asteroides perillosos. Des del plató, Marc Boada explica quines són aquestes possibilitats.El món dels meteorits mou moltes altres persones. José Vicente és l''Indiana Jones' dels meteorits: sempre té les maletes preparades per sortir disparat a qualsevol part del món on n'hagi pogut caure un. Emilio González, en canvi, reconeix cràters de meteorit des de casa a través del Google Earth. Fa poc ha identificat dos possibles cràters de meteorit al Txad i la NASA li ha reconegut la troballa.</desc>
-    <length units="seconds">1318</length>
-    <episode-num system="onscreen">92</episode-num>
-    <category lang="ca">DIVULGACIÓ</category>
-    <category lang="ca">MAGAZINE ESPECIALITZAT</category>
+  <programme start="20261021213110 +0200" stop="20261021220258 +0200" channel="c33">
+    <title lang="ca">L'un per l'altre</title>
+    <sub-title lang="ca">Renovar-se o morir</sub-title>
+    <desc lang="ca">La Maria va a una festa d'antics alumnes i troba que tothom és molt modern. Decideix que ella i el Toni estan antiquats i s'han de posar al dia. Organitzen una festa on tothom va a l'última i el Toni i la Maria fan el que poden per integrar-se. Finalment, però, els amics moderns resulten ser uns impresentables i el Toni els fa fora sense contemplacions.</desc>
+    <length units="seconds">1908</length>
+    <episode-num system="onscreen">26</episode-num>
+    <category lang="ca">FICCIÓ</category>
+    <category lang="ca">SITCOM (COMÈDIA DE SITUACIÓ)</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20261021175358 +0200" stop="20261021181616 +0200" channel="c33">
-    <title lang="ca">Quèquicom</title>
-    <sub-title lang="ca">Transgènics a la carta</sub-title>
-    <desc lang="ca">'Quèquicom' sotmetrà a examen els aliments transgènics. El programa examinarà els pros i els contres d'aquests conreus i els seus possibles efectes sobre la salut humana. El blat de moro és l'única planta transgènica que té autorització per ser cultivada a Espanya, i molts pagesos la trien per la seva resistència a les malures. La reportera Anna Lasaga farà un viatge pels camps i els laboratoris on s'estudien aquestes plantes per treure l'aigua clara sobre què és un transgènic i quins efectes pot tenir sobre l'ambient i els sers humans. A més, Francesc Vilarroya, professor de biotecnologia de la Universitat de Barcelona, explicarà com processa el cos humà els productes transgènics per poder-los assimilar. I Pere Puigdomènec, director del laboratori CSIC- IRTA, creu que els transgènics són útils i considera excessius els tràmits que es necessiten per autoritzar que un nou transgènic surti al mercat.</desc>
-    <length units="seconds">1338</length>
-    <episode-num system="onscreen">93</episode-num>
+  <programme start="20261021220258 +0200" stop="20261021225304 +0200" channel="c33">
+    <title lang="ca">La Renaixença</title>
+    <sub-title lang="ca">El sofà</sub-title>
+    <desc lang="ca">Tenir un bon sofà és mitja vida. Després del somier, us heu de gastar diners en el sofà, però tampoc cal que tingui aquella ela per estirar les cames, allò és d'estranger. Parlant de sofàs, avui seuen a l'escó de La Renaixença dos xicots de La Pegatina, sort que no han decidit venir tots perquè no hi cabríem! En acabat passejarem el gos per la marató del 1904 de Saint Louis, considerada una de les carreres més surrealistes i perilloses de l'esport per les condicions climàtiques d'aquell dia.</desc>
+    <length units="seconds">3006</length>
+    <episode-num system="onscreen">256</episode-num>
     <category lang="ca">DIVULGACIÓ</category>
-    <category lang="ca">MAGAZINE ESPECIALITZAT</category>
+    <category lang="ca">ALTRES</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
-    <previously-shown/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/3/3/1756148014833.jpg"/>
   </programme>
   <channel id="oca1">
     <display-name>OCA1</display-name>
   </channel>
-  <programme start="20261021150004 +0200" stop="20261021181959 +0200" channel="oca1">
-    <title lang="ca">Ple del Parlament</title>
-    <length units="seconds">11995</length>
-    <episode-num system="onscreen">4184</episode-num>
-    <category lang="ca">ACTUALITAT</category>
-    <category lang="ca">RETRANSMISSIONS ACTUALITAT</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <icon src="https://img.ccma.cat/multimedia/jpg/2/2/1723033059522.jpg"/>
-  </programme>
   <channel id="oca2">
     <display-name>OCA2</display-name>
   </channel>
