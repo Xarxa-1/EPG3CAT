@@ -3,49 +3,7 @@
   <channel id="tvi">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20261021022159 +0200" stop="20261021040000 +0200" channel="tvi">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">5881</length>
-    <episode-num system="onscreen">11487</episode-num>
-    <category lang="ca">ACTUALITAT</category>
-    <category lang="ca">INFORMATIU DIÀRI</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <previously-shown/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
-  </programme>
-  <programme start="20261021040000 +0200" stop="20261021045648 +0200" channel="tvi">
-    <title lang="ca">Blues a l'estudi</title>
-    <sub-title lang="ca">Dani Nel·lo</sub-title>
-    <desc lang="ca">Dani Nel·lo ens presenta el seu nou repertori. Abans que la guitarra elèctrica fos l'instrument rei de la música popular, el saxo va ser l'eina més utilitzada per fer-se sentir en les formacions de rhythm'n'blues i soul. King Curtis en va ser un dels màxims exponents. Els temes que sentireu avui volen ser un homentatge a aquest gran saxofonista que ha influït tants i tants músics. L'acompanyen Mario Cobo a la guitarra, Pere Puertas també a la guitarra, Santi Ursul al baix i Anton Jarl a la bateria.</desc>
-    <length units="seconds">3408</length>
-    <episode-num system="onscreen">25</episode-num>
-    <category lang="ca">MUSICALS</category>
-    <category lang="ca">ALTRES</category>
-    <rating>
-      <value>PÚBLIC ADULT</value>
-    </rating>
-    <previously-shown/>
-  </programme>
-  <channel id="324">
-    <display-name>324</display-name>
-  </channel>
-  <programme start="20261021010000 +0200" stop="20261021060000 +0200" channel="324">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">18000</length>
-    <episode-num system="onscreen">11487</episode-num>
-    <category lang="ca">ACTUALITAT</category>
-    <category lang="ca">INFORMATIU DIÀRI</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <previously-shown/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
-  </programme>
-  <programme start="20261021060000 +0200" stop="20261021080000 +0200" channel="324">
+  <programme start="20261021060000 +0200" stop="20261021080000 +0200" channel="tvi">
     <title lang="ca">Notícies 3CatInfo</title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <length units="seconds">7200</length>
@@ -57,44 +15,87 @@
     </rating>
     <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
+  <programme start="20261021080000 +0200" stop="20261021103000 +0200" channel="tvi">
+    <title lang="ca">Matins</title>
+    <desc lang="ca">'Matins' és un dels puntals informatius de TV3. El programa matinal dona les claus del dia que comença, explica les notícies que han passat aportant-ne el context per entendre-les i analitza amb veus acreditades l'actualitat més propera i la d'arreu del món. 'Matins' comença a les 8 del matí, de dilluns a divendres, i està presentat per Ariadna Oltra.</desc>
+    <length units="seconds">9000</length>
+    <episode-num system="onscreen">4696</episode-num>
+    <category lang="ca">ACTUALITAT</category>
+    <category lang="ca">INFORMATIU DIÀRI</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <icon src="https://img.ccma.cat/multimedia/jpg/2/0/1758040151402.jpg"/>
+  </programme>
+  <channel id="324">
+    <display-name>324</display-name>
+  </channel>
+  <programme start="20261021060000 +0200" stop="20261021080000 +0200" channel="324">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="seconds">7200</length>
+    <episode-num system="onscreen">11488</episode-num>
+    <category lang="ca">ACTUALITAT</category>
+    <category lang="ca">INFORMATIU DIÀRI</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <subtitles type="teletext"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
+  </programme>
+  <programme start="20261021080000 +0200" stop="20261021090000 +0200" channel="324">
+    <title lang="ca">Matins</title>
+    <desc lang="ca">'Matins' és un dels puntals informatius de TV3. El programa matinal dona les claus del dia que comença, explica les notícies que han passat aportant-ne el context per entendre-les i analitza amb veus acreditades l'actualitat més propera i la d'arreu del món. 'Matins' comença a les 8 del matí, de dilluns a divendres, i està presentat per Ariadna Oltra.</desc>
+    <length units="seconds">3600</length>
+    <episode-num system="onscreen">4696</episode-num>
+    <category lang="ca">ACTUALITAT</category>
+    <category lang="ca">INFORMATIU DIÀRI</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <icon src="https://img.ccma.cat/multimedia/jpg/2/0/1758040151402.jpg"/>
+  </programme>
   <channel id="esport3">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20261021025341 +0200" stop="20261021042308 +0200" channel="esport3">
+  <programme start="20261021070017 +0200" stop="20261021082358 +0200" channel="esport3">
+    <title lang="ca">Zona Champions</title>
+    <sub-title lang="ca">Post PSG-Barça / J3</sub-title>
+    <desc lang="ca">El bo i millor de la màxima competició de futbol continental de la mà del Departament d'Esports de Televisió de Catalunya. Viu tots els partits de la Lliga de Campions a 3Cat!</desc>
+    <length units="seconds">5021</length>
+    <episode-num system="onscreen">855</episode-num>
+    <category lang="ca">ESPORTS</category>
+    <category lang="ca">MAGAZINE</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <subtitles type="teletext"/>
+    <previously-shown/>
+    <icon src="https://img.3cat.cat/multimedia/jpg/3/4/1769511614843.jpg"/>
+  </programme>
+  <programme start="20261021082358 +0200" stop="20261021101504 +0200" channel="esport3">
     <title lang="ca">Bàsquet</title>
-    <sub-title lang="ca">FIATC Girona-Zastal Zielona / Fiba Europe Cup / J3</sub-title>
-    <desc lang="ca">Els gironins, que són líders del grup B amb dues victòries en dues jornades, reben a Fontajau el conjunt polonès de la ciutat de Góra. </desc>
-    <length units="seconds">5367</length>
-    <episode-num system="onscreen">3</episode-num>
+    <sub-title lang="ca">Kids&amp;Us Manresa-Roma / Eurocup / J4</sub-title>
+    <desc lang="ca">Els del Bages, que han guanyat 1 partit i n'han perdut 2, volen igualar el balanç per millorar la seva posició.</desc>
+    <length units="seconds">6666</length>
+    <episode-num system="onscreen">99</episode-num>
     <category lang="ca">ESPORTS</category>
     <category lang="ca">RETRANSMISSIONS ESPORTS</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <icon src="https://img.3cat.cat/multimedia/jpg/4/8/1791200744284.jpg"/>
-  </programme>
-  <programme start="20261021042308 +0200" stop="20261021044050 +0200" channel="esport3">
-    <title lang="ca">3CatInfo Esports</title>
-    <desc lang="ca">Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.</desc>
-    <length units="seconds">1062</length>
-    <episode-num system="onscreen">5544</episode-num>
-    <category lang="ca">ESPORTS</category>
-    <category lang="ca">INFORMATIU DIÀRI</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
     <previously-shown/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/9/7/1758888682179.jpg"/>
+    <icon src="https://img.3cat.cat/multimedia/jpg/5/6/1759922947765.jpg"/>
   </programme>
   <channel id="sx3">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20261021024253 +0200" stop="20261021030355 +0200" channel="sx3">
-    <title lang="ca">Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
-    <sub-title lang="ca">Menjaamor (1a part)</sub-title>
-    <desc lang="ca">L'André Bourgeois i la seva dona, l'Audrey, fan anys de casats. Però a la festa que celebren, tothom veu que no se suporten. L'Esfinx ho aprofita per crear un monstre que s'alimenta de l'amor dels altres, un monstre tan poderós que la Marinette haurà de demanar ajuda al mestre Fu, i l'Esfinx no perdrà aquesta ocasió per localitzar-lo.</desc>
-    <length units="seconds">1262</length>
-    <episode-num system="onscreen">77</episode-num>
+  <programme start="20261021073017 +0200" stop="20261021074050 +0200" channel="sx3">
+    <title lang="ca">La Patrulla Peluda</title>
+    <sub-title lang="ca">La Patrulla salva la sensei Yumi</sub-title>
+    <desc lang="ca">La sensei Yumi s'endú en Marshall a la muntanya per fer-li les proves de gosfu, però s'acosta una tempesta i no ho saben!</desc>
+    <length units="seconds">633</length>
+    <episode-num system="onscreen">163</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
@@ -103,51 +104,44 @@
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20261021030355 +0200" stop="20261021032408 +0200" channel="sx3">
-    <title lang="ca">Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
-    <sub-title lang="ca">Miracle Queen: La batalla dels prodigis (2a part)</sub-title>
-    <desc lang="ca">Ara que ha descobert el guardià dels prodigis, l'Esfinx es llança a la batalla final per aconseguir tots els poders. A través de la Chloé, convertida en la Miracle Queen, l'Esfinx està a punt de guanyar per sempre. Però el mestre Fu es reserva un moviment inesperat.</desc>
-    <length units="seconds">1213</length>
-    <episode-num system="onscreen">78</episode-num>
-    <category lang="ca">FICCIÓ</category>
-    <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
-    <rating>
-      <value>INFANTIL</value>
-    </rating>
+  <programme start="20261021074050 +0200" stop="20261021075244 +0200" channel="sx3">
+    <title lang="ca">La Patrulla Peluda</title>
+    <sub-title lang="ca">- La Patrulla Marina: La Patrula salva la Tilly Turbot</sub-title>
+    <desc lang="ca">Sense Descripció</desc>
+    <length units="seconds">714</length>
+    <episode-num system="onscreen">211</episode-num>
     <subtitles type="teletext"/>
-    <previously-shown/>
   </programme>
   <channel id="c33">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20261021024815 +0200" stop="20261021032010 +0200" channel="c33">
-    <title lang="ca">Xefs: noves generacions</title>
-    <sub-title lang="ca">Jaime Bes i Claudia Gozzi (Restaurant El Raier)</sub-title>
-    <desc lang="ca">Jaime Bes i Claudia Gozzi ho van deixar tot per començar de zero a la Pobla de Segur. Després d'una trajectòria sòlida en alguns dels restaurants més exigents, han creat a El Raier una cuina de producte i temporada, valenta, precisa i profundament honesta. Peix excepcional en plena muntanya, verdures del territori i una tècnica depurada que es mostra sense filtres en una barra oberta on fins i tot la ceràmica és d'origen local. Un capítol que retrata una decisió vital i una manera de cuinar viva i contemporània, demostrant que l'alta gastronomia també pot arrelar, créixer i innovar lluny de la ciutat.</desc>
-    <length units="seconds">1915</length>
-    <episode-num system="onscreen">7</episode-num>
+  <programme start="20261021072253 +0200" stop="20261021075036 +0200" channel="c33">
+    <title lang="ca">La sobretaula</title>
+    <sub-title lang="ca">Sallent amb Miki Núñez</sub-title>
+    <desc lang="ca">Enramades, patrimoni i resiliència són els protagonistes d'aquest capítol de La Sobretaula, que avui fa parada a Sallent. Ho fem acompanyats de l'artista Miki Núñez, amb qui descobrim un municipi amb arrels profundes i esperit resilient.</desc>
+    <length units="seconds">1663</length>
+    <episode-num system="onscreen">11</episode-num>
     <category lang="ca">DIVULGACIÓ</category>
-    <category lang="ca">SÈRIE DOCUMENTAL</category>
+    <category lang="ca">CUINA</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20261021032010 +0200" stop="20261021033725 +0200" channel="c33">
-    <title lang="ca">Les Feres</title>
-    <sub-title lang="ca">Siroll</sub-title>
-    <desc lang="ca">Des de Cardona, els Siroll! s'han convertit en un puntal dins del metal cantat en català. Amb una ja generosa discografia, que comprèn discos com 'Doble o res', el disc en viu 'Directe del camp' o 'Al Gra!', el grup manté una actitud molt reivindicativa i contundent en les seves lletres.  Gou: veu Albert Colell: bateria Thomas Meier: baix Jaume Roca: guitarra Venty: guitarra  Cançons: 1- Tu mateix 2- Pobre 3- Acció 4- Més llenya al foc 5- Odi a l'amor  Localització: gravat al Padrinot de Mollerussa, organitzat per l'Associació Cultural Padrirock Data: 8 de juny 2024  </desc>
-    <length units="seconds">1035</length>
-    <episode-num system="onscreen">10</episode-num>
-    <category lang="ca">ENTRETENIMENT</category>
-    <category lang="ca">ALTRES</category>
+  <programme start="20261021075036 +0200" stop="20261021081818 +0200" channel="c33">
+    <title lang="ca">La sobretaula</title>
+    <sub-title lang="ca">Masquefa amb Gisela</sub-title>
+    <desc lang="ca">Vinyes, rèptils, amfibis i abelles són els protagonistes d'aquest capítol de La Sobretaula, que visita Masquefa. Acompanyats de la cantant Gisela, descobrim un municipi ric en biodiversitat, tradició i sabors locals.</desc>
+    <length units="seconds">1662</length>
+    <episode-num system="onscreen">12</episode-num>
+    <category lang="ca">DIVULGACIÓ</category>
+    <category lang="ca">CUINA</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/3/4/1719854188043.jpg"/>
   </programme>
   <channel id="oca1">
     <display-name>OCA1</display-name>
