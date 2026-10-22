@@ -3,38 +3,36 @@
   <channel id="tvi">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20261022060000 +0200" stop="20261022080000 +0200" channel="tvi">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">7200</length>
-    <episode-num system="onscreen">11497</episode-num>
+  <programme start="20261022103005 +0200" stop="20261022135500 +0200" channel="tvi">
+    <title lang="ca">Tot es mou</title>
+    <desc lang="ca">El programa presentat per Helena Garcia Melero s'emet de dilluns a divendres, de 10.30 a 13.55. Un magazín d'actualitat que busca informar, analitzar i debatre sobre temes que marquen l'actualitat social, econòmica i cultural del dia, amb una àmplia presència en directe dels reporters i reporteres, repartits per tot Catalunya. A més, el 'Tot es mou' compta amb seccions diàries de gastronomia (amb els principals cuiners i cuineres del país), successos, economia, mobilitat, temes mèdics i de tecnologia, entre d'altres.</desc>
+    <length units="seconds">12295</length>
+    <episode-num system="onscreen">1834</episode-num>
     <category lang="ca">ACTUALITAT</category>
-    <category lang="ca">INFORMATIU DIÀRI</category>
+    <category lang="ca">MAGAZINE</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
-  <programme start="20261022080000 +0200" stop="20261022103000 +0200" channel="tvi">
-    <title lang="ca">Matins</title>
-    <desc lang="ca">'Matins' és un dels puntals informatius de TV3. El programa matinal dona les claus del dia que comença, explica les notícies que han passat aportant-ne el context per entendre-les i analitza amb veus acreditades l'actualitat més propera i la d'arreu del món. 'Matins' comença a les 8 del matí, de dilluns a divendres, i està presentat per Ariadna Oltra.</desc>
-    <length units="seconds">9000</length>
-    <episode-num system="onscreen">4697</episode-num>
+  <programme start="20261022135500 +0200" stop="20261022143000 +0200" channel="tvi">
+    <title lang="ca">Telenotícies comarques</title>
+    <length units="seconds">2100</length>
+    <episode-num system="onscreen">7060</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <icon src="https://img.ccma.cat/multimedia/jpg/2/0/1758040151402.jpg"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/5/2/1758026313525.jpg"/>
   </programme>
   <channel id="324">
     <display-name>324</display-name>
   </channel>
-  <programme start="20261022060000 +0200" stop="20261022080000 +0200" channel="324">
+  <programme start="20261022120000 +0200" stop="20261022135500 +0200" channel="324">
     <title lang="ca">Notícies 3CatInfo</title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">7200</length>
-    <episode-num system="onscreen">11497</episode-num>
+    <length units="seconds">6900</length>
+    <episode-num system="onscreen">11499</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
@@ -43,26 +41,25 @@
     <subtitles type="teletext"/>
     <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
-  <programme start="20261022080000 +0200" stop="20261022103000 +0200" channel="324">
-    <title lang="ca">Matins</title>
-    <desc lang="ca">'Matins' és un dels puntals informatius de TV3. El programa matinal dona les claus del dia que comença, explica les notícies que han passat aportant-ne el context per entendre-les i analitza amb veus acreditades l'actualitat més propera i la d'arreu del món. 'Matins' comença a les 8 del matí, de dilluns a divendres, i està presentat per Ariadna Oltra.</desc>
-    <length units="seconds">9000</length>
-    <episode-num system="onscreen">4697</episode-num>
+  <programme start="20261022135500 +0200" stop="20261022143000 +0200" channel="324">
+    <title lang="ca">Telenotícies comarques</title>
+    <length units="seconds">2100</length>
+    <episode-num system="onscreen">7060</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <icon src="https://img.ccma.cat/multimedia/jpg/2/0/1758040151402.jpg"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/5/2/1758026313525.jpg"/>
   </programme>
   <channel id="esport3">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20261022065336 +0200" stop="20261022082546 +0200" channel="esport3">
+  <programme start="20261022112823 +0200" stop="20261022130000 +0200" channel="esport3">
     <title lang="ca">Onze</title>
     <sub-title lang="ca">L'última perla de la masia; Post Madrid-Leipzig i 'El predicador'</sub-title>
     <desc lang="ca">Lluís Carrasco, Joan Poquí, Gemma Mallorca i Juvenal Edjogo comenten el partit de Xavi Espart a París i els gols de la jornada de Champions. L'Òscar Pérez-Dolz predica els manaments del bon culer.</desc>
-    <length units="seconds">5530</length>
+    <length units="seconds">5497</length>
     <episode-num system="onscreen">1272</episode-num>
     <category lang="ca">ESPORTS</category>
     <category lang="ca">MAGAZINE</category>
@@ -73,29 +70,28 @@
     <previously-shown/>
     <icon src="https://img.ccma.cat/multimedia/jpg/1/1/1688543515711.jpg"/>
   </programme>
-  <programme start="20261022082546 +0200" stop="20261022101032 +0200" channel="esport3">
-    <title lang="ca">Bàsquet</title>
-    <sub-title lang="ca">Asisa Joventut-Telekom / Champions League / J2</sub-title>
-    <desc lang="ca">El guanyador d'aquest partit serà el líder solitari del grup H a la Champions de bàsquet.</desc>
-    <length units="seconds">6286</length>
-    <episode-num system="onscreen">24</episode-num>
+  <programme start="20261022130000 +0200" stop="20261022140151 +0200" channel="esport3">
+    <title lang="ca">Esport Club</title>
+    <desc lang="ca">En Jordi Sanuy i Víctor Patsi us expliquen l'última hora esportiva i l'analitzen amb el seu equip de col·laboradors. El programa és molt actiu a les xarxes socials. L''Esport Club' té presència a Twitter, a Facebook i a Instagram. L'espai dirigeix moltes accions de participació amb l'audiència a través de les xarxes socials.</desc>
+    <length units="seconds">3711</length>
+    <episode-num system="onscreen">3267</episode-num>
     <category lang="ca">ESPORTS</category>
-    <category lang="ca">RETRANSMISSIONS ESPORTS</category>
+    <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <previously-shown/>
-    <icon src="https://img.3cat.cat/multimedia/jpg/1/1/1761643119911.jpg"/>
+    <subtitles type="teletext"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/7/3/1698145091337.jpg"/>
   </programme>
   <channel id="sx3">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20261022073059 +0200" stop="20261022074209 +0200" channel="sx3">
-    <title lang="ca">La Patrulla Peluda</title>
-    <sub-title lang="ca">La Patrulla salva en mini-Marshal</sub-title>
-    <desc lang="ca">En Marshall no pot arribar a la pilota quan cau dins d'un forat i per això somia que es fa petit amb un raig empetitidor.</desc>
-    <length units="seconds">670</length>
-    <episode-num system="onscreen">166</episode-num>
+  <programme start="20261022122455 +0200" stop="20261022124626 +0200" channel="sx3">
+    <title lang="ca">Els germans Kratt</title>
+    <sub-title lang="ca">Els óssos polars no ballen</sub-title>
+    <desc lang="ca">En plena missió per la regió àrtica, en Chris i en Martin han vist com el malvat Zach capturava una cria de morsa i una d'ós polar per al seu nou espectacle. Per salvar-les, els nostres amics hauran d'aprendre els secrets de les morses... i moltes coses més! L'Aviva ja els té preparats, els Vestits de Poder Animal, però per activar-los primer han de tocar els animals! Que no els passi res!</desc>
+    <length units="seconds">1291</length>
+    <episode-num system="onscreen">7</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
@@ -104,48 +100,66 @@
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20261022074209 +0200" stop="20261022080444 +0200" channel="sx3">
-    <title lang="ca">La Patrulla Peluda</title>
-    <sub-title lang="ca">- Rescats extrems: La Patrulla salva els tigres</sub-title>
-    <desc lang="ca">Sense Descripció</desc>
-    <length units="seconds">1355</length>
-    <episode-num system="onscreen">213</episode-num>
+  <programme start="20261022124626 +0200" stop="20261022130835 +0200" channel="sx3">
+    <title lang="ca">Els germans Kratt</title>
+    <sub-title lang="ca">Els castors constructors</sub-title>
+    <desc lang="ca">Tot fent piragüisme pels rius nord-americans, els germans Kratt han fet malbé la presa d'una família de castors. Ara els hauran d'ajudar a refer-la i s'adonaran del que són capaços. Hi ha un munt d'animals que viuen a l'estany que es forma gràcies a la presa dels castors, com ara els talps de musell estrellat, les granotes bramadores, els ànecs carolins... Els vols conèixer?!</desc>
+    <length units="seconds">1329</length>
+    <episode-num system="onscreen">8</episode-num>
+    <category lang="ca">FICCIÓ</category>
+    <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
+    <rating>
+      <value>INFANTIL</value>
+    </rating>
     <subtitles type="teletext"/>
+    <previously-shown/>
   </programme>
   <channel id="c33">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20261022071902 +0200" stop="20261022074705 +0200" channel="c33">
-    <title lang="ca">La sobretaula</title>
-    <sub-title lang="ca">Vilafranca del Penedès amb Jordi LP</sub-title>
-    <desc lang="ca">Castellers, vins i molts referents gastronòmics marquen aquest capítol de La Sobretaula, que visita Vilafranca del Penedès. Acompanyats de l'humorista Jordi LP, descobrim un municipi amb tradició, cultura i sabor, on les històries i el talent local es comparteixen al voltant de la taula.</desc>
-    <length units="seconds">1683</length>
-    <episode-num system="onscreen">13</episode-num>
+  <programme start="20261022121420 +0200" stop="20261022134813 +0200" channel="c33">
+    <title lang="ca">El Gran Dictat, VIP</title>
+    <sub-title lang="ca">El Gran Gran Dictat</sub-title>
+    <desc lang="ca">Aquest dissabte, al nou capítol d''El gran gran dictat', el concurs de català presentat per l'Òscar Dalmau, competiran tres grans grans concursants. La Gemma Nierga, la presentadora de ràdio que es lleva més d'hora. El Lluís Llongueras, perruquer, creador d'estils i, segurament, l'home amb les mans més hàbils. I la Gisela, cantant i actriu, la culpable que mig Catalunya no es pugui treure del cap el 'Vol volar'.Aquests concursants, grans coneguts dels nostres espectadors, no només vindran a demostrar els seus coneixements de català. La Gemma Nierga ens ensenyarà quin és el seu lloc preferit per fer entrevistes. El Lluís Llongueras ens explicarà com un dia va crear uns sostenidors amb els rínxols del Bisbal. I, per últim, la Gisela ens revelarà el seu truc d'estilisme més ben guardat.I tot això amenitzat per un dels mags més irreverents del panorama català: el Mag Lari, que aquesta temporada farà més d'una aparició estel·lar i, de pas, tocarà una mica el voraviu a l'Òscar Dalmau.</desc>
+    <length units="seconds">5633</length>
+    <episode-num system="onscreen">30</episode-num>
     <category lang="ca">DIVULGACIÓ</category>
-    <category lang="ca">CUINA</category>
+    <category lang="ca">EDUCATIU</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20261022074705 +0200" stop="20261022081448 +0200" channel="c33">
-    <title lang="ca">La sobretaula</title>
-    <sub-title lang="ca">Banyoles amb Jordi LP</sub-title>
-    <desc lang="ca">En aquest capítol excepcional de La Sobretaula, Mari Pau Huguet condueix el programa acompanyada de Jordi LP per descobrir Banyoles a través de la seva gastronomia i la seva identitat cultural. Amb la participació especial de Matthew Tree, el programa ens ofereix una mirada singular sobre el territori, els productes de proximitat i les històries que connecten cuina, paisatge i cultura.</desc>
-    <length units="seconds">1663</length>
-    <episode-num system="onscreen">14</episode-num>
+  <programme start="20261022134813 +0200" stop="20261022143442 +0200" channel="c33">
+    <title lang="ca">La Renaixença</title>
+    <sub-title lang="ca">La matrícula</sub-title>
+    <desc lang="ca">Éreu dels que tocàveu la botzina si trobàveu un cotxe amb matrícula de Girona fent un viatge per Aragó? Aquest és el vostre capítol, perquè avui parlem de la matrícula. Ens visiten dos experts en vexil·lologia. Dit d'una altra manera, dos experts en banderes. I venen amb una sorpresa per a nosaltres i per a vosaltres. No us podeu imaginar què pot ser… A 'Històries per passejar el gos' portem la Ipa, una gossa de Navàs, fins al 1606: quan Caravaggio va assassinar a un home.</desc>
+    <length units="seconds">2789</length>
+    <episode-num system="onscreen">57</episode-num>
     <category lang="ca">DIVULGACIÓ</category>
-    <category lang="ca">CUINA</category>
+    <category lang="ca">ALTRES</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/3/3/1756148014833.jpg"/>
   </programme>
   <channel id="oca1">
     <display-name>OCA1</display-name>
   </channel>
+  <programme start="20261022085930 +0200" stop="20261022130925 +0200" channel="oca1">
+    <title lang="ca">Ple del Parlament</title>
+    <length units="seconds">14995</length>
+    <episode-num system="onscreen">4185</episode-num>
+    <category lang="ca">ACTUALITAT</category>
+    <category lang="ca">RETRANSMISSIONS ACTUALITAT</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <icon src="https://img.ccma.cat/multimedia/jpg/2/2/1723033059522.jpg"/>
+  </programme>
   <channel id="oca2">
     <display-name>OCA2</display-name>
   </channel>
