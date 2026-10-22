@@ -3,49 +3,7 @@
   <channel id="tvi">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20261022021133 +0200" stop="20261022040000 +0200" channel="tvi">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">6507</length>
-    <episode-num system="onscreen">11496</episode-num>
-    <category lang="ca">ACTUALITAT</category>
-    <category lang="ca">INFORMATIU DIÀRI</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <previously-shown/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
-  </programme>
-  <programme start="20261022040000 +0200" stop="20261022045958 +0200" channel="tvi">
-    <title lang="ca">Blues a l'estudi</title>
-    <sub-title lang="ca">Chino &amp; The Big Bet</sub-title>
-    <desc lang="ca">Fa més d'una dècada que en Chino Que va arribar a Barcelona. En aquest temps s'ha fet un nom i s'ha convertit en una referència en l'escena del Blues i el Swing. Amb un directe fresc i energètic 'Chino i els Big Bet' proposen un Blues cru i contundent, inspirat en els primers passos del Blues elèctric. El trio està format per: Chino al Dobro i la veu, Rod Deville al contrabaix i Giggs Nother a la bateria.</desc>
-    <length units="seconds">3598</length>
-    <episode-num system="onscreen">26</episode-num>
-    <category lang="ca">MUSICALS</category>
-    <category lang="ca">ALTRES</category>
-    <rating>
-      <value>PÚBLIC ADULT</value>
-    </rating>
-    <previously-shown/>
-  </programme>
-  <channel id="324">
-    <display-name>324</display-name>
-  </channel>
-  <programme start="20261022010000 +0200" stop="20261022060000 +0200" channel="324">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">18000</length>
-    <episode-num system="onscreen">11496</episode-num>
-    <category lang="ca">ACTUALITAT</category>
-    <category lang="ca">INFORMATIU DIÀRI</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <previously-shown/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
-  </programme>
-  <programme start="20261022060000 +0200" stop="20261022080000 +0200" channel="324">
+  <programme start="20261022060000 +0200" stop="20261022080000 +0200" channel="tvi">
     <title lang="ca">Notícies 3CatInfo</title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <length units="seconds">7200</length>
@@ -57,14 +15,69 @@
     </rating>
     <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
+  <programme start="20261022080000 +0200" stop="20261022103000 +0200" channel="tvi">
+    <title lang="ca">Matins</title>
+    <desc lang="ca">'Matins' és un dels puntals informatius de TV3. El programa matinal dona les claus del dia que comença, explica les notícies que han passat aportant-ne el context per entendre-les i analitza amb veus acreditades l'actualitat més propera i la d'arreu del món. 'Matins' comença a les 8 del matí, de dilluns a divendres, i està presentat per Ariadna Oltra.</desc>
+    <length units="seconds">9000</length>
+    <episode-num system="onscreen">4697</episode-num>
+    <category lang="ca">ACTUALITAT</category>
+    <category lang="ca">INFORMATIU DIÀRI</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <icon src="https://img.ccma.cat/multimedia/jpg/2/0/1758040151402.jpg"/>
+  </programme>
+  <channel id="324">
+    <display-name>324</display-name>
+  </channel>
+  <programme start="20261022060000 +0200" stop="20261022080000 +0200" channel="324">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="seconds">7200</length>
+    <episode-num system="onscreen">11497</episode-num>
+    <category lang="ca">ACTUALITAT</category>
+    <category lang="ca">INFORMATIU DIÀRI</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <subtitles type="teletext"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
+  </programme>
+  <programme start="20261022080000 +0200" stop="20261022103000 +0200" channel="324">
+    <title lang="ca">Matins</title>
+    <desc lang="ca">'Matins' és un dels puntals informatius de TV3. El programa matinal dona les claus del dia que comença, explica les notícies que han passat aportant-ne el context per entendre-les i analitza amb veus acreditades l'actualitat més propera i la d'arreu del món. 'Matins' comença a les 8 del matí, de dilluns a divendres, i està presentat per Ariadna Oltra.</desc>
+    <length units="seconds">9000</length>
+    <episode-num system="onscreen">4697</episode-num>
+    <category lang="ca">ACTUALITAT</category>
+    <category lang="ca">INFORMATIU DIÀRI</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <icon src="https://img.ccma.cat/multimedia/jpg/2/0/1758040151402.jpg"/>
+  </programme>
   <channel id="esport3">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20261022024417 +0200" stop="20261022042653 +0200" channel="esport3">
+  <programme start="20261022065336 +0200" stop="20261022082546 +0200" channel="esport3">
+    <title lang="ca">Onze</title>
+    <sub-title lang="ca">L'última perla de la masia; Post Madrid-Leipzig i 'El predicador'</sub-title>
+    <desc lang="ca">Lluís Carrasco, Joan Poquí, Gemma Mallorca i Juvenal Edjogo comenten el partit de Xavi Espart a París i els gols de la jornada de Champions. L'Òscar Pérez-Dolz predica els manaments del bon culer.</desc>
+    <length units="seconds">5530</length>
+    <episode-num system="onscreen">1272</episode-num>
+    <category lang="ca">ESPORTS</category>
+    <category lang="ca">MAGAZINE</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <subtitles type="teletext"/>
+    <previously-shown/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/1/1/1688543515711.jpg"/>
+  </programme>
+  <programme start="20261022082546 +0200" stop="20261022101032 +0200" channel="esport3">
     <title lang="ca">Bàsquet</title>
     <sub-title lang="ca">Asisa Joventut-Telekom / Champions League / J2</sub-title>
     <desc lang="ca">El guanyador d'aquest partit serà el líder solitari del grup H a la Champions de bàsquet.</desc>
-    <length units="seconds">6156</length>
+    <length units="seconds">6286</length>
     <episode-num system="onscreen">24</episode-num>
     <category lang="ca">ESPORTS</category>
     <category lang="ca">RETRANSMISSIONS ESPORTS</category>
@@ -74,29 +87,15 @@
     <previously-shown/>
     <icon src="https://img.3cat.cat/multimedia/jpg/1/1/1761643119911.jpg"/>
   </programme>
-  <programme start="20261022042653 +0200" stop="20261022060347 +0200" channel="esport3">
-    <title lang="ca">Bàsquet</title>
-    <sub-title lang="ca">FIATC Girona-Zastal Zielona / Fiba Europe Cup / J3</sub-title>
-    <desc lang="ca">Els gironins, que són líders del grup B amb dues victòries en dues jornades, reben a Fontajau el conjunt polonès de la ciutat de Góra. </desc>
-    <length units="seconds">5814</length>
-    <episode-num system="onscreen">3</episode-num>
-    <category lang="ca">ESPORTS</category>
-    <category lang="ca">RETRANSMISSIONS ESPORTS</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <previously-shown/>
-    <icon src="https://img.3cat.cat/multimedia/jpg/4/8/1791200744284.jpg"/>
-  </programme>
   <channel id="sx3">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20261022025121 +0200" stop="20261022031231 +0200" channel="sx3">
-    <title lang="ca">Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
-    <sub-title lang="ca">Psicoactor</sub-title>
-    <desc lang="ca">Per un malentès, la Marinette es pensa que a l'Adrien li agrada el famós còmic Harry Clown i es posa d'acord amb l'actor per intentar seduir l'Adrien fent-lo riure. Però la Marinette no és humorista i torna a fracassar. Quan busca consol en el Harry, no sap que ell també acaba de patir una decepció, però en el seu cas professional. Akumatitzat en Psicoactor, imposa als altres les emocions que li venen de gust a ell. I té intenció de fer passar les ganes de riure a tothom, començant per Ladybug i el Gat Noir!</desc>
-    <length units="seconds">1270</length>
-    <episode-num system="onscreen">83</episode-num>
+  <programme start="20261022073059 +0200" stop="20261022074209 +0200" channel="sx3">
+    <title lang="ca">La Patrulla Peluda</title>
+    <sub-title lang="ca">La Patrulla salva en mini-Marshal</sub-title>
+    <desc lang="ca">En Marshall no pot arribar a la pilota quan cau dins d'un forat i per això somia que es fa petit amb un raig empetitidor.</desc>
+    <length units="seconds">670</length>
+    <episode-num system="onscreen">166</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
@@ -105,52 +104,44 @@
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20261022031231 +0200" stop="20261022033309 +0200" channel="sx3">
-    <title lang="ca">Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
-    <sub-title lang="ca">Fu Furiós</sub-title>
-    <desc lang="ca">La Marinette coneix Su-Han, el guardià celestial dels prodigis. Sap que ella és Ladybug i vol que li torni la capsa dels prodigis, convençut que l'ha robada. Quan Su-Han s'assabenta que l'hi va donar el mestre Fu, decideix castigar-lo i li pren el seu bastó de guardià. Amnèsic, Fu no reconeix el guardià celestial i el pren per un lladre. Quan se sent atacat s'enfada molt i és akumatitzat. Es tranforma en Fu Furiós i vol que Su-Han li torni el bastó i que li demani perdó. Ladybug aconseguirà salvar el mestre Fu i demostrar que és digna de ser la guardiana dels prodigis?</desc>
-    <length units="seconds">1238</length>
-    <episode-num system="onscreen">84</episode-num>
-    <category lang="ca">FICCIÓ</category>
-    <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
-    <rating>
-      <value>INFANTIL</value>
-    </rating>
+  <programme start="20261022074209 +0200" stop="20261022080444 +0200" channel="sx3">
+    <title lang="ca">La Patrulla Peluda</title>
+    <sub-title lang="ca">- Rescats extrems: La Patrulla salva els tigres</sub-title>
+    <desc lang="ca">Sense Descripció</desc>
+    <length units="seconds">1355</length>
+    <episode-num system="onscreen">213</episode-num>
     <subtitles type="teletext"/>
-    <previously-shown/>
   </programme>
   <channel id="c33">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20261022021659 +0200" stop="20261022031314 +0200" channel="c33">
-    <title lang="ca">Montserrat Roig: l'hora violeta</title>
-    <sub-title lang="ca">Montserrat Roig: l'hora violeta</sub-title>
-    <desc lang="ca">'MONTSERRAT ROIG: L'HORA VIOLETA' (2017), una producció de Wonkafilms en coproducció amb Televisió de Catalunya i RTVE, amb el suport de l'Institut Català de les Empreses Culturals, Audioprojects i l'Institut Català de la Dona.Montserrat Roig: l'hora violeta explica qui va ser aquesta escriptora desapareguda prematurament fa 25 anys. Molt compromesa políticament durant la Transició democràtica, Roig va destacar per la seva obra literària i periodística, i també per reivindicar un feminisme combatiu i sense complexos. El documental és el retrat d'un personatge carismàtic i irrepetible que va sacsejar la vida cultural i política catalana de la segona meitat del segle XX.Direcció i guió: Neus Ràfols GarciaRealització: Pere HermsProductor: Albert SaguerProductor executiu TVC: Jordi AmbrósProductor delegat TVC: Joan PavonDirector fotografia: Ferran CasteràMuntatge: Tomàs MuñozDirector de producció: Carolina Trujillo/Jordi PortalsMúsica: 'Le temps de cerises', de Jean-Baptiste Clément i música d'Antoine Renard, interpretat per Maria Camats i Marc Robine. Cançons d'Ovidi Montllor, Maria del Mar Bonet i Lluís Serrahima, Lluís Llach i Marina RossellGrafisme: Tomàs MuñozVeu en off: Lali Feliu i Meritxell Sabaté</desc>
-    <length units="seconds">3375</length>
-    <episode-num system="onscreen">1</episode-num>
+  <programme start="20261022071902 +0200" stop="20261022074705 +0200" channel="c33">
+    <title lang="ca">La sobretaula</title>
+    <sub-title lang="ca">Vilafranca del Penedès amb Jordi LP</sub-title>
+    <desc lang="ca">Castellers, vins i molts referents gastronòmics marquen aquest capítol de La Sobretaula, que visita Vilafranca del Penedès. Acompanyats de l'humorista Jordi LP, descobrim un municipi amb tradició, cultura i sabor, on les històries i el talent local es comparteixen al voltant de la taula.</desc>
+    <length units="seconds">1683</length>
+    <episode-num system="onscreen">13</episode-num>
     <category lang="ca">DIVULGACIÓ</category>
-    <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
+    <category lang="ca">CUINA</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
-    <icon src="https://img.3cat.cat/multimedia/png/0/6/1728657613060.png"/>
   </programme>
-  <programme start="20261022031314 +0200" stop="20261022032731 +0200" channel="c33">
-    <title lang="ca">Les Feres</title>
-    <sub-title lang="ca">Alfred Garcia</sub-title>
-    <desc lang="ca">L'evolució natural d'Alfred García l'ha portat a vestir les seves cançons amb arranjaments pop-rock i trames electròniques. Però la influència familiar del seu tiet Pepe, que el va introduir en la guitarra flamenca, la rumba i el ventilador, ha inspirat un nou cançoner orientat cap a altres sonoritats càlides i properes. Així, les noves composicions del músic català abracen la rumba catalana i el connecten amb una tradició musical que ha explicat també en un documental escrit i dirigit per ell, 'Rumba catalana', i en el tercer disc de la seva trajectòria, 'T'estimo es te quiero' Alfred García: veu i guitarra Alexandra Moreno: veu Sara Sambola: veu Exequiel Coria: guitarra Víctor Rosell, Ruselito: guitarra 'Rumba catalana' 'Llamas en el cielo' 'Els teus ulls' 'T'estiu' Localització: Espais Naturals del Delta del Llobregat Data: 9 d'abril del 2025  </desc>
-    <length units="seconds">857</length>
-    <episode-num system="onscreen">48</episode-num>
-    <category lang="ca">ENTRETENIMENT</category>
-    <category lang="ca">ALTRES</category>
+  <programme start="20261022074705 +0200" stop="20261022081448 +0200" channel="c33">
+    <title lang="ca">La sobretaula</title>
+    <sub-title lang="ca">Banyoles amb Jordi LP</sub-title>
+    <desc lang="ca">En aquest capítol excepcional de La Sobretaula, Mari Pau Huguet condueix el programa acompanyada de Jordi LP per descobrir Banyoles a través de la seva gastronomia i la seva identitat cultural. Amb la participació especial de Matthew Tree, el programa ens ofereix una mirada singular sobre el territori, els productes de proximitat i les històries que connecten cuina, paisatge i cultura.</desc>
+    <length units="seconds">1663</length>
+    <episode-num system="onscreen">14</episode-num>
+    <category lang="ca">DIVULGACIÓ</category>
+    <category lang="ca">CUINA</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/3/4/1719854188043.jpg"/>
   </programme>
   <channel id="oca1">
     <display-name>OCA1</display-name>
