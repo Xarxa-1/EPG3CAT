@@ -3,67 +3,77 @@
   <channel id="tvi">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20261022172745 +0200" stop="20261022191154 +0200" channel="tvi">
-    <title lang="ca">La Selva</title>
-    <desc lang="ca">Xavier Grasset us convida a passar la tarda en una cafeteria on regna el bon ambient. El lloc on saps que sempre hi trobaràs cares conegudes i conversa interessant. A 'La selva' s'hi parla de tot i hi pot passar de tot. Amb la mirada posada a l'actualitat que marca el dia, però també a les curiositats més sorprenents. Des del recolliment d'un bar on t'hi trobes com a casa, però amb una finestra oberta al que passa en directe arreu de Catalunya i al món. Un programa amb vocació d'aparador cultural i gastronòmic del país.</desc>
-    <length units="seconds">6249</length>
-    <episode-num system="onscreen">435</episode-num>
-    <category lang="ca">ENTRETENIMENT</category>
-    <category lang="ca">MAGAZINE</category>
+  <programme start="20261022210000 +0200" stop="20261022220609 +0200" channel="tvi">
+    <title lang="ca">Telenotícies vespre</title>
+    <length units="seconds">3969</length>
+    <episode-num system="onscreen">7365</episode-num>
+    <category lang="ca">ACTUALITAT</category>
+    <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <previously-shown/>
-    <icon src="https://img.3cat.cat/multimedia/jpg/6/3/1725871608136.jpg"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/7/2/1758026176427.jpg"/>
   </programme>
-  <programme start="20261022191154 +0200" stop="20261022201500 +0200" channel="tvi">
-    <title lang="ca">Atrapa'm si pots</title>
-    <desc lang="ca">'Atrapa'm si pots' és un 'quiz show' clàssic, de preguntes i respostes, presentat per Llucià Ferrer, en què sis concursants competeixen per arribar a la fase final i guanyar el pot. 'Atrapa'm si pots' és entreteniment pur i on gairebé és més important passar-s'ho bé que els diners. És un concurs en què pesa més la intuïció que no els coneixements acadèmics, més l'estratègia en el joc que no la sort.</desc>
-    <length units="seconds">3786</length>
-    <episode-num system="onscreen">949</episode-num>
+  <programme start="20261022220609 +0200" stop="20261022224651 +0200" channel="tvi">
+    <title lang="ca">Polònia</title>
+    <sub-title lang="ca">La lluita d'egos de Rufián i Colau, a 'Polònia'</sub-title>
+    <desc lang="ca">Després del trencament entre els partits d'Esquerra, Ada Colau (Agnès Busquets) i Gabriel Rufián (Xavi Espinosa) s'enfronten en una batalla d'egos, com si fossin King Kong contra Godzilla. Mentrestant, el petó entre Pedro Sánchez (Pep Plaza) i la seva dona, Begoña, s'ha fet tan viral que el president intenta tapar totes les polèmiques del seu partit amb petons. I la cosa no s'acaba aquí, perquè el líder del PSOE presenta 'Acuerdo Attack', un programa de manualitats on troba usos alternatius als acords que va signar amb Oriol Junqueras (Cesc Casanovas), Carles Puigdemont (Queco Novell) i Miriam Nogueras (Alba Florejachs).Xavier García Albiol (Fermí Fernández) és el candidat pel PP al Congrés per Barcelona i es dirigeix a la ciutadania per deixar clar que, si surt escollit, no abandonarà l'alcaldia de Badalona. I Alberto Núñez Feijóo (David Marcé) rep els consells d'Eduardo Inda (Xavi Espinosa) per deixar de parlar de pensions i centrar-se en un tema que al PP sempre li funciona: la immersió lingüística.A Catalunya, el to d'alarma dels ES-Alert incomoda la ciutadania… i també Salvador Illa (Queco Novell). Per això, el president demana alternatives a Núria Parlon (Agnès Busquets), Ramon Espadaler (Pep Plaza) i el músic Arnau Tordera (Ivan Labanda), com a compositor per als nous tons.Mentrestant, a la seu del PSOE, Óscar Puente (Cesc Casanovas) i Margarita Robles (Agnès Busquets) interroguen Rebeca Torró (Lara Díez), la nova portaveu del partit, per saber si amaga alguna cosa de la qual la puguin acusar. Al Telenotícies, Toni Cruanyes (David Marcé) ens parlarà d'un fenomen més difícil de veure que l'eclipsi solar: l'anunci d'un pis de lloguer per menys de mil euros.I, a tres dies del clàssic, Sergio Ramos (Jordi Rios), José Mourinho (Xavi Espinosa) i Hansi Flick (Ivan Labanda) visitaran el plató per parlar de l'estrena de 'Crackòvia'.</desc>
+    <length units="seconds">2442</length>
+    <episode-num system="onscreen">827</episode-num>
     <category lang="ca">ENTRETENIMENT</category>
-    <category lang="ca">CONCURS</category>
+    <category lang="ca">GAGS. HUMOR</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
+    <icon src="https://img.ccma.cat/multimedia/jpg/4/4/1665652336244.jpg"/>
   </programme>
   <channel id="324">
     <display-name>324</display-name>
   </channel>
-  <programme start="20261022170000 +0200" stop="20261022183000 +0200" channel="324">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">5400</length>
-    <episode-num system="onscreen">11501</episode-num>
+  <programme start="20261022210000 +0200" stop="20261022220500 +0200" channel="324">
+    <title lang="ca">Telenotícies vespre</title>
+    <length units="seconds">3900</length>
+    <episode-num system="onscreen">7365</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <subtitles type="teletext"/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/7/2/1758026176427.jpg"/>
   </programme>
-  <programme start="20261022183000 +0200" stop="20261022200000 +0200" channel="324">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">5400</length>
-    <episode-num system="onscreen">11502</episode-num>
+  <programme start="20261022220500 +0200" stop="20261023000000 +0200" channel="324">
+    <title lang="ca">Mésnit</title>
+    <desc lang="ca">El 'Mésnit' arriba a la desena temporada, amb Marina Romero al capdavant de l'espai i amb la voluntat de continuar sent un centre de debat d'idees i d'anàlisi de l'activitat política.</desc>
+    <length units="seconds">6900</length>
+    <episode-num system="onscreen">2185</episode-num>
     <category lang="ca">ACTUALITAT</category>
-    <category lang="ca">INFORMATIU DIÀRI</category>
+    <category lang="ca">DEBAT</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
   <channel id="esport3">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20261022172409 +0200" stop="20261022182500 +0200" channel="esport3">
+  <programme start="20261022203054 +0200" stop="20261022223253 +0200" channel="esport3">
+    <title lang="ca">Handbol</title>
+    <sub-title lang="ca">Barça-Montpeller / EHF Champions / J5</sub-title>
+    <desc lang="ca">Penúltima jornada de la fase de grups. En el precedent que van jugar a la ciutat occitana, els blaugranes van guanyar per 27 a 28.</desc>
+    <length units="seconds">7319</length>
+    <episode-num system="onscreen">426</episode-num>
+    <category lang="ca">ESPORTS</category>
+    <category lang="ca">RETRANSMISSIONS ESPORTS</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1729614070941.jpg"/>
+  </programme>
+  <programme start="20261022223253 +0200" stop="20261022230000 +0200" channel="esport3">
     <title lang="ca">Esport Club</title>
     <sub-title lang="ca">Les crítiques d'Enric Masip, Sergi Barjuan, Dika Mem, NBA i tertúlia</sub-title>
     <desc lang="ca">Enric Masip carrega contra el Reial Madrid tres dies abans del clàssic. Els blancs arribaran al Camp Nou després de golejar el Leipzig. Entrevistem l'exjugador del Barça Sergi Barjuan. Mireia Vicente amb Dika Mem abans del Barça-Montpeller. L'NBA amb Jordi de Mas, 'Històries del futbol' amb Marc Mayola i tertúlia. Ens acompanyen Arancha Rodríguez, Edgar Fornós i Joanjo Pallàs.</desc>
-    <length units="seconds">3651</length>
+    <length units="seconds">1627</length>
     <episode-num system="onscreen">3267</episode-num>
     <category lang="ca">ESPORTS</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
@@ -74,46 +84,33 @@
     <previously-shown/>
     <icon src="https://img.ccma.cat/multimedia/jpg/7/3/1698145091337.jpg"/>
   </programme>
-  <programme start="20261022182500 +0200" stop="20261022203000 +0200" channel="esport3">
-    <title lang="ca">Bàsquet</title>
-    <sub-title lang="ca">BC Montana-Spar Girona / Eurocup / J2</sub-title>
-    <desc lang="ca">Després de guanyar amb contundència en l'estrena a casa, 77-49 contra l'Ostrava, les gironines juguen el primer partit com a visitants a la pista del conjunt búlgar.</desc>
-    <length units="seconds">7500</length>
-    <episode-num system="onscreen">27</episode-num>
-    <category lang="ca">ESPORTS</category>
-    <category lang="ca">RETRANSMISSIONS ESPORTS</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <icon src="https://img.3cat.cat/multimedia/jpg/7/8/1791975943787.jpg"/>
-  </programme>
   <channel id="sx3">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20261022173209 +0200" stop="20261022173700 +0200" channel="sx3">
-    <title lang="ca">Wonderblocks</title>
-    <sub-title lang="ca">Els ossos musicals</sub-title>
-    <desc lang="ca">Els components del grup musical La Banda del Nenúfar no es troben bé i els tres ossos els hauran de substituir, però no saben ben bé com han de tocar cada instrument.</desc>
-    <length units="seconds">291</length>
-    <episode-num system="onscreen">19</episode-num>
+  <programme start="20261022212243 +0200" stop="20261022214050 +0200" channel="sx3">
+    <title lang="ca">Bola de drac Z</title>
+    <sub-title lang="ca">La rebel·lió del monstre Bu</sub-title>
+    <desc lang="ca">En Son Goku continua el combat contra el monstre Bu, però només lluitarà amb ell fins que en Trunks recuperi el radar de les Boles de Drac, conscient que ha de continuar entrenant en Son Goten i el mateix Trunks perquè aprenguin la tècnica de la fusió. El monstre Bu, cansat de rebre ordres del mag Babidí, decideix rebel·lar-se i desfer-se'n.</desc>
+    <length units="seconds">1087</length>
+    <episode-num system="onscreen">246</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
-      <value>INFANTIL</value>
+      <value>JUVENIL</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20261022173700 +0200" stop="20261022174130 +0200" channel="sx3">
-    <title lang="ca">Wonderblocks</title>
-    <sub-title lang="ca">Sembla un bon pla</sub-title>
-    <desc lang="ca">La Som-hi i la Prou han d'organitzar una gran festa d'aniversari per a la Vaca, però se'ls fa una muntanya. Hauran d'aprendre a dividir les tasques en tasques més petites.</desc>
-    <length units="seconds">270</length>
-    <episode-num system="onscreen">20</episode-num>
+  <programme start="20261022214050 +0200" stop="20261022215926 +0200" channel="sx3">
+    <title lang="ca">Bola de drac Z</title>
+    <sub-title lang="ca">Comença l'entrenament per aconseguir la fusió</sub-title>
+    <desc lang="ca">Sense la influència del mag Babidí, el monstre Bu és encara més destructiu i, només per avorriment, es dedica a arrasar ciutats senceres. En Son Goku continua amb l'entrenament perquè en Son Goten i en Trunks aconsegueixin la fusió, però només li queden 30 minuts a la Terra, abans que es vegi obligat a tornar a l'Altre Món.</desc>
+    <length units="seconds">1116</length>
+    <episode-num system="onscreen">247</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
-      <value>INFANTIL</value>
+      <value>JUVENIL</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
@@ -121,28 +118,28 @@
   <channel id="c33">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20261022172511 +0200" stop="20261022174721 +0200" channel="c33">
-    <title lang="ca">Quèquicom</title>
-    <sub-title lang="ca">Cèl.lules mare què en podem esperar?</sub-title>
-    <desc lang="ca">Gràcies a les cèl·lules mare s'arribarà a fer l'autoreparació d'òrgans. El reporter Miquel Piris se sotmet a un experiment en el Centre de Medicina Regenerativa de Barcelona. Una cèl·lula extreta de l'arrel d'un dels seus cabells es convertirà en una cèl·lula mare i posteriorment se la manipularà perquè esdevingui una cèl·lula cardíaca capaç de bategar. Aquest experiment el dirigeix la doctora María José Barrero.</desc>
-    <length units="seconds">1330</length>
-    <episode-num system="onscreen">95</episode-num>
-    <category lang="ca">DIVULGACIÓ</category>
-    <category lang="ca">MAGAZINE ESPECIALITZAT</category>
+  <programme start="20261022210242 +0200" stop="20261022214254 +0200" channel="c33">
+    <title lang="ca">L'un per l'altre</title>
+    <sub-title lang="ca">L'estafa perfecta</sub-title>
+    <desc lang="ca">El Cabanes es presenta a l'hostal amb tot d'ecultures que li ha deixat en herència una parenta llunyana. Un alemany que s'allotja a l'hostal descobrirà una figura d'un important escultor. El Calafell, la Maria, El Toni i la Rosa s'empescaran la manera d'estafar el Cabanes i quedar-se amb la figureta, encara que, finalment, els estafats seran ells mateixos.</desc>
+    <length units="seconds">2412</length>
+    <episode-num system="onscreen">27</episode-num>
+    <category lang="ca">FICCIÓ</category>
+    <category lang="ca">SITCOM (COMÈDIA DE SITUACIÓ)</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20261022174721 +0200" stop="20261022180919 +0200" channel="c33">
-    <title lang="ca">Quèquicom</title>
-    <sub-title lang="ca">Làser: Adéu a la miopia</sub-title>
-    <desc lang="ca">Operar la còrnia amb làser és una possibilitat per corregir la miopia.Quèquicom analitza els riscos d'aquestes intervencions si no es fan totes les proves necessàries. També explica què és el làser des de l'Institut de Ciències Fotòniques, ICFO.Quèquicom acompanya a una persona miop en el seu camí per deixar de ser-ho. La reportera Anna Lasaga indaga com és possible reduir tres diòptries en vint minuts i que el pacient se'n pugui anar a casa immediatament després de l'operació. És el que va fer Laura Domingo, que ja hi veu sense necessitat d'ulleres. Però no tothom es pot operar. Quèquicom explica quines condicions han de reunir els candidats a operar-se.El làser és un tipus de llum que és capaç de tallar, esculpir o fondre els teixits de cos humà, en aquest cas de la còrnia. Anna Lasaga visita l'ICFO, l'Institut de Ciències Fotòniques, per veure com es fa un làser i quines utilitats té.Al plató, Marc Boada ens explica perquè hi ha persones miops i persones hipermetrops i, a més explica quina diferencia hi ha entre la llum normal i el làser.</desc>
-    <length units="seconds">1318</length>
-    <episode-num system="onscreen">96</episode-num>
-    <category lang="ca">DIVULGACIÓ</category>
-    <category lang="ca">MAGAZINE ESPECIALITZAT</category>
+  <programme start="20261022214254 +0200" stop="20261022221238 +0200" channel="c33">
+    <title lang="ca">L'un per l'altre</title>
+    <sub-title lang="ca">La becària</sub-title>
+    <desc lang="ca">La Maria està desbordada de feina. Obliga el Calafell a acceptar una becària. Però aquesta acaba resultant massa eficient i la Maria té por que li prengui la feina.</desc>
+    <length units="seconds">1784</length>
+    <episode-num system="onscreen">28</episode-num>
+    <category lang="ca">FICCIÓ</category>
+    <category lang="ca">SITCOM (COMÈDIA DE SITUACIÓ)</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
@@ -152,17 +149,6 @@
   <channel id="oca1">
     <display-name>OCA1</display-name>
   </channel>
-  <programme start="20261022152950 +0200" stop="20261022175945 +0200" channel="oca1">
-    <title lang="ca">Ple del Parlament</title>
-    <length units="seconds">8995</length>
-    <episode-num system="onscreen">4186</episode-num>
-    <category lang="ca">ACTUALITAT</category>
-    <category lang="ca">RETRANSMISSIONS ACTUALITAT</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <icon src="https://img.ccma.cat/multimedia/jpg/2/2/1723033059522.jpg"/>
-  </programme>
   <channel id="oca2">
     <display-name>OCA2</display-name>
   </channel>
