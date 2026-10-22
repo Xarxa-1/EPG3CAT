@@ -3,36 +3,38 @@
   <channel id="tvi">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20261022103005 +0200" stop="20261022135500 +0200" channel="tvi">
-    <title lang="ca">Tot es mou</title>
-    <desc lang="ca">El programa presentat per Helena Garcia Melero s'emet de dilluns a divendres, de 10.30 a 13.55. Un magazín d'actualitat que busca informar, analitzar i debatre sobre temes que marquen l'actualitat social, econòmica i cultural del dia, amb una àmplia presència en directe dels reporters i reporteres, repartits per tot Catalunya. A més, el 'Tot es mou' compta amb seccions diàries de gastronomia (amb els principals cuiners i cuineres del país), successos, economia, mobilitat, temes mèdics i de tecnologia, entre d'altres.</desc>
-    <length units="seconds">12295</length>
-    <episode-num system="onscreen">1834</episode-num>
-    <category lang="ca">ACTUALITAT</category>
+  <programme start="20261022172745 +0200" stop="20261022191154 +0200" channel="tvi">
+    <title lang="ca">La Selva</title>
+    <desc lang="ca">Xavier Grasset us convida a passar la tarda en una cafeteria on regna el bon ambient. El lloc on saps que sempre hi trobaràs cares conegudes i conversa interessant. A 'La selva' s'hi parla de tot i hi pot passar de tot. Amb la mirada posada a l'actualitat que marca el dia, però també a les curiositats més sorprenents. Des del recolliment d'un bar on t'hi trobes com a casa, però amb una finestra oberta al que passa en directe arreu de Catalunya i al món. Un programa amb vocació d'aparador cultural i gastronòmic del país.</desc>
+    <length units="seconds">6249</length>
+    <episode-num system="onscreen">435</episode-num>
+    <category lang="ca">ENTRETENIMENT</category>
     <category lang="ca">MAGAZINE</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
+    <previously-shown/>
+    <icon src="https://img.3cat.cat/multimedia/jpg/6/3/1725871608136.jpg"/>
   </programme>
-  <programme start="20261022135500 +0200" stop="20261022143000 +0200" channel="tvi">
-    <title lang="ca">Telenotícies comarques</title>
-    <length units="seconds">2100</length>
-    <episode-num system="onscreen">7060</episode-num>
-    <category lang="ca">ACTUALITAT</category>
-    <category lang="ca">INFORMATIU DIÀRI</category>
+  <programme start="20261022191154 +0200" stop="20261022201500 +0200" channel="tvi">
+    <title lang="ca">Atrapa'm si pots</title>
+    <desc lang="ca">'Atrapa'm si pots' és un 'quiz show' clàssic, de preguntes i respostes, presentat per Llucià Ferrer, en què sis concursants competeixen per arribar a la fase final i guanyar el pot. 'Atrapa'm si pots' és entreteniment pur i on gairebé és més important passar-s'ho bé que els diners. És un concurs en què pesa més la intuïció que no els coneixements acadèmics, més l'estratègia en el joc que no la sort.</desc>
+    <length units="seconds">3786</length>
+    <episode-num system="onscreen">949</episode-num>
+    <category lang="ca">ENTRETENIMENT</category>
+    <category lang="ca">CONCURS</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <icon src="https://img.ccma.cat/multimedia/jpg/5/2/1758026313525.jpg"/>
   </programme>
   <channel id="324">
     <display-name>324</display-name>
   </channel>
-  <programme start="20261022120000 +0200" stop="20261022135500 +0200" channel="324">
+  <programme start="20261022170000 +0200" stop="20261022183000 +0200" channel="324">
     <title lang="ca">Notícies 3CatInfo</title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">6900</length>
-    <episode-num system="onscreen">11499</episode-num>
+    <length units="seconds">5400</length>
+    <episode-num system="onscreen">11501</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
@@ -41,39 +43,27 @@
     <subtitles type="teletext"/>
     <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
-  <programme start="20261022135500 +0200" stop="20261022143000 +0200" channel="324">
-    <title lang="ca">Telenotícies comarques</title>
-    <length units="seconds">2100</length>
-    <episode-num system="onscreen">7060</episode-num>
+  <programme start="20261022183000 +0200" stop="20261022200000 +0200" channel="324">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="seconds">5400</length>
+    <episode-num system="onscreen">11502</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <icon src="https://img.ccma.cat/multimedia/jpg/5/2/1758026313525.jpg"/>
+    <subtitles type="teletext"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
   <channel id="esport3">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20261022112823 +0200" stop="20261022130000 +0200" channel="esport3">
-    <title lang="ca">Onze</title>
-    <sub-title lang="ca">L'última perla de la masia; Post Madrid-Leipzig i 'El predicador'</sub-title>
-    <desc lang="ca">Lluís Carrasco, Joan Poquí, Gemma Mallorca i Juvenal Edjogo comenten el partit de Xavi Espart a París i els gols de la jornada de Champions. L'Òscar Pérez-Dolz predica els manaments del bon culer.</desc>
-    <length units="seconds">5497</length>
-    <episode-num system="onscreen">1272</episode-num>
-    <category lang="ca">ESPORTS</category>
-    <category lang="ca">MAGAZINE</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <subtitles type="teletext"/>
-    <previously-shown/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/1/1/1688543515711.jpg"/>
-  </programme>
-  <programme start="20261022130000 +0200" stop="20261022140151 +0200" channel="esport3">
+  <programme start="20261022172409 +0200" stop="20261022182500 +0200" channel="esport3">
     <title lang="ca">Esport Club</title>
-    <desc lang="ca">En Jordi Sanuy i Víctor Patsi us expliquen l'última hora esportiva i l'analitzen amb el seu equip de col·laboradors. El programa és molt actiu a les xarxes socials. L''Esport Club' té presència a Twitter, a Facebook i a Instagram. L'espai dirigeix moltes accions de participació amb l'audiència a través de les xarxes socials.</desc>
-    <length units="seconds">3711</length>
+    <sub-title lang="ca">Les crítiques d'Enric Masip, Sergi Barjuan, Dika Mem, NBA i tertúlia</sub-title>
+    <desc lang="ca">Enric Masip carrega contra el Reial Madrid tres dies abans del clàssic. Els blancs arribaran al Camp Nou després de golejar el Leipzig. Entrevistem l'exjugador del Barça Sergi Barjuan. Mireia Vicente amb Dika Mem abans del Barça-Montpeller. L'NBA amb Jordi de Mas, 'Històries del futbol' amb Marc Mayola i tertúlia. Ens acompanyen Arancha Rodríguez, Edgar Fornós i Joanjo Pallàs.</desc>
+    <length units="seconds">3651</length>
     <episode-num system="onscreen">3267</episode-num>
     <category lang="ca">ESPORTS</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
@@ -81,17 +71,31 @@
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
+    <previously-shown/>
     <icon src="https://img.ccma.cat/multimedia/jpg/7/3/1698145091337.jpg"/>
+  </programme>
+  <programme start="20261022182500 +0200" stop="20261022203000 +0200" channel="esport3">
+    <title lang="ca">Bàsquet</title>
+    <sub-title lang="ca">BC Montana-Spar Girona / Eurocup / J2</sub-title>
+    <desc lang="ca">Després de guanyar amb contundència en l'estrena a casa, 77-49 contra l'Ostrava, les gironines juguen el primer partit com a visitants a la pista del conjunt búlgar.</desc>
+    <length units="seconds">7500</length>
+    <episode-num system="onscreen">27</episode-num>
+    <category lang="ca">ESPORTS</category>
+    <category lang="ca">RETRANSMISSIONS ESPORTS</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <icon src="https://img.3cat.cat/multimedia/jpg/7/8/1791975943787.jpg"/>
   </programme>
   <channel id="sx3">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20261022122455 +0200" stop="20261022124626 +0200" channel="sx3">
-    <title lang="ca">Els germans Kratt</title>
-    <sub-title lang="ca">Els óssos polars no ballen</sub-title>
-    <desc lang="ca">En plena missió per la regió àrtica, en Chris i en Martin han vist com el malvat Zach capturava una cria de morsa i una d'ós polar per al seu nou espectacle. Per salvar-les, els nostres amics hauran d'aprendre els secrets de les morses... i moltes coses més! L'Aviva ja els té preparats, els Vestits de Poder Animal, però per activar-los primer han de tocar els animals! Que no els passi res!</desc>
-    <length units="seconds">1291</length>
-    <episode-num system="onscreen">7</episode-num>
+  <programme start="20261022173209 +0200" stop="20261022173700 +0200" channel="sx3">
+    <title lang="ca">Wonderblocks</title>
+    <sub-title lang="ca">Els ossos musicals</sub-title>
+    <desc lang="ca">Els components del grup musical La Banda del Nenúfar no es troben bé i els tres ossos els hauran de substituir, però no saben ben bé com han de tocar cada instrument.</desc>
+    <length units="seconds">291</length>
+    <episode-num system="onscreen">19</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
@@ -100,12 +104,12 @@
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20261022124626 +0200" stop="20261022130835 +0200" channel="sx3">
-    <title lang="ca">Els germans Kratt</title>
-    <sub-title lang="ca">Els castors constructors</sub-title>
-    <desc lang="ca">Tot fent piragüisme pels rius nord-americans, els germans Kratt han fet malbé la presa d'una família de castors. Ara els hauran d'ajudar a refer-la i s'adonaran del que són capaços. Hi ha un munt d'animals que viuen a l'estany que es forma gràcies a la presa dels castors, com ara els talps de musell estrellat, les granotes bramadores, els ànecs carolins... Els vols conèixer?!</desc>
-    <length units="seconds">1329</length>
-    <episode-num system="onscreen">8</episode-num>
+  <programme start="20261022173700 +0200" stop="20261022174130 +0200" channel="sx3">
+    <title lang="ca">Wonderblocks</title>
+    <sub-title lang="ca">Sembla un bon pla</sub-title>
+    <desc lang="ca">La Som-hi i la Prou han d'organitzar una gran festa d'aniversari per a la Vaca, però se'ls fa una muntanya. Hauran d'aprendre a dividir les tasques en tasques més petites.</desc>
+    <length units="seconds">270</length>
+    <episode-num system="onscreen">20</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
@@ -117,42 +121,41 @@
   <channel id="c33">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20261022121420 +0200" stop="20261022134813 +0200" channel="c33">
-    <title lang="ca">El Gran Dictat, VIP</title>
-    <sub-title lang="ca">El Gran Gran Dictat</sub-title>
-    <desc lang="ca">Aquest dissabte, al nou capítol d''El gran gran dictat', el concurs de català presentat per l'Òscar Dalmau, competiran tres grans grans concursants. La Gemma Nierga, la presentadora de ràdio que es lleva més d'hora. El Lluís Llongueras, perruquer, creador d'estils i, segurament, l'home amb les mans més hàbils. I la Gisela, cantant i actriu, la culpable que mig Catalunya no es pugui treure del cap el 'Vol volar'.Aquests concursants, grans coneguts dels nostres espectadors, no només vindran a demostrar els seus coneixements de català. La Gemma Nierga ens ensenyarà quin és el seu lloc preferit per fer entrevistes. El Lluís Llongueras ens explicarà com un dia va crear uns sostenidors amb els rínxols del Bisbal. I, per últim, la Gisela ens revelarà el seu truc d'estilisme més ben guardat.I tot això amenitzat per un dels mags més irreverents del panorama català: el Mag Lari, que aquesta temporada farà més d'una aparició estel·lar i, de pas, tocarà una mica el voraviu a l'Òscar Dalmau.</desc>
-    <length units="seconds">5633</length>
-    <episode-num system="onscreen">30</episode-num>
+  <programme start="20261022172511 +0200" stop="20261022174721 +0200" channel="c33">
+    <title lang="ca">Quèquicom</title>
+    <sub-title lang="ca">Cèl.lules mare què en podem esperar?</sub-title>
+    <desc lang="ca">Gràcies a les cèl·lules mare s'arribarà a fer l'autoreparació d'òrgans. El reporter Miquel Piris se sotmet a un experiment en el Centre de Medicina Regenerativa de Barcelona. Una cèl·lula extreta de l'arrel d'un dels seus cabells es convertirà en una cèl·lula mare i posteriorment se la manipularà perquè esdevingui una cèl·lula cardíaca capaç de bategar. Aquest experiment el dirigeix la doctora María José Barrero.</desc>
+    <length units="seconds">1330</length>
+    <episode-num system="onscreen">95</episode-num>
     <category lang="ca">DIVULGACIÓ</category>
-    <category lang="ca">EDUCATIU</category>
+    <category lang="ca">MAGAZINE ESPECIALITZAT</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20261022134813 +0200" stop="20261022143442 +0200" channel="c33">
-    <title lang="ca">La Renaixença</title>
-    <sub-title lang="ca">La matrícula</sub-title>
-    <desc lang="ca">Éreu dels que tocàveu la botzina si trobàveu un cotxe amb matrícula de Girona fent un viatge per Aragó? Aquest és el vostre capítol, perquè avui parlem de la matrícula. Ens visiten dos experts en vexil·lologia. Dit d'una altra manera, dos experts en banderes. I venen amb una sorpresa per a nosaltres i per a vosaltres. No us podeu imaginar què pot ser… A 'Històries per passejar el gos' portem la Ipa, una gossa de Navàs, fins al 1606: quan Caravaggio va assassinar a un home.</desc>
-    <length units="seconds">2789</length>
-    <episode-num system="onscreen">57</episode-num>
+  <programme start="20261022174721 +0200" stop="20261022180919 +0200" channel="c33">
+    <title lang="ca">Quèquicom</title>
+    <sub-title lang="ca">Làser: Adéu a la miopia</sub-title>
+    <desc lang="ca">Operar la còrnia amb làser és una possibilitat per corregir la miopia.Quèquicom analitza els riscos d'aquestes intervencions si no es fan totes les proves necessàries. També explica què és el làser des de l'Institut de Ciències Fotòniques, ICFO.Quèquicom acompanya a una persona miop en el seu camí per deixar de ser-ho. La reportera Anna Lasaga indaga com és possible reduir tres diòptries en vint minuts i que el pacient se'n pugui anar a casa immediatament després de l'operació. És el que va fer Laura Domingo, que ja hi veu sense necessitat d'ulleres. Però no tothom es pot operar. Quèquicom explica quines condicions han de reunir els candidats a operar-se.El làser és un tipus de llum que és capaç de tallar, esculpir o fondre els teixits de cos humà, en aquest cas de la còrnia. Anna Lasaga visita l'ICFO, l'Institut de Ciències Fotòniques, per veure com es fa un làser i quines utilitats té.Al plató, Marc Boada ens explica perquè hi ha persones miops i persones hipermetrops i, a més explica quina diferencia hi ha entre la llum normal i el làser.</desc>
+    <length units="seconds">1318</length>
+    <episode-num system="onscreen">96</episode-num>
     <category lang="ca">DIVULGACIÓ</category>
-    <category lang="ca">ALTRES</category>
+    <category lang="ca">MAGAZINE ESPECIALITZAT</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/3/3/1756148014833.jpg"/>
   </programme>
   <channel id="oca1">
     <display-name>OCA1</display-name>
   </channel>
-  <programme start="20261022085930 +0200" stop="20261022130925 +0200" channel="oca1">
+  <programme start="20261022152950 +0200" stop="20261022175945 +0200" channel="oca1">
     <title lang="ca">Ple del Parlament</title>
-    <length units="seconds">14995</length>
-    <episode-num system="onscreen">4185</episode-num>
+    <length units="seconds">8995</length>
+    <episode-num system="onscreen">4186</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">RETRANSMISSIONS ACTUALITAT</category>
     <rating>
