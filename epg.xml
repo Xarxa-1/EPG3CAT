@@ -3,114 +3,116 @@
   <channel id="tvi">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20261022210000 +0200" stop="20261022220609 +0200" channel="tvi">
-    <title lang="ca">Telenotícies vespre</title>
-    <length units="seconds">3969</length>
-    <episode-num system="onscreen">7365</episode-num>
-    <category lang="ca">ACTUALITAT</category>
-    <category lang="ca">INFORMATIU DIÀRI</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <icon src="https://img.ccma.cat/multimedia/jpg/7/2/1758026176427.jpg"/>
-  </programme>
-  <programme start="20261022220609 +0200" stop="20261022224651 +0200" channel="tvi">
-    <title lang="ca">Polònia</title>
-    <sub-title lang="ca">La lluita d'egos de Rufián i Colau, a 'Polònia'</sub-title>
-    <desc lang="ca">Després del trencament entre els partits d'Esquerra, Ada Colau (Agnès Busquets) i Gabriel Rufián (Xavi Espinosa) s'enfronten en una batalla d'egos, com si fossin King Kong contra Godzilla. Mentrestant, el petó entre Pedro Sánchez (Pep Plaza) i la seva dona, Begoña, s'ha fet tan viral que el president intenta tapar totes les polèmiques del seu partit amb petons. I la cosa no s'acaba aquí, perquè el líder del PSOE presenta 'Acuerdo Attack', un programa de manualitats on troba usos alternatius als acords que va signar amb Oriol Junqueras (Cesc Casanovas), Carles Puigdemont (Queco Novell) i Miriam Nogueras (Alba Florejachs).Xavier García Albiol (Fermí Fernández) és el candidat pel PP al Congrés per Barcelona i es dirigeix a la ciutadania per deixar clar que, si surt escollit, no abandonarà l'alcaldia de Badalona. I Alberto Núñez Feijóo (David Marcé) rep els consells d'Eduardo Inda (Xavi Espinosa) per deixar de parlar de pensions i centrar-se en un tema que al PP sempre li funciona: la immersió lingüística.A Catalunya, el to d'alarma dels ES-Alert incomoda la ciutadania… i també Salvador Illa (Queco Novell). Per això, el president demana alternatives a Núria Parlon (Agnès Busquets), Ramon Espadaler (Pep Plaza) i el músic Arnau Tordera (Ivan Labanda), com a compositor per als nous tons.Mentrestant, a la seu del PSOE, Óscar Puente (Cesc Casanovas) i Margarita Robles (Agnès Busquets) interroguen Rebeca Torró (Lara Díez), la nova portaveu del partit, per saber si amaga alguna cosa de la qual la puguin acusar. Al Telenotícies, Toni Cruanyes (David Marcé) ens parlarà d'un fenomen més difícil de veure que l'eclipsi solar: l'anunci d'un pis de lloguer per menys de mil euros.I, a tres dies del clàssic, Sergio Ramos (Jordi Rios), José Mourinho (Xavi Espinosa) i Hansi Flick (Ivan Labanda) visitaran el plató per parlar de l'estrena de 'Crackòvia'.</desc>
-    <length units="seconds">2442</length>
-    <episode-num system="onscreen">827</episode-num>
-    <category lang="ca">ENTRETENIMENT</category>
-    <category lang="ca">GAGS. HUMOR</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <icon src="https://img.ccma.cat/multimedia/jpg/4/4/1665652336244.jpg"/>
-  </programme>
-  <channel id="324">
-    <display-name>324</display-name>
-  </channel>
-  <programme start="20261022210000 +0200" stop="20261022220500 +0200" channel="324">
-    <title lang="ca">Telenotícies vespre</title>
-    <length units="seconds">3900</length>
-    <episode-num system="onscreen">7365</episode-num>
-    <category lang="ca">ACTUALITAT</category>
-    <category lang="ca">INFORMATIU DIÀRI</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <icon src="https://img.ccma.cat/multimedia/jpg/7/2/1758026176427.jpg"/>
-  </programme>
-  <programme start="20261022220500 +0200" stop="20261023000000 +0200" channel="324">
+  <programme start="20261023001105 +0200" stop="20261023020317 +0200" channel="tvi">
     <title lang="ca">Mésnit</title>
     <desc lang="ca">El 'Mésnit' arriba a la desena temporada, amb Marina Romero al capdavant de l'espai i amb la voluntat de continuar sent un centre de debat d'idees i d'anàlisi de l'activitat política.</desc>
-    <length units="seconds">6900</length>
+    <length units="seconds">6732</length>
     <episode-num system="onscreen">2185</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">DEBAT</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <subtitles type="teletext"/>
+    <previously-shown/>
+  </programme>
+  <programme start="20261023020317 +0200" stop="20261023040000 +0200" channel="tvi">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="seconds">7003</length>
+    <episode-num system="onscreen">11505</episode-num>
+    <category lang="ca">ACTUALITAT</category>
+    <category lang="ca">INFORMATIU DIÀRI</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <previously-shown/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
+  </programme>
+  <channel id="324">
+    <display-name>324</display-name>
+  </channel>
+  <programme start="20261023003000 +0200" stop="20261023010000 +0200" channel="324">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="seconds">1800</length>
+    <episode-num system="onscreen">11505</episode-num>
+    <category lang="ca">ACTUALITAT</category>
+    <category lang="ca">INFORMATIU DIÀRI</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
+  </programme>
+  <programme start="20261023010000 +0200" stop="20261023060000 +0200" channel="324">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="seconds">18000</length>
+    <episode-num system="onscreen">11505</episode-num>
+    <category lang="ca">ACTUALITAT</category>
+    <category lang="ca">INFORMATIU DIÀRI</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <previously-shown/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
   <channel id="esport3">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20261022203054 +0200" stop="20261022223253 +0200" channel="esport3">
-    <title lang="ca">Handbol</title>
-    <sub-title lang="ca">Barça-Montpeller / EHF Champions / J5</sub-title>
-    <desc lang="ca">Penúltima jornada de la fase de grups. En el precedent que van jugar a la ciutat occitana, els blaugranes van guanyar per 27 a 28.</desc>
-    <length units="seconds">7319</length>
-    <episode-num system="onscreen">426</episode-num>
-    <category lang="ca">ESPORTS</category>
-    <category lang="ca">RETRANSMISSIONS ESPORTS</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1729614070941.jpg"/>
-  </programme>
-  <programme start="20261022223253 +0200" stop="20261022230000 +0200" channel="esport3">
-    <title lang="ca">Esport Club</title>
-    <sub-title lang="ca">Les crítiques d'Enric Masip, Sergi Barjuan, Dika Mem, NBA i tertúlia</sub-title>
-    <desc lang="ca">Enric Masip carrega contra el Reial Madrid tres dies abans del clàssic. Els blancs arribaran al Camp Nou després de golejar el Leipzig. Entrevistem l'exjugador del Barça Sergi Barjuan. Mireia Vicente amb Dika Mem abans del Barça-Montpeller. L'NBA amb Jordi de Mas, 'Històries del futbol' amb Marc Mayola i tertúlia. Ens acompanyen Arancha Rodríguez, Edgar Fornós i Joanjo Pallàs.</desc>
-    <length units="seconds">1627</length>
-    <episode-num system="onscreen">3267</episode-num>
+  <programme start="20261023003205 +0200" stop="20261023010747 +0200" channel="esport3">
+    <title lang="ca">3CatInfo Esports</title>
+    <desc lang="ca">Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.</desc>
+    <length units="seconds">2142</length>
+    <episode-num system="onscreen">5546</episode-num>
     <category lang="ca">ESPORTS</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
+    <icon src="https://img.ccma.cat/multimedia/jpg/9/7/1758888682179.jpg"/>
+  </programme>
+  <programme start="20261023010747 +0200" stop="20261023030829 +0200" channel="esport3">
+    <title lang="ca">Onze</title>
+    <sub-title lang="ca">Soroll de clàssic; 'Onzeclopèdia' i 'El consultori'</sub-title>
+    <desc lang="ca">David Bernabeu, Víctor Lozano, Laia Tudel, Fernando Polo i Siro López pentinen la prèvia del clàssic. En Fran Domènech presenta els titulars més curiosos de la premsa esportiva. En Sergi Ferrer respon els dubtes dels espectadors de l'Onze.</desc>
+    <length units="seconds">7242</length>
+    <episode-num system="onscreen">1273</episode-num>
+    <category lang="ca">ESPORTS</category>
+    <category lang="ca">MAGAZINE</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/7/3/1698145091337.jpg"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/1/1/1688543515711.jpg"/>
   </programme>
   <channel id="sx3">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20261022212243 +0200" stop="20261022214050 +0200" channel="sx3">
-    <title lang="ca">Bola de drac Z</title>
-    <sub-title lang="ca">La rebel·lió del monstre Bu</sub-title>
-    <desc lang="ca">En Son Goku continua el combat contra el monstre Bu, però només lluitarà amb ell fins que en Trunks recuperi el radar de les Boles de Drac, conscient que ha de continuar entrenant en Son Goten i el mateix Trunks perquè aprenguin la tècnica de la fusió. El monstre Bu, cansat de rebre ordres del mag Babidí, decideix rebel·lar-se i desfer-se'n.</desc>
-    <length units="seconds">1087</length>
-    <episode-num system="onscreen">246</episode-num>
+  <programme start="20261023002705 +0200" stop="20261023004806 +0200" channel="sx3">
+    <title lang="ca">Els germans Kratt</title>
+    <sub-title lang="ca">El nostre món blau i verd. 2a part</sub-title>
+    <desc lang="ca">Mentre continua la disputa entre els dos germans sobre què és millor, si els mars blaus o els boscos verds, l'Aviva programa dos discos de poder animal perquè els provin: un d'indri de Madagascar pel Chris i un de balena blava pel Martin. Al final, els dos germans entendran que han de tornar a treballar junts i sumar esforços, igual que fan el bosc i el mar per donar vida a la Terra.</desc>
+    <length units="seconds">1261</length>
+    <episode-num system="onscreen">167</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
-      <value>JUVENIL</value>
+      <value>INFANTIL</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20261022214050 +0200" stop="20261022215926 +0200" channel="sx3">
-    <title lang="ca">Bola de drac Z</title>
-    <sub-title lang="ca">Comença l'entrenament per aconseguir la fusió</sub-title>
-    <desc lang="ca">Sense la influència del mag Babidí, el monstre Bu és encara més destructiu i, només per avorriment, es dedica a arrasar ciutats senceres. En Son Goku continua amb l'entrenament perquè en Son Goten i en Trunks aconsegueixin la fusió, però només li queden 30 minuts a la Terra, abans que es vegi obligat a tornar a l'Altre Món.</desc>
-    <length units="seconds">1116</length>
-    <episode-num system="onscreen">247</episode-num>
+  <programme start="20261023004806 +0200" stop="20261023010937 +0200" channel="sx3">
+    <title lang="ca">Els germans Kratt</title>
+    <sub-title lang="ca">Zum-zumzzzz</sub-title>
+    <desc lang="ca">El Chris i el Martin es miniaturitzen per investigar què hi ha sota el tronc d'un arbre que ha caigut. Allà, troben una salamandra afamada i, per sort, en poden fugir muntats dalt d'un borinot que els porta al seu niu, on coneixen la reina i les femelles obreres, i aprenen moltes coses d'aquest animal que està en perill d'extinció. Mentrestant, la resta del grup, que els busca, descobreix que el Zach està atrapant un munt de borinots.</desc>
+    <length units="seconds">1291</length>
+    <episode-num system="onscreen">168</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
-      <value>JUVENIL</value>
+      <value>INFANTIL</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
@@ -118,28 +120,28 @@
   <channel id="c33">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20261022210242 +0200" stop="20261022214254 +0200" channel="c33">
-    <title lang="ca">L'un per l'altre</title>
-    <sub-title lang="ca">L'estafa perfecta</sub-title>
-    <desc lang="ca">El Cabanes es presenta a l'hostal amb tot d'ecultures que li ha deixat en herència una parenta llunyana. Un alemany que s'allotja a l'hostal descobrirà una figura d'un important escultor. El Calafell, la Maria, El Toni i la Rosa s'empescaran la manera d'estafar el Cabanes i quedar-se amb la figureta, encara que, finalment, els estafats seran ells mateixos.</desc>
-    <length units="seconds">2412</length>
-    <episode-num system="onscreen">27</episode-num>
-    <category lang="ca">FICCIÓ</category>
-    <category lang="ca">SITCOM (COMÈDIA DE SITUACIÓ)</category>
+  <programme start="20261022233946 +0200" stop="20261023003707 +0200" channel="c33">
+    <title lang="ca">Savis i sàvies</title>
+    <sub-title lang="ca">Abel Mariné</sub-title>
+    <desc lang="ca">Nascut a Gràcia, però adoptat de ben petit per Badalona, on encara viu. Doctorat en farmàcia, catedràtic emèrit en nutrició i bromatologia per la Universitat de Barcelona, és una de les persones que més en saben, de què i com mengem. Al seu profund coneixement científic s'hi ha de sumar l'enorme tasca que ha fet divulgant a través de llibres, ràdios i programes de televisió. Si mengem més bé, en bona part, és gràcies ala seva feina.</desc>
+    <length units="seconds">3441</length>
+    <episode-num system="onscreen">113</episode-num>
+    <category lang="ca">DIVULGACIÓ</category>
+    <category lang="ca">ENTREVISTES</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20261022214254 +0200" stop="20261022221238 +0200" channel="c33">
-    <title lang="ca">L'un per l'altre</title>
-    <sub-title lang="ca">La becària</sub-title>
-    <desc lang="ca">La Maria està desbordada de feina. Obliga el Calafell a acceptar una becària. Però aquesta acaba resultant massa eficient i la Maria té por que li prengui la feina.</desc>
-    <length units="seconds">1784</length>
-    <episode-num system="onscreen">28</episode-num>
-    <category lang="ca">FICCIÓ</category>
-    <category lang="ca">SITCOM (COMÈDIA DE SITUACIÓ)</category>
+  <programme start="20261023003707 +0200" stop="20261023012651 +0200" channel="c33">
+    <title lang="ca">Dibuixar pel canvi</title>
+    <sub-title lang="ca">Egipte. Un traç de llibertat</sub-title>
+    <desc lang="ca">Doaa el-Adl, la primera dona a guanyar el prestigiós Premi de Periodisme en la categoria de Caricatura, intenta introduir canvis en el món dels caricaturistes polítics egipcis, àmpliament dominat pels homes. Rebel i molt crítica amb les normes del patriarcat, ha de fer front cada dia als insults, la censura, la intimidació i les amenaces de mort. La directora egípcia Nada Riyadhh dona vida a les obres més famoses de Doaa el-Adl en una cinta en què el gènere del documental es fusiona amb l'animació d'una manera creativa i emotiva. Aquest format dinàmic i atrevit s'endinsa en la problemàtica de la violència contra les dones, ampliant els límits de la llibertat d'expressió en una societat sovint marcada per les restriccions.</desc>
+    <length units="seconds">2984</length>
+    <episode-num system="onscreen">3</episode-num>
+    <category lang="ca">DIVULGACIÓ</category>
+    <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
