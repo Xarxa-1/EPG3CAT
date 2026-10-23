@@ -3,49 +3,33 @@
   <channel id="tvi">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20261023020411 +0200" stop="20261023040000 +0200" channel="tvi">
+  <programme start="20261023060000 +0200" stop="20261023080000 +0200" channel="tvi">
     <title lang="ca">Notícies 3CatInfo</title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">6949</length>
-    <episode-num system="onscreen">11505</episode-num>
+    <length units="seconds">7200</length>
+    <episode-num system="onscreen">11506</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <previously-shown/>
     <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
-  <programme start="20261023040000 +0200" stop="20261023044424 +0200" channel="tvi">
-    <title lang="ca">Cava de Blues</title>
-    <sub-title lang="ca">A Contrablues</sub-title>
-    <desc lang="ca">Cava de Blues és un espai dedicat a les noves creacions de 14 grups del país que es dediquen a aquest gènere musical.En aquesta edició, els grups que hi trobareu són: -A contrablues-Blas Picón &amp; The Junk Espress-Bullfrog Electric Blues Experience-Dusa'ns Flying Blues Band-Dani Baraldés &amp; The XX Band-Emili Baleriola Blues Quartet-Dani Nel·lo &amp; Mario Cobo-Ivan Kovacevic 5 Spots-JG Acoustic Gang-John Big Stone &amp; The Blues Workers-Legacaster! The Hillbilly Trio-Martini Surfers-Susan Santos &amp; The Papa's Red Band-The Paparellos</desc>
-    <length units="seconds">2664</length>
-    <episode-num system="onscreen">1</episode-num>
-    <category lang="ca">MUSICALS</category>
-    <category lang="ca">JAZZ</category>
+  <programme start="20261023080000 +0200" stop="20261023103000 +0200" channel="tvi">
+    <title lang="ca">Matins</title>
+    <desc lang="ca">'Matins' és un dels puntals informatius de TV3. El programa matinal dona les claus del dia que comença, explica les notícies que han passat aportant-ne el context per entendre-les i analitza amb veus acreditades l'actualitat més propera i la d'arreu del món. 'Matins' comença a les 8 del matí, de dilluns a divendres, i està presentat per Ariadna Oltra.</desc>
+    <length units="seconds">9000</length>
+    <episode-num system="onscreen">4698</episode-num>
+    <category lang="ca">ACTUALITAT</category>
+    <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <previously-shown/>
-    <icon src="https://img.3cat.cat/multimedia/jpg/0/2/1754910826220.jpg"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/2/0/1758040151402.jpg"/>
   </programme>
   <channel id="324">
     <display-name>324</display-name>
   </channel>
-  <programme start="20261023010000 +0200" stop="20261023060000 +0200" channel="324">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">18000</length>
-    <episode-num system="onscreen">11505</episode-num>
-    <category lang="ca">ACTUALITAT</category>
-    <category lang="ca">INFORMATIU DIÀRI</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <previously-shown/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
-  </programme>
   <programme start="20261023060000 +0200" stop="20261023080000 +0200" channel="324">
     <title lang="ca">Notícies 3CatInfo</title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
@@ -56,17 +40,44 @@
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <subtitles type="teletext"/>
     <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
+  </programme>
+  <programme start="20261023080000 +0200" stop="20261023103000 +0200" channel="324">
+    <title lang="ca">Matins</title>
+    <desc lang="ca">'Matins' és un dels puntals informatius de TV3. El programa matinal dona les claus del dia que comença, explica les notícies que han passat aportant-ne el context per entendre-les i analitza amb veus acreditades l'actualitat més propera i la d'arreu del món. 'Matins' comença a les 8 del matí, de dilluns a divendres, i està presentat per Ariadna Oltra.</desc>
+    <length units="seconds">9000</length>
+    <episode-num system="onscreen">4698</episode-num>
+    <category lang="ca">ACTUALITAT</category>
+    <category lang="ca">INFORMATIU DIÀRI</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <subtitles type="teletext"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/2/0/1758040151402.jpg"/>
   </programme>
   <channel id="esport3">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20261023025237 +0200" stop="20261023040959 +0200" channel="esport3">
+  <programme start="20261023071046 +0200" stop="20261023084251 +0200" channel="esport3">
+    <title lang="ca">Onze</title>
+    <sub-title lang="ca">Soroll de clàssic; 'Onzeclopèdia' i 'El consultori'</sub-title>
+    <desc lang="ca">David Bernabeu, Víctor Lozano, Laia Tudel, Fernando Polo i Siro López pentinen la prèvia del clàssic. En Fran Domènech presenta els titulars més curiosos de la premsa esportiva. En Sergi Ferrer respon els dubtes dels espectadors de l'Onze.</desc>
+    <length units="seconds">5525</length>
+    <episode-num system="onscreen">1273</episode-num>
+    <category lang="ca">ESPORTS</category>
+    <category lang="ca">MAGAZINE</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <subtitles type="teletext"/>
+    <previously-shown/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/1/1/1688543515711.jpg"/>
+  </programme>
+  <programme start="20261023084251 +0200" stop="20261023100045 +0200" channel="esport3">
     <title lang="ca">Handbol</title>
     <sub-title lang="ca">Barça-Montpeller / EHF Champions / J5</sub-title>
     <desc lang="ca">Penúltima jornada de la fase de grups. En el precedent que van jugar a la ciutat occitana, els blaugranes van guanyar per 27 a 28.</desc>
-    <length units="seconds">4642</length>
+    <length units="seconds">4674</length>
     <episode-num system="onscreen">426</episode-num>
     <category lang="ca">ESPORTS</category>
     <category lang="ca">RETRANSMISSIONS ESPORTS</category>
@@ -76,22 +87,15 @@
     <previously-shown/>
     <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1729614070941.jpg"/>
   </programme>
-  <programme start="20261023040959 +0200" stop="20261023045740 +0200" channel="esport3">
-    <title lang="ca">E3</title>
-    <sub-title lang="ca">- L'HOME MÉS FORT DEL MÓN GIANTS LIVE 1: BRITAIN'S STRONGEST MAN</sub-title>
-    <desc lang="ca">Sense Descripció</desc>
-    <length units="seconds">2861</length>
-    <subtitles type="teletext"/>
-  </programme>
   <channel id="sx3">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20261023024748 +0200" stop="20261023030826 +0200" channel="sx3">
-    <title lang="ca">Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
-    <sub-title lang="ca">Culpabisme</sub-title>
-    <desc lang="ca">La Marinette descobreix que la Juleka amaga un secret de la Rose des de fa molt de temps. Pensant que ajudarà la Juleka, la Marinette la convenç perquè l'hi expliqui i li promet que no li dirà mai a la Rose que ho sap. Però malgrat la seva promesa, la Marinette i els companys ja no es poden comportar de manera normal amb la Rose, que de seguida s'adona que la Juleka ha xerrat més del compte. Això fa que la Juleka s'enfonsi en un abisme de culpabilitat tan profund que l'Esfinx Fosc intentarà aprofitar-ho per mirar de capturar Ladybug i el Gat Noir.</desc>
-    <length units="seconds">1238</length>
-    <episode-num system="onscreen">89</episode-num>
+  <programme start="20261023073148 +0200" stop="20261023074222 +0200" channel="sx3">
+    <title lang="ca">La Patrulla Peluda</title>
+    <sub-title lang="ca">La Patrulla Marina: La Patrulla salva el moll</sub-title>
+    <desc lang="ca">Avui és l'exposició d'art de Platja Aventures, però l'obra d'art d'en François portarà problemes i la Patrulla Marina els haurà de solucionar.</desc>
+    <length units="seconds">634</length>
+    <episode-num system="onscreen">170</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
@@ -100,45 +104,39 @@
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20261023030826 +0200" stop="20261023032919 +0200" channel="sx3">
-    <title lang="ca">Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
-    <sub-title lang="ca">Cocoduo</sub-title>
-    <desc lang="ca">La Marinette està convençuda que al Luka l'han akumatitzat diverses vegades per culpa seva, perquè el Luka està enamorat d'ella però ella n'està de l'Adrien. Des que el Luka li va dir que l'estimava, la Marinette l'evita per protegir-lo, però evidentment aquesta situació els fa mal a tots dos. Per això els seus amics decideixen organitzar una trobada entre ells dos aprofitant la festa d'aniversari de la Juleka, la germana bessona del Luka. Però quan la Marinette s'adona que és un parany, se li acut un pla condemnat a causar més d'un desastre i una akumatització inesperada.</desc>
-    <length units="seconds">1253</length>
-    <episode-num system="onscreen">90</episode-num>
-    <category lang="ca">FICCIÓ</category>
-    <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
-    <rating>
-      <value>INFANTIL</value>
-    </rating>
+  <programme start="20261023074222 +0200" stop="20261023075411 +0200" channel="sx3">
+    <title lang="ca">La Patrulla Peluda</title>
+    <sub-title lang="ca">- La Patrulla i el misteri de vehicle eruga sense conductor</sub-title>
+    <desc lang="ca">Sense Descripció</desc>
+    <length units="seconds">709</length>
+    <episode-num system="onscreen">215</episode-num>
     <subtitles type="teletext"/>
-    <previously-shown/>
   </programme>
   <channel id="c33">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20261023023257 +0200" stop="20261023032740 +0200" channel="c33">
-    <title lang="ca">Ale-Hop!</title>
-    <sub-title lang="ca">Tecnocirc</sub-title>
-    <desc lang="ca">Aquest capítol vol tenir una mirada oberta sobre la tecnologia aplicada a l'art circense. En aquest capítol coneixerem propostes on la tecnologia té un paper important. Per exemple, el joc de llums i aigua de la Maria Palma, que mostra les seves habilitats acrobàtiques dins una gran peixera gràcies als seus coneixements sobre la pràctica de l'apnea. O les improvisacions malabars de Troposfera XYZ, basades en una música autogenerada per algoritmes que els serveixen per improvisar moviments impossibles amb els seus diàbolos. També coneixerem en Manolo Alcántara, que amb l'espectacle 'Maña' ha fet un homenatge a la tecnologia analògica construint a temps real, i en cada actuació, una escenografia de grans dimensions. I un artesà de les arts escèniques: el marionetista Jordi Bertran ens sorprendrà i ens farà riure amb els seus entranyables titelles.I, finalment, la Laia Fontan volarà. Visitarà una empresa especialitzada a fer volar persones a l'escenari, i aprofitarà per viure en primera persona aquesta experiència. </desc>
-    <length units="seconds">3283</length>
-    <episode-num system="onscreen">5</episode-num>
-    <category lang="ca">ENTRETENIMENT</category>
-    <category lang="ca">ALTRES</category>
+  <programme start="20261023072639 +0200" stop="20261023075350 +0200" channel="c33">
+    <title lang="ca">Viure als Pirineus</title>
+    <sub-title lang="ca">Un hoteler dels Pirineus (Primavera - Estiu)</sub-title>
+    <desc lang="ca">En Cinto Gabriel és fill d'una nissaga d'hotelers que regenta l'hotel Cardós ajudat per la família. La seva feina és l'atenció als clients, però, en realitat, fa una mica de tot.En Cinto és un col·leccionista nat del qual se'n podria destacar la passió pels bolets, per les papallones o per la fotografia, entre moltes altres. Aficions totes inculcades per antics clients. Però on se sent realment lliure és a dalt de les muntanyes on gaudeix dels seus paisatges preferits, tant per tradició familiar com per la seva bellesa natural, com el pla de Nèqua, a 2.000 metres. Un lloc on els seus clients acostumen a anar-hi un any sí i l'altre també. Amb tot, la seva afició més gran és l'òpera. N'escolta cada dia i l'ha incorporat a tots els actes importants de la seva vida, i això l'ha portat a abocar-se també en la conservació activa del patrimoni històric de la vall de Cardós, participant en el teatre o fent de campaner.</desc>
+    <length units="seconds">1631</length>
+    <episode-num system="onscreen">1</episode-num>
+    <category lang="ca">DIVULGACIÓ</category>
+    <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20261023032740 +0200" stop="20261023041917 +0200" channel="c33">
-    <title lang="ca">Ale-Hop!</title>
-    <sub-title lang="ca">Senyores i senyors</sub-title>
-    <desc lang="ca">Senyores i senyors, nenes i nens, agafeu seient a la carpa del programa 'Ale-hop', que comença l'espectacle.Així comença aquest capítol, on la Laia Fontan tindrà un record per als artistes i les artistes que han passat pel programa. Tindrem l'oportunitat de veure catorze números nous d'artistes com les germanes Giribaldi, en Kerol, l'Yldor Llach, la Mariona Moya (la Córcoles), en Jordi Caps, la companyia Entre Nous o Planeta Trampolí, entre molts d'altres.Serà un homenatge final a la gent del circ que en els cinc capítols anteriors ens han donat l'oportunitat de conèixer per dins aquest món d'il·lusió, fantasia, risc i, sobretot, vocació.Durant aquest capítol, la Laia estarà acompanyada del nostre col·laborador expert en xarxes socials, en Joan Grivé, 'perquè tot surti segons el previst'.</desc>
-    <length units="seconds">3097</length>
-    <episode-num system="onscreen">6</episode-num>
-    <category lang="ca">ENTRETENIMENT</category>
-    <category lang="ca">ALTRES</category>
+  <programme start="20261023075350 +0200" stop="20261023082148 +0200" channel="c33">
+    <title lang="ca">Viure als Pirineus</title>
+    <sub-title lang="ca">Un guarda de refugi dels Pirineus (Primavera - estiu)</sub-title>
+    <desc lang="ca">«Un guarda de refugi dels Pirineus» ens presenta una història d'amor entre un home i una muntanya, la Pierre Saint Martin. És una història que va començar fa més de quaranta anys en una vall veïna. Als seus 62 anys, Jean Hourticq, és tot un representant de la història d'aquesta regió, la del Lapiaz més gran d'Europa, un territori calcari de relleu accidentat i gorgues profundes. Aquest home de muntanya dirigeix, des de fa 22 anys, el refugi Jeandel, situat en un pic rocós, a 1.600 metres d'alçada, un refugi que provoca la curiositat d'excursionistes, escaladors i aventurers de tota mena. Cada dia, en Jean i la seva dona hi garanteixen els àpats, l'allotjament i la millor acollida possible a tots els visitants que passen pel refugi. A tots dos, units també per l'amor a la muntanya, els agrada conèixer gent i compartir-hi bons moments.La temporada d'estiu s'acaba i nosaltres seguirem la parella en el moment en què aturen la seva activitat, a les portes de la jubilació. L'Anthony, fill d'en Jean, garantirà la pervivència del refugi, sota la tutela benvolent del seu pare. Es tracta d'una transmissió que va molt més enllà del que podria ser un petit negoci familiar, perquè perllonga en el temps una història íntima i antiga entre les muntanyes dels Pirineus i tots aquells que hi conviuen.S'acosta l'hivern, i l'Anthony i la Camille, que a partir d'ara s'ocuparan de les instal·lacions, es troben davant d'un nou repte que truca a la porta del refugi Jeandel...</desc>
+    <length units="seconds">1678</length>
+    <episode-num system="onscreen">2</episode-num>
+    <category lang="ca">DIVULGACIÓ</category>
+    <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
