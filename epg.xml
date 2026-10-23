@@ -3,22 +3,10 @@
   <channel id="tvi">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20261023001105 +0200" stop="20261023020317 +0200" channel="tvi">
-    <title lang="ca">Mésnit</title>
-    <desc lang="ca">El 'Mésnit' arriba a la desena temporada, amb Marina Romero al capdavant de l'espai i amb la voluntat de continuar sent un centre de debat d'idees i d'anàlisi de l'activitat política.</desc>
-    <length units="seconds">6732</length>
-    <episode-num system="onscreen">2185</episode-num>
-    <category lang="ca">ACTUALITAT</category>
-    <category lang="ca">DEBAT</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <previously-shown/>
-  </programme>
-  <programme start="20261023020317 +0200" stop="20261023040000 +0200" channel="tvi">
+  <programme start="20261023020411 +0200" stop="20261023040000 +0200" channel="tvi">
     <title lang="ca">Notícies 3CatInfo</title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">7003</length>
+    <length units="seconds">6949</length>
     <episode-num system="onscreen">11505</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
@@ -27,22 +15,24 @@
     </rating>
     <previously-shown/>
     <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
+  </programme>
+  <programme start="20261023040000 +0200" stop="20261023044424 +0200" channel="tvi">
+    <title lang="ca">Cava de Blues</title>
+    <sub-title lang="ca">A Contrablues</sub-title>
+    <desc lang="ca">Cava de Blues és un espai dedicat a les noves creacions de 14 grups del país que es dediquen a aquest gènere musical.En aquesta edició, els grups que hi trobareu són: -A contrablues-Blas Picón &amp; The Junk Espress-Bullfrog Electric Blues Experience-Dusa'ns Flying Blues Band-Dani Baraldés &amp; The XX Band-Emili Baleriola Blues Quartet-Dani Nel·lo &amp; Mario Cobo-Ivan Kovacevic 5 Spots-JG Acoustic Gang-John Big Stone &amp; The Blues Workers-Legacaster! The Hillbilly Trio-Martini Surfers-Susan Santos &amp; The Papa's Red Band-The Paparellos</desc>
+    <length units="seconds">2664</length>
+    <episode-num system="onscreen">1</episode-num>
+    <category lang="ca">MUSICALS</category>
+    <category lang="ca">JAZZ</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <previously-shown/>
+    <icon src="https://img.3cat.cat/multimedia/jpg/0/2/1754910826220.jpg"/>
   </programme>
   <channel id="324">
     <display-name>324</display-name>
   </channel>
-  <programme start="20261023003000 +0200" stop="20261023010000 +0200" channel="324">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">1800</length>
-    <episode-num system="onscreen">11505</episode-num>
-    <category lang="ca">ACTUALITAT</category>
-    <category lang="ca">INFORMATIU DIÀRI</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
-  </programme>
   <programme start="20261023010000 +0200" stop="20261023060000 +0200" channel="324">
     <title lang="ca">Notícies 3CatInfo</title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
@@ -56,45 +46,52 @@
     <previously-shown/>
     <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
-  <channel id="esport3">
-    <display-name>ESPORT3</display-name>
-  </channel>
-  <programme start="20261023003205 +0200" stop="20261023010747 +0200" channel="esport3">
-    <title lang="ca">3CatInfo Esports</title>
-    <desc lang="ca">Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.</desc>
-    <length units="seconds">2142</length>
-    <episode-num system="onscreen">5546</episode-num>
-    <category lang="ca">ESPORTS</category>
+  <programme start="20261023060000 +0200" stop="20261023080000 +0200" channel="324">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="seconds">7200</length>
+    <episode-num system="onscreen">11506</episode-num>
+    <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <icon src="https://img.ccma.cat/multimedia/jpg/9/7/1758888682179.jpg"/>
+    <subtitles type="teletext"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
-  <programme start="20261023010747 +0200" stop="20261023030829 +0200" channel="esport3">
-    <title lang="ca">Onze</title>
-    <sub-title lang="ca">Soroll de clàssic; 'Onzeclopèdia' i 'El consultori'</sub-title>
-    <desc lang="ca">David Bernabeu, Víctor Lozano, Laia Tudel, Fernando Polo i Siro López pentinen la prèvia del clàssic. En Fran Domènech presenta els titulars més curiosos de la premsa esportiva. En Sergi Ferrer respon els dubtes dels espectadors de l'Onze.</desc>
-    <length units="seconds">7242</length>
-    <episode-num system="onscreen">1273</episode-num>
+  <channel id="esport3">
+    <display-name>ESPORT3</display-name>
+  </channel>
+  <programme start="20261023025237 +0200" stop="20261023040959 +0200" channel="esport3">
+    <title lang="ca">Handbol</title>
+    <sub-title lang="ca">Barça-Montpeller / EHF Champions / J5</sub-title>
+    <desc lang="ca">Penúltima jornada de la fase de grups. En el precedent que van jugar a la ciutat occitana, els blaugranes van guanyar per 27 a 28.</desc>
+    <length units="seconds">4642</length>
+    <episode-num system="onscreen">426</episode-num>
     <category lang="ca">ESPORTS</category>
-    <category lang="ca">MAGAZINE</category>
+    <category lang="ca">RETRANSMISSIONS ESPORTS</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <subtitles type="teletext"/>
     <previously-shown/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/1/1/1688543515711.jpg"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1729614070941.jpg"/>
+  </programme>
+  <programme start="20261023040959 +0200" stop="20261023045740 +0200" channel="esport3">
+    <title lang="ca">E3</title>
+    <sub-title lang="ca">- L'HOME MÉS FORT DEL MÓN GIANTS LIVE 1: BRITAIN'S STRONGEST MAN</sub-title>
+    <desc lang="ca">Sense Descripció</desc>
+    <length units="seconds">2861</length>
+    <subtitles type="teletext"/>
   </programme>
   <channel id="sx3">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20261023002705 +0200" stop="20261023004806 +0200" channel="sx3">
-    <title lang="ca">Els germans Kratt</title>
-    <sub-title lang="ca">El nostre món blau i verd. 2a part</sub-title>
-    <desc lang="ca">Mentre continua la disputa entre els dos germans sobre què és millor, si els mars blaus o els boscos verds, l'Aviva programa dos discos de poder animal perquè els provin: un d'indri de Madagascar pel Chris i un de balena blava pel Martin. Al final, els dos germans entendran que han de tornar a treballar junts i sumar esforços, igual que fan el bosc i el mar per donar vida a la Terra.</desc>
-    <length units="seconds">1261</length>
-    <episode-num system="onscreen">167</episode-num>
+  <programme start="20261023024748 +0200" stop="20261023030826 +0200" channel="sx3">
+    <title lang="ca">Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
+    <sub-title lang="ca">Culpabisme</sub-title>
+    <desc lang="ca">La Marinette descobreix que la Juleka amaga un secret de la Rose des de fa molt de temps. Pensant que ajudarà la Juleka, la Marinette la convenç perquè l'hi expliqui i li promet que no li dirà mai a la Rose que ho sap. Però malgrat la seva promesa, la Marinette i els companys ja no es poden comportar de manera normal amb la Rose, que de seguida s'adona que la Juleka ha xerrat més del compte. Això fa que la Juleka s'enfonsi en un abisme de culpabilitat tan profund que l'Esfinx Fosc intentarà aprofitar-ho per mirar de capturar Ladybug i el Gat Noir.</desc>
+    <length units="seconds">1238</length>
+    <episode-num system="onscreen">89</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
@@ -103,12 +100,12 @@
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20261023004806 +0200" stop="20261023010937 +0200" channel="sx3">
-    <title lang="ca">Els germans Kratt</title>
-    <sub-title lang="ca">Zum-zumzzzz</sub-title>
-    <desc lang="ca">El Chris i el Martin es miniaturitzen per investigar què hi ha sota el tronc d'un arbre que ha caigut. Allà, troben una salamandra afamada i, per sort, en poden fugir muntats dalt d'un borinot que els porta al seu niu, on coneixen la reina i les femelles obreres, i aprenen moltes coses d'aquest animal que està en perill d'extinció. Mentrestant, la resta del grup, que els busca, descobreix que el Zach està atrapant un munt de borinots.</desc>
-    <length units="seconds">1291</length>
-    <episode-num system="onscreen">168</episode-num>
+  <programme start="20261023030826 +0200" stop="20261023032919 +0200" channel="sx3">
+    <title lang="ca">Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
+    <sub-title lang="ca">Cocoduo</sub-title>
+    <desc lang="ca">La Marinette està convençuda que al Luka l'han akumatitzat diverses vegades per culpa seva, perquè el Luka està enamorat d'ella però ella n'està de l'Adrien. Des que el Luka li va dir que l'estimava, la Marinette l'evita per protegir-lo, però evidentment aquesta situació els fa mal a tots dos. Per això els seus amics decideixen organitzar una trobada entre ells dos aprofitant la festa d'aniversari de la Juleka, la germana bessona del Luka. Però quan la Marinette s'adona que és un parany, se li acut un pla condemnat a causar més d'un desastre i una akumatització inesperada.</desc>
+    <length units="seconds">1253</length>
+    <episode-num system="onscreen">90</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
@@ -120,28 +117,28 @@
   <channel id="c33">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20261022233946 +0200" stop="20261023003707 +0200" channel="c33">
-    <title lang="ca">Savis i sàvies</title>
-    <sub-title lang="ca">Abel Mariné</sub-title>
-    <desc lang="ca">Nascut a Gràcia, però adoptat de ben petit per Badalona, on encara viu. Doctorat en farmàcia, catedràtic emèrit en nutrició i bromatologia per la Universitat de Barcelona, és una de les persones que més en saben, de què i com mengem. Al seu profund coneixement científic s'hi ha de sumar l'enorme tasca que ha fet divulgant a través de llibres, ràdios i programes de televisió. Si mengem més bé, en bona part, és gràcies ala seva feina.</desc>
-    <length units="seconds">3441</length>
-    <episode-num system="onscreen">113</episode-num>
-    <category lang="ca">DIVULGACIÓ</category>
-    <category lang="ca">ENTREVISTES</category>
+  <programme start="20261023023257 +0200" stop="20261023032740 +0200" channel="c33">
+    <title lang="ca">Ale-Hop!</title>
+    <sub-title lang="ca">Tecnocirc</sub-title>
+    <desc lang="ca">Aquest capítol vol tenir una mirada oberta sobre la tecnologia aplicada a l'art circense. En aquest capítol coneixerem propostes on la tecnologia té un paper important. Per exemple, el joc de llums i aigua de la Maria Palma, que mostra les seves habilitats acrobàtiques dins una gran peixera gràcies als seus coneixements sobre la pràctica de l'apnea. O les improvisacions malabars de Troposfera XYZ, basades en una música autogenerada per algoritmes que els serveixen per improvisar moviments impossibles amb els seus diàbolos. També coneixerem en Manolo Alcántara, que amb l'espectacle 'Maña' ha fet un homenatge a la tecnologia analògica construint a temps real, i en cada actuació, una escenografia de grans dimensions. I un artesà de les arts escèniques: el marionetista Jordi Bertran ens sorprendrà i ens farà riure amb els seus entranyables titelles.I, finalment, la Laia Fontan volarà. Visitarà una empresa especialitzada a fer volar persones a l'escenari, i aprofitarà per viure en primera persona aquesta experiència. </desc>
+    <length units="seconds">3283</length>
+    <episode-num system="onscreen">5</episode-num>
+    <category lang="ca">ENTRETENIMENT</category>
+    <category lang="ca">ALTRES</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20261023003707 +0200" stop="20261023012651 +0200" channel="c33">
-    <title lang="ca">Dibuixar pel canvi</title>
-    <sub-title lang="ca">Egipte. Un traç de llibertat</sub-title>
-    <desc lang="ca">Doaa el-Adl, la primera dona a guanyar el prestigiós Premi de Periodisme en la categoria de Caricatura, intenta introduir canvis en el món dels caricaturistes polítics egipcis, àmpliament dominat pels homes. Rebel i molt crítica amb les normes del patriarcat, ha de fer front cada dia als insults, la censura, la intimidació i les amenaces de mort. La directora egípcia Nada Riyadhh dona vida a les obres més famoses de Doaa el-Adl en una cinta en què el gènere del documental es fusiona amb l'animació d'una manera creativa i emotiva. Aquest format dinàmic i atrevit s'endinsa en la problemàtica de la violència contra les dones, ampliant els límits de la llibertat d'expressió en una societat sovint marcada per les restriccions.</desc>
-    <length units="seconds">2984</length>
-    <episode-num system="onscreen">3</episode-num>
-    <category lang="ca">DIVULGACIÓ</category>
-    <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
+  <programme start="20261023032740 +0200" stop="20261023041917 +0200" channel="c33">
+    <title lang="ca">Ale-Hop!</title>
+    <sub-title lang="ca">Senyores i senyors</sub-title>
+    <desc lang="ca">Senyores i senyors, nenes i nens, agafeu seient a la carpa del programa 'Ale-hop', que comença l'espectacle.Així comença aquest capítol, on la Laia Fontan tindrà un record per als artistes i les artistes que han passat pel programa. Tindrem l'oportunitat de veure catorze números nous d'artistes com les germanes Giribaldi, en Kerol, l'Yldor Llach, la Mariona Moya (la Córcoles), en Jordi Caps, la companyia Entre Nous o Planeta Trampolí, entre molts d'altres.Serà un homenatge final a la gent del circ que en els cinc capítols anteriors ens han donat l'oportunitat de conèixer per dins aquest món d'il·lusió, fantasia, risc i, sobretot, vocació.Durant aquest capítol, la Laia estarà acompanyada del nostre col·laborador expert en xarxes socials, en Joan Grivé, 'perquè tot surti segons el previst'.</desc>
+    <length units="seconds">3097</length>
+    <episode-num system="onscreen">6</episode-num>
+    <category lang="ca">ENTRETENIMENT</category>
+    <category lang="ca">ALTRES</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
