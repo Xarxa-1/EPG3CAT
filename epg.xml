@@ -3,100 +3,114 @@
   <channel id="tvi">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20261023171602 +0200" stop="20261023172830 +0200" channel="tvi">
-    <title lang="ca">CUINES CATALUNYA</title>
-    <sub-title lang="ca">Timbal d'albergínia i formatge</sub-title>
-    <desc lang="ca">Les albergínies són una verdura molt versàtil que combinen bé amb molts ingredients. Fem unes albergínies amb formatge i a més les emplatarem en forma de timbal.</desc>
-    <length units="seconds">748</length>
-    <episode-num system="onscreen">1856</episode-num>
-    <category lang="ca">DIVULGACIÓ</category>
-    <category lang="ca">CUINA</category>
+  <programme start="20261023210000 +0200" stop="20261023220037 +0200" channel="tvi">
+    <title lang="ca">Telenotícies vespre</title>
+    <length units="seconds">3637</length>
+    <episode-num system="onscreen">7366</episode-num>
+    <category lang="ca">ACTUALITAT</category>
+    <category lang="ca">INFORMATIU DIÀRI</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <icon src="https://img.ccma.cat/multimedia/jpg/7/2/1758026176427.jpg"/>
+  </programme>
+  <programme start="20261023220037 +0200" stop="20261023222521 +0200" channel="tvi">
+    <title lang="ca">Després de tu</title>
+    <sub-title lang="ca">La mimosa</sub-title>
+    <desc lang="ca">Els horaris de rider de l'Òscar fan que no pugui veure's amb l'Àlex i això provoca que vulgui tornar a estudiar. La relació entre el Pau i l'Helena va bé, tot i que ell té dubtes sobre la conveniència de refer la seva vida tan aviat.</desc>
+    <length units="seconds">1484</length>
+    <episode-num system="onscreen">13</episode-num>
+    <category lang="ca">FICCIÓ</category>
+    <category lang="ca">SÈRIE DRAMÀTICA</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/2/5/1653464509252.jpg"/>
   </programme>
   <channel id="324">
     <display-name>324</display-name>
   </channel>
-  <programme start="20261023170000 +0200" stop="20261023183000 +0200" channel="324">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">5400</length>
-    <episode-num system="onscreen">11510</episode-num>
+  <programme start="20261023210000 +0200" stop="20261023220500 +0200" channel="324">
+    <title lang="ca">Telenotícies vespre</title>
+    <length units="seconds">3900</length>
+    <episode-num system="onscreen">7366</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <subtitles type="teletext"/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/7/2/1758026176427.jpg"/>
   </programme>
-  <programme start="20261023183000 +0200" stop="20261023200000 +0200" channel="324">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">5400</length>
-    <episode-num system="onscreen">11511</episode-num>
+  <programme start="20261023220500 +0200" stop="20261023233000 +0200" channel="324">
+    <title lang="ca">Mésnit</title>
+    <desc lang="ca">El 'Mésnit' arriba a la desena temporada, amb Marina Romero al capdavant de l'espai i amb la voluntat de continuar sent un centre de debat d'idees i d'anàlisi de l'activitat política.</desc>
+    <length units="seconds">5100</length>
+    <episode-num system="onscreen">2186</episode-num>
     <category lang="ca">ACTUALITAT</category>
-    <category lang="ca">INFORMATIU DIÀRI</category>
+    <category lang="ca">DEBAT</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
   <channel id="esport3">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20261023165500 +0200" stop="20261023174500 +0200" channel="esport3">
-    <title lang="ca">Bàsquet</title>
-    <sub-title lang="ca">Reial Madrid-Barça Atlètic / Lliga U / J5</sub-title>
-    <desc lang="ca">Els filials blanc i blaugrana s'enfronten al campionat que disputen les joves promeses júniors dels equips de la Lliga Endesa.</desc>
-    <length units="seconds">3000</length>
-    <episode-num system="onscreen">8149</episode-num>
+  <programme start="20261023210729 +0200" stop="20261023232241 +0200" channel="esport3">
+    <title lang="ca">Futbol</title>
+    <sub-title lang="ca">CE Europa-R. Saragossa / Primera Federació / J9</sub-title>
+    <desc lang="ca">Tot un repte per al conjunt de Gràcia que rep, a Can Dragó, un històric del futbol estatal. Els aragonesos, colíders a la classificació, són els grans favorits per l'ascens a la Segona Divisió.</desc>
+    <length units="seconds">8112</length>
+    <episode-num system="onscreen">206</episode-num>
     <category lang="ca">ESPORTS</category>
     <category lang="ca">RETRANSMISSIONS ESPORTS</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <icon src="https://img.ccma.cat/multimedia/jpg/8/0/1698775546608.jpg"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/0/7/1698446098170.jpg"/>
   </programme>
-  <programme start="20261023174500 +0200" stop="20261023175830 +0200" channel="esport3">
-    <title lang="ca">Zona UFEC</title>
-    <desc lang="ca">Sense Descripció</desc>
-    <length units="seconds">810</length>
-    <episode-num system="onscreen">712</episode-num>
+  <programme start="20261023232241 +0200" stop="20261024005336 +0200" channel="esport3">
+    <title lang="ca">Onze</title>
+    <sub-title lang="ca">El còctel del Barça-Madrid; la clau del Clàssic; Fàbregas i Nin</sub-title>
+    <desc lang="ca">Míriam Riau condueix la tertúlia amb Lluís Carrasco, Irati Vidal, Laura Aparicio, Francesc Garriga i, des de Madrid, Siro López. Àlex Delmàs ens explica la seva clau del Clàssic, amb Joan Fàbregas analitzem qui pot arbitrar el Barça-Madrid i acabem amb les Golfes de l'Onze que ens porta Òscar Nin.</desc>
+    <length units="seconds">5455</length>
+    <episode-num system="onscreen">1274</episode-num>
+    <category lang="ca">ESPORTS</category>
+    <category lang="ca">MAGAZINE</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
     <subtitles type="teletext"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/1/1/1688543515711.jpg"/>
   </programme>
   <channel id="sx3">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20261023171712 +0200" stop="20261023172754 +0200" channel="sx3">
-    <title lang="ca">A jugar! Amb en Titó i els Fa la la</title>
-    <sub-title lang="ca">A jugar amb els colors de l'escola</sub-title>
-    <desc lang="ca">En Titó i els Fa La La van a l'escola! Toca plàstica i per fi podran estrenar els colors de fusta nous, però... no pot ser! Han desaparegut! Algú se'ls ha emportat. Aconseguiran descobrir qui ho ha fet i recuperar-los?</desc>
-    <length units="seconds">642</length>
-    <episode-num system="onscreen">34</episode-num>
-    <category lang="ca">ENTRETENIMENT</category>
-    <category lang="ca">ALTRES</category>
+  <programme start="20261023205957 +0200" stop="20261023212215 +0200" channel="sx3">
+    <title lang="ca">Bola de drac Z</title>
+    <sub-title lang="ca">En Son Gohan continua l'entrenament espacial al món dels déus</sub-title>
+    <desc lang="ca">Des de l'Altre Món en Son Goku detecta l'energia d'en Son Gohan, es teletransporta al món dels déus i es troba el seu fill intentant dominar l'espasa Z. D'altra banda, el monstre Bu, després d'eliminar dues terceres parts de la població mundial, comença a mostrar, de manera sorprenent, una faceta de la seva personalitat que no coneixia ningú.</desc>
+    <length units="seconds">1338</length>
+    <episode-num system="onscreen">249</episode-num>
+    <category lang="ca">FICCIÓ</category>
+    <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
-      <value>INFANTIL</value>
+      <value>JUVENIL</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20261023172754 +0200" stop="20261023173245 +0200" channel="sx3">
-    <title lang="ca">Wonderblocks</title>
-    <sub-title lang="ca">Tornem-hi</sub-title>
-    <desc lang="ca">La Som-hi i la Prou troben un amic nou, en Tornem-hi, que es presenta amb una cançó per explicar-los que repetir accions i patrons pot ser d'allò més divertit.</desc>
-    <length units="seconds">291</length>
-    <episode-num system="onscreen">25</episode-num>
+  <programme start="20261023212215 +0200" stop="20261023214139 +0200" channel="sx3">
+    <title lang="ca">Bola de drac Z</title>
+    <sub-title lang="ca">Impossible! L'espasa Z s'ha trencat!</sub-title>
+    <desc lang="ca">En Son Goku decideix posar a prova l'espasa Z amb el metall més dur de l'univers, però l'arma s'acaba trencant. Quan sembla que s'han esvaït totes les esperances, de l'interior de l'espasa trencada en surt un vell que explica que hi estava atrapat i que convertirà en Son Gohan en el guerrer més poderós de tots els temps.</desc>
+    <length units="seconds">1164</length>
+    <episode-num system="onscreen">250</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
-      <value>INFANTIL</value>
+      <value>JUVENIL</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
@@ -104,28 +118,28 @@
   <channel id="c33">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20261023170451 +0200" stop="20261023172521 +0200" channel="c33">
-    <title lang="ca">Quèquicom</title>
-    <sub-title lang="ca">Montserrat s'enfonsa?</sub-title>
-    <desc lang="ca">Per què cau Montserrat? La reportera Anna Lasaga hi puja per entendre per què es desprenen blocs de roques de milers de tones.Enginyers de Geocat li ensenyen totes les mesures que es prenen per evitar danys a les persones, des de clavar les roques amb claus fins a instal·lar malles que suporten pesos de deu tones. Però el futur de la muntanya està escrit: el seu desmembrament és inevitable. Això ho expliquen el monjo escalador Ramon Oraníes i el geòleg Isaac Camps, els quals aclareixen també per què Montserrat té aquest relleu tan especial. Tot comença quan a Catalunya hi havia un mar interior i no existia el Mediterrani. El final de la història, a 'Quèquicom'.</desc>
-    <length units="seconds">1230</length>
-    <episode-num system="onscreen">97</episode-num>
-    <category lang="ca">DIVULGACIÓ</category>
-    <category lang="ca">MAGAZINE ESPECIALITZAT</category>
+  <programme start="20261023210207 +0200" stop="20261023213028 +0200" channel="c33">
+    <title lang="ca">L'un per l'altre</title>
+    <sub-title lang="ca">PER MOLTS ANYS!</sub-title>
+    <desc lang="ca">La Rosa fa 60 anys, però no ho accepta. Fa tres anys que diu que en fa 57. Tot el barri es posa d'acord per treure-li la bena dels ulls i que assumeixi d'un cop que s'està fent gran.</desc>
+    <length units="seconds">1701</length>
+    <episode-num system="onscreen">29</episode-num>
+    <category lang="ca">FICCIÓ</category>
+    <category lang="ca">SITCOM (COMÈDIA DE SITUACIÓ)</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20261023172521 +0200" stop="20261023174742 +0200" channel="c33">
-    <title lang="ca">Quèquicom</title>
-    <sub-title lang="ca">L9. Un metro únic al món.</sub-title>
-    <desc lang="ca">L9. Un metro únic al mónTrens sense conductor i túnels de dos pisos, en l'obra d'enginyeria més complexa de la història de Catalunya.El sistema de construcció de la línia 9 del metro de Barcelona és únic al món: consisteix en un únic túnel dividit en dos pisos per on circulen els trens en un i altre sentit. Aquesta és l'obra d'enginyeria més complexa de la història de Catalunya. Una altra singularitat és l''automatisme dels combois, que funcionaran sense conductor, teledirigits des d'un centre de control.'Quèquicom' viatja al subsòl de Barcelona a bord d'una de les màquines més sofisticades que hi ha al planeta: una tuneladora. Les seves dimensions i potència són tan enormes que fins i tot té menjador i lavabo. El director d'infraestructures subterrànies de la Generalitat, Jordi Jubany, explica al reporter Miquel Piris com s'està realitzant aquesta obra i les característiques que la fan única al món. La novetat rau, a més, en la construcció de pous que s'endinsen a la terra arribant a profunditats de fins a 60 metres. Allà, el túnel es divideix en dos pisos per col·locar-hi les dues vies del tren, una damunt de l'altra. Aquesta nova construcció està integrada en el mateix túnel i permet construir de manera més ràpida i segura. Miquel Piris també fa un curset accelerat de maquinista de metro. Una feina que, per altra banda, desapareix a la línia 9. Els trens seran teledirigits i se'ls enviarà informació automàtica des d'un centre de control. Es tracta d'una experiència aplicada ja en altres països, però que ara també s'implanta a la línia 9, el tram de metro més llarg d'Europa.Conceptes didàctics / paraules clau: - Tuneladora- Cargol d'Arquimedes- Enginyeria - Sistemes hidràulics- La pressió en obres subterrànies - Conduir a través de ràdio control</desc>
-    <length units="seconds">1341</length>
-    <episode-num system="onscreen">98</episode-num>
-    <category lang="ca">DIVULGACIÓ</category>
-    <category lang="ca">MAGAZINE ESPECIALITZAT</category>
+  <programme start="20261023213028 +0200" stop="20261023220105 +0200" channel="c33">
+    <title lang="ca">L'un per l'altre</title>
+    <sub-title lang="ca">Estrelles Miguelón</sub-title>
+    <desc lang="ca">Un crític gastronòmic de la prestigiosa Guia Miguelón atorga a un plat cuinat per error entre el Toni i el Calafell, la màxima puntuació, les preuades tres estrelles Miguelón. A partir d'aquest moment l'Hotel Lisboa es transforma en un lloc de culte per tots els sibarites de la ciutat. El Toni i el Calafell, creguts del seu geni culinari, decideixen revolucionar la cuina d'autor.</desc>
+    <length units="seconds">1837</length>
+    <episode-num system="onscreen">30</episode-num>
+    <category lang="ca">FICCIÓ</category>
+    <category lang="ca">SITCOM (COMÈDIA DE SITUACIÓ)</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
@@ -138,6 +152,19 @@
   <channel id="oca2">
     <display-name>OCA2</display-name>
   </channel>
+  <programme start="20261023205459 +0200" stop="20261023224454 +0200" channel="oca2">
+    <title lang="ca">Hoquei patins</title>
+    <sub-title lang="ca">- CP Fraga-Telecable HC / Supercopa d'Espanya / 2a semifinal</sub-title>
+    <desc lang="ca">L'Esneca Fraga i el Telecable Gijón juguen la segona semifinal de la Supercopa d'Espanya d'hoquei patins.</desc>
+    <length units="seconds">6595</length>
+    <episode-num system="onscreen">101</episode-num>
+    <category lang="ca">ESPORTS</category>
+    <category lang="ca">RETRANSMISSIONS ESPORTS</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <icon src="https://img.ccma.cat/multimedia/jpg/5/5/1701373461655.jpg"/>
+  </programme>
   <channel id="oca3">
     <display-name>OCA3</display-name>
   </channel>
