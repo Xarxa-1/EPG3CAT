@@ -3,66 +3,63 @@
   <channel id="tvi">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20261023060000 +0200" stop="20261023080000 +0200" channel="tvi">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">7200</length>
-    <episode-num system="onscreen">11506</episode-num>
+  <programme start="20261023103128 +0200" stop="20261023135500 +0200" channel="tvi">
+    <title lang="ca">Tot es mou</title>
+    <desc lang="ca">El programa presentat per Helena Garcia Melero s'emet de dilluns a divendres, de 10.30 a 13.55. Un magazín d'actualitat que busca informar, analitzar i debatre sobre temes que marquen l'actualitat social, econòmica i cultural del dia, amb una àmplia presència en directe dels reporters i reporteres, repartits per tot Catalunya. A més, el 'Tot es mou' compta amb seccions diàries de gastronomia (amb els principals cuiners i cuineres del país), successos, economia, mobilitat, temes mèdics i de tecnologia, entre d'altres.</desc>
+    <length units="seconds">12212</length>
+    <episode-num system="onscreen">1835</episode-num>
     <category lang="ca">ACTUALITAT</category>
-    <category lang="ca">INFORMATIU DIÀRI</category>
+    <category lang="ca">MAGAZINE</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
-  <programme start="20261023080000 +0200" stop="20261023103000 +0200" channel="tvi">
-    <title lang="ca">Matins</title>
-    <desc lang="ca">'Matins' és un dels puntals informatius de TV3. El programa matinal dona les claus del dia que comença, explica les notícies que han passat aportant-ne el context per entendre-les i analitza amb veus acreditades l'actualitat més propera i la d'arreu del món. 'Matins' comença a les 8 del matí, de dilluns a divendres, i està presentat per Ariadna Oltra.</desc>
-    <length units="seconds">9000</length>
-    <episode-num system="onscreen">4698</episode-num>
+  <programme start="20261023135500 +0200" stop="20261023143000 +0200" channel="tvi">
+    <title lang="ca">Telenotícies comarques</title>
+    <length units="seconds">2100</length>
+    <episode-num system="onscreen">7061</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <icon src="https://img.ccma.cat/multimedia/jpg/2/0/1758040151402.jpg"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/5/2/1758026313525.jpg"/>
   </programme>
   <channel id="324">
     <display-name>324</display-name>
   </channel>
-  <programme start="20261023060000 +0200" stop="20261023080000 +0200" channel="324">
+  <programme start="20261023120000 +0200" stop="20261023135500 +0200" channel="324">
     <title lang="ca">Notícies 3CatInfo</title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">7200</length>
-    <episode-num system="onscreen">11506</episode-num>
-    <category lang="ca">ACTUALITAT</category>
-    <category lang="ca">INFORMATIU DIÀRI</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
-  </programme>
-  <programme start="20261023080000 +0200" stop="20261023103000 +0200" channel="324">
-    <title lang="ca">Matins</title>
-    <desc lang="ca">'Matins' és un dels puntals informatius de TV3. El programa matinal dona les claus del dia que comença, explica les notícies que han passat aportant-ne el context per entendre-les i analitza amb veus acreditades l'actualitat més propera i la d'arreu del món. 'Matins' comença a les 8 del matí, de dilluns a divendres, i està presentat per Ariadna Oltra.</desc>
-    <length units="seconds">9000</length>
-    <episode-num system="onscreen">4698</episode-num>
+    <length units="seconds">6900</length>
+    <episode-num system="onscreen">11508</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/2/0/1758040151402.jpg"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
+  </programme>
+  <programme start="20261023135500 +0200" stop="20261023143000 +0200" channel="324">
+    <title lang="ca">Telenotícies comarques</title>
+    <length units="seconds">2100</length>
+    <episode-num system="onscreen">7061</episode-num>
+    <category lang="ca">ACTUALITAT</category>
+    <category lang="ca">INFORMATIU DIÀRI</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <icon src="https://img.ccma.cat/multimedia/jpg/5/2/1758026313525.jpg"/>
   </programme>
   <channel id="esport3">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20261023071046 +0200" stop="20261023084251 +0200" channel="esport3">
+  <programme start="20261023112805 +0200" stop="20261023130000 +0200" channel="esport3">
     <title lang="ca">Onze</title>
     <sub-title lang="ca">Soroll de clàssic; 'Onzeclopèdia' i 'El consultori'</sub-title>
     <desc lang="ca">David Bernabeu, Víctor Lozano, Laia Tudel, Fernando Polo i Siro López pentinen la prèvia del clàssic. En Fran Domènech presenta els titulars més curiosos de la premsa esportiva. En Sergi Ferrer respon els dubtes dels espectadors de l'Onze.</desc>
-    <length units="seconds">5525</length>
+    <length units="seconds">5515</length>
     <episode-num system="onscreen">1273</episode-num>
     <category lang="ca">ESPORTS</category>
     <category lang="ca">MAGAZINE</category>
@@ -73,29 +70,29 @@
     <previously-shown/>
     <icon src="https://img.ccma.cat/multimedia/jpg/1/1/1688543515711.jpg"/>
   </programme>
-  <programme start="20261023084251 +0200" stop="20261023100045 +0200" channel="esport3">
-    <title lang="ca">Handbol</title>
-    <sub-title lang="ca">Barça-Montpeller / EHF Champions / J5</sub-title>
-    <desc lang="ca">Penúltima jornada de la fase de grups. En el precedent que van jugar a la ciutat occitana, els blaugranes van guanyar per 27 a 28.</desc>
-    <length units="seconds">4674</length>
-    <episode-num system="onscreen">426</episode-num>
+  <programme start="20261023130000 +0200" stop="20261023140124 +0200" channel="esport3">
+    <title lang="ca">Esport Club</title>
+    <sub-title lang="ca">Lamine contra Mbappé, Manolo González, Harriet Kjaer i tertúlia</sub-title>
+    <desc lang="ca">Lamine Yamal i Kylian Mbappé arriben endollats al clàssic. En parlem amb l'Àlex Delmàs. Manolo González abans del Racing-Espanyol de demà dissabte. Entrevistem Harriet Kjaer, guanyadora de la Trail Cat The Race. A la tertúlia ens acompanyen Nacho Peña, Iris Miquel i David Sánchez.</desc>
+    <length units="seconds">3684</length>
+    <episode-num system="onscreen">3268</episode-num>
     <category lang="ca">ESPORTS</category>
-    <category lang="ca">RETRANSMISSIONS ESPORTS</category>
+    <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <previously-shown/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1729614070941.jpg"/>
+    <subtitles type="teletext"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/7/3/1698145091337.jpg"/>
   </programme>
   <channel id="sx3">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20261023073148 +0200" stop="20261023074222 +0200" channel="sx3">
-    <title lang="ca">La Patrulla Peluda</title>
-    <sub-title lang="ca">La Patrulla Marina: La Patrulla salva el moll</sub-title>
-    <desc lang="ca">Avui és l'exposició d'art de Platja Aventures, però l'obra d'art d'en François portarà problemes i la Patrulla Marina els haurà de solucionar.</desc>
-    <length units="seconds">634</length>
-    <episode-num system="onscreen">170</episode-num>
+  <programme start="20261023121257 +0200" stop="20261023123356 +0200" channel="sx3">
+    <title lang="ca">Els germans Kratt</title>
+    <sub-title lang="ca">Els buscadors de mel</sub-title>
+    <desc lang="ca">Avui toca sortir d'aventura a descobrir quin és l'animal més dur i més ferotge de l'Àfrica. Però a punt d'emprendre el viatge, el detector de dolents d'en Koki ha interceptat un missatge del Gormand, el xef il·legal d'espècies amenaçades. Canvi de plans! Comença l'operació 'Salvem l'animal misteriós dels fogons'! Els hi acompanyes?!</desc>
+    <length units="seconds">1259</length>
+    <episode-num system="onscreen">10</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
@@ -104,44 +101,51 @@
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20261023074222 +0200" stop="20261023075411 +0200" channel="sx3">
-    <title lang="ca">La Patrulla Peluda</title>
-    <sub-title lang="ca">- La Patrulla i el misteri de vehicle eruga sense conductor</sub-title>
-    <desc lang="ca">Sense Descripció</desc>
-    <length units="seconds">709</length>
-    <episode-num system="onscreen">215</episode-num>
+  <programme start="20261023123356 +0200" stop="20261023125559 +0200" channel="sx3">
+    <title lang="ca">Els germans Kratt</title>
+    <sub-title lang="ca">A la recerca de la perca</sub-title>
+    <desc lang="ca">Tot provant els nous poders de perca del Vestit de Poder Animal, en Chris i en Martin han conegut en Gavin, un nen que es passa tot l'estiu pescant i que s'ha deixat enredar per en Zach de participar en un concurs de pesca que pot acabar molt malament. Els germans Kratt sempre juguen net, però d'en Zach no se'n pot pas dir el mateix! Que comenci el concurs!</desc>
+    <length units="seconds">1323</length>
+    <episode-num system="onscreen">11</episode-num>
+    <category lang="ca">FICCIÓ</category>
+    <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
+    <rating>
+      <value>INFANTIL</value>
+    </rating>
     <subtitles type="teletext"/>
+    <previously-shown/>
   </programme>
   <channel id="c33">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20261023072639 +0200" stop="20261023075350 +0200" channel="c33">
-    <title lang="ca">Viure als Pirineus</title>
-    <sub-title lang="ca">Un hoteler dels Pirineus (Primavera - Estiu)</sub-title>
-    <desc lang="ca">En Cinto Gabriel és fill d'una nissaga d'hotelers que regenta l'hotel Cardós ajudat per la família. La seva feina és l'atenció als clients, però, en realitat, fa una mica de tot.En Cinto és un col·leccionista nat del qual se'n podria destacar la passió pels bolets, per les papallones o per la fotografia, entre moltes altres. Aficions totes inculcades per antics clients. Però on se sent realment lliure és a dalt de les muntanyes on gaudeix dels seus paisatges preferits, tant per tradició familiar com per la seva bellesa natural, com el pla de Nèqua, a 2.000 metres. Un lloc on els seus clients acostumen a anar-hi un any sí i l'altre també. Amb tot, la seva afició més gran és l'òpera. N'escolta cada dia i l'ha incorporat a tots els actes importants de la seva vida, i això l'ha portat a abocar-se també en la conservació activa del patrimoni històric de la vall de Cardós, participant en el teatre o fent de campaner.</desc>
-    <length units="seconds">1631</length>
-    <episode-num system="onscreen">1</episode-num>
+  <programme start="20261023122541 +0200" stop="20261023140041 +0200" channel="c33">
+    <title lang="ca">El Gran Dictat, VIP</title>
+    <sub-title lang="ca">El Gran Gran Dictat</sub-title>
+    <desc lang="ca">Aquest dissabte, seuran a la taula d''El gran gran dictat' tres grans grans concursants disposats a guanyar i a passar una bona estona amb l'Òscar Dalmau. L'Ona Carbonell, la concursant més sincronitzada que ha vingut fins ara. El David Balaguer, periodista i periquito. I l'Amparo Moreno, actriu polifacètica que tant te la pots trobar en una telenovel·la com fent de vedet a El Molino.Aquests tres concursants, grans coneguts dels nostres espectadors, no només vindran a demostrar els seus coneixements de català. L'Ona Carbonell ballarà molt sincronitzadament la melodia d''El gran dictat'. El David Balaguer ens ensenyarà a preparar un dels còctels més estrambòtics que ens podríem trobar: 'l'escopinya colada'. I, per últim, descobrirem quina és l'addicció més inconfessable de l'Amparo Moreno.I tot això amenitzat per un dels mags més irreverents del panorama català: el Mag Lari, que aquesta temporada farà més d'una aparició estel·lar i, de pas, tocarà una mica el voraviu a l'Òscar Dalmau.</desc>
+    <length units="seconds">5700</length>
+    <episode-num system="onscreen">31</episode-num>
     <category lang="ca">DIVULGACIÓ</category>
-    <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
+    <category lang="ca">EDUCATIU</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20261023075350 +0200" stop="20261023082148 +0200" channel="c33">
-    <title lang="ca">Viure als Pirineus</title>
-    <sub-title lang="ca">Un guarda de refugi dels Pirineus (Primavera - estiu)</sub-title>
-    <desc lang="ca">«Un guarda de refugi dels Pirineus» ens presenta una història d'amor entre un home i una muntanya, la Pierre Saint Martin. És una història que va començar fa més de quaranta anys en una vall veïna. Als seus 62 anys, Jean Hourticq, és tot un representant de la història d'aquesta regió, la del Lapiaz més gran d'Europa, un territori calcari de relleu accidentat i gorgues profundes. Aquest home de muntanya dirigeix, des de fa 22 anys, el refugi Jeandel, situat en un pic rocós, a 1.600 metres d'alçada, un refugi que provoca la curiositat d'excursionistes, escaladors i aventurers de tota mena. Cada dia, en Jean i la seva dona hi garanteixen els àpats, l'allotjament i la millor acollida possible a tots els visitants que passen pel refugi. A tots dos, units també per l'amor a la muntanya, els agrada conèixer gent i compartir-hi bons moments.La temporada d'estiu s'acaba i nosaltres seguirem la parella en el moment en què aturen la seva activitat, a les portes de la jubilació. L'Anthony, fill d'en Jean, garantirà la pervivència del refugi, sota la tutela benvolent del seu pare. Es tracta d'una transmissió que va molt més enllà del que podria ser un petit negoci familiar, perquè perllonga en el temps una història íntima i antiga entre les muntanyes dels Pirineus i tots aquells que hi conviuen.S'acosta l'hivern, i l'Anthony i la Camille, que a partir d'ara s'ocuparan de les instal·lacions, es troben davant d'un nou repte que truca a la porta del refugi Jeandel...</desc>
-    <length units="seconds">1678</length>
-    <episode-num system="onscreen">2</episode-num>
+  <programme start="20261023140041 +0200" stop="20261023144715 +0200" channel="c33">
+    <title lang="ca">La Renaixença</title>
+    <sub-title lang="ca">El vàter</sub-title>
+    <desc lang="ca">Quantes hores podem passar asseguts a la tassa del vàter al llarg de la vida? I no volem dir que siguin hores desaprofitades, tot el contrari, sovint hi passem més temps del qual ens fa falta perquè... confessem-ho: tots ens hi emportem el mòbil. Rebem la visita de Sandra Ànima, una facialista que, com el nom indica, no ens llegirà el palmell de la mà, sinó la cara! Sabem posar cara de pòquer? A 'Històries per passejar el gos' anem amb la Guida, d'Olesa de Montserrat, fins a la guerra freda i el cas Roswell, el 1947.</desc>
+    <length units="seconds">2794</length>
+    <episode-num system="onscreen">59</episode-num>
     <category lang="ca">DIVULGACIÓ</category>
-    <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
+    <category lang="ca">ALTRES</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/3/3/1756148014833.jpg"/>
   </programme>
   <channel id="oca1">
     <display-name>OCA1</display-name>
