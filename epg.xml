@@ -3,41 +3,28 @@
   <channel id="tvi">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20261024143000 +0200" stop="20261024153634 +0200" channel="tvi">
-    <title lang="ca">Telenotícies migdia</title>
-    <length units="seconds">3994</length>
-    <episode-num system="onscreen">7368</episode-num>
-    <category lang="ca">ACTUALITAT</category>
-    <category lang="ca">INFORMATIU DIÀRI</category>
+  <programme start="20261024185130 +0200" stop="20261024192010 +0200" channel="tvi">
+    <title lang="ca">Jet lag</title>
+    <sub-title lang="ca">OBSESSIONS</sub-title>
+    <desc lang="ca">La Sílvia està a punt de rebre la visita d'una antiga professora seva que ara s'ha convertit en una novel·lista de renom mundial i que ella l'admira profundament des que era petita. Però els mites poden caure. La Mariona diu sense cap problema que ella mai ha llegit un llibre i promet que no en pensa llegir mai cap, però una nit que no pot dormir obre un llibre i ... ja no el pot tornar a deixar. L'Esther a en buscar un filferro per tancar la bossa del pa que ha perdut no sap com. I la Diana ha obert una línia de telèfon eròtic. Té un client fix que la truca cada dia i la seva veu li sona molt. Pot ser el Mario? O potser l'Andreu?.</desc>
+    <length units="seconds">1720</length>
+    <episode-num system="onscreen">21</episode-num>
+    <category lang="ca">FICCIÓ</category>
+    <category lang="ca">TELESÈRIE</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <icon src="https://img.ccma.cat/multimedia/jpg/5/4/1758025766345.jpg"/>
+    <subtitles type="teletext"/>
+    <previously-shown/>
   </programme>
-  <programme start="20261024152949 +0200" stop="20261024173011 +0200" channel="tvi">
-    <title lang="ca">Pel·lícula</title>
-    <sub-title lang="ca">L'Escollit</sub-title>
-    <desc lang="ca">L'ESCOLLITProducció: Oberon Cinematogràfica, Alebrije Producciones i The Chosen 2015, AIE, 2016Guió i direcció: Antonio ChavarríasDirector de fotografia: Guillermo Granillo AMC-AECCompositor de música: Arnau BatallerIntèrprets: Alfonso Herrera (Ramón Mercader), Hannah Murray (Sylvia Ageloff), Henry Goodman (Trosky), Julian Sands (Kotov), Elvira Mínguez (Caridad Mercader), Emilio Echevarría (Salazar), Frances Barber (Natalia Sedova), Alejandro Calva (Siqueiros), Roger Casamajor (Capitán Vidal), Javier Godino (Costa) i narrador en versió catalana Ramón MadaulaEl 1940 va arribar a Mèxic un home anomenat Jacques Mornard, deia que era un belga que fugia de la guerra europea per reunir-se amb la seva xicota, una de les secretàries del refugiat Leon Trotsky. Tots ignoraven que en realitat aquell jove convencional i alegre era un agent del servei secret soviètic amb l'encàrrec d'assassinar Trotsky.</desc>
-    <credits>
-      <actor>Alfonso Herrera (Ramón Mercader)</actor>
-      <actor>Hannah Murray (Sylvia Ageloff)</actor>
-      <actor>Henry Goodman (Trosky)</actor>
-      <actor>Julian Sands (Kotov)</actor>
-      <actor>Elvira Mínguez (Caridad Mercader)</actor>
-      <actor>Emilio Echevarría (Salazar)</actor>
-      <actor>Frances Barber (Natalia Sedova)</actor>
-      <actor>Alejandro Calva (Siqueiros)</actor>
-      <actor>Roger Casamajor (Capitán Vidal)</actor>
-      <actor>Javier Godino (Costa)</actor>
-      <actor>narrador en versió catalana Ramón MadaulaEl 1940 va arribar a Mèxic un home anomenat Jacques Mornard</actor>
-      <actor>deia que era un belga que fugia de la guerra europea per reunir-se amb la seva xicota</actor>
-      <actor>una de les secretàries del refugiat Leon Trotsky. Tots ignoraven que en realitat aquell jove convencional</actor>
-      <actor>alegre era un agent del servei secret soviètic amb l'encàrrec d'assassinar Trotsky.</actor>
-    </credits>
-    <length units="seconds">7222</length>
+  <programme start="20261024192010 +0200" stop="20261024192701 +0200" channel="tvi">
+    <title lang="ca">Ets i uts</title>
+    <sub-title lang="ca">Quan vaig tancar un teatre</sub-title>
+    <desc lang="ca">El Roger ha aconseguit vendre un programa a 3cat i necessita que la Mònica l'ajudi a fer-lo. Davant la negativa de la seva tieta, el Roger troba una manera de canviar el transcurs dels fets.</desc>
+    <length units="seconds">411</length>
     <episode-num system="onscreen">1</episode-num>
-    <category lang="ca">FICCIÓ</category>
-    <category lang="ca">PEL·LÍCULA / TELEFILM</category>
+    <category lang="ca">DIVULGACIÓ</category>
+    <category lang="ca">ALTRES</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
@@ -47,22 +34,24 @@
   <channel id="324">
     <display-name>324</display-name>
   </channel>
-  <programme start="20261024143000 +0200" stop="20261024163000 +0200" channel="324">
-    <title lang="ca">Telenotícies migdia</title>
-    <length units="seconds">7200</length>
-    <episode-num system="onscreen">7368</episode-num>
+  <programme start="20261024183000 +0200" stop="20261024200000 +0200" channel="324">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="seconds">5400</length>
+    <episode-num system="onscreen">11519</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <icon src="https://img.ccma.cat/multimedia/jpg/5/4/1758025766345.jpg"/>
+    <subtitles type="teletext"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
-  <programme start="20261024163000 +0200" stop="20261024183000 +0200" channel="324">
+  <programme start="20261024200000 +0200" stop="20261024210000 +0200" channel="324">
     <title lang="ca">Notícies 3CatInfo</title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">7200</length>
-    <episode-num system="onscreen">11518</episode-num>
+    <length units="seconds">3600</length>
+    <episode-num system="onscreen">11520</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
@@ -74,100 +63,110 @@
   <channel id="esport3">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20261024134838 +0200" stop="20261024163857 +0200" channel="esport3">
+  <programme start="20261024181000 +0200" stop="20261024190225 +0200" channel="esport3">
     <title lang="ca">Futbol</title>
-    <sub-title lang="ca">Reial Societat-RCD Espanyol / Lliga F / J8</sub-title>
-    <desc lang="ca">Tots dos equips sumen 8 punts i empaten a la classificació després de 2 victòries, 2 empats i 3 derrotes.</desc>
-    <length units="seconds">10219</length>
-    <episode-num system="onscreen">55</episode-num>
+    <sub-title lang="ca">Logronyo-FC Badalona Women / Lliga F / J8</sub-title>
+    <desc lang="ca">Les badalonines volen aprofitar la visita al camp de les penúltimes classificades per trencar la mala ratxa de 4 partits seguits sense guanyar. </desc>
+    <length units="seconds">3145</length>
+    <episode-num system="onscreen">56</episode-num>
     <category lang="ca">ESPORTS</category>
     <category lang="ca">RETRANSMISSIONS ESPORTS</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <subtitles type="teletext"/>
-    <previously-shown/>
     <icon src="https://img.ccma.cat/multimedia/jpg/0/8/1730389343680.jpg"/>
   </programme>
-  <programme start="20261024163857 +0200" stop="20261024172754 +0200" channel="esport3">
-    <title lang="ca">Sala de Premsa</title>
-    <sub-title lang="ca">Mourinho / Prèvia Barça-R. Madrid / J10</sub-title>
-    <desc lang="ca">Esport3 t'ofereix les compareixences de dirigents, jugadors i entrenadors dels equips catalans davant els mitjans de comunicació.</desc>
-    <length units="seconds">2937</length>
-    <episode-num system="onscreen">744</episode-num>
+  <programme start="20261024190225 +0200" stop="20261024191526 +0200" channel="esport3">
+    <title lang="ca">Esport Club Cap de Setmana</title>
+    <sub-title lang="ca">Esport Club</sub-title>
+    <desc lang="ca">Magazín amb tota l'actualitat esportiva del cap de setmana, amb atenció especial a la jornada de futbol i les principals competicions del nostre esport.</desc>
+    <length units="seconds">781</length>
+    <episode-num system="onscreen">1407</episode-num>
     <category lang="ca">ESPORTS</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <subtitles type="teletext"/>
-    <icon src="https://img.3cat.cat/multimedia/jpg/7/4/1778665728847.jpg"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/7/3/1698145091337.jpg"/>
   </programme>
   <channel id="sx3">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20261024152540 +0200" stop="20261024153644 +0200" channel="sx3">
-    <title lang="ca">Les Sisters</title>
-    <sub-title lang="ca">L'atracament</sub-title>
-    <desc lang="ca">Per un curiós malentès, la Marine creu que la Wendy prepara un atracament a un banc amb el seu nòvio Maxence. La Marine vol impedir que la seva germana faci el disbarat més gran de la seva vida i amb l'ajuda de les seves amigues intenta que el cop falli... per mala sort de la Wendy, que l'únic que feia era assajar un paper per un càsting...</desc>
-    <length units="seconds">664</length>
-    <episode-num system="onscreen">43</episode-num>
+  <programme start="20261024184737 +0200" stop="20261024185439 +0200" channel="sx3">
+    <title lang="ca">El xai Shaun</title>
+    <sub-title lang="ca">El geni</sub-title>
+    <desc lang="ca">El Shaun somia en una vida plena d'èxits sense saber que ben aviat la sort li somriurà. Avui la Shirley li oferirà una cosa que podria fer realitat tots els seus somnis! Ara l'únic obstacle que té per poder viure a cos de rei és la resta del ramat. Serà capaç de deixar de banda els companys de tota la vida per poder fer tot allò que sempre ha somiat? Aviat ho sabrem!</desc>
+    <length units="seconds">422</length>
+    <episode-num system="onscreen">104</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
       <value>INFANTIL</value>
     </rating>
-    <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20261024153644 +0200" stop="20261024154747 +0200" channel="sx3">
-    <title lang="ca">Les Sisters</title>
-    <sub-title lang="ca">Joc, set i partit per les germanes</sub-title>
-    <desc lang="ca">La Wendy guanya dues entrades per anar a una final d'un torneig de tenis. La Marine i la seva mare volen acompanyar-la a veure el partit, però la Wendy s'estima més convidar-hi el Maxence. Mare i filla fan servir totes les seves armes per seduir la Wendy i convèncer-la que les deixi anar amb ella. Mentrestant, la Wendy s'aprofita de la situació...</desc>
-    <length units="seconds">663</length>
-    <episode-num system="onscreen">44</episode-num>
+  <programme start="20261024185439 +0200" stop="20261024190039 +0200" channel="sx3">
+    <title lang="ca">El xai Shaun</title>
+    <sub-title lang="ca">Televisió 3D</sub-title>
+    <desc lang="ca">El granger està més content que mai amb el televisor 3D que s'acaba de comprar. Mentre es prepara per veure la vida en tres dimensions, el Bitzer s'encarrega de la instal·lació dels aparells. I coneixent el Bitzer, les tres dimensions es poden arribar a convertir en un malson per al pobre granger! Que no li passi res!</desc>
+    <length units="seconds">360</length>
+    <episode-num system="onscreen">105</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
       <value>INFANTIL</value>
     </rating>
-    <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
   <channel id="c33">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20261024145825 +0200" stop="20261024154252 +0200" channel="c33">
-    <title lang="ca">Els habitants de la fi del món</title>
-    <sub-title lang="ca">Lincolnshire</sub-title>
-    <desc lang="ca">En Ben es queda al Regne Unit i es dirigeix al nord d'Anglaterra per conèixer un altre estil de vida: la vida en furgoneta. Passa uns dies amb el seu amfitrió, en Paul, per saber per què va canviar la vida en una casa per la vida a la carretera. Descobreix que en Paul es va unir a una comunitat de nòmades a temps complet que viuen a la carretera i fora del sistema, al Regne Unit, i també s'adona dels reptes que comporta aquest moviment en auge. En Ben es troba amb en Paul al seu camió militar de 30 anys reconvertit, la Roxy. Junts, viatgen cap a la costa per passar la nit a la platja. En Ben està familiaritzat amb la gent que viu en furgonetes als Estats Units, però té curiositat per saber com és possible aquest estil de vida al Regne Unit amb les estrictes lleis d'acampada que té el país.</desc>
-    <length units="seconds">2667</length>
-    <episode-num system="onscreen">73</episode-num>
-    <category lang="ca">DIVULGACIÓ</category>
-    <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
+  <programme start="20261024184253 +0200" stop="20261024185354 +0200" channel="c33">
+    <title lang="ca">Gran!</title>
+    <sub-title lang="ca">Sau: 'Quina nit'</sub-title>
+    <desc lang="ca">El febrer del 2024 va fer 25 anys de la mort de Carles Sabater, cantant dels Sau. 'Quina nit' (1990) va ser l'àlbum que va convertir el grup de Pep Sala i Carles Sabater en artistes mainstream i que inclou la seva cançó més emblemàtica, 'Boig per tu', que ha estat versionada per gent tan diversa com Luz Casal o Shakira. Va ser l'inici d'un gran èxit que els va dur a omplir grans recintes, a fitxar per una multinacional i a gravar amb llegendes del rock com Phil Manzanera (Roxy Music) o Robbie Robertson (The Band). </desc>
+    <length units="seconds">661</length>
+    <episode-num system="onscreen">2</episode-num>
+    <category lang="ca">ENTRETENIMENT</category>
+    <category lang="ca">ALTRES</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
+    <icon src="https://img.ccma.cat/multimedia//jpg/0/1/1714397571710.jpg"/>
   </programme>
-  <programme start="20261024154252 +0200" stop="20261024162727 +0200" channel="c33">
-    <title lang="ca">Els habitants de la fi del món</title>
-    <sub-title lang="ca">Sri Lanka</sub-title>
-    <desc lang="ca">En Ben Fogle es dirigeix a la joia de l'oceà Índic, Sri Lanka, per conviure amb en Naveen i l'Anke, que han instal·lat la seva llar a les terres altes del país. Allà, descobrirà per què van canviar una de les ciutats del món per una existència autosuficient a quilòmetres de la civilització. Aprendrà els problemes que van tenir per establir-se a la seva nova vida, i veurà si volen trencar del tot els seus vincles amb el món exterior per apropar-se més a la natura.Els amfitrions d'en Ben s'han establert a les silencioses ruïnes d'una plantació de te. Les cabines de vidre, que són del tot autosuficients, ofereixen als viatgers que 's'allunyen del circuit turístic' un lloc únic per dormir. En Ben hi arregla una canonada trencada, construeix parets amb fems de vaca, baixa a la ciutat a carregar provisions i s'uneix a una petita empresa que sustenta la comunitat local. També descobreix que, tot i els anys complicats, els seus amfitrions ara aprofiten aquest nou equilibri entre la vida laboral i la vida personal que els aporta calma i satisfacció.</desc>
-    <length units="seconds">2675</length>
-    <episode-num system="onscreen">74</episode-num>
-    <category lang="ca">DIVULGACIÓ</category>
-    <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
+  <programme start="20261024185354 +0200" stop="20261024190148 +0200" channel="c33">
+    <title lang="ca">Gran!</title>
+    <sub-title lang="ca">'Umpah-pah'</sub-title>
+    <desc lang="ca">Liderats pel cantant, lletrista i compositor principal Adrià Puntí, els Umpah-pah van assumir amb inventiva i carisma propi unes influències musicals clàssiques (Bob Dylan, The Waterboys, Van Morrison, Bob Marley, Tom Waits, Janis Joplin, U2...). La banda gironina, dissolta l'any 1996, segueix gaudint avui dia d'un culte merescut gràcies al llegat que van deixar en discos com 'Raons de pes', 'Bamboo Avenue' o la dupla formada per 'Bordell' i 'Triquiñuelas al óleo', un autèntic abordatge creatiu que els va portar a enregistrar l'any 1994 dos treballs al mateix temps: l'un cantat en català i l'altre en castellà.</desc>
+    <length units="seconds">474</length>
+    <episode-num system="onscreen">11</episode-num>
+    <category lang="ca">ENTRETENIMENT</category>
+    <category lang="ca">ALTRES</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
+    <icon src="https://img.ccma.cat/multimedia//jpg/0/1/1714397571710.jpg"/>
   </programme>
   <channel id="oca1">
     <display-name>OCA1</display-name>
   </channel>
+  <programme start="20261024182000 +0200" stop="20261024200955 +0200" channel="oca1">
+    <title lang="ca">Hoquei patins</title>
+    <sub-title lang="ca">- Igualada HC-CP Calafell / Supercopa Espanya / 2a semifinal</sub-title>
+    <desc lang="ca">L'Igualada Rigat HC i el Club Patí Calafell La Menorquina juguen la segona semifinal de la Supercopa d'Espanya d'hoquei patins.</desc>
+    <length units="seconds">6595</length>
+    <episode-num system="onscreen">386</episode-num>
+    <category lang="ca">ESPORTS</category>
+    <category lang="ca">RETRANSMISSIONS ESPORTS</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <icon src="https://img.3cat.cat/multimedia/jpg/5/7/1758291200775.jpg"/>
+  </programme>
   <channel id="oca2">
     <display-name>OCA2</display-name>
   </channel>
