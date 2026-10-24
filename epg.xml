@@ -3,46 +3,66 @@
   <channel id="tvi">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20261024100000 +0200" stop="20261024115500 +0200" channel="tvi">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">6900</length>
-    <episode-num system="onscreen">11516</episode-num>
+  <programme start="20261024143000 +0200" stop="20261024153634 +0200" channel="tvi">
+    <title lang="ca">Telenotícies migdia</title>
+    <length units="seconds">3994</length>
+    <episode-num system="onscreen">7368</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/5/4/1758025766345.jpg"/>
   </programme>
-  <programme start="20261024115355 +0200" stop="20261024120859 +0200" channel="tvi">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <desc lang="ca">Sense Descripció</desc>
-    <length units="seconds">904</length>
-    <episode-num system="onscreen">11516</episode-num>
+  <programme start="20261024152949 +0200" stop="20261024173011 +0200" channel="tvi">
+    <title lang="ca">Pel·lícula</title>
+    <sub-title lang="ca">L'Escollit</sub-title>
+    <desc lang="ca">L'ESCOLLITProducció: Oberon Cinematogràfica, Alebrije Producciones i The Chosen 2015, AIE, 2016Guió i direcció: Antonio ChavarríasDirector de fotografia: Guillermo Granillo AMC-AECCompositor de música: Arnau BatallerIntèrprets: Alfonso Herrera (Ramón Mercader), Hannah Murray (Sylvia Ageloff), Henry Goodman (Trosky), Julian Sands (Kotov), Elvira Mínguez (Caridad Mercader), Emilio Echevarría (Salazar), Frances Barber (Natalia Sedova), Alejandro Calva (Siqueiros), Roger Casamajor (Capitán Vidal), Javier Godino (Costa) i narrador en versió catalana Ramón MadaulaEl 1940 va arribar a Mèxic un home anomenat Jacques Mornard, deia que era un belga que fugia de la guerra europea per reunir-se amb la seva xicota, una de les secretàries del refugiat Leon Trotsky. Tots ignoraven que en realitat aquell jove convencional i alegre era un agent del servei secret soviètic amb l'encàrrec d'assassinar Trotsky.</desc>
+    <credits>
+      <actor>Alfonso Herrera (Ramón Mercader)</actor>
+      <actor>Hannah Murray (Sylvia Ageloff)</actor>
+      <actor>Henry Goodman (Trosky)</actor>
+      <actor>Julian Sands (Kotov)</actor>
+      <actor>Elvira Mínguez (Caridad Mercader)</actor>
+      <actor>Emilio Echevarría (Salazar)</actor>
+      <actor>Frances Barber (Natalia Sedova)</actor>
+      <actor>Alejandro Calva (Siqueiros)</actor>
+      <actor>Roger Casamajor (Capitán Vidal)</actor>
+      <actor>Javier Godino (Costa)</actor>
+      <actor>narrador en versió catalana Ramón MadaulaEl 1940 va arribar a Mèxic un home anomenat Jacques Mornard</actor>
+      <actor>deia que era un belga que fugia de la guerra europea per reunir-se amb la seva xicota</actor>
+      <actor>una de les secretàries del refugiat Leon Trotsky. Tots ignoraven que en realitat aquell jove convencional</actor>
+      <actor>alegre era un agent del servei secret soviètic amb l'encàrrec d'assassinar Trotsky.</actor>
+    </credits>
+    <length units="seconds">7222</length>
+    <episode-num system="onscreen">1</episode-num>
+    <category lang="ca">FICCIÓ</category>
+    <category lang="ca">PEL·LÍCULA / TELEFILM</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
     <subtitles type="teletext"/>
+    <previously-shown/>
   </programme>
   <channel id="324">
     <display-name>324</display-name>
   </channel>
-  <programme start="20261024100000 +0200" stop="20261024120000 +0200" channel="324">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+  <programme start="20261024143000 +0200" stop="20261024163000 +0200" channel="324">
+    <title lang="ca">Telenotícies migdia</title>
     <length units="seconds">7200</length>
-    <episode-num system="onscreen">11516</episode-num>
+    <episode-num system="onscreen">7368</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <subtitles type="teletext"/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/5/4/1758025766345.jpg"/>
   </programme>
-  <programme start="20261024120000 +0200" stop="20261024143000 +0200" channel="324">
+  <programme start="20261024163000 +0200" stop="20261024183000 +0200" channel="324">
     <title lang="ca">Notícies 3CatInfo</title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">9000</length>
-    <episode-num system="onscreen">11517</episode-num>
+    <length units="seconds">7200</length>
+    <episode-num system="onscreen">11518</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
@@ -54,43 +74,44 @@
   <channel id="esport3">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20261024102846 +0200" stop="20261024115500 +0200" channel="esport3">
-    <title lang="ca">Onze</title>
-    <sub-title lang="ca">El còctel del Barça-Madrid; la clau del Clàssic; Fàbregas i Nin</sub-title>
-    <desc lang="ca">Míriam Riau condueix la tertúlia amb Lluís Carrasco, Irati Vidal, Laura Aparicio, Francesc Garriga i, des de Madrid, Siro López. Àlex Delmàs ens explica la seva clau del Clàssic, amb Joan Fàbregas analitzem qui pot arbitrar el Barça-Madrid i acabem amb les Golfes de l'Onze que ens porta Òscar Nin.</desc>
-    <length units="seconds">5174</length>
-    <episode-num system="onscreen">1274</episode-num>
-    <category lang="ca">ESPORTS</category>
-    <category lang="ca">MAGAZINE</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <subtitles type="teletext"/>
-    <previously-shown/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/1/1/1688543515711.jpg"/>
-  </programme>
-  <programme start="20261024115500 +0200" stop="20261024134700 +0200" channel="esport3">
-    <title lang="ca">Futbol sala</title>
-    <sub-title lang="ca">El Ejido FS-Barça / Primera divisió / J6</sub-title>
-    <desc lang="ca">La victòria en el primer partit de la jornada permetria als blaugranes situar-se com a líders provisionals de la classificació.</desc>
-    <length units="seconds">6720</length>
-    <episode-num system="onscreen">483</episode-num>
+  <programme start="20261024134838 +0200" stop="20261024163857 +0200" channel="esport3">
+    <title lang="ca">Futbol</title>
+    <sub-title lang="ca">Reial Societat-RCD Espanyol / Lliga F / J8</sub-title>
+    <desc lang="ca">Tots dos equips sumen 8 punts i empaten a la classificació després de 2 victòries, 2 empats i 3 derrotes.</desc>
+    <length units="seconds">10219</length>
+    <episode-num system="onscreen">55</episode-num>
     <category lang="ca">ESPORTS</category>
     <category lang="ca">RETRANSMISSIONS ESPORTS</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <icon src="https://img.ccma.cat/multimedia/jpg/1/5/1699004339351.jpg"/>
+    <subtitles type="teletext"/>
+    <previously-shown/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/0/8/1730389343680.jpg"/>
+  </programme>
+  <programme start="20261024163857 +0200" stop="20261024172754 +0200" channel="esport3">
+    <title lang="ca">Sala de Premsa</title>
+    <sub-title lang="ca">Mourinho / Prèvia Barça-R. Madrid / J10</sub-title>
+    <desc lang="ca">Esport3 t'ofereix les compareixences de dirigents, jugadors i entrenadors dels equips catalans davant els mitjans de comunicació.</desc>
+    <length units="seconds">2937</length>
+    <episode-num system="onscreen">744</episode-num>
+    <category lang="ca">ESPORTS</category>
+    <category lang="ca">INFORMATIU DIÀRI</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <subtitles type="teletext"/>
+    <icon src="https://img.3cat.cat/multimedia/jpg/7/4/1778665728847.jpg"/>
   </programme>
   <channel id="sx3">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20261024111536 +0200" stop="20261024113706 +0200" channel="sx3">
-    <title lang="ca">El carreró del misteri</title>
-    <sub-title lang="ca">L'adversari invencible</sub-title>
-    <desc lang="ca">L'agent Paxton, el colom de Scotland Yard, està a punt de compartir una informació important amb el seu cap, l'inspector McFlaire. Just en aquell moment, però, els ataca un adversari petit, esmunyedís i misteriós, que fa servir tècniques de combat ninja.</desc>
-    <length units="seconds">1290</length>
-    <episode-num system="onscreen">9</episode-num>
+  <programme start="20261024152540 +0200" stop="20261024153644 +0200" channel="sx3">
+    <title lang="ca">Les Sisters</title>
+    <sub-title lang="ca">L'atracament</sub-title>
+    <desc lang="ca">Per un curiós malentès, la Marine creu que la Wendy prepara un atracament a un banc amb el seu nòvio Maxence. La Marine vol impedir que la seva germana faci el disbarat més gran de la seva vida i amb l'ajuda de les seves amigues intenta que el cop falli... per mala sort de la Wendy, que l'únic que feia era assajar un paper per un càsting...</desc>
+    <length units="seconds">664</length>
+    <episode-num system="onscreen">43</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
@@ -99,12 +120,12 @@
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20261024113706 +0200" stop="20261024115928 +0200" channel="sx3">
-    <title lang="ca">El carreró del misteri</title>
-    <sub-title lang="ca">El serval del Tàmesi</sub-title>
-    <desc lang="ca">Un felí de llargues urpes i pell amb taques irromp amagat darrere d'una màscara a l'habitació de la reina en plena de nit i s'endú la monarca com per art de màgia.</desc>
-    <length units="seconds">1342</length>
-    <episode-num system="onscreen">8</episode-num>
+  <programme start="20261024153644 +0200" stop="20261024154747 +0200" channel="sx3">
+    <title lang="ca">Les Sisters</title>
+    <sub-title lang="ca">Joc, set i partit per les germanes</sub-title>
+    <desc lang="ca">La Wendy guanya dues entrades per anar a una final d'un torneig de tenis. La Marine i la seva mare volen acompanyar-la a veure el partit, però la Wendy s'estima més convidar-hi el Maxence. Mare i filla fan servir totes les seves armes per seduir la Wendy i convèncer-la que les deixi anar amb ella. Mentrestant, la Wendy s'aprofita de la situació...</desc>
+    <length units="seconds">663</length>
+    <episode-num system="onscreen">44</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
@@ -116,28 +137,28 @@
   <channel id="c33">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20261024111457 +0200" stop="20261024115652 +0200" channel="c33">
-    <title lang="ca">Rauxa</title>
-    <sub-title lang="ca">Balleu ben fort, diables</sub-title>
-    <desc lang="ca">A través dels membres del Ball de Diables de Cervera, descobrim què significa ser diable i el repte de participar en l'Aquelarre, una festa de foc, tradició i passió.</desc>
-    <length units="seconds">2515</length>
-    <episode-num system="onscreen">1</episode-num>
+  <programme start="20261024145825 +0200" stop="20261024154252 +0200" channel="c33">
+    <title lang="ca">Els habitants de la fi del món</title>
+    <sub-title lang="ca">Lincolnshire</sub-title>
+    <desc lang="ca">En Ben es queda al Regne Unit i es dirigeix al nord d'Anglaterra per conèixer un altre estil de vida: la vida en furgoneta. Passa uns dies amb el seu amfitrió, en Paul, per saber per què va canviar la vida en una casa per la vida a la carretera. Descobreix que en Paul es va unir a una comunitat de nòmades a temps complet que viuen a la carretera i fora del sistema, al Regne Unit, i també s'adona dels reptes que comporta aquest moviment en auge. En Ben es troba amb en Paul al seu camió militar de 30 anys reconvertit, la Roxy. Junts, viatgen cap a la costa per passar la nit a la platja. En Ben està familiaritzat amb la gent que viu en furgonetes als Estats Units, però té curiositat per saber com és possible aquest estil de vida al Regne Unit amb les estrictes lleis d'acampada que té el país.</desc>
+    <length units="seconds">2667</length>
+    <episode-num system="onscreen">73</episode-num>
     <category lang="ca">DIVULGACIÓ</category>
-    <category lang="ca">ALTRES</category>
+    <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20261024115652 +0200" stop="20261024123532 +0200" channel="c33">
-    <title lang="ca">Rauxa</title>
-    <sub-title lang="ca">Caçadors de cançons</sub-title>
-    <desc lang="ca">Una mirada transversal a la cançó de tradició oral a través del festival Cantut. Una experiència que uneix a avis i nets, i que ens apropa des de cantadors anònims fins a bandes musicals.</desc>
-    <length units="seconds">2320</length>
-    <episode-num system="onscreen">2</episode-num>
+  <programme start="20261024154252 +0200" stop="20261024162727 +0200" channel="c33">
+    <title lang="ca">Els habitants de la fi del món</title>
+    <sub-title lang="ca">Sri Lanka</sub-title>
+    <desc lang="ca">En Ben Fogle es dirigeix a la joia de l'oceà Índic, Sri Lanka, per conviure amb en Naveen i l'Anke, que han instal·lat la seva llar a les terres altes del país. Allà, descobrirà per què van canviar una de les ciutats del món per una existència autosuficient a quilòmetres de la civilització. Aprendrà els problemes que van tenir per establir-se a la seva nova vida, i veurà si volen trencar del tot els seus vincles amb el món exterior per apropar-se més a la natura.Els amfitrions d'en Ben s'han establert a les silencioses ruïnes d'una plantació de te. Les cabines de vidre, que són del tot autosuficients, ofereixen als viatgers que 's'allunyen del circuit turístic' un lloc únic per dormir. En Ben hi arregla una canonada trencada, construeix parets amb fems de vaca, baixa a la ciutat a carregar provisions i s'uneix a una petita empresa que sustenta la comunitat local. També descobreix que, tot i els anys complicats, els seus amfitrions ara aprofiten aquest nou equilibri entre la vida laboral i la vida personal que els aporta calma i satisfacció.</desc>
+    <length units="seconds">2675</length>
+    <episode-num system="onscreen">74</episode-num>
     <category lang="ca">DIVULGACIÓ</category>
-    <category lang="ca">ALTRES</category>
+    <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
