@@ -3,55 +3,47 @@
   <channel id="tvi">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20261024185130 +0200" stop="20261024192010 +0200" channel="tvi">
-    <title lang="ca">Jet lag</title>
-    <sub-title lang="ca">OBSESSIONS</sub-title>
-    <desc lang="ca">La Sílvia està a punt de rebre la visita d'una antiga professora seva que ara s'ha convertit en una novel·lista de renom mundial i que ella l'admira profundament des que era petita. Però els mites poden caure. La Mariona diu sense cap problema que ella mai ha llegit un llibre i promet que no en pensa llegir mai cap, però una nit que no pot dormir obre un llibre i ... ja no el pot tornar a deixar. L'Esther a en buscar un filferro per tancar la bossa del pa que ha perdut no sap com. I la Diana ha obert una línia de telèfon eròtic. Té un client fix que la truca cada dia i la seva veu li sona molt. Pot ser el Mario? O potser l'Andreu?.</desc>
-    <length units="seconds">1720</length>
-    <episode-num system="onscreen">21</episode-num>
-    <category lang="ca">FICCIÓ</category>
-    <category lang="ca">TELESÈRIE</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <subtitles type="teletext"/>
-    <previously-shown/>
-  </programme>
-  <programme start="20261024192010 +0200" stop="20261024192701 +0200" channel="tvi">
-    <title lang="ca">Ets i uts</title>
-    <sub-title lang="ca">Quan vaig tancar un teatre</sub-title>
-    <desc lang="ca">El Roger ha aconseguit vendre un programa a 3cat i necessita que la Mònica l'ajudi a fer-lo. Davant la negativa de la seva tieta, el Roger troba una manera de canviar el transcurs dels fets.</desc>
-    <length units="seconds">411</length>
-    <episode-num system="onscreen">1</episode-num>
-    <category lang="ca">DIVULGACIÓ</category>
-    <category lang="ca">ALTRES</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <subtitles type="teletext"/>
-    <previously-shown/>
-  </programme>
-  <channel id="324">
-    <display-name>324</display-name>
-  </channel>
-  <programme start="20261024183000 +0200" stop="20261024200000 +0200" channel="324">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">5400</length>
-    <episode-num system="onscreen">11519</episode-num>
+  <programme start="20261024210000 +0200" stop="20261024220330 +0200" channel="tvi">
+    <title lang="ca">Telenotícies vespre</title>
+    <length units="seconds">3810</length>
+    <episode-num system="onscreen">7367</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <subtitles type="teletext"/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/7/2/1758026176427.jpg"/>
   </programme>
-  <programme start="20261024200000 +0200" stop="20261024210000 +0200" channel="324">
+  <programme start="20261024220330 +0200" stop="20261025005815 +0200" channel="tvi">
+    <title lang="ca">Col·lapse</title>
+    <desc lang="ca">Comptem amb un testimoni excepcional. Diane Foley, mare del periodista americà James Foley, decapitat per Estat Islàmic, seu al plató del 'Col·lapse' per explicar com va viure aquell episodi tan traumàtic de la seva vida i, sobretot, com va ser la trobada de quatre hores que va mantenir amb el segrestador i un dels assassins del seu fill. Unes declaracions molt dures que parlen de perdó i misericòrdia.Convidem el Dr. Antoni Trilla per parlar de la campanya de vacunació de la tardor, ara que hi ha un repunt de casos de grip i covid. També visitem l'epidemiòleg Fernando Simón a Madrid per saber el seu punt de vista sobre la qüestió. Celebrem els 80 anys del productor de televisió Josep Maria Mainat i fem un repàs de la seva intensa vida i trajectòria.Àngel Llàcer i Carlos Latre analitzen les notícies que ens poden haver passat per alt.Connectarem amb París per saber l'última hora de les mobilitzacions massives convocades a França aquest dissabte. Farem anàlisi i reflexió amb Lluís Uría (sotsdirector de La Vanguardia i excorresponsal a París) i José Mansilla (antropòleg de la UAB) sobre les raons i les causes que han portat milers d'estudiants a sortir al carrer per demanar millores en el sistema educatiu. Unes mobilitzacions a què s'han sumat molts ciutadans de professions diverses per queixar-se del cost de la vida, l'augment del preu dels carburants i la manca de recursos als serveis públics. A més, un equip del programa s'ha desplaçat fins a la ciutat de París per parlar amb joves estudiants sobre el perquè de la seva frustració i el politòleg francès Laurent Bonelli. El nostre col·laborador Darío Porras estrena secció fent un homenatge a un dels programes més recordats de TV3 'Amor a primera vista'.La comunicadora Miriam Victòria ens descobreix el costat més inexplicable de Catalunya. I veurem el resultat del nou repte a què s'ha enfrontat aquesta setmana la influencer catalana Anna Callís.'Col·lapse', amb Jordi González, dissabte a l</desc>
+    <length units="seconds">10485</length>
+    <episode-num system="onscreen">158</episode-num>
+    <category lang="ca">ENTRETENIMENT</category>
+    <category lang="ca">TALK-SHOW</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+  </programme>
+  <channel id="324">
+    <display-name>324</display-name>
+  </channel>
+  <programme start="20261024210000 +0200" stop="20261024230000 +0200" channel="324">
+    <title lang="ca">Telenotícies vespre</title>
+    <length units="seconds">7200</length>
+    <episode-num system="onscreen">7367</episode-num>
+    <category lang="ca">ACTUALITAT</category>
+    <category lang="ca">INFORMATIU DIÀRI</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <icon src="https://img.ccma.cat/multimedia/jpg/7/2/1758026176427.jpg"/>
+  </programme>
+  <programme start="20261024230000 +0200" stop="20261025003000 +0200" channel="324">
     <title lang="ca">Notícies 3CatInfo</title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">3600</length>
-    <episode-num system="onscreen">11520</episode-num>
+    <length units="seconds">5400</length>
+    <episode-num system="onscreen">11521</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
@@ -63,12 +55,12 @@
   <channel id="esport3">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20261024181000 +0200" stop="20261024190225 +0200" channel="esport3">
+  <programme start="20261024202500 +0200" stop="20261024211800 +0200" channel="esport3">
     <title lang="ca">Futbol</title>
-    <sub-title lang="ca">Logronyo-FC Badalona Women / Lliga F / J8</sub-title>
-    <desc lang="ca">Les badalonines volen aprofitar la visita al camp de les penúltimes classificades per trencar la mala ratxa de 4 partits seguits sense guanyar. </desc>
-    <length units="seconds">3145</length>
-    <episode-num system="onscreen">56</episode-num>
+    <sub-title lang="ca">FC Barcelona-Granada CF / Lliga F / J8</sub-title>
+    <desc lang="ca">Les blaugranes tornen al Johan amb l'objectiu de retrobar la victòria després de la derrota en l'anterior jornada al camp de la Reial Societat (2-1).</desc>
+    <length units="seconds">3180</length>
+    <episode-num system="onscreen">57</episode-num>
     <category lang="ca">ESPORTS</category>
     <category lang="ca">RETRANSMISSIONS ESPORTS</category>
     <rating>
@@ -76,12 +68,12 @@
     </rating>
     <icon src="https://img.ccma.cat/multimedia/jpg/0/8/1730389343680.jpg"/>
   </programme>
-  <programme start="20261024190225 +0200" stop="20261024191526 +0200" channel="esport3">
+  <programme start="20261024211800 +0200" stop="20261024213055 +0200" channel="esport3">
     <title lang="ca">Esport Club Cap de Setmana</title>
     <sub-title lang="ca">Esport Club</sub-title>
     <desc lang="ca">Magazín amb tota l'actualitat esportiva del cap de setmana, amb atenció especial a la jornada de futbol i les principals competicions del nostre esport.</desc>
-    <length units="seconds">781</length>
-    <episode-num system="onscreen">1407</episode-num>
+    <length units="seconds">775</length>
+    <episode-num system="onscreen">1409</episode-num>
     <category lang="ca">ESPORTS</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
@@ -92,81 +84,68 @@
   <channel id="sx3">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20261024184737 +0200" stop="20261024185439 +0200" channel="sx3">
-    <title lang="ca">El xai Shaun</title>
-    <sub-title lang="ca">El geni</sub-title>
-    <desc lang="ca">El Shaun somia en una vida plena d'èxits sense saber que ben aviat la sort li somriurà. Avui la Shirley li oferirà una cosa que podria fer realitat tots els seus somnis! Ara l'únic obstacle que té per poder viure a cos de rei és la resta del ramat. Serà capaç de deixar de banda els companys de tota la vida per poder fer tot allò que sempre ha somiat? Aviat ho sabrem!</desc>
-    <length units="seconds">422</length>
-    <episode-num system="onscreen">104</episode-num>
+  <programme start="20261024210008 +0200" stop="20261024212119 +0200" channel="sx3">
+    <title lang="ca">Els germans Kratt</title>
+    <sub-title lang="ca">El viatge de l'heroïna (2a part)</sub-title>
+    <desc lang="ca">L'equip dels germans Kratt continua el seu viatge riu amunt seguint l'Heroïna i el salmó que té el propulsor temporal en el seu trajecte cap al lloc on van néixer. Però no sembla que hagi de ser gens fàcil, el riu és ple de perills i només hi arriba un salmó de cada mil. L'equip dels germans Kratt haurà de recórrer a uns quants poders animals per ajudar-los i mirar de recuperar el propulsor temporal. </desc>
+    <length units="seconds">1271</length>
+    <episode-num system="onscreen">133</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
       <value>INFANTIL</value>
     </rating>
+    <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20261024185439 +0200" stop="20261024190039 +0200" channel="sx3">
-    <title lang="ca">El xai Shaun</title>
-    <sub-title lang="ca">Televisió 3D</sub-title>
-    <desc lang="ca">El granger està més content que mai amb el televisor 3D que s'acaba de comprar. Mentre es prepara per veure la vida en tres dimensions, el Bitzer s'encarrega de la instal·lació dels aparells. I coneixent el Bitzer, les tres dimensions es poden arribar a convertir en un malson per al pobre granger! Que no li passi res!</desc>
-    <length units="seconds">360</length>
-    <episode-num system="onscreen">105</episode-num>
+  <programme start="20261024212119 +0200" stop="20261024214129 +0200" channel="sx3">
+    <title lang="ca">Els germans Kratt</title>
+    <sub-title lang="ca">Animals esgarrifossos! (1a part)</sub-title>
+    <desc lang="ca">Arriba la festa de Halloween i l'equip dels germans Kratt es prepara per celebrar-la. Els dos germans decideixen disfressar-se d'algun animal esgarrifós: el Chris tria el vampir comú i el Martin la taràntula Goliat. L'Aviva els promet que si els troben, els en farà un vestit de poder animal. Mentrestant, el Zach s'empesca un pla per fer-se ric amb la festa de Halloween: muntar una casa encantada i omplir-la d'animals esfereïdors. Per trobar-los demana ajuda als seus companys malvats.</desc>
+    <length units="seconds">1210</length>
+    <episode-num system="onscreen">134</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
       <value>INFANTIL</value>
     </rating>
+    <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
   <channel id="c33">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20261024184253 +0200" stop="20261024185354 +0200" channel="c33">
-    <title lang="ca">Gran!</title>
-    <sub-title lang="ca">Sau: 'Quina nit'</sub-title>
-    <desc lang="ca">El febrer del 2024 va fer 25 anys de la mort de Carles Sabater, cantant dels Sau. 'Quina nit' (1990) va ser l'àlbum que va convertir el grup de Pep Sala i Carles Sabater en artistes mainstream i que inclou la seva cançó més emblemàtica, 'Boig per tu', que ha estat versionada per gent tan diversa com Luz Casal o Shakira. Va ser l'inici d'un gran èxit que els va dur a omplir grans recintes, a fitxar per una multinacional i a gravar amb llegendes del rock com Phil Manzanera (Roxy Music) o Robbie Robertson (The Band). </desc>
-    <length units="seconds">661</length>
-    <episode-num system="onscreen">2</episode-num>
-    <category lang="ca">ENTRETENIMENT</category>
-    <category lang="ca">ALTRES</category>
+  <programme start="20261024210233 +0200" stop="20261024213051 +0200" channel="c33">
+    <title lang="ca">Caçadors de bolets</title>
+    <sub-title lang="ca">Mamis Hoquei</sub-title>
+    <desc lang="ca">Aquesta setmana anem al parc natural de Sant Llorenç del Munt, al Vallès Occidental, acompanyant unes mares jugadores d'hoquei. Són cinc representants de l'equip Matadepera 88, amb diferents nivells de cultura boletaire. Unes en saben molt (i ho demostren) i les altres n'estan aprenent. Al final, però, totes acaben amb uns cistells espectaculars, plens d'ous de reig, carlets, llenegues i rovellons.</desc>
+    <length units="seconds">1698</length>
+    <episode-num system="onscreen">109</episode-num>
+    <category lang="ca">DIVULGACIÓ</category>
+    <category lang="ca">DOCUMENTAL DOCUDRAMA</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
-    <icon src="https://img.ccma.cat/multimedia//jpg/0/1/1714397571710.jpg"/>
   </programme>
-  <programme start="20261024185354 +0200" stop="20261024190148 +0200" channel="c33">
-    <title lang="ca">Gran!</title>
-    <sub-title lang="ca">'Umpah-pah'</sub-title>
-    <desc lang="ca">Liderats pel cantant, lletrista i compositor principal Adrià Puntí, els Umpah-pah van assumir amb inventiva i carisma propi unes influències musicals clàssiques (Bob Dylan, The Waterboys, Van Morrison, Bob Marley, Tom Waits, Janis Joplin, U2...). La banda gironina, dissolta l'any 1996, segueix gaudint avui dia d'un culte merescut gràcies al llegat que van deixar en discos com 'Raons de pes', 'Bamboo Avenue' o la dupla formada per 'Bordell' i 'Triquiñuelas al óleo', un autèntic abordatge creatiu que els va portar a enregistrar l'any 1994 dos treballs al mateix temps: l'un cantat en català i l'altre en castellà.</desc>
-    <length units="seconds">474</length>
-    <episode-num system="onscreen">11</episode-num>
-    <category lang="ca">ENTRETENIMENT</category>
-    <category lang="ca">ALTRES</category>
+  <programme start="20261024213051 +0200" stop="20261024215523 +0200" channel="c33">
+    <title lang="ca">Caçadors de bolets</title>
+    <sub-title lang="ca">Joves escoltes</sub-title>
+    <desc lang="ca">En aquest capítol anirem fins al Berguedà amb dos grups de joves escoltes que competiran per veure qui troba més bolets. De bolets en trobaran bastants, però d'escombraries pel bosc, també.</desc>
+    <length units="seconds">1472</length>
+    <episode-num system="onscreen">110</episode-num>
+    <category lang="ca">DIVULGACIÓ</category>
+    <category lang="ca">DOCUMENTAL DOCUDRAMA</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
-    <icon src="https://img.ccma.cat/multimedia//jpg/0/1/1714397571710.jpg"/>
   </programme>
   <channel id="oca1">
     <display-name>OCA1</display-name>
   </channel>
-  <programme start="20261024182000 +0200" stop="20261024200955 +0200" channel="oca1">
-    <title lang="ca">Hoquei patins</title>
-    <sub-title lang="ca">- Igualada HC-CP Calafell / Supercopa Espanya / 2a semifinal</sub-title>
-    <desc lang="ca">L'Igualada Rigat HC i el Club Patí Calafell La Menorquina juguen la segona semifinal de la Supercopa d'Espanya d'hoquei patins.</desc>
-    <length units="seconds">6595</length>
-    <episode-num system="onscreen">386</episode-num>
-    <category lang="ca">ESPORTS</category>
-    <category lang="ca">RETRANSMISSIONS ESPORTS</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <icon src="https://img.3cat.cat/multimedia/jpg/5/7/1758291200775.jpg"/>
-  </programme>
   <channel id="oca2">
     <display-name>OCA2</display-name>
   </channel>
