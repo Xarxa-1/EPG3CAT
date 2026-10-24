@@ -3,102 +3,100 @@
   <channel id="tvi">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20261023234242 +0200" stop="20261024010507 +0200" channel="tvi">
-    <title lang="ca">Pel·lícula</title>
-    <sub-title lang="ca">La Granja del pas</sub-title>
-    <desc lang="ca">'LA GRANJA DEL PAS' (2015), una producció d'INTENT PRODUCCIONS en coproducció amb TELEVISIÓ DE CATALUNYA i amb la col·laboració de l'ICEC.La precarietat econòmica que estem vivint al nostre país ens sacseja a diari, però la fredor de les xifres no pot explicar, ni remotament, el patiment que estan suportant les persones que es troben en aquesta situació i, el que és més important encara, la transformació que en molts casos experimenten. Després de conviure amb ells durant un any, hem elaborat una pel·lícula centrada en les històries humanes. Des del seu relat compartim amb ells la seva veritat, on ens expliquen de manera senzilla i directa el seu dolorós camí, les seves experiències, les seves pors, però també l'alegria de tornar a creure en les seves pròpies forces; un viatge personal que trenca un mur atàvic a l'interior de qui ho escolta. La granja del pas ens mostra una realitat d'on sorgeixen les preguntes més essencials, les profundes contradiccions d'una societat al límit de les seves forces, la necessitat de replantejar-se el futur i l'intens desig d'alliberar-se.Direcció i producció: Sílvia MuntGuió: Sílvia Munt, Raquel Cors i Daniel LacasaProducció executiva: Ramon MadaulaProducció executiva TVC: Jordi AmbròsProducció delegada TVC: Joan PavonDirecció de fotografia i muntatge: Daniel LacasaSo: Nacho YbarraSegona operadora de càmera: Raquel CorsCoordinació de producció: Mónica Muñoz</desc>
-    <credits>
-      <writer>Sílvia Munt</writer>
-      <writer>Raquel Cors</writer>
-      <writer>Daniel Lacasa</writer>
-    </credits>
-    <length units="seconds">4945</length>
-    <episode-num system="onscreen">1</episode-num>
-    <category lang="ca">DIVULGACIÓ</category>
-    <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
+  <programme start="20261024014242 +0200" stop="20261024030000 +0200" channel="tvi">
+    <title lang="ca">Mésnit</title>
+    <desc lang="ca">El 'Mésnit' arriba a la desena temporada, amb Marina Romero al capdavant de l'espai i amb la voluntat de continuar sent un centre de debat d'idees i d'anàlisi de l'activitat política.</desc>
+    <length units="seconds">4638</length>
+    <episode-num system="onscreen">2186</episode-num>
+    <category lang="ca">ACTUALITAT</category>
+    <category lang="ca">DEBAT</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20261024010507 +0200" stop="20261024013040 +0200" channel="tvi">
-    <title lang="ca">Herois quotidians</title>
-    <desc lang="ca">'Herois quotidians', una proposta que, agafant elements de l'humor i de fals documental, fa una mirada irònica i àcida sobre allò que es considera políticament correcte.Més que no pas criticar, 'Herois quotidians' posa la realitat cap per avall i ens proposa una quotidianitat alternativa, una mirada lúcida, divertida i surrealista dels tòpics i prejudicis de la nostra societat feta per Empar Moliner, Àlex Torio i Juan Carlos Ortega.'Herois quotidians' és un programa en clau d'humor que consta de dos reportatges, que ens mostren persones de comportaments exemplars, i un consell per ser més bons ciutadans. Hi ha qui ha dit que es tracta de reportatges falsos, però els seus autors sostenen que no: les persones que hi apareixen no són actors. I els escenaris on s'han rodat les històries són de veritat. En tot cas, el programa ens farà conèixer persones admirables. Com Ramon Muñoz, el primer cantautor de dretes del món. Perquè no només han de fer poesia de les nostres preocupacions els cantautors d'esquerres. Les cançons de Muñoz ens parlen del goig de viatjar en primera classe o de l'emoció de marcar la casella de l'Església a l'hora de fer la declaració de la renda. El compositor i intèrpret de 'Corazón democristiano' serà un dels herois del primer programa. També coneixerem uns monjos de Montserrat que escolpeixen les cares de Lluís Companys, Jordi Pujol, Pasqual Maragall i José Montilla a la muntanya de Montserrat, inspirats en el Mont Rushmore de Dakota del Sud. I sabrem coses de la vida d'un petit botiguer que ha decidit fer-se passar per pakistanès, perquè s'imagina que, d'aquesta manera, podrà obrir el seu comerç les 24 hores. Serem espectadors del canvi d'orientació d'un restaurant gallec de tota la vida situat al barri gai de Barcelona: el restaurant La Parra, ara transformat en el primer restaurant gallec gai de Catalunya. També tindrem notícia d'un parapsicòleg que es dedica a recollir psicofonies només en català. O serem espectad</desc>
-    <length units="seconds">1533</length>
-    <episode-num system="onscreen">3</episode-num>
-    <category lang="ca">ALTRES</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <subtitles type="teletext"/>
-    <previously-shown/>
-  </programme>
-  <channel id="324">
-    <display-name>324</display-name>
-  </channel>
-  <programme start="20261023233000 +0200" stop="20261024003000 +0200" channel="324">
+  <programme start="20261024030000 +0200" stop="20261024040000 +0200" channel="tvi">
     <title lang="ca">Notícies 3CatInfo</title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <length units="seconds">3600</length>
-    <episode-num system="onscreen">11513</episode-num>
-    <category lang="ca">ACTUALITAT</category>
-    <category lang="ca">INFORMATIU DIÀRI</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
-  </programme>
-  <programme start="20261024003000 +0200" stop="20261024010000 +0200" channel="324">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">1800</length>
     <episode-num system="onscreen">11514</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
+    <previously-shown/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
+  </programme>
+  <channel id="324">
+    <display-name>324</display-name>
+  </channel>
+  <programme start="20261024010000 +0200" stop="20261024060000 +0200" channel="324">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="seconds">18000</length>
+    <episode-num system="onscreen">11514</episode-num>
+    <category lang="ca">ACTUALITAT</category>
+    <category lang="ca">INFORMATIU DIÀRI</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <previously-shown/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
+  </programme>
+  <programme start="20261024060000 +0200" stop="20261024070000 +0200" channel="324">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="seconds">3600</length>
+    <episode-num system="onscreen">11514</episode-num>
+    <category lang="ca">ACTUALITAT</category>
+    <category lang="ca">INFORMATIU DIÀRI</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <previously-shown/>
     <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
   <channel id="esport3">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20261023231811 +0200" stop="20261024004906 +0200" channel="esport3">
-    <title lang="ca">Onze</title>
-    <sub-title lang="ca">El còctel del Barça-Madrid; la clau del Clàssic; Fàbregas i Nin</sub-title>
-    <desc lang="ca">Míriam Riau condueix la tertúlia amb Lluís Carrasco, Irati Vidal, Laura Aparicio, Francesc Garriga i, des de Madrid, Siro López. Àlex Delmàs ens explica la seva clau del Clàssic, amb Joan Fàbregas analitzem qui pot arbitrar el Barça-Madrid i acabem amb les Golfes de l'Onze que ens porta Òscar Nin.</desc>
-    <length units="seconds">5455</length>
-    <episode-num system="onscreen">1274</episode-num>
+  <programme start="20261024022816 +0200" stop="20261024041141 +0200" channel="esport3">
+    <title lang="ca">Bàsquet</title>
+    <sub-title lang="ca">Reial Madrid-Barça Atlètic / Lliga U / J5</sub-title>
+    <desc lang="ca">Els filials blanc i blaugrana s'enfronten al campionat que disputen les joves promeses júniors dels equips de la Lliga Endesa.</desc>
+    <length units="seconds">6205</length>
+    <episode-num system="onscreen">8149</episode-num>
     <category lang="ca">ESPORTS</category>
-    <category lang="ca">MAGAZINE</category>
+    <category lang="ca">RETRANSMISSIONS ESPORTS</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <subtitles type="teletext"/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/1/1/1688543515711.jpg"/>
+    <previously-shown/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/8/0/1698775546608.jpg"/>
   </programme>
-  <programme start="20261024004906 +0200" stop="20261024011057 +0200" channel="esport3">
-    <title lang="ca">3CatInfo Esports</title>
-    <desc lang="ca">Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.</desc>
-    <length units="seconds">1311</length>
-    <episode-num system="onscreen">5547</episode-num>
+  <programme start="20261024041141 +0200" stop="20261024061010 +0200" channel="esport3">
+    <title lang="ca">Futbol</title>
+    <sub-title lang="ca">CE Europa-R. Saragossa / Primera Federació / J9</sub-title>
+    <desc lang="ca">Tot un repte per al conjunt de Gràcia que rep, a Can Dragó, un històric del futbol estatal. Els aragonesos, colíders a la classificació, són els grans favorits per l'ascens a la Segona Divisió.</desc>
+    <length units="seconds">7109</length>
+    <episode-num system="onscreen">206</episode-num>
     <category lang="ca">ESPORTS</category>
-    <category lang="ca">INFORMATIU DIÀRI</category>
+    <category lang="ca">RETRANSMISSIONS ESPORTS</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <icon src="https://img.ccma.cat/multimedia/jpg/9/7/1758888682179.jpg"/>
+    <previously-shown/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/0/7/1698446098170.jpg"/>
   </programme>
   <channel id="sx3">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20261024000716 +0200" stop="20261024002817 +0200" channel="sx3">
-    <title lang="ca">Els germans Kratt</title>
-    <sub-title lang="ca">La ximpanzé i jo</sub-title>
-    <desc lang="ca">El Chris està molt emocionat perquè han d'anar a fer una aventura amb un grup de ximpanzés. Però just abans de començar, es fa un esquinç al turmell i s'ha de quedar tot sol a la nau Tortuga fent repòs. Però la cosa no li anirà tan malament, perquè vindrà una cria de ximpanzé i l'ajudarà a entendre més coses d'aquests simis.</desc>
-    <length units="seconds">1261</length>
-    <episode-num system="onscreen">171</episode-num>
+  <programme start="20261024024911 +0200" stop="20261024031010 +0200" channel="sx3">
+    <title lang="ca">Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
+    <sub-title lang="ca">Llàgrima letal</sub-title>
+    <desc lang="ca">La Marinette és una adolescent molt normal que està enamorada de l'Adrien, un company de classe. Però sense que ells dos en siguin conscients, tots dos es converteixen en superherois quan hi ha problemes a París, normalment provocats per l'odi del súpermalvat Esfinx. Aleshores, la Marinette es converteix en Ladybug i l'Adrien en el Gat Negre, dos herois capaços de fer tornar la normalitat a la ciutat.</desc>
+    <length units="seconds">1259</length>
+    <episode-num system="onscreen">95</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
@@ -107,12 +105,12 @@
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20261024002817 +0200" stop="20261024004919 +0200" channel="sx3">
-    <title lang="ca">Els germans Kratt</title>
-    <sub-title lang="ca">Mossecs d'ant</sub-title>
-    <desc lang="ca">Com que avui és festa i l'equip Kratt no té cap aventura, el Chris i el Martin han pensat anar d'acampada. Quan són al camp, coneixen una cria d'ant que ha perdut la mare i es veuen obligats a complir una missió: mirar que mare i fill es retrobin. Per aconseguir-ho, però, hauran de superar uns quants obstacles.</desc>
-    <length units="seconds">1262</length>
-    <episode-num system="onscreen">172</episode-num>
+  <programme start="20261024031010 +0200" stop="20261024033104 +0200" channel="sx3">
+    <title lang="ca">Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
+    <sub-title lang="ca">Complidor</sub-title>
+    <desc lang="ca">La Marinette és una adolescent molt normal que està enamorada de l'Adrien, un company de classe. Però sense que ells dos en siguin conscients, tots dos es converteixen en superherois quan hi ha problemes a París, normalment provocats per l'odi del súpermalvat Esfinx. Aleshores, la Marinette es converteix en Ladybug i l'Adrien en el Gat Negre, dos herois capaços de fer tornar la normalitat a la ciutat.</desc>
+    <length units="seconds">1254</length>
+    <episode-num system="onscreen">96</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
@@ -124,27 +122,27 @@
   <channel id="c33">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20261024000646 +0200" stop="20261024003627 +0200" channel="c33">
-    <title lang="ca">Patrimonis</title>
-    <sub-title lang="ca">La llibertat (la Model de Barcelona)</sub-title>
-    <desc lang="ca">A 'Patrimonis' visitem la presó Model de Barcelona, que concreta una part important del relat social i polític del país. Un espai on els murs, ara buits, encara conserven el ressò de milers d'històries d'homes privats de llibertat. Ens hi endinsem de la mà de l'exreclús Andrés Jiménez; l'historiador Agustí Alcoberro; Miquel Seguró, filòsof; el darrer director de la Model, Josep Pont, i Magalí Sare &amp; Sebastià Gris, i Quico Pi de la Serra, que hi posen la música.</desc>
-    <length units="seconds">1781</length>
-    <episode-num system="onscreen">4</episode-num>
+  <programme start="20261024021123 +0200" stop="20261024025239 +0200" channel="c33">
+    <title lang="ca">Teories de la relativitat</title>
+    <sub-title lang="ca">Quan el pes és un problema</sub-title>
+    <desc lang="ca">Dietes miraculoses i fàrmacs de moda per aprimar-se: què hi ha de cert en lacreença que perdre pes ràpidament, i sense esforç, ja no és un problema?</desc>
+    <length units="seconds">2476</length>
+    <episode-num system="onscreen">6</episode-num>
     <category lang="ca">DIVULGACIÓ</category>
-    <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
+    <category lang="ca">ALTRES</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20261024003627 +0200" stop="20261024012934 +0200" channel="c33">
-    <title lang="ca">Experiència Catalana</title>
-    <sub-title lang="ca">Angela May</sub-title>
-    <desc lang="ca">L'Angela May és una presentadora, actriu, i foodie singapuresa; una autèntica experta en gastronomia. Per això, la Ivana Miño l'acompanya a descobrir per què la cuina catalana i els nostres cuiners se situen entre els millors del món. L'hi mostra amb la Carme Ruscalleda i els Germans Roca.</desc>
-    <length units="seconds">3187</length>
-    <episode-num system="onscreen">15</episode-num>
-    <category lang="ca">ENTRETENIMENT</category>
+  <programme start="20261024025239 +0200" stop="20261024032958 +0200" channel="c33">
+    <title lang="ca">Sala 30</title>
+    <sub-title lang="ca">La mirada</sub-title>
+    <desc lang="ca">Albert Pla s'ha proposat esbrinar de quina manera veu el món un artista. La mirada d'artista s'aprèn? S'estudia? O s'hi neix? Hac Vinent, Erick Beltrán, Mabel Palacín i Aldo Urbano són els quatre artistes que ha portat a la taula per intentar resoldre (o no) la incògnita. Tots quatre treballen disciplines variades que, tot i així, s'entrecreuen. Són quatre punts de vista que sumen a la conversa la seva pròpia mirada: la queer i no capacitista, la metafísica o, fins i tot, la dels somnis.</desc>
+    <length units="seconds">2239</length>
+    <episode-num system="onscreen">5</episode-num>
+    <category lang="ca">DIVULGACIÓ</category>
     <category lang="ca">ALTRES</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
