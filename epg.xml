@@ -3,100 +3,99 @@
   <channel id="tvi">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20261024014242 +0200" stop="20261024030000 +0200" channel="tvi">
-    <title lang="ca">Mésnit</title>
-    <desc lang="ca">El 'Mésnit' arriba a la desena temporada, amb Marina Romero al capdavant de l'espai i amb la voluntat de continuar sent un centre de debat d'idees i d'anàlisi de l'activitat política.</desc>
-    <length units="seconds">4638</length>
-    <episode-num system="onscreen">2186</episode-num>
-    <category lang="ca">ACTUALITAT</category>
-    <category lang="ca">DEBAT</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <previously-shown/>
-  </programme>
-  <programme start="20261024030000 +0200" stop="20261024040000 +0200" channel="tvi">
+  <programme start="20261024070000 +0200" stop="20261024100000 +0200" channel="tvi">
     <title lang="ca">Notícies 3CatInfo</title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">3600</length>
-    <episode-num system="onscreen">11514</episode-num>
+    <length units="seconds">10800</length>
+    <episode-num system="onscreen">11515</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <previously-shown/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
+  </programme>
+  <programme start="20261024100000 +0200" stop="20261024115500 +0200" channel="tvi">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="seconds">6900</length>
+    <episode-num system="onscreen">11516</episode-num>
+    <category lang="ca">ACTUALITAT</category>
+    <category lang="ca">INFORMATIU DIÀRI</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
     <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
   <channel id="324">
     <display-name>324</display-name>
   </channel>
-  <programme start="20261024010000 +0200" stop="20261024060000 +0200" channel="324">
+  <programme start="20261024070000 +0200" stop="20261024100000 +0200" channel="324">
     <title lang="ca">Notícies 3CatInfo</title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">18000</length>
-    <episode-num system="onscreen">11514</episode-num>
+    <length units="seconds">10800</length>
+    <episode-num system="onscreen">11515</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <previously-shown/>
+    <subtitles type="teletext"/>
     <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
-  <programme start="20261024060000 +0200" stop="20261024070000 +0200" channel="324">
+  <programme start="20261024100000 +0200" stop="20261024120000 +0200" channel="324">
     <title lang="ca">Notícies 3CatInfo</title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">3600</length>
-    <episode-num system="onscreen">11514</episode-num>
+    <length units="seconds">7200</length>
+    <episode-num system="onscreen">11516</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <previously-shown/>
+    <subtitles type="teletext"/>
     <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
   <channel id="esport3">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20261024022816 +0200" stop="20261024041141 +0200" channel="esport3">
-    <title lang="ca">Bàsquet</title>
-    <sub-title lang="ca">Reial Madrid-Barça Atlètic / Lliga U / J5</sub-title>
-    <desc lang="ca">Els filials blanc i blaugrana s'enfronten al campionat que disputen les joves promeses júniors dels equips de la Lliga Endesa.</desc>
-    <length units="seconds">6205</length>
-    <episode-num system="onscreen">8149</episode-num>
+  <programme start="20261024065106 +0200" stop="20261024081654 +0200" channel="esport3">
+    <title lang="ca">Onze</title>
+    <sub-title lang="ca">El còctel del Barça-Madrid; la clau del Clàssic; Fàbregas i Nin</sub-title>
+    <desc lang="ca">Míriam Riau condueix la tertúlia amb Lluís Carrasco, Irati Vidal, Laura Aparicio, Francesc Garriga i, des de Madrid, Siro López. Àlex Delmàs ens explica la seva clau del Clàssic, amb Joan Fàbregas analitzem qui pot arbitrar el Barça-Madrid i acabem amb les Golfes de l'Onze que ens porta Òscar Nin.</desc>
+    <length units="seconds">5148</length>
+    <episode-num system="onscreen">1274</episode-num>
     <category lang="ca">ESPORTS</category>
-    <category lang="ca">RETRANSMISSIONS ESPORTS</category>
+    <category lang="ca">MAGAZINE</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
+    <subtitles type="teletext"/>
     <previously-shown/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/8/0/1698775546608.jpg"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/1/1/1688543515711.jpg"/>
   </programme>
-  <programme start="20261024041141 +0200" stop="20261024061010 +0200" channel="esport3">
-    <title lang="ca">Futbol</title>
-    <sub-title lang="ca">CE Europa-R. Saragossa / Primera Federació / J9</sub-title>
-    <desc lang="ca">Tot un repte per al conjunt de Gràcia que rep, a Can Dragó, un històric del futbol estatal. Els aragonesos, colíders a la classificació, són els grans favorits per l'ascens a la Segona Divisió.</desc>
-    <length units="seconds">7109</length>
-    <episode-num system="onscreen">206</episode-num>
+  <programme start="20261024081654 +0200" stop="20261024083432 +0200" channel="esport3">
+    <title lang="ca">3CatInfo Esports</title>
+    <desc lang="ca">Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.</desc>
+    <length units="seconds">1058</length>
+    <episode-num system="onscreen">5547</episode-num>
     <category lang="ca">ESPORTS</category>
-    <category lang="ca">RETRANSMISSIONS ESPORTS</category>
+    <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <previously-shown/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/0/7/1698446098170.jpg"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/9/7/1758888682179.jpg"/>
   </programme>
   <channel id="sx3">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20261024024911 +0200" stop="20261024031010 +0200" channel="sx3">
-    <title lang="ca">Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
-    <sub-title lang="ca">Llàgrima letal</sub-title>
-    <desc lang="ca">La Marinette és una adolescent molt normal que està enamorada de l'Adrien, un company de classe. Però sense que ells dos en siguin conscients, tots dos es converteixen en superherois quan hi ha problemes a París, normalment provocats per l'odi del súpermalvat Esfinx. Aleshores, la Marinette es converteix en Ladybug i l'Adrien en el Gat Negre, dos herois capaços de fer tornar la normalitat a la ciutat.</desc>
-    <length units="seconds">1259</length>
-    <episode-num system="onscreen">95</episode-num>
+  <programme start="20261024070617 +0200" stop="20261024071810 +0200" channel="sx3">
+    <title lang="ca">L'abella Maia</title>
+    <sub-title lang="ca">Enamorament sobtat</sub-title>
+    <desc lang="ca">En plena desfilada de la Gran Visita de Cortesia al prat que fa la reina, comença a tronar i a en Kurt li cau un llamp a sobre. De cop, s'enamora de la reina i s'hi vol casar de totes totes i viure-hi una intensa història d'amor. L'escarabat no para d'empaitar la reina i, al final, acaba a la presó. La Maia busca la manera d'ajudar-lo perquè torni a ser el de sempre.</desc>
+    <length units="seconds">713</length>
+    <episode-num system="onscreen">97</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
@@ -105,12 +104,12 @@
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20261024031010 +0200" stop="20261024033104 +0200" channel="sx3">
-    <title lang="ca">Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
-    <sub-title lang="ca">Complidor</sub-title>
-    <desc lang="ca">La Marinette és una adolescent molt normal que està enamorada de l'Adrien, un company de classe. Però sense que ells dos en siguin conscients, tots dos es converteixen en superherois quan hi ha problemes a París, normalment provocats per l'odi del súpermalvat Esfinx. Aleshores, la Marinette es converteix en Ladybug i l'Adrien en el Gat Negre, dos herois capaços de fer tornar la normalitat a la ciutat.</desc>
-    <length units="seconds">1254</length>
-    <episode-num system="onscreen">96</episode-num>
+  <programme start="20261024071810 +0200" stop="20261024072922 +0200" channel="sx3">
+    <title lang="ca">L'abella Maia</title>
+    <sub-title lang="ca">Compte amb el lladre!</sub-title>
+    <desc lang="ca">Mentre fan classe al prat, en Willi troba l'Stinger estirat a terra inconscient. Quan es desperta, plora i es comporta com una criatura. És evident que li ha passat alguna cosa i, encara que sigui una vespa, les abelles el porten al rusc per mirar de curar-lo. Quan el tenen allà, miren que recuperi el seny el més aviat possible perquè torni al niu i no provoqui cap desgràcia, però la cosa no és ben bé el que sembla.</desc>
+    <length units="seconds">672</length>
+    <episode-num system="onscreen">98</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
@@ -122,28 +121,28 @@
   <channel id="c33">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20261024021123 +0200" stop="20261024025239 +0200" channel="c33">
-    <title lang="ca">Teories de la relativitat</title>
-    <sub-title lang="ca">Quan el pes és un problema</sub-title>
-    <desc lang="ca">Dietes miraculoses i fàrmacs de moda per aprimar-se: què hi ha de cert en lacreença que perdre pes ràpidament, i sense esforç, ja no és un problema?</desc>
-    <length units="seconds">2476</length>
-    <episode-num system="onscreen">6</episode-num>
+  <programme start="20261024070509 +0200" stop="20261024072928 +0200" channel="c33">
+    <title lang="ca">Quèquicom</title>
+    <sub-title lang="ca">La vacuna del virus del papiloma.</sub-title>
+    <desc lang="ca">La vacuna del virus del papil·loma humà serà analitzada a 'Quèquicom', que n'ha parlat amb els creadors i els detractors, que demanen una moratòria, per saber els pros i contres d'administrar-la. En el programa hi intervenen Xavier Bosch, investigador de l'Institut Català d'Oncologia i desenvolupador d'aquesta vacuna; Carmen Cabezas, de la Conselleria de Salut; Miquel Porta, epidemiòleg de l'Institut Municipal d'Investigació Mèdica; Andreu Segura, director de la Societat Espanyola de Salut Pública; i Jaume Puig, Centre de Recerca d'Economia i Salut, UPF.</desc>
+    <length units="seconds">1459</length>
+    <episode-num system="onscreen">111</episode-num>
     <category lang="ca">DIVULGACIÓ</category>
-    <category lang="ca">ALTRES</category>
+    <category lang="ca">MAGAZINE ESPECIALITZAT</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20261024025239 +0200" stop="20261024032958 +0200" channel="c33">
-    <title lang="ca">Sala 30</title>
-    <sub-title lang="ca">La mirada</sub-title>
-    <desc lang="ca">Albert Pla s'ha proposat esbrinar de quina manera veu el món un artista. La mirada d'artista s'aprèn? S'estudia? O s'hi neix? Hac Vinent, Erick Beltrán, Mabel Palacín i Aldo Urbano són els quatre artistes que ha portat a la taula per intentar resoldre (o no) la incògnita. Tots quatre treballen disciplines variades que, tot i així, s'entrecreuen. Són quatre punts de vista que sumen a la conversa la seva pròpia mirada: la queer i no capacitista, la metafísica o, fins i tot, la dels somnis.</desc>
-    <length units="seconds">2239</length>
-    <episode-num system="onscreen">5</episode-num>
+  <programme start="20261024072928 +0200" stop="20261024075455 +0200" channel="c33">
+    <title lang="ca">Quèquicom</title>
+    <sub-title lang="ca">Correbous, toros i toreros</sub-title>
+    <desc lang="ca">Toros i correbous, espectacle per a uns, patiment per a altres.Coincidint amb la discussió a la Mesa del Parlament de Catalunya de la Iniciativa Legislativa Popular (ILP) per prohibir les curses de braus, Quèquicom s'apropa al món dels toros des d'una perspectiva científica. ¿Es pot afirmar, per exemple, que els braus no pateixen perquè segreguen endorfines? ¿Quins òrgans queden afectats per les banderilles i altres eines de matar? ¿Cal distingir entre les corrides i festes populars com els correbous?¿És veritat que el color vermell els provoca? El correbou més antic del qual es té constància històrica data de principis del segle XV a Tortosa. Ara, a Catalunya hi ha 26 poblacions on se celebren festes com el bou capllaçat o embolat. A les Terres de l'Ebre molts pobles tenen correbous fins a tres cops cada dia durant les festes d'estiu. Un grup de veterinaris que hi està a favor fa una revisió de la salut dels animals abans i després de cada acte, en el qual no es pot ferir l'animal. El veterinari Jordi Vendrell assegura que físicament l'animal no pateix i que l'estrès que passa és tolerable. Miquel Piris visita la ramaderia de Pedro Fumadó, una de les tres dedicades a la cria de toros que hi ha a Catalunya. És al bell mig del Parc Natural del Delta de l'Ebre. Allà li expliquen que els toros que es dediquen a correbous viuen en llibertat de sis a vuit anys. Si hi algun exemplar indultat pel seu coratge se li permet morir de vell. Si té aquest privilegi, pot arribar a viure 30 anys. La resta d'animals són sacrificats per menjar. Piris entra a un corral vestit de color vermell per veure si l'ataquen els toros. Es demostra que és un mite, es van apartant cap a un racó. Un toro envesteix quan es troba sense escapatòria o quan alguna cosa o persona que es mou, sigui del color que sigui, envaeix el seu espai.Marc Boada, des del plató, explica que en les corrides el picador i el banderiller tenen la funció de ferir i cansar el toro sense deixar-</desc>
+    <length units="seconds">1527</length>
+    <episode-num system="onscreen">112</episode-num>
     <category lang="ca">DIVULGACIÓ</category>
-    <category lang="ca">ALTRES</category>
+    <category lang="ca">MAGAZINE ESPECIALITZAT</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
