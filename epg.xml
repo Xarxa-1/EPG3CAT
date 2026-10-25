@@ -3,70 +3,82 @@
   <channel id="tvi">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20261025021951 +0100" stop="20261025050000 +0100" channel="tvi">
+  <programme start="20261025070000 +0100" stop="20261025092629 +0100" channel="tvi">
     <title lang="ca">Notícies 3CatInfo</title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">9609</length>
-    <episode-num system="onscreen">11522</episode-num>
+    <length units="seconds">8789</length>
+    <episode-num system="onscreen">11523</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <previously-shown/>
     <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
-  <programme start="20261025050000 +0100" stop="20261025054453 +0100" channel="tvi">
-    <title lang="ca">Cava de Blues</title>
-    <sub-title lang="ca">Bullfrog Electric Blues Experience</sub-title>
-    <desc lang="ca">Cava de Blues és un espai dedicat a les noves creacions de 14 grups del país que es dediquen a aquest gènere musical.En aquesta edició, els grups que hi trobareu són: -A contrablues-Blas Picón &amp; The Junk Espress-Bullfrog Electric Blues Experience-Dusa'ns Flying Blues Band-Dani Baraldés &amp; The XX Band-Emili Baleriola Blues Quartet-Dani Nel·lo &amp; Mario Cobo-Ivan Kovacevic 5 Spots-JG Acoustic Gang-John Big Stone &amp; The Blues Workers-Legacaster! The Hillbilly Trio-Martini Surfers-Susan Santos &amp; The Papa's Red Band-The Paparellos</desc>
-    <length units="seconds">2693</length>
-    <episode-num system="onscreen">3</episode-num>
-    <category lang="ca">MUSICALS</category>
-    <category lang="ca">JAZZ</category>
+  <programme start="20261025092629 +0100" stop="20261025095050 +0100" channel="tvi">
+    <title lang="ca">Néixer de nou</title>
+    <sub-title lang="ca">Protestants sota el franquisme, la lluita dels impressors</sub-title>
+    <desc lang="ca">Una de les claus de la ràpida expansió del protestantisme de Martí Luter del segle XVI fou la impremta. Però, sota el franquisme, han estat els impressors valents una de les claus de la resistència protestant. És el cas de la impremta Salvador. Diumenge, 25 d'octubre, en parlarem al 'Néixer de nou'.</desc>
+    <length units="seconds">1461</length>
+    <episode-num system="onscreen">345</episode-num>
+    <category lang="ca">DIVULGACIÓ</category>
+    <category lang="ca">MAGAZINE ESPECIALITZAT</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <previously-shown/>
-    <icon src="https://img.3cat.cat/multimedia/jpg/0/2/1754910826220.jpg"/>
   </programme>
   <channel id="324">
     <display-name>324</display-name>
   </channel>
-  <programme start="20261025010000 +0100" stop="20261025060000 +0100" channel="324">
+  <programme start="20261025070000 +0100" stop="20261025100000 +0100" channel="324">
     <title lang="ca">Notícies 3CatInfo</title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">18000</length>
-    <episode-num system="onscreen">11522</episode-num>
+    <length units="seconds">10800</length>
+    <episode-num system="onscreen">11523</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <previously-shown/>
+    <subtitles type="teletext"/>
     <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
-  <programme start="20261025060000 +0100" stop="20261025070000 +0100" channel="324">
+  <programme start="20261025100000 +0100" stop="20261025120000 +0100" channel="324">
     <title lang="ca">Notícies 3CatInfo</title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">3600</length>
-    <episode-num system="onscreen">11522</episode-num>
+    <length units="seconds">7200</length>
+    <episode-num system="onscreen">11524</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <previously-shown/>
+    <subtitles type="teletext"/>
     <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
   <channel id="esport3">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20261025025849 +0100" stop="20261025044634 +0100" channel="esport3">
+  <programme start="20261025064329 +0100" stop="20261025081753 +0100" channel="esport3">
+    <title lang="ca">Gol a gol</title>
+    <sub-title lang="ca">Anàlisi de la jornada / J10 / Dissabte</sub-title>
+    <desc lang="ca">'Gol a gol' us ofereix els resums dels partits de futbol de Primera i Segona Divisió. Presentat per Jordi Grau a Esport3, cada dissabte i cada diumenge podeu veure les millors imatges de la jornada de Lliga amb l'anàlisi dels experts, amb especial atenció als equips catalans, sobretot el Barça, el Girona i l'Espanyol.</desc>
+    <length units="seconds">5664</length>
+    <episode-num system="onscreen">1793</episode-num>
+    <category lang="ca">ESPORTS</category>
+    <category lang="ca">MAGAZINE</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <subtitles type="teletext"/>
+    <previously-shown/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/2/1/1698144123212.jpg"/>
+  </programme>
+  <programme start="20261025081753 +0100" stop="20261025100551 +0100" channel="esport3">
     <title lang="ca">Futbol</title>
     <sub-title lang="ca">FC Barcelona-Granada CF / Lliga F / J8</sub-title>
     <desc lang="ca">Les blaugranes tornen al Johan amb l'objectiu de retrobar la victòria després de la derrota en l'anterior jornada al camp de la Reial Societat (2-1).</desc>
-    <length units="seconds">6465</length>
+    <length units="seconds">6478</length>
     <episode-num system="onscreen">57</episode-num>
     <category lang="ca">ESPORTS</category>
     <category lang="ca">RETRANSMISSIONS ESPORTS</category>
@@ -76,44 +88,31 @@
     <previously-shown/>
     <icon src="https://img.ccma.cat/multimedia/jpg/0/8/1730389343680.jpg"/>
   </programme>
-  <programme start="20261025044634 +0100" stop="20261025051329 +0100" channel="esport3">
-    <title lang="ca">3CatInfo Esports</title>
-    <desc lang="ca">Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.</desc>
-    <length units="seconds">1615</length>
-    <episode-num system="onscreen">5548</episode-num>
-    <category lang="ca">ESPORTS</category>
-    <category lang="ca">INFORMATIU DIÀRI</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <previously-shown/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/9/7/1758888682179.jpg"/>
-  </programme>
   <channel id="sx3">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20261025022936 +0100" stop="20261025023943 +0100" channel="sx3">
-    <title lang="ca">Com dibuixar còmics amb el Will Sliney</title>
-    <sub-title lang="ca">Elit</sub-title>
-    <desc lang="ca">En aquesta nova temporada, el Will Sliney rep una trucada de la presidenta d'Irlanda, del president dels Estats Units i del president de la galàxia per informar-lo que uns dolents molt dolents avancen amb la seva nau espacial cap a la Terra amb la intenció de destruir-la. Això el durà a transformar-se en un superheroi, el Wil·lustrador, que té el superpoder de crear altres herois que puguin fer front a l'amenaça extraterrestre.</desc>
-    <length units="seconds">607</length>
-    <episode-num system="onscreen">21</episode-num>
+  <programme start="20261025074628 +0100" stop="20261025075617 +0100" channel="sx3">
+    <title lang="ca">El Mic i els seus amics</title>
+    <sub-title lang="ca">El lleó i el mirall</sub-title>
+    <desc lang="ca">'El Mic i els seus amics' presenta les històries del Mic agrupades en capítols. Les aventures dels titelles s'acompanyen de petits vídeos protagonitzats per nens i nenes, i separadors amb imatges de natura. És una sèrie pensada perquè els súpers més petits gaudeixin encara més! El Mic i els seus amics es troben cada dia per cantar cançons, explicar contes, dir endevinalles... Viuen en un lloc on hi ha turons, arbres, flors i papallones.Tot està a punt per jugar. Només cal fer... MAC, MEC, MIC, TOCA'T EL MELIC!</desc>
+    <length units="seconds">589</length>
+    <episode-num system="onscreen">500</episode-num>
     <category lang="ca">FICCIÓ</category>
-    <category lang="ca">ALTRES</category>
+    <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
       <value>INFANTIL</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20261025023943 +0100" stop="20261025024953 +0100" channel="sx3">
-    <title lang="ca">Com dibuixar còmics amb el Will Sliney</title>
-    <sub-title lang="ca">El poder de l’Elit</sub-title>
-    <desc lang="ca">Una nova versió del Crònica avança amb una nau espacial cap a la Terra amb la intenció de destruir-la. I només en Will Sliney ho pot impedir, de manera que es transforma en un superheroi, el Wil·lustrador, que té el superpoder de crear altres herois que puguin fer front a l'amenaça extraterrestre. De moment ja en té un, l'Elit, i en aquest episodi ens explicarà d'on ve i quins superpoders té.</desc>
-    <length units="seconds">610</length>
-    <episode-num system="onscreen">22</episode-num>
+  <programme start="20261025075617 +0100" stop="20261025080701 +0100" channel="sx3">
+    <title lang="ca">El Mic i els seus amics</title>
+    <sub-title lang="ca">Fem un dibuix amb fang</sub-title>
+    <desc lang="ca">'El Mic i els seus amics' presenta les històries del Mic agrupades en capítols. Les aventures dels titelles s'acompanyen de petits vídeos protagonitzats per nens i nenes, i separadors amb imatges de natura. És una sèrie pensada perquè els súpers més petits gaudeixin encara més! El Mic i els seus amics es troben cada dia per cantar cançons, explicar contes, dir endevinalles... Viuen en un lloc on hi ha turons, arbres, flors i papallones.Tot està a punt per jugar. Només cal fer... MAC, MEC, MIC, TOCA'T EL MELIC!</desc>
+    <length units="seconds">644</length>
+    <episode-num system="onscreen">551</episode-num>
     <category lang="ca">FICCIÓ</category>
-    <category lang="ca">ALTRES</category>
+    <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
       <value>INFANTIL</value>
     </rating>
@@ -123,33 +122,34 @@
   <channel id="c33">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20261025025832 +0100" stop="20261025034126 +0100" channel="c33">
-    <title lang="ca">El Crac</title>
-    <sub-title lang="ca">La gran mort</sub-title>
-    <desc lang="ca">Algú intenta atemptar contra el Joel, però la Carla es pensa que les amenaces de mort van dirigides a ella. Per guanyar punts, el Joel es converteix en el seu guardaespatlles. Mentre en Joel vetlla el somni de la Carla, un vell enemic seu prepara la seva venjança. El Joel és víctima d'un atemptat i un àngel li mostra com hauria estat la vida dels seus coneguts si ell no hagués existit</desc>
-    <length units="seconds">2574</length>
-    <episode-num system="onscreen">9</episode-num>
-    <category lang="ca">FICCIÓ</category>
-    <category lang="ca">SÈRIE DRAMÀTICA</category>
-    <rating>
-      <value>PÚBLIC ADULT</value>
-    </rating>
-    <subtitles type="teletext"/>
-    <previously-shown/>
-  </programme>
-  <programme start="20261025034126 +0100" stop="20261025042905 +0100" channel="c33">
-    <title lang="ca">Benvinguts a la família</title>
-    <sub-title lang="ca">L'Àvia</sub-title>
-    <desc lang="ca">Per poder recuperar el cotxe de l'Eduardo, a l'Àngela no li queda més remei que retrobar-se amb la seva mare, ingressada en un hospital des de fa més de 10 anys. Mentrestant, el Nando fa tot el possible per ajudar la Victòria a recordar on ha amagat el cadàver del seu marit. </desc>
-    <length units="seconds">2859</length>
-    <episode-num system="onscreen">7</episode-num>
-    <category lang="ca">FICCIÓ</category>
-    <category lang="ca">SÈRIE DRAMÀTICA</category>
+  <programme start="20261025072507 +0100" stop="20261025074709 +0100" channel="c33">
+    <title lang="ca">Quèquicom</title>
+    <sub-title lang="ca">Interrogant la matèria</sub-title>
+    <desc lang="ca">'Quèquicom' explicarà demà què és la matèria. De manera clara, concisa i entenedora, el programa científic del 33 donarà resposta a aquest gran interrogant, amb què es relacionen conceptes de la física atòmica com hadrons, neutrons, quarks o gluons.Amb el títol genèric 'Àtom: Interrogant la matèria', el programa oferirà diversos reportatges. Un d'ells, sobre el CERN, un laboratori construït a 100 metres sota terra, a Ginebra, Suïssa, que investiga les propietats d'algunes partícules subatòmiques com els hadrons fent-les col·lisionar mitjançant un accelerador anomenat LHC (Large Hadron Collider). Enrique Fernández, el president del Comitè de Política Científica del centre, explica com funciona la col·lisió de partícules dins d'aquest accelerador de 27 quilòmetres de llarg. Des del plató, Marc Boada, el presentador de 'Quèquicom', planteja un paral·lelisme de l'LHC. Mira de deduir què conté una caixa negra sense obrir-la, només disparant i analitzant-ne el resultat.Els àtoms estan formats per neutrons i protons, que alhora s'anomenen hadrons i que contenen altres partícules com els quarks i gluons. Alguns físics que treballen amb aquestes partícules al CERN també argumenten si es podria formar un forat negre i expliquen que estan al límit del coneixement. Ens ho expliquen José Ángel Hernández, investigador de la Universitat de Santiago, i Antonio Pérez Calero, investigador de la UB. A més, el programa també presenta un altre investigador de la UB, Ricardo Vázquez, que s'ha embarcat en un projecte paral·lel a l'LHC, que té com a objectiu investigar una partícula en concret que mostri per què l'univers està fet de matèria i no d'antimatèria. Per què les coses tenen massa? Cristòfol Padilla, investigador IFAE-UAB explica que la partícula de Higgs és fonamental per comprendre que tenim massa i Marc Boada ho explica a plató per mitjà d'una metàfora amb la fama. Els àtoms només representen el 4% de la matèria de l'univers, la resta és energia i m</desc>
+    <length units="seconds">1322</length>
+    <episode-num system="onscreen">116</episode-num>
+    <category lang="ca">DIVULGACIÓ</category>
+    <category lang="ca">MAGAZINE ESPECIALITZAT</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
+  </programme>
+  <programme start="20261025074709 +0100" stop="20261025083431 +0100" channel="c33">
+    <title lang="ca">La Renaixença</title>
+    <sub-title lang="ca">La butlleta</sub-title>
+    <desc lang="ca">Hi ha objectes que només veure'ls o dir el seu nom et porten a un record. Això passa amb la butlleta i Nadal, la butlleta i la sort, la butlleta i els diners... o la butlleta i la desgràcia. Aquest capítol el dediquem a la butlleta, però no us prometem que porti sort. Rebem la Raquel Sans, la periodista que més telenotícies ha presentat a casa nostra. Ara fa caps de setmana quan la resta treballem. O no. Sortim amb l'Heura pel 2014, quan hi va haver el robatori d'un Stradivarius de sis milions de dòlars.</desc>
+    <length units="seconds">2842</length>
+    <episode-num system="onscreen">76</episode-num>
+    <category lang="ca">DIVULGACIÓ</category>
+    <category lang="ca">ALTRES</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <subtitles type="teletext"/>
+    <previously-shown/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/3/3/1756148014833.jpg"/>
   </programme>
   <channel id="oca1">
     <display-name>OCA1</display-name>
