@@ -3,36 +3,32 @@
   <channel id="tvi">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20261025012554 +0100" stop="20261025031733 +0100" channel="tvi">
-    <title lang="ca">Pel·lícula</title>
-    <sub-title lang="ca">Al fossat</sub-title>
-    <desc lang="ca">'AL FOSSAT' (2011), una producció de BAUSAN FILMS en coproducció amb TELEVISIÓ DE CATALUNYA, amb la participació de TVE, l'ajuda de l'ICAA i amb la iniciativa del Màster en Documental de Creació-Universitat Pompeu Fabra (IDEC).Amagats a la fossa, homogeneïtzats pels seus vestits negres, dotzenes de músics vinguts d'altres indrets del món, amb diferents experiències, posen els seus esforços al servei d'una gran finalitat comuna: crear una unitat i desaparèixer, ja que el que és important és EL TOT. ¿Però qui són ells? Com funciona un Teatre d'Òpera?'AL FOSSAT' és una pel·lícula sobre els músics que toquen a l'orquestra de l'òpera del Gran Teatre del Liceu, sobre les seves vides, el seu treball, les seves pors i les seves passions.Director: Ricardo ÍscarGuió: Ricardo Íscar, en col·laboració amb Sophie KöhlerProductor: Loris OmedesProductor executiu TVC: Jordi AmbròsProductora delegada TVC: Ruth LlòriaDirector producció: Quique JorbaDocumentalista: David Fernández de CastroDirector de fotografia: Julián Elizalde Música: Orquestra de l'Òpera del Gran Teatre del Liceu</desc>
-    <credits>
-      <writer>Ricardo Íscar</writer>
-      <writer>en col·laboració amb Sophie Köhler</writer>
-    </credits>
-    <length units="seconds">6699</length>
-    <episode-num system="onscreen">1</episode-num>
-    <category lang="ca">DIVULGACIÓ</category>
-    <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
+  <programme start="20261025021951 +0100" stop="20261025050000 +0100" channel="tvi">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="seconds">9609</length>
+    <episode-num system="onscreen">11522</episode-num>
+    <category lang="ca">ACTUALITAT</category>
+    <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <subtitles type="teletext"/>
     <previously-shown/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
-  <programme start="20261025031733 +0100" stop="20261025031951 +0100" channel="tvi">
-    <title lang="ca">Els llibres de Tot el Temps del Món</title>
-    <sub-title lang="ca">Amor de monstruo. Katherine Dunn</sub-title>
-    <length units="seconds">138</length>
-    <episode-num system="onscreen">15</episode-num>
-    <category lang="ca">DIVULGACIÓ</category>
-    <category lang="ca">ALTRES</category>
+  <programme start="20261025050000 +0100" stop="20261025054453 +0100" channel="tvi">
+    <title lang="ca">Cava de Blues</title>
+    <sub-title lang="ca">Bullfrog Electric Blues Experience</sub-title>
+    <desc lang="ca">Cava de Blues és un espai dedicat a les noves creacions de 14 grups del país que es dediquen a aquest gènere musical.En aquesta edició, els grups que hi trobareu són: -A contrablues-Blas Picón &amp; The Junk Espress-Bullfrog Electric Blues Experience-Dusa'ns Flying Blues Band-Dani Baraldés &amp; The XX Band-Emili Baleriola Blues Quartet-Dani Nel·lo &amp; Mario Cobo-Ivan Kovacevic 5 Spots-JG Acoustic Gang-John Big Stone &amp; The Blues Workers-Legacaster! The Hillbilly Trio-Martini Surfers-Susan Santos &amp; The Papa's Red Band-The Paparellos</desc>
+    <length units="seconds">2693</length>
+    <episode-num system="onscreen">3</episode-num>
+    <category lang="ca">MUSICALS</category>
+    <category lang="ca">JAZZ</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <subtitles type="teletext"/>
     <previously-shown/>
+    <icon src="https://img.3cat.cat/multimedia/jpg/0/2/1754910826220.jpg"/>
   </programme>
   <channel id="324">
     <display-name>324</display-name>
@@ -66,25 +62,24 @@
   <channel id="esport3">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20261025010008 +0100" stop="20261025023402 +0100" channel="esport3">
-    <title lang="ca">Gol a gol</title>
-    <sub-title lang="ca">Anàlisi de la jornada / J10 / Dissabte</sub-title>
-    <desc lang="ca">'Gol a gol' us ofereix els resums dels partits de futbol de Primera i Segona Divisió. Presentat per Jordi Grau a Esport3, cada dissabte i cada diumenge podeu veure les millors imatges de la jornada de Lliga amb l'anàlisi dels experts, amb especial atenció als equips catalans, sobretot el Barça, el Girona i l'Espanyol.</desc>
-    <length units="seconds">5634</length>
-    <episode-num system="onscreen">1793</episode-num>
+  <programme start="20261025025849 +0100" stop="20261025044634 +0100" channel="esport3">
+    <title lang="ca">Futbol</title>
+    <sub-title lang="ca">FC Barcelona-Granada CF / Lliga F / J8</sub-title>
+    <desc lang="ca">Les blaugranes tornen al Johan amb l'objectiu de retrobar la victòria després de la derrota en l'anterior jornada al camp de la Reial Societat (2-1).</desc>
+    <length units="seconds">6465</length>
+    <episode-num system="onscreen">57</episode-num>
     <category lang="ca">ESPORTS</category>
-    <category lang="ca">MAGAZINE</category>
+    <category lang="ca">RETRANSMISSIONS ESPORTS</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <subtitles type="teletext"/>
     <previously-shown/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/2/1/1698144123212.jpg"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/0/8/1730389343680.jpg"/>
   </programme>
-  <programme start="20261025023402 +0100" stop="20261025030610 +0100" channel="esport3">
+  <programme start="20261025044634 +0100" stop="20261025051329 +0100" channel="esport3">
     <title lang="ca">3CatInfo Esports</title>
     <desc lang="ca">Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.</desc>
-    <length units="seconds">1928</length>
+    <length units="seconds">1615</length>
     <episode-num system="onscreen">5548</episode-num>
     <category lang="ca">ESPORTS</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
@@ -97,28 +92,28 @@
   <channel id="sx3">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20261025012429 +0100" stop="20261025014533 +0100" channel="sx3">
-    <title lang="ca">Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
-    <sub-title lang="ca">Kuro Neko</sub-title>
-    <desc lang="ca">Vespèria, Escurçó, Cuirassa, Pigella, Tigressa Porpra, Pegàs... Ladybug ha convocat un equip de superherois impressionant... sense el Gat Noir! Últimament el superheroi se sent una mica oblidat. Convençut que Ladybug ja no el considera important perquè té molts d'altres superherois, acaba tornant-li el seu prodigi. Ladybug no l'hi pot impedir i es troba perduda sense la seva mixeta. Sort que el Plagg l'animarà i l'ajudarà a trobar una solució: li proposa aprofitar l'oportunitat per reclutar un nou Gat Noir.</desc>
-    <length units="seconds">1264</length>
-    <episode-num system="onscreen">101</episode-num>
+  <programme start="20261025022936 +0100" stop="20261025023943 +0100" channel="sx3">
+    <title lang="ca">Com dibuixar còmics amb el Will Sliney</title>
+    <sub-title lang="ca">Elit</sub-title>
+    <desc lang="ca">En aquesta nova temporada, el Will Sliney rep una trucada de la presidenta d'Irlanda, del president dels Estats Units i del president de la galàxia per informar-lo que uns dolents molt dolents avancen amb la seva nau espacial cap a la Terra amb la intenció de destruir-la. Això el durà a transformar-se en un superheroi, el Wil·lustrador, que té el superpoder de crear altres herois que puguin fer front a l'amenaça extraterrestre.</desc>
+    <length units="seconds">607</length>
+    <episode-num system="onscreen">21</episode-num>
     <category lang="ca">FICCIÓ</category>
-    <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
+    <category lang="ca">ALTRES</category>
     <rating>
       <value>INFANTIL</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20261025014533 +0100" stop="20261025020628 +0100" channel="sx3">
-    <title lang="ca">Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
-    <sub-title lang="ca">Penal</sub-title>
-    <desc lang="ca">La senyoreta Bustier organitza un partit de futbol perquè els seus alumnes descobreixin els valors de l'esport i de jugar junts. A la Marinette li encanta el futbol i lluitarà per salvar el partit, encara que la Chloé estigui disposada a fer el que calgui per esguerrar-lo. La Chloé no suporta el futbol, però en topar amb una Marinette molt decidida que la inclou en el joc encara que ella no ho vulgui, la còlera de la Chloé arriba a extrems exagerats. I només espera una cosa: que l'akumatitzin per poder-se venjar.</desc>
-    <length units="seconds">1255</length>
-    <episode-num system="onscreen">102</episode-num>
+  <programme start="20261025023943 +0100" stop="20261025024953 +0100" channel="sx3">
+    <title lang="ca">Com dibuixar còmics amb el Will Sliney</title>
+    <sub-title lang="ca">El poder de l’Elit</sub-title>
+    <desc lang="ca">Una nova versió del Crònica avança amb una nau espacial cap a la Terra amb la intenció de destruir-la. I només en Will Sliney ho pot impedir, de manera que es transforma en un superheroi, el Wil·lustrador, que té el superpoder de crear altres herois que puguin fer front a l'amenaça extraterrestre. De moment ja en té un, l'Elit, i en aquest episodi ens explicarà d'on ve i quins superpoders té.</desc>
+    <length units="seconds">610</length>
+    <episode-num system="onscreen">22</episode-num>
     <category lang="ca">FICCIÓ</category>
-    <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
+    <category lang="ca">ALTRES</category>
     <rating>
       <value>INFANTIL</value>
     </rating>
@@ -128,35 +123,33 @@
   <channel id="c33">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20261025012946 +0100" stop="20261025021334 +0100" channel="c33">
-    <title lang="ca">El día mes llarg</title>
-    <sub-title lang="ca">Una aposta pel clima</sub-title>
-    <desc lang="ca">El tercer capítol de la sèrie se centra en dues històries personals a l'Índia i a Indonèsia. D'una banda, a Delhi una parella de gent gran es veu obligada a malviure en condicions climàtiques extremes després d'haver perdut la casa, mentre ronden de refugi en refugi o viuen al carrer i fent feines precàries. D'una altra banda, a l'illa de Bali un pescador veu perillar el seu mitjà de subsistència per la disminució de la pesca, però el seu nebot ha tirat endavant un projecte per implicar tota la gent de la zona en la recuperació dels esculls de corall, que podria portar, al seu torn, a la recuperació dels peixos.</desc>
-    <length units="seconds">2628</length>
-    <episode-num system="onscreen">2</episode-num>
-    <category lang="ca">DIVULGACIÓ</category>
-    <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
+  <programme start="20261025025832 +0100" stop="20261025034126 +0100" channel="c33">
+    <title lang="ca">El Crac</title>
+    <sub-title lang="ca">La gran mort</sub-title>
+    <desc lang="ca">Algú intenta atemptar contra el Joel, però la Carla es pensa que les amenaces de mort van dirigides a ella. Per guanyar punts, el Joel es converteix en el seu guardaespatlles. Mentre en Joel vetlla el somni de la Carla, un vell enemic seu prepara la seva venjança. El Joel és víctima d'un atemptat i un àngel li mostra com hauria estat la vida dels seus coneguts si ell no hagués existit</desc>
+    <length units="seconds">2574</length>
+    <episode-num system="onscreen">9</episode-num>
+    <category lang="ca">FICCIÓ</category>
+    <category lang="ca">SÈRIE DRAMÀTICA</category>
     <rating>
-      <value>TOTS ELS PÚBLICS</value>
+      <value>PÚBLIC ADULT</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
-    <icon src="https://img.3cat.cat/multimedia/jpg/4/8/1781246651584.jpg"/>
   </programme>
-  <programme start="20261025021334 +0100" stop="20261025025831 +0100" channel="c33">
-    <title lang="ca">El día mes llarg</title>
-    <sub-title lang="ca">El món està de cap per avall</sub-title>
-    <desc lang="ca">El tercer capítol de la sèrie se centra en dues històries personals a l'Índia i a Indonèsia. D'una banda, a Delhi una parella de gent gran es veu obligada a malviure en condicions climàtiques extremes després d'haver perdut la casa, mentre ronden de refugi en refugi o viuen al carrer i fent feines precàries. D'una altra banda, a l'illa de Bali un pescador veu perillar el seu mitjà de subsistència per la disminució de la pesca, però el seu nebot ha tirat endavant un projecte per implicar tota la gent de la zona en la recuperació dels esculls de corall, que podria portar, al seu torn, a la recuperació dels peixos.</desc>
-    <length units="seconds">2697</length>
-    <episode-num system="onscreen">3</episode-num>
-    <category lang="ca">DIVULGACIÓ</category>
-    <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
+  <programme start="20261025034126 +0100" stop="20261025042905 +0100" channel="c33">
+    <title lang="ca">Benvinguts a la família</title>
+    <sub-title lang="ca">L'Àvia</sub-title>
+    <desc lang="ca">Per poder recuperar el cotxe de l'Eduardo, a l'Àngela no li queda més remei que retrobar-se amb la seva mare, ingressada en un hospital des de fa més de 10 anys. Mentrestant, el Nando fa tot el possible per ajudar la Victòria a recordar on ha amagat el cadàver del seu marit. </desc>
+    <length units="seconds">2859</length>
+    <episode-num system="onscreen">7</episode-num>
+    <category lang="ca">FICCIÓ</category>
+    <category lang="ca">SÈRIE DRAMÀTICA</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
-    <icon src="https://img.3cat.cat/multimedia/jpg/4/8/1781246651584.jpg"/>
   </programme>
   <channel id="oca1">
     <display-name>OCA1</display-name>
