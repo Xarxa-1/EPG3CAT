@@ -3,27 +3,55 @@
   <channel id="tvi">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20261025195529 +0100" stop="20261025200220 +0100" channel="tvi">
-    <title lang="ca">Ets i uts</title>
-    <sub-title lang="ca">Quan ens van detenir</sub-title>
-    <desc lang="ca">Durant el rodatge del primer reportatge de la sèrie a la Colònia Güell, el Roger i la Mònica es troben amb un vigilant de seguretat amb complex d'autoritat que intenta sabotejar-los la feina.</desc>
-    <length units="seconds">411</length>
-    <episode-num system="onscreen">2</episode-num>
-    <category lang="ca">DIVULGACIÓ</category>
-    <category lang="ca">ALTRES</category>
+  <programme start="20261025221118 +0100" stop="20261025224212 +0100" channel="tvi">
+    <title lang="ca">30 minuts</title>
+    <sub-title lang="ca">Morts de calor</sub-title>
+    <desc lang="ca">Els últims cinc mesos, de maig a setembre, hem viscut morts de calor. Mai abans no havíem patit tantes calorades, ni tan llargues. En els registres del servei meteorològic de Catalunya s'han superat els 40 graus en 24 dies. L'augment de temperatures pel canvi climàtic s'està accelerant. Com ens afecta aquesta calor? Estem preparats per afrontar-la? Es poden mitigar els efectes? Al reportatge 'Morts de calor' un equip del 30 minuts retrata l'impacte de la calor en la vida quotidiana, des de les escoles a les llars particulars o els treballs a l'aire lliure com els temporers o alguns serveis públics. El 80% dels edificis són del segle passat, mal aïllats o més pensats per resistir el fred que la calor. De dia és difícil estar-s'hi, però de nit és pitjor. Aquest any s'han viscut 177 nits tropicals, 70 tòrrides i 1 de roent, per sobre de 30 graus. 'La sensació de no poder descansar és terrible -diu Àlex Martín, que viu sota terrat-. Al final, si no descanses no rendeixes i al dia següent estàs de més mal humor.' La calor està disparant la venda de ventiladors i aires condicionats. 'La gent que no li agrada l'aire, que no ha volgut tindre aire i han aguantat sense aire, aquests últims 3 anys se l'estan posant', assegura Marc Zoroa, instal·lador. La temperatura extrema i persistent té importants efectes sobre la salut que no sempre són evidents. 'Normalment tenim l'ordre d'entre 3 i 5 cops de calor mortals a Catalunya, puntualitza Jacobo Mendioroz, subdirector d'alertes i emergències de Salut Pública-però probablement el gruix dels efectes sigui les descompensacions de patologies cròniques en persones ja vulnerables o en persones grans'. El reportatge 'Morts de calor' mostra també les solucions que proposen les últimes investigacions científiques per paliar la calor, com prioritzar la vegetació per sobre del ciment a les ciutats, amb més ombres, per rebaixar fins a 8 graus la temperatura.</desc>
+    <length units="seconds">1854</length>
+    <episode-num system="onscreen">1293</episode-num>
+    <category lang="ca">ACTUALITAT</category>
+    <category lang="ca">REPORTATGES</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
+    <icon src="https://statics.ccma.cat/multimedia/jpg/7/3/1571603193237.jpg"/>
   </programme>
-  <programme start="20261025200220 +0100" stop="20261025201326 +0100" channel="tvi">
-    <title lang="ca">Viure Catalunya</title>
-    <sub-title lang="ca">Cadaqués (Alt Empordà)</sub-title>
-    <length units="seconds">666</length>
-    <episode-num system="onscreen">14</episode-num>
-    <category lang="ca">DIVULGACIÓ</category>
-    <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
+  <programme start="20261025224212 +0100" stop="20261026002313 +0100" channel="tvi">
+    <title lang="ca">Pel·lícula</title>
+    <sub-title lang="ca">Segrest</sub-title>
+    <desc lang="ca">SEGRESTProductora: Rodar y Rodar, 2016Direcció: Mar TargaronaGuió: Oriol PauloDirector de fotografia: Sergi BartrolíMúsica: Marc VaílloIntèrprets: Blanca Portillo (Patricia), Antonio Dechent (Requena), Vicente Romero (Carreño), Marc Domenech (Victor), Nausicaa Bonnin (Vicky), Andrés Herrera (Charlie), Jose Coronado (Raúl) i Macarena Gómez (Raquel)Patricia de Lucas, una prestigiosa advocada, veu com la seva vida es converteix en un malson quan el seu fill Víctor desapareix del col·legi sense deixar cap rastre. Hores més tard, el nen reapareix magolat i moll de suor, i confessa que un home l'ha intentat segrestar, però que ha aconseguit escapar-se. La policia es mobilitza i, després d'una roda d'identificació, aconsegueixen trobar el responsable aparent. No obstant això, les proves no són suficients, i el presumpte segrestador queda en llibertat. És llavors quan la Patricia, espantada i tement pel seu fill, decideix fer el que no ha fet mai: prendre's la justícia pel seu compte. Però la situació se li escaparà de les mans i les conseqüències dels seus actes seran imprevisibles…</desc>
+    <credits>
+      <director>Mar Targarona</director>
+      <writer>Oriol</writer>
+      <actor>Blanca Portillo (Patricia)</actor>
+      <actor>Antonio Dechent (Requena)</actor>
+      <actor>Vicente Romero (Carreño)</actor>
+      <actor>Marc Domenech (Victor)</actor>
+      <actor>Nausicaa Bonnin (Vicky)</actor>
+      <actor>Andrés Herrera (Charlie)</actor>
+      <actor>Jose Coronado (Raúl)</actor>
+      <actor>Macarena Gómez (Raquel)Patricia de Lucas</actor>
+      <actor>una prestigiosa advocada</actor>
+      <actor>veu com la seva vida es converteix en un malson quan el seu fill Víctor desapareix del col·legi sense deixar cap rastre. Hores més tard</actor>
+      <actor>el nen reapareix magolat</actor>
+      <actor>moll de suor</actor>
+      <actor>confessa que un home l'ha intentat segrestar</actor>
+      <actor>però que ha aconseguit escapar-se. La policia es mobilitza i</actor>
+      <actor>després d'una roda d'identificació</actor>
+      <actor>aconsegueixen trobar el responsable aparent. No obstant això</actor>
+      <actor>les proves no són suficients</actor>
+      <actor>el presumpte segrestador queda en llibertat. És llavors quan la Patricia</actor>
+      <actor>espantada</actor>
+      <actor>tement pel seu fill</actor>
+      <actor>decideix fer el que no ha fet mai: prendre's la justícia pel seu compte. Però la situació se li escaparà de les mans</actor>
+      <actor>les conseqüències dels seus actes seran imprevisibles…</actor>
+    </credits>
+    <length units="seconds">6061</length>
+    <episode-num system="onscreen">1</episode-num>
+    <category lang="ca">FICCIÓ</category>
+    <category lang="ca">PEL·LÍCULA / TELEFILM</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
@@ -33,24 +61,23 @@
   <channel id="324">
     <display-name>324</display-name>
   </channel>
-  <programme start="20261025183000 +0100" stop="20261025200000 +0100" channel="324">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">5400</length>
-    <episode-num system="onscreen">11527</episode-num>
+  <programme start="20261025210000 +0100" stop="20261025230000 +0100" channel="324">
+    <title lang="ca">Telenotícies vespre</title>
+    <length units="seconds">7200</length>
+    <episode-num system="onscreen">7368</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/7/2/1758026176427.jpg"/>
   </programme>
-  <programme start="20261025200000 +0100" stop="20261025210000 +0100" channel="324">
+  <programme start="20261025230000 +0100" stop="20261026003000 +0100" channel="324">
     <title lang="ca">Notícies 3CatInfo</title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">3600</length>
-    <episode-num system="onscreen">11528</episode-num>
+    <length units="seconds">5400</length>
+    <episode-num system="onscreen">11529</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
@@ -62,25 +89,11 @@
   <channel id="esport3">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20261025192500 +0100" stop="20261025205656 +0100" channel="esport3">
-    <title lang="ca">Gol a gol</title>
-    <sub-title lang="ca">Prèvia Barça-R. Madrid / J10</sub-title>
-    <desc lang="ca">'Gol a gol' us ofereix els resums dels partits de futbol de Primera i Segona Divisió. Presentat per Jordi Grau a Esport3, cada dissabte i cada diumenge podeu veure les millors imatges de la jornada de Lliga amb l'anàlisi dels experts, amb especial atenció als equips catalans, sobretot el Barça, el Girona i l'Espanyol.</desc>
-    <length units="seconds">5516</length>
-    <episode-num system="onscreen">1794</episode-num>
-    <category lang="ca">ESPORTS</category>
-    <category lang="ca">MAGAZINE</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <subtitles type="teletext"/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/2/1/1698144123212.jpg"/>
-  </programme>
-  <programme start="20261025205656 +0100" stop="20261025225328 +0100" channel="esport3">
+  <programme start="20261025205533 +0100" stop="20261025225206 +0100" channel="esport3">
     <title lang="ca">Un dia de partit</title>
     <sub-title lang="ca">Barça-R. Madrid</sub-title>
     <desc lang="ca">A 'Un dia de partit' arreglem el Barça. O no. A cada partit, sis culers hi diuen la seva. Famosos i anònims. Cadascun a casa seva. Davant del televisor. Tot a base de videotrucades, en format Twitch i en rigorós directe. Ah! I a la mitja part no aturem màquines. Amb els jugadors als vestidors, nosaltres seguim fent bullir l'olla! Només sis culers? Negatiu. Durant el partit van apareixent els Jimmy Jump: els espontanis que demanen saltar a 'Un dia de partit' via WhatsApp.</desc>
-    <length units="seconds">6992</length>
+    <length units="seconds">6993</length>
     <episode-num system="onscreen">256</episode-num>
     <category lang="ca">ESPORTS</category>
     <category lang="ca">RETRANSMISSIONS ESPORTS</category>
@@ -89,15 +102,28 @@
     </rating>
     <icon src="https://img.ccma.cat/multimedia/jpg/2/7/1678885232972.jpg"/>
   </programme>
+  <programme start="20261025225206 +0100" stop="20261025232845 +0100" channel="esport3">
+    <title lang="ca">Motor a fons</title>
+    <sub-title lang="ca">GP d'Austràlia</sub-title>
+    <desc lang="ca">Divuitena prova del Campionat del Món de motociclisme. Us oferim el més destacat a les curses de MotoGP, Moto2 i Moto3. Amb Xavier Guillén, i l'anàlisi de Montse Sogues i Ramon Forcada.</desc>
+    <length units="seconds">2199</length>
+    <episode-num system="onscreen">959</episode-num>
+    <category lang="ca">ESPORTS</category>
+    <category lang="ca">MAGAZINE</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <icon src="https://img.ccma.cat/multimedia/jpg/5/7/1678886130275.jpg"/>
+  </programme>
   <channel id="sx3">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20261025195400 +0100" stop="20261025201543 +0100" channel="sx3">
-    <title lang="ca">El detectiu Conan</title>
-    <sub-title lang="ca">Una novel·la juvenil que fa olor de crim</sub-title>
-    <desc lang="ca">Un escriptor de novel·les juvenils que rebia amenaces de mort apareix assassinat al seu apartament. Quan en Kogoro, que havia rebut un encàrrec de la víctima per investigar el passat d'un difunt, troba el cos, també és atacat i acaba traslladat a l'hospital.</desc>
-    <length units="seconds">1303</length>
-    <episode-num system="onscreen">1160</episode-num>
+  <programme start="20261025222403 +0100" stop="20261025223438 +0100" channel="sx3">
+    <title lang="ca">Les filles del Dad</title>
+    <sub-title lang="ca">Música!</sub-title>
+    <desc lang="ca">L'Ondine ha decidit organitzar un concert al terrat de l'edifici de casa seva amb la Béa i el Mehdi i ha anunciat que el retransmetrà en directe per internet per tots els seus seguidors. L'únic problema és que desafina tant quan canta que els seus companys d'institut la deixen penjada per no haver de tocar amb ella i haurà de demanar a la seva família que actuïn amb ella.</desc>
+    <length units="seconds">635</length>
+    <episode-num system="onscreen">30</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
@@ -106,12 +132,12 @@
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20261025201543 +0100" stop="20261025203824 +0100" channel="sx3">
-    <title lang="ca">El detectiu Conan</title>
-    <sub-title lang="ca">El verdader culpable s’ha fugat!</sub-title>
-    <desc lang="ca">Mentre juguen a pilota, els membres de la Lliga de Detectius Júnior troben un cadàver. Sembla que el rastre deixat per l'assassí no porta enlloc, però en Conan s'adonarà d'un detall que els permetrà atrapar el criminal.</desc>
-    <length units="seconds">1361</length>
-    <episode-num system="onscreen">1161</episode-num>
+  <programme start="20261025223438 +0100" stop="20261025224531 +0100" channel="sx3">
+    <title lang="ca">La tropa del corral</title>
+    <sub-title lang="ca">En Jo, el de la Tropa</sub-title>
+    <desc lang="ca">De molt mala gana, la Maggie, la Flo, en Clive i en Billy van al veterinari fer-se la revisió anual, i deixen en Jo a càrrec del telèfon. Avui li espera un tros de missió: salvar els cadells d'en Sam, que s'han fet un embolic amb uns globus i s'estan enlairant.</desc>
+    <length units="seconds">653</length>
+    <episode-num system="onscreen">31</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
@@ -123,12 +149,12 @@
   <channel id="c33">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20261025193050 +0100" stop="20261025201517 +0100" channel="c33">
-    <title lang="ca">Els habitants de la fi del món</title>
-    <sub-title lang="ca">Lincolnshire</sub-title>
-    <desc lang="ca">En Ben es queda al Regne Unit i es dirigeix al nord d'Anglaterra per conèixer un altre estil de vida: la vida en furgoneta. Passa uns dies amb el seu amfitrió, en Paul, per saber per què va canviar la vida en una casa per la vida a la carretera. Descobreix que en Paul es va unir a una comunitat de nòmades a temps complet que viuen a la carretera i fora del sistema, al Regne Unit, i també s'adona dels reptes que comporta aquest moviment en auge. En Ben es troba amb en Paul al seu camió militar de 30 anys reconvertit, la Roxy. Junts, viatgen cap a la costa per passar la nit a la platja. En Ben està familiaritzat amb la gent que viu en furgonetes als Estats Units, però té curiositat per saber com és possible aquest estil de vida al Regne Unit amb les estrictes lleis d'acampada que té el país.</desc>
-    <length units="seconds">2667</length>
-    <episode-num system="onscreen">73</episode-num>
+  <programme start="20261025215606 +0100" stop="20261025223957 +0100" channel="c33">
+    <title lang="ca">Ben Fogle: Retorn a la fi del món</title>
+    <sub-title lang="ca">Tailàndia</sub-title>
+    <desc lang="ca">En Ben viatja a Tailàndia per retrobar-se amb en Paul i en Sao, a qui va conèixer a Cambodja.</desc>
+    <length units="seconds">2631</length>
+    <episode-num system="onscreen">18</episode-num>
     <category lang="ca">DIVULGACIÓ</category>
     <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
     <rating>
@@ -137,12 +163,12 @@
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20261025201517 +0100" stop="20261025205952 +0100" channel="c33">
-    <title lang="ca">Els habitants de la fi del món</title>
-    <sub-title lang="ca">Sri Lanka</sub-title>
-    <desc lang="ca">En Ben Fogle es dirigeix a la joia de l'oceà Índic, Sri Lanka, per conviure amb en Naveen i l'Anke, que han instal·lat la seva llar a les terres altes del país. Allà, descobrirà per què van canviar una de les ciutats del món per una existència autosuficient a quilòmetres de la civilització. Aprendrà els problemes que van tenir per establir-se a la seva nova vida, i veurà si volen trencar del tot els seus vincles amb el món exterior per apropar-se més a la natura.Els amfitrions d'en Ben s'han establert a les silencioses ruïnes d'una plantació de te. Les cabines de vidre, que són del tot autosuficients, ofereixen als viatgers que 's'allunyen del circuit turístic' un lloc únic per dormir. En Ben hi arregla una canonada trencada, construeix parets amb fems de vaca, baixa a la ciutat a carregar provisions i s'uneix a una petita empresa que sustenta la comunitat local. També descobreix que, tot i els anys complicats, els seus amfitrions ara aprofiten aquest nou equilibri entre la vida laboral i la vida personal que els aporta calma i satisfacció.</desc>
-    <length units="seconds">2675</length>
-    <episode-num system="onscreen">74</episode-num>
+  <programme start="20261025223957 +0100" stop="20261025232255 +0100" channel="c33">
+    <title lang="ca">Ben Fogle: Retorn a la fi del món</title>
+    <sub-title lang="ca">Àrtic de Noruega</sub-title>
+    <desc lang="ca">En Ben viatja a Noruega, al cercle polar àrtic per posar-se al dia amb en Randi cinc anys més tard.</desc>
+    <length units="seconds">2578</length>
+    <episode-num system="onscreen">19</episode-num>
     <category lang="ca">DIVULGACIÓ</category>
     <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
     <rating>
