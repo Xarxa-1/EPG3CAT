@@ -3,38 +3,42 @@
   <channel id="tvi">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20261025120001 +0100" stop="20261025142926 +0100" channel="tvi">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">8965</length>
-    <episode-num system="onscreen">11525</episode-num>
-    <category lang="ca">ACTUALITAT</category>
-    <category lang="ca">INFORMATIU DIÀRI</category>
+  <programme start="20261025170320 +0100" stop="20261025175514 +0100" channel="tvi">
+    <title lang="ca">Temps de silenci</title>
+    <sub-title lang="ca">CONDEMNATS</sub-title>
+    <desc lang="ca">Tornen a ser mals moments per a en Ramon i la Isabel. La policia ha detingut en Pau, l'assassí d'en Paco. La condemna a mort fa prendre posicions a tots els personatges... i els secrets de la Victòria ja no són tan secrets...</desc>
+    <length units="seconds">3114</length>
+    <episode-num system="onscreen">18</episode-num>
+    <category lang="ca">FICCIÓ</category>
+    <category lang="ca">SÈRIE DRAMÀTICA</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
+    <previously-shown/>
   </programme>
-  <programme start="20261025142926 +0100" stop="20261025142957 +0100" channel="tvi">
-    <title lang="ca">Telenotícies migdia</title>
-    <length units="seconds">31</length>
-    <episode-num system="onscreen">7369</episode-num>
-    <category lang="ca">ACTUALITAT</category>
-    <category lang="ca">INFORMATIU DIÀRI</category>
+  <programme start="20261025175514 +0100" stop="20261025184649 +0100" channel="tvi">
+    <title lang="ca">Temps de silenci</title>
+    <sub-title lang="ca">TESTAMENT</sub-title>
+    <desc lang="ca">1965 : L'arribada dels Beatles i de la minifaldilla. Els canvis generacionals. Amors impossibles: la història es repeteix. Enfrontament entre la Victòria i en Joaquim. El secret de la Victòria s'escampa....</desc>
+    <length units="seconds">3095</length>
+    <episode-num system="onscreen">19</episode-num>
+    <category lang="ca">FICCIÓ</category>
+    <category lang="ca">SÈRIE DRAMÀTICA</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <icon src="https://img.ccma.cat/multimedia/jpg/5/4/1758025766345.jpg"/>
+    <subtitles type="teletext"/>
+    <previously-shown/>
   </programme>
   <channel id="324">
     <display-name>324</display-name>
   </channel>
-  <programme start="20261025120000 +0100" stop="20261025143000 +0100" channel="324">
+  <programme start="20261025163000 +0100" stop="20261025183000 +0100" channel="324">
     <title lang="ca">Notícies 3CatInfo</title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">9000</length>
-    <episode-num system="onscreen">11525</episode-num>
+    <length units="seconds">7200</length>
+    <episode-num system="onscreen">11526</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
@@ -43,141 +47,135 @@
     <subtitles type="teletext"/>
     <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
-  <programme start="20261025143000 +0100" stop="20261025163000 +0100" channel="324">
-    <title lang="ca">Telenotícies migdia</title>
-    <length units="seconds">7200</length>
-    <episode-num system="onscreen">7369</episode-num>
+  <programme start="20261025183000 +0100" stop="20261025200000 +0100" channel="324">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="seconds">5400</length>
+    <episode-num system="onscreen">11527</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <icon src="https://img.ccma.cat/multimedia/jpg/5/4/1758025766345.jpg"/>
+    <subtitles type="teletext"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
   <channel id="esport3">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20261025113831 +0100" stop="20261025132601 +0100" channel="esport3">
+  <programme start="20261025155919 +0100" stop="20261025172500 +0100" channel="esport3">
     <title lang="ca">Hoquei patins</title>
-    <sub-title lang="ca">CP Vila-sana - Gijón HC / Supercopa d'Espanya / Final</sub-title>
-    <desc lang="ca">Des d'Olot, final femenina de la Supercopa d'Espanya d'hoquei patins.</desc>
-    <length units="seconds">6450</length>
-    <episode-num system="onscreen">102</episode-num>
+    <sub-title lang="ca">Barça-Igualada HC / Supercopa Espanya / Final</sub-title>
+    <desc lang="ca">Final masculina de la Supercopa d'Espanya d'hoquei patins que s'està disputant a Olot.</desc>
+    <length units="seconds">5141</length>
+    <episode-num system="onscreen">387</episode-num>
     <category lang="ca">ESPORTS</category>
     <category lang="ca">RETRANSMISSIONS ESPORTS</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <icon src="https://img.ccma.cat/multimedia/jpg/5/5/1701373461655.jpg"/>
+    <icon src="https://img.3cat.cat/multimedia/jpg/5/7/1758291200775.jpg"/>
   </programme>
-  <programme start="20261025132601 +0100" stop="20261025134018 +0100" channel="esport3">
-    <title lang="ca">Sala de Premsa</title>
-    <sub-title lang="ca">Hansi Flick / Prèvia Barça-R. Madrid / J10</sub-title>
-    <desc lang="ca">Esport3 t'ofereix les compareixences de dirigents, jugadors i entrenadors dels equips catalans davant els mitjans de comunicació.</desc>
-    <length units="seconds">857</length>
-    <episode-num system="onscreen">743</episode-num>
+  <programme start="20261025172500 +0100" stop="20261025192500 +0100" channel="esport3">
+    <title lang="ca">Futbol</title>
+    <sub-title lang="ca">UE Olot-Barça Atlètic / Segona Federació / J8</sub-title>
+    <desc lang="ca">El conjunt garrotxí vol seguir a la zona alta de la taula; i el filial blaugrana, que hi arriba invicte, és el líder a la classificació.</desc>
+    <length units="seconds">7200</length>
+    <episode-num system="onscreen">73</episode-num>
     <category lang="ca">ESPORTS</category>
-    <category lang="ca">INFORMATIU DIÀRI</category>
+    <category lang="ca">RETRANSMISSIONS ESPORTS</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <subtitles type="teletext"/>
-    <previously-shown/>
-    <icon src="https://img.3cat.cat/multimedia/jpg/7/4/1778665728847.jpg"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/0/7/1698446098170.jpg"/>
   </programme>
   <channel id="sx3">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20261025125909 +0100" stop="20261025130539 +0100" channel="sx3">
-    <title lang="ca">En Grizzy i els Lèmmings</title>
-    <sub-title lang="ca">Safari exprés</sub-title>
-    <desc lang="ca">Per guanyar un trofeu ple de llaminadures, en Grizzy i els Lèmmings participen en un safari fotogràfic dins d'una reserva zoològica. Per guanyar, han de fotografiar diversos animals salvatges que viuen a la reserva. Han de ser llestos per apropar-se a l'elefant, al facoquer i al ratpenat i fer-los fotos per al concurs. Però quan arriba l'hora de l'estruç, un animal superràpid, tot es complica.</desc>
-    <length units="seconds">390</length>
-    <episode-num system="onscreen">202</episode-num>
+  <programme start="20261025165824 +0100" stop="20261025170920 +0100" channel="sx3">
+    <title lang="ca">Ideafix i els irreductibles</title>
+    <sub-title lang="ca">La gateta de plomes</sub-title>
+    <desc lang="ca">La gata Picarina salva la coloma Webzina de les urpes de dos gatots de la banda de les catacumbes. Enlluernada pel talent de la gata, la coloma li demana un curset de 'gata rebel', que rep juntament amb la gossa Turbina. Però els gatots prendran represàlies...</desc>
+    <length units="seconds">656</length>
+    <episode-num system="onscreen">73</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
       <value>INFANTIL</value>
     </rating>
+    <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20261025130539 +0100" stop="20261025131209 +0100" channel="sx3">
-    <title lang="ca">En Grizzy i els Lèmmings</title>
-    <sub-title lang="ca">Una cabana a la Lluna</sub-title>
-    <desc lang="ca">Just abans d'anar-se'n a dormir, en Grizzy expulsa els Lèmmings de la cabana, que estan celebrant una festa sorpresa. Els rosegadors aterren en un temple maia dedicat a la Lluna. Allà troben una consola ancestral, que desencadena un fenomen còsmic que porta la Lluna, que ara té la mida d'una bola de discoteca, fins al temple. Al voltant del satèl·lit encongit, la gravetat es torna molt dèbil. Gràcies a la Lluna, els Lèmmings aconsegueixen fer fora a en Grizzy de la cabana i celebren una festa molt original.</desc>
-    <length units="seconds">390</length>
-    <episode-num system="onscreen">247</episode-num>
+  <programme start="20261025170920 +0100" stop="20261025171950 +0100" channel="sx3">
+    <title lang="ca">Ideafix i els irreductibles</title>
+    <sub-title lang="ca">La Turbina a pas de lloba</sub-title>
+    <desc lang="ca">Havent fet fracassar un atemptat de la gossa Polvorina contra els romans, l'Ideafix es troba engabiat juntament amb ella. Malgrat les diferències que els separen, no tenen més remei que cooperar per poder-ne fugir. Mentrestant, la gossa Turbina i la lloba Halouina també fan plans per alliberar-los.</desc>
+    <length units="seconds">630</length>
+    <episode-num system="onscreen">74</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
       <value>INFANTIL</value>
     </rating>
+    <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
   <channel id="c33">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20261025122823 +0100" stop="20261025130511 +0100" channel="c33">
-    <title lang="ca">Rauxa</title>
-    <sub-title lang="ca">Les pastoretes i els pastorets</sub-title>
-    <desc lang="ca">Els membres de l'agrupació teatral La Farsa ens introdueixen en el món de 'Els Pastorets', una de les manifestacions més genuïnes de la nostra cultura, mentre afronten el repte d'adaptar l'obra als temps actuals, respectant la tradició.</desc>
-    <length units="seconds">2208</length>
-    <episode-num system="onscreen">5</episode-num>
+  <programme start="20261025160849 +0100" stop="20261025170755 +0100" channel="c33">
+    <title lang="ca">Rick Stein: De Venècia a Istanbul</title>
+    <sub-title lang="ca">Turquía</sub-title>
+    <desc lang="ca">Aquest viatge culinari d'en Rick Stein té l'última etapa a Turquia, amb el punt final a la ciutat d'Istanbul, just a temps per a la temporada de pesca del deliciós tallahams. Sortirà a pescar al Bòsfor, un dels passos marítims més estratègics del món, que divideix Istanbul en dos continents. I cuinarà un pollastre al forn amb sumac, una planta que li dóna un sabor allimonat, i també dos plats autòctons molt apreciats: el fabulós 'köfte' amb pistatxos, i 'kapuska', un estofat tradicional turc de la regió de la mar Negra amb un nom rus.</desc>
+    <length units="seconds">3546</length>
+    <episode-num system="onscreen">7</episode-num>
     <category lang="ca">DIVULGACIÓ</category>
-    <category lang="ca">ALTRES</category>
+    <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20261025130511 +0100" stop="20261025135132 +0100" channel="c33">
-    <title lang="ca">La Renaixença</title>
-    <sub-title lang="ca">El taüt</sub-title>
-    <desc lang="ca">No tots els objectes han de ser divertits… o sí? Avui tenim el repte de trobar la gràcia al taüt, a qui dediquem el capítol. No és que tinguem ganes d'anar-hi, però hem de poder parlar de tot. Qui sí que s'ho passa bé és en Josep Plana, CEO d'una empresa d'esdeveniments per a multimilionaris, que no creiem que s'ho passin pas malament amb tots els diners que tenen. A 'Històries per passejar el gos' anem amb la Tina fins al 1986, durant la catàstrofe del llac Nyos.</desc>
-    <length units="seconds">2781</length>
-    <episode-num system="onscreen">77</episode-num>
+  <programme start="20261025170755 +0100" stop="20261025184656 +0100" channel="c33">
+    <title lang="ca">Petitet</title>
+    <sub-title lang="ca">Petitet</sub-title>
+    <desc lang="ca">'PETITET' (2018), una producció de Lastor Media en coproducció amb Televisió de Catalunya, Turkana Films i Vilaut Films, amb la col·laboració de Fundació Grifols, amb el suport de l'ICEC i l'ICAA i amb la participació de Movistar+.Petitet, un exmúsic gitano barceloní, fill d'un dels 'palmeros' del mític Peret, va prometre a la seva mare moribunda que un dia portaria la rumba catalana a l'escenari d'un gran teatre de Barcelona i, ara, per poder complir la promesa, haurà de reunir una vintena de músics gitanos —genials però indisciplinats— i aconseguir el miracle que s'entenguin amb... una orquestra simfònica!Direcció: Carles BoschGuió: Carles Bosch, David VidalProductor: Tono Folguera, Sergi Moreno, Carles BoschProductor executiu TVC: Jordi AmbròsProductor delegat TVC: Elisa PlazaDirector fotografia: Sofia AmadoriMuntatge: Ernest Blasi, Carlos PrietoDirector de producció: Joan Antoni BarjauMúsica: Josep SanouGrafisme: Mariona Omedes</desc>
+    <credits>
+      <director>Carles Bosch</director>
+      <writer>Carles Bosch</writer>
+      <writer>David Vidal</writer>
+    </credits>
+    <length units="seconds">5941</length>
+    <episode-num system="onscreen">1</episode-num>
     <category lang="ca">DIVULGACIÓ</category>
-    <category lang="ca">ALTRES</category>
+    <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/3/3/1756148014833.jpg"/>
+    <icon src="https://img.3cat.cat/multimedia//png/4/8/1728720017584.png"/>
   </programme>
   <channel id="oca1">
     <display-name>OCA1</display-name>
   </channel>
-  <programme start="20261025114456 +0100" stop="20261025135221 +0100" channel="oca1">
-    <title lang="ca">Bàsquet</title>
-    <sub-title lang="ca">- FIATC Girona-Asisa Joventut / Lliga / J5</sub-title>
-    <desc lang="ca">Els dos equips afronten el derbi català de Fontajau empatats a la classificació amb 2 victòries i 2 derrotes.</desc>
-    <length units="seconds">7645</length>
-    <episode-num system="onscreen">46</episode-num>
+  <programme start="20261025152000 +0100" stop="20261025171455 +0100" channel="oca1">
+    <title lang="ca">Hoquei patins</title>
+    <sub-title lang="ca">- Supercopa Espanya / Final</sub-title>
+    <desc lang="ca">Final masculina de la Supercopa d'Espanya d'hoquei patins que s'està disputant a Olot.</desc>
+    <length units="seconds">6895</length>
+    <episode-num system="onscreen">387</episode-num>
     <category lang="ca">ESPORTS</category>
     <category lang="ca">RETRANSMISSIONS ESPORTS</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <icon src="https://img.3cat.cat/multimedia/jpg/4/5/1769511199554.jpg"/>
+    <icon src="https://img.3cat.cat/multimedia/jpg/5/7/1758291200775.jpg"/>
   </programme>
   <channel id="oca2">
     <display-name>OCA2</display-name>
   </channel>
-  <programme start="20261025113823 +0100" stop="20261025131719 +0100" channel="oca2">
-    <title lang="ca">Hoquei patins</title>
-    <sub-title lang="ca">- CP Vila-sana - Gijón HC / Supercopa d'Espanya / Final</sub-title>
-    <desc lang="ca">Des d'Olot, final femenina de la Supercopa d'Espanya d'hoquei patins.</desc>
-    <length units="seconds">5936</length>
-    <episode-num system="onscreen">102</episode-num>
-    <category lang="ca">ESPORTS</category>
-    <category lang="ca">RETRANSMISSIONS ESPORTS</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <icon src="https://img.ccma.cat/multimedia/jpg/5/5/1701373461655.jpg"/>
-  </programme>
   <channel id="oca3">
     <display-name>OCA3</display-name>
   </channel>
