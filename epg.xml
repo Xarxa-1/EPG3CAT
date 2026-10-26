@@ -3,66 +3,79 @@
   <channel id="tvi">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20261026143000 +0100" stop="20261026153011 +0100" channel="tvi">
-    <title lang="ca">Telenotícies migdia</title>
-    <length units="seconds">3611</length>
-    <episode-num system="onscreen">7370</episode-num>
+  <programme start="20261026201456 +0100" stop="20261026210000 +0100" channel="tvi">
+    <title lang="ca">Està passant</title>
+    <desc lang="ca">L'Òscar Andreu i el Queco parlen dels aldarulls a Barcelona durant el cap de setmana. I la Judit Martín es converteix en un panellet.</desc>
+    <length units="seconds">2704</length>
+    <episode-num system="onscreen">1838</episode-num>
+    <category lang="ca">ENTRETENIMENT</category>
+    <category lang="ca">GAGS. HUMOR</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <icon src="https://img.ccma.cat/multimedia/png/3/8/1705511272683.png"/>
+  </programme>
+  <programme start="20261026210000 +0100" stop="20261026220502 +0100" channel="tvi">
+    <title lang="ca">Telenotícies vespre</title>
+    <length units="seconds">3902</length>
+    <episode-num system="onscreen">7369</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <icon src="https://img.ccma.cat/multimedia/jpg/5/4/1758025766345.jpg"/>
-  </programme>
-  <programme start="20261026153011 +0100" stop="20261026155143 +0100" channel="tvi">
-    <title lang="ca">Cuines</title>
-    <sub-title lang="ca">Terrina de conill amb festucs</sub-title>
-    <desc lang="ca">El conill, més enllà de rostir-lo o fer-lo a la brasa, no sabem ben bé mai com cuinar-lo. La Gessamí Caramés fa una recepta diferent: terrina de conill amb festucs.</desc>
-    <length units="seconds">1292</length>
-    <episode-num system="onscreen">2476</episode-num>
-    <category lang="ca">DIVULGACIÓ</category>
-    <category lang="ca">CUINA</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <icon src="https://img.ccma.cat/multimedia/jpg/2/5/1653464509252.jpg"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/7/2/1758026176427.jpg"/>
   </programme>
   <channel id="324">
     <display-name>324</display-name>
   </channel>
-  <programme start="20261026143000 +0100" stop="20261026153000 +0100" channel="324">
-    <title lang="ca">Telenotícies migdia</title>
+  <programme start="20261026200000 +0100" stop="20261026210000 +0100" channel="324">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <length units="seconds">3600</length>
-    <episode-num system="onscreen">7370</episode-num>
-    <category lang="ca">ACTUALITAT</category>
-    <category lang="ca">INFORMATIU DIÀRI</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <icon src="https://img.ccma.cat/multimedia/jpg/5/4/1758025766345.jpg"/>
-  </programme>
-  <programme start="20261026153000 +0100" stop="20261026160000 +0100" channel="324">
-    <title lang="ca">3CatInfo en aranès</title>
-    <desc lang="ca">Informatiu de continguts generalistes en llengua aranesa, presentat per Ares Riu, en emissió per a tot Catalunya.</desc>
-    <length units="seconds">1800</length>
-    <episode-num system="onscreen">2579</episode-num>
+    <episode-num system="onscreen">11537</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
-    <icon src="https://img.ccma.cat/multimedia/png/5/8/1758125433085.png"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
+  </programme>
+  <programme start="20261026210000 +0100" stop="20261026220500 +0100" channel="324">
+    <title lang="ca">Telenotícies vespre</title>
+    <length units="seconds">3900</length>
+    <episode-num system="onscreen">7369</episode-num>
+    <category lang="ca">ACTUALITAT</category>
+    <category lang="ca">INFORMATIU DIÀRI</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <icon src="https://img.ccma.cat/multimedia/jpg/7/2/1758026176427.jpg"/>
   </programme>
   <channel id="esport3">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20261026140119 +0100" stop="20261026163315 +0100" channel="esport3">
+  <programme start="20261026185951 +0100" stop="20261026205500 +0100" channel="esport3">
+    <title lang="ca">Tot Costa</title>
+    <sub-title lang="ca">Les causes de la derrota al clàssic</sub-title>
+    <desc lang="ca">Què li va passar, al Barça, al clàssic? En parlem amb Mireia Vera, Dani Senabre i Marcos López. Amb Ramon Salmurri escoltem l'anàlisi dels jugadors i amb Ricard Torquemada busquem solucions tàctiques per a Flick. També connectarem amb Laia Tudel, que és a Londres per la gala de la Pilota d'Or, que seguirem al canal exclusiu digital a partir de les 21 h. També analitzarem amb Sergi Andreu el moment delicat de l'Espanyol i, amb Eduard Solà, el bon moment del Girona.</desc>
+    <length units="seconds">6909</length>
+    <episode-num system="onscreen">1026</episode-num>
+    <category lang="ca">ESPORTS</category>
+    <category lang="ca">INFORMATIU DIÀRI</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <subtitles type="teletext"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/0/4/1706209193140.jpg"/>
+  </programme>
+  <programme start="20261026205500 +0100" stop="20261026230000 +0100" channel="esport3">
     <title lang="ca">Esport Club</title>
-    <sub-title lang="ca">La derrota del Barça, la Pilota d'Or, Manolo i Arnau Martínez</sub-title>
-    <desc lang="ca">El Barça tanca una setmana per oblidar. En parlem amb Albert Blaya. Avui s'entrega la Pilota d'Or. Lamine i Alèxia, entre els grans favorits. Des de Londres, última hora amb Francesc Latorre. Manolo González abans del Sestao River-Espanyol de Copa. I entrevistem Arnau Martínez, porter del Barça d'hoquei patins. A la tertúlia ens acompanyen Maria Josep Hostalrich i Orfeo Suárez.</desc>
-    <length units="seconds">9116</length>
-    <episode-num system="onscreen">3269</episode-num>
+    <sub-title lang="ca">Minut a minut / Gala Pilota d'Or</sub-title>
+    <desc lang="ca">El seguiment de la cerimònia de lliurament de la Pilota d'or que es celebra a Londres. Els catalans Lamine Yamal i Alèxia Putellas són ferms candidats al premi principal.</desc>
+    <length units="seconds">7500</length>
+    <episode-num system="onscreen">3270</episode-num>
     <category lang="ca">ESPORTS</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
@@ -71,48 +84,33 @@
     <subtitles type="teletext"/>
     <icon src="https://img.ccma.cat/multimedia/jpg/7/3/1698145091337.jpg"/>
   </programme>
-  <programme start="20261026163315 +0100" stop="20261026170540 +0100" channel="esport3">
-    <title lang="ca">GR Pirineus</title>
-    <sub-title lang="ca">Vespre de llegendes</sub-title>
-    <desc lang="ca">Avui viatgem fins al Lluçanès, una comarca de transició molt singular on viurem un capítol especial, ple de sorpreses. Primer coneixerem els garrins de Cal Pujols, després descobrirem com eren les bruixes segles enrere. Ens cruspirem uns suculents canelons farcits de peus de porc i, finalment, baixarem als averns per aprendre com és l'ofici de diable.Ja ho veureu... Ens espera un vespre envoltat de llegendes, seguint el ritme del foc, per un món realment màgic. </desc>
-    <length units="seconds">1945</length>
-    <episode-num system="onscreen">24</episode-num>
-    <category lang="ca">DIVULGACIÓ</category>
-    <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <subtitles type="teletext"/>
-    <previously-shown/>
-    <icon src="https://img.3cat.cat/multimedia/jpg/9/8/1736612891089.jpg"/>
-  </programme>
   <channel id="sx3">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20261026142818 +0100" stop="20261026144727 +0100" channel="sx3">
-    <title lang="ca">Bola de drac Z</title>
-    <sub-title lang="ca">Fuig, Satan! La fúria d'en Bu és imprevisible</sub-title>
-    <desc lang="ca">Quan sembla que en Bu ha trobat la felicitat al costat del senyor Satan i del seu gos, l'atac maliciós de dos homes li fa expulsar tota la fúria i, després de dir-li a en Satan que se'n vagi corrents, el monstre dóna forma a un altre Bu dolent. Si el Bu bo no és capaç d'aturar-lo, ben aviat l'extinció de la raça humana podria ser un fet.</desc>
-    <length units="seconds">1149</length>
-    <episode-num system="onscreen">254</episode-num>
+  <programme start="20261026201613 +0100" stop="20261026203639 +0100" channel="sx3">
+    <title lang="ca">Henry Danger</title>
+    <sub-title lang="ca">L'enrenou del poder nou, 2a part</sub-title>
+    <desc lang="ca">Després d'una dura derrota, els amics d'en Henry busquen una manera extraordinària d'ajudar-lo a plantar cara a una nova amenaça.</desc>
+    <length units="seconds">1226</length>
+    <episode-num system="onscreen">53</episode-num>
     <category lang="ca">FICCIÓ</category>
-    <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
+    <category lang="ca">SÈRIE DRAMÀTICA</category>
     <rating>
-      <value>JUVENIL</value>
+      <value>INFANTIL</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20261026144727 +0100" stop="20261026150621 +0100" channel="sx3">
-    <title lang="ca">Bola de drac Z</title>
-    <sub-title lang="ca">L'enfrontament entre en Bu bo i en Bu dolent</sub-title>
-    <desc lang="ca">Les dues formes d'en Bu, la bona i la dolenta, s'enfronten en un combat que podria suposar el principi del final de la raça humana. Avui assistirem al naixement d'un nou Bu malèfic i sense escrúpols, capaç fins i tot de detectar l'energia d'altres éssers i que ben aviat es presentarà al palau de Déu.</desc>
-    <length units="seconds">1134</length>
-    <episode-num system="onscreen">255</episode-num>
+  <programme start="20261026203639 +0100" stop="20261026210000 +0100" channel="sx3">
+    <title lang="ca">Henry Danger</title>
+    <sub-title lang="ca">Gestió de la ràbia per a adolescents</sub-title>
+    <desc lang="ca">Quan la Piper descobreix que els seus amics l'han exclòs d'una excursió pel seu mal geni, accepta apuntar-se a un curs per aprendre a controlar la ràbia.</desc>
+    <length units="seconds">1401</length>
+    <episode-num system="onscreen">54</episode-num>
     <category lang="ca">FICCIÓ</category>
-    <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
+    <category lang="ca">SÈRIE DRAMÀTICA</category>
     <rating>
-      <value>JUVENIL</value>
+      <value>INFANTIL</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
@@ -120,35 +118,24 @@
   <channel id="c33">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20261026140207 +0100" stop="20261026144937 +0100" channel="c33">
-    <title lang="ca">La Renaixença</title>
-    <sub-title lang="ca">El mirall</sub-title>
-    <desc lang="ca">Trencar un mirall són 7 anys de mala sort. Algú ens pot confirmar si aquesta superstició és certa perquè ho ha viscut en primera persona? També pots tenir mala sort per defecte, sense haver trencat res. Dediquem aquest capítol al mirall. Ens visita la Regina Rodríguez Sirvent, autora de 'Les calces al sol': ens fa espòilers sobre la seva següent novel·la, i també parlem de diners. I sortim a passejar en Plum, un gos de Cornudella de Montsant, per la Conspiració de la Pólvora del 1606</desc>
-    <length units="seconds">2850</length>
-    <episode-num system="onscreen">61</episode-num>
+  <programme start="20261026200919 +0100" stop="20261026205945 +0100" channel="c33">
+    <title lang="ca">Dibuixar pel canvi</title>
+    <sub-title lang="ca">Egipte. Un traç de llibertat</sub-title>
+    <desc lang="ca">Doaa el-Adl, la primera dona a guanyar el prestigiós Premi de Periodisme en la categoria de Caricatura, intenta introduir canvis en el món dels caricaturistes polítics egipcis, àmpliament dominat pels homes. Rebel i molt crítica amb les normes del patriarcat, ha de fer front cada dia als insults, la censura, la intimidació i les amenaces de mort. La directora egípcia Nada Riyadhh dona vida a les obres més famoses de Doaa el-Adl en una cinta en què el gènere del documental es fusiona amb l'animació d'una manera creativa i emotiva. Aquest format dinàmic i atrevit s'endinsa en la problemàtica de la violència contra les dones, ampliant els límits de la llibertat d'expressió en una societat sovint marcada per les restriccions.</desc>
+    <length units="seconds">3026</length>
+    <episode-num system="onscreen">3</episode-num>
     <category lang="ca">DIVULGACIÓ</category>
-    <category lang="ca">ALTRES</category>
+    <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/3/3/1756148014833.jpg"/>
   </programme>
-  <programme start="20261026144937 +0100" stop="20261026153551 +0100" channel="c33">
-    <title lang="ca">La Renaixença</title>
-    <sub-title lang="ca">El pintallavis</sub-title>
-    <desc lang="ca">El pintallavis existeix des de l'any 2000 aC. Es feien amb formigues aixafades i carmí. Ara es fa de molts elements químics que segurament són pitjor que les formigues aixafades, però ningú es posa les mans al cap. Aquest capítol el dediquem al pintallavis. Venen la companyia de teatre musical Impro Side Story. Actuen sense lletra ni partitura perquè basen els seus espectacles en allò que diu el públic. A 'Històries per passejar el gos' anem amb la Sas fins a l'incendi del funicular de Kaprun (Àustria) que es va produir a principis de segle, l'any 2000.</desc>
-    <length units="seconds">2774</length>
-    <episode-num system="onscreen">62</episode-num>
-    <category lang="ca">DIVULGACIÓ</category>
-    <category lang="ca">ALTRES</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <subtitles type="teletext"/>
-    <previously-shown/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/3/3/1756148014833.jpg"/>
+  <programme start="20261026205945 +0100" stop="20261026210200 +0100" channel="c33">
+    <title lang="ca">SENSE FI CANAL 33</title>
+    <desc lang="ca">Sense Descripció</desc>
+    <length units="seconds">135</length>
   </programme>
   <channel id="oca1">
     <display-name>OCA1</display-name>
@@ -159,6 +146,12 @@
   <channel id="oca3">
     <display-name>OCA3</display-name>
   </channel>
+  <programme start="20261026185955 +0100" stop="20261026210955 +0100" channel="oca3">
+    <title lang="ca">Tot Costa</title>
+    <desc lang="ca">Sense Descripció</desc>
+    <length units="seconds">7800</length>
+    <episode-num system="onscreen">865</episode-num>
+  </programme>
   <channel id="oca4">
     <display-name>OCA4</display-name>
   </channel>
