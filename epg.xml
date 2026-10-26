@@ -3,145 +3,152 @@
   <channel id="tvi">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20261026060000 +0100" stop="20261026080000 +0100" channel="tvi">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">7200</length>
-    <episode-num system="onscreen">11531</episode-num>
+  <programme start="20261026143000 +0100" stop="20261026153011 +0100" channel="tvi">
+    <title lang="ca">Telenotícies migdia</title>
+    <length units="seconds">3611</length>
+    <episode-num system="onscreen">7370</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/5/4/1758025766345.jpg"/>
   </programme>
-  <programme start="20261026080000 +0100" stop="20261026103000 +0100" channel="tvi">
-    <title lang="ca">Matins</title>
-    <desc lang="ca">'Matins' és un dels puntals informatius de TV3. El programa matinal dona les claus del dia que comença, explica les notícies que han passat aportant-ne el context per entendre-les i analitza amb veus acreditades l'actualitat més propera i la d'arreu del món. 'Matins' comença a les 8 del matí, de dilluns a divendres, i està presentat per Ariadna Oltra.</desc>
-    <length units="seconds">9000</length>
-    <episode-num system="onscreen">4699</episode-num>
-    <category lang="ca">ACTUALITAT</category>
-    <category lang="ca">INFORMATIU DIÀRI</category>
+  <programme start="20261026153011 +0100" stop="20261026155143 +0100" channel="tvi">
+    <title lang="ca">Cuines</title>
+    <sub-title lang="ca">Terrina de conill amb festucs</sub-title>
+    <desc lang="ca">El conill, més enllà de rostir-lo o fer-lo a la brasa, no sabem ben bé mai com cuinar-lo. La Gessamí Caramés fa una recepta diferent: terrina de conill amb festucs.</desc>
+    <length units="seconds">1292</length>
+    <episode-num system="onscreen">2476</episode-num>
+    <category lang="ca">DIVULGACIÓ</category>
+    <category lang="ca">CUINA</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <icon src="https://img.ccma.cat/multimedia/jpg/2/0/1758040151402.jpg"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/2/5/1653464509252.jpg"/>
   </programme>
   <channel id="324">
     <display-name>324</display-name>
   </channel>
-  <programme start="20261026060000 +0100" stop="20261026080000 +0100" channel="324">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">7200</length>
-    <episode-num system="onscreen">11531</episode-num>
+  <programme start="20261026143000 +0100" stop="20261026153000 +0100" channel="324">
+    <title lang="ca">Telenotícies migdia</title>
+    <length units="seconds">3600</length>
+    <episode-num system="onscreen">7370</episode-num>
+    <category lang="ca">ACTUALITAT</category>
+    <category lang="ca">INFORMATIU DIÀRI</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <icon src="https://img.ccma.cat/multimedia/jpg/5/4/1758025766345.jpg"/>
+  </programme>
+  <programme start="20261026153000 +0100" stop="20261026160000 +0100" channel="324">
+    <title lang="ca">3CatInfo en aranès</title>
+    <desc lang="ca">Informatiu de continguts generalistes en llengua aranesa, presentat per Ares Riu, en emissió per a tot Catalunya.</desc>
+    <length units="seconds">1800</length>
+    <episode-num system="onscreen">2579</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
-  </programme>
-  <programme start="20261026080000 +0100" stop="20261026103000 +0100" channel="324">
-    <title lang="ca">Matins</title>
-    <desc lang="ca">'Matins' és un dels puntals informatius de TV3. El programa matinal dona les claus del dia que comença, explica les notícies que han passat aportant-ne el context per entendre-les i analitza amb veus acreditades l'actualitat més propera i la d'arreu del món. 'Matins' comença a les 8 del matí, de dilluns a divendres, i està presentat per Ariadna Oltra.</desc>
-    <length units="seconds">9000</length>
-    <episode-num system="onscreen">4699</episode-num>
-    <category lang="ca">ACTUALITAT</category>
-    <category lang="ca">INFORMATIU DIÀRI</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <icon src="https://img.ccma.cat/multimedia/jpg/2/0/1758040151402.jpg"/>
+    <icon src="https://img.ccma.cat/multimedia/png/5/8/1758125433085.png"/>
   </programme>
   <channel id="esport3">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20261026063950 +0100" stop="20261026081003 +0100" channel="esport3">
-    <title lang="ca">Gol a gol</title>
-    <sub-title lang="ca">Post Barça-R. Madrid / J10</sub-title>
-    <desc lang="ca">'Gol a gol' us ofereix els resums dels partits de futbol de Primera i Segona Divisió. Presentat per Jordi Grau a Esport3, cada dissabte i cada diumenge podeu veure les millors imatges de la jornada de Lliga amb l'anàlisi dels experts, amb especial atenció als equips catalans, sobretot el Barça, el Girona i l'Espanyol.</desc>
-    <length units="seconds">5413</length>
-    <episode-num system="onscreen">1795</episode-num>
+  <programme start="20261026140119 +0100" stop="20261026163315 +0100" channel="esport3">
+    <title lang="ca">Esport Club</title>
+    <sub-title lang="ca">La derrota del Barça, la Pilota d'Or, Manolo i Arnau Martínez</sub-title>
+    <desc lang="ca">El Barça tanca una setmana per oblidar. En parlem amb Albert Blaya. Avui s'entrega la Pilota d'Or. Lamine i Alèxia, entre els grans favorits. Des de Londres, última hora amb Francesc Latorre. Manolo González abans del Sestao River-Espanyol de Copa. I entrevistem Arnau Martínez, porter del Barça d'hoquei patins. A la tertúlia ens acompanyen Maria Josep Hostalrich i Orfeo Suárez.</desc>
+    <length units="seconds">9116</length>
+    <episode-num system="onscreen">3269</episode-num>
     <category lang="ca">ESPORTS</category>
-    <category lang="ca">MAGAZINE</category>
+    <category lang="ca">INFORMATIU DIÀRI</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <subtitles type="teletext"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/7/3/1698145091337.jpg"/>
+  </programme>
+  <programme start="20261026163315 +0100" stop="20261026170540 +0100" channel="esport3">
+    <title lang="ca">GR Pirineus</title>
+    <sub-title lang="ca">Vespre de llegendes</sub-title>
+    <desc lang="ca">Avui viatgem fins al Lluçanès, una comarca de transició molt singular on viurem un capítol especial, ple de sorpreses. Primer coneixerem els garrins de Cal Pujols, després descobrirem com eren les bruixes segles enrere. Ens cruspirem uns suculents canelons farcits de peus de porc i, finalment, baixarem als averns per aprendre com és l'ofici de diable.Ja ho veureu... Ens espera un vespre envoltat de llegendes, seguint el ritme del foc, per un món realment màgic. </desc>
+    <length units="seconds">1945</length>
+    <episode-num system="onscreen">24</episode-num>
+    <category lang="ca">DIVULGACIÓ</category>
+    <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/2/1/1698144123212.jpg"/>
-  </programme>
-  <programme start="20261026081003 +0100" stop="20261026095410 +0100" channel="esport3">
-    <title lang="ca">Futbol</title>
-    <sub-title lang="ca">UE Olot-Barça Atlètic / Segona Federació / J8</sub-title>
-    <desc lang="ca">El conjunt garrotxí vol seguir a la zona alta de la taula; i el filial blaugrana, que hi arriba invicte, és el líder a la classificació.</desc>
-    <length units="seconds">6247</length>
-    <episode-num system="onscreen">73</episode-num>
-    <category lang="ca">ESPORTS</category>
-    <category lang="ca">RETRANSMISSIONS ESPORTS</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <previously-shown/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/0/7/1698446098170.jpg"/>
+    <icon src="https://img.3cat.cat/multimedia/jpg/9/8/1736612891089.jpg"/>
   </programme>
   <channel id="sx3">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20261026073048 +0100" stop="20261026074122 +0100" channel="sx3">
-    <title lang="ca">La Patrulla Peluda</title>
-    <sub-title lang="ca">La Patrulla salva un surfista del cel</sub-title>
-    <desc lang="ca">Avui fa molt de vent, però en Danny l'Audaç X s'ha entossudit a fer surf. Val més que vagi amb compte, perquè tot plegat pot sortir molt malament!</desc>
-    <length units="seconds">634</length>
-    <episode-num system="onscreen">174</episode-num>
+  <programme start="20261026142818 +0100" stop="20261026144727 +0100" channel="sx3">
+    <title lang="ca">Bola de drac Z</title>
+    <sub-title lang="ca">Fuig, Satan! La fúria d'en Bu és imprevisible</sub-title>
+    <desc lang="ca">Quan sembla que en Bu ha trobat la felicitat al costat del senyor Satan i del seu gos, l'atac maliciós de dos homes li fa expulsar tota la fúria i, després de dir-li a en Satan que se'n vagi corrents, el monstre dóna forma a un altre Bu dolent. Si el Bu bo no és capaç d'aturar-lo, ben aviat l'extinció de la raça humana podria ser un fet.</desc>
+    <length units="seconds">1149</length>
+    <episode-num system="onscreen">254</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
-      <value>INFANTIL</value>
+      <value>JUVENIL</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20261026074122 +0100" stop="20261026075328 +0100" channel="sx3">
-    <title lang="ca">La Patrulla Peluda</title>
-    <sub-title lang="ca">- La Patrulla salva una minipatrulla fora de control</sub-title>
-    <desc lang="ca">Sense Descripció</desc>
-    <length units="seconds">726</length>
-    <episode-num system="onscreen">217</episode-num>
+  <programme start="20261026144727 +0100" stop="20261026150621 +0100" channel="sx3">
+    <title lang="ca">Bola de drac Z</title>
+    <sub-title lang="ca">L'enfrontament entre en Bu bo i en Bu dolent</sub-title>
+    <desc lang="ca">Les dues formes d'en Bu, la bona i la dolenta, s'enfronten en un combat que podria suposar el principi del final de la raça humana. Avui assistirem al naixement d'un nou Bu malèfic i sense escrúpols, capaç fins i tot de detectar l'energia d'altres éssers i que ben aviat es presentarà al palau de Déu.</desc>
+    <length units="seconds">1134</length>
+    <episode-num system="onscreen">255</episode-num>
+    <category lang="ca">FICCIÓ</category>
+    <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
+    <rating>
+      <value>JUVENIL</value>
+    </rating>
     <subtitles type="teletext"/>
+    <previously-shown/>
   </programme>
   <channel id="c33">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20261026073103 +0100" stop="20261026075721 +0100" channel="c33">
-    <title lang="ca">Viure als Pirineus</title>
-    <sub-title lang="ca">Un hoteler dels Pirineus (Tardor - Hivern))</sub-title>
-    <desc lang="ca">Cinto Gabriel és hoteler, però quan arriba la tardor i els clients són menys nombrosos, ho aprofita per fer excursions i sortir de l'hotel. En aquest cas, ho fa amb la Coloma, la petita de la casa, que sembla voler seguir la seva petja, i evoquen la història familiar durant la Guerra Civil. Un altre dia ho fa també amb la Lluïsa, la seva dona, i evoquen els seus primers records com a parella.Quan s'acosta Tots Sants, en Cinto també cultiva l'art de les flors per honorar els seus avantpassats. I més tard, als volts de Nadal, temps de vacances per a la majoria, per ell és el moment de tornar al bosc a buscar molsa i altres materials, ja que ha arribat el moment de fer el pessebre. Una col·lecció més que cultiva des de petit. Per Nadal, en Cinto tanca l'hotel, per fi pot dedicar el seu temps a altres aficions. I, com que també li agrada el teatre, actua en una companyia d'Esterri d'Àneu. Ara assagen una versió d''Els pastorets' que reflecteix prou bé el que passa a les seves muntanyes. Els protagonistes són contrabandistes, emigrants clandestins i gent del país enmig d'un paisatge nevat. I amb la primera neu esquia tot evocant la seva infància, però les vacances s'acaben i demà tornarà a fer d'hoteler, el centre de la seva vida.</desc>
-    <length units="seconds">1578</length>
-    <episode-num system="onscreen">3</episode-num>
+  <programme start="20261026140207 +0100" stop="20261026144937 +0100" channel="c33">
+    <title lang="ca">La Renaixença</title>
+    <sub-title lang="ca">El mirall</sub-title>
+    <desc lang="ca">Trencar un mirall són 7 anys de mala sort. Algú ens pot confirmar si aquesta superstició és certa perquè ho ha viscut en primera persona? També pots tenir mala sort per defecte, sense haver trencat res. Dediquem aquest capítol al mirall. Ens visita la Regina Rodríguez Sirvent, autora de 'Les calces al sol': ens fa espòilers sobre la seva següent novel·la, i també parlem de diners. I sortim a passejar en Plum, un gos de Cornudella de Montsant, per la Conspiració de la Pólvora del 1606</desc>
+    <length units="seconds">2850</length>
+    <episode-num system="onscreen">61</episode-num>
     <category lang="ca">DIVULGACIÓ</category>
-    <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
+    <category lang="ca">ALTRES</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/3/3/1756148014833.jpg"/>
   </programme>
-  <programme start="20261026075721 +0100" stop="20261026082441 +0100" channel="c33">
-    <title lang="ca">Viure als Pirineus</title>
-    <sub-title lang="ca">Un guarda de refugi dels Pirineus (Tardor - Hivern)</sub-title>
-    <desc lang="ca">D'ençà que en Jean s'ha jubilat, l'Anthony i la Camille ara són els nous guardes del refugi Jeandel. Aquesta primera temporada serà tota una prova per a la jove parella perquè la neu arriba tard al massís de La Pierre-Saint-Martin.Tot i això, l'Anthony i la Camille no perden l'esperança i conserven la motivació i l'entusiasme. Volen demostrar a en Jean que estan a l'alçada de la tasca que els espera. Dignes hereus de l'anterior guarda, acullen cordialment els visitants i conserven l'ambient agradable i obert del refugi. L'Anthony i la Camille saben que poden comptar amb en Jean, que no és mai gaire lluny i que sempre està disposat a compartir la seva experiència de tants anys.En Jean està satisfet, sap que ha sabut transmetre als seus fills la seva passió, el seu gust per compartir les coses i per interactuar amb la gent. D'aquesta manera, els amants de la muntanya podran gaudir encara durant molt temps de la calidesa de l'acollida del refugi Jeandel.</desc>
-    <length units="seconds">1640</length>
-    <episode-num system="onscreen">4</episode-num>
+  <programme start="20261026144937 +0100" stop="20261026153551 +0100" channel="c33">
+    <title lang="ca">La Renaixença</title>
+    <sub-title lang="ca">El pintallavis</sub-title>
+    <desc lang="ca">El pintallavis existeix des de l'any 2000 aC. Es feien amb formigues aixafades i carmí. Ara es fa de molts elements químics que segurament són pitjor que les formigues aixafades, però ningú es posa les mans al cap. Aquest capítol el dediquem al pintallavis. Venen la companyia de teatre musical Impro Side Story. Actuen sense lletra ni partitura perquè basen els seus espectacles en allò que diu el públic. A 'Històries per passejar el gos' anem amb la Sas fins a l'incendi del funicular de Kaprun (Àustria) que es va produir a principis de segle, l'any 2000.</desc>
+    <length units="seconds">2774</length>
+    <episode-num system="onscreen">62</episode-num>
     <category lang="ca">DIVULGACIÓ</category>
-    <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
+    <category lang="ca">ALTRES</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/3/3/1756148014833.jpg"/>
   </programme>
   <channel id="oca1">
     <display-name>OCA1</display-name>
