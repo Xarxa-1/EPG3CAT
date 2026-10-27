@@ -3,90 +3,102 @@
   <channel id="tvi">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20261026234056 +0100" stop="20261027002023 +0100" channel="tvi">
-    <title lang="ca">Al cotxe</title>
-    <sub-title lang="ca">- Per crear la sèrie 'In vitro' de 3Cat, el director Marc Crehuet i la productora...</sub-title>
-    <desc lang="ca">Sense Descripció</desc>
-    <length units="seconds">2367</length>
-    <episode-num system="onscreen">227</episode-num>
-  </programme>
-  <programme start="20261027002023 +0100" stop="20261027042826 +0100" channel="tvi">
-    <title lang="ca">Mésnit</title>
-    <desc lang="ca">El 'Mésnit' arriba a la desena temporada, amb Marina Romero al capdavant de l'espai i amb la voluntat de continuar sent un centre de debat d'idees i d'anàlisi de l'activitat política.</desc>
-    <length units="seconds">14883</length>
-    <episode-num system="onscreen">2187</episode-num>
-    <category lang="ca">ACTUALITAT</category>
-    <category lang="ca">DEBAT</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <previously-shown/>
-  </programme>
-  <channel id="324">
-    <display-name>324</display-name>
-  </channel>
-  <programme start="20261027000000 +0100" stop="20261027003000 +0100" channel="324">
+  <programme start="20261027021709 +0100" stop="20261027040000 +0100" channel="tvi">
     <title lang="ca">Notícies 3CatInfo</title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">1800</length>
-    <episode-num system="onscreen">11538</episode-num>
-    <category lang="ca">ACTUALITAT</category>
-    <category lang="ca">INFORMATIU DIÀRI</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
-  </programme>
-  <programme start="20261027003000 +0100" stop="20261027010000 +0100" channel="324">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">1800</length>
+    <length units="seconds">6171</length>
     <episode-num system="onscreen">11539</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
+    <previously-shown/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
+  </programme>
+  <programme start="20261027040000 +0100" stop="20261027044506 +0100" channel="tvi">
+    <title lang="ca">Cava de Blues</title>
+    <sub-title lang="ca">Dani Baraldes &amp; The XX Band</sub-title>
+    <desc lang="ca">Cava de Blues és un espai dedicat a les noves creacions de 14 grups del país que es dediquen a aquest gènere musical.En aquesta edició, els grups que hi trobareu són: -A contrablues-Blas Picón &amp; The Junk Espress-Bullfrog Electric Blues Experience-Dusa'ns Flying Blues Band-Dani Baraldés &amp; The XX Band-Emili Baleriola Blues Quartet-Dani Nel·lo &amp; Mario Cobo-Ivan Kovacevic 5 Spots-JG Acoustic Gang-John Big Stone &amp; The Blues Workers-Legacaster! The Hillbilly Trio-Martini Surfers-Susan Santos &amp; The Papa's Red Band-The Paparellos</desc>
+    <length units="seconds">2706</length>
+    <episode-num system="onscreen">5</episode-num>
+    <category lang="ca">MUSICALS</category>
+    <category lang="ca">JAZZ</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <previously-shown/>
+    <icon src="https://img.3cat.cat/multimedia/jpg/0/2/1754910826220.jpg"/>
+  </programme>
+  <channel id="324">
+    <display-name>324</display-name>
+  </channel>
+  <programme start="20261027010000 +0100" stop="20261027060000 +0100" channel="324">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="seconds">18000</length>
+    <episode-num system="onscreen">11539</episode-num>
+    <category lang="ca">ACTUALITAT</category>
+    <category lang="ca">INFORMATIU DIÀRI</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <previously-shown/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
+  </programme>
+  <programme start="20261027060000 +0100" stop="20261027080000 +0100" channel="324">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="seconds">7200</length>
+    <episode-num system="onscreen">11540</episode-num>
+    <category lang="ca">ACTUALITAT</category>
+    <category lang="ca">INFORMATIU DIÀRI</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <subtitles type="teletext"/>
     <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
   <channel id="esport3">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20261027000329 +0100" stop="20261027013505 +0100" channel="esport3">
-    <title lang="ca">Onze</title>
-    <sub-title lang="ca">Gala pilota d'or; Ressaca de clàssic i 'El Colegiado'</sub-title>
-    <desc lang="ca">Carles Fité, Xavi Torres, Aina Cerdà i Juvenal Edjogo comenten la gala de la pilota d'or i el partit entre el Barça i el Madrid. En Joan Fàbregas analitza les jugades polèmiques de la jornada.</desc>
-    <length units="seconds">5496</length>
-    <episode-num system="onscreen">1275</episode-num>
+  <programme start="20261027020913 +0100" stop="20261027043303 +0100" channel="esport3">
+    <title lang="ca">Esport Club</title>
+    <sub-title lang="ca">Minut a minut / Gala Pilota d'Or</sub-title>
+    <desc lang="ca">El seguiment de la cerimònia de lliurament de la Pilota d'or que es celebra a Londres. Els catalans Lamine Yamal i Alèxia Putellas són ferms candidats al premi principal.</desc>
+    <length units="seconds">8630</length>
+    <episode-num system="onscreen">3270</episode-num>
     <category lang="ca">ESPORTS</category>
-    <category lang="ca">MAGAZINE</category>
+    <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/1/1/1688543515711.jpg"/>
+    <previously-shown/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/7/3/1698145091337.jpg"/>
   </programme>
-  <programme start="20261027013505 +0100" stop="20261027015554 +0100" channel="esport3">
+  <programme start="20261027043303 +0100" stop="20261027044859 +0100" channel="esport3">
     <title lang="ca">3CatInfo Esports</title>
     <desc lang="ca">Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.</desc>
-    <length units="seconds">1249</length>
+    <length units="seconds">956</length>
     <episode-num system="onscreen">5550</episode-num>
     <category lang="ca">ESPORTS</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
+    <previously-shown/>
     <icon src="https://img.ccma.cat/multimedia/jpg/9/7/1758888682179.jpg"/>
   </programme>
   <channel id="sx3">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20261027000418 +0100" stop="20261027002519 +0100" channel="sx3">
-    <title lang="ca">Els germans Kratt</title>
-    <sub-title lang="ca">Les formes de l'armadillo</sub-title>
-    <desc lang="ca">L'equip Kratt està meravellat amb les formes geomètriques que veuen a la natura i troben un armadillo de tres bandes que n'és un bon exemple: té una armadura feta de plaques òssies de moltes formes que encaixen com si fessin un puzle. Llavors, es posen programar un vestit de poder d'armadillo, però mentrestant s'hauran d'enfrontar amb en Zach, que vol demostrar que les formes dels zachbots són millors que les dels animals.</desc>
-    <length units="seconds">1261</length>
-    <episode-num system="onscreen">176</episode-num>
+  <programme start="20261027024953 +0100" stop="20261027031130 +0100" channel="sx3">
+    <title lang="ca">Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
+    <sub-title lang="ca">Exaltació</sub-title>
+    <desc lang="ca">Quan Ladybug persegueix el Gat Noir, ell l'esquiva. Quan l'Adrien persegueix la Marinette, ella l'esquiva a ell. La Tikki i l'Alya cada vegada estan més amoïnades pel comportament de la Marinette. Està buscant una altra excusa per no reconèixer el que sent per l'Adrien o s'està enamorant d'un altre noi de veritat? Quan la Marinette i el Gat Noir troben l'André, el gelater que ven gelats màgics que coneixen tots els secrets de l'amor, descobriran una cosa que els deixarà glaçats.</desc>
+    <length units="seconds">1297</length>
+    <episode-num system="onscreen">113</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
@@ -95,12 +107,12 @@
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20261027002519 +0100" stop="20261027004620 +0100" channel="sx3">
-    <title lang="ca">Els germans Kratt</title>
-    <sub-title lang="ca">El lleopard Sigil·lós</sub-title>
-    <desc lang="ca">El Chris i el Martin han de portar unes motxilles plenes de cristalls de tel·luri a la nau Tortuga, que s'ha quedat sense energia. El Zach ho descobreix i els hi vol robar perquè la nau no funcioni i l'equip no pugui treballar. Els germans Kratt aprofitaran els poders del lleopard africà per protegir els cristalls i complir la missió.</desc>
-    <length units="seconds">1261</length>
-    <episode-num system="onscreen">177</episode-num>
+  <programme start="20261027031130 +0100" stop="20261027033304 +0100" channel="sx3">
+    <title lang="ca">Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
+    <sub-title lang="ca">Traspàs, la decisió dels kwamis (1a part)</sub-title>
+    <desc lang="ca">Sempre passa el mateix. Ja sigui com a Marinette i Adrien o com a Ladybug i Gat Noir, les identitats secretes dels nostres protagonistes sempre els impedeixen encetar una relació amorosa. A la Tikki i el Plagg els hi sap molt greu veure que els seus portadors han de renunciar als seus sentiments, i per això prenen una decisió dràstica que farà canviar moltes coses a París.</desc>
+    <length units="seconds">1294</length>
+    <episode-num system="onscreen">114</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
@@ -112,27 +124,26 @@
   <channel id="c33">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20261026235324 +0100" stop="20261027004022 +0100" channel="c33">
-    <title lang="ca">Aeroport</title>
-    <sub-title lang="ca">Seguretat</sub-title>
-    <desc lang="ca">El filtre de seguretat és un dels punts clau de l'aeroport, una mena de romeria que no s'acaba mai i que ens atabala quan hem de viatjar. Els Mossos, la Policia Nacional i la Guàrdia Civil tenen delimitades les seves competències a l'aeroport. Quines són?</desc>
-    <length units="seconds">2818</length>
-    <episode-num system="onscreen">21</episode-num>
-    <category lang="ca">DIVULGACIÓ</category>
-    <category lang="ca">Docu-Entreteniment</category>
+  <programme start="20261027025716 +0100" stop="20261027033053 +0100" channel="c33">
+    <title lang="ca">Gran Reserva. Còmics</title>
+    <sub-title lang="ca">Carmen Maura</sub-title>
+    <length units="seconds">2017</length>
+    <episode-num system="onscreen">11</episode-num>
+    <category lang="ca">ENTRETENIMENT</category>
+    <category lang="ca">GAGS. HUMOR</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20261027004022 +0100" stop="20261027011024 +0100" channel="c33">
-    <title lang="ca">No tenim vergonya</title>
-    <desc lang="ca">'No tenim vergonya' revisa els grans moments a Televisió de Catalunya. Se'ls mira des d'un altre punt de vista, per comparar-los amb la realitat actual o repassar moments televisius molt recordats. Mai, però, des d'un punt de vista nostàlgic. NTV és una cadena de televisió. I, com a tal, conté tota mena d'elements (molinets, publicitat...) i de programes (informatius, d'esports, magazines, musicals, concursos...). De què es nodreix la seva programació? De l'arxiu de la televisió pública catalana revisionada sense complexos. D'aquí ve el nom de la cadena NTV, de 'No tenim vergonya'.</desc>
-    <length units="seconds">1802</length>
-    <episode-num system="onscreen">229</episode-num>
-    <category lang="ca">ESPORTS</category>
-    <category lang="ca">REPORTATGES</category>
+  <programme start="20261027033053 +0100" stop="20261027040243 +0100" channel="c33">
+    <title lang="ca">Gran Reserva. Còmics</title>
+    <sub-title lang="ca">Jordi Villacampa</sub-title>
+    <length units="seconds">1910</length>
+    <episode-num system="onscreen">12</episode-num>
+    <category lang="ca">ENTRETENIMENT</category>
+    <category lang="ca">GAGS. HUMOR</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
