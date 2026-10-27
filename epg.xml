@@ -3,54 +3,49 @@
   <channel id="tvi">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20261027021709 +0100" stop="20261027040000 +0100" channel="tvi">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">6171</length>
-    <episode-num system="onscreen">11539</episode-num>
+  <programme start="20261027080011 +0100" stop="20261027103000 +0100" channel="tvi">
+    <title lang="ca">Matins</title>
+    <desc lang="ca">'Matins' és un dels puntals informatius de TV3. El programa matinal dona les claus del dia que comença, explica les notícies que han passat aportant-ne el context per entendre-les i analitza amb veus acreditades l'actualitat més propera i la d'arreu del món. 'Matins' comença a les 8 del matí, de dilluns a divendres, i està presentat per Ariadna Oltra.</desc>
+    <length units="seconds">8989</length>
+    <episode-num system="onscreen">4700</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <previously-shown/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/2/0/1758040151402.jpg"/>
   </programme>
-  <programme start="20261027040000 +0100" stop="20261027044506 +0100" channel="tvi">
-    <title lang="ca">Cava de Blues</title>
-    <sub-title lang="ca">Dani Baraldes &amp; The XX Band</sub-title>
-    <desc lang="ca">Cava de Blues és un espai dedicat a les noves creacions de 14 grups del país que es dediquen a aquest gènere musical.En aquesta edició, els grups que hi trobareu són: -A contrablues-Blas Picón &amp; The Junk Espress-Bullfrog Electric Blues Experience-Dusa'ns Flying Blues Band-Dani Baraldés &amp; The XX Band-Emili Baleriola Blues Quartet-Dani Nel·lo &amp; Mario Cobo-Ivan Kovacevic 5 Spots-JG Acoustic Gang-John Big Stone &amp; The Blues Workers-Legacaster! The Hillbilly Trio-Martini Surfers-Susan Santos &amp; The Papa's Red Band-The Paparellos</desc>
-    <length units="seconds">2706</length>
-    <episode-num system="onscreen">5</episode-num>
-    <category lang="ca">MUSICALS</category>
-    <category lang="ca">JAZZ</category>
+  <programme start="20261027103000 +0100" stop="20261027135500 +0100" channel="tvi">
+    <title lang="ca">Tot es mou</title>
+    <desc lang="ca">El programa presentat per Helena Garcia Melero s'emet de dilluns a divendres, de 10.30 a 13.55. Un magazín d'actualitat que busca informar, analitzar i debatre sobre temes que marquen l'actualitat social, econòmica i cultural del dia, amb una àmplia presència en directe dels reporters i reporteres, repartits per tot Catalunya. A més, el 'Tot es mou' compta amb seccions diàries de gastronomia (amb els principals cuiners i cuineres del país), successos, economia, mobilitat, temes mèdics i de tecnologia, entre d'altres.</desc>
+    <length units="seconds">12300</length>
+    <episode-num system="onscreen">1837</episode-num>
+    <category lang="ca">ACTUALITAT</category>
+    <category lang="ca">MAGAZINE</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <previously-shown/>
-    <icon src="https://img.3cat.cat/multimedia/jpg/0/2/1754910826220.jpg"/>
   </programme>
   <channel id="324">
     <display-name>324</display-name>
   </channel>
-  <programme start="20261027010000 +0100" stop="20261027060000 +0100" channel="324">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">18000</length>
-    <episode-num system="onscreen">11539</episode-num>
+  <programme start="20261027080000 +0100" stop="20261027103000 +0100" channel="324">
+    <title lang="ca">Matins</title>
+    <desc lang="ca">'Matins' és un dels puntals informatius de TV3. El programa matinal dona les claus del dia que comença, explica les notícies que han passat aportant-ne el context per entendre-les i analitza amb veus acreditades l'actualitat més propera i la d'arreu del món. 'Matins' comença a les 8 del matí, de dilluns a divendres, i està presentat per Ariadna Oltra.</desc>
+    <length units="seconds">9000</length>
+    <episode-num system="onscreen">4700</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <previously-shown/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/2/0/1758040151402.jpg"/>
   </programme>
-  <programme start="20261027060000 +0100" stop="20261027080000 +0100" channel="324">
+  <programme start="20261027103000 +0100" stop="20261027123000 +0100" channel="324">
     <title lang="ca">Notícies 3CatInfo</title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <length units="seconds">7200</length>
-    <episode-num system="onscreen">11540</episode-num>
+    <episode-num system="onscreen">11541</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
@@ -62,11 +57,11 @@
   <channel id="esport3">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20261027020913 +0100" stop="20261027043303 +0100" channel="esport3">
+  <programme start="20261027065823 +0100" stop="20261027091840 +0100" channel="esport3">
     <title lang="ca">Esport Club</title>
     <sub-title lang="ca">Minut a minut / Gala Pilota d'Or</sub-title>
     <desc lang="ca">El seguiment de la cerimònia de lliurament de la Pilota d'or que es celebra a Londres. Els catalans Lamine Yamal i Alèxia Putellas són ferms candidats al premi principal.</desc>
-    <length units="seconds">8630</length>
+    <length units="seconds">8417</length>
     <episode-num system="onscreen">3270</episode-num>
     <category lang="ca">ESPORTS</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
@@ -77,42 +72,35 @@
     <previously-shown/>
     <icon src="https://img.ccma.cat/multimedia/jpg/7/3/1698145091337.jpg"/>
   </programme>
-  <programme start="20261027043303 +0100" stop="20261027044859 +0100" channel="esport3">
-    <title lang="ca">3CatInfo Esports</title>
-    <desc lang="ca">Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.</desc>
-    <length units="seconds">956</length>
-    <episode-num system="onscreen">5550</episode-num>
-    <category lang="ca">ESPORTS</category>
-    <category lang="ca">INFORMATIU DIÀRI</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <previously-shown/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/9/7/1758888682179.jpg"/>
+  <programme start="20261027091840 +0100" stop="20261027092156 +0100" channel="esport3">
+    <title lang="ca">VÍDEO MUSICAL ALÈXIA PILOTA D'OR</title>
+    <sub-title lang="ca">- VÍDEO MUSICAL ALÈXIA PILOTA D'OR</sub-title>
+    <desc lang="ca">Sense Descripció</desc>
+    <length units="seconds">196</length>
   </programme>
   <channel id="sx3">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20261027024953 +0100" stop="20261027031130 +0100" channel="sx3">
-    <title lang="ca">Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
-    <sub-title lang="ca">Exaltació</sub-title>
-    <desc lang="ca">Quan Ladybug persegueix el Gat Noir, ell l'esquiva. Quan l'Adrien persegueix la Marinette, ella l'esquiva a ell. La Tikki i l'Alya cada vegada estan més amoïnades pel comportament de la Marinette. Està buscant una altra excusa per no reconèixer el que sent per l'Adrien o s'està enamorant d'un altre noi de veritat? Quan la Marinette i el Gat Noir troben l'André, el gelater que ven gelats màgics que coneixen tots els secrets de l'amor, descobriran una cosa que els deixarà glaçats.</desc>
-    <length units="seconds">1297</length>
-    <episode-num system="onscreen">113</episode-num>
-    <category lang="ca">FICCIÓ</category>
-    <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
+  <programme start="20261027083542 +0100" stop="20261027084654 +0100" channel="sx3">
+    <title lang="ca">A jugar! Amb en Titó i els Fa la la</title>
+    <sub-title lang="ca">A jugar amb bolets</sub-title>
+    <desc lang="ca">Buscar bolets a la tardor és molt divertit, però encara ho seria més si els bolets poguessin moure's... així jugaríem a fet i amagar amb ells! Per sort, amb la màgia de la banyeta del Ruquicorn tot és possible.</desc>
+    <length units="seconds">672</length>
+    <episode-num system="onscreen">37</episode-num>
+    <category lang="ca">ENTRETENIMENT</category>
+    <category lang="ca">ALTRES</category>
     <rating>
       <value>INFANTIL</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20261027031130 +0100" stop="20261027033304 +0100" channel="sx3">
-    <title lang="ca">Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
-    <sub-title lang="ca">Traspàs, la decisió dels kwamis (1a part)</sub-title>
-    <desc lang="ca">Sempre passa el mateix. Ja sigui com a Marinette i Adrien o com a Ladybug i Gat Noir, les identitats secretes dels nostres protagonistes sempre els impedeixen encetar una relació amorosa. A la Tikki i el Plagg els hi sap molt greu veure que els seus portadors han de renunciar als seus sentiments, i per això prenen una decisió dràstica que farà canviar moltes coses a París.</desc>
-    <length units="seconds">1294</length>
-    <episode-num system="onscreen">114</episode-num>
+  <programme start="20261027084654 +0100" stop="20261027085719 +0100" channel="sx3">
+    <title lang="ca">El Mic i els seus amics</title>
+    <sub-title lang="ca">El poble de les cases rodones</sub-title>
+    <desc lang="ca">'El Mic i els seus amics' presenta les històries del Mic agrupades en capítols. Les aventures dels titelles s'acompanyen de petits vídeos protagonitzats per nens i nenes, i separadors amb imatges de natura. És una sèrie pensada perquè els súpers més petits gaudeixin encara més! El Mic i els seus amics es troben cada dia per cantar cançons, explicar contes, dir endevinalles... Viuen en un lloc on hi ha turons, arbres, flors i papallones.Tot està a punt per jugar. Només cal fer... MAC, MEC, MIC, TOCA'T EL MELIC!</desc>
+    <length units="seconds">625</length>
+    <episode-num system="onscreen">431</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
@@ -124,31 +112,34 @@
   <channel id="c33">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20261027025716 +0100" stop="20261027033053 +0100" channel="c33">
-    <title lang="ca">Gran Reserva. Còmics</title>
-    <sub-title lang="ca">Carmen Maura</sub-title>
-    <length units="seconds">2017</length>
-    <episode-num system="onscreen">11</episode-num>
+  <programme start="20261027082453 +0100" stop="20261027091638 +0100" channel="c33">
+    <title lang="ca">Gent de món</title>
+    <sub-title lang="ca">Turquia</sub-title>
+    <desc lang="ca">Heu pujat fins al cim d'una muntanya de més de 2 mil metres per veure la tomba d'un rei oblidat?Heu estat en una ciutat que està a punt d'enfonsar-se com l'Antàrtida?Heu navegat pels rius del paradís?I el més impressionant de tot, heu canviat de continent viatjant en taxi?No? Doncs avui tindreu l'oportunitat de visitar un dels països on la tradició musulmana i la modernitat estan en harmonia, un dels països emergents més dinàmic, divers i carregat d'història del planeta… Avui visitarem... Turquia!!!</desc>
+    <length units="seconds">3105</length>
+    <episode-num system="onscreen">8</episode-num>
     <category lang="ca">ENTRETENIMENT</category>
-    <category lang="ca">GAGS. HUMOR</category>
+    <category lang="ca">ALTRES</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20261027033053 +0100" stop="20261027040243 +0100" channel="c33">
-    <title lang="ca">Gran Reserva. Còmics</title>
-    <sub-title lang="ca">Jordi Villacampa</sub-title>
-    <length units="seconds">1910</length>
-    <episode-num system="onscreen">12</episode-num>
+  <programme start="20261027091638 +0100" stop="20261027094652 +0100" channel="c33">
+    <title lang="ca">Animals arquitectes</title>
+    <sub-title lang="ca">Cierto Estudio</sub-title>
+    <desc lang="ca">En aquest cas, descobrim qui són Cierto estudio, les 6 dones mil·lennials que estan dissenyant la ciutat del segle XXI. Amb menys de 25 anys, ja havien guanyat el concurs d'habitatge públic més rellevant dels darrers anys a Barcelona, competint de manera anònima amb estudis de renom, consolidats i internacionals. Gràcies a això, aviat plaça Glòries comptarà amb un edifici innovador i sostenible, construït amb fusta i en perspectiva de gènere.Però no és l'únic mega concurs que han guanyat. Com et deia, la seva proposta per al nou carrer Consell de Cent (ara en plena polèmica) va ser escollit i dut a terme recentment. Una transformació de l'espai públic que aposta per la renaturalització i la inclusió. Carrers domèstics, pensats per a les persones. Amb refugis climàtics envers l'efecte illa de calor i l'emergència mediambiental. Amb elles ens preguntem: què podem aprendre de l'experiència del confinament? Què ens ha d'oferir la ciutat?</desc>
+    <length units="seconds">1814</length>
+    <episode-num system="onscreen">7</episode-num>
     <category lang="ca">ENTRETENIMENT</category>
-    <category lang="ca">GAGS. HUMOR</category>
+    <category lang="ca">ALTRES</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/1/6/1698653096861.jpg"/>
   </programme>
   <channel id="oca1">
     <display-name>OCA1</display-name>
