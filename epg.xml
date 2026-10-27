@@ -3,112 +3,113 @@
   <channel id="tvi">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20261027191111 +0100" stop="20261027201500 +0100" channel="tvi">
-    <title lang="ca">Atrapa'm si pots</title>
-    <desc lang="ca">'Atrapa'm si pots' és un 'quiz show' clàssic, de preguntes i respostes, presentat per Llucià Ferrer, en què sis concursants competeixen per arribar a la fase final i guanyar el pot. 'Atrapa'm si pots' és entreteniment pur i on gairebé és més important passar-s'ho bé que els diners. És un concurs en què pesa més la intuïció que no els coneixements acadèmics, més l'estratègia en el joc que no la sort.</desc>
-    <length units="seconds">3829</length>
-    <episode-num system="onscreen">952</episode-num>
-    <category lang="ca">ENTRETENIMENT</category>
-    <category lang="ca">CONCURS</category>
+  <programme start="20261027234633 +0100" stop="20261028010811 +0100" channel="tvi">
+    <title lang="ca">Nits Sense ficció</title>
+    <sub-title lang="ca">Desperta, Sèrbia! La revolta dels estudiants</sub-title>
+    <desc lang="ca">En un moment en què arreu d'Occident la joventut oscil·la entre l'apatia política i l'alimentació de l'auge del populisme i l'extrema dreta, a Sèrbia passa quelcom inesperat: els estudiants lluiten per la democràcia i els drets humans.L'ensorrament de l'estació de tren de Novi Sad, que va causar 16 morts i va destapar la corrupció institucional endèmica, juntament amb la repressió contra estudiants universitaris i ha encès la flama d'un moviment sense precedents. El que neix com una protesta pels morts es converteix en la vaga estudiantil més llarga de la història europea contemporània.Els estudiants ocupen universitats i inicien marxes pacífiques arreu del país, posant contra les cordes el govern d'Aleksandar Vu?i?. Però aquest moviment que vol ser pacífic s'enfronta a grans reptes i preguntes: es pot fer una revolució no violenta al segle XXI? Es pot resistir a la repressió d'un estat corrupte? Pot una societat serbia marcada per la por i sotmesa a un president ultranacionalista &amp;mdash;antic ministre de Slobodan Miloševi?&amp;mdash; despertar i reclamar la democràcia?Per què a Europa gairebé no se'n parla? Quins interessos amagats hi té la UE i el món? És possible sostenir un moviment assembleari, sense líders visibles? Pot Sèrbia deixar enrere el fantasma de les guerres balcàniques i l'ultranacionalisme per avançar cap a una societat plural, diversa i democràtica?Punt de No retorn ha estat l'únic mitjà que ha tingut accés a la Universitat d'arts dramàtiques de Belgrad, on ha sorgit el moviment i s'ha liderat la protesta. Amb accés exclusiu al cor del moviment universitari, aquest documental s'endinsa en la lluita d'una nova generació, mostrant les seves victòries, contradiccions, reptes i la batalla d'idees que podria definir no només el futur de Sèrbia, sinó també el d'una Europa en crisi.</desc>
+    <length units="seconds">4898</length>
+    <episode-num system="onscreen">12</episode-num>
+    <category lang="ca">DIVULGACIÓ</category>
+    <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
     <rating>
-      <value>TOTS ELS PÚBLICS</value>
+      <value>PÚBLIC ADULT</value>
     </rating>
+    <previously-shown/>
   </programme>
-  <programme start="20261027201500 +0100" stop="20261027205959 +0100" channel="tvi">
-    <title lang="ca">Està passant</title>
-    <desc lang="ca">En Queco i en Jair parlen de l'evolució dels aldarulls a Barcelona. L'Andrés Fajngold es converteix en mestre cocteler i l'Ignasi Taltavull proposa noves lleis.</desc>
-    <length units="seconds">2699</length>
-    <episode-num system="onscreen">1839</episode-num>
-    <category lang="ca">ENTRETENIMENT</category>
-    <category lang="ca">GAGS. HUMOR</category>
+  <programme start="20261028010811 +0100" stop="20261028025517 +0100" channel="tvi">
+    <title lang="ca">Mésnit</title>
+    <desc lang="ca">El 'Mésnit' arriba a la desena temporada, amb Marina Romero al capdavant de l'espai i amb la voluntat de continuar sent un centre de debat d'idees i d'anàlisi de l'activitat política.</desc>
+    <length units="seconds">6426</length>
+    <episode-num system="onscreen">2188</episode-num>
+    <category lang="ca">ACTUALITAT</category>
+    <category lang="ca">DEBAT</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <icon src="https://img.ccma.cat/multimedia/png/3/8/1705511272683.png"/>
+    <previously-shown/>
   </programme>
   <channel id="324">
     <display-name>324</display-name>
   </channel>
-  <programme start="20261027183000 +0100" stop="20261027200000 +0100" channel="324">
+  <programme start="20261027220500 +0100" stop="20261028000000 +0100" channel="324">
+    <title lang="ca">Mésnit</title>
+    <desc lang="ca">El 'Mésnit' arriba a la desena temporada, amb Marina Romero al capdavant de l'espai i amb la voluntat de continuar sent un centre de debat d'idees i d'anàlisi de l'activitat política.</desc>
+    <length units="seconds">6900</length>
+    <episode-num system="onscreen">2188</episode-num>
+    <category lang="ca">ACTUALITAT</category>
+    <category lang="ca">DEBAT</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <subtitles type="teletext"/>
+  </programme>
+  <programme start="20261028000000 +0100" stop="20261028003000 +0100" channel="324">
     <title lang="ca">Notícies 3CatInfo</title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">5400</length>
-    <episode-num system="onscreen">11545</episode-num>
+    <length units="seconds">1800</length>
+    <episode-num system="onscreen">11547</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
-  </programme>
-  <programme start="20261027200000 +0100" stop="20261027210000 +0100" channel="324">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">3600</length>
-    <episode-num system="onscreen">11546</episode-num>
-    <category lang="ca">ACTUALITAT</category>
-    <category lang="ca">INFORMATIU DIÀRI</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
     <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
   <channel id="esport3">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20261027194434 +0100" stop="20261027202000 +0100" channel="esport3">
-    <title lang="ca">Esport Club</title>
-    <sub-title lang="ca">La gala de la Pilota d'or, jornada de Copa i tertúlia</sub-title>
-    <desc lang="ca">Alèxia i Harry Kane s'emporten la Pilota d'Or. El Barça, el club més premiat a la gala. Avui, jornada de Copa. Juguen Espanyol, Manresa, Sant Andreu, Girona i Europa. A la tertúlia ens acompanyen Arancha Rodríguez, Joan Poquí i Màrius Carol</desc>
-    <length units="seconds">2126</length>
-    <episode-num system="onscreen">3271</episode-num>
+  <programme start="20261027230000 +0100" stop="20261028003050 +0100" channel="esport3">
+    <title lang="ca">Onze</title>
+    <sub-title lang="ca">Or culer; Mbappé, conflicte diplomàtic i 'Onzeclopèdia'</sub-title>
+    <desc lang="ca">Sique Rodríguez, Fernando Polo, Irati Vidal i Ivan San Antonio comenten la gala de la pilota d'or i el conflicte que ha generat un comentari a les xarxes de Kylian Mbappé. En Fran Domènech presenta els titulars més curiosos de la premsa esportiva.</desc>
+    <length units="seconds">5450</length>
+    <episode-num system="onscreen">1276</episode-num>
+    <category lang="ca">ESPORTS</category>
+    <category lang="ca">MAGAZINE</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <subtitles type="teletext"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/1/1/1688543515711.jpg"/>
+  </programme>
+  <programme start="20261028003050 +0100" stop="20261028004850 +0100" channel="esport3">
+    <title lang="ca">3CatInfo Esports</title>
+    <desc lang="ca">Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.</desc>
+    <length units="seconds">1080</length>
+    <episode-num system="onscreen">5551</episode-num>
     <category lang="ca">ESPORTS</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <subtitles type="teletext"/>
-    <previously-shown/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/7/3/1698145091337.jpg"/>
-  </programme>
-  <programme start="20261027202000 +0100" stop="20261027222542 +0100" channel="esport3">
-    <title lang="ca">Futbol</title>
-    <sub-title lang="ca">CE Manresa-UE Sant Andreu / Copa / 1a eliminatoria</sub-title>
-    <desc lang="ca">Primera eliminatòria, a un sol partit, de la fase final de la competició futbolística. Els del Bages juguen a la Segona Federació i els barcelonins, a la Primera Federació.</desc>
-    <length units="seconds">7542</length>
-    <episode-num system="onscreen">97</episode-num>
-    <category lang="ca">ESPORTS</category>
-    <category lang="ca">ESPECIALS</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <subtitles type="teletext"/>
-    <icon src="https://img.3cat.cat/multimedia/jpg/9/0/1761575689109.jpg"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/9/7/1758888682179.jpg"/>
   </programme>
   <channel id="sx3">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20261027200000 +0100" stop="20261027201722 +0100" channel="sx3">
-    <title lang="ca">InfoK</title>
-    <desc lang="ca">El panellot destructor amenaça l'Infok.Aquesta castanyada l'InfoK us explicarà com es rebel·len les ànimes a Sant Feliu Sasserra, investigarà una pedregada de castanyes al Maresme i dues inforeporteres de La Teatral del Masnou descobriran com es fan els efectes especials amb l'estudi català Gadget SFX. L'emissió del programa s'interromprà perquè el plató s'ensorra. La culpa la té un panellet de pinyons gegant que està fora de control. L'equip de l'InfoK haurà de refugiar-se als racons més foscos de la tele perquè el panellot destructor no els esclafi.</desc>
-    <length units="seconds">1042</length>
-    <episode-num system="onscreen">4288</episode-num>
-    <category lang="ca">ACTUALITAT</category>
-    <category lang="ca">INFORMATIU DIÀRI</category>
+  <programme start="20261027234733 +0100" stop="20261028000833 +0100" channel="sx3">
+    <title lang="ca">Els germans Kratt</title>
+    <sub-title lang="ca">Balenes i calamars</sub-title>
+    <desc lang="ca">Tot posant a prova l'amfisubmarí, l'últim invent de l'Aviva, en Chris i en Martin s'han trobat a les profunditats inexplorades de l'oceà, enmig d'una batalla entre una mare catxalot i un calamar gegant. Però arriba un moment que l'amfisubmarí ja no aguanta la pressió de l'aigua. És l'hora de treure els Vestits de Poder Animal i de poder gaudir d'aquesta batalla mai vista!</desc>
+    <length units="seconds">1260</length>
+    <episode-num system="onscreen">2</episode-num>
+    <category lang="ca">FICCIÓ</category>
+    <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
       <value>INFANTIL</value>
     </rating>
     <subtitles type="teletext"/>
+    <previously-shown/>
   </programme>
-  <programme start="20261027201722 +0100" stop="20261027203853 +0100" channel="sx3">
-    <title lang="ca">Henry Danger</title>
-    <sub-title lang="ca">Dits verds</sub-title>
-    <desc lang="ca">Una misteriosa malaltia creada per Schwoz s'escampa entre Henry i els seus amics, obligant-los a quedar-se confinats mentre busquen una cura.</desc>
-    <length units="seconds">1291</length>
-    <episode-num system="onscreen">55</episode-num>
+  <programme start="20261028000833 +0100" stop="20261028002932 +0100" channel="sx3">
+    <title lang="ca">Els germans Kratt</title>
+    <sub-title lang="ca">El poble dels porcs formiguers</sub-title>
+    <desc lang="ca">Avui en Chris i en Martin descobriran el poble dels porcs formiguers, uns animals que costen molt de veure i que estan emparentats amb... els elefants?! A més, els coneixeran molt de prop! Sobretot en Chris! Un porc formiguer, tot fugint d'una hiena, se li ha amagat a la motxilla! Ara els tocarà tornar-lo al seu cau! Els hi acompanyes?!</desc>
+    <length units="seconds">1259</length>
+    <episode-num system="onscreen">3</episode-num>
     <category lang="ca">FICCIÓ</category>
-    <category lang="ca">SÈRIE DRAMÀTICA</category>
+    <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
       <value>INFANTIL</value>
     </rating>
@@ -118,26 +119,44 @@
   <channel id="c33">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20261027193106 +0100" stop="20261027201528 +0100" channel="c33">
-    <title lang="ca">Ben Fogle: Retorn a la fi del món</title>
-    <sub-title lang="ca">Àrtic de Noruega</sub-title>
-    <desc lang="ca">En Ben viatja a Noruega, al cercle polar àrtic per posar-se al dia amb en Randi cinc anys més tard.</desc>
-    <length units="seconds">2662</length>
-    <episode-num system="onscreen">19</episode-num>
-    <category lang="ca">DIVULGACIÓ</category>
-    <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
+  <programme start="20261027225336 +0100" stop="20261028001752 +0100" channel="c33">
+    <title lang="ca">Pel·lícula</title>
+    <sub-title lang="ca">Bruc</sub-title>
+    <desc lang="ca">BRUC (bruc, 2011) Producció: Ikiru Films, Mesfilms inversions, Bruc-Laurion amb producció associada de Televisió de Catalunya, 2011Director: Daniel BenmayorGuió: Jordi Gasull i Patzi Amercua segons una història original de Jordi GasullDirector de fotografia: Juanmi AzpirozMúsica: Xavier CapellasIntèrprets: Juan José Ballesta (Bruc) Vicent Perez (Maraval), Santi Millán (De la Mata), Astrid Bergès-Frisbey (Glòria), Nicolas Giraud (Nouaille), Moussa Maaskri (Attab), Jérôme Le Banner (Baraton) i Francesc Albiol (Dr. Ballart)Quan la màquina de guerra més perfecta de tota la història descobreix que la seva primera derrota es deu a un jove rebel, Napoleó envia a sis mercenaris que han lluita en mil i unes batalles amb una sola missió: tallar-li el cap. Després d'assassinar als seus éssers estimats, el grup de mercenaris es disposa a buscar al jove en els indrets més màgics de la sagrada muntanya de Montserrat. El noi, al que anomenen Bruc pel lloc de la batalla, haurà de lluitar sol per sobreviure i venjar la seva família. Es converteix així en un símbol de llibertat i esperança per al seu país, el qual descobreix en ell a l'heroi que va aconseguir derrotar a l'exèrcit invencible de Napoleó Bonaparte.</desc>
+    <credits>
+      <writer>Jordi Gasull</writer>
+      <actor>Juan José Ballesta (Bruc) Vicent Perez (Maraval)</actor>
+      <actor>Santi Millán (De la Mata)</actor>
+      <actor>Astrid Bergès-Frisbey (Glòria)</actor>
+      <actor>Nicolas Giraud (Nouaille)</actor>
+      <actor>Moussa Maaskri (Attab)</actor>
+      <actor>Jérôme Le Banner (Baraton)</actor>
+      <actor>Francesc Albiol (Dr. Ballart)Quan la màquina de guerra més perfecta de tota la història descobreix que la seva primera derrota es deu a un jove rebel</actor>
+      <actor>Napoleó envia a sis mercenaris que han lluita en mil</actor>
+      <actor>unes batalles amb una sola missió: tallar-li el cap. Després d'assassinar als seus éssers estimats</actor>
+      <actor>el grup de mercenaris es disposa a buscar al jove en els indrets més màgics de la sagrada muntanya de Montserrat. El noi</actor>
+      <actor>al que anomenen Bruc pel lloc de la batalla</actor>
+      <actor>haurà de lluitar sol per sobreviure</actor>
+      <actor>venjar la seva família. Es converteix així en un símbol de llibertat</actor>
+      <actor>esperança per al seu país</actor>
+      <actor>el qual descobreix en ell a l'heroi que va aconseguir derrotar a l'exèrcit invencible de Napoleó Bonaparte.</actor>
+    </credits>
+    <length units="seconds">5056</length>
+    <episode-num system="onscreen">1</episode-num>
+    <category lang="ca">FICCIÓ</category>
+    <category lang="ca">PEL·LÍCULA / TELEFILM</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
+    <icon src="https://img.3cat.cat/multimedia/jpg/6/0/1757527576606.jpg"/>
   </programme>
-  <programme start="20261027201528 +0100" stop="20261027205942 +0100" channel="c33">
-    <title lang="ca">Ben Fogle: Retorn a la fi del món</title>
-    <sub-title lang="ca">Sri Lanka</sub-title>
-    <desc lang="ca">En Bet es troba amb la Janey, una veterinària que es va encarregar de rescatar centenars de gossos a Sri Lanka.</desc>
-    <length units="seconds">2654</length>
-    <episode-num system="onscreen">20</episode-num>
+  <programme start="20261028001752 +0100" stop="20261028013251 +0100" channel="c33">
+    <title lang="ca">El cas dels catalans</title>
+    <sub-title lang="ca">El cas dels catalans</sub-title>
+    <length units="seconds">4499</length>
+    <episode-num system="onscreen">1</episode-num>
     <category lang="ca">DIVULGACIÓ</category>
     <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
     <rating>
@@ -145,6 +164,7 @@
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
+    <icon src="https://img.3cat.cat/multimedia/jpg/2/4/1788500402242.jpg"/>
   </programme>
   <channel id="oca1">
     <display-name>OCA1</display-name>
