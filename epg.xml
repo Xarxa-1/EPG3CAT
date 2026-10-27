@@ -3,65 +3,65 @@
   <channel id="tvi">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20261027143000 +0100" stop="20261027152943 +0100" channel="tvi">
-    <title lang="ca">Telenotícies migdia</title>
-    <length units="seconds">3583</length>
-    <episode-num system="onscreen">7371</episode-num>
-    <category lang="ca">ACTUALITAT</category>
-    <category lang="ca">INFORMATIU DIÀRI</category>
+  <programme start="20261027191111 +0100" stop="20261027201500 +0100" channel="tvi">
+    <title lang="ca">Atrapa'm si pots</title>
+    <desc lang="ca">'Atrapa'm si pots' és un 'quiz show' clàssic, de preguntes i respostes, presentat per Llucià Ferrer, en què sis concursants competeixen per arribar a la fase final i guanyar el pot. 'Atrapa'm si pots' és entreteniment pur i on gairebé és més important passar-s'ho bé que els diners. És un concurs en què pesa més la intuïció que no els coneixements acadèmics, més l'estratègia en el joc que no la sort.</desc>
+    <length units="seconds">3829</length>
+    <episode-num system="onscreen">952</episode-num>
+    <category lang="ca">ENTRETENIMENT</category>
+    <category lang="ca">CONCURS</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <icon src="https://img.ccma.cat/multimedia/jpg/5/4/1758025766345.jpg"/>
   </programme>
-  <programme start="20261027152943 +0100" stop="20261027154947 +0100" channel="tvi">
-    <title lang="ca">Cuines</title>
-    <sub-title lang="ca">Es niu</sub-title>
-    <desc lang="ca">La Gessamí Caramés viatja culinàriament a Palafrugell per reinterpretar un plat típic de la localitat: es niu. Un mar i muntanya amb molta història. </desc>
-    <length units="seconds">1204</length>
-    <episode-num system="onscreen">2481</episode-num>
-    <category lang="ca">DIVULGACIÓ</category>
-    <category lang="ca">CUINA</category>
+  <programme start="20261027201500 +0100" stop="20261027205959 +0100" channel="tvi">
+    <title lang="ca">Està passant</title>
+    <desc lang="ca">En Queco i en Jair parlen de l'evolució dels aldarulls a Barcelona. L'Andrés Fajngold es converteix en mestre cocteler i l'Ignasi Taltavull proposa noves lleis.</desc>
+    <length units="seconds">2699</length>
+    <episode-num system="onscreen">1839</episode-num>
+    <category lang="ca">ENTRETENIMENT</category>
+    <category lang="ca">GAGS. HUMOR</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <icon src="https://img.ccma.cat/multimedia/jpg/2/5/1653464509252.jpg"/>
+    <icon src="https://img.ccma.cat/multimedia/png/3/8/1705511272683.png"/>
   </programme>
   <channel id="324">
     <display-name>324</display-name>
   </channel>
-  <programme start="20261027143000 +0100" stop="20261027153000 +0100" channel="324">
-    <title lang="ca">Telenotícies migdia</title>
-    <length units="seconds">3600</length>
-    <episode-num system="onscreen">7371</episode-num>
-    <category lang="ca">ACTUALITAT</category>
-    <category lang="ca">INFORMATIU DIÀRI</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <icon src="https://img.ccma.cat/multimedia/jpg/5/4/1758025766345.jpg"/>
-  </programme>
-  <programme start="20261027153000 +0100" stop="20261027160000 +0100" channel="324">
-    <title lang="ca">3CatInfo en aranès</title>
-    <desc lang="ca">Informatiu de continguts generalistes en llengua aranesa, presentat per Ares Riu, en emissió per a tot Catalunya.</desc>
-    <length units="seconds">1800</length>
-    <episode-num system="onscreen">2580</episode-num>
+  <programme start="20261027183000 +0100" stop="20261027200000 +0100" channel="324">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="seconds">5400</length>
+    <episode-num system="onscreen">11545</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
-    <icon src="https://img.ccma.cat/multimedia/png/5/8/1758125433085.png"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
+  </programme>
+  <programme start="20261027200000 +0100" stop="20261027210000 +0100" channel="324">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="seconds">3600</length>
+    <episode-num system="onscreen">11546</episode-num>
+    <category lang="ca">ACTUALITAT</category>
+    <category lang="ca">INFORMATIU DIÀRI</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
   <channel id="esport3">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20261027140219 +0100" stop="20261027163508 +0100" channel="esport3">
+  <programme start="20261027194434 +0100" stop="20261027202000 +0100" channel="esport3">
     <title lang="ca">Esport Club</title>
     <sub-title lang="ca">La gala de la Pilota d'or, jornada de Copa i tertúlia</sub-title>
     <desc lang="ca">Alèxia i Harry Kane s'emporten la Pilota d'Or. El Barça, el club més premiat a la gala. Avui, jornada de Copa. Juguen Espanyol, Manresa, Sant Andreu, Girona i Europa. A la tertúlia ens acompanyen Arancha Rodríguez, Joan Poquí i Màrius Carol</desc>
-    <length units="seconds">9169</length>
+    <length units="seconds">2126</length>
     <episode-num system="onscreen">3271</episode-num>
     <category lang="ca">ESPORTS</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
@@ -69,50 +69,48 @@
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
+    <previously-shown/>
     <icon src="https://img.ccma.cat/multimedia/jpg/7/3/1698145091337.jpg"/>
   </programme>
-  <programme start="20261027163508 +0100" stop="20261027171034 +0100" channel="esport3">
-    <title lang="ca">GR Pirineus</title>
-    <sub-title lang="ca">La gran àgora</sub-title>
-    <desc lang="ca">En aquest nou viatge ens centrarem a conèixer Vic i una mica els seus voltants.Així que començarem, a la Plaça Major, eix comercial de la ciutat, seu d'un mercat on podem comprar de tot, sobretot els millors productes. I havent comprat, ens acostarem fins a Calldetenes, a un restaurant de renom internacional, on aprendrem que l'alta gastronomia és més accessible del que sembla. Des d'aquí anirem a Folgueroles, el poble de mossèn Cinto Verdaguer, i a peu tornarem a Vic pel camí del Bisbe i Abat Oliba i farem nit al seu alberg.L'endemà matinarem per fer una bona passejada pel casc antic, amb un segway i amb una audioguia molt especial! La visita ens descobrirà places i placetes precioses, ja ho veureu! Després anirem a fer l'embotit més representatiu d'aquesta ciutat: la llonganissa. I, per acabar, jugarem un partidet de rugbi amb els Crancs.En total, uns 15 quilòmetres, repartits en dues jornades, fets a peu i amb segway!</desc>
-    <length units="seconds">2126</length>
-    <episode-num system="onscreen">25</episode-num>
-    <category lang="ca">DIVULGACIÓ</category>
-    <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
+  <programme start="20261027202000 +0100" stop="20261027222542 +0100" channel="esport3">
+    <title lang="ca">Futbol</title>
+    <sub-title lang="ca">CE Manresa-UE Sant Andreu / Copa / 1a eliminatoria</sub-title>
+    <desc lang="ca">Primera eliminatòria, a un sol partit, de la fase final de la competició futbolística. Els del Bages juguen a la Segona Federació i els barcelonins, a la Primera Federació.</desc>
+    <length units="seconds">7542</length>
+    <episode-num system="onscreen">97</episode-num>
+    <category lang="ca">ESPORTS</category>
+    <category lang="ca">ESPECIALS</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
-    <previously-shown/>
-    <icon src="https://img.3cat.cat/multimedia/jpg/9/8/1736612891089.jpg"/>
+    <icon src="https://img.3cat.cat/multimedia/jpg/9/0/1761575689109.jpg"/>
   </programme>
   <channel id="sx3">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20261027142853 +0100" stop="20261027144807 +0100" channel="sx3">
-    <title lang="ca">Bola de drac Z</title>
-    <sub-title lang="ca">En Gotrunks sorprèn amb les seves tècniques</sub-title>
-    <desc lang="ca">Per fi comença l'esperat combat entre en Gotrunks, ara convertit en superguerrer, i el malèfic monstre Bu a l'interior de la Sala de l'Esperit del Temps. L'arsenal de tècniques d'en Gotrunks sorprèn tothom, però no aconsegueix fer mal a en Bu. Aleshores, en Gotrunks posa en pràctica la tècnica del superatac kamikaze fantasmagòric.</desc>
-    <length units="seconds">1154</length>
-    <episode-num system="onscreen">258</episode-num>
-    <category lang="ca">FICCIÓ</category>
-    <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
+  <programme start="20261027200000 +0100" stop="20261027201722 +0100" channel="sx3">
+    <title lang="ca">InfoK</title>
+    <desc lang="ca">El panellot destructor amenaça l'Infok.Aquesta castanyada l'InfoK us explicarà com es rebel·len les ànimes a Sant Feliu Sasserra, investigarà una pedregada de castanyes al Maresme i dues inforeporteres de La Teatral del Masnou descobriran com es fan els efectes especials amb l'estudi català Gadget SFX. L'emissió del programa s'interromprà perquè el plató s'ensorra. La culpa la té un panellet de pinyons gegant que està fora de control. L'equip de l'InfoK haurà de refugiar-se als racons més foscos de la tele perquè el panellot destructor no els esclafi.</desc>
+    <length units="seconds">1042</length>
+    <episode-num system="onscreen">4288</episode-num>
+    <category lang="ca">ACTUALITAT</category>
+    <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
-      <value>JUVENIL</value>
+      <value>INFANTIL</value>
     </rating>
     <subtitles type="teletext"/>
-    <previously-shown/>
   </programme>
-  <programme start="20261027144807 +0100" stop="20261027150634 +0100" channel="sx3">
-    <title lang="ca">Bola de drac Z</title>
-    <sub-title lang="ca">La terrorífica tècnica del superatac kamikaze fantasmagòric!</sub-title>
-    <desc lang="ca">En Gotrunks fa aparèixer deu fantasmes que exploten quan entren en contacte amb el monstre Bu, però com que té la capacitat de regenerar-se, tampoc el liquiden. En Cor Petit, aleshores, decideix destruir l'entrada de la Sala de l'Esperit del Temps amb la intenció de deixar-hi atrapat per sempre més el monstre Bu.</desc>
-    <length units="seconds">1107</length>
-    <episode-num system="onscreen">259</episode-num>
+  <programme start="20261027201722 +0100" stop="20261027203853 +0100" channel="sx3">
+    <title lang="ca">Henry Danger</title>
+    <sub-title lang="ca">Dits verds</sub-title>
+    <desc lang="ca">Una misteriosa malaltia creada per Schwoz s'escampa entre Henry i els seus amics, obligant-los a quedar-se confinats mentre busquen una cura.</desc>
+    <length units="seconds">1291</length>
+    <episode-num system="onscreen">55</episode-num>
     <category lang="ca">FICCIÓ</category>
-    <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
+    <category lang="ca">SÈRIE DRAMÀTICA</category>
     <rating>
-      <value>JUVENIL</value>
+      <value>INFANTIL</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
@@ -120,35 +118,33 @@
   <channel id="c33">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20261027141124 +0100" stop="20261027145831 +0100" channel="c33">
-    <title lang="ca">La Renaixença</title>
-    <sub-title lang="ca">La perxa d'atletisme</sub-title>
-    <desc lang="ca">Tots hem passat tardes de Jocs Olímpics mirant esports que no coneixem. El salt de perxa, per exemple. Com pot ser que aquell pal aguanti el pes d'una persona mentre es doblega i es torna a posar recte? Dediquem el capítol a la perxa d'atletisme. Ens visita en Max Codinach, de Gavina.mp3, que també és poeta i té un llibre (tot i que es veu que no ho sabia). Amb l'Arnau Tordera i la Laia Glück interpreten 'Sempre instint'. Sortim a passejar en Rufus per la defensa de Baler, a les Filipines del 1898.</desc>
-    <length units="seconds">2827</length>
-    <episode-num system="onscreen">63</episode-num>
+  <programme start="20261027193106 +0100" stop="20261027201528 +0100" channel="c33">
+    <title lang="ca">Ben Fogle: Retorn a la fi del món</title>
+    <sub-title lang="ca">Àrtic de Noruega</sub-title>
+    <desc lang="ca">En Ben viatja a Noruega, al cercle polar àrtic per posar-se al dia amb en Randi cinc anys més tard.</desc>
+    <length units="seconds">2662</length>
+    <episode-num system="onscreen">19</episode-num>
     <category lang="ca">DIVULGACIÓ</category>
-    <category lang="ca">ALTRES</category>
+    <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/3/3/1756148014833.jpg"/>
   </programme>
-  <programme start="20261027145831 +0100" stop="20261027154538 +0100" channel="c33">
-    <title lang="ca">La Renaixença</title>
-    <sub-title lang="ca">La caravana</sub-title>
-    <desc lang="ca">La caravana ha passat per molts moments: fa anys era vista com una cosa de pobres, o de hippies; ara, si no surts a passar un cap de setmana amb la caravana, no segueixes la moda. Nosaltres ens hi unim, i dediquem el capítol a la caravana. Parlem amb en Lluís Bassaganya, responsable de l'exposició permanent 'La retirada' de Camprodon. Segurament és la persona que millor coneix els boscos de la zona, on passa gairebé tot el dia. A 'Històries per passejar el gos' anem amb l'Hera fins a la guerra del whisky del 1984.</desc>
-    <length units="seconds">2827</length>
-    <episode-num system="onscreen">64</episode-num>
+  <programme start="20261027201528 +0100" stop="20261027205942 +0100" channel="c33">
+    <title lang="ca">Ben Fogle: Retorn a la fi del món</title>
+    <sub-title lang="ca">Sri Lanka</sub-title>
+    <desc lang="ca">En Bet es troba amb la Janey, una veterinària que es va encarregar de rescatar centenars de gossos a Sri Lanka.</desc>
+    <length units="seconds">2654</length>
+    <episode-num system="onscreen">20</episode-num>
     <category lang="ca">DIVULGACIÓ</category>
-    <category lang="ca">ALTRES</category>
+    <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/3/3/1756148014833.jpg"/>
   </programme>
   <channel id="oca1">
     <display-name>OCA1</display-name>
