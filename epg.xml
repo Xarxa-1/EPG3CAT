@@ -3,103 +3,84 @@
   <channel id="tvi">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20261028142945 +0100" stop="20261028152937 +0100" channel="tvi">
-    <title lang="ca">Telenotícies migdia</title>
+  <programme start="20261028202958 +0100" stop="20261028210000 +0100" channel="tvi">
+    <title lang="ca">Avanç Informatiu</title>
     <desc lang="ca">Sense Descripció</desc>
-    <length units="seconds">3592</length>
-    <episode-num system="onscreen">7372</episode-num>
+    <length units="seconds">1802</length>
+    <episode-num system="onscreen">439</episode-num>
   </programme>
-  <programme start="20261028152937 +0100" stop="20261028155050 +0100" channel="tvi">
-    <title lang="ca">Cuines</title>
-    <sub-title lang="ca">- Sopa de peix i marisc</sub-title>
+  <programme start="20261028210000 +0100" stop="20261028220458 +0100" channel="tvi">
+    <title lang="ca">Telenotícies vespre</title>
     <desc lang="ca">Sense Descripció</desc>
-    <length units="seconds">1273</length>
-    <episode-num system="onscreen">2478</episode-num>
+    <length units="seconds">3898</length>
+    <episode-num system="onscreen">7371</episode-num>
   </programme>
   <channel id="324">
     <display-name>324</display-name>
   </channel>
-  <programme start="20261028143000 +0100" stop="20261028153000 +0100" channel="324">
-    <title lang="ca">Telenotícies migdia</title>
+  <programme start="20261028200000 +0100" stop="20261028210000 +0100" channel="324">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <length units="seconds">3600</length>
-    <episode-num system="onscreen">7372</episode-num>
+    <episode-num system="onscreen">11555</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <icon src="https://img.ccma.cat/multimedia/jpg/5/4/1758025766345.jpg"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
-  <programme start="20261028153000 +0100" stop="20261028154500 +0100" channel="324">
-    <title lang="ca">Cuines</title>
-    <sub-title lang="ca">Sopa de peix i marisc</sub-title>
-    <desc lang="ca">Tirem del receptari de l'àvia de la Gessamí per fer una sopa de peix contundent i saborosa. Fem una sopa de peix i marisc que combinarà tradició i modernor.</desc>
-    <length units="seconds">900</length>
-    <episode-num system="onscreen">2478</episode-num>
-    <category lang="ca">DIVULGACIÓ</category>
-    <category lang="ca">CUINA</category>
+  <programme start="20261028210000 +0100" stop="20261028220500 +0100" channel="324">
+    <title lang="ca">Telenotícies vespre</title>
+    <length units="seconds">3900</length>
+    <episode-num system="onscreen">7371</episode-num>
+    <category lang="ca">ACTUALITAT</category>
+    <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/2/5/1653464509252.jpg"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/7/2/1758026176427.jpg"/>
   </programme>
   <channel id="esport3">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20261028150309 +0100" stop="20261028152904 +0100" channel="esport3">
-    <title lang="ca">E3</title>
-    <sub-title lang="ca">T2xC3 - El Delta de l'Ebre Nord</sub-title>
-    <desc lang="ca">Acompanya l'aventurer Rai Puig en la seva travessa en caiac per la costa catalana. Aquesta vegada recorrerà els municipis de l'Ametlla de Mar, el Perelló, l'Ampolla i Deltebre, explorant un tram de costa de cales i coves amagades, les rústiques muscleres del Delta, i també, la singular punta del Fangar. Tot plegat, vivint diverses experiències i conversat amb tota mena de persones vinculades al mar i al territori. </desc>
-    <length units="seconds">1555</length>
-    <episode-num system="onscreen">2163</episode-num>
+  <programme start="20261028204013 +0100" stop="20261028212217 +0100" channel="esport3">
+    <title lang="ca">Bàsquet</title>
+    <sub-title lang="ca">NHSZ Szolnoki-FIATC Girona / Fiba Europe Cup / J4</sub-title>
+    <desc lang="ca">Els gironins, líders de grup, visiten Hongria amb l'objectiu de sumar la quarta victòria en quatre jornades.</desc>
+    <length units="seconds">2524</length>
+    <episode-num system="onscreen">4</episode-num>
     <category lang="ca">ESPORTS</category>
-    <category lang="ca">REPORTATGES</category>
+    <category lang="ca">RETRANSMISSIONS ESPORTS</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <subtitles type="teletext"/>
-    <previously-shown/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/9/1/1719825714219.jpg"/>
+    <icon src="https://img.3cat.cat/multimedia/jpg/4/8/1791200744284.jpg"/>
   </programme>
-  <programme start="20261028152904 +0100" stop="20261028155538 +0100" channel="esport3">
-    <title lang="ca">E3</title>
-    <sub-title lang="ca">T2xC4 - El Delta de l'Ebre Sud</sub-title>
-    <desc lang="ca">Acompanya l'aventurer Rai Puig en la seva travessa en caiac per la costa catalana. Aquesta vegada recorrerà els municipis d'Amposta, Deltebre, Sant Jaume d'Enveja, la Ràpita i les Cases d'Alcanar, explorant el riu Ebre, la reserva de la Punta de la Banya, o també, l'interessant Badia dels Alfacs, i sempre, conversant amb tota mena de persones vinculades amb el mar o el territori.</desc>
-    <length units="seconds">1594</length>
-    <episode-num system="onscreen">2164</episode-num>
+  <programme start="20261028212217 +0100" stop="20261028230000 +0100" channel="esport3">
+    <title lang="ca">Billar a 3 bandes</title>
+    <sub-title lang="ca">Dani Sánchez-JS Ko / PBA Tour</sub-title>
+    <desc lang="ca">El català Dani Sánchez s'enfronta al sudcoreà Jun-seo Ko en aquest campionat de billar a 3 bandes organitzat per la PBA (Professional Billiards Association).</desc>
+    <length units="seconds">5863</length>
+    <episode-num system="onscreen">8150</episode-num>
     <category lang="ca">ESPORTS</category>
-    <category lang="ca">REPORTATGES</category>
+    <category lang="ca">RETRANSMISSIONS ESPORTS</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
-    <previously-shown/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/9/1/1719825714219.jpg"/>
+    <icon src="https://img.3cat.cat/multimedia/jpg/3/3/1766061188133.jpg"/>
   </programme>
   <channel id="sx3">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20261028150800 +0100" stop="20261028152953 +0100" channel="sx3">
-    <title lang="ca">Bola de drac Z</title>
-    <sub-title lang="ca">El monstre Bu es transforma en bomba i explota</sub-title>
-    <desc lang="ca">Conscient que serà incapaç d'eliminar en Son Gohan, en Bu es transforma en bomba i s'autodestrueix per intentar liquidar el seu rival. Després de comprovar que l'explosió no li serveix de res, el monstre Bu prepara una trampa fent veure que perd l'interès en en Son Gohan i demana a en Son Goten i a en Trunks que es tornin a fusionar.</desc>
-    <length units="seconds">1313</length>
-    <episode-num system="onscreen">264</episode-num>
-    <category lang="ca">FICCIÓ</category>
-    <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
-    <rating>
-      <value>JUVENIL</value>
-    </rating>
-    <subtitles type="teletext"/>
-    <previously-shown/>
-  </programme>
-  <programme start="20261028152953 +0100" stop="20261028155124 +0100" channel="sx3">
+  <programme start="20261028203906 +0100" stop="20261028210007 +0100" channel="sx3">
     <title lang="ca">Henry Danger</title>
-    <sub-title lang="ca">Dits verds</sub-title>
-    <desc lang="ca">Una misteriosa malaltia creada per Schwoz s'escampa entre Henry i els seus amics, obligant-los a quedar-se confinats mentre busquen una cura.</desc>
-    <length units="seconds">1291</length>
-    <episode-num system="onscreen">55</episode-num>
+    <sub-title lang="ca">Els invasors de l'espai, segona part</sub-title>
+    <desc lang="ca">El Capità Man i en Kid Danger viatgen a l'espai per resoldre una situació inesperada a una estació espacial que implica astronautes, una nena decidida i uns conillets molt especials.</desc>
+    <length units="seconds">1261</length>
+    <episode-num system="onscreen">58</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DRAMÀTICA</category>
     <rating>
@@ -108,37 +89,41 @@
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
+  <programme start="20261028210007 +0100" stop="20261028212224 +0100" channel="sx3">
+    <title lang="ca">Bola de drac Z</title>
+    <sub-title lang="ca">En Gotrunks canta victòria abans d'hora! Jugant a voleibol amb el monstre Bu</sub-title>
+    <desc lang="ca">En Gotrunks, ara al tercer nivell de força dels superguerrers, inicia l'atac contra el monstre Bu en què, d'entrada, sembla un combat força igualat. El més important és que en Son Goten i en Trunks puguin eliminar en Bu abans que se'ls acabi el temps que dura la fusió. En Son Gohan, mentrestant, està a punt d'acabar el seu entrenament al món dels déus.</desc>
+    <length units="seconds">1337</length>
+    <episode-num system="onscreen">261</episode-num>
+    <category lang="ca">FICCIÓ</category>
+    <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
+    <rating>
+      <value>JUVENIL</value>
+    </rating>
+    <subtitles type="teletext"/>
+    <previously-shown/>
+  </programme>
   <channel id="c33">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20261028144747 +0100" stop="20261028153413 +0100" channel="c33">
-    <title lang="ca">La Renaixença</title>
-    <sub-title lang="ca">La capa</sub-title>
-    <desc lang="ca">Sabeu que la capa que porta Superman a l'última pel·lícula l'ha fet una empresa catalana? Només per això ja creiem just i necessari dedicar aquest capítol a la capa. De Catalunya a Hollywood només hi ha 50 metres de tela vermella. Abans la gent també portava capa, però no per volar, sinó per abrigar-se. Parlem amb la Judit Mascó, la primera supermodel catalana, que ens explica el que més por li feia durant les desfilades. I sortim a passejar l'Indi fins al 2010, quan es van comprar dues pizzes per 10.000 bitcoins.</desc>
-    <length units="seconds">2786</length>
-    <episode-num system="onscreen">66</episode-num>
+  <programme start="20261028203348 +0100" stop="20261028205952 +0100" channel="c33">
+    <title lang="ca">Els hotels més remots del món</title>
+    <sub-title lang="ca">Tree hotel</sub-title>
+    <desc lang="ca">El Kent, el fundador, la seva dona Brita, i la seva filla Sofia, tots nascuts en un poble veí, són els fundadors i els amfitrions acollidors d'aquest extraordinari hotel. Actualment l'Hotel dels arbres compta amb 7 cabanes, de les més luxoses a les més exuberants, totes creades per grans noms de l'arquitectura sueca. El concepte clau d'aquest lloc és l'harmonia amb la natura: aïllats a les seves cabanes a les capçades dels arbres, els hostes perden gradualment la seva concepció urbana i es deixen endur pel paisatge.</desc>
+    <length units="seconds">1564</length>
+    <episode-num system="onscreen">1</episode-num>
     <category lang="ca">DIVULGACIÓ</category>
-    <category lang="ca">ALTRES</category>
+    <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/3/3/1756148014833.jpg"/>
   </programme>
-  <programme start="20261028153413 +0100" stop="20261028161350 +0100" channel="c33">
-    <title lang="ca">Això no és una cançó</title>
-    <sub-title lang="ca">Qualsevol nit pot sortir el sol</sub-title>
-    <desc lang="ca">Això no és una cançó T1Sinopsi capítol 2: Qualsevol nit pot sortir el sol</desc>
-    <length units="seconds">2377</length>
-    <episode-num system="onscreen">8</episode-num>
-    <category lang="ca">ENTRETENIMENT</category>
-    <category lang="ca">ALTRES</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <subtitles type="teletext"/>
-    <previously-shown/>
+  <programme start="20261028205952 +0100" stop="20261028210146 +0100" channel="c33">
+    <title lang="ca">SENSE FI CANAL 33</title>
+    <desc lang="ca">Sense Descripció</desc>
+    <length units="seconds">114</length>
   </programme>
   <channel id="oca1">
     <display-name>OCA1</display-name>
