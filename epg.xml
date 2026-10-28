@@ -3,26 +3,27 @@
   <channel id="tvi">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20261028202958 +0100" stop="20261028210000 +0100" channel="tvi">
-    <title lang="ca">Avanç Informatiu</title>
+  <programme start="20261029000159 +0100" stop="20261029040159 +0100" channel="tvi">
+    <title lang="ca">Notícies 3CatInfo</title>
     <desc lang="ca">Sense Descripció</desc>
-    <length units="seconds">1802</length>
-    <episode-num system="onscreen">439</episode-num>
+    <length units="seconds">14400</length>
+    <episode-num system="onscreen">11557</episode-num>
   </programme>
-  <programme start="20261028210000 +0100" stop="20261028220458 +0100" channel="tvi">
-    <title lang="ca">Telenotícies vespre</title>
+  <programme start="20261029040159 +0100" stop="20261029044933 +0100" channel="tvi">
+    <title lang="ca">Cava de Blues</title>
+    <sub-title lang="ca">- Dani Nel·lo &amp; Mario Cobo</sub-title>
     <desc lang="ca">Sense Descripció</desc>
-    <length units="seconds">3898</length>
-    <episode-num system="onscreen">7371</episode-num>
+    <length units="seconds">2854</length>
+    <episode-num system="onscreen">7</episode-num>
   </programme>
   <channel id="324">
     <display-name>324</display-name>
   </channel>
-  <programme start="20261028200000 +0100" stop="20261028210000 +0100" channel="324">
+  <programme start="20261029003000 +0100" stop="20261029010000 +0100" channel="324">
     <title lang="ca">Notícies 3CatInfo</title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">3600</length>
-    <episode-num system="onscreen">11555</episode-num>
+    <length units="seconds">1800</length>
+    <episode-num system="onscreen">11557</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
@@ -30,75 +31,76 @@
     </rating>
     <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
-  <programme start="20261028210000 +0100" stop="20261028220500 +0100" channel="324">
-    <title lang="ca">Telenotícies vespre</title>
-    <length units="seconds">3900</length>
-    <episode-num system="onscreen">7371</episode-num>
+  <programme start="20261029010000 +0100" stop="20261029060000 +0100" channel="324">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="seconds">18000</length>
+    <episode-num system="onscreen">11557</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <subtitles type="teletext"/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/7/2/1758026176427.jpg"/>
+    <previously-shown/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
   <channel id="esport3">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20261028204013 +0100" stop="20261028212217 +0100" channel="esport3">
-    <title lang="ca">Bàsquet</title>
-    <sub-title lang="ca">NHSZ Szolnoki-FIATC Girona / Fiba Europe Cup / J4</sub-title>
-    <desc lang="ca">Els gironins, líders de grup, visiten Hongria amb l'objectiu de sumar la quarta victòria en quatre jornades.</desc>
-    <length units="seconds">2524</length>
-    <episode-num system="onscreen">4</episode-num>
+  <programme start="20261029003013 +0100" stop="20261029005012 +0100" channel="esport3">
+    <title lang="ca">3CatInfo Esports</title>
+    <desc lang="ca">Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.</desc>
+    <length units="seconds">1199</length>
+    <episode-num system="onscreen">5552</episode-num>
     <category lang="ca">ESPORTS</category>
-    <category lang="ca">RETRANSMISSIONS ESPORTS</category>
+    <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <icon src="https://img.3cat.cat/multimedia/jpg/4/8/1791200744284.jpg"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/9/7/1758888682179.jpg"/>
   </programme>
-  <programme start="20261028212217 +0100" stop="20261028230000 +0100" channel="esport3">
-    <title lang="ca">Billar a 3 bandes</title>
-    <sub-title lang="ca">Dani Sánchez-JS Ko / PBA Tour</sub-title>
-    <desc lang="ca">El català Dani Sánchez s'enfronta al sudcoreà Jun-seo Ko en aquest campionat de billar a 3 bandes organitzat per la PBA (Professional Billiards Association).</desc>
-    <length units="seconds">5863</length>
-    <episode-num system="onscreen">8150</episode-num>
+  <programme start="20261029005012 +0100" stop="20261029010621 +0100" channel="esport3">
+    <title lang="ca">Onze</title>
+    <sub-title lang="ca">Toca aixecar-se; 'El Colegiado' i 'El Predicador'</sub-title>
+    <desc lang="ca">Lluís Carrasco, Joan Poquí, Laia Tudel i Jordi Martí parlen sobre l'estat d'ànim blaugrana després de les dues derrotes en una setmana. En Joan Fàbregas repassa algunes accions polèmiques dels partits de copa i l'Òscar Pérez-Dolz predica els manaments del bon culer.</desc>
+    <length units="seconds">969</length>
+    <episode-num system="onscreen">1277</episode-num>
     <category lang="ca">ESPORTS</category>
-    <category lang="ca">RETRANSMISSIONS ESPORTS</category>
+    <category lang="ca">MAGAZINE</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
-    <icon src="https://img.3cat.cat/multimedia/jpg/3/3/1766061188133.jpg"/>
+    <previously-shown/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/1/1/1688543515711.jpg"/>
   </programme>
   <channel id="sx3">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20261028203906 +0100" stop="20261028210007 +0100" channel="sx3">
-    <title lang="ca">Henry Danger</title>
-    <sub-title lang="ca">Els invasors de l'espai, segona part</sub-title>
-    <desc lang="ca">El Capità Man i en Kid Danger viatgen a l'espai per resoldre una situació inesperada a una estació espacial que implica astronautes, una nena decidida i uns conillets molt especials.</desc>
-    <length units="seconds">1261</length>
-    <episode-num system="onscreen">58</episode-num>
+  <programme start="20261029002957 +0100" stop="20261029005056 +0100" channel="sx3">
+    <title lang="ca">Els germans Kratt</title>
+    <sub-title lang="ca">El viatge del Papalloner XT</sub-title>
+    <desc lang="ca">L'Aviva acaba de construir el Papalloner XT, el vehicle que acompanyarà en Chris, en Martin i la Capitana Maxil·la a l'aventura més increïble que hagi viscut mai ningú, el viatge més llarg i més impressionant de tots els insectes de l'Amèrica del Nord: 4.800 quilòmetres fins a Mèxic! Però compte, que a mig camí es trobaran amb la malvada Donita Donata!</desc>
+    <length units="seconds">1259</length>
+    <episode-num system="onscreen">9</episode-num>
     <category lang="ca">FICCIÓ</category>
-    <category lang="ca">SÈRIE DRAMÀTICA</category>
+    <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
       <value>INFANTIL</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20261028210007 +0100" stop="20261028212224 +0100" channel="sx3">
-    <title lang="ca">Bola de drac Z</title>
-    <sub-title lang="ca">En Gotrunks canta victòria abans d'hora! Jugant a voleibol amb el monstre Bu</sub-title>
-    <desc lang="ca">En Gotrunks, ara al tercer nivell de força dels superguerrers, inicia l'atac contra el monstre Bu en què, d'entrada, sembla un combat força igualat. El més important és que en Son Goten i en Trunks puguin eliminar en Bu abans que se'ls acabi el temps que dura la fusió. En Son Gohan, mentrestant, està a punt d'acabar el seu entrenament al món dels déus.</desc>
-    <length units="seconds">1337</length>
-    <episode-num system="onscreen">261</episode-num>
+  <programme start="20261029005056 +0100" stop="20261029011216 +0100" channel="sx3">
+    <title lang="ca">Els germans Kratt</title>
+    <sub-title lang="ca">Els buscadors de mel</sub-title>
+    <desc lang="ca">Avui toca sortir d'aventura a descobrir quin és l'animal més dur i més ferotge de l'Àfrica. Però a punt d'emprendre el viatge, el detector de dolents d'en Koki ha interceptat un missatge del Gormand, el xef il·legal d'espècies amenaçades. Canvi de plans! Comença l'operació 'Salvem l'animal misteriós dels fogons'! Els hi acompanyes?!</desc>
+    <length units="seconds">1280</length>
+    <episode-num system="onscreen">10</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
-      <value>JUVENIL</value>
+      <value>INFANTIL</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
@@ -106,24 +108,63 @@
   <channel id="c33">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20261028203348 +0100" stop="20261028205952 +0100" channel="c33">
-    <title lang="ca">Els hotels més remots del món</title>
-    <sub-title lang="ca">Tree hotel</sub-title>
-    <desc lang="ca">El Kent, el fundador, la seva dona Brita, i la seva filla Sofia, tots nascuts en un poble veí, són els fundadors i els amfitrions acollidors d'aquest extraordinari hotel. Actualment l'Hotel dels arbres compta amb 7 cabanes, de les més luxoses a les més exuberants, totes creades per grans noms de l'arquitectura sueca. El concepte clau d'aquest lloc és l'harmonia amb la natura: aïllats a les seves cabanes a les capçades dels arbres, els hostes perden gradualment la seva concepció urbana i es deixen endur pel paisatge.</desc>
-    <length units="seconds">1564</length>
+  <programme start="20261028234905 +0100" stop="20261029013918 +0100" channel="c33">
+    <title lang="ca">Pel·lícula</title>
+    <sub-title lang="ca">Hotel Bombai</sub-title>
+    <desc lang="ca">HOTEL BOMBAI 'Hotel Mumbai'Direcció: Anthony MarasGuió: John Collee, Anthony MarasProducció: A Hamilton and Electric Pictures Production, American Entertainment Investors, Double Guess, Screen Australia, ScreenWest, South Australian Film Corporation, Thunder Road Pictures, Xeitgeist Entertainment GroupAny: 2018Durada: 125País: AustràliaMúsica: Volker BertelmannFotografia: Nick MatthewsIntèrprets: Armie Hammer, Dev Patel, Jason Isaacs, Nazanin Boniadi, Angus McLaren, Anupam Kher, Natasha Liu Bordizzo, Tilda Cobham-Hervey, Suhail Nayyar, Rodney Afif, Zenia Starr, Nagesh Bhonsle, Sachin Joab, Alex Pinder, Adithi Kalkunte, Gaurav Paswala, Ansuya Nathan, Yulian Shchukin, Abhiroy Singh, Devyani CmBombai, 2008. Els hostes de l'hotel Taj Mahal Palace viuen moments de terror. Un grup de terroristes pakistanesos envaeix el lloc i manté les persones com a ostatges durant 68 hores. Desesperats, un grup de funcionaris i hostes prenen coratge per provar de revertir la situació.</desc>
+    <credits>
+      <director>Anthony Maras</director>
+      <writer>John Collee</writer>
+      <writer>Anthony Maras</writer>
+      <actor>Armie Hammer</actor>
+      <actor>Dev Patel</actor>
+      <actor>Jason Isaacs</actor>
+      <actor>Nazanin Boniadi</actor>
+      <actor>Angus McLaren</actor>
+      <actor>Anupam Kher</actor>
+      <actor>Natasha Liu Bordizzo</actor>
+      <actor>Tilda Cobham-Hervey</actor>
+      <actor>Suhail Nayyar</actor>
+      <actor>Rodney Afif</actor>
+      <actor>Zenia Starr</actor>
+      <actor>Nagesh Bhonsle</actor>
+      <actor>Sachin Joab</actor>
+      <actor>Alex Pinder</actor>
+      <actor>Adithi Kalkunte</actor>
+      <actor>Gaurav Paswala</actor>
+      <actor>Ansuya Nathan</actor>
+      <actor>Yulian Shchukin</actor>
+      <actor>Abhiroy Singh</actor>
+      <actor>Devyani CmBombai</actor>
+      <actor>2008. Els hostes de l'hotel Taj Mahal Palace viuen moments de terror. Un grup de terroristes pakistanesos envaeix el lloc</actor>
+      <actor>manté les persones com a ostatges durant 68 hores. Desesperats</actor>
+      <actor>un grup de funcionaris</actor>
+      <actor>hostes prenen coratge per provar de revertir la situació.</actor>
+    </credits>
+    <length units="seconds">6613</length>
     <episode-num system="onscreen">1</episode-num>
-    <category lang="ca">DIVULGACIÓ</category>
-    <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
+    <category lang="ca">FICCIÓ</category>
+    <category lang="ca">PEL·LÍCULA / TELEFILM</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
+    <icon src="https://img.3cat.cat/multimedia/jpg/2/6/1757512896962.jpg"/>
   </programme>
-  <programme start="20261028205952 +0100" stop="20261028210146 +0100" channel="c33">
-    <title lang="ca">SENSE FI CANAL 33</title>
-    <desc lang="ca">Sense Descripció</desc>
-    <length units="seconds">114</length>
+  <programme start="20261029013918 +0100" stop="20261029020640 +0100" channel="c33">
+    <title lang="ca">3 DIES D'AGOST</title>
+    <sub-title lang="ca">La fàbrica d'explosius</sub-title>
+    <desc lang="ca">1r episodi: '16A: la fàbrica d'explosius' El primer episodi posa al dia les informacions que hi ha sobre la casa d'Alcanar, on els terroristes fabricaven els explosius, i que va esclatar la nit del 16 d'agost del 2017. Diversos analistes, criminòlegs i policies expliquen com es va formar la cèl·lula terrorista i com funciona el sistema de reclutament d'Estat Islàmic. </desc>
+    <length units="seconds">1642</length>
+    <episode-num system="onscreen">1</episode-num>
+    <category lang="ca">ACTUALITAT</category>
+    <category lang="ca">ESPECIALS INFORMATIUS</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <subtitles type="teletext"/>
+    <previously-shown/>
   </programme>
   <channel id="oca1">
     <display-name>OCA1</display-name>
