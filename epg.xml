@@ -3,52 +3,38 @@
   <channel id="tvi">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20261028010813 +0100" stop="20261028030000 +0100" channel="tvi">
-    <title lang="ca">Mésnit</title>
-    <desc lang="ca">El 'Mésnit' arriba a la desena temporada, amb Marina Romero al capdavant de l'espai i amb la voluntat de continuar sent un centre de debat d'idees i d'anàlisi de l'activitat política.</desc>
-    <length units="seconds">6707</length>
-    <episode-num system="onscreen">2188</episode-num>
-    <category lang="ca">ACTUALITAT</category>
-    <category lang="ca">DEBAT</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <previously-shown/>
+  <programme start="20261028080011 +0100" stop="20261028103000 +0100" channel="tvi">
+    <title lang="ca">Matins</title>
+    <desc lang="ca">Sense Descripció</desc>
+    <length units="seconds">8989</length>
+    <episode-num system="onscreen">4701</episode-num>
   </programme>
-  <programme start="20261028030000 +0100" stop="20261028040000 +0100" channel="tvi">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">3600</length>
-    <episode-num system="onscreen">11548</episode-num>
-    <category lang="ca">ACTUALITAT</category>
-    <category lang="ca">INFORMATIU DIÀRI</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <previously-shown/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
+  <programme start="20261028103000 +0100" stop="20261028135500 +0100" channel="tvi">
+    <title lang="ca">Tot es mou</title>
+    <desc lang="ca">Sense Descripció</desc>
+    <length units="seconds">12300</length>
+    <episode-num system="onscreen">1838</episode-num>
   </programme>
   <channel id="324">
     <display-name>324</display-name>
   </channel>
-  <programme start="20261028010000 +0100" stop="20261028060000 +0100" channel="324">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">18000</length>
-    <episode-num system="onscreen">11548</episode-num>
+  <programme start="20261028080000 +0100" stop="20261028103000 +0100" channel="324">
+    <title lang="ca">Matins</title>
+    <desc lang="ca">'Matins' és un dels puntals informatius de TV3. El programa matinal dona les claus del dia que comença, explica les notícies que han passat aportant-ne el context per entendre-les i analitza amb veus acreditades l'actualitat més propera i la d'arreu del món. 'Matins' comença a les 8 del matí, de dilluns a divendres, i està presentat per Ariadna Oltra.</desc>
+    <length units="seconds">9000</length>
+    <episode-num system="onscreen">4701</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <previously-shown/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/2/0/1758040151402.jpg"/>
   </programme>
-  <programme start="20261028060000 +0100" stop="20261028080000 +0100" channel="324">
+  <programme start="20261028103000 +0100" stop="20261028120000 +0100" channel="324">
     <title lang="ca">Notícies 3CatInfo</title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">7200</length>
-    <episode-num system="onscreen">11549</episode-num>
+    <length units="seconds">5400</length>
+    <episode-num system="onscreen">11550</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
@@ -60,95 +46,94 @@
   <channel id="esport3">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20261028022611 +0100" stop="20261028050108 +0100" channel="esport3">
+  <programme start="20261028074531 +0100" stop="20261028102111 +0100" channel="esport3">
     <title lang="ca">Futbol</title>
     <sub-title lang="ca">CE Manresa-UE Sant Andreu / Copa / 1a eliminatoria</sub-title>
     <desc lang="ca">Primera eliminatòria, a un sol partit, de la fase final de la competició futbolística. Els del Bages juguen a la Segona Federació i els barcelonins, a la Primera Federació.</desc>
-    <length units="seconds">9297</length>
+    <length units="seconds">9340</length>
     <episode-num system="onscreen">97</episode-num>
     <category lang="ca">ESPORTS</category>
     <category lang="ca">ESPECIALS</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <subtitles type="teletext"/>
     <previously-shown/>
     <icon src="https://img.3cat.cat/multimedia/jpg/9/0/1761575689109.jpg"/>
   </programme>
-  <programme start="20261028050108 +0100" stop="20261028053123 +0100" channel="esport3">
-    <title lang="ca">La frontal</title>
-    <sub-title lang="ca">El CE Llinars compleix 110 anys</sub-title>
-    <desc lang="ca">El club vallesà, fundat el 1916, gaudeix d'un gran estat de salut amb 13 equips i 260 llicències. La temporada fins a 5 equips van pujar de categoria, i 3 d'ells com a campions de lliga. Carles Fité entrevista el president del CE Llinars, Jordi Vidal; el coordinador general, Manel Viale; i l'expresident, exjugador i exentrenador, Jaume Girabent. I a més a més, us oferim els resums dels partits més destacats del cap de setmana.</desc>
-    <length units="seconds">1815</length>
-    <episode-num system="onscreen">181</episode-num>
-    <category lang="ca">ESPORTS</category>
-    <category lang="ca">ESPECIALS</category>
+  <programme start="20261028102111 +0100" stop="20261028111029 +0100" channel="esport3">
+    <title lang="ca">Arrelats</title>
+    <sub-title lang="ca">Mateo Valero</sub-title>
+    <length units="seconds">2958</length>
+    <episode-num system="onscreen">8</episode-num>
+    <category lang="ca">DIVULGACIÓ</category>
+    <category lang="ca">ALTRES</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
+    <subtitles type="teletext"/>
     <previously-shown/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/2/4/1698432480342.jpg"/>
   </programme>
   <channel id="sx3">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20261028023150 +0100" stop="20261028025317 +0100" channel="sx3">
-    <title lang="ca">Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
-    <sub-title lang="ca">Burla</sub-title>
-    <desc lang="ca">Quan per fi sembla que la Marinette està a punt de tenir una cita normal amb l'Adrien, comença a patir uns atacs de pànic molt estranys. No entén per què li passa. A més, comença a posar en perill la relació amb el noi que estima. El seu malestar emocional la podria convertir en l'objectiu perfecte pel Monarca. I si l'explicació del que li passa es trobés en el seu propi passat? Quan la Marinette encara no era la Marinette que coneixem avui dia?</desc>
-    <length units="seconds">1287</length>
-    <episode-num system="onscreen">118</episode-num>
-    <category lang="ca">FICCIÓ</category>
-    <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
+  <programme start="20261028082939 +0100" stop="20261028083429 +0100" channel="sx3">
+    <title lang="ca">Titó</title>
+    <sub-title lang="ca">Cançons de tardor amb en Titó</sub-title>
+    <desc lang="ca">Som a la tardor! És època de cantar en Marrameu torra castanyes i de ballar la Castanyera! Us hi apunteu amb en Titó?</desc>
+    <length units="seconds">290</length>
+    <episode-num system="onscreen">187</episode-num>
+    <category lang="ca">ENTRETENIMENT</category>
+    <category lang="ca">ALTRES</category>
     <rating>
       <value>INFANTIL</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20261028025317 +0100" stop="20261028031335 +0100" channel="sx3">
-    <title lang="ca">Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
-    <sub-title lang="ca">Intuïció</sub-title>
-    <desc lang="ca">El Monarca té molt mala sort amb el poder de la intuïció. O bé el Lucky Charm de Ladybug s'adapta sempre a cada situació, o bé l'imprevisible Gat Noir ho espatlla tot a l'últim segon. Però quan Tecnologies Tsurugi decideixen provar el seu nou avió espacial, Monarca pensa que és una ocasió única per tenir una segona oportunitat de veritat. Està disposat a fer el que calgui per aprofitar-la i intentar apoderar-se dels prodigis.</desc>
-    <length units="seconds">1218</length>
-    <episode-num system="onscreen">119</episode-num>
-    <category lang="ca">FICCIÓ</category>
-    <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
+  <programme start="20261028083429 +0100" stop="20261028084707 +0100" channel="sx3">
+    <title lang="ca">A jugar! Amb en Titó i els Fa la la</title>
+    <sub-title lang="ca">A jugar amb castanyes</sub-title>
+    <desc lang="ca">En Titó i els Fa La La ho tenen tot a punt per celebrar la Castanyada, fins que... uns fantasmes entremaliats fan desaparèixer les castanyes i els panellets. Aconseguiran recuperar-los a temps per a la festa?</desc>
+    <length units="seconds">758</length>
+    <episode-num system="onscreen">41</episode-num>
+    <category lang="ca">ENTRETENIMENT</category>
+    <category lang="ca">ALTRES</category>
     <rating>
       <value>INFANTIL</value>
     </rating>
     <subtitles type="teletext"/>
-    <previously-shown/>
   </programme>
   <channel id="c33">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20261028023217 +0100" stop="20261028025850 +0100" channel="c33">
-    <title lang="ca">Els dies clau</title>
-    <sub-title lang="ca">19 de juny de 1987: l'atemptat d'Hipercor</sub-title>
-    <length units="seconds">1593</length>
-    <episode-num system="onscreen">1</episode-num>
-    <category lang="ca">DIVULGACIÓ</category>
-    <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
+  <programme start="20261028081407 +0100" stop="20261028090420 +0100" channel="c33">
+    <title lang="ca">Gent de món</title>
+    <sub-title lang="ca">Iran (1a part)</sub-title>
+    <desc lang="ca">Heu caminat mai per les muralles d'un castell de sorra gegant?Heu menjat panellets a l'ombra d'un arbre tan vell com Moisès?Heu vist com es pon el sol sobre la plaça més gran del món?Us heu fotografiat amb els soldats de l'exèrcit més temut del planeta?Si la resposta a totes aquestes preguntes és no, prepareu-vos perquè avui visitem una de les potències de l'eix del mal, un dels països amb més mala premsa del món. Ara teniu l'oportunitat de descobrir algunes veritats sobre un dels estats més temuts i, alhora, desconeguts i sorprenents del món. Avui viatgem a l'Iran!</desc>
+    <length units="seconds">3013</length>
+    <episode-num system="onscreen">9</episode-num>
+    <category lang="ca">ENTRETENIMENT</category>
+    <category lang="ca">ALTRES</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20261028025850 +0100" stop="20261028032535 +0100" channel="c33">
-    <title lang="ca">Els dies clau</title>
-    <sub-title lang="ca">27 de gener 1993: apareixen assassinades les nenes d'Alcàsser</sub-title>
-    <desc lang="ca">El cas de crònica negra més famós de la història de la televisió ens permet reflexionar sobre el sensacionalisme a la televisió i com ha anat evolucionant el tractament dels successos. És l'època del 'Quién sabe dónde' i de Nieves Herrero, que van explotar el cas. Veïns d'Alcàsser que van patir la pressió mediàtica, periodistes com Paco Lobatón o crítics de televisió com Ferran Monegal recorden el cas que va commocionar tot un país. </desc>
-    <length units="seconds">1605</length>
-    <episode-num system="onscreen">2</episode-num>
-    <category lang="ca">DIVULGACIÓ</category>
-    <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
+  <programme start="20261028090420 +0100" stop="20261028093020 +0100" channel="c33">
+    <title lang="ca">Animals arquitectes</title>
+    <sub-title lang="ca">Eva Franch</sub-title>
+    <desc lang="ca">En aquest capítol conclusiu que planteja si cal construir més o no i de quina manera podem créixer en un context d'emergència climàtica.  Com sabeu, soc una arquitecta que va decidir no construir. I és que l'arquitectura va molt més enllà de dissenyar i construir edificis. L'arquitectura és cultura, pensament. Reflexionar, experimentar. Donar resposta als reptes de present i futur. Formo part d'una generació d'arquitectes que en acabar la carrera va topar de front amb els efectes de la bombolla immobiliària i l'especulació. I amb els deliris de l'arquitectura de l'espectacle i els arquitectes estrella, que feien edificis faraònics, fora de lloc i de pressupost, sense tenir en compte les necessitats reals de la gent. Per sort, som moltíssims els que no hem volgut formar part d'això. És francament esperançador veure com molts joves arquitectes estan apostant per una arquitectura més conscient i innovadora, amb les persones i el planeta al centre, com hem comprovat a Animals arquitectes.  'En el meu cas, no construeixo per ètica -perquè no volia construir de qualsevol manera- i perquè m'apassiona la vessant cultural de l'arquitectura. La teoria, la investigació i la divulgació. I evidentment no soc l'única!'L'Eva Franch és una arquitecta, comissària i professora de renom internacional que, venint del Delta de l'Ebre, ha acabat dirigint centres de prestigi com l'AA de Londres, Storefront for Art and Architecture a Nova York o el Festival Model Barcelona. Amb ella, assegudes enmig d'unes muscleres, parlem de totes aquestes qüestions, del nostre territori i del futur que ens agradaria imaginar. Amb la voluntat de transmetre que l'arquitectura no és només els edificis que veiem pel carrer; és ciutat, societat, natura, cultura. Una manera més d'entendre i canviar el món.  </desc>
+    <length units="seconds">1560</length>
+    <episode-num system="onscreen">8</episode-num>
+    <category lang="ca">ENTRETENIMENT</category>
+    <category lang="ca">ALTRES</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/1/6/1698653096861.jpg"/>
   </programme>
   <channel id="oca1">
     <display-name>OCA1</display-name>
