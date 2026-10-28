@@ -3,23 +3,10 @@
   <channel id="tvi">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20261027234633 +0100" stop="20261028010811 +0100" channel="tvi">
-    <title lang="ca">Nits Sense ficció</title>
-    <sub-title lang="ca">Desperta, Sèrbia! La revolta dels estudiants</sub-title>
-    <desc lang="ca">En un moment en què arreu d'Occident la joventut oscil·la entre l'apatia política i l'alimentació de l'auge del populisme i l'extrema dreta, a Sèrbia passa quelcom inesperat: els estudiants lluiten per la democràcia i els drets humans.L'ensorrament de l'estació de tren de Novi Sad, que va causar 16 morts i va destapar la corrupció institucional endèmica, juntament amb la repressió contra estudiants universitaris i ha encès la flama d'un moviment sense precedents. El que neix com una protesta pels morts es converteix en la vaga estudiantil més llarga de la història europea contemporània.Els estudiants ocupen universitats i inicien marxes pacífiques arreu del país, posant contra les cordes el govern d'Aleksandar Vu?i?. Però aquest moviment que vol ser pacífic s'enfronta a grans reptes i preguntes: es pot fer una revolució no violenta al segle XXI? Es pot resistir a la repressió d'un estat corrupte? Pot una societat serbia marcada per la por i sotmesa a un president ultranacionalista &amp;mdash;antic ministre de Slobodan Miloševi?&amp;mdash; despertar i reclamar la democràcia?Per què a Europa gairebé no se'n parla? Quins interessos amagats hi té la UE i el món? És possible sostenir un moviment assembleari, sense líders visibles? Pot Sèrbia deixar enrere el fantasma de les guerres balcàniques i l'ultranacionalisme per avançar cap a una societat plural, diversa i democràtica?Punt de No retorn ha estat l'únic mitjà que ha tingut accés a la Universitat d'arts dramàtiques de Belgrad, on ha sorgit el moviment i s'ha liderat la protesta. Amb accés exclusiu al cor del moviment universitari, aquest documental s'endinsa en la lluita d'una nova generació, mostrant les seves victòries, contradiccions, reptes i la batalla d'idees que podria definir no només el futur de Sèrbia, sinó també el d'una Europa en crisi.</desc>
-    <length units="seconds">4898</length>
-    <episode-num system="onscreen">12</episode-num>
-    <category lang="ca">DIVULGACIÓ</category>
-    <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
-    <rating>
-      <value>PÚBLIC ADULT</value>
-    </rating>
-    <previously-shown/>
-  </programme>
-  <programme start="20261028010811 +0100" stop="20261028025517 +0100" channel="tvi">
+  <programme start="20261028010813 +0100" stop="20261028030000 +0100" channel="tvi">
     <title lang="ca">Mésnit</title>
     <desc lang="ca">El 'Mésnit' arriba a la desena temporada, amb Marina Romero al capdavant de l'espai i amb la voluntat de continuar sent un centre de debat d'idees i d'anàlisi de l'activitat política.</desc>
-    <length units="seconds">6426</length>
+    <length units="seconds">6707</length>
     <episode-num system="onscreen">2188</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">DEBAT</category>
@@ -27,27 +14,41 @@
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <previously-shown/>
+  </programme>
+  <programme start="20261028030000 +0100" stop="20261028040000 +0100" channel="tvi">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="seconds">3600</length>
+    <episode-num system="onscreen">11548</episode-num>
+    <category lang="ca">ACTUALITAT</category>
+    <category lang="ca">INFORMATIU DIÀRI</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <previously-shown/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
   <channel id="324">
     <display-name>324</display-name>
   </channel>
-  <programme start="20261027220500 +0100" stop="20261028000000 +0100" channel="324">
-    <title lang="ca">Mésnit</title>
-    <desc lang="ca">El 'Mésnit' arriba a la desena temporada, amb Marina Romero al capdavant de l'espai i amb la voluntat de continuar sent un centre de debat d'idees i d'anàlisi de l'activitat política.</desc>
-    <length units="seconds">6900</length>
-    <episode-num system="onscreen">2188</episode-num>
+  <programme start="20261028010000 +0100" stop="20261028060000 +0100" channel="324">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="seconds">18000</length>
+    <episode-num system="onscreen">11548</episode-num>
     <category lang="ca">ACTUALITAT</category>
-    <category lang="ca">DEBAT</category>
+    <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <subtitles type="teletext"/>
+    <previously-shown/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
-  <programme start="20261028000000 +0100" stop="20261028003000 +0100" channel="324">
+  <programme start="20261028060000 +0100" stop="20261028080000 +0100" channel="324">
     <title lang="ca">Notícies 3CatInfo</title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">1800</length>
-    <episode-num system="onscreen">11547</episode-num>
+    <length units="seconds">7200</length>
+    <episode-num system="onscreen">11549</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
@@ -59,41 +60,44 @@
   <channel id="esport3">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20261027230000 +0100" stop="20261028003050 +0100" channel="esport3">
-    <title lang="ca">Onze</title>
-    <sub-title lang="ca">Or culer; Mbappé, conflicte diplomàtic i 'Onzeclopèdia'</sub-title>
-    <desc lang="ca">Sique Rodríguez, Fernando Polo, Irati Vidal i Ivan San Antonio comenten la gala de la pilota d'or i el conflicte que ha generat un comentari a les xarxes de Kylian Mbappé. En Fran Domènech presenta els titulars més curiosos de la premsa esportiva.</desc>
-    <length units="seconds">5450</length>
-    <episode-num system="onscreen">1276</episode-num>
+  <programme start="20261028022611 +0100" stop="20261028050108 +0100" channel="esport3">
+    <title lang="ca">Futbol</title>
+    <sub-title lang="ca">CE Manresa-UE Sant Andreu / Copa / 1a eliminatoria</sub-title>
+    <desc lang="ca">Primera eliminatòria, a un sol partit, de la fase final de la competició futbolística. Els del Bages juguen a la Segona Federació i els barcelonins, a la Primera Federació.</desc>
+    <length units="seconds">9297</length>
+    <episode-num system="onscreen">97</episode-num>
     <category lang="ca">ESPORTS</category>
-    <category lang="ca">MAGAZINE</category>
+    <category lang="ca">ESPECIALS</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/1/1/1688543515711.jpg"/>
+    <previously-shown/>
+    <icon src="https://img.3cat.cat/multimedia/jpg/9/0/1761575689109.jpg"/>
   </programme>
-  <programme start="20261028003050 +0100" stop="20261028004850 +0100" channel="esport3">
-    <title lang="ca">3CatInfo Esports</title>
-    <desc lang="ca">Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.</desc>
-    <length units="seconds">1080</length>
-    <episode-num system="onscreen">5551</episode-num>
+  <programme start="20261028050108 +0100" stop="20261028053123 +0100" channel="esport3">
+    <title lang="ca">La frontal</title>
+    <sub-title lang="ca">El CE Llinars compleix 110 anys</sub-title>
+    <desc lang="ca">El club vallesà, fundat el 1916, gaudeix d'un gran estat de salut amb 13 equips i 260 llicències. La temporada fins a 5 equips van pujar de categoria, i 3 d'ells com a campions de lliga. Carles Fité entrevista el president del CE Llinars, Jordi Vidal; el coordinador general, Manel Viale; i l'expresident, exjugador i exentrenador, Jaume Girabent. I a més a més, us oferim els resums dels partits més destacats del cap de setmana.</desc>
+    <length units="seconds">1815</length>
+    <episode-num system="onscreen">181</episode-num>
     <category lang="ca">ESPORTS</category>
-    <category lang="ca">INFORMATIU DIÀRI</category>
+    <category lang="ca">ESPECIALS</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <icon src="https://img.ccma.cat/multimedia/jpg/9/7/1758888682179.jpg"/>
+    <previously-shown/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/2/4/1698432480342.jpg"/>
   </programme>
   <channel id="sx3">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20261027234733 +0100" stop="20261028000833 +0100" channel="sx3">
-    <title lang="ca">Els germans Kratt</title>
-    <sub-title lang="ca">Balenes i calamars</sub-title>
-    <desc lang="ca">Tot posant a prova l'amfisubmarí, l'últim invent de l'Aviva, en Chris i en Martin s'han trobat a les profunditats inexplorades de l'oceà, enmig d'una batalla entre una mare catxalot i un calamar gegant. Però arriba un moment que l'amfisubmarí ja no aguanta la pressió de l'aigua. És l'hora de treure els Vestits de Poder Animal i de poder gaudir d'aquesta batalla mai vista!</desc>
-    <length units="seconds">1260</length>
-    <episode-num system="onscreen">2</episode-num>
+  <programme start="20261028023150 +0100" stop="20261028025317 +0100" channel="sx3">
+    <title lang="ca">Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
+    <sub-title lang="ca">Burla</sub-title>
+    <desc lang="ca">Quan per fi sembla que la Marinette està a punt de tenir una cita normal amb l'Adrien, comença a patir uns atacs de pànic molt estranys. No entén per què li passa. A més, comença a posar en perill la relació amb el noi que estima. El seu malestar emocional la podria convertir en l'objectiu perfecte pel Monarca. I si l'explicació del que li passa es trobés en el seu propi passat? Quan la Marinette encara no era la Marinette que coneixem avui dia?</desc>
+    <length units="seconds">1287</length>
+    <episode-num system="onscreen">118</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
@@ -102,12 +106,12 @@
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20261028000833 +0100" stop="20261028002932 +0100" channel="sx3">
-    <title lang="ca">Els germans Kratt</title>
-    <sub-title lang="ca">El poble dels porcs formiguers</sub-title>
-    <desc lang="ca">Avui en Chris i en Martin descobriran el poble dels porcs formiguers, uns animals que costen molt de veure i que estan emparentats amb... els elefants?! A més, els coneixeran molt de prop! Sobretot en Chris! Un porc formiguer, tot fugint d'una hiena, se li ha amagat a la motxilla! Ara els tocarà tornar-lo al seu cau! Els hi acompanyes?!</desc>
-    <length units="seconds">1259</length>
-    <episode-num system="onscreen">3</episode-num>
+  <programme start="20261028025317 +0100" stop="20261028031335 +0100" channel="sx3">
+    <title lang="ca">Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
+    <sub-title lang="ca">Intuïció</sub-title>
+    <desc lang="ca">El Monarca té molt mala sort amb el poder de la intuïció. O bé el Lucky Charm de Ladybug s'adapta sempre a cada situació, o bé l'imprevisible Gat Noir ho espatlla tot a l'últim segon. Però quan Tecnologies Tsurugi decideixen provar el seu nou avió espacial, Monarca pensa que és una ocasió única per tenir una segona oportunitat de veritat. Està disposat a fer el que calgui per aprofitar-la i intentar apoderar-se dels prodigis.</desc>
+    <length units="seconds">1218</length>
+    <episode-num system="onscreen">119</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
@@ -119,43 +123,10 @@
   <channel id="c33">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20261027225336 +0100" stop="20261028001752 +0100" channel="c33">
-    <title lang="ca">Pel·lícula</title>
-    <sub-title lang="ca">Bruc</sub-title>
-    <desc lang="ca">BRUC (bruc, 2011) Producció: Ikiru Films, Mesfilms inversions, Bruc-Laurion amb producció associada de Televisió de Catalunya, 2011Director: Daniel BenmayorGuió: Jordi Gasull i Patzi Amercua segons una història original de Jordi GasullDirector de fotografia: Juanmi AzpirozMúsica: Xavier CapellasIntèrprets: Juan José Ballesta (Bruc) Vicent Perez (Maraval), Santi Millán (De la Mata), Astrid Bergès-Frisbey (Glòria), Nicolas Giraud (Nouaille), Moussa Maaskri (Attab), Jérôme Le Banner (Baraton) i Francesc Albiol (Dr. Ballart)Quan la màquina de guerra més perfecta de tota la història descobreix que la seva primera derrota es deu a un jove rebel, Napoleó envia a sis mercenaris que han lluita en mil i unes batalles amb una sola missió: tallar-li el cap. Després d'assassinar als seus éssers estimats, el grup de mercenaris es disposa a buscar al jove en els indrets més màgics de la sagrada muntanya de Montserrat. El noi, al que anomenen Bruc pel lloc de la batalla, haurà de lluitar sol per sobreviure i venjar la seva família. Es converteix així en un símbol de llibertat i esperança per al seu país, el qual descobreix en ell a l'heroi que va aconseguir derrotar a l'exèrcit invencible de Napoleó Bonaparte.</desc>
-    <credits>
-      <writer>Jordi Gasull</writer>
-      <actor>Juan José Ballesta (Bruc) Vicent Perez (Maraval)</actor>
-      <actor>Santi Millán (De la Mata)</actor>
-      <actor>Astrid Bergès-Frisbey (Glòria)</actor>
-      <actor>Nicolas Giraud (Nouaille)</actor>
-      <actor>Moussa Maaskri (Attab)</actor>
-      <actor>Jérôme Le Banner (Baraton)</actor>
-      <actor>Francesc Albiol (Dr. Ballart)Quan la màquina de guerra més perfecta de tota la història descobreix que la seva primera derrota es deu a un jove rebel</actor>
-      <actor>Napoleó envia a sis mercenaris que han lluita en mil</actor>
-      <actor>unes batalles amb una sola missió: tallar-li el cap. Després d'assassinar als seus éssers estimats</actor>
-      <actor>el grup de mercenaris es disposa a buscar al jove en els indrets més màgics de la sagrada muntanya de Montserrat. El noi</actor>
-      <actor>al que anomenen Bruc pel lloc de la batalla</actor>
-      <actor>haurà de lluitar sol per sobreviure</actor>
-      <actor>venjar la seva família. Es converteix així en un símbol de llibertat</actor>
-      <actor>esperança per al seu país</actor>
-      <actor>el qual descobreix en ell a l'heroi que va aconseguir derrotar a l'exèrcit invencible de Napoleó Bonaparte.</actor>
-    </credits>
-    <length units="seconds">5056</length>
-    <episode-num system="onscreen">1</episode-num>
-    <category lang="ca">FICCIÓ</category>
-    <category lang="ca">PEL·LÍCULA / TELEFILM</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <subtitles type="teletext"/>
-    <previously-shown/>
-    <icon src="https://img.3cat.cat/multimedia/jpg/6/0/1757527576606.jpg"/>
-  </programme>
-  <programme start="20261028001752 +0100" stop="20261028013251 +0100" channel="c33">
-    <title lang="ca">El cas dels catalans</title>
-    <sub-title lang="ca">El cas dels catalans</sub-title>
-    <length units="seconds">4499</length>
+  <programme start="20261028023217 +0100" stop="20261028025850 +0100" channel="c33">
+    <title lang="ca">Els dies clau</title>
+    <sub-title lang="ca">19 de juny de 1987: l'atemptat d'Hipercor</sub-title>
+    <length units="seconds">1593</length>
     <episode-num system="onscreen">1</episode-num>
     <category lang="ca">DIVULGACIÓ</category>
     <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
@@ -164,7 +135,20 @@
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
-    <icon src="https://img.3cat.cat/multimedia/jpg/2/4/1788500402242.jpg"/>
+  </programme>
+  <programme start="20261028025850 +0100" stop="20261028032535 +0100" channel="c33">
+    <title lang="ca">Els dies clau</title>
+    <sub-title lang="ca">27 de gener 1993: apareixen assassinades les nenes d'Alcàsser</sub-title>
+    <desc lang="ca">El cas de crònica negra més famós de la història de la televisió ens permet reflexionar sobre el sensacionalisme a la televisió i com ha anat evolucionant el tractament dels successos. És l'època del 'Quién sabe dónde' i de Nieves Herrero, que van explotar el cas. Veïns d'Alcàsser que van patir la pressió mediàtica, periodistes com Paco Lobatón o crítics de televisió com Ferran Monegal recorden el cas que va commocionar tot un país. </desc>
+    <length units="seconds">1605</length>
+    <episode-num system="onscreen">2</episode-num>
+    <category lang="ca">DIVULGACIÓ</category>
+    <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <subtitles type="teletext"/>
+    <previously-shown/>
   </programme>
   <channel id="oca1">
     <display-name>OCA1</display-name>
