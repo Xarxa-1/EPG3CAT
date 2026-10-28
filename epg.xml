@@ -3,68 +3,120 @@
   <channel id="tvi">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20261028080011 +0100" stop="20261028103000 +0100" channel="tvi">
-    <title lang="ca">Matins</title>
+  <programme start="20261028142945 +0100" stop="20261028152937 +0100" channel="tvi">
+    <title lang="ca">Telenotícies migdia</title>
     <desc lang="ca">Sense Descripció</desc>
-    <length units="seconds">8989</length>
-    <episode-num system="onscreen">4701</episode-num>
+    <length units="seconds">3592</length>
+    <episode-num system="onscreen">7372</episode-num>
   </programme>
-  <programme start="20261028103000 +0100" stop="20261028135500 +0100" channel="tvi">
-    <title lang="ca">Tot es mou</title>
+  <programme start="20261028152937 +0100" stop="20261028155050 +0100" channel="tvi">
+    <title lang="ca">Cuines</title>
+    <sub-title lang="ca">- Sopa de peix i marisc</sub-title>
     <desc lang="ca">Sense Descripció</desc>
-    <length units="seconds">12300</length>
-    <episode-num system="onscreen">1838</episode-num>
+    <length units="seconds">1273</length>
+    <episode-num system="onscreen">2478</episode-num>
   </programme>
   <channel id="324">
     <display-name>324</display-name>
   </channel>
-  <programme start="20261028080000 +0100" stop="20261028103000 +0100" channel="324">
-    <title lang="ca">Matins</title>
-    <desc lang="ca">'Matins' és un dels puntals informatius de TV3. El programa matinal dona les claus del dia que comença, explica les notícies que han passat aportant-ne el context per entendre-les i analitza amb veus acreditades l'actualitat més propera i la d'arreu del món. 'Matins' comença a les 8 del matí, de dilluns a divendres, i està presentat per Ariadna Oltra.</desc>
-    <length units="seconds">9000</length>
-    <episode-num system="onscreen">4701</episode-num>
+  <programme start="20261028143000 +0100" stop="20261028153000 +0100" channel="324">
+    <title lang="ca">Telenotícies migdia</title>
+    <length units="seconds">3600</length>
+    <episode-num system="onscreen">7372</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <icon src="https://img.ccma.cat/multimedia/jpg/2/0/1758040151402.jpg"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/5/4/1758025766345.jpg"/>
   </programme>
-  <programme start="20261028103000 +0100" stop="20261028120000 +0100" channel="324">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">5400</length>
-    <episode-num system="onscreen">11550</episode-num>
-    <category lang="ca">ACTUALITAT</category>
-    <category lang="ca">INFORMATIU DIÀRI</category>
+  <programme start="20261028153000 +0100" stop="20261028154500 +0100" channel="324">
+    <title lang="ca">Cuines</title>
+    <sub-title lang="ca">Sopa de peix i marisc</sub-title>
+    <desc lang="ca">Tirem del receptari de l'àvia de la Gessamí per fer una sopa de peix contundent i saborosa. Fem una sopa de peix i marisc que combinarà tradició i modernor.</desc>
+    <length units="seconds">900</length>
+    <episode-num system="onscreen">2478</episode-num>
+    <category lang="ca">DIVULGACIÓ</category>
+    <category lang="ca">CUINA</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/2/5/1653464509252.jpg"/>
   </programme>
   <channel id="esport3">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20261028074531 +0100" stop="20261028102111 +0100" channel="esport3">
-    <title lang="ca">Futbol</title>
-    <sub-title lang="ca">CE Manresa-UE Sant Andreu / Copa / 1a eliminatoria</sub-title>
-    <desc lang="ca">Primera eliminatòria, a un sol partit, de la fase final de la competició futbolística. Els del Bages juguen a la Segona Federació i els barcelonins, a la Primera Federació.</desc>
-    <length units="seconds">9340</length>
-    <episode-num system="onscreen">97</episode-num>
+  <programme start="20261028150309 +0100" stop="20261028152904 +0100" channel="esport3">
+    <title lang="ca">E3</title>
+    <sub-title lang="ca">T2xC3 - El Delta de l'Ebre Nord</sub-title>
+    <desc lang="ca">Acompanya l'aventurer Rai Puig en la seva travessa en caiac per la costa catalana. Aquesta vegada recorrerà els municipis de l'Ametlla de Mar, el Perelló, l'Ampolla i Deltebre, explorant un tram de costa de cales i coves amagades, les rústiques muscleres del Delta, i també, la singular punta del Fangar. Tot plegat, vivint diverses experiències i conversat amb tota mena de persones vinculades al mar i al territori. </desc>
+    <length units="seconds">1555</length>
+    <episode-num system="onscreen">2163</episode-num>
     <category lang="ca">ESPORTS</category>
-    <category lang="ca">ESPECIALS</category>
+    <category lang="ca">REPORTATGES</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
+    <subtitles type="teletext"/>
     <previously-shown/>
-    <icon src="https://img.3cat.cat/multimedia/jpg/9/0/1761575689109.jpg"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/9/1/1719825714219.jpg"/>
   </programme>
-  <programme start="20261028102111 +0100" stop="20261028111029 +0100" channel="esport3">
-    <title lang="ca">Arrelats</title>
-    <sub-title lang="ca">Mateo Valero</sub-title>
-    <length units="seconds">2958</length>
-    <episode-num system="onscreen">8</episode-num>
+  <programme start="20261028152904 +0100" stop="20261028155538 +0100" channel="esport3">
+    <title lang="ca">E3</title>
+    <sub-title lang="ca">T2xC4 - El Delta de l'Ebre Sud</sub-title>
+    <desc lang="ca">Acompanya l'aventurer Rai Puig en la seva travessa en caiac per la costa catalana. Aquesta vegada recorrerà els municipis d'Amposta, Deltebre, Sant Jaume d'Enveja, la Ràpita i les Cases d'Alcanar, explorant el riu Ebre, la reserva de la Punta de la Banya, o també, l'interessant Badia dels Alfacs, i sempre, conversant amb tota mena de persones vinculades amb el mar o el territori.</desc>
+    <length units="seconds">1594</length>
+    <episode-num system="onscreen">2164</episode-num>
+    <category lang="ca">ESPORTS</category>
+    <category lang="ca">REPORTATGES</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <subtitles type="teletext"/>
+    <previously-shown/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/9/1/1719825714219.jpg"/>
+  </programme>
+  <channel id="sx3">
+    <display-name>SX3</display-name>
+  </channel>
+  <programme start="20261028150800 +0100" stop="20261028152953 +0100" channel="sx3">
+    <title lang="ca">Bola de drac Z</title>
+    <sub-title lang="ca">El monstre Bu es transforma en bomba i explota</sub-title>
+    <desc lang="ca">Conscient que serà incapaç d'eliminar en Son Gohan, en Bu es transforma en bomba i s'autodestrueix per intentar liquidar el seu rival. Després de comprovar que l'explosió no li serveix de res, el monstre Bu prepara una trampa fent veure que perd l'interès en en Son Gohan i demana a en Son Goten i a en Trunks que es tornin a fusionar.</desc>
+    <length units="seconds">1313</length>
+    <episode-num system="onscreen">264</episode-num>
+    <category lang="ca">FICCIÓ</category>
+    <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
+    <rating>
+      <value>JUVENIL</value>
+    </rating>
+    <subtitles type="teletext"/>
+    <previously-shown/>
+  </programme>
+  <programme start="20261028152953 +0100" stop="20261028155124 +0100" channel="sx3">
+    <title lang="ca">Henry Danger</title>
+    <sub-title lang="ca">Dits verds</sub-title>
+    <desc lang="ca">Una misteriosa malaltia creada per Schwoz s'escampa entre Henry i els seus amics, obligant-los a quedar-se confinats mentre busquen una cura.</desc>
+    <length units="seconds">1291</length>
+    <episode-num system="onscreen">55</episode-num>
+    <category lang="ca">FICCIÓ</category>
+    <category lang="ca">SÈRIE DRAMÀTICA</category>
+    <rating>
+      <value>INFANTIL</value>
+    </rating>
+    <subtitles type="teletext"/>
+    <previously-shown/>
+  </programme>
+  <channel id="c33">
+    <display-name>C33</display-name>
+  </channel>
+  <programme start="20261028144747 +0100" stop="20261028153413 +0100" channel="c33">
+    <title lang="ca">La Renaixença</title>
+    <sub-title lang="ca">La capa</sub-title>
+    <desc lang="ca">Sabeu que la capa que porta Superman a l'última pel·lícula l'ha fet una empresa catalana? Només per això ja creiem just i necessari dedicar aquest capítol a la capa. De Catalunya a Hollywood només hi ha 50 metres de tela vermella. Abans la gent també portava capa, però no per volar, sinó per abrigar-se. Parlem amb la Judit Mascó, la primera supermodel catalana, que ens explica el que més por li feia durant les desfilades. I sortim a passejar l'Indi fins al 2010, quan es van comprar dues pizzes per 10.000 bitcoins.</desc>
+    <length units="seconds">2786</length>
+    <episode-num system="onscreen">66</episode-num>
     <category lang="ca">DIVULGACIÓ</category>
     <category lang="ca">ALTRES</category>
     <rating>
@@ -72,59 +124,13 @@
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/3/3/1756148014833.jpg"/>
   </programme>
-  <channel id="sx3">
-    <display-name>SX3</display-name>
-  </channel>
-  <programme start="20261028082939 +0100" stop="20261028083429 +0100" channel="sx3">
-    <title lang="ca">Titó</title>
-    <sub-title lang="ca">Cançons de tardor amb en Titó</sub-title>
-    <desc lang="ca">Som a la tardor! És època de cantar en Marrameu torra castanyes i de ballar la Castanyera! Us hi apunteu amb en Titó?</desc>
-    <length units="seconds">290</length>
-    <episode-num system="onscreen">187</episode-num>
-    <category lang="ca">ENTRETENIMENT</category>
-    <category lang="ca">ALTRES</category>
-    <rating>
-      <value>INFANTIL</value>
-    </rating>
-    <subtitles type="teletext"/>
-    <previously-shown/>
-  </programme>
-  <programme start="20261028083429 +0100" stop="20261028084707 +0100" channel="sx3">
-    <title lang="ca">A jugar! Amb en Titó i els Fa la la</title>
-    <sub-title lang="ca">A jugar amb castanyes</sub-title>
-    <desc lang="ca">En Titó i els Fa La La ho tenen tot a punt per celebrar la Castanyada, fins que... uns fantasmes entremaliats fan desaparèixer les castanyes i els panellets. Aconseguiran recuperar-los a temps per a la festa?</desc>
-    <length units="seconds">758</length>
-    <episode-num system="onscreen">41</episode-num>
-    <category lang="ca">ENTRETENIMENT</category>
-    <category lang="ca">ALTRES</category>
-    <rating>
-      <value>INFANTIL</value>
-    </rating>
-    <subtitles type="teletext"/>
-  </programme>
-  <channel id="c33">
-    <display-name>C33</display-name>
-  </channel>
-  <programme start="20261028081407 +0100" stop="20261028090420 +0100" channel="c33">
-    <title lang="ca">Gent de món</title>
-    <sub-title lang="ca">Iran (1a part)</sub-title>
-    <desc lang="ca">Heu caminat mai per les muralles d'un castell de sorra gegant?Heu menjat panellets a l'ombra d'un arbre tan vell com Moisès?Heu vist com es pon el sol sobre la plaça més gran del món?Us heu fotografiat amb els soldats de l'exèrcit més temut del planeta?Si la resposta a totes aquestes preguntes és no, prepareu-vos perquè avui visitem una de les potències de l'eix del mal, un dels països amb més mala premsa del món. Ara teniu l'oportunitat de descobrir algunes veritats sobre un dels estats més temuts i, alhora, desconeguts i sorprenents del món. Avui viatgem a l'Iran!</desc>
-    <length units="seconds">3013</length>
-    <episode-num system="onscreen">9</episode-num>
-    <category lang="ca">ENTRETENIMENT</category>
-    <category lang="ca">ALTRES</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <subtitles type="teletext"/>
-    <previously-shown/>
-  </programme>
-  <programme start="20261028090420 +0100" stop="20261028093020 +0100" channel="c33">
-    <title lang="ca">Animals arquitectes</title>
-    <sub-title lang="ca">Eva Franch</sub-title>
-    <desc lang="ca">En aquest capítol conclusiu que planteja si cal construir més o no i de quina manera podem créixer en un context d'emergència climàtica.  Com sabeu, soc una arquitecta que va decidir no construir. I és que l'arquitectura va molt més enllà de dissenyar i construir edificis. L'arquitectura és cultura, pensament. Reflexionar, experimentar. Donar resposta als reptes de present i futur. Formo part d'una generació d'arquitectes que en acabar la carrera va topar de front amb els efectes de la bombolla immobiliària i l'especulació. I amb els deliris de l'arquitectura de l'espectacle i els arquitectes estrella, que feien edificis faraònics, fora de lloc i de pressupost, sense tenir en compte les necessitats reals de la gent. Per sort, som moltíssims els que no hem volgut formar part d'això. És francament esperançador veure com molts joves arquitectes estan apostant per una arquitectura més conscient i innovadora, amb les persones i el planeta al centre, com hem comprovat a Animals arquitectes.  'En el meu cas, no construeixo per ètica -perquè no volia construir de qualsevol manera- i perquè m'apassiona la vessant cultural de l'arquitectura. La teoria, la investigació i la divulgació. I evidentment no soc l'única!'L'Eva Franch és una arquitecta, comissària i professora de renom internacional que, venint del Delta de l'Ebre, ha acabat dirigint centres de prestigi com l'AA de Londres, Storefront for Art and Architecture a Nova York o el Festival Model Barcelona. Amb ella, assegudes enmig d'unes muscleres, parlem de totes aquestes qüestions, del nostre territori i del futur que ens agradaria imaginar. Amb la voluntat de transmetre que l'arquitectura no és només els edificis que veiem pel carrer; és ciutat, societat, natura, cultura. Una manera més d'entendre i canviar el món.  </desc>
-    <length units="seconds">1560</length>
+  <programme start="20261028153413 +0100" stop="20261028161350 +0100" channel="c33">
+    <title lang="ca">Això no és una cançó</title>
+    <sub-title lang="ca">Qualsevol nit pot sortir el sol</sub-title>
+    <desc lang="ca">Això no és una cançó T1Sinopsi capítol 2: Qualsevol nit pot sortir el sol</desc>
+    <length units="seconds">2377</length>
     <episode-num system="onscreen">8</episode-num>
     <category lang="ca">ENTRETENIMENT</category>
     <category lang="ca">ALTRES</category>
@@ -133,7 +139,6 @@
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/1/6/1698653096861.jpg"/>
   </programme>
   <channel id="oca1">
     <display-name>OCA1</display-name>
