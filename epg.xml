@@ -3,49 +3,55 @@
   <channel id="tvi">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20261029080012 +0100" stop="20261029103000 +0100" channel="tvi">
-    <title lang="ca">Matins</title>
-    <desc lang="ca">'Matins' és un dels puntals informatius de TV3. El programa matinal dona les claus del dia que comença, explica les notícies que han passat aportant-ne el context per entendre-les i analitza amb veus acreditades l'actualitat més propera i la d'arreu del món. 'Matins' comença a les 8 del matí, de dilluns a divendres, i està presentat per Ariadna Oltra.</desc>
-    <length units="seconds">8988</length>
-    <episode-num system="onscreen">4702</episode-num>
-    <category lang="ca">ACTUALITAT</category>
-    <category lang="ca">INFORMATIU DIÀRI</category>
+  <programme start="20261029164505 +0100" stop="20261029172134 +0100" channel="tvi">
+    <title lang="ca">La Riera</title>
+    <desc lang="ca">Una coneguda de la Nora es presenta a can Riera. És una noia que coneix tots els seus secrets. Al restaurant hi ha una emergència que posa a prova la vàlua d'en Lluís.I la Lídia està rabiosa amb en Claudi per culpa del negoci que li ha 'robat'.</desc>
+    <length units="seconds">2189</length>
+    <episode-num system="onscreen">152</episode-num>
+    <category lang="ca">FICCIÓ</category>
+    <category lang="ca">TELENOVEL·LA</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <icon src="https://img.ccma.cat/multimedia/jpg/2/0/1758040151402.jpg"/>
+    <subtitles type="teletext"/>
+    <previously-shown/>
   </programme>
-  <programme start="20261029103000 +0100" stop="20261029135500 +0100" channel="tvi">
-    <title lang="ca">Tot es mou</title>
-    <desc lang="ca">El programa presentat per Helena Garcia Melero s'emet de dilluns a divendres, de 10.30 a 13.55. Un magazín d'actualitat que busca informar, analitzar i debatre sobre temes que marquen l'actualitat social, econòmica i cultural del dia, amb una àmplia presència en directe dels reporters i reporteres, repartits per tot Catalunya. A més, el 'Tot es mou' compta amb seccions diàries de gastronomia (amb els principals cuiners i cuineres del país), successos, economia, mobilitat, temes mèdics i de tecnologia, entre d'altres.</desc>
-    <length units="seconds">12300</length>
-    <episode-num system="onscreen">1839</episode-num>
-    <category lang="ca">ACTUALITAT</category>
-    <category lang="ca">MAGAZINE</category>
+  <programme start="20261029172134 +0100" stop="20261029173154 +0100" channel="tvi">
+    <title lang="ca">CUINES CATALUNYA</title>
+    <sub-title lang="ca">Miniquiche de carbassa</sub-title>
+    <desc lang="ca">El problema de menjar quiche lorraine és que és tan bona que tothom es baralla per aconseguir-ne l'últim tall. En farem d'individuals, en unes cassoletes, per contribuir a la pau familiar. Cuinem miniquiche de carbassa.</desc>
+    <length units="seconds">620</length>
+    <episode-num system="onscreen">1859</episode-num>
+    <category lang="ca">DIVULGACIÓ</category>
+    <category lang="ca">CUINA</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
+    <subtitles type="teletext"/>
+    <previously-shown/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/2/5/1653464509252.jpg"/>
   </programme>
   <channel id="324">
     <display-name>324</display-name>
   </channel>
-  <programme start="20261029080000 +0100" stop="20261029103000 +0100" channel="324">
-    <title lang="ca">Matins</title>
-    <desc lang="ca">'Matins' és un dels puntals informatius de TV3. El programa matinal dona les claus del dia que comença, explica les notícies que han passat aportant-ne el context per entendre-les i analitza amb veus acreditades l'actualitat més propera i la d'arreu del món. 'Matins' comença a les 8 del matí, de dilluns a divendres, i està presentat per Ariadna Oltra.</desc>
-    <length units="seconds">9000</length>
-    <episode-num system="onscreen">4702</episode-num>
+  <programme start="20261029160000 +0100" stop="20261029170000 +0100" channel="324">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="seconds">3600</length>
+    <episode-num system="onscreen">11561</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <icon src="https://img.ccma.cat/multimedia/jpg/2/0/1758040151402.jpg"/>
+    <subtitles type="teletext"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
-  <programme start="20261029103000 +0100" stop="20261029120000 +0100" channel="324">
+  <programme start="20261029170000 +0100" stop="20261029180000 +0100" channel="324">
     <title lang="ca">Notícies 3CatInfo</title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">5400</length>
-    <episode-num system="onscreen">11559</episode-num>
+    <length units="seconds">3600</length>
+    <episode-num system="onscreen">11562</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
@@ -57,43 +63,43 @@
   <channel id="esport3">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20261029093704 +0100" stop="20261029102529 +0100" channel="esport3">
-    <title lang="ca">Arrelats</title>
-    <sub-title lang="ca">Margarita Nuez</sub-title>
-    <desc lang="ca">La dissenyadora de moda internacional, coneguda per haver vestit la reialesa espanyola, confessa per primera vegada que el seu pare era un republicà que va ser afusellat per ordre de Franco. Se sent catalana i aragonesa a parts iguals. A Barcelona exposa els seus vestits als museus i a Calanda toca el timbal per Setmana Santa.</desc>
-    <length units="seconds">2905</length>
-    <episode-num system="onscreen">9</episode-num>
-    <category lang="ca">DIVULGACIÓ</category>
-    <category lang="ca">ALTRES</category>
+  <programme start="20261029165419 +0100" stop="20261029174519 +0100" channel="esport3">
+    <title lang="ca">Futbol sala</title>
+    <sub-title lang="ca">Barça-Semey / Champions League / J2 Main Round</sub-title>
+    <desc lang="ca">Després de la victòria en el debut, 6-1 contra el Minerva, els blaugranes s'enfronten ara a l'equip del Kazakhstan que va fundar-se fa només 3 anys.</desc>
+    <length units="seconds">3060</length>
+    <episode-num system="onscreen">13</episode-num>
+    <category lang="ca">ESPORTS</category>
+    <category lang="ca">RETRANSMISSIONS ESPORTS</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <subtitles type="teletext"/>
     <previously-shown/>
+    <icon src="https://img.3cat.cat/multimedia/jpg/8/3/1793099713438.jpg"/>
   </programme>
-  <programme start="20261029102529 +0100" stop="20261029105309 +0100" channel="esport3">
-    <title lang="ca">GR Barcelona</title>
-    <sub-title lang="ca">El tresor d'en Serrallonga</sub-title>
-    <desc lang="ca">Vall de Sau Collsacabra (GR2, GR2.2)Ruta de 2 jornades i d'uns 25 km a peu.Seguirem el rastre del Serrallonga per la Vall de Sau Collsacabra, la zona per on diuen es va amagar i va guardar un valuós tresor. A Vilanova de Sau, entrarem a l'obrador de l'herbolari de Sau. Navegarem fins a la torre del campanar del pantà a bord d'una llanxa a pedals. Pujarem els cingles de Tavertet i farem nit en una casa rural del poble, on cuinarem un fabulós estofat de Senglar i farem nit. L'endemà travessarem la cinglera fins a Rupit, on buscarem el tresor amagat amb l'ajut d'uns nens de la vila. I acabarem al Salt de Sallent, segurament un dels indrets més increïbles de Catalunya.</desc>
-    <length units="seconds">1660</length>
-    <episode-num system="onscreen">22</episode-num>
-    <category lang="ca">DIVULGACIÓ</category>
-    <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
+  <programme start="20261029174519 +0100" stop="20261029180953 +0100" channel="esport3">
+    <title lang="ca">Sala de Premsa</title>
+    <sub-title lang="ca">Sergio Garcia / Prèvia Vila.real-Espanyol / J11</sub-title>
+    <desc lang="ca">Esport3 t'ofereix les compareixences de dirigents, jugadors i entrenadors dels equips catalans davant els mitjans de comunicació.</desc>
+    <length units="seconds">1474</length>
+    <episode-num system="onscreen">746</episode-num>
+    <category lang="ca">ESPORTS</category>
+    <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
-    <previously-shown/>
+    <icon src="https://img.3cat.cat/multimedia/jpg/7/4/1778665728847.jpg"/>
   </programme>
   <channel id="sx3">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20261029094354 +0100" stop="20261029100520 +0100" channel="sx3">
-    <title lang="ca">Les Tres Bessones</title>
-    <sub-title lang="ca">Les tres bessones i la balalaika de cristall</sub-title>
-    <desc lang="ca">Les tres bessones apareixen a la terminal d'arribades de l'aeroport de Moscou. Allà viuen aventures amb en Sadko, un noi molt eixerit que toca la balalaica i de qui es faran amigues. També coneixeran, pels volts del llac Il'men', el Rei de les Aigües. La Bruixa Avorrida, mentrestant, intentarà que les nenes no arribin al feliç desenllaç del conte.</desc>
-    <length units="seconds">1286</length>
-    <episode-num system="onscreen">62</episode-num>
+  <programme start="20261029165252 +0100" stop="20261029170253 +0100" channel="sx3">
+    <title lang="ca">El Mic i els seus amics</title>
+    <sub-title lang="ca">La cançó del petit mariner</sub-title>
+    <desc lang="ca">'El Mic i els seus amics' presenta les històries del Mic agrupades en capítols. Les aventures dels titelles s'acompanyen de petits vídeos protagonitzats per nens i nenes, i separadors amb imatges de natura. És una sèrie pensada perquè els súpers més petits gaudeixin encara més! El Mic i els seus amics es troben cada dia per cantar cançons, explicar contes, dir endevinalles... Viuen en un lloc on hi ha turons, arbres, flors i papallones.Tot està a punt per jugar. Només cal fer... MAC, MEC, MIC, TOCA'T EL MELIC!</desc>
+    <length units="seconds">601</length>
+    <episode-num system="onscreen">558</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
@@ -102,12 +108,12 @@
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20261029100520 +0100" stop="20261029102623 +0100" channel="sx3">
-    <title lang="ca">Les Tres Bessones</title>
-    <sub-title lang="ca">L'aneguet lleig</sub-title>
-    <desc lang="ca">L' aneguet lleig porta les tres bessones a l'amagatall on es troben els animals capturats. Gràcies a l'astúcia i la valentia de l'aneguet lleig, les tres heroines el faran servir d'esquer per atrapar els caçadors d'animals i la Bruixa Avorrida.</desc>
-    <length units="seconds">1263</length>
-    <episode-num system="onscreen">17</episode-num>
+  <programme start="20261029170253 +0100" stop="20261029171426 +0100" channel="sx3">
+    <title lang="ca">El Mic i els seus amics</title>
+    <sub-title lang="ca">Tardor: bolets, castanyes i cargols</sub-title>
+    <desc lang="ca">El Mic i els seus amics juguen a fer un teatret de la tardor. Amb elements que han trobat per casa, cadascú s'ha fet una disfressa.</desc>
+    <length units="seconds">693</length>
+    <episode-num system="onscreen">421</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
@@ -119,28 +125,28 @@
   <channel id="c33">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20261029094141 +0100" stop="20261029100524 +0100" channel="c33">
-    <title lang="ca">Marcians</title>
-    <sub-title lang="ca">Contacte amb tacte</sub-title>
-    <desc lang="ca">La coordinació d'intimitat és una de les feines més noves -i segurament més controvertides- de l'audiovisual i les arts escèniques. Hi ha creadors que la rebutgen, perquè creuen que limita la seva llibertat d'acció. Molts altres la incorporen al seus processos, perquè permet establir un marc clar i consensuat de relació entre tots els participants en les escenes de més exposició o vulnerabilitat íntima. Acompanyem dues coordinadores d'intimitat en la seva feina, per veure com contribueixen a marcar límits i a trobar solucions a escenes compromeses, sense interferir en les visions dels creadors. Amb Lola Clavo, entrem als assajos de l'obra de teatre 'Dirty Crusty', de la companyia La Virgueria, que s'estrena el 9 de desembre a la Sala Atrium, de Barcelona; i, també, assistim a una formació per a futurs directors de cinema, a l'ESCAC. A l'Aida de Sàrraga l'acompanyem en les trobades preparatòries que manté amb Sandra Reina i Luana Rocha, codirectora i protagonista, respectivament, de la sèrie 'Sense filtres', que s'acaba d'estrenar a la plataforma 3Cat. I, també, conversem amb David Trueba, amb qui ha treballat recentment a la pel·lícula 'Siempre es invierno', que ha superat els cent mil espectadors, des que es va estrenar a les sales a principis del mes de novembre. </desc>
-    <length units="seconds">1423</length>
-    <episode-num system="onscreen">67</episode-num>
-    <category lang="ca">ENTRETENIMENT</category>
-    <category lang="ca">ALTRES</category>
+  <programme start="20261029162842 +0100" stop="20261029171500 +0100" channel="c33">
+    <title lang="ca">No pot ser!</title>
+    <sub-title lang="ca">Hackeig a la democràcia</sub-title>
+    <desc lang="ca">Nit de debat electoral, televisió encesa i mòbil a la mà. Acompanyat de Josep Maria Ganyet, Jordi Basté fa un seguiment del fact-cheking en directe que l'equip de Maldita.es realitza incansablement. En època de Fake News, parlem de qui les genera i què pretenen amb l'especialista Marta Peirano. Amb el consultor polític Xavier Tomàs descobrirem algunes de les pràctiques més fosques dels partits polítics a Facebook i veurem com l'estratègia de Cambridge Analytics amb el Brexit i Trump ha creuat fronteres. A Los Angeles parlarem amb el Dr. Robert Epstein, un dels especialistes més crítics a Google i encaparrat en demostrar com el gegant tecnològic manipula la democràcia. Per acabar, visitarem l'Agència Imagina per fer una granja de bots a un tuitaire ben actiu, Jair Domínguez.</desc>
+    <length units="seconds">2778</length>
+    <episode-num system="onscreen">19</episode-num>
+    <category lang="ca">DIVULGACIÓ</category>
+    <category lang="ca">MAGAZINE ESPECIALITZAT</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20261029100524 +0100" stop="20261029102525 +0100" channel="c33">
-    <title lang="ca">Marcians</title>
-    <sub-title lang="ca">La meva Rodoreda</sub-title>
-    <desc lang="ca">El 2025 no se celebra cap efemèride al voltant de la vida i obra de Mercè Rodoreda, però ningú no ho diria si ens fixem en el munt de propostes que en els darrers temps la recuperen i reivindiquen. Al capdavant de la companyia de dansa La Veronal, Marcos Morau va adaptar-ne 'La mort i la primavera' per inaugurar la temporada del Teatre Nacional de Catalunya. Ell dialoga amb el duet L'arannà, format per Anna Sala i Lara Magrinyà, sobre com han adaptat els textos de l'autora, concretament 'Viatges i flors', per convertir-los en música. També dialoguen sobre la seva escriptora de referència l'actriu i directora Sílvia Munt, que ultima una pel·lícula sobre Mercè Rodoreda, i Neus Penalba, assagista, professora universitària i crítica literària i especialista en l'obra de Rodoreda que ha comissariat la gran exposició 'Rodoreda, un bosc' al CCCB de Barcelona. És una mostra que aprofundeix en l'imaginari literari rodoredià, que en reivindica la contemporaneïtat i que vol trencar els clixés generats al seu voltant que consideraven cursi la seva narrativa. </desc>
-    <length units="seconds">1201</length>
-    <episode-num system="onscreen">68</episode-num>
-    <category lang="ca">ENTRETENIMENT</category>
-    <category lang="ca">ALTRES</category>
+  <programme start="20261029171500 +0100" stop="20261029174111 +0100" channel="c33">
+    <title lang="ca">Quèquicom</title>
+    <sub-title lang="ca">Tot es rodó en el tenis</sub-title>
+    <desc lang="ca">Què te a veure el tenis amb els babilonis i la maizena? Quin campió és capaç de fer girar la pilota a 5.000 revolucions per minut? I com és que han de ser peludes, les pilotes de tenis? El tenista Galo Blanco, que va arribar a ser el 40 del món, ens ensenyarà a donar diversos efectes a la bola. Tot té a veure amb la física aeronàutica i en Daniel Crespo, de la Universitat Politècnica de Catalunya ens ho explicarà amb detall.L'altre factor és la raqueta, que ha de transmetre la força a la pilota sense retrucs. Per aconseguir-ho, els fabricants apliquen la nanotecnologia i fins i tot hi posen fluids no newtonians. Una maizena densa és un fluid d'aquest tipus: la seva viscositat varia segons la pressió i la temperatura. Hi ha raquetes que tenen un fluid dins del marc que es posa més rígid com més fort és l'impacte. Amb l'ajuda de la tecnologia, jugadors com Andy Rodick aconsegueixen fer serveis a 246 km/h!</desc>
+    <length units="seconds">1571</length>
+    <episode-num system="onscreen">109</episode-num>
+    <category lang="ca">DIVULGACIÓ</category>
+    <category lang="ca">MAGAZINE ESPECIALITZAT</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
