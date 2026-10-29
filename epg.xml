@@ -3,121 +3,108 @@
   <channel id="tvi">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20261029164505 +0100" stop="20261029172134 +0100" channel="tvi">
-    <title lang="ca">La Riera</title>
-    <desc lang="ca">Una coneguda de la Nora es presenta a can Riera. És una noia que coneix tots els seus secrets. Al restaurant hi ha una emergència que posa a prova la vàlua d'en Lluís.I la Lídia està rabiosa amb en Claudi per culpa del negoci que li ha 'robat'.</desc>
-    <length units="seconds">2189</length>
-    <episode-num system="onscreen">152</episode-num>
-    <category lang="ca">FICCIÓ</category>
-    <category lang="ca">TELENOVEL·LA</category>
+  <programme start="20261029210000 +0100" stop="20261029220012 +0100" channel="tvi">
+    <title lang="ca">Telenotícies vespre</title>
+    <length units="seconds">3612</length>
+    <episode-num system="onscreen">7372</episode-num>
+    <category lang="ca">ACTUALITAT</category>
+    <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <subtitles type="teletext"/>
-    <previously-shown/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/7/2/1758026176427.jpg"/>
   </programme>
-  <programme start="20261029172134 +0100" stop="20261029173154 +0100" channel="tvi">
-    <title lang="ca">CUINES CATALUNYA</title>
-    <sub-title lang="ca">Miniquiche de carbassa</sub-title>
-    <desc lang="ca">El problema de menjar quiche lorraine és que és tan bona que tothom es baralla per aconseguir-ne l'últim tall. En farem d'individuals, en unes cassoletes, per contribuir a la pau familiar. Cuinem miniquiche de carbassa.</desc>
-    <length units="seconds">620</length>
-    <episode-num system="onscreen">1859</episode-num>
-    <category lang="ca">DIVULGACIÓ</category>
-    <category lang="ca">CUINA</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <subtitles type="teletext"/>
-    <previously-shown/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/2/5/1653464509252.jpg"/>
+  <programme start="20261029220012 +0100" stop="20261029220847 +0100" channel="tvi">
+    <title lang="ca">Descobrint l'èxit</title>
+    <sub-title lang="ca">- El primer supermercat</sub-title>
+    <desc lang="ca">Sense Descripció</desc>
+    <length units="seconds">515</length>
+    <episode-num system="onscreen">8</episode-num>
   </programme>
   <channel id="324">
     <display-name>324</display-name>
   </channel>
-  <programme start="20261029160000 +0100" stop="20261029170000 +0100" channel="324">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">3600</length>
-    <episode-num system="onscreen">11561</episode-num>
+  <programme start="20261029210000 +0100" stop="20261029220500 +0100" channel="324">
+    <title lang="ca">Telenotícies vespre</title>
+    <length units="seconds">3900</length>
+    <episode-num system="onscreen">7372</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <subtitles type="teletext"/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/7/2/1758026176427.jpg"/>
   </programme>
-  <programme start="20261029170000 +0100" stop="20261029180000 +0100" channel="324">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">3600</length>
-    <episode-num system="onscreen">11562</episode-num>
+  <programme start="20261029220500 +0100" stop="20261030000000 +0100" channel="324">
+    <title lang="ca">Mésnit</title>
+    <desc lang="ca">El 'Mésnit' arriba a la desena temporada, amb Marina Romero al capdavant de l'espai i amb la voluntat de continuar sent un centre de debat d'idees i d'anàlisi de l'activitat política.</desc>
+    <length units="seconds">6900</length>
+    <episode-num system="onscreen">2189</episode-num>
     <category lang="ca">ACTUALITAT</category>
-    <category lang="ca">INFORMATIU DIÀRI</category>
+    <category lang="ca">DEBAT</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
+    <previously-shown/>
   </programme>
   <channel id="esport3">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20261029165419 +0100" stop="20261029174519 +0100" channel="esport3">
-    <title lang="ca">Futbol sala</title>
-    <sub-title lang="ca">Barça-Semey / Champions League / J2 Main Round</sub-title>
-    <desc lang="ca">Després de la victòria en el debut, 6-1 contra el Minerva, els blaugranes s'enfronten ara a l'equip del Kazakhstan que va fundar-se fa només 3 anys.</desc>
-    <length units="seconds">3060</length>
-    <episode-num system="onscreen">13</episode-num>
+  <programme start="20261029204032 +0100" stop="20261029230000 +0100" channel="esport3">
+    <title lang="ca">Futbol</title>
+    <sub-title lang="ca">AE Prat-Ath. Club / Copa / 1a eliminatoria</sub-title>
+    <desc lang="ca">Jornada històrica per al conjunt pratenc que disputa aquesta eliminatòria, a un sol partit, contra un rival de la Primera Divisió. Els del Baix Llobregat juguen a la Lliga Elit, la sisena categoria del futbol estatal. El partit forma part de la primera ronda a la fase final de la Copa del Rei.</desc>
+    <length units="seconds">8368</length>
+    <episode-num system="onscreen">98</episode-num>
     <category lang="ca">ESPORTS</category>
-    <category lang="ca">RETRANSMISSIONS ESPORTS</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <previously-shown/>
-    <icon src="https://img.3cat.cat/multimedia/jpg/8/3/1793099713438.jpg"/>
-  </programme>
-  <programme start="20261029174519 +0100" stop="20261029180953 +0100" channel="esport3">
-    <title lang="ca">Sala de Premsa</title>
-    <sub-title lang="ca">Sergio Garcia / Prèvia Vila.real-Espanyol / J11</sub-title>
-    <desc lang="ca">Esport3 t'ofereix les compareixences de dirigents, jugadors i entrenadors dels equips catalans davant els mitjans de comunicació.</desc>
-    <length units="seconds">1474</length>
-    <episode-num system="onscreen">746</episode-num>
-    <category lang="ca">ESPORTS</category>
-    <category lang="ca">INFORMATIU DIÀRI</category>
+    <category lang="ca">ESPECIALS</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
-    <icon src="https://img.3cat.cat/multimedia/jpg/7/4/1778665728847.jpg"/>
+    <icon src="https://img.3cat.cat/multimedia/jpg/9/0/1761575689109.jpg"/>
+  </programme>
+  <programme start="20261029230000 +0100" stop="20261030003100 +0100" channel="esport3">
+    <title lang="ca">Onze</title>
+    <desc lang="ca">Les nits d'Esport3 tornen a concentrar tota la informació, les millors opinions i l'entreteniment necessari per acabar el dia al voltant de l'actualitat esportiva. Un xou cada nit per acabar informat, saber cap on va l'actualitat i mantenir sempre un somriure.</desc>
+    <length units="seconds">5460</length>
+    <episode-num system="onscreen">1278</episode-num>
+    <category lang="ca">ESPORTS</category>
+    <category lang="ca">MAGAZINE</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <subtitles type="teletext"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/1/1/1688543515711.jpg"/>
   </programme>
   <channel id="sx3">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20261029165252 +0100" stop="20261029170253 +0100" channel="sx3">
-    <title lang="ca">El Mic i els seus amics</title>
-    <sub-title lang="ca">La cançó del petit mariner</sub-title>
-    <desc lang="ca">'El Mic i els seus amics' presenta les històries del Mic agrupades en capítols. Les aventures dels titelles s'acompanyen de petits vídeos protagonitzats per nens i nenes, i separadors amb imatges de natura. És una sèrie pensada perquè els súpers més petits gaudeixin encara més! El Mic i els seus amics es troben cada dia per cantar cançons, explicar contes, dir endevinalles... Viuen en un lloc on hi ha turons, arbres, flors i papallones.Tot està a punt per jugar. Només cal fer... MAC, MEC, MIC, TOCA'T EL MELIC!</desc>
-    <length units="seconds">601</length>
-    <episode-num system="onscreen">558</episode-num>
+  <programme start="20261029214015 +0100" stop="20261029215908 +0100" channel="sx3">
+    <title lang="ca">Bola de drac Z</title>
+    <sub-title lang="ca">Quin és aquest estrany poder que posseeixen les arracades del déu Neptú?</sub-title>
+    <desc lang="ca">En Son Goku arriba a la Terra just a temps per salvar el planeta de la destrucció total, però quan està a punt de fusionar-se amb el seu fill gràcies a les arracades del déu Neptú, el monstre Bu l'absorbeix. Ara, l'únic que queda a la Terra per fusionar-se amb en Son Goku és ni més ni menys que el senyor Satan!</desc>
+    <length units="seconds">1133</length>
+    <episode-num system="onscreen">267</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
-      <value>INFANTIL</value>
+      <value>JUVENIL</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20261029170253 +0100" stop="20261029171426 +0100" channel="sx3">
-    <title lang="ca">El Mic i els seus amics</title>
-    <sub-title lang="ca">Tardor: bolets, castanyes i cargols</sub-title>
-    <desc lang="ca">El Mic i els seus amics juguen a fer un teatret de la tardor. Amb elements que han trobat per casa, cadascú s'ha fet una disfressa.</desc>
-    <length units="seconds">693</length>
-    <episode-num system="onscreen">421</episode-num>
+  <programme start="20261029215908 +0100" stop="20261029221919 +0100" channel="sx3">
+    <title lang="ca">Bola de drac Z</title>
+    <sub-title lang="ca">S'acabaran fusionant en Son Goku i en Vegeta?</sub-title>
+    <desc lang="ca">Mentre continua lluitant amb el monstre Bu, en Son Goku es planteja si s'ha de fusionar amb el senyor Satan o amb en Dende, però aleshores arriba en Vegeta a la Terra i tot canvia. Seran capaços aquests dos eterns rivals de deixar de banda les seves diferències per crear el guerrer més fort de tots els temps?! Sembla que és l'única manera de salvar el planeta.</desc>
+    <length units="seconds">1211</length>
+    <episode-num system="onscreen">268</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
-      <value>INFANTIL</value>
+      <value>JUVENIL</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
@@ -125,37 +112,50 @@
   <channel id="c33">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20261029162842 +0100" stop="20261029171500 +0100" channel="c33">
-    <title lang="ca">No pot ser!</title>
-    <sub-title lang="ca">Hackeig a la democràcia</sub-title>
-    <desc lang="ca">Nit de debat electoral, televisió encesa i mòbil a la mà. Acompanyat de Josep Maria Ganyet, Jordi Basté fa un seguiment del fact-cheking en directe que l'equip de Maldita.es realitza incansablement. En època de Fake News, parlem de qui les genera i què pretenen amb l'especialista Marta Peirano. Amb el consultor polític Xavier Tomàs descobrirem algunes de les pràctiques més fosques dels partits polítics a Facebook i veurem com l'estratègia de Cambridge Analytics amb el Brexit i Trump ha creuat fronteres. A Los Angeles parlarem amb el Dr. Robert Epstein, un dels especialistes més crítics a Google i encaparrat en demostrar com el gegant tecnològic manipula la democràcia. Per acabar, visitarem l'Agència Imagina per fer una granja de bots a un tuitaire ben actiu, Jair Domínguez.</desc>
-    <length units="seconds">2778</length>
-    <episode-num system="onscreen">19</episode-num>
-    <category lang="ca">DIVULGACIÓ</category>
-    <category lang="ca">MAGAZINE ESPECIALITZAT</category>
+  <programme start="20261029213952 +0100" stop="20261029220219 +0100" channel="c33">
+    <title lang="ca">L'un per l'altre</title>
+    <sub-title lang="ca">L'avi fatxa</sub-title>
+    <desc lang="ca">En una de les fotos antigues que hi ha penjades a l'Hostal, descobreixen que un dels homes té la cara esborrada. Aquest home era l'avi matern del Toni, algú de qui mai es parla a casa seva. Investigant i remenant les golfes el Toni descobreix que el seu avi va ser un home amb un passat fosc durant la guerra civil i odiat per gairebé tothom.</desc>
+    <length units="seconds">1347</length>
+    <episode-num system="onscreen">38</episode-num>
+    <category lang="ca">FICCIÓ</category>
+    <category lang="ca">SITCOM (COMÈDIA DE SITUACIÓ)</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20261029171500 +0100" stop="20261029174111 +0100" channel="c33">
-    <title lang="ca">Quèquicom</title>
-    <sub-title lang="ca">Tot es rodó en el tenis</sub-title>
-    <desc lang="ca">Què te a veure el tenis amb els babilonis i la maizena? Quin campió és capaç de fer girar la pilota a 5.000 revolucions per minut? I com és que han de ser peludes, les pilotes de tenis? El tenista Galo Blanco, que va arribar a ser el 40 del món, ens ensenyarà a donar diversos efectes a la bola. Tot té a veure amb la física aeronàutica i en Daniel Crespo, de la Universitat Politècnica de Catalunya ens ho explicarà amb detall.L'altre factor és la raqueta, que ha de transmetre la força a la pilota sense retrucs. Per aconseguir-ho, els fabricants apliquen la nanotecnologia i fins i tot hi posen fluids no newtonians. Una maizena densa és un fluid d'aquest tipus: la seva viscositat varia segons la pressió i la temperatura. Hi ha raquetes que tenen un fluid dins del marc que es posa més rígid com més fort és l'impacte. Amb l'ajuda de la tecnologia, jugadors com Andy Rodick aconsegueixen fer serveis a 246 km/h!</desc>
-    <length units="seconds">1571</length>
-    <episode-num system="onscreen">109</episode-num>
+  <programme start="20261029220219 +0100" stop="20261029225241 +0100" channel="c33">
+    <title lang="ca">La Renaixença</title>
+    <sub-title lang="ca">La bossa d'escombraries</sub-title>
+    <desc lang="ca">La bossa d'escombraries sembla un invent força ximple, però és que heu de pensar que abans la gent tirava la merda pel balcó! El carrer fotia goig! És clar que hi ha bosses d'escombraries (sentint-ho molt, les reciclables) que quan es comencen a omplir, ja s'esparraquen de sota. Voleu fer el favor de fer-les més fermes! Avui ens visita en Xavier Estrada, àrbitre de futbol, una de les professions més masoquistes que existeixen. Tanquem el programa passejant el gos per la batalla més inútil de tota la història militar europea.</desc>
+    <length units="seconds">3022</length>
+    <episode-num system="onscreen">262</episode-num>
     <category lang="ca">DIVULGACIÓ</category>
-    <category lang="ca">MAGAZINE ESPECIALITZAT</category>
+    <category lang="ca">ALTRES</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
-    <previously-shown/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/3/3/1756148014833.jpg"/>
   </programme>
   <channel id="oca1">
     <display-name>OCA1</display-name>
   </channel>
+  <programme start="20261029203000 +0100" stop="20261029222955 +0100" channel="oca1">
+    <title lang="ca">Handbol</title>
+    <sub-title lang="ca">- Aarhus-Barça / EHF Champions / J6</sub-title>
+    <desc lang="ca">El Barça vol tancar la primera fase de grups amb ple de victòries. Els danesos, que van perdre al Palau Blaugrana (39-28) es juguen la continuïtat a la gran competició europea.</desc>
+    <length units="seconds">7195</length>
+    <episode-num system="onscreen">427</episode-num>
+    <category lang="ca">ESPORTS</category>
+    <category lang="ca">RETRANSMISSIONS ESPORTS</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1729614070941.jpg"/>
+  </programme>
   <channel id="oca2">
     <display-name>OCA2</display-name>
   </channel>
