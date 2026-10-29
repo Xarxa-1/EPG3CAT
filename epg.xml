@@ -3,40 +3,49 @@
   <channel id="tvi">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20261029000159 +0100" stop="20261029040159 +0100" channel="tvi">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <desc lang="ca">Sense Descripció</desc>
-    <length units="seconds">14400</length>
-    <episode-num system="onscreen">11557</episode-num>
-  </programme>
-  <programme start="20261029040159 +0100" stop="20261029044933 +0100" channel="tvi">
-    <title lang="ca">Cava de Blues</title>
-    <sub-title lang="ca">- Dani Nel·lo &amp; Mario Cobo</sub-title>
-    <desc lang="ca">Sense Descripció</desc>
-    <length units="seconds">2854</length>
-    <episode-num system="onscreen">7</episode-num>
-  </programme>
-  <channel id="324">
-    <display-name>324</display-name>
-  </channel>
-  <programme start="20261029010000 +0100" stop="20261029060000 +0100" channel="324">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">18000</length>
-    <episode-num system="onscreen">11557</episode-num>
+  <programme start="20261029080012 +0100" stop="20261029103000 +0100" channel="tvi">
+    <title lang="ca">Matins</title>
+    <desc lang="ca">'Matins' és un dels puntals informatius de TV3. El programa matinal dona les claus del dia que comença, explica les notícies que han passat aportant-ne el context per entendre-les i analitza amb veus acreditades l'actualitat més propera i la d'arreu del món. 'Matins' comença a les 8 del matí, de dilluns a divendres, i està presentat per Ariadna Oltra.</desc>
+    <length units="seconds">8988</length>
+    <episode-num system="onscreen">4702</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <previously-shown/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/2/0/1758040151402.jpg"/>
   </programme>
-  <programme start="20261029060000 +0100" stop="20261029080000 +0100" channel="324">
+  <programme start="20261029103000 +0100" stop="20261029135500 +0100" channel="tvi">
+    <title lang="ca">Tot es mou</title>
+    <desc lang="ca">El programa presentat per Helena Garcia Melero s'emet de dilluns a divendres, de 10.30 a 13.55. Un magazín d'actualitat que busca informar, analitzar i debatre sobre temes que marquen l'actualitat social, econòmica i cultural del dia, amb una àmplia presència en directe dels reporters i reporteres, repartits per tot Catalunya. A més, el 'Tot es mou' compta amb seccions diàries de gastronomia (amb els principals cuiners i cuineres del país), successos, economia, mobilitat, temes mèdics i de tecnologia, entre d'altres.</desc>
+    <length units="seconds">12300</length>
+    <episode-num system="onscreen">1839</episode-num>
+    <category lang="ca">ACTUALITAT</category>
+    <category lang="ca">MAGAZINE</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+  </programme>
+  <channel id="324">
+    <display-name>324</display-name>
+  </channel>
+  <programme start="20261029080000 +0100" stop="20261029103000 +0100" channel="324">
+    <title lang="ca">Matins</title>
+    <desc lang="ca">'Matins' és un dels puntals informatius de TV3. El programa matinal dona les claus del dia que comença, explica les notícies que han passat aportant-ne el context per entendre-les i analitza amb veus acreditades l'actualitat més propera i la d'arreu del món. 'Matins' comença a les 8 del matí, de dilluns a divendres, i està presentat per Ariadna Oltra.</desc>
+    <length units="seconds">9000</length>
+    <episode-num system="onscreen">4702</episode-num>
+    <category lang="ca">ACTUALITAT</category>
+    <category lang="ca">INFORMATIU DIÀRI</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <icon src="https://img.ccma.cat/multimedia/jpg/2/0/1758040151402.jpg"/>
+  </programme>
+  <programme start="20261029103000 +0100" stop="20261029120000 +0100" channel="324">
     <title lang="ca">Notícies 3CatInfo</title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">7200</length>
-    <episode-num system="onscreen">11558</episode-num>
+    <length units="seconds">5400</length>
+    <episode-num system="onscreen">11559</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
@@ -48,43 +57,43 @@
   <channel id="esport3">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20261029024005 +0100" stop="20261029040437 +0100" channel="esport3">
-    <title lang="ca">Futbol sala</title>
-    <sub-title lang="ca">Barça-Minerva / Champions League / J1 Main Round</sub-title>
-    <desc lang="ca">Els blaugranes s'estrenen a la ronda principal de la Champions que es disputa a Lucenec, Eslovàquia. El Barça s'enfronta a l'equip de Berna, el conjunt suís més destacat de futbol sala.</desc>
-    <length units="seconds">5072</length>
-    <episode-num system="onscreen">12</episode-num>
-    <category lang="ca">ESPORTS</category>
-    <category lang="ca">RETRANSMISSIONS ESPORTS</category>
+  <programme start="20261029093704 +0100" stop="20261029102529 +0100" channel="esport3">
+    <title lang="ca">Arrelats</title>
+    <sub-title lang="ca">Margarita Nuez</sub-title>
+    <desc lang="ca">La dissenyadora de moda internacional, coneguda per haver vestit la reialesa espanyola, confessa per primera vegada que el seu pare era un republicà que va ser afusellat per ordre de Franco. Se sent catalana i aragonesa a parts iguals. A Barcelona exposa els seus vestits als museus i a Calanda toca el timbal per Setmana Santa.</desc>
+    <length units="seconds">2905</length>
+    <episode-num system="onscreen">9</episode-num>
+    <category lang="ca">DIVULGACIÓ</category>
+    <category lang="ca">ALTRES</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
+    <subtitles type="teletext"/>
     <previously-shown/>
-    <icon src="https://img.3cat.cat/multimedia/jpg/8/3/1793099713438.jpg"/>
   </programme>
-  <programme start="20261029040437 +0100" stop="20261029060503 +0100" channel="esport3">
-    <title lang="ca">Futbol</title>
-    <sub-title lang="ca">Bayern de Múnic-Reial Madrid CF / Champions League / J3</sub-title>
-    <desc lang="ca">Les bavareses sumen 4 punts i són quartes a la classificació. Les madrilenyes encara no han guanyat cap partit i en tenen 2.</desc>
-    <length units="seconds">7226</length>
-    <episode-num system="onscreen">92</episode-num>
-    <category lang="ca">ESPORTS</category>
-    <category lang="ca">RETRANSMISSIONS ESPORTS</category>
+  <programme start="20261029102529 +0100" stop="20261029105309 +0100" channel="esport3">
+    <title lang="ca">GR Barcelona</title>
+    <sub-title lang="ca">El tresor d'en Serrallonga</sub-title>
+    <desc lang="ca">Vall de Sau Collsacabra (GR2, GR2.2)Ruta de 2 jornades i d'uns 25 km a peu.Seguirem el rastre del Serrallonga per la Vall de Sau Collsacabra, la zona per on diuen es va amagar i va guardar un valuós tresor. A Vilanova de Sau, entrarem a l'obrador de l'herbolari de Sau. Navegarem fins a la torre del campanar del pantà a bord d'una llanxa a pedals. Pujarem els cingles de Tavertet i farem nit en una casa rural del poble, on cuinarem un fabulós estofat de Senglar i farem nit. L'endemà travessarem la cinglera fins a Rupit, on buscarem el tresor amagat amb l'ajut d'uns nens de la vila. I acabarem al Salt de Sallent, segurament un dels indrets més increïbles de Catalunya.</desc>
+    <length units="seconds">1660</length>
+    <episode-num system="onscreen">22</episode-num>
+    <category lang="ca">DIVULGACIÓ</category>
+    <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
+    <subtitles type="teletext"/>
     <previously-shown/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/5/0/1702464930005.jpg"/>
   </programme>
   <channel id="sx3">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20261029034019 +0100" stop="20261029040221 +0100" channel="sx3">
-    <title lang="ca">Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
-    <sub-title lang="ca">Revolució</sub-title>
-    <desc lang="ca">La Chloé és més poderosa que mai i, gràcies a ella, el Monarca també. Ladybug i el Gat Noir exhibeixen els seus superpoders sense sospitar que acaben de caure en una trampa malvada. Pel que fa a la Marinette i l'Adrien, les seves vides estan a punt de canviar per sempre.</desc>
-    <length units="seconds">1322</length>
-    <episode-num system="onscreen">127</episode-num>
+  <programme start="20261029094354 +0100" stop="20261029100520 +0100" channel="sx3">
+    <title lang="ca">Les Tres Bessones</title>
+    <sub-title lang="ca">Les tres bessones i la balalaika de cristall</sub-title>
+    <desc lang="ca">Les tres bessones apareixen a la terminal d'arribades de l'aeroport de Moscou. Allà viuen aventures amb en Sadko, un noi molt eixerit que toca la balalaica i de qui es faran amigues. També coneixeran, pels volts del llac Il'men', el Rei de les Aigües. La Bruixa Avorrida, mentrestant, intentarà que les nenes no arribin al feliç desenllaç del conte.</desc>
+    <length units="seconds">1286</length>
+    <episode-num system="onscreen">62</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
@@ -93,12 +102,12 @@
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20261029040221 +0100" stop="20261029042408 +0100" channel="sx3">
-    <title lang="ca">Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
-    <sub-title lang="ca">Representació</sub-title>
-    <desc lang="ca">Quan l'Adrien desobeeix el seu pare per anar a buscar la Marinette, el Gabriel s'akumatitza a si mateix per anar a buscar el seu fill. Mentrestant, la Marinette està convençuda que l'Adrien la busca. Pensant-se que persegueix el noi que estima, descobrirà un secret que no s'hauria pogut imaginar mai.</desc>
-    <length units="seconds">1307</length>
-    <episode-num system="onscreen">128</episode-num>
+  <programme start="20261029100520 +0100" stop="20261029102623 +0100" channel="sx3">
+    <title lang="ca">Les Tres Bessones</title>
+    <sub-title lang="ca">L'aneguet lleig</sub-title>
+    <desc lang="ca">L' aneguet lleig porta les tres bessones a l'amagatall on es troben els animals capturats. Gràcies a l'astúcia i la valentia de l'aneguet lleig, les tres heroines el faran servir d'esquer per atrapar els caçadors d'animals i la Bruixa Avorrida.</desc>
+    <length units="seconds">1263</length>
+    <episode-num system="onscreen">17</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
@@ -110,35 +119,33 @@
   <channel id="c33">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20261029030440 +0100" stop="20261029034857 +0100" channel="c33">
-    <title lang="ca">El llenguado</title>
-    <sub-title lang="ca">El parlar de Barcelona i els noms de la natura</sub-title>
-    <desc lang="ca">En Guillem Albà intenta aclarir, amb l'ajut de Ramon Solsona, si hi ha o no hi ha un català propi de Barcelona ciutat: l'acompanyen poetes, rumberos, monologuistes i veïns emprenyats. La Yolanda Sey, mentrestant, es demana d'on surten els noms de la natura: núvols i boires, plantes, ocells i escarbats. I de regal, uns refranys.</desc>
-    <length units="seconds">2657</length>
-    <episode-num system="onscreen">3</episode-num>
-    <category lang="ca">DIVULGACIÓ</category>
-    <category lang="ca">Docu-Entreteniment</category>
+  <programme start="20261029094141 +0100" stop="20261029100524 +0100" channel="c33">
+    <title lang="ca">Marcians</title>
+    <sub-title lang="ca">Contacte amb tacte</sub-title>
+    <desc lang="ca">La coordinació d'intimitat és una de les feines més noves -i segurament més controvertides- de l'audiovisual i les arts escèniques. Hi ha creadors que la rebutgen, perquè creuen que limita la seva llibertat d'acció. Molts altres la incorporen al seus processos, perquè permet establir un marc clar i consensuat de relació entre tots els participants en les escenes de més exposició o vulnerabilitat íntima. Acompanyem dues coordinadores d'intimitat en la seva feina, per veure com contribueixen a marcar límits i a trobar solucions a escenes compromeses, sense interferir en les visions dels creadors. Amb Lola Clavo, entrem als assajos de l'obra de teatre 'Dirty Crusty', de la companyia La Virgueria, que s'estrena el 9 de desembre a la Sala Atrium, de Barcelona; i, també, assistim a una formació per a futurs directors de cinema, a l'ESCAC. A l'Aida de Sàrraga l'acompanyem en les trobades preparatòries que manté amb Sandra Reina i Luana Rocha, codirectora i protagonista, respectivament, de la sèrie 'Sense filtres', que s'acaba d'estrenar a la plataforma 3Cat. I, també, conversem amb David Trueba, amb qui ha treballat recentment a la pel·lícula 'Siempre es invierno', que ha superat els cent mil espectadors, des que es va estrenar a les sales a principis del mes de novembre. </desc>
+    <length units="seconds">1423</length>
+    <episode-num system="onscreen">67</episode-num>
+    <category lang="ca">ENTRETENIMENT</category>
+    <category lang="ca">ALTRES</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/7/3/1716530089437.jpg"/>
   </programme>
-  <programme start="20261029034857 +0100" stop="20261029043108 +0100" channel="c33">
-    <title lang="ca">El llenguado</title>
-    <sub-title lang="ca">Els insults i viatge al Solsonès</sub-title>
-    <desc lang="ca">Ajudat pel lingüista Pau Vidal, però també de la Natza Farré o l'Adrià Pujol, en Guillem Albà es pregunta si hi ha insults veritablement ofensius en català. Parlem d'insults sexistes, de correcció política i de com insultaven grecs i romans...i mentrestant, la Yolanda Sey viatja al Solsonès, a la ratlla que separa el català oriental del català occidental. </desc>
-    <length units="seconds">2531</length>
-    <episode-num system="onscreen">4</episode-num>
-    <category lang="ca">DIVULGACIÓ</category>
-    <category lang="ca">Docu-Entreteniment</category>
+  <programme start="20261029100524 +0100" stop="20261029102525 +0100" channel="c33">
+    <title lang="ca">Marcians</title>
+    <sub-title lang="ca">La meva Rodoreda</sub-title>
+    <desc lang="ca">El 2025 no se celebra cap efemèride al voltant de la vida i obra de Mercè Rodoreda, però ningú no ho diria si ens fixem en el munt de propostes que en els darrers temps la recuperen i reivindiquen. Al capdavant de la companyia de dansa La Veronal, Marcos Morau va adaptar-ne 'La mort i la primavera' per inaugurar la temporada del Teatre Nacional de Catalunya. Ell dialoga amb el duet L'arannà, format per Anna Sala i Lara Magrinyà, sobre com han adaptat els textos de l'autora, concretament 'Viatges i flors', per convertir-los en música. També dialoguen sobre la seva escriptora de referència l'actriu i directora Sílvia Munt, que ultima una pel·lícula sobre Mercè Rodoreda, i Neus Penalba, assagista, professora universitària i crítica literària i especialista en l'obra de Rodoreda que ha comissariat la gran exposició 'Rodoreda, un bosc' al CCCB de Barcelona. És una mostra que aprofundeix en l'imaginari literari rodoredià, que en reivindica la contemporaneïtat i que vol trencar els clixés generats al seu voltant que consideraven cursi la seva narrativa. </desc>
+    <length units="seconds">1201</length>
+    <episode-num system="onscreen">68</episode-num>
+    <category lang="ca">ENTRETENIMENT</category>
+    <category lang="ca">ALTRES</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/7/3/1716530089437.jpg"/>
   </programme>
   <channel id="oca1">
     <display-name>OCA1</display-name>
