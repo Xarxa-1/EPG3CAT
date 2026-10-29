@@ -19,18 +19,6 @@
   <channel id="324">
     <display-name>324</display-name>
   </channel>
-  <programme start="20261029003000 +0100" stop="20261029010000 +0100" channel="324">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">1800</length>
-    <episode-num system="onscreen">11557</episode-num>
-    <category lang="ca">ACTUALITAT</category>
-    <category lang="ca">INFORMATIU DIÀRI</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
-  </programme>
   <programme start="20261029010000 +0100" stop="20261029060000 +0100" channel="324">
     <title lang="ca">Notícies 3CatInfo</title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
@@ -44,45 +32,59 @@
     <previously-shown/>
     <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
-  <channel id="esport3">
-    <display-name>ESPORT3</display-name>
-  </channel>
-  <programme start="20261029003013 +0100" stop="20261029005012 +0100" channel="esport3">
-    <title lang="ca">3CatInfo Esports</title>
-    <desc lang="ca">Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.</desc>
-    <length units="seconds">1199</length>
-    <episode-num system="onscreen">5552</episode-num>
-    <category lang="ca">ESPORTS</category>
+  <programme start="20261029060000 +0100" stop="20261029080000 +0100" channel="324">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="seconds">7200</length>
+    <episode-num system="onscreen">11558</episode-num>
+    <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <icon src="https://img.ccma.cat/multimedia/jpg/9/7/1758888682179.jpg"/>
+    <subtitles type="teletext"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
-  <programme start="20261029005012 +0100" stop="20261029010621 +0100" channel="esport3">
-    <title lang="ca">Onze</title>
-    <sub-title lang="ca">Toca aixecar-se; 'El Colegiado' i 'El Predicador'</sub-title>
-    <desc lang="ca">Lluís Carrasco, Joan Poquí, Laia Tudel i Jordi Martí parlen sobre l'estat d'ànim blaugrana després de les dues derrotes en una setmana. En Joan Fàbregas repassa algunes accions polèmiques dels partits de copa i l'Òscar Pérez-Dolz predica els manaments del bon culer.</desc>
-    <length units="seconds">969</length>
-    <episode-num system="onscreen">1277</episode-num>
+  <channel id="esport3">
+    <display-name>ESPORT3</display-name>
+  </channel>
+  <programme start="20261029024005 +0100" stop="20261029040437 +0100" channel="esport3">
+    <title lang="ca">Futbol sala</title>
+    <sub-title lang="ca">Barça-Minerva / Champions League / J1 Main Round</sub-title>
+    <desc lang="ca">Els blaugranes s'estrenen a la ronda principal de la Champions que es disputa a Lucenec, Eslovàquia. El Barça s'enfronta a l'equip de Berna, el conjunt suís més destacat de futbol sala.</desc>
+    <length units="seconds">5072</length>
+    <episode-num system="onscreen">12</episode-num>
     <category lang="ca">ESPORTS</category>
-    <category lang="ca">MAGAZINE</category>
+    <category lang="ca">RETRANSMISSIONS ESPORTS</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <subtitles type="teletext"/>
     <previously-shown/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/1/1/1688543515711.jpg"/>
+    <icon src="https://img.3cat.cat/multimedia/jpg/8/3/1793099713438.jpg"/>
+  </programme>
+  <programme start="20261029040437 +0100" stop="20261029060503 +0100" channel="esport3">
+    <title lang="ca">Futbol</title>
+    <sub-title lang="ca">Bayern de Múnic-Reial Madrid CF / Champions League / J3</sub-title>
+    <desc lang="ca">Les bavareses sumen 4 punts i són quartes a la classificació. Les madrilenyes encara no han guanyat cap partit i en tenen 2.</desc>
+    <length units="seconds">7226</length>
+    <episode-num system="onscreen">92</episode-num>
+    <category lang="ca">ESPORTS</category>
+    <category lang="ca">RETRANSMISSIONS ESPORTS</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <previously-shown/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/5/0/1702464930005.jpg"/>
   </programme>
   <channel id="sx3">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20261029002957 +0100" stop="20261029005056 +0100" channel="sx3">
-    <title lang="ca">Els germans Kratt</title>
-    <sub-title lang="ca">El viatge del Papalloner XT</sub-title>
-    <desc lang="ca">L'Aviva acaba de construir el Papalloner XT, el vehicle que acompanyarà en Chris, en Martin i la Capitana Maxil·la a l'aventura més increïble que hagi viscut mai ningú, el viatge més llarg i més impressionant de tots els insectes de l'Amèrica del Nord: 4.800 quilòmetres fins a Mèxic! Però compte, que a mig camí es trobaran amb la malvada Donita Donata!</desc>
-    <length units="seconds">1259</length>
-    <episode-num system="onscreen">9</episode-num>
+  <programme start="20261029034019 +0100" stop="20261029040221 +0100" channel="sx3">
+    <title lang="ca">Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
+    <sub-title lang="ca">Revolució</sub-title>
+    <desc lang="ca">La Chloé és més poderosa que mai i, gràcies a ella, el Monarca també. Ladybug i el Gat Noir exhibeixen els seus superpoders sense sospitar que acaben de caure en una trampa malvada. Pel que fa a la Marinette i l'Adrien, les seves vides estan a punt de canviar per sempre.</desc>
+    <length units="seconds">1322</length>
+    <episode-num system="onscreen">127</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
@@ -91,12 +93,12 @@
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20261029005056 +0100" stop="20261029011216 +0100" channel="sx3">
-    <title lang="ca">Els germans Kratt</title>
-    <sub-title lang="ca">Els buscadors de mel</sub-title>
-    <desc lang="ca">Avui toca sortir d'aventura a descobrir quin és l'animal més dur i més ferotge de l'Àfrica. Però a punt d'emprendre el viatge, el detector de dolents d'en Koki ha interceptat un missatge del Gormand, el xef il·legal d'espècies amenaçades. Canvi de plans! Comença l'operació 'Salvem l'animal misteriós dels fogons'! Els hi acompanyes?!</desc>
-    <length units="seconds">1280</length>
-    <episode-num system="onscreen">10</episode-num>
+  <programme start="20261029040221 +0100" stop="20261029042408 +0100" channel="sx3">
+    <title lang="ca">Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
+    <sub-title lang="ca">Representació</sub-title>
+    <desc lang="ca">Quan l'Adrien desobeeix el seu pare per anar a buscar la Marinette, el Gabriel s'akumatitza a si mateix per anar a buscar el seu fill. Mentrestant, la Marinette està convençuda que l'Adrien la busca. Pensant-se que persegueix el noi que estima, descobrirà un secret que no s'hauria pogut imaginar mai.</desc>
+    <length units="seconds">1307</length>
+    <episode-num system="onscreen">128</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
@@ -108,63 +110,35 @@
   <channel id="c33">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20261028234905 +0100" stop="20261029013918 +0100" channel="c33">
-    <title lang="ca">Pel·lícula</title>
-    <sub-title lang="ca">Hotel Bombai</sub-title>
-    <desc lang="ca">HOTEL BOMBAI 'Hotel Mumbai'Direcció: Anthony MarasGuió: John Collee, Anthony MarasProducció: A Hamilton and Electric Pictures Production, American Entertainment Investors, Double Guess, Screen Australia, ScreenWest, South Australian Film Corporation, Thunder Road Pictures, Xeitgeist Entertainment GroupAny: 2018Durada: 125País: AustràliaMúsica: Volker BertelmannFotografia: Nick MatthewsIntèrprets: Armie Hammer, Dev Patel, Jason Isaacs, Nazanin Boniadi, Angus McLaren, Anupam Kher, Natasha Liu Bordizzo, Tilda Cobham-Hervey, Suhail Nayyar, Rodney Afif, Zenia Starr, Nagesh Bhonsle, Sachin Joab, Alex Pinder, Adithi Kalkunte, Gaurav Paswala, Ansuya Nathan, Yulian Shchukin, Abhiroy Singh, Devyani CmBombai, 2008. Els hostes de l'hotel Taj Mahal Palace viuen moments de terror. Un grup de terroristes pakistanesos envaeix el lloc i manté les persones com a ostatges durant 68 hores. Desesperats, un grup de funcionaris i hostes prenen coratge per provar de revertir la situació.</desc>
-    <credits>
-      <director>Anthony Maras</director>
-      <writer>John Collee</writer>
-      <writer>Anthony Maras</writer>
-      <actor>Armie Hammer</actor>
-      <actor>Dev Patel</actor>
-      <actor>Jason Isaacs</actor>
-      <actor>Nazanin Boniadi</actor>
-      <actor>Angus McLaren</actor>
-      <actor>Anupam Kher</actor>
-      <actor>Natasha Liu Bordizzo</actor>
-      <actor>Tilda Cobham-Hervey</actor>
-      <actor>Suhail Nayyar</actor>
-      <actor>Rodney Afif</actor>
-      <actor>Zenia Starr</actor>
-      <actor>Nagesh Bhonsle</actor>
-      <actor>Sachin Joab</actor>
-      <actor>Alex Pinder</actor>
-      <actor>Adithi Kalkunte</actor>
-      <actor>Gaurav Paswala</actor>
-      <actor>Ansuya Nathan</actor>
-      <actor>Yulian Shchukin</actor>
-      <actor>Abhiroy Singh</actor>
-      <actor>Devyani CmBombai</actor>
-      <actor>2008. Els hostes de l'hotel Taj Mahal Palace viuen moments de terror. Un grup de terroristes pakistanesos envaeix el lloc</actor>
-      <actor>manté les persones com a ostatges durant 68 hores. Desesperats</actor>
-      <actor>un grup de funcionaris</actor>
-      <actor>hostes prenen coratge per provar de revertir la situació.</actor>
-    </credits>
-    <length units="seconds">6613</length>
-    <episode-num system="onscreen">1</episode-num>
-    <category lang="ca">FICCIÓ</category>
-    <category lang="ca">PEL·LÍCULA / TELEFILM</category>
+  <programme start="20261029030440 +0100" stop="20261029034857 +0100" channel="c33">
+    <title lang="ca">El llenguado</title>
+    <sub-title lang="ca">El parlar de Barcelona i els noms de la natura</sub-title>
+    <desc lang="ca">En Guillem Albà intenta aclarir, amb l'ajut de Ramon Solsona, si hi ha o no hi ha un català propi de Barcelona ciutat: l'acompanyen poetes, rumberos, monologuistes i veïns emprenyats. La Yolanda Sey, mentrestant, es demana d'on surten els noms de la natura: núvols i boires, plantes, ocells i escarbats. I de regal, uns refranys.</desc>
+    <length units="seconds">2657</length>
+    <episode-num system="onscreen">3</episode-num>
+    <category lang="ca">DIVULGACIÓ</category>
+    <category lang="ca">Docu-Entreteniment</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
-    <icon src="https://img.3cat.cat/multimedia/jpg/2/6/1757512896962.jpg"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/7/3/1716530089437.jpg"/>
   </programme>
-  <programme start="20261029013918 +0100" stop="20261029020640 +0100" channel="c33">
-    <title lang="ca">3 DIES D'AGOST</title>
-    <sub-title lang="ca">La fàbrica d'explosius</sub-title>
-    <desc lang="ca">1r episodi: '16A: la fàbrica d'explosius' El primer episodi posa al dia les informacions que hi ha sobre la casa d'Alcanar, on els terroristes fabricaven els explosius, i que va esclatar la nit del 16 d'agost del 2017. Diversos analistes, criminòlegs i policies expliquen com es va formar la cèl·lula terrorista i com funciona el sistema de reclutament d'Estat Islàmic. </desc>
-    <length units="seconds">1642</length>
-    <episode-num system="onscreen">1</episode-num>
-    <category lang="ca">ACTUALITAT</category>
-    <category lang="ca">ESPECIALS INFORMATIUS</category>
+  <programme start="20261029034857 +0100" stop="20261029043108 +0100" channel="c33">
+    <title lang="ca">El llenguado</title>
+    <sub-title lang="ca">Els insults i viatge al Solsonès</sub-title>
+    <desc lang="ca">Ajudat pel lingüista Pau Vidal, però també de la Natza Farré o l'Adrià Pujol, en Guillem Albà es pregunta si hi ha insults veritablement ofensius en català. Parlem d'insults sexistes, de correcció política i de com insultaven grecs i romans...i mentrestant, la Yolanda Sey viatja al Solsonès, a la ratlla que separa el català oriental del català occidental. </desc>
+    <length units="seconds">2531</length>
+    <episode-num system="onscreen">4</episode-num>
+    <category lang="ca">DIVULGACIÓ</category>
+    <category lang="ca">Docu-Entreteniment</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/7/3/1716530089437.jpg"/>
   </programme>
   <channel id="oca1">
     <display-name>OCA1</display-name>
