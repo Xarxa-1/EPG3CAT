@@ -3,72 +3,68 @@
   <channel id="tvi">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20261029210000 +0100" stop="20261029220012 +0100" channel="tvi">
-    <title lang="ca">Telenotícies vespre</title>
-    <length units="seconds">3612</length>
-    <episode-num system="onscreen">7372</episode-num>
-    <category lang="ca">ACTUALITAT</category>
-    <category lang="ca">INFORMATIU DIÀRI</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <icon src="https://img.ccma.cat/multimedia/jpg/7/2/1758026176427.jpg"/>
-  </programme>
-  <programme start="20261029220012 +0100" stop="20261029220847 +0100" channel="tvi">
-    <title lang="ca">Descobrint l'èxit</title>
-    <sub-title lang="ca">- El primer supermercat</sub-title>
-    <desc lang="ca">Sense Descripció</desc>
-    <length units="seconds">515</length>
-    <episode-num system="onscreen">8</episode-num>
-  </programme>
-  <channel id="324">
-    <display-name>324</display-name>
-  </channel>
-  <programme start="20261029210000 +0100" stop="20261029220500 +0100" channel="324">
-    <title lang="ca">Telenotícies vespre</title>
-    <length units="seconds">3900</length>
-    <episode-num system="onscreen">7372</episode-num>
-    <category lang="ca">ACTUALITAT</category>
-    <category lang="ca">INFORMATIU DIÀRI</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <icon src="https://img.ccma.cat/multimedia/jpg/7/2/1758026176427.jpg"/>
-  </programme>
-  <programme start="20261029220500 +0100" stop="20261030000000 +0100" channel="324">
+  <programme start="20261030004828 +0100" stop="20261030023517 +0100" channel="tvi">
     <title lang="ca">Mésnit</title>
     <desc lang="ca">El 'Mésnit' arriba a la desena temporada, amb Marina Romero al capdavant de l'espai i amb la voluntat de continuar sent un centre de debat d'idees i d'anàlisi de l'activitat política.</desc>
-    <length units="seconds">6900</length>
+    <length units="seconds">6409</length>
     <episode-num system="onscreen">2189</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">DEBAT</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <channel id="esport3">
-    <display-name>ESPORT3</display-name>
+  <programme start="20261030023517 +0100" stop="20261030040000 +0100" channel="tvi">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="seconds">5083</length>
+    <episode-num system="onscreen">11566</episode-num>
+    <category lang="ca">ACTUALITAT</category>
+    <category lang="ca">INFORMATIU DIÀRI</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <previously-shown/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
+  </programme>
+  <channel id="324">
+    <display-name>324</display-name>
   </channel>
-  <programme start="20261029204032 +0100" stop="20261029230000 +0100" channel="esport3">
-    <title lang="ca">Futbol</title>
-    <sub-title lang="ca">AE Prat-Ath. Club / Copa / 1a eliminatoria</sub-title>
-    <desc lang="ca">Jornada històrica per al conjunt pratenc que disputa aquesta eliminatòria, a un sol partit, contra un rival de la Primera Divisió. Els del Baix Llobregat juguen a la Lliga Elit, la sisena categoria del futbol estatal. El partit forma part de la primera ronda a la fase final de la Copa del Rei.</desc>
-    <length units="seconds">8368</length>
-    <episode-num system="onscreen">98</episode-num>
-    <category lang="ca">ESPORTS</category>
-    <category lang="ca">ESPECIALS</category>
+  <programme start="20261030010000 +0100" stop="20261030060000 +0100" channel="324">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="seconds">18000</length>
+    <episode-num system="onscreen">11566</episode-num>
+    <category lang="ca">ACTUALITAT</category>
+    <category lang="ca">INFORMATIU DIÀRI</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <previously-shown/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
+  </programme>
+  <programme start="20261030060000 +0100" stop="20261030080000 +0100" channel="324">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="seconds">7200</length>
+    <episode-num system="onscreen">11567</episode-num>
+    <category lang="ca">ACTUALITAT</category>
+    <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
-    <icon src="https://img.3cat.cat/multimedia/jpg/9/0/1761575689109.jpg"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
-  <programme start="20261029230000 +0100" stop="20261030003100 +0100" channel="esport3">
+  <channel id="esport3">
+    <display-name>ESPORT3</display-name>
+  </channel>
+  <programme start="20261030004947 +0100" stop="20261030022146 +0100" channel="esport3">
     <title lang="ca">Onze</title>
-    <desc lang="ca">Les nits d'Esport3 tornen a concentrar tota la informació, les millors opinions i l'entreteniment necessari per acabar el dia al voltant de l'actualitat esportiva. Un xou cada nit per acabar informat, saber cap on va l'actualitat i mantenir sempre un somriure.</desc>
-    <length units="seconds">5460</length>
+    <sub-title lang="ca">Ancelotti, esprem Raphinha; grada d'animació vetada i 'El consultori'</sub-title>
+    <desc lang="ca">David Bernabeu, Víctor Lozano, Gemma Mallorca i Jordi Costa discuteixen sobre la inclusió de Raphinha en la propera convocatòria del Brasil. En Sergi Ferrer respon les inquietuds dels espectadors de l'Onze.</desc>
+    <length units="seconds">5519</length>
     <episode-num system="onscreen">1278</episode-num>
     <category lang="ca">ESPORTS</category>
     <category lang="ca">MAGAZINE</category>
@@ -76,35 +72,49 @@
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
+    <previously-shown/>
     <icon src="https://img.ccma.cat/multimedia/jpg/1/1/1688543515711.jpg"/>
+  </programme>
+  <programme start="20261030022146 +0100" stop="20261030024008 +0100" channel="esport3">
+    <title lang="ca">3CatInfo Esports</title>
+    <desc lang="ca">Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.</desc>
+    <length units="seconds">1102</length>
+    <episode-num system="onscreen">5553</episode-num>
+    <category lang="ca">ESPORTS</category>
+    <category lang="ca">INFORMATIU DIÀRI</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <previously-shown/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/9/7/1758888682179.jpg"/>
   </programme>
   <channel id="sx3">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20261029214015 +0100" stop="20261029215908 +0100" channel="sx3">
-    <title lang="ca">Bola de drac Z</title>
-    <sub-title lang="ca">Quin és aquest estrany poder que posseeixen les arracades del déu Neptú?</sub-title>
-    <desc lang="ca">En Son Goku arriba a la Terra just a temps per salvar el planeta de la destrucció total, però quan està a punt de fusionar-se amb el seu fill gràcies a les arracades del déu Neptú, el monstre Bu l'absorbeix. Ara, l'únic que queda a la Terra per fusionar-se amb en Son Goku és ni més ni menys que el senyor Satan!</desc>
-    <length units="seconds">1133</length>
-    <episode-num system="onscreen">267</episode-num>
+  <programme start="20261030011045 +0100" stop="20261030013042 +0100" channel="sx3">
+    <title lang="ca">Viatges Pokémon</title>
+    <sub-title lang="ca">Controlant el poder del gel!</sub-title>
+    <desc lang="ca">Mentre els nostres herois exploren un bosc descobreixen una muntanya coberta de gel. De sobte, l'Oshawott ensopega i fa caure el seu Scalchop, que acaba vora la pota d'un Beartic gegant! El Beartic és amable, i els seus ulls tristos mostren que no vol fer mal a ningú, però necessita entrenament, de manera que l'Ash s'ofereix de fer-li un entrenament especial de tipus gel! L'Oshawott proposa al Beartic que, per començar, faci un Scalchop de gel, però després de dos intents fallits, el Beartic se sent molt frustrat i provoca una fissura al gel. L'Ash hi cau i es torça un turmell, però el Beartic controla el seu poder i el treu d'allà. L'Ash rep els primers auxilis d'en Brock i el Beartic es converteix en un mestre del gel davant dels ulls de tothom!</desc>
+    <length units="seconds">1197</length>
+    <episode-num system="onscreen">136</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
-      <value>JUVENIL</value>
+      <value>INFANTIL</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20261029215908 +0100" stop="20261029221919 +0100" channel="sx3">
-    <title lang="ca">Bola de drac Z</title>
-    <sub-title lang="ca">S'acabaran fusionant en Son Goku i en Vegeta?</sub-title>
-    <desc lang="ca">Mentre continua lluitant amb el monstre Bu, en Son Goku es planteja si s'ha de fusionar amb el senyor Satan o amb en Dende, però aleshores arriba en Vegeta a la Terra i tot canvia. Seran capaços aquests dos eterns rivals de deixar de banda les seves diferències per crear el guerrer més fort de tots els temps?! Sembla que és l'única manera de salvar el planeta.</desc>
-    <length units="seconds">1211</length>
-    <episode-num system="onscreen">268</episode-num>
+  <programme start="20261030013042 +0100" stop="20261030015009 +0100" channel="sx3">
+    <title lang="ca">Viatges Pokémon</title>
+    <sub-title lang="ca">Un escamot digne d'admiració!</sub-title>
+    <desc lang="ca">Mentre continuen el viatge, els nostres herois veuen l'anunci d'un espectacle de l'Escamot de Bombers Squirtle. L'Ash hi reconeix el seu Squirtle, el líder de l'escamot, i fa sortir el Bulbasaur i el Charizard perquè vegin el seu amic. Tothom està molt emocionat per l'espectacle, i l'Squirtle està molt content quan veu l'Ash entre el públic. Però les malifetes del Team Rocket provoquen un malentès, i l'Squirtle s'empipa quan es troba amb l'Ash i els amics. Just quan sembla que s'ha trencat l'amistat, es declara un incendi, i els nostres herois ajunten forces amb l'Squirtle per apagar-lo. Recuperada l'amistat, l'Ash i l'Squirtle s'abracen i llavors l'escamot se'n va cap a una altra ciutat.</desc>
+    <length units="seconds">1167</length>
+    <episode-num system="onscreen">137</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
-      <value>JUVENIL</value>
+      <value>INFANTIL</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
@@ -112,50 +122,37 @@
   <channel id="c33">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20261029213952 +0100" stop="20261029220219 +0100" channel="c33">
-    <title lang="ca">L'un per l'altre</title>
-    <sub-title lang="ca">L'avi fatxa</sub-title>
-    <desc lang="ca">En una de les fotos antigues que hi ha penjades a l'Hostal, descobreixen que un dels homes té la cara esborrada. Aquest home era l'avi matern del Toni, algú de qui mai es parla a casa seva. Investigant i remenant les golfes el Toni descobreix que el seu avi va ser un home amb un passat fosc durant la guerra civil i odiat per gairebé tothom.</desc>
-    <length units="seconds">1347</length>
-    <episode-num system="onscreen">38</episode-num>
-    <category lang="ca">FICCIÓ</category>
-    <category lang="ca">SITCOM (COMÈDIA DE SITUACIÓ)</category>
+  <programme start="20261030003546 +0100" stop="20261030013409 +0100" channel="c33">
+    <title lang="ca">Maria del Mar</title>
+    <desc lang="ca">Maria del Mar Bonet és una de les icones de la nostra cultura. Cap cantant com ella ha aconseguit fer una carrera tant diversa i amb tantes complicitats, aquí i arreu. El documental 'Maria del Mar' és un retrat de com ha fet aquest viatge i d'on surt la seva inquietud i la seva força vital que l'ha mantingut als escenaris durant més de 50 anys. 'Maria del Mar' parteix del viatge que Bonet va fer a Cuba l'estiu passat per presentar el seu darrer disc, 'Ultramar', i a partir de la seva immersió a la vida de l'illa del Carib anem desgranant aquests 50 anys de carrera.Sota la direcció de Joan Lopez Lloret i amb guió del mateix López i el periodista musical Jordi Bianciotto, ens endinsem en tots aquests anys, a través de testimonis diversos, des del seu germà o els amics de la infància, fins a creadors tan diferents d'origen i generació com Martirio, Nacho Duato, Borja Penalba, Joan Manuel Serrat, Lluís Llach o Manolo García. Paral·lelament seguim de prop la preparació del concert a Cuba i la relació que des de fa pocs anys Bonet ha establert amb diversos músics cubans, com Jorge Reyes i José Maria Vitier, i les seves famílies.</desc>
+    <length units="seconds">3503</length>
+    <episode-num system="onscreen">1</episode-num>
+    <category lang="ca">ACTUALITAT</category>
+    <category lang="ca">DOCUMENTAL</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <subtitles type="teletext"/>
+    <previously-shown/>
+    <icon src="https://img.3cat.cat/multimedia/jpg/8/3/1724415010338.jpg"/>
+  </programme>
+  <programme start="20261030013409 +0100" stop="20261030022607 +0100" channel="c33">
+    <title lang="ca">Dibuixar pel canvi</title>
+    <sub-title lang="ca">India. Dibuixant una línia</sub-title>
+    <desc lang="ca">Rachita Taneja és la creadora de Sanitary Panels, una popular tira còmica amb figures de pal coneguda per la seva crítica sociopolítica que ha captivat els joves indis liberals. El desembre del 2020, la Fiscalia de l'Índia la va denunciar per tres de les seves vinyetes, cosa que la va portar a extremar les precaucions no només en el seu art, sinó també en la seva participació en aquest documental. La pel·lícula explora el món interior de la Rachita i la seva creativitat, representant una narrativa distòpica en què la llibertat d'expressió s'erosiona ràpidament. Aquest documental mostra la resistència d'una jove índia que s'enfronta a la persecució i a la censura amb un humor i una honestedat indestructibles.</desc>
+    <length units="seconds">3118</length>
+    <episode-num system="onscreen">4</episode-num>
+    <category lang="ca">DIVULGACIÓ</category>
+    <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20261029220219 +0100" stop="20261029225241 +0100" channel="c33">
-    <title lang="ca">La Renaixença</title>
-    <sub-title lang="ca">La bossa d'escombraries</sub-title>
-    <desc lang="ca">La bossa d'escombraries sembla un invent força ximple, però és que heu de pensar que abans la gent tirava la merda pel balcó! El carrer fotia goig! És clar que hi ha bosses d'escombraries (sentint-ho molt, les reciclables) que quan es comencen a omplir, ja s'esparraquen de sota. Voleu fer el favor de fer-les més fermes! Avui ens visita en Xavier Estrada, àrbitre de futbol, una de les professions més masoquistes que existeixen. Tanquem el programa passejant el gos per la batalla més inútil de tota la història militar europea.</desc>
-    <length units="seconds">3022</length>
-    <episode-num system="onscreen">262</episode-num>
-    <category lang="ca">DIVULGACIÓ</category>
-    <category lang="ca">ALTRES</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <subtitles type="teletext"/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/3/3/1756148014833.jpg"/>
-  </programme>
   <channel id="oca1">
     <display-name>OCA1</display-name>
   </channel>
-  <programme start="20261029203000 +0100" stop="20261029222955 +0100" channel="oca1">
-    <title lang="ca">Handbol</title>
-    <sub-title lang="ca">- Aarhus-Barça / EHF Champions / J6</sub-title>
-    <desc lang="ca">El Barça vol tancar la primera fase de grups amb ple de victòries. Els danesos, que van perdre al Palau Blaugrana (39-28) es juguen la continuïtat a la gran competició europea.</desc>
-    <length units="seconds">7195</length>
-    <episode-num system="onscreen">427</episode-num>
-    <category lang="ca">ESPORTS</category>
-    <category lang="ca">RETRANSMISSIONS ESPORTS</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1729614070941.jpg"/>
-  </programme>
   <channel id="oca2">
     <display-name>OCA2</display-name>
   </channel>
