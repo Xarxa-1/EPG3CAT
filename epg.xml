@@ -3,47 +3,33 @@
   <channel id="tvi">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20261030004828 +0100" stop="20261030023517 +0100" channel="tvi">
-    <title lang="ca">Mésnit</title>
-    <desc lang="ca">El 'Mésnit' arriba a la desena temporada, amb Marina Romero al capdavant de l'espai i amb la voluntat de continuar sent un centre de debat d'idees i d'anàlisi de l'activitat política.</desc>
-    <length units="seconds">6409</length>
-    <episode-num system="onscreen">2189</episode-num>
-    <category lang="ca">ACTUALITAT</category>
-    <category lang="ca">DEBAT</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <previously-shown/>
-  </programme>
-  <programme start="20261030023517 +0100" stop="20261030040000 +0100" channel="tvi">
+  <programme start="20261030060000 +0100" stop="20261030080000 +0100" channel="tvi">
     <title lang="ca">Notícies 3CatInfo</title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">5083</length>
-    <episode-num system="onscreen">11566</episode-num>
+    <length units="seconds">7200</length>
+    <episode-num system="onscreen">11567</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <previously-shown/>
     <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
+  </programme>
+  <programme start="20261030080000 +0100" stop="20261030103000 +0100" channel="tvi">
+    <title lang="ca">Matins</title>
+    <desc lang="ca">'Matins' és un dels puntals informatius de TV3. El programa matinal dona les claus del dia que comença, explica les notícies que han passat aportant-ne el context per entendre-les i analitza amb veus acreditades l'actualitat més propera i la d'arreu del món. 'Matins' comença a les 8 del matí, de dilluns a divendres, i està presentat per Ariadna Oltra.</desc>
+    <length units="seconds">9000</length>
+    <episode-num system="onscreen">4703</episode-num>
+    <category lang="ca">ACTUALITAT</category>
+    <category lang="ca">INFORMATIU DIÀRI</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <icon src="https://img.ccma.cat/multimedia/jpg/2/0/1758040151402.jpg"/>
   </programme>
   <channel id="324">
     <display-name>324</display-name>
   </channel>
-  <programme start="20261030010000 +0100" stop="20261030060000 +0100" channel="324">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">18000</length>
-    <episode-num system="onscreen">11566</episode-num>
-    <category lang="ca">ACTUALITAT</category>
-    <category lang="ca">INFORMATIU DIÀRI</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <previously-shown/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
-  </programme>
   <programme start="20261030060000 +0100" stop="20261030080000 +0100" channel="324">
     <title lang="ca">Notícies 3CatInfo</title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
@@ -57,14 +43,26 @@
     <subtitles type="teletext"/>
     <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
+  <programme start="20261030080000 +0100" stop="20261030103000 +0100" channel="324">
+    <title lang="ca">Matins</title>
+    <desc lang="ca">'Matins' és un dels puntals informatius de TV3. El programa matinal dona les claus del dia que comença, explica les notícies que han passat aportant-ne el context per entendre-les i analitza amb veus acreditades l'actualitat més propera i la d'arreu del món. 'Matins' comença a les 8 del matí, de dilluns a divendres, i està presentat per Ariadna Oltra.</desc>
+    <length units="seconds">9000</length>
+    <episode-num system="onscreen">4703</episode-num>
+    <category lang="ca">ACTUALITAT</category>
+    <category lang="ca">INFORMATIU DIÀRI</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <icon src="https://img.ccma.cat/multimedia/jpg/2/0/1758040151402.jpg"/>
+  </programme>
   <channel id="esport3">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20261030004947 +0100" stop="20261030022146 +0100" channel="esport3">
+  <programme start="20261030070832 +0100" stop="20261030084140 +0100" channel="esport3">
     <title lang="ca">Onze</title>
     <sub-title lang="ca">Ancelotti, esprem Raphinha; grada d'animació vetada i 'El consultori'</sub-title>
     <desc lang="ca">David Bernabeu, Víctor Lozano, Gemma Mallorca i Jordi Costa discuteixen sobre la inclusió de Raphinha en la propera convocatòria del Brasil. En Sergi Ferrer respon les inquietuds dels espectadors de l'Onze.</desc>
-    <length units="seconds">5519</length>
+    <length units="seconds">5588</length>
     <episode-num system="onscreen">1278</episode-num>
     <category lang="ca">ESPORTS</category>
     <category lang="ca">MAGAZINE</category>
@@ -75,28 +73,29 @@
     <previously-shown/>
     <icon src="https://img.ccma.cat/multimedia/jpg/1/1/1688543515711.jpg"/>
   </programme>
-  <programme start="20261030022146 +0100" stop="20261030024008 +0100" channel="esport3">
-    <title lang="ca">3CatInfo Esports</title>
-    <desc lang="ca">Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.</desc>
-    <length units="seconds">1102</length>
-    <episode-num system="onscreen">5553</episode-num>
+  <programme start="20261030084140 +0100" stop="20261030100906 +0100" channel="esport3">
+    <title lang="ca">Handbol</title>
+    <sub-title lang="ca">Aarhus-Barça / EHF Champions / J6</sub-title>
+    <desc lang="ca">El Barça vol tancar la primera fase de grups amb ple de victòries. Els danesos, que van perdre al Palau Blaugrana (39-28) es juguen la continuïtat a la gran competició europea.</desc>
+    <length units="seconds">5246</length>
+    <episode-num system="onscreen">427</episode-num>
     <category lang="ca">ESPORTS</category>
-    <category lang="ca">INFORMATIU DIÀRI</category>
+    <category lang="ca">RETRANSMISSIONS ESPORTS</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <previously-shown/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/9/7/1758888682179.jpg"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1729614070941.jpg"/>
   </programme>
   <channel id="sx3">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20261030011045 +0100" stop="20261030013042 +0100" channel="sx3">
-    <title lang="ca">Viatges Pokémon</title>
-    <sub-title lang="ca">Controlant el poder del gel!</sub-title>
-    <desc lang="ca">Mentre els nostres herois exploren un bosc descobreixen una muntanya coberta de gel. De sobte, l'Oshawott ensopega i fa caure el seu Scalchop, que acaba vora la pota d'un Beartic gegant! El Beartic és amable, i els seus ulls tristos mostren que no vol fer mal a ningú, però necessita entrenament, de manera que l'Ash s'ofereix de fer-li un entrenament especial de tipus gel! L'Oshawott proposa al Beartic que, per començar, faci un Scalchop de gel, però després de dos intents fallits, el Beartic se sent molt frustrat i provoca una fissura al gel. L'Ash hi cau i es torça un turmell, però el Beartic controla el seu poder i el treu d'allà. L'Ash rep els primers auxilis d'en Brock i el Beartic es converteix en un mestre del gel davant dels ulls de tothom!</desc>
-    <length units="seconds">1197</length>
-    <episode-num system="onscreen">136</episode-num>
+  <programme start="20261030070914 +0100" stop="20261030071947 +0100" channel="sx3">
+    <title lang="ca">La Patrulla Peluda</title>
+    <sub-title lang="ca">El Festival de Tardor</sub-title>
+    <desc lang="ca">Els cadells han de collir tota la fruita de la Yumi abans que arribi una nevada. Tothom té una tasca assignada menys en Chase, que haurà de trobar la manera d'ajudar.</desc>
+    <length units="seconds">633</length>
+    <episode-num system="onscreen">2</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
@@ -105,12 +104,12 @@
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20261030013042 +0100" stop="20261030015009 +0100" channel="sx3">
-    <title lang="ca">Viatges Pokémon</title>
-    <sub-title lang="ca">Un escamot digne d'admiració!</sub-title>
-    <desc lang="ca">Mentre continuen el viatge, els nostres herois veuen l'anunci d'un espectacle de l'Escamot de Bombers Squirtle. L'Ash hi reconeix el seu Squirtle, el líder de l'escamot, i fa sortir el Bulbasaur i el Charizard perquè vegin el seu amic. Tothom està molt emocionat per l'espectacle, i l'Squirtle està molt content quan veu l'Ash entre el públic. Però les malifetes del Team Rocket provoquen un malentès, i l'Squirtle s'empipa quan es troba amb l'Ash i els amics. Just quan sembla que s'ha trencat l'amistat, es declara un incendi, i els nostres herois ajunten forces amb l'Squirtle per apagar-lo. Recuperada l'amistat, l'Ash i l'Squirtle s'abracen i llavors l'escamot se'n va cap a una altra ciutat.</desc>
-    <length units="seconds">1167</length>
-    <episode-num system="onscreen">137</episode-num>
+  <programme start="20261030071947 +0100" stop="20261030073047 +0100" channel="sx3">
+    <title lang="ca">La Patrulla Peluda</title>
+    <sub-title lang="ca">La Patrulla salva les tortugues marines</sub-title>
+    <desc lang="ca">En Ryder, en Chase i en Rubble pensen un pla per ajudar unes tortugues que acaben de sortir de l'ou a travessar la carretera i arribar a la platja!</desc>
+    <length units="seconds">660</length>
+    <episode-num system="onscreen">3</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
@@ -122,26 +121,26 @@
   <channel id="c33">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20261030003546 +0100" stop="20261030013409 +0100" channel="c33">
-    <title lang="ca">Maria del Mar</title>
-    <desc lang="ca">Maria del Mar Bonet és una de les icones de la nostra cultura. Cap cantant com ella ha aconseguit fer una carrera tant diversa i amb tantes complicitats, aquí i arreu. El documental 'Maria del Mar' és un retrat de com ha fet aquest viatge i d'on surt la seva inquietud i la seva força vital que l'ha mantingut als escenaris durant més de 50 anys. 'Maria del Mar' parteix del viatge que Bonet va fer a Cuba l'estiu passat per presentar el seu darrer disc, 'Ultramar', i a partir de la seva immersió a la vida de l'illa del Carib anem desgranant aquests 50 anys de carrera.Sota la direcció de Joan Lopez Lloret i amb guió del mateix López i el periodista musical Jordi Bianciotto, ens endinsem en tots aquests anys, a través de testimonis diversos, des del seu germà o els amics de la infància, fins a creadors tan diferents d'origen i generació com Martirio, Nacho Duato, Borja Penalba, Joan Manuel Serrat, Lluís Llach o Manolo García. Paral·lelament seguim de prop la preparació del concert a Cuba i la relació que des de fa pocs anys Bonet ha establert amb diversos músics cubans, com Jorge Reyes i José Maria Vitier, i les seves famílies.</desc>
-    <length units="seconds">3503</length>
-    <episode-num system="onscreen">1</episode-num>
-    <category lang="ca">ACTUALITAT</category>
-    <category lang="ca">DOCUMENTAL</category>
+  <programme start="20261030063036 +0100" stop="20261030072033 +0100" channel="c33">
+    <title lang="ca">El Foraster</title>
+    <sub-title lang="ca">Miralcamp</sub-title>
+    <desc lang="ca">Des de Miralcamp es domina tota la comarca del Pla d'Urgell. El poble és un mirador privilegiat i, només arribar, en Quim coneixerà en Marquès, en Romà i en Soler, una colla a qui li agrada molt mirar, per després poder criticar. Entre els veïns de Miralcamp hi ha en Josep, que mentre cull olives se les va menjant a grapats; la Flor i l'Esther, dues germanes apassionades per les motos; i en Jaume, que no para de caminar ni per ser entrevistat. Amb la Marta, la cartera, en Quim sortirà a repartir bon rotllo pel poble, i amb en Matacotxos descobrirà l'art de no fotre res. Coneixerem també al Marcel·lí, que per recordar la seva estimada Carme, surt a tocar l'acordió al mig de la natura. I els Peres, pare i fill, que estan a punt de complir el seu gran somni: fer volar pels cels de Miralcamp l'avioneta que han construït amb les seves pròpies mans.</desc>
+    <length units="seconds">2997</length>
+    <episode-num system="onscreen">108</episode-num>
+    <category lang="ca">ENTRETENIMENT</category>
+    <category lang="ca">VARIETATS</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
-    <icon src="https://img.3cat.cat/multimedia/jpg/8/3/1724415010338.jpg"/>
   </programme>
-  <programme start="20261030013409 +0100" stop="20261030022607 +0100" channel="c33">
-    <title lang="ca">Dibuixar pel canvi</title>
-    <sub-title lang="ca">India. Dibuixant una línia</sub-title>
-    <desc lang="ca">Rachita Taneja és la creadora de Sanitary Panels, una popular tira còmica amb figures de pal coneguda per la seva crítica sociopolítica que ha captivat els joves indis liberals. El desembre del 2020, la Fiscalia de l'Índia la va denunciar per tres de les seves vinyetes, cosa que la va portar a extremar les precaucions no només en el seu art, sinó també en la seva participació en aquest documental. La pel·lícula explora el món interior de la Rachita i la seva creativitat, representant una narrativa distòpica en què la llibertat d'expressió s'erosiona ràpidament. Aquest documental mostra la resistència d'una jove índia que s'enfronta a la persecució i a la censura amb un humor i una honestedat indestructibles.</desc>
-    <length units="seconds">3118</length>
-    <episode-num system="onscreen">4</episode-num>
+  <programme start="20261030072033 +0100" stop="20261030074648 +0100" channel="c33">
+    <title lang="ca">Viure als Pirineus</title>
+    <sub-title lang="ca">Un guia dels Pirineus (Tardor - Hivern)</sub-title>
+    <desc lang="ca">Xavier Llongueras és un guia d'alta muntanya, però a qui no sempre li es fàcil guanyar-se la vida. Ara està content, ja que durant una setmana té unes noves clientes canadenques. Enguany hi ha poca neu i en Xavi es dedica a fer exemplars del calendari de la Cerdanya, ja que a les botigues l'estan exhaurint. El calendari l'elabora ell íntegrament i aconsegueix vendre'n dos mil, ja que s'ha convertit en un clàssic a les dues bandes de la frontera. Com que els clients continuen escassejant, en Xavi ho aprofita per practicar l'escalada. Sense la responsabilitat de guiar clients se sent lliure i viu l'emoció intensa dels que coronen cims. Però com que la neu es fa esperar i ha perdut dies de feina, decideix convocar la família i els amics per trencar la solitud amb bona companyia. I, alhora, munta el seu estand a la Fira de Bellver per aconseguir nous clients. Tot esperant la neu, en Xavi continua el seu dia a dia i esgarrapa temps per fer les fotos d'un nou reportatge per a la revista 'Cadí-Pedraforca'. N'és el fotògraf oficial. Finalment ha nevat i en Xavi té un client. Està content de poder continuar fent la feina que s'ha buscat i que l'apassiona.</desc>
+    <length units="seconds">1575</length>
+    <episode-num system="onscreen">11</episode-num>
     <category lang="ca">DIVULGACIÓ</category>
     <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
     <rating>
