@@ -3,81 +3,66 @@
   <channel id="tvi">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20261031012941 +0100" stop="20261031025128 +0100" channel="tvi">
-    <title lang="ca">Mésnit</title>
-    <desc lang="ca">El 'Mésnit' arriba a la desena temporada, amb Marina Romero al capdavant de l'espai i amb la voluntat de continuar sent un centre de debat d'idees i d'anàlisi de l'activitat política.</desc>
-    <length units="seconds">4907</length>
-    <episode-num system="onscreen">2190</episode-num>
-    <category lang="ca">ACTUALITAT</category>
-    <category lang="ca">DEBAT</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <previously-shown/>
-  </programme>
-  <programme start="20261031025128 +0100" stop="20261031040000 +0100" channel="tvi">
+  <programme start="20261031070001 +0100" stop="20261031100000 +0100" channel="tvi">
     <title lang="ca">Notícies 3CatInfo</title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">4112</length>
-    <episode-num system="onscreen">11575</episode-num>
+    <length units="seconds">10799</length>
+    <episode-num system="onscreen">11576</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <previously-shown/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
+  </programme>
+  <programme start="20261031100000 +0100" stop="20261031120000 +0100" channel="tvi">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="seconds">7200</length>
+    <episode-num system="onscreen">11577</episode-num>
+    <category lang="ca">ACTUALITAT</category>
+    <category lang="ca">INFORMATIU DIÀRI</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
     <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
   <channel id="324">
     <display-name>324</display-name>
   </channel>
-  <programme start="20261031010000 +0100" stop="20261031060000 +0100" channel="324">
+  <programme start="20261031070000 +0100" stop="20261031100000 +0100" channel="324">
     <title lang="ca">Notícies 3CatInfo</title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">18000</length>
-    <episode-num system="onscreen">11575</episode-num>
+    <length units="seconds">10800</length>
+    <episode-num system="onscreen">11576</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <previously-shown/>
+    <subtitles type="teletext"/>
     <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
-  <programme start="20261031060000 +0100" stop="20261031070000 +0100" channel="324">
+  <programme start="20261031100000 +0100" stop="20261031120000 +0100" channel="324">
     <title lang="ca">Notícies 3CatInfo</title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">3600</length>
-    <episode-num system="onscreen">11575</episode-num>
+    <length units="seconds">7200</length>
+    <episode-num system="onscreen">11577</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <previously-shown/>
+    <subtitles type="teletext"/>
     <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
   <channel id="esport3">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20261031024311 +0100" stop="20261031042741 +0100" channel="esport3">
-    <title lang="ca">Futbol</title>
-    <sub-title lang="ca">UD Eivissa-CE Europa / Primera Federació / J10</sub-title>
-    <desc lang="ca">El conjunt gracienc és l'antepenúltim classificat i necessita els punts per sortir del descens. Els eivissencs els volen per seguir a la part alta.</desc>
-    <length units="seconds">6270</length>
-    <episode-num system="onscreen">207</episode-num>
-    <category lang="ca">ESPORTS</category>
-    <category lang="ca">RETRANSMISSIONS ESPORTS</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <previously-shown/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/0/7/1698446098170.jpg"/>
-  </programme>
-  <programme start="20261031042741 +0100" stop="20261031044547 +0100" channel="esport3">
+  <programme start="20261031081840 +0100" stop="20261031083642 +0100" channel="esport3">
     <title lang="ca">3CatInfo Esports</title>
     <desc lang="ca">Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.</desc>
-    <length units="seconds">1086</length>
+    <length units="seconds">1082</length>
     <episode-num system="onscreen">5554</episode-num>
     <category lang="ca">ESPORTS</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
@@ -87,29 +72,37 @@
     <previously-shown/>
     <icon src="https://img.ccma.cat/multimedia/jpg/9/7/1758888682179.jpg"/>
   </programme>
+  <programme start="20261031083642 +0100" stop="20261031084929 +0100" channel="esport3">
+    <title lang="ca">Capacitats</title>
+    <sub-title lang="ca">- Dani Anglada Pich, el navegant intrèpid </sub-title>
+    <desc lang="ca">Sense Descripció</desc>
+    <length units="seconds">767</length>
+    <episode-num system="onscreen">55</episode-num>
+    <subtitles type="teletext"/>
+  </programme>
   <channel id="sx3">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20261031023330 +0100" stop="20261031025408 +0100" channel="sx3">
-    <title lang="ca">Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
-    <sub-title lang="ca">Els avis llop</sub-title>
-    <desc lang="ca">L'Adrien està molt nerviós per conèixer els seus avis i la Marinette s'apunta al dinar per donar-li suport sense imaginar-se que es trobarà enmig d'una veritable guerra familiar pel futur de l'Adrien, una guerra que tots volen guanyar a qualsevol preu.</desc>
-    <length units="seconds">1238</length>
-    <episode-num system="onscreen">136</episode-num>
-    <category lang="ca">FICCIÓ</category>
-    <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
+  <programme start="20261031082546 +0100" stop="20261031083726 +0100" channel="sx3">
+    <title lang="ca">Titó</title>
+    <sub-title lang="ca">Excursió amb panellets i pinyons</sub-title>
+    <desc lang="ca">Som a la tardor i anem d'excursió a fer panellets. Els decorem amb pinyons...però d'on surten els pinyons? Avui ho descobrirem!</desc>
+    <length units="seconds">700</length>
+    <episode-num system="onscreen">65</episode-num>
+    <category lang="ca">ENTRETENIMENT</category>
+    <category lang="ca">ALTRES</category>
     <rating>
       <value>INFANTIL</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20261031025408 +0100" stop="20261031031546 +0100" channel="sx3">
-    <title lang="ca">Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
-    <sub-title lang="ca">La Princesa Sirena</sub-title>
-    <desc lang="ca">L'Ondine està preocupada perquè encara no s'ha fet cap petó amb el Kim i dubta dels sentiments del noi. La Marinette, autoproclamada especialista en primers petons i declaracions d'amor, decideix ajudar la seva amiga... a la seva manera! Una altra oportunitat perquè la Marinette s'adoni que no totes les parelles funcionen de la mateixa manera.</desc>
-    <length units="seconds">1298</length>
-    <episode-num system="onscreen">137</episode-num>
+  <programme start="20261031083726 +0100" stop="20261031084838 +0100" channel="sx3">
+    <title lang="ca">La Patrulla Peluda</title>
+    <sub-title lang="ca">La Patrulla salva un tren</sub-title>
+    <desc lang="ca">En Ryder, en Rubble i en Rocky demanen ajuda a en Chase per rescatar un tren que té la via tallada perquè hi ha hagut una esllavissada de roques. Al tren hi van la Katie i la Cali.</desc>
+    <length units="seconds">672</length>
+    <episode-num system="onscreen">6</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
@@ -121,12 +114,12 @@
   <channel id="c33">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20261031022150 +0100" stop="20261031030205 +0100" channel="c33">
-    <title lang="ca">Sala 30</title>
-    <sub-title lang="ca">El cos</sub-title>
-    <desc lang="ca">El cos ha servit l'art gairebé des dels seus inicis. La manera com aquesta relació ha evolucionat amb el pas del temps interessa, i molt. Avui es reuneixen un col·lectiu de DJs, un ballarí i dos artistes de la performance per parlar sobre el tema. Maguette Dieng i Baba, dels Jokko Collective, Aimar Pérez Galí, Clàudia Pagès i Joan Morey comparteixen taula amb Albert Pla i Joan Fontcuberta, un referent internacional, guanyador del premi Hasselblad (considerat el Nobel de la fotografia) i mestre del fake. Per a un artista, el cos és més que un canal d'expressió?</desc>
-    <length units="seconds">2415</length>
-    <episode-num system="onscreen">7</episode-num>
+  <programme start="20261031074727 +0100" stop="20261031083348 +0100" channel="c33">
+    <title lang="ca">La Renaixença</title>
+    <sub-title lang="ca">El taüt</sub-title>
+    <desc lang="ca">No tots els objectes han de ser divertits… o sí? Avui tenim el repte de trobar la gràcia al taüt, a qui dediquem el capítol. No és que tinguem ganes d'anar-hi, però hem de poder parlar de tot. Qui sí que s'ho passa bé és en Josep Plana, CEO d'una empresa d'esdeveniments per a multimilionaris, que no creiem que s'ho passin pas malament amb tots els diners que tenen. A 'Històries per passejar el gos' anem amb la Tina fins al 1986, durant la catàstrofe del llac Nyos.</desc>
+    <length units="seconds">2781</length>
+    <episode-num system="onscreen">77</episode-num>
     <category lang="ca">DIVULGACIÓ</category>
     <category lang="ca">ALTRES</category>
     <rating>
@@ -134,14 +127,15 @@
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/3/3/1756148014833.jpg"/>
   </programme>
-  <programme start="20261031030205 +0100" stop="20261031034328 +0100" channel="c33">
-    <title lang="ca">Sala 30</title>
-    <sub-title lang="ca">La investigació</sub-title>
-    <desc lang="ca">Qualsevol cosa és susceptible de convertir-se en art? Com ens hem de comportar quan entrem en un museu? Albert Pla torna a esmorzar envoltat d'artistes per resoldre aquestes incògnites que li ballen pel cap. Avui ha convidat Josep Maynou, Mireia Saladrigues, Laura Llaneli i Pedro Torres, quatre artistes amb una trajectòria tan consolidada com diferenciada. El lloc d'honor a la taula l'hi ha reservat, però, ni més ni menys que a Dora García, pionera en la performance i l'art audiovisual. Amb ells tocarà parlar sobre la investigació.</desc>
-    <length units="seconds">2483</length>
-    <episode-num system="onscreen">8</episode-num>
-    <category lang="ca">DIVULGACIÓ</category>
+  <programme start="20261031083348 +0100" stop="20261031091936 +0100" channel="c33">
+    <title lang="ca">Globus Sonda</title>
+    <sub-title lang="ca">Òscar Fernàndez - Delta de l'Ebre</sub-title>
+    <desc lang="ca">El periodista Òscar Fernández és un home d'emocions controlades. Això no obstant, en un vol en globus sobre l'espectacular paisatge del delta de l'Ebre potser se li descontrolaran les emocions, jo ho veurem. El periodista lidera un dels programes insígnia de Catalunya Ràdio, el 'Catalunya Migdia'. Parlarem del secret de l'èxit del programa en un vol diferent i en un clima molt especial com és el de les Terres de l'Ebre -d'això ens parlarà el Francesc Mauri-, i amb una convidada sorpresa molt bellugadissa, que acompanya la Candela Figueras des del cotxe de seguiment.</desc>
+    <length units="seconds">2748</length>
+    <episode-num system="onscreen">3</episode-num>
+    <category lang="ca">ENTRETENIMENT</category>
     <category lang="ca">ALTRES</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
