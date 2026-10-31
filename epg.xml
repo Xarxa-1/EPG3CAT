@@ -3,101 +3,99 @@
   <channel id="tvi">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20261030222449 +0100" stop="20261030233538 +0100" channel="tvi">
-    <title lang="ca">La Puntual</title>
-    <sub-title lang="ca">La Puntual: Mamma mia</sub-title>
-    <desc lang="ca">Ha arribat el dia de l'estrena de 'L'auca del senyor Esteve'. Catifa vermella, convidats especials, familiars i el retrobament amb els 33 finalistes del 'Laboratori'. Avui per primera vegada s'apujarà el teló de la producció per a la qual la nostra companyia s'ha estat preparant durant dos mesos. Viurem l'emoció de les hores prèvies, dels nervis entre bambolines i les abraçades de celebració finals.</desc>
-    <length units="seconds">4249</length>
-    <episode-num system="onscreen">16</episode-num>
-    <category lang="ca">ENTRETENIMENT</category>
-    <category lang="ca">VARIETATS</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <subtitles type="teletext"/>
-    <previously-shown/>
-    <icon src="https://img.ccma.cat/multimedia//jpg/7/8/1721226172787.jpg"/>
-  </programme>
-  <programme start="20261030233538 +0100" stop="20261030234351 +0100" channel="tvi">
-    <title lang="ca">Ets i uts</title>
-    <sub-title lang="ca">Quan vam sobreviure</sub-title>
-    <desc lang="ca">El Roger i la Mònica coneixen el Victor Rojas, un pastor que viu al Cap de Creus seguint les seves pròpies normes. Fascinats per aquest estil de vida, el Roger i la Mònica intenten sobreviure un dia sencer sense l'ajuda del mòbil.</desc>
-    <length units="seconds">493</length>
-    <episode-num system="onscreen">3</episode-num>
-    <category lang="ca">DIVULGACIÓ</category>
-    <category lang="ca">ALTRES</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <subtitles type="teletext"/>
-    <previously-shown/>
-  </programme>
-  <channel id="324">
-    <display-name>324</display-name>
-  </channel>
-  <programme start="20261030220500 +0100" stop="20261030233000 +0100" channel="324">
+  <programme start="20261031012941 +0100" stop="20261031025128 +0100" channel="tvi">
     <title lang="ca">Mésnit</title>
     <desc lang="ca">El 'Mésnit' arriba a la desena temporada, amb Marina Romero al capdavant de l'espai i amb la voluntat de continuar sent un centre de debat d'idees i d'anàlisi de l'activitat política.</desc>
-    <length units="seconds">5100</length>
+    <length units="seconds">4907</length>
     <episode-num system="onscreen">2190</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">DEBAT</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <subtitles type="teletext"/>
+    <previously-shown/>
   </programme>
-  <programme start="20261030233000 +0100" stop="20261031003000 +0100" channel="324">
+  <programme start="20261031025128 +0100" stop="20261031040000 +0100" channel="tvi">
     <title lang="ca">Notícies 3CatInfo</title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">3600</length>
-    <episode-num system="onscreen">11574</episode-num>
+    <length units="seconds">4112</length>
+    <episode-num system="onscreen">11575</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <subtitles type="teletext"/>
+    <previously-shown/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
+  </programme>
+  <channel id="324">
+    <display-name>324</display-name>
+  </channel>
+  <programme start="20261031010000 +0100" stop="20261031060000 +0100" channel="324">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="seconds">18000</length>
+    <episode-num system="onscreen">11575</episode-num>
+    <category lang="ca">ACTUALITAT</category>
+    <category lang="ca">INFORMATIU DIÀRI</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <previously-shown/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
+  </programme>
+  <programme start="20261031060000 +0100" stop="20261031070000 +0100" channel="324">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="seconds">3600</length>
+    <episode-num system="onscreen">11575</episode-num>
+    <category lang="ca">ACTUALITAT</category>
+    <category lang="ca">INFORMATIU DIÀRI</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <previously-shown/>
     <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
   <channel id="esport3">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20261030230000 +0100" stop="20261031003144 +0100" channel="esport3">
-    <title lang="ca">Onze</title>
-    <sub-title lang="ca">Flick, missatge de tranquil·litat; el Vila-real-Espanyol; Delmàs, Fàbregas i Cazorla</sub-title>
-    <desc lang="ca">Míriam Riau condueix la tertúlia amb Lluís Carrasco, Laia Bonals, Juli Garcia i Santi Ovalle. Analitzem les paraules de Hansi Flick abans del Barça-Alabès de dissabte. Repassem el Vila-real-Espanyol, amb Sergio Garcia a la banqueta blanc-i-blava. Àlex Delmàs ens porta la clau del Barça-Alabès, Joan Fàbregas repassa l'actualitat arbitral i acabem amb el 'Que n'aprenguin!' de Xavi Cazorla. </desc>
-    <length units="seconds">5504</length>
-    <episode-num system="onscreen">1279</episode-num>
+  <programme start="20261031024311 +0100" stop="20261031042741 +0100" channel="esport3">
+    <title lang="ca">Futbol</title>
+    <sub-title lang="ca">UD Eivissa-CE Europa / Primera Federació / J10</sub-title>
+    <desc lang="ca">El conjunt gracienc és l'antepenúltim classificat i necessita els punts per sortir del descens. Els eivissencs els volen per seguir a la part alta.</desc>
+    <length units="seconds">6270</length>
+    <episode-num system="onscreen">207</episode-num>
     <category lang="ca">ESPORTS</category>
-    <category lang="ca">MAGAZINE</category>
+    <category lang="ca">RETRANSMISSIONS ESPORTS</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <subtitles type="teletext"/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/1/1/1688543515711.jpg"/>
+    <previously-shown/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/0/7/1698446098170.jpg"/>
   </programme>
-  <programme start="20261031003144 +0100" stop="20261031005228 +0100" channel="esport3">
+  <programme start="20261031042741 +0100" stop="20261031044547 +0100" channel="esport3">
     <title lang="ca">3CatInfo Esports</title>
     <desc lang="ca">Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.</desc>
-    <length units="seconds">1244</length>
+    <length units="seconds">1086</length>
     <episode-num system="onscreen">5554</episode-num>
     <category lang="ca">ESPORTS</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
+    <previously-shown/>
     <icon src="https://img.ccma.cat/multimedia/jpg/9/7/1758888682179.jpg"/>
   </programme>
   <channel id="sx3">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20261030232623 +0100" stop="20261030234808 +0100" channel="sx3">
-    <title lang="ca">Els germans Kratt</title>
-    <sub-title lang="ca">Caminem per sobre l'aigua</sub-title>
-    <desc lang="ca">En Chris i en Martin són a Costa Rica intentant trobar un basilisc, un llangardaix capaç de caminar per sobre l'aigua, per incorporar aquest superpoder als seus vestits. De fet, els anirà molt bé per aturar la Donita Donata, que té intenció de guanyar el premi al millor dissenyador de barrets de París amb un barret de basilisc! Avui, les curses són a l'aigua!</desc>
-    <length units="seconds">1305</length>
-    <episode-num system="onscreen">16</episode-num>
+  <programme start="20261031023330 +0100" stop="20261031025408 +0100" channel="sx3">
+    <title lang="ca">Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
+    <sub-title lang="ca">Els avis llop</sub-title>
+    <desc lang="ca">L'Adrien està molt nerviós per conèixer els seus avis i la Marinette s'apunta al dinar per donar-li suport sense imaginar-se que es trobarà enmig d'una veritable guerra familiar pel futur de l'Adrien, una guerra que tots volen guanyar a qualsevol preu.</desc>
+    <length units="seconds">1238</length>
+    <episode-num system="onscreen">136</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
@@ -106,12 +104,12 @@
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20261030234808 +0100" stop="20261031000908 +0100" channel="sx3">
-    <title lang="ca">Els germans Kratt</title>
-    <sub-title lang="ca">Un elefant a casa</sub-title>
-    <desc lang="ca">En Chris i en Martin s'han trobat una cria d'elefant i l'han dut a la nau Tortuga perquè estigui fora de perill fins que trobin la seva manada. Aviat descobriran que les cries d'elefant poden arribar a ser molt trapelles, i que, si no troben aviat la mare, es poden quedar sense nau Tortuga! Sort que també n'aprendran moltes coses, dels elefants! Sobretot de la trompa! No t'ho perdis!</desc>
-    <length units="seconds">1260</length>
-    <episode-num system="onscreen">17</episode-num>
+  <programme start="20261031025408 +0100" stop="20261031031546 +0100" channel="sx3">
+    <title lang="ca">Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
+    <sub-title lang="ca">La Princesa Sirena</sub-title>
+    <desc lang="ca">L'Ondine està preocupada perquè encara no s'ha fet cap petó amb el Kim i dubta dels sentiments del noi. La Marinette, autoproclamada especialista en primers petons i declaracions d'amor, decideix ajudar la seva amiga... a la seva manera! Una altra oportunitat perquè la Marinette s'adoni que no totes les parelles funcionen de la mateixa manera.</desc>
+    <length units="seconds">1298</length>
+    <episode-num system="onscreen">137</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
@@ -123,35 +121,33 @@
   <channel id="c33">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20261030224949 +0100" stop="20261030235718 +0100" channel="c33">
-    <title lang="ca">Teatre</title>
-    <sub-title lang="ca">Terrrífic!</sub-title>
-    <desc lang="ca">Terrrífic!El TricicleUn espectacle d'El Tricicle que, tal com ja ens tenen acostumats, ens ofereix diversió i diversitat, alhora que ens avisa sobre el que ens pot succeir en aquest espectacle, pensat per fer-nos passar, sense malícia, una mica de por.Taquicàrdies, angoixes, atacs d'histèria, tot és possible, però sense perdre aquest to que esl caracteritza com a especials i únics.Autors i actors: Joan Gràcia, Paco Mir, Carles SansProducció: OvídeoRealització TV: X. Manich</desc>
-    <length units="seconds">4049</length>
-    <episode-num system="onscreen">1</episode-num>
-    <category lang="ca">FICCIÓ</category>
-    <category lang="ca">TEATRE</category>
+  <programme start="20261031022150 +0100" stop="20261031030205 +0100" channel="c33">
+    <title lang="ca">Sala 30</title>
+    <sub-title lang="ca">El cos</sub-title>
+    <desc lang="ca">El cos ha servit l'art gairebé des dels seus inicis. La manera com aquesta relació ha evolucionat amb el pas del temps interessa, i molt. Avui es reuneixen un col·lectiu de DJs, un ballarí i dos artistes de la performance per parlar sobre el tema. Maguette Dieng i Baba, dels Jokko Collective, Aimar Pérez Galí, Clàudia Pagès i Joan Morey comparteixen taula amb Albert Pla i Joan Fontcuberta, un referent internacional, guanyador del premi Hasselblad (considerat el Nobel de la fotografia) i mestre del fake. Per a un artista, el cos és més que un canal d'expressió?</desc>
+    <length units="seconds">2415</length>
+    <episode-num system="onscreen">7</episode-num>
+    <category lang="ca">DIVULGACIÓ</category>
+    <category lang="ca">ALTRES</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
-    <icon src="https://img.3cat.cat/multimedia/jpg/3/2/1761734354723.jpg"/>
   </programme>
-  <programme start="20261030235718 +0100" stop="20261031005600 +0100" channel="c33">
-    <title lang="ca">Tricicle 40</title>
-    <sub-title lang="ca">Tricicle 40</sub-title>
-    <desc lang="ca">Aquesta és la història de tres nois de Barcelona que a l'inici dels anys 80 es van llençar als escenaris i van acabar revolucionant la comèdia catalana. La seva és una història d'audàcia, d'èxit, de perfeccionisme, d'amistat... I de milers i milers de gags. TRICICLE40 és el retrat vibrant i ple d'humor de la darrera gran companyia de teatre gestual, a punt d'abaixar el teló per darrera vegada. </desc>
-    <length units="seconds">3522</length>
-    <episode-num system="onscreen">1</episode-num>
-    <category lang="ca">ACTUALITAT</category>
-    <category lang="ca">DOCUMENTAL</category>
+  <programme start="20261031030205 +0100" stop="20261031034328 +0100" channel="c33">
+    <title lang="ca">Sala 30</title>
+    <sub-title lang="ca">La investigació</sub-title>
+    <desc lang="ca">Qualsevol cosa és susceptible de convertir-se en art? Com ens hem de comportar quan entrem en un museu? Albert Pla torna a esmorzar envoltat d'artistes per resoldre aquestes incògnites que li ballen pel cap. Avui ha convidat Josep Maynou, Mireia Saladrigues, Laura Llaneli i Pedro Torres, quatre artistes amb una trajectòria tan consolidada com diferenciada. El lloc d'honor a la taula l'hi ha reservat, però, ni més ni menys que a Dora García, pionera en la performance i l'art audiovisual. Amb ells tocarà parlar sobre la investigació.</desc>
+    <length units="seconds">2483</length>
+    <episode-num system="onscreen">8</episode-num>
+    <category lang="ca">DIVULGACIÓ</category>
+    <category lang="ca">ALTRES</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
-    <icon src="https://img.3cat.cat/multimedia/jpg/0/4/1735053735040.jpg"/>
   </programme>
   <channel id="oca1">
     <display-name>OCA1</display-name>
