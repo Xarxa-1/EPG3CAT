@@ -3,51 +3,63 @@
   <channel id="tvi">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20261031070001 +0100" stop="20261031100000 +0100" channel="tvi">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">10799</length>
-    <episode-num system="onscreen">11576</episode-num>
+  <programme start="20261031143000 +0100" stop="20261031153630 +0100" channel="tvi">
+    <title lang="ca">Telenotícies migdia</title>
+    <length units="seconds">3990</length>
+    <episode-num system="onscreen">7375</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/5/4/1758025766345.jpg"/>
   </programme>
-  <programme start="20261031100000 +0100" stop="20261031120000 +0100" channel="tvi">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">7200</length>
-    <episode-num system="onscreen">11577</episode-num>
-    <category lang="ca">ACTUALITAT</category>
-    <category lang="ca">INFORMATIU DIÀRI</category>
+  <programme start="20261031153630 +0100" stop="20261031172851 +0100" channel="tvi">
+    <title lang="ca">Tarda de cine</title>
+    <sub-title lang="ca">Els amors de l'Anaïs</sub-title>
+    <desc lang="ca">ELS AMORS DE L'ANAÏS 'Les amours d'Anaïs'Direcció: Charline Bourgeois-TacquetGuió: Charline Bourgeois-TacquetProducció: Année Zéro, Les Films Pelléas, arte France Cinéma, Canal+, Ciné+, CNCAny: 2021Durada: 97País: FrançaMúsica: Nicola PiovaniFotografia: Noé BachIntèrprets: Anaïs Demoustier, Valeria Bruni Tedeschi, Denis Podalydès, Jean-Charles Clichet, Xavier Guelfi, Christophe Montenez, Anne Canovas, Bruno Todeschini, Annie Mercier, Grégoire OestermannAquesta és la història d'una jove parisenca inquieta i una mica esbojarrada amb un desig profund d'estimar</desc>
+    <credits>
+      <director>Charline Bourgeois-Tacquet</director>
+      <writer>Charline Bourgeois-Tacquet</writer>
+      <actor>Anaïs Demoustier</actor>
+      <actor>Valeria Bruni Tedeschi</actor>
+      <actor>Denis Podalydès</actor>
+      <actor>Jean-Charles Clichet</actor>
+      <actor>Xavier Guelfi</actor>
+      <actor>Christophe Montenez</actor>
+      <actor>Anne Canovas</actor>
+      <actor>Bruno Todeschini</actor>
+      <actor>Annie Mercier</actor>
+      <actor>Grégoire OestermannAquesta és la història d'una jove parisenca inquieta</actor>
+      <actor>una mica esbojarrada amb un desig profund d'estimar</actor>
+    </credits>
+    <length units="seconds">6741</length>
+    <episode-num system="onscreen">1</episode-num>
+    <category lang="ca">FICCIÓ</category>
+    <category lang="ca">PEL·LÍCULA / TELEFILM</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
   <channel id="324">
     <display-name>324</display-name>
   </channel>
-  <programme start="20261031070000 +0100" stop="20261031100000 +0100" channel="324">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">10800</length>
-    <episode-num system="onscreen">11576</episode-num>
+  <programme start="20261031143000 +0100" stop="20261031163000 +0100" channel="324">
+    <title lang="ca">Telenotícies migdia</title>
+    <length units="seconds">7200</length>
+    <episode-num system="onscreen">7375</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <subtitles type="teletext"/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/5/4/1758025766345.jpg"/>
   </programme>
-  <programme start="20261031100000 +0100" stop="20261031120000 +0100" channel="324">
+  <programme start="20261031163000 +0100" stop="20261031183000 +0100" channel="324">
     <title lang="ca">Notícies 3CatInfo</title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <length units="seconds">7200</length>
-    <episode-num system="onscreen">11577</episode-num>
+    <episode-num system="onscreen">11579</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
@@ -59,52 +71,63 @@
   <channel id="esport3">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20261031081840 +0100" stop="20261031083642 +0100" channel="esport3">
-    <title lang="ca">3CatInfo Esports</title>
-    <desc lang="ca">Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.</desc>
-    <length units="seconds">1082</length>
-    <episode-num system="onscreen">5554</episode-num>
+  <programme start="20261031144811 +0100" stop="20261031155500 +0100" channel="esport3">
+    <title lang="ca">Hoquei patins</title>
+    <sub-title lang="ca">CP Fraga - CP Vila-sana / OK Lliga / J1</sub-title>
+    <desc lang="ca">El campionat arrenca amb aquest gran partit. El CP Vila-sana Cooperativa d'Ivars, campió vigent, es va imposar al CP Esneca Fraga a la final de la temporada passada.</desc>
+    <length units="seconds">4009</length>
+    <episode-num system="onscreen">103</episode-num>
     <category lang="ca">ESPORTS</category>
-    <category lang="ca">INFORMATIU DIÀRI</category>
+    <category lang="ca">RETRANSMISSIONS ESPORTS</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <previously-shown/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/9/7/1758888682179.jpg"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/5/5/1701373461655.jpg"/>
   </programme>
-  <programme start="20261031083642 +0100" stop="20261031084929 +0100" channel="esport3">
-    <title lang="ca">Capacitats</title>
-    <sub-title lang="ca">- Dani Anglada Pich, el navegant intrèpid </sub-title>
-    <desc lang="ca">Sense Descripció</desc>
-    <length units="seconds">767</length>
-    <episode-num system="onscreen">55</episode-num>
+  <programme start="20261031155500 +0100" stop="20261031164932 +0100" channel="esport3">
+    <title lang="ca">Futbol</title>
+    <sub-title lang="ca">RCD Espanyol-Logronyo / Lliga F / J9</sub-title>
+    <desc lang="ca">Tots dos equips empaten a la classificació després de 2 victòries, 3 empats i 3 derrotes. Guanyar permetria a les blanc-i-blaves mirar cap a la part alta.</desc>
+    <length units="seconds">3272</length>
+    <episode-num system="onscreen">59</episode-num>
+    <category lang="ca">ESPORTS</category>
+    <category lang="ca">RETRANSMISSIONS ESPORTS</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
     <subtitles type="teletext"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/0/8/1730389343680.jpg"/>
   </programme>
   <channel id="sx3">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20261031082546 +0100" stop="20261031083726 +0100" channel="sx3">
-    <title lang="ca">Titó</title>
-    <sub-title lang="ca">Excursió amb panellets i pinyons</sub-title>
-    <desc lang="ca">Som a la tardor i anem d'excursió a fer panellets. Els decorem amb pinyons...però d'on surten els pinyons? Avui ho descobrirem!</desc>
-    <length units="seconds">700</length>
-    <episode-num system="onscreen">65</episode-num>
-    <category lang="ca">ENTRETENIMENT</category>
-    <category lang="ca">ALTRES</category>
+  <programme start="20261031144556 +0100" stop="20261031160659 +0100" channel="sx3">
+    <title lang="ca">Monster house</title>
+    <sub-title lang="ca">Monster house</sub-title>
+    <desc lang="ca">MONSTER HOUSE (Monster house)D.J. Walters, un noi de 12 anys, té massa temps lliure i ara s'ha entestat a saber què passa a casa de Nebbercracker, un vell que viu a l'altra banda del carrer. Un dia abans de Halloween, en D.J. i el seu amic Chowder es troben amb el senyor Nebbercracker perquè jugant han enviat la pilota al jardí del vell.Direcció: Gil KenanIdioma versió original: anglèsProducció: Columbia Pictures, 2006 (Estats Units)Durada: 86 minutsGuió: Dan Harmon, Rob Schrab i Pamela PettlerMúsica: Douglas PipesPel·lícula de dibuixos animats</desc>
+    <credits>
+      <writer>Dan Harmon</writer>
+      <writer>Rob Schrab</writer>
+    </credits>
+    <length units="seconds">4863</length>
+    <episode-num system="onscreen">1</episode-num>
+    <category lang="ca">FICCIÓ</category>
+    <category lang="ca">PEL·LÍCULA DIBUIXOS ANIMATS</category>
     <rating>
-      <value>INFANTIL</value>
+      <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
+    <icon src="https://img.3cat.cat/multimedia/jpg/0/4/1791536080740.jpg"/>
   </programme>
-  <programme start="20261031083726 +0100" stop="20261031084838 +0100" channel="sx3">
-    <title lang="ca">La Patrulla Peluda</title>
-    <sub-title lang="ca">La Patrulla salva un tren</sub-title>
-    <desc lang="ca">En Ryder, en Rubble i en Rocky demanen ajuda a en Chase per rescatar un tren que té la via tallada perquè hi ha hagut una esllavissada de roques. Al tren hi van la Katie i la Cali.</desc>
-    <length units="seconds">672</length>
-    <episode-num system="onscreen">6</episode-num>
-    <category lang="ca">FICCIÓ</category>
-    <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
+  <programme start="20261031160659 +0100" stop="20261031163137 +0100" channel="sx3">
+    <title lang="ca">Fuet</title>
+    <sub-title lang="ca">Barcelona és arrasada, i no és culpa del turisme.</sub-title>
+    <desc lang="ca">La Kiry i l'Eda intenten tornar a buscar el Fuet però, de sobte, una emissió externa interromp les comunicacions. El comandant Jau Coloma, un caçador excèntric del planeta Bup, té l'objectiu de capturar el Fuet abans que elles. Mentre intenten posar rumb a la Terra, visitaran la Barcelona del segle X, on descobreixen la brutal destrucció de la ciutat a mans d'Al-Mansur i seran testimonis de com el Comte Borrell trenca lligams amb el regne dels francs marcant l'inici de la independència de Catalunya.</desc>
+    <length units="seconds">1478</length>
+    <episode-num system="onscreen">14</episode-num>
+    <category lang="ca">ENTRETENIMENT</category>
+    <category lang="ca">ALTRES</category>
     <rating>
       <value>INFANTIL</value>
     </rating>
@@ -114,29 +137,28 @@
   <channel id="c33">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20261031074727 +0100" stop="20261031083348 +0100" channel="c33">
-    <title lang="ca">La Renaixença</title>
-    <sub-title lang="ca">El taüt</sub-title>
-    <desc lang="ca">No tots els objectes han de ser divertits… o sí? Avui tenim el repte de trobar la gràcia al taüt, a qui dediquem el capítol. No és que tinguem ganes d'anar-hi, però hem de poder parlar de tot. Qui sí que s'ho passa bé és en Josep Plana, CEO d'una empresa d'esdeveniments per a multimilionaris, que no creiem que s'ho passin pas malament amb tots els diners que tenen. A 'Històries per passejar el gos' anem amb la Tina fins al 1986, durant la catàstrofe del llac Nyos.</desc>
-    <length units="seconds">2781</length>
-    <episode-num system="onscreen">77</episode-num>
+  <programme start="20261031144312 +0100" stop="20261031151113 +0100" channel="c33">
+    <title lang="ca">Quèquicom</title>
+    <sub-title lang="ca">Bacteris: de l'intestí a Mart</sub-title>
+    <desc lang="ca">'Quèquicom' mostrarà la importància que tenen els bacteris en l'alimentació dels humans. Amb el títol genèric 'Bacteris: de l'intestí, a Mart', el programa científic del 33 oferirà un repàs del paper que tenen aquests primers organismes vius que van aparèixer a la Terra.Els bacteris són organismes molt simples, però són capaços d'obtenir energia per moltes vies metabòliques diferents i sobreviure en ambients extrems. Tenen una gran capacitat de reciclatge. Per la qual cosa, són fonamentals per al manteniment de la vida a la Terra. El programa ha fet una recerca bacteriana, que es mostrarà a través d'un reportatge de Pere Renom, que ha començat la feina en un racó de la serra de Collserola, un racó secret i vermellós on emana l'àcid sulfúric. Ha seguit pel Delta de l'Ebre, on el microbiòleg Jordi Urmeneta ensenya els tapets microbians, anàlegs als primers ecosistemes que van aparèixer al planeta fa 3.700 milions d'anys. Però sembla que també hi hauria bacteris al planeta Mart, on arribar-hi serà una missió impossible si no s'aconsegueix domesticar els bacteris perquè fabriquin part de l'aliment que necessiten els astronautes i en reciclin els detritus. A més, cadascun dels astronautes s'endurà en el seu digestiu una dotació de 2 kg de bacteris, sense la qual no sobreviuria, com qualsevol humà que no tingui flora intestinal.La flora bacteriana i la malaltia de CrohnEl programa parlarà de la influència dels bacteris en les malalties. Al voltant del 98% del total de bacteris del cos viuen al tub digestiu, són la flora bacteriana. Conté uns mil tipus de bacteris diferents i pesa dos quilos, o sigui, més que el fetge o el cor. El Dr. Francisco Guarner fa notar que el sistema digestiu té una relació de simbiosi amb els bacteris intestinals. Ells hi troben aliment i a canvi ens faciliten l'absorció de nutrients. A més, són bàsics per a la maduració del sistema immune. Quan la flora no és estable es generen problemes digestius crònics com la mal</desc>
+    <length units="seconds">1681</length>
+    <episode-num system="onscreen">114</episode-num>
     <category lang="ca">DIVULGACIÓ</category>
-    <category lang="ca">ALTRES</category>
+    <category lang="ca">MAGAZINE ESPECIALITZAT</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/3/3/1756148014833.jpg"/>
   </programme>
-  <programme start="20261031083348 +0100" stop="20261031091936 +0100" channel="c33">
-    <title lang="ca">Globus Sonda</title>
-    <sub-title lang="ca">Òscar Fernàndez - Delta de l'Ebre</sub-title>
-    <desc lang="ca">El periodista Òscar Fernández és un home d'emocions controlades. Això no obstant, en un vol en globus sobre l'espectacular paisatge del delta de l'Ebre potser se li descontrolaran les emocions, jo ho veurem. El periodista lidera un dels programes insígnia de Catalunya Ràdio, el 'Catalunya Migdia'. Parlarem del secret de l'èxit del programa en un vol diferent i en un clima molt especial com és el de les Terres de l'Ebre -d'això ens parlarà el Francesc Mauri-, i amb una convidada sorpresa molt bellugadissa, que acompanya la Candela Figueras des del cotxe de seguiment.</desc>
-    <length units="seconds">2748</length>
-    <episode-num system="onscreen">3</episode-num>
-    <category lang="ca">ENTRETENIMENT</category>
-    <category lang="ca">ALTRES</category>
+  <programme start="20261031151113 +0100" stop="20261031155535 +0100" channel="c33">
+    <title lang="ca">Ben Fogle: Retorn a la fi del món</title>
+    <sub-title lang="ca">Tailàndia</sub-title>
+    <desc lang="ca">En Ben viatja a Tailàndia per retrobar-se amb en Paul i en Sao, a qui va conèixer a Cambodja.</desc>
+    <length units="seconds">2662</length>
+    <episode-num system="onscreen">18</episode-num>
+    <category lang="ca">DIVULGACIÓ</category>
+    <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
