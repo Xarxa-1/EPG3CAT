@@ -3,63 +3,56 @@
   <channel id="tvi">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20261031143000 +0100" stop="20261031153630 +0100" channel="tvi">
-    <title lang="ca">Telenotícies migdia</title>
-    <length units="seconds">3990</length>
-    <episode-num system="onscreen">7375</episode-num>
-    <category lang="ca">ACTUALITAT</category>
-    <category lang="ca">INFORMATIU DIÀRI</category>
+  <programme start="20261031185400 +0100" stop="20261031194740 +0100" channel="tvi">
+    <title lang="ca">Sota terra</title>
+    <sub-title lang="ca">Abocador de Vacarisses: el nostre llegat</sub-title>
+    <desc lang="ca">Aquest és, sens dubte, el capítol més atípic de tots. El repte és tan original com apassionant: excavar en un abocador de deixalles. Excavar tres punts diferents per aconseguir treure i analitzar brossa de la dècada de 1990, de la dècada del 2000 i de l'actualitat. La idea és analitzar i classificar els residus amb el màxim rigor i la tècnica arqueològica per poder extreure'n tota mena de conclusions: hem canviat els hàbits de consum? Ha canviat el material amb què es fabricaven els productes? Ha augmentat el reciclatge? Continuem sent absolutament dependents del petroli? Podem definir el moment socioeconòmic a partir de l'anàlisi de la brossa? Fem el que faran els arqueòlegs del futur: analitzar les nostres deixalles per definir-nos com a espècie. És exactament el que fan els arqueòlegs actuals quan excaven i estudien el passat.</desc>
+    <length units="seconds">3220</length>
+    <episode-num system="onscreen">13</episode-num>
+    <category lang="ca">DIVULGACIÓ</category>
+    <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <icon src="https://img.ccma.cat/multimedia/jpg/5/4/1758025766345.jpg"/>
+    <subtitles type="teletext"/>
+    <previously-shown/>
   </programme>
-  <programme start="20261031153630 +0100" stop="20261031172851 +0100" channel="tvi">
-    <title lang="ca">Tarda de cine</title>
-    <sub-title lang="ca">Els amors de l'Anaïs</sub-title>
-    <desc lang="ca">ELS AMORS DE L'ANAÏS 'Les amours d'Anaïs'Direcció: Charline Bourgeois-TacquetGuió: Charline Bourgeois-TacquetProducció: Année Zéro, Les Films Pelléas, arte France Cinéma, Canal+, Ciné+, CNCAny: 2021Durada: 97País: FrançaMúsica: Nicola PiovaniFotografia: Noé BachIntèrprets: Anaïs Demoustier, Valeria Bruni Tedeschi, Denis Podalydès, Jean-Charles Clichet, Xavier Guelfi, Christophe Montenez, Anne Canovas, Bruno Todeschini, Annie Mercier, Grégoire OestermannAquesta és la història d'una jove parisenca inquieta i una mica esbojarrada amb un desig profund d'estimar</desc>
-    <credits>
-      <director>Charline Bourgeois-Tacquet</director>
-      <writer>Charline Bourgeois-Tacquet</writer>
-      <actor>Anaïs Demoustier</actor>
-      <actor>Valeria Bruni Tedeschi</actor>
-      <actor>Denis Podalydès</actor>
-      <actor>Jean-Charles Clichet</actor>
-      <actor>Xavier Guelfi</actor>
-      <actor>Christophe Montenez</actor>
-      <actor>Anne Canovas</actor>
-      <actor>Bruno Todeschini</actor>
-      <actor>Annie Mercier</actor>
-      <actor>Grégoire OestermannAquesta és la història d'una jove parisenca inquieta</actor>
-      <actor>una mica esbojarrada amb un desig profund d'estimar</actor>
-    </credits>
-    <length units="seconds">6741</length>
-    <episode-num system="onscreen">1</episode-num>
-    <category lang="ca">FICCIÓ</category>
-    <category lang="ca">PEL·LÍCULA / TELEFILM</category>
+  <programme start="20261031194740 +0100" stop="20261031200822 +0100" channel="tvi">
+    <title lang="ca">Les Feres</title>
+    <sub-title lang="ca">Dame Area</sub-title>
+    <desc lang="ca">Aquest duet barceloní de música electrònica industrial ha aconseguit cridar l'atenció a nivell internacional amb discos com, per exemple, 'Toda la verdad sobre Dame Area': l'estació de ràdio de Seattle KEXP els va convidar a tocar en els seus prestigiosos directes i mitjans amb el relleu de Pitchfork, The Guardian o la mateixa BBC han parlat de la seva música. Nascuts del ja desaparegut club barceloní de culte Màgia Roja, els Dame Area mantenen una activitat intensa dins d'un circuit que ha connectat amb la seva incendiària posada en escena. Per aquesta raó, Les Feres ha capturat el grup en una actuació a la sala Vol, de Barcelona.  'Rompi il cristallo' 'Striscia' 'Devoción' 'Scopri le tue passioni' 'Si no es hoy cuando es'  Silvia Kostance -veu, sintetitzador i percussió Viktor Lux Crux -sintetitzador i percussió  Localització: enregistrat a la sala VOL, a Barcelona  Dia: 19 de gener del 2025 </desc>
+    <length units="seconds">1242</length>
+    <episode-num system="onscreen">31</episode-num>
+    <category lang="ca">ENTRETENIMENT</category>
+    <category lang="ca">ALTRES</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
+    <subtitles type="teletext"/>
+    <previously-shown/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/3/4/1719854188043.jpg"/>
   </programme>
   <channel id="324">
     <display-name>324</display-name>
   </channel>
-  <programme start="20261031143000 +0100" stop="20261031163000 +0100" channel="324">
-    <title lang="ca">Telenotícies migdia</title>
-    <length units="seconds">7200</length>
-    <episode-num system="onscreen">7375</episode-num>
+  <programme start="20261031183000 +0100" stop="20261031200000 +0100" channel="324">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="seconds">5400</length>
+    <episode-num system="onscreen">11580</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <icon src="https://img.ccma.cat/multimedia/jpg/5/4/1758025766345.jpg"/>
+    <subtitles type="teletext"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
-  <programme start="20261031163000 +0100" stop="20261031183000 +0100" channel="324">
+  <programme start="20261031200000 +0100" stop="20261031210000 +0100" channel="324">
     <title lang="ca">Notícies 3CatInfo</title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">7200</length>
-    <episode-num system="onscreen">11579</episode-num>
+    <length units="seconds">3600</length>
+    <episode-num system="onscreen">11581</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
@@ -71,99 +64,114 @@
   <channel id="esport3">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20261031144811 +0100" stop="20261031155500 +0100" channel="esport3">
-    <title lang="ca">Hoquei patins</title>
-    <sub-title lang="ca">CP Fraga - CP Vila-sana / OK Lliga / J1</sub-title>
-    <desc lang="ca">El campionat arrenca amb aquest gran partit. El CP Vila-sana Cooperativa d'Ivars, campió vigent, es va imposar al CP Esneca Fraga a la final de la temporada passada.</desc>
-    <length units="seconds">4009</length>
-    <episode-num system="onscreen">103</episode-num>
+  <programme start="20261031185018 +0100" stop="20261031193530 +0100" channel="esport3">
+    <title lang="ca">Futbol sala</title>
+    <sub-title lang="ca">Lucenec-Barça / Champions League / J3 Main Round</sub-title>
+    <desc lang="ca">Els blaugranes, que ja tenen garantida la primera posició del grup, tanquen la participació a la primera fase de la Champions amb l'objectiu de sumar la tercera victòria en tres partits. El rival és l'equip amfitrió, el Lucenec d'Eslovàquia.</desc>
+    <length units="seconds">2712</length>
+    <episode-num system="onscreen">14</episode-num>
     <category lang="ca">ESPORTS</category>
     <category lang="ca">RETRANSMISSIONS ESPORTS</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <icon src="https://img.ccma.cat/multimedia/jpg/5/5/1701373461655.jpg"/>
+    <previously-shown/>
+    <icon src="https://img.3cat.cat/multimedia/jpg/8/3/1793099713438.jpg"/>
   </programme>
-  <programme start="20261031155500 +0100" stop="20261031164932 +0100" channel="esport3">
-    <title lang="ca">Futbol</title>
-    <sub-title lang="ca">RCD Espanyol-Logronyo / Lliga F / J9</sub-title>
-    <desc lang="ca">Tots dos equips empaten a la classificació després de 2 victòries, 3 empats i 3 derrotes. Guanyar permetria a les blanc-i-blaves mirar cap a la part alta.</desc>
-    <length units="seconds">3272</length>
-    <episode-num system="onscreen">59</episode-num>
+  <programme start="20261031193530 +0100" stop="20261031200000 +0100" channel="esport3">
+    <title lang="ca">Sala de Premsa</title>
+    <sub-title lang="ca">Hansi Flick / Prèvia Barça-Alabès / J11</sub-title>
+    <desc lang="ca">Esport3 t'ofereix les compareixences de dirigents, jugadors i entrenadors dels equips catalans davant els mitjans de comunicació.</desc>
+    <length units="seconds">1470</length>
+    <episode-num system="onscreen">747</episode-num>
     <category lang="ca">ESPORTS</category>
-    <category lang="ca">RETRANSMISSIONS ESPORTS</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <subtitles type="teletext"/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/0/8/1730389343680.jpg"/>
-  </programme>
-  <channel id="sx3">
-    <display-name>SX3</display-name>
-  </channel>
-  <programme start="20261031144556 +0100" stop="20261031160659 +0100" channel="sx3">
-    <title lang="ca">Monster house</title>
-    <sub-title lang="ca">Monster house</sub-title>
-    <desc lang="ca">MONSTER HOUSE (Monster house)D.J. Walters, un noi de 12 anys, té massa temps lliure i ara s'ha entestat a saber què passa a casa de Nebbercracker, un vell que viu a l'altra banda del carrer. Un dia abans de Halloween, en D.J. i el seu amic Chowder es troben amb el senyor Nebbercracker perquè jugant han enviat la pilota al jardí del vell.Direcció: Gil KenanIdioma versió original: anglèsProducció: Columbia Pictures, 2006 (Estats Units)Durada: 86 minutsGuió: Dan Harmon, Rob Schrab i Pamela PettlerMúsica: Douglas PipesPel·lícula de dibuixos animats</desc>
-    <credits>
-      <writer>Dan Harmon</writer>
-      <writer>Rob Schrab</writer>
-    </credits>
-    <length units="seconds">4863</length>
-    <episode-num system="onscreen">1</episode-num>
-    <category lang="ca">FICCIÓ</category>
-    <category lang="ca">PEL·LÍCULA DIBUIXOS ANIMATS</category>
+    <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
-    <icon src="https://img.3cat.cat/multimedia/jpg/0/4/1791536080740.jpg"/>
+    <icon src="https://img.3cat.cat/multimedia/jpg/7/4/1778665728847.jpg"/>
   </programme>
-  <programme start="20261031160659 +0100" stop="20261031163137 +0100" channel="sx3">
-    <title lang="ca">Fuet</title>
-    <sub-title lang="ca">Barcelona és arrasada, i no és culpa del turisme.</sub-title>
-    <desc lang="ca">La Kiry i l'Eda intenten tornar a buscar el Fuet però, de sobte, una emissió externa interromp les comunicacions. El comandant Jau Coloma, un caçador excèntric del planeta Bup, té l'objectiu de capturar el Fuet abans que elles. Mentre intenten posar rumb a la Terra, visitaran la Barcelona del segle X, on descobreixen la brutal destrucció de la ciutat a mans d'Al-Mansur i seran testimonis de com el Comte Borrell trenca lligams amb el regne dels francs marcant l'inici de la independència de Catalunya.</desc>
-    <length units="seconds">1478</length>
-    <episode-num system="onscreen">14</episode-num>
-    <category lang="ca">ENTRETENIMENT</category>
-    <category lang="ca">ALTRES</category>
+  <channel id="sx3">
+    <display-name>SX3</display-name>
+  </channel>
+  <programme start="20261031185427 +0100" stop="20261031190027 +0100" channel="sx3">
+    <title lang="ca">El xai Shaun</title>
+    <sub-title lang="ca">En Bitzer, el monstre</sub-title>
+    <desc lang="ca">En Bitzer s'ha emocionat jugant amb la pilota i ha anat a parar dins d'una bassa plena de fang. Quan en Shaun ha vist una criatura enorme i esgarrifosa voltant pel camp, s'ha pensat que els atacava un monstre que es volia cruspir tot el ramat. Avui va de corredisses i persecucions! L'únic que no entén res és el pobre Bitzer!</desc>
+    <length units="seconds">360</length>
+    <episode-num system="onscreen">67</episode-num>
+    <category lang="ca">FICCIÓ</category>
+    <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
       <value>INFANTIL</value>
     </rating>
-    <subtitles type="teletext"/>
+    <previously-shown/>
+  </programme>
+  <programme start="20261031190027 +0100" stop="20261031190627 +0100" channel="sx3">
+    <title lang="ca">El xai Shaun</title>
+    <sub-title lang="ca">Carbasses en perill</sub-title>
+    <desc lang="ca">Som a la vigília de Halloween i el Bitzer té la missió de vigilar les tres carbasses premiades del granger. A pesar que ell, el Shaun i el ramat fan tot el que poden, les carbasses desapareixen una rere l'altra i només deixen un rastre llefiscós i misteriós. És que potser hi ha un monstre de les carbasses que campa lliurement enmig de la tenebrosa nit?</desc>
+    <length units="seconds">360</length>
+    <episode-num system="onscreen">170</episode-num>
+    <category lang="ca">FICCIÓ</category>
+    <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
+    <rating>
+      <value>INFANTIL</value>
+    </rating>
     <previously-shown/>
   </programme>
   <channel id="c33">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20261031144312 +0100" stop="20261031151113 +0100" channel="c33">
-    <title lang="ca">Quèquicom</title>
-    <sub-title lang="ca">Bacteris: de l'intestí a Mart</sub-title>
-    <desc lang="ca">'Quèquicom' mostrarà la importància que tenen els bacteris en l'alimentació dels humans. Amb el títol genèric 'Bacteris: de l'intestí, a Mart', el programa científic del 33 oferirà un repàs del paper que tenen aquests primers organismes vius que van aparèixer a la Terra.Els bacteris són organismes molt simples, però són capaços d'obtenir energia per moltes vies metabòliques diferents i sobreviure en ambients extrems. Tenen una gran capacitat de reciclatge. Per la qual cosa, són fonamentals per al manteniment de la vida a la Terra. El programa ha fet una recerca bacteriana, que es mostrarà a través d'un reportatge de Pere Renom, que ha començat la feina en un racó de la serra de Collserola, un racó secret i vermellós on emana l'àcid sulfúric. Ha seguit pel Delta de l'Ebre, on el microbiòleg Jordi Urmeneta ensenya els tapets microbians, anàlegs als primers ecosistemes que van aparèixer al planeta fa 3.700 milions d'anys. Però sembla que també hi hauria bacteris al planeta Mart, on arribar-hi serà una missió impossible si no s'aconsegueix domesticar els bacteris perquè fabriquin part de l'aliment que necessiten els astronautes i en reciclin els detritus. A més, cadascun dels astronautes s'endurà en el seu digestiu una dotació de 2 kg de bacteris, sense la qual no sobreviuria, com qualsevol humà que no tingui flora intestinal.La flora bacteriana i la malaltia de CrohnEl programa parlarà de la influència dels bacteris en les malalties. Al voltant del 98% del total de bacteris del cos viuen al tub digestiu, són la flora bacteriana. Conté uns mil tipus de bacteris diferents i pesa dos quilos, o sigui, més que el fetge o el cor. El Dr. Francisco Guarner fa notar que el sistema digestiu té una relació de simbiosi amb els bacteris intestinals. Ells hi troben aliment i a canvi ens faciliten l'absorció de nutrients. A més, són bàsics per a la maduració del sistema immune. Quan la flora no és estable es generen problemes digestius crònics com la mal</desc>
-    <length units="seconds">1681</length>
-    <episode-num system="onscreen">114</episode-num>
-    <category lang="ca">DIVULGACIÓ</category>
-    <category lang="ca">MAGAZINE ESPECIALITZAT</category>
+  <programme start="20261031181809 +0100" stop="20261031194549 +0100" channel="c33">
+    <title lang="ca">Pel·lícula</title>
+    <sub-title lang="ca">Bruc</sub-title>
+    <desc lang="ca">BRUC (bruc, 2011) Producció: Ikiru Films, Mesfilms inversions, Bruc-Laurion amb producció associada de Televisió de Catalunya, 2011Director: Daniel BenmayorGuió: Jordi Gasull i Patzi Amercua segons una història original de Jordi GasullDirector de fotografia: Juanmi AzpirozMúsica: Xavier CapellasIntèrprets: Juan José Ballesta (Bruc) Vicent Perez (Maraval), Santi Millán (De la Mata), Astrid Bergès-Frisbey (Glòria), Nicolas Giraud (Nouaille), Moussa Maaskri (Attab), Jérôme Le Banner (Baraton) i Francesc Albiol (Dr. Ballart)Quan la màquina de guerra més perfecta de tota la història descobreix que la seva primera derrota es deu a un jove rebel, Napoleó envia a sis mercenaris que han lluita en mil i unes batalles amb una sola missió: tallar-li el cap. Després d'assassinar als seus éssers estimats, el grup de mercenaris es disposa a buscar al jove en els indrets més màgics de la sagrada muntanya de Montserrat. El noi, al que anomenen Bruc pel lloc de la batalla, haurà de lluitar sol per sobreviure i venjar la seva família. Es converteix així en un símbol de llibertat i esperança per al seu país, el qual descobreix en ell a l'heroi que va aconseguir derrotar a l'exèrcit invencible de Napoleó Bonaparte.</desc>
+    <credits>
+      <writer>Jordi Gasull</writer>
+      <actor>Juan José Ballesta (Bruc) Vicent Perez (Maraval)</actor>
+      <actor>Santi Millán (De la Mata)</actor>
+      <actor>Astrid Bergès-Frisbey (Glòria)</actor>
+      <actor>Nicolas Giraud (Nouaille)</actor>
+      <actor>Moussa Maaskri (Attab)</actor>
+      <actor>Jérôme Le Banner (Baraton)</actor>
+      <actor>Francesc Albiol (Dr. Ballart)Quan la màquina de guerra més perfecta de tota la història descobreix que la seva primera derrota es deu a un jove rebel</actor>
+      <actor>Napoleó envia a sis mercenaris que han lluita en mil</actor>
+      <actor>unes batalles amb una sola missió: tallar-li el cap. Després d'assassinar als seus éssers estimats</actor>
+      <actor>el grup de mercenaris es disposa a buscar al jove en els indrets més màgics de la sagrada muntanya de Montserrat. El noi</actor>
+      <actor>al que anomenen Bruc pel lloc de la batalla</actor>
+      <actor>haurà de lluitar sol per sobreviure</actor>
+      <actor>venjar la seva família. Es converteix així en un símbol de llibertat</actor>
+      <actor>esperança per al seu país</actor>
+      <actor>el qual descobreix en ell a l'heroi que va aconseguir derrotar a l'exèrcit invencible de Napoleó Bonaparte.</actor>
+    </credits>
+    <length units="seconds">5260</length>
+    <episode-num system="onscreen">1</episode-num>
+    <category lang="ca">FICCIÓ</category>
+    <category lang="ca">PEL·LÍCULA / TELEFILM</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
+    <icon src="https://img.3cat.cat/multimedia/jpg/3/0/1757527635503.jpg"/>
   </programme>
-  <programme start="20261031151113 +0100" stop="20261031155535 +0100" channel="c33">
-    <title lang="ca">Ben Fogle: Retorn a la fi del món</title>
-    <sub-title lang="ca">Tailàndia</sub-title>
-    <desc lang="ca">En Ben viatja a Tailàndia per retrobar-se amb en Paul i en Sao, a qui va conèixer a Cambodja.</desc>
-    <length units="seconds">2662</length>
-    <episode-num system="onscreen">18</episode-num>
+  <programme start="20261031194549 +0100" stop="20261031205919 +0100" channel="c33">
+    <title lang="ca">Fauna</title>
+    <sub-title lang="ca">Fauna</sub-title>
+    <desc lang="ca">'Fauna' (2023), una producció de Nanouk Films en coproducció amb Televisió de Catalunya, la col·laboració del Departament de Cultura de la Generalitat de Catalunya i el suport del Instituto de Cinematografía de las Artes AudiovisualesEn un bosc, als afores de Barcelona, conviuen un vell pastor amb el seu ramat i un modern laboratori d'experimentació animal. El pastor, malalt, veu com la seva professió està en procés de desaparèixer. Els científics, que investiguen la vacuna de la Covid, tenen més feina que mai. EquipDirecció i realització: Pau FausGuió: Pau Faus, Sergi Cameron, Júlia R. AymarProductor: Sergi Cameron i Ventura DurallProductor executiu TVC: Jordi Ambros HortensiProductor delegat TVC: Daniel Barea DelgadoDirector fotografia: Carlota SerarolsMuntatge: Júlia R. AymarDirector de producció: Marina JoverMúsica: Israel MarcoLingüista: Eva ReyesGrafisme: Escola Studio</desc>
+    <length units="seconds">4410</length>
+    <episode-num system="onscreen">1</episode-num>
     <category lang="ca">DIVULGACIÓ</category>
-    <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
+    <category lang="ca">DOCUMENTAL DE CREACIÓ</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
+    <icon src="https://img.3cat.cat/multimedia/jpg/5/7/1725961617675.jpg"/>
   </programme>
   <channel id="oca1">
     <display-name>OCA1</display-name>
