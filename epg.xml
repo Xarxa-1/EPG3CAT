@@ -3,55 +3,50 @@
   <channel id="tvi">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20261101181304 +0100" stop="20261101190842 +0100" channel="tvi">
-    <title lang="ca">Temps de silenci</title>
-    <sub-title lang="ca">APARENCES</sub-title>
-    <desc lang="ca">L'Antonio i la Núria, amb les parelles canviades... El procés de Burgos. En Frederic pot tenir problemes per ser com és. El gran canvi d'en Joaquim... En Ramon segueix vivint la seva soledat...</desc>
-    <length units="seconds">3338</length>
-    <episode-num system="onscreen">21</episode-num>
-    <category lang="ca">FICCIÓ</category>
-    <category lang="ca">SÈRIE DRAMÀTICA</category>
+  <programme start="20261101220835 +0100" stop="20261101225416 +0100" channel="tvi">
+    <title lang="ca">30 minuts</title>
+    <sub-title lang="ca">Ruta 66, escoltant els Estats Units</sub-title>
+    <desc lang="ca">Dos anys de Donald Trump a la Casa Blanca, unes eleccions de mig mandat a la vista i un país que ha celebrat el seu 250 aniversari. Aquest és el punt de partida per intentar respondre la pregunta que el món es fa: cap a on van els Estats Units? L'equip de TV3 a Washington ha recorregut de punta a punta la ruta 66, des de Chicago fins a Los Angeles, per prendre el pols a la societat nord-americana en un dels molts punts d'inflexió que el país ha viscut al llarg de la seva història. El resultat és un mosaic de veus i de vides trobades al llarg de 4.000 quilòmetres que s'expliquen i que expliquen el moment actual: des del canvi en les polítiques migratòries fins a la implicació en la guerra de l'Iran passant pel cost de la vida, la polarització al voltant de Donald Trump o el racisme històric. Una família mexicana a Illinois, una mare i un fill al seu porxo de Missouri, unes perruqueres a Oklahoma, un pastor baptista a Texas, un policia navajo a Nou Mèxic, un veterà del Vietnam a Arizona o joves amb un futur incert a Califòrnia. Tots es pregunten què és ser nord-americà avui, i amb les seves respostes i les seves experiències vitals es va teixint un retrat que vol fugir de la caricatura o la simplificació. Sota la gran polarització hi ha matisos. I sota el seu optimisme natural hi ha alguna fractura. 'Ruta 66, escoltant els Estats Units' no pretén ser la veritat definitiva, però tot el que hi surt és veritat i reflecteix per on passa el país la tardor del 2026.</desc>
+    <length units="seconds">2741</length>
+    <episode-num system="onscreen">1296</episode-num>
+    <category lang="ca">ACTUALITAT</category>
+    <category lang="ca">REPORTATGES</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <subtitles type="teletext"/>
-    <previously-shown/>
+    <icon src="https://statics.ccma.cat/multimedia/jpg/7/3/1571603193237.jpg"/>
   </programme>
-  <programme start="20261101190842 +0100" stop="20261101193823 +0100" channel="tvi">
-    <title lang="ca">Tot torna</title>
-    <sub-title lang="ca">2004</sub-title>
-    <desc lang="ca">Repassem el 2004, l'any que Joan Clos balla al ritme de Carlinhos Brown per l'arribada del Fòrum de les Cultures. Carod-Rovira negocia amb ETA, Zapatero guanya les eleccions després de l'11M i Leo Messi debuta coincidint amb la retirada de Maradona (el de la Rambla).</desc>
-    <length units="seconds">1781</length>
-    <episode-num system="onscreen">3</episode-num>
-    <category lang="ca">ENTRETENIMENT</category>
-    <category lang="ca">ALTRES</category>
+  <programme start="20261101225416 +0100" stop="20261102011408 +0100" channel="tvi">
+    <title lang="ca">Vèrtex</title>
+    <desc lang="ca">Hi ha notícies que només s'entenen quan s'observen des de diferents perspectives. Amb aquesta premissa neix 'Vèrtex', el nou programa d'actualitat setmanal que converteix la complexitat dels grans temes en una conversa rigorosa, visual i propera. El programa ofereix una mirada transversal dels assumptes que han marcat la setmana i dels que definiran la que està a punt de començar.</desc>
+    <length units="seconds">8392</length>
+    <episode-num system="onscreen">5</episode-num>
+    <category lang="ca">DIVULGACIÓ</category>
+    <category lang="ca">ENTREVISTES</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <subtitles type="teletext"/>
-    <previously-shown/>
   </programme>
   <channel id="324">
     <display-name>324</display-name>
   </channel>
-  <programme start="20261101183000 +0100" stop="20261101200000 +0100" channel="324">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">5400</length>
-    <episode-num system="onscreen">11588</episode-num>
+  <programme start="20261101210000 +0100" stop="20261101230000 +0100" channel="324">
+    <title lang="ca">Telenotícies vespre</title>
+    <length units="seconds">7200</length>
+    <episode-num system="onscreen">7375</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/7/2/1758026176427.jpg"/>
   </programme>
-  <programme start="20261101200000 +0100" stop="20261101210000 +0100" channel="324">
+  <programme start="20261101230000 +0100" stop="20261102003000 +0100" channel="324">
     <title lang="ca">Notícies 3CatInfo</title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">3600</length>
-    <episode-num system="onscreen">11589</episode-num>
+    <length units="seconds">5400</length>
+    <episode-num system="onscreen">11590</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
@@ -63,70 +58,75 @@
   <channel id="esport3">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20261101185200 +0100" stop="20261101203500 +0100" channel="esport3">
-    <title lang="ca">Handbol</title>
-    <sub-title lang="ca">BM Granollers-Barça / Lliga Asobal / J8</sub-title>
-    <desc lang="ca">El Fraikin arriba al derbi amb 5 victòries, 1 empat i 1 derrota. Els blaugranes, que han disputat una jornada menys, han guanyat els 6 partits que han jugat.</desc>
-    <length units="seconds">6180</length>
-    <episode-num system="onscreen">197</episode-num>
+  <programme start="20261101223902 +0100" stop="20261101230000 +0100" channel="esport3">
+    <title lang="ca">Zona zàping</title>
+    <sub-title lang="ca">Mbappé s'emporta el Clàssic</sub-title>
+    <desc lang="ca">Kylian Mbappé va decantar el clàssic amb dos gols que van donar la victòria al Real Madrid. Una gerra d'aigua freda per als seguidors blaugrana, que van veure com l'endemà Lamine Yamal tampoc guanyava la pilota d'or, en mans de Harry Kane.David Rosell, cantant del grup manresà Dept., ens presenta la seva cançó de retorn al mercat musical després de 12 anys 'Brindarem'.</desc>
+    <length units="seconds">1258</length>
+    <episode-num system="onscreen">1090</episode-num>
     <category lang="ca">ESPORTS</category>
-    <category lang="ca">RETRANSMISSIONS ESPORTS</category>
+    <category lang="ca">ALTRES</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <icon src="https://img.ccma.cat/multimedia/jpg/9/1/1700215879019.jpg"/>
+    <subtitles type="teletext"/>
+    <previously-shown/>
+    <icon src="https://img.3cat.cat/multimedia/jpg/4/7/1763564970974.jpg"/>
   </programme>
-  <programme start="20261101203500 +0100" stop="20261101212548 +0100" channel="esport3">
-    <title lang="ca">Hoquei patins</title>
-    <sub-title lang="ca">Barça-Igualada HC / OK Lliga / J1</sub-title>
-    <desc lang="ca">Un gran partit per començar el campionat. L'Igualada Rigat HC defensa el títol i els blaugranes, que es van imposar recentment als de l'Anoia a la final de la Supercopa, també aspiren a guanyar l'OK Lliga.</desc>
-    <length units="seconds">3048</length>
-    <episode-num system="onscreen">388</episode-num>
+  <programme start="20261101230000 +0100" stop="20261102003108 +0100" channel="esport3">
+    <title lang="ca">Gol a gol</title>
+    <sub-title lang="ca">Anàlisi de la jornada / J11 / Diumenge</sub-title>
+    <desc lang="ca">'Gol a gol' us ofereix els resums dels partits de futbol de Primera i Segona Divisió. Presentat per Jordi Grau a Esport3, cada dissabte i cada diumenge podeu veure les millors imatges de la jornada de Lliga amb l'anàlisi dels experts, amb especial atenció als equips catalans, sobretot el Barça, el Girona i l'Espanyol.</desc>
+    <length units="seconds">5468</length>
+    <episode-num system="onscreen">1798</episode-num>
     <category lang="ca">ESPORTS</category>
-    <category lang="ca">RETRANSMISSIONS ESPORTS</category>
+    <category lang="ca">MAGAZINE</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <icon src="https://img.3cat.cat/multimedia/jpg/5/7/1758291200775.jpg"/>
+    <subtitles type="teletext"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/2/1/1698144123212.jpg"/>
   </programme>
   <channel id="sx3">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20261101185341 +0100" stop="20261101185941 +0100" channel="sx3">
-    <title lang="ca">El xai Shaun</title>
-    <sub-title lang="ca">Artistes desconeguts</sub-title>
-    <desc lang="ca">Aprofitant que avui no hi havia gran cosa per fer, els animals de la granja, amb en Shaun al capdavant, han decidit fer tot de numerets, com si fossin al teatre, per riure una estona. Tot anava bé, fins que s'ha presentat el granger i també ha volgut fer el seu numeret, que els ha deixat a tots amb un pam de nas. T'imagines què ha fet?!</desc>
-    <length units="seconds">360</length>
-    <episode-num system="onscreen">129</episode-num>
+  <programme start="20261101223447 +0100" stop="20261101224548 +0100" channel="sx3">
+    <title lang="ca">La tropa del corral</title>
+    <sub-title lang="ca">DJ Elvis</sub-title>
+    <desc lang="ca">La Tropa intenta ajudar l'Elvis amb l'equip de so per al Mascota Fest, però la Flo acaba fent saltar tota la xarxa elèctrica de Vilanimal quan endolla el Funkatró, una màquina de festa que fa ballar tothom sense parar.</desc>
+    <length units="seconds">661</length>
+    <episode-num system="onscreen">43</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
       <value>INFANTIL</value>
     </rating>
+    <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20261101185941 +0100" stop="20261101190737 +0100" channel="sx3">
-    <title lang="ca">El xai Shaun</title>
-    <sub-title lang="ca">La fruita</sub-title>
-    <desc lang="ca">Tip de menjar herba, en Shaun ha decidit que pisparà una poma al granger. D'entrada, no hauria de ser gaire complicat, però resulta que ara el granger té un nou amic que és més viu que la tinya i que no en deixa passar ni una. Però el pitjor de tot és que aquest nou amic és una ovella! Avui a en Shaun li tocarà pensar de valent, si vol tastar les pomes.</desc>
-    <length units="seconds">476</length>
-    <episode-num system="onscreen">130</episode-num>
+  <programme start="20261101224548 +0100" stop="20261101225623 +0100" channel="sx3">
+    <title lang="ca">La tropa del corral</title>
+    <sub-title lang="ca">Un os per al gos</sub-title>
+    <desc lang="ca">L'Agnes truca la Tropa. Sembla que la Bertha i en Sam es barallen per un os perquè tots dos en reclamen la propietat. La Tropa mirarà de trobar la manera de fer-los deixar l'os mentre lluiten per tota Vilanimal.</desc>
+    <length units="seconds">635</length>
+    <episode-num system="onscreen">44</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
       <value>INFANTIL</value>
     </rating>
+    <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
   <channel id="c33">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20261101182343 +0100" stop="20261101190757 +0100" channel="c33">
-    <title lang="ca">Ben Fogle: Retorn a la fi del món</title>
-    <sub-title lang="ca">Sri Lanka</sub-title>
-    <desc lang="ca">En Bet es troba amb la Janey, una veterinària que es va encarregar de rescatar centenars de gossos a Sri Lanka.</desc>
-    <length units="seconds">2654</length>
-    <episode-num system="onscreen">20</episode-num>
+  <programme start="20261101220516 +0100" stop="20261101225750 +0100" channel="c33">
+    <title lang="ca">Llocs recòndits</title>
+    <sub-title lang="ca">Les Illes Canàries</sub-title>
+    <desc lang="ca">'Llocs recòndits - Les Canàries' és un especial de televisió d'una hora, produït, presentat i narrat per l'editor de viatges de la CBS News, Peter Greenberg, i que explora les vuit illes espanyoles: El Hierro, Fuerteventura, Gran Canaria, La Gomera, La Graciosa, Lanzarote, La Palma i Tenerife.</desc>
+    <length units="seconds">3154</length>
+    <episode-num system="onscreen">2</episode-num>
     <category lang="ca">DIVULGACIÓ</category>
     <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
     <rating>
@@ -135,11 +135,11 @@
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20261101190757 +0100" stop="20261101193401 +0100" channel="c33">
-    <title lang="ca">Els hotels més remots del món</title>
-    <sub-title lang="ca">Tree hotel</sub-title>
-    <desc lang="ca">El Kent, el fundador, la seva dona Brita, i la seva filla Sofia, tots nascuts en un poble veí, són els fundadors i els amfitrions acollidors d'aquest extraordinari hotel. Actualment l'Hotel dels arbres compta amb 7 cabanes, de les més luxoses a les més exuberants, totes creades per grans noms de l'arquitectura sueca. El concepte clau d'aquest lloc és l'harmonia amb la natura: aïllats a les seves cabanes a les capçades dels arbres, els hostes perden gradualment la seva concepció urbana i es deixen endur pel paisatge.</desc>
-    <length units="seconds">1564</length>
+  <programme start="20261101225750 +0100" stop="20261101235053 +0100" channel="c33">
+    <title lang="ca">Llocs recòndits</title>
+    <sub-title lang="ca">L'Egeu amagat de Turquia</sub-title>
+    <desc lang="ca">Acompanyeu en Peter Greenberg, el presentador, mentre viatja per tota la costa del mar Egeu i explora Bodrum, Esmirna i l'antiga ciutat de Troia.</desc>
+    <length units="seconds">3183</length>
     <episode-num system="onscreen">1</episode-num>
     <category lang="ca">DIVULGACIÓ</category>
     <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
