@@ -31,52 +31,40 @@
   <channel id="324">
     <display-name>324</display-name>
   </channel>
-  <programme start="20261031210000 +0100" stop="20261031230000 +0100" channel="324">
-    <title lang="ca">Telenotícies vespre</title>
-    <length units="seconds">7200</length>
-    <episode-num system="onscreen">7374</episode-num>
-    <category lang="ca">ACTUALITAT</category>
-    <category lang="ca">INFORMATIU DIÀRI</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <subtitles type="teletext"/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/7/2/1758026176427.jpg"/>
-  </programme>
-  <programme start="20261031230000 +0100" stop="20261101003000 +0100" channel="324">
+  <programme start="20261101010000 +0100" stop="20261101060000 +0100" channel="324">
     <title lang="ca">Notícies 3CatInfo</title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">5400</length>
-    <episode-num system="onscreen">11582</episode-num>
+    <length units="seconds">18000</length>
+    <episode-num system="onscreen">11583</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <subtitles type="teletext"/>
+    <previously-shown/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
+  </programme>
+  <programme start="20261101060000 +0100" stop="20261101070000 +0100" channel="324">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="seconds">3600</length>
+    <episode-num system="onscreen">11583</episode-num>
+    <category lang="ca">ACTUALITAT</category>
+    <category lang="ca">INFORMATIU DIÀRI</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <previously-shown/>
     <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
   <channel id="esport3">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20261031205717 +0100" stop="20261031225500 +0100" channel="esport3">
-    <title lang="ca">Un dia de partit</title>
-    <sub-title lang="ca">Barça-Alabès</sub-title>
-    <desc lang="ca">A 'Un dia de partit' arreglem el Barça. O no. A cada partit, sis culers hi diuen la seva. Famosos i anònims. Cadascun a casa seva. Davant del televisor. Tot a base de videotrucades, en format Twitch i en rigorós directe. Ah! I a la mitja part no aturem màquines. Amb els jugadors als vestidors, nosaltres seguim fent bullir l'olla! Només sis culers? Negatiu. Durant el partit van apareixent els Jimmy Jump: els espontanis que demanen saltar a 'Un dia de partit' via WhatsApp.</desc>
-    <length units="seconds">7063</length>
-    <episode-num system="onscreen">257</episode-num>
-    <category lang="ca">ESPORTS</category>
-    <category lang="ca">RETRANSMISSIONS ESPORTS</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <icon src="https://img.ccma.cat/multimedia/jpg/2/7/1678885232972.jpg"/>
-  </programme>
-  <programme start="20261031225500 +0100" stop="20261101003108 +0100" channel="esport3">
+  <programme start="20261101005952 +0100" stop="20261101023134 +0100" channel="esport3">
     <title lang="ca">Gol a gol</title>
     <sub-title lang="ca">Post Barça-Alabès / J11</sub-title>
     <desc lang="ca">'Gol a gol' us ofereix els resums dels partits de futbol de Primera i Segona Divisió. Presentat per Jordi Grau a Esport3, cada dissabte i cada diumenge podeu veure les millors imatges de la jornada de Lliga amb l'anàlisi dels experts, amb especial atenció als equips catalans, sobretot el Barça, el Girona i l'Espanyol.</desc>
-    <length units="seconds">5768</length>
+    <length units="seconds">5502</length>
     <episode-num system="onscreen">1797</episode-num>
     <category lang="ca">ESPORTS</category>
     <category lang="ca">MAGAZINE</category>
@@ -84,17 +72,31 @@
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
+    <previously-shown/>
     <icon src="https://img.ccma.cat/multimedia/jpg/2/1/1698144123212.jpg"/>
+  </programme>
+  <programme start="20261101023134 +0100" stop="20261101031309 +0100" channel="esport3">
+    <title lang="ca">3CatInfo Esports</title>
+    <desc lang="ca">Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.</desc>
+    <length units="seconds">2495</length>
+    <episode-num system="onscreen">5555</episode-num>
+    <category lang="ca">ESPORTS</category>
+    <category lang="ca">INFORMATIU DIÀRI</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <previously-shown/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/9/7/1758888682179.jpg"/>
   </programme>
   <channel id="sx3">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20261031220218 +0100" stop="20261031221313 +0100" channel="sx3">
-    <title lang="ca">Les filles del Dad</title>
-    <sub-title lang="ca">El Nadal sorpresa</sub-title>
-    <desc lang="ca">Aquest any, les noies han de passar les vacances de Nadal amb les seves mares respectives, però una tempesta de neu deixa aïllada la ciutat i les obliga a passar les festes al pis amb el Dad... que, com que havia d'estar sol, no havia previst res. Les noies s'hauran d'afanyar per trobar un regal pel seu pare, i el Dad, per fer un sopar digne d'un dia tan assenyalat.</desc>
-    <length units="seconds">655</length>
-    <episode-num system="onscreen">31</episode-num>
+  <programme start="20261101010334 +0100" stop="20261101012534 +0100" channel="sx3">
+    <title lang="ca">Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
+    <sub-title lang="ca">Revelador</sub-title>
+    <desc lang="ca">La Marinette i l'Adrien són la parella més famosa de París i desperten l'interès d'un influencer poc escrupolós, disposat a tot per fer-se viral a les xarxes, fins i tot a destruir l'amor entre els dos adolescents. Podrà la seva relació sobreviure a una mentida?</desc>
+    <length units="seconds">1320</length>
+    <episode-num system="onscreen">142</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
@@ -103,12 +105,12 @@
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20261031221313 +0100" stop="20261031222343 +0100" channel="sx3">
-    <title lang="ca">Les filles del Dad</title>
-    <sub-title lang="ca">Amigues com la Crochon</sub-title>
-    <desc lang="ca">L'Ondine i la Roxane n'estan una mica fins al capdamunt de les queixes constants i dels comentaris sarcàstics de la Panda, i volen mirar de treure-se-la del damunt de cara al diumenge següent, quan vindran els avis a fer creps amb elles. Llavors s'adonen que té molts punts en comú amb la senyora Crochon i miren de trobar la manera que es facin amigues. Però la jugada no sortirà tan bé com s'esperaven.</desc>
-    <length units="seconds">630</length>
-    <episode-num system="onscreen">32</episode-num>
+  <programme start="20261101012534 +0100" stop="20261101014622 +0100" channel="sx3">
+    <title lang="ca">Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
+    <sub-title lang="ca">Psiconductora</sub-title>
+    <desc lang="ca">Traumatitzada des que la van akumatitzar, l'Aglaé té fòbia a les papallones i fins i tot li fa por sortir de casa. A la Marinette li agradaria trobar una solució màgica per ajudar la seva amiga, però, com per desgràcia descobrirà, Ladybug no pot arreglar tots els problemes.</desc>
+    <length units="seconds">1248</length>
+    <episode-num system="onscreen">143</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
@@ -120,31 +122,38 @@
   <channel id="c33">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20261031215914 +0100" stop="20261031222034 +0100" channel="c33">
-    <title lang="ca">Marcians</title>
-    <sub-title lang="ca">Documentar-se abans de crear</sub-title>
-    <desc lang="ca">Documentar-se és fonamental en la creació de tot tipus d'obres artístiques. Fins que no se senten que han investigat i han fet prou recerca, hi ha moltes autores i autors que són incapaços d'iniciar un projecte nou. Cristina Masanés està enllestint un assaig al qual ha dedicat quatre anys d'estudis exhaustius. Es titula 'Les maletes de Portbou',', i segueix la pista dels intel·lectuals centreeuropeus perseguits pel nazisme, que van fugir durant la II Guerra Mundial per la nostra estació ferroviària fronterera. L'escriptora i periodista es fixa en què van rescatar d'Europa dins de les seves maletes, quines idees, quines obres van salvar de l'aniquilació en un exili cap als Estats Units que va passar per casa nostra. Una d'aquestes exiliades va ser Hannah Arendt, i les seves idees han inspirat el tàndem creatiu teatral que formen Maria Jover i Gerard Franch. La seva filosofia política els ressona en l'actual era de la intel·ligència artificial i d'aquí n'ha sortit el seu nou espectacle, 'Un mal normal', que estrenaran al Festival Temporada Alta. És una peça, en realitat, banyada d'humor i música, però que han creat després de llegir molta filosofia, teoria política i estudis sobre la IA, lectures que han contrastat amb converses amb especialistes com la professora de l'UPF Tatiana Llaguno i l'analista de dades Roger Sanjaume. Són dues maneres de documentar-se per a dues disciplines artístiques com són la literatura i el teatre en el context d'un nou auge de l'extrema dreta a Europa, ara, amb noves eines.</desc>
-    <length units="seconds">1280</length>
-    <episode-num system="onscreen">101</episode-num>
-    <category lang="ca">ENTRETENIMENT</category>
-    <category lang="ca">ALTRES</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <subtitles type="teletext"/>
-  </programme>
-  <programme start="20261031222034 +0100" stop="20261031235711 +0100" channel="c33">
-    <title lang="ca">El documental</title>
-    <sub-title lang="ca">Una canción para mi tierra</sub-title>
-    <desc lang="ca">En un poble rural de l'Argentina, Ramiro Lezcano, un professor de música, descobreix que les fumigacions properes a les escoles posen en risc la salut dels alumnes. Juntament amb ells, compon cançons per denunciar aquesta tragèdia, però s'enfronta a una resistència ferotge. Decidit a portar el seu missatge més enllà, intenta organitzar un 'Woodstock ambiental' enmig del camp, on la seva música i la seva lluita puguin ressonar amb força i arribar a tothom.</desc>
-    <length units="seconds">5797</length>
+  <programme start="20261101004913 +0100" stop="20261101015340 +0100" channel="c33">
+    <title lang="ca">Bruixes, la gran mentida</title>
+    <sub-title lang="ca">Bruixes, la gran mentida</sub-title>
+    <desc lang="ca">'Bruixes, la gran mentida' és una producció de Televisió de Catalunya en coproducció amb Sàpiens ( Abacus, SCCL) amb el suport de la Diputació de Lleida.Entre els segles XV i XVII Catalunya va ser un dels focus mundials de caceres de bruixes. Per primer cop un documental aborda aquesta qüestió a partir d'una investigació recent i exclusiva sobre aquest horror, i que desmunta diversos tòpics que han perdurat fins ara. 'Bruixes, la gran mentida', dirigit per la premiada directora Joanna Pardos, és una docuficció que mescla la recreació al detall d'un dels judicis més sonats de Catalunya, amb entrevistes als principals especialistes en el tema. Alhora, ressegueix les conseqüències i herències actuals de les dinàmiques patriarcals que s'establiren aleshores amb testimonis únics i punyents. Fitxa TècnicaDirecció: Joanna Pardos Realització ficció: Roman Parrado Realització documental: Raul Cuevas Guió: Joanna Pardos, Margarida Olivé i Anna Alsina Guió ficció: Roger Danès i Alfred Pérez Producció: Sílvia Vinardell i Lola Pedrós So: Carnaby studio Edició: Jordi Gallofré i Gal·la de Yzaguirre Assessorament històric: Pau Castell i Agustí Alcoberro Producció executiva Sàpiens: Marc Roma i Oriol Cortacans Producció executiva TV3 Sílvia Pairó Vila Direcció executiva TV3: Montse Armengou Martín </desc>
+    <credits>
+      <director>Joanna Pardos Realització ficció: Roman Parrado Realització documental: Raul Cuevas</director>
+      <writer>Joanna</writer>
+    </credits>
+    <length units="seconds">3867</length>
     <episode-num system="onscreen">1</episode-num>
-    <category lang="ca">DIVULGACIÓ</category>
-    <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
+    <category lang="ca">ACTUALITAT</category>
+    <category lang="ca">DOCUMENTAL</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
+    <previously-shown/>
+    <icon src="https://img.3cat.cat/multimedia/jpg/6/0/1668674169506.jpg"/>
+  </programme>
+  <programme start="20261101015340 +0100" stop="20261101023817 +0100" channel="c33">
+    <title lang="ca">El Crac</title>
+    <sub-title lang="ca">La gran bogeria</sub-title>
+    <desc lang="ca">Al Joel li cau la bena dels ulls i comença a adonar-se que potser s'ha equivocat amb la Carla. Just quan està a punt de deixar-la, la Carla li diu que l'han agafat per fer un anunci amb el George Clooney i que l'actor vindrà a casa a sopar aquella mateixa nit. La possibilitat de conèixer el gran George fa que el Joel aplaci la seva ruptura i es comprometi a fons amb la Carla.</desc>
+    <length units="seconds">2677</length>
+    <episode-num system="onscreen">12</episode-num>
+    <category lang="ca">FICCIÓ</category>
+    <category lang="ca">SÈRIE DRAMÀTICA</category>
+    <rating>
+      <value>PÚBLIC ADULT</value>
+    </rating>
+    <subtitles type="teletext"/>
+    <previously-shown/>
   </programme>
   <channel id="oca1">
     <display-name>OCA1</display-name>
