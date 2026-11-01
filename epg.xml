@@ -3,100 +3,83 @@
   <channel id="tvi">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20261101060000 +0100" stop="20261101070000 +0100" channel="tvi">
+  <programme start="20261101121715 +0100" stop="20261101143000 +0100" channel="tvi">
     <title lang="ca">Notícies 3CatInfo</title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">3600</length>
-    <episode-num system="onscreen">11583</episode-num>
+    <length units="seconds">7965</length>
+    <episode-num system="onscreen">11586</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
+    <subtitles type="teletext"/>
     <previously-shown/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
-  </programme>
-  <programme start="20261101070000 +0100" stop="20261101085452 +0100" channel="tvi">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">6892</length>
-    <episode-num system="onscreen">11584</episode-num>
-    <category lang="ca">ACTUALITAT</category>
-    <category lang="ca">INFORMATIU DIÀRI</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
     <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
   <channel id="324">
     <display-name>324</display-name>
   </channel>
-  <programme start="20261101060000 +0100" stop="20261101070000 +0100" channel="324">
+  <programme start="20261101120000 +0100" stop="20261101143000 +0100" channel="324">
     <title lang="ca">Notícies 3CatInfo</title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">3600</length>
-    <episode-num system="onscreen">11583</episode-num>
+    <length units="seconds">9000</length>
+    <episode-num system="onscreen">11586</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <previously-shown/>
     <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
-  <programme start="20261101070000 +0100" stop="20261101100000 +0100" channel="324">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">10800</length>
-    <episode-num system="onscreen">11584</episode-num>
+  <programme start="20261101143000 +0100" stop="20261101163000 +0100" channel="324">
+    <title lang="ca">Telenotícies migdia</title>
+    <length units="seconds">7200</length>
+    <episode-num system="onscreen">7376</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <subtitles type="teletext"/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/5/4/1758025766345.jpg"/>
   </programme>
   <channel id="esport3">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20261101063846 +0100" stop="20261101070532 +0100" channel="esport3">
-    <title lang="ca">3CatInfo Esports</title>
-    <desc lang="ca">Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.</desc>
-    <length units="seconds">1606</length>
-    <episode-num system="onscreen">5555</episode-num>
+  <programme start="20261101114507 +0100" stop="20261101140819 +0100" channel="esport3">
+    <title lang="ca">Bàsquet</title>
+    <sub-title lang="ca">Asisa Joventut-Surne Bilbao / Lliga / J6</sub-title>
+    <desc lang="ca">Els badalonins (2 victòries i 3 derrotes) millorarien a la classificació si guanyen el conjunt basc (3 victòries i 2 derrotes).</desc>
+    <length units="seconds">8592</length>
+    <episode-num system="onscreen">47</episode-num>
     <category lang="ca">ESPORTS</category>
-    <category lang="ca">INFORMATIU DIÀRI</category>
+    <category lang="ca">RETRANSMISSIONS ESPORTS</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <previously-shown/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/9/7/1758888682179.jpg"/>
+    <icon src="https://img.3cat.cat/multimedia/jpg/4/5/1769511199554.jpg"/>
   </programme>
-  <programme start="20261101070532 +0100" stop="20261101083703 +0100" channel="esport3">
-    <title lang="ca">Gol a gol</title>
-    <sub-title lang="ca">Post Barça-Alabès / J11</sub-title>
-    <desc lang="ca">'Gol a gol' us ofereix els resums dels partits de futbol de Primera i Segona Divisió. Presentat per Jordi Grau a Esport3, cada dissabte i cada diumenge podeu veure les millors imatges de la jornada de Lliga amb l'anàlisi dels experts, amb especial atenció als equips catalans, sobretot el Barça, el Girona i l'Espanyol.</desc>
-    <length units="seconds">5491</length>
-    <episode-num system="onscreen">1797</episode-num>
+  <programme start="20261101140819 +0100" stop="20261101143000 +0100" channel="esport3">
+    <title lang="ca">Espòiler</title>
+    <desc lang="ca">'Espòiler' és un programa dedicat al món dels cotxes i del caravàning, un espai on hi té cabuda tot el que té a veure amb aquests vehicles a motor. Descobrim les novetats del sector, amb models que s'acaben d'estrenar, test drives, una secció d'electromobilitat i també les millors autocaravanes del moment.Mercè Rivas, Sergio Domínguez, Oriol Llardén i Telva Somoza són els encarregats de posar a prova els automòbils i transmetre les seves sensacions. Dani Blasco capitaneja la secció 'Contravolant', on us sorprèn amb històries extraordinàries i divertides. El programa també té un espai anomenat 'Al volant amb...', en què cada setmana un famós ajuda Carles Llinars, instructor del Circuit Escola del RACC, a explicar un consell de conducció.'Espòiler' és una producció de Televisió de Catalunya amb la col·laboració de Drive Media i la realització de HolyCars Studio.</desc>
+    <length units="seconds">1301</length>
+    <episode-num system="onscreen">63</episode-num>
     <category lang="ca">ESPORTS</category>
-    <category lang="ca">MAGAZINE</category>
+    <category lang="ca">REPORTATGES</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <subtitles type="teletext"/>
-    <previously-shown/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/2/1/1698144123212.jpg"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/1/0/1698433593401.jpg"/>
   </programme>
   <channel id="sx3">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20261101064524 +0100" stop="20261101070723 +0100" channel="sx3">
-    <title lang="ca">Les Tres Bessones</title>
-    <sub-title lang="ca">Les tres bessones i el Mag d'Oz</sub-title>
-    <desc lang="ca">Aquest cop el que transporta les nenes a un conte no és un càstig de l'Avorrida, sinó una increïble ventada. A la Bruixa també se l'emporta, és clar, i comparteix amb les nenes una aventura al màgic món del mag d'Oz. Allà, les Bessones hauran de demostrar que són capaces de transformar-se en lleó, home de llauna i espantaocells...</desc>
-    <length units="seconds">1319</length>
-    <episode-num system="onscreen">31</episode-num>
+  <programme start="20261101131223 +0100" stop="20261101133542 +0100" channel="sx3">
+    <title lang="ca">Pat, el gos (especials)</title>
+    <sub-title lang="ca">Una història horripilant</sub-title>
+    <desc lang="ca">Per Halloween, la Lola ha preparat una història de por sobre un amulet màgic. Quan s'adonen que el Caputxet se sent atret per l'amulet, els coloms el roben per desfer-se del gat. Mentre el Pat fa tot el possible per recuperar-lo, una sèrie de coses estranyes comencen a passar a casa de la Lola des que ha desaparegut l'amulet. De fet, la Lucy, l'Hugo i l'Hortènsia també han desaparegut!</desc>
+    <length units="seconds">1399</length>
+    <episode-num system="onscreen">4</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
@@ -105,14 +88,14 @@
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20261101070723 +0100" stop="20261101071922 +0100" channel="sx3">
-    <title lang="ca">L'abella Maia</title>
-    <sub-title lang="ca">Voteu-me!</sub-title>
-    <desc lang="ca">Els insectes del prat ja estan tips de fer tantes reunions. En Flip proposa fer eleccions i escollir un alcalde que es responsabilitzi de prendre les decisions que necessiti el prat. Als insectes els sembla molt bé, però llavors l'Stinger diu que es vol presentar de candidat i això no li fa gens de gràcia a ningú, perquè com és normal, als insectes del prat no els hi agradaria gens tenir una vespa delinqüent fent d'alcalde.</desc>
-    <length units="seconds">719</length>
-    <episode-num system="onscreen">106</episode-num>
-    <category lang="ca">FICCIÓ</category>
-    <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
+  <programme start="20261101133542 +0100" stop="20261101140515 +0100" channel="sx3">
+    <title lang="ca">Manduka</title>
+    <sub-title lang="ca">Crema de carbassa divertida - Mireia Portas</sub-title>
+    <desc lang="ca">Les cremes de verdures són un autèntic malson per a molts petits. Per això, en aquest programa, juntament amb l'actriu i imitadora Mireia Portas, farem una crema molt divertida. La farem de tres colors i amb 'toppings' (o guarniments) cruixents. A banda de riure molt amb ella, també aprendrem a fer ous ferrats de diferents colors. I convertirem la cuina de Can Cinto en un zoològic amb tortugues i pingüins fets amb aliments com kiwis i raïm.</desc>
+    <length units="seconds">1773</length>
+    <episode-num system="onscreen">8</episode-num>
+    <category lang="ca">ENTRETENIMENT</category>
+    <category lang="ca">ALTRES</category>
     <rating>
       <value>INFANTIL</value>
     </rating>
@@ -122,12 +105,12 @@
   <channel id="c33">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20261101063300 +0100" stop="20261101065910 +0100" channel="c33">
-    <title lang="ca">Quèquicom</title>
-    <sub-title lang="ca">Montsec: un viatge de vertigen</sub-title>
-    <desc lang="ca">El Montsec és un dels millors llocs del món per fer parapent. La reportera Samantha Vall s'atreveix a sobrevolar una comarca en què es pot fer un prodigiós viatge en el temps: des dels fòssils fins a les estrelles que es van formar fa milions d'anys, justament quan aquells animals s'extingien. 'Quèquicom' visita el congost de Mont-rebei i també l'Observatori Astronòmic del Montsec.El riu Noguera Ribagorçana talla la serra del Montsec i a Mont-rebei ha format un congost que té parets verticals de més de 500 metres d'altura. Passar pel camí de ferradura excavat a la pedra és una experiència que requereix certa valentia, ja que no té baranes i molts metres per sota passa el riu. Però si, sobreposant-se al vertigen, l'excursionista mira les roques, hi pot distingir fòssils de fa 100 milions d'anys: conquilles de mol·luscs, coralls i altres animals marins de quan la Catalunya occidental i central estaven enfonsades sota el mar. Samantha Vall descobreix també plantes úniques d'aquell lloc amb Toni Nievas, educador ambiental de l'Obra Social Caixa Catalunya. I a la cova Colomera, la reportera hi troba restes arqueològiques de fa 7.000 anys. El programa explica amb maquetes la formació de la serra del Montsec i del prepirineu. La singular orografia i l'orientació cap al sud d'aquesta serra, què és com una gran paella, fa que s'hi formin corrents d'aire calent que pugen amb gran potència. Això ho aprofiten tant els voltors com els parapents.</desc>
-    <length units="seconds">1570</length>
-    <episode-num system="onscreen">122</episode-num>
+  <programme start="20261101123930 +0100" stop="20261101131216 +0100" channel="c33">
+    <title lang="ca">Tocats de l'ala</title>
+    <sub-title lang="ca">Ocells de mar endins</sub-title>
+    <desc lang="ca">Gavines, baldrigues, xatracs...els ocells marins, símbols de llibertat, ens enamoren amb el seu vol poderós sobre les aigües, i arrosseguen ornitòlegs i fotògrafs a embarcar-se com si el mareig no existís. Volem veure ocells de mar endins, i salpem del port de Tarragona en un vaixell carregat de bojos que corren, criden i s'exclamen cada cop que apareix una bèstia nova. O no són tan bojos? Sabeu què és, fer un bimbo? Enteneu l'alegria de veure un ocell nou quan ja en coneixes més de 8000 diferents? Avui, ocells marins... i tocats de l'ala, però molt tocats: en diríem bimberos de mar. I, ja amb els peus a terra, viurem un dia en la feina de la Laura Fortunyo, responsable del centre de recuperació de fauna del Delta de l'Ebre. La Laura cura, cuida i alimenta els ocells i altres animals salvatges ferits o malalts trobats al parc natural, com un poll de falciot caigut del niu a qui cal empapussar amb cucs cada dues hores, nit i dia. Entre els fixes, un voltor, una gavina corsa, , un astor, un mussol, un duc i un flamenc... tot plegat, una estranya família que conviu més o menys plàcidament.I a més, com triar la guia d'ocells que necessites, l'alerta del dia...i el Cafè Bar Ni Piu: vine i fes l'aperitiu. </desc>
+    <length units="seconds">1966</length>
+    <episode-num system="onscreen">2</episode-num>
     <category lang="ca">DIVULGACIÓ</category>
     <category lang="ca">MAGAZINE ESPECIALITZAT</category>
     <rating>
@@ -136,19 +119,20 @@
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20261101065910 +0100" stop="20261101072602 +0100" channel="c33">
-    <title lang="ca">Quèquicom</title>
-    <sub-title lang="ca">Cabell estimat cabell enyorat</sub-title>
-    <desc lang="ca">'Quèquicom' parlarà del cabell i la seva salut, de com mantenir la cabellera i, si es perd, com substituir els cabells perduts amb trasplantaments i implants. Amb el títol genèric 'Cabell estimat, cabell enyorat', el programa científic del 33 oferirà diversos reportatges, entre els quals, una visita al dermatòleg del presentador de TV3 Xavier Coral, per saber si la calvície té remei, i els detalls d'una operació de trasplantament capil·lar. És bo rentar-se els cabells cada dia? Com s'han d'esbandir, eixugar i pentinar? Quan s'han de tallar? 'Quèquicom' en dóna resposta i, a més, descobreix què els passa als cabells quan s'arrissen o s'estiren. Els cabells estan fets de queratina, una proteïna. Aquesta substància conté fibres que s'uneixen entre si per dos tipus d'enllaços químics: febles i forts. Els febles es trenquen amb la humitat, però es reconstrueixen en eixugar-se.</desc>
-    <length units="seconds">1612</length>
-    <episode-num system="onscreen">123</episode-num>
+  <programme start="20261101131216 +0100" stop="20261101135835 +0100" channel="c33">
+    <title lang="ca">La Renaixença</title>
+    <sub-title lang="ca">La llanterna</sub-title>
+    <desc lang="ca">Recordeu el dia de l'apagada general? Hi havia dues opcions: tenir una espelma o una llanterna. Quantes vegades heu anat a les fosques perquè us feia mandra canviar les piles de la llanterna? Un dia parlarem de l'espelma, però aquest capítol el dediquem a la llanterna. Ens visita l'Àlex Auger, un savi per conèixer però molt boig, perquè practica 'wingsuit': salt amb vestit d'ales. Un home ocell, per entendre'ns. I boig, molt boig. A 'Històries per passejar el gos' anem al 1770, a la massacre de Boston, amb la Coco, que viu allà mateix.</desc>
+    <length units="seconds">2779</length>
+    <episode-num system="onscreen">79</episode-num>
     <category lang="ca">DIVULGACIÓ</category>
-    <category lang="ca">MAGAZINE ESPECIALITZAT</category>
+    <category lang="ca">ALTRES</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/3/3/1756148014833.jpg"/>
   </programme>
   <channel id="oca1">
     <display-name>OCA1</display-name>
