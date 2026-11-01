@@ -3,38 +3,10 @@
   <channel id="tvi">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20261031221337 +0100" stop="20261101011447 +0100" channel="tvi">
-    <title lang="ca">Col·lapse</title>
-    <desc lang="ca">L'escriptora de best-sellers Dolores Redondo ens parlarà de la seva última novel·la, que ja és un èxit de vendes ara mateix.  Mayka Navarro ens actualitza alguns dels casos més mediàtics amb què hem començat la temporada i que encara no s'han resolt o no estan tancats. Conversarem amb Quim Masferrer sobre teatre, sobre la vida, sobre futures estrenes i sobre tot el que pugui donar de si una trobada amb un dels millors presentadors de la cadena. Ara que tot just s'acaba de jubilar, ens visita un dels antropòlegs més estimats de Catalunya, Manuel Delgado. A més, presenta el seu últim llibre, 'Todas las ciudades están poseídas', on parla sense embuts d'urbanisme i excés d'activitats vinculades al turisme a les àrees metropolitanes.  Maria Fernández Vidal posa banda sonora a alguns dels moments que hem viscut aquesta setmana durant els guardons de la Pilota d'Or!  Farem experiments curiosos amb IA amb l'enginyer de software i emprenedor Aniol Vicens. Anna Callís s'enfronta a un nou repte televisiu com a reportera i Miriam Victoria ens porta un nou fenomen paranormal en clau catalana. </desc>
-    <length units="seconds">10870</length>
-    <episode-num system="onscreen">159</episode-num>
-    <category lang="ca">ENTRETENIMENT</category>
-    <category lang="ca">TALK-SHOW</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <previously-shown/>
-  </programme>
-  <programme start="20261101011447 +0100" stop="20261101013535 +0100" channel="tvi">
-    <title lang="ca">Marcians</title>
-    <sub-title lang="ca">Documentar-se abans de crear</sub-title>
-    <desc lang="ca">Documentar-se és fonamental en la creació de tot tipus d'obres artístiques. Fins que no se senten que han investigat i han fet prou recerca, hi ha moltes autores i autors que són incapaços d'iniciar un projecte nou. Cristina Masanés està enllestint un assaig al qual ha dedicat quatre anys d'estudis exhaustius. Es titula 'Les maletes de Portbou',', i segueix la pista dels intel·lectuals centreeuropeus perseguits pel nazisme, que van fugir durant la II Guerra Mundial per la nostra estació ferroviària fronterera. L'escriptora i periodista es fixa en què van rescatar d'Europa dins de les seves maletes, quines idees, quines obres van salvar de l'aniquilació en un exili cap als Estats Units que va passar per casa nostra. Una d'aquestes exiliades va ser Hannah Arendt, i les seves idees han inspirat el tàndem creatiu teatral que formen Maria Jover i Gerard Franch. La seva filosofia política els ressona en l'actual era de la intel·ligència artificial i d'aquí n'ha sortit el seu nou espectacle, 'Un mal normal', que estrenaran al Festival Temporada Alta. És una peça, en realitat, banyada d'humor i música, però que han creat després de llegir molta filosofia, teoria política i estudis sobre la IA, lectures que han contrastat amb converses amb especialistes com la professora de l'UPF Tatiana Llaguno i l'analista de dades Roger Sanjaume. Són dues maneres de documentar-se per a dues disciplines artístiques com són la literatura i el teatre en el context d'un nou auge de l'extrema dreta a Europa, ara, amb noves eines.</desc>
-    <length units="seconds">1248</length>
-    <episode-num system="onscreen">101</episode-num>
-    <category lang="ca">ENTRETENIMENT</category>
-    <category lang="ca">ALTRES</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <previously-shown/>
-  </programme>
-  <channel id="324">
-    <display-name>324</display-name>
-  </channel>
-  <programme start="20261101010000 +0100" stop="20261101060000 +0100" channel="324">
+  <programme start="20261101060000 +0100" stop="20261101070000 +0100" channel="tvi">
     <title lang="ca">Notícies 3CatInfo</title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">18000</length>
+    <length units="seconds">3600</length>
     <episode-num system="onscreen">11583</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
@@ -44,6 +16,21 @@
     <previously-shown/>
     <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
+  <programme start="20261101070000 +0100" stop="20261101085452 +0100" channel="tvi">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="seconds">6892</length>
+    <episode-num system="onscreen">11584</episode-num>
+    <category lang="ca">ACTUALITAT</category>
+    <category lang="ca">INFORMATIU DIÀRI</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
+  </programme>
+  <channel id="324">
+    <display-name>324</display-name>
+  </channel>
   <programme start="20261101060000 +0100" stop="20261101070000 +0100" channel="324">
     <title lang="ca">Notícies 3CatInfo</title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
@@ -57,14 +44,40 @@
     <previously-shown/>
     <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
+  <programme start="20261101070000 +0100" stop="20261101100000 +0100" channel="324">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="seconds">10800</length>
+    <episode-num system="onscreen">11584</episode-num>
+    <category lang="ca">ACTUALITAT</category>
+    <category lang="ca">INFORMATIU DIÀRI</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <subtitles type="teletext"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
+  </programme>
   <channel id="esport3">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20261101005952 +0100" stop="20261101023134 +0100" channel="esport3">
+  <programme start="20261101063846 +0100" stop="20261101070532 +0100" channel="esport3">
+    <title lang="ca">3CatInfo Esports</title>
+    <desc lang="ca">Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.</desc>
+    <length units="seconds">1606</length>
+    <episode-num system="onscreen">5555</episode-num>
+    <category lang="ca">ESPORTS</category>
+    <category lang="ca">INFORMATIU DIÀRI</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <previously-shown/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/9/7/1758888682179.jpg"/>
+  </programme>
+  <programme start="20261101070532 +0100" stop="20261101083703 +0100" channel="esport3">
     <title lang="ca">Gol a gol</title>
     <sub-title lang="ca">Post Barça-Alabès / J11</sub-title>
     <desc lang="ca">'Gol a gol' us ofereix els resums dels partits de futbol de Primera i Segona Divisió. Presentat per Jordi Grau a Esport3, cada dissabte i cada diumenge podeu veure les millors imatges de la jornada de Lliga amb l'anàlisi dels experts, amb especial atenció als equips catalans, sobretot el Barça, el Girona i l'Espanyol.</desc>
-    <length units="seconds">5502</length>
+    <length units="seconds">5491</length>
     <episode-num system="onscreen">1797</episode-num>
     <category lang="ca">ESPORTS</category>
     <category lang="ca">MAGAZINE</category>
@@ -75,28 +88,15 @@
     <previously-shown/>
     <icon src="https://img.ccma.cat/multimedia/jpg/2/1/1698144123212.jpg"/>
   </programme>
-  <programme start="20261101023134 +0100" stop="20261101031309 +0100" channel="esport3">
-    <title lang="ca">3CatInfo Esports</title>
-    <desc lang="ca">Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.</desc>
-    <length units="seconds">2495</length>
-    <episode-num system="onscreen">5555</episode-num>
-    <category lang="ca">ESPORTS</category>
-    <category lang="ca">INFORMATIU DIÀRI</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <previously-shown/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/9/7/1758888682179.jpg"/>
-  </programme>
   <channel id="sx3">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20261101010334 +0100" stop="20261101012534 +0100" channel="sx3">
-    <title lang="ca">Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
-    <sub-title lang="ca">Revelador</sub-title>
-    <desc lang="ca">La Marinette i l'Adrien són la parella més famosa de París i desperten l'interès d'un influencer poc escrupolós, disposat a tot per fer-se viral a les xarxes, fins i tot a destruir l'amor entre els dos adolescents. Podrà la seva relació sobreviure a una mentida?</desc>
-    <length units="seconds">1320</length>
-    <episode-num system="onscreen">142</episode-num>
+  <programme start="20261101064524 +0100" stop="20261101070723 +0100" channel="sx3">
+    <title lang="ca">Les Tres Bessones</title>
+    <sub-title lang="ca">Les tres bessones i el Mag d'Oz</sub-title>
+    <desc lang="ca">Aquest cop el que transporta les nenes a un conte no és un càstig de l'Avorrida, sinó una increïble ventada. A la Bruixa també se l'emporta, és clar, i comparteix amb les nenes una aventura al màgic món del mag d'Oz. Allà, les Bessones hauran de demostrar que són capaces de transformar-se en lleó, home de llauna i espantaocells...</desc>
+    <length units="seconds">1319</length>
+    <episode-num system="onscreen">31</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
@@ -105,12 +105,12 @@
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20261101012534 +0100" stop="20261101014622 +0100" channel="sx3">
-    <title lang="ca">Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
-    <sub-title lang="ca">Psiconductora</sub-title>
-    <desc lang="ca">Traumatitzada des que la van akumatitzar, l'Aglaé té fòbia a les papallones i fins i tot li fa por sortir de casa. A la Marinette li agradaria trobar una solució màgica per ajudar la seva amiga, però, com per desgràcia descobrirà, Ladybug no pot arreglar tots els problemes.</desc>
-    <length units="seconds">1248</length>
-    <episode-num system="onscreen">143</episode-num>
+  <programme start="20261101070723 +0100" stop="20261101071922 +0100" channel="sx3">
+    <title lang="ca">L'abella Maia</title>
+    <sub-title lang="ca">Voteu-me!</sub-title>
+    <desc lang="ca">Els insectes del prat ja estan tips de fer tantes reunions. En Flip proposa fer eleccions i escollir un alcalde que es responsabilitzi de prendre les decisions que necessiti el prat. Als insectes els sembla molt bé, però llavors l'Stinger diu que es vol presentar de candidat i això no li fa gens de gràcia a ningú, perquè com és normal, als insectes del prat no els hi agradaria gens tenir una vespa delinqüent fent d'alcalde.</desc>
+    <length units="seconds">719</length>
+    <episode-num system="onscreen">106</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
@@ -122,35 +122,30 @@
   <channel id="c33">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20261101004913 +0100" stop="20261101015340 +0100" channel="c33">
-    <title lang="ca">Bruixes, la gran mentida</title>
-    <sub-title lang="ca">Bruixes, la gran mentida</sub-title>
-    <desc lang="ca">'Bruixes, la gran mentida' és una producció de Televisió de Catalunya en coproducció amb Sàpiens ( Abacus, SCCL) amb el suport de la Diputació de Lleida.Entre els segles XV i XVII Catalunya va ser un dels focus mundials de caceres de bruixes. Per primer cop un documental aborda aquesta qüestió a partir d'una investigació recent i exclusiva sobre aquest horror, i que desmunta diversos tòpics que han perdurat fins ara. 'Bruixes, la gran mentida', dirigit per la premiada directora Joanna Pardos, és una docuficció que mescla la recreació al detall d'un dels judicis més sonats de Catalunya, amb entrevistes als principals especialistes en el tema. Alhora, ressegueix les conseqüències i herències actuals de les dinàmiques patriarcals que s'establiren aleshores amb testimonis únics i punyents. Fitxa TècnicaDirecció: Joanna Pardos Realització ficció: Roman Parrado Realització documental: Raul Cuevas Guió: Joanna Pardos, Margarida Olivé i Anna Alsina Guió ficció: Roger Danès i Alfred Pérez Producció: Sílvia Vinardell i Lola Pedrós So: Carnaby studio Edició: Jordi Gallofré i Gal·la de Yzaguirre Assessorament històric: Pau Castell i Agustí Alcoberro Producció executiva Sàpiens: Marc Roma i Oriol Cortacans Producció executiva TV3 Sílvia Pairó Vila Direcció executiva TV3: Montse Armengou Martín </desc>
-    <credits>
-      <director>Joanna Pardos Realització ficció: Roman Parrado Realització documental: Raul Cuevas</director>
-      <writer>Joanna</writer>
-    </credits>
-    <length units="seconds">3867</length>
-    <episode-num system="onscreen">1</episode-num>
-    <category lang="ca">ACTUALITAT</category>
-    <category lang="ca">DOCUMENTAL</category>
+  <programme start="20261101063300 +0100" stop="20261101065910 +0100" channel="c33">
+    <title lang="ca">Quèquicom</title>
+    <sub-title lang="ca">Montsec: un viatge de vertigen</sub-title>
+    <desc lang="ca">El Montsec és un dels millors llocs del món per fer parapent. La reportera Samantha Vall s'atreveix a sobrevolar una comarca en què es pot fer un prodigiós viatge en el temps: des dels fòssils fins a les estrelles que es van formar fa milions d'anys, justament quan aquells animals s'extingien. 'Quèquicom' visita el congost de Mont-rebei i també l'Observatori Astronòmic del Montsec.El riu Noguera Ribagorçana talla la serra del Montsec i a Mont-rebei ha format un congost que té parets verticals de més de 500 metres d'altura. Passar pel camí de ferradura excavat a la pedra és una experiència que requereix certa valentia, ja que no té baranes i molts metres per sota passa el riu. Però si, sobreposant-se al vertigen, l'excursionista mira les roques, hi pot distingir fòssils de fa 100 milions d'anys: conquilles de mol·luscs, coralls i altres animals marins de quan la Catalunya occidental i central estaven enfonsades sota el mar. Samantha Vall descobreix també plantes úniques d'aquell lloc amb Toni Nievas, educador ambiental de l'Obra Social Caixa Catalunya. I a la cova Colomera, la reportera hi troba restes arqueològiques de fa 7.000 anys. El programa explica amb maquetes la formació de la serra del Montsec i del prepirineu. La singular orografia i l'orientació cap al sud d'aquesta serra, què és com una gran paella, fa que s'hi formin corrents d'aire calent que pugen amb gran potència. Això ho aprofiten tant els voltors com els parapents.</desc>
+    <length units="seconds">1570</length>
+    <episode-num system="onscreen">122</episode-num>
+    <category lang="ca">DIVULGACIÓ</category>
+    <category lang="ca">MAGAZINE ESPECIALITZAT</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
-    <icon src="https://img.3cat.cat/multimedia/jpg/6/0/1668674169506.jpg"/>
   </programme>
-  <programme start="20261101015340 +0100" stop="20261101023817 +0100" channel="c33">
-    <title lang="ca">El Crac</title>
-    <sub-title lang="ca">La gran bogeria</sub-title>
-    <desc lang="ca">Al Joel li cau la bena dels ulls i comença a adonar-se que potser s'ha equivocat amb la Carla. Just quan està a punt de deixar-la, la Carla li diu que l'han agafat per fer un anunci amb el George Clooney i que l'actor vindrà a casa a sopar aquella mateixa nit. La possibilitat de conèixer el gran George fa que el Joel aplaci la seva ruptura i es comprometi a fons amb la Carla.</desc>
-    <length units="seconds">2677</length>
-    <episode-num system="onscreen">12</episode-num>
-    <category lang="ca">FICCIÓ</category>
-    <category lang="ca">SÈRIE DRAMÀTICA</category>
+  <programme start="20261101065910 +0100" stop="20261101072602 +0100" channel="c33">
+    <title lang="ca">Quèquicom</title>
+    <sub-title lang="ca">Cabell estimat cabell enyorat</sub-title>
+    <desc lang="ca">'Quèquicom' parlarà del cabell i la seva salut, de com mantenir la cabellera i, si es perd, com substituir els cabells perduts amb trasplantaments i implants. Amb el títol genèric 'Cabell estimat, cabell enyorat', el programa científic del 33 oferirà diversos reportatges, entre els quals, una visita al dermatòleg del presentador de TV3 Xavier Coral, per saber si la calvície té remei, i els detalls d'una operació de trasplantament capil·lar. És bo rentar-se els cabells cada dia? Com s'han d'esbandir, eixugar i pentinar? Quan s'han de tallar? 'Quèquicom' en dóna resposta i, a més, descobreix què els passa als cabells quan s'arrissen o s'estiren. Els cabells estan fets de queratina, una proteïna. Aquesta substància conté fibres que s'uneixen entre si per dos tipus d'enllaços químics: febles i forts. Els febles es trenquen amb la humitat, però es reconstrueixen en eixugar-se.</desc>
+    <length units="seconds">1612</length>
+    <episode-num system="onscreen">123</episode-num>
+    <category lang="ca">DIVULGACIÓ</category>
+    <category lang="ca">MAGAZINE ESPECIALITZAT</category>
     <rating>
-      <value>PÚBLIC ADULT</value>
+      <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
