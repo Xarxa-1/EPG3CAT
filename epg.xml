@@ -3,136 +3,151 @@
   <channel id="tvi">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20261101121715 +0100" stop="20261101143000 +0100" channel="tvi">
+  <programme start="20261101181304 +0100" stop="20261101190842 +0100" channel="tvi">
+    <title lang="ca">Temps de silenci</title>
+    <sub-title lang="ca">APARENCES</sub-title>
+    <desc lang="ca">L'Antonio i la Núria, amb les parelles canviades... El procés de Burgos. En Frederic pot tenir problemes per ser com és. El gran canvi d'en Joaquim... En Ramon segueix vivint la seva soledat...</desc>
+    <length units="seconds">3338</length>
+    <episode-num system="onscreen">21</episode-num>
+    <category lang="ca">FICCIÓ</category>
+    <category lang="ca">SÈRIE DRAMÀTICA</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <subtitles type="teletext"/>
+    <previously-shown/>
+  </programme>
+  <programme start="20261101190842 +0100" stop="20261101193823 +0100" channel="tvi">
+    <title lang="ca">Tot torna</title>
+    <sub-title lang="ca">2004</sub-title>
+    <desc lang="ca">Repassem el 2004, l'any que Joan Clos balla al ritme de Carlinhos Brown per l'arribada del Fòrum de les Cultures. Carod-Rovira negocia amb ETA, Zapatero guanya les eleccions després de l'11M i Leo Messi debuta coincidint amb la retirada de Maradona (el de la Rambla).</desc>
+    <length units="seconds">1781</length>
+    <episode-num system="onscreen">3</episode-num>
+    <category lang="ca">ENTRETENIMENT</category>
+    <category lang="ca">ALTRES</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <subtitles type="teletext"/>
+    <previously-shown/>
+  </programme>
+  <channel id="324">
+    <display-name>324</display-name>
+  </channel>
+  <programme start="20261101183000 +0100" stop="20261101200000 +0100" channel="324">
     <title lang="ca">Notícies 3CatInfo</title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">7965</length>
-    <episode-num system="onscreen">11586</episode-num>
+    <length units="seconds">5400</length>
+    <episode-num system="onscreen">11588</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
-    <previously-shown/>
     <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
-  <channel id="324">
-    <display-name>324</display-name>
-  </channel>
-  <programme start="20261101120000 +0100" stop="20261101143000 +0100" channel="324">
+  <programme start="20261101200000 +0100" stop="20261101210000 +0100" channel="324">
     <title lang="ca">Notícies 3CatInfo</title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">9000</length>
-    <episode-num system="onscreen">11586</episode-num>
+    <length units="seconds">3600</length>
+    <episode-num system="onscreen">11589</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
+    <subtitles type="teletext"/>
     <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
-  </programme>
-  <programme start="20261101143000 +0100" stop="20261101163000 +0100" channel="324">
-    <title lang="ca">Telenotícies migdia</title>
-    <length units="seconds">7200</length>
-    <episode-num system="onscreen">7376</episode-num>
-    <category lang="ca">ACTUALITAT</category>
-    <category lang="ca">INFORMATIU DIÀRI</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <icon src="https://img.ccma.cat/multimedia/jpg/5/4/1758025766345.jpg"/>
   </programme>
   <channel id="esport3">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20261101114507 +0100" stop="20261101140819 +0100" channel="esport3">
-    <title lang="ca">Bàsquet</title>
-    <sub-title lang="ca">Asisa Joventut-Surne Bilbao / Lliga / J6</sub-title>
-    <desc lang="ca">Els badalonins (2 victòries i 3 derrotes) millorarien a la classificació si guanyen el conjunt basc (3 victòries i 2 derrotes).</desc>
-    <length units="seconds">8592</length>
-    <episode-num system="onscreen">47</episode-num>
+  <programme start="20261101185200 +0100" stop="20261101203500 +0100" channel="esport3">
+    <title lang="ca">Handbol</title>
+    <sub-title lang="ca">BM Granollers-Barça / Lliga Asobal / J8</sub-title>
+    <desc lang="ca">El Fraikin arriba al derbi amb 5 victòries, 1 empat i 1 derrota. Els blaugranes, que han disputat una jornada menys, han guanyat els 6 partits que han jugat.</desc>
+    <length units="seconds">6180</length>
+    <episode-num system="onscreen">197</episode-num>
     <category lang="ca">ESPORTS</category>
     <category lang="ca">RETRANSMISSIONS ESPORTS</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <icon src="https://img.3cat.cat/multimedia/jpg/4/5/1769511199554.jpg"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/9/1/1700215879019.jpg"/>
   </programme>
-  <programme start="20261101140819 +0100" stop="20261101143000 +0100" channel="esport3">
-    <title lang="ca">Espòiler</title>
-    <desc lang="ca">'Espòiler' és un programa dedicat al món dels cotxes i del caravàning, un espai on hi té cabuda tot el que té a veure amb aquests vehicles a motor. Descobrim les novetats del sector, amb models que s'acaben d'estrenar, test drives, una secció d'electromobilitat i també les millors autocaravanes del moment.Mercè Rivas, Sergio Domínguez, Oriol Llardén i Telva Somoza són els encarregats de posar a prova els automòbils i transmetre les seves sensacions. Dani Blasco capitaneja la secció 'Contravolant', on us sorprèn amb històries extraordinàries i divertides. El programa també té un espai anomenat 'Al volant amb...', en què cada setmana un famós ajuda Carles Llinars, instructor del Circuit Escola del RACC, a explicar un consell de conducció.'Espòiler' és una producció de Televisió de Catalunya amb la col·laboració de Drive Media i la realització de HolyCars Studio.</desc>
-    <length units="seconds">1301</length>
-    <episode-num system="onscreen">63</episode-num>
+  <programme start="20261101203500 +0100" stop="20261101212548 +0100" channel="esport3">
+    <title lang="ca">Hoquei patins</title>
+    <sub-title lang="ca">Barça-Igualada HC / OK Lliga / J1</sub-title>
+    <desc lang="ca">Un gran partit per començar el campionat. L'Igualada Rigat HC defensa el títol i els blaugranes, que es van imposar recentment als de l'Anoia a la final de la Supercopa, també aspiren a guanyar l'OK Lliga.</desc>
+    <length units="seconds">3048</length>
+    <episode-num system="onscreen">388</episode-num>
     <category lang="ca">ESPORTS</category>
-    <category lang="ca">REPORTATGES</category>
+    <category lang="ca">RETRANSMISSIONS ESPORTS</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <icon src="https://img.ccma.cat/multimedia/jpg/1/0/1698433593401.jpg"/>
+    <icon src="https://img.3cat.cat/multimedia/jpg/5/7/1758291200775.jpg"/>
   </programme>
   <channel id="sx3">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20261101131223 +0100" stop="20261101133542 +0100" channel="sx3">
-    <title lang="ca">Pat, el gos (especials)</title>
-    <sub-title lang="ca">Una història horripilant</sub-title>
-    <desc lang="ca">Per Halloween, la Lola ha preparat una història de por sobre un amulet màgic. Quan s'adonen que el Caputxet se sent atret per l'amulet, els coloms el roben per desfer-se del gat. Mentre el Pat fa tot el possible per recuperar-lo, una sèrie de coses estranyes comencen a passar a casa de la Lola des que ha desaparegut l'amulet. De fet, la Lucy, l'Hugo i l'Hortènsia també han desaparegut!</desc>
-    <length units="seconds">1399</length>
-    <episode-num system="onscreen">4</episode-num>
+  <programme start="20261101185341 +0100" stop="20261101185941 +0100" channel="sx3">
+    <title lang="ca">El xai Shaun</title>
+    <sub-title lang="ca">Artistes desconeguts</sub-title>
+    <desc lang="ca">Aprofitant que avui no hi havia gran cosa per fer, els animals de la granja, amb en Shaun al capdavant, han decidit fer tot de numerets, com si fossin al teatre, per riure una estona. Tot anava bé, fins que s'ha presentat el granger i també ha volgut fer el seu numeret, que els ha deixat a tots amb un pam de nas. T'imagines què ha fet?!</desc>
+    <length units="seconds">360</length>
+    <episode-num system="onscreen">129</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
       <value>INFANTIL</value>
     </rating>
-    <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20261101133542 +0100" stop="20261101140515 +0100" channel="sx3">
-    <title lang="ca">Manduka</title>
-    <sub-title lang="ca">Crema de carbassa divertida - Mireia Portas</sub-title>
-    <desc lang="ca">Les cremes de verdures són un autèntic malson per a molts petits. Per això, en aquest programa, juntament amb l'actriu i imitadora Mireia Portas, farem una crema molt divertida. La farem de tres colors i amb 'toppings' (o guarniments) cruixents. A banda de riure molt amb ella, també aprendrem a fer ous ferrats de diferents colors. I convertirem la cuina de Can Cinto en un zoològic amb tortugues i pingüins fets amb aliments com kiwis i raïm.</desc>
-    <length units="seconds">1773</length>
-    <episode-num system="onscreen">8</episode-num>
-    <category lang="ca">ENTRETENIMENT</category>
-    <category lang="ca">ALTRES</category>
+  <programme start="20261101185941 +0100" stop="20261101190737 +0100" channel="sx3">
+    <title lang="ca">El xai Shaun</title>
+    <sub-title lang="ca">La fruita</sub-title>
+    <desc lang="ca">Tip de menjar herba, en Shaun ha decidit que pisparà una poma al granger. D'entrada, no hauria de ser gaire complicat, però resulta que ara el granger té un nou amic que és més viu que la tinya i que no en deixa passar ni una. Però el pitjor de tot és que aquest nou amic és una ovella! Avui a en Shaun li tocarà pensar de valent, si vol tastar les pomes.</desc>
+    <length units="seconds">476</length>
+    <episode-num system="onscreen">130</episode-num>
+    <category lang="ca">FICCIÓ</category>
+    <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
       <value>INFANTIL</value>
     </rating>
-    <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
   <channel id="c33">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20261101123930 +0100" stop="20261101131216 +0100" channel="c33">
-    <title lang="ca">Tocats de l'ala</title>
-    <sub-title lang="ca">Ocells de mar endins</sub-title>
-    <desc lang="ca">Gavines, baldrigues, xatracs...els ocells marins, símbols de llibertat, ens enamoren amb el seu vol poderós sobre les aigües, i arrosseguen ornitòlegs i fotògrafs a embarcar-se com si el mareig no existís. Volem veure ocells de mar endins, i salpem del port de Tarragona en un vaixell carregat de bojos que corren, criden i s'exclamen cada cop que apareix una bèstia nova. O no són tan bojos? Sabeu què és, fer un bimbo? Enteneu l'alegria de veure un ocell nou quan ja en coneixes més de 8000 diferents? Avui, ocells marins... i tocats de l'ala, però molt tocats: en diríem bimberos de mar. I, ja amb els peus a terra, viurem un dia en la feina de la Laura Fortunyo, responsable del centre de recuperació de fauna del Delta de l'Ebre. La Laura cura, cuida i alimenta els ocells i altres animals salvatges ferits o malalts trobats al parc natural, com un poll de falciot caigut del niu a qui cal empapussar amb cucs cada dues hores, nit i dia. Entre els fixes, un voltor, una gavina corsa, , un astor, un mussol, un duc i un flamenc... tot plegat, una estranya família que conviu més o menys plàcidament.I a més, com triar la guia d'ocells que necessites, l'alerta del dia...i el Cafè Bar Ni Piu: vine i fes l'aperitiu. </desc>
-    <length units="seconds">1966</length>
-    <episode-num system="onscreen">2</episode-num>
+  <programme start="20261101182343 +0100" stop="20261101190757 +0100" channel="c33">
+    <title lang="ca">Ben Fogle: Retorn a la fi del món</title>
+    <sub-title lang="ca">Sri Lanka</sub-title>
+    <desc lang="ca">En Bet es troba amb la Janey, una veterinària que es va encarregar de rescatar centenars de gossos a Sri Lanka.</desc>
+    <length units="seconds">2654</length>
+    <episode-num system="onscreen">20</episode-num>
     <category lang="ca">DIVULGACIÓ</category>
-    <category lang="ca">MAGAZINE ESPECIALITZAT</category>
+    <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20261101131216 +0100" stop="20261101135835 +0100" channel="c33">
-    <title lang="ca">La Renaixença</title>
-    <sub-title lang="ca">La llanterna</sub-title>
-    <desc lang="ca">Recordeu el dia de l'apagada general? Hi havia dues opcions: tenir una espelma o una llanterna. Quantes vegades heu anat a les fosques perquè us feia mandra canviar les piles de la llanterna? Un dia parlarem de l'espelma, però aquest capítol el dediquem a la llanterna. Ens visita l'Àlex Auger, un savi per conèixer però molt boig, perquè practica 'wingsuit': salt amb vestit d'ales. Un home ocell, per entendre'ns. I boig, molt boig. A 'Històries per passejar el gos' anem al 1770, a la massacre de Boston, amb la Coco, que viu allà mateix.</desc>
-    <length units="seconds">2779</length>
-    <episode-num system="onscreen">79</episode-num>
+  <programme start="20261101190757 +0100" stop="20261101193401 +0100" channel="c33">
+    <title lang="ca">Els hotels més remots del món</title>
+    <sub-title lang="ca">Tree hotel</sub-title>
+    <desc lang="ca">El Kent, el fundador, la seva dona Brita, i la seva filla Sofia, tots nascuts en un poble veí, són els fundadors i els amfitrions acollidors d'aquest extraordinari hotel. Actualment l'Hotel dels arbres compta amb 7 cabanes, de les més luxoses a les més exuberants, totes creades per grans noms de l'arquitectura sueca. El concepte clau d'aquest lloc és l'harmonia amb la natura: aïllats a les seves cabanes a les capçades dels arbres, els hostes perden gradualment la seva concepció urbana i es deixen endur pel paisatge.</desc>
+    <length units="seconds">1564</length>
+    <episode-num system="onscreen">1</episode-num>
     <category lang="ca">DIVULGACIÓ</category>
-    <category lang="ca">ALTRES</category>
+    <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/3/3/1756148014833.jpg"/>
   </programme>
   <channel id="oca1">
     <display-name>OCA1</display-name>
