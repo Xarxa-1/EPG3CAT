@@ -3,25 +3,26 @@
   <channel id="tvi">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20261102080009 +0100" stop="20261102103000 +0100" channel="tvi">
-    <title lang="ca">Matins</title>
-    <desc lang="ca">'Matins' és un dels puntals informatius de TV3. El programa matinal dona les claus del dia que comença, explica les notícies que han passat aportant-ne el context per entendre-les i analitza amb veus acreditades l'actualitat més propera i la d'arreu del món. 'Matins' comença a les 8 del matí, de dilluns a divendres, i està presentat per Ariadna Oltra.</desc>
-    <length units="seconds">8991</length>
-    <episode-num system="onscreen">4704</episode-num>
-    <category lang="ca">ACTUALITAT</category>
-    <category lang="ca">INFORMATIU DIÀRI</category>
+  <programme start="20261102172837 +0100" stop="20261102191343 +0100" channel="tvi">
+    <title lang="ca">La Selva</title>
+    <desc lang="ca">Xavier Grasset us convida a passar la tarda en una cafeteria on regna el bon ambient. El lloc on saps que sempre hi trobaràs cares conegudes i conversa interessant. A 'La selva' s'hi parla de tot i hi pot passar de tot. Amb la mirada posada a l'actualitat que marca el dia, però també a les curiositats més sorprenents. Des del recolliment d'un bar on t'hi trobes com a casa, però amb una finestra oberta al que passa en directe arreu de Catalunya i al món. Un programa amb vocació d'aparador cultural i gastronòmic del país.</desc>
+    <length units="seconds">6306</length>
+    <episode-num system="onscreen">442</episode-num>
+    <category lang="ca">ENTRETENIMENT</category>
+    <category lang="ca">MAGAZINE</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <icon src="https://img.ccma.cat/multimedia/jpg/2/0/1758040151402.jpg"/>
+    <previously-shown/>
+    <icon src="https://img.3cat.cat/multimedia/jpg/6/3/1725871608136.jpg"/>
   </programme>
-  <programme start="20261102103000 +0100" stop="20261102135500 +0100" channel="tvi">
-    <title lang="ca">Tot es mou</title>
-    <desc lang="ca">El programa presentat per Helena Garcia Melero s'emet de dilluns a divendres, de 10.30 a 13.55. Un magazín d'actualitat que busca informar, analitzar i debatre sobre temes que marquen l'actualitat social, econòmica i cultural del dia, amb una àmplia presència en directe dels reporters i reporteres, repartits per tot Catalunya. A més, el 'Tot es mou' compta amb seccions diàries de gastronomia (amb els principals cuiners i cuineres del país), successos, economia, mobilitat, temes mèdics i de tecnologia, entre d'altres.</desc>
-    <length units="seconds">12300</length>
-    <episode-num system="onscreen">1841</episode-num>
-    <category lang="ca">ACTUALITAT</category>
-    <category lang="ca">MAGAZINE</category>
+  <programme start="20261102191343 +0100" stop="20261102201500 +0100" channel="tvi">
+    <title lang="ca">Atrapa'm si pots</title>
+    <desc lang="ca">'Atrapa'm si pots' és un 'quiz show' clàssic, de preguntes i respostes, presentat per Llucià Ferrer, en què sis concursants competeixen per arribar a la fase final i guanyar el pot. 'Atrapa'm si pots' és entreteniment pur i on gairebé és més important passar-s'ho bé que els diners. És un concurs en què pesa més la intuïció que no els coneixements acadèmics, més l'estratègia en el joc que no la sort.</desc>
+    <length units="seconds">3677</length>
+    <episode-num system="onscreen">955</episode-num>
+    <category lang="ca">ENTRETENIMENT</category>
+    <category lang="ca">CONCURS</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
@@ -29,23 +30,24 @@
   <channel id="324">
     <display-name>324</display-name>
   </channel>
-  <programme start="20261102080000 +0100" stop="20261102103000 +0100" channel="324">
-    <title lang="ca">Matins</title>
-    <desc lang="ca">'Matins' és un dels puntals informatius de TV3. El programa matinal dona les claus del dia que comença, explica les notícies que han passat aportant-ne el context per entendre-les i analitza amb veus acreditades l'actualitat més propera i la d'arreu del món. 'Matins' comença a les 8 del matí, de dilluns a divendres, i està presentat per Ariadna Oltra.</desc>
-    <length units="seconds">9000</length>
-    <episode-num system="onscreen">4704</episode-num>
+  <programme start="20261102170000 +0100" stop="20261102183000 +0100" channel="324">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="seconds">5400</length>
+    <episode-num system="onscreen">11596</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <icon src="https://img.ccma.cat/multimedia/jpg/2/0/1758040151402.jpg"/>
+    <subtitles type="teletext"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
-  <programme start="20261102103000 +0100" stop="20261102120000 +0100" channel="324">
+  <programme start="20261102183000 +0100" stop="20261102200000 +0100" channel="324">
     <title lang="ca">Notícies 3CatInfo</title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <length units="seconds">5400</length>
-    <episode-num system="onscreen">11593</episode-num>
+    <episode-num system="onscreen">11597</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
@@ -57,59 +59,59 @@
   <channel id="esport3">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20261102081640 +0100" stop="20261102100151 +0100" channel="esport3">
-    <title lang="ca">Futbol</title>
-    <sub-title lang="ca">FC Badalona Women-FC Barcelona / Lliga F / J9</sub-title>
-    <desc lang="ca">El derbi arriba amb el Barça líder, 7 victòries i 1 derrota per a les blaugranes. Les badalonines només han guanyat 1 partit i volen sortir de la zona baixa.</desc>
-    <length units="seconds">6311</length>
-    <episode-num system="onscreen">58</episode-num>
+  <programme start="20261102170720 +0100" stop="20261102182721 +0100" channel="esport3">
+    <title lang="ca">Esport Club</title>
+    <sub-title lang="ca">Anthony Gordon, Hansi Flick i tertúlia</sub-title>
+    <desc lang="ca">Les rodes de premsa d'Anthony Gordon i Hansi Flick en la prèvia del Barça-Aston Villa de demà. I tertúlia amb Maria Josep Hostalrich, Orfeo Suárez i Pichi Alonso</desc>
+    <length units="seconds">4801</length>
+    <episode-num system="onscreen">3275</episode-num>
     <category lang="ca">ESPORTS</category>
-    <category lang="ca">RETRANSMISSIONS ESPORTS</category>
+    <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/0/8/1730389343680.jpg"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/7/3/1698145091337.jpg"/>
   </programme>
-  <programme start="20261102100151 +0100" stop="20261102105230 +0100" channel="esport3">
-    <title lang="ca">Arrelats</title>
-    <sub-title lang="ca">María José Varela</sub-title>
-    <length units="seconds">3039</length>
-    <episode-num system="onscreen">11</episode-num>
-    <category lang="ca">DIVULGACIÓ</category>
-    <category lang="ca">ALTRES</category>
+  <programme start="20261102182721 +0100" stop="20261102190000 +0100" channel="esport3">
+    <title lang="ca">La frontal</title>
+    <sub-title lang="ca">El FS Piera torna a somriure</sub-title>
+    <desc lang="ca">El club de l'Anoia, amb 25 anys d'història, viu una nova etapa de creixement després d'una etapa complicada. L'entitat ha recuperat la il·lusió amb nous equips i l'aposta per un model de club familiar. Un sentiment de pertinença que es transmet des dels més petits fins als veterans. Durant el programa, Carles Fité entrevista el president del Futbol Sala Piera, Mario Aguilera; el secretari, Joaquim Díaz; i el jugador del primer equip, Àlex Aguilera. I a més a més, els resums dels partits més destacats del cap de setmana.</desc>
+    <length units="seconds">1959</length>
+    <episode-num system="onscreen">182</episode-num>
+    <category lang="ca">ESPORTS</category>
+    <category lang="ca">ESPECIALS</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <subtitles type="teletext"/>
-    <previously-shown/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/2/4/1698432480342.jpg"/>
   </programme>
   <channel id="sx3">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20261102082750 +0100" stop="20261102084136 +0100" channel="sx3">
-    <title lang="ca">Titó</title>
-    <sub-title lang="ca">Excursió amb rèptils</sub-title>
-    <desc lang="ca">Avui anem d'excursió a conèixer rèptils. Tortugues, llangardaixos, serps, camaleons, iguanes... i en JohnC ens portarà un rèptil australià com ell, el 'Bearded dragon'</desc>
-    <length units="seconds">826</length>
-    <episode-num system="onscreen">87</episode-num>
-    <category lang="ca">ENTRETENIMENT</category>
-    <category lang="ca">ALTRES</category>
+  <programme start="20261102181514 +0100" stop="20261102182642 +0100" channel="sx3">
+    <title lang="ca">Els barrufets (3D)</title>
+    <sub-title lang="ca">Què 'nas' de dir?</sub-title>
+    <desc lang="ca">El Barrufet Forçut se sent frustrat perquè la Barrufeta no li fas cas. Quan el Barrufet Bromista li comenta que potser és perquè té el nas massa gros, el Forçut demana ajuda al Gran Barrufet perquè li busqui una solució. El Gran Barrufet, però, considera que la petició és absurda. Empipat, el Forçut entra a casa del Gargamel per prendre-li un llibre d'encanteris on expliqui com reduir nassos.</desc>
+    <length units="seconds">688</length>
+    <episode-num system="onscreen">1</episode-num>
+    <category lang="ca">FICCIÓ</category>
+    <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
       <value>INFANTIL</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20261102084136 +0100" stop="20261102085245 +0100" channel="sx3">
-    <title lang="ca">A jugar! Amb en Titó i els Fa la la</title>
-    <sub-title lang="ca">A jugar al joc de l'Oca de l'Empordà</sub-title>
-    <desc lang="ca">L'Oca convida en Titó i els Fa La La a jugar al joc de l'Oca de l'Empordà: un tauler gegant ple de proves divertidíssimes. Aconseguiran superar-les, arribar fins al final i guanyar la partida?</desc>
-    <length units="seconds">669</length>
-    <episode-num system="onscreen">23</episode-num>
-    <category lang="ca">ENTRETENIMENT</category>
-    <category lang="ca">ALTRES</category>
+  <programme start="20261102182642 +0100" stop="20261102183742 +0100" channel="sx3">
+    <title lang="ca">Els barrufets (3D)</title>
+    <sub-title lang="ca">El Papa Bolquers</sub-title>
+    <desc lang="ca">Al poble Barrufet tots s'estimen molt el Bebè Barrufet, però quan és l'hora de canviar-li el bolquer, tothom se n'escapoleix. Per evitar conflictes, l'Inventor crea un robot, el Papa Bolquers, que no només canvia el Bebè, sinó que el passeja i li explica contes. Però un dia té un curtcircuit i es torna tremendament protector amb el petit, fins al punt de no deixar que ningú se li acosti.</desc>
+    <length units="seconds">660</length>
+    <episode-num system="onscreen">2</episode-num>
+    <category lang="ca">FICCIÓ</category>
+    <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
       <value>INFANTIL</value>
     </rating>
@@ -119,12 +121,12 @@
   <channel id="c33">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20261102081424 +0100" stop="20261102083823 +0100" channel="c33">
-    <title lang="ca">Salpem!</title>
-    <sub-title lang="ca">Sant Carles de la Ràpita</sub-title>
-    <desc lang="ca">'Salpem!' proposa un passeig en vaixell des de diferents bases nàutiques, de Sant Carles de la Ràpita a Roses, sempre amb el mar com a escenari i amb l'objectiu de conèixer millor el litoral català.</desc>
-    <length units="seconds">1439</length>
-    <episode-num system="onscreen">1</episode-num>
+  <programme start="20261102180246 +0100" stop="20261102182644 +0100" channel="c33">
+    <title lang="ca">Quèquicom</title>
+    <sub-title lang="ca">Un menú nutrigenòmic</sub-title>
+    <desc lang="ca">'Quèquicom' explicarà què és un menú nutrigenòmic, una dieta específica per a cada persona, que li permet combatre amb els aliments els seus dèficits personals. El programa científic del 33 ho explicarà amb diversos exemples, com ara el reporter Miquel Piris, que es fa una anàlisi d'ADN per dissenyar una dieta que compensi nutritivament les carències dels seus gens. Un gen és un codificador de proteïnes i, si falla, pot ser que l'organisme no sintetitzi bé determinades substàncies. Ara la nutrigenòmica identifica els dèficits potencials de cada persona, fet que permet establir dietes específiques.</desc>
+    <length units="seconds">1438</length>
+    <episode-num system="onscreen">117</episode-num>
     <category lang="ca">DIVULGACIÓ</category>
     <category lang="ca">MAGAZINE ESPECIALITZAT</category>
     <rating>
@@ -132,16 +134,15 @@
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/7/5/1720171610057.jpg"/>
   </programme>
-  <programme start="20261102083823 +0100" stop="20261102090602 +0100" channel="c33">
-    <title lang="ca">Tocats de l'ala</title>
-    <sub-title lang="ca">Els homes que busquen mussolets</sub-title>
-    <desc lang="ca">Pugem al Pirineu seguint un grup d'homes cepats curtits en mil batalles...són els homes que busquen mussolets: tècnics de fauna del parc natural a la recerca de nius de mussol pirinenc. Ah, el mussol pirinenc! Una joia tan valorada com escassa, una petita meravella que sembla de joguina, un caçador compulsiu de talps i ratolins des de la més tendra infància...amb l'emprenyadora mania de fer niu a les cases dels altres, concretament, als nius de picot negre. Doncs de mussolets pirinencs, en veurem uns quants, però també veurem altres ocells d'alta muntanya, i veurem com treballen aquests experts a qui enamora una merla roquera o fa riure una gralla de bec groc.Com a contrapunt, el que seria slow birding: què pot passar si poses menjadores al jardí de casa. La Matilde va començar amb una paperina de pipes i un parell de mallerengues, i ara serveix els àpats d'una munió d'ocells de bosc que van a casa seva com qui va al restaurant. Pardals, mallerengues, pit-roigs, tallarols, verdums i gafarrons...però també gaigs, picots i de tant en tant un esparver amb males intencions. Ella s'asseu davant la finestra, amb els prismàtics a punt, i gaudeix de l'espectacle.I, entremig, descobrirem el digiscoping: com fotografiar des d'un telescopi, i farem el tallat al Cafè Bar Ni Piu, un local de gran volada.</desc>
-    <length units="seconds">1659</length>
+  <programme start="20261102182644 +0100" stop="20261102185355 +0100" channel="c33">
+    <title lang="ca">Patrimonis</title>
+    <sub-title lang="ca">La bellesa (recinte Modernitat de l'Hospital de Sant Pau)</sub-title>
+    <desc lang="ca">A 'Patrimonis' visitem el recinte modernista de l'Hospital de Sant Pau de Barcelona, projectat per l'arquitecte Lluís Domènech i Montaner. Durant anys, el conjunt va projectar una bellesa sanadora, però poc a poc va anar perdent la seva identitat. Ara, remodelat parcialment, és un contrast entre la destrucció i la recuperació de la bellesa. Al voltant d'aquest concepte dialoguen el pintor Joan-Pere Viladecans i l'arquitecta Benedetta Tagliabue. També hi intervé l'arquitecte Frederic Crespo, responsable de la rehabilitació del recinte, i el ceramista Toni Cumella, que ha produït peces en el marc d'aquest procés. La banda sonora la posa el Quartet Teixidor, un dels millors grups de música de cambra del país. A més, Sant Pau acull la dansa de la coreògrafa Lali Ayguadé.</desc>
+    <length units="seconds">1631</length>
     <episode-num system="onscreen">1</episode-num>
     <category lang="ca">DIVULGACIÓ</category>
-    <category lang="ca">MAGAZINE ESPECIALITZAT</category>
+    <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
