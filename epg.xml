@@ -3,81 +3,69 @@
   <channel id="tvi">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20261101220835 +0100" stop="20261101225416 +0100" channel="tvi">
-    <title lang="ca">30 minuts</title>
-    <sub-title lang="ca">Ruta 66, escoltant els Estats Units</sub-title>
-    <desc lang="ca">Dos anys de Donald Trump a la Casa Blanca, unes eleccions de mig mandat a la vista i un país que ha celebrat el seu 250 aniversari. Aquest és el punt de partida per intentar respondre la pregunta que el món es fa: cap a on van els Estats Units? L'equip de TV3 a Washington ha recorregut de punta a punta la ruta 66, des de Chicago fins a Los Angeles, per prendre el pols a la societat nord-americana en un dels molts punts d'inflexió que el país ha viscut al llarg de la seva història. El resultat és un mosaic de veus i de vides trobades al llarg de 4.000 quilòmetres que s'expliquen i que expliquen el moment actual: des del canvi en les polítiques migratòries fins a la implicació en la guerra de l'Iran passant pel cost de la vida, la polarització al voltant de Donald Trump o el racisme històric. Una família mexicana a Illinois, una mare i un fill al seu porxo de Missouri, unes perruqueres a Oklahoma, un pastor baptista a Texas, un policia navajo a Nou Mèxic, un veterà del Vietnam a Arizona o joves amb un futur incert a Califòrnia. Tots es pregunten què és ser nord-americà avui, i amb les seves respostes i les seves experiències vitals es va teixint un retrat que vol fugir de la caricatura o la simplificació. Sota la gran polarització hi ha matisos. I sota el seu optimisme natural hi ha alguna fractura. 'Ruta 66, escoltant els Estats Units' no pretén ser la veritat definitiva, però tot el que hi surt és veritat i reflecteix per on passa el país la tardor del 2026.</desc>
-    <length units="seconds">2741</length>
-    <episode-num system="onscreen">1296</episode-num>
+  <programme start="20261102004259 +0100" stop="20261102040000 +0100" channel="tvi">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="seconds">11821</length>
+    <episode-num system="onscreen">11591</episode-num>
     <category lang="ca">ACTUALITAT</category>
-    <category lang="ca">REPORTATGES</category>
+    <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <icon src="https://statics.ccma.cat/multimedia/jpg/7/3/1571603193237.jpg"/>
+    <previously-shown/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
-  <programme start="20261101225416 +0100" stop="20261102011408 +0100" channel="tvi">
-    <title lang="ca">Vèrtex</title>
-    <desc lang="ca">Hi ha notícies que només s'entenen quan s'observen des de diferents perspectives. Amb aquesta premissa neix 'Vèrtex', el nou programa d'actualitat setmanal que converteix la complexitat dels grans temes en una conversa rigorosa, visual i propera. El programa ofereix una mirada transversal dels assumptes que han marcat la setmana i dels que definiran la que està a punt de començar.</desc>
-    <length units="seconds">8392</length>
-    <episode-num system="onscreen">5</episode-num>
-    <category lang="ca">DIVULGACIÓ</category>
-    <category lang="ca">ENTREVISTES</category>
+  <programme start="20261102040000 +0100" stop="20261102044547 +0100" channel="tvi">
+    <title lang="ca">Cava de Blues</title>
+    <sub-title lang="ca">Legacaster! The Hillbilly Trio</sub-title>
+    <desc lang="ca">Cava de Blues és un espai dedicat a les noves creacions de 14 grups del país que es dediquen a aquest gènere musical.En aquesta edició, els grups que hi trobareu són: -A contrablues-Blas Picón &amp; The Junk Espress-Bullfrog Electric Blues Experience-Dusa'ns Flying Blues Band-Dani Baraldés &amp; The XX Band-Emili Baleriola Blues Quartet-Dani Nel·lo &amp; Mario Cobo-Ivan Kovacevic 5 Spots-JG Acoustic Gang-John Big Stone &amp; The Blues Workers-Legacaster! The Hillbilly Trio-Martini Surfers-Susan Santos &amp; The Papa's Red Band-The Paparellos</desc>
+    <length units="seconds">2747</length>
+    <episode-num system="onscreen">11</episode-num>
+    <category lang="ca">MUSICALS</category>
+    <category lang="ca">JAZZ</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
+    <previously-shown/>
+    <icon src="https://img.3cat.cat/multimedia/jpg/0/2/1754910826220.jpg"/>
   </programme>
   <channel id="324">
     <display-name>324</display-name>
   </channel>
-  <programme start="20261101210000 +0100" stop="20261101230000 +0100" channel="324">
-    <title lang="ca">Telenotícies vespre</title>
-    <length units="seconds">7200</length>
-    <episode-num system="onscreen">7375</episode-num>
-    <category lang="ca">ACTUALITAT</category>
-    <category lang="ca">INFORMATIU DIÀRI</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <subtitles type="teletext"/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/7/2/1758026176427.jpg"/>
-  </programme>
-  <programme start="20261101230000 +0100" stop="20261102003000 +0100" channel="324">
+  <programme start="20261102010000 +0100" stop="20261102060000 +0100" channel="324">
     <title lang="ca">Notícies 3CatInfo</title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">5400</length>
-    <episode-num system="onscreen">11590</episode-num>
+    <length units="seconds">18000</length>
+    <episode-num system="onscreen">11591</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <subtitles type="teletext"/>
+    <previously-shown/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
+  </programme>
+  <programme start="20261102060000 +0100" stop="20261102080000 +0100" channel="324">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="seconds">7200</length>
+    <episode-num system="onscreen">11592</episode-num>
+    <category lang="ca">ACTUALITAT</category>
+    <category lang="ca">INFORMATIU DIÀRI</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
     <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
   <channel id="esport3">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20261101223902 +0100" stop="20261101230000 +0100" channel="esport3">
-    <title lang="ca">Zona zàping</title>
-    <sub-title lang="ca">Mbappé s'emporta el Clàssic</sub-title>
-    <desc lang="ca">Kylian Mbappé va decantar el clàssic amb dos gols que van donar la victòria al Real Madrid. Una gerra d'aigua freda per als seguidors blaugrana, que van veure com l'endemà Lamine Yamal tampoc guanyava la pilota d'or, en mans de Harry Kane.David Rosell, cantant del grup manresà Dept., ens presenta la seva cançó de retorn al mercat musical després de 12 anys 'Brindarem'.</desc>
-    <length units="seconds">1258</length>
-    <episode-num system="onscreen">1090</episode-num>
-    <category lang="ca">ESPORTS</category>
-    <category lang="ca">ALTRES</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <subtitles type="teletext"/>
-    <previously-shown/>
-    <icon src="https://img.3cat.cat/multimedia/jpg/4/7/1763564970974.jpg"/>
-  </programme>
-  <programme start="20261101230000 +0100" stop="20261102003108 +0100" channel="esport3">
+  <programme start="20261102012512 +0100" stop="20261102030026 +0100" channel="esport3">
     <title lang="ca">Gol a gol</title>
     <sub-title lang="ca">Anàlisi de la jornada / J11 / Diumenge</sub-title>
     <desc lang="ca">'Gol a gol' us ofereix els resums dels partits de futbol de Primera i Segona Divisió. Presentat per Jordi Grau a Esport3, cada dissabte i cada diumenge podeu veure les millors imatges de la jornada de Lliga amb l'anàlisi dels experts, amb especial atenció als equips catalans, sobretot el Barça, el Girona i l'Espanyol.</desc>
-    <length units="seconds">5468</length>
+    <length units="seconds">5714</length>
     <episode-num system="onscreen">1798</episode-num>
     <category lang="ca">ESPORTS</category>
     <category lang="ca">MAGAZINE</category>
@@ -85,17 +73,33 @@
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
+    <previously-shown/>
     <icon src="https://img.ccma.cat/multimedia/jpg/2/1/1698144123212.jpg"/>
+  </programme>
+  <programme start="20261102030026 +0100" stop="20261102044551 +0100" channel="esport3">
+    <title lang="ca">Futbol</title>
+    <sub-title lang="ca">FC Badalona Women-FC Barcelona / Lliga F / J9</sub-title>
+    <desc lang="ca">El derbi arriba amb el Barça líder, 7 victòries i 1 derrota per a les blaugranes. Les badalonines només han guanyat 1 partit i volen sortir de la zona baixa.</desc>
+    <length units="seconds">6325</length>
+    <episode-num system="onscreen">58</episode-num>
+    <category lang="ca">ESPORTS</category>
+    <category lang="ca">RETRANSMISSIONS ESPORTS</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <subtitles type="teletext"/>
+    <previously-shown/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/0/8/1730389343680.jpg"/>
   </programme>
   <channel id="sx3">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20261101223447 +0100" stop="20261101224548 +0100" channel="sx3">
-    <title lang="ca">La tropa del corral</title>
-    <sub-title lang="ca">DJ Elvis</sub-title>
-    <desc lang="ca">La Tropa intenta ajudar l'Elvis amb l'equip de so per al Mascota Fest, però la Flo acaba fent saltar tota la xarxa elèctrica de Vilanimal quan endolla el Funkatró, una màquina de festa que fa ballar tothom sense parar.</desc>
-    <length units="seconds">661</length>
-    <episode-num system="onscreen">43</episode-num>
+  <programme start="20261102014622 +0100" stop="20261102020729 +0100" channel="sx3">
+    <title lang="ca">Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
+    <sub-title lang="ca">Riginarazione</sub-title>
+    <desc lang="ca">Quan s'acosta el 75è aniversari dels seus avis, la Marinette rep una notícia que trasbalsarà la seva vida i la de la seva família.</desc>
+    <length units="seconds">1267</length>
+    <episode-num system="onscreen">150</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
@@ -104,12 +108,12 @@
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20261101224548 +0100" stop="20261101225623 +0100" channel="sx3">
-    <title lang="ca">La tropa del corral</title>
-    <sub-title lang="ca">Un os per al gos</sub-title>
-    <desc lang="ca">L'Agnes truca la Tropa. Sembla que la Bertha i en Sam es barallen per un os perquè tots dos en reclamen la propietat. La Tropa mirarà de trobar la manera de fer-los deixar l'os mentre lluiten per tota Vilanimal.</desc>
-    <length units="seconds">635</length>
-    <episode-num system="onscreen">44</episode-num>
+  <programme start="20261102020729 +0100" stop="20261102022744 +0100" channel="sx3">
+    <title lang="ca">Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
+    <sub-title lang="ca">Capgiracors</sub-title>
+    <desc lang="ca">Convençuts que poden destruir la representació més bonica del que és l'Amor, en Nelson, en Loïc i en Ray decideixen deixar-se akumatitzar per trencar la parella que formen la Marinette i l'Adrien. Serà prou fort l'amor de tots dos per resistir als enganys dels supermalvats?</desc>
+    <length units="seconds">1215</length>
+    <episode-num system="onscreen">151</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
@@ -121,30 +125,30 @@
   <channel id="c33">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20261101220516 +0100" stop="20261101225750 +0100" channel="c33">
-    <title lang="ca">Llocs recòndits</title>
-    <sub-title lang="ca">Les Illes Canàries</sub-title>
-    <desc lang="ca">'Llocs recòndits - Les Canàries' és un especial de televisió d'una hora, produït, presentat i narrat per l'editor de viatges de la CBS News, Peter Greenberg, i que explora les vuit illes espanyoles: El Hierro, Fuerteventura, Gran Canaria, La Gomera, La Graciosa, Lanzarote, La Palma i Tenerife.</desc>
-    <length units="seconds">3154</length>
-    <episode-num system="onscreen">2</episode-num>
-    <category lang="ca">DIVULGACIÓ</category>
-    <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
+  <programme start="20261102012956 +0100" stop="20261102021847 +0100" channel="c33">
+    <title lang="ca">El Crac</title>
+    <sub-title lang="ca">La gran farsa</sub-title>
+    <desc lang="ca">Comencen els assajos de l'obra de teatre d''El secret de la Família Qong', on el Joel treballarà frec a frec amb la seva exparella, la Sandra, que ara està amb el Julio Manrique. Per demostrar que això no els afecta en absolut i que tots dos ho tenen tot molt superat, el Joel li proposa a la Sandra fer un sopar de parelles amb el Julio i la Carla. Un sopar delirant que tindrà conseqüències imprevisibles.</desc>
+    <length units="seconds">2931</length>
+    <episode-num system="onscreen">14</episode-num>
+    <category lang="ca">FICCIÓ</category>
+    <category lang="ca">SÈRIE DRAMÀTICA</category>
     <rating>
-      <value>TOTS ELS PÚBLICS</value>
+      <value>PÚBLIC ADULT</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20261101225750 +0100" stop="20261101235053 +0100" channel="c33">
-    <title lang="ca">Llocs recòndits</title>
-    <sub-title lang="ca">L'Egeu amagat de Turquia</sub-title>
-    <desc lang="ca">Acompanyeu en Peter Greenberg, el presentador, mentre viatja per tota la costa del mar Egeu i explora Bodrum, Esmirna i l'antiga ciutat de Troia.</desc>
-    <length units="seconds">3183</length>
-    <episode-num system="onscreen">1</episode-num>
-    <category lang="ca">DIVULGACIÓ</category>
-    <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
+  <programme start="20261102021847 +0100" stop="20261102030618 +0100" channel="c33">
+    <title lang="ca">El Crac</title>
+    <sub-title lang="ca">La gran família</sub-title>
+    <desc lang="ca">El Joel està totalment superat per la seva inesperada paternitat. No dóna a l'abast amb els seus cinc fills adoptius i es planteja tornar-los al seu país d'origen com més aviat millor. Per part seva, la Sandra comença a adonar-se que el Julio potser no és tan perfecte com semblava. Mentrestant, continuen els assajos de l'obra i el Lluís Soler es nega a plorar en escena. El Gnocchi farà tot el possible per emocionar-lo, costi el que costi.</desc>
+    <length units="seconds">2851</length>
+    <episode-num system="onscreen">15</episode-num>
+    <category lang="ca">FICCIÓ</category>
+    <category lang="ca">SÈRIE DRAMÀTICA</category>
     <rating>
-      <value>TOTS ELS PÚBLICS</value>
+      <value>PÚBLIC ADULT</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
