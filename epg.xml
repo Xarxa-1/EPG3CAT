@@ -3,38 +3,39 @@
   <channel id="tvi">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20261102172837 +0100" stop="20261102191343 +0100" channel="tvi">
-    <title lang="ca">La Selva</title>
-    <desc lang="ca">Xavier Grasset us convida a passar la tarda en una cafeteria on regna el bon ambient. El lloc on saps que sempre hi trobaràs cares conegudes i conversa interessant. A 'La selva' s'hi parla de tot i hi pot passar de tot. Amb la mirada posada a l'actualitat que marca el dia, però també a les curiositats més sorprenents. Des del recolliment d'un bar on t'hi trobes com a casa, però amb una finestra oberta al que passa en directe arreu de Catalunya i al món. Un programa amb vocació d'aparador cultural i gastronòmic del país.</desc>
-    <length units="seconds">6306</length>
-    <episode-num system="onscreen">442</episode-num>
-    <category lang="ca">ENTRETENIMENT</category>
-    <category lang="ca">MAGAZINE</category>
+  <programme start="20261103002014 +0100" stop="20261103020652 +0100" channel="tvi">
+    <title lang="ca">Mésnit</title>
+    <desc lang="ca">El 'Mésnit' arriba a la desena temporada, amb Marina Romero al capdavant de l'espai i amb la voluntat de continuar sent un centre de debat d'idees i d'anàlisi de l'activitat política.</desc>
+    <length units="seconds">6398</length>
+    <episode-num system="onscreen">2191</episode-num>
+    <category lang="ca">ACTUALITAT</category>
+    <category lang="ca">DEBAT</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <previously-shown/>
-    <icon src="https://img.3cat.cat/multimedia/jpg/6/3/1725871608136.jpg"/>
   </programme>
-  <programme start="20261102191343 +0100" stop="20261102201500 +0100" channel="tvi">
-    <title lang="ca">Atrapa'm si pots</title>
-    <desc lang="ca">'Atrapa'm si pots' és un 'quiz show' clàssic, de preguntes i respostes, presentat per Llucià Ferrer, en què sis concursants competeixen per arribar a la fase final i guanyar el pot. 'Atrapa'm si pots' és entreteniment pur i on gairebé és més important passar-s'ho bé que els diners. És un concurs en què pesa més la intuïció que no els coneixements acadèmics, més l'estratègia en el joc que no la sort.</desc>
-    <length units="seconds">3677</length>
-    <episode-num system="onscreen">955</episode-num>
-    <category lang="ca">ENTRETENIMENT</category>
-    <category lang="ca">CONCURS</category>
+  <programme start="20261103020652 +0100" stop="20261103040000 +0100" channel="tvi">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="seconds">6788</length>
+    <episode-num system="onscreen">11600</episode-num>
+    <category lang="ca">ACTUALITAT</category>
+    <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
+    <previously-shown/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
   <channel id="324">
     <display-name>324</display-name>
   </channel>
-  <programme start="20261102170000 +0100" stop="20261102183000 +0100" channel="324">
+  <programme start="20261103003000 +0100" stop="20261103010000 +0100" channel="324">
     <title lang="ca">Notícies 3CatInfo</title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">5400</length>
-    <episode-num system="onscreen">11596</episode-num>
+    <length units="seconds">1800</length>
+    <episode-num system="onscreen">11600</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
@@ -43,59 +44,60 @@
     <subtitles type="teletext"/>
     <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
-  <programme start="20261102183000 +0100" stop="20261102200000 +0100" channel="324">
+  <programme start="20261103010000 +0100" stop="20261103060000 +0100" channel="324">
     <title lang="ca">Notícies 3CatInfo</title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">5400</length>
-    <episode-num system="onscreen">11597</episode-num>
+    <length units="seconds">18000</length>
+    <episode-num system="onscreen">11600</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
+    <previously-shown/>
     <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
   <channel id="esport3">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20261102170720 +0100" stop="20261102182721 +0100" channel="esport3">
-    <title lang="ca">Esport Club</title>
-    <sub-title lang="ca">Anthony Gordon, Hansi Flick i tertúlia</sub-title>
-    <desc lang="ca">Les rodes de premsa d'Anthony Gordon i Hansi Flick en la prèvia del Barça-Aston Villa de demà. I tertúlia amb Maria Josep Hostalrich, Orfeo Suárez i Pichi Alonso</desc>
-    <length units="seconds">4801</length>
-    <episode-num system="onscreen">3275</episode-num>
+  <programme start="20261103005207 +0100" stop="20261103022538 +0100" channel="esport3">
+    <title lang="ca">Onze</title>
+    <sub-title lang="ca">Mbappé a la piscina; Mayola Academy i 'El Colegiado'</sub-title>
+    <desc lang="ca">Carles Fité, Xavi Torres, Aina Cerdà, Jordi Martí i Joaquín Maroto parlen de la jugada polèmica de la jornada, el penal xiulat sobre Mbappé. En Marc Mayola repassa alguns aspectes tàctics del Barça-Alabès i en Joan Fàbregas analitza la resta de jugades polèmiques.</desc>
+    <length units="seconds">5611</length>
+    <episode-num system="onscreen">1280</episode-num>
     <category lang="ca">ESPORTS</category>
-    <category lang="ca">INFORMATIU DIÀRI</category>
+    <category lang="ca">MAGAZINE</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/7/3/1698145091337.jpg"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/1/1/1688543515711.jpg"/>
   </programme>
-  <programme start="20261102182721 +0100" stop="20261102190000 +0100" channel="esport3">
-    <title lang="ca">La frontal</title>
-    <sub-title lang="ca">El FS Piera torna a somriure</sub-title>
-    <desc lang="ca">El club de l'Anoia, amb 25 anys d'història, viu una nova etapa de creixement després d'una etapa complicada. L'entitat ha recuperat la il·lusió amb nous equips i l'aposta per un model de club familiar. Un sentiment de pertinença que es transmet des dels més petits fins als veterans. Durant el programa, Carles Fité entrevista el president del Futbol Sala Piera, Mario Aguilera; el secretari, Joaquim Díaz; i el jugador del primer equip, Àlex Aguilera. I a més a més, els resums dels partits més destacats del cap de setmana.</desc>
-    <length units="seconds">1959</length>
-    <episode-num system="onscreen">182</episode-num>
+  <programme start="20261103022538 +0100" stop="20261103024553 +0100" channel="esport3">
+    <title lang="ca">3CatInfo Esports</title>
+    <desc lang="ca">Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.</desc>
+    <length units="seconds">1215</length>
+    <episode-num system="onscreen">5557</episode-num>
     <category lang="ca">ESPORTS</category>
-    <category lang="ca">ESPECIALS</category>
+    <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <icon src="https://img.ccma.cat/multimedia/jpg/2/4/1698432480342.jpg"/>
+    <previously-shown/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/9/7/1758888682179.jpg"/>
   </programme>
   <channel id="sx3">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20261102181514 +0100" stop="20261102182642 +0100" channel="sx3">
-    <title lang="ca">Els barrufets (3D)</title>
-    <sub-title lang="ca">Què 'nas' de dir?</sub-title>
-    <desc lang="ca">El Barrufet Forçut se sent frustrat perquè la Barrufeta no li fas cas. Quan el Barrufet Bromista li comenta que potser és perquè té el nas massa gros, el Forçut demana ajuda al Gran Barrufet perquè li busqui una solució. El Gran Barrufet, però, considera que la petició és absurda. Empipat, el Forçut entra a casa del Gargamel per prendre-li un llibre d'encanteris on expliqui com reduir nassos.</desc>
-    <length units="seconds">688</length>
-    <episode-num system="onscreen">1</episode-num>
+  <programme start="20261103004937 +0100" stop="20261103011107 +0100" channel="sx3">
+    <title lang="ca">Els germans Kratt</title>
+    <sub-title lang="ca">Imitadors</sub-title>
+    <desc lang="ca">Després de descobrir que hi ha mosques que imiten abelles i serps que imiten altres serps verinoses, els germans Kratt han vist com la Donita Donata capturava una mare guepard per la seva línia de roba de safari d'hivern. Mentre la rescaten, també hauran de protegir el seu cadell, que aviat els ensenyarà que també és un gran imitador! No t'ho perdis!</desc>
+    <length units="seconds">1290</length>
+    <episode-num system="onscreen">25</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
@@ -104,12 +106,12 @@
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20261102182642 +0100" stop="20261102183742 +0100" channel="sx3">
-    <title lang="ca">Els barrufets (3D)</title>
-    <sub-title lang="ca">El Papa Bolquers</sub-title>
-    <desc lang="ca">Al poble Barrufet tots s'estimen molt el Bebè Barrufet, però quan és l'hora de canviar-li el bolquer, tothom se n'escapoleix. Per evitar conflictes, l'Inventor crea un robot, el Papa Bolquers, que no només canvia el Bebè, sinó que el passeja i li explica contes. Però un dia té un curtcircuit i es torna tremendament protector amb el petit, fins al punt de no deixar que ningú se li acosti.</desc>
-    <length units="seconds">660</length>
-    <episode-num system="onscreen">2</episode-num>
+  <programme start="20261103011107 +0100" stop="20261103013103 +0100" channel="sx3">
+    <title lang="ca">Viatges Pokémon</title>
+    <sub-title lang="ca">L'Ash i el Latios!</sub-title>
+    <desc lang="ca">L'Ash i els seus amics volen ajudar el Latios a fugir d'un caçador Pokémon. La Latias es posa molt nerviosa quan el seu poder de Visió Compartida es desconnecta del Latios, però el Brock i l'Ash la convencen perquè es calmi i descansi bé a la nit. L'endemà al matí, el grup segueix la Latias fins a la cova on s'amaga el Latios. El Latios desconfia dels humans, però abans que l'Ash el pugui convèncer que va amb bones intencions, apareix el caçador!</desc>
+    <length units="seconds">1196</length>
+    <episode-num system="onscreen">142</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
@@ -121,28 +123,28 @@
   <channel id="c33">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20261102180246 +0100" stop="20261102182644 +0100" channel="c33">
-    <title lang="ca">Quèquicom</title>
-    <sub-title lang="ca">Un menú nutrigenòmic</sub-title>
-    <desc lang="ca">'Quèquicom' explicarà què és un menú nutrigenòmic, una dieta específica per a cada persona, que li permet combatre amb els aliments els seus dèficits personals. El programa científic del 33 ho explicarà amb diversos exemples, com ara el reporter Miquel Piris, que es fa una anàlisi d'ADN per dissenyar una dieta que compensi nutritivament les carències dels seus gens. Un gen és un codificador de proteïnes i, si falla, pot ser que l'organisme no sintetitzi bé determinades substàncies. Ara la nutrigenòmica identifica els dèficits potencials de cada persona, fet que permet establir dietes específiques.</desc>
-    <length units="seconds">1438</length>
-    <episode-num system="onscreen">117</episode-num>
-    <category lang="ca">DIVULGACIÓ</category>
-    <category lang="ca">MAGAZINE ESPECIALITZAT</category>
+  <programme start="20261103002900 +0100" stop="20261103005901 +0100" channel="c33">
+    <title lang="ca">Manicòmics</title>
+    <sub-title lang="ca">Monòlegs Inèdits</sub-title>
+    <desc lang="ca">Durant set programes hem parlat amb set còmics sobre les seves obsessions i hi hem posat fragments dels monòlegs de cadascun d'ells. Però no ho hem pogut posar tot. Això que veureu en aquest capítol és material inèdit.</desc>
+    <length units="seconds">1801</length>
+    <episode-num system="onscreen">8</episode-num>
+    <category lang="ca">ENTRETENIMENT</category>
+    <category lang="ca">ALTRES</category>
     <rating>
-      <value>TOTS ELS PÚBLICS</value>
+      <value>JUVENIL</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20261102182644 +0100" stop="20261102185355 +0100" channel="c33">
-    <title lang="ca">Patrimonis</title>
-    <sub-title lang="ca">La bellesa (recinte Modernitat de l'Hospital de Sant Pau)</sub-title>
-    <desc lang="ca">A 'Patrimonis' visitem el recinte modernista de l'Hospital de Sant Pau de Barcelona, projectat per l'arquitecte Lluís Domènech i Montaner. Durant anys, el conjunt va projectar una bellesa sanadora, però poc a poc va anar perdent la seva identitat. Ara, remodelat parcialment, és un contrast entre la destrucció i la recuperació de la bellesa. Al voltant d'aquest concepte dialoguen el pintor Joan-Pere Viladecans i l'arquitecta Benedetta Tagliabue. També hi intervé l'arquitecte Frederic Crespo, responsable de la rehabilitació del recinte, i el ceramista Toni Cumella, que ha produït peces en el marc d'aquest procés. La banda sonora la posa el Quartet Teixidor, un dels millors grups de música de cambra del país. A més, Sant Pau acull la dansa de la coreògrafa Lali Ayguadé.</desc>
-    <length units="seconds">1631</length>
-    <episode-num system="onscreen">1</episode-num>
+  <programme start="20261103005901 +0100" stop="20261103014650 +0100" channel="c33">
+    <title lang="ca">Aeroport</title>
+    <sub-title lang="ca">Uniformes</sub-title>
+    <desc lang="ca">Els uniformes desperten passions. 'Aeroport' s'endinsa en el món de les tripulacions, els cossos de seguretat i el personal de 'handling', viatjant a Lisboa amb un comandant de vol, comptant quants cops saluda el sobrecàrrec amb el clàssic 'adeu, bon dia', i seguint un grup d'operacions especials de la Guàrdia Civil que persegueix jihadistes.</desc>
+    <length units="seconds">2869</length>
+    <episode-num system="onscreen">22</episode-num>
     <category lang="ca">DIVULGACIÓ</category>
-    <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
+    <category lang="ca">Docu-Entreteniment</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
