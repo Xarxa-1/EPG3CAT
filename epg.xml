@@ -3,39 +3,38 @@
   <channel id="tvi">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20261103002014 +0100" stop="20261103020652 +0100" channel="tvi">
-    <title lang="ca">Mésnit</title>
-    <desc lang="ca">El 'Mésnit' arriba a la desena temporada, amb Marina Romero al capdavant de l'espai i amb la voluntat de continuar sent un centre de debat d'idees i d'anàlisi de l'activitat política.</desc>
-    <length units="seconds">6398</length>
-    <episode-num system="onscreen">2191</episode-num>
-    <category lang="ca">ACTUALITAT</category>
-    <category lang="ca">DEBAT</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <previously-shown/>
-  </programme>
-  <programme start="20261103020652 +0100" stop="20261103040000 +0100" channel="tvi">
+  <programme start="20261103060000 +0100" stop="20261103080000 +0100" channel="tvi">
     <title lang="ca">Notícies 3CatInfo</title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">6788</length>
-    <episode-num system="onscreen">11600</episode-num>
+    <length units="seconds">7200</length>
+    <episode-num system="onscreen">11601</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <previously-shown/>
     <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
+  </programme>
+  <programme start="20261103080000 +0100" stop="20261103103000 +0100" channel="tvi">
+    <title lang="ca">Matins</title>
+    <desc lang="ca">'Matins' és un dels puntals informatius de TV3. El programa matinal dona les claus del dia que comença, explica les notícies que han passat aportant-ne el context per entendre-les i analitza amb veus acreditades l'actualitat més propera i la d'arreu del món. 'Matins' comença a les 8 del matí, de dilluns a divendres, i està presentat per Ariadna Oltra.</desc>
+    <length units="seconds">9000</length>
+    <episode-num system="onscreen">4705</episode-num>
+    <category lang="ca">ACTUALITAT</category>
+    <category lang="ca">INFORMATIU DIÀRI</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <icon src="https://img.ccma.cat/multimedia/jpg/2/0/1758040151402.jpg"/>
   </programme>
   <channel id="324">
     <display-name>324</display-name>
   </channel>
-  <programme start="20261103003000 +0100" stop="20261103010000 +0100" channel="324">
+  <programme start="20261103060000 +0100" stop="20261103080000 +0100" channel="324">
     <title lang="ca">Notícies 3CatInfo</title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">1800</length>
-    <episode-num system="onscreen">11600</episode-num>
+    <length units="seconds">7200</length>
+    <episode-num system="onscreen">11601</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
@@ -44,42 +43,39 @@
     <subtitles type="teletext"/>
     <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
-  <programme start="20261103010000 +0100" stop="20261103060000 +0100" channel="324">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">18000</length>
-    <episode-num system="onscreen">11600</episode-num>
+  <programme start="20261103080000 +0100" stop="20261103103000 +0100" channel="324">
+    <title lang="ca">Matins</title>
+    <desc lang="ca">'Matins' és un dels puntals informatius de TV3. El programa matinal dona les claus del dia que comença, explica les notícies que han passat aportant-ne el context per entendre-les i analitza amb veus acreditades l'actualitat més propera i la d'arreu del món. 'Matins' comença a les 8 del matí, de dilluns a divendres, i està presentat per Ariadna Oltra.</desc>
+    <length units="seconds">9000</length>
+    <episode-num system="onscreen">4705</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <subtitles type="teletext"/>
-    <previously-shown/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/2/0/1758040151402.jpg"/>
   </programme>
   <channel id="esport3">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20261103005207 +0100" stop="20261103022538 +0100" channel="esport3">
-    <title lang="ca">Onze</title>
-    <sub-title lang="ca">Mbappé a la piscina; Mayola Academy i 'El Colegiado'</sub-title>
-    <desc lang="ca">Carles Fité, Xavi Torres, Aina Cerdà, Jordi Martí i Joaquín Maroto parlen de la jugada polèmica de la jornada, el penal xiulat sobre Mbappé. En Marc Mayola repassa alguns aspectes tàctics del Barça-Alabès i en Joan Fàbregas analitza la resta de jugades polèmiques.</desc>
-    <length units="seconds">5611</length>
-    <episode-num system="onscreen">1280</episode-num>
+  <programme start="20261103061350 +0100" stop="20261103064536 +0100" channel="esport3">
+    <title lang="ca">La frontal</title>
+    <sub-title lang="ca">El FS Piera torna a somriure</sub-title>
+    <desc lang="ca">El club de l'Anoia, amb 25 anys d'història, viu una nova etapa de creixement després d'una etapa complicada. L'entitat ha recuperat la il·lusió amb nous equips i l'aposta per un model de club familiar. Un sentiment de pertinença que es transmet des dels més petits fins als veterans. Durant el programa, Carles Fité entrevista el president del Futbol Sala Piera, Mario Aguilera; el secretari, Joaquim Díaz; i el jugador del primer equip, Àlex Aguilera. I a més a més, els resums dels partits més destacats del cap de setmana.</desc>
+    <length units="seconds">1906</length>
+    <episode-num system="onscreen">182</episode-num>
     <category lang="ca">ESPORTS</category>
-    <category lang="ca">MAGAZINE</category>
+    <category lang="ca">ESPECIALS</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <subtitles type="teletext"/>
     <previously-shown/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/1/1/1688543515711.jpg"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/2/4/1698432480342.jpg"/>
   </programme>
-  <programme start="20261103022538 +0100" stop="20261103024553 +0100" channel="esport3">
+  <programme start="20261103064536 +0100" stop="20261103070621 +0100" channel="esport3">
     <title lang="ca">3CatInfo Esports</title>
     <desc lang="ca">Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.</desc>
-    <length units="seconds">1215</length>
+    <length units="seconds">1245</length>
     <episode-num system="onscreen">5557</episode-num>
     <category lang="ca">ESPORTS</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
@@ -92,12 +88,12 @@
   <channel id="sx3">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20261103004937 +0100" stop="20261103011107 +0100" channel="sx3">
-    <title lang="ca">Els germans Kratt</title>
-    <sub-title lang="ca">Imitadors</sub-title>
-    <desc lang="ca">Després de descobrir que hi ha mosques que imiten abelles i serps que imiten altres serps verinoses, els germans Kratt han vist com la Donita Donata capturava una mare guepard per la seva línia de roba de safari d'hivern. Mentre la rescaten, també hauran de protegir el seu cadell, que aviat els ensenyarà que també és un gran imitador! No t'ho perdis!</desc>
-    <length units="seconds">1290</length>
-    <episode-num system="onscreen">25</episode-num>
+  <programme start="20261103062306 +0100" stop="20261103063417 +0100" channel="sx3">
+    <title lang="ca">L'abella Maia</title>
+    <sub-title lang="ca">A la recerca de la bola perduda</sub-title>
+    <desc lang="ca">La bola de fems d'en Ben ha ensopegat amb la d'en Rudy, un altre escarabat piloter, i tots dos s'han quedat sense les seves estimades boles. La Maia i en Willi els ajudaran a buscar-les, però aviat s'adonaran que una de les boles s'ha quedat enganxada a la teranyina de la Tecla. I això ja són paraules majors! Com s'ho faran per recuperar-la?!</desc>
+    <length units="seconds">671</length>
+    <episode-num system="onscreen">38</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
@@ -106,12 +102,12 @@
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20261103011107 +0100" stop="20261103013103 +0100" channel="sx3">
-    <title lang="ca">Viatges Pokémon</title>
-    <sub-title lang="ca">L'Ash i el Latios!</sub-title>
-    <desc lang="ca">L'Ash i els seus amics volen ajudar el Latios a fugir d'un caçador Pokémon. La Latias es posa molt nerviosa quan el seu poder de Visió Compartida es desconnecta del Latios, però el Brock i l'Ash la convencen perquè es calmi i descansi bé a la nit. L'endemà al matí, el grup segueix la Latias fins a la cova on s'amaga el Latios. El Latios desconfia dels humans, però abans que l'Ash el pugui convèncer que va amb bones intencions, apareix el caçador!</desc>
-    <length units="seconds">1196</length>
-    <episode-num system="onscreen">142</episode-num>
+  <programme start="20261103063417 +0100" stop="20261103064535 +0100" channel="sx3">
+    <title lang="ca">L'abella Maia</title>
+    <sub-title lang="ca">L'eclipsi solar</sub-title>
+    <desc lang="ca">Quan la Maia i en Willi s'adonen que una cosa enorme i fosca s'està posant damunt del sol, poc es pensen que es pot tractar d'un eclipsi solar. I és que no n'han vist mai cap! Totes les abelles, espantades, han tornat al rusc. Només falten els tres menuts, en Zap, en Zip i en Zoot, que si no els salva la Maia, acabaran a mans de l'Stinger i de les seves males arts.</desc>
+    <length units="seconds">678</length>
+    <episode-num system="onscreen">39</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
@@ -123,33 +119,34 @@
   <channel id="c33">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20261103002900 +0100" stop="20261103005901 +0100" channel="c33">
-    <title lang="ca">Manicòmics</title>
-    <sub-title lang="ca">Monòlegs Inèdits</sub-title>
-    <desc lang="ca">Durant set programes hem parlat amb set còmics sobre les seves obsessions i hi hem posat fragments dels monòlegs de cadascun d'ells. Però no ho hem pogut posar tot. Això que veureu en aquest capítol és material inèdit.</desc>
-    <length units="seconds">1801</length>
-    <episode-num system="onscreen">8</episode-num>
+  <programme start="20261103060606 +0100" stop="20261103062350 +0100" channel="c33">
+    <title lang="ca">Les Feres</title>
+    <sub-title lang="ca">Rambalaya</sub-title>
+    <desc lang="ca">Rambalaya és el projecte personal d'Anton Jarl, reconegut bateria de bandes com Los Mambo Jambo o Los Drummonds. Per aquest septet, el músic ha reunit instrumentistes destacats de l'escena rhythm &amp; blues i el vocalista Jonathan Herrero (A Contra Blues). Discos com 'Only in my dreams' o 'Plays for the brokenhearted' despleguen la passió natural del grup barceloní pel rock, el soul, el blues o les balades que evoquen dècades passades. Clàssics com Elvis Presley, Roy Orbison, Glen Campbell, Jimmy Webb o WillyDeVille formen part de les seves destacades influències. Jonathan Herrero – veu i guitarra acústica Anton Jarl -bateria Héctor Martín – guitarra Matías Míguez – baix Alberto Burguez -teclats Álex López – trompeta Pol Prats -saxo 'The border' 'Take your own advice' 'Telephone' 'Under a jaded sky' Localització: Enregistrat al Cafè Teatre Llantiol, Barcelona Data: 23 de gener del 2025 </desc>
+    <length units="seconds">1064</length>
+    <episode-num system="onscreen">37</episode-num>
     <category lang="ca">ENTRETENIMENT</category>
     <category lang="ca">ALTRES</category>
-    <rating>
-      <value>JUVENIL</value>
-    </rating>
-    <subtitles type="teletext"/>
-    <previously-shown/>
-  </programme>
-  <programme start="20261103005901 +0100" stop="20261103014650 +0100" channel="c33">
-    <title lang="ca">Aeroport</title>
-    <sub-title lang="ca">Uniformes</sub-title>
-    <desc lang="ca">Els uniformes desperten passions. 'Aeroport' s'endinsa en el món de les tripulacions, els cossos de seguretat i el personal de 'handling', viatjant a Lisboa amb un comandant de vol, comptant quants cops saluda el sobrecàrrec amb el clàssic 'adeu, bon dia', i seguint un grup d'operacions especials de la Guàrdia Civil que persegueix jihadistes.</desc>
-    <length units="seconds">2869</length>
-    <episode-num system="onscreen">22</episode-num>
-    <category lang="ca">DIVULGACIÓ</category>
-    <category lang="ca">Docu-Entreteniment</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/3/4/1719854188043.jpg"/>
+  </programme>
+  <programme start="20261103062350 +0100" stop="20261103062910 +0100" channel="c33">
+    <title lang="ca">Xarxa Natura</title>
+    <sub-title lang="ca">Montserrat</sub-title>
+    <desc lang="ca">En la llista d'espais inclosos a la Xarxa Natura 2000 hi ha tots els parcs naturals, però també molts altres espais emblemàtics com ara les Guilleries, l'estany de Banyoles, l'Alta Garrotxa, la serra del Montsec o les Gavarres. La majoria d'aquests espais són autèntics desconeguts i els seus valors naturals i culturals no han estat mai objecte de cap divulgació específica. Aquesta sèrie vol donar a conèixer aquest patrimoni.</desc>
+    <length units="seconds">320</length>
+    <episode-num system="onscreen">23</episode-num>
+    <category lang="ca">ALTRES</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <subtitles type="teletext"/>
+    <previously-shown/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/4/1/1721308939614.jpg"/>
   </programme>
   <channel id="oca1">
     <display-name>OCA1</display-name>
