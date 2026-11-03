@@ -3,127 +3,131 @@
   <channel id="tv3uhd">
     <display-name>TV3UHD</display-name>
   </channel>
-  <programme start="20261103135503 +0100" stop="20261103143000 +0100" channel="tv3uhd">
-    <title lang="ca">Telenotícies comarques</title>
-    <length units="seconds">2097</length>
-    <episode-num system="onscreen">7068</episode-num>
-    <category lang="ca">ACTUALITAT</category>
-    <category lang="ca">INFORMATIU DIÀRI</category>
+  <programme start="20261103201502 +0100" stop="20261103210000 +0100" channel="tv3uhd">
+    <title lang="ca">Està passant</title>
+    <desc lang="ca">El Queco i la Natza ens expliquen les novetats del jutge Llarena i la causa contra Puigdemont. En Magí ens actualitza sobre el món dels esports i l'Alba Segarra ens explica amb quines coses s'hi posa de cap o de cul.</desc>
+    <length units="seconds">2698</length>
+    <episode-num system="onscreen">1844</episode-num>
+    <category lang="ca">ENTRETENIMENT</category>
+    <category lang="ca">GAGS. HUMOR</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/5/2/1758026313525.jpg"/>
+    <icon src="https://img.ccma.cat/multimedia/png/3/8/1705511272683.png"/>
   </programme>
-  <programme start="20261103143000 +0100" stop="20261103153010 +0100" channel="tv3uhd">
-    <title lang="ca">Telenotícies migdia</title>
-    <length units="seconds">3610</length>
-    <episode-num system="onscreen">7378</episode-num>
+  <programme start="20261103210000 +0100" stop="20261103220632 +0100" channel="tv3uhd">
+    <title lang="ca">Telenotícies vespre</title>
+    <length units="seconds">3992</length>
+    <episode-num system="onscreen">7377</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/5/4/1758025766345.jpg"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/7/2/1758026176427.jpg"/>
   </programme>
   <channel id="tvi">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20261103135503 +0100" stop="20261103143000 +0100" channel="tvi">
-    <title lang="ca">Telenotícies comarques</title>
-    <length units="seconds">2097</length>
-    <episode-num system="onscreen">7068</episode-num>
-    <category lang="ca">ACTUALITAT</category>
-    <category lang="ca">INFORMATIU DIÀRI</category>
+  <programme start="20261103201502 +0100" stop="20261103210000 +0100" channel="tvi">
+    <title lang="ca">Està passant</title>
+    <desc lang="ca">El Queco i la Natza ens expliquen les novetats del jutge Llarena i la causa contra Puigdemont. En Magí ens actualitza sobre el món dels esports i l'Alba Segarra ens explica amb quines coses s'hi posa de cap o de cul.</desc>
+    <length units="seconds">2698</length>
+    <episode-num system="onscreen">1844</episode-num>
+    <category lang="ca">ENTRETENIMENT</category>
+    <category lang="ca">GAGS. HUMOR</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <icon src="https://img.ccma.cat/multimedia/jpg/5/2/1758026313525.jpg"/>
+    <icon src="https://img.ccma.cat/multimedia/png/3/8/1705511272683.png"/>
   </programme>
-  <programme start="20261103143000 +0100" stop="20261103153010 +0100" channel="tvi">
-    <title lang="ca">Telenotícies migdia</title>
-    <length units="seconds">3610</length>
-    <episode-num system="onscreen">7378</episode-num>
+  <programme start="20261103210000 +0100" stop="20261103220632 +0100" channel="tvi">
+    <title lang="ca">Telenotícies vespre</title>
+    <length units="seconds">3992</length>
+    <episode-num system="onscreen">7377</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <icon src="https://img.ccma.cat/multimedia/jpg/5/4/1758025766345.jpg"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/7/2/1758026176427.jpg"/>
   </programme>
   <channel id="324">
     <display-name>324</display-name>
   </channel>
-  <programme start="20261103135500 +0100" stop="20261103143000 +0100" channel="324">
-    <title lang="ca">Telenotícies comarques</title>
-    <length units="seconds">2100</length>
-    <episode-num system="onscreen">7068</episode-num>
-    <category lang="ca">ACTUALITAT</category>
-    <category lang="ca">INFORMATIU DIÀRI</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <icon src="https://img.ccma.cat/multimedia/jpg/5/2/1758026313525.jpg"/>
-  </programme>
-  <programme start="20261103143000 +0100" stop="20261103153000 +0100" channel="324">
-    <title lang="ca">Telenotícies migdia</title>
+  <programme start="20261103200000 +0100" stop="20261103210000 +0100" channel="324">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <length units="seconds">3600</length>
-    <episode-num system="onscreen">7378</episode-num>
+    <episode-num system="onscreen">11607</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <icon src="https://img.ccma.cat/multimedia/jpg/5/4/1758025766345.jpg"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
+  </programme>
+  <programme start="20261103210000 +0100" stop="20261103220500 +0100" channel="324">
+    <title lang="ca">Telenotícies vespre</title>
+    <length units="seconds">3900</length>
+    <episode-num system="onscreen">7377</episode-num>
+    <category lang="ca">ACTUALITAT</category>
+    <category lang="ca">INFORMATIU DIÀRI</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <subtitles type="teletext"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/7/2/1758026176427.jpg"/>
   </programme>
   <channel id="esport3">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20261103130008 +0100" stop="20261103140223 +0100" channel="esport3">
-    <title lang="ca">Esport Club</title>
-    <desc lang="ca">En Jordi Sanuy i Víctor Patsi us expliquen l'última hora esportiva i l'analitzen amb el seu equip de col·laboradors. El programa és molt actiu a les xarxes socials. L''Esport Club' té presència a Twitter, a Facebook i a Instagram. L'espai dirigeix moltes accions de participació amb l'audiència a través de les xarxes socials.</desc>
-    <length units="seconds">3735</length>
-    <episode-num system="onscreen">3276</episode-num>
+  <programme start="20261103205622 +0100" stop="20261103230134 +0100" channel="esport3">
+    <title lang="ca">Un dia de partit</title>
+    <sub-title lang="ca">Barça-Aston Villa</sub-title>
+    <desc lang="ca">A 'Un dia de partit' arreglem el Barça. O no. A cada partit, sis culers hi diuen la seva. Famosos i anònims. Cadascun a casa seva. Davant del televisor. Tot a base de videotrucades, en format Twitch i en rigorós directe. Ah! I a la mitja part no aturem màquines. Amb els jugadors als vestidors, nosaltres seguim fent bullir l'olla! Només sis culers? Negatiu. Durant el partit van apareixent els Jimmy Jump: els espontanis que demanen saltar a 'Un dia de partit' via WhatsApp.</desc>
+    <length units="seconds">7512</length>
+    <episode-num system="onscreen">258</episode-num>
     <category lang="ca">ESPORTS</category>
-    <category lang="ca">INFORMATIU DIÀRI</category>
+    <category lang="ca">RETRANSMISSIONS ESPORTS</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <subtitles type="teletext"/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/7/3/1698145091337.jpg"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/2/7/1678885232972.jpg"/>
   </programme>
-  <programme start="20261103140223 +0100" stop="20261103163507 +0100" channel="esport3">
-    <title lang="ca">Esport Club</title>
-    <desc lang="ca">En Jordi Sanuy i Víctor Patsi us expliquen l'última hora esportiva i l'analitzen amb el seu equip de col·laboradors. El programa és molt actiu a les xarxes socials. L''Esport Club' té presència a Twitter, a Facebook i a Instagram. L'espai dirigeix moltes accions de participació amb l'audiència a través de les xarxes socials.</desc>
-    <length units="seconds">9164</length>
-    <episode-num system="onscreen">3276</episode-num>
+  <programme start="20261103230134 +0100" stop="20261104021014 +0100" channel="esport3">
+    <title lang="ca">Bàsquet</title>
+    <sub-title lang="ca">Porto-Asisa Joventut / Champions League / J3</sub-title>
+    <desc lang="ca">Els badalonins aspiren a la tercera victòria en tres jornades per mantenir-se al capdavant de la classificació al grup H.</desc>
+    <length units="seconds">11320</length>
+    <episode-num system="onscreen">25</episode-num>
     <category lang="ca">ESPORTS</category>
-    <category lang="ca">INFORMATIU DIÀRI</category>
+    <category lang="ca">RETRANSMISSIONS ESPORTS</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <subtitles type="teletext"/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/7/3/1698145091337.jpg"/>
+    <icon src="https://img.3cat.cat/multimedia/jpg/1/1/1761643119911.jpg"/>
   </programme>
   <channel id="sx3">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20261103134324 +0100" stop="20261103140556 +0100" channel="sx3">
-    <title lang="ca">El detectiu Conan</title>
-    <sub-title lang="ca">L’home que es va instal·lar a la comissaria de policia</sub-title>
-    <desc lang="ca">L'inspector Megure deté en Yosuke Katsuki per l'assassinat d'en Shuhei Odawara, un antic company de classe que s'acabava de prometre amb l'exnòvia d'en Katsuki, la Tomoko Yaguchi. Tot i que en Katsuki confessa haver comès el crim, la seva declaració no encaixa amb les pistes trobades a casa de la víctima. Al cap d'un parell de dies, l'inspector Megure troba en Kogoro Mouri pel carrer i li explica el cas. En Mouri decideix resoldre'l.</desc>
-    <length units="seconds">1352</length>
-    <episode-num system="onscreen">1115</episode-num>
+  <programme start="20261103203931 +0100" stop="20261103205952 +0100" channel="sx3">
+    <title lang="ca">Henry Danger</title>
+    <sub-title lang="ca">Un directe perillós, primera part</sub-title>
+    <desc lang="ca">Una invitació a la festa del famós Frankini acaba convertint-se en una aventura molt més arriscada del que en Henry i en Ray esperaven.</desc>
+    <length units="seconds">1221</length>
+    <episode-num system="onscreen">64</episode-num>
     <category lang="ca">FICCIÓ</category>
-    <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
+    <category lang="ca">SÈRIE DRAMÀTICA</category>
     <rating>
       <value>INFANTIL</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20261103140556 +0100" stop="20261103142813 +0100" channel="sx3">
+  <programme start="20261103205952 +0100" stop="20261103212209 +0100" channel="sx3">
     <title lang="ca">Bola de drac Z</title>
     <sub-title lang="ca">Tots els esforços han estat en va. El monstre Bu acaba destruint la Terra</sub-title>
     <desc lang="ca">A l'exterior del cos d'en Bu, en Son Goku i en Vegeta s'adonen que el monstre ha tornat a la seva forma original, la que el fa més malvat i més poderós que mai. Aleshores, sense donar temps de reaccionar a ningú, el monstre Bu acaba destruint la Terra. Just abans, però, el déu Neptú aconsegueix endur-se en Son Goku, en Vegeta, en Dende i en Satan al seu planeta.</desc>
@@ -140,44 +144,71 @@
   <channel id="c33">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20261103133556 +0100" stop="20261103142841 +0100" channel="c33">
-    <title lang="ca">Atrapa'm si pots</title>
-    <desc lang="ca">'Atrapa'm si pots' és un 'quiz show' clàssic, de preguntes i respostes, presentat per Llucià Ferrer, en què sis concursants competeixen per arribar a la fase final i guanyar el pot. 'Atrapa'm si pots' és entreteniment pur i on gairebé és més important passar-s'ho bé que els diners. És un concurs en què pesa més la intuïció que no els coneixements acadèmics, més l'estratègia en el joc que no la sort.</desc>
-    <length units="seconds">3165</length>
-    <episode-num system="onscreen">79</episode-num>
+  <programme start="20261103201043 +0100" stop="20261103205933 +0100" channel="c33">
+    <title lang="ca">País d'altura</title>
+    <sub-title lang="ca">Pirineus</sub-title>
+    <desc lang="ca">Els Pirineus són una frontera de muntanyes gegants i vides a gran altitud. Pobles penjats del mapa, cims que toquen el cel i gent que viu més a prop dels núvols que dels embussos.</desc>
+    <length units="seconds">2930</length>
+    <episode-num system="onscreen">2</episode-num>
     <category lang="ca">ENTRETENIMENT</category>
-    <category lang="ca">CONCURS</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20261103142841 +0100" stop="20261103151521 +0100" channel="c33">
-    <title lang="ca">La Renaixença</title>
-    <sub-title lang="ca">El globus aerostàtic</sub-title>
-    <desc lang="ca">Vic i Igualada podrien ser dues capitals del globus aerostàtic a Catalunya. Estem segurs que els viatges en globus és de les coses que has de fer un cop a la vida, però si això comporta llevar-se de matinada per no sé què dels vents, potser més d'un és baixa. Avui dediquem el capítol al globus aerostàtic. Ens visita en Toni Arbonés, un escalador català que ha obert més de 1.000 vies d'escalada arreu del món. Sortim a passejar en Patxi, un teckel de Barcelona, per la rebel·lió de Sobibor, el 1943.</desc>
-    <length units="seconds">2800</length>
-    <episode-num system="onscreen">74</episode-num>
-    <category lang="ca">DIVULGACIÓ</category>
-    <category lang="ca">ALTRES</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <subtitles type="teletext"/>
-    <previously-shown/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/3/3/1756148014833.jpg"/>
+  <programme start="20261103205933 +0100" stop="20261103210233 +0100" channel="c33">
+    <title lang="ca">SENSE FI CANAL 33</title>
+    <desc lang="ca">Sense Descripció</desc>
+    <length units="seconds">180</length>
   </programme>
   <channel id="oca1">
     <display-name>OCA1</display-name>
   </channel>
+  <programme start="20261103195500 +0100" stop="20261103220455 +0100" channel="oca1">
+    <title lang="ca">Bàsquet</title>
+    <sub-title lang="ca">- FIATC Girona-Patrioti Levice / Fiba Europe Cup / J5</sub-title>
+    <desc lang="ca">Els gironins reben el conjunt eslovac amb l'objectiu de mantenir el liderat solitari del grup. Fins al moment, el balanç europeu és de 3 victòries i 1 derrota.</desc>
+    <length units="seconds">7795</length>
+    <episode-num system="onscreen">5</episode-num>
+    <category lang="ca">ESPORTS</category>
+    <category lang="ca">RETRANSMISSIONS ESPORTS</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <icon src="https://img.3cat.cat/multimedia/jpg/4/8/1791200744284.jpg"/>
+  </programme>
   <channel id="oca2">
     <display-name>OCA2</display-name>
   </channel>
+  <programme start="20261103202500 +0100" stop="20261103223455 +0100" channel="oca2">
+    <title lang="ca">Bàsquet</title>
+    <sub-title lang="ca">- Porto-Asisa Joventut / Champions League / J3</sub-title>
+    <desc lang="ca">Els badalonins aspiren a la tercera victòria en tres jornades per mantenir-se al capdavant de la classificació al grup H.</desc>
+    <length units="seconds">7795</length>
+    <episode-num system="onscreen">25</episode-num>
+    <category lang="ca">ESPORTS</category>
+    <category lang="ca">RETRANSMISSIONS ESPORTS</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <icon src="https://img.3cat.cat/multimedia/jpg/1/1/1761643119911.jpg"/>
+  </programme>
   <channel id="oca3">
     <display-name>OCA3</display-name>
   </channel>
   <channel id="oca4">
     <display-name>OCA4</display-name>
   </channel>
+  <programme start="20261103170628 +0100" stop="20261103200623 +0100" channel="oca4">
+    <title lang="ca">Compareixença al Congrés del ministre Puente</title>
+    <length units="seconds">10795</length>
+    <episode-num system="onscreen">4214</episode-num>
+    <category lang="ca">ACTUALITAT</category>
+    <category lang="ca">RETRANSMISSIONS ACTUALITAT</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <icon src="https://img.ccma.cat/multimedia/jpg/6/5/1793344419256.jpg"/>
+  </programme>
 </tv>
