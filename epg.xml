@@ -1,99 +1,120 @@
 <?xml version="1.0" ?>
 <tv generator-info-name="CCMA-EPG-Scraper-Enriched">
+  <channel id="tv3uhd">
+    <display-name>TV3UHD</display-name>
+  </channel>
+  <programme start="20261103135503 +0100" stop="20261103143000 +0100" channel="tv3uhd">
+    <title lang="ca">Telenotícies comarques</title>
+    <length units="seconds">2097</length>
+    <episode-num system="onscreen">7068</episode-num>
+    <category lang="ca">ACTUALITAT</category>
+    <category lang="ca">INFORMATIU DIÀRI</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <subtitles type="teletext"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/5/2/1758026313525.jpg"/>
+  </programme>
+  <programme start="20261103143000 +0100" stop="20261103153010 +0100" channel="tv3uhd">
+    <title lang="ca">Telenotícies migdia</title>
+    <length units="seconds">3610</length>
+    <episode-num system="onscreen">7378</episode-num>
+    <category lang="ca">ACTUALITAT</category>
+    <category lang="ca">INFORMATIU DIÀRI</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <subtitles type="teletext"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/5/4/1758025766345.jpg"/>
+  </programme>
   <channel id="tvi">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20261103060000 +0100" stop="20261103080000 +0100" channel="tvi">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">7200</length>
-    <episode-num system="onscreen">11601</episode-num>
+  <programme start="20261103135503 +0100" stop="20261103143000 +0100" channel="tvi">
+    <title lang="ca">Telenotícies comarques</title>
+    <length units="seconds">2097</length>
+    <episode-num system="onscreen">7068</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/5/2/1758026313525.jpg"/>
   </programme>
-  <programme start="20261103080000 +0100" stop="20261103103000 +0100" channel="tvi">
-    <title lang="ca">Matins</title>
-    <desc lang="ca">'Matins' és un dels puntals informatius de TV3. El programa matinal dona les claus del dia que comença, explica les notícies que han passat aportant-ne el context per entendre-les i analitza amb veus acreditades l'actualitat més propera i la d'arreu del món. 'Matins' comença a les 8 del matí, de dilluns a divendres, i està presentat per Ariadna Oltra.</desc>
-    <length units="seconds">9000</length>
-    <episode-num system="onscreen">4705</episode-num>
+  <programme start="20261103143000 +0100" stop="20261103153010 +0100" channel="tvi">
+    <title lang="ca">Telenotícies migdia</title>
+    <length units="seconds">3610</length>
+    <episode-num system="onscreen">7378</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <icon src="https://img.ccma.cat/multimedia/jpg/2/0/1758040151402.jpg"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/5/4/1758025766345.jpg"/>
   </programme>
   <channel id="324">
     <display-name>324</display-name>
   </channel>
-  <programme start="20261103060000 +0100" stop="20261103080000 +0100" channel="324">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">7200</length>
-    <episode-num system="onscreen">11601</episode-num>
+  <programme start="20261103135500 +0100" stop="20261103143000 +0100" channel="324">
+    <title lang="ca">Telenotícies comarques</title>
+    <length units="seconds">2100</length>
+    <episode-num system="onscreen">7068</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <subtitles type="teletext"/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/5/2/1758026313525.jpg"/>
   </programme>
-  <programme start="20261103080000 +0100" stop="20261103103000 +0100" channel="324">
-    <title lang="ca">Matins</title>
-    <desc lang="ca">'Matins' és un dels puntals informatius de TV3. El programa matinal dona les claus del dia que comença, explica les notícies que han passat aportant-ne el context per entendre-les i analitza amb veus acreditades l'actualitat més propera i la d'arreu del món. 'Matins' comença a les 8 del matí, de dilluns a divendres, i està presentat per Ariadna Oltra.</desc>
-    <length units="seconds">9000</length>
-    <episode-num system="onscreen">4705</episode-num>
+  <programme start="20261103143000 +0100" stop="20261103153000 +0100" channel="324">
+    <title lang="ca">Telenotícies migdia</title>
+    <length units="seconds">3600</length>
+    <episode-num system="onscreen">7378</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <icon src="https://img.ccma.cat/multimedia/jpg/2/0/1758040151402.jpg"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/5/4/1758025766345.jpg"/>
   </programme>
   <channel id="esport3">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20261103061350 +0100" stop="20261103064536 +0100" channel="esport3">
-    <title lang="ca">La frontal</title>
-    <sub-title lang="ca">El FS Piera torna a somriure</sub-title>
-    <desc lang="ca">El club de l'Anoia, amb 25 anys d'història, viu una nova etapa de creixement després d'una etapa complicada. L'entitat ha recuperat la il·lusió amb nous equips i l'aposta per un model de club familiar. Un sentiment de pertinença que es transmet des dels més petits fins als veterans. Durant el programa, Carles Fité entrevista el president del Futbol Sala Piera, Mario Aguilera; el secretari, Joaquim Díaz; i el jugador del primer equip, Àlex Aguilera. I a més a més, els resums dels partits més destacats del cap de setmana.</desc>
-    <length units="seconds">1906</length>
-    <episode-num system="onscreen">182</episode-num>
-    <category lang="ca">ESPORTS</category>
-    <category lang="ca">ESPECIALS</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <previously-shown/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/2/4/1698432480342.jpg"/>
-  </programme>
-  <programme start="20261103064536 +0100" stop="20261103070621 +0100" channel="esport3">
-    <title lang="ca">3CatInfo Esports</title>
-    <desc lang="ca">Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.</desc>
-    <length units="seconds">1245</length>
-    <episode-num system="onscreen">5557</episode-num>
+  <programme start="20261103130008 +0100" stop="20261103140223 +0100" channel="esport3">
+    <title lang="ca">Esport Club</title>
+    <desc lang="ca">En Jordi Sanuy i Víctor Patsi us expliquen l'última hora esportiva i l'analitzen amb el seu equip de col·laboradors. El programa és molt actiu a les xarxes socials. L''Esport Club' té presència a Twitter, a Facebook i a Instagram. L'espai dirigeix moltes accions de participació amb l'audiència a través de les xarxes socials.</desc>
+    <length units="seconds">3735</length>
+    <episode-num system="onscreen">3276</episode-num>
     <category lang="ca">ESPORTS</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <previously-shown/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/9/7/1758888682179.jpg"/>
+    <subtitles type="teletext"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/7/3/1698145091337.jpg"/>
+  </programme>
+  <programme start="20261103140223 +0100" stop="20261103163507 +0100" channel="esport3">
+    <title lang="ca">Esport Club</title>
+    <desc lang="ca">En Jordi Sanuy i Víctor Patsi us expliquen l'última hora esportiva i l'analitzen amb el seu equip de col·laboradors. El programa és molt actiu a les xarxes socials. L''Esport Club' té presència a Twitter, a Facebook i a Instagram. L'espai dirigeix moltes accions de participació amb l'audiència a través de les xarxes socials.</desc>
+    <length units="seconds">9164</length>
+    <episode-num system="onscreen">3276</episode-num>
+    <category lang="ca">ESPORTS</category>
+    <category lang="ca">INFORMATIU DIÀRI</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <subtitles type="teletext"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/7/3/1698145091337.jpg"/>
   </programme>
   <channel id="sx3">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20261103062306 +0100" stop="20261103063417 +0100" channel="sx3">
-    <title lang="ca">L'abella Maia</title>
-    <sub-title lang="ca">A la recerca de la bola perduda</sub-title>
-    <desc lang="ca">La bola de fems d'en Ben ha ensopegat amb la d'en Rudy, un altre escarabat piloter, i tots dos s'han quedat sense les seves estimades boles. La Maia i en Willi els ajudaran a buscar-les, però aviat s'adonaran que una de les boles s'ha quedat enganxada a la teranyina de la Tecla. I això ja són paraules majors! Com s'ho faran per recuperar-la?!</desc>
-    <length units="seconds">671</length>
-    <episode-num system="onscreen">38</episode-num>
+  <programme start="20261103134324 +0100" stop="20261103140556 +0100" channel="sx3">
+    <title lang="ca">El detectiu Conan</title>
+    <sub-title lang="ca">L’home que es va instal·lar a la comissaria de policia</sub-title>
+    <desc lang="ca">L'inspector Megure deté en Yosuke Katsuki per l'assassinat d'en Shuhei Odawara, un antic company de classe que s'acabava de prometre amb l'exnòvia d'en Katsuki, la Tomoko Yaguchi. Tot i que en Katsuki confessa haver comès el crim, la seva declaració no encaixa amb les pistes trobades a casa de la víctima. Al cap d'un parell de dies, l'inspector Megure troba en Kogoro Mouri pel carrer i li explica el cas. En Mouri decideix resoldre'l.</desc>
+    <length units="seconds">1352</length>
+    <episode-num system="onscreen">1115</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
@@ -102,16 +123,16 @@
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20261103063417 +0100" stop="20261103064535 +0100" channel="sx3">
-    <title lang="ca">L'abella Maia</title>
-    <sub-title lang="ca">L'eclipsi solar</sub-title>
-    <desc lang="ca">Quan la Maia i en Willi s'adonen que una cosa enorme i fosca s'està posant damunt del sol, poc es pensen que es pot tractar d'un eclipsi solar. I és que no n'han vist mai cap! Totes les abelles, espantades, han tornat al rusc. Només falten els tres menuts, en Zap, en Zip i en Zoot, que si no els salva la Maia, acabaran a mans de l'Stinger i de les seves males arts.</desc>
-    <length units="seconds">678</length>
-    <episode-num system="onscreen">39</episode-num>
+  <programme start="20261103140556 +0100" stop="20261103142813 +0100" channel="sx3">
+    <title lang="ca">Bola de drac Z</title>
+    <sub-title lang="ca">Tots els esforços han estat en va. El monstre Bu acaba destruint la Terra</sub-title>
+    <desc lang="ca">A l'exterior del cos d'en Bu, en Son Goku i en Vegeta s'adonen que el monstre ha tornat a la seva forma original, la que el fa més malvat i més poderós que mai. Aleshores, sense donar temps de reaccionar a ningú, el monstre Bu acaba destruint la Terra. Just abans, però, el déu Neptú aconsegueix endur-se en Son Goku, en Vegeta, en Dende i en Satan al seu planeta.</desc>
+    <length units="seconds">1337</length>
+    <episode-num system="onscreen">277</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
-      <value>INFANTIL</value>
+      <value>JUVENIL</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
@@ -119,34 +140,33 @@
   <channel id="c33">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20261103060606 +0100" stop="20261103062350 +0100" channel="c33">
-    <title lang="ca">Les Feres</title>
-    <sub-title lang="ca">Rambalaya</sub-title>
-    <desc lang="ca">Rambalaya és el projecte personal d'Anton Jarl, reconegut bateria de bandes com Los Mambo Jambo o Los Drummonds. Per aquest septet, el músic ha reunit instrumentistes destacats de l'escena rhythm &amp; blues i el vocalista Jonathan Herrero (A Contra Blues). Discos com 'Only in my dreams' o 'Plays for the brokenhearted' despleguen la passió natural del grup barceloní pel rock, el soul, el blues o les balades que evoquen dècades passades. Clàssics com Elvis Presley, Roy Orbison, Glen Campbell, Jimmy Webb o WillyDeVille formen part de les seves destacades influències. Jonathan Herrero – veu i guitarra acústica Anton Jarl -bateria Héctor Martín – guitarra Matías Míguez – baix Alberto Burguez -teclats Álex López – trompeta Pol Prats -saxo 'The border' 'Take your own advice' 'Telephone' 'Under a jaded sky' Localització: Enregistrat al Cafè Teatre Llantiol, Barcelona Data: 23 de gener del 2025 </desc>
-    <length units="seconds">1064</length>
-    <episode-num system="onscreen">37</episode-num>
+  <programme start="20261103133556 +0100" stop="20261103142841 +0100" channel="c33">
+    <title lang="ca">Atrapa'm si pots</title>
+    <desc lang="ca">'Atrapa'm si pots' és un 'quiz show' clàssic, de preguntes i respostes, presentat per Llucià Ferrer, en què sis concursants competeixen per arribar a la fase final i guanyar el pot. 'Atrapa'm si pots' és entreteniment pur i on gairebé és més important passar-s'ho bé que els diners. És un concurs en què pesa més la intuïció que no els coneixements acadèmics, més l'estratègia en el joc que no la sort.</desc>
+    <length units="seconds">3165</length>
+    <episode-num system="onscreen">79</episode-num>
     <category lang="ca">ENTRETENIMENT</category>
-    <category lang="ca">ALTRES</category>
+    <category lang="ca">CONCURS</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/3/4/1719854188043.jpg"/>
   </programme>
-  <programme start="20261103062350 +0100" stop="20261103062910 +0100" channel="c33">
-    <title lang="ca">Xarxa Natura</title>
-    <sub-title lang="ca">Montserrat</sub-title>
-    <desc lang="ca">En la llista d'espais inclosos a la Xarxa Natura 2000 hi ha tots els parcs naturals, però també molts altres espais emblemàtics com ara les Guilleries, l'estany de Banyoles, l'Alta Garrotxa, la serra del Montsec o les Gavarres. La majoria d'aquests espais són autèntics desconeguts i els seus valors naturals i culturals no han estat mai objecte de cap divulgació específica. Aquesta sèrie vol donar a conèixer aquest patrimoni.</desc>
-    <length units="seconds">320</length>
-    <episode-num system="onscreen">23</episode-num>
+  <programme start="20261103142841 +0100" stop="20261103151521 +0100" channel="c33">
+    <title lang="ca">La Renaixença</title>
+    <sub-title lang="ca">El globus aerostàtic</sub-title>
+    <desc lang="ca">Vic i Igualada podrien ser dues capitals del globus aerostàtic a Catalunya. Estem segurs que els viatges en globus és de les coses que has de fer un cop a la vida, però si això comporta llevar-se de matinada per no sé què dels vents, potser més d'un és baixa. Avui dediquem el capítol al globus aerostàtic. Ens visita en Toni Arbonés, un escalador català que ha obert més de 1.000 vies d'escalada arreu del món. Sortim a passejar en Patxi, un teckel de Barcelona, per la rebel·lió de Sobibor, el 1943.</desc>
+    <length units="seconds">2800</length>
+    <episode-num system="onscreen">74</episode-num>
+    <category lang="ca">DIVULGACIÓ</category>
     <category lang="ca">ALTRES</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/4/1/1721308939614.jpg"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/3/3/1756148014833.jpg"/>
   </programme>
   <channel id="oca1">
     <display-name>OCA1</display-name>
