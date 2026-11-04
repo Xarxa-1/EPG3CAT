@@ -3,169 +3,173 @@
   <channel id="tv3uhd">
     <display-name>TV3UHD</display-name>
   </channel>
-  <programme start="20261104055003 +0100" stop="20261104080000 +0100" channel="tv3uhd">
-    <title lang="ca">Eleccions de mig mandat: examen a Trump</title>
-    <sub-title lang="ca">Eleccions de mig mandat: examen a Trump</sub-title>
-    <length units="seconds">7797</length>
-    <episode-num system="onscreen">1</episode-num>
-    <category lang="ca">ACTUALITAT</category>
-    <category lang="ca">ESPECIALS INFORMATIUS</category>
+  <programme start="20261104153828 +0100" stop="20261104155722 +0100" channel="tv3uhd">
+    <title lang="ca">Cuines</title>
+    <sub-title lang="ca">Raviolo de muntanya amb bolets</sub-title>
+    <desc lang="ca">Marc Ribas prepara un plat que ens porta a un bosc de tardor... i també a França i a Itàlia... Aquest ravioli està farcit de bolets i botifarra del perol, i servit en un consomé de farigola que ens abraçarà els sentits.</desc>
+    <length units="seconds">1134</length>
+    <episode-num system="onscreen">2441</episode-num>
+    <category lang="ca">DIVULGACIÓ</category>
+    <category lang="ca">CUINA</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
-    <previously-shown/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/2/5/1793623691452.jpg"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/2/5/1653464509252.jpg"/>
   </programme>
-  <programme start="20261104080000 +0100" stop="20261104103000 +0100" channel="tv3uhd">
-    <title lang="ca">Matins</title>
-    <desc lang="ca">'Matins' és un dels puntals informatius de TV3. El programa matinal dona les claus del dia que comença, explica les notícies que han passat aportant-ne el context per entendre-les i analitza amb veus acreditades l'actualitat més propera i la d'arreu del món. 'Matins' comença a les 8 del matí, de dilluns a divendres, i està presentat per Ariadna Oltra.</desc>
-    <length units="seconds">9000</length>
-    <episode-num system="onscreen">4706</episode-num>
-    <category lang="ca">ACTUALITAT</category>
-    <category lang="ca">INFORMATIU DIÀRI</category>
+  <programme start="20261104155722 +0100" stop="20261104163541 +0100" channel="tv3uhd">
+    <title lang="ca">Com si fos ahir</title>
+    <desc lang="ca">En Litus busca refugi en la seva nova família, però la trobada confirma que encara no sap quin lloc hi ocupa. La Lena entra a l'empresa familiar i el seu nou paper posa a prova la confiança d'en Valeri. La por a l'Iker porta la Itziar a confondre realitat i persecució fins que acaba perdent el control. </desc>
+    <length units="seconds">2299</length>
+    <episode-num system="onscreen">1842</episode-num>
+    <category lang="ca">FICCIÓ</category>
+    <category lang="ca">SÈRIE DRAMÀTICA</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/2/0/1758040151402.jpg"/>
   </programme>
   <channel id="tvi">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20261104055003 +0100" stop="20261104080000 +0100" channel="tvi">
-    <title lang="ca">Eleccions de mig mandat: examen a Trump</title>
-    <sub-title lang="ca">Eleccions de mig mandat: examen a Trump</sub-title>
-    <length units="seconds">7797</length>
-    <episode-num system="onscreen">1</episode-num>
-    <category lang="ca">ACTUALITAT</category>
-    <category lang="ca">ESPECIALS INFORMATIUS</category>
+  <programme start="20261104153828 +0100" stop="20261104155722 +0100" channel="tvi">
+    <title lang="ca">Cuines</title>
+    <sub-title lang="ca">Raviolo de muntanya amb bolets</sub-title>
+    <desc lang="ca">Marc Ribas prepara un plat que ens porta a un bosc de tardor... i també a França i a Itàlia... Aquest ravioli està farcit de bolets i botifarra del perol, i servit en un consomé de farigola que ens abraçarà els sentits.</desc>
+    <length units="seconds">1134</length>
+    <episode-num system="onscreen">2441</episode-num>
+    <category lang="ca">DIVULGACIÓ</category>
+    <category lang="ca">CUINA</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <previously-shown/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/2/5/1793623691452.jpg"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/2/5/1653464509252.jpg"/>
   </programme>
-  <programme start="20261104080000 +0100" stop="20261104103000 +0100" channel="tvi">
-    <title lang="ca">Matins</title>
-    <desc lang="ca">'Matins' és un dels puntals informatius de TV3. El programa matinal dona les claus del dia que comença, explica les notícies que han passat aportant-ne el context per entendre-les i analitza amb veus acreditades l'actualitat més propera i la d'arreu del món. 'Matins' comença a les 8 del matí, de dilluns a divendres, i està presentat per Ariadna Oltra.</desc>
-    <length units="seconds">9000</length>
-    <episode-num system="onscreen">4706</episode-num>
-    <category lang="ca">ACTUALITAT</category>
-    <category lang="ca">INFORMATIU DIÀRI</category>
+  <programme start="20261104155722 +0100" stop="20261104163541 +0100" channel="tvi">
+    <title lang="ca">Com si fos ahir</title>
+    <desc lang="ca">En Litus busca refugi en la seva nova família, però la trobada confirma que encara no sap quin lloc hi ocupa. La Lena entra a l'empresa familiar i el seu nou paper posa a prova la confiança d'en Valeri. La por a l'Iker porta la Itziar a confondre realitat i persecució fins que acaba perdent el control. </desc>
+    <length units="seconds">2299</length>
+    <episode-num system="onscreen">1842</episode-num>
+    <category lang="ca">FICCIÓ</category>
+    <category lang="ca">SÈRIE DRAMÀTICA</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <icon src="https://img.ccma.cat/multimedia/jpg/2/0/1758040151402.jpg"/>
   </programme>
   <channel id="324">
     <display-name>324</display-name>
   </channel>
-  <programme start="20261104060000 +0100" stop="20261104080000 +0100" channel="324">
-    <title lang="ca">Eleccions de mig mandat: examen a Trump</title>
-    <sub-title lang="ca">Eleccions de mig mandat: examen a Trump</sub-title>
-    <length units="seconds">7200</length>
-    <episode-num system="onscreen">1</episode-num>
-    <category lang="ca">ACTUALITAT</category>
-    <category lang="ca">ESPECIALS INFORMATIUS</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <previously-shown/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/2/5/1793623691452.jpg"/>
-  </programme>
-  <programme start="20261104080000 +0100" stop="20261104090000 +0100" channel="324">
-    <title lang="ca">Matins</title>
-    <desc lang="ca">'Matins' és un dels puntals informatius de TV3. El programa matinal dona les claus del dia que comença, explica les notícies que han passat aportant-ne el context per entendre-les i analitza amb veus acreditades l'actualitat més propera i la d'arreu del món. 'Matins' comença a les 8 del matí, de dilluns a divendres, i està presentat per Ariadna Oltra.</desc>
+  <programme start="20261104153000 +0100" stop="20261104163000 +0100" channel="324">
+    <title lang="ca">Telenotícies migdia (reemissió)</title>
     <length units="seconds">3600</length>
-    <episode-num system="onscreen">4706</episode-num>
+    <episode-num system="onscreen">7379</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <icon src="https://img.ccma.cat/multimedia/jpg/2/0/1758040151402.jpg"/>
-  </programme>
-  <channel id="esport3">
-    <display-name>ESPORT3</display-name>
-  </channel>
-  <programme start="20261104070800 +0100" stop="20261104082913 +0100" channel="esport3">
-    <title lang="ca">Zona Champions</title>
-    <sub-title lang="ca">Post Barça-Aston Villa / J4</sub-title>
-    <desc lang="ca">El bo i millor de la màxima competició de futbol continental de la mà del Departament d'Esports de Televisió de Catalunya. Viu tots els partits de la Lliga de Campions a 3Cat!</desc>
-    <length units="seconds">4873</length>
-    <episode-num system="onscreen">857</episode-num>
-    <category lang="ca">ESPORTS</category>
-    <category lang="ca">MAGAZINE</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
-    <icon src="https://img.3cat.cat/multimedia/jpg/2/5/1793734126552.jpg"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/5/4/1758025766345.jpg"/>
   </programme>
-  <programme start="20261104082913 +0100" stop="20261104100604 +0100" channel="esport3">
-    <title lang="ca">Bàsquet</title>
-    <sub-title lang="ca">FIATC Girona-Patrioti Levice / Fiba Europe Cup / J5</sub-title>
-    <desc lang="ca">Els gironins reben el conjunt eslovac amb l'objectiu de mantenir el liderat solitari del grup. Fins al moment, el balanç europeu és de 3 victòries i 1 derrota.</desc>
-    <length units="seconds">5811</length>
-    <episode-num system="onscreen">5</episode-num>
-    <category lang="ca">ESPORTS</category>
-    <category lang="ca">RETRANSMISSIONS ESPORTS</category>
+  <programme start="20261104163000 +0100" stop="20261104170000 +0100" channel="324">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="seconds">1800</length>
+    <episode-num system="onscreen">11613</episode-num>
+    <category lang="ca">ACTUALITAT</category>
+    <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <icon src="https://img.3cat.cat/multimedia/jpg/4/8/1791200744284.jpg"/>
+    <subtitles type="teletext"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
+  </programme>
+  <channel id="esport3">
+    <display-name>ESPORT3</display-name>
+  </channel>
+  <programme start="20261104155243 +0100" stop="20261104163654 +0100" channel="esport3">
+    <title lang="ca">Els habitants de la fi del món</title>
+    <sub-title lang="ca">Sri Lanka</sub-title>
+    <desc lang="ca">En Ben Fogle es dirigeix a la joia de l'oceà Índic, Sri Lanka, per conviure amb en Naveen i l'Anke, que han instal·lat la seva llar a les terres altes del país. Allà, descobrirà per què van canviar una de les ciutats del món per una existència autosuficient a quilòmetres de la civilització. Aprendrà els problemes que van tenir per establir-se a la seva nova vida, i veurà si volen trencar del tot els seus vincles amb el món exterior per apropar-se més a la natura.Els amfitrions d'en Ben s'han establert a les silencioses ruïnes d'una plantació de te. Les cabines de vidre, que són del tot autosuficients, ofereixen als viatgers que 's'allunyen del circuit turístic' un lloc únic per dormir. En Ben hi arregla una canonada trencada, construeix parets amb fems de vaca, baixa a la ciutat a carregar provisions i s'uneix a una petita empresa que sustenta la comunitat local. També descobreix que, tot i els anys complicats, els seus amfitrions ara aprofiten aquest nou equilibri entre la vida laboral i la vida personal que els aporta calma i satisfacció.</desc>
+    <length units="seconds">2651</length>
+    <episode-num system="onscreen">74</episode-num>
+    <category lang="ca">DIVULGACIÓ</category>
+    <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <subtitles type="teletext"/>
+    <previously-shown/>
+  </programme>
+  <programme start="20261104163654 +0100" stop="20261104172214 +0100" channel="esport3">
+    <title lang="ca">Ben Fogle: Retorn a la fi del món</title>
+    <sub-title lang="ca">Bulgària</sub-title>
+    <desc lang="ca">Ben torna a visitar els nòmades Miriam i Peter als boscos de les muntanyes Ròdopes a Bulgària, després d'haver conegut la parella el 2016. Se'ls uneix a la seva casa de camp fora de la xarxa i escolta com van fer front quan en Peter va patir una insuficiència renal aguda.</desc>
+    <length units="seconds">2720</length>
+    <episode-num system="onscreen">17</episode-num>
+    <category lang="ca">DIVULGACIÓ</category>
+    <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <subtitles type="teletext"/>
+    <previously-shown/>
   </programme>
   <channel id="sx3">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20261104072941 +0100" stop="20261104075047 +0100" channel="sx3">
-    <title lang="ca">La Patrulla Peluda</title>
-    <sub-title lang="ca">La Patrulla i el barco fantasma</sub-title>
-    <desc lang="ca">És Halloween! El capità Turbot ha decorat un barco atrotinat com si fos un barco pirata per fer-hi una festa. Llavors, el barco es fa a la mar de manera misteriosa i tothom es pensa que és culpa d'un fantasma.</desc>
-    <length units="seconds">1266</length>
-    <episode-num system="onscreen">19</episode-num>
+  <programme start="20261104155335 +0100" stop="20261104161437 +0100" channel="sx3">
+    <title lang="ca">Henry Danger</title>
+    <sub-title lang="ca">Un directe perillós, primera part</sub-title>
+    <desc lang="ca">Una invitació a la festa del famós Frankini acaba convertint-se en una aventura molt més arriscada del que en Henry i en Ray esperaven.</desc>
+    <length units="seconds">1262</length>
+    <episode-num system="onscreen">64</episode-num>
     <category lang="ca">FICCIÓ</category>
-    <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
+    <category lang="ca">SÈRIE DRAMÀTICA</category>
     <rating>
       <value>INFANTIL</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20261104075047 +0100" stop="20261104080300 +0100" channel="sx3">
-    <title lang="ca">La Patrulla Peluda</title>
-    <sub-title lang="ca">- La Patrulla salva la Collimàtica</sub-title>
-    <desc lang="ca">Sense Descripció</desc>
-    <length units="seconds">733</length>
-    <episode-num system="onscreen">231</episode-num>
-    <subtitles type="teletext"/>
+  <programme start="20261104161437 +0100" stop="20261104162132 +0100" channel="sx3">
+    <title lang="ca">En Grizzy i els Lèmmings</title>
+    <sub-title lang="ca">Extermitador</sub-title>
+    <desc lang="ca">En Grizzy fa servir insecticida i un matamosques per desfer-se dels insectes que el molesten mentre intenta fer la migdiada. Els Lèmmings curen la seva última víctima: un insecte simpàtic que adopten com a mascota. L'únic problema és que la seva afamada mascota només menja fusta, i la cabana en té molta. Quan en Grizzy s'adona que hi ha un insecte devorant-li la casa, pren mesures dràstiques per eliminar-lo definitivament.</desc>
+    <length units="seconds">415</length>
+    <episode-num system="onscreen">275</episode-num>
+    <category lang="ca">FICCIÓ</category>
+    <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
+    <rating>
+      <value>INFANTIL</value>
+    </rating>
+    <previously-shown/>
   </programme>
   <channel id="c33">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20261104072001 +0100" stop="20261104074750 +0100" channel="c33">
-    <title lang="ca">Animals arquitectes</title>
-    <sub-title lang="ca">Mesura</sub-title>
-    <desc lang="ca">En aquest episodi, de l'estudi d'arquitectes Mesura, descobrim obres arquitectòniques que destaquen pels materials de km0, la sostenibilitat i la recuperació de l'artesania i les tradicions constructives catalanes. </desc>
-    <length units="seconds">1669</length>
-    <episode-num system="onscreen">6</episode-num>
-    <category lang="ca">ENTRETENIMENT</category>
+  <programme start="20261104152158 +0100" stop="20261104160819 +0100" channel="c33">
+    <title lang="ca">La Renaixença</title>
+    <sub-title lang="ca">El taüt</sub-title>
+    <desc lang="ca">No tots els objectes han de ser divertits… o sí? Avui tenim el repte de trobar la gràcia al taüt, a qui dediquem el capítol. No és que tinguem ganes d'anar-hi, però hem de poder parlar de tot. Qui sí que s'ho passa bé és en Josep Plana, CEO d'una empresa d'esdeveniments per a multimilionaris, que no creiem que s'ho passin pas malament amb tots els diners que tenen. A 'Històries per passejar el gos' anem amb la Tina fins al 1986, durant la catàstrofe del llac Nyos.</desc>
+    <length units="seconds">2781</length>
+    <episode-num system="onscreen">77</episode-num>
+    <category lang="ca">DIVULGACIÓ</category>
     <category lang="ca">ALTRES</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/1/6/1698653096861.jpg"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/3/3/1756148014833.jpg"/>
   </programme>
-  <programme start="20261104074750 +0100" stop="20261104083741 +0100" channel="c33">
-    <title lang="ca">Gent de món</title>
-    <sub-title lang="ca">El Mar del Carib (1a part)</sub-title>
-    <desc lang="ca">Avui navegarem des de Miami fins a Haití pel mar del Carib a bord de l'Allure of the Seas, un dels creuers més grans del món. Una de les màquines de divertiment més extraordinàries que ha creat l'home. Una mena de paradís artificial pensat perquè el viatger oblidi els problemes del món real, perquè s'abandoni a la il·lusió de viure en un món perfecte on tot és net i nou i tothom et somriu. Un lloc creat per no perdre el temps pensant en les preocupacions... ni en res. Un paradís flotant on no hem de fer res més que divertir-nos i descansar. Divertir-nos i descansar fins que quedem totalment extenuats.</desc>
-    <length units="seconds">2991</length>
-    <episode-num system="onscreen">14</episode-num>
+  <programme start="20261104160819 +0100" stop="20261104165043 +0100" channel="c33">
+    <title lang="ca">Això no és una cançó</title>
+    <sub-title lang="ca">Paraules d'amor</sub-title>
+    <desc lang="ca">Això no és una cançó T2Sinopsi capítol 7: Paraules d'amor</desc>
+    <length units="seconds">2544</length>
+    <episode-num system="onscreen">13</episode-num>
     <category lang="ca">ENTRETENIMENT</category>
     <category lang="ca">ALTRES</category>
     <rating>
@@ -177,6 +181,17 @@
   <channel id="oca1">
     <display-name>OCA1</display-name>
   </channel>
+  <programme start="20261104153000 +0100" stop="20261104175955 +0100" channel="oca1">
+    <title lang="ca">Ple del Parlament</title>
+    <length units="seconds">8995</length>
+    <episode-num system="onscreen">4211</episode-num>
+    <category lang="ca">ACTUALITAT</category>
+    <category lang="ca">RETRANSMISSIONS ACTUALITAT</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <icon src="https://img.ccma.cat/multimedia/jpg/2/2/1723033059522.jpg"/>
+  </programme>
   <channel id="oca2">
     <display-name>OCA2</display-name>
   </channel>
