@@ -3,140 +3,149 @@
   <channel id="tv3uhd">
     <display-name>TV3UHD</display-name>
   </channel>
-  <programme start="20261103201502 +0100" stop="20261103210000 +0100" channel="tv3uhd">
-    <title lang="ca">Està passant</title>
-    <desc lang="ca">El Queco i la Natza ens expliquen les novetats del jutge Llarena i la causa contra Puigdemont. En Magí ens actualitza sobre el món dels esports i l'Alba Segarra ens explica amb quines coses s'hi posa de cap o de cul.</desc>
-    <length units="seconds">2698</length>
-    <episode-num system="onscreen">1844</episode-num>
-    <category lang="ca">ENTRETENIMENT</category>
-    <category lang="ca">GAGS. HUMOR</category>
+  <programme start="20261104003507 +0100" stop="20261104022221 +0100" channel="tv3uhd">
+    <title lang="ca">Mésnit</title>
+    <desc lang="ca">El 'Mésnit' arriba a la desena temporada, amb Marina Romero al capdavant de l'espai i amb la voluntat de continuar sent un centre de debat d'idees i d'anàlisi de l'activitat política.</desc>
+    <length units="seconds">6434</length>
+    <episode-num system="onscreen">2192</episode-num>
+    <category lang="ca">ACTUALITAT</category>
+    <category lang="ca">DEBAT</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
-    <icon src="https://img.ccma.cat/multimedia/png/3/8/1705511272683.png"/>
+    <previously-shown/>
   </programme>
-  <programme start="20261103210000 +0100" stop="20261103220632 +0100" channel="tv3uhd">
-    <title lang="ca">Telenotícies vespre</title>
-    <length units="seconds">3992</length>
-    <episode-num system="onscreen">7377</episode-num>
+  <programme start="20261104022221 +0100" stop="20261104055500 +0100" channel="tv3uhd">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="seconds">12759</length>
+    <episode-num system="onscreen">11609</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <subtitles type="teletext"/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/7/2/1758026176427.jpg"/>
+    <previously-shown/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
   <channel id="tvi">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20261103201502 +0100" stop="20261103210000 +0100" channel="tvi">
-    <title lang="ca">Està passant</title>
-    <desc lang="ca">El Queco i la Natza ens expliquen les novetats del jutge Llarena i la causa contra Puigdemont. En Magí ens actualitza sobre el món dels esports i l'Alba Segarra ens explica amb quines coses s'hi posa de cap o de cul.</desc>
-    <length units="seconds">2698</length>
-    <episode-num system="onscreen">1844</episode-num>
-    <category lang="ca">ENTRETENIMENT</category>
-    <category lang="ca">GAGS. HUMOR</category>
+  <programme start="20261104003507 +0100" stop="20261104022221 +0100" channel="tvi">
+    <title lang="ca">Mésnit</title>
+    <desc lang="ca">El 'Mésnit' arriba a la desena temporada, amb Marina Romero al capdavant de l'espai i amb la voluntat de continuar sent un centre de debat d'idees i d'anàlisi de l'activitat política.</desc>
+    <length units="seconds">6434</length>
+    <episode-num system="onscreen">2192</episode-num>
+    <category lang="ca">ACTUALITAT</category>
+    <category lang="ca">DEBAT</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <icon src="https://img.ccma.cat/multimedia/png/3/8/1705511272683.png"/>
+    <previously-shown/>
   </programme>
-  <programme start="20261103210000 +0100" stop="20261103220632 +0100" channel="tvi">
-    <title lang="ca">Telenotícies vespre</title>
-    <length units="seconds">3992</length>
-    <episode-num system="onscreen">7377</episode-num>
+  <programme start="20261104022221 +0100" stop="20261104055000 +0100" channel="tvi">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="seconds">12459</length>
+    <episode-num system="onscreen">11609</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <icon src="https://img.ccma.cat/multimedia/jpg/7/2/1758026176427.jpg"/>
+    <previously-shown/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
   <channel id="324">
     <display-name>324</display-name>
   </channel>
-  <programme start="20261103200000 +0100" stop="20261103210000 +0100" channel="324">
+  <programme start="20261104010000 +0100" stop="20261104060000 +0100" channel="324">
     <title lang="ca">Notícies 3CatInfo</title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">3600</length>
-    <episode-num system="onscreen">11607</episode-num>
-    <category lang="ca">ACTUALITAT</category>
-    <category lang="ca">INFORMATIU DIÀRI</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
-  </programme>
-  <programme start="20261103210000 +0100" stop="20261103220500 +0100" channel="324">
-    <title lang="ca">Telenotícies vespre</title>
-    <length units="seconds">3900</length>
-    <episode-num system="onscreen">7377</episode-num>
+    <length units="seconds">18000</length>
+    <episode-num system="onscreen">11609</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/7/2/1758026176427.jpg"/>
+    <previously-shown/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
+  </programme>
+  <programme start="20261104060000 +0100" stop="20261104080000 +0100" channel="324">
+    <title lang="ca">Eleccions de mig mandat: examen a Trump</title>
+    <sub-title lang="ca">Eleccions de mig mandat: examen a Trump</sub-title>
+    <length units="seconds">7200</length>
+    <episode-num system="onscreen">1</episode-num>
+    <category lang="ca">ACTUALITAT</category>
+    <category lang="ca">ESPECIALS INFORMATIUS</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <subtitles type="teletext"/>
+    <previously-shown/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/2/5/1793623691452.jpg"/>
   </programme>
   <channel id="esport3">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20261103205622 +0100" stop="20261103230134 +0100" channel="esport3">
-    <title lang="ca">Un dia de partit</title>
-    <sub-title lang="ca">Barça-Aston Villa</sub-title>
-    <desc lang="ca">A 'Un dia de partit' arreglem el Barça. O no. A cada partit, sis culers hi diuen la seva. Famosos i anònims. Cadascun a casa seva. Davant del televisor. Tot a base de videotrucades, en format Twitch i en rigorós directe. Ah! I a la mitja part no aturem màquines. Amb els jugadors als vestidors, nosaltres seguim fent bullir l'olla! Només sis culers? Negatiu. Durant el partit van apareixent els Jimmy Jump: els espontanis que demanen saltar a 'Un dia de partit' via WhatsApp.</desc>
-    <length units="seconds">7512</length>
-    <episode-num system="onscreen">258</episode-num>
+  <programme start="20261104010337 +0100" stop="20261104022419 +0100" channel="esport3">
+    <title lang="ca">Zona Champions</title>
+    <sub-title lang="ca">Post Barça-Aston Villa / J4</sub-title>
+    <desc lang="ca">El bo i millor de la màxima competició de futbol continental de la mà del Departament d'Esports de Televisió de Catalunya. Viu tots els partits de la Lliga de Campions a 3Cat!</desc>
+    <length units="seconds">4842</length>
+    <episode-num system="onscreen">857</episode-num>
     <category lang="ca">ESPORTS</category>
-    <category lang="ca">RETRANSMISSIONS ESPORTS</category>
+    <category lang="ca">MAGAZINE</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <icon src="https://img.ccma.cat/multimedia/jpg/2/7/1678885232972.jpg"/>
+    <subtitles type="teletext"/>
+    <previously-shown/>
+    <icon src="https://img.3cat.cat/multimedia/jpg/2/5/1793734126552.jpg"/>
   </programme>
-  <programme start="20261103230134 +0100" stop="20261104021014 +0100" channel="esport3">
-    <title lang="ca">Bàsquet</title>
-    <sub-title lang="ca">Porto-Asisa Joventut / Champions League / J3</sub-title>
-    <desc lang="ca">Els badalonins aspiren a la tercera victòria en tres jornades per mantenir-se al capdavant de la classificació al grup H.</desc>
-    <length units="seconds">11320</length>
-    <episode-num system="onscreen">25</episode-num>
+  <programme start="20261104022419 +0100" stop="20261104024420 +0100" channel="esport3">
+    <title lang="ca">3CatInfo Esports</title>
+    <desc lang="ca">Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.</desc>
+    <length units="seconds">1201</length>
+    <episode-num system="onscreen">5558</episode-num>
     <category lang="ca">ESPORTS</category>
-    <category lang="ca">RETRANSMISSIONS ESPORTS</category>
+    <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <icon src="https://img.3cat.cat/multimedia/jpg/1/1/1761643119911.jpg"/>
+    <previously-shown/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/9/7/1758888682179.jpg"/>
   </programme>
   <channel id="sx3">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20261103203931 +0100" stop="20261103205952 +0100" channel="sx3">
-    <title lang="ca">Henry Danger</title>
-    <sub-title lang="ca">Un directe perillós, primera part</sub-title>
-    <desc lang="ca">Una invitació a la festa del famós Frankini acaba convertint-se en una aventura molt més arriscada del que en Henry i en Ray esperaven.</desc>
-    <length units="seconds">1221</length>
-    <episode-num system="onscreen">64</episode-num>
+  <programme start="20261104011458 +0100" stop="20261104013716 +0100" channel="sx3">
+    <title lang="ca">Viatges Pokémon</title>
+    <sub-title lang="ca">Arriba el Pikachu</sub-title>
+    <desc lang="ca">A Vila Paleta, el jove Ash Ketchum està molt il·lusionat i impacient, perquè anirà al campament Pokémon del professor Oak. Però quan arriba el dia, el noi s'adorm, i el professor Oak i els altres alumnes se'n van sense ell. Dos nois, el Goh i la Chloe, se separen del grup i troben el mític pokémon Mew, i el Goh jura que un dia l'atraparà. Mentrestant, un pichu solitari es passa el dia amb un grup de kangaskhans que l'acullen, però quan arriba el moment que marxar per espavilar-se sol, llavors de cop evoluciona i es converteix en el Pikachu. Al cap d'un temps, resulta que va a parar al laboratori del professor Oak, però això ja és una altra història.</desc>
+    <length units="seconds">1338</length>
+    <episode-num system="onscreen">1</episode-num>
     <category lang="ca">FICCIÓ</category>
-    <category lang="ca">SÈRIE DRAMÀTICA</category>
+    <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
       <value>INFANTIL</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20261103205952 +0100" stop="20261103212209 +0100" channel="sx3">
-    <title lang="ca">Bola de drac Z</title>
-    <sub-title lang="ca">Tots els esforços han estat en va. El monstre Bu acaba destruint la Terra</sub-title>
-    <desc lang="ca">A l'exterior del cos d'en Bu, en Son Goku i en Vegeta s'adonen que el monstre ha tornat a la seva forma original, la que el fa més malvat i més poderós que mai. Aleshores, sense donar temps de reaccionar a ningú, el monstre Bu acaba destruint la Terra. Just abans, però, el déu Neptú aconsegueix endur-se en Son Goku, en Vegeta, en Dende i en Satan al seu planeta.</desc>
-    <length units="seconds">1337</length>
-    <episode-num system="onscreen">277</episode-num>
+  <programme start="20261104013716 +0100" stop="20261104015735 +0100" channel="sx3">
+    <title lang="ca">Viatges Pokémon</title>
+    <sub-title lang="ca">Llegenda? Endavant! Amics? Endavant!</sub-title>
+    <desc lang="ca">L'Ash assisteix a la inauguració del nou laboratori de recerca del professor Cirerer a Ciutat Carmí, però els esdeveniments fan un gir inesperat quan prop d'allà apareix un pokémon llegendari, un lugia! L'Ash corre a lluitar contra ell, però quan salta al llom de l'enorme pokémon s'adona que no està sol! Allà també hi ha un noi que es diu Goh, documentant tot el que pot sobre el lugia. El pokémon porta l'Ash i el Goh a viure una aventura increïble que el Goh grava amb la càmera. El professor Cirerer queda tan impressionat amb els resultats que proposa a l'Ash i el Goh que siguin investigadors becaris al seu laboratori, i tots dos ho accepten encantats!</desc>
+    <length units="seconds">1219</length>
+    <episode-num system="onscreen">2</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
-      <value>JUVENIL</value>
+      <value>INFANTIL</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
@@ -144,71 +153,85 @@
   <channel id="c33">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20261103201043 +0100" stop="20261103205933 +0100" channel="c33">
-    <title lang="ca">País d'altura</title>
-    <sub-title lang="ca">Pirineus</sub-title>
-    <desc lang="ca">Els Pirineus són una frontera de muntanyes gegants i vides a gran altitud. Pobles penjats del mapa, cims que toquen el cel i gent que viu més a prop dels núvols que dels embussos.</desc>
-    <length units="seconds">2930</length>
-    <episode-num system="onscreen">2</episode-num>
-    <category lang="ca">ENTRETENIMENT</category>
+  <programme start="20261104002229 +0100" stop="20261104014234 +0100" channel="c33">
+    <title lang="ca">Pel·lícula</title>
+    <sub-title lang="ca">L'últim autobús</sub-title>
+    <desc lang="ca">L'ÚLTIM AUTOBÚS 'The Last Bus'Direcció: Gillies MacKinnonGuió: Joe AinsworthProducció: Hurricane Films, Head Gear Films, Metrol Technology, Kreo Films FZAny: 2021Durada: 86País: Regne UnitMúsica: Alexandre LessertisseurFotografia: George GeddesIntèrprets: Timothy Spall, Phyllis Logan, Natalie Mitson, Ben Ewing, Patricia Panther, Steven Duffy, Saskia Ashdown, Scott Campbell, Anne Kidd, Aila Gavin, Matt Costello, Adam Mitchell, Helen Windsory Quinn, Finn Weatherstone, Colin McCredie, Ronan Doyle, Kirsty Eila McIntyre, Jack Brown, Dee Maxwell, Ayla Sherrif, Marnie Baxter, Sheila Grier, Lynn Kennedy, Patsy Blower, Manjot Sumal, Garry Sweeney, Farron McCormack, Aria McCormack, Joe Fagan. Tom Harper, un jubilat de noranta anys, decideix marxar del poble on ha viscut durant cinquanta anys, al nord de la Gran Bretanya, i viatjar fins a la seva ciutat natal, al sud del país. Durant el viatge, descobrirà el món modern i la diversitat cultural britànica que fins aleshores desconeixia.</desc>
+    <credits>
+      <writer>Joe Ainsworth</writer>
+      <actor>Timothy Spall</actor>
+      <actor>Phyllis Logan</actor>
+      <actor>Natalie Mitson</actor>
+      <actor>Ben Ewing</actor>
+      <actor>Patricia Panther</actor>
+      <actor>Steven Duffy</actor>
+      <actor>Saskia Ashdown</actor>
+      <actor>Scott Campbell</actor>
+      <actor>Anne Kidd</actor>
+      <actor>Aila Gavin</actor>
+      <actor>Matt Costello</actor>
+      <actor>Adam Mitchell</actor>
+      <actor>Helen Windsory Quinn</actor>
+      <actor>Finn Weatherstone</actor>
+      <actor>Colin McCredie</actor>
+      <actor>Ronan Doyle</actor>
+      <actor>Kirsty Eila McIntyre</actor>
+      <actor>Jack Brown</actor>
+      <actor>Dee Maxwell</actor>
+      <actor>Ayla Sherrif</actor>
+      <actor>Marnie Baxter</actor>
+      <actor>Sheila Grier</actor>
+      <actor>Lynn Kennedy</actor>
+      <actor>Patsy Blower</actor>
+      <actor>Manjot Sumal</actor>
+      <actor>Garry Sweeney</actor>
+      <actor>Farron McCormack</actor>
+      <actor>Aria McCormack</actor>
+      <actor>Joe Fagan. Tom Harper</actor>
+      <actor>un jubilat de noranta anys</actor>
+      <actor>decideix marxar del poble on ha viscut durant cinquanta anys</actor>
+      <actor>al nord de la Gran Bretanya</actor>
+      <actor>viatjar fins a la seva ciutat natal</actor>
+      <actor>al sud del país. Durant el viatge</actor>
+      <actor>descobrirà el món modern</actor>
+      <actor>la diversitat cultural britànica que fins aleshores desconeixia.</actor>
+    </credits>
+    <length units="seconds">4805</length>
+    <episode-num system="onscreen">1</episode-num>
+    <category lang="ca">FICCIÓ</category>
+    <category lang="ca">PEL·LÍCULA / TELEFILM</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
+    <icon src="https://img.3cat.cat/multimedia/jpg/9/2/1738311006429.jpg"/>
   </programme>
-  <programme start="20261103205933 +0100" stop="20261103210233 +0100" channel="c33">
-    <title lang="ca">SENSE FI CANAL 33</title>
-    <desc lang="ca">Sense Descripció</desc>
-    <length units="seconds">180</length>
+  <programme start="20261104014234 +0100" stop="20261104030111 +0100" channel="c33">
+    <title lang="ca">Casa Bloc, rehabilitació d'una idea</title>
+    <sub-title lang="ca">Casa Bloc, rehabilitació d'una idea</sub-title>
+    <desc lang="ca">'Casa Bloc, rehabilitació d'una idea', és una producció de 15L FILMS en coproducció amb TV3, amb la col·laboració de Hàbitat 3, Cellnex, Simon, MediaUrban–Mediapro, i el suport de l'ICAA i l'ICEC.Casa Bloc, referència internacional de l'arquitectura racionalista dissenyat per GATCPAC (Sert, Torres Clavé i Subirana), va ser el primer habitatge social construït a Espanya en els anys 30. Però el projecte de Casa Bloc va ser interromput per la Guerra Civil i va acabar com una residència per a vídues i orfes de la Guàrdia Civil, que va romandre activa fins el 2015.A l'actualitat, Hàbitat3, una fundació que gestiona habitatges socials està duent a terme la rehabilitació de part de l'edifici per recuperar l'esperit original i convertir-lo en un refugi per a persones en risc d'exclusió social.FITXA TÈCNICADirecció i realització: Patricia Tamayo, Albert BadiaGuió: Patricia TamayoDirector de producció: Adrià LahuertaProductor executiu TV3: Jordi AmbròsProductor delegat TV3: Daniel Barea DelgadoDirector fotografia: Albert BadiaMuntatge: Marc RocaMúsica: Maria Rodés i Isabelle LaudenbachLingüista: Odile ArqüéGrafisme: Guirado</desc>
+    <length units="seconds">4717</length>
+    <episode-num system="onscreen">1</episode-num>
+    <category lang="ca">DIVULGACIÓ</category>
+    <category lang="ca">DOCUMENTAL DE CREACIÓ</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <subtitles type="teletext"/>
+    <previously-shown/>
+    <icon src="https://img.3cat.cat/multimedia/jpg/2/8/1710339688982.jpg"/>
   </programme>
   <channel id="oca1">
     <display-name>OCA1</display-name>
   </channel>
-  <programme start="20261103195500 +0100" stop="20261103220455 +0100" channel="oca1">
-    <title lang="ca">Bàsquet</title>
-    <sub-title lang="ca">- FIATC Girona-Patrioti Levice / Fiba Europe Cup / J5</sub-title>
-    <desc lang="ca">Els gironins reben el conjunt eslovac amb l'objectiu de mantenir el liderat solitari del grup. Fins al moment, el balanç europeu és de 3 victòries i 1 derrota.</desc>
-    <length units="seconds">7795</length>
-    <episode-num system="onscreen">5</episode-num>
-    <category lang="ca">ESPORTS</category>
-    <category lang="ca">RETRANSMISSIONS ESPORTS</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <icon src="https://img.3cat.cat/multimedia/jpg/4/8/1791200744284.jpg"/>
-  </programme>
   <channel id="oca2">
     <display-name>OCA2</display-name>
   </channel>
-  <programme start="20261103202500 +0100" stop="20261103223455 +0100" channel="oca2">
-    <title lang="ca">Bàsquet</title>
-    <sub-title lang="ca">- Porto-Asisa Joventut / Champions League / J3</sub-title>
-    <desc lang="ca">Els badalonins aspiren a la tercera victòria en tres jornades per mantenir-se al capdavant de la classificació al grup H.</desc>
-    <length units="seconds">7795</length>
-    <episode-num system="onscreen">25</episode-num>
-    <category lang="ca">ESPORTS</category>
-    <category lang="ca">RETRANSMISSIONS ESPORTS</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <icon src="https://img.3cat.cat/multimedia/jpg/1/1/1761643119911.jpg"/>
-  </programme>
   <channel id="oca3">
     <display-name>OCA3</display-name>
   </channel>
   <channel id="oca4">
     <display-name>OCA4</display-name>
   </channel>
-  <programme start="20261103170628 +0100" stop="20261103200623 +0100" channel="oca4">
-    <title lang="ca">Compareixença al Congrés del ministre Puente</title>
-    <length units="seconds">10795</length>
-    <episode-num system="onscreen">4214</episode-num>
-    <category lang="ca">ACTUALITAT</category>
-    <category lang="ca">RETRANSMISSIONS ACTUALITAT</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <icon src="https://img.ccma.cat/multimedia/jpg/6/5/1793344419256.jpg"/>
-  </programme>
 </tv>
