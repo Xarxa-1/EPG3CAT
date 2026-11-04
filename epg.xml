@@ -3,81 +3,10 @@
   <channel id="tv3uhd">
     <display-name>TV3UHD</display-name>
   </channel>
-  <programme start="20261104003507 +0100" stop="20261104022221 +0100" channel="tv3uhd">
-    <title lang="ca">Mésnit</title>
-    <desc lang="ca">El 'Mésnit' arriba a la desena temporada, amb Marina Romero al capdavant de l'espai i amb la voluntat de continuar sent un centre de debat d'idees i d'anàlisi de l'activitat política.</desc>
-    <length units="seconds">6434</length>
-    <episode-num system="onscreen">2192</episode-num>
-    <category lang="ca">ACTUALITAT</category>
-    <category lang="ca">DEBAT</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <subtitles type="teletext"/>
-    <previously-shown/>
-  </programme>
-  <programme start="20261104022221 +0100" stop="20261104055500 +0100" channel="tv3uhd">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">12759</length>
-    <episode-num system="onscreen">11609</episode-num>
-    <category lang="ca">ACTUALITAT</category>
-    <category lang="ca">INFORMATIU DIÀRI</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <previously-shown/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
-  </programme>
-  <channel id="tvi">
-    <display-name>TVI</display-name>
-  </channel>
-  <programme start="20261104003507 +0100" stop="20261104022221 +0100" channel="tvi">
-    <title lang="ca">Mésnit</title>
-    <desc lang="ca">El 'Mésnit' arriba a la desena temporada, amb Marina Romero al capdavant de l'espai i amb la voluntat de continuar sent un centre de debat d'idees i d'anàlisi de l'activitat política.</desc>
-    <length units="seconds">6434</length>
-    <episode-num system="onscreen">2192</episode-num>
-    <category lang="ca">ACTUALITAT</category>
-    <category lang="ca">DEBAT</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <previously-shown/>
-  </programme>
-  <programme start="20261104022221 +0100" stop="20261104055000 +0100" channel="tvi">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">12459</length>
-    <episode-num system="onscreen">11609</episode-num>
-    <category lang="ca">ACTUALITAT</category>
-    <category lang="ca">INFORMATIU DIÀRI</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <previously-shown/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
-  </programme>
-  <channel id="324">
-    <display-name>324</display-name>
-  </channel>
-  <programme start="20261104010000 +0100" stop="20261104060000 +0100" channel="324">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">18000</length>
-    <episode-num system="onscreen">11609</episode-num>
-    <category lang="ca">ACTUALITAT</category>
-    <category lang="ca">INFORMATIU DIÀRI</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <subtitles type="teletext"/>
-    <previously-shown/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
-  </programme>
-  <programme start="20261104060000 +0100" stop="20261104080000 +0100" channel="324">
+  <programme start="20261104055003 +0100" stop="20261104080000 +0100" channel="tv3uhd">
     <title lang="ca">Eleccions de mig mandat: examen a Trump</title>
     <sub-title lang="ca">Eleccions de mig mandat: examen a Trump</sub-title>
-    <length units="seconds">7200</length>
+    <length units="seconds">7797</length>
     <episode-num system="onscreen">1</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">ESPECIALS INFORMATIUS</category>
@@ -88,14 +17,83 @@
     <previously-shown/>
     <icon src="https://img.ccma.cat/multimedia/jpg/2/5/1793623691452.jpg"/>
   </programme>
+  <programme start="20261104080000 +0100" stop="20261104103000 +0100" channel="tv3uhd">
+    <title lang="ca">Matins</title>
+    <desc lang="ca">'Matins' és un dels puntals informatius de TV3. El programa matinal dona les claus del dia que comença, explica les notícies que han passat aportant-ne el context per entendre-les i analitza amb veus acreditades l'actualitat més propera i la d'arreu del món. 'Matins' comença a les 8 del matí, de dilluns a divendres, i està presentat per Ariadna Oltra.</desc>
+    <length units="seconds">9000</length>
+    <episode-num system="onscreen">4706</episode-num>
+    <category lang="ca">ACTUALITAT</category>
+    <category lang="ca">INFORMATIU DIÀRI</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <subtitles type="teletext"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/2/0/1758040151402.jpg"/>
+  </programme>
+  <channel id="tvi">
+    <display-name>TVI</display-name>
+  </channel>
+  <programme start="20261104055003 +0100" stop="20261104080000 +0100" channel="tvi">
+    <title lang="ca">Eleccions de mig mandat: examen a Trump</title>
+    <sub-title lang="ca">Eleccions de mig mandat: examen a Trump</sub-title>
+    <length units="seconds">7797</length>
+    <episode-num system="onscreen">1</episode-num>
+    <category lang="ca">ACTUALITAT</category>
+    <category lang="ca">ESPECIALS INFORMATIUS</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <previously-shown/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/2/5/1793623691452.jpg"/>
+  </programme>
+  <programme start="20261104080000 +0100" stop="20261104103000 +0100" channel="tvi">
+    <title lang="ca">Matins</title>
+    <desc lang="ca">'Matins' és un dels puntals informatius de TV3. El programa matinal dona les claus del dia que comença, explica les notícies que han passat aportant-ne el context per entendre-les i analitza amb veus acreditades l'actualitat més propera i la d'arreu del món. 'Matins' comença a les 8 del matí, de dilluns a divendres, i està presentat per Ariadna Oltra.</desc>
+    <length units="seconds">9000</length>
+    <episode-num system="onscreen">4706</episode-num>
+    <category lang="ca">ACTUALITAT</category>
+    <category lang="ca">INFORMATIU DIÀRI</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <icon src="https://img.ccma.cat/multimedia/jpg/2/0/1758040151402.jpg"/>
+  </programme>
+  <channel id="324">
+    <display-name>324</display-name>
+  </channel>
+  <programme start="20261104060000 +0100" stop="20261104080000 +0100" channel="324">
+    <title lang="ca">Eleccions de mig mandat: examen a Trump</title>
+    <sub-title lang="ca">Eleccions de mig mandat: examen a Trump</sub-title>
+    <length units="seconds">7200</length>
+    <episode-num system="onscreen">1</episode-num>
+    <category lang="ca">ACTUALITAT</category>
+    <category lang="ca">ESPECIALS INFORMATIUS</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <previously-shown/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/2/5/1793623691452.jpg"/>
+  </programme>
+  <programme start="20261104080000 +0100" stop="20261104090000 +0100" channel="324">
+    <title lang="ca">Matins</title>
+    <desc lang="ca">'Matins' és un dels puntals informatius de TV3. El programa matinal dona les claus del dia que comença, explica les notícies que han passat aportant-ne el context per entendre-les i analitza amb veus acreditades l'actualitat més propera i la d'arreu del món. 'Matins' comença a les 8 del matí, de dilluns a divendres, i està presentat per Ariadna Oltra.</desc>
+    <length units="seconds">3600</length>
+    <episode-num system="onscreen">4706</episode-num>
+    <category lang="ca">ACTUALITAT</category>
+    <category lang="ca">INFORMATIU DIÀRI</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <icon src="https://img.ccma.cat/multimedia/jpg/2/0/1758040151402.jpg"/>
+  </programme>
   <channel id="esport3">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20261104010337 +0100" stop="20261104022419 +0100" channel="esport3">
+  <programme start="20261104070800 +0100" stop="20261104082913 +0100" channel="esport3">
     <title lang="ca">Zona Champions</title>
     <sub-title lang="ca">Post Barça-Aston Villa / J4</sub-title>
     <desc lang="ca">El bo i millor de la màxima competició de futbol continental de la mà del Departament d'Esports de Televisió de Catalunya. Viu tots els partits de la Lliga de Campions a 3Cat!</desc>
-    <length units="seconds">4842</length>
+    <length units="seconds">4873</length>
     <episode-num system="onscreen">857</episode-num>
     <category lang="ca">ESPORTS</category>
     <category lang="ca">MAGAZINE</category>
@@ -106,28 +104,28 @@
     <previously-shown/>
     <icon src="https://img.3cat.cat/multimedia/jpg/2/5/1793734126552.jpg"/>
   </programme>
-  <programme start="20261104022419 +0100" stop="20261104024420 +0100" channel="esport3">
-    <title lang="ca">3CatInfo Esports</title>
-    <desc lang="ca">Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.</desc>
-    <length units="seconds">1201</length>
-    <episode-num system="onscreen">5558</episode-num>
+  <programme start="20261104082913 +0100" stop="20261104100604 +0100" channel="esport3">
+    <title lang="ca">Bàsquet</title>
+    <sub-title lang="ca">FIATC Girona-Patrioti Levice / Fiba Europe Cup / J5</sub-title>
+    <desc lang="ca">Els gironins reben el conjunt eslovac amb l'objectiu de mantenir el liderat solitari del grup. Fins al moment, el balanç europeu és de 3 victòries i 1 derrota.</desc>
+    <length units="seconds">5811</length>
+    <episode-num system="onscreen">5</episode-num>
     <category lang="ca">ESPORTS</category>
-    <category lang="ca">INFORMATIU DIÀRI</category>
+    <category lang="ca">RETRANSMISSIONS ESPORTS</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <previously-shown/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/9/7/1758888682179.jpg"/>
+    <icon src="https://img.3cat.cat/multimedia/jpg/4/8/1791200744284.jpg"/>
   </programme>
   <channel id="sx3">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20261104011458 +0100" stop="20261104013716 +0100" channel="sx3">
-    <title lang="ca">Viatges Pokémon</title>
-    <sub-title lang="ca">Arriba el Pikachu</sub-title>
-    <desc lang="ca">A Vila Paleta, el jove Ash Ketchum està molt il·lusionat i impacient, perquè anirà al campament Pokémon del professor Oak. Però quan arriba el dia, el noi s'adorm, i el professor Oak i els altres alumnes se'n van sense ell. Dos nois, el Goh i la Chloe, se separen del grup i troben el mític pokémon Mew, i el Goh jura que un dia l'atraparà. Mentrestant, un pichu solitari es passa el dia amb un grup de kangaskhans que l'acullen, però quan arriba el moment que marxar per espavilar-se sol, llavors de cop evoluciona i es converteix en el Pikachu. Al cap d'un temps, resulta que va a parar al laboratori del professor Oak, però això ja és una altra història.</desc>
-    <length units="seconds">1338</length>
-    <episode-num system="onscreen">1</episode-num>
+  <programme start="20261104072941 +0100" stop="20261104075047 +0100" channel="sx3">
+    <title lang="ca">La Patrulla Peluda</title>
+    <sub-title lang="ca">La Patrulla i el barco fantasma</sub-title>
+    <desc lang="ca">És Halloween! El capità Turbot ha decorat un barco atrotinat com si fos un barco pirata per fer-hi una festa. Llavors, el barco es fa a la mar de manera misteriosa i tothom es pensa que és culpa d'un fantasma.</desc>
+    <length units="seconds">1266</length>
+    <episode-num system="onscreen">19</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
@@ -136,91 +134,45 @@
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20261104013716 +0100" stop="20261104015735 +0100" channel="sx3">
-    <title lang="ca">Viatges Pokémon</title>
-    <sub-title lang="ca">Llegenda? Endavant! Amics? Endavant!</sub-title>
-    <desc lang="ca">L'Ash assisteix a la inauguració del nou laboratori de recerca del professor Cirerer a Ciutat Carmí, però els esdeveniments fan un gir inesperat quan prop d'allà apareix un pokémon llegendari, un lugia! L'Ash corre a lluitar contra ell, però quan salta al llom de l'enorme pokémon s'adona que no està sol! Allà també hi ha un noi que es diu Goh, documentant tot el que pot sobre el lugia. El pokémon porta l'Ash i el Goh a viure una aventura increïble que el Goh grava amb la càmera. El professor Cirerer queda tan impressionat amb els resultats que proposa a l'Ash i el Goh que siguin investigadors becaris al seu laboratori, i tots dos ho accepten encantats!</desc>
-    <length units="seconds">1219</length>
-    <episode-num system="onscreen">2</episode-num>
-    <category lang="ca">FICCIÓ</category>
-    <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
-    <rating>
-      <value>INFANTIL</value>
-    </rating>
+  <programme start="20261104075047 +0100" stop="20261104080300 +0100" channel="sx3">
+    <title lang="ca">La Patrulla Peluda</title>
+    <sub-title lang="ca">- La Patrulla salva la Collimàtica</sub-title>
+    <desc lang="ca">Sense Descripció</desc>
+    <length units="seconds">733</length>
+    <episode-num system="onscreen">231</episode-num>
     <subtitles type="teletext"/>
-    <previously-shown/>
   </programme>
   <channel id="c33">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20261104002229 +0100" stop="20261104014234 +0100" channel="c33">
-    <title lang="ca">Pel·lícula</title>
-    <sub-title lang="ca">L'últim autobús</sub-title>
-    <desc lang="ca">L'ÚLTIM AUTOBÚS 'The Last Bus'Direcció: Gillies MacKinnonGuió: Joe AinsworthProducció: Hurricane Films, Head Gear Films, Metrol Technology, Kreo Films FZAny: 2021Durada: 86País: Regne UnitMúsica: Alexandre LessertisseurFotografia: George GeddesIntèrprets: Timothy Spall, Phyllis Logan, Natalie Mitson, Ben Ewing, Patricia Panther, Steven Duffy, Saskia Ashdown, Scott Campbell, Anne Kidd, Aila Gavin, Matt Costello, Adam Mitchell, Helen Windsory Quinn, Finn Weatherstone, Colin McCredie, Ronan Doyle, Kirsty Eila McIntyre, Jack Brown, Dee Maxwell, Ayla Sherrif, Marnie Baxter, Sheila Grier, Lynn Kennedy, Patsy Blower, Manjot Sumal, Garry Sweeney, Farron McCormack, Aria McCormack, Joe Fagan. Tom Harper, un jubilat de noranta anys, decideix marxar del poble on ha viscut durant cinquanta anys, al nord de la Gran Bretanya, i viatjar fins a la seva ciutat natal, al sud del país. Durant el viatge, descobrirà el món modern i la diversitat cultural britànica que fins aleshores desconeixia.</desc>
-    <credits>
-      <writer>Joe Ainsworth</writer>
-      <actor>Timothy Spall</actor>
-      <actor>Phyllis Logan</actor>
-      <actor>Natalie Mitson</actor>
-      <actor>Ben Ewing</actor>
-      <actor>Patricia Panther</actor>
-      <actor>Steven Duffy</actor>
-      <actor>Saskia Ashdown</actor>
-      <actor>Scott Campbell</actor>
-      <actor>Anne Kidd</actor>
-      <actor>Aila Gavin</actor>
-      <actor>Matt Costello</actor>
-      <actor>Adam Mitchell</actor>
-      <actor>Helen Windsory Quinn</actor>
-      <actor>Finn Weatherstone</actor>
-      <actor>Colin McCredie</actor>
-      <actor>Ronan Doyle</actor>
-      <actor>Kirsty Eila McIntyre</actor>
-      <actor>Jack Brown</actor>
-      <actor>Dee Maxwell</actor>
-      <actor>Ayla Sherrif</actor>
-      <actor>Marnie Baxter</actor>
-      <actor>Sheila Grier</actor>
-      <actor>Lynn Kennedy</actor>
-      <actor>Patsy Blower</actor>
-      <actor>Manjot Sumal</actor>
-      <actor>Garry Sweeney</actor>
-      <actor>Farron McCormack</actor>
-      <actor>Aria McCormack</actor>
-      <actor>Joe Fagan. Tom Harper</actor>
-      <actor>un jubilat de noranta anys</actor>
-      <actor>decideix marxar del poble on ha viscut durant cinquanta anys</actor>
-      <actor>al nord de la Gran Bretanya</actor>
-      <actor>viatjar fins a la seva ciutat natal</actor>
-      <actor>al sud del país. Durant el viatge</actor>
-      <actor>descobrirà el món modern</actor>
-      <actor>la diversitat cultural britànica que fins aleshores desconeixia.</actor>
-    </credits>
-    <length units="seconds">4805</length>
-    <episode-num system="onscreen">1</episode-num>
-    <category lang="ca">FICCIÓ</category>
-    <category lang="ca">PEL·LÍCULA / TELEFILM</category>
+  <programme start="20261104072001 +0100" stop="20261104074750 +0100" channel="c33">
+    <title lang="ca">Animals arquitectes</title>
+    <sub-title lang="ca">Mesura</sub-title>
+    <desc lang="ca">En aquest episodi, de l'estudi d'arquitectes Mesura, descobrim obres arquitectòniques que destaquen pels materials de km0, la sostenibilitat i la recuperació de l'artesania i les tradicions constructives catalanes. </desc>
+    <length units="seconds">1669</length>
+    <episode-num system="onscreen">6</episode-num>
+    <category lang="ca">ENTRETENIMENT</category>
+    <category lang="ca">ALTRES</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
-    <icon src="https://img.3cat.cat/multimedia/jpg/9/2/1738311006429.jpg"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/1/6/1698653096861.jpg"/>
   </programme>
-  <programme start="20261104014234 +0100" stop="20261104030111 +0100" channel="c33">
-    <title lang="ca">Casa Bloc, rehabilitació d'una idea</title>
-    <sub-title lang="ca">Casa Bloc, rehabilitació d'una idea</sub-title>
-    <desc lang="ca">'Casa Bloc, rehabilitació d'una idea', és una producció de 15L FILMS en coproducció amb TV3, amb la col·laboració de Hàbitat 3, Cellnex, Simon, MediaUrban–Mediapro, i el suport de l'ICAA i l'ICEC.Casa Bloc, referència internacional de l'arquitectura racionalista dissenyat per GATCPAC (Sert, Torres Clavé i Subirana), va ser el primer habitatge social construït a Espanya en els anys 30. Però el projecte de Casa Bloc va ser interromput per la Guerra Civil i va acabar com una residència per a vídues i orfes de la Guàrdia Civil, que va romandre activa fins el 2015.A l'actualitat, Hàbitat3, una fundació que gestiona habitatges socials està duent a terme la rehabilitació de part de l'edifici per recuperar l'esperit original i convertir-lo en un refugi per a persones en risc d'exclusió social.FITXA TÈCNICADirecció i realització: Patricia Tamayo, Albert BadiaGuió: Patricia TamayoDirector de producció: Adrià LahuertaProductor executiu TV3: Jordi AmbròsProductor delegat TV3: Daniel Barea DelgadoDirector fotografia: Albert BadiaMuntatge: Marc RocaMúsica: Maria Rodés i Isabelle LaudenbachLingüista: Odile ArqüéGrafisme: Guirado</desc>
-    <length units="seconds">4717</length>
-    <episode-num system="onscreen">1</episode-num>
-    <category lang="ca">DIVULGACIÓ</category>
-    <category lang="ca">DOCUMENTAL DE CREACIÓ</category>
+  <programme start="20261104074750 +0100" stop="20261104083741 +0100" channel="c33">
+    <title lang="ca">Gent de món</title>
+    <sub-title lang="ca">El Mar del Carib (1a part)</sub-title>
+    <desc lang="ca">Avui navegarem des de Miami fins a Haití pel mar del Carib a bord de l'Allure of the Seas, un dels creuers més grans del món. Una de les màquines de divertiment més extraordinàries que ha creat l'home. Una mena de paradís artificial pensat perquè el viatger oblidi els problemes del món real, perquè s'abandoni a la il·lusió de viure en un món perfecte on tot és net i nou i tothom et somriu. Un lloc creat per no perdre el temps pensant en les preocupacions... ni en res. Un paradís flotant on no hem de fer res més que divertir-nos i descansar. Divertir-nos i descansar fins que quedem totalment extenuats.</desc>
+    <length units="seconds">2991</length>
+    <episode-num system="onscreen">14</episode-num>
+    <category lang="ca">ENTRETENIMENT</category>
+    <category lang="ca">ALTRES</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
-    <icon src="https://img.3cat.cat/multimedia/jpg/2/8/1710339688982.jpg"/>
   </programme>
   <channel id="oca1">
     <display-name>OCA1</display-name>
