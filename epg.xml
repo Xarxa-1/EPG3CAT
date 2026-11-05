@@ -3,77 +3,82 @@
   <channel id="tv3uhd">
     <display-name>TV3UHD</display-name>
   </channel>
-  <programme start="20261105080006 +0100" stop="20261105103000 +0100" channel="tv3uhd">
-    <title lang="ca">Matins</title>
-    <desc lang="ca">'Matins' és un dels puntals informatius de TV3. El programa matinal dona les claus del dia que comença, explica les notícies que han passat aportant-ne el context per entendre-les i analitza amb veus acreditades l'actualitat més propera i la d'arreu del món. 'Matins' comença a les 8 del matí, de dilluns a divendres, i està presentat per Ariadna Oltra.</desc>
-    <length units="seconds">8994</length>
-    <episode-num system="onscreen">4707</episode-num>
-    <category lang="ca">ACTUALITAT</category>
-    <category lang="ca">INFORMATIU DIÀRI</category>
+  <programme start="20261105164715 +0100" stop="20261105173401 +0100" channel="tv3uhd">
+    <title lang="ca">El paradís de les senyores</title>
+    <desc lang="ca">En aquest episodi, entre altres coses, davant la dificultat de la llarga llista d'espera per a l'operació de la Silvana als Estats Units, en Marcello demana ajuda a tots els seus coneguts, incloent-hi l'Adelaide, per intentar canviar la situació. Aviat hi haurà el Festival de Sanremo, i a en Salvatore se li acut de fer una rifa al Gran Cafè Amato: el premi seran dues entrades per poder anar a veure el Festival en directe. Un premi que il·lusiona moltíssim la Irene, que es mor de ganes d'anar-hi. Al seu torn, la Flora ha canviat l'estil dels vestits de la seva nova col·lecció.</desc>
+    <length units="seconds">2806</length>
+    <episode-num system="onscreen">959</episode-num>
+    <category lang="ca">FICCIÓ</category>
+    <category lang="ca">TELESÈRIE</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/2/0/1758040151402.jpg"/>
   </programme>
-  <programme start="20261105103000 +0100" stop="20261105135500 +0100" channel="tv3uhd">
-    <title lang="ca">Tot es mou</title>
-    <desc lang="ca">El programa presentat per Helena Garcia Melero s'emet de dilluns a divendres, de 10.30 a 13.55. Un magazín d'actualitat que busca informar, analitzar i debatre sobre temes que marquen l'actualitat social, econòmica i cultural del dia, amb una àmplia presència en directe dels reporters i reporteres, repartits per tot Catalunya. A més, el 'Tot es mou' compta amb seccions diàries de gastronomia (amb els principals cuiners i cuineres del país), successos, economia, mobilitat, temes mèdics i de tecnologia, entre d'altres.</desc>
-    <length units="seconds">12300</length>
-    <episode-num system="onscreen">1844</episode-num>
-    <category lang="ca">ACTUALITAT</category>
+  <programme start="20261105173401 +0100" stop="20261105191036 +0100" channel="tv3uhd">
+    <title lang="ca">La Selva</title>
+    <desc lang="ca">Xavier Grasset us convida a passar la tarda en una cafeteria on regna el bon ambient. El lloc on saps que sempre hi trobaràs cares conegudes i conversa interessant. A 'La selva' s'hi parla de tot i hi pot passar de tot. Amb la mirada posada a l'actualitat que marca el dia, però també a les curiositats més sorprenents. Des del recolliment d'un bar on t'hi trobes com a casa, però amb una finestra oberta al que passa en directe arreu de Catalunya i al món. Un programa amb vocació d'aparador cultural i gastronòmic del país.</desc>
+    <length units="seconds">5795</length>
+    <episode-num system="onscreen">445</episode-num>
+    <category lang="ca">ENTRETENIMENT</category>
     <category lang="ca">MAGAZINE</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
+    <icon src="https://img.3cat.cat/multimedia/jpg/6/3/1725871608136.jpg"/>
   </programme>
   <channel id="tvi">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20261105080006 +0100" stop="20261105102958 +0100" channel="tvi">
-    <title lang="ca">Matins</title>
-    <desc lang="ca">'Matins' és un dels puntals informatius de TV3. El programa matinal dona les claus del dia que comença, explica les notícies que han passat aportant-ne el context per entendre-les i analitza amb veus acreditades l'actualitat més propera i la d'arreu del món. 'Matins' comença a les 8 del matí, de dilluns a divendres, i està presentat per Ariadna Oltra.</desc>
-    <length units="seconds">8992</length>
-    <episode-num system="onscreen">4707</episode-num>
-    <category lang="ca">ACTUALITAT</category>
-    <category lang="ca">INFORMATIU DIÀRI</category>
+  <programme start="20261105164740 +0100" stop="20261105172526 +0100" channel="tvi">
+    <title lang="ca">La Riera</title>
+    <desc lang="ca">En Mauri voldria netejar la seva consciència, però ell mateix s'ho posa difícil. L'Oriol, que ha de treballar sovint amb en Balló ha de decidir si fa una doble vida o si ha de fer un cop de cap. En Joan Flaquer i en Lluís fan una bretolada per recordar vells temps, però en Joan, com sempre, la fa massa grossa. </desc>
+    <length units="seconds">2266</length>
+    <episode-num system="onscreen">156</episode-num>
+    <category lang="ca">FICCIÓ</category>
+    <category lang="ca">TELENOVEL·LA</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <icon src="https://img.ccma.cat/multimedia/jpg/2/0/1758040151402.jpg"/>
+    <subtitles type="teletext"/>
+    <previously-shown/>
   </programme>
-  <programme start="20261105102958 +0100" stop="20261105135447 +0100" channel="tvi">
-    <title lang="ca">Tot es mou</title>
-    <desc lang="ca">El programa presentat per Helena Garcia Melero s'emet de dilluns a divendres, de 10.30 a 13.55. Un magazín d'actualitat que busca informar, analitzar i debatre sobre temes que marquen l'actualitat social, econòmica i cultural del dia, amb una àmplia presència en directe dels reporters i reporteres, repartits per tot Catalunya. A més, el 'Tot es mou' compta amb seccions diàries de gastronomia (amb els principals cuiners i cuineres del país), successos, economia, mobilitat, temes mèdics i de tecnologia, entre d'altres.</desc>
-    <length units="seconds">12289</length>
-    <episode-num system="onscreen">1844</episode-num>
-    <category lang="ca">ACTUALITAT</category>
-    <category lang="ca">MAGAZINE</category>
+  <programme start="20261105172526 +0100" stop="20261105173331 +0100" channel="tvi">
+    <title lang="ca">CUINES CATALUNYA</title>
+    <sub-title lang="ca">Crema de formatge fresc amb taronja</sub-title>
+    <desc lang="ca">Amb el formatge adequat i una forquilla, podeu fer una crema de formatge espectacular. A més, la rematarem amb una taronja tallada d'una manera molt elegant.</desc>
+    <length units="seconds">485</length>
+    <episode-num system="onscreen">1870</episode-num>
+    <category lang="ca">DIVULGACIÓ</category>
+    <category lang="ca">CUINA</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
+    <subtitles type="teletext"/>
+    <previously-shown/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/2/5/1653464509252.jpg"/>
   </programme>
   <channel id="324">
     <display-name>324</display-name>
   </channel>
-  <programme start="20261105080000 +0100" stop="20261105103000 +0100" channel="324">
-    <title lang="ca">Matins</title>
-    <desc lang="ca">'Matins' és un dels puntals informatius de TV3. El programa matinal dona les claus del dia que comença, explica les notícies que han passat aportant-ne el context per entendre-les i analitza amb veus acreditades l'actualitat més propera i la d'arreu del món. 'Matins' comença a les 8 del matí, de dilluns a divendres, i està presentat per Ariadna Oltra.</desc>
-    <length units="seconds">9000</length>
-    <episode-num system="onscreen">4707</episode-num>
+  <programme start="20261105170000 +0100" stop="20261105183000 +0100" channel="324">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="seconds">5400</length>
+    <episode-num system="onscreen">11623</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <icon src="https://img.ccma.cat/multimedia/jpg/2/0/1758040151402.jpg"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
-  <programme start="20261105103000 +0100" stop="20261105120000 +0100" channel="324">
+  <programme start="20261105183000 +0100" stop="20261105200000 +0100" channel="324">
     <title lang="ca">Notícies 3CatInfo</title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <length units="seconds">5400</length>
-    <episode-num system="onscreen">11620</episode-num>
+    <episode-num system="onscreen">11624</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
@@ -85,59 +90,59 @@
   <channel id="esport3">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20261105081548 +0100" stop="20261105100201 +0100" channel="esport3">
-    <title lang="ca">Bàsquet</title>
-    <sub-title lang="ca">Lietkabelis-Kids&amp;Us Manresa / Eurocup / J6</sub-title>
-    <desc lang="ca">L'equip del Bages visita Lituània per enfrontar-se amb un rival directe en la lluita per passar a la següent ronda. Els dos conjunts sumen 3 victòries i 2 derrotes.</desc>
-    <length units="seconds">6373</length>
-    <episode-num system="onscreen">101</episode-num>
+  <programme start="20261105170627 +0100" stop="20261105171726 +0100" channel="esport3">
+    <title lang="ca">E3</title>
+    <sub-title lang="ca">Eivissa Sprint Triatló</sub-title>
+    <desc lang="ca">Tercera edició de la prova amb la participació destacada dels campions d'Europa de duatló Arcadi Sala i Lucía Gracia.</desc>
+    <length units="seconds">659</length>
+    <episode-num system="onscreen">2402</episode-num>
     <category lang="ca">ESPORTS</category>
-    <category lang="ca">RETRANSMISSIONS ESPORTS</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <previously-shown/>
-    <icon src="https://img.3cat.cat/multimedia/jpg/5/6/1759922947765.jpg"/>
-  </programme>
-  <programme start="20261105100201 +0100" stop="20261105105708 +0100" channel="esport3">
-    <title lang="ca">Experiència Catalana</title>
-    <sub-title lang="ca">Trevor i Cori</sub-title>
-    <desc lang="ca">La Ivana Miño acompanya en Trevor i la Cori, una simpàtica parella nord-americana, per diferents indrets de l'Alt Empordà i de la Garrotxa. Allá tasten la millor gastronomia mediterrània i viuen moments molt emotius.</desc>
-    <length units="seconds">3307</length>
-    <episode-num system="onscreen">1</episode-num>
-    <category lang="ca">ENTRETENIMENT</category>
-    <category lang="ca">ALTRES</category>
+    <category lang="ca">REPORTATGES</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
+    <icon src="https://img.3cat.cat/multimedia/jpg/9/0/1779099341309.jpg"/>
+  </programme>
+  <programme start="20261105171726 +0100" stop="20261105174101 +0100" channel="esport3">
+    <title lang="ca">Espòiler</title>
+    <sub-title lang="ca">El Ford Kuga BlueCruise, el Nissan Leaf, el Zeekr 9X i les novetats de Denza.</sub-title>
+    <desc lang="ca">En aquest capítol posem a prova la tecnologia BlueCruise de Ford, un sistema de conducció autònoma de nivell 2 que ens permet conduir sense posar les mans al volant. També conduïm la nova generació del Nissan Leaf, el popular model elèctric de la marca japonesa. A més, us ensenyem totes les novetats de la marca xinesa Denza, entre les quals hi destaca el Denza Z, un superesportiu de més 1.600 CV de potència. Finalment, descobrim com és el Zeekr 9X, un SUV de luxe capaç de competir amb marques com Bentley o Rolls-Royce. </desc>
+    <length units="seconds">1415</length>
+    <episode-num system="onscreen">63</episode-num>
+    <category lang="ca">ESPORTS</category>
+    <category lang="ca">REPORTATGES</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
     <previously-shown/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/1/0/1698433593401.jpg"/>
   </programme>
   <channel id="sx3">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20261105085106 +0100" stop="20261105090127 +0100" channel="sx3">
-    <title lang="ca">El Mic i els seus amics</title>
-    <sub-title lang="ca">Cases per jugar</sub-title>
-    <desc lang="ca">'El Mic i els seus amics' presenta les històries del Mic agrupades en capítols. Les aventures dels titelles s'acompanyen de petits vídeos protagonitzats per nens i nenes, i separadors amb imatges de natura. És una sèrie pensada perquè els súpers més petits gaudeixin encara més! El Mic i els seus amics es troben cada dia per cantar cançons, explicar contes, dir endevinalles... Viuen en un lloc on hi ha turons, arbres, flors i papallones.Tot està a punt per jugar. Només cal fer... MAC, MEC, MIC, TOCA'T EL MELIC!</desc>
-    <length units="seconds">621</length>
-    <episode-num system="onscreen">432</episode-num>
-    <category lang="ca">FICCIÓ</category>
-    <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
+  <programme start="20261105171426 +0100" stop="20261105172413 +0100" channel="sx3">
+    <title lang="ca">Titó</title>
+    <sub-title lang="ca">Excursió amb frases fetes</sub-title>
+    <desc lang="ca">Avui ens divertirem amb una excursió plena de frases fetes: tenir una flor al cul, enfilar-se per les parets, estar com una cabra... i en John C també ens portarà una frase feta en anglès!</desc>
+    <length units="seconds">587</length>
+    <episode-num system="onscreen">169</episode-num>
+    <category lang="ca">ENTRETENIMENT</category>
+    <category lang="ca">ALTRES</category>
     <rating>
       <value>INFANTIL</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20261105090127 +0100" stop="20261105091218 +0100" channel="sx3">
-    <title lang="ca">El Mic i els seus amics</title>
-    <sub-title lang="ca">Patim, patam, Patufet!</sub-title>
-    <desc lang="ca">En Patufet és el protagonista d'un dels contes catalans més populars. Prové de dues històries dels germans Grimm, que eren versions de contes de fades europeus. Els nens i nenes estimen en Patufet, que reivindica l'enginy per sobre de la força i el valor dels més petits.</desc>
-    <length units="seconds">651</length>
-    <episode-num system="onscreen">614</episode-num>
-    <category lang="ca">FICCIÓ</category>
-    <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
+  <programme start="20261105172413 +0100" stop="20261105173603 +0100" channel="sx3">
+    <title lang="ca">A jugar! Amb en Titó i els Fa la la</title>
+    <sub-title lang="ca">A jugar amb moooltes capibares</sub-title>
+    <desc lang="ca">Les germanes capibara s'han multiplicat i ara el parc és ple de capibares disposats a fer de les seves! En Titó i els Fa La La podran esbrinar què ha passat i fer que tot torni a la normalitat?</desc>
+    <length units="seconds">710</length>
+    <episode-num system="onscreen">35</episode-num>
+    <category lang="ca">ENTRETENIMENT</category>
+    <category lang="ca">ALTRES</category>
     <rating>
       <value>INFANTIL</value>
     </rating>
@@ -147,12 +152,12 @@
   <channel id="c33">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20261105084636 +0100" stop="20261105091730 +0100" channel="c33">
-    <title lang="ca">Tocats de l'ala</title>
-    <sub-title lang="ca">Ocells urbans</sub-title>
-    <desc lang="ca">Els nens de l'escola Sant Joan Bosco, a Horta, ni s'havien fixat en les orenetes cuablanques que cada primavera els omplen el pati. Tanmateix, es tracta d'uns de les dues o tres colònies més importants d'aquesta espècie a tot Catalunya. L'ornitòleg que fa el recompte d'orenetes de la ciutat demana a nens i nenes que l'ajudin a comptar els nius. A canvi, els portarà a descobrir la resta d'ocells urbans. Perquè, contra el que solem pensar, la ciutat no és un hàbitat hostil pels ocells: hi ha molt menjar i pocs enemics naturals. Avui veurem coloms, cotorres, pardals, merles, tórtores...i encara més: consultem la ciutadania per saber quants ocells coneixen els urbanites, i descobrim l'habitant més espectacular de la Sagrada Família: el falcó peregrí que ha ensenyat els ocells a volar més ràpid. A més, acompanyem el fotògraf Jordi Bas al Montsec, a retratar l'àguila cuabarrada que freqüenta el seu amagatall; ell és un dels pocs fotògrafs de natura que encara venen fotografies a revistes especialitzades, un altre negoci que Internet ha ensorrat...A canvi, la mateixa Internet els ha proporcionat un altre negoci: el lloguer de 'hides' perquè els aficionats puguin fer fotos com professionals. El consell, avui, sobre els telescopis; el millor sistema per veure els ocells de ben a prop. I a més, l'alarma ornitològica...i el Cafè Bar Ni Piu, on no serveixen perdiu. </desc>
-    <length units="seconds">1854</length>
-    <episode-num system="onscreen">4</episode-num>
+  <programme start="20261105165428 +0100" stop="20261105172124 +0100" channel="c33">
+    <title lang="ca">Quèquicom</title>
+    <sub-title lang="ca">Rapinyaires: Predadors del cel</sub-title>
+    <desc lang="ca">El Pirineu és l'únic lloc d'Europa on es reuneixen voltors comuns, voltors negres, aufranys i trencalossos. 'Quèquicom' els ha filmat junts a Alinyà, a l'Alt Urgell. La reportera Samantha Vall viatja a Alinyà, a l'Alt Urgell, per donar menjar als carronyaires en un canyet. Aleix Millet, tècnic de fauna de l'Obra Social de Caixa Catalunya, considera un gran èxit haver recuperat els quatre necròfags propis d'aquest ecosistema excepcional. Es tracta d'ocells que no cacen, només mengen carn morta i per això es classifiquen com a necròfags. Tots formen part d'un grup més gran, els rapinyaires, que són els ocells amb el bec corb i les urpes fortes per subjectar i esquarterar les seves preses. Tot i el seu aspecte, són ocells molt porucs i molt sensibles a l'entorn. Això ha fet que molts hagin desaparegut per efecte de l'home. Per als rapinyaires, la vista és el sentit més important que tenen ja que els permet localitzar objectius molt petits. 'Quèquicom' assistirà als esforços del veterinari Rafael Molina, del Centre de Recuperació de Fauna Salvatge de Torreferrussa, per salvar un ull a un gamarús, un rapinyaire nocturn, que va quedar ferit en xocar contra un cotxe. El programa també serà present a l'hora d'alimentar el xoriguer petit, un ocell en extinció que es cria en captivitat per recuperar-lo. Per la seva banda, el presentador Marc Boada compara la vista dels rapinyaires amb una càmera digital que conté molts més píxels que la dels humans. És a dir, els ocells en qüestió tenen una quantitat més gran de fotoreceptors a la retina que els permet apreciar més nítidament tots els elements situats al seu camp de visió i, per tant, poden localitzar objectes a gran distància. Tots els ocells sense excepció es poden ensinistrar. És el que es veu a Cim d'Àligues, on la reportera del 'Quèquicom' dóna menjar a un voltor comú i comprova que, tant els ocells diürns com els nocturns, volen en llibertat sense escapar-se. De fet, no els cal volar gaire lluny </desc>
+    <length units="seconds">1616</length>
+    <episode-num system="onscreen">125</episode-num>
     <category lang="ca">DIVULGACIÓ</category>
     <category lang="ca">MAGAZINE ESPECIALITZAT</category>
     <rating>
@@ -161,35 +166,23 @@
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20261105091730 +0100" stop="20261105094545 +0100" channel="c33">
-    <title lang="ca">Animals arquitectes</title>
-    <sub-title lang="ca">Josep Bunyesc</sub-title>
-    <desc lang="ca">El lleidatà Josep Bunyesc és un arquitecte de natura i muntanya, el Kilian Jornet de l'arquitectura. Construeix els edificis més alts de Catalunya, a més de 2.000 m, i és l'ideòleg de les cases positives, construccions sostenibles que generen més energia que la que consumeixen. La seva arquitectura incorpora materials locals com la fusta, la palla o la pedra, i es caracteritza per un gran respecte per l'entorn.</desc>
-    <length units="seconds">1695</length>
-    <episode-num system="onscreen">14</episode-num>
-    <category lang="ca">ENTRETENIMENT</category>
-    <category lang="ca">ALTRES</category>
+  <programme start="20261105172124 +0100" stop="20261105174848 +0100" channel="c33">
+    <title lang="ca">Quèquicom</title>
+    <sub-title lang="ca">La Marató a fons</sub-title>
+    <desc lang="ca">La marató és una prova de resistència que porta el cos al límit de l'esforç. El reporter Pere Renom s'entrena durant dotze setmanes per afrontar la cursa amb garanties: la prova d'esforç, l'alimentació, el calçat, l'anatomia, la fisiologia i la psicologia són la clau perquè el corredor pugui fer els 42 km i arribar a la meta amb èxit. El programa, a més, també aconsella sobre la manera de prevenir lesions. El pas previ abans de decidir participar en una marató és sotmetre's a una prova d'esforç per detectar possibles anomalies o descartar candidats. Si els resultats són favorables, l'entrenament es pot començar. Però cada prova atlètica en requereix un tipus concret. Josep Ricart, entrenador i maratonià, explica les diferències entre diverses formes d'entrenament, com el 'fartlek', el fons o les sèries. I aclareix també per què no s'entrena mai la distància dels 42 km i escaig d'una marató i només es corre amb dorsal. Igual que les proves d'atletisme, cada persona també un estil propi a l'hora de córrer. És necessari, per tant, adaptar aquestes particularitats al tipus de calçat i també tenir en compte les qualitats d'amortiment de la caiguda i d'estabilitat de la trepitjada de les sabatilles.</desc>
+    <length units="seconds">1644</length>
+    <episode-num system="onscreen">126</episode-num>
+    <category lang="ca">DIVULGACIÓ</category>
+    <category lang="ca">MAGAZINE ESPECIALITZAT</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/1/6/1698653096861.jpg"/>
   </programme>
   <channel id="oca1">
     <display-name>OCA1</display-name>
   </channel>
-  <programme start="20261105085200 +0100" stop="20261105130955 +0100" channel="oca1">
-    <title lang="ca">Ple del Parlament</title>
-    <length units="seconds">14995</length>
-    <episode-num system="onscreen">4212</episode-num>
-    <category lang="ca">ACTUALITAT</category>
-    <category lang="ca">RETRANSMISSIONS ACTUALITAT</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <icon src="https://img.ccma.cat/multimedia/jpg/2/2/1723033059522.jpg"/>
-  </programme>
   <channel id="oca2">
     <display-name>OCA2</display-name>
   </channel>
