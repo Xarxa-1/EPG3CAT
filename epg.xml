@@ -3,87 +3,101 @@
   <channel id="tv3uhd">
     <display-name>TV3UHD</display-name>
   </channel>
-  <programme start="20261104210000 +0100" stop="20261104215859 +0100" channel="tv3uhd">
-    <title lang="ca">Telenotícies vespre</title>
-    <length units="seconds">3539</length>
-    <episode-num system="onscreen">7378</episode-num>
+  <programme start="20261105021527 +0100" stop="20261105040000 +0100" channel="tv3uhd">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="seconds">6273</length>
+    <episode-num system="onscreen">11618</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <subtitles type="teletext"/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/7/2/1758026176427.jpg"/>
+    <previously-shown/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
-  <programme start="20261104215859 +0100" stop="20261104220555 +0100" channel="tv3uhd">
-    <title lang="ca">De primera!</title>
-    <sub-title lang="ca">- Cultivar l'essència del bosc</sub-title>
-    <desc lang="ca">Sense Descripció</desc>
-    <length units="seconds">416</length>
+  <programme start="20261105040000 +0100" stop="20261105044511 +0100" channel="tv3uhd">
+    <title lang="ca">Cava de Blues</title>
+    <sub-title lang="ca">The Paparellos</sub-title>
+    <desc lang="ca">Cava de Blues és un espai dedicat a les noves creacions de 14 grups del país que es dediquen a aquest gènere musical.En aquesta edició, els grups que hi trobareu són: -A contrablues-Blas Picón &amp; The Junk Espress-Bullfrog Electric Blues Experience-Dusa'ns Flying Blues Band-Dani Baraldés &amp; The XX Band-Emili Baleriola Blues Quartet-Dani Nel·lo &amp; Mario Cobo-Ivan Kovacevic 5 Spots-JG Acoustic Gang-John Big Stone &amp; The Blues Workers-Legacaster! The Hillbilly Trio-Martini Surfers-Susan Santos &amp; The Papa's Red Band-The Paparellos</desc>
+    <length units="seconds">2711</length>
     <episode-num system="onscreen">14</episode-num>
-    <subtitles type="teletext"/>
+    <category lang="ca">MUSICALS</category>
+    <category lang="ca">JAZZ</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <previously-shown/>
+    <icon src="https://img.3cat.cat/multimedia/jpg/0/2/1754910826220.jpg"/>
   </programme>
   <channel id="tvi">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20261104210000 +0100" stop="20261104215859 +0100" channel="tvi">
-    <title lang="ca">Telenotícies vespre</title>
-    <length units="seconds">3539</length>
-    <episode-num system="onscreen">7378</episode-num>
+  <programme start="20261105021527 +0100" stop="20261105040000 +0100" channel="tvi">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="seconds">6273</length>
+    <episode-num system="onscreen">11618</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <icon src="https://img.ccma.cat/multimedia/jpg/7/2/1758026176427.jpg"/>
+    <previously-shown/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
-  <programme start="20261104215859 +0100" stop="20261104220555 +0100" channel="tvi">
-    <title lang="ca">De primera!</title>
-    <sub-title lang="ca">- Cultivar l'essència del bosc</sub-title>
-    <desc lang="ca">Sense Descripció</desc>
-    <length units="seconds">416</length>
+  <programme start="20261105040000 +0100" stop="20261105044511 +0100" channel="tvi">
+    <title lang="ca">Cava de Blues</title>
+    <sub-title lang="ca">The Paparellos</sub-title>
+    <desc lang="ca">Cava de Blues és un espai dedicat a les noves creacions de 14 grups del país que es dediquen a aquest gènere musical.En aquesta edició, els grups que hi trobareu són: -A contrablues-Blas Picón &amp; The Junk Espress-Bullfrog Electric Blues Experience-Dusa'ns Flying Blues Band-Dani Baraldés &amp; The XX Band-Emili Baleriola Blues Quartet-Dani Nel·lo &amp; Mario Cobo-Ivan Kovacevic 5 Spots-JG Acoustic Gang-John Big Stone &amp; The Blues Workers-Legacaster! The Hillbilly Trio-Martini Surfers-Susan Santos &amp; The Papa's Red Band-The Paparellos</desc>
+    <length units="seconds">2711</length>
     <episode-num system="onscreen">14</episode-num>
+    <category lang="ca">MUSICALS</category>
+    <category lang="ca">JAZZ</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <previously-shown/>
+    <icon src="https://img.3cat.cat/multimedia/jpg/0/2/1754910826220.jpg"/>
   </programme>
   <channel id="324">
     <display-name>324</display-name>
   </channel>
-  <programme start="20261104210000 +0100" stop="20261104220500 +0100" channel="324">
-    <title lang="ca">Telenotícies vespre</title>
-    <length units="seconds">3900</length>
-    <episode-num system="onscreen">7378</episode-num>
+  <programme start="20261105010000 +0100" stop="20261105060000 +0100" channel="324">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="seconds">18000</length>
+    <episode-num system="onscreen">11618</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <icon src="https://img.ccma.cat/multimedia/jpg/7/2/1758026176427.jpg"/>
+    <subtitles type="teletext"/>
+    <previously-shown/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
-  <programme start="20261104220500 +0100" stop="20261105000000 +0100" channel="324">
-    <title lang="ca">Mésnit</title>
-    <desc lang="ca">El 'Mésnit' arriba a la desena temporada, amb Marina Romero al capdavant de l'espai i amb la voluntat de continuar sent un centre de debat d'idees i d'anàlisi de l'activitat política.</desc>
-    <length units="seconds">6900</length>
-    <episode-num system="onscreen">2193</episode-num>
+  <programme start="20261105060000 +0100" stop="20261105080000 +0100" channel="324">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="seconds">7200</length>
+    <episode-num system="onscreen">11619</episode-num>
     <category lang="ca">ACTUALITAT</category>
-    <category lang="ca">DEBAT</category>
+    <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
   <channel id="esport3">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20261104212212 +0100" stop="20261104230000 +0100" channel="esport3">
-    <title lang="ca">E3D</title>
-    <sub-title lang="ca">- Dani Sánchez-JS Ko / PBA Tour</sub-title>
-    <desc lang="ca">Sense Descripció</desc>
-    <length units="seconds">5868</length>
-    <subtitles type="teletext"/>
-  </programme>
-  <programme start="20261104230000 +0100" stop="20261105003050 +0100" channel="esport3">
+  <programme start="20261105005546 +0100" stop="20261105022920 +0100" channel="esport3">
     <title lang="ca">Onze</title>
-    <desc lang="ca">Les nits d'Esport3 tornen a concentrar tota la informació, les millors opinions i l'entreteniment necessari per acabar el dia al voltant de l'actualitat esportiva. Un xou cada nit per acabar informat, saber cap on va l'actualitat i mantenir sempre un somriure.</desc>
-    <length units="seconds">5450</length>
+    <sub-title lang="ca">Rendits a Raphinha; els gols de la Champions i 'El predicador'</sub-title>
+    <desc lang="ca">Lluís Carrasco, Joan Poquí, Gemma Mallorca i Sique Rodríguez comenten el partit del Barça contra l'Aston Villa i els gols de la jornada de la Champions. L'Òscar Pérez-Dolz predica els manaments del bon culer.</desc>
+    <length units="seconds">5614</length>
     <episode-num system="onscreen">1281</episode-num>
     <category lang="ca">ESPORTS</category>
     <category lang="ca">MAGAZINE</category>
@@ -91,35 +105,50 @@
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
+    <previously-shown/>
     <icon src="https://img.ccma.cat/multimedia/jpg/1/1/1688543515711.jpg"/>
+  </programme>
+  <programme start="20261105022920 +0100" stop="20261105041550 +0100" channel="esport3">
+    <title lang="ca">Bàsquet</title>
+    <sub-title lang="ca">Lietkabelis-Kids&amp;Us Manresa / Eurocup / J6</sub-title>
+    <desc lang="ca">L'equip del Bages visita Lituània per enfrontar-se amb un rival directe en la lluita per passar a la següent ronda. Els dos conjunts sumen 3 victòries i 2 derrotes.</desc>
+    <length units="seconds">6390</length>
+    <episode-num system="onscreen">101</episode-num>
+    <category lang="ca">ESPORTS</category>
+    <category lang="ca">RETRANSMISSIONS ESPORTS</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <previously-shown/>
+    <icon src="https://img.3cat.cat/multimedia/jpg/5/6/1759922947765.jpg"/>
   </programme>
   <channel id="sx3">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20261104214135 +0100" stop="20261104220051 +0100" channel="sx3">
-    <title lang="ca">Bola de drac Z</title>
-    <sub-title lang="ca">L'estratègia secreta d'en Vegeta! Dos desitjos amb segona intenció!</sub-title>
-    <desc lang="ca">Mentre el Bu bo continua plantant cara al Bu dolent, en Vegeta li diu a en Dende que els namekians invoquin el drac Porunga per poder demanar dos desitjos: fer reviure la Terra i tots els seus habitants, i tornar la vida a tota la gent que va morir al Campionat Mundial d'Arts Marcials. Ara només falta que tinguin temps de dur a terme la segona part del pla.</desc>
-    <length units="seconds">1156</length>
-    <episode-num system="onscreen">283</episode-num>
+  <programme start="20261105021156 +0100" stop="20261105023303 +0100" channel="sx3">
+    <title lang="ca">Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
+    <sub-title lang="ca">El Dibuixant</sub-title>
+    <desc lang="ca">El Nathaniel és un noi tímid que està enamorat de la Marinette, però la Choé el posa en evidència. L'Esfinx aprofita la ràbia i la frustració del noi per convertir-lo amb un akuma en Dibuixant, un súper malvat que fa realitat tot el que dibuixa. El Nathaniel aprofitarà els seus nous poders per venjar-se de la Chloé.</desc>
+    <length units="seconds">1267</length>
+    <episode-num system="onscreen">8</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
-      <value>JUVENIL</value>
+      <value>INFANTIL</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20261104220051 +0100" stop="20261104222217 +0100" channel="sx3">
-    <title lang="ca">Bola de drac Z</title>
-    <sub-title lang="ca">L'última esperança de derrotar el monstre Bu! Fer una immensa bola Genki!</sub-title>
-    <desc lang="ca">Mentre el Bu bo continua aguantant els atacs del Bu dolent, en Vegeta demana a tots els habitants de la Terra que donin la seva energia a en Son Goku per ajudar-lo a crear la bola Genki més poderosa que s'ha fet mai, amb la intenció d'acabar per sempre amb el monstre Bu. El problema ara és que els habitants de la Terra desconfien d'en Vegeta.</desc>
-    <length units="seconds">1286</length>
-    <episode-num system="onscreen">284</episode-num>
+  <programme start="20261105023303 +0100" stop="20261105025341 +0100" channel="sx3">
+    <title lang="ca">Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
+    <sub-title lang="ca">Rogercop</sub-title>
+    <desc lang="ca">El dia que se celebra la jornada de pares a l'institut, la Chloé perd un braçalet molt valuós i no triga ni un segon a culpar la Marinette. L'alcalde, molt nerviós,intenta obligar el Roger, l'agent de policia, a escorcollar la Marinette, i això desencadena una nova aventura amb un nou malvat que amenaça la pau a París. </desc>
+    <length units="seconds">1238</length>
+    <episode-num system="onscreen">9</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
-      <value>JUVENIL</value>
+      <value>INFANTIL</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
@@ -127,33 +156,35 @@
   <channel id="c33">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20261104213538 +0100" stop="20261104220046 +0100" channel="c33">
-    <title lang="ca">Jet lag</title>
-    <sub-title lang="ca">CONFESSIONS</sub-title>
-    <desc lang="ca">La Sílvia, la Mariona, l' Esther, la Carla i també la Diana es preparen per un sopar. Fa 1 any que viuen juntes i han decidit celebrar-ho. Com qui no vol la cosa, es comencen a dir les veritats i a confessar els secrets. La nit acabarà malament.</desc>
-    <length units="seconds">1508</length>
-    <episode-num system="onscreen">6</episode-num>
-    <category lang="ca">FICCIÓ</category>
-    <category lang="ca">TELESÈRIE</category>
+  <programme start="20261105013146 +0100" stop="20261105022735 +0100" channel="c33">
+    <title lang="ca">1942</title>
+    <sub-title lang="ca">Si cal creure-hi</sub-title>
+    <desc lang="ca">SINOPSI:L'any 1942, amb el món en guerra, les nacions necessiten l'adhesió ferma de la seva població. I una de les maneres d'aconseguir-la és l'adoctrinament d'infants i joves en els valors patriòtics, com ens demostraran les experiències de l'Ursula, una jove alemanya allistada a les Joventuts Hitlerianes; la Nina, enrolada en l'exèrcit soviètic; o l'Eric, un jove anglès que se'n va a Singapur a defensar l'Imperi Britànic.</desc>
+    <length units="seconds">3349</length>
+    <episode-num system="onscreen">2</episode-num>
+    <category lang="ca">DIVULGACIÓ</category>
+    <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
+    <icon src="https://img.3cat.cat/multimedia/jpg/9/8/1786345299589.jpg"/>
   </programme>
-  <programme start="20261104220046 +0100" stop="20261104225104 +0100" channel="c33">
-    <title lang="ca">La Renaixença</title>
-    <sub-title lang="ca">La pipa de fumar</sub-title>
-    <desc lang="ca">La pipa de fumar, la pipa de la pau, símbol per intel·lectuals i també merdosos que volen fer-se els interessants. Avui dia, has de ser tot un personatge per fumar amb pipa, has de tenir les idees clares. Fumar pipa i jugar a escacs. Ens visiten Al·lèrgiques al pol·len. Creieu que deuen fumar amb pipa de fumar? Ja els hi preguntarem, si ens recordem. Per acabar, passegem el gos pels disturbis de Nika, un passeig històric per Constantinoble que va acabar amb l'emperador entre l'espasa i la paret.</desc>
-    <length units="seconds">3018</length>
-    <episode-num system="onscreen">266</episode-num>
-    <category lang="ca">DIVULGACIÓ</category>
-    <category lang="ca">ALTRES</category>
+  <programme start="20261105022735 +0100" stop="20261105034129 +0100" channel="c33">
+    <title lang="ca">Avi, et trauré d'aquí!</title>
+    <sub-title lang="ca">Avi, et trauré d'aquí!</sub-title>
+    <desc lang="ca">'Avi, et trauré d'aquí!' Aquesta és la promesa i la lluita d'en Joan Pinyol, nét d'un republicà que va ser exhumat de la fossa on estava enterrat i portat per força al Valle de los Caídos, sense el coneixement ni el consentiment dels seus familiars. Inaugurat el 1959 i presentat com un monument a la reconciliació, el règim franquista no va dubtar a profanar tombes i fosses de víctimes de la Guerra Civil –nacionals i republicans- per farcir aquell immens mausoleu. El Valle de los Caídos s'ha convertit en la fossa comuna més gran d'Espanya. Molts familiars lluiten per poder treure les restes dels seus parents del Valle i enterrar-los prop de casa. Però les dificultats, tant tècniques com de voluntat política, són moltes. Per aquest afectats, que el seu avi o pare reposi al costat de Franco és un greuge que va causar la dictadura i que la democràcia encara no ha reparat. Durant la investigació hem rescatat l'extraordinària història d'uns navarresos que el 1980 van aconseguir exhumar 133 cossos del Valle de los Caídos, els únics que han sortit mai d'allà. El que sembla impossible amb governs tant de dretes com d'esquerres, va ser possible amb la UCD d'una democràcia acabada d'estrenar. Per què avui no és possible exhumar aquells cossos portats al Valle de los Caídos de manera secreta? És possible identificar-los, exhumar-los i tornar-los a les seves famílies? O el Valle és un tema intocable, com altres aspectes residuals del franquisme?</desc>
+    <length units="seconds">4434</length>
+    <episode-num system="onscreen">1</episode-num>
+    <category lang="ca">ACTUALITAT</category>
+    <category lang="ca">DOCUMENTAL</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/3/3/1756148014833.jpg"/>
+    <previously-shown/>
+    <icon src="https://img.3cat.cat/multimedia/jpg/9/5/1571905858559.jpg"/>
   </programme>
   <channel id="oca1">
     <display-name>OCA1</display-name>
