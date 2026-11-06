@@ -3,85 +3,77 @@
   <channel id="tv3uhd">
     <display-name>TV3UHD</display-name>
   </channel>
-  <programme start="20261106023138 +0100" stop="20261106043000 +0100" channel="tv3uhd">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">7102</length>
-    <episode-num system="onscreen">11627</episode-num>
-    <category lang="ca">ACTUALITAT</category>
-    <category lang="ca">INFORMATIU DIÀRI</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <previously-shown/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
-  </programme>
-  <programme start="20261106043000 +0100" stop="20261106051419 +0100" channel="tv3uhd">
-    <title lang="ca">Cava de Blues</title>
-    <sub-title lang="ca">Pere Foved &amp; Friends</sub-title>
-    <desc lang="ca">Cava de Blues és un espai dedicat a les noves creacions de 14 grups del país que es dediquen a aquest gènere musical.En aquesta edició, els grups que hi trobareu són: -A contrablues-Blas Picón &amp; The Junk Espress-Bullfrog Electric Blues Experience-Dusa'ns Flying Blues Band-Dani Baraldés &amp; The XX Band-Emili Baleriola Blues Quartet-Dani Nel·lo &amp; Mario Cobo-Ivan Kovacevic 5 Spots-JG Acoustic Gang-John Big Stone &amp; The Blues Workers-Legacaster! The Hillbilly Trio-Martini Surfers-Susan Santos &amp; The Papa's Red Band-The Paparellos</desc>
-    <length units="seconds">2659</length>
-    <episode-num system="onscreen">15</episode-num>
-    <category lang="ca">MUSICALS</category>
-    <category lang="ca">JAZZ</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <previously-shown/>
-    <icon src="https://img.3cat.cat/multimedia/jpg/0/2/1754910826220.jpg"/>
-  </programme>
-  <channel id="tvi">
-    <display-name>TVI</display-name>
-  </channel>
-  <programme start="20261106023138 +0100" stop="20261106043000 +0100" channel="tvi">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">7102</length>
-    <episode-num system="onscreen">11627</episode-num>
-    <category lang="ca">ACTUALITAT</category>
-    <category lang="ca">INFORMATIU DIÀRI</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <previously-shown/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
-  </programme>
-  <programme start="20261106043000 +0100" stop="20261106051419 +0100" channel="tvi">
-    <title lang="ca">Cava de Blues</title>
-    <sub-title lang="ca">Pere Foved &amp; Friends</sub-title>
-    <desc lang="ca">Cava de Blues és un espai dedicat a les noves creacions de 14 grups del país que es dediquen a aquest gènere musical.En aquesta edició, els grups que hi trobareu són: -A contrablues-Blas Picón &amp; The Junk Espress-Bullfrog Electric Blues Experience-Dusa'ns Flying Blues Band-Dani Baraldés &amp; The XX Band-Emili Baleriola Blues Quartet-Dani Nel·lo &amp; Mario Cobo-Ivan Kovacevic 5 Spots-JG Acoustic Gang-John Big Stone &amp; The Blues Workers-Legacaster! The Hillbilly Trio-Martini Surfers-Susan Santos &amp; The Papa's Red Band-The Paparellos</desc>
-    <length units="seconds">2659</length>
-    <episode-num system="onscreen">15</episode-num>
-    <category lang="ca">MUSICALS</category>
-    <category lang="ca">JAZZ</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <previously-shown/>
-    <icon src="https://img.3cat.cat/multimedia/jpg/0/2/1754910826220.jpg"/>
-  </programme>
-  <channel id="324">
-    <display-name>324</display-name>
-  </channel>
-  <programme start="20261106010000 +0100" stop="20261106060000 +0100" channel="324">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">18000</length>
-    <episode-num system="onscreen">11627</episode-num>
+  <programme start="20261106080018 +0100" stop="20261106103000 +0100" channel="tv3uhd">
+    <title lang="ca">Matins</title>
+    <desc lang="ca">'Matins' és un dels puntals informatius de TV3. El programa matinal dona les claus del dia que comença, explica les notícies que han passat aportant-ne el context per entendre-les i analitza amb veus acreditades l'actualitat més propera i la d'arreu del món. 'Matins' comença a les 8 del matí, de dilluns a divendres, i està presentat per Ariadna Oltra.</desc>
+    <length units="seconds">8982</length>
+    <episode-num system="onscreen">4708</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
-    <previously-shown/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/2/0/1758040151402.jpg"/>
   </programme>
-  <programme start="20261106060000 +0100" stop="20261106080000 +0100" channel="324">
+  <programme start="20261106103000 +0100" stop="20261106135500 +0100" channel="tv3uhd">
+    <title lang="ca">Tot es mou</title>
+    <desc lang="ca">El programa presentat per Helena Garcia Melero s'emet de dilluns a divendres, de 10.30 a 13.55. Un magazín d'actualitat que busca informar, analitzar i debatre sobre temes que marquen l'actualitat social, econòmica i cultural del dia, amb una àmplia presència en directe dels reporters i reporteres, repartits per tot Catalunya. A més, el 'Tot es mou' compta amb seccions diàries de gastronomia (amb els principals cuiners i cuineres del país), successos, economia, mobilitat, temes mèdics i de tecnologia, entre d'altres.</desc>
+    <length units="seconds">12300</length>
+    <episode-num system="onscreen">1845</episode-num>
+    <category lang="ca">ACTUALITAT</category>
+    <category lang="ca">MAGAZINE</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <subtitles type="teletext"/>
+  </programme>
+  <channel id="tvi">
+    <display-name>TVI</display-name>
+  </channel>
+  <programme start="20261106080018 +0100" stop="20261106103000 +0100" channel="tvi">
+    <title lang="ca">Matins</title>
+    <desc lang="ca">'Matins' és un dels puntals informatius de TV3. El programa matinal dona les claus del dia que comença, explica les notícies que han passat aportant-ne el context per entendre-les i analitza amb veus acreditades l'actualitat més propera i la d'arreu del món. 'Matins' comença a les 8 del matí, de dilluns a divendres, i està presentat per Ariadna Oltra.</desc>
+    <length units="seconds">8982</length>
+    <episode-num system="onscreen">4708</episode-num>
+    <category lang="ca">ACTUALITAT</category>
+    <category lang="ca">INFORMATIU DIÀRI</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <icon src="https://img.ccma.cat/multimedia/jpg/2/0/1758040151402.jpg"/>
+  </programme>
+  <programme start="20261106103000 +0100" stop="20261106135500 +0100" channel="tvi">
+    <title lang="ca">Tot es mou</title>
+    <desc lang="ca">El programa presentat per Helena Garcia Melero s'emet de dilluns a divendres, de 10.30 a 13.55. Un magazín d'actualitat que busca informar, analitzar i debatre sobre temes que marquen l'actualitat social, econòmica i cultural del dia, amb una àmplia presència en directe dels reporters i reporteres, repartits per tot Catalunya. A més, el 'Tot es mou' compta amb seccions diàries de gastronomia (amb els principals cuiners i cuineres del país), successos, economia, mobilitat, temes mèdics i de tecnologia, entre d'altres.</desc>
+    <length units="seconds">12300</length>
+    <episode-num system="onscreen">1845</episode-num>
+    <category lang="ca">ACTUALITAT</category>
+    <category lang="ca">MAGAZINE</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+  </programme>
+  <channel id="324">
+    <display-name>324</display-name>
+  </channel>
+  <programme start="20261106080000 +0100" stop="20261106103000 +0100" channel="324">
+    <title lang="ca">Matins</title>
+    <desc lang="ca">'Matins' és un dels puntals informatius de TV3. El programa matinal dona les claus del dia que comença, explica les notícies que han passat aportant-ne el context per entendre-les i analitza amb veus acreditades l'actualitat més propera i la d'arreu del món. 'Matins' comença a les 8 del matí, de dilluns a divendres, i està presentat per Ariadna Oltra.</desc>
+    <length units="seconds">9000</length>
+    <episode-num system="onscreen">4708</episode-num>
+    <category lang="ca">ACTUALITAT</category>
+    <category lang="ca">INFORMATIU DIÀRI</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <icon src="https://img.ccma.cat/multimedia/jpg/2/0/1758040151402.jpg"/>
+  </programme>
+  <programme start="20261106103000 +0100" stop="20261106120000 +0100" channel="324">
     <title lang="ca">Notícies 3CatInfo</title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">7200</length>
-    <episode-num system="onscreen">11628</episode-num>
+    <length units="seconds">5400</length>
+    <episode-num system="onscreen">11629</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
@@ -93,45 +85,44 @@
   <channel id="esport3">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20261106023914 +0100" stop="20261106041554 +0100" channel="esport3">
-    <title lang="ca">Tot Costa</title>
-    <sub-title lang="ca">Raphinha, 2030</sub-title>
-    <desc lang="ca">El davanter del Barça es lliga més al club. No cal buscar un 9? Ho analitzem amb Santi Giménez, Mireia Vera i Ferran Martínez. També repassem la jornada de Champions; parlem amb el boig de la Castellana, David Sánchez; expliquem de què va el 'Barça reservat' i l''Espanyol reservat', i sentim els pilots de MotoGP des de Qatar. </desc>
-    <length units="seconds">5800</length>
-    <episode-num system="onscreen">1030</episode-num>
-    <category lang="ca">ESPORTS</category>
-    <category lang="ca">INFORMATIU DIÀRI</category>
+  <programme start="20261106100400 +0100" stop="20261106105629 +0100" channel="esport3">
+    <title lang="ca">Experiència Catalana</title>
+    <sub-title lang="ca">Allan</sub-title>
+    <desc lang="ca">Amb l'Allan Edward Hinton viatgem pel Pallars Jussà i la Noguera. Aquest experimentat viatger descobreix, amb la Ivana Miño, l'especial gastronomia de la zona i algun dels paisatges més espectaculars de Catalunya.</desc>
+    <length units="seconds">3149</length>
+    <episode-num system="onscreen">2</episode-num>
+    <category lang="ca">ENTRETENIMENT</category>
+    <category lang="ca">ALTRES</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/0/4/1706209193140.jpg"/>
   </programme>
-  <programme start="20261106041554 +0100" stop="20261106060202 +0100" channel="esport3">
-    <title lang="ca">Billar a 3 bandes</title>
-    <sub-title lang="ca">Dani Sánchez-JS Ko / PBA Tour</sub-title>
-    <desc lang="ca">El català Dani Sánchez s'enfronta al sudcoreà Jun-seo Ko en aquest campionat de billar a 3 bandes organitzat per la PBA (Professional Billiards Association).</desc>
-    <length units="seconds">6368</length>
-    <episode-num system="onscreen">8150</episode-num>
-    <category lang="ca">ESPORTS</category>
-    <category lang="ca">RETRANSMISSIONS ESPORTS</category>
+  <programme start="20261106105629 +0100" stop="20261106112706 +0100" channel="esport3">
+    <title lang="ca">GR Pirineus</title>
+    <sub-title lang="ca">Petits plaers de l'Empordà</sub-title>
+    <desc lang="ca">El segon programa d'aquest Gran Recorregut comença a Begur i acaba a l'Escala, en total uns 65 quilòmetres repartits en dues jornades, fets a peu, en bici, en cotxe i en barca. En la segona ruta s'abordarà el tema dels indians, de la dansa de la mort de Verges, una joia de la nostra cultura, i, ja a prop del mar, de les Illes Medes per aprendre a conduir un vaixell i tastar l'Anxova de l'Escala.</desc>
+    <length units="seconds">1837</length>
+    <episode-num system="onscreen">2</episode-num>
+    <category lang="ca">DIVULGACIÓ</category>
+    <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
-    <icon src="https://img.3cat.cat/multimedia/jpg/3/3/1766061188133.jpg"/>
+    <icon src="https://img.3cat.cat/multimedia/jpg/9/8/1736612891089.jpg"/>
   </programme>
   <channel id="sx3">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20261106031538 +0100" stop="20261106033616 +0100" channel="sx3">
-    <title lang="ca">Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
-    <sub-title lang="ca">Simon diu</sub-title>
-    <desc lang="ca">Un hipnotitzador frustrat pel seu fracàs en un programa de televisió és la víctima perfecta, en aquesta ocasió, perquè l'Esfinx intenti prendre'ls els prodigis a Ladybug i el Gat Noir. L'objectiu del Simon-diu, l'hipnotitzador akumitzat, és el Gabriel Agreste, el pare de l'Adrien, i això farà que la relació entre pare i fill fregui un moment molt delicat. </desc>
-    <length units="seconds">1238</length>
-    <episode-num system="onscreen">17</episode-num>
+  <programme start="20261106102720 +0100" stop="20261106103832 +0100" channel="sx3">
+    <title lang="ca">La Patrulla Peluda</title>
+    <sub-title lang="ca">La Patrulla a la neu</sub-title>
+    <desc lang="ca">En Ryder i la Patrulla Peluda han de rescatar l'Alex i en Jake, que han quedat encallats en un pendent de la muntanya.</desc>
+    <length units="seconds">672</length>
+    <episode-num system="onscreen">11</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
@@ -140,12 +131,12 @@
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20261106033616 +0100" stop="20261106035654 +0100" channel="sx3">
-    <title lang="ca">Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
-    <sub-title lang="ca">Pixelator</sub-title>
-    <desc lang="ca">La classe de la Marinette fa pràctiques a l'hotel del senyor Bourgeois, el pare de la Chloé. Casualment l'estrella de rock Jagged Stone entra a l'hotel i demana la suite més luxosa. Tot sembla tranquil fins que un fan de l'Stone, que l'ha seguit per tots els concerts, aconsegueix entrar a l'hotel per fotografiar-se amb el seu ídol, però l'equip de l'Stone el fa fora de mala manera. </desc>
-    <length units="seconds">1238</length>
-    <episode-num system="onscreen">18</episode-num>
+  <programme start="20261106103832 +0100" stop="20261106104905 +0100" channel="sx3">
+    <title lang="ca">La Patrulla Peluda</title>
+    <sub-title lang="ca">La Patrulla i el monstre de les neus</sub-title>
+    <desc lang="ca">Els cadells troben unes petjades estranyes a la neu de la muntanya que hi ha als afores de Badia Aventures. Tothom es pensa que és un monstre de les neus, i els esquiadors marxen espantats.</desc>
+    <length units="seconds">633</length>
+    <episode-num system="onscreen">12</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
@@ -157,12 +148,12 @@
   <channel id="c33">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20261106031539 +0100" stop="20261106034503 +0100" channel="c33">
-    <title lang="ca">Laberints</title>
-    <sub-title lang="ca">Laberints de feines i treballs</sub-title>
-    <desc lang="ca">'Laberints' construeix una conversa coral sobre un tema concret a partir de petits fragments d'entrevistes a personatges coneguts. El programa és un collage que combina entrevistes, actuacions musicals i moments d´humor procedents dels arxius de TV3.A 'Laberints de feines i treballs': Banderas rodant amb Coppola i Pepe Rubianes matriculat a una escola de samba. Iñaki Gabilondo sense despatx i Quim Monzó treballant al bar. Els fills treballadors d'Albert Pla i Júlia Otero cessada. Quimi Portet, un parell de collons, i Cruyff, sempre guanyador. Victòria Abril amb presses, i Jesulín, a dues 'corrides' diàries... i encara més.</desc>
-    <length units="seconds">1764</length>
-    <episode-num system="onscreen">5</episode-num>
+  <programme start="20261106101537 +0100" stop="20261106104027 +0100" channel="c33">
+    <title lang="ca">Marcians</title>
+    <sub-title lang="ca">Jugar, competir, guanyar. Els finalistes del Premi Òmnium de novel·la.</sub-title>
+    <desc lang="ca">'Jugar, competir, guanyar' s'acosta als deu escriptors i escriptores que opten al Premi Òmnium a la Millor Novel·la de l'Any per conèixer detalls de les seves obres i també per saber si són competitius quan parlem de premis literaris. Els autors i autores són: Melcior Comes, 'L'home que va vendre el món' (Proa), Antònia Carré-Pons, 'La gran família' (Club Editor), Carles Fenollosa, 'Guerra, victòria, demà' (Drassana), Miquel de Palol, 'Abans més que Encara' (Navona), Alba Dalmau, 'Si una família' (Angle), Víctor Recort, 'Els crits' (L'Altra), Quim Español, 'Virgil' (Edicions de 1984), Víctor Garcia Tur, 'Els claustres' (Comanegra), Lluís Llort, 'Demolició' (Clandestina) i Toni Sala, 'Escenaris' (L'Altra). En les obres finalistes, publicades entre novembre del 2024 i desembre del 2025, trobem crítiques a la societat i als mitjans de comunicació, novel·la negra o històrica i també relats familiars. El jurat del Premi Òmnium de Novel·la donarà a conèixer el premi dissabte 14 de març, en la gala de la Nit de les Lletres Catalanes que se celebrarà a la Sala Oval del MNAC.</desc>
+    <length units="seconds">1490</length>
+    <episode-num system="onscreen">79</episode-num>
     <category lang="ca">ENTRETENIMENT</category>
     <category lang="ca">ALTRES</category>
     <rating>
@@ -171,12 +162,12 @@
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20261106034503 +0100" stop="20261106041524 +0100" channel="c33">
-    <title lang="ca">Laberints</title>
-    <sub-title lang="ca">Laberints de miralls i miralls</sub-title>
-    <desc lang="ca">'Laberints' construeix una conversa coral sobre un tema concret a partir de petits fragments d'entrevistes a personatges coneguts. El programa és un collage que combina entrevistes, actuacions musicals i moments d´humor procedents dels arxius de TV3.Mirar-se al mirall. Tothom és esclau de la moda, d'una moda amb data de caducitat. Moda, tendències, culte al cos. A partir de la talla 44, un abisme. Avui per avui, no tenir 'look' pot ser un problema. Per alguns, el 'look' pot esdevenir una actitud davant la vida... A 'Laberints de miralls i miralls': Pepe Rubianes, Montserrat Caballé, Alaska, Sergi López, Roger de Gràcia, Ignasi Riera, Claudia Schiffer, Gerard Quintana, Raimundo Amador, Júlia Otero, Toni Miró... i encara més.</desc>
-    <length units="seconds">1821</length>
-    <episode-num system="onscreen">6</episode-num>
+  <programme start="20261106104027 +0100" stop="20261106110857 +0100" channel="c33">
+    <title lang="ca">Marcians</title>
+    <sub-title lang="ca">Els joves no tenen memòria històrica... Sí? Segur?</sub-title>
+    <desc lang="ca">Diversos estudis apunten que els joves, sobretot els nois, cada vegada abracen més els postulats de l'extrema dreta, fins al punt que un de cada quatre joves rebutja la democràcia com el millor sistema possible. Però i els altres tres? Els protagonistes del reportatge formen part d'aquest grup més ampli que sí que té conviccions democràtiques.Un d'ells és Mario Obrero. Té 21 anys, és nascut a Getafe, és poeta i gran defensor de la diversitat lingüística de l'Estat. Ho posa de manifest al seu últim assaig, 'Con e de curcuspín', en què escriu en català, gallec, asturià o basc. També al poemari anterior, 'Cerezas sobre la muerte', inspirat per la memòria de la Guerra Civil.Aquesta mateixa memòria, ubicada en una fossa de Palència, és la que inspira l'obra 'El sonall', que es veurà al TNC del 9 al 26 d'abril. És l'últim muntatge de la companyia Projecte Ingenu i la seva dramaturga és l'Alba Collado, de 27 anys. Per escriure'l ha comptat amb l'assessorament de l'antropòloga forense Almudena Garcia-Rubio, una de les referents en les exhumacions dels represaliats del franquisme. Collado és neta d'un exiliat de la dictadura de Franco i filla d'un exiliat de la dictadura de Pinochet, per aquest motiu l'alarma l'ascens de l'extrema dreta.Comparteix la mateixa preocupació en Biel Tort, un noi de 16 anys que, alhora que estudia 4t d'ESO, desenvolupa la vocació de ninotaire. El tòpic diria que hauria d'estar còmode amb les pantalles, prefereix dibuixar en paper i li agradaria publicar a El Jueves. Per això li fa moltíssima il·lusió tenir, entre les seves amistats, el mestre de l'ofici JL Martín, que va dirigir la publicació d'humor gràfic satíric durant més de 30 anys.Als joves se'ls acusa de desmemòria, però no sembla que els adults que estan al càrrec d'alguns països tinguin massa presents els records del que significa la guerra, a jutjar pel clima bel·licista actual. La neocupletista Glòria Ribera ataca aquesta violència imperant al seu nou especta</desc>
+    <length units="seconds">1710</length>
+    <episode-num system="onscreen">80</episode-num>
     <category lang="ca">ENTRETENIMENT</category>
     <category lang="ca">ALTRES</category>
     <rating>
