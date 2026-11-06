@@ -3,64 +3,85 @@
   <channel id="tv3uhd">
     <display-name>TV3UHD</display-name>
   </channel>
-  <programme start="20261105225023 +0100" stop="20261105230718 +0100" channel="tv3uhd">
-    <title lang="ca">Crackòvia</title>
-    <sub-title lang="ca">Kylian Mbappé fa enfadar la Xina i Lamine Yamal balla a ritme jamaicà</sub-title>
-    <desc lang="ca">Després d'un inici fulgurant a la Lliga, el Barça va viure una setmana horribilis. La cirereta del pastís va ser Lamine Yamal (Moïse Taxe) quedant finalista a la gala de la Pilota d'Or. Hansi Flick (Ivan Labanda) prova d'animar-lo dedicant-li un ball al ritme de 'Jamaican (Bam Bam)', d'HUGEL i Solto, una de les cançons del moment a TikTok. Ara bé, millor que no el consoli Gavi (Jaume Ibars), que potser de l'abraçada li trenca les costelles…D'altra banda, a Madrid s'ha convocat un gabinet de crisi. Kylian Mbappé (Joel Cojal) ha fet enfadar la Xina i ha provocat un conflicte internacional. Per mirar d'arreglar-ho, Josep Pedrerol (Carlos Latre) i Tomás Roncero (Cesc Casanovas) es disculpen davant la nació oriental en un programa especial del 'Chininguito'.En aquest programa també veiem Joel Díaz (Carles Roig) tenint una improbable conversa amb Sergio Ramos (Jordi Rios), compartim vestidor amb Pedri (Xavi Espinosa) i Wojciech Szczesny, veiem la nova invenció de Manolo Lama (Raúl Pérez) i Manu Carreño (Alan Lillo) per conciliar les cures dels nostres nadons amb la masculinitat a 'Bricomanolos', fem la haka i rebentem altaveus amb Gerard Romero (Pep Plaza), intentem comprendre l'embolic dels equips de la Lliga F amb Caroline Graham Hansen (Ona Vinyamata) i Aitana Bonmatí (Laura Llobet), i toca acomiadar-se de l'exentrenador de l'Espanyol Manolo González, un dels nostres personatges més icònics, efímers… i malparlats.Johan Cruyff i Josep Lluís Núñez ho rematen tot plegat jugant a la timba i passant l'estona al complex urbanístic celestial de Nubes y Navarro.</desc>
-    <length units="seconds">1015</length>
-    <episode-num system="onscreen">312</episode-num>
-    <category lang="ca">ENTRETENIMENT</category>
-    <category lang="ca">GAGS. HUMOR</category>
-    <rating>
-      <value>JUVENIL</value>
-    </rating>
-    <subtitles type="teletext"/>
-    <previously-shown/>
-  </programme>
-  <programme start="20261105230718 +0100" stop="20261105235150 +0100" channel="tv3uhd">
-    <title lang="ca">APM?</title>
-    <desc lang="ca">Joel Díaz tindrà a l'altra banda del plafó del 'Però vostè qui és?' Judit Martín, actriu, humorista i reina indiscutible de la improvisació de TV3. Durant l'entrevista, la Judit parlarà de la polèmica amb el director teatral Lluís Pasqual, de com sobreviure als teus haters, i de l'absoluta devoció que sent l'enfant terrible per l'actriu. Se han enamorao, Merche, esos dos se han enamorao.Mentrestant, Nerea Sanfe continua amb l''On falla!', complint els encàrrecs dels nostres espectadors. Aquesta setmana viatjarà fins a Reus per investigar una pilona que està revolucionant el veïnat. Accidents, queixes i indignació per un obstacle que s'ha convertit en l'enemic públic número u de la ciutat. A veure si al final la Nerea haurà de fer de mediadora entre els veïns i el mobiliari urbà.I torna 'MÒNICASPORTS' amb una entrevista d'alçada... genealògica! Assistim al partit d'handbol entre el Fraikin Granollers i el Barça, on Mònica Balsells ha aconseguit parlar amb Pablo Urdangarín. No sabem si ens obrirà les portes de la Zarzuela o si ens arribarà una ordre d'allunyament.A més, estrenarem el 012, el telèfon que t'explica com fer vaga sense que la feina se'n ressenti (treballant més, naturalment); recuperarem Hitchcock amb 'Els voltors', una pel·lícula de terror en què els fons voltor no només ataquen les persones, sinó que també es queden amb els seus pisos; i celebrarem l'arribada de l'Ultra HD a TV3 ampliant tant les imatges que descobrirem tot un univers desconegut dins dels porus de la pell. La televisió cada vegada té més definició. Nosaltres, la mateixa de sempre. #APM3CAT</desc>
-    <length units="seconds">2672</length>
-    <episode-num system="onscreen">885</episode-num>
-    <category lang="ca">ENTRETENIMENT</category>
-    <category lang="ca">ALTRES</category>
+  <programme start="20261106023138 +0100" stop="20261106043000 +0100" channel="tv3uhd">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="seconds">7102</length>
+    <episode-num system="onscreen">11627</episode-num>
+    <category lang="ca">ACTUALITAT</category>
+    <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <subtitles type="teletext"/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/0/2/1442394916120.jpg"/>
+    <previously-shown/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
+  </programme>
+  <programme start="20261106043000 +0100" stop="20261106051419 +0100" channel="tv3uhd">
+    <title lang="ca">Cava de Blues</title>
+    <sub-title lang="ca">Pere Foved &amp; Friends</sub-title>
+    <desc lang="ca">Cava de Blues és un espai dedicat a les noves creacions de 14 grups del país que es dediquen a aquest gènere musical.En aquesta edició, els grups que hi trobareu són: -A contrablues-Blas Picón &amp; The Junk Espress-Bullfrog Electric Blues Experience-Dusa'ns Flying Blues Band-Dani Baraldés &amp; The XX Band-Emili Baleriola Blues Quartet-Dani Nel·lo &amp; Mario Cobo-Ivan Kovacevic 5 Spots-JG Acoustic Gang-John Big Stone &amp; The Blues Workers-Legacaster! The Hillbilly Trio-Martini Surfers-Susan Santos &amp; The Papa's Red Band-The Paparellos</desc>
+    <length units="seconds">2659</length>
+    <episode-num system="onscreen">15</episode-num>
+    <category lang="ca">MUSICALS</category>
+    <category lang="ca">JAZZ</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <previously-shown/>
+    <icon src="https://img.3cat.cat/multimedia/jpg/0/2/1754910826220.jpg"/>
   </programme>
   <channel id="tvi">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20261105230353 +0100" stop="20261105230719 +0100" channel="tvi">
-    <title lang="ca">Connectats</title>
-    <sub-title lang="ca">- Mai és tard per canviar de vida</sub-title>
-    <desc lang="ca">Sense Descripció</desc>
-    <length units="seconds">206</length>
-    <episode-num system="onscreen">7</episode-num>
-    <subtitles type="teletext"/>
+  <programme start="20261106023138 +0100" stop="20261106043000 +0100" channel="tvi">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="seconds">7102</length>
+    <episode-num system="onscreen">11627</episode-num>
+    <category lang="ca">ACTUALITAT</category>
+    <category lang="ca">INFORMATIU DIÀRI</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <previously-shown/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
+  </programme>
+  <programme start="20261106043000 +0100" stop="20261106051419 +0100" channel="tvi">
+    <title lang="ca">Cava de Blues</title>
+    <sub-title lang="ca">Pere Foved &amp; Friends</sub-title>
+    <desc lang="ca">Cava de Blues és un espai dedicat a les noves creacions de 14 grups del país que es dediquen a aquest gènere musical.En aquesta edició, els grups que hi trobareu són: -A contrablues-Blas Picón &amp; The Junk Espress-Bullfrog Electric Blues Experience-Dusa'ns Flying Blues Band-Dani Baraldés &amp; The XX Band-Emili Baleriola Blues Quartet-Dani Nel·lo &amp; Mario Cobo-Ivan Kovacevic 5 Spots-JG Acoustic Gang-John Big Stone &amp; The Blues Workers-Legacaster! The Hillbilly Trio-Martini Surfers-Susan Santos &amp; The Papa's Red Band-The Paparellos</desc>
+    <length units="seconds">2659</length>
+    <episode-num system="onscreen">15</episode-num>
+    <category lang="ca">MUSICALS</category>
+    <category lang="ca">JAZZ</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <previously-shown/>
+    <icon src="https://img.3cat.cat/multimedia/jpg/0/2/1754910826220.jpg"/>
   </programme>
   <channel id="324">
     <display-name>324</display-name>
   </channel>
-  <programme start="20261105220500 +0100" stop="20261106000000 +0100" channel="324">
-    <title lang="ca">Mésnit</title>
-    <desc lang="ca">El 'Mésnit' arriba a la desena temporada, amb Marina Romero al capdavant de l'espai i amb la voluntat de continuar sent un centre de debat d'idees i d'anàlisi de l'activitat política.</desc>
-    <length units="seconds">6900</length>
-    <episode-num system="onscreen">2194</episode-num>
+  <programme start="20261106010000 +0100" stop="20261106060000 +0100" channel="324">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="seconds">18000</length>
+    <episode-num system="onscreen">11627</episode-num>
     <category lang="ca">ACTUALITAT</category>
-    <category lang="ca">DEBAT</category>
+    <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
+    <previously-shown/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
-  <programme start="20261106000000 +0100" stop="20261106003000 +0100" channel="324">
+  <programme start="20261106060000 +0100" stop="20261106080000 +0100" channel="324">
     <title lang="ca">Notícies 3CatInfo</title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">1800</length>
-    <episode-num system="onscreen">11626</episode-num>
+    <length units="seconds">7200</length>
+    <episode-num system="onscreen">11628</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
@@ -72,41 +93,45 @@
   <channel id="esport3">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20261105230000 +0100" stop="20261106003055 +0100" channel="esport3">
-    <title lang="ca">Onze</title>
-    <sub-title lang="ca">Raphinha 2030; l'hora de Frenkie i 'El consultori'</sub-title>
-    <desc lang="ca">Víctor Lozano, David Bernabeu, Irati Vidal i Juvenal Edjogo comenten la renovació de Raphinha i els dubtes de Flick al mig del camp per jugar al Metropolitano. En Sergi Ferrer respon les preguntes dels espectadors de l'Onze.</desc>
-    <length units="seconds">5455</length>
-    <episode-num system="onscreen">1282</episode-num>
-    <category lang="ca">ESPORTS</category>
-    <category lang="ca">MAGAZINE</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <subtitles type="teletext"/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/1/1/1688543515711.jpg"/>
-  </programme>
-  <programme start="20261106003055 +0100" stop="20261106005056 +0100" channel="esport3">
-    <title lang="ca">3CatInfo Esports</title>
-    <desc lang="ca">Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.</desc>
-    <length units="seconds">1201</length>
-    <episode-num system="onscreen">5560</episode-num>
+  <programme start="20261106023914 +0100" stop="20261106041554 +0100" channel="esport3">
+    <title lang="ca">Tot Costa</title>
+    <sub-title lang="ca">Raphinha, 2030</sub-title>
+    <desc lang="ca">El davanter del Barça es lliga més al club. No cal buscar un 9? Ho analitzem amb Santi Giménez, Mireia Vera i Ferran Martínez. També repassem la jornada de Champions; parlem amb el boig de la Castellana, David Sánchez; expliquem de què va el 'Barça reservat' i l''Espanyol reservat', i sentim els pilots de MotoGP des de Qatar. </desc>
+    <length units="seconds">5800</length>
+    <episode-num system="onscreen">1030</episode-num>
     <category lang="ca">ESPORTS</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <icon src="https://img.ccma.cat/multimedia/jpg/9/7/1758888682179.jpg"/>
+    <subtitles type="teletext"/>
+    <previously-shown/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/0/4/1706209193140.jpg"/>
+  </programme>
+  <programme start="20261106041554 +0100" stop="20261106060202 +0100" channel="esport3">
+    <title lang="ca">Billar a 3 bandes</title>
+    <sub-title lang="ca">Dani Sánchez-JS Ko / PBA Tour</sub-title>
+    <desc lang="ca">El català Dani Sánchez s'enfronta al sudcoreà Jun-seo Ko en aquest campionat de billar a 3 bandes organitzat per la PBA (Professional Billiards Association).</desc>
+    <length units="seconds">6368</length>
+    <episode-num system="onscreen">8150</episode-num>
+    <category lang="ca">ESPORTS</category>
+    <category lang="ca">RETRANSMISSIONS ESPORTS</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <subtitles type="teletext"/>
+    <previously-shown/>
+    <icon src="https://img.3cat.cat/multimedia/jpg/3/3/1766061188133.jpg"/>
   </programme>
   <channel id="sx3">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20261105224555 +0100" stop="20261105230625 +0100" channel="sx3">
-    <title lang="ca">El detectiu Conan</title>
-    <sub-title lang="ca">El sexador de pollets amenaçat</sub-title>
-    <desc lang="ca">En Conan, la Ran i en Kogoro visiten una granja d'ous per trobar-se amb el campió nacional dels sexadors de pollets perquè diu que està amenaçat de mort i vol que en Kogoro investigui el cas i el protegeixi.</desc>
-    <length units="seconds">1230</length>
-    <episode-num system="onscreen">1120</episode-num>
+  <programme start="20261106031538 +0100" stop="20261106033616 +0100" channel="sx3">
+    <title lang="ca">Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
+    <sub-title lang="ca">Simon diu</sub-title>
+    <desc lang="ca">Un hipnotitzador frustrat pel seu fracàs en un programa de televisió és la víctima perfecta, en aquesta ocasió, perquè l'Esfinx intenti prendre'ls els prodigis a Ladybug i el Gat Noir. L'objectiu del Simon-diu, l'hipnotitzador akumitzat, és el Gabriel Agreste, el pare de l'Adrien, i això farà que la relació entre pare i fill fregui un moment molt delicat. </desc>
+    <length units="seconds">1238</length>
+    <episode-num system="onscreen">17</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
@@ -115,12 +140,12 @@
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20261105230625 +0100" stop="20261105232815 +0100" channel="sx3">
-    <title lang="ca">El detectiu Conan</title>
-    <sub-title lang="ca">La dama que somia l’últim amor</sub-title>
-    <desc lang="ca">En Conan, la Ran i la Sonoko sospiten que un estafador podria estar enganyant una fent veure que és el seu nòvio per estafar-li diners i la Sonoko decideix alertar-la. Però tot sembla indicar que estan enamorats de debò tot i que en Conan no les acaba de tenir totes.</desc>
-    <length units="seconds">1310</length>
-    <episode-num system="onscreen">1121</episode-num>
+  <programme start="20261106033616 +0100" stop="20261106035654 +0100" channel="sx3">
+    <title lang="ca">Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
+    <sub-title lang="ca">Pixelator</sub-title>
+    <desc lang="ca">La classe de la Marinette fa pràctiques a l'hotel del senyor Bourgeois, el pare de la Chloé. Casualment l'estrella de rock Jagged Stone entra a l'hotel i demana la suite més luxosa. Tot sembla tranquil fins que un fan de l'Stone, que l'ha seguit per tots els concerts, aconsegueix entrar a l'hotel per fotografiar-se amb el seu ídol, però l'equip de l'Stone el fa fora de mala manera. </desc>
+    <length units="seconds">1238</length>
+    <episode-num system="onscreen">18</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
@@ -132,27 +157,28 @@
   <channel id="c33">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20261105225643 +0100" stop="20261105233752 +0100" channel="c33">
-    <title lang="ca">Nervi</title>
-    <sub-title lang="ca">Ningú està preparat per triomfar, amb Miguel Ángel Blanca i Berta Prieto </sub-title>
-    <desc lang="ca">Voler agradar a tothom i acumular visualitzacions, seguidors i fama. El gest de l'influencer ho està contaminant tot? També la manera d'entendre la cultura? Parlem de l'èxit i el fracàs amb Miguel Ángel Blanca i Berta Prieto, que han estrenat la sèrie 'Segunda temporada'. Amb Jana Jubert analitzem la novel·la 'Famesick', de Lena Dunham, i amb el realitzador Albert Lloreta bussegem fins als orígens de la fama a internet. Fem safareig sobre les novetats culturals amb Oriol Puig Taulé i Begoña Gómez Urzaiz i ens acomiadem amb el directe d'una fera que ha sabut domesticar molt bé la fama i que celebra 20 anys de trajectòria: Maika Makovski. </desc>
-    <length units="seconds">2469</length>
-    <episode-num system="onscreen">92</episode-num>
+  <programme start="20261106031539 +0100" stop="20261106034503 +0100" channel="c33">
+    <title lang="ca">Laberints</title>
+    <sub-title lang="ca">Laberints de feines i treballs</sub-title>
+    <desc lang="ca">'Laberints' construeix una conversa coral sobre un tema concret a partir de petits fragments d'entrevistes a personatges coneguts. El programa és un collage que combina entrevistes, actuacions musicals i moments d´humor procedents dels arxius de TV3.A 'Laberints de feines i treballs': Banderas rodant amb Coppola i Pepe Rubianes matriculat a una escola de samba. Iñaki Gabilondo sense despatx i Quim Monzó treballant al bar. Els fills treballadors d'Albert Pla i Júlia Otero cessada. Quimi Portet, un parell de collons, i Cruyff, sempre guanyador. Victòria Abril amb presses, i Jesulín, a dues 'corrides' diàries... i encara més.</desc>
+    <length units="seconds">1764</length>
+    <episode-num system="onscreen">5</episode-num>
     <category lang="ca">ENTRETENIMENT</category>
     <category lang="ca">ALTRES</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
+    <previously-shown/>
   </programme>
-  <programme start="20261105233752 +0100" stop="20261106003335 +0100" channel="c33">
-    <title lang="ca">Savis i sàvies</title>
-    <sub-title lang="ca">Maria Barbal</sub-title>
-    <desc lang="ca">Nascuda a Tremp l'any 49, la nostra sàvia d'avui mai no va tenir l'objectiu de ser escriptora. Sí d'explicar una història, i aquesta història feta llibre la va convertir en una de les millors escriptores del país. Mig del Pallars, mig de Barcelona, ha fet d'aquests dos escenaris un element clau de la seva literatura.</desc>
-    <length units="seconds">3343</length>
-    <episode-num system="onscreen">115</episode-num>
-    <category lang="ca">DIVULGACIÓ</category>
-    <category lang="ca">ENTREVISTES</category>
+  <programme start="20261106034503 +0100" stop="20261106041524 +0100" channel="c33">
+    <title lang="ca">Laberints</title>
+    <sub-title lang="ca">Laberints de miralls i miralls</sub-title>
+    <desc lang="ca">'Laberints' construeix una conversa coral sobre un tema concret a partir de petits fragments d'entrevistes a personatges coneguts. El programa és un collage que combina entrevistes, actuacions musicals i moments d´humor procedents dels arxius de TV3.Mirar-se al mirall. Tothom és esclau de la moda, d'una moda amb data de caducitat. Moda, tendències, culte al cos. A partir de la talla 44, un abisme. Avui per avui, no tenir 'look' pot ser un problema. Per alguns, el 'look' pot esdevenir una actitud davant la vida... A 'Laberints de miralls i miralls': Pepe Rubianes, Montserrat Caballé, Alaska, Sergi López, Roger de Gràcia, Ignasi Riera, Claudia Schiffer, Gerard Quintana, Raimundo Amador, Júlia Otero, Toni Miró... i encara més.</desc>
+    <length units="seconds">1821</length>
+    <episode-num system="onscreen">6</episode-num>
+    <category lang="ca">ENTRETENIMENT</category>
+    <category lang="ca">ALTRES</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
