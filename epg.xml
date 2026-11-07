@@ -3,111 +3,95 @@
   <channel id="tv3uhd">
     <display-name>TV3UHD</display-name>
   </channel>
-  <programme start="20261107015503 +0100" stop="20261107031610 +0100" channel="tv3uhd">
-    <title lang="ca">Mésnit</title>
-    <desc lang="ca">El 'Mésnit' arriba a la desena temporada, amb Marina Romero al capdavant de l'espai i amb la voluntat de continuar sent un centre de debat d'idees i d'anàlisi de l'activitat política.</desc>
-    <length units="seconds">4867</length>
-    <episode-num system="onscreen">2195</episode-num>
-    <category lang="ca">ACTUALITAT</category>
-    <category lang="ca">DEBAT</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <subtitles type="teletext"/>
-    <previously-shown/>
-  </programme>
-  <programme start="20261107031610 +0100" stop="20261107043000 +0100" channel="tv3uhd">
+  <programme start="20261107070000 +0100" stop="20261107100000 +0100" channel="tv3uhd">
     <title lang="ca">Notícies 3CatInfo</title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">4430</length>
-    <episode-num system="onscreen">11636</episode-num>
+    <length units="seconds">10800</length>
+    <episode-num system="onscreen">11637</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <previously-shown/>
+    <subtitles type="teletext"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
+  </programme>
+  <programme start="20261107100000 +0100" stop="20261107121724 +0100" channel="tv3uhd">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="seconds">8244</length>
+    <episode-num system="onscreen">11638</episode-num>
+    <category lang="ca">ACTUALITAT</category>
+    <category lang="ca">INFORMATIU DIÀRI</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <subtitles type="teletext"/>
     <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
   <channel id="tvi">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20261107015503 +0100" stop="20261107031610 +0100" channel="tvi">
-    <title lang="ca">Mésnit</title>
-    <desc lang="ca">El 'Mésnit' arriba a la desena temporada, amb Marina Romero al capdavant de l'espai i amb la voluntat de continuar sent un centre de debat d'idees i d'anàlisi de l'activitat política.</desc>
-    <length units="seconds">4867</length>
-    <episode-num system="onscreen">2195</episode-num>
-    <category lang="ca">ACTUALITAT</category>
-    <category lang="ca">DEBAT</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <previously-shown/>
-  </programme>
-  <programme start="20261107031610 +0100" stop="20261107043000 +0100" channel="tvi">
+  <programme start="20261107070000 +0100" stop="20261107100000 +0100" channel="tvi">
     <title lang="ca">Notícies 3CatInfo</title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">4430</length>
-    <episode-num system="onscreen">11636</episode-num>
+    <length units="seconds">10800</length>
+    <episode-num system="onscreen">11637</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <previously-shown/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
+  </programme>
+  <programme start="20261107100000 +0100" stop="20261107121724 +0100" channel="tvi">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="seconds">8244</length>
+    <episode-num system="onscreen">11638</episode-num>
+    <category lang="ca">ACTUALITAT</category>
+    <category lang="ca">INFORMATIU DIÀRI</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
     <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
   <channel id="324">
     <display-name>324</display-name>
   </channel>
-  <programme start="20261107010000 +0100" stop="20261107060000 +0100" channel="324">
+  <programme start="20261107070000 +0100" stop="20261107100000 +0100" channel="324">
     <title lang="ca">Notícies 3CatInfo</title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">18000</length>
-    <episode-num system="onscreen">11636</episode-num>
+    <length units="seconds">10800</length>
+    <episode-num system="onscreen">11637</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <previously-shown/>
+    <subtitles type="teletext"/>
     <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
-  <programme start="20261107060000 +0100" stop="20261107070000 +0100" channel="324">
+  <programme start="20261107100000 +0100" stop="20261107120000 +0100" channel="324">
     <title lang="ca">Notícies 3CatInfo</title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">3600</length>
-    <episode-num system="onscreen">11636</episode-num>
+    <length units="seconds">7200</length>
+    <episode-num system="onscreen">11638</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <previously-shown/>
+    <subtitles type="teletext"/>
     <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
   <channel id="esport3">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20261107004948 +0100" stop="20261107022236 +0100" channel="esport3">
-    <title lang="ca">Onze</title>
-    <sub-title lang="ca">Atlètic-Barça: el liderat en joc; La clau Delmàs; Fàbregas i Nin</sub-title>
-    <desc lang="ca">Míriam Riau condueix la tertúlia amb Santi Ovalle, Carme Lluveras, Fernando Polo i Juli Garcia. Analitzem l'Atlètic de Madrid-Barça de diumenge, amb el liderat en joc. Àlex Delmàs ens explica la clau del partit al Metropolitano, Joan Fàbregas repassa les polèmiques arbitrals dels enfrontaments amb l'Atlètic de l'any passat i acabem amb Les golfes de l'Onze, amb Òscar Nin.</desc>
-    <length units="seconds">5568</length>
-    <episode-num system="onscreen">1283</episode-num>
-    <category lang="ca">ESPORTS</category>
-    <category lang="ca">MAGAZINE</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <subtitles type="teletext"/>
-    <previously-shown/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/1/1/1688543515711.jpg"/>
-  </programme>
-  <programme start="20261107022236 +0100" stop="20261107023956 +0100" channel="esport3">
+  <programme start="20261107081523 +0100" stop="20261107083144 +0100" channel="esport3">
     <title lang="ca">3CatInfo Esports</title>
     <desc lang="ca">Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.</desc>
-    <length units="seconds">1040</length>
+    <length units="seconds">981</length>
     <episode-num system="onscreen">5561</episode-num>
     <category lang="ca">ESPORTS</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
@@ -117,31 +101,44 @@
     <previously-shown/>
     <icon src="https://img.ccma.cat/multimedia/jpg/9/7/1758888682179.jpg"/>
   </programme>
+  <programme start="20261107083144 +0100" stop="20261107084342 +0100" channel="esport3">
+    <title lang="ca">Pitch&amp;Cat</title>
+    <sub-title lang="ca">Teià acull la primera prova del Rànquing Doble</sub-title>
+    <desc lang="ca">Des de Teià, al Maresme, repassem el més destacat de la primera prova del Rànquing Doble. A més, coneixerem el camp de nou forats de Badalona, seu de l'actual equip Campió de la Copa Catalunya.</desc>
+    <length units="seconds">718</length>
+    <episode-num system="onscreen">113</episode-num>
+    <category lang="ca">ESPORTS</category>
+    <category lang="ca">REPORTATGES</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <icon src="https://img.ccma.cat/multimedia/jpg/6/8/1727969229786.jpg"/>
+  </programme>
   <channel id="sx3">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20261107021552 +0100" stop="20261107023630 +0100" channel="sx3">
-    <title lang="ca">Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
-    <sub-title lang="ca">Kung Food</sub-title>
-    <desc lang="ca">L'oncle de la Marinette, un cuiner molt famós a la Xina, arriba a París per participar en un concurs mundial de xefs. Però com sempre, l'enveja i la mala fet de la Chloé provocarà problemes que l'Esfinx sabrà aprofitar en benefici seu. </desc>
-    <length units="seconds">1238</length>
-    <episode-num system="onscreen">21</episode-num>
-    <category lang="ca">FICCIÓ</category>
-    <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
+  <programme start="20261107081455 +0100" stop="20261107082719 +0100" channel="sx3">
+    <title lang="ca">Titó</title>
+    <sub-title lang="ca">Excursió a la Menorca talaiònica</sub-title>
+    <desc lang="ca">Les protagonistes de l'excursió d'avui seran les pedres! Anirem a Menorca a descobrir la cultura talaiòtica: grans construccions de pedra fetes fa 3.000 anys i sense cap mena de ciment! A punt per quedar bocabadats? Som-hi! </desc>
+    <length units="seconds">744</length>
+    <episode-num system="onscreen">188</episode-num>
+    <category lang="ca">ENTRETENIMENT</category>
+    <category lang="ca">ALTRES</category>
     <rating>
       <value>INFANTIL</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20261107023630 +0100" stop="20261107025709 +0100" channel="sx3">
-    <title lang="ca">Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
-    <sub-title lang="ca">Gamer</sub-title>
-    <desc lang="ca">El Max és un gran jugador de vídeojocs, i està a punt de representar l'institut en una competició juvenil, al costat de l'Adrien. Però la Marinette, que vol formar equip amb l'Adrien, supera el Max i el deixa fora de la competició. La rancúnia que sentirà el pobre Max permetrà que l'Esfinx el converteixi en un personatge temible. </desc>
-    <length units="seconds">1239</length>
-    <episode-num system="onscreen">22</episode-num>
-    <category lang="ca">FICCIÓ</category>
-    <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
+  <programme start="20261107082719 +0100" stop="20261107083954 +0100" channel="sx3">
+    <title lang="ca">Titó</title>
+    <sub-title lang="ca">Excursió a l'espai</sub-title>
+    <desc lang="ca">Avui anirem d'excursió a l'espai. Veurem coets i naus espacials, i en John C ens entrenarà com si fóssim autèntics astronautes.</desc>
+    <length units="seconds">755</length>
+    <episode-num system="onscreen">66</episode-num>
+    <category lang="ca">ENTRETENIMENT</category>
+    <category lang="ca">ALTRES</category>
     <rating>
       <value>INFANTIL</value>
     </rating>
@@ -151,27 +148,27 @@
   <channel id="c33">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20261107012629 +0100" stop="20261107024528 +0100" channel="c33">
-    <title lang="ca">Bucarest, la memòria perduda</title>
-    <sub-title lang="ca">Bucarest, la memòria perduda</sub-title>
-    <desc lang="ca">BUCAREST, LA MEMÒRIA PERDUDAAlbert Solé (Espanya, 2007; 82 minuts)Una coproducció de Televisió de Catalunya amb Bausan Films, Televisió Espanyola i Minimal Films, dirigida per Albert SoléAquest documental explica la recerca personal que fa l'Albert (un periodista nascut a l'exili l'any 1962) per recuperar les seves arrels, emmarcades entre un doble exili. El seu pare, Jordi Solé Tura, obligat a marxar d'Espanya per la seva militància antifranquista als anys 60, ha començat un nou exili interior, aquest cop sense possibilitat de retorn... Ara lluita contra l'Alzheimer. Aquest documental pretén recuperar els records d'unes vides atípiques en les quals es mesclen personatges històrics i capítols poc coneguts de la Guerra Freda i la lluita contra el franquisme. L'Albert viatjarà d'un exili a un altre intentant recompondre la memòria de la seva família i la seva pròpia.L'origen de l'Albert és rocambolesc: posseeix tres nacionalitats i cap es correspon amb la del seu lloc de naixement veritable. Fins que no va tenir 10 anys no li van dir la veritat, que havia nascut a Romania, clandestinament i protegit per la xarxa del PCE a l'exili. Ningú no podia saber que allà hi havia la principal emissora antifranquista, Radio España Independiente, La Pirenaica, on en Jordi era l'únic periodista jove i l'únic procedent de l'interior del país. La diferent percepció sobre l'evolució del règim franquista que es tenia des de dins i des de fora d'Espanya no va trigar gaire a generar conflictes dins les files de la resistència.La infantesa de l'Albert va estar marcada per la lluita contra el règim, però també per les lluites intestines entre l'aparell del PCE i els renovadors. Com a conseqüència, finalment, en Jordi Solé Tura va ser expulsat del partit, juntament amb Jorge Semprún i Fernando Claudín. La família va quedar desemparada i hagué de tornar a Espanya. Els seus records són les impressions disperses d'un nen: l'empresonament del seu pare, el terror a l</desc>
-    <length units="seconds">4739</length>
-    <episode-num system="onscreen">1</episode-num>
+  <programme start="20261107075822 +0100" stop="20261107084441 +0100" channel="c33">
+    <title lang="ca">La Renaixença</title>
+    <sub-title lang="ca">La llanterna</sub-title>
+    <desc lang="ca">Recordeu el dia de l'apagada general? Hi havia dues opcions: tenir una espelma o una llanterna. Quantes vegades heu anat a les fosques perquè us feia mandra canviar les piles de la llanterna? Un dia parlarem de l'espelma, però aquest capítol el dediquem a la llanterna. Ens visita l'Àlex Auger, un savi per conèixer però molt boig, perquè practica 'wingsuit': salt amb vestit d'ales. Un home ocell, per entendre'ns. I boig, molt boig. A 'Històries per passejar el gos' anem al 1770, a la massacre de Boston, amb la Coco, que viu allà mateix.</desc>
+    <length units="seconds">2779</length>
+    <episode-num system="onscreen">79</episode-num>
     <category lang="ca">DIVULGACIÓ</category>
-    <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
+    <category lang="ca">ALTRES</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
-    <icon src="https://img.3cat.cat/multimedia/jpg/1/7/1736850262271.jpg"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/3/3/1756148014833.jpg"/>
   </programme>
-  <programme start="20261107024528 +0100" stop="20261107031549 +0100" channel="c33">
-    <title lang="ca">Laberints</title>
-    <sub-title lang="ca">Laberints populars i privats</sub-title>
-    <desc lang="ca">'Laberints' construeix una conversa coral sobre un tema concret a partir de petits fragments d'entrevistes a personatges coneguts. El programa és un collage que combina entrevistes, actuacions musicals i moments d´humor procedents dels arxius de TV3.La vida privada dels artistes. Interessa? Què vol la gent dels personatges populars? Que ens amaga la pantalla? Hi ha vida més enllà dels escenaris? La popularitat produeix monstres?...A 'Laberints populars i privats': Buenafuente i una proposta deshonesta. Els fòssils de Chus Lampreave i el tornavís d'en Lluís Llach. La Schiffer, un bitxo estrany?. Xavier Deltell, convertit en fan... el Padre Apeles, i la 'Merche' Milà,...i encara més.</desc>
-    <length units="seconds">1821</length>
-    <episode-num system="onscreen">7</episode-num>
+  <programme start="20261107084441 +0100" stop="20261107093418 +0100" channel="c33">
+    <title lang="ca">Globus Sonda</title>
+    <sub-title lang="ca">Aina Clotet - Vic</sub-title>
+    <desc lang="ca">Sense gairebé ni proposar-s'ho, als 12 anys debutava a 'Estació d'Enllaç', després va venir el 'Cor de la ciutat', i, a partir d'aquí, la carrera de l'Aina Clotet no ha deixat de créixer i enriquir-se, fins a convertir-se en una de les actrius amb més talent del panorama català. Ha estrenat fa poc dues pel·lícules: 'La filla d'algú' i '7 raons per fugir'. El millor lloc per parlar de tot plegat és en un globus, conversant amb el Francesc Mauri i sobrevolant Vic. A baix, també hi ha molt talent, la Candela Figueras i una altra gran actriu; per saber de qui es tracta, s'ha de veure el programa...</desc>
+    <length units="seconds">2977</length>
+    <episode-num system="onscreen">5</episode-num>
     <category lang="ca">ENTRETENIMENT</category>
     <category lang="ca">ALTRES</category>
     <rating>
