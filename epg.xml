@@ -3,44 +3,26 @@
   <channel id="tv3uhd">
     <display-name>TV3UHD</display-name>
   </channel>
-  <programme start="20261107143000 +0100" stop="20261107153514 +0100" channel="tv3uhd">
-    <title lang="ca">Telenotícies migdia</title>
-    <length units="seconds">3914</length>
-    <episode-num system="onscreen">7382</episode-num>
-    <category lang="ca">ACTUALITAT</category>
-    <category lang="ca">INFORMATIU DIÀRI</category>
+  <programme start="20261107193629 +0100" stop="20261107195507 +0100" channel="tv3uhd">
+    <title lang="ca">Atrapa'm si pots. Els millors moments.</title>
+    <desc lang="ca">'Atrapa'm si pots' és un 'quiz show' clàssic, de preguntes i respostes, presentat per Llucià Ferrer, en què sis concursants competeixen per arribar a la fase final i guanyar el pot. 'Atrapa'm si pots' és entreteniment pur i on gairebé és més important passar-s'ho bé que els diners. És un concurs en què pesa més la intuïció que no els coneixements acadèmics, més l'estratègia en el joc que no la sort.</desc>
+    <length units="seconds">1118</length>
+    <episode-num system="onscreen">955</episode-num>
+    <category lang="ca">ENTRETENIMENT</category>
+    <category lang="ca">CONCURS</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/5/4/1758025766345.jpg"/>
+    <previously-shown/>
   </programme>
-  <programme start="20261107153514 +0100" stop="20261107170451 +0100" channel="tv3uhd">
-    <title lang="ca">Tarda de cine</title>
-    <sub-title lang="ca">Una casa, la família i un miracle</sub-title>
-    <desc lang="ca">UNA CASA, LA FAMÍLIA I UN MIRACLE 'La casa di famiglia'Direcció: Augusto FornariGuió: Antonio Fornari, Augusto Fornari, Vincenzo SinopoliProducció: Italian International FilmAny: 2017Durada: 89País: ItàliaMúsica: Gianluca MisitiFotografia: Sebastiano De PascalisIntèrprets: Valentina Chico, Marco Conidi, Libero De Rienzo, Luigi Diberti, Antonio Fornari, Stefano Fresi, Matilde Gioli, Lino Guanciale, Nicoletta Romanoff, Michele VenitucciQuatre germans creixen en una preciosa casa familiar al camp. Quan el seu pare està aparentment en un coma irreversible, tots quatre es posen d'acord per vendre la casa familiar. El problema sorgeix quan el pare es recupera i vol tornar a casa.</desc>
-    <credits>
-      <director>Augusto Fornari</director>
-      <writer>Antonio Fornari</writer>
-      <writer>Augusto Fornari</writer>
-      <writer>Vincenzo Sinopoli</writer>
-      <actor>Valentina Chico</actor>
-      <actor>Marco Conidi</actor>
-      <actor>Libero De Rienzo</actor>
-      <actor>Luigi Diberti</actor>
-      <actor>Antonio Fornari</actor>
-      <actor>Stefano Fresi</actor>
-      <actor>Matilde Gioli</actor>
-      <actor>Lino Guanciale</actor>
-      <actor>Nicoletta Romanoff</actor>
-      <actor>Michele VenitucciQuatre germans creixen en una preciosa casa familiar al camp. Quan el seu pare està aparentment en un coma irreversible</actor>
-      <actor>tots quatre es posen d'acord per vendre la casa familiar. El problema sorgeix quan el pare es recupera</actor>
-      <actor>vol tornar a casa.</actor>
-    </credits>
-    <length units="seconds">5377</length>
-    <episode-num system="onscreen">1</episode-num>
-    <category lang="ca">FICCIÓ</category>
-    <category lang="ca">PEL·LÍCULA / TELEFILM</category>
+  <programme start="20261107195507 +0100" stop="20261107201537 +0100" channel="tv3uhd">
+    <title lang="ca">Atrapa'm si pots. Els millors moments.</title>
+    <desc lang="ca">'Atrapa'm si pots' és un 'quiz show' clàssic, de preguntes i respostes, presentat per Llucià Ferrer, en què sis concursants competeixen per arribar a la fase final i guanyar el pot. 'Atrapa'm si pots' és entreteniment pur i on gairebé és més important passar-s'ho bé que els diners. És un concurs en què pesa més la intuïció que no els coneixements acadèmics, més l'estratègia en el joc que no la sort.</desc>
+    <length units="seconds">1230</length>
+    <episode-num system="onscreen">956</episode-num>
+    <category lang="ca">ENTRETENIMENT</category>
+    <category lang="ca">CONCURS</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
@@ -50,54 +32,38 @@
   <channel id="tvi">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20261107143000 +0100" stop="20261107153514 +0100" channel="tvi">
-    <title lang="ca">Telenotícies migdia</title>
-    <length units="seconds">3914</length>
-    <episode-num system="onscreen">7382</episode-num>
-    <category lang="ca">ACTUALITAT</category>
-    <category lang="ca">INFORMATIU DIÀRI</category>
+  <programme start="20261107193629 +0100" stop="20261107195507 +0100" channel="tvi">
+    <title lang="ca">Atrapa'm si pots. Els millors moments.</title>
+    <desc lang="ca">'Atrapa'm si pots' és un 'quiz show' clàssic, de preguntes i respostes, presentat per Llucià Ferrer, en què sis concursants competeixen per arribar a la fase final i guanyar el pot. 'Atrapa'm si pots' és entreteniment pur i on gairebé és més important passar-s'ho bé que els diners. És un concurs en què pesa més la intuïció que no els coneixements acadèmics, més l'estratègia en el joc que no la sort.</desc>
+    <length units="seconds">1118</length>
+    <episode-num system="onscreen">955</episode-num>
+    <category lang="ca">ENTRETENIMENT</category>
+    <category lang="ca">CONCURS</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <icon src="https://img.ccma.cat/multimedia/jpg/5/4/1758025766345.jpg"/>
+    <previously-shown/>
   </programme>
-  <programme start="20261107152959 +0100" stop="20261107165725 +0100" channel="tvi">
-    <title lang="ca">Pel·lícula</title>
-    <sub-title lang="ca">La substància</sub-title>
-    <desc lang="ca">'LA SUBSTÀNCIA' (2016), una producció de Lastor Media, Mallerich Films, Televisió de Catalunya, Paco Poch Cinema i Alina Film.L'any 2010, una delegació de l'empresa China Merchants Group es va presentar a Cadaqués, localitat icònica de la Costa Brava catalana, coneguda internacionalment per ser refugi i inspiració de l'insigne pintor Salvador Dalí. La seva missió, prendre apunts per construir, en un futur, una rèplica del poble empordanès a la Xina.Sis anys més tard, la Tingting, una jove emprenedora que viu a la ciutat de Xiamen i que s'ha comprat un pis a Kadakaisi, la rèplica xinesa del poble de Cadaqués, decideix passar-hi un cap de setmana per desconnectar de la seva rutina diària en una ciutat en constant ebullició. Aquí comença 'La substància': un documental que navega entre l'original i la rèplica, la realitat i el somni, el temps i la memòria, a través dels paisatges de Cadaqués, Kadakaisi, Xiamen i el Cap de Creus...Direcció: Lluís GalterProducció: Sergi Moreno, Paco Poch, Tono FolgueraCoproductors: David Epiney, Eugenia MumenthalerProducció executiva TVC: Jordi AmbrósGuió: Ivan Pintor, Irene Masdeu, Lluís Galter.Director de fotografia: Jordi FiguerasMuntatge: Oriol Cid, Lluís GalterSo: Diego Casares, David LipkaDisseny de so: Jonathan Darch</desc>
-    <credits>
-      <director>Lluís</director>
-      <writer>Ivan</writer>
-    </credits>
-    <length units="seconds">5246</length>
-    <episode-num system="onscreen">1</episode-num>
-    <category lang="ca">DIVULGACIÓ</category>
-    <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
+  <programme start="20261107195507 +0100" stop="20261107201537 +0100" channel="tvi">
+    <title lang="ca">Atrapa'm si pots. Els millors moments.</title>
+    <desc lang="ca">'Atrapa'm si pots' és un 'quiz show' clàssic, de preguntes i respostes, presentat per Llucià Ferrer, en què sis concursants competeixen per arribar a la fase final i guanyar el pot. 'Atrapa'm si pots' és entreteniment pur i on gairebé és més important passar-s'ho bé que els diners. És un concurs en què pesa més la intuïció que no els coneixements acadèmics, més l'estratègia en el joc que no la sort.</desc>
+    <length units="seconds">1230</length>
+    <episode-num system="onscreen">956</episode-num>
+    <category lang="ca">ENTRETENIMENT</category>
+    <category lang="ca">CONCURS</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
   <channel id="324">
     <display-name>324</display-name>
   </channel>
-  <programme start="20261107143000 +0100" stop="20261107163000 +0100" channel="324">
-    <title lang="ca">Telenotícies migdia</title>
-    <length units="seconds">7200</length>
-    <episode-num system="onscreen">7382</episode-num>
-    <category lang="ca">ACTUALITAT</category>
-    <category lang="ca">INFORMATIU DIÀRI</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <icon src="https://img.ccma.cat/multimedia/jpg/5/4/1758025766345.jpg"/>
-  </programme>
-  <programme start="20261107163000 +0100" stop="20261107183000 +0100" channel="324">
+  <programme start="20261107183000 +0100" stop="20261107200000 +0100" channel="324">
     <title lang="ca">Notícies 3CatInfo</title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">7200</length>
-    <episode-num system="onscreen">11640</episode-num>
+    <length units="seconds">5400</length>
+    <episode-num system="onscreen">11641</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
@@ -106,45 +72,57 @@
     <subtitles type="teletext"/>
     <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
-  <channel id="esport3">
-    <display-name>ESPORT3</display-name>
-  </channel>
-  <programme start="20261107140335 +0100" stop="20261107170327 +0100" channel="esport3">
-    <title lang="ca">Hoquei patins</title>
-    <sub-title lang="ca">CH Mataró-HC Raxoi / OK Lliga / J2</sub-title>
-    <desc lang="ca">Les del Maresme, que es van estrenar amb una victòria al camp del Lleidanet Alpicat (0-2), reben el conjunt de Santiago de Compostel·la.</desc>
-    <length units="seconds">10792</length>
-    <episode-num system="onscreen">104</episode-num>
-    <category lang="ca">ESPORTS</category>
-    <category lang="ca">RETRANSMISSIONS ESPORTS</category>
+  <programme start="20261107200000 +0100" stop="20261107210000 +0100" channel="324">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="seconds">3600</length>
+    <episode-num system="onscreen">11642</episode-num>
+    <category lang="ca">ACTUALITAT</category>
+    <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <icon src="https://img.ccma.cat/multimedia/jpg/5/5/1701373461655.jpg"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
-  <programme start="20261107170327 +0100" stop="20261107171626 +0100" channel="esport3">
-    <title lang="ca">Sala de Premsa</title>
-    <sub-title lang="ca">Hansi Flick / Prèvia At. Madrid-Barça / J12</sub-title>
-    <desc lang="ca">Esport3 t'ofereix les compareixences de dirigents, jugadors i entrenadors dels equips catalans davant els mitjans de comunicació.</desc>
-    <length units="seconds">779</length>
-    <episode-num system="onscreen">750</episode-num>
+  <channel id="esport3">
+    <display-name>ESPORT3</display-name>
+  </channel>
+  <programme start="20261107193755 +0100" stop="20261107194523 +0100" channel="esport3">
+    <title lang="ca">Esport Club Cap de Setmana</title>
+    <sub-title lang="ca">Esport Club</sub-title>
+    <desc lang="ca">Magazín amb tota l'actualitat esportiva del cap de setmana, amb atenció especial a la jornada de futbol i les principals competicions del nostre esport.</desc>
+    <length units="seconds">448</length>
+    <episode-num system="onscreen">1416</episode-num>
     <category lang="ca">ESPORTS</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <subtitles type="teletext"/>
-    <icon src="https://img.3cat.cat/multimedia/jpg/7/4/1778665728847.jpg"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/7/3/1698145091337.jpg"/>
+  </programme>
+  <programme start="20261107194523 +0100" stop="20261107203452 +0100" channel="esport3">
+    <title lang="ca">Futbol</title>
+    <sub-title lang="ca">FC Cartagena-UE Sant Andreu / Primera Federació / J11</sub-title>
+    <desc lang="ca">Els quadribarrats, que tenen 12 punts després de 3 victòries, 3 empats i 2 derrotes, han començat la jornada a la 13a posició. El conjunt murcià és per sobre amb 3 punts més.</desc>
+    <length units="seconds">2969</length>
+    <episode-num system="onscreen">208</episode-num>
+    <category lang="ca">ESPORTS</category>
+    <category lang="ca">RETRANSMISSIONS ESPORTS</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <previously-shown/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/0/7/1698446098170.jpg"/>
   </programme>
   <channel id="sx3">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20261107145710 +0100" stop="20261107150814 +0100" channel="sx3">
-    <title lang="ca">Les Sisters</title>
-    <sub-title lang="ca">Somrieu si us hi atreviu!</sub-title>
-    <desc lang="ca">Per guanyar un monocicle elèctric, la Marine i la Wendy han de fer una foto graciosa d'un parent o d'un amic. Les dues germanes es trien mútuament i intenten enxampar l'altra en la postura més ridícula possible. Però cap de les dues no es vol rendir davant l'altra i acaben desesperant els pares, que els confisquen les càmeres de fotos. La Marine decideix recórrer a la seva amiga Loulou...</desc>
-    <length units="seconds">664</length>
-    <episode-num system="onscreen">49</episode-num>
+  <programme start="20261107193045 +0100" stop="20261107195521 +0100" channel="sx3">
+    <title lang="ca">El detectiu Conan</title>
+    <sub-title lang="ca">En Kid contra l'Amuro. El Serrell de la Reina (1a part)</sub-title>
+    <desc lang="ca">En Kaito Kid ha anunciat que, a mitjanit, robarà la tiara dels Robanov, una peça molt valuosa que s'exhibeix en un museu. Com que l'exposició està patrocinada per en Jirokichi Suzuki, l'oncle de la Sonoko, demanen a en Conan que els ajudi. A més, l'Amuro havia anat al museu amb l'Azusa, però se sent desafiat per en Kaito Kid i decideix aturar-lo costi el que costi.</desc>
+    <length units="seconds">1476</length>
+    <episode-num system="onscreen">1162</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
@@ -153,12 +131,12 @@
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20261107150814 +0100" stop="20261107151917 +0100" channel="sx3">
-    <title lang="ca">Les Sisters</title>
-    <sub-title lang="ca">La guerra de les paparres</sub-title>
-    <desc lang="ca">La Marine s'enfada amb les seves amigues Nath i Loulou, que l'acusen de fer trampes jugant a un videojoc. La Marine està molt trista, se sent sola i no deixa tranquil·la la Wendy. Perquè no l'empipi més, la Wendy l'ajuda a fer les paus amb les seves amigues... però acaba barallant-se amb el seu nòvio. Llavors és la Marine i les seves amigues les que intenten reconciliar la Wendy i el Maxence.</desc>
-    <length units="seconds">663</length>
-    <episode-num system="onscreen">50</episode-num>
+  <programme start="20261107195521 +0100" stop="20261107201551 +0100" channel="sx3">
+    <title lang="ca">El detectiu Conan</title>
+    <sub-title lang="ca">En Kid contra l'Amuro. El Serrell de la Reina (2a part)</sub-title>
+    <desc lang="ca">En Kaito Kid ha anunciat que robarà el Serrell de la Reina, una tiara molt valuosa que hi ha exposada en un museu. La policia està a punt per capturar-lo juntament amb en Conan, l'Amuro i en Kazami, a més de l'Azusa, que vol veure en Kid. De sobte, però, un fum blanc omple la sala i la tiara desapareix. Sembla que en Kid hagi fugit, però en Conan sospita que deu estar disfressat d'algú altre.</desc>
+    <length units="seconds">1230</length>
+    <episode-num system="onscreen">1163</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
@@ -170,28 +148,31 @@
   <channel id="c33">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20261107145216 +0100" stop="20261107151959 +0100" channel="c33">
-    <title lang="ca">Quèquicom</title>
-    <sub-title lang="ca">La paella al natural</sub-title>
-    <desc lang="ca">'Quèquicom descobrirem els valors nutritius de l'arròs, que té en la paella la seva expressió màxima i un paper estel·lar. Oferirem diversos reportatges que mostraran les propietats del cereal, les seves varietats i les diverses maneres de cuinar-lo. Tot, sota el títol genèric 'La paella al natural'.</desc>
-    <length units="seconds">1663</length>
-    <episode-num system="onscreen">120</episode-num>
+  <programme start="20261107190210 +0100" stop="20261107195952 +0100" channel="c33">
+    <title lang="ca">Núñez</title>
+    <sub-title lang="ca">No és un dels nostres</sub-title>
+    <desc lang="ca">La història de Núñez des de la seva arribada a Catalunya fill d'un duaner humil, la seva ascensió a la societat catalana com a constructor immobiliari, la seva victòria a les eleccions del Barça contra pronòstic i enmig d'una de les campanyes més fosques que es recorden i el seu primer gran títol com a president. Una final que va marcar un abans i un després a la història del club i en la personalitat del propi Núñez: la final de Basilea.</desc>
+    <length units="seconds">3462</length>
+    <episode-num system="onscreen">1</episode-num>
     <category lang="ca">DIVULGACIÓ</category>
-    <category lang="ca">MAGAZINE ESPECIALITZAT</category>
+    <category lang="ca">Docu-Entreteniment</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20261107151959 +0100" stop="20261107155410 +0100" channel="c33">
-    <title lang="ca">El món de Pepe Rubianes</title>
-    <sub-title lang="ca">Ashé Massai</sub-title>
-    <desc lang="ca">Rubianes va establir una connexió d'allò més profunda amb l'Àfrica negra, sobretot amb Kenya, destí recurrent dels seus viatges al llarg dels anys. Aquesta terra el va marcar profundament en l'aspecte personal i va inspirar nombrosos esquetxos de l'actor. En aquest episodi, acompanyem Rubianes en la seva descoberta africana, entre lleons i zebres, ens endinsem amb ell pel Bosc Impenetrable d'Uganda a la recerca de goril·les i assistim al naixement de l'amistat entre Pepe Rubianes i la comunitat massai d'Oloitokitok. </desc>
-    <length units="seconds">2051</length>
-    <episode-num system="onscreen">1</episode-num>
+  <programme start="20261107195952 +0100" stop="20261107205947 +0100" channel="c33">
+    <title lang="ca">Núñez</title>
+    <sub-title lang="ca">El patrimoni no fa la felicitat</sub-title>
+    <desc lang="ca">Impulsat per l'èxit de Basilea, Núñez intenta fer del Barça el millor club d'Europa. Però malgrat els grans fitxatges d'estrelles com Schuster, Maradona i Quini i la quantitat astronòmica de diners invertits, sempre trobarà un impediment o altre que s'interposarà en el camí cap al seu somni. El segrest de Quini, el caràcter problemàtic de Schuster, l'hepatitis de Maradona i la seva posterior lesió, els problemes del vestidor amb les drogues... Fins que decideix prendre una decisió impopular, vendre al crack argentí, que al cap i a la fi el conduirà contra pronòstic a conquerir l'any següent la seva primera Lliga. Ara, només queda un pas per fer realitat el Barça triomfant que va prometre a les eleccions: guanyar la copa d'Europa en una final a Sevilla, contra un rival desconegut i amb la grada plena d'aficionats del Barça. El somni de Núñez, i de tot el barcelonisme, és més a tocar que mai.</desc>
+    <length units="seconds">3595</length>
+    <episode-num system="onscreen">2</episode-num>
     <category lang="ca">DIVULGACIÓ</category>
     <category lang="ca">Docu-Entreteniment</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
