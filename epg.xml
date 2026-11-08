@@ -3,82 +3,109 @@
   <channel id="tv3uhd">
     <display-name>TV3UHD</display-name>
   </channel>
-  <programme start="20261108065953 +0100" stop="20261108094620 +0100" channel="tv3uhd">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">9987</length>
-    <episode-num system="onscreen">11645</episode-num>
-    <category lang="ca">ACTUALITAT</category>
-    <category lang="ca">INFORMATIU DIÀRI</category>
+  <programme start="20261108153601 +0100" stop="20261108155500 +0100" channel="tv3uhd">
+    <title lang="ca">Curtmetratge</title>
+    <sub-title lang="ca">Ginoide</sub-title>
+    <desc lang="ca">GINOIDE 'Ginoide'Direcció: Celia GalánGuió: Celia GalánProducció: Celofán Audiovisual, Efe PuntoAny: 2025Durada: 20País: EspanyaFotografia: Laura CacciaIntèrprets: Betsy Túrnez, Alexandra PinoDos desconeguts participen en un experiment de robòtica en què hauran de determinar quin dels dos no és humà.</desc>
+    <credits>
+      <director>Celia</director>
+      <writer>Celia Galán</writer>
+      <actor>Betsy Túrnez</actor>
+      <actor>Alexandra PinoDos desconeguts participen en un experiment de robòtica en què hauran de determinar quin dels dos no és humà.</actor>
+    </credits>
+    <length units="seconds">1139</length>
+    <episode-num system="onscreen">1</episode-num>
+    <category lang="ca">FICCIÓ</category>
+    <category lang="ca">CURTMETRATGE</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
+    <icon src="https://img.3cat.cat/multimedia/jpg/7/2/1793409862627.jpg"/>
   </programme>
-  <programme start="20261108094620 +0100" stop="20261108101657 +0100" channel="tv3uhd">
-    <title lang="ca">Signes dels temps</title>
-    <sub-title lang="ca">Rumba catalana amb Sicus Carbonell</sub-title>
-    <desc lang="ca">Parlem de rumba catalana amb Sicus Carbonell, cantant i fundador de Sabor de Gràcia. Comparteix també el seu testimoni de vida. Malgrat l'èxit, tenia un buit, va caure en les drogues i va tocar fons. Ha passat de ser ateu a creient i la seva vida ha fet un gir de 180 graus, en positiu. El passat mes de juny, durant la visita de Lleó XIV a Barcelona, Sabor de Gràcia va actuar a l'Estadi Olímpic Lluís Companys davant de 40.000 persones. El Vaticà li va encarregar dues cançons 'Boig per tu' i 'Temps de rumba i esperança'. Sicus Carbonell és cristià evangèlic i ara ha posat en marxa la Fundació Sabor de Gràcia, per ajudar a persones que passin per situacions difícils.</desc>
-    <length units="seconds">1837</length>
-    <episode-num system="onscreen">1645</episode-num>
-    <category lang="ca">DIVULGACIÓ</category>
-    <category lang="ca">MAGAZINE ESPECIALITZAT</category>
+  <programme start="20261108155500 +0100" stop="20261108180659 +0100" channel="tv3uhd">
+    <title lang="ca">Futbol</title>
+    <sub-title lang="ca">FC Barcelona-Madrid CFF / Lliga F / J10</sub-title>
+    <desc lang="ca">Les blaugranes volen refermar el liderat contra el conjunt madrileny que també es troba situat a la zona alta de la classificació.</desc>
+    <length units="seconds">7919</length>
+    <episode-num system="onscreen">61</episode-num>
+    <category lang="ca">ESPORTS</category>
+    <category lang="ca">RETRANSMISSIONS ESPORTS</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
-    <previously-shown/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/0/8/1730389343680.jpg"/>
   </programme>
   <channel id="tvi">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20261108065953 +0100" stop="20261108094620 +0100" channel="tvi">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">9987</length>
-    <episode-num system="onscreen">11645</episode-num>
-    <category lang="ca">ACTUALITAT</category>
-    <category lang="ca">INFORMATIU DIÀRI</category>
+  <programme start="20261108153627 +0100" stop="20261108155554 +0100" channel="tvi">
+    <title lang="ca">Curtmetratge</title>
+    <sub-title lang="ca">Ginoide</sub-title>
+    <desc lang="ca">GINOIDE 'Ginoide'Direcció: Celia GalánGuió: Celia GalánProducció: Celofán Audiovisual, Efe PuntoAny: 2025Durada: 20País: EspanyaFotografia: Laura CacciaIntèrprets: Betsy Túrnez, Alexandra PinoDos desconeguts participen en un experiment de robòtica en què hauran de determinar quin dels dos no és humà.</desc>
+    <credits>
+      <director>Celia</director>
+      <writer>Celia Galán</writer>
+      <actor>Betsy Túrnez</actor>
+      <actor>Alexandra PinoDos desconeguts participen en un experiment de robòtica en què hauran de determinar quin dels dos no és humà.</actor>
+    </credits>
+    <length units="seconds">1167</length>
+    <episode-num system="onscreen">1</episode-num>
+    <category lang="ca">FICCIÓ</category>
+    <category lang="ca">CURTMETRATGE</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
-  <programme start="20261108094620 +0100" stop="20261108101657 +0100" channel="tvi">
-    <title lang="ca">Signes dels temps</title>
-    <sub-title lang="ca">Rumba catalana amb Sicus Carbonell</sub-title>
-    <desc lang="ca">Parlem de rumba catalana amb Sicus Carbonell, cantant i fundador de Sabor de Gràcia. Comparteix també el seu testimoni de vida. Malgrat l'èxit, tenia un buit, va caure en les drogues i va tocar fons. Ha passat de ser ateu a creient i la seva vida ha fet un gir de 180 graus, en positiu. El passat mes de juny, durant la visita de Lleó XIV a Barcelona, Sabor de Gràcia va actuar a l'Estadi Olímpic Lluís Companys davant de 40.000 persones. El Vaticà li va encarregar dues cançons 'Boig per tu' i 'Temps de rumba i esperança'. Sicus Carbonell és cristià evangèlic i ara ha posat en marxa la Fundació Sabor de Gràcia, per ajudar a persones que passin per situacions difícils.</desc>
-    <length units="seconds">1837</length>
-    <episode-num system="onscreen">1645</episode-num>
-    <category lang="ca">DIVULGACIÓ</category>
-    <category lang="ca">MAGAZINE ESPECIALITZAT</category>
+  <programme start="20261108155434 +0100" stop="20261108172359 +0100" channel="tvi">
+    <title lang="ca">Pel·lícula</title>
+    <sub-title lang="ca">El silenci del pantà</sub-title>
+    <desc lang="ca">EL SILENCI DEL PANTÀProducció: El Silencio Prod. Cinematograficas, AIE, 2019Director: Marc VigilGuionistes: Carlos de Panda i Sara Antuña basada en la novel·la 'El silencio del pantano' de Juanjo BraulioDirector de fotografia: Isaac VilaMúsica: Zeltia MontesIntèrprets: Pedro Alonso (Q), Nacho Fresneda (Falconetti), Carmina Barrios (La Puri), Raúl Prieto (Nacho), José Àngel Egido (Carretero), Àlex Monner (Fran), Zaida Romero (Sara), Maite Sandoval (Isabel) i Javier Godino (Vicent)Q és un periodista reconvertit en escriptor de novel·la negra. En dos de seus llibres publicats, ambientats sempre a la seva València natal, Q explica assassinats sagnants fent servir com a teló de fons la corrupció política i les misèries de l'ànima humana. L'únic problema és que els crims que tenen lloc en les seves novel·les no són tan ficticis com semblen.</desc>
+    <credits>
+      <actor>Pedro Alonso (Q)</actor>
+      <actor>Nacho Fresneda (Falconetti)</actor>
+      <actor>Carmina Barrios (La Puri)</actor>
+      <actor>Raúl Prieto (Nacho)</actor>
+      <actor>José Àngel Egido (Carretero)</actor>
+      <actor>Àlex Monner (Fran)</actor>
+      <actor>Zaida Romero (Sara)</actor>
+      <actor>Maite Sandoval (Isabel)</actor>
+      <actor>Javier Godino (Vicent)Q és un periodista reconvertit en escriptor de novel·la negra. En dos de seus llibres publicats</actor>
+      <actor>ambientats sempre a la seva València natal</actor>
+      <actor>Q explica assassinats sagnants fent servir com a teló de fons la corrupció política</actor>
+      <actor>les misèries de l'ànima humana. L'únic problema és que els crims que tenen lloc en les seves novel·les no són tan ficticis com semblen.</actor>
+    </credits>
+    <length units="seconds">5365</length>
+    <episode-num system="onscreen">1</episode-num>
+    <category lang="ca">FICCIÓ</category>
+    <category lang="ca">PEL·LÍCULA / TELEFILM</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
+    <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
   <channel id="324">
     <display-name>324</display-name>
   </channel>
-  <programme start="20261108070000 +0100" stop="20261108100000 +0100" channel="324">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">10800</length>
-    <episode-num system="onscreen">11645</episode-num>
+  <programme start="20261108143000 +0100" stop="20261108163000 +0100" channel="324">
+    <title lang="ca">Telenotícies migdia</title>
+    <length units="seconds">7200</length>
+    <episode-num system="onscreen">7383</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/5/4/1758025766345.jpg"/>
   </programme>
-  <programme start="20261108100000 +0100" stop="20261108120000 +0100" channel="324">
+  <programme start="20261108163000 +0100" stop="20261108183000 +0100" channel="324">
     <title lang="ca">Notícies 3CatInfo</title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <length units="seconds">7200</length>
-    <episode-num system="onscreen">11646</episode-num>
+    <episode-num system="onscreen">11648</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
@@ -90,42 +117,43 @@
   <channel id="esport3">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20261108083712 +0100" stop="20261108090221 +0100" channel="esport3">
-    <title lang="ca">3CatInfo Esports</title>
-    <desc lang="ca">Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.</desc>
-    <length units="seconds">1509</length>
-    <episode-num system="onscreen">5562</episode-num>
-    <category lang="ca">ESPORTS</category>
-    <category lang="ca">INFORMATIU DIÀRI</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <previously-shown/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/9/7/1758888682179.jpg"/>
-  </programme>
-  <programme start="20261108090221 +0100" stop="20261108104957 +0100" channel="esport3">
-    <title lang="ca">Futbol</title>
-    <sub-title lang="ca">FC Cartagena-UE Sant Andreu / Primera Federació / J11</sub-title>
-    <desc lang="ca">Els quadribarrats, que tenen 12 punts després de 3 victòries, 3 empats i 2 derrotes, han començat la jornada a la 13a posició. El conjunt murcià és per sobre amb 3 punts més.</desc>
-    <length units="seconds">6456</length>
-    <episode-num system="onscreen">208</episode-num>
+  <programme start="20261108142232 +0100" stop="20261108160000 +0100" channel="esport3">
+    <title lang="ca">Billar a 3 bandes</title>
+    <sub-title lang="ca">Dani Sánchez-JS Ko / PBA Tour</sub-title>
+    <desc lang="ca">El català Dani Sánchez s'enfronta al sudcoreà Jun-seo Ko en aquest campionat de billar a 3 bandes organitzat per la PBA (Professional Billiards Association).</desc>
+    <length units="seconds">5848</length>
+    <episode-num system="onscreen">8150</episode-num>
     <category lang="ca">ESPORTS</category>
     <category lang="ca">RETRANSMISSIONS ESPORTS</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
+    <subtitles type="teletext"/>
     <previously-shown/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/0/7/1698446098170.jpg"/>
+    <icon src="https://img.3cat.cat/multimedia/jpg/3/3/1766061188133.jpg"/>
+  </programme>
+  <programme start="20261108160000 +0100" stop="20261108170037 +0100" channel="esport3">
+    <title lang="ca">E3D</title>
+    <sub-title lang="ca">Homenatge Toni Bou 40 títols</sub-title>
+    <desc lang="ca">L'equip Repsol Honda HRC homenatja el pilot de Piera per haver assolit els 40 títols de campió del món de trial. La festa, que inclou una exhibició del mateix Toni Bou, es fa Moll de la Marina de Barcelona</desc>
+    <length units="seconds">3637</length>
+    <episode-num system="onscreen">8154</episode-num>
+    <category lang="ca">ESPORTS</category>
+    <category lang="ca">RETRANSMISSIONS ESPORTS</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <icon src="https://img.3cat.cat/multimedia/jpg/7/5/1793796064857.jpg"/>
   </programme>
   <channel id="sx3">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20261108083519 +0100" stop="20261108085704 +0100" channel="sx3">
-    <title lang="ca">La Patrulla Peluda</title>
-    <sub-title lang="ca">La Patrulla salva Nadal</sub-title>
-    <desc lang="ca">Quan el trineu del Pare Noel s'estavella i els rens s'escapen, en Ryder i la Patrulla Peluda han d'ajudar-lo a acabar de repartir els regals i salvar les festes de Nadal!</desc>
-    <length units="seconds">1305</length>
-    <episode-num system="onscreen">20</episode-num>
+  <programme start="20261108152750 +0100" stop="20261108153912 +0100" channel="sx3">
+    <title lang="ca">Les Sisters</title>
+    <sub-title lang="ca">El senyor Renill</sub-title>
+    <desc lang="ca">A la Marine li encantaria tenir un senyor Renill, un conill de peluix que ha vist en un programa de televisió. Els seus pares diuen que li regalaran el nino amb la condició que millori aviat els resultats escolars. Cap problema! El que passa és que a la Marine, l'escola li costa. El corconet necessitarà que la seva germana l'ajudi a fer els deures, però la Wendy ha quedat amb el Maxence i no està gaire disposada a donar-li un cop de mà.</desc>
+    <length units="seconds">682</length>
+    <episode-num system="onscreen">60</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
@@ -134,12 +162,12 @@
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20261108085704 +0100" stop="20261108090738 +0100" channel="sx3">
-    <title lang="ca">La Patrulla Peluda</title>
-    <sub-title lang="ca">La Patrulla coneix en Rubble</sub-title>
-    <desc lang="ca">En aquest episodi veurem la història de com va entrar a la Patrulla en Rubble!</desc>
-    <length units="seconds">634</length>
-    <episode-num system="onscreen">21</episode-num>
+  <programme start="20261108153912 +0100" stop="20261108155034 +0100" channel="sx3">
+    <title lang="ca">Les Sisters</title>
+    <sub-title lang="ca">La reina del silenci</sub-title>
+    <desc lang="ca">Farta del lloro de la seva germana, la Wendy li diu a la Marine que li donarà la seva tauleta si es passa un dia sencer sense obrir la boca. Però de seguida es penedeix del que ha dit! La Marine accepta el repte i es disposa a passar el dia sense dir ni piu. Si la Wendy vol conservar la seva tauleta, ha de fer parlar el plom de la seva germana abans de demà al matí!</desc>
+    <length units="seconds">682</length>
+    <episode-num system="onscreen">61</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
@@ -151,28 +179,32 @@
   <channel id="c33">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20261108082815 +0100" stop="20261108091741 +0100" channel="c33">
-    <title lang="ca">Globus Sonda</title>
-    <sub-title lang="ca">Enric Masip - plana de Lleida</sub-title>
-    <desc lang="ca">Una llegenda viva de l'handbol, l'Enric Masip, ha accedit a pujar al globus del programa. Diuen els experts que és el millor jugador espanyol de tots els temps. Les vitrines de casa seva així ho corroboren: 6 Copes d'Europa, 8 lligues Asobal, 8 Copes del rei, una medalla de bronze olímpica i un munt de premis individuals i col·lectius. A més, la seva samarreta amb el número 5, que va lluir durant 14 anys com a jugador del Barça, està retirada i penjada amb tots els honors al Palau Blaugrana. El parc natural de la Serra del Montsec serà l'espai que sobrevolarem.</desc>
-    <length units="seconds">2966</length>
-    <episode-num system="onscreen">6</episode-num>
-    <category lang="ca">ENTRETENIMENT</category>
-    <category lang="ca">ALTRES</category>
+  <programme start="20261108151137 +0100" stop="20261108163925 +0100" channel="c33">
+    <title lang="ca">Carles Sabater. No espereu res de mi</title>
+    <sub-title lang="ca">Carles Sabater. No espereu res de mi</sub-title>
+    <desc lang="ca">'Carles Sabater. No espereu res de mi' (2024) és una producció de 3Cat amb la col·laboració de La Manchester.Després de 25 anys de la mort de Carles Sabater, coneixem la vida del cantant i actor a baix de l'escenari, a través d'imatges inèdites de la seva càmera personal i dels testimonis del seu cercle més íntim. Un retrat del Carles carismàtic, seductor, divertit i triomfador, però també del Carles romàntic, nostàlgic, i també angoixat pels deutes econòmics i el seu futur professional. El documental mostra com el Carles va viure els inicis del seu èxit professional, com el va afectar la fama i com va condicionar això les seves relacions personals, i parla també de la seva mort prematura. Fitxa tècnica: Direcció i realització: Jordi Call Guió: Elisenda Gorgues Carnicé Producció: Cris Cascales Direcció de fotografia: Marc González Producció executiva La Manchester: Guillem Cabra Direcció de producció La Manchester: Rosa Montes Producció executiva 3Cat: David Bassa Cabanas, Silvia Pairó Vila Coordinació de continguts 3Cat: Montse Armengou Martín Responsable d'imatge 3Cat: Xavier Garcia Balañà © 2024 Una producció de 3Cat i La Manchester Radiofònica SLU.</desc>
+    <credits>
+      <writer>Elisenda Gorgues Carnicé</writer>
+    </credits>
+    <length units="seconds">5268</length>
+    <episode-num system="onscreen">1</episode-num>
+    <category lang="ca">ACTUALITAT</category>
+    <category lang="ca">DOCUMENTAL</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
+    <icon src="https://img.3cat.cat/multimedia/jpg/0/1/1730224595510.jpg"/>
   </programme>
-  <programme start="20261108091741 +0100" stop="20261108094523 +0100" channel="c33">
-    <title lang="ca">La sobretaula</title>
-    <sub-title lang="ca">Sallent amb Miki Núñez</sub-title>
-    <desc lang="ca">Enramades, patrimoni i resiliència són els protagonistes d'aquest capítol de La Sobretaula, que avui fa parada a Sallent. Ho fem acompanyats de l'artista Miki Núñez, amb qui descobrim un municipi amb arrels profundes i esperit resilient.</desc>
-    <length units="seconds">1662</length>
-    <episode-num system="onscreen">11</episode-num>
+  <programme start="20261108163925 +0100" stop="20261108173326 +0100" channel="c33">
+    <title lang="ca">Dibuixar pel canvi</title>
+    <sub-title lang="ca">Russia. L'arbre de la violència</sub-title>
+    <desc lang="ca">Durant l'última dècada, l'artista gràfica Victoria Lomasko s'ha dedicat a documentar meticulosament la Rússia de Putin, infiltrant-se en tots els mítings i esdeveniments polítics crucials. Just un any abans de la invasió d'Ucraïna, intuint que la catàstrofe era imminent, comença a investigar a fons la relació entre la violència domèstica i la violència exercida per l'Estat, i plasma les seves conclusions en el seu mural més ambiciós, que narra els fets històrics compresos entre l'hivern del 2021, ple de protestes, i l'hivern tràgic del 2022. Mentre Putin llança una 'operació militar' a Ucraïna i titlla els dissidents russos de 'traïdors que cal escopir com mosques', Lomasko afronta la dura realitat i pren la valenta decisió de deixar-ho tot enrere i emprendre un nou camí.</desc>
+    <length units="seconds">3241</length>
+    <episode-num system="onscreen">5</episode-num>
     <category lang="ca">DIVULGACIÓ</category>
-    <category lang="ca">CUINA</category>
+    <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
