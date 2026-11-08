@@ -3,67 +3,55 @@
   <channel id="tv3uhd">
     <display-name>TV3UHD</display-name>
   </channel>
-  <programme start="20261108200057 +0100" stop="20261108201201 +0100" channel="tv3uhd">
-    <title lang="ca">Atrapa'm si pots. Els millors moments.</title>
-    <desc lang="ca">'Atrapa'm si pots' és un 'quiz show' clàssic, de preguntes i respostes, presentat per Llucià Ferrer, en què sis concursants competeixen per arribar a la fase final i guanyar el pot. 'Atrapa'm si pots' és entreteniment pur i on gairebé és més important passar-s'ho bé que els diners. És un concurs en què pesa més la intuïció que no els coneixements acadèmics, més l'estratègia en el joc que no la sort.</desc>
-    <length units="seconds">664</length>
-    <episode-num system="onscreen">994</episode-num>
-    <category lang="ca">ENTRETENIMENT</category>
-    <category lang="ca">CONCURS</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <subtitles type="teletext"/>
-    <previously-shown/>
-  </programme>
-  <programme start="20261108201201 +0100" stop="20261108210000 +0100" channel="tv3uhd">
-    <title lang="ca">Diades castelleres especials</title>
-    <sub-title lang="ca">Diada Castellera de Gracia a Barcelona</sub-title>
-    <desc lang="ca">Tram final de la temporada castellera amb la diada dels Castellers de la Vila de Gràcia, que comptarà amb la participació dels Castellers de Barcelona i dels de Sabadell. Les dues colles barcelonines tenen com a principals objectius els dos castells bàsics de 9, el 3d9 amb folre i el 4d9 amb folre, a més de construccions de gamma alta de 8 i la possibilitat del pilar de 6. Els graciencs volen completar el 4d9 amb folre, i els barcelonins buscaran descarregar el 3d9 amb folre. Els Saballuts, per la seva banda, aspiren a consolidar el 3d8 i el 4d8 i podrien tornar a intentar el 7d8.</desc>
-    <length units="seconds">2879</length>
-    <episode-num system="onscreen">80</episode-num>
+  <programme start="20261108234643 +0100" stop="20261109002409 +0100" channel="tv3uhd">
+    <title lang="ca">Gent amb DO</title>
+    <sub-title lang="ca">DOQ Priorat. 'La viticultura heroica'</sub-title>
+    <desc lang="ca">Al Priorat, els ceps s'obren pas entre les pedres i la història entre l'oblit. Empar Moliner recorre una terra que els «set magnífics» van convertir en llegenda, però que algú havia mantingut viva abans que ells hi arribessin. Entre vinyes velles, garnatxa i carinyena, descobrim les mans anònimes que van preservar un paisatge avui admirat arreu. Quin és el do del Priorat?</desc>
+    <length units="seconds">2246</length>
+    <episode-num system="onscreen">4</episode-num>
     <category lang="ca">DIVULGACIÓ</category>
-    <category lang="ca">MAGAZINE ESPECIALITZAT</category>
+    <category lang="ca">SÈRIE DOCUMENTAL</category>
+    <rating>
+      <value>PÚBLIC ADULT</value>
+    </rating>
+    <subtitles type="teletext"/>
+  </programme>
+  <programme start="20261109002409 +0100" stop="20261110002408 +0100" channel="tv3uhd">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="seconds">86399</length>
+    <episode-num system="onscreen">11652</episode-num>
+    <category lang="ca">ACTUALITAT</category>
+    <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <subtitles type="teletext"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
   <channel id="tvi">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20261108200057 +0100" stop="20261108201201 +0100" channel="tvi">
-    <title lang="ca">Atrapa'm si pots. Els millors moments.</title>
-    <desc lang="ca">'Atrapa'm si pots' és un 'quiz show' clàssic, de preguntes i respostes, presentat per Llucià Ferrer, en què sis concursants competeixen per arribar a la fase final i guanyar el pot. 'Atrapa'm si pots' és entreteniment pur i on gairebé és més important passar-s'ho bé que els diners. És un concurs en què pesa més la intuïció que no els coneixements acadèmics, més l'estratègia en el joc que no la sort.</desc>
-    <length units="seconds">664</length>
-    <episode-num system="onscreen">994</episode-num>
-    <category lang="ca">ENTRETENIMENT</category>
-    <category lang="ca">CONCURS</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <previously-shown/>
+  <programme start="20261108234643 +0100" stop="20261109002409 +0100" channel="tvi">
+    <title lang="ca">Gent amb DO</title>
+    <sub-title lang="ca">- DOQ Priorat. 'La viticultura heroica'</sub-title>
+    <desc lang="ca">Sense Descripció</desc>
+    <length units="seconds">2246</length>
+    <episode-num system="onscreen">4</episode-num>
   </programme>
-  <programme start="20261108201201 +0100" stop="20261108210000 +0100" channel="tvi">
-    <title lang="ca">Diades castelleres especials</title>
-    <sub-title lang="ca">Diada Castellera de Gracia a Barcelona</sub-title>
-    <desc lang="ca">Tram final de la temporada castellera amb la diada dels Castellers de la Vila de Gràcia, que comptarà amb la participació dels Castellers de Barcelona i dels de Sabadell. Les dues colles barcelonines tenen com a principals objectius els dos castells bàsics de 9, el 3d9 amb folre i el 4d9 amb folre, a més de construccions de gamma alta de 8 i la possibilitat del pilar de 6. Els graciencs volen completar el 4d9 amb folre, i els barcelonins buscaran descarregar el 3d9 amb folre. Els Saballuts, per la seva banda, aspiren a consolidar el 3d8 i el 4d8 i podrien tornar a intentar el 7d8.</desc>
-    <length units="seconds">2879</length>
-    <episode-num system="onscreen">80</episode-num>
-    <category lang="ca">DIVULGACIÓ</category>
-    <category lang="ca">MAGAZINE ESPECIALITZAT</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
+  <programme start="20261109002409 +0100" stop="20261109043000 +0100" channel="tvi">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <desc lang="ca">Sense Descripció</desc>
+    <length units="seconds">14751</length>
+    <episode-num system="onscreen">11652</episode-num>
   </programme>
   <channel id="324">
     <display-name>324</display-name>
   </channel>
-  <programme start="20261108200000 +0100" stop="20261108210000 +0100" channel="324">
+  <programme start="20261108230000 +0100" stop="20261109003000 +0100" channel="324">
     <title lang="ca">Notícies 3CatInfo</title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">3600</length>
-    <episode-num system="onscreen">11650</episode-num>
+    <length units="seconds">5400</length>
+    <episode-num system="onscreen">11651</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
@@ -72,26 +60,27 @@
     <subtitles type="teletext"/>
     <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
-  <programme start="20261108210000 +0100" stop="20261108230000 +0100" channel="324">
-    <title lang="ca">Telenotícies vespre</title>
-    <length units="seconds">7200</length>
-    <episode-num system="onscreen">7382</episode-num>
+  <programme start="20261109003000 +0100" stop="20261109010000 +0100" channel="324">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="seconds">1800</length>
+    <episode-num system="onscreen">11652</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <icon src="https://img.ccma.cat/multimedia/jpg/7/2/1758026176427.jpg"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
   <channel id="esport3">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20261108200000 +0100" stop="20261108205557 +0100" channel="esport3">
+  <programme start="20261108230012 +0100" stop="20261109003630 +0100" channel="esport3">
     <title lang="ca">Gol a gol</title>
-    <sub-title lang="ca">Prèvia At. Madrid-Barça / J12</sub-title>
+    <sub-title lang="ca">Post At. Madrid-Barça / J12</sub-title>
     <desc lang="ca">'Gol a gol' us ofereix els resums dels partits de futbol de Primera i Segona Divisió. Presentat per Jordi Grau a Esport3, cada dissabte i cada diumenge podeu veure les millors imatges de la jornada de Lliga amb l'anàlisi dels experts, amb especial atenció als equips catalans, sobretot el Barça, el Girona i l'Espanyol.</desc>
-    <length units="seconds">3357</length>
-    <episode-num system="onscreen">1800</episode-num>
+    <length units="seconds">5778</length>
+    <episode-num system="onscreen">1801</episode-num>
     <category lang="ca">ESPORTS</category>
     <category lang="ca">MAGAZINE</category>
     <rating>
@@ -100,28 +89,28 @@
     <subtitles type="teletext"/>
     <icon src="https://img.ccma.cat/multimedia/jpg/2/1/1698144123212.jpg"/>
   </programme>
-  <programme start="20261108205557 +0100" stop="20261108225500 +0100" channel="esport3">
-    <title lang="ca">Un dia de partit</title>
-    <sub-title lang="ca">At. Madrid-Barça</sub-title>
-    <desc lang="ca">A 'Un dia de partit' arreglem el Barça. O no. A cada partit, sis culers hi diuen la seva. Famosos i anònims. Cadascun a casa seva. Davant del televisor. Tot a base de videotrucades, en format Twitch i en rigorós directe. Ah! I a la mitja part no aturem màquines. Amb els jugadors als vestidors, nosaltres seguim fent bullir l'olla! Només sis culers? Negatiu. Durant el partit van apareixent els Jimmy Jump: els espontanis que demanen saltar a 'Un dia de partit' via WhatsApp.</desc>
-    <length units="seconds">7143</length>
-    <episode-num system="onscreen">259</episode-num>
+  <programme start="20261109003630 +0100" stop="20261109011434 +0100" channel="esport3">
+    <title lang="ca">Motor a fons</title>
+    <sub-title lang="ca">GP de Qatar</sub-title>
+    <desc lang="ca">Antepenúltima prova del Campionat del Món de motociclisme. Us oferim el més destacat a les curses de MotoGP, Moto2 i Moto3. Amb Xavier Guillén, i l'anàlisi de Montse Sogues i Ramon Forcada.</desc>
+    <length units="seconds">2284</length>
+    <episode-num system="onscreen">961</episode-num>
     <category lang="ca">ESPORTS</category>
-    <category lang="ca">RETRANSMISSIONS ESPORTS</category>
+    <category lang="ca">MAGAZINE</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <icon src="https://img.ccma.cat/multimedia/jpg/2/7/1678885232972.jpg"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/5/7/1678886130275.jpg"/>
   </programme>
   <channel id="sx3">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20261108195247 +0100" stop="20261108201527 +0100" channel="sx3">
-    <title lang="ca">El detectiu Conan</title>
-    <sub-title lang="ca">En Takagi, en Date i la llibreta de la promesa (1a part)</sub-title>
-    <desc lang="ca">En Conan i els seus amics es troben per casualitat amb la inspectora Sato i l'inspector Takagi, que perseguien un lladre pel carrer. Quan l'inspector Takagi vol apuntar l'hora de la detenció, troba un codi anotat en una llibreta que li va donar en Date, un company mort fa un any. En Date el citava un diumenge al migdia al Cafè Poirot. Tot sembla indicar que era per resoldre el cas del segrest del fill d'un empresari automobilístic francès. Tot i que ha passat un any, al cafè hi troben pistes que els fan pensar que encara podrien ser-hi a temps.</desc>
-    <length units="seconds">1360</length>
-    <episode-num system="onscreen">1166</episode-num>
+  <programme start="20261108233829 +0100" stop="20261108234917 +0100" channel="sx3">
+    <title lang="ca">La gateta Arc iris papallona unicorn</title>
+    <sub-title lang="ca">Un nen gran</sub-title>
+    <desc lang="ca">La Felicity i el Miguel estan molt contents perquè tenen la seva primera feina de cangurs i volen fer-ho molt bé per aconseguir una bona ressenya. El que no s'imaginen és que el nen que han de cuidar és el fill d'uns gegants.</desc>
+    <length units="seconds">648</length>
+    <episode-num system="onscreen">27</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
@@ -130,12 +119,12 @@
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20261108201527 +0100" stop="20261108203802 +0100" channel="sx3">
-    <title lang="ca">El detectiu Conan</title>
-    <sub-title lang="ca">En Takagi, en Date i la llibreta de la promesa (2a part)</sub-title>
-    <desc lang="ca">L'inspector Takagi retroba un codi apuntat en una llibreta que li va donar en Date, un company mort ara fa un any. En Date el citava un diumenge al migdia al Cafè Poirot per resoldre el cas del segrest de l'Alan, el fill d'un empresari automobilístic francès. Tot i que ha passat un any i el segrestador ha mort, un subordinat seu se segueix presentant cada diumenge al cafè. Aconsegueixen fer-se passar pels negociadors i rescatar l'Alan, però llavors aquest els explica que l'esbirro manté captiu el seu amic Yuji. Parlant amb l'Alan, els nois de la Lliga de Detectius Júnior revelen la ubicació de l'amagatall on tenen tancat en Yuji.</desc>
-    <length units="seconds">1355</length>
-    <episode-num system="onscreen">1167</episode-num>
+  <programme start="20261108234917 +0100" stop="20261108235936 +0100" channel="sx3">
+    <title lang="ca">La gateta Arc iris papallona unicorn</title>
+    <sub-title lang="ca">Els Macarons Mítics</sub-title>
+    <desc lang="ca">El Pollastre Orgànic vol recollir diners amb la venda d'unes galetes per mirar d'evitar el tancament d'un parc. El problema és que són unes galetes molt dolentes i ningú en vol comprar, per molt que s'hi esforcin la Felicity i els seus amics.</desc>
+    <length units="seconds">619</length>
+    <episode-num system="onscreen">28</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
@@ -147,24 +136,33 @@
   <channel id="c33">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20261108195548 +0100" stop="20261108205917 +0100" channel="c33">
-    <title lang="ca">Núñez</title>
-    <sub-title lang="ca">L'home que volia ser estimat</sub-title>
-    <desc lang="ca">Coincidint amb l'eufòria dels Jocs Olímpics de Barcelona, Núñez aconsegueix per fi el que havia promès: el Barça és l'equip més gran d'Europa. El 'Dream team', que deu el seu nom precisament a l'equip de bàsquet dels Estats Units durant els Jocs, és admirat per tothom. Però, coincidint amb una altra final de Copa d'Europa, el somni es trenca i esdevé un malson que conduirà a una de les rodes de premsa més famoses i grotesques de la història: la de la destitució de Johann Cruyff. L'intent de Núñez de reconstruir el seu projecte i unir el barcelonisme tindrà alts i baixos, però coincidint amb les primeres informacions dels suborns de l'empresa Núñez i Navarro a inspectors d'Hisenda, abandonarà la presidència del club. Han estat vint-i-dos anys de mandat, plens de llums i obres, d'èxits i de fracassos, emmirallats en vint-i-tres anys de la presidència d'un altre símbol: Jordi Pujol. El final és irònicament similar per a tots dos. És el final d'una etapa del Barça i de Catalunya.</desc>
-    <length units="seconds">3809</length>
-    <episode-num system="onscreen">4</episode-num>
+  <programme start="20261108234648 +0100" stop="20261109001451 +0100" channel="c33">
+    <title lang="ca">Els hotels més remots del món</title>
+    <sub-title lang="ca">Budir - Islàndia</sub-title>
+    <desc lang="ca">Situat enmig d'un camp de lava a la part oest més remota d'Islàndia, l'hotel Budir existeix des dels anys 40. Propietat d'un empresari local, dur al damunt la història d'aquestes terres desolades, i el personal, que no ha canviat des de fa anys, prové del mateix poble de la península. Atrau clients habituals que utilitzen l'hotel com un lloc de retir davant de l'oceà Atlàntic. Es creu que Jules Vernes va localitzar l'escenari d'un dels seus llibres, 'Viatge al centre de la terra', just al costat de la icònica església negra que hi ha al davant de l'hotel.</desc>
+    <length units="seconds">1683</length>
+    <episode-num system="onscreen">7</episode-num>
     <category lang="ca">DIVULGACIÓ</category>
-    <category lang="ca">Docu-Entreteniment</category>
+    <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20261108205917 +0100" stop="20261108210224 +0100" channel="c33">
-    <title lang="ca">SENSE FI CANAL 33</title>
-    <desc lang="ca">Sense Descripció</desc>
-    <length units="seconds">187</length>
+  <programme start="20261109001451 +0100" stop="20261109004028 +0100" channel="c33">
+    <title lang="ca">Els hotels més remots del món</title>
+    <sub-title lang="ca">Xinalani</sub-title>
+    <desc lang="ca">L'Ana Paula i el seu marit, elJean-Baptiste, són els cofundadors d'aquest retir de ioga a la costa mexicana, al costat del poble pesquer de Quimixto. Amb l'ajuda de la comunitat i dels seus pares, han anat construint a poc a poc aquest paradís, de cara a les balenes de la costa del Pacífic. Els llargs anys de construcció, juntament amb la serenitat i l'aïllament total d'aquest lloc, els van conduir cap a l'espiritualitat. Avui en aquest lloc s'hi percep una molt forta, i hi ha xamans que hi van regularment per iniciar els viatgers i els adeptes al ioga.</desc>
+    <length units="seconds">1537</length>
+    <episode-num system="onscreen">5</episode-num>
+    <category lang="ca">DIVULGACIÓ</category>
+    <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <subtitles type="teletext"/>
+    <previously-shown/>
   </programme>
   <channel id="oca1">
     <display-name>OCA1</display-name>
