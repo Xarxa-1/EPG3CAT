@@ -3,96 +3,101 @@
   <channel id="tv3uhd">
     <display-name>TV3UHD</display-name>
   </channel>
-  <programme start="20261107220643 +0100" stop="20261108004220 +0100" channel="tv3uhd">
-    <title lang="ca">Col·lapse</title>
-    <desc lang="ca">Entrevistem Alberto Muñagorri, una de les víctimes més joves d'ETA. El 1982, quan només tenia 10 anys, una bomba amagada dins d'una motxilla va esclatar i el va deixar sense cama, cec d'un ull i amb seqüeles per tota la vida. Ens explica el seu testimoni de superació de por i dolor. L'atenció capil·lar representa un 38% de tots els diagnòstics de les clíniques de dermatologia. Debatrem a la taula d'actualitat els motius que cada vegada porten més joves a assistir a la consulta del metge per posar remei a la incipient alopècia amb un dels rostres més populars i calbs de la tele catalana, Llucià Ferrer, la periodista i col·laboradora Ana Boadas, la tricòloga i nutricionista Dra. Montse Folch i el testimoni en primera persona de dos joves a qui els cauen els cabells des de fa anys. Després de tota una vida dedicada a analitzar el comportament dels altres, el consultor i assessor empresarial Emilio Duró ens explica la clau de l'èxit i del lideratge en les societats contemporànies. La periodista Pilar Eyre ens posa al dia dels assumptes reials que ocupen més portades. Carlos Latre es posa a la pell de molts personatges populars en el seu particular resum de l'actualitat. L'Anna Callís s'enfronta al repte d'aprendre a fer lluita lliure mexicana. El superarà?Com sempre, periodisme sense filtres sobre les midterm amb Albert Montagut, llibres recomanats amb Sergi Pàmies i anàlisi de dades amb el professor Frederic Vincent. Col·lapse, dissabte a les 22:10 a TV3, amb Jordi González. </desc>
-    <length units="seconds">9337</length>
-    <episode-num system="onscreen">160</episode-num>
-    <category lang="ca">ENTRETENIMENT</category>
-    <category lang="ca">TALK-SHOW</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <subtitles type="teletext"/>
-  </programme>
-  <programme start="20261108004220 +0100" stop="20261108010158 +0100" channel="tv3uhd">
-    <title lang="ca">Marcians</title>
-    <sub-title lang="ca">Oriol Genís, sense edat de jubilació</sub-title>
-    <desc lang="ca">Oriol Genís, un actor conegut sobretot per papers secundaris en múltiples produccions de teatre, cinema, televisió i sèries. Genís celebra que, amb 76 anys, lluny de jubilar-se, té més ofertes de feina que mai. La Sala Beckett de Barcelona li dedica un cicle en què es podran veure obres com 'Compto cada passa meva sobre la terra', un text de Lluïsa Cunillé dirigit per Xavier Albertí, o 'Verbagàlia', una adaptació d'Albert Arribas d'una obra de Víctor Català. En la temporada 26-27 Oriol Genís protagonitzarà un total de set projectes escènics. Repassem els inicis de l'actor en el cabaret i els antres canalla de Barcelona, una època i una contracultura que Oriol Genís reivindica i defensa com a part imprescindible del seu aprenentatge a l'hora de posar-se davant del públic. Un ofici que, segons ell, és sempre com estar en una corda fluixa que en qualsevol moment es pot trencar. I que precisament per això es converteix en fascinant. Veurem l'Oriol a casa seva passant text amb la seva filla Júlia, també actriu; el veurem en una trobada informal amb els seus directors i amics, Marc Rosich, Albert Arribas i Mia Parcerisa; en un assaig a la Sala Beckett dirigit per Xavier Albertí, i actuant com a Andrés Villarrosa, el seu alter ego de qui no es pot separar mai. El va crear als anys 80, de retalls de persones que havia conegut en escenaris diversos, i des d'aleshores, de tant en tant, reapareix a escena. Un personatge que diu que no deixarà mai d'interpretar.</desc>
-    <length units="seconds">1178</length>
-    <episode-num system="onscreen">102</episode-num>
-    <category lang="ca">ENTRETENIMENT</category>
-    <category lang="ca">ALTRES</category>
+  <programme start="20261108010119 +0100" stop="20261108023301 +0100" channel="tv3uhd">
+    <title lang="ca">Pel·lícula</title>
+    <sub-title lang="ca">Les lleis de la termodinàmica</sub-title>
+    <desc lang="ca">LES LLEIS DE LA TERMODINÀMICA Productora : Zeta Cinema, Atresmedia Cine, On Cinema 2017 amb la participació de Netflix, Televisió de Catalunya, AtresMedia, ICAA i ICEC. 2017Directr: Mateo GilGuionista : Mateo GilDirector de fotografia: Sergi VilanovaMúsica : Fernando Velánzquez Intèrprets : Victo Sanz ( Manel), Berta Vázquez (Elena) , Chino Darín (Pablo) , Vicky Luengo (Eva), amb la col·laboració especial d' Irene Escolar ( Raquel ) i Josep M. Pou (Amat) Sinopsi :El Manel, un físic prometedor i una mica neuròtic, es proposa demostrar que la seva relació amb l'Elena, una cotitzada model i actriu en potència, no ha estat un desastre total per culpa seva, sinó perquè estava determinada per endavant per les lleis de la física, aquelles que van descobrir genis com Newton, Einstein o els pares de la mecànica quàntica. I, especialment, per les tres lleis de la termodinàmica.</desc>
+    <length units="seconds">5502</length>
+    <episode-num system="onscreen">1</episode-num>
+    <category lang="ca">FICCIÓ</category>
+    <category lang="ca">PEL·LÍCULA / TELEFILM</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
+    <icon src="https://img.3cat.cat/multimedia/jpg/8/1/1793808152418.jpg"/>
   </programme>
-  <channel id="tvi">
-    <display-name>TVI</display-name>
-  </channel>
-  <programme start="20261107220643 +0100" stop="20261108004220 +0100" channel="tvi">
-    <title lang="ca">Col·lapse</title>
-    <desc lang="ca">Entrevistem Alberto Muñagorri, una de les víctimes més joves d'ETA. El 1982, quan només tenia 10 anys, una bomba amagada dins d'una motxilla va esclatar i el va deixar sense cama, cec d'un ull i amb seqüeles per tota la vida. Ens explica el seu testimoni de superació de por i dolor. L'atenció capil·lar representa un 38% de tots els diagnòstics de les clíniques de dermatologia. Debatrem a la taula d'actualitat els motius que cada vegada porten més joves a assistir a la consulta del metge per posar remei a la incipient alopècia amb un dels rostres més populars i calbs de la tele catalana, Llucià Ferrer, la periodista i col·laboradora Ana Boadas, la tricòloga i nutricionista Dra. Montse Folch i el testimoni en primera persona de dos joves a qui els cauen els cabells des de fa anys. Després de tota una vida dedicada a analitzar el comportament dels altres, el consultor i assessor empresarial Emilio Duró ens explica la clau de l'èxit i del lideratge en les societats contemporànies. La periodista Pilar Eyre ens posa al dia dels assumptes reials que ocupen més portades. Carlos Latre es posa a la pell de molts personatges populars en el seu particular resum de l'actualitat. L'Anna Callís s'enfronta al repte d'aprendre a fer lluita lliure mexicana. El superarà?Com sempre, periodisme sense filtres sobre les midterm amb Albert Montagut, llibres recomanats amb Sergi Pàmies i anàlisi de dades amb el professor Frederic Vincent. Col·lapse, dissabte a les 22:10 a TV3, amb Jordi González. </desc>
-    <length units="seconds">9337</length>
-    <episode-num system="onscreen">160</episode-num>
-    <category lang="ca">ENTRETENIMENT</category>
-    <category lang="ca">TALK-SHOW</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-  </programme>
-  <programme start="20261108004220 +0100" stop="20261108010158 +0100" channel="tvi">
-    <title lang="ca">Marcians</title>
-    <sub-title lang="ca">Oriol Genís, sense edat de jubilació</sub-title>
-    <desc lang="ca">Oriol Genís, un actor conegut sobretot per papers secundaris en múltiples produccions de teatre, cinema, televisió i sèries. Genís celebra que, amb 76 anys, lluny de jubilar-se, té més ofertes de feina que mai. La Sala Beckett de Barcelona li dedica un cicle en què es podran veure obres com 'Compto cada passa meva sobre la terra', un text de Lluïsa Cunillé dirigit per Xavier Albertí, o 'Verbagàlia', una adaptació d'Albert Arribas d'una obra de Víctor Català. En la temporada 26-27 Oriol Genís protagonitzarà un total de set projectes escènics. Repassem els inicis de l'actor en el cabaret i els antres canalla de Barcelona, una època i una contracultura que Oriol Genís reivindica i defensa com a part imprescindible del seu aprenentatge a l'hora de posar-se davant del públic. Un ofici que, segons ell, és sempre com estar en una corda fluixa que en qualsevol moment es pot trencar. I que precisament per això es converteix en fascinant. Veurem l'Oriol a casa seva passant text amb la seva filla Júlia, també actriu; el veurem en una trobada informal amb els seus directors i amics, Marc Rosich, Albert Arribas i Mia Parcerisa; en un assaig a la Sala Beckett dirigit per Xavier Albertí, i actuant com a Andrés Villarrosa, el seu alter ego de qui no es pot separar mai. El va crear als anys 80, de retalls de persones que havia conegut en escenaris diversos, i des d'aleshores, de tant en tant, reapareix a escena. Un personatge que diu que no deixarà mai d'interpretar.</desc>
-    <length units="seconds">1178</length>
-    <episode-num system="onscreen">102</episode-num>
-    <category lang="ca">ENTRETENIMENT</category>
-    <category lang="ca">ALTRES</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <previously-shown/>
-  </programme>
-  <channel id="324">
-    <display-name>324</display-name>
-  </channel>
-  <programme start="20261107230000 +0100" stop="20261108003000 +0100" channel="324">
+  <programme start="20261108023301 +0100" stop="20261108043000 +0100" channel="tv3uhd">
     <title lang="ca">Notícies 3CatInfo</title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">5400</length>
-    <episode-num system="onscreen">11643</episode-num>
-    <category lang="ca">ACTUALITAT</category>
-    <category lang="ca">INFORMATIU DIÀRI</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <subtitles type="teletext"/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
-  </programme>
-  <programme start="20261108003000 +0100" stop="20261108010000 +0100" channel="324">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">1800</length>
+    <length units="seconds">7019</length>
     <episode-num system="onscreen">11644</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
+    <previously-shown/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
+  </programme>
+  <channel id="tvi">
+    <display-name>TVI</display-name>
+  </channel>
+  <programme start="20261108010119 +0100" stop="20261108023301 +0100" channel="tvi">
+    <title lang="ca">Pel·lícula</title>
+    <sub-title lang="ca">Les lleis de la termodinàmica</sub-title>
+    <desc lang="ca">LES LLEIS DE LA TERMODINÀMICA Productora : Zeta Cinema, Atresmedia Cine, On Cinema 2017 amb la participació de Netflix, Televisió de Catalunya, AtresMedia, ICAA i ICEC. 2017Directr: Mateo GilGuionista : Mateo GilDirector de fotografia: Sergi VilanovaMúsica : Fernando Velánzquez Intèrprets : Victo Sanz ( Manel), Berta Vázquez (Elena) , Chino Darín (Pablo) , Vicky Luengo (Eva), amb la col·laboració especial d' Irene Escolar ( Raquel ) i Josep M. Pou (Amat) Sinopsi :El Manel, un físic prometedor i una mica neuròtic, es proposa demostrar que la seva relació amb l'Elena, una cotitzada model i actriu en potència, no ha estat un desastre total per culpa seva, sinó perquè estava determinada per endavant per les lleis de la física, aquelles que van descobrir genis com Newton, Einstein o els pares de la mecànica quàntica. I, especialment, per les tres lleis de la termodinàmica.</desc>
+    <length units="seconds">5502</length>
+    <episode-num system="onscreen">1</episode-num>
+    <category lang="ca">FICCIÓ</category>
+    <category lang="ca">PEL·LÍCULA / TELEFILM</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
     <subtitles type="teletext"/>
+    <previously-shown/>
+  </programme>
+  <programme start="20261108023301 +0100" stop="20261108043000 +0100" channel="tvi">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="seconds">7019</length>
+    <episode-num system="onscreen">11644</episode-num>
+    <category lang="ca">ACTUALITAT</category>
+    <category lang="ca">INFORMATIU DIÀRI</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <previously-shown/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
+  </programme>
+  <channel id="324">
+    <display-name>324</display-name>
+  </channel>
+  <programme start="20261108010000 +0100" stop="20261108060000 +0100" channel="324">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="seconds">18000</length>
+    <episode-num system="onscreen">11644</episode-num>
+    <category lang="ca">ACTUALITAT</category>
+    <category lang="ca">INFORMATIU DIÀRI</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <previously-shown/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
+  </programme>
+  <programme start="20261108060000 +0100" stop="20261108070000 +0100" channel="324">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="seconds">3600</length>
+    <episode-num system="onscreen">11644</episode-num>
+    <category lang="ca">ACTUALITAT</category>
+    <category lang="ca">INFORMATIU DIÀRI</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <previously-shown/>
     <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
   <channel id="esport3">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20261107225959 +0100" stop="20261108003618 +0100" channel="esport3">
+  <programme start="20261108005854 +0100" stop="20261108023403 +0100" channel="esport3">
     <title lang="ca">Gol a gol</title>
     <sub-title lang="ca">Anàlisi de la jornada / J12 / Dissabte</sub-title>
     <desc lang="ca">'Gol a gol' us ofereix els resums dels partits de futbol de Primera i Segona Divisió. Presentat per Jordi Grau a Esport3, cada dissabte i cada diumenge podeu veure les millors imatges de la jornada de Lliga amb l'anàlisi dels experts, amb especial atenció als equips catalans, sobretot el Barça, el Girona i l'Espanyol.</desc>
-    <length units="seconds">5779</length>
+    <length units="seconds">5709</length>
     <episode-num system="onscreen">1799</episode-num>
     <category lang="ca">ESPORTS</category>
     <category lang="ca">MAGAZINE</category>
@@ -100,29 +105,32 @@
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
+    <previously-shown/>
     <icon src="https://img.ccma.cat/multimedia/jpg/2/1/1698144123212.jpg"/>
   </programme>
-  <programme start="20261108003618 +0100" stop="20261108005727 +0100" channel="esport3">
-    <title lang="ca">3CatInfo Esports</title>
-    <desc lang="ca">Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.</desc>
-    <length units="seconds">1269</length>
-    <episode-num system="onscreen">5562</episode-num>
+  <programme start="20261108023403 +0100" stop="20261108041923 +0100" channel="esport3">
+    <title lang="ca">Futbol</title>
+    <sub-title lang="ca">FC Cartagena-UE Sant Andreu / Primera Federació / J11</sub-title>
+    <desc lang="ca">Els quadribarrats, que tenen 12 punts després de 3 victòries, 3 empats i 2 derrotes, han començat la jornada a la 13a posició. El conjunt murcià és per sobre amb 3 punts més.</desc>
+    <length units="seconds">6320</length>
+    <episode-num system="onscreen">208</episode-num>
     <category lang="ca">ESPORTS</category>
-    <category lang="ca">INFORMATIU DIÀRI</category>
+    <category lang="ca">RETRANSMISSIONS ESPORTS</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <icon src="https://img.ccma.cat/multimedia/jpg/9/7/1758888682179.jpg"/>
+    <previously-shown/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/0/7/1698446098170.jpg"/>
   </programme>
   <channel id="sx3">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20261107231625 +0100" stop="20261107232709 +0100" channel="sx3">
-    <title lang="ca">La tropa del corral</title>
-    <sub-title lang="ca">Tot va bé si acaba bé</sub-title>
-    <desc lang="ca">L'Agnes truca la Tropa del Corral perquè l'ajudin a organitzar una festa sorpresa per a en Reggie. Mentre en Clive, en Billy i la Maggie s'encarreguen de la decoració i del pastís, la Flo s'emporta en Reggie fora de casa, però que ell decideix escapar-se i passar-s'ho bé. És un temerari, i això la Flo no ho sabia.</desc>
-    <length units="seconds">644</length>
-    <episode-num system="onscreen">1</episode-num>
+  <programme start="20261108022402 +0100" stop="20261108024509 +0100" channel="sx3">
+    <title lang="ca">Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
+    <sub-title lang="ca">La problemàtica</sub-title>
+    <desc lang="ca">El Jagged Stone i la seva ajudant, la Penny, accepten participar en un reallity show que es grava a casa de la Marinette. Es tracta de veure les habilitats del Jagged fent de forner. Però les exigències de la gravació i de tots els participants fan que la Penny arribi al seu límit i es converteixi en la Problemàtica, que en comptes de resoldre problemes en crearà.</desc>
+    <length units="seconds">1267</length>
+    <episode-num system="onscreen">31</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
@@ -131,12 +139,12 @@
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20261107232709 +0100" stop="20261107233800 +0100" channel="sx3">
-    <title lang="ca">La tropa del corral</title>
-    <sub-title lang="ca">Dia de pesca</sub-title>
-    <desc lang="ca">En Fred i la Frida truquen la Tropa del Corral perquè els netegin la peixera, que és tan bruta que no els deixa veure la seva sèrie preferida però la cosa surt malament: la Tropa trenca la peixera i ells cauen pel desguàs. Comença una cursa frenètica per les clavegueres de la vila per salvar-los abans que acabin al riu.</desc>
-    <length units="seconds">651</length>
-    <episode-num system="onscreen">2</episode-num>
+  <programme start="20261108024509 +0100" stop="20261108025539 +0100" channel="sx3">
+    <title lang="ca">Pop, la ciutat de paper</title>
+    <sub-title lang="ca">La primera gran acampada</sub-title>
+    <desc lang="ca">A l'aventura poptàstica d'avui, la colla d'amics se'n van d'acampada! Al Zip no li fa gaire gràcia dormir en un lloc fosc lluny de casa, però no els hi diu als seus amics. Com més s'allunya de casa, més espantat està. Serà capaç de superar les seves pors?</desc>
+    <length units="seconds">630</length>
+    <episode-num system="onscreen">25</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
@@ -148,35 +156,33 @@
   <channel id="c33">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20261107222605 +0100" stop="20261107233110 +0100" channel="c33">
-    <title lang="ca">El documental</title>
-    <sub-title lang="ca">Nicaragua necessita una cançó</sub-title>
-    <desc lang="ca">'Nicaragua necessita una cançó' 2025, una producció de Contrast i Laszlo Topanich Films en coproducció amb 3Cat i el suport de l'Agència Catalana de Cooperació al Desenvolupament.El músic nicaragüenc Luis Enrique Mejía Godoy evoca des del seu segon exili a Costa Rica, com va esdevenir un dels músics més emblemàtics de la revolució sandinista (1979-1990). A punt de fer els 80 anys, Mejía Godoy prepara un gran concert a San José de Costa Rica per celebrar els seus 60 anys de carrera musical i emprèn una gira per tot l'Estat espanyol per insuflar ànims a la comunitat nicaragüenca exiliada arran de les protestes reprimides amb violència el 2018.Direcció: Miquel Carrillo PonceGuió: Jordi de Miguel Capell i Patricia Carrillo BernuyRealització: Carlos Castro García, Oriol Andrés Gallart, MiquelCarrillo Ponce i Óscar NavarreteDirector fotografia: Carlos Castro GarcíaProducció: Miquel Carrillo Ponce i Jordi de Miguel CapellSo directe: Erik VargasMuntatge: Matías Fernández i Carlos Castro GarcíaPostproducció de so: Jordi Clemente RibasGrafisme: Sergi Esgleas PascualProductor executiu 3Cat: David Bassa Cabanas i Sílvia Pairó VilaCoordinació de continguts 3Cat: Ricard Belis GarciaProductor delegat 3Cat: Daniel Barea DelgadoLingüista: Lurdes Pons Comellas© Copyright: 3Cat, Contrast, Lazlo Topanich Films 2025</desc>
-    <credits>
-      <director>Miquel Carrillo Ponce</director>
-      <writer>Jordi de Miguel Capell</writer>
-    </credits>
-    <length units="seconds">3905</length>
-    <episode-num system="onscreen">1</episode-num>
-    <category lang="ca">DIVULGACIÓ</category>
-    <category lang="ca">DOCUMENTAL DE CREACIÓ</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <subtitles type="teletext"/>
-  </programme>
-  <programme start="20261107233110 +0100" stop="20261108002408 +0100" channel="c33">
-    <title lang="ca">60 minuts</title>
-    <sub-title lang="ca">Al-Sissi, el nou faraó d'Egipte</sub-title>
-    <desc lang="ca">Egipte, també anomenat la mare del món, està irreconeixible. Enmig del desert, s'aixequen obres gegantines a una velocitat exponencial, carreteres, ponts, megaprojectes a la costa mediterrània... Aquest nou Egipte, però, és un miratge: en deu anys, la població s'ha sumit en una pobresa sense precedents. El règim no fa barris per als pobres. Abdel Fattah al-Sisi, el nou faraó, i el seu exèrcit han instaurat un sistema econòmic piramidal, construït gràcies als ajuts de grans institucions internacionals, com la Unió Europea, i a les inversions estrangeres. El país més poblat del món àrab es troba al caire de l'abisme.</desc>
-    <length units="seconds">3178</length>
-    <episode-num system="onscreen">1</episode-num>
+  <programme start="20261108014345 +0100" stop="20261108024214 +0100" channel="c33">
+    <title lang="ca">Rick Stein: De Venècia a Istanbul</title>
+    <sub-title lang="ca">Croàcia</sub-title>
+    <desc lang="ca">En Rick deixa Venècia i es dirigeix a Ravenna, on menja unes piadine delicioses. D'allà va amb ferri a Split, Croàcia, on descobreix una ciutat encantadora. A Croàcia tasta plats de peix boníssims, però també un xai deliciós fet d'una manera molt especial a les muntanyes. A la seva cuina de l'illa grega de Simi, en Rick prepara tres plats: llagostins a la buzara, pašticada, i llonzes de porc amb crosta de nous i salsa de figues.</desc>
+    <length units="seconds">3509</length>
+    <episode-num system="onscreen">2</episode-num>
     <category lang="ca">DIVULGACIÓ</category>
     <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
+    <previously-shown/>
+  </programme>
+  <programme start="20261108024214 +0100" stop="20261108033127 +0100" channel="c33">
+    <title lang="ca">El Crac</title>
+    <sub-title lang="ca">El gran postureig</sub-title>
+    <desc lang="ca">El director Àlex Gnocchi té una crisi creativa sense precedents. Després de provar sense èxit un invent escenogràfic rere un altre, no li quedarà més remei que embarcar tota la companyia en un arriscat viatge a la recerca de la veritat...</desc>
+    <length units="seconds">2953</length>
+    <episode-num system="onscreen">16</episode-num>
+    <category lang="ca">FICCIÓ</category>
+    <category lang="ca">SÈRIE DRAMÀTICA</category>
+    <rating>
+      <value>PÚBLIC ADULT</value>
+    </rating>
+    <subtitles type="teletext"/>
+    <previously-shown/>
   </programme>
   <channel id="oca1">
     <display-name>OCA1</display-name>
