@@ -3,23 +3,10 @@
   <channel id="tv3uhd">
     <display-name>TV3UHD</display-name>
   </channel>
-  <programme start="20261108234643 +0100" stop="20261109002409 +0100" channel="tv3uhd">
-    <title lang="ca">Gent amb DO</title>
-    <sub-title lang="ca">DOQ Priorat. 'La viticultura heroica'</sub-title>
-    <desc lang="ca">Al Priorat, els ceps s'obren pas entre les pedres i la història entre l'oblit. Empar Moliner recorre una terra que els «set magnífics» van convertir en llegenda, però que algú havia mantingut viva abans que ells hi arribessin. Entre vinyes velles, garnatxa i carinyena, descobrim les mans anònimes que van preservar un paisatge avui admirat arreu. Quin és el do del Priorat?</desc>
-    <length units="seconds">2246</length>
-    <episode-num system="onscreen">4</episode-num>
-    <category lang="ca">DIVULGACIÓ</category>
-    <category lang="ca">SÈRIE DOCUMENTAL</category>
-    <rating>
-      <value>PÚBLIC ADULT</value>
-    </rating>
-    <subtitles type="teletext"/>
-  </programme>
-  <programme start="20261109002409 +0100" stop="20261110002408 +0100" channel="tv3uhd">
+  <programme start="20261109002409 +0100" stop="20261109043000 +0100" channel="tv3uhd">
     <title lang="ca">Notícies 3CatInfo</title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">86399</length>
+    <length units="seconds">14751</length>
     <episode-num system="onscreen">11652</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
@@ -28,43 +15,57 @@
     </rating>
     <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
+  <programme start="20261109043000 +0100" stop="20261109051553 +0100" channel="tv3uhd">
+    <title lang="ca">Cava de Blues</title>
+    <sub-title lang="ca">13th Magic Skull</sub-title>
+    <desc lang="ca">Cava de Blues és un espai dedicat a les noves creacions de 14 grups del país que es dediquen a aquest gènere musical.En aquesta edició, els grups que hi trobareu són: -A contrablues-Blas Picón &amp; The Junk Espress-Bullfrog Electric Blues Experience-Dusa'ns Flying Blues Band-Dani Baraldés &amp; The XX Band-Emili Baleriola Blues Quartet-Dani Nel·lo &amp; Mario Cobo-Ivan Kovacevic 5 Spots-JG Acoustic Gang-John Big Stone &amp; The Blues Workers-Legacaster! The Hillbilly Trio-Martini Surfers-Susan Santos &amp; The Papa's Red Band-The Paparellos</desc>
+    <length units="seconds">2753</length>
+    <episode-num system="onscreen">18</episode-num>
+    <category lang="ca">MUSICALS</category>
+    <category lang="ca">JAZZ</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <previously-shown/>
+    <icon src="https://img.3cat.cat/multimedia/jpg/0/2/1754910826220.jpg"/>
+  </programme>
   <channel id="tvi">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20261108234643 +0100" stop="20261109002409 +0100" channel="tvi">
-    <title lang="ca">Gent amb DO</title>
-    <sub-title lang="ca">- DOQ Priorat. 'La viticultura heroica'</sub-title>
-    <desc lang="ca">Sense Descripció</desc>
-    <length units="seconds">2246</length>
-    <episode-num system="onscreen">4</episode-num>
-  </programme>
   <programme start="20261109002409 +0100" stop="20261109043000 +0100" channel="tvi">
     <title lang="ca">Notícies 3CatInfo</title>
     <desc lang="ca">Sense Descripció</desc>
     <length units="seconds">14751</length>
     <episode-num system="onscreen">11652</episode-num>
   </programme>
+  <programme start="20261109043000 +0100" stop="20261109051553 +0100" channel="tvi">
+    <title lang="ca">Cava de Blues</title>
+    <sub-title lang="ca">- 13th Magic Skull</sub-title>
+    <desc lang="ca">Sense Descripció</desc>
+    <length units="seconds">2753</length>
+    <episode-num system="onscreen">18</episode-num>
+  </programme>
   <channel id="324">
     <display-name>324</display-name>
   </channel>
-  <programme start="20261108230000 +0100" stop="20261109003000 +0100" channel="324">
+  <programme start="20261109010000 +0100" stop="20261109060000 +0100" channel="324">
     <title lang="ca">Notícies 3CatInfo</title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">5400</length>
-    <episode-num system="onscreen">11651</episode-num>
+    <length units="seconds">18000</length>
+    <episode-num system="onscreen">11652</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <subtitles type="teletext"/>
+    <previously-shown/>
     <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
-  <programme start="20261109003000 +0100" stop="20261109010000 +0100" channel="324">
+  <programme start="20261109060000 +0100" stop="20261109080000 +0100" channel="324">
     <title lang="ca">Notícies 3CatInfo</title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">1800</length>
-    <episode-num system="onscreen">11652</episode-num>
+    <length units="seconds">7200</length>
+    <episode-num system="onscreen">11653</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
@@ -75,11 +76,11 @@
   <channel id="esport3">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20261108230012 +0100" stop="20261109003630 +0100" channel="esport3">
+  <programme start="20261109013205 +0100" stop="20261109030500 +0100" channel="esport3">
     <title lang="ca">Gol a gol</title>
     <sub-title lang="ca">Post At. Madrid-Barça / J12</sub-title>
     <desc lang="ca">'Gol a gol' us ofereix els resums dels partits de futbol de Primera i Segona Divisió. Presentat per Jordi Grau a Esport3, cada dissabte i cada diumenge podeu veure les millors imatges de la jornada de Lliga amb l'anàlisi dels experts, amb especial atenció als equips catalans, sobretot el Barça, el Girona i l'Espanyol.</desc>
-    <length units="seconds">5778</length>
+    <length units="seconds">5575</length>
     <episode-num system="onscreen">1801</episode-num>
     <category lang="ca">ESPORTS</category>
     <category lang="ca">MAGAZINE</category>
@@ -87,30 +88,31 @@
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
+    <previously-shown/>
     <icon src="https://img.ccma.cat/multimedia/jpg/2/1/1698144123212.jpg"/>
   </programme>
-  <programme start="20261109003630 +0100" stop="20261109011434 +0100" channel="esport3">
-    <title lang="ca">Motor a fons</title>
-    <sub-title lang="ca">GP de Qatar</sub-title>
-    <desc lang="ca">Antepenúltima prova del Campionat del Món de motociclisme. Us oferim el més destacat a les curses de MotoGP, Moto2 i Moto3. Amb Xavier Guillén, i l'anàlisi de Montse Sogues i Ramon Forcada.</desc>
-    <length units="seconds">2284</length>
-    <episode-num system="onscreen">961</episode-num>
+  <programme start="20261109030500 +0100" stop="20261109032552 +0100" channel="esport3">
+    <title lang="ca">3CatInfo Esports</title>
+    <desc lang="ca">Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.</desc>
+    <length units="seconds">1252</length>
+    <episode-num system="onscreen">5563</episode-num>
     <category lang="ca">ESPORTS</category>
-    <category lang="ca">MAGAZINE</category>
+    <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <icon src="https://img.ccma.cat/multimedia/jpg/5/7/1678886130275.jpg"/>
+    <previously-shown/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/9/7/1758888682179.jpg"/>
   </programme>
   <channel id="sx3">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20261108233829 +0100" stop="20261108234917 +0100" channel="sx3">
-    <title lang="ca">La gateta Arc iris papallona unicorn</title>
-    <sub-title lang="ca">Un nen gran</sub-title>
-    <desc lang="ca">La Felicity i el Miguel estan molt contents perquè tenen la seva primera feina de cangurs i volen fer-ho molt bé per aconseguir una bona ressenya. El que no s'imaginen és que el nen que han de cuidar és el fill d'uns gegants.</desc>
-    <length units="seconds">648</length>
-    <episode-num system="onscreen">27</episode-num>
+  <programme start="20261109025626 +0100" stop="20261109030626 +0100" channel="sx3">
+    <title lang="ca">Pop, la ciutat de paper</title>
+    <sub-title lang="ca">Volem amb la Fly</sub-title>
+    <desc lang="ca">En l'aventura poptàstica d'avui, la Fly busca una flor molt especial...: una flor arc iris! La cerca porta la Fly una mica massa lluny de Pop, la Ciutat de Paper, i els seus amics els toca la tasca de mirar de trobar-la i dur-la a casa. Se'n sortiran?</desc>
+    <length units="seconds">600</length>
+    <episode-num system="onscreen">36</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
@@ -119,12 +121,12 @@
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20261108234917 +0100" stop="20261108235936 +0100" channel="sx3">
-    <title lang="ca">La gateta Arc iris papallona unicorn</title>
-    <sub-title lang="ca">Els Macarons Mítics</sub-title>
-    <desc lang="ca">El Pollastre Orgànic vol recollir diners amb la venda d'unes galetes per mirar d'evitar el tancament d'un parc. El problema és que són unes galetes molt dolentes i ningú en vol comprar, per molt que s'hi esforcin la Felicity i els seus amics.</desc>
-    <length units="seconds">619</length>
-    <episode-num system="onscreen">28</episode-num>
+  <programme start="20261109030626 +0100" stop="20261109031626 +0100" channel="sx3">
+    <title lang="ca">Pop, la ciutat de paper</title>
+    <sub-title lang="ca">El Zip Exprés</sub-title>
+    <desc lang="ca">En l'aventura poptàstica d'avui, la colla d'amics pugen al Zip Exprés, un tren que els durà per tot Pop, la ciutat de paper. El Zip els vol portar a veure unes llums del cel brillants que són espectaculars, i per això tots pugen al tren per anar-hi. Però els sorgeix un imprevist. Arribaran a temps a la seva destinació?</desc>
+    <length units="seconds">600</length>
+    <episode-num system="onscreen">37</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
@@ -136,28 +138,28 @@
   <channel id="c33">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20261108234648 +0100" stop="20261109001451 +0100" channel="c33">
-    <title lang="ca">Els hotels més remots del món</title>
-    <sub-title lang="ca">Budir - Islàndia</sub-title>
-    <desc lang="ca">Situat enmig d'un camp de lava a la part oest més remota d'Islàndia, l'hotel Budir existeix des dels anys 40. Propietat d'un empresari local, dur al damunt la història d'aquestes terres desolades, i el personal, que no ha canviat des de fa anys, prové del mateix poble de la península. Atrau clients habituals que utilitzen l'hotel com un lloc de retir davant de l'oceà Atlàntic. Es creu que Jules Vernes va localitzar l'escenari d'un dels seus llibres, 'Viatge al centre de la terra', just al costat de la icònica església negra que hi ha al davant de l'hotel.</desc>
-    <length units="seconds">1683</length>
-    <episode-num system="onscreen">7</episode-num>
-    <category lang="ca">DIVULGACIÓ</category>
-    <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
+  <programme start="20261109025020 +0100" stop="20261109034002 +0100" channel="c33">
+    <title lang="ca">El Crac</title>
+    <sub-title lang="ca">El gran compromís</sub-title>
+    <desc lang="ca">El Joel i el Julio assisteixen a l'estrena de l'obra de teatre amateur d'una antiga amiga. L'obra resultarà ser una tortura llarga i espantosa, i el Joel es veurà involucrat sense voler-ho en un posterior muntatge de la companyia amateur del qual li resultarà impossible escapar-se.</desc>
+    <length units="seconds">2982</length>
+    <episode-num system="onscreen">18</episode-num>
+    <category lang="ca">FICCIÓ</category>
+    <category lang="ca">SÈRIE DRAMÀTICA</category>
     <rating>
-      <value>TOTS ELS PÚBLICS</value>
+      <value>PÚBLIC ADULT</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20261109001451 +0100" stop="20261109004028 +0100" channel="c33">
-    <title lang="ca">Els hotels més remots del món</title>
-    <sub-title lang="ca">Xinalani</sub-title>
-    <desc lang="ca">L'Ana Paula i el seu marit, elJean-Baptiste, són els cofundadors d'aquest retir de ioga a la costa mexicana, al costat del poble pesquer de Quimixto. Amb l'ajuda de la comunitat i dels seus pares, han anat construint a poc a poc aquest paradís, de cara a les balenes de la costa del Pacífic. Els llargs anys de construcció, juntament amb la serenitat i l'aïllament total d'aquest lloc, els van conduir cap a l'espiritualitat. Avui en aquest lloc s'hi percep una molt forta, i hi ha xamans que hi van regularment per iniciar els viatgers i els adeptes al ioga.</desc>
-    <length units="seconds">1537</length>
-    <episode-num system="onscreen">5</episode-num>
-    <category lang="ca">DIVULGACIÓ</category>
-    <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
+  <programme start="20261109034002 +0100" stop="20261109042844 +0100" channel="c33">
+    <title lang="ca">Benvinguts a la família</title>
+    <sub-title lang="ca">El robatori</sub-title>
+    <desc lang="ca">Com que ni el Manu ni el Nil diuen tenir l'anell, la Mama no dubta que aquest és a la caixa forta del joier. La família planejarà un robatori per recuperar l'anell i així aconseguir el perdó de la Mama. </desc>
+    <length units="seconds">2922</length>
+    <episode-num system="onscreen">16</episode-num>
+    <category lang="ca">FICCIÓ</category>
+    <category lang="ca">SÈRIE DRAMÀTICA</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
