@@ -3,66 +3,23 @@
   <channel id="tv3uhd">
     <display-name>TV3UHD</display-name>
   </channel>
-  <programme start="20261110173434 +0100" stop="20261110191344 +0100" channel="tv3uhd">
-    <title lang="ca">La Selva</title>
-    <desc lang="ca">Xavier Grasset us convida a passar la tarda en una cafeteria on regna el bon ambient. El lloc on saps que sempre hi trobaràs cares conegudes i conversa interessant. A 'La selva' s'hi parla de tot i hi pot passar de tot. Amb la mirada posada a l'actualitat que marca el dia, però també a les curiositats més sorprenents. Des del recolliment d'un bar on t'hi trobes com a casa, però amb una finestra oberta al que passa en directe arreu de Catalunya i al món. Un programa amb vocació d'aparador cultural i gastronòmic del país.</desc>
-    <length units="seconds">5950</length>
-    <episode-num system="onscreen">448</episode-num>
-    <category lang="ca">ENTRETENIMENT</category>
-    <category lang="ca">MAGAZINE</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <subtitles type="teletext"/>
-    <icon src="https://img.3cat.cat/multimedia/jpg/6/3/1725871608136.jpg"/>
-  </programme>
-  <programme start="20261110191344 +0100" stop="20261110201500 +0100" channel="tv3uhd">
-    <title lang="ca">Atrapa'm si pots</title>
-    <desc lang="ca">'Atrapa'm si pots' és un 'quiz show' clàssic, de preguntes i respostes, presentat per Llucià Ferrer, en què sis concursants competeixen per arribar a la fase final i guanyar el pot. 'Atrapa'm si pots' és entreteniment pur i on gairebé és més important passar-s'ho bé que els diners. És un concurs en què pesa més la intuïció que no els coneixements acadèmics, més l'estratègia en el joc que no la sort.</desc>
-    <length units="seconds">3676</length>
-    <episode-num system="onscreen">996</episode-num>
-    <category lang="ca">ENTRETENIMENT</category>
-    <category lang="ca">CONCURS</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <subtitles type="teletext"/>
-  </programme>
-  <channel id="tvi">
-    <display-name>TVI</display-name>
-  </channel>
-  <programme start="20261110173435 +0100" stop="20261110191344 +0100" channel="tvi">
-    <title lang="ca">La Selva</title>
-    <desc lang="ca">Xavier Grasset us convida a passar la tarda en una cafeteria on regna el bon ambient. El lloc on saps que sempre hi trobaràs cares conegudes i conversa interessant. A 'La selva' s'hi parla de tot i hi pot passar de tot. Amb la mirada posada a l'actualitat que marca el dia, però també a les curiositats més sorprenents. Des del recolliment d'un bar on t'hi trobes com a casa, però amb una finestra oberta al que passa en directe arreu de Catalunya i al món. Un programa amb vocació d'aparador cultural i gastronòmic del país.</desc>
-    <length units="seconds">5949</length>
-    <episode-num system="onscreen">448</episode-num>
-    <category lang="ca">ENTRETENIMENT</category>
-    <category lang="ca">MAGAZINE</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <previously-shown/>
-    <icon src="https://img.3cat.cat/multimedia/jpg/6/3/1725871608136.jpg"/>
-  </programme>
-  <programme start="20261110191344 +0100" stop="20261110201500 +0100" channel="tvi">
-    <title lang="ca">Atrapa'm si pots</title>
-    <desc lang="ca">'Atrapa'm si pots' és un 'quiz show' clàssic, de preguntes i respostes, presentat per Llucià Ferrer, en què sis concursants competeixen per arribar a la fase final i guanyar el pot. 'Atrapa'm si pots' és entreteniment pur i on gairebé és més important passar-s'ho bé que els diners. És un concurs en què pesa més la intuïció que no els coneixements acadèmics, més l'estratègia en el joc que no la sort.</desc>
-    <length units="seconds">3676</length>
-    <episode-num system="onscreen">996</episode-num>
-    <category lang="ca">ENTRETENIMENT</category>
-    <category lang="ca">CONCURS</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-  </programme>
-  <channel id="324">
-    <display-name>324</display-name>
-  </channel>
-  <programme start="20261110183000 +0100" stop="20261110200000 +0100" channel="324">
+  <programme start="20261110235950 +0100" stop="20261111060000 +0100" channel="tv3uhd">
     <title lang="ca">Notícies 3CatInfo</title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">5400</length>
-    <episode-num system="onscreen">11667</episode-num>
+    <length units="seconds">21610</length>
+    <episode-num system="onscreen">11670</episode-num>
+    <category lang="ca">ACTUALITAT</category>
+    <category lang="ca">INFORMATIU DIÀRI</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
+  </programme>
+  <programme start="20261111060000 +0100" stop="20261111080000 +0100" channel="tv3uhd">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="seconds">7200</length>
+    <episode-num system="onscreen">11671</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
@@ -71,58 +28,97 @@
     <subtitles type="teletext"/>
     <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
-  <programme start="20261110200000 +0100" stop="20261110210000 +0100" channel="324">
+  <channel id="tvi">
+    <display-name>TVI</display-name>
+  </channel>
+  <programme start="20261110235926 +0100" stop="20261111060000 +0100" channel="tvi">
     <title lang="ca">Notícies 3CatInfo</title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">3600</length>
-    <episode-num system="onscreen">11668</episode-num>
+    <length units="seconds">21634</length>
+    <episode-num system="onscreen">11670</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <subtitles type="teletext"/>
+    <previously-shown/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
+  </programme>
+  <programme start="20261111060000 +0100" stop="20261111080000 +0100" channel="tvi">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="seconds">7200</length>
+    <episode-num system="onscreen">11671</episode-num>
+    <category lang="ca">ACTUALITAT</category>
+    <category lang="ca">INFORMATIU DIÀRI</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
+  </programme>
+  <channel id="324">
+    <display-name>324</display-name>
+  </channel>
+  <programme start="20261111000000 +0100" stop="20261111003000 +0100" channel="324">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="seconds">1800</length>
+    <episode-num system="onscreen">11669</episode-num>
+    <category lang="ca">ACTUALITAT</category>
+    <category lang="ca">INFORMATIU DIÀRI</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
+  </programme>
+  <programme start="20261111003000 +0100" stop="20261111010000 +0100" channel="324">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="seconds">1800</length>
+    <episode-num system="onscreen">11670</episode-num>
+    <category lang="ca">ACTUALITAT</category>
+    <category lang="ca">INFORMATIU DIÀRI</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
     <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
   <channel id="esport3">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20261110185952 +0100" stop="20261110202500 +0100" channel="esport3">
-    <title lang="ca">Tot Costa</title>
-    <sub-title lang="ca">Bernal valora l'arribada de Rodri</sub-title>
-    <desc lang="ca">Marc Bernal passa pel 'Tot costa' per analitzar l'inici de temporada. En parlem amb Gemma Mallorca, Sergi Solé i Miguel Rico. També sentim Fermín i De Jong. Farem la prèvia del Barça-Arsenal i el 'Cinquè quart' amb Laura Antoja, Xavi Ballesteros i Ernest Macià</desc>
-    <length units="seconds">5108</length>
-    <episode-num system="onscreen">1033</episode-num>
-    <category lang="ca">ESPORTS</category>
+  <programme start="20261110235954 +0100" stop="20261111060000 +0100" channel="esport3">
+    <title lang="ca">Mésnit</title>
+    <desc lang="ca">El 'Mésnit' arriba a la desena temporada, amb Marina Romero al capdavant de l'espai i amb la voluntat de continuar sent un centre de debat d'idees i d'anàlisi de l'activitat política.</desc>
+    <length units="seconds">21606</length>
+    <episode-num system="onscreen">2197</episode-num>
+    <category lang="ca">ACTUALITAT</category>
+    <category lang="ca">DEBAT</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <previously-shown/>
+  </programme>
+  <programme start="20261111060000 +0100" stop="20261111080000 +0100" channel="esport3">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="seconds">7200</length>
+    <episode-num system="onscreen">11671</episode-num>
+    <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <subtitles type="teletext"/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/0/4/1706209193140.jpg"/>
-  </programme>
-  <programme start="20261110202500 +0100" stop="20261110213120 +0100" channel="esport3">
-    <title lang="ca">Bàsquet</title>
-    <sub-title lang="ca">Kids&amp;Us Manresa-Bosna Sarajevo / Eurocup / J7</sub-title>
-    <desc lang="ca">El conjunt del Bages aspira a la cinquena victòria en set partits per seguir a la part alta de la classificació.</desc>
-    <length units="seconds">3980</length>
-    <episode-num system="onscreen">102</episode-num>
-    <category lang="ca">ESPORTS</category>
-    <category lang="ca">RETRANSMISSIONS ESPORTS</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <icon src="https://img.3cat.cat/multimedia/jpg/5/6/1759922947765.jpg"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
   <channel id="sx3">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20261110185148 +0100" stop="20261110190318 +0100" channel="sx3">
-    <title lang="ca">La Patrulla Peluda</title>
-    <sub-title lang="ca">Missió Peluda: La Patrulla salva els amics de la princesa</sub-title>
-    <desc lang="ca">Hi ha tot d'animals que corren lliures pel castell de Bordaburg mentre la princesa no hi és. En Ryder i la Patrulla Peluda els hauran de controlar.</desc>
-    <length units="seconds">690</length>
-    <episode-num system="onscreen">220</episode-num>
+  <programme start="20261110235250 +0100" stop="20261111001350 +0100" channel="sx3">
+    <title lang="ca">Els germans Kratt</title>
+    <sub-title lang="ca">Aquagranota</sub-title>
+    <desc lang="ca">Tot estudiant les granotes bramadores, en Martin i en Chris descobreixen que en Zach Virusmàtic ha contaminat el riu i ha posat en perill tot el seu cicle vital. Per salvar tota la fauna dels residus tòxics, els germans Kratt hauran d'activar el poder de granota, però hauran de passar per tot el seu cicle biològic. I això vol dir que començaran sent capgrossos!</desc>
+    <length units="seconds">1260</length>
+    <episode-num system="onscreen">54</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
@@ -131,12 +127,12 @@
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20261110190318 +0100" stop="20261110192512 +0100" channel="sx3">
-    <title lang="ca">Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
-    <sub-title lang="ca">El col·leccionista</sub-title>
-    <desc lang="ca">La Marinette va a parlar amb el mestre Fu i li explica que va trobar el llibre d'encanteris i que sospita que l'Esfinx és en realitat el pare de l'Adrien. Mentrestant,el Gabriel Agreste idearà un pla per allunyar les sospites de Ladybag i del Gat Noir per sempre més. Al mateix temps, la Marinette farà tots els possiblesperquè l'Adrien pugui tornar a l'institut. </desc>
-    <length units="seconds">1314</length>
-    <episode-num system="onscreen">27</episode-num>
+  <programme start="20261111001350 +0100" stop="20261111003451 +0100" channel="sx3">
+    <title lang="ca">Els germans Kratt</title>
+    <sub-title lang="ca">Globus i peix globus</sub-title>
+    <desc lang="ca">Mentre estudiaven els peixos globus, els germans Kratt s'han trobat la Donita Donata, la malèfica dissenyadora que explota els animals en perill d'extinció, i han decidit miniaturitzar-se per seguir-la. Ara el problema és que se'ls ha endut un corrent marí de plàncton i estan perduts entre 60.000 bilions de litres d'aigua! Com s'ho faran per trobar-los?!</desc>
+    <length units="seconds">1261</length>
+    <episode-num system="onscreen">55</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
@@ -148,29 +144,18 @@
   <channel id="c33">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20261110184325 +0100" stop="20261110193628 +0100" channel="c33">
-    <title lang="ca">Philippe Echaroux, il.luminar el món</title>
-    <sub-title lang="ca">Laponie</sub-title>
-    <desc lang="ca">Philippe Echaroux viatja al nord d'Escandinàvia per conèixer Sapmi i els samis, que en català s'anomenen tradicionalment 'Lapònia' i 'lapons'. Actualment, els samis rebutgen aquestes denominacions perquè les perceben com a pejoratives i consideren que són un poble minoritzat i sotmès a les lleis dels estats que s'han repartit els seus territoris. Amb els seus retrats projectats a la natura, Philippe Echaroux vol ajudar a fer visible la situació d'aquest poble.</desc>
-    <length units="seconds">3183</length>
-    <episode-num system="onscreen">2</episode-num>
-    <category lang="ca">DIVULGACIÓ</category>
-    <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <subtitles type="teletext"/>
-    <previously-shown/>
-    <icon src="https://img.3cat.cat/multimedia/jpg/4/1/1784276124514.jpg"/>
+  <programme start="20261110235954 +0100" stop="20261111060000 +0100" channel="c33">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <desc lang="ca">Sense Descripció</desc>
+    <length units="seconds">21606</length>
   </programme>
-  <programme start="20261110193628 +0100" stop="20261110200520 +0100" channel="c33">
-    <title lang="ca">Els hotels més remots del món</title>
-    <sub-title lang="ca">Budir - Islàndia</sub-title>
-    <desc lang="ca">Situat enmig d'un camp de lava a la part oest més remota d'Islàndia, l'hotel Budir existeix des dels anys 40. Propietat d'un empresari local, dur al damunt la història d'aquestes terres desolades, i el personal, que no ha canviat des de fa anys, prové del mateix poble de la península. Atrau clients habituals que utilitzen l'hotel com un lloc de retir davant de l'oceà Atlàntic. Es creu que Jules Vernes va localitzar l'escenari d'un dels seus llibres, 'Viatge al centre de la terra', just al costat de la icònica església negra que hi ha al davant de l'hotel.</desc>
-    <length units="seconds">1732</length>
-    <episode-num system="onscreen">7</episode-num>
-    <category lang="ca">DIVULGACIÓ</category>
-    <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
+  <programme start="20261111060000 +0100" stop="20261111060345 +0100" channel="c33">
+    <title lang="ca">Videoclips</title>
+    <sub-title lang="ca">Intana - Què vols de mi</sub-title>
+    <length units="seconds">225</length>
+    <episode-num system="onscreen">1695</episode-num>
+    <category lang="ca">MUSICALS</category>
+    <category lang="ca">ALTRES</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
@@ -186,18 +171,6 @@
   <channel id="oca3">
     <display-name>OCA3</display-name>
   </channel>
-  <programme start="20261110185921 +0100" stop="20261110203021 +0100" channel="oca3">
-    <title lang="ca">Tot Costa</title>
-    <desc lang="ca">Marc Bernal passa pel 'Tot costa' per analitzar l'inici de temporada. En parlem amb Gemma Mallorca, Sergi Solé i Miguel Rico. També sentim Fermín i De Jong. Farem la prèvia del Barça-Arsenal i el 'Cinquè quart' amb Laura Antoja, Xavi Ballesteros i Ernest Macià</desc>
-    <length units="seconds">5460</length>
-    <episode-num system="onscreen">1033</episode-num>
-    <category lang="ca">ESPORTS</category>
-    <category lang="ca">INFORMATIU DIÀRI</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <icon src="https://img.ccma.cat/multimedia/jpg/0/4/1706209193140.jpg"/>
-  </programme>
   <channel id="oca4">
     <display-name>OCA4</display-name>
   </channel>
