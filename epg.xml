@@ -3,92 +3,100 @@
   <channel id="tv3uhd">
     <display-name>TV3UHD</display-name>
   </channel>
-  <programme start="20261109210000 +0100" stop="20261109220556 +0100" channel="tv3uhd">
-    <title lang="ca">Telenotícies vespre</title>
-    <length units="seconds">3956</length>
-    <episode-num system="onscreen">7383</episode-num>
+  <programme start="20261110031258 +0100" stop="20261110043000 +0100" channel="tv3uhd">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="seconds">4622</length>
+    <episode-num system="onscreen">11661</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <subtitles type="teletext"/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/7/2/1758026176427.jpg"/>
+    <previously-shown/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
-  <programme start="20261109220556 +0100" stop="20261109232208 +0100" channel="tv3uhd">
-    <title lang="ca">'El foraster' al Palau Sant Jordi</title>
-    <sub-title lang="ca">'El foraster' al Palau Sant Jordi</sub-title>
-    <desc lang="ca">Quim Masferrer surt del seu format habitual per enfrontar-se al repte més gran de la història d''El foraster': omplir el Palau Sant Jordi. Un esdeveniment multitudinari ple d'humor i emoció per celebrar les 10 temporades i els més de 13 anys de trajectòria del programa. Un gran espectacle que comptarà amb els retrobaments més emblemàtics de la història d'El Foraster, música en directe, actuacions especials i moltes sorpreses.</desc>
-    <length units="seconds">4572</length>
-    <episode-num system="onscreen">1</episode-num>
-    <category lang="ca">ENTRETENIMENT</category>
-    <category lang="ca">TALK-SHOW</category>
+  <programme start="20261110043000 +0100" stop="20261110051548 +0100" channel="tv3uhd">
+    <title lang="ca">Cava de Blues</title>
+    <sub-title lang="ca">Exili a Elba</sub-title>
+    <desc lang="ca">Cava de Blues és un espai dedicat a les noves creacions de 14 grups del país que es dediquen a aquest gènere musical.En aquesta edició, els grups que hi trobareu són: -A contrablues-Blas Picón &amp; The Junk Espress-Bullfrog Electric Blues Experience-Dusa'ns Flying Blues Band-Dani Baraldés &amp; The XX Band-Emili Baleriola Blues Quartet-Dani Nel·lo &amp; Mario Cobo-Ivan Kovacevic 5 Spots-JG Acoustic Gang-John Big Stone &amp; The Blues Workers-Legacaster! The Hillbilly Trio-Martini Surfers-Susan Santos &amp; The Papa's Red Band-The Paparellos</desc>
+    <length units="seconds">2748</length>
+    <episode-num system="onscreen">19</episode-num>
+    <category lang="ca">MUSICALS</category>
+    <category lang="ca">JAZZ</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <subtitles type="teletext"/>
+    <previously-shown/>
+    <icon src="https://img.3cat.cat/multimedia/jpg/0/2/1754910826220.jpg"/>
   </programme>
   <channel id="tvi">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20261109210000 +0100" stop="20261109220556 +0100" channel="tvi">
-    <title lang="ca">Telenotícies vespre</title>
-    <length units="seconds">3956</length>
-    <episode-num system="onscreen">7383</episode-num>
+  <programme start="20261110031258 +0100" stop="20261110043000 +0100" channel="tvi">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="seconds">4622</length>
+    <episode-num system="onscreen">11661</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <icon src="https://img.ccma.cat/multimedia/jpg/7/2/1758026176427.jpg"/>
+    <previously-shown/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
-  <programme start="20261109220556 +0100" stop="20261109232208 +0100" channel="tvi">
-    <title lang="ca">'El foraster' al Palau Sant Jordi</title>
-    <sub-title lang="ca">'El foraster' al Palau Sant Jordi</sub-title>
-    <desc lang="ca">Quim Masferrer surt del seu format habitual per enfrontar-se al repte més gran de la història d''El foraster': omplir el Palau Sant Jordi. Un esdeveniment multitudinari ple d'humor i emoció per celebrar les 10 temporades i els més de 13 anys de trajectòria del programa. Un gran espectacle que comptarà amb els retrobaments més emblemàtics de la història d'El Foraster, música en directe, actuacions especials i moltes sorpreses.</desc>
-    <length units="seconds">4572</length>
-    <episode-num system="onscreen">1</episode-num>
-    <category lang="ca">ENTRETENIMENT</category>
-    <category lang="ca">TALK-SHOW</category>
+  <programme start="20261110043000 +0100" stop="20261110051548 +0100" channel="tvi">
+    <title lang="ca">Cava de Blues</title>
+    <sub-title lang="ca">Exili a Elba</sub-title>
+    <desc lang="ca">Cava de Blues és un espai dedicat a les noves creacions de 14 grups del país que es dediquen a aquest gènere musical.En aquesta edició, els grups que hi trobareu són: -A contrablues-Blas Picón &amp; The Junk Espress-Bullfrog Electric Blues Experience-Dusa'ns Flying Blues Band-Dani Baraldés &amp; The XX Band-Emili Baleriola Blues Quartet-Dani Nel·lo &amp; Mario Cobo-Ivan Kovacevic 5 Spots-JG Acoustic Gang-John Big Stone &amp; The Blues Workers-Legacaster! The Hillbilly Trio-Martini Surfers-Susan Santos &amp; The Papa's Red Band-The Paparellos</desc>
+    <length units="seconds">2748</length>
+    <episode-num system="onscreen">19</episode-num>
+    <category lang="ca">MUSICALS</category>
+    <category lang="ca">JAZZ</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
+    <previously-shown/>
+    <icon src="https://img.3cat.cat/multimedia/jpg/0/2/1754910826220.jpg"/>
   </programme>
   <channel id="324">
     <display-name>324</display-name>
   </channel>
-  <programme start="20261109210000 +0100" stop="20261109220500 +0100" channel="324">
-    <title lang="ca">Telenotícies vespre</title>
-    <length units="seconds">3900</length>
-    <episode-num system="onscreen">7383</episode-num>
+  <programme start="20261110010000 +0100" stop="20261110060000 +0100" channel="324">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="seconds">18000</length>
+    <episode-num system="onscreen">11661</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <icon src="https://img.ccma.cat/multimedia/jpg/7/2/1758026176427.jpg"/>
+    <previously-shown/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
-  <programme start="20261109220500 +0100" stop="20261110000000 +0100" channel="324">
-    <title lang="ca">Mésnit</title>
-    <desc lang="ca">El 'Mésnit' arriba a la desena temporada, amb Marina Romero al capdavant de l'espai i amb la voluntat de continuar sent un centre de debat d'idees i d'anàlisi de l'activitat política.</desc>
-    <length units="seconds">6900</length>
-    <episode-num system="onscreen">2196</episode-num>
+  <programme start="20261110060000 +0100" stop="20261110080000 +0100" channel="324">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="seconds">7200</length>
+    <episode-num system="onscreen">11662</episode-num>
     <category lang="ca">ACTUALITAT</category>
-    <category lang="ca">DEBAT</category>
+    <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <subtitles type="teletext"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
   <channel id="esport3">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20261109203310 +0100" stop="20261109211000 +0100" channel="esport3">
-    <title lang="ca">Esport Club</title>
-    <sub-title lang="ca">Atlètic de Madrid-Barça, la concentració de l'Espanyol i tertúlia</sub-title>
-    <desc lang="ca">El Barça assalta el Metropolitano amb un gran Fermín. Ho analitzem amb la lupa de l'Albert Blaya. Eder Sarabia concentrarà l'Espanyol a la Garrotxa. Avui, Sabadell-Reial Societat B a la Nova Creu Alta. A la tertúlia ens acompanyen Maria Josep Hostalrich, Orfeo Suárez i Pichi Alonso</desc>
-    <length units="seconds">2210</length>
-    <episode-num system="onscreen">3280</episode-num>
+  <programme start="20261110024521 +0100" stop="20261110041856 +0100" channel="esport3">
+    <title lang="ca">Tot Costa</title>
+    <sub-title lang="ca">Lamine, amb molèsties al genoll</sub-title>
+    <desc lang="ca">Lamine Yamal va acabar el partit al Metropolitano amb unes molèsties. Ens ho explica Laia Tudel i analitzem la situació amb Dani Senabre, Anaïs Martí i Marcos López. Amb Ricard Torquemada passem pel 'Torquelab' De Jong i el lateral-migcampista. També parlarem de com s'ha viscut la derrota matalassera a Madrid amb Maria Josep Hostalrich i, amb Sergi Andreu, sabrem com s'ha viscut el debut d'Eder Sarabia a la banqueta de l'Espanyol.</desc>
+    <length units="seconds">5615</length>
+    <episode-num system="onscreen">1032</episode-num>
     <category lang="ca">ESPORTS</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
@@ -96,31 +104,32 @@
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/7/3/1698145091337.jpg"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/0/4/1706209193140.jpg"/>
   </programme>
-  <programme start="20261109211000 +0100" stop="20261109215828 +0100" channel="esport3">
-    <title lang="ca">E3D</title>
-    <sub-title lang="ca">Homenatge Toni Bou 40 títols</sub-title>
-    <desc lang="ca">L'equip Repsol Honda HRC homenatja el pilot de Piera per haver assolit els 40 títols de campió del món de trial. La festa, que inclou una exhibició del mateix Toni Bou, es fa Moll de la Marina de Barcelona</desc>
-    <length units="seconds">2908</length>
-    <episode-num system="onscreen">8154</episode-num>
+  <programme start="20261110041856 +0100" stop="20261110061118 +0100" channel="esport3">
+    <title lang="ca">Futbol</title>
+    <sub-title lang="ca">FC Barcelona-Madrid CFF / Lliga F / J10</sub-title>
+    <desc lang="ca">Les blaugranes volen refermar el liderat contra el conjunt madrileny que també es troba situat a la zona alta de la classificació.</desc>
+    <length units="seconds">6742</length>
+    <episode-num system="onscreen">61</episode-num>
     <category lang="ca">ESPORTS</category>
     <category lang="ca">RETRANSMISSIONS ESPORTS</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
+    <subtitles type="teletext"/>
     <previously-shown/>
-    <icon src="https://img.3cat.cat/multimedia/jpg/7/5/1793796064857.jpg"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/0/8/1730389343680.jpg"/>
   </programme>
   <channel id="sx3">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20261109210000 +0100" stop="20261109212247 +0100" channel="sx3">
-    <title lang="ca">One piece</title>
-    <sub-title lang="ca">És colpidor! Les notícies fan trontollar el Nou Món!</sub-title>
-    <desc lang="ca">El món reacciona davant la notícia de l'anunci impactant d'en Doflamingo, en Law i la tripulació del Barret de Palla planegen el pas següent de la seva aliança, i reapareix una cara coneguda del passat!</desc>
-    <length units="seconds">1367</length>
-    <episode-num system="onscreen">626</episode-num>
+  <programme start="20261110032800 +0100" stop="20261110034838 +0100" channel="sx3">
+    <title lang="ca">Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
+    <sub-title lang="ca">Capitana Hardrock</sub-title>
+    <desc lang="ca">Avui és la festa de la música, i la Marinette i els seus amics es preparen per fer un concert a la barcassa de la mare de la Juleka. El problema és que fan massa soroll, i el Roger, el policia insisteix perquè redueixin els decibels. L'Anarka, la mare de la Juleka no s'ho prendrà gaire bé, i l'Esfinx ho aprofitarà, com sempre.</desc>
+    <length units="seconds">1238</length>
+    <episode-num system="onscreen">42</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
@@ -129,12 +138,12 @@
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20261109212247 +0100" stop="20261109214201 +0100" channel="sx3">
-    <title lang="ca">One piece</title>
-    <sub-title lang="ca">Anem a explorar! Dressrosa, l'illa de l'amor i la passió!</sub-title>
-    <desc lang="ca">La tripulació del Barret de Palla i companyia s'endinsen a explorar Dressrosa, una terra plena de dones boniques, menjar deliciós i joguines vivents que conviuen amb les persones.</desc>
-    <length units="seconds">1154</length>
-    <episode-num system="onscreen">627</episode-num>
+  <programme start="20261110034838 +0100" stop="20261110040945 +0100" channel="sx3">
+    <title lang="ca">Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
+    <sub-title lang="ca">El patinador</sub-title>
+    <desc lang="ca">L'Adrien creu que potser estàs enamorat de la Kagami, la companya d'esgrima, i la convida a anar a patinar sobre gel. Però li demana a la Marinette que l'acompanyi. Allà, el professor de patinatge s'enfronta amb el problema del tancament del palau de gel, i l'Esfinx ho aprofitarà per convertir-lo en un nou supermalvat, el Patinador.</desc>
+    <length units="seconds">1267</length>
+    <episode-num system="onscreen">43</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
@@ -146,29 +155,28 @@
   <channel id="c33">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20261109210252 +0100" stop="20261109211315 +0100" channel="c33">
-    <title lang="ca">Gran!</title>
-    <sub-title lang="ca">Tirant lo Blanc</sub-title>
-    <desc lang="ca">És l'obra més important de l'escriptor i cavaller valencià Joanot Martorell i el màxim exponent de la novel·la cavalleresca en català. L'autor d''El Quixot', Miguel de Cervantes, va assegurar que 'Tirant lo Blanc' era el millor llibre del món. L'obra trencava amb els costums literaris del seu temps i recreava amb realisme l'ambient cavalleresc del segle XV.</desc>
-    <length units="seconds">623</length>
-    <episode-num system="onscreen">6</episode-num>
-    <category lang="ca">ENTRETENIMENT</category>
-    <category lang="ca">ALTRES</category>
+  <programme start="20261110031507 +0100" stop="20261110034215 +0100" channel="c33">
+    <title lang="ca">Òpera en texans</title>
+    <sub-title lang="ca">Carmen</sub-title>
+    <desc lang="ca">Segurament l'òpera amb més hits de la història de la música. 'Carmen' és arrabatadora, és apassionada, és la 'femme fatale' per excel·lència. 'Carmen' és el paper més desitjat per totes les mezzosopranos i l'èxit més universal de l'òpera francesa. No us perdeu el moment 'Plaça Catalunya'. Veureu què passa quan es treu un piano al carrer i comences a tocar 'Carmen'. I no us perdeu tampoc la versió de la seguidilla de Maika Makovski.</desc>
+    <length units="seconds">1628</length>
+    <episode-num system="onscreen">1</episode-num>
+    <category lang="ca">MUSICALS</category>
+    <category lang="ca">ÒPERA</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
-    <icon src="https://img.ccma.cat/multimedia//jpg/0/1/1714397571710.jpg"/>
   </programme>
-  <programme start="20261109211315 +0100" stop="20261109214148 +0100" channel="c33">
-    <title lang="ca">Jet lag</title>
-    <sub-title lang="ca">DIUMENGE</sub-title>
-    <desc lang="ca">Per fi han obert a la ciutat un bordell per a dones. L' Esther, la Carla i la Diana hi van. La Mariona no, perquè està enamorada. L'únic problema és que no sap de qui.</desc>
-    <length units="seconds">1713</length>
-    <episode-num system="onscreen">11</episode-num>
-    <category lang="ca">FICCIÓ</category>
-    <category lang="ca">TELESÈRIE</category>
+  <programme start="20261110034215 +0100" stop="20261110040546 +0100" channel="c33">
+    <title lang="ca">Òpera en texans</title>
+    <sub-title lang="ca">Pagliacci</sub-title>
+    <desc lang="ca">Considerada l'òpera perfecta. Intensa, realista, basada en fets reals, amb personatges com nosaltres que viuen una tragèdia. Només dues hores de gran música. I amb una ària que hem sentit mil vegades a pel·lícules, anuncis i sèries. Aquí sentireu una versió exquisida del Petit de Cal Eril. L'òpera ideal per enamorar-se de l'òpera.</desc>
+    <length units="seconds">1411</length>
+    <episode-num system="onscreen">2</episode-num>
+    <category lang="ca">MUSICALS</category>
+    <category lang="ca">ÒPERA</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
