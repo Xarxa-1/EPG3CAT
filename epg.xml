@@ -3,10 +3,10 @@
   <channel id="tv3uhd">
     <display-name>TV3UHD</display-name>
   </channel>
-  <programme start="20261110235950 +0100" stop="20261111060000 +0100" channel="tv3uhd">
+  <programme start="20261110235953 +0100" stop="20261111060000 +0100" channel="tv3uhd">
     <title lang="ca">Notícies 3CatInfo</title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">21610</length>
+    <length units="seconds">21607</length>
     <episode-num system="onscreen">11670</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
@@ -59,46 +59,20 @@
   <channel id="324">
     <display-name>324</display-name>
   </channel>
-  <programme start="20261111000000 +0100" stop="20261111003000 +0100" channel="324">
+  <programme start="20261111010000 +0100" stop="20261111060000 +0100" channel="324">
     <title lang="ca">Notícies 3CatInfo</title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">1800</length>
-    <episode-num system="onscreen">11669</episode-num>
-    <category lang="ca">ACTUALITAT</category>
-    <category lang="ca">INFORMATIU DIÀRI</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
-  </programme>
-  <programme start="20261111003000 +0100" stop="20261111010000 +0100" channel="324">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">1800</length>
+    <length units="seconds">18000</length>
     <episode-num system="onscreen">11670</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
+    <previously-shown/>
     <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
-  <channel id="esport3">
-    <display-name>ESPORT3</display-name>
-  </channel>
-  <programme start="20261110235954 +0100" stop="20261111060000 +0100" channel="esport3">
-    <title lang="ca">Mésnit</title>
-    <desc lang="ca">El 'Mésnit' arriba a la desena temporada, amb Marina Romero al capdavant de l'espai i amb la voluntat de continuar sent un centre de debat d'idees i d'anàlisi de l'activitat política.</desc>
-    <length units="seconds">21606</length>
-    <episode-num system="onscreen">2197</episode-num>
-    <category lang="ca">ACTUALITAT</category>
-    <category lang="ca">DEBAT</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <previously-shown/>
-  </programme>
-  <programme start="20261111060000 +0100" stop="20261111080000 +0100" channel="esport3">
+  <programme start="20261111060000 +0100" stop="20261111080000 +0100" channel="324">
     <title lang="ca">Notícies 3CatInfo</title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <length units="seconds">7200</length>
@@ -110,15 +84,29 @@
     </rating>
     <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
+  <channel id="esport3">
+    <display-name>ESPORT3</display-name>
+  </channel>
+  <programme start="20261110235954 +0100" stop="20261111060000 +0100" channel="esport3">
+    <title lang="ca">Emissió de TV3 per ES3</title>
+    <desc lang="ca">Sense Descripció</desc>
+    <length units="seconds">21606</length>
+    <episode-num system="onscreen">2197</episode-num>
+  </programme>
+  <programme start="20261111060000 +0100" stop="20261112003000 +0100" channel="esport3">
+    <title lang="ca">Emissió de TV3 per ES3</title>
+    <desc lang="ca">Sense Descripció</desc>
+    <length units="seconds">66600</length>
+  </programme>
   <channel id="sx3">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20261110235250 +0100" stop="20261111001350 +0100" channel="sx3">
-    <title lang="ca">Els germans Kratt</title>
-    <sub-title lang="ca">Aquagranota</sub-title>
-    <desc lang="ca">Tot estudiant les granotes bramadores, en Martin i en Chris descobreixen que en Zach Virusmàtic ha contaminat el riu i ha posat en perill tot el seu cicle vital. Per salvar tota la fauna dels residus tòxics, els germans Kratt hauran d'activar el poder de granota, però hauran de passar per tot el seu cicle biològic. I això vol dir que començaran sent capgrossos!</desc>
-    <length units="seconds">1260</length>
-    <episode-num system="onscreen">54</episode-num>
+  <programme start="20261111033859 +0100" stop="20261111035937 +0100" channel="sx3">
+    <title lang="ca">Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
+    <sub-title lang="ca">Maledíctor</sub-title>
+    <desc lang="ca">La Chloé presenta a l'institut un reportatge fals en què es fa passar per Ladybug. Quan els seus companys la desemmascaren, la Chloé s'enfada molt i exigeix al seu pare que faci tancar l'institut i expulsar la Marinette de París. L'alcalde s'hi nega i la Chloé i la seva mare decideixen anar-se'n a viure a Nova York. El despit de l'alcalde el convertirà en una presa ideal per l'Esfinx.</desc>
+    <length units="seconds">1238</length>
+    <episode-num system="onscreen">48</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
@@ -127,12 +115,12 @@
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20261111001350 +0100" stop="20261111003451 +0100" channel="sx3">
-    <title lang="ca">Els germans Kratt</title>
-    <sub-title lang="ca">Globus i peix globus</sub-title>
-    <desc lang="ca">Mentre estudiaven els peixos globus, els germans Kratt s'han trobat la Donita Donata, la malèfica dissenyadora que explota els animals en perill d'extinció, i han decidit miniaturitzar-se per seguir-la. Ara el problema és que se'ls ha endut un corrent marí de plàncton i estan perduts entre 60.000 bilions de litres d'aigua! Com s'ho faran per trobar-los?!</desc>
-    <length units="seconds">1261</length>
-    <episode-num system="onscreen">55</episode-num>
+  <programme start="20261111035937 +0100" stop="20261111042037 +0100" channel="sx3">
+    <title lang="ca">Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
+    <sub-title lang="ca">El venedor de sorra</sub-title>
+    <desc lang="ca">El Nooroo, el kwami de l'Esfinx, celebra el seu aniversari, i els altres kwamis decideixen intentar posar-s'hi en contacte per felicitar-lo. Però això vol dir allunyar-se dels seus portadors, i l'Esfinx aprofitarà l'ocasió per tornar a terroritzar París a través del Venedor de Sorra!</desc>
+    <length units="seconds">1260</length>
+    <episode-num system="onscreen">49</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
@@ -145,7 +133,7 @@
     <display-name>C33</display-name>
   </channel>
   <programme start="20261110235954 +0100" stop="20261111060000 +0100" channel="c33">
-    <title lang="ca">Notícies 3CatInfo</title>
+    <title lang="ca">Emissió de TV3 per C33</title>
     <desc lang="ca">Sense Descripció</desc>
     <length units="seconds">21606</length>
   </programme>
