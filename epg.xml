@@ -3,96 +3,94 @@
   <channel id="tv3uhd">
     <display-name>TV3UHD</display-name>
   </channel>
-  <programme start="20261111165949 +0100" stop="20261111183000 +0100" channel="tv3uhd">
+  <programme start="20261112003000 +0100" stop="20261112043000 +0100" channel="tv3uhd">
     <title lang="ca">Notícies 3CatInfo</title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">5411</length>
-    <episode-num system="onscreen">11675</episode-num>
+    <length units="seconds">14400</length>
+    <episode-num system="onscreen">11679</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <subtitles type="teletext"/>
     <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
-  <programme start="20261111183000 +0100" stop="20261111200000 +0100" channel="tv3uhd">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">5400</length>
-    <episode-num system="onscreen">11676</episode-num>
-    <category lang="ca">ACTUALITAT</category>
-    <category lang="ca">INFORMATIU DIÀRI</category>
+  <programme start="20261112043000 +0100" stop="20261112051834 +0100" channel="tv3uhd">
+    <title lang="ca">Cava de Blues</title>
+    <sub-title lang="ca">The Big Jamboree</sub-title>
+    <desc lang="ca">Cava de Blues és un espai dedicat a les noves creacions de 14 grups del país que es dediquen a aquest gènere musical.En aquesta edició, els grups que hi trobareu són: -A contrablues-Blas Picón &amp; The Junk Espress-Bullfrog Electric Blues Experience-Dusa'ns Flying Blues Band-Dani Baraldés &amp; The XX Band-Emili Baleriola Blues Quartet-Dani Nel·lo &amp; Mario Cobo-Ivan Kovacevic 5 Spots-JG Acoustic Gang-John Big Stone &amp; The Blues Workers-Legacaster! The Hillbilly Trio-Martini Surfers-Susan Santos &amp; The Papa's Red Band-The Paparellos</desc>
+    <length units="seconds">2914</length>
+    <episode-num system="onscreen">21</episode-num>
+    <category lang="ca">MUSICALS</category>
+    <category lang="ca">JAZZ</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <subtitles type="teletext"/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
+    <previously-shown/>
+    <icon src="https://img.3cat.cat/multimedia/jpg/0/2/1754910826220.jpg"/>
   </programme>
   <channel id="tvi">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20261111165946 +0100" stop="20261111183000 +0100" channel="tvi">
+  <programme start="20261112003000 +0100" stop="20261112043000 +0100" channel="tvi">
     <title lang="ca">Notícies 3CatInfo</title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">5414</length>
-    <episode-num system="onscreen">11675</episode-num>
+    <length units="seconds">14400</length>
+    <episode-num system="onscreen">11679</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
+    <previously-shown/>
     <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
-  <programme start="20261111183000 +0100" stop="20261111200000 +0100" channel="tvi">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">5400</length>
-    <episode-num system="onscreen">11676</episode-num>
-    <category lang="ca">ACTUALITAT</category>
-    <category lang="ca">INFORMATIU DIÀRI</category>
+  <programme start="20261112043000 +0100" stop="20261112051834 +0100" channel="tvi">
+    <title lang="ca">Cava de Blues</title>
+    <sub-title lang="ca">The Big Jamboree</sub-title>
+    <desc lang="ca">Cava de Blues és un espai dedicat a les noves creacions de 14 grups del país que es dediquen a aquest gènere musical.En aquesta edició, els grups que hi trobareu són: -A contrablues-Blas Picón &amp; The Junk Espress-Bullfrog Electric Blues Experience-Dusa'ns Flying Blues Band-Dani Baraldés &amp; The XX Band-Emili Baleriola Blues Quartet-Dani Nel·lo &amp; Mario Cobo-Ivan Kovacevic 5 Spots-JG Acoustic Gang-John Big Stone &amp; The Blues Workers-Legacaster! The Hillbilly Trio-Martini Surfers-Susan Santos &amp; The Papa's Red Band-The Paparellos</desc>
+    <length units="seconds">2914</length>
+    <episode-num system="onscreen">21</episode-num>
+    <category lang="ca">MUSICALS</category>
+    <category lang="ca">JAZZ</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
+    <previously-shown/>
+    <icon src="https://img.3cat.cat/multimedia/jpg/0/2/1754910826220.jpg"/>
   </programme>
   <channel id="324">
     <display-name>324</display-name>
   </channel>
-  <programme start="20261111170000 +0100" stop="20261111183000 +0100" channel="324">
+  <programme start="20261112003000 +0100" stop="20261112010000 +0100" channel="324">
     <title lang="ca">Notícies 3CatInfo</title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">5400</length>
-    <episode-num system="onscreen">11675</episode-num>
+    <length units="seconds">1800</length>
+    <episode-num system="onscreen">11679</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <subtitles type="teletext"/>
+    <previously-shown/>
     <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
-  <programme start="20261111183000 +0100" stop="20261111200000 +0100" channel="324">
+  <programme start="20261112010000 +0100" stop="20261112060000 +0100" channel="324">
     <title lang="ca">Notícies 3CatInfo</title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">5400</length>
-    <episode-num system="onscreen">11676</episode-num>
+    <length units="seconds">18000</length>
+    <episode-num system="onscreen">11679</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <subtitles type="teletext"/>
+    <previously-shown/>
     <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
   <channel id="esport3">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20261111060000 +0100" stop="20261112000000 +0100" channel="esport3">
-    <title lang="ca">Emissió de TV3 per ES3</title>
-    <desc lang="ca">Sense Descripció</desc>
-    <length units="seconds">64800</length>
-  </programme>
   <programme start="20261112000000 +0100" stop="20261112005541 +0100" channel="esport3">
     <title lang="ca">Toni Bou</title>
     <sub-title lang="ca"> Els 40 de Toni Bou</sub-title>
@@ -108,15 +106,30 @@
     <previously-shown/>
     <icon src="https://img.3cat.cat/multimedia/jpg/6/6/1794307781366.jpg"/>
   </programme>
+  <programme start="20261112005541 +0100" stop="20261112024332 +0100" channel="esport3">
+    <title lang="ca">Futbol</title>
+    <sub-title lang="ca">FC Barcelona-Madrid CFF / Lliga F / J10</sub-title>
+    <desc lang="ca">Les blaugranes volen refermar el liderat contra el conjunt madrileny que també es troba situat a la zona alta de la classificació.</desc>
+    <length units="seconds">6471</length>
+    <episode-num system="onscreen">61</episode-num>
+    <category lang="ca">ESPORTS</category>
+    <category lang="ca">RETRANSMISSIONS ESPORTS</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <subtitles type="teletext"/>
+    <previously-shown/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/0/8/1730389343680.jpg"/>
+  </programme>
   <channel id="sx3">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20261111182419 +0100" stop="20261111183521 +0100" channel="sx3">
-    <title lang="ca">La Patrulla Peluda</title>
-    <sub-title lang="ca">La Patrulla salva un rellotge de cucut</sub-title>
-    <desc lang="ca">La Chickaletta es queda tancada a dins del rellotge de cucut d'en Jake i el rellotge comença a caure muntanya avall. En Ryder i la Patrulla Peluda hauran d'anar a rescatar la gallina i el rellotge.</desc>
-    <length units="seconds">662</length>
-    <episode-num system="onscreen">225</episode-num>
+  <programme start="20261112002542 +0100" stop="20261112004643 +0100" channel="sx3">
+    <title lang="ca">Els germans Kratt</title>
+    <sub-title lang="ca">Perfumats</sub-title>
+    <desc lang="ca">Una colla de mofetes han convertit la Nau Tortuga en el seu cau i ara els germans Kratt i companyia s'han quedat sense camp base al desert de Sonora. El problema és que els vestits de poder animal i la resta d'invents són a l'interior de la nau, i l'únic que té manera d'entrar-hi és en Zach Virusmàtic, amb la Robobombolla, el seu últim invent!</desc>
+    <length units="seconds">1261</length>
+    <episode-num system="onscreen">62</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
@@ -125,12 +138,12 @@
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20261111183521 +0100" stop="20261111184648 +0100" channel="sx3">
-    <title lang="ca">Els barrufets (3D)</title>
-    <sub-title lang="ca">El reagrupament</sub-title>
-    <desc lang="ca">Els barrufets celebren la cursa anual de cargols i estan entusiasmats. Fins i tot el Bromista, que les troba avorridíssimes. El cas és que ha donat unes vitamines màgiques als cargols participants perquè es converteixin en autèntics bòlids. Quan els cargols surten disparats i es perden pel bosc, el Gran Barrufet li ordena que els vagi a buscar i que els torni a portar al seu propietari, el Barrufet Pagès.</desc>
-    <length units="seconds">687</length>
-    <episode-num system="onscreen">25</episode-num>
+  <programme start="20261112004643 +0100" stop="20261112010814 +0100" channel="sx3">
+    <title lang="ca">Els germans Kratt</title>
+    <sub-title lang="ca">Un monstre de Gila a sota casa</sub-title>
+    <desc lang="ca">Els germans Kratt acaben de rebre una trucada d'en Javier, un noi que viu al desert de Sonora i que assegura que se li ha instal·lat un monstre de Gila a sota de casa seva i que té molta por. La missió d'avui és descobrir com són de veritat els monstres de Gila i evitar que en Zach Virusmàtic aprofiti les característiques d'aquest animal per posar a la pràctica el seu pròxim invent!</desc>
+    <length units="seconds">1291</length>
+    <episode-num system="onscreen">63</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
@@ -142,32 +155,12 @@
   <channel id="c33">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20261111181036 +0100" stop="20261111190345 +0100" channel="c33">
-    <title lang="ca">Ale-Hop!</title>
-    <sub-title lang="ca">Anem al circ?</sub-title>
-    <desc lang="ca">Hi ha una raó essencial per la qual existeix el circ professional: el públic. Aquest capítol el volem dedicar a trobar el paper del món circense en la societat.Coneixerem artistes que tenen una relació especial amb el públic: en Kerol és empatia pura amb la gent i, amb els seus espectacles de malabarisme i 'beatbox', ha voltat el món i ha recollit premis i reconeixement. Veurem com en Kerol ensenya la nostra presentadora a fer malabarisme i patinatge alhora.La Forzuda és el nom artístic d'una parella que té una pizzeria amb teatre propi on fan els seus espectacles de llançament de ganivets i malabarisme amb set pilotes. Planeta Trampolí sorprendrà els veïns de Mataró amb un espectacle de llit elàstic en plena Rambla.I també podrem constatar la força del circ en l'àmbit de l'activisme social, acompanyant uns pallassos dels Pallapupes a l'Hospital Sant Joan de Déu a Manresa. </desc>
-    <length units="seconds">3189</length>
-    <episode-num system="onscreen">1</episode-num>
-    <category lang="ca">ENTRETENIMENT</category>
-    <category lang="ca">ALTRES</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <subtitles type="teletext"/>
-    <previously-shown/>
-  </programme>
-  <programme start="20261111190345 +0100" stop="20261111200650 +0100" channel="c33">
-    <title lang="ca">Camí de Marina</title>
-    <sub-title lang="ca">Camí de Marina</sub-title>
-    <desc lang="ca">'Camí de Marina. Un conte sobre la voluntat' (2023), una producció de Aigua Films amb la participació de Televisió de Catalunya, Fundació Miranda, Xarxa per la Conservació de la Natura, Diputació de Barcelona, Fundació Pau Costa, IDAPA, Sèlvans, Consorci del Lluçanès, Associació Camí Ramader de Marina i l'ICEC.Una dissecció del col·lapse territorial a partir de la primera transhumància que es fa del Pirineu al mar en més de setanta anys pel recentment recuperat Camí Ramader de Marina.Una road movie a ritme de cavall que ens posa davant el disseny i la gestió del territori de Catalunya -i per extensió de tota la Mediterrània-, tenint en compte els fluxos biològics de la fauna salvatge, la situació dels boscos, els desastres dels Grans Incendis Forestals, la intensificació agrícola i ramadera, l'estat de l'aigua i la biodiversitat.Direcció: Carles Caparrós i ObiolsGuió: Carles Caparrós i ObiolsRealització: Sacha Soliman LatorreProductor: Carles Caparrós i ObiolsProductor executiu TVC: David Bassa CabanasEdició continguts TVC:Agustí Argelich GironèsProductor delegat TVC: Daniel Barea DelgadoDirector fotografia: Norman García SoleraMuntatge: Laila Romero i TorrentDirector de producció: Sacha Soliman LatorreMúsica: Marian Márquez Ruiz de GopeguiLingüista: Laia Rúbies i AmbitGrafisme: Miriam Sugranyes</desc>
-    <credits>
-      <director>Carles Caparrós</director>
-      <director>Obiols</director>
-      <writer>Carles Caparrós</writer>
-      <writer>ObiolsRealització: Sacha Soliman Latorre</writer>
-    </credits>
-    <length units="seconds">3785</length>
-    <episode-num system="onscreen">1</episode-num>
+  <programme start="20261112000000 +0100" stop="20261112005421 +0100" channel="c33">
+    <title lang="ca">1942</title>
+    <sub-title lang="ca">Si cal triar</sub-title>
+    <desc lang="ca">A la primavera del 1942, les forces de l'Eix avancen en tots els fronts. Llavors tothom ha de triar quin paper vol tenir a la història. Com l'André, que amb quinze anys s'apunta a la Resistència francesa. O en Ladislav, que s'arrisca per ajudar dos paracaigudistes que han vingut a fer una alta missió a Txecoslovàquia. O la Mary, una americana d'origen japonès obligada a confinar-se en un camp de concentració...</desc>
+    <length units="seconds">3261</length>
+    <episode-num system="onscreen">3</episode-num>
     <category lang="ca">DIVULGACIÓ</category>
     <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
     <rating>
@@ -175,7 +168,22 @@
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
-    <icon src="https://img.3cat.cat/multimedia/jpg/3/3/1699023172733.jpg"/>
+    <icon src="https://img.3cat.cat/multimedia/jpg/9/8/1786345299589.jpg"/>
+  </programme>
+  <programme start="20261112005421 +0100" stop="20261112015419 +0100" channel="c33">
+    <title lang="ca">1942</title>
+    <sub-title lang="ca">Si cal morir</sub-title>
+    <desc lang="ca">SINOPSI: L'any 1942, els drets humans no existeixen. Perquè les persones no són lliures ni de creure ni de pensar. Perquè, per vèncer, tant hi fan les penúries, les epidèmies, la fatiga... L'home ho ha de donar tot: la força de treball, el compromís, la salut, la vida. Les derrotes individuals valen molt menys que la victòria comuna. Tot va bé, per guanyar: les arbitrarietats, les il*legalitats, les traïcions...</desc>
+    <length units="seconds">3598</length>
+    <episode-num system="onscreen">4</episode-num>
+    <category lang="ca">DIVULGACIÓ</category>
+    <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <subtitles type="teletext"/>
+    <previously-shown/>
+    <icon src="https://img.3cat.cat/multimedia/jpg/9/8/1786345299589.jpg"/>
   </programme>
   <channel id="oca1">
     <display-name>OCA1</display-name>
