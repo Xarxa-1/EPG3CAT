@@ -3,11 +3,11 @@
   <channel id="tv3uhd">
     <display-name>TV3UHD</display-name>
   </channel>
-  <programme start="20261111103000 +0100" stop="20261111120000 +0100" channel="tv3uhd">
+  <programme start="20261111165949 +0100" stop="20261111183000 +0100" channel="tv3uhd">
     <title lang="ca">Notícies 3CatInfo</title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">5400</length>
-    <episode-num system="onscreen">11673</episode-num>
+    <length units="seconds">5411</length>
+    <episode-num system="onscreen">11675</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
@@ -16,11 +16,11 @@
     <subtitles type="teletext"/>
     <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
-  <programme start="20261111120000 +0100" stop="20261111143000 +0100" channel="tv3uhd">
+  <programme start="20261111183000 +0100" stop="20261111200000 +0100" channel="tv3uhd">
     <title lang="ca">Notícies 3CatInfo</title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">9000</length>
-    <episode-num system="onscreen">11674</episode-num>
+    <length units="seconds">5400</length>
+    <episode-num system="onscreen">11676</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
@@ -32,11 +32,11 @@
   <channel id="tvi">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20261111103000 +0100" stop="20261111120000 +0100" channel="tvi">
+  <programme start="20261111165946 +0100" stop="20261111183000 +0100" channel="tvi">
     <title lang="ca">Notícies 3CatInfo</title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">5400</length>
-    <episode-num system="onscreen">11673</episode-num>
+    <length units="seconds">5414</length>
+    <episode-num system="onscreen">11675</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
@@ -44,11 +44,11 @@
     </rating>
     <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
-  <programme start="20261111120000 +0100" stop="20261111143000 +0100" channel="tvi">
+  <programme start="20261111183000 +0100" stop="20261111200000 +0100" channel="tvi">
     <title lang="ca">Notícies 3CatInfo</title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">9000</length>
-    <episode-num system="onscreen">11674</episode-num>
+    <length units="seconds">5400</length>
+    <episode-num system="onscreen">11676</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
@@ -59,11 +59,11 @@
   <channel id="324">
     <display-name>324</display-name>
   </channel>
-  <programme start="20261111103000 +0100" stop="20261111120000 +0100" channel="324">
+  <programme start="20261111170000 +0100" stop="20261111183000 +0100" channel="324">
     <title lang="ca">Notícies 3CatInfo</title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <length units="seconds">5400</length>
-    <episode-num system="onscreen">11673</episode-num>
+    <episode-num system="onscreen">11675</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
@@ -72,11 +72,11 @@
     <subtitles type="teletext"/>
     <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
-  <programme start="20261111120000 +0100" stop="20261111143000 +0100" channel="324">
+  <programme start="20261111183000 +0100" stop="20261111200000 +0100" channel="324">
     <title lang="ca">Notícies 3CatInfo</title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">9000</length>
-    <episode-num system="onscreen">11674</episode-num>
+    <length units="seconds">5400</length>
+    <episode-num system="onscreen">11676</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
@@ -111,12 +111,12 @@
   <channel id="sx3">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20261111104834 +0100" stop="20261111105907 +0100" channel="sx3">
+  <programme start="20261111182419 +0100" stop="20261111183521 +0100" channel="sx3">
     <title lang="ca">La Patrulla Peluda</title>
-    <sub-title lang="ca">La patrulla salva la festa country</sub-title>
-    <desc lang="ca">Avui hi ha una festa country a Badia Aventures, i un ramat de vaques s'ha escapat d'un tren de l'estació!</desc>
-    <length units="seconds">633</length>
-    <episode-num system="onscreen">27</episode-num>
+    <sub-title lang="ca">La Patrulla salva un rellotge de cucut</sub-title>
+    <desc lang="ca">La Chickaletta es queda tancada a dins del rellotge de cucut d'en Jake i el rellotge comença a caure muntanya avall. En Ryder i la Patrulla Peluda hauran d'anar a rescatar la gallina i el rellotge.</desc>
+    <length units="seconds">662</length>
+    <episode-num system="onscreen">225</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
@@ -125,12 +125,12 @@
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20261111105907 +0100" stop="20261111111010 +0100" channel="sx3">
-    <title lang="ca">La Patrulla Peluda</title>
-    <sub-title lang="ca">La Patrulla salva l'Alex</sub-title>
-    <desc lang="ca">L'Alex vol entrar a la Patrulla Peluda i en Ryder i els cadells deixen que els ajudi a fer un rescat.</desc>
-    <length units="seconds">663</length>
-    <episode-num system="onscreen">28</episode-num>
+  <programme start="20261111183521 +0100" stop="20261111184648 +0100" channel="sx3">
+    <title lang="ca">Els barrufets (3D)</title>
+    <sub-title lang="ca">El reagrupament</sub-title>
+    <desc lang="ca">Els barrufets celebren la cursa anual de cargols i estan entusiasmats. Fins i tot el Bromista, que les troba avorridíssimes. El cas és que ha donat unes vitamines màgiques als cargols participants perquè es converteixin en autèntics bòlids. Quan els cargols surten disparats i es perden pel bosc, el Gran Barrufet li ordena que els vagi a buscar i que els torni a portar al seu propietari, el Barrufet Pagès.</desc>
+    <length units="seconds">687</length>
+    <episode-num system="onscreen">25</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
@@ -142,33 +142,40 @@
   <channel id="c33">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20261111100919 +0100" stop="20261111105002 +0100" channel="c33">
-    <title lang="ca">Tot el temps del món</title>
-    <sub-title lang="ca">Josep M Esquirol</sub-title>
-    <desc lang="ca">Al seu darrer llibre, 'L'escola de l'ànima: de la forma d'educar a la manera de viure' (Quaderns Crema), el catedràtic de Filosofia Josep Maria Esquirol ens parla de la figura dels mestres i de la necessitat d''educar-nos' sempre, fins a la maduresa: igual que tenim casa sempre, hauríem de tenir escola sempre. Ens diu que 'educar té a veure amb el fet d'indicar i iniciar el camí que du cap a la maduresa'. Esquirol utilitza sovint la paraula 'ensenyar'; també diu que els bons mestres 'assenyalen' i el que assenyalen és el món. Ens obren a ell, a totes les seves meravelles, perquè ells són els primers a admirar-les: és una condició imprescindible per ser mestre, estar obert al món, apreciar-ne la bellesa. Per obrir-nos al món, per viure, ens cal atenció. També cal entrenar-nos en l'atenció als altres: l'autor explica que, tot i ser únics, 'ens mantenim dempeus gràcies als altres'. Durant la conversa, Esquirol ens parla d'una manera determinada de viure, d'anar cap a la maduresa, que es podria resumir en una frase del llibre: 'Estima, estima molt'.  L'ESCOLA DE L'ÀNIMAJosep Maria EsquirolEd. Quaderns CremaA LES TRIES, PARLEM DE:AIXÒ NO ÉS UN WESTERNXavier AliagaEd. ClandestinaELLES TAMBÉ NEGREGENDiverses autoresEd. Llibres del DelicteUN RASTRE DE VIOLÈNCIAMark O'ConnellTrad. Carme GeronèsEd. Comanegra</desc>
-    <length units="seconds">2443</length>
-    <episode-num system="onscreen">85</episode-num>
+  <programme start="20261111181036 +0100" stop="20261111190345 +0100" channel="c33">
+    <title lang="ca">Ale-Hop!</title>
+    <sub-title lang="ca">Anem al circ?</sub-title>
+    <desc lang="ca">Hi ha una raó essencial per la qual existeix el circ professional: el públic. Aquest capítol el volem dedicar a trobar el paper del món circense en la societat.Coneixerem artistes que tenen una relació especial amb el públic: en Kerol és empatia pura amb la gent i, amb els seus espectacles de malabarisme i 'beatbox', ha voltat el món i ha recollit premis i reconeixement. Veurem com en Kerol ensenya la nostra presentadora a fer malabarisme i patinatge alhora.La Forzuda és el nom artístic d'una parella que té una pizzeria amb teatre propi on fan els seus espectacles de llançament de ganivets i malabarisme amb set pilotes. Planeta Trampolí sorprendrà els veïns de Mataró amb un espectacle de llit elàstic en plena Rambla.I també podrem constatar la força del circ en l'àmbit de l'activisme social, acompanyant uns pallassos dels Pallapupes a l'Hospital Sant Joan de Déu a Manresa. </desc>
+    <length units="seconds">3189</length>
+    <episode-num system="onscreen">1</episode-num>
+    <category lang="ca">ENTRETENIMENT</category>
     <category lang="ca">ALTRES</category>
-    <category lang="ca">ENTREVISTES</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20261111105002 +0100" stop="20261111113018 +0100" channel="c33">
-    <title lang="ca">Tot el temps del món</title>
-    <sub-title lang="ca">Carme Riera</sub-title>
-    <desc lang="ca">A punt de celebrar els 50 anys de la publicació de la seva primera novel·la, 'Te deix, amor, la mar com a penyora', l'escriptora Carme Riera ens visita per parlar de l'última que ha escrit, 'Una ombra blanca' (Edicions 62). La protagonista és la Barbara Simpson, una soprano nord-americana, del sud dels Estats-Units, que un dia, en plena actuació, té un infart. Veu una llum, està a punt de morir, però alguna cosa 'la fa tornar' a la vida: té un tema pendent per resoldre. Aquest tema, què hi ha després de la mort, què passa quan ens morim, va ser el punt de partida de Carme Riera, que al llibre parla també de la culpa, de justícia, de l'esforç i de l'èxit, de racisme, de maltractaments i abusos i de la importància de la terra i el paisatge. Parlem amb ella de tot això, a més del fet d'escriure, de la llengua i de la música com a llenguatge universal. 'UNA OMBRA BLANCA'Carme RieraEdicions 62A 'LES TRIES' PARLEM DE:'LA TERRA DURA'Anna PunsodaEd. Pòrtic'LO MIG DEL MÓN'Roser VernetEd. Club Editor'PASSES PER PALMA'Biel MesquidaEd. Vibop</desc>
-    <length units="seconds">2416</length>
-    <episode-num system="onscreen">86</episode-num>
-    <category lang="ca">ALTRES</category>
-    <category lang="ca">ENTREVISTES</category>
+  <programme start="20261111190345 +0100" stop="20261111200650 +0100" channel="c33">
+    <title lang="ca">Camí de Marina</title>
+    <sub-title lang="ca">Camí de Marina</sub-title>
+    <desc lang="ca">'Camí de Marina. Un conte sobre la voluntat' (2023), una producció de Aigua Films amb la participació de Televisió de Catalunya, Fundació Miranda, Xarxa per la Conservació de la Natura, Diputació de Barcelona, Fundació Pau Costa, IDAPA, Sèlvans, Consorci del Lluçanès, Associació Camí Ramader de Marina i l'ICEC.Una dissecció del col·lapse territorial a partir de la primera transhumància que es fa del Pirineu al mar en més de setanta anys pel recentment recuperat Camí Ramader de Marina.Una road movie a ritme de cavall que ens posa davant el disseny i la gestió del territori de Catalunya -i per extensió de tota la Mediterrània-, tenint en compte els fluxos biològics de la fauna salvatge, la situació dels boscos, els desastres dels Grans Incendis Forestals, la intensificació agrícola i ramadera, l'estat de l'aigua i la biodiversitat.Direcció: Carles Caparrós i ObiolsGuió: Carles Caparrós i ObiolsRealització: Sacha Soliman LatorreProductor: Carles Caparrós i ObiolsProductor executiu TVC: David Bassa CabanasEdició continguts TVC:Agustí Argelich GironèsProductor delegat TVC: Daniel Barea DelgadoDirector fotografia: Norman García SoleraMuntatge: Laila Romero i TorrentDirector de producció: Sacha Soliman LatorreMúsica: Marian Márquez Ruiz de GopeguiLingüista: Laia Rúbies i AmbitGrafisme: Miriam Sugranyes</desc>
+    <credits>
+      <director>Carles Caparrós</director>
+      <director>Obiols</director>
+      <writer>Carles Caparrós</writer>
+      <writer>ObiolsRealització: Sacha Soliman Latorre</writer>
+    </credits>
+    <length units="seconds">3785</length>
+    <episode-num system="onscreen">1</episode-num>
+    <category lang="ca">DIVULGACIÓ</category>
+    <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
+    <icon src="https://img.3cat.cat/multimedia/jpg/3/3/1699023172733.jpg"/>
   </programme>
   <channel id="oca1">
     <display-name>OCA1</display-name>
