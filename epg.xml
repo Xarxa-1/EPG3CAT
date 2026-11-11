@@ -3,23 +3,24 @@
   <channel id="tv3uhd">
     <display-name>TV3UHD</display-name>
   </channel>
-  <programme start="20261110235953 +0100" stop="20261111060000 +0100" channel="tv3uhd">
+  <programme start="20261111103000 +0100" stop="20261111120000 +0100" channel="tv3uhd">
     <title lang="ca">Notícies 3CatInfo</title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">21607</length>
-    <episode-num system="onscreen">11670</episode-num>
+    <length units="seconds">5400</length>
+    <episode-num system="onscreen">11673</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
+    <subtitles type="teletext"/>
     <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
-  <programme start="20261111060000 +0100" stop="20261111080000 +0100" channel="tv3uhd">
+  <programme start="20261111120000 +0100" stop="20261111143000 +0100" channel="tv3uhd">
     <title lang="ca">Notícies 3CatInfo</title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">7200</length>
-    <episode-num system="onscreen">11671</episode-num>
+    <length units="seconds">9000</length>
+    <episode-num system="onscreen">11674</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
@@ -31,24 +32,23 @@
   <channel id="tvi">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20261110235926 +0100" stop="20261111060000 +0100" channel="tvi">
+  <programme start="20261111103000 +0100" stop="20261111120000 +0100" channel="tvi">
     <title lang="ca">Notícies 3CatInfo</title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">21634</length>
-    <episode-num system="onscreen">11670</episode-num>
+    <length units="seconds">5400</length>
+    <episode-num system="onscreen">11673</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <previously-shown/>
     <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
-  <programme start="20261111060000 +0100" stop="20261111080000 +0100" channel="tvi">
+  <programme start="20261111120000 +0100" stop="20261111143000 +0100" channel="tvi">
     <title lang="ca">Notícies 3CatInfo</title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">7200</length>
-    <episode-num system="onscreen">11671</episode-num>
+    <length units="seconds">9000</length>
+    <episode-num system="onscreen">11674</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
@@ -59,54 +59,64 @@
   <channel id="324">
     <display-name>324</display-name>
   </channel>
-  <programme start="20261111010000 +0100" stop="20261111060000 +0100" channel="324">
+  <programme start="20261111103000 +0100" stop="20261111120000 +0100" channel="324">
     <title lang="ca">Notícies 3CatInfo</title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">18000</length>
-    <episode-num system="onscreen">11670</episode-num>
+    <length units="seconds">5400</length>
+    <episode-num system="onscreen">11673</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <previously-shown/>
+    <subtitles type="teletext"/>
     <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
-  <programme start="20261111060000 +0100" stop="20261111080000 +0100" channel="324">
+  <programme start="20261111120000 +0100" stop="20261111143000 +0100" channel="324">
     <title lang="ca">Notícies 3CatInfo</title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">7200</length>
-    <episode-num system="onscreen">11671</episode-num>
+    <length units="seconds">9000</length>
+    <episode-num system="onscreen">11674</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
+    <subtitles type="teletext"/>
     <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
   <channel id="esport3">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20261110235954 +0100" stop="20261111060000 +0100" channel="esport3">
+  <programme start="20261111060000 +0100" stop="20261112000000 +0100" channel="esport3">
     <title lang="ca">Emissió de TV3 per ES3</title>
     <desc lang="ca">Sense Descripció</desc>
-    <length units="seconds">21606</length>
-    <episode-num system="onscreen">2197</episode-num>
+    <length units="seconds">64800</length>
   </programme>
-  <programme start="20261111060000 +0100" stop="20261112003000 +0100" channel="esport3">
-    <title lang="ca">Emissió de TV3 per ES3</title>
-    <desc lang="ca">Sense Descripció</desc>
-    <length units="seconds">66600</length>
+  <programme start="20261112000000 +0100" stop="20261112005541 +0100" channel="esport3">
+    <title lang="ca">Toni Bou</title>
+    <sub-title lang="ca"> Els 40 de Toni Bou</sub-title>
+    <desc lang="ca">Toni Bou és l'esportista que acumula més títols mundials al seu palmarès. El pilot de Piera va iniciar el seu domini del trial l'any 2007 i, des d'aleshores ja fa 20 anys que no coneix la derrota. El documental 'Els 40 de Toni Bou' repassa la vida del personatge a través del testimoni dels que l'han acompanyat en aquest exitós camí: companys d'equip, família, i grans referents de l'esport mundial com Pep Guardiola, Marc Gasol, Alèxia Putellas o Rafa Nadal. Especialment interessant és la conversa íntima que manté amb Marc Márquez, on el pilot de Cervera ens ajudarà a desvelar si el Toni ja en té prou amb 40 títols, o seguirà pilotant tot i que ja ha fet els 40 anys.</desc>
+    <length units="seconds">3341</length>
+    <episode-num system="onscreen">1</episode-num>
+    <category lang="ca">ESPORTS</category>
+    <category lang="ca">DOCUMENTAL</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <subtitles type="teletext"/>
+    <previously-shown/>
+    <icon src="https://img.3cat.cat/multimedia/jpg/6/6/1794307781366.jpg"/>
   </programme>
   <channel id="sx3">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20261111033859 +0100" stop="20261111035937 +0100" channel="sx3">
-    <title lang="ca">Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
-    <sub-title lang="ca">Maledíctor</sub-title>
-    <desc lang="ca">La Chloé presenta a l'institut un reportatge fals en què es fa passar per Ladybug. Quan els seus companys la desemmascaren, la Chloé s'enfada molt i exigeix al seu pare que faci tancar l'institut i expulsar la Marinette de París. L'alcalde s'hi nega i la Chloé i la seva mare decideixen anar-se'n a viure a Nova York. El despit de l'alcalde el convertirà en una presa ideal per l'Esfinx.</desc>
-    <length units="seconds">1238</length>
-    <episode-num system="onscreen">48</episode-num>
+  <programme start="20261111104834 +0100" stop="20261111105907 +0100" channel="sx3">
+    <title lang="ca">La Patrulla Peluda</title>
+    <sub-title lang="ca">La patrulla salva la festa country</sub-title>
+    <desc lang="ca">Avui hi ha una festa country a Badia Aventures, i un ramat de vaques s'ha escapat d'un tren de l'estació!</desc>
+    <length units="seconds">633</length>
+    <episode-num system="onscreen">27</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
@@ -115,12 +125,12 @@
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20261111035937 +0100" stop="20261111042037 +0100" channel="sx3">
-    <title lang="ca">Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
-    <sub-title lang="ca">El venedor de sorra</sub-title>
-    <desc lang="ca">El Nooroo, el kwami de l'Esfinx, celebra el seu aniversari, i els altres kwamis decideixen intentar posar-s'hi en contacte per felicitar-lo. Però això vol dir allunyar-se dels seus portadors, i l'Esfinx aprofitarà l'ocasió per tornar a terroritzar París a través del Venedor de Sorra!</desc>
-    <length units="seconds">1260</length>
-    <episode-num system="onscreen">49</episode-num>
+  <programme start="20261111105907 +0100" stop="20261111111010 +0100" channel="sx3">
+    <title lang="ca">La Patrulla Peluda</title>
+    <sub-title lang="ca">La Patrulla salva l'Alex</sub-title>
+    <desc lang="ca">L'Alex vol entrar a la Patrulla Peluda i en Ryder i els cadells deixen que els ajudi a fer un rescat.</desc>
+    <length units="seconds">663</length>
+    <episode-num system="onscreen">28</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
@@ -132,18 +142,28 @@
   <channel id="c33">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20261110235954 +0100" stop="20261111060000 +0100" channel="c33">
-    <title lang="ca">Emissió de TV3 per C33</title>
-    <desc lang="ca">Sense Descripció</desc>
-    <length units="seconds">21606</length>
-  </programme>
-  <programme start="20261111060000 +0100" stop="20261111060345 +0100" channel="c33">
-    <title lang="ca">Videoclips</title>
-    <sub-title lang="ca">Intana - Què vols de mi</sub-title>
-    <length units="seconds">225</length>
-    <episode-num system="onscreen">1695</episode-num>
-    <category lang="ca">MUSICALS</category>
+  <programme start="20261111100919 +0100" stop="20261111105002 +0100" channel="c33">
+    <title lang="ca">Tot el temps del món</title>
+    <sub-title lang="ca">Josep M Esquirol</sub-title>
+    <desc lang="ca">Al seu darrer llibre, 'L'escola de l'ànima: de la forma d'educar a la manera de viure' (Quaderns Crema), el catedràtic de Filosofia Josep Maria Esquirol ens parla de la figura dels mestres i de la necessitat d''educar-nos' sempre, fins a la maduresa: igual que tenim casa sempre, hauríem de tenir escola sempre. Ens diu que 'educar té a veure amb el fet d'indicar i iniciar el camí que du cap a la maduresa'. Esquirol utilitza sovint la paraula 'ensenyar'; també diu que els bons mestres 'assenyalen' i el que assenyalen és el món. Ens obren a ell, a totes les seves meravelles, perquè ells són els primers a admirar-les: és una condició imprescindible per ser mestre, estar obert al món, apreciar-ne la bellesa. Per obrir-nos al món, per viure, ens cal atenció. També cal entrenar-nos en l'atenció als altres: l'autor explica que, tot i ser únics, 'ens mantenim dempeus gràcies als altres'. Durant la conversa, Esquirol ens parla d'una manera determinada de viure, d'anar cap a la maduresa, que es podria resumir en una frase del llibre: 'Estima, estima molt'.  L'ESCOLA DE L'ÀNIMAJosep Maria EsquirolEd. Quaderns CremaA LES TRIES, PARLEM DE:AIXÒ NO ÉS UN WESTERNXavier AliagaEd. ClandestinaELLES TAMBÉ NEGREGENDiverses autoresEd. Llibres del DelicteUN RASTRE DE VIOLÈNCIAMark O'ConnellTrad. Carme GeronèsEd. Comanegra</desc>
+    <length units="seconds">2443</length>
+    <episode-num system="onscreen">85</episode-num>
     <category lang="ca">ALTRES</category>
+    <category lang="ca">ENTREVISTES</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <subtitles type="teletext"/>
+    <previously-shown/>
+  </programme>
+  <programme start="20261111105002 +0100" stop="20261111113018 +0100" channel="c33">
+    <title lang="ca">Tot el temps del món</title>
+    <sub-title lang="ca">Carme Riera</sub-title>
+    <desc lang="ca">A punt de celebrar els 50 anys de la publicació de la seva primera novel·la, 'Te deix, amor, la mar com a penyora', l'escriptora Carme Riera ens visita per parlar de l'última que ha escrit, 'Una ombra blanca' (Edicions 62). La protagonista és la Barbara Simpson, una soprano nord-americana, del sud dels Estats-Units, que un dia, en plena actuació, té un infart. Veu una llum, està a punt de morir, però alguna cosa 'la fa tornar' a la vida: té un tema pendent per resoldre. Aquest tema, què hi ha després de la mort, què passa quan ens morim, va ser el punt de partida de Carme Riera, que al llibre parla també de la culpa, de justícia, de l'esforç i de l'èxit, de racisme, de maltractaments i abusos i de la importància de la terra i el paisatge. Parlem amb ella de tot això, a més del fet d'escriure, de la llengua i de la música com a llenguatge universal. 'UNA OMBRA BLANCA'Carme RieraEdicions 62A 'LES TRIES' PARLEM DE:'LA TERRA DURA'Anna PunsodaEd. Pòrtic'LO MIG DEL MÓN'Roser VernetEd. Club Editor'PASSES PER PALMA'Biel MesquidaEd. Vibop</desc>
+    <length units="seconds">2416</length>
+    <episode-num system="onscreen">86</episode-num>
+    <category lang="ca">ALTRES</category>
+    <category lang="ca">ENTREVISTES</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
