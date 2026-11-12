@@ -3,18 +3,6 @@
   <channel id="tv3uhd">
     <display-name>TV3UHD</display-name>
   </channel>
-  <programme start="20261112003000 +0100" stop="20261112043000 +0100" channel="tv3uhd">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">14400</length>
-    <episode-num system="onscreen">11679</episode-num>
-    <category lang="ca">ACTUALITAT</category>
-    <category lang="ca">INFORMATIU DIÀRI</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
-  </programme>
   <programme start="20261112043000 +0100" stop="20261112051834 +0100" channel="tv3uhd">
     <title lang="ca">Cava de Blues</title>
     <sub-title lang="ca">The Big Jamboree</sub-title>
@@ -29,22 +17,22 @@
     <previously-shown/>
     <icon src="https://img.3cat.cat/multimedia/jpg/0/2/1754910826220.jpg"/>
   </programme>
-  <channel id="tvi">
-    <display-name>TVI</display-name>
-  </channel>
-  <programme start="20261112003000 +0100" stop="20261112043000 +0100" channel="tvi">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">14400</length>
-    <episode-num system="onscreen">11679</episode-num>
-    <category lang="ca">ACTUALITAT</category>
-    <category lang="ca">INFORMATIU DIÀRI</category>
+  <programme start="20261112051834 +0100" stop="20261112055741 +0100" channel="tv3uhd">
+    <title lang="ca">Fusió i swing a l'estudi</title>
+    <sub-title lang="ca"> Xavi Maureta Animals Exòtics</sub-title>
+    <desc lang="ca">Animals Exòtics és la nova proposta de Xavi Maureta, on combina la sonoritat del jazz més contemporani amb melodies i ritmes que provenen de músiques 'cosines', com ara el flamenc, les músiques folklòriques de Llatinoamèrica, el blues o les musiques africanes. Són Guim Garcia Balach, al saxo alt, amb Marco Mezquida, al piano i teclats; Rai Ferrer, al contrabaix, i el mateix Xavi Maureta, a la bateria.</desc>
+    <length units="seconds">2347</length>
+    <episode-num system="onscreen">7</episode-num>
+    <category lang="ca">MUSICALS</category>
+    <category lang="ca">ALTRES</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <previously-shown/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
+  <channel id="tvi">
+    <display-name>TVI</display-name>
+  </channel>
   <programme start="20261112043000 +0100" stop="20261112051834 +0100" channel="tvi">
     <title lang="ca">Cava de Blues</title>
     <sub-title lang="ca">The Big Jamboree</sub-title>
@@ -59,22 +47,22 @@
     <previously-shown/>
     <icon src="https://img.3cat.cat/multimedia/jpg/0/2/1754910826220.jpg"/>
   </programme>
-  <channel id="324">
-    <display-name>324</display-name>
-  </channel>
-  <programme start="20261112003000 +0100" stop="20261112010000 +0100" channel="324">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">1800</length>
-    <episode-num system="onscreen">11679</episode-num>
-    <category lang="ca">ACTUALITAT</category>
-    <category lang="ca">INFORMATIU DIÀRI</category>
+  <programme start="20261112051834 +0100" stop="20261112055741 +0100" channel="tvi">
+    <title lang="ca">Fusió i swing a l'estudi</title>
+    <sub-title lang="ca"> Xavi Maureta Animals Exòtics</sub-title>
+    <desc lang="ca">Animals Exòtics és la nova proposta de Xavi Maureta, on combina la sonoritat del jazz més contemporani amb melodies i ritmes que provenen de músiques 'cosines', com ara el flamenc, les músiques folklòriques de Llatinoamèrica, el blues o les musiques africanes. Són Guim Garcia Balach, al saxo alt, amb Marco Mezquida, al piano i teclats; Rai Ferrer, al contrabaix, i el mateix Xavi Maureta, a la bateria.</desc>
+    <length units="seconds">2347</length>
+    <episode-num system="onscreen">7</episode-num>
+    <category lang="ca">MUSICALS</category>
+    <category lang="ca">ALTRES</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <previously-shown/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
+  <channel id="324">
+    <display-name>324</display-name>
+  </channel>
   <programme start="20261112010000 +0100" stop="20261112060000 +0100" channel="324">
     <title lang="ca">Notícies 3CatInfo</title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
@@ -88,48 +76,58 @@
     <previously-shown/>
     <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
+  <programme start="20261112060000 +0100" stop="20261112080000 +0100" channel="324">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="seconds">7200</length>
+    <episode-num system="onscreen">11680</episode-num>
+    <category lang="ca">ACTUALITAT</category>
+    <category lang="ca">INFORMATIU DIÀRI</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
+  </programme>
   <channel id="esport3">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20261112000000 +0100" stop="20261112005541 +0100" channel="esport3">
-    <title lang="ca">Toni Bou</title>
-    <sub-title lang="ca"> Els 40 de Toni Bou</sub-title>
-    <desc lang="ca">Toni Bou és l'esportista que acumula més títols mundials al seu palmarès. El pilot de Piera va iniciar el seu domini del trial l'any 2007 i, des d'aleshores ja fa 20 anys que no coneix la derrota. El documental 'Els 40 de Toni Bou' repassa la vida del personatge a través del testimoni dels que l'han acompanyat en aquest exitós camí: companys d'equip, família, i grans referents de l'esport mundial com Pep Guardiola, Marc Gasol, Alèxia Putellas o Rafa Nadal. Especialment interessant és la conversa íntima que manté amb Marc Márquez, on el pilot de Cervera ens ajudarà a desvelar si el Toni ja en té prou amb 40 títols, o seguirà pilotant tot i que ja ha fet els 40 anys.</desc>
-    <length units="seconds">3341</length>
-    <episode-num system="onscreen">1</episode-num>
+  <programme start="20261112045214 +0100" stop="20261112051505 +0100" channel="esport3">
+    <title lang="ca">Espòiler</title>
+    <sub-title lang="ca">El Ford Kuga BlueCruise, el Nissan Leaf, el Zeekr 9X i les novetats de Denza.</sub-title>
+    <desc lang="ca">En aquest capítol posem a prova la tecnologia BlueCruise de Ford, un sistema de conducció autònoma de nivell 2 que ens permet conduir sense posar les mans al volant. També conduïm la nova generació del Nissan Leaf, el popular model elèctric de la marca japonesa. A més, us ensenyem totes les novetats de la marca xinesa Denza, entre les quals hi destaca el Denza Z, un superesportiu de més 1.600 CV de potència. Finalment, descobrim com és el Zeekr 9X, un SUV de luxe capaç de competir amb marques com Bentley o Rolls-Royce. </desc>
+    <length units="seconds">1371</length>
+    <episode-num system="onscreen">63</episode-num>
     <category lang="ca">ESPORTS</category>
-    <category lang="ca">DOCUMENTAL</category>
+    <category lang="ca">REPORTATGES</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <subtitles type="teletext"/>
     <previously-shown/>
-    <icon src="https://img.3cat.cat/multimedia/jpg/6/6/1794307781366.jpg"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/1/0/1698433593401.jpg"/>
   </programme>
-  <programme start="20261112005541 +0100" stop="20261112024332 +0100" channel="esport3">
-    <title lang="ca">Futbol</title>
-    <sub-title lang="ca">FC Barcelona-Madrid CFF / Lliga F / J10</sub-title>
-    <desc lang="ca">Les blaugranes volen refermar el liderat contra el conjunt madrileny que també es troba situat a la zona alta de la classificació.</desc>
-    <length units="seconds">6471</length>
-    <episode-num system="onscreen">61</episode-num>
+  <programme start="20261112051505 +0100" stop="20261112053205 +0100" channel="esport3">
+    <title lang="ca">Top gols La Lliga</title>
+    <sub-title lang="ca">Jornada 12</sub-title>
+    <desc lang="ca">'Top gols La Lliga' repassa cada setmana tots els gols de la jornada de la Primera Divisió. Amb la locució de Catalunya Ràdio i d'altres emissores catalanes, viu i emocionat amb els gols dels equips del nostre país i també amb els de la resta d'equips de la màxima categoria estatal de futbol.</desc>
+    <length units="seconds">1020</length>
+    <episode-num system="onscreen">397</episode-num>
     <category lang="ca">ESPORTS</category>
-    <category lang="ca">RETRANSMISSIONS ESPORTS</category>
+    <category lang="ca">ESPECIALS</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <subtitles type="teletext"/>
     <previously-shown/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/0/8/1730389343680.jpg"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/0/5/1697737572850.jpg"/>
   </programme>
   <channel id="sx3">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20261112002542 +0100" stop="20261112004643 +0100" channel="sx3">
-    <title lang="ca">Els germans Kratt</title>
-    <sub-title lang="ca">Perfumats</sub-title>
-    <desc lang="ca">Una colla de mofetes han convertit la Nau Tortuga en el seu cau i ara els germans Kratt i companyia s'han quedat sense camp base al desert de Sonora. El problema és que els vestits de poder animal i la resta d'invents són a l'interior de la nau, i l'únic que té manera d'entrar-hi és en Zach Virusmàtic, amb la Robobombolla, el seu últim invent!</desc>
-    <length units="seconds">1261</length>
-    <episode-num system="onscreen">62</episode-num>
+  <programme start="20261112050035 +0100" stop="20261112051205 +0100" channel="sx3">
+    <title lang="ca">La família Teixó-Guineu</title>
+    <sub-title lang="ca">El secret d'en Timbal</sub-title>
+    <desc lang="ca">En Timbal intenta desesperadament fer una cosa per a la qual necessita calma i concentració, però la seva família el molesta contínuament i no li deixa fer res. Com més es vol aïllar, menys tranquil el deixa la família, que es mor de curiositat per saber què trama.</desc>
+    <length units="seconds">690</length>
+    <episode-num system="onscreen">32</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
@@ -138,12 +136,12 @@
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20261112004643 +0100" stop="20261112010814 +0100" channel="sx3">
-    <title lang="ca">Els germans Kratt</title>
-    <sub-title lang="ca">Un monstre de Gila a sota casa</sub-title>
-    <desc lang="ca">Els germans Kratt acaben de rebre una trucada d'en Javier, un noi que viu al desert de Sonora i que assegura que se li ha instal·lat un monstre de Gila a sota de casa seva i que té molta por. La missió d'avui és descobrir com són de veritat els monstres de Gila i evitar que en Zach Virusmàtic aprofiti les característiques d'aquest animal per posar a la pràctica el seu pròxim invent!</desc>
-    <length units="seconds">1291</length>
-    <episode-num system="onscreen">63</episode-num>
+  <programme start="20261112051205 +0100" stop="20261112052340 +0100" channel="sx3">
+    <title lang="ca">La família Teixó-Guineu</title>
+    <sub-title lang="ca">En Timbal, el campió</sub-title>
+    <desc lang="ca">Per primera vegada la Guineta li guanya una cursa al seu pare. I ell li regala un collaret de campiona, del qual n'està molt orgullosa. Per posar-se a prova contra en Pinxo, deixa el collaret sota la vigilància d'en Timbal. Però mentre en Timbal fa una becaina, els gats del poble li roben el preuat collaret.</desc>
+    <length units="seconds">695</length>
+    <episode-num system="onscreen">33</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
@@ -155,35 +153,35 @@
   <channel id="c33">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20261112000000 +0100" stop="20261112005421 +0100" channel="c33">
-    <title lang="ca">1942</title>
-    <sub-title lang="ca">Si cal triar</sub-title>
-    <desc lang="ca">A la primavera del 1942, les forces de l'Eix avancen en tots els fronts. Llavors tothom ha de triar quin paper vol tenir a la història. Com l'André, que amb quinze anys s'apunta a la Resistència francesa. O en Ladislav, que s'arrisca per ajudar dos paracaigudistes que han vingut a fer una alta missió a Txecoslovàquia. O la Mary, una americana d'origen japonès obligada a confinar-se en un camp de concentració...</desc>
-    <length units="seconds">3261</length>
-    <episode-num system="onscreen">3</episode-num>
+  <programme start="20261112045255 +0100" stop="20261112054006 +0100" channel="c33">
+    <title lang="ca">La Renaixença</title>
+    <sub-title lang="ca">El transceptor</sub-title>
+    <desc lang="ca">Hi ha dies que ens llevem amb ganes de tornar a ser canalla, per això hem decidit dedicar un capítol al transceptor, per recordar aquells dies que no existia el telèfon i parlàvem amb els amics a través d'aquest aparell. Ens visita en Francesc Ferrer, un actor que diu que encara no ho ha petat, però tots estem d'acord que això no es pot dir si has fet 'Pop ràpid'. A 'Històries per passejar el gos' sortim amb la Nala pel Circ dels Horrors d'Erwin, Tennessee, on va morir l'elefanta Mary el 1916.</desc>
+    <length units="seconds">2831</length>
+    <episode-num system="onscreen">36</episode-num>
     <category lang="ca">DIVULGACIÓ</category>
-    <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
+    <category lang="ca">ALTRES</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
-    <icon src="https://img.3cat.cat/multimedia/jpg/9/8/1786345299589.jpg"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/3/3/1756148014833.jpg"/>
   </programme>
-  <programme start="20261112005421 +0100" stop="20261112015419 +0100" channel="c33">
-    <title lang="ca">1942</title>
-    <sub-title lang="ca">Si cal morir</sub-title>
-    <desc lang="ca">SINOPSI: L'any 1942, els drets humans no existeixen. Perquè les persones no són lliures ni de creure ni de pensar. Perquè, per vèncer, tant hi fan les penúries, les epidèmies, la fatiga... L'home ho ha de donar tot: la força de treball, el compromís, la salut, la vida. Les derrotes individuals valen molt menys que la victòria comuna. Tot va bé, per guanyar: les arbitrarietats, les il*legalitats, les traïcions...</desc>
-    <length units="seconds">3598</length>
-    <episode-num system="onscreen">4</episode-num>
-    <category lang="ca">DIVULGACIÓ</category>
-    <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
+  <programme start="20261112054006 +0100" stop="20261112055106 +0100" channel="c33">
+    <title lang="ca">Gran!</title>
+    <sub-title lang="ca">Sau: 'Quina nit'</sub-title>
+    <desc lang="ca">El febrer del 2024 va fer 25 anys de la mort de Carles Sabater, cantant dels Sau. 'Quina nit' (1990) va ser l'àlbum que va convertir el grup de Pep Sala i Carles Sabater en artistes mainstream i que inclou la seva cançó més emblemàtica, 'Boig per tu', que ha estat versionada per gent tan diversa com Luz Casal o Shakira. Va ser l'inici d'un gran èxit que els va dur a omplir grans recintes, a fitxar per una multinacional i a gravar amb llegendes del rock com Phil Manzanera (Roxy Music) o Robbie Robertson (The Band). </desc>
+    <length units="seconds">660</length>
+    <episode-num system="onscreen">2</episode-num>
+    <category lang="ca">ENTRETENIMENT</category>
+    <category lang="ca">ALTRES</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
-    <icon src="https://img.3cat.cat/multimedia/jpg/9/8/1786345299589.jpg"/>
+    <icon src="https://img.ccma.cat/multimedia//jpg/0/1/1714397571710.jpg"/>
   </programme>
   <channel id="oca1">
     <display-name>OCA1</display-name>
