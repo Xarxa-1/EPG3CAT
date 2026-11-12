@@ -3,122 +3,127 @@
   <channel id="tv3uhd">
     <display-name>TV3UHD</display-name>
   </channel>
-  <programme start="20261112103000 +0100" stop="20261112135500 +0100" channel="tv3uhd">
-    <title lang="ca">Tot es mou</title>
-    <desc lang="ca">El programa presentat per Helena Garcia Melero s'emet de dilluns a divendres, de 10.30 a 13.55. Un magazín d'actualitat que busca informar, analitzar i debatre sobre temes que marquen l'actualitat social, econòmica i cultural del dia, amb una àmplia presència en directe dels reporters i reporteres, repartits per tot Catalunya. A més, el 'Tot es mou' compta amb seccions diàries de gastronomia (amb els principals cuiners i cuineres del país), successos, economia, mobilitat, temes mèdics i de tecnologia, entre d'altres.</desc>
-    <length units="seconds">12300</length>
-    <episode-num system="onscreen">1848</episode-num>
-    <category lang="ca">ACTUALITAT</category>
-    <category lang="ca">MAGAZINE</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <subtitles type="teletext"/>
-  </programme>
-  <programme start="20261112135500 +0100" stop="20261112143000 +0100" channel="tv3uhd">
-    <title lang="ca">Telenotícies comarques</title>
-    <length units="seconds">2100</length>
-    <episode-num system="onscreen">7074</episode-num>
+  <programme start="20261112210000 +0100" stop="20261112220412 +0100" channel="tv3uhd">
+    <title lang="ca">Telenotícies vespre</title>
+    <length units="seconds">3852</length>
+    <episode-num system="onscreen">7386</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/5/2/1758026313525.jpg"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/7/2/1758026176427.jpg"/>
+  </programme>
+  <programme start="20261112220412 +0100" stop="20261112223548 +0100" channel="tv3uhd">
+    <title lang="ca">Polònia</title>
+    <sub-title lang="ca">La vaga general, a 'Polònia'</sub-title>
+    <desc lang="ca">El plató de 'Polònia' també ha quedat buit per la vaga general, però alguns personatges garanteixen serveis mínims amb la regidora (Nesa Vidaurrázaga) al capdavant: Francesc Macià (Queco Novell), Arnau Tordera (Ivan Labanda), Bertín Osborne (Pep Plaza), Óscar Puente (Cesc Casanovas) i en Josep Maria (Jordi Soriano).L'11 de novembre de 2026 també ha estat la primera vegada que s'ha produït una aturada de país des de la implementació del teletreball i veiem l'aparició d'un nou fenomen: els telepiquets. Una vaga que ha estat criticada pels partits de la dreta i també pel NO-DO, que en farà la seva anàlisi particular.L'altra vaga de la setmana és la de maquinistes de Renfe. És per això que Óscar Puente dona la benvinguda a Carlos Cuerpo (David Marcé) al Ministeri de Transports i li ensenya totes les inversions previstes.Mentrestant, els candidats al 29-N es continuen passejant pels mitjans i en Josep Maria (Jordi Soriano) s'ofereix com a alternativa a Jordi Wild per entrevistar els líders dels principals partits a les eleccions generals. Pel pòdcast del nostre cunyat hi passen: Pedro Sánchez (Pep Plaza), Alberto Núñez Feijóo (David Marcé), Santiago Abascal (Noé Blancafort), Miriam Nogueras (Alba Florejachs), Gabriel Rufián (Xavi Espinosa) i Ada Colau (Agnès Busquets).A Catalunya ha arribat la preocupació per l'onada de ciberatacs a bancs de sang i supermercats, entre d'altres, però Salvador Illa (Queco Novell) té una arma secreta per evitar que això ens passi aquí: el tiet Emili, un jubilat considerat tot un gurú tecnològic.I, finalment, davant de la manca d'examinadors del carnet de conduir, la Generalitat proposa que siguin els Mossos els qui facin les proves: Núria Parlon (Agnès Busquets) serà la primera en donar exemple.</desc>
+    <length units="seconds">1896</length>
+    <episode-num system="onscreen">830</episode-num>
+    <category lang="ca">ENTRETENIMENT</category>
+    <category lang="ca">GAGS. HUMOR</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <subtitles type="teletext"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/4/4/1665652336244.jpg"/>
   </programme>
   <channel id="tvi">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20261112103045 +0100" stop="20261112135500 +0100" channel="tvi">
-    <title lang="ca">Tot es mou</title>
-    <desc lang="ca">El programa presentat per Helena Garcia Melero s'emet de dilluns a divendres, de 10.30 a 13.55. Un magazín d'actualitat que busca informar, analitzar i debatre sobre temes que marquen l'actualitat social, econòmica i cultural del dia, amb una àmplia presència en directe dels reporters i reporteres, repartits per tot Catalunya. A més, el 'Tot es mou' compta amb seccions diàries de gastronomia (amb els principals cuiners i cuineres del país), successos, economia, mobilitat, temes mèdics i de tecnologia, entre d'altres.</desc>
-    <length units="seconds">12255</length>
-    <episode-num system="onscreen">1848</episode-num>
-    <category lang="ca">ACTUALITAT</category>
-    <category lang="ca">MAGAZINE</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-  </programme>
-  <programme start="20261112135500 +0100" stop="20261112142959 +0100" channel="tvi">
-    <title lang="ca">Telenotícies comarques</title>
-    <length units="seconds">2099</length>
-    <episode-num system="onscreen">7074</episode-num>
+  <programme start="20261112210000 +0100" stop="20261112220412 +0100" channel="tvi">
+    <title lang="ca">Telenotícies vespre</title>
+    <length units="seconds">3852</length>
+    <episode-num system="onscreen">7386</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <icon src="https://img.ccma.cat/multimedia/jpg/5/2/1758026313525.jpg"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/7/2/1758026176427.jpg"/>
+  </programme>
+  <programme start="20261112220412 +0100" stop="20261112223548 +0100" channel="tvi">
+    <title lang="ca">Polònia</title>
+    <sub-title lang="ca">La vaga general, a 'Polònia'</sub-title>
+    <desc lang="ca">El plató de 'Polònia' també ha quedat buit per la vaga general, però alguns personatges garanteixen serveis mínims amb la regidora (Nesa Vidaurrázaga) al capdavant: Francesc Macià (Queco Novell), Arnau Tordera (Ivan Labanda), Bertín Osborne (Pep Plaza), Óscar Puente (Cesc Casanovas) i en Josep Maria (Jordi Soriano).L'11 de novembre de 2026 també ha estat la primera vegada que s'ha produït una aturada de país des de la implementació del teletreball i veiem l'aparició d'un nou fenomen: els telepiquets. Una vaga que ha estat criticada pels partits de la dreta i també pel NO-DO, que en farà la seva anàlisi particular.L'altra vaga de la setmana és la de maquinistes de Renfe. És per això que Óscar Puente dona la benvinguda a Carlos Cuerpo (David Marcé) al Ministeri de Transports i li ensenya totes les inversions previstes.Mentrestant, els candidats al 29-N es continuen passejant pels mitjans i en Josep Maria (Jordi Soriano) s'ofereix com a alternativa a Jordi Wild per entrevistar els líders dels principals partits a les eleccions generals. Pel pòdcast del nostre cunyat hi passen: Pedro Sánchez (Pep Plaza), Alberto Núñez Feijóo (David Marcé), Santiago Abascal (Noé Blancafort), Miriam Nogueras (Alba Florejachs), Gabriel Rufián (Xavi Espinosa) i Ada Colau (Agnès Busquets).A Catalunya ha arribat la preocupació per l'onada de ciberatacs a bancs de sang i supermercats, entre d'altres, però Salvador Illa (Queco Novell) té una arma secreta per evitar que això ens passi aquí: el tiet Emili, un jubilat considerat tot un gurú tecnològic.I, finalment, davant de la manca d'examinadors del carnet de conduir, la Generalitat proposa que siguin els Mossos els qui facin les proves: Núria Parlon (Agnès Busquets) serà la primera en donar exemple.</desc>
+    <length units="seconds">1896</length>
+    <episode-num system="onscreen">830</episode-num>
+    <category lang="ca">ENTRETENIMENT</category>
+    <category lang="ca">GAGS. HUMOR</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <icon src="https://img.ccma.cat/multimedia/jpg/4/4/1665652336244.jpg"/>
   </programme>
   <channel id="324">
     <display-name>324</display-name>
   </channel>
-  <programme start="20261112120000 +0100" stop="20261112135500 +0100" channel="324">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">6900</length>
-    <episode-num system="onscreen">11682</episode-num>
+  <programme start="20261112210000 +0100" stop="20261112220500 +0100" channel="324">
+    <title lang="ca">Telenotícies vespre</title>
+    <length units="seconds">3900</length>
+    <episode-num system="onscreen">7386</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <icon src="https://img.ccma.cat/multimedia/jpg/7/2/1758026176427.jpg"/>
+  </programme>
+  <programme start="20261112220500 +0100" stop="20261113003000 +0100" channel="324">
+    <title lang="ca">Mésnit</title>
+    <desc lang="ca">El 'Mésnit' arriba a la desena temporada, amb Marina Romero al capdavant de l'espai i amb la voluntat de continuar sent un centre de debat d'idees i d'anàlisi de l'activitat política.</desc>
+    <length units="seconds">8700</length>
+    <episode-num system="onscreen">2198</episode-num>
+    <category lang="ca">ACTUALITAT</category>
+    <category lang="ca">DEBAT</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
-  </programme>
-  <programme start="20261112135500 +0100" stop="20261112143000 +0100" channel="324">
-    <title lang="ca">Telenotícies comarques</title>
-    <length units="seconds">2100</length>
-    <episode-num system="onscreen">7074</episode-num>
-    <category lang="ca">ACTUALITAT</category>
-    <category lang="ca">INFORMATIU DIÀRI</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <icon src="https://img.ccma.cat/multimedia/jpg/5/2/1758026313525.jpg"/>
   </programme>
   <channel id="esport3">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20261112125958 +0100" stop="20261112140101 +0100" channel="esport3">
-    <title lang="ca">Esport Club</title>
-    <sub-title lang="ca">De la Fuente, Barça-Arsenal, Oleguer Presas i NBA</sub-title>
-    <desc lang="ca">Defensa aferrissada de De la Fuente cap a Lamine. No té cap tracte de favor. Avui, Barça-Arsenal al Camp Nou. S'enfronten els dos últims campions d'Europa, en directe per TV3 (18.45). Entrevistem Oleguer Presas, exjugador del FC Barcelona. L'NBA amb Jordi de Mas i tertúlia. Avui ens acompanyen Pere Mas, Gemma Mallorca i Pere de Cal Tet. </desc>
-    <length units="seconds">3663</length>
-    <episode-num system="onscreen">3282</episode-num>
+  <programme start="20261112205256 +0100" stop="20261112223500 +0100" channel="esport3">
+    <title lang="ca">Futbol</title>
+    <sub-title lang="ca">FC Barcelona-Arsenal / Champions League / J4</sub-title>
+    <desc lang="ca">Barcelonines i londinenques es retroben després de la final del 2025 que va acabar amb victòria de les gunners per 1 a 0. Aquesta temporada, el Barça ha guanyat els 3 partits disputats, i l'Arsenal suma 2 victòries i 1 empat.</desc>
+    <length units="seconds">6124</length>
+    <episode-num system="onscreen">93</episode-num>
     <category lang="ca">ESPORTS</category>
-    <category lang="ca">INFORMATIU DIÀRI</category>
+    <category lang="ca">RETRANSMISSIONS ESPORTS</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/7/3/1698145091337.jpg"/>
+    <previously-shown/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/5/0/1702464930005.jpg"/>
   </programme>
-  <programme start="20261112140101 +0100" stop="20261112150300 +0100" channel="esport3">
-    <title lang="ca">Esport Club</title>
-    <sub-title lang="ca">De la Fuente, Barça-Arsenal, Oleguer Presas i NBA</sub-title>
-    <desc lang="ca">Defensa aferrissada de De la Fuente cap a Lamine. No té cap tracte de favor. Avui, Barça-Arsenal al Camp Nou. S'enfronten els dos últims campions d'Europa, en directe per TV3 (18.45). Entrevistem Oleguer Presas, exjugador del FC Barcelona. L'NBA amb Jordi de Mas i tertúlia. Avui ens acompanyen Pere Mas, Gemma Mallorca i Pere de Cal Tet. </desc>
-    <length units="seconds">3719</length>
-    <episode-num system="onscreen">3282</episode-num>
+  <programme start="20261112223500 +0100" stop="20261112230000 +0100" channel="esport3">
+    <title lang="ca">Toni Bou</title>
+    <sub-title lang="ca">Márquez i Bou, a la taula dels campions</sub-title>
+    <desc lang="ca">Poder seure a la taula dels campions és un mèrit que només els escollits tenen a l'abast. Veure asseguts a la taula els, segurament, millors pilots de la història del motociclisme és un regal, una delícia, i sentir-los parlar en una conversa plena de complicitat i rialles esdevé un privilegi únic. 'Márquez i Bou a la taula dels campions' és el fruit d'un matí calorós d'estiu, en què TV3 va reunir el millor pilot de la història del trial, Toni Bou, amb el gran campió de MotoGP de tots els temps, Marc Márquez. L'objectiu era completar i engrandir el documental 'Els 40 de Toni Bou', però la trobada va ser tan màgica que mereixia un capítol a banda. En aquesta peça de poc més de 20 minuts, el Toni i el Marc ens permetran accedir a una conversa íntima i rica en sinceritat, coneixements, afecte i moltíssimes rialles. Parlen per als espectadors, però s'obliden de les càmeres. Per arrodonir la festa, Márquez i Bou es desafien en una cursa de motocròs amistosa... si és que dos pilots d'aquesta talla són capaços de pujar a una moto sense competir al màxim. Aniran gas a fons, però ni així pararan de riure.</desc>
+    <length units="seconds">1500</length>
+    <episode-num system="onscreen">2</episode-num>
     <category lang="ca">ESPORTS</category>
-    <category lang="ca">INFORMATIU DIÀRI</category>
+    <category lang="ca">DOCUMENTAL</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/7/3/1698145091337.jpg"/>
+    <previously-shown/>
+    <icon src="https://img.3cat.cat/multimedia/jpg/4/9/1794308012294.jpg"/>
   </programme>
   <channel id="sx3">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20261112132426 +0100" stop="20261112134501 +0100" channel="sx3">
-    <title lang="ca">El detectiu Conan</title>
-    <sub-title lang="ca">La foscor de la policia de la prefectura (3a part)</sub-title>
-    <desc lang="ca">Ja hi ha hagut tres assassinats i tots els indicis assenyalen l'inspector Yamato com a principal sospitós. En Mamoru Saegusa, un dels homes de l'inspector Takeda, rep un correu d'en Kansuke Yamato que li demana que vagi al mont Saijo si no vol que reveli tota la veritat sobre la X. Mentrestant, en Conan, la Ran i en Mouri ja són al tren bala, de tornada cap a casa. Allà en Conan els explica tota la veritat sobre el clan dels picots.</desc>
-    <length units="seconds">1235</length>
-    <episode-num system="onscreen">867</episode-num>
+  <programme start="20261112212251 +0100" stop="20261112214102 +0100" channel="sx3">
+    <title lang="ca">One piece</title>
+    <sub-title lang="ca">L'atac dels batallaires! Travessem el terrible pont de ferro!</sub-title>
+    <desc lang="ca">Mentre en Law, la Nico Robin, l'Usopp i en Caesar Clown intenten sobreviure a l'atac dels batallaires, en Sanji descobreix la veritat punyent sobre la dona que li ha robat el cor!</desc>
+    <length units="seconds">1091</length>
+    <episode-num system="onscreen">636</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
@@ -127,12 +132,12 @@
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20261112134501 +0100" stop="20261112140656 +0100" channel="sx3">
-    <title lang="ca">El detectiu Conan</title>
-    <sub-title lang="ca">L'ombra que s'acosta a en Toru Amuro</sub-title>
-    <desc lang="ca">Tot esmorzant al Cafè Poirot, en Conan observa un client que li sembla sospitós. De seguida s'adona que té un interès especial per en Toru Amuro. Els seus amics de la Lliga de Detectius Júnior l'ajuden a investigar-ho i en Conan l'hi acaba explicant a en Toru abans que el sospitós pugui passar a l'acció. Però en Toru demostrarà la seva generositat i la seva professionalitat a l'hora de fer la feina que li serveix de tapadora.</desc>
-    <length units="seconds">1315</length>
-    <episode-num system="onscreen">868</episode-num>
+  <programme start="20261112214102 +0100" stop="20261112220023 +0100" channel="sx3">
+    <title lang="ca">One piece</title>
+    <sub-title lang="ca">Anem d'exploració! Green Bit, l'illa de les fades!</sub-title>
+    <desc lang="ca">Ja gairebé és el torn d'en Ruffy en la batalla èpica del coliseu, en Zoro es troba amb qui creu que és una fada sorprenentment forta, i els pensaments d'en Sanji esbalaeixen la dona que el té captiu!</desc>
+    <length units="seconds">1161</length>
+    <episode-num system="onscreen">637</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
@@ -144,33 +149,33 @@
   <channel id="c33">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20261112131113 +0100" stop="20261112140608 +0100" channel="c33">
-    <title lang="ca">Atrapa'm si pots</title>
-    <desc lang="ca">'Atrapa'm si pots' és un 'quiz show' clàssic, de preguntes i respostes, presentat per Llucià Ferrer, en què sis concursants competeixen per arribar a la fase final i guanyar el pot. 'Atrapa'm si pots' és entreteniment pur i on gairebé és més important passar-s'ho bé que els diners. És un concurs en què pesa més la intuïció que no els coneixements acadèmics, més l'estratègia en el joc que no la sort.</desc>
-    <length units="seconds">3295</length>
-    <episode-num system="onscreen">93</episode-num>
-    <category lang="ca">ENTRETENIMENT</category>
-    <category lang="ca">CONCURS</category>
+  <programme start="20261112211325 +0100" stop="20261112213704 +0100" channel="c33">
+    <title lang="ca">Jet lag</title>
+    <sub-title lang="ca">ESTRÈS</sub-title>
+    <desc lang="ca">La Carla, la Sílvia i l'Esther s'han quedat a l'atur. La Carla decideix trobar una feina millor de la que tenia. La Sílvia decideix agafar-se un any sabàtic i dedicar-lo als seus hobbies. L'Esther no sap estar sense fer d'hostessa, encara que sigui a casa. La Mariona es converteix en la golejadora de l'equip de futbol sala femení del barri. La Diana s'ha enamorat d'un paleta, a qui segueix fins allà on treballa, convençuda que ell també la correspon. Actors convidats: Jordi Bosch, Jordi Martínez i Lulú Palomares, i la col·laboració especial de Núria Hosta i Anna Azcona.</desc>
+    <length units="seconds">1419</length>
+    <episode-num system="onscreen">15</episode-num>
+    <category lang="ca">FICCIÓ</category>
+    <category lang="ca">TELESÈRIE</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20261112140608 +0100" stop="20261112145350 +0100" channel="c33">
-    <title lang="ca">La Renaixença</title>
-    <sub-title lang="ca">El pal de golf</sub-title>
-    <desc lang="ca">En Xuri i en Fel podrien ser els nostres Charlie Reixach i Johan Cruyff. Més pel fet de ser dos que no pas pel talent que puguin tenir jugant a futbol o a golf. Avui dediquem el capítol al pal de golf. Ens visita la Mar Pujol, amb qui parlem i sentim amb l'Arnau Tordera i la Laia Glück interpretant 'Per cada u'. A 'Històries per passejar el gos' continuem una història que vam començar fa unes setmanes: les aventures d'Anníbal i el seu exèrcit. Hi anem amb la Roma.</desc>
-    <length units="seconds">2862</length>
-    <episode-num system="onscreen">88</episode-num>
-    <category lang="ca">DIVULGACIÓ</category>
-    <category lang="ca">ALTRES</category>
+  <programme start="20261112213704 +0100" stop="20261112215815 +0100" channel="c33">
+    <title lang="ca">Jet lag</title>
+    <sub-title lang="ca">CLAUSURA</sub-title>
+    <desc lang="ca">Un director de televisió ha triat el bar del Mario per rodar-hi l'anunci publicitari d'una nova marca de cerveses. Ja està tot preparat, només falta triar la noia que protagonitzarà l'anunci. A cap de les nostres protagonistes els fa gràcia aparèixer per la televisió, fins que s'assabenten que el noi de l'anunci serà... Javier Bardem. A partir d'aquest moment començarà una guerra entre totes elles per protagonitzar l'anunci i estar ben a prop del seu ídol. Actors convidats: Francesc Orella i Montse German</desc>
+    <length units="seconds">1271</length>
+    <episode-num system="onscreen">16</episode-num>
+    <category lang="ca">FICCIÓ</category>
+    <category lang="ca">TELESÈRIE</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/3/3/1756148014833.jpg"/>
   </programme>
   <channel id="oca1">
     <display-name>OCA1</display-name>
