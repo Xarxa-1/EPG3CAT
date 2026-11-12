@@ -3,131 +3,122 @@
   <channel id="tv3uhd">
     <display-name>TV3UHD</display-name>
   </channel>
-  <programme start="20261112043000 +0100" stop="20261112051834 +0100" channel="tv3uhd">
-    <title lang="ca">Cava de Blues</title>
-    <sub-title lang="ca">The Big Jamboree</sub-title>
-    <desc lang="ca">Cava de Blues és un espai dedicat a les noves creacions de 14 grups del país que es dediquen a aquest gènere musical.En aquesta edició, els grups que hi trobareu són: -A contrablues-Blas Picón &amp; The Junk Espress-Bullfrog Electric Blues Experience-Dusa'ns Flying Blues Band-Dani Baraldés &amp; The XX Band-Emili Baleriola Blues Quartet-Dani Nel·lo &amp; Mario Cobo-Ivan Kovacevic 5 Spots-JG Acoustic Gang-John Big Stone &amp; The Blues Workers-Legacaster! The Hillbilly Trio-Martini Surfers-Susan Santos &amp; The Papa's Red Band-The Paparellos</desc>
-    <length units="seconds">2914</length>
-    <episode-num system="onscreen">21</episode-num>
-    <category lang="ca">MUSICALS</category>
-    <category lang="ca">JAZZ</category>
+  <programme start="20261112103000 +0100" stop="20261112135500 +0100" channel="tv3uhd">
+    <title lang="ca">Tot es mou</title>
+    <desc lang="ca">El programa presentat per Helena Garcia Melero s'emet de dilluns a divendres, de 10.30 a 13.55. Un magazín d'actualitat que busca informar, analitzar i debatre sobre temes que marquen l'actualitat social, econòmica i cultural del dia, amb una àmplia presència en directe dels reporters i reporteres, repartits per tot Catalunya. A més, el 'Tot es mou' compta amb seccions diàries de gastronomia (amb els principals cuiners i cuineres del país), successos, economia, mobilitat, temes mèdics i de tecnologia, entre d'altres.</desc>
+    <length units="seconds">12300</length>
+    <episode-num system="onscreen">1848</episode-num>
+    <category lang="ca">ACTUALITAT</category>
+    <category lang="ca">MAGAZINE</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <previously-shown/>
-    <icon src="https://img.3cat.cat/multimedia/jpg/0/2/1754910826220.jpg"/>
+    <subtitles type="teletext"/>
   </programme>
-  <programme start="20261112051834 +0100" stop="20261112055741 +0100" channel="tv3uhd">
-    <title lang="ca">Fusió i swing a l'estudi</title>
-    <sub-title lang="ca"> Xavi Maureta Animals Exòtics</sub-title>
-    <desc lang="ca">Animals Exòtics és la nova proposta de Xavi Maureta, on combina la sonoritat del jazz més contemporani amb melodies i ritmes que provenen de músiques 'cosines', com ara el flamenc, les músiques folklòriques de Llatinoamèrica, el blues o les musiques africanes. Són Guim Garcia Balach, al saxo alt, amb Marco Mezquida, al piano i teclats; Rai Ferrer, al contrabaix, i el mateix Xavi Maureta, a la bateria.</desc>
-    <length units="seconds">2347</length>
-    <episode-num system="onscreen">7</episode-num>
-    <category lang="ca">MUSICALS</category>
-    <category lang="ca">ALTRES</category>
+  <programme start="20261112135500 +0100" stop="20261112143000 +0100" channel="tv3uhd">
+    <title lang="ca">Telenotícies comarques</title>
+    <length units="seconds">2100</length>
+    <episode-num system="onscreen">7074</episode-num>
+    <category lang="ca">ACTUALITAT</category>
+    <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <previously-shown/>
+    <subtitles type="teletext"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/5/2/1758026313525.jpg"/>
   </programme>
   <channel id="tvi">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20261112043000 +0100" stop="20261112051834 +0100" channel="tvi">
-    <title lang="ca">Cava de Blues</title>
-    <sub-title lang="ca">The Big Jamboree</sub-title>
-    <desc lang="ca">Cava de Blues és un espai dedicat a les noves creacions de 14 grups del país que es dediquen a aquest gènere musical.En aquesta edició, els grups que hi trobareu són: -A contrablues-Blas Picón &amp; The Junk Espress-Bullfrog Electric Blues Experience-Dusa'ns Flying Blues Band-Dani Baraldés &amp; The XX Band-Emili Baleriola Blues Quartet-Dani Nel·lo &amp; Mario Cobo-Ivan Kovacevic 5 Spots-JG Acoustic Gang-John Big Stone &amp; The Blues Workers-Legacaster! The Hillbilly Trio-Martini Surfers-Susan Santos &amp; The Papa's Red Band-The Paparellos</desc>
-    <length units="seconds">2914</length>
-    <episode-num system="onscreen">21</episode-num>
-    <category lang="ca">MUSICALS</category>
-    <category lang="ca">JAZZ</category>
+  <programme start="20261112103045 +0100" stop="20261112135500 +0100" channel="tvi">
+    <title lang="ca">Tot es mou</title>
+    <desc lang="ca">El programa presentat per Helena Garcia Melero s'emet de dilluns a divendres, de 10.30 a 13.55. Un magazín d'actualitat que busca informar, analitzar i debatre sobre temes que marquen l'actualitat social, econòmica i cultural del dia, amb una àmplia presència en directe dels reporters i reporteres, repartits per tot Catalunya. A més, el 'Tot es mou' compta amb seccions diàries de gastronomia (amb els principals cuiners i cuineres del país), successos, economia, mobilitat, temes mèdics i de tecnologia, entre d'altres.</desc>
+    <length units="seconds">12255</length>
+    <episode-num system="onscreen">1848</episode-num>
+    <category lang="ca">ACTUALITAT</category>
+    <category lang="ca">MAGAZINE</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <previously-shown/>
-    <icon src="https://img.3cat.cat/multimedia/jpg/0/2/1754910826220.jpg"/>
   </programme>
-  <programme start="20261112051834 +0100" stop="20261112055741 +0100" channel="tvi">
-    <title lang="ca">Fusió i swing a l'estudi</title>
-    <sub-title lang="ca"> Xavi Maureta Animals Exòtics</sub-title>
-    <desc lang="ca">Animals Exòtics és la nova proposta de Xavi Maureta, on combina la sonoritat del jazz més contemporani amb melodies i ritmes que provenen de músiques 'cosines', com ara el flamenc, les músiques folklòriques de Llatinoamèrica, el blues o les musiques africanes. Són Guim Garcia Balach, al saxo alt, amb Marco Mezquida, al piano i teclats; Rai Ferrer, al contrabaix, i el mateix Xavi Maureta, a la bateria.</desc>
-    <length units="seconds">2347</length>
-    <episode-num system="onscreen">7</episode-num>
-    <category lang="ca">MUSICALS</category>
-    <category lang="ca">ALTRES</category>
+  <programme start="20261112135500 +0100" stop="20261112142959 +0100" channel="tvi">
+    <title lang="ca">Telenotícies comarques</title>
+    <length units="seconds">2099</length>
+    <episode-num system="onscreen">7074</episode-num>
+    <category lang="ca">ACTUALITAT</category>
+    <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <previously-shown/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/5/2/1758026313525.jpg"/>
   </programme>
   <channel id="324">
     <display-name>324</display-name>
   </channel>
-  <programme start="20261112010000 +0100" stop="20261112060000 +0100" channel="324">
+  <programme start="20261112120000 +0100" stop="20261112135500 +0100" channel="324">
     <title lang="ca">Notícies 3CatInfo</title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">18000</length>
-    <episode-num system="onscreen">11679</episode-num>
+    <length units="seconds">6900</length>
+    <episode-num system="onscreen">11682</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <previously-shown/>
+    <subtitles type="teletext"/>
     <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
-  <programme start="20261112060000 +0100" stop="20261112080000 +0100" channel="324">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">7200</length>
-    <episode-num system="onscreen">11680</episode-num>
+  <programme start="20261112135500 +0100" stop="20261112143000 +0100" channel="324">
+    <title lang="ca">Telenotícies comarques</title>
+    <length units="seconds">2100</length>
+    <episode-num system="onscreen">7074</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/5/2/1758026313525.jpg"/>
   </programme>
   <channel id="esport3">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20261112045214 +0100" stop="20261112051505 +0100" channel="esport3">
-    <title lang="ca">Espòiler</title>
-    <sub-title lang="ca">El Ford Kuga BlueCruise, el Nissan Leaf, el Zeekr 9X i les novetats de Denza.</sub-title>
-    <desc lang="ca">En aquest capítol posem a prova la tecnologia BlueCruise de Ford, un sistema de conducció autònoma de nivell 2 que ens permet conduir sense posar les mans al volant. També conduïm la nova generació del Nissan Leaf, el popular model elèctric de la marca japonesa. A més, us ensenyem totes les novetats de la marca xinesa Denza, entre les quals hi destaca el Denza Z, un superesportiu de més 1.600 CV de potència. Finalment, descobrim com és el Zeekr 9X, un SUV de luxe capaç de competir amb marques com Bentley o Rolls-Royce. </desc>
-    <length units="seconds">1371</length>
-    <episode-num system="onscreen">63</episode-num>
+  <programme start="20261112125958 +0100" stop="20261112140101 +0100" channel="esport3">
+    <title lang="ca">Esport Club</title>
+    <sub-title lang="ca">De la Fuente, Barça-Arsenal, Oleguer Presas i NBA</sub-title>
+    <desc lang="ca">Defensa aferrissada de De la Fuente cap a Lamine. No té cap tracte de favor. Avui, Barça-Arsenal al Camp Nou. S'enfronten els dos últims campions d'Europa, en directe per TV3 (18.45). Entrevistem Oleguer Presas, exjugador del FC Barcelona. L'NBA amb Jordi de Mas i tertúlia. Avui ens acompanyen Pere Mas, Gemma Mallorca i Pere de Cal Tet. </desc>
+    <length units="seconds">3663</length>
+    <episode-num system="onscreen">3282</episode-num>
     <category lang="ca">ESPORTS</category>
-    <category lang="ca">REPORTATGES</category>
+    <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <previously-shown/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/1/0/1698433593401.jpg"/>
+    <subtitles type="teletext"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/7/3/1698145091337.jpg"/>
   </programme>
-  <programme start="20261112051505 +0100" stop="20261112053205 +0100" channel="esport3">
-    <title lang="ca">Top gols La Lliga</title>
-    <sub-title lang="ca">Jornada 12</sub-title>
-    <desc lang="ca">'Top gols La Lliga' repassa cada setmana tots els gols de la jornada de la Primera Divisió. Amb la locució de Catalunya Ràdio i d'altres emissores catalanes, viu i emocionat amb els gols dels equips del nostre país i també amb els de la resta d'equips de la màxima categoria estatal de futbol.</desc>
-    <length units="seconds">1020</length>
-    <episode-num system="onscreen">397</episode-num>
+  <programme start="20261112140101 +0100" stop="20261112150300 +0100" channel="esport3">
+    <title lang="ca">Esport Club</title>
+    <sub-title lang="ca">De la Fuente, Barça-Arsenal, Oleguer Presas i NBA</sub-title>
+    <desc lang="ca">Defensa aferrissada de De la Fuente cap a Lamine. No té cap tracte de favor. Avui, Barça-Arsenal al Camp Nou. S'enfronten els dos últims campions d'Europa, en directe per TV3 (18.45). Entrevistem Oleguer Presas, exjugador del FC Barcelona. L'NBA amb Jordi de Mas i tertúlia. Avui ens acompanyen Pere Mas, Gemma Mallorca i Pere de Cal Tet. </desc>
+    <length units="seconds">3719</length>
+    <episode-num system="onscreen">3282</episode-num>
     <category lang="ca">ESPORTS</category>
-    <category lang="ca">ESPECIALS</category>
+    <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <previously-shown/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/0/5/1697737572850.jpg"/>
+    <subtitles type="teletext"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/7/3/1698145091337.jpg"/>
   </programme>
   <channel id="sx3">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20261112050035 +0100" stop="20261112051205 +0100" channel="sx3">
-    <title lang="ca">La família Teixó-Guineu</title>
-    <sub-title lang="ca">El secret d'en Timbal</sub-title>
-    <desc lang="ca">En Timbal intenta desesperadament fer una cosa per a la qual necessita calma i concentració, però la seva família el molesta contínuament i no li deixa fer res. Com més es vol aïllar, menys tranquil el deixa la família, que es mor de curiositat per saber què trama.</desc>
-    <length units="seconds">690</length>
-    <episode-num system="onscreen">32</episode-num>
+  <programme start="20261112132426 +0100" stop="20261112134501 +0100" channel="sx3">
+    <title lang="ca">El detectiu Conan</title>
+    <sub-title lang="ca">La foscor de la policia de la prefectura (3a part)</sub-title>
+    <desc lang="ca">Ja hi ha hagut tres assassinats i tots els indicis assenyalen l'inspector Yamato com a principal sospitós. En Mamoru Saegusa, un dels homes de l'inspector Takeda, rep un correu d'en Kansuke Yamato que li demana que vagi al mont Saijo si no vol que reveli tota la veritat sobre la X. Mentrestant, en Conan, la Ran i en Mouri ja són al tren bala, de tornada cap a casa. Allà en Conan els explica tota la veritat sobre el clan dels picots.</desc>
+    <length units="seconds">1235</length>
+    <episode-num system="onscreen">867</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
@@ -136,12 +127,12 @@
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20261112051205 +0100" stop="20261112052340 +0100" channel="sx3">
-    <title lang="ca">La família Teixó-Guineu</title>
-    <sub-title lang="ca">En Timbal, el campió</sub-title>
-    <desc lang="ca">Per primera vegada la Guineta li guanya una cursa al seu pare. I ell li regala un collaret de campiona, del qual n'està molt orgullosa. Per posar-se a prova contra en Pinxo, deixa el collaret sota la vigilància d'en Timbal. Però mentre en Timbal fa una becaina, els gats del poble li roben el preuat collaret.</desc>
-    <length units="seconds">695</length>
-    <episode-num system="onscreen">33</episode-num>
+  <programme start="20261112134501 +0100" stop="20261112140656 +0100" channel="sx3">
+    <title lang="ca">El detectiu Conan</title>
+    <sub-title lang="ca">L'ombra que s'acosta a en Toru Amuro</sub-title>
+    <desc lang="ca">Tot esmorzant al Cafè Poirot, en Conan observa un client que li sembla sospitós. De seguida s'adona que té un interès especial per en Toru Amuro. Els seus amics de la Lliga de Detectius Júnior l'ajuden a investigar-ho i en Conan l'hi acaba explicant a en Toru abans que el sospitós pugui passar a l'acció. Però en Toru demostrarà la seva generositat i la seva professionalitat a l'hora de fer la feina que li serveix de tapadora.</desc>
+    <length units="seconds">1315</length>
+    <episode-num system="onscreen">868</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
@@ -153,12 +144,25 @@
   <channel id="c33">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20261112045255 +0100" stop="20261112054006 +0100" channel="c33">
+  <programme start="20261112131113 +0100" stop="20261112140608 +0100" channel="c33">
+    <title lang="ca">Atrapa'm si pots</title>
+    <desc lang="ca">'Atrapa'm si pots' és un 'quiz show' clàssic, de preguntes i respostes, presentat per Llucià Ferrer, en què sis concursants competeixen per arribar a la fase final i guanyar el pot. 'Atrapa'm si pots' és entreteniment pur i on gairebé és més important passar-s'ho bé que els diners. És un concurs en què pesa més la intuïció que no els coneixements acadèmics, més l'estratègia en el joc que no la sort.</desc>
+    <length units="seconds">3295</length>
+    <episode-num system="onscreen">93</episode-num>
+    <category lang="ca">ENTRETENIMENT</category>
+    <category lang="ca">CONCURS</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <subtitles type="teletext"/>
+    <previously-shown/>
+  </programme>
+  <programme start="20261112140608 +0100" stop="20261112145350 +0100" channel="c33">
     <title lang="ca">La Renaixença</title>
-    <sub-title lang="ca">El transceptor</sub-title>
-    <desc lang="ca">Hi ha dies que ens llevem amb ganes de tornar a ser canalla, per això hem decidit dedicar un capítol al transceptor, per recordar aquells dies que no existia el telèfon i parlàvem amb els amics a través d'aquest aparell. Ens visita en Francesc Ferrer, un actor que diu que encara no ho ha petat, però tots estem d'acord que això no es pot dir si has fet 'Pop ràpid'. A 'Històries per passejar el gos' sortim amb la Nala pel Circ dels Horrors d'Erwin, Tennessee, on va morir l'elefanta Mary el 1916.</desc>
-    <length units="seconds">2831</length>
-    <episode-num system="onscreen">36</episode-num>
+    <sub-title lang="ca">El pal de golf</sub-title>
+    <desc lang="ca">En Xuri i en Fel podrien ser els nostres Charlie Reixach i Johan Cruyff. Més pel fet de ser dos que no pas pel talent que puguin tenir jugant a futbol o a golf. Avui dediquem el capítol al pal de golf. Ens visita la Mar Pujol, amb qui parlem i sentim amb l'Arnau Tordera i la Laia Glück interpretant 'Per cada u'. A 'Històries per passejar el gos' continuem una història que vam començar fa unes setmanes: les aventures d'Anníbal i el seu exèrcit. Hi anem amb la Roma.</desc>
+    <length units="seconds">2862</length>
+    <episode-num system="onscreen">88</episode-num>
     <category lang="ca">DIVULGACIÓ</category>
     <category lang="ca">ALTRES</category>
     <rating>
@@ -167,21 +171,6 @@
     <subtitles type="teletext"/>
     <previously-shown/>
     <icon src="https://img.ccma.cat/multimedia/jpg/3/3/1756148014833.jpg"/>
-  </programme>
-  <programme start="20261112054006 +0100" stop="20261112055106 +0100" channel="c33">
-    <title lang="ca">Gran!</title>
-    <sub-title lang="ca">Sau: 'Quina nit'</sub-title>
-    <desc lang="ca">El febrer del 2024 va fer 25 anys de la mort de Carles Sabater, cantant dels Sau. 'Quina nit' (1990) va ser l'àlbum que va convertir el grup de Pep Sala i Carles Sabater en artistes mainstream i que inclou la seva cançó més emblemàtica, 'Boig per tu', que ha estat versionada per gent tan diversa com Luz Casal o Shakira. Va ser l'inici d'un gran èxit que els va dur a omplir grans recintes, a fitxar per una multinacional i a gravar amb llegendes del rock com Phil Manzanera (Roxy Music) o Robbie Robertson (The Band). </desc>
-    <length units="seconds">660</length>
-    <episode-num system="onscreen">2</episode-num>
-    <category lang="ca">ENTRETENIMENT</category>
-    <category lang="ca">ALTRES</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <subtitles type="teletext"/>
-    <previously-shown/>
-    <icon src="https://img.ccma.cat/multimedia//jpg/0/1/1714397571710.jpg"/>
   </programme>
   <channel id="oca1">
     <display-name>OCA1</display-name>
