@@ -3,93 +3,104 @@
   <channel id="tv3uhd">
     <display-name>TV3UHD</display-name>
   </channel>
-  <programme start="20261112210000 +0100" stop="20261112220412 +0100" channel="tv3uhd">
-    <title lang="ca">Telenotícies vespre</title>
-    <length units="seconds">3852</length>
-    <episode-num system="onscreen">7386</episode-num>
-    <category lang="ca">ACTUALITAT</category>
-    <category lang="ca">INFORMATIU DIÀRI</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <subtitles type="teletext"/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/7/2/1758026176427.jpg"/>
+  <programme start="20261113010001 +0100" stop="20261113043000 +0100" channel="tv3uhd">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <desc lang="ca">Sense Descripció</desc>
+    <length units="seconds">12599</length>
+    <episode-num system="onscreen">11688</episode-num>
   </programme>
-  <programme start="20261112220412 +0100" stop="20261112223548 +0100" channel="tv3uhd">
-    <title lang="ca">Polònia</title>
-    <sub-title lang="ca">La vaga general, a 'Polònia'</sub-title>
-    <desc lang="ca">El plató de 'Polònia' també ha quedat buit per la vaga general, però alguns personatges garanteixen serveis mínims amb la regidora (Nesa Vidaurrázaga) al capdavant: Francesc Macià (Queco Novell), Arnau Tordera (Ivan Labanda), Bertín Osborne (Pep Plaza), Óscar Puente (Cesc Casanovas) i en Josep Maria (Jordi Soriano).L'11 de novembre de 2026 també ha estat la primera vegada que s'ha produït una aturada de país des de la implementació del teletreball i veiem l'aparició d'un nou fenomen: els telepiquets. Una vaga que ha estat criticada pels partits de la dreta i també pel NO-DO, que en farà la seva anàlisi particular.L'altra vaga de la setmana és la de maquinistes de Renfe. És per això que Óscar Puente dona la benvinguda a Carlos Cuerpo (David Marcé) al Ministeri de Transports i li ensenya totes les inversions previstes.Mentrestant, els candidats al 29-N es continuen passejant pels mitjans i en Josep Maria (Jordi Soriano) s'ofereix com a alternativa a Jordi Wild per entrevistar els líders dels principals partits a les eleccions generals. Pel pòdcast del nostre cunyat hi passen: Pedro Sánchez (Pep Plaza), Alberto Núñez Feijóo (David Marcé), Santiago Abascal (Noé Blancafort), Miriam Nogueras (Alba Florejachs), Gabriel Rufián (Xavi Espinosa) i Ada Colau (Agnès Busquets).A Catalunya ha arribat la preocupació per l'onada de ciberatacs a bancs de sang i supermercats, entre d'altres, però Salvador Illa (Queco Novell) té una arma secreta per evitar que això ens passi aquí: el tiet Emili, un jubilat considerat tot un gurú tecnològic.I, finalment, davant de la manca d'examinadors del carnet de conduir, la Generalitat proposa que siguin els Mossos els qui facin les proves: Núria Parlon (Agnès Busquets) serà la primera en donar exemple.</desc>
-    <length units="seconds">1896</length>
-    <episode-num system="onscreen">830</episode-num>
-    <category lang="ca">ENTRETENIMENT</category>
-    <category lang="ca">GAGS. HUMOR</category>
+  <programme start="20261113043000 +0100" stop="20261113051749 +0100" channel="tv3uhd">
+    <title lang="ca">Cava de Blues</title>
+    <sub-title lang="ca">Big Dani Pérez Organic Trio</sub-title>
+    <desc lang="ca">Cava de Blues és un espai dedicat a les noves creacions de 14 grups del país que es dediquen a aquest gènere musical.En aquesta edició, els grups que hi trobareu són: -A contrablues-Blas Picón &amp; The Junk Espress-Bullfrog Electric Blues Experience-Dusa'ns Flying Blues Band-Dani Baraldés &amp; The XX Band-Emili Baleriola Blues Quartet-Dani Nel·lo &amp; Mario Cobo-Ivan Kovacevic 5 Spots-JG Acoustic Gang-John Big Stone &amp; The Blues Workers-Legacaster! The Hillbilly Trio-Martini Surfers-Susan Santos &amp; The Papa's Red Band-The Paparellos</desc>
+    <length units="seconds">2869</length>
+    <episode-num system="onscreen">22</episode-num>
+    <category lang="ca">MUSICALS</category>
+    <category lang="ca">JAZZ</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <subtitles type="teletext"/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/4/4/1665652336244.jpg"/>
+    <previously-shown/>
+    <icon src="https://img.3cat.cat/multimedia/jpg/0/2/1754910826220.jpg"/>
   </programme>
   <channel id="tvi">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20261112210000 +0100" stop="20261112220412 +0100" channel="tvi">
-    <title lang="ca">Telenotícies vespre</title>
-    <length units="seconds">3852</length>
-    <episode-num system="onscreen">7386</episode-num>
+  <programme start="20261113010001 +0100" stop="20261113043000 +0100" channel="tvi">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="seconds">12599</length>
+    <episode-num system="onscreen">11688</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <icon src="https://img.ccma.cat/multimedia/jpg/7/2/1758026176427.jpg"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
-  <programme start="20261112220412 +0100" stop="20261112223548 +0100" channel="tvi">
-    <title lang="ca">Polònia</title>
-    <sub-title lang="ca">La vaga general, a 'Polònia'</sub-title>
-    <desc lang="ca">El plató de 'Polònia' també ha quedat buit per la vaga general, però alguns personatges garanteixen serveis mínims amb la regidora (Nesa Vidaurrázaga) al capdavant: Francesc Macià (Queco Novell), Arnau Tordera (Ivan Labanda), Bertín Osborne (Pep Plaza), Óscar Puente (Cesc Casanovas) i en Josep Maria (Jordi Soriano).L'11 de novembre de 2026 també ha estat la primera vegada que s'ha produït una aturada de país des de la implementació del teletreball i veiem l'aparició d'un nou fenomen: els telepiquets. Una vaga que ha estat criticada pels partits de la dreta i també pel NO-DO, que en farà la seva anàlisi particular.L'altra vaga de la setmana és la de maquinistes de Renfe. És per això que Óscar Puente dona la benvinguda a Carlos Cuerpo (David Marcé) al Ministeri de Transports i li ensenya totes les inversions previstes.Mentrestant, els candidats al 29-N es continuen passejant pels mitjans i en Josep Maria (Jordi Soriano) s'ofereix com a alternativa a Jordi Wild per entrevistar els líders dels principals partits a les eleccions generals. Pel pòdcast del nostre cunyat hi passen: Pedro Sánchez (Pep Plaza), Alberto Núñez Feijóo (David Marcé), Santiago Abascal (Noé Blancafort), Miriam Nogueras (Alba Florejachs), Gabriel Rufián (Xavi Espinosa) i Ada Colau (Agnès Busquets).A Catalunya ha arribat la preocupació per l'onada de ciberatacs a bancs de sang i supermercats, entre d'altres, però Salvador Illa (Queco Novell) té una arma secreta per evitar que això ens passi aquí: el tiet Emili, un jubilat considerat tot un gurú tecnològic.I, finalment, davant de la manca d'examinadors del carnet de conduir, la Generalitat proposa que siguin els Mossos els qui facin les proves: Núria Parlon (Agnès Busquets) serà la primera en donar exemple.</desc>
-    <length units="seconds">1896</length>
-    <episode-num system="onscreen">830</episode-num>
-    <category lang="ca">ENTRETENIMENT</category>
-    <category lang="ca">GAGS. HUMOR</category>
+  <programme start="20261113043000 +0100" stop="20261113051749 +0100" channel="tvi">
+    <title lang="ca">Cava de Blues</title>
+    <sub-title lang="ca">Big Dani Pérez Organic Trio</sub-title>
+    <desc lang="ca">Cava de Blues és un espai dedicat a les noves creacions de 14 grups del país que es dediquen a aquest gènere musical.En aquesta edició, els grups que hi trobareu són: -A contrablues-Blas Picón &amp; The Junk Espress-Bullfrog Electric Blues Experience-Dusa'ns Flying Blues Band-Dani Baraldés &amp; The XX Band-Emili Baleriola Blues Quartet-Dani Nel·lo &amp; Mario Cobo-Ivan Kovacevic 5 Spots-JG Acoustic Gang-John Big Stone &amp; The Blues Workers-Legacaster! The Hillbilly Trio-Martini Surfers-Susan Santos &amp; The Papa's Red Band-The Paparellos</desc>
+    <length units="seconds">2869</length>
+    <episode-num system="onscreen">22</episode-num>
+    <category lang="ca">MUSICALS</category>
+    <category lang="ca">JAZZ</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <icon src="https://img.ccma.cat/multimedia/jpg/4/4/1665652336244.jpg"/>
+    <previously-shown/>
+    <icon src="https://img.3cat.cat/multimedia/jpg/0/2/1754910826220.jpg"/>
   </programme>
   <channel id="324">
     <display-name>324</display-name>
   </channel>
-  <programme start="20261112210000 +0100" stop="20261112220500 +0100" channel="324">
-    <title lang="ca">Telenotícies vespre</title>
-    <length units="seconds">3900</length>
-    <episode-num system="onscreen">7386</episode-num>
+  <programme start="20261113010000 +0100" stop="20261113060000 +0100" channel="324">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="seconds">18000</length>
+    <episode-num system="onscreen">11688</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <icon src="https://img.ccma.cat/multimedia/jpg/7/2/1758026176427.jpg"/>
+    <previously-shown/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
-  <programme start="20261112220500 +0100" stop="20261113003000 +0100" channel="324">
-    <title lang="ca">Mésnit</title>
-    <desc lang="ca">El 'Mésnit' arriba a la desena temporada, amb Marina Romero al capdavant de l'espai i amb la voluntat de continuar sent un centre de debat d'idees i d'anàlisi de l'activitat política.</desc>
-    <length units="seconds">8700</length>
-    <episode-num system="onscreen">2198</episode-num>
+  <programme start="20261113060000 +0100" stop="20261113080000 +0100" channel="324">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="seconds">7200</length>
+    <episode-num system="onscreen">11689</episode-num>
     <category lang="ca">ACTUALITAT</category>
-    <category lang="ca">DEBAT</category>
+    <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <subtitles type="teletext"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
   <channel id="esport3">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20261112205256 +0100" stop="20261112223500 +0100" channel="esport3">
+  <programme start="20261113021803 +0100" stop="20261113023237 +0100" channel="esport3">
+    <title lang="ca">3CatInfo Esports</title>
+    <desc lang="ca">Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.</desc>
+    <length units="seconds">874</length>
+    <episode-num system="onscreen">5565</episode-num>
+    <category lang="ca">ESPORTS</category>
+    <category lang="ca">INFORMATIU DIÀRI</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <previously-shown/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/9/7/1758888682179.jpg"/>
+  </programme>
+  <programme start="20261113023237 +0100" stop="20261113041320 +0100" channel="esport3">
     <title lang="ca">Futbol</title>
     <sub-title lang="ca">FC Barcelona-Arsenal / Champions League / J4</sub-title>
     <desc lang="ca">Barcelonines i londinenques es retroben després de la final del 2025 que va acabar amb victòria de les gunners per 1 a 0. Aquesta temporada, el Barça ha guanyat els 3 partits disputats, i l'Arsenal suma 2 victòries i 1 empat.</desc>
-    <length units="seconds">6124</length>
+    <length units="seconds">6043</length>
     <episode-num system="onscreen">93</episode-num>
     <category lang="ca">ESPORTS</category>
     <category lang="ca">RETRANSMISSIONS ESPORTS</category>
@@ -100,30 +111,15 @@
     <previously-shown/>
     <icon src="https://img.ccma.cat/multimedia/jpg/5/0/1702464930005.jpg"/>
   </programme>
-  <programme start="20261112223500 +0100" stop="20261112230000 +0100" channel="esport3">
-    <title lang="ca">Toni Bou</title>
-    <sub-title lang="ca">Márquez i Bou, a la taula dels campions</sub-title>
-    <desc lang="ca">Poder seure a la taula dels campions és un mèrit que només els escollits tenen a l'abast. Veure asseguts a la taula els, segurament, millors pilots de la història del motociclisme és un regal, una delícia, i sentir-los parlar en una conversa plena de complicitat i rialles esdevé un privilegi únic. 'Márquez i Bou a la taula dels campions' és el fruit d'un matí calorós d'estiu, en què TV3 va reunir el millor pilot de la història del trial, Toni Bou, amb el gran campió de MotoGP de tots els temps, Marc Márquez. L'objectiu era completar i engrandir el documental 'Els 40 de Toni Bou', però la trobada va ser tan màgica que mereixia un capítol a banda. En aquesta peça de poc més de 20 minuts, el Toni i el Marc ens permetran accedir a una conversa íntima i rica en sinceritat, coneixements, afecte i moltíssimes rialles. Parlen per als espectadors, però s'obliden de les càmeres. Per arrodonir la festa, Márquez i Bou es desafien en una cursa de motocròs amistosa... si és que dos pilots d'aquesta talla són capaços de pujar a una moto sense competir al màxim. Aniran gas a fons, però ni així pararan de riure.</desc>
-    <length units="seconds">1500</length>
-    <episode-num system="onscreen">2</episode-num>
-    <category lang="ca">ESPORTS</category>
-    <category lang="ca">DOCUMENTAL</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <subtitles type="teletext"/>
-    <previously-shown/>
-    <icon src="https://img.3cat.cat/multimedia/jpg/4/9/1794308012294.jpg"/>
-  </programme>
   <channel id="sx3">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20261112212251 +0100" stop="20261112214102 +0100" channel="sx3">
-    <title lang="ca">One piece</title>
-    <sub-title lang="ca">L'atac dels batallaires! Travessem el terrible pont de ferro!</sub-title>
-    <desc lang="ca">Mentre en Law, la Nico Robin, l'Usopp i en Caesar Clown intenten sobreviure a l'atac dels batallaires, en Sanji descobreix la veritat punyent sobre la dona que li ha robat el cor!</desc>
-    <length units="seconds">1091</length>
-    <episode-num system="onscreen">636</episode-num>
+  <programme start="20261113020536 +0100" stop="20261113022643 +0100" channel="sx3">
+    <title lang="ca">Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
+    <sub-title lang="ca">La reculadora</sub-title>
+    <desc lang="ca">De joves, el mestre Fu i la seva estimada, la Marianne, es van haver de separar per protegir els prodigis. Temps després, el mestre Fu intenta posar-se en contacte amb ella a través d'una carta que li ha de fer arribar la Marinette. Però hi ha una confusió de cartes i receptes mèdiques que acaba en l'aparició d'una nova supermalvada.</desc>
+    <length units="seconds">1267</length>
+    <episode-num system="onscreen">56</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
@@ -132,12 +128,12 @@
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20261112214102 +0100" stop="20261112220023 +0100" channel="sx3">
-    <title lang="ca">One piece</title>
-    <sub-title lang="ca">Anem d'exploració! Green Bit, l'illa de les fades!</sub-title>
-    <desc lang="ca">Ja gairebé és el torn d'en Ruffy en la batalla èpica del coliseu, en Zoro es troba amb qui creu que és una fada sorprenentment forta, i els pensaments d'en Sanji esbalaeixen la dona que el té captiu!</desc>
-    <length units="seconds">1161</length>
-    <episode-num system="onscreen">637</episode-num>
+  <programme start="20261113022643 +0100" stop="20261113024721 +0100" channel="sx3">
+    <title lang="ca">Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
+    <sub-title lang="ca">Ninaflekta</sub-title>
+    <desc lang="ca">La Juleka vol ser model, però li costa molt fer el pas. La Marinette li proposa que faci una sessió fotogràfica amb les seves creacions, però la timidesa de la Juleka fa que les coses no surtin com estava previst, i el malvat Esfinx ho aprofitarà per tornar a sembrar el caos a París.</desc>
+    <length units="seconds">1238</length>
+    <episode-num system="onscreen">57</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
@@ -149,30 +145,30 @@
   <channel id="c33">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20261112211325 +0100" stop="20261112213704 +0100" channel="c33">
-    <title lang="ca">Jet lag</title>
-    <sub-title lang="ca">ESTRÈS</sub-title>
-    <desc lang="ca">La Carla, la Sílvia i l'Esther s'han quedat a l'atur. La Carla decideix trobar una feina millor de la que tenia. La Sílvia decideix agafar-se un any sabàtic i dedicar-lo als seus hobbies. L'Esther no sap estar sense fer d'hostessa, encara que sigui a casa. La Mariona es converteix en la golejadora de l'equip de futbol sala femení del barri. La Diana s'ha enamorat d'un paleta, a qui segueix fins allà on treballa, convençuda que ell també la correspon. Actors convidats: Jordi Bosch, Jordi Martínez i Lulú Palomares, i la col·laboració especial de Núria Hosta i Anna Azcona.</desc>
-    <length units="seconds">1419</length>
-    <episode-num system="onscreen">15</episode-num>
+  <programme start="20261113021501 +0100" stop="20261113023535 +0100" channel="c33">
+    <title lang="ca">Nudes</title>
+    <sub-title lang="ca">Àlex (part 1)</sub-title>
+    <desc lang="ca">L'ÀLEX (18) està estudiant la carrera de dramatúrgia a una escola de teatre. És nominat com a actor revelació als Premis Gaudí i organitza una festa per celebrar-ho amb la seva parella, els seus amics i coneguts. Una festa en què hi ha alcohol i drogues i també hi apareix una antiga amiga de l'Àlex.Unes setmanes després rep una trucada de la policia: el citen a prendre declaració acusant-lo de difondre pornografia infantil. Li expliquen que la víctima del vídeo, la Miriam, era menor i que ha violat la llei. El vídeo es va gravar la nit de la festa i es va penjar a internet des del seu dispositiu mòbil. L'Àlex es defensa dient que no recorda res, i que li van robar el mòbil aquella mateixa nit.</desc>
+    <length units="seconds">1234</length>
+    <episode-num system="onscreen">4</episode-num>
     <category lang="ca">FICCIÓ</category>
-    <category lang="ca">TELESÈRIE</category>
+    <category lang="ca">SÈRIE DRAMÀTICA</category>
     <rating>
-      <value>TOTS ELS PÚBLICS</value>
+      <value>PÚBLIC ADULT</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20261112213704 +0100" stop="20261112215815 +0100" channel="c33">
-    <title lang="ca">Jet lag</title>
-    <sub-title lang="ca">CLAUSURA</sub-title>
-    <desc lang="ca">Un director de televisió ha triat el bar del Mario per rodar-hi l'anunci publicitari d'una nova marca de cerveses. Ja està tot preparat, només falta triar la noia que protagonitzarà l'anunci. A cap de les nostres protagonistes els fa gràcia aparèixer per la televisió, fins que s'assabenten que el noi de l'anunci serà... Javier Bardem. A partir d'aquest moment començarà una guerra entre totes elles per protagonitzar l'anunci i estar ben a prop del seu ídol. Actors convidats: Francesc Orella i Montse German</desc>
-    <length units="seconds">1271</length>
-    <episode-num system="onscreen">16</episode-num>
+  <programme start="20261113023535 +0100" stop="20261113025614 +0100" channel="c33">
+    <title lang="ca">Nudes</title>
+    <sub-title lang="ca">Àlex (part 2)</sub-title>
+    <desc lang="ca">Durant un exercici a l'escola de teatre, un company insulta l'Àlex en al·lusió al que ha passat. Ja ha començat a córrer la veu que ell va difondre el vídeo sexual de Miriam, els seus amics també se n'han assabentat. El seu millor amic li diu que també li ha trucat la policia.La Dàlia, la parella de l'Àlex li diu que s'ha trobat amb la Miriam i que ho està passant molt malament, li pregunta si ell hi ha parlat. La Dàlia comença a desconfiar de l'Àlex, i li pregunta si havia tingut alguna cosa més amb la Miriam, ell ho nega.</desc>
+    <length units="seconds">1239</length>
+    <episode-num system="onscreen">5</episode-num>
     <category lang="ca">FICCIÓ</category>
-    <category lang="ca">TELESÈRIE</category>
+    <category lang="ca">SÈRIE DRAMÀTICA</category>
     <rating>
-      <value>TOTS ELS PÚBLICS</value>
+      <value>PÚBLIC ADULT</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
