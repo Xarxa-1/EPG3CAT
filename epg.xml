@@ -3,115 +3,128 @@
   <channel id="tv3uhd">
     <display-name>TV3UHD</display-name>
   </channel>
-  <programme start="20261114020132 +0100" stop="20261114031741 +0100" channel="tv3uhd">
-    <title lang="ca">Mésnit</title>
-    <desc lang="ca">El 'Mésnit' arriba a la desena temporada, amb Marina Romero al capdavant de l'espai i amb la voluntat de continuar sent un centre de debat d'idees i d'anàlisi de l'activitat política.</desc>
-    <length units="seconds">4569</length>
-    <episode-num system="onscreen">2199</episode-num>
-    <category lang="ca">ACTUALITAT</category>
-    <category lang="ca">DEBAT</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <subtitles type="teletext"/>
-    <previously-shown/>
-  </programme>
-  <programme start="20261114031741 +0100" stop="20261114043000 +0100" channel="tv3uhd">
+  <programme start="20261114070001 +0100" stop="20261114100000 +0100" channel="tv3uhd">
     <title lang="ca">Notícies 3CatInfo</title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">4339</length>
-    <episode-num system="onscreen">11697</episode-num>
+    <length units="seconds">10799</length>
+    <episode-num system="onscreen">11698</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <previously-shown/>
+    <subtitles type="teletext"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
+  </programme>
+  <programme start="20261114100000 +0100" stop="20261114114647 +0100" channel="tv3uhd">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="seconds">6407</length>
+    <episode-num system="onscreen">11699</episode-num>
+    <category lang="ca">ACTUALITAT</category>
+    <category lang="ca">INFORMATIU DIÀRI</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <subtitles type="teletext"/>
     <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
   <channel id="tvi">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20261114020132 +0100" stop="20261114031741 +0100" channel="tvi">
-    <title lang="ca">Mésnit</title>
-    <desc lang="ca">Sense Descripció</desc>
-    <length units="seconds">4569</length>
-    <episode-num system="onscreen">2199</episode-num>
-  </programme>
-  <programme start="20261114031741 +0100" stop="20261114043000 +0100" channel="tvi">
+  <programme start="20261114070001 +0100" stop="20261114100000 +0100" channel="tvi">
     <title lang="ca">Notícies 3CatInfo</title>
-    <desc lang="ca">Sense Descripció</desc>
-    <length units="seconds">4339</length>
-    <episode-num system="onscreen">11697</episode-num>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="seconds">10799</length>
+    <episode-num system="onscreen">11698</episode-num>
+    <category lang="ca">ACTUALITAT</category>
+    <category lang="ca">INFORMATIU DIÀRI</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
+  </programme>
+  <programme start="20261114100000 +0100" stop="20261114114648 +0100" channel="tvi">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="seconds">6408</length>
+    <episode-num system="onscreen">11699</episode-num>
+    <category lang="ca">ACTUALITAT</category>
+    <category lang="ca">INFORMATIU DIÀRI</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
   <channel id="324">
     <display-name>324</display-name>
   </channel>
-  <programme start="20261114010000 +0100" stop="20261114060000 +0100" channel="324">
+  <programme start="20261114070000 +0100" stop="20261114100000 +0100" channel="324">
     <title lang="ca">Notícies 3CatInfo</title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">18000</length>
-    <episode-num system="onscreen">11697</episode-num>
+    <length units="seconds">10800</length>
+    <episode-num system="onscreen">11698</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <previously-shown/>
+    <subtitles type="teletext"/>
     <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
-  <programme start="20261114060000 +0100" stop="20261114070000 +0100" channel="324">
+  <programme start="20261114100000 +0100" stop="20261114120000 +0100" channel="324">
     <title lang="ca">Notícies 3CatInfo</title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">3600</length>
-    <episode-num system="onscreen">11697</episode-num>
+    <length units="seconds">7200</length>
+    <episode-num system="onscreen">11699</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <previously-shown/>
+    <subtitles type="teletext"/>
     <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
   <channel id="esport3">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20261114024905 +0100" stop="20261114041142 +0100" channel="esport3">
-    <title lang="ca">Handbol</title>
-    <sub-title lang="ca">Barça-Sevilla / Lliga Asobal / J9</sub-title>
-    <desc lang="ca">Els blaugranes han guanyat els 8 partits que han disputat i encapçalen la classificació amb el Bidasoa. El conjunt andalús, que suma 3 victòries i 5 derrotes, és el primer equip sevillà d'handbol que juga a la màxima lliga estatal en tota la història.</desc>
-    <length units="seconds">4957</length>
-    <episode-num system="onscreen">198</episode-num>
+  <programme start="20261114091932 +0100" stop="20261114105500 +0100" channel="esport3">
+    <title lang="ca">Onze</title>
+    <sub-title lang="ca"> Tothom estira Raphinha; Lamine Yamal, a punt, Delmàs, Fàbregas i Cazorla</sub-title>
+    <desc lang="ca">Míriam Riau condueix la tertúlia amb Laia Bonals, Ivan San Antonio, Anaïs Martí i Edgar Fornós. Parlem de la pressió que hi ha sobre Raphinha a la selecció del Brasil i de la incorporació de Lamine Yamal a la concentració d'Espanya. Àlex Delmàs ens parla del creixement de Fermín, Joan Fàbregas ens parla de les mancances de l'arbitratge femení i acabem amb el 'Que n'aprenguin' de Xavi Cazorla.</desc>
+    <length units="seconds">5728</length>
+    <episode-num system="onscreen">1287</episode-num>
+    <category lang="ca">ESPORTS</category>
+    <category lang="ca">MAGAZINE</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <subtitles type="teletext"/>
+    <previously-shown/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/1/1/1688543515711.jpg"/>
+  </programme>
+  <programme start="20261114105500 +0100" stop="20261114123706 +0100" channel="esport3">
+    <title lang="ca">Hoquei patins</title>
+    <sub-title lang="ca">CP Fraga-CP Voltregà / Continental Cup Women / 1a semifinal</sub-title>
+    <desc lang="ca">Per primera vegada en la història, aquest títol europeu també es disputa en la categoria femenina. En la primera semifinal el CP Esneca Fraga, últim guanyador de la Champions, s'enfronta amb el CATA CP Voltregà, subcampió de la Copa WSE.</desc>
+    <length units="seconds">6126</length>
+    <episode-num system="onscreen">8155</episode-num>
     <category lang="ca">ESPORTS</category>
     <category lang="ca">RETRANSMISSIONS ESPORTS</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <previously-shown/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/9/1/1700215879019.jpg"/>
-  </programme>
-  <programme start="20261114041142 +0100" stop="20261114043145 +0100" channel="esport3">
-    <title lang="ca">3CatInfo Esports</title>
-    <desc lang="ca">Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.</desc>
-    <length units="seconds">1203</length>
-    <episode-num system="onscreen">5566</episode-num>
-    <category lang="ca">ESPORTS</category>
-    <category lang="ca">INFORMATIU DIÀRI</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <previously-shown/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/9/7/1758888682179.jpg"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/5/5/1701373461655.jpg"/>
   </programme>
   <channel id="sx3">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20261114030302 +0100" stop="20261114032340 +0100" channel="sx3">
-    <title lang="ca">Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
-    <sub-title lang="ca">Startrain</sub-title>
-    <desc lang="ca">Els alumnes de l'institut agafen l'Startrain per anar a fer una visita escolar al Big Ben, a Londres. La conductora, la mare del Max, està esperant els resultats d'un examen molt important per poder ser astronauta, i un akuma perdut de l'Esfinx ho aprofita per dominar-la i fer sortir el tren volant cap a l'espai.</desc>
-    <length units="seconds">1238</length>
-    <episode-num system="onscreen">65</episode-num>
+  <programme start="20261114094817 +0100" stop="20261114095850 +0100" channel="sx3">
+    <title lang="ca">La Patrulla Peluda</title>
+    <sub-title lang="ca">La Patrulla i el llop gosset</sub-title>
+    <desc lang="ca">Els cadells i en Ryder estan de campaments i l'oncle Otis els explica la llegenda del llop gosset, un gosset que es transforma en llop quan hi ha lluna plena.</desc>
+    <length units="seconds">633</length>
+    <episode-num system="onscreen">221</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
@@ -120,12 +133,12 @@
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20261114032340 +0100" stop="20261114034418 +0100" channel="sx3">
-    <title lang="ca">Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
-    <sub-title lang="ca">Caçadora de Kwamis</sub-title>
-    <desc lang="ca">La senyora Mendeleiev, la professora de ciències de l'institut on van els nostres protagonistes, para una trampa al Plagg i la Tikki per intentar demostrar l'existència d'aquestes criatures. Això fa que la Marinette i l'Adrien estiguin a punt de descobrir les identitats de Ladybug i el Gat Noir, cosa que els obligaria a renunciar als seus poders. Per sort, amb l'ajuda de tots els altres kwamis, la Marinette salva la situació.</desc>
-    <length units="seconds">1238</length>
-    <episode-num system="onscreen">66</episode-num>
+  <programme start="20261114095850 +0100" stop="20261114101049 +0100" channel="sx3">
+    <title lang="ca">La Patrulla Peluda</title>
+    <sub-title lang="ca">La Patrulla salva l’alcaldessa somnàmbula</sub-title>
+    <desc lang="ca">Al ranxo dels Wingnut, celebren el Dia dels Vaquers i l'alcaldessa s'ha d'enfrontar amb els perills que hi ha al ranxo adormida.</desc>
+    <length units="seconds">719</length>
+    <episode-num system="onscreen">222</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
@@ -137,28 +150,28 @@
   <channel id="c33">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20261114030721 +0100" stop="20261114033334 +0100" channel="c33">
-    <title lang="ca">Òpera en texans</title>
-    <sub-title lang="ca">Don Giovanni</sub-title>
-    <desc lang="ca">Un repte: conèixer tots els secrets de 'Don Giovanni' en només 24 hores. Des de la sortida del sol fins que torni a sortir. 24 hores per disfrutar d'aquesta gran òpera buffa de Mozart. Seguint els passos del Don Joan més famós, passarem pel Mercat de Santa Caterina, un cementiri, una botiga de disfresses, una cotilleria i fins i tot una discoteca. A les quatre de la matinada, la gent ballarà Mozart? Al final del programa ho descobrireu.'Don Giovanni', de Wolfgang Amadeus Mozart (1787).</desc>
-    <length units="seconds">1573</length>
-    <episode-num system="onscreen">8</episode-num>
-    <category lang="ca">MUSICALS</category>
-    <category lang="ca">ÒPERA</category>
+  <programme start="20261114093228 +0100" stop="20261114101640 +0100" channel="c33">
+    <title lang="ca">Batalla monumental</title>
+    <sub-title lang="ca">Batalla de clàssics: Empúries-Tàrraco</sub-title>
+    <desc lang="ca">En el primer capítol, la batalla es lliura entre els dos jaciments clàssics més espectaculars de Catalunya: Empúries i Tàrraco. La Candela Figueras i l'Ivan Medina seran els encarregats, cada setmana, de conèixer testimonis i exposar arguments que facin decantar el públic a favor del seu monument. Tots dos estan disposats a fer, del seu, el jaciment clàssic més èpic: l'Ivan es posarà en la pell d'un comerciant grec a Emporion, i la Candela es convertirà en gladiadora romana per defensar Tàrraco a l'amfiteatre de la ciutat. En aquesta batalla, els ajudaran a convèncer l'audiència personatges populars com l'actor i humorista Fermí Fernàndez o el reconegut economista Xavier Sala-i-Martín. Roger de Gràcia és el mestre de cerimònies de 'Batalla monumental' on, cada setmana a TV3, serà l'audiència qui decidirà el guanyador de cada duel. Avui la cosa va de clàssics: la Candela Figueras viatja fins a la Tàrraco romana i l'Ivan Medina ens transporta a l'antiga ciutat d'Emporion per posar cara a cara dos dels jaciments arqueològics més icònics de Catalunya. L'audiència haurà de decidir quin dels dos monuments passa a la gran final votant a través de les xarxes socials de @BatallaTV3.</desc>
+    <length units="seconds">2652</length>
+    <episode-num system="onscreen">1</episode-num>
+    <category lang="ca">ENTRETENIMENT</category>
+    <category lang="ca">ALTRES</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20261114033334 +0100" stop="20261114040217 +0100" channel="c33">
-    <title lang="ca">Òpera en texans</title>
-    <sub-title lang="ca">Le grand Macabre</sub-title>
-    <desc lang="ca">Le Grand Macabre és una òpera del compositor hongarès György Ligeti basada en La Balla de du Grand Macabre de Michel de Ghelderode. Fou estrenada a Estocolm el 1978 i des de la seva estrena se n'han fet nombroses produccions als principals teatres d'òpera mundials.En el capítol d'Òpera en texans dedicat a Le grand Macabre, el Ramon Gener ens acompanya en un viatge estimulant a l'interior d'aquesta obra i ens dóna les claus per entendre i gaudir els principals passatges. Tot un espectacle.</desc>
-    <length units="seconds">1723</length>
-    <episode-num system="onscreen">9</episode-num>
-    <category lang="ca">MUSICALS</category>
-    <category lang="ca">ÒPERA</category>
+  <programme start="20261114101640 +0100" stop="20261114110152 +0100" channel="c33">
+    <title lang="ca">Batalla monumental</title>
+    <sub-title lang="ca">Batalla de castells: Miravet-Cardona</sub-title>
+    <desc lang="ca">La segona Batalla Monumental es lliura entre dos dels castells més espectaculars de Catalunya: el castell de Miravet i el castell de Cardona.La Candela Figueras i l'Ivan Medina buscaran els millors arguments i els millors testimonis per aconseguir que el seu sigui el monument guanyador del capítol. Faran el que mai s'havien imaginat que farien: posar-se en la pell d'un templer o aprendre a disparar com un Miquelet de la Guerra de Successió. En aquest capítol els ajudaran a convèncer l'audiència personatges populars com el professor Sebastià d'Arbó o l'actriu de Les de l'hoquei, Laia Fontán. Roger de Gràcia és el mestre de cerimònies d'una nova batalla singular on, com sempre, serà l'audiència qui decidirà el guanyador d'aquest duel medieval.Roger de Gràcia és el mestre de cerimònies d'una nova Batalla Monumental a TV3. La Candela Figueras viatja fins al castell de Cardona, i l'Ivan Medina es desplaça fins al castell de Miravet per posar cara a cara dos dels castells més espectaculars de Catalunya. L'audiència haurà de decidir quin dels dos monuments passa a la gran final. </desc>
+    <length units="seconds">2712</length>
+    <episode-num system="onscreen">2</episode-num>
+    <category lang="ca">ENTRETENIMENT</category>
+    <category lang="ca">ALTRES</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
