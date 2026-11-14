@@ -3,139 +3,105 @@
   <channel id="tv3uhd">
     <display-name>TV3UHD</display-name>
   </channel>
-  <programme start="20261114154102 +0100" stop="20261114171614 +0100" channel="tv3uhd">
-    <title lang="ca">Tarda de cine</title>
-    <sub-title lang="ca">Caiguda lliure</sub-title>
-    <desc lang="ca">Sinopsis:Marisol és una dona que s'apropa als 60. És una icònica entrenadora de gimnàstica rítmica d'elit, la millor. És metòdica, controladora, autoritària, dominant, fàcilment irritable i amb una mancança de la menor capacitat d'autocrítica. Ha construït un món a la seva mesura, que s'esquerda el dia en què Octavio (52), el seu marit, li confessa que marxa de casa per a refer la seva vida al costat d'una dona més jove a la qual ha deixat embarassada. I emprèn una excèntrica carrera per a recuperar al seu marit. El seu fracàs repercuteix en la seva relació amb les gimnastes. És cada vegada més dura i intransigent, arribant a abusar de la seva poder i posició. Marisol s'enfronta a una catarsi que la porta a replantejar-se la seva vida.Direcció: Laura JouIntèrprets: Belén Rueda, Mariia Netavrovana, Irene Escolar, Ilay Kurelovic, Manuela VellésGuió: Bernat VilaplanaFotografia: Marc Gómez del MoralMúsica: Clara PeyaProducció: Corte y Confección de Películas Títol original: Caída libre</desc>
-    <credits>
-      <director>Laura JouIntèrprets: Belén Rueda</director>
-      <director>Mariia Netavrovana</director>
-      <director>Irene Escolar</director>
-      <director>Ilay Kurelovic</director>
-      <director>Manuela Vellés</director>
-      <writer>Bernat VilaplanaFotografia: Marc Gómez del MoralMúsica: Clara</writer>
-      <actor>Belén Rueda</actor>
-      <actor>Mariia Netavrovana</actor>
-      <actor>Irene Escolar</actor>
-      <actor>Ilay Kurelovic</actor>
-      <actor>Manuela VellésGuió: Bernat VilaplanaFotografia: Marc Gómez del MoralMúsica: Clara PeyaProducció: Corte y Confección de Películas Títol original: Caída libre</actor>
-    </credits>
-    <length units="seconds">5712</length>
-    <episode-num system="onscreen">1</episode-num>
-    <category lang="ca">FICCIÓ</category>
-    <category lang="ca">PEL·LÍCULA / TELEFILM</category>
+  <programme start="20261114210000 +0100" stop="20261114220613 +0100" channel="tv3uhd">
+    <title lang="ca">Telenotícies vespre</title>
+    <length units="seconds">3973</length>
+    <episode-num system="onscreen">7388</episode-num>
+    <category lang="ca">ACTUALITAT</category>
+    <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
-      <value>PÚBLIC ADULT</value>
+      <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/7/2/1758026176427.jpg"/>
   </programme>
-  <programme start="20261114171614 +0100" stop="20261114190456 +0100" channel="tv3uhd">
-    <title lang="ca">Tarda de cine</title>
-    <sub-title lang="ca">- Huguette</sub-title>
-    <desc lang="ca">Sense Descripció</desc>
-    <length units="seconds">6522</length>
-    <episode-num system="onscreen">1</episode-num>
+  <programme start="20261114220613 +0100" stop="20261115003712 +0100" channel="tv3uhd">
+    <title lang="ca">Col·lapse</title>
+    <desc lang="ca">La periodista catalana Julia Otero ha acceptat la invitació de 'Col·lapse' i torna a TV3 per la porta gran. Hi torna després de molts anys (a excepció de quan va venir a La Marató de TV3 del 2025 per explicar la seva experiència amb el càncer) i accepta una conversa entre amics amb Jordi González. Una oportunitat per conèixer a fons una de les comunicadores més bones i més estimades de casa nostra. Ens visita el cantant Guillem Gisbert, excomponent del grup Manel. Aquesta setmana ha presentat un disc nou en solitari, 'Detector de mentides'. L'Antonio, exlladre de coure penedit, seu al plató de 'Col·lapse' per explicar-nos per què va començar a delinquir, quants diners guanyava, de quina manera operava i per què va començar a fer-ho. Ara està en règim de llibertat condicional. Té 3 condemnes fermes per sostracció de coure a la xarxa ferroviària que superen en el seu conjunt els 10 anys de presó. Abans, però, la periodista de societat de TV3 Marta Martorell ens facilitarà dades sobre els robatoris de coure a Catalunya i analitzarà els problemes que aquests robatoris generen a les vies de tren. A la secció del Darío Porras recordarem i reconstruirem un dels sets del mític concurs 'Tres pics i repicó', que es va estrenar a TV3 l'any 1988 i presentava Antoni Bassas. Us en recordeu, de la prova de la frase maleïda? Doncs la farem!L'Anna Callís s'enfronta al repte de talar un arbre. Comprovarem si l'ha aconseguit. Albert Montagut reflexiona sobre la guerra híbrida i la guerra freda. I el professor Frederic Vincent ens recorda que tornen els CD.</desc>
+    <length units="seconds">9059</length>
+    <episode-num system="onscreen">161</episode-num>
+    <category lang="ca">ENTRETENIMENT</category>
+    <category lang="ca">TALK-SHOW</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
     <subtitles type="teletext"/>
   </programme>
   <channel id="tvi">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20261114153308 +0100" stop="20261114170053 +0100" channel="tvi">
-    <title lang="ca">Pel·lícula</title>
-    <sub-title lang="ca">Morir en 3 actes</sub-title>
-    <desc lang="ca">MORIR EN 3 ACTESProducció: Televisió de Catalunya, Estrategia Audiovisual i La Nutria Produccions, 2011Direcció: David PujolGuió: David Pujol, Laia Tomàs i Anna EspinachFotografia: Roman Martinez de BujoIntèrprets: Albel Folk (Alfons), Anna Viçens (Anna), Enric Matarrodona (Ricard), Aida Folch (Sandra), Marc Rodriguez (Xavi) i Ignasi Tomàs (Ignasi)L'Alfons i l'Anna fa temps que han perdut la passió en el seu matrimoni. Ella es veu amb un amant, amb qui també interpreta el paper protagonista de l'obra de teatre del poble. L'Alfons, per accident, enverina els amants i els seus fantasmes se li apareixen després de la mort. Junts aconseguiran que l'obra de teatre s'estreni i l'Alfons pugui ser-ne l'actor protagonista. I a propòsit de l'estrena de l'obra de teatre, i de l'ajuda que li proporciona l'Anna, l'Alfons aprendrà a mirar-se la vida des d'un punt de vista més relaxat. Podrà viure de veritat la vida, encara que quan ho aconsegueixi hagi de fer-ho sense l'Anna.</desc>
-    <credits>
-      <director>David Pujol</director>
-      <writer>David</writer>
-      <actor>Albel Folk (Alfons)</actor>
-      <actor>Anna Viçens (Anna)</actor>
-      <actor>Enric Matarrodona (Ricard)</actor>
-      <actor>Aida Folch (Sandra)</actor>
-      <actor>Marc Rodriguez (Xavi)</actor>
-      <actor>Ignasi Tomàs (Ignasi)L'Alfons</actor>
-      <actor>l'Anna fa temps que han perdut la passió en el seu matrimoni. Ella es veu amb un amant</actor>
-      <actor>amb qui també interpreta el paper protagonista de l'obra de teatre del poble. L'Alfons</actor>
-      <actor>per accident</actor>
-      <actor>enverina els amants</actor>
-      <actor>els seus fantasmes se li apareixen després de la mort. Junts aconseguiran que l'obra de teatre s'estreni</actor>
-      <actor>l'Alfons pugui ser-ne l'actor protagonista. I a propòsit de l'estrena de l'obra de teatre</actor>
-      <actor>de l'ajuda que li proporciona l'Anna</actor>
-      <actor>l'Alfons aprendrà a mirar-se la vida des d'un punt de vista més relaxat. Podrà viure de veritat la vida</actor>
-      <actor>encara que quan ho aconsegueixi hagi de fer-ho sense l'Anna.</actor>
-    </credits>
-    <length units="seconds">5265</length>
-    <episode-num system="onscreen">1</episode-num>
-    <category lang="ca">FICCIÓ</category>
-    <category lang="ca">PEL·LÍCULA / TELEFILM</category>
+  <programme start="20261114210000 +0100" stop="20261114220613 +0100" channel="tvi">
+    <title lang="ca">Telenotícies vespre</title>
+    <length units="seconds">3973</length>
+    <episode-num system="onscreen">7388</episode-num>
+    <category lang="ca">ACTUALITAT</category>
+    <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <subtitles type="teletext"/>
-    <previously-shown/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/7/2/1758026176427.jpg"/>
   </programme>
-  <programme start="20261114170053 +0100" stop="20261114175441 +0100" channel="tvi">
-    <title lang="ca">Infidels</title>
-    <desc lang="ca">La Paula sembla força animada tot i que demà s'opera. La Dani no acaba d'encaixar en el grup. La Cruz creu que la presència de la noia talla el rotllo. La Dani beu una mica massa i avergonyeix l'Arlet davant de les amigues. El Toni rep una trucada de la mare en què li demana ajuda. Quan la troba, s'adona que algú l'ha colpejada. El Rubén vol saber si la Lídia està interessada en una feina a Madrid. La Joana troba un anell a en Peter i comença a fer càbales.</desc>
-    <length units="seconds">3228</length>
-    <episode-num system="onscreen">16</episode-num>
-    <category lang="ca">FICCIÓ</category>
-    <category lang="ca">TELESÈRIE</category>
+  <programme start="20261114220613 +0100" stop="20261115003712 +0100" channel="tvi">
+    <title lang="ca">Col·lapse</title>
+    <desc lang="ca">La periodista catalana Julia Otero ha acceptat la invitació de 'Col·lapse' i torna a TV3 per la porta gran. Hi torna després de molts anys (a excepció de quan va venir a La Marató de TV3 del 2025 per explicar la seva experiència amb el càncer) i accepta una conversa entre amics amb Jordi González. Una oportunitat per conèixer a fons una de les comunicadores més bones i més estimades de casa nostra. Ens visita el cantant Guillem Gisbert, excomponent del grup Manel. Aquesta setmana ha presentat un disc nou en solitari, 'Detector de mentides'. L'Antonio, exlladre de coure penedit, seu al plató de 'Col·lapse' per explicar-nos per què va començar a delinquir, quants diners guanyava, de quina manera operava i per què va començar a fer-ho. Ara està en règim de llibertat condicional. Té 3 condemnes fermes per sostracció de coure a la xarxa ferroviària que superen en el seu conjunt els 10 anys de presó. Abans, però, la periodista de societat de TV3 Marta Martorell ens facilitarà dades sobre els robatoris de coure a Catalunya i analitzarà els problemes que aquests robatoris generen a les vies de tren. A la secció del Darío Porras recordarem i reconstruirem un dels sets del mític concurs 'Tres pics i repicó', que es va estrenar a TV3 l'any 1988 i presentava Antoni Bassas. Us en recordeu, de la prova de la frase maleïda? Doncs la farem!L'Anna Callís s'enfronta al repte de talar un arbre. Comprovarem si l'ha aconseguit. Albert Montagut reflexiona sobre la guerra híbrida i la guerra freda. I el professor Frederic Vincent ens recorda que tornen els CD.</desc>
+    <length units="seconds">9059</length>
+    <episode-num system="onscreen">161</episode-num>
+    <category lang="ca">ENTRETENIMENT</category>
+    <category lang="ca">TALK-SHOW</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <subtitles type="teletext"/>
-    <previously-shown/>
   </programme>
   <channel id="324">
     <display-name>324</display-name>
   </channel>
-  <programme start="20261114143000 +0100" stop="20261114163000 +0100" channel="324">
-    <title lang="ca">Telenotícies migdia</title>
-    <length units="seconds">7200</length>
-    <episode-num system="onscreen">7389</episode-num>
-    <category lang="ca">ACTUALITAT</category>
-    <category lang="ca">INFORMATIU DIÀRI</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <subtitles type="teletext"/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/5/4/1758025766345.jpg"/>
-  </programme>
-  <programme start="20261114163000 +0100" stop="20261114183000 +0100" channel="324">
+  <programme start="20261114200000 +0100" stop="20261114210000 +0100" channel="324">
     <title lang="ca">Notícies 3CatInfo</title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="seconds">3600</length>
+    <episode-num system="onscreen">11703</episode-num>
+    <category lang="ca">ACTUALITAT</category>
+    <category lang="ca">INFORMATIU DIÀRI</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
+  </programme>
+  <programme start="20261114210000 +0100" stop="20261114230000 +0100" channel="324">
+    <title lang="ca">Telenotícies vespre</title>
     <length units="seconds">7200</length>
-    <episode-num system="onscreen">11701</episode-num>
+    <episode-num system="onscreen">7388</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/7/2/1758026176427.jpg"/>
   </programme>
   <channel id="esport3">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20261114155247 +0100" stop="20261114174715 +0100" channel="esport3">
-    <title lang="ca">Hoquei patins</title>
-    <sub-title lang="ca">Pons Lleida-Barça / Continental Cup Men / 1a semifinal</sub-title>
-    <desc lang="ca">El Pons CE Lleida Llista Blava, campió vigent de la Copa WSE, juga contra el Barça, el subcampió de la Champions. Els blaugranes són els que més títols tenen d'aquesta competició, 18, però no la guanyen des del 2019. El Lleida va disputar una final, el 2021, i la va perdre contra l'Sporting de Portugal.</desc>
-    <length units="seconds">6868</length>
-    <episode-num system="onscreen">8157</episode-num>
+  <programme start="20261114202500 +0100" stop="20261114204723 +0100" channel="esport3">
+    <title lang="ca">Futbol</title>
+    <sub-title lang="ca">Reial Madrid-FC Badalona Women / Lliga F / J11</sub-title>
+    <desc lang="ca">Les badalonines, penúltimes a la taula, tenen una sortida complicada al camp de les segones classificades.</desc>
+    <length units="seconds">1343</length>
+    <episode-num system="onscreen">63</episode-num>
     <category lang="ca">ESPORTS</category>
     <category lang="ca">RETRANSMISSIONS ESPORTS</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <icon src="https://img.3cat.cat/multimedia/jpg/5/7/1758291200775.jpg"/>
+    <previously-shown/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/0/8/1730389343680.jpg"/>
   </programme>
-  <programme start="20261114174715 +0100" stop="20261114182000 +0100" channel="esport3">
+  <programme start="20261114204723 +0100" stop="20261114205937 +0100" channel="esport3">
     <title lang="ca">Esport Club Cap de Setmana</title>
     <sub-title lang="ca">Esport Club</sub-title>
     <desc lang="ca">Magazín amb tota l'actualitat esportiva del cap de setmana, amb atenció especial a la jornada de futbol i les principals competicions del nostre esport.</desc>
-    <length units="seconds">1965</length>
-    <episode-num system="onscreen">1412</episode-num>
+    <length units="seconds">734</length>
+    <episode-num system="onscreen">1419</episode-num>
     <category lang="ca">ESPORTS</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
@@ -146,28 +112,28 @@
   <channel id="sx3">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20261114161251 +0100" stop="20261114163736 +0100" channel="sx3">
-    <title lang="ca">Fuet</title>
-    <sub-title lang="ca">El cop d'estat del 36 i la família Garcia políticament dividida</sub-title>
-    <desc lang="ca">La Kiry i l'Eda estan a punt d'arribar a la Terra i són molt a prop de trobar el Fuet, però mentre això no passa, navegaran pels primers anys de la República fins al cop d'estat del 36. Davant aquesta situació, la familia Garcia quedarà dividida políticament. També coneixeran la figura de Mercè Rodoreda, una de les escriptores més influents de l'últim segle en llengua catalana.</desc>
-    <length units="seconds">1485</length>
-    <episode-num system="onscreen">22</episode-num>
-    <category lang="ca">ENTRETENIMENT</category>
-    <category lang="ca">ALTRES</category>
+  <programme start="20261114205950 +0100" stop="20261114212043 +0100" channel="sx3">
+    <title lang="ca">Els germans Kratt</title>
+    <sub-title lang="ca">L'home-rinopitec daurat</sub-title>
+    <desc lang="ca">Els germans Kratt van a les muntanyes de l'Himàlaia per mirar de trobar uns micos molt especials que viuen en un hàbitat hivernal molt dur: els bonics rinopitecs daurats, de pèl taronjós i daurat i cara d'un blau brillant. Mentrestant, al Zach se li acut la idea de capturar el Ieti i dur-lo a la civilització per mostrar-lo al públic a canvi de molts diners i així fer-se ric. Els camins de tots dos s'acaben trobant d'una manera ben curiosa. </desc>
+    <length units="seconds">1253</length>
+    <episode-num system="onscreen">102</episode-num>
+    <category lang="ca">FICCIÓ</category>
+    <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
       <value>INFANTIL</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20261114163736 +0100" stop="20261114170346 +0100" channel="sx3">
-    <title lang="ca">Fuet</title>
-    <sub-title lang="ca">El final del franquisme i el surrealisme de Dalí</sub-title>
-    <desc lang="ca">La Kiry i l'Eda hauran de triar entre l'amistat i la missió intergalàctica quan un antic amor inesperat es creua en el seu camí. El seu viatge al passat les portarà a la Catalunya de la dictadura franquista, on descobriran els empresonats pel règim de Franco. També viuran l'arribada de la primera televisió a casa dels Garcia i coneixeran el pintor més surrealista de la història: Salvador Dalí. </desc>
-    <length units="seconds">1570</length>
-    <episode-num system="onscreen">23</episode-num>
-    <category lang="ca">ENTRETENIMENT</category>
-    <category lang="ca">ALTRES</category>
+  <programme start="20261114212043 +0100" stop="20261114214052 +0100" channel="sx3">
+    <title lang="ca">Els germans Kratt</title>
+    <sub-title lang="ca">Els amics del Martin</sub-title>
+    <desc lang="ca">És un dia de descans a la nau Tortuga i, de sobte, el Chris entra queixant-se que algú el molesta. Tots surten per veure què passa i veuen que es tracta d'una oreneta porpra. Al Martin li encanta, perquè també hi ha l'oreneta blava, que és el seu color preferit, però al Chris tot plegat no li fa gens de gràcia. Al cap de poc veuen un altre animal, una marta, i el Martin està encantat, perquè sona gairebé igual que el seu nom. El Chris ja veu que no és el seu dia, i llavors, per acabar-ho d'adobar, un esquirol li pren l'armilla de poder animal. </desc>
+    <length units="seconds">1209</length>
+    <episode-num system="onscreen">103</episode-num>
+    <category lang="ca">FICCIÓ</category>
+    <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
       <value>INFANTIL</value>
     </rating>
@@ -177,28 +143,28 @@
   <channel id="c33">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20261114160549 +0100" stop="20261114165903 +0100" channel="c33">
-    <title lang="ca">Llocs recòndits</title>
-    <sub-title lang="ca">Irlanda</sub-title>
-    <desc lang="ca">Acompanyeu en Peter Greenberg, el presentador, mentre viatja per la República d'Irlanda i Irlanda del Nord, tot explorant Dublín, Belfast, Cape Clear, els penya-segats de Moher, el castell d'Ashford i molt més.</desc>
-    <length units="seconds">3194</length>
-    <episode-num system="onscreen">3</episode-num>
-    <category lang="ca">DIVULGACIÓ</category>
-    <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
+  <programme start="20261114210357 +0100" stop="20261114211243 +0100" channel="c33">
+    <title lang="ca">Xarxa Natura</title>
+    <sub-title lang="ca">Aigüestortes</sub-title>
+    <desc lang="ca">En la llista d'espais inclosos a la Xarxa Natura 2000 hi ha tots els parcs naturals, però també molts altres espais emblemàtics com ara les Guilleries, l'estany de Banyoles, l'Alta Garrotxa, la serra del Montsec o les Gavarres. La majoria d'aquests espais són autèntics desconeguts i els seus valors naturals i culturals no han estat mai objecte de cap divulgació específica. Aquesta sèrie vol donar a conèixer aquest patrimoni.</desc>
+    <length units="seconds">526</length>
+    <episode-num system="onscreen">1</episode-num>
+    <category lang="ca">ALTRES</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/4/1/1721308939614.jpg"/>
   </programme>
-  <programme start="20261114165903 +0100" stop="20261114172750 +0100" channel="c33">
-    <title lang="ca">Els hotels més remots del món</title>
-    <sub-title lang="ca">Budir - Islàndia</sub-title>
-    <desc lang="ca">Situat enmig d'un camp de lava a la part oest més remota d'Islàndia, l'hotel Budir existeix des dels anys 40. Propietat d'un empresari local, dur al damunt la història d'aquestes terres desolades, i el personal, que no ha canviat des de fa anys, prové del mateix poble de la península. Atrau clients habituals que utilitzen l'hotel com un lloc de retir davant de l'oceà Atlàntic. Es creu que Jules Vernes va localitzar l'escenari d'un dels seus llibres, 'Viatge al centre de la terra', just al costat de la icònica església negra que hi ha al davant de l'hotel.</desc>
-    <length units="seconds">1727</length>
-    <episode-num system="onscreen">7</episode-num>
+  <programme start="20261114211243 +0100" stop="20261114214108 +0100" channel="c33">
+    <title lang="ca">Caçadors de bolets</title>
+    <sub-title lang="ca">Juan Mari Arzak</sub-title>
+    <desc lang="ca">El protagonista és Juan Mari Arzak, un dels millors cuiners del món. Arzak és un personatge que toca totes les tecles. Tan aviat parla de l'ou, els remenats, el peix i de com netejar els bolets com de la globalització i els seus efectes sobre el pèsol o de per què els bolets desperten tanta passió en algunes cultures, com la catalana i la basca.</desc>
+    <length units="seconds">1705</length>
+    <episode-num system="onscreen">69</episode-num>
     <category lang="ca">DIVULGACIÓ</category>
-    <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
+    <category lang="ca">DOCUMENTAL DOCUDRAMA</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
@@ -211,6 +177,19 @@
   <channel id="oca2">
     <display-name>OCA2</display-name>
   </channel>
+  <programme start="20261114202500 +0100" stop="20261114222455 +0100" channel="oca2">
+    <title lang="ca">Futbol</title>
+    <sub-title lang="ca">- Reial Madrid-FC Badalona Women / Lliga F / J11</sub-title>
+    <desc lang="ca">Les badalonines, penúltimes a la taula, tenen una sortida complicada al camp de les segones classificades.</desc>
+    <length units="seconds">7195</length>
+    <episode-num system="onscreen">63</episode-num>
+    <category lang="ca">ESPORTS</category>
+    <category lang="ca">RETRANSMISSIONS ESPORTS</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <icon src="https://img.ccma.cat/multimedia/jpg/0/8/1730389343680.jpg"/>
+  </programme>
   <channel id="oca3">
     <display-name>OCA3</display-name>
   </channel>
