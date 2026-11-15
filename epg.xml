@@ -3,57 +3,42 @@
   <channel id="tv3uhd">
     <display-name>TV3UHD</display-name>
   </channel>
-  <programme start="20261115030924 +0100" stop="20261115043000 +0100" channel="tv3uhd">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">4836</length>
-    <episode-num system="onscreen">11705</episode-num>
-    <category lang="ca">ACTUALITAT</category>
-    <category lang="ca">INFORMATIU DIÀRI</category>
+  <programme start="20261115114500 +0100" stop="20261115141356 +0100" channel="tv3uhd">
+    <title lang="ca">Bàsquet</title>
+    <sub-title lang="ca">iLERNA Lleida-Kids&amp;Us Manresa / Lliga / J8</sub-title>
+    <desc lang="ca">Cara a cara entre els equips catalans que tanquen la classificació de la Lliga ACB. Al Barris s'enfronten els del Segrià i els del Bages. Tots dos només han guanyat un partit. </desc>
+    <length units="seconds">8936</length>
+    <episode-num system="onscreen">49</episode-num>
+    <category lang="ca">ESPORTS</category>
+    <category lang="ca">RETRANSMISSIONS ESPORTS</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <previously-shown/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
+    <subtitles type="teletext"/>
+    <icon src="https://img.3cat.cat/multimedia/jpg/4/5/1769511199554.jpg"/>
   </programme>
-  <programme start="20261115043000 +0100" stop="20261115051528 +0100" channel="tv3uhd">
-    <title lang="ca">Cava de Blues</title>
-    <sub-title lang="ca">A-Phonics</sub-title>
-    <desc lang="ca">Cava de Blues és un espai dedicat a les noves creacions de 14 grups del país que es dediquen a aquest gènere musical.En aquesta edició, els grups que hi trobareu són: -A contrablues-Blas Picón &amp; The Junk Espress-Bullfrog Electric Blues Experience-Dusa'ns Flying Blues Band-Dani Baraldés &amp; The XX Band-Emili Baleriola Blues Quartet-Dani Nel·lo &amp; Mario Cobo-Ivan Kovacevic 5 Spots-JG Acoustic Gang-John Big Stone &amp; The Blues Workers-Legacaster! The Hillbilly Trio-Martini Surfers-Susan Santos &amp; The Papa's Red Band-The Paparellos</desc>
-    <length units="seconds">2728</length>
-    <episode-num system="onscreen">24</episode-num>
-    <category lang="ca">MUSICALS</category>
-    <category lang="ca">JAZZ</category>
+  <programme start="20261115141356 +0100" stop="20261115143000 +0100" channel="tv3uhd">
+    <title lang="ca">Zona zàping</title>
+    <desc lang="ca">El 'Zona zàping' és un recull d'imatges de continguts esportius que ofereixen les diferents televisions, tant estatals com internacionals. Aquestes imatges destaquen per la seva espectacularitat, perquè són especialment curioses o perquè ens permeten repassar l'actualitat esportiva mundial de forma ràpida i concisa. En resum, tot allò relacionat amb el món dels esports que s'emeti per TV i tingui un mínim d'interès per a l'espectador.</desc>
+    <length units="seconds">964</length>
+    <episode-num system="onscreen">1089</episode-num>
+    <category lang="ca">ESPORTS</category>
+    <category lang="ca">ALTRES</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
+    <subtitles type="teletext"/>
     <previously-shown/>
-    <icon src="https://img.3cat.cat/multimedia/jpg/0/2/1754910826220.jpg"/>
+    <icon src="https://img.3cat.cat/multimedia/jpg/4/7/1763564970974.jpg"/>
   </programme>
   <channel id="tvi">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20261115033000 +0100" stop="20261115043000 +0100" channel="tvi">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <desc lang="ca">Sense Descripció</desc>
-    <length units="seconds">3600</length>
-    <episode-num system="onscreen">11705</episode-num>
-  </programme>
-  <programme start="20261115043000 +0100" stop="20261115051528 +0100" channel="tvi">
-    <title lang="ca">Cava de Blues</title>
-    <sub-title lang="ca">- A-Phonics</sub-title>
-    <desc lang="ca">Sense Descripció</desc>
-    <length units="seconds">2728</length>
-    <episode-num system="onscreen">24</episode-num>
-  </programme>
-  <channel id="324">
-    <display-name>324</display-name>
-  </channel>
-  <programme start="20261115010000 +0100" stop="20261115060000 +0100" channel="324">
+  <programme start="20261115113925 +0100" stop="20261115142926 +0100" channel="tvi">
     <title lang="ca">Notícies 3CatInfo</title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">18000</length>
-    <episode-num system="onscreen">11705</episode-num>
+    <length units="seconds">10201</length>
+    <episode-num system="onscreen">11707</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
@@ -62,58 +47,84 @@
     <previously-shown/>
     <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
-  <programme start="20261115060000 +0100" stop="20261115070000 +0100" channel="324">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">3600</length>
-    <episode-num system="onscreen">11705</episode-num>
+  <programme start="20261115142926 +0100" stop="20261115143000 +0100" channel="tvi">
+    <title lang="ca">Telenotícies migdia</title>
+    <length units="seconds">34</length>
+    <episode-num system="onscreen">7390</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <previously-shown/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/5/4/1758025766345.jpg"/>
+  </programme>
+  <channel id="324">
+    <display-name>324</display-name>
+  </channel>
+  <programme start="20261115100000 +0100" stop="20261115120000 +0100" channel="324">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="seconds">7200</length>
+    <episode-num system="onscreen">11707</episode-num>
+    <category lang="ca">ACTUALITAT</category>
+    <category lang="ca">INFORMATIU DIÀRI</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <subtitles type="teletext"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
+  </programme>
+  <programme start="20261115120000 +0100" stop="20261115143000 +0100" channel="324">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="seconds">9000</length>
+    <episode-num system="onscreen">11708</episode-num>
+    <category lang="ca">ACTUALITAT</category>
+    <category lang="ca">INFORMATIU DIÀRI</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
     <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
   <channel id="esport3">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20261115025819 +0100" stop="20261115044409 +0100" channel="esport3">
-    <title lang="ca">Futbol</title>
-    <sub-title lang="ca">CE Europa-UE Sant Andreu / Primera Federació / J12</sub-title>
-    <desc lang="ca">L'RCDE Stadium acull el derbi barceloní de màxima rivalitat. L'objectiu dels dos equips és sortir de la part baixa de la taula. El conjunt de Gràcia suma 10 punts, i els quadribarrats en tenen 13.</desc>
-    <length units="seconds">6350</length>
-    <episode-num system="onscreen">209</episode-num>
-    <category lang="ca">ESPORTS</category>
-    <category lang="ca">RETRANSMISSIONS ESPORTS</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <icon src="https://img.ccma.cat/multimedia/jpg/0/7/1698446098170.jpg"/>
-  </programme>
-  <programme start="20261115044409 +0100" stop="20261115064753 +0100" channel="esport3">
-    <title lang="ca">Futbol</title>
-    <sub-title lang="ca">Reial Madrid-FC Badalona Women / Lliga F / J11</sub-title>
-    <desc lang="ca">Les badalonines, penúltimes a la taula, tenen una sortida complicada al camp de les segones classificades.</desc>
-    <length units="seconds">7424</length>
-    <episode-num system="onscreen">63</episode-num>
+  <programme start="20261115103248 +0100" stop="20261115115500 +0100" channel="esport3">
+    <title lang="ca">Futbol sala</title>
+    <sub-title lang="ca">ElPozo Múrcia-Barça / Primera divisió / J8</sub-title>
+    <desc lang="ca">Els blaugranes, que estan invictes i només han cedit 2 punts dels 18 que han disputat, tenen un sortida exigent a la pista de la capital murciana. El Pozo, però, està per sota a la classificació. Ha jugat un partit més i suma 13 punts (4 victòries, 1 empat i 2 derrotes).</desc>
+    <length units="seconds">4932</length>
+    <episode-num system="onscreen">486</episode-num>
     <category lang="ca">ESPORTS</category>
     <category lang="ca">RETRANSMISSIONS ESPORTS</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <previously-shown/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/1/5/1699004339351.jpg"/>
+  </programme>
+  <programme start="20261115115500 +0100" stop="20261115125055 +0100" channel="esport3">
+    <title lang="ca">Futbol</title>
+    <sub-title lang="ca">Reial Societat-Athletic Club / Lliga F / J11</sub-title>
+    <desc lang="ca">Màxima rivalitat basca en aquest enfrontament entre els equips de Sant Sebastià i Bilbao a l'onzena jornada de la Lliga F.</desc>
+    <length units="seconds">3355</length>
+    <episode-num system="onscreen">64</episode-num>
+    <category lang="ca">ESPORTS</category>
+    <category lang="ca">RETRANSMISSIONS ESPORTS</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
     <icon src="https://img.ccma.cat/multimedia/jpg/0/8/1730389343680.jpg"/>
   </programme>
   <channel id="sx3">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20261115040805 +0100" stop="20261115041804 +0100" channel="sx3">
-    <title lang="ca">Pop, la ciutat de paper</title>
-    <sub-title lang="ca">Puc salvar la situació</sub-title>
-    <desc lang="ca">A l'aventura d'avui, la Phoebe i el Zip parlen de superherois. El Zip creu que la Phoebe podria ser una superheroïna, i entre els dos fabriquen uns punys. La Phoebe se'ls posa i es transforma en la Fabulosa Phoebe, la superheroïna de Pop, la ciutat de paper, que sempre salva la situació. Però té tantes ganes de salvar a tothom que no es para a escoltar el que li diuen, i per salvar els amics primer se'ls ha d'escoltar. Serà capaç d'aprendre aquest superpoder d'escoltar?</desc>
-    <length units="seconds">599</length>
-    <episode-num system="onscreen">1</episode-num>
+  <programme start="20261115113338 +0100" stop="20261115115541 +0100" channel="sx3">
+    <title lang="ca">El carreró del misteri</title>
+    <sub-title lang="ca">El vampir de Lexington</sub-title>
+    <desc lang="ca">Mentre el Vermell, un gat de carrer, i el seu amic Tommy sopen al parc una nit, surt del no-res un ratpenat estrany i mossega el Tommy. El Vermell no s'ho pot acabar de creure: el seu amic s'ha convertit en... un vampir!</desc>
+    <length units="seconds">1323</length>
+    <episode-num system="onscreen">16</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
@@ -122,54 +133,68 @@
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20261115041804 +0100" stop="20261115042834 +0100" channel="sx3">
-    <title lang="ca">Pop, la ciutat de paper</title>
-    <sub-title lang="ca">La funció d'en Plom</sub-title>
-    <desc lang="ca">A l'aventura d'avui, la Mà Amiga munta un escenari de teatre pels seus amics. En Plom i els altres hi volen fer una funció per agrair-l'hi, però no saben com fer-la. En Plom diu que farà de director i es fa un megàfon perquè el sentin bé. Però com que no escolta les idees dels seus amics, l'obra no és tan divertida com podria ser. Podran salvar l'obra entre tots abans de la gran estrena?</desc>
-    <length units="seconds">630</length>
-    <episode-num system="onscreen">2</episode-num>
+  <programme start="20261115115541 +0100" stop="20261115120236 +0100" channel="sx3">
+    <title lang="ca">En Grizzy i els Lèmmings</title>
+    <sub-title lang="ca">Realitat disfressada</sub-title>
+    <desc lang="ca">En Grizzy i els lèmmings es barallen per la tauleta del guardabosc quan hi descobreixen una aplicació molt divertida que permet veure's disfressat de conill, de robot o guarnit d'un munt d'accessoris animats diferents. En no voler compartir les seves disfresses virtuals, però, corren el perill de prendre mal d'una manera molt real, de manera que han d'estar alerta.</desc>
+    <length units="seconds">415</length>
+    <episode-num system="onscreen">116</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
       <value>INFANTIL</value>
     </rating>
-    <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
   <channel id="c33">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20261115033211 +0100" stop="20261115041952 +0100" channel="c33">
-    <title lang="ca">Benvinguts a la família</title>
-    <sub-title lang="ca">El cordó policial</sub-title>
-    <desc lang="ca">Gràcies a l'Adela, la policia s'ha assabentat que la Teresa està amagada en algun punt de la urbanització. El Miquel, amb altres agents, munta un protocol d'emergència que impedeix que entri i surti ningú del veïnat. La família haurà de trobar la manera de treure la Teresa d'allà abans que escorcollin la casa i se'ls acabi el temps per entregar-la al Papa.</desc>
-    <length units="seconds">2861</length>
-    <episode-num system="onscreen">17</episode-num>
-    <category lang="ca">FICCIÓ</category>
-    <category lang="ca">SÈRIE DRAMÀTICA</category>
+  <programme start="20261115112617 +0100" stop="20261115115913 +0100" channel="c33">
+    <title lang="ca">GR Pirineus</title>
+    <sub-title lang="ca">Una llengua molt viva</sub-title>
+    <desc lang="ca">La Vall d'Aran ens obrirà les portes per mostrar-nos tota la seva impressionant bellesa, i ho farà en aranès, perquè en aquesta ruta volem descobrir aquesta llengua autòctona i demostrar que està molt més viva del que sembla.La ruta que seguirem començarà a Bagergue i passarà per Unha, Salardú, Escunhau, Betren, Vielha, Arròs, Es Bordes, Bossost, Lles i acabarà a Bausén.Durant el trajecte aprendrem a cuinar olla aranesa, anirem a classe d'aranès, ens endinsarem en l'impressionant patrimoni natural de la vall visitant dos salts d'aigua: eths Ulhs deth Jueus i eth Saut deth Pish; coneixerem per què els esturions de la Vall d'Aran estan considerats els que donen millor caviar, i el tastarem; i acabarem amb el grup Bramatopin, cantant cançons tradicionals araneses i coneixent una romàntica però tràgica història d'amor.</desc>
+    <length units="seconds">1976</length>
+    <episode-num system="onscreen">16</episode-num>
+    <category lang="ca">DIVULGACIÓ</category>
+    <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
+    <icon src="https://img.3cat.cat/multimedia/jpg/9/8/1736612891089.jpg"/>
   </programme>
-  <programme start="20261115041952 +0100" stop="20261115050125 +0100" channel="c33">
-    <title lang="ca">Benvinguts a la família</title>
-    <sub-title lang="ca">La traïció</sub-title>
-    <desc lang="ca">El Manu ha quedat amb la Teresa en una botiga de cotxes de segona mà amb la promesa que s'escaparan junts. L'ex de l'Àngela, però, assegura que tot forma part d'un pla per atrapar-la, però... a qui enganya realment el Manu? Mentrestant, a la casa, el Raül intentarà justificar els seu intent de fugida de cara a la Victòria. </desc>
-    <length units="seconds">2493</length>
-    <episode-num system="onscreen">18</episode-num>
-    <category lang="ca">FICCIÓ</category>
-    <category lang="ca">SÈRIE DRAMÀTICA</category>
+  <programme start="20261115115913 +0100" stop="20261115123136 +0100" channel="c33">
+    <title lang="ca">GR Pirineus</title>
+    <sub-title lang="ca">De vall a vall</sub-title>
+    <desc lang="ca">Avui el nostre viatge comença a la Vall d'Aran i acaba a la Vall de Boí. Sortirem de Casau, el balcó de Vielha e Mijaran, i travessant el seu famós túnel farem un tram llarg de carretera passant per Senet de Barravés, Vilaller i després ens endinsarem de cap a la Vall de Boí. I què no podem deixar de fer aquí? sobretot descobrir el seu romànic, una meravella. I acabarem el dia a Erill la Vall, on coneixerem uns germans molt vinculats a la vaca bruna: amb un la pasturarem, i amb l'altre..., eeeh!, la tastarem. L'endemà matinarem per passejar pel Parc Nacional d'Aigüestortes i Estany de Sant Maurici. Anirem a Barruera per aprendre a tocar l'acordió diatònic... I tancarem la ruta anant de falles. A València no, a Durro! Una festa molt emblemàtica.</desc>
+    <length units="seconds">1943</length>
+    <episode-num system="onscreen">17</episode-num>
+    <category lang="ca">DIVULGACIÓ</category>
+    <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
+    <icon src="https://img.3cat.cat/multimedia/jpg/9/8/1736612891089.jpg"/>
   </programme>
   <channel id="oca1">
     <display-name>OCA1</display-name>
   </channel>
+  <programme start="20261115114455 +0100" stop="20261115140251 +0100" channel="oca1">
+    <title lang="ca">Bàsquet</title>
+    <sub-title lang="ca">- iLERNA Lleida-Kids&amp;Us Manresa / Lliga / J8</sub-title>
+    <desc lang="ca">Cara a cara entre els equips catalans que tanquen la classificació de la Lliga ACB. Al Barris s'enfronten els del Segrià i els del Bages. Tots dos només han guanyat un partit. </desc>
+    <length units="seconds">8276</length>
+    <episode-num system="onscreen">49</episode-num>
+    <category lang="ca">ESPORTS</category>
+    <category lang="ca">RETRANSMISSIONS ESPORTS</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <icon src="https://img.3cat.cat/multimedia/jpg/4/5/1769511199554.jpg"/>
+  </programme>
   <channel id="oca2">
     <display-name>OCA2</display-name>
   </channel>
