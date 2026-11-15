@@ -3,69 +3,66 @@
   <channel id="tv3uhd">
     <display-name>TV3UHD</display-name>
   </channel>
-  <programme start="20261115114500 +0100" stop="20261115141356 +0100" channel="tv3uhd">
-    <title lang="ca">Bàsquet</title>
-    <sub-title lang="ca">iLERNA Lleida-Kids&amp;Us Manresa / Lliga / J8</sub-title>
-    <desc lang="ca">Cara a cara entre els equips catalans que tanquen la classificació de la Lliga ACB. Al Barris s'enfronten els del Segrià i els del Bages. Tots dos només han guanyat un partit. </desc>
-    <length units="seconds">8936</length>
-    <episode-num system="onscreen">49</episode-num>
-    <category lang="ca">ESPORTS</category>
-    <category lang="ca">RETRANSMISSIONS ESPORTS</category>
+  <programme start="20261115171740 +0100" stop="20261115190516 +0100" channel="tv3uhd">
+    <title lang="ca">Tarda de cine</title>
+    <sub-title lang="ca">- Assassinats entre blondes</sub-title>
+    <desc lang="ca">Sense Descripció</desc>
+    <length units="seconds">6456</length>
+    <episode-num system="onscreen">1</episode-num>
+    <subtitles type="teletext"/>
+  </programme>
+  <programme start="20261115190516 +0100" stop="20261115195744 +0100" channel="tv3uhd">
+    <title lang="ca">Tàndem</title>
+    <sub-title lang="ca">Esperit d'equip - 1ª part</sub-title>
+    <desc lang="ca">Una gran operació policial es posa en marxa per detenir un perillós criminal que fa anys que fuig de la justícia. Però quan l'equip irromp al seu amagatall, el troben mort d'un tret al cap. Poc després, esclata un cotxe bomba i deixa un gendarme ferit. Quan la Léa rep uns correus que vinculen l'assassinat amb l'atemptat i es demostra que han sortit del seu propi ordinador, es fa evident que l'autor dels fets és algú de la gendarmeria.</desc>
+    <length units="seconds">3148</length>
+    <episode-num system="onscreen">63</episode-num>
+    <category lang="ca">FICCIÓ</category>
+    <category lang="ca">TELESÈRIE</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
-    <icon src="https://img.3cat.cat/multimedia/jpg/4/5/1769511199554.jpg"/>
   </programme>
-  <programme start="20261115141356 +0100" stop="20261115143000 +0100" channel="tv3uhd">
-    <title lang="ca">Zona zàping</title>
-    <desc lang="ca">El 'Zona zàping' és un recull d'imatges de continguts esportius que ofereixen les diferents televisions, tant estatals com internacionals. Aquestes imatges destaquen per la seva espectacularitat, perquè són especialment curioses o perquè ens permeten repassar l'actualitat esportiva mundial de forma ràpida i concisa. En resum, tot allò relacionat amb el món dels esports que s'emeti per TV i tingui un mínim d'interès per a l'espectador.</desc>
-    <length units="seconds">964</length>
-    <episode-num system="onscreen">1089</episode-num>
-    <category lang="ca">ESPORTS</category>
+  <channel id="tvi">
+    <display-name>TVI</display-name>
+  </channel>
+  <programme start="20261115182503 +0100" stop="20261115191926 +0100" channel="tvi">
+    <title lang="ca">Temps de silenci</title>
+    <sub-title lang="ca">Pel·lícules</sub-title>
+    <desc lang="ca">1975. El fracàs d'en Llorenç i l'ascensió d'en Xavier.Damunt la felicitat d'en Ramon i la Isabel, hi pesa encara la presència de la Victòria, de la mateixa manera que damunt la llibertat hi pesa el règim moribund...</desc>
+    <length units="seconds">3263</length>
+    <episode-num system="onscreen">25</episode-num>
+    <category lang="ca">FICCIÓ</category>
+    <category lang="ca">SÈRIE DRAMÀTICA</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <subtitles type="teletext"/>
+    <previously-shown/>
+  </programme>
+  <programme start="20261115191926 +0100" stop="20261115194106 +0100" channel="tvi">
+    <title lang="ca">Nervi</title>
+    <sub-title lang="ca">Txema Salvans – fotògraf</sub-title>
+    <desc lang="ca">Fotodocumentalista de prestigi internacional, el barceloní Txema Salvans ha col·laborat amb publicacions amb el relleu de 'Le Monde', 'The New York Times' o 'The Guardian', entre altres. Guanyador de premis com el FotoPress i el PhotoEspaña, Salvans s'ha caracteritzat per combinar a les seves fotos un càlid sentit de l'humor amb una visió artística i documental. La seva obra mostra les inquietuds d'un artista que posa el seu objectiu al servei d'extreure bellesa i realitat des d'entorns i relats molt diversos. </desc>
+    <length units="seconds">1300</length>
+    <episode-num system="onscreen">300</episode-num>
+    <category lang="ca">ENTRETENIMENT</category>
     <category lang="ca">ALTRES</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
-    <icon src="https://img.3cat.cat/multimedia/jpg/4/7/1763564970974.jpg"/>
-  </programme>
-  <channel id="tvi">
-    <display-name>TVI</display-name>
-  </channel>
-  <programme start="20261115113925 +0100" stop="20261115142926 +0100" channel="tvi">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">10201</length>
-    <episode-num system="onscreen">11707</episode-num>
-    <category lang="ca">ACTUALITAT</category>
-    <category lang="ca">INFORMATIU DIÀRI</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <previously-shown/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
-  </programme>
-  <programme start="20261115142926 +0100" stop="20261115143000 +0100" channel="tvi">
-    <title lang="ca">Telenotícies migdia</title>
-    <length units="seconds">34</length>
-    <episode-num system="onscreen">7390</episode-num>
-    <category lang="ca">ACTUALITAT</category>
-    <category lang="ca">INFORMATIU DIÀRI</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <icon src="https://img.ccma.cat/multimedia/jpg/5/4/1758025766345.jpg"/>
   </programme>
   <channel id="324">
     <display-name>324</display-name>
   </channel>
-  <programme start="20261115100000 +0100" stop="20261115120000 +0100" channel="324">
+  <programme start="20261115163000 +0100" stop="20261115183000 +0100" channel="324">
     <title lang="ca">Notícies 3CatInfo</title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <length units="seconds">7200</length>
-    <episode-num system="onscreen">11707</episode-num>
+    <episode-num system="onscreen">11709</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
@@ -74,57 +71,57 @@
     <subtitles type="teletext"/>
     <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
-  <programme start="20261115120000 +0100" stop="20261115143000 +0100" channel="324">
+  <programme start="20261115183000 +0100" stop="20261115200000 +0100" channel="324">
     <title lang="ca">Notícies 3CatInfo</title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">9000</length>
-    <episode-num system="onscreen">11708</episode-num>
+    <length units="seconds">5400</length>
+    <episode-num system="onscreen">11710</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
+    <subtitles type="teletext"/>
     <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
   <channel id="esport3">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20261115103248 +0100" stop="20261115115500 +0100" channel="esport3">
-    <title lang="ca">Futbol sala</title>
-    <sub-title lang="ca">ElPozo Múrcia-Barça / Primera divisió / J8</sub-title>
-    <desc lang="ca">Els blaugranes, que estan invictes i només han cedit 2 punts dels 18 que han disputat, tenen un sortida exigent a la pista de la capital murciana. El Pozo, però, està per sota a la classificació. Ha jugat un partit més i suma 13 punts (4 victòries, 1 empat i 2 derrotes).</desc>
-    <length units="seconds">4932</length>
-    <episode-num system="onscreen">486</episode-num>
-    <category lang="ca">ESPORTS</category>
-    <category lang="ca">RETRANSMISSIONS ESPORTS</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <previously-shown/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/1/5/1699004339351.jpg"/>
-  </programme>
-  <programme start="20261115115500 +0100" stop="20261115125055 +0100" channel="esport3">
+  <programme start="20261115175344 +0100" stop="20261115184931 +0100" channel="esport3">
     <title lang="ca">Futbol</title>
-    <sub-title lang="ca">Reial Societat-Athletic Club / Lliga F / J11</sub-title>
-    <desc lang="ca">Màxima rivalitat basca en aquest enfrontament entre els equips de Sant Sebastià i Bilbao a l'onzena jornada de la Lliga F.</desc>
-    <length units="seconds">3355</length>
-    <episode-num system="onscreen">64</episode-num>
+    <sub-title lang="ca">UE Olot-RCD Espanyol B / Segona Federació / J11</sub-title>
+    <desc lang="ca">Duel entre dos equips que lluiten per l'ascens. Els garrotxins han sumat 18 punts de 30, i els blanc-i-blaus milloren el percentatge. El filial perico té 20 punts tot i haver jugat un partit menys.</desc>
+    <length units="seconds">3347</length>
+    <episode-num system="onscreen">76</episode-num>
     <category lang="ca">ESPORTS</category>
     <category lang="ca">RETRANSMISSIONS ESPORTS</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <icon src="https://img.ccma.cat/multimedia/jpg/0/8/1730389343680.jpg"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/0/7/1698446098170.jpg"/>
+  </programme>
+  <programme start="20261115184931 +0100" stop="20261115185741 +0100" channel="esport3">
+    <title lang="ca">Esport Club Cap de Setmana</title>
+    <sub-title lang="ca">Esport Club</sub-title>
+    <desc lang="ca">Magazín amb tota l'actualitat esportiva del cap de setmana, amb atenció especial a la jornada de futbol i les principals competicions del nostre esport.</desc>
+    <length units="seconds">490</length>
+    <episode-num system="onscreen">1421</episode-num>
+    <category lang="ca">ESPORTS</category>
+    <category lang="ca">INFORMATIU DIÀRI</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <icon src="https://img.ccma.cat/multimedia/jpg/7/3/1698145091337.jpg"/>
   </programme>
   <channel id="sx3">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20261115113338 +0100" stop="20261115115541 +0100" channel="sx3">
-    <title lang="ca">El carreró del misteri</title>
-    <sub-title lang="ca">El vampir de Lexington</sub-title>
-    <desc lang="ca">Mentre el Vermell, un gat de carrer, i el seu amic Tommy sopen al parc una nit, surt del no-res un ratpenat estrany i mossega el Tommy. El Vermell no s'ho pot acabar de creure: el seu amic s'ha convertit en... un vampir!</desc>
-    <length units="seconds">1323</length>
-    <episode-num system="onscreen">16</episode-num>
+  <programme start="20261115180852 +0100" stop="20261115182812 +0100" channel="sx3">
+    <title lang="ca">Capità Tsubasa. Campions</title>
+    <sub-title lang="ca">No perdré perquè aquest és el meu somni!</sub-title>
+    <desc lang="ca">El Morisaki rep una pilotada, però el Tsubasa li torna la confiança i li demostra que la pilota és amiga seva. El partit es converteix en un intercanvi de gols en què la victòria esdevé una qüestió de voluntat.</desc>
+    <length units="seconds">1160</length>
+    <episode-num system="onscreen">15</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
@@ -133,28 +130,29 @@
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20261115115541 +0100" stop="20261115120236 +0100" channel="sx3">
-    <title lang="ca">En Grizzy i els Lèmmings</title>
-    <sub-title lang="ca">Realitat disfressada</sub-title>
-    <desc lang="ca">En Grizzy i els lèmmings es barallen per la tauleta del guardabosc quan hi descobreixen una aplicació molt divertida que permet veure's disfressat de conill, de robot o guarnit d'un munt d'accessoris animats diferents. En no voler compartir les seves disfresses virtuals, però, corren el perill de prendre mal d'una manera molt real, de manera que han d'estar alerta.</desc>
-    <length units="seconds">415</length>
-    <episode-num system="onscreen">116</episode-num>
+  <programme start="20261115182812 +0100" stop="20261115184948 +0100" channel="sx3">
+    <title lang="ca">Capità Tsubasa. Campions</title>
+    <sub-title lang="ca">Això és futbol acrobàtic!</sub-title>
+    <desc lang="ca">Després de la derrota contra el Meiwa, el Nankatsu necessita vèncer el Hanawa per classificar-se. La clau del partit és que la Parella d'Or, el Tsubasa i el Misaki, aconsegueixi frenar el futbol acrobàtic combinat dels bessons Tachibana.</desc>
+    <length units="seconds">1296</length>
+    <episode-num system="onscreen">16</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
       <value>INFANTIL</value>
     </rating>
+    <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
   <channel id="c33">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20261115112617 +0100" stop="20261115115913 +0100" channel="c33">
-    <title lang="ca">GR Pirineus</title>
-    <sub-title lang="ca">Una llengua molt viva</sub-title>
-    <desc lang="ca">La Vall d'Aran ens obrirà les portes per mostrar-nos tota la seva impressionant bellesa, i ho farà en aranès, perquè en aquesta ruta volem descobrir aquesta llengua autòctona i demostrar que està molt més viva del que sembla.La ruta que seguirem començarà a Bagergue i passarà per Unha, Salardú, Escunhau, Betren, Vielha, Arròs, Es Bordes, Bossost, Lles i acabarà a Bausén.Durant el trajecte aprendrem a cuinar olla aranesa, anirem a classe d'aranès, ens endinsarem en l'impressionant patrimoni natural de la vall visitant dos salts d'aigua: eths Ulhs deth Jueus i eth Saut deth Pish; coneixerem per què els esturions de la Vall d'Aran estan considerats els que donen millor caviar, i el tastarem; i acabarem amb el grup Bramatopin, cantant cançons tradicionals araneses i coneixent una romàntica però tràgica història d'amor.</desc>
-    <length units="seconds">1976</length>
-    <episode-num system="onscreen">16</episode-num>
+  <programme start="20261115181347 +0100" stop="20261115191309 +0100" channel="c33">
+    <title lang="ca">Pau Casals, l'home que va fer sentir el silenci</title>
+    <sub-title lang="ca">Pau Casals, l'home que va fer sentir el silenci</sub-title>
+    <desc lang="ca">'Pau Casals, l'home que va fer sentir el silenci' (2011), un documental de RBA Audiovisuales en coproducció amb TELEVISIÓ DE CATALUNYA i amb la col·laboració de Fundació Pau Casals, Memorial Democràtic i l'ICEC. Va fer sonar la música més sublim i la va fer callar allà on la pau, la justícia i la llibertat no eren respectades. La música no podia elevar els esperits mentre la gent patia, era humiliada o moria. Però, ¿podia potser donar una llum d'esperança, l'esperança que un món millor és possible?Pau Casals va ser un músic importantíssim, que ocupa un lloc molt destacat a la història de la música. Però també va ser un símbol perquè va encarnar com ningú i abans que tots la figura de l'artista compromès. Ho va fer fins al punt de sacrificar el seu art, de fer callar la música durant anys i fer sentir un silenci que va ser eloqüent com un clam de llibertat.Pau Casals va viure convençut que la música podia portar a un món millor, més fraternal i just. Un món nou que la realitat del segle més violent de la història va negar-li un cop i un altre. La lluita entre aquest ideal esperançat i aquesta realitat dolorosa va ser la vida de Pau Casals. En ella se centra aquest documental, fet amb la col·laboració de la Fundació Pau Casals, la participació directa de la viuda del mestre, Marta Casals Istomin, testimonis de grans músics i una detallada documentació que presenta materials poc coneguts dels arxius personals, alguns fins ara inèdits.Producció executiva: Jordi Sellas i Francisco Vargas EcheverríaProducció executiva TVC: Jordi Ambròs Producció: Susanna AlcorizaProducció delegada TVC: Ruth Llòria Direcció i guió: Jaume BoixAssessorament històric: Núria BallesterRealització: Miguel E. LópezDirecció de producció: Cristina BoschDirecció de fotografia: Raül FabregatMúsics: Eulàlia Subirà, Marina González, Bruna González, Minerva Comerma, Helena Castells, Gemma Dalmau, Clara Dalmau, Pere Puertas, Quim Puertas, Pau Codina, Jordi Claret i Fe</desc>
+    <length units="seconds">3562</length>
+    <episode-num system="onscreen">1</episode-num>
     <category lang="ca">DIVULGACIÓ</category>
     <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
     <rating>
@@ -162,14 +160,13 @@
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
-    <icon src="https://img.3cat.cat/multimedia/jpg/9/8/1736612891089.jpg"/>
   </programme>
-  <programme start="20261115115913 +0100" stop="20261115123136 +0100" channel="c33">
-    <title lang="ca">GR Pirineus</title>
-    <sub-title lang="ca">De vall a vall</sub-title>
-    <desc lang="ca">Avui el nostre viatge comença a la Vall d'Aran i acaba a la Vall de Boí. Sortirem de Casau, el balcó de Vielha e Mijaran, i travessant el seu famós túnel farem un tram llarg de carretera passant per Senet de Barravés, Vilaller i després ens endinsarem de cap a la Vall de Boí. I què no podem deixar de fer aquí? sobretot descobrir el seu romànic, una meravella. I acabarem el dia a Erill la Vall, on coneixerem uns germans molt vinculats a la vaca bruna: amb un la pasturarem, i amb l'altre..., eeeh!, la tastarem. L'endemà matinarem per passejar pel Parc Nacional d'Aigüestortes i Estany de Sant Maurici. Anirem a Barruera per aprendre a tocar l'acordió diatònic... I tancarem la ruta anant de falles. A València no, a Durro! Una festa molt emblemàtica.</desc>
-    <length units="seconds">1943</length>
-    <episode-num system="onscreen">17</episode-num>
+  <programme start="20261115191309 +0100" stop="20261115200626 +0100" channel="c33">
+    <title lang="ca">Llocs recòndits</title>
+    <sub-title lang="ca">Polònia</sub-title>
+    <desc lang="ca">'Llocs recòndits - Polònia' permet que l'audiència se submergeixi en la història i la cultura resistent de Polònia, i que s'embarqui en una pila de viatges que canvien la vida, als quals en Peter agafa un globus aerostàtic per sobrevolar el castell de Czocha, del segle XIII; pesca amb els locals als grans llacs de Masúria, contempla murals enormes a la ciutat de Lodz, descobreix una de les formes úniques de viatjar per l'aigua fent servir plans inclinats per sobre de la terra i puja a un planador per poder veure les increïbles muntanyes dels Tatres.</desc>
+    <length units="seconds">3197</length>
+    <episode-num system="onscreen">4</episode-num>
     <category lang="ca">DIVULGACIÓ</category>
     <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
     <rating>
@@ -177,24 +174,10 @@
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
-    <icon src="https://img.3cat.cat/multimedia/jpg/9/8/1736612891089.jpg"/>
   </programme>
   <channel id="oca1">
     <display-name>OCA1</display-name>
   </channel>
-  <programme start="20261115114455 +0100" stop="20261115140251 +0100" channel="oca1">
-    <title lang="ca">Bàsquet</title>
-    <sub-title lang="ca">- iLERNA Lleida-Kids&amp;Us Manresa / Lliga / J8</sub-title>
-    <desc lang="ca">Cara a cara entre els equips catalans que tanquen la classificació de la Lliga ACB. Al Barris s'enfronten els del Segrià i els del Bages. Tots dos només han guanyat un partit. </desc>
-    <length units="seconds">8276</length>
-    <episode-num system="onscreen">49</episode-num>
-    <category lang="ca">ESPORTS</category>
-    <category lang="ca">RETRANSMISSIONS ESPORTS</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <icon src="https://img.3cat.cat/multimedia/jpg/4/5/1769511199554.jpg"/>
-  </programme>
   <channel id="oca2">
     <display-name>OCA2</display-name>
   </channel>
