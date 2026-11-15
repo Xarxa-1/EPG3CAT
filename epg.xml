@@ -3,79 +3,67 @@
   <channel id="tv3uhd">
     <display-name>TV3UHD</display-name>
   </channel>
-  <programme start="20261115171740 +0100" stop="20261115190516 +0100" channel="tv3uhd">
-    <title lang="ca">Tarda de cine</title>
-    <sub-title lang="ca">- Assassinats entre blondes</sub-title>
-    <desc lang="ca">Sense Descripció</desc>
-    <length units="seconds">6456</length>
-    <episode-num system="onscreen">1</episode-num>
-    <subtitles type="teletext"/>
-  </programme>
-  <programme start="20261115190516 +0100" stop="20261115195744 +0100" channel="tv3uhd">
-    <title lang="ca">Tàndem</title>
-    <sub-title lang="ca">Esperit d'equip - 1ª part</sub-title>
-    <desc lang="ca">Una gran operació policial es posa en marxa per detenir un perillós criminal que fa anys que fuig de la justícia. Però quan l'equip irromp al seu amagatall, el troben mort d'un tret al cap. Poc després, esclata un cotxe bomba i deixa un gendarme ferit. Quan la Léa rep uns correus que vinculen l'assassinat amb l'atemptat i es demostra que han sortit del seu propi ordinador, es fa evident que l'autor dels fets és algú de la gendarmeria.</desc>
-    <length units="seconds">3148</length>
-    <episode-num system="onscreen">63</episode-num>
-    <category lang="ca">FICCIÓ</category>
-    <category lang="ca">TELESÈRIE</category>
+  <programme start="20261115225317 +0100" stop="20261115235913 +0100" channel="tv3uhd">
+    <title lang="ca">Vèrtex</title>
+    <desc lang="ca">Hi ha notícies que només s'entenen quan s'observen des de diferents perspectives. Amb aquesta premissa neix 'Vèrtex', el nou programa d'actualitat setmanal que converteix la complexitat dels grans temes en una conversa rigorosa, visual i propera. El programa ofereix una mirada transversal dels assumptes que han marcat la setmana i dels que definiran la que està a punt de començar.</desc>
+    <length units="seconds">3956</length>
+    <episode-num system="onscreen">7</episode-num>
+    <category lang="ca">DIVULGACIÓ</category>
+    <category lang="ca">ENTREVISTES</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <subtitles type="teletext"/>
+  </programme>
+  <programme start="20261115235913 +0100" stop="20261116003824 +0100" channel="tv3uhd">
+    <title lang="ca">Gent amb DO</title>
+    <sub-title lang="ca">DO Pla de Bages. 'Tota pedra fa paret':</sub-title>
+    <desc lang="ca">Entre barraques de pedra seca, tines amagades al bosc i la mirada imponent de Montserrat, l'Empar descobreix una denominació que ha sabut convertir la memòria en futur. Acompanyada de viticultors, sumillers i persones que estimen profundament aquest territori, segueix el fil conductor del picapoll, una varietat que explica la recuperació d'un paisatge i d'una identitat vitivinícola única.</desc>
+    <length units="seconds">2351</length>
+    <episode-num system="onscreen">5</episode-num>
+    <category lang="ca">DIVULGACIÓ</category>
+    <category lang="ca">SÈRIE DOCUMENTAL</category>
+    <rating>
+      <value>PÚBLIC ADULT</value>
     </rating>
     <subtitles type="teletext"/>
   </programme>
   <channel id="tvi">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20261115182503 +0100" stop="20261115191926 +0100" channel="tvi">
-    <title lang="ca">Temps de silenci</title>
-    <sub-title lang="ca">Pel·lícules</sub-title>
-    <desc lang="ca">1975. El fracàs d'en Llorenç i l'ascensió d'en Xavier.Damunt la felicitat d'en Ramon i la Isabel, hi pesa encara la presència de la Victòria, de la mateixa manera que damunt la llibertat hi pesa el règim moribund...</desc>
-    <length units="seconds">3263</length>
-    <episode-num system="onscreen">25</episode-num>
-    <category lang="ca">FICCIÓ</category>
-    <category lang="ca">SÈRIE DRAMÀTICA</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <subtitles type="teletext"/>
-    <previously-shown/>
+  <programme start="20261115225317 +0100" stop="20261115235913 +0100" channel="tvi">
+    <title lang="ca">Vèrtex</title>
+    <desc lang="ca">Sense Descripció</desc>
+    <length units="seconds">3956</length>
+    <episode-num system="onscreen">7</episode-num>
   </programme>
-  <programme start="20261115191926 +0100" stop="20261115194106 +0100" channel="tvi">
-    <title lang="ca">Nervi</title>
-    <sub-title lang="ca">Txema Salvans – fotògraf</sub-title>
-    <desc lang="ca">Fotodocumentalista de prestigi internacional, el barceloní Txema Salvans ha col·laborat amb publicacions amb el relleu de 'Le Monde', 'The New York Times' o 'The Guardian', entre altres. Guanyador de premis com el FotoPress i el PhotoEspaña, Salvans s'ha caracteritzat per combinar a les seves fotos un càlid sentit de l'humor amb una visió artística i documental. La seva obra mostra les inquietuds d'un artista que posa el seu objectiu al servei d'extreure bellesa i realitat des d'entorns i relats molt diversos. </desc>
-    <length units="seconds">1300</length>
-    <episode-num system="onscreen">300</episode-num>
-    <category lang="ca">ENTRETENIMENT</category>
-    <category lang="ca">ALTRES</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <subtitles type="teletext"/>
-    <previously-shown/>
+  <programme start="20261115235913 +0100" stop="20261116003824 +0100" channel="tvi">
+    <title lang="ca">Gent amb DO</title>
+    <sub-title lang="ca">- DO Pla de Bages. 'Tota pedra fa paret':</sub-title>
+    <desc lang="ca">Sense Descripció</desc>
+    <length units="seconds">2351</length>
+    <episode-num system="onscreen">5</episode-num>
   </programme>
   <channel id="324">
     <display-name>324</display-name>
   </channel>
-  <programme start="20261115163000 +0100" stop="20261115183000 +0100" channel="324">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+  <programme start="20261115210000 +0100" stop="20261115230000 +0100" channel="324">
+    <title lang="ca">Telenotícies vespre</title>
     <length units="seconds">7200</length>
-    <episode-num system="onscreen">11709</episode-num>
+    <episode-num system="onscreen">7389</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/7/2/1758026176427.jpg"/>
   </programme>
-  <programme start="20261115183000 +0100" stop="20261115200000 +0100" channel="324">
+  <programme start="20261115230000 +0100" stop="20261116003000 +0100" channel="324">
     <title lang="ca">Notícies 3CatInfo</title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <length units="seconds">5400</length>
-    <episode-num system="onscreen">11710</episode-num>
+    <episode-num system="onscreen">11712</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
@@ -87,25 +75,12 @@
   <channel id="esport3">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20261115175344 +0100" stop="20261115184931 +0100" channel="esport3">
-    <title lang="ca">Futbol</title>
-    <sub-title lang="ca">UE Olot-RCD Espanyol B / Segona Federació / J11</sub-title>
-    <desc lang="ca">Duel entre dos equips que lluiten per l'ascens. Els garrotxins han sumat 18 punts de 30, i els blanc-i-blaus milloren el percentatge. El filial perico té 20 punts tot i haver jugat un partit menys.</desc>
-    <length units="seconds">3347</length>
-    <episode-num system="onscreen">76</episode-num>
-    <category lang="ca">ESPORTS</category>
-    <category lang="ca">RETRANSMISSIONS ESPORTS</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <icon src="https://img.ccma.cat/multimedia/jpg/0/7/1698446098170.jpg"/>
-  </programme>
-  <programme start="20261115184931 +0100" stop="20261115185741 +0100" channel="esport3">
+  <programme start="20261115230003 +0100" stop="20261116000059 +0100" channel="esport3">
     <title lang="ca">Esport Club Cap de Setmana</title>
     <sub-title lang="ca">Esport Club</sub-title>
     <desc lang="ca">Magazín amb tota l'actualitat esportiva del cap de setmana, amb atenció especial a la jornada de futbol i les principals competicions del nostre esport.</desc>
-    <length units="seconds">490</length>
-    <episode-num system="onscreen">1421</episode-num>
+    <length units="seconds">3656</length>
+    <episode-num system="onscreen">1422</episode-num>
     <category lang="ca">ESPORTS</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
@@ -113,15 +88,27 @@
     </rating>
     <icon src="https://img.ccma.cat/multimedia/jpg/7/3/1698145091337.jpg"/>
   </programme>
+  <programme start="20261116000059 +0100" stop="20261116001822 +0100" channel="esport3">
+    <title lang="ca">3CatInfo Esports</title>
+    <desc lang="ca">Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.</desc>
+    <length units="seconds">1043</length>
+    <episode-num system="onscreen">5568</episode-num>
+    <category lang="ca">ESPORTS</category>
+    <category lang="ca">INFORMATIU DIÀRI</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <icon src="https://img.ccma.cat/multimedia/jpg/9/7/1758888682179.jpg"/>
+  </programme>
   <channel id="sx3">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20261115180852 +0100" stop="20261115182812 +0100" channel="sx3">
-    <title lang="ca">Capità Tsubasa. Campions</title>
-    <sub-title lang="ca">No perdré perquè aquest és el meu somni!</sub-title>
-    <desc lang="ca">El Morisaki rep una pilotada, però el Tsubasa li torna la confiança i li demostra que la pilota és amiga seva. El partit es converteix en un intercanvi de gols en què la victòria esdevé una qüestió de voluntat.</desc>
-    <length units="seconds">1160</length>
-    <episode-num system="onscreen">15</episode-num>
+  <programme start="20261115225551 +0100" stop="20261115230650 +0100" channel="sx3">
+    <title lang="ca">La tropa del corral</title>
+    <sub-title lang="ca">Fins el fons</sub-title>
+    <desc lang="ca">En Cornelius truca la Tropa del Corral: té una llavor de rosella entre les dents que li fa molta nosa. Hi van de seguida, li treuen la llavor i tornen cap a la granja, i al cap d'una estona s'adonen que en Jo ha desaparegut. Que potser se l'ha empassat en Cornelius? Per no preocupar la Flo, en Billy l'intenta distreure mentre en Clive i la Maggie tornen a Vilanimal a rescatar en Jo.</desc>
+    <length units="seconds">659</length>
+    <episode-num system="onscreen">17</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
@@ -130,12 +117,12 @@
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20261115182812 +0100" stop="20261115184948 +0100" channel="sx3">
-    <title lang="ca">Capità Tsubasa. Campions</title>
-    <sub-title lang="ca">Això és futbol acrobàtic!</sub-title>
-    <desc lang="ca">Després de la derrota contra el Meiwa, el Nankatsu necessita vèncer el Hanawa per classificar-se. La clau del partit és que la Parella d'Or, el Tsubasa i el Misaki, aconsegueixi frenar el futbol acrobàtic combinat dels bessons Tachibana.</desc>
-    <length units="seconds">1296</length>
-    <episode-num system="onscreen">16</episode-num>
+  <programme start="20261115230650 +0100" stop="20261115231741 +0100" channel="sx3">
+    <title lang="ca">La tropa del corral</title>
+    <sub-title lang="ca">Fa massa calor</sub-title>
+    <desc lang="ca">En Prince truca la Tropa perquè té fred. Els seus amos han marxat de cap de setmana i han apagat la calefacció. La Flo hi instal·la un dels seus invents per escalfar la casa, però funciona tan bé que l'aigua de la peixera d'en Fred i la Frida es comença a evaporar. El problema? Que el granger no deixa sortir la Tropa de la granja perquè es pensa que tenen gana i no els para de posar menjar.</desc>
+    <length units="seconds">651</length>
+    <episode-num system="onscreen">18</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
@@ -147,12 +134,12 @@
   <channel id="c33">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20261115181347 +0100" stop="20261115191309 +0100" channel="c33">
-    <title lang="ca">Pau Casals, l'home que va fer sentir el silenci</title>
-    <sub-title lang="ca">Pau Casals, l'home que va fer sentir el silenci</sub-title>
-    <desc lang="ca">'Pau Casals, l'home que va fer sentir el silenci' (2011), un documental de RBA Audiovisuales en coproducció amb TELEVISIÓ DE CATALUNYA i amb la col·laboració de Fundació Pau Casals, Memorial Democràtic i l'ICEC. Va fer sonar la música més sublim i la va fer callar allà on la pau, la justícia i la llibertat no eren respectades. La música no podia elevar els esperits mentre la gent patia, era humiliada o moria. Però, ¿podia potser donar una llum d'esperança, l'esperança que un món millor és possible?Pau Casals va ser un músic importantíssim, que ocupa un lloc molt destacat a la història de la música. Però també va ser un símbol perquè va encarnar com ningú i abans que tots la figura de l'artista compromès. Ho va fer fins al punt de sacrificar el seu art, de fer callar la música durant anys i fer sentir un silenci que va ser eloqüent com un clam de llibertat.Pau Casals va viure convençut que la música podia portar a un món millor, més fraternal i just. Un món nou que la realitat del segle més violent de la història va negar-li un cop i un altre. La lluita entre aquest ideal esperançat i aquesta realitat dolorosa va ser la vida de Pau Casals. En ella se centra aquest documental, fet amb la col·laboració de la Fundació Pau Casals, la participació directa de la viuda del mestre, Marta Casals Istomin, testimonis de grans músics i una detallada documentació que presenta materials poc coneguts dels arxius personals, alguns fins ara inèdits.Producció executiva: Jordi Sellas i Francisco Vargas EcheverríaProducció executiva TVC: Jordi Ambròs Producció: Susanna AlcorizaProducció delegada TVC: Ruth Llòria Direcció i guió: Jaume BoixAssessorament històric: Núria BallesterRealització: Miguel E. LópezDirecció de producció: Cristina BoschDirecció de fotografia: Raül FabregatMúsics: Eulàlia Subirà, Marina González, Bruna González, Minerva Comerma, Helena Castells, Gemma Dalmau, Clara Dalmau, Pere Puertas, Quim Puertas, Pau Codina, Jordi Claret i Fe</desc>
-    <length units="seconds">3562</length>
-    <episode-num system="onscreen">1</episode-num>
+  <programme start="20261115221047 +0100" stop="20261115230314 +0100" channel="c33">
+    <title lang="ca">Llocs recòndits</title>
+    <sub-title lang="ca">L'Aràbia Saudita</sub-title>
+    <desc lang="ca">Acompanyeu en Peter Greenberg, el presentador, mentre explora les joies ocultes del regne de l'Aràbia Saudita que ben pocs coneixen, incloent-hi Riad, Jidda, Al-Ula, el mar Roig, les Dunes Vermelles i molt més.</desc>
+    <length units="seconds">3147</length>
+    <episode-num system="onscreen">5</episode-num>
     <category lang="ca">DIVULGACIÓ</category>
     <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
     <rating>
@@ -161,12 +148,12 @@
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20261115191309 +0100" stop="20261115200626 +0100" channel="c33">
+  <programme start="20261115230314 +0100" stop="20261115235603 +0100" channel="c33">
     <title lang="ca">Llocs recòndits</title>
-    <sub-title lang="ca">Polònia</sub-title>
-    <desc lang="ca">'Llocs recòndits - Polònia' permet que l'audiència se submergeixi en la història i la cultura resistent de Polònia, i que s'embarqui en una pila de viatges que canvien la vida, als quals en Peter agafa un globus aerostàtic per sobrevolar el castell de Czocha, del segle XIII; pesca amb els locals als grans llacs de Masúria, contempla murals enormes a la ciutat de Lodz, descobreix una de les formes úniques de viatjar per l'aigua fent servir plans inclinats per sobre de la terra i puja a un planador per poder veure les increïbles muntanyes dels Tatres.</desc>
-    <length units="seconds">3197</length>
-    <episode-num system="onscreen">4</episode-num>
+    <sub-title lang="ca">Turquia</sub-title>
+    <desc lang="ca">'Llocs recòndits - Turquia' permet que l'audiència se submergeixi en la història i la cultura resistent de Turquia, i que s'embarqui en una pila de viatges que canvien la vida. Entre els llocs visitats hi ha Istanbul, la Capadòcia, Antioquia, Antalya i Laodicea.</desc>
+    <length units="seconds">3169</length>
+    <episode-num system="onscreen">6</episode-num>
     <category lang="ca">DIVULGACIÓ</category>
     <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
     <rating>
