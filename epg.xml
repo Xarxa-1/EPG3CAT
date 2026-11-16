@@ -3,95 +3,98 @@
   <channel id="tv3uhd">
     <display-name>TV3UHD</display-name>
   </channel>
-  <programme start="20261115225317 +0100" stop="20261115235913 +0100" channel="tv3uhd">
-    <title lang="ca">Vèrtex</title>
-    <desc lang="ca">Hi ha notícies que només s'entenen quan s'observen des de diferents perspectives. Amb aquesta premissa neix 'Vèrtex', el nou programa d'actualitat setmanal que converteix la complexitat dels grans temes en una conversa rigorosa, visual i propera. El programa ofereix una mirada transversal dels assumptes que han marcat la setmana i dels que definiran la que està a punt de començar.</desc>
-    <length units="seconds">3956</length>
-    <episode-num system="onscreen">7</episode-num>
-    <category lang="ca">DIVULGACIÓ</category>
-    <category lang="ca">ENTREVISTES</category>
+  <programme start="20261116004016 +0100" stop="20261116043000 +0100" channel="tv3uhd">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="seconds">13784</length>
+    <episode-num system="onscreen">11713</episode-num>
+    <category lang="ca">ACTUALITAT</category>
+    <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <subtitles type="teletext"/>
+    <previously-shown/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
-  <programme start="20261115235913 +0100" stop="20261116003824 +0100" channel="tv3uhd">
-    <title lang="ca">Gent amb DO</title>
-    <sub-title lang="ca">DO Pla de Bages. 'Tota pedra fa paret':</sub-title>
-    <desc lang="ca">Entre barraques de pedra seca, tines amagades al bosc i la mirada imponent de Montserrat, l'Empar descobreix una denominació que ha sabut convertir la memòria en futur. Acompanyada de viticultors, sumillers i persones que estimen profundament aquest territori, segueix el fil conductor del picapoll, una varietat que explica la recuperació d'un paisatge i d'una identitat vitivinícola única.</desc>
-    <length units="seconds">2351</length>
-    <episode-num system="onscreen">5</episode-num>
-    <category lang="ca">DIVULGACIÓ</category>
-    <category lang="ca">SÈRIE DOCUMENTAL</category>
+  <programme start="20261116043000 +0100" stop="20261116051506 +0100" channel="tv3uhd">
+    <title lang="ca">Cava de Blues</title>
+    <sub-title lang="ca">Riqui Sabatés y Los Obstinados</sub-title>
+    <desc lang="ca">Cava de Blues és un espai dedicat a les noves creacions de 14 grups del país que es dediquen a aquest gènere musical.En aquesta edició, els grups que hi trobareu són: -A contrablues-Blas Picón &amp; The Junk Espress-Bullfrog Electric Blues Experience-Dusa'ns Flying Blues Band-Dani Baraldés &amp; The XX Band-Emili Baleriola Blues Quartet-Dani Nel·lo &amp; Mario Cobo-Ivan Kovacevic 5 Spots-JG Acoustic Gang-John Big Stone &amp; The Blues Workers-Legacaster! The Hillbilly Trio-Martini Surfers-Susan Santos &amp; The Papa's Red Band-The Paparellos</desc>
+    <length units="seconds">2706</length>
+    <episode-num system="onscreen">25</episode-num>
+    <category lang="ca">MUSICALS</category>
+    <category lang="ca">JAZZ</category>
     <rating>
-      <value>PÚBLIC ADULT</value>
+      <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <subtitles type="teletext"/>
+    <previously-shown/>
+    <icon src="https://img.3cat.cat/multimedia/jpg/0/2/1754910826220.jpg"/>
   </programme>
   <channel id="tvi">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20261115225317 +0100" stop="20261115235913 +0100" channel="tvi">
-    <title lang="ca">Vèrtex</title>
+  <programme start="20261116003812 +0100" stop="20261116043000 +0100" channel="tvi">
+    <title lang="ca">Notícies 3CatInfo</title>
     <desc lang="ca">Sense Descripció</desc>
-    <length units="seconds">3956</length>
-    <episode-num system="onscreen">7</episode-num>
+    <length units="seconds">13908</length>
+    <episode-num system="onscreen">11713</episode-num>
   </programme>
-  <programme start="20261115235913 +0100" stop="20261116003824 +0100" channel="tvi">
-    <title lang="ca">Gent amb DO</title>
-    <sub-title lang="ca">- DO Pla de Bages. 'Tota pedra fa paret':</sub-title>
+  <programme start="20261116043000 +0100" stop="20261116051506 +0100" channel="tvi">
+    <title lang="ca">Cava de Blues</title>
+    <sub-title lang="ca">- Riqui Sabatés y Los Obstinados</sub-title>
     <desc lang="ca">Sense Descripció</desc>
-    <length units="seconds">2351</length>
-    <episode-num system="onscreen">5</episode-num>
+    <length units="seconds">2706</length>
+    <episode-num system="onscreen">25</episode-num>
   </programme>
   <channel id="324">
     <display-name>324</display-name>
   </channel>
-  <programme start="20261115210000 +0100" stop="20261115230000 +0100" channel="324">
-    <title lang="ca">Telenotícies vespre</title>
-    <length units="seconds">7200</length>
-    <episode-num system="onscreen">7389</episode-num>
-    <category lang="ca">ACTUALITAT</category>
-    <category lang="ca">INFORMATIU DIÀRI</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <subtitles type="teletext"/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/7/2/1758026176427.jpg"/>
-  </programme>
-  <programme start="20261115230000 +0100" stop="20261116003000 +0100" channel="324">
+  <programme start="20261116010000 +0100" stop="20261116060000 +0100" channel="324">
     <title lang="ca">Notícies 3CatInfo</title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">5400</length>
-    <episode-num system="onscreen">11712</episode-num>
+    <length units="seconds">18000</length>
+    <episode-num system="onscreen">11713</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <subtitles type="teletext"/>
+    <previously-shown/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
+  </programme>
+  <programme start="20261116060000 +0100" stop="20261116080000 +0100" channel="324">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="seconds">7200</length>
+    <episode-num system="onscreen">11714</episode-num>
+    <category lang="ca">ACTUALITAT</category>
+    <category lang="ca">INFORMATIU DIÀRI</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
     <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
   <channel id="esport3">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20261115230003 +0100" stop="20261116000059 +0100" channel="esport3">
-    <title lang="ca">Esport Club Cap de Setmana</title>
-    <sub-title lang="ca">Esport Club</sub-title>
-    <desc lang="ca">Magazín amb tota l'actualitat esportiva del cap de setmana, amb atenció especial a la jornada de futbol i les principals competicions del nostre esport.</desc>
-    <length units="seconds">3656</length>
-    <episode-num system="onscreen">1422</episode-num>
+  <programme start="20261116014713 +0100" stop="20261116032642 +0100" channel="esport3">
+    <title lang="ca">Futbol</title>
+    <sub-title lang="ca">UE Olot-RCD Espanyol B / Segona Federació / J11</sub-title>
+    <desc lang="ca">Duel entre dos equips que lluiten per l'ascens. Els garrotxins han sumat 18 punts de 30, i els blanc-i-blaus milloren el percentatge. El filial perico té 20 punts tot i haver jugat un partit menys.</desc>
+    <length units="seconds">5969</length>
+    <episode-num system="onscreen">76</episode-num>
     <category lang="ca">ESPORTS</category>
-    <category lang="ca">INFORMATIU DIÀRI</category>
+    <category lang="ca">RETRANSMISSIONS ESPORTS</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <icon src="https://img.ccma.cat/multimedia/jpg/7/3/1698145091337.jpg"/>
+    <previously-shown/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/0/7/1698446098170.jpg"/>
   </programme>
-  <programme start="20261116000059 +0100" stop="20261116001822 +0100" channel="esport3">
+  <programme start="20261116032642 +0100" stop="20261116034948 +0100" channel="esport3">
     <title lang="ca">3CatInfo Esports</title>
     <desc lang="ca">Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.</desc>
-    <length units="seconds">1043</length>
+    <length units="seconds">1386</length>
     <episode-num system="onscreen">5568</episode-num>
     <category lang="ca">ESPORTS</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
@@ -103,12 +106,12 @@
   <channel id="sx3">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20261115225551 +0100" stop="20261115230650 +0100" channel="sx3">
-    <title lang="ca">La tropa del corral</title>
-    <sub-title lang="ca">Fins el fons</sub-title>
-    <desc lang="ca">En Cornelius truca la Tropa del Corral: té una llavor de rosella entre les dents que li fa molta nosa. Hi van de seguida, li treuen la llavor i tornen cap a la granja, i al cap d'una estona s'adonen que en Jo ha desaparegut. Que potser se l'ha empassat en Cornelius? Per no preocupar la Flo, en Billy l'intenta distreure mentre en Clive i la Maggie tornen a Vilanimal a rescatar en Jo.</desc>
-    <length units="seconds">659</length>
-    <episode-num system="onscreen">17</episode-num>
+  <programme start="20261116022608 +0100" stop="20261116024705 +0100" channel="sx3">
+    <title lang="ca">Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
+    <sub-title lang="ca">Veritat</sub-title>
+    <desc lang="ca">Des que es va convertir en la nova guardiana de la Capsa dels Prodigis, la Marinette està desbordada. Ja no queda amb els seus amics, deixa plantat el Gat Noir i falla a totes les cites amb el Luka. Ell està convençut que la Marinette té un secret, però ella no l'hi pot dir que quan desapareix és perquè es transforma en Ladybug i salva París. El Luka està molt dolgut perquè la Marinette no confia prou en ell per explicar-li el seu secret, i l'Esfinx se n'aprofita per transformar-lo en Veritat. Ara té el poder d'obligar la gent a dir la veritat i vol descobrir el secret de la Marinette... i el de Ladybug i el Gat Negre també!</desc>
+    <length units="seconds">1257</length>
+    <episode-num system="onscreen">79</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
@@ -117,12 +120,12 @@
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20261115230650 +0100" stop="20261115231741 +0100" channel="sx3">
-    <title lang="ca">La tropa del corral</title>
-    <sub-title lang="ca">Fa massa calor</sub-title>
-    <desc lang="ca">En Prince truca la Tropa perquè té fred. Els seus amos han marxat de cap de setmana i han apagat la calefacció. La Flo hi instal·la un dels seus invents per escalfar la casa, però funciona tan bé que l'aigua de la peixera d'en Fred i la Frida es comença a evaporar. El problema? Que el granger no deixa sortir la Tropa de la granja perquè es pensa que tenen gana i no els para de posar menjar.</desc>
-    <length units="seconds">651</length>
-    <episode-num system="onscreen">18</episode-num>
+  <programme start="20261116024705 +0100" stop="20261116025735 +0100" channel="sx3">
+    <title lang="ca">Pop, la ciutat de paper</title>
+    <sub-title lang="ca">Ei, què hi ha, Hooper?</sub-title>
+    <desc lang="ca">A l'aventura d'avui, el Hooper explica un conte de cowboys als amics! Ells, llavors, volen que el Hooper sigui el xèrif de Pop, la ciutat de paper, i fan una manualitat d'un cavall i l'hi regalen. El Hooper es posa molt content, però quan comença a fer de xèrif, espatlla el cavall sense voler i, llavors, li fa por explicar el que ha passat. Mentre la resta de la colla li prepara un gran ball a l'estil cowboy, el Hooper haurà de pensar si explica la veritat.</desc>
+    <length units="seconds">630</length>
+    <episode-num system="onscreen">3</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
@@ -134,30 +137,30 @@
   <channel id="c33">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20261115221047 +0100" stop="20261115230314 +0100" channel="c33">
-    <title lang="ca">Llocs recòndits</title>
-    <sub-title lang="ca">L'Aràbia Saudita</sub-title>
-    <desc lang="ca">Acompanyeu en Peter Greenberg, el presentador, mentre explora les joies ocultes del regne de l'Aràbia Saudita que ben pocs coneixen, incloent-hi Riad, Jidda, Al-Ula, el mar Roig, les Dunes Vermelles i molt més.</desc>
-    <length units="seconds">3147</length>
-    <episode-num system="onscreen">5</episode-num>
-    <category lang="ca">DIVULGACIÓ</category>
-    <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
+  <programme start="20261116015817 +0100" stop="20261116024226 +0100" channel="c33">
+    <title lang="ca">El Crac</title>
+    <sub-title lang="ca">La gran gira</sub-title>
+    <desc lang="ca">La companyia se'n va de gira per Catalunya abans de la gran estrena a Barcelona. Durant la seva convivència s'estretaran els llaços que els uneixen i descobriran alguns secrets molt amagats...</desc>
+    <length units="seconds">2649</length>
+    <episode-num system="onscreen">21</episode-num>
+    <category lang="ca">FICCIÓ</category>
+    <category lang="ca">SÈRIE DRAMÀTICA</category>
     <rating>
-      <value>TOTS ELS PÚBLICS</value>
+      <value>PÚBLIC ADULT</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20261115230314 +0100" stop="20261115235603 +0100" channel="c33">
-    <title lang="ca">Llocs recòndits</title>
-    <sub-title lang="ca">Turquia</sub-title>
-    <desc lang="ca">'Llocs recòndits - Turquia' permet que l'audiència se submergeixi en la història i la cultura resistent de Turquia, i que s'embarqui en una pila de viatges que canvien la vida. Entre els llocs visitats hi ha Istanbul, la Capadòcia, Antioquia, Antalya i Laodicea.</desc>
-    <length units="seconds">3169</length>
-    <episode-num system="onscreen">6</episode-num>
-    <category lang="ca">DIVULGACIÓ</category>
-    <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
+  <programme start="20261116024226 +0100" stop="20261116032912 +0100" channel="c33">
+    <title lang="ca">El Crac</title>
+    <sub-title lang="ca">El gran duel</sub-title>
+    <desc lang="ca">Ha arribat el gran dia. El Joel i el Julio s'enfronten damunt l'escenari per demostrar qui és el millor. Un duel que arribarà molt més lluny del que ningú es podia imaginar...</desc>
+    <length units="seconds">2806</length>
+    <episode-num system="onscreen">22</episode-num>
+    <category lang="ca">FICCIÓ</category>
+    <category lang="ca">SÈRIE DRAMÀTICA</category>
     <rating>
-      <value>TOTS ELS PÚBLICS</value>
+      <value>PÚBLIC ADULT</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
