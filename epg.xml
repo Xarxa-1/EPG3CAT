@@ -3,115 +3,126 @@
   <channel id="tv3uhd">
     <display-name>TV3UHD</display-name>
   </channel>
-  <programme start="20261116004016 +0100" stop="20261116043000 +0100" channel="tv3uhd">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">13784</length>
-    <episode-num system="onscreen">11713</episode-num>
+  <programme start="20261116080012 +0100" stop="20261116103000 +0100" channel="tv3uhd">
+    <title lang="ca">Matins</title>
+    <desc lang="ca">'Matins' és un dels puntals informatius de TV3. El programa matinal dona les claus del dia que comença, explica les notícies que han passat aportant-ne el context per entendre-les i analitza amb veus acreditades l'actualitat més propera i la d'arreu del món. 'Matins' comença a les 8 del matí, de dilluns a divendres, i està presentat per Ariadna Oltra.</desc>
+    <length units="seconds">8988</length>
+    <episode-num system="onscreen">4713</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <previously-shown/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
+    <subtitles type="teletext"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/2/0/1758040151402.jpg"/>
   </programme>
-  <programme start="20261116043000 +0100" stop="20261116051506 +0100" channel="tv3uhd">
-    <title lang="ca">Cava de Blues</title>
-    <sub-title lang="ca">Riqui Sabatés y Los Obstinados</sub-title>
-    <desc lang="ca">Cava de Blues és un espai dedicat a les noves creacions de 14 grups del país que es dediquen a aquest gènere musical.En aquesta edició, els grups que hi trobareu són: -A contrablues-Blas Picón &amp; The Junk Espress-Bullfrog Electric Blues Experience-Dusa'ns Flying Blues Band-Dani Baraldés &amp; The XX Band-Emili Baleriola Blues Quartet-Dani Nel·lo &amp; Mario Cobo-Ivan Kovacevic 5 Spots-JG Acoustic Gang-John Big Stone &amp; The Blues Workers-Legacaster! The Hillbilly Trio-Martini Surfers-Susan Santos &amp; The Papa's Red Band-The Paparellos</desc>
-    <length units="seconds">2706</length>
-    <episode-num system="onscreen">25</episode-num>
-    <category lang="ca">MUSICALS</category>
-    <category lang="ca">JAZZ</category>
+  <programme start="20261116103000 +0100" stop="20261116135500 +0100" channel="tv3uhd">
+    <title lang="ca">Tot es mou</title>
+    <desc lang="ca">El programa presentat per Helena Garcia Melero s'emet de dilluns a divendres, de 10.30 a 13.55. Un magazín d'actualitat que busca informar, analitzar i debatre sobre temes que marquen l'actualitat social, econòmica i cultural del dia, amb una àmplia presència en directe dels reporters i reporteres, repartits per tot Catalunya. A més, el 'Tot es mou' compta amb seccions diàries de gastronomia (amb els principals cuiners i cuineres del país), successos, economia, mobilitat, temes mèdics i de tecnologia, entre d'altres.</desc>
+    <length units="seconds">12300</length>
+    <episode-num system="onscreen">1850</episode-num>
+    <category lang="ca">ACTUALITAT</category>
+    <category lang="ca">MAGAZINE</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <previously-shown/>
-    <icon src="https://img.3cat.cat/multimedia/jpg/0/2/1754910826220.jpg"/>
+    <subtitles type="teletext"/>
   </programme>
   <channel id="tvi">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20261116003812 +0100" stop="20261116043000 +0100" channel="tvi">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <desc lang="ca">Sense Descripció</desc>
-    <length units="seconds">13908</length>
-    <episode-num system="onscreen">11713</episode-num>
+  <programme start="20261116080012 +0100" stop="20261116103000 +0100" channel="tvi">
+    <title lang="ca">Matins</title>
+    <desc lang="ca">'Matins' és un dels puntals informatius de TV3. El programa matinal dona les claus del dia que comença, explica les notícies que han passat aportant-ne el context per entendre-les i analitza amb veus acreditades l'actualitat més propera i la d'arreu del món. 'Matins' comença a les 8 del matí, de dilluns a divendres, i està presentat per Ariadna Oltra.</desc>
+    <length units="seconds">8988</length>
+    <episode-num system="onscreen">4713</episode-num>
+    <category lang="ca">ACTUALITAT</category>
+    <category lang="ca">INFORMATIU DIÀRI</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <icon src="https://img.ccma.cat/multimedia/jpg/2/0/1758040151402.jpg"/>
   </programme>
-  <programme start="20261116043000 +0100" stop="20261116051506 +0100" channel="tvi">
-    <title lang="ca">Cava de Blues</title>
-    <sub-title lang="ca">- Riqui Sabatés y Los Obstinados</sub-title>
-    <desc lang="ca">Sense Descripció</desc>
-    <length units="seconds">2706</length>
-    <episode-num system="onscreen">25</episode-num>
+  <programme start="20261116103000 +0100" stop="20261116135500 +0100" channel="tvi">
+    <title lang="ca">Tot es mou</title>
+    <desc lang="ca">El programa presentat per Helena Garcia Melero s'emet de dilluns a divendres, de 10.30 a 13.55. Un magazín d'actualitat que busca informar, analitzar i debatre sobre temes que marquen l'actualitat social, econòmica i cultural del dia, amb una àmplia presència en directe dels reporters i reporteres, repartits per tot Catalunya. A més, el 'Tot es mou' compta amb seccions diàries de gastronomia (amb els principals cuiners i cuineres del país), successos, economia, mobilitat, temes mèdics i de tecnologia, entre d'altres.</desc>
+    <length units="seconds">12300</length>
+    <episode-num system="onscreen">1850</episode-num>
+    <category lang="ca">ACTUALITAT</category>
+    <category lang="ca">MAGAZINE</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
   </programme>
   <channel id="324">
     <display-name>324</display-name>
   </channel>
-  <programme start="20261116010000 +0100" stop="20261116060000 +0100" channel="324">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">18000</length>
-    <episode-num system="onscreen">11713</episode-num>
+  <programme start="20261116080000 +0100" stop="20261116103000 +0100" channel="324">
+    <title lang="ca">Matins</title>
+    <desc lang="ca">'Matins' és un dels puntals informatius de TV3. El programa matinal dona les claus del dia que comença, explica les notícies que han passat aportant-ne el context per entendre-les i analitza amb veus acreditades l'actualitat més propera i la d'arreu del món. 'Matins' comença a les 8 del matí, de dilluns a divendres, i està presentat per Ariadna Oltra.</desc>
+    <length units="seconds">9000</length>
+    <episode-num system="onscreen">4713</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <previously-shown/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/2/0/1758040151402.jpg"/>
   </programme>
-  <programme start="20261116060000 +0100" stop="20261116080000 +0100" channel="324">
+  <programme start="20261116103000 +0100" stop="20261116120000 +0100" channel="324">
     <title lang="ca">Notícies 3CatInfo</title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">7200</length>
-    <episode-num system="onscreen">11714</episode-num>
+    <length units="seconds">5400</length>
+    <episode-num system="onscreen">11715</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
+    <subtitles type="teletext"/>
     <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
   <channel id="esport3">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20261116014713 +0100" stop="20261116032642 +0100" channel="esport3">
-    <title lang="ca">Futbol</title>
-    <sub-title lang="ca">UE Olot-RCD Espanyol B / Segona Federació / J11</sub-title>
-    <desc lang="ca">Duel entre dos equips que lluiten per l'ascens. Els garrotxins han sumat 18 punts de 30, i els blanc-i-blaus milloren el percentatge. El filial perico té 20 punts tot i haver jugat un partit menys.</desc>
-    <length units="seconds">5969</length>
-    <episode-num system="onscreen">76</episode-num>
+  <programme start="20261116081134 +0100" stop="20261116100240 +0100" channel="esport3">
+    <title lang="ca">Bàsquet</title>
+    <sub-title lang="ca">iLERNA Lleida-Kids&amp;Us Manresa / Lliga / J8</sub-title>
+    <desc lang="ca">Cara a cara entre els equips catalans que tanquen la classificació de la Lliga ACB. Al Barris s'enfronten els del Segrià i els del Bages. Tots dos només han guanyat un partit. </desc>
+    <length units="seconds">6666</length>
+    <episode-num system="onscreen">49</episode-num>
     <category lang="ca">ESPORTS</category>
     <category lang="ca">RETRANSMISSIONS ESPORTS</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
+    <subtitles type="teletext"/>
     <previously-shown/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/0/7/1698446098170.jpg"/>
+    <icon src="https://img.3cat.cat/multimedia/jpg/4/5/1769511199554.jpg"/>
   </programme>
-  <programme start="20261116032642 +0100" stop="20261116034948 +0100" channel="esport3">
-    <title lang="ca">3CatInfo Esports</title>
-    <desc lang="ca">Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.</desc>
-    <length units="seconds">1386</length>
-    <episode-num system="onscreen">5568</episode-num>
-    <category lang="ca">ESPORTS</category>
-    <category lang="ca">INFORMATIU DIÀRI</category>
+  <programme start="20261116100240 +0100" stop="20261116105535 +0100" channel="esport3">
+    <title lang="ca">Experiència Catalana</title>
+    <sub-title lang="ca">Corno</sub-title>
+    <desc lang="ca">Amb el Corno van der Berg, un jove holandès, visitem diferents indrets naturals dels Pallars i coneixem la tradicional baixada de falles d'Isil. A més, al circuit Barcelona-Catalunya gaudeix d'una experiència al límit.</desc>
+    <length units="seconds">3175</length>
+    <episode-num system="onscreen">8</episode-num>
+    <category lang="ca">ENTRETENIMENT</category>
+    <category lang="ca">ALTRES</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <icon src="https://img.ccma.cat/multimedia/jpg/9/7/1758888682179.jpg"/>
+    <subtitles type="teletext"/>
+    <previously-shown/>
   </programme>
   <channel id="sx3">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20261116022608 +0100" stop="20261116024705 +0100" channel="sx3">
-    <title lang="ca">Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
-    <sub-title lang="ca">Veritat</sub-title>
-    <desc lang="ca">Des que es va convertir en la nova guardiana de la Capsa dels Prodigis, la Marinette està desbordada. Ja no queda amb els seus amics, deixa plantat el Gat Noir i falla a totes les cites amb el Luka. Ell està convençut que la Marinette té un secret, però ella no l'hi pot dir que quan desapareix és perquè es transforma en Ladybug i salva París. El Luka està molt dolgut perquè la Marinette no confia prou en ell per explicar-li el seu secret, i l'Esfinx se n'aprofita per transformar-lo en Veritat. Ara té el poder d'obligar la gent a dir la veritat i vol descobrir el secret de la Marinette... i el de Ladybug i el Gat Negre també!</desc>
-    <length units="seconds">1257</length>
-    <episode-num system="onscreen">79</episode-num>
+  <programme start="20261116091654 +0100" stop="20261116094002 +0100" channel="sx3">
+    <title lang="ca">Les Tres Bessones</title>
+    <sub-title lang="ca">Les Tres Bessones i les pirates</sub-title>
+    <desc lang="ca">Les Bessones són a l'època en què els pirates eren els amos del mar. Disfressades de mariners, naveguen pel Carib en un vaixell. Allà coneixen Mary Reed, una noia que es fa passar per noi per poder ser mariner. Però aviat cauen en mans del temible John Rackam i la seva companya, Anne Bonny, la parella de pirates més famosa del Carib…</desc>
+    <length units="seconds">1388</length>
+    <episode-num system="onscreen">101</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
@@ -120,12 +131,12 @@
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20261116024705 +0100" stop="20261116025735 +0100" channel="sx3">
-    <title lang="ca">Pop, la ciutat de paper</title>
-    <sub-title lang="ca">Ei, què hi ha, Hooper?</sub-title>
-    <desc lang="ca">A l'aventura d'avui, el Hooper explica un conte de cowboys als amics! Ells, llavors, volen que el Hooper sigui el xèrif de Pop, la ciutat de paper, i fan una manualitat d'un cavall i l'hi regalen. El Hooper es posa molt content, però quan comença a fer de xèrif, espatlla el cavall sense voler i, llavors, li fa por explicar el que ha passat. Mentre la resta de la colla li prepara un gran ball a l'estil cowboy, el Hooper haurà de pensar si explica la veritat.</desc>
-    <length units="seconds">630</length>
-    <episode-num system="onscreen">3</episode-num>
+  <programme start="20261116094002 +0100" stop="20261116100240 +0100" channel="sx3">
+    <title lang="ca">Les Tres Bessones</title>
+    <sub-title lang="ca">Les Tres Bessones i el príncep feliç</sub-title>
+    <desc lang="ca">El príncep feliç no és precisament feliç: convertit en una estàtua carregada d'or i de joies, no pot fer el que el satisfà més, que és ajudar els que ho necessiten amb la seva fortuna. Però les Tres Bessones i una oreneta l'ajudaran i aconseguiran dur a terme tots els projectes del príncep, que, per fi, serà feliç de debò.</desc>
+    <length units="seconds">1358</length>
+    <episode-num system="onscreen">94</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
@@ -137,30 +148,31 @@
   <channel id="c33">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20261116015817 +0100" stop="20261116024226 +0100" channel="c33">
-    <title lang="ca">El Crac</title>
-    <sub-title lang="ca">La gran gira</sub-title>
-    <desc lang="ca">La companyia se'n va de gira per Catalunya abans de la gran estrena a Barcelona. Durant la seva convivència s'estretaran els llaços que els uneixen i descobriran alguns secrets molt amagats...</desc>
-    <length units="seconds">2649</length>
-    <episode-num system="onscreen">21</episode-num>
-    <category lang="ca">FICCIÓ</category>
-    <category lang="ca">SÈRIE DRAMÀTICA</category>
+  <programme start="20261116083506 +0100" stop="20261116093614 +0100" channel="c33">
+    <title lang="ca">Una altra història</title>
+    <sub-title lang="ca">Museu d'Art de Girona</sub-title>
+    <desc lang="ca">Des del Museu d'art de Girona, l'Albert Om amb els nostres historiadors descobriran la història del xofer d'en Josep Pla i com li va canviar la vida dinar un dia amb l'escriptor. També veuran els piolets que van participar al rescat de Balandrau o el casc militar que va acompanyar als primers objectors de consciència durant les manifestacions a finals dels 70.</desc>
+    <length units="seconds">3668</length>
+    <episode-num system="onscreen">2</episode-num>
+    <category lang="ca">ENTRETENIMENT</category>
+    <category lang="ca">CONCURS</category>
     <rating>
-      <value>PÚBLIC ADULT</value>
+      <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/9/2/1698049504229.jpg"/>
   </programme>
-  <programme start="20261116024226 +0100" stop="20261116032912 +0100" channel="c33">
-    <title lang="ca">El Crac</title>
-    <sub-title lang="ca">El gran duel</sub-title>
-    <desc lang="ca">Ha arribat el gran dia. El Joel i el Julio s'enfronten damunt l'escenari per demostrar qui és el millor. Un duel que arribarà molt més lluny del que ningú es podia imaginar...</desc>
-    <length units="seconds">2806</length>
-    <episode-num system="onscreen">22</episode-num>
-    <category lang="ca">FICCIÓ</category>
-    <category lang="ca">SÈRIE DRAMÀTICA</category>
+  <programme start="20261116093614 +0100" stop="20261116101331 +0100" channel="c33">
+    <title lang="ca">La Mar de Bé</title>
+    <sub-title lang="ca">Pare Trias</sub-title>
+    <desc lang="ca">Al port de Blanes, en Quim Casellas salparà amb en Lluís Trias, patró i armador del Pare Trias, que convidarà al presentador i xef a viure l'experiència de pescar sonsos i conèixer l'art de la sonsera. Coneixerà en 'Viñas, el dels nusos', un pescador jubilat que ha dedicat tota la seva vida a la pesca. També descobrirà la tasca de l'espai gastronòmic El Grenyal de Blanes, on aprofitarà per cuinar una truita de sonsos amb romesco suau. </desc>
+    <length units="seconds">2237</length>
+    <episode-num system="onscreen">3</episode-num>
+    <category lang="ca">ENTRETENIMENT</category>
+    <category lang="ca">ALTRES</category>
     <rating>
-      <value>PÚBLIC ADULT</value>
+      <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
