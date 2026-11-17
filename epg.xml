@@ -3,63 +3,65 @@
   <channel id="tv3uhd">
     <display-name>TV3UHD</display-name>
   </channel>
-  <programme start="20261117103014 +0100" stop="20261117135500 +0100" channel="tv3uhd">
-    <title lang="ca">Tot es mou</title>
-    <desc lang="ca">El programa presentat per Helena Garcia Melero s'emet de dilluns a divendres, de 10.30 a 13.55. Un magazín d'actualitat que busca informar, analitzar i debatre sobre temes que marquen l'actualitat social, econòmica i cultural del dia, amb una àmplia presència en directe dels reporters i reporteres, repartits per tot Catalunya. A més, el 'Tot es mou' compta amb seccions diàries de gastronomia (amb els principals cuiners i cuineres del país), successos, economia, mobilitat, temes mèdics i de tecnologia, entre d'altres.</desc>
-    <length units="seconds">12286</length>
-    <episode-num system="onscreen">1851</episode-num>
-    <category lang="ca">ACTUALITAT</category>
-    <category lang="ca">MAGAZINE</category>
+  <programme start="20261117201506 +0100" stop="20261117210000 +0100" channel="tv3uhd">
+    <title lang="ca">Està passant</title>
+    <desc lang="ca">El Jair i el Queco parlen dels serveis mínims de Rodalies. En Magí ens explica les novetats del món de l'esport i l'Alba Segarra ens explica si s'hi posa de cap o de cul en tot de situacions estrambòtiques.</desc>
+    <length units="seconds">2694</length>
+    <episode-num system="onscreen">1853</episode-num>
+    <category lang="ca">ENTRETENIMENT</category>
+    <category lang="ca">GAGS. HUMOR</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
+    <icon src="https://img.ccma.cat/multimedia/png/3/8/1705511272683.png"/>
   </programme>
-  <programme start="20261117135500 +0100" stop="20261117143000 +0100" channel="tv3uhd">
-    <title lang="ca">Telenotícies comarques</title>
-    <length units="seconds">2100</length>
-    <episode-num system="onscreen">7077</episode-num>
+  <programme start="20261117210000 +0100" stop="20261117215957 +0100" channel="tv3uhd">
+    <title lang="ca">Telenotícies vespre</title>
+    <length units="seconds">3597</length>
+    <episode-num system="onscreen">7391</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/5/2/1758026313525.jpg"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/7/2/1758026176427.jpg"/>
   </programme>
   <channel id="tvi">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20261117103014 +0100" stop="20261117135500 +0100" channel="tvi">
-    <title lang="ca">Tot es mou</title>
-    <desc lang="ca">El programa presentat per Helena Garcia Melero s'emet de dilluns a divendres, de 10.30 a 13.55. Un magazín d'actualitat que busca informar, analitzar i debatre sobre temes que marquen l'actualitat social, econòmica i cultural del dia, amb una àmplia presència en directe dels reporters i reporteres, repartits per tot Catalunya. A més, el 'Tot es mou' compta amb seccions diàries de gastronomia (amb els principals cuiners i cuineres del país), successos, economia, mobilitat, temes mèdics i de tecnologia, entre d'altres.</desc>
-    <length units="seconds">12286</length>
-    <episode-num system="onscreen">1851</episode-num>
-    <category lang="ca">ACTUALITAT</category>
-    <category lang="ca">MAGAZINE</category>
+  <programme start="20261117201506 +0100" stop="20261117210000 +0100" channel="tvi">
+    <title lang="ca">Està passant</title>
+    <desc lang="ca">El Jair i el Queco parlen dels serveis mínims de Rodalies. En Magí ens explica les novetats del món de l'esport i l'Alba Segarra ens explica si s'hi posa de cap o de cul en tot de situacions estrambòtiques.</desc>
+    <length units="seconds">2694</length>
+    <episode-num system="onscreen">1853</episode-num>
+    <category lang="ca">ENTRETENIMENT</category>
+    <category lang="ca">GAGS. HUMOR</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
+    <icon src="https://img.ccma.cat/multimedia/png/3/8/1705511272683.png"/>
   </programme>
-  <programme start="20261117135500 +0100" stop="20261117143000 +0100" channel="tvi">
-    <title lang="ca">Telenotícies comarques</title>
-    <length units="seconds">2100</length>
-    <episode-num system="onscreen">7077</episode-num>
+  <programme start="20261117210000 +0100" stop="20261117215957 +0100" channel="tvi">
+    <title lang="ca">Telenotícies vespre</title>
+    <length units="seconds">3597</length>
+    <episode-num system="onscreen">7391</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <icon src="https://img.ccma.cat/multimedia/jpg/5/2/1758026313525.jpg"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/7/2/1758026176427.jpg"/>
   </programme>
   <channel id="324">
     <display-name>324</display-name>
   </channel>
-  <programme start="20261117103000 +0100" stop="20261117123000 +0100" channel="324">
+  <programme start="20261117200000 +0100" stop="20261117210000 +0100" channel="324">
     <title lang="ca">Notícies 3CatInfo</title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">7200</length>
-    <episode-num system="onscreen">11724</episode-num>
+    <length units="seconds">3600</length>
+    <episode-num system="onscreen">11729</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
@@ -68,74 +70,71 @@
     <subtitles type="teletext"/>
     <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
-  <programme start="20261117123000 +0100" stop="20261117133000 +0100" channel="324">
-    <title lang="ca">Roda de premsa posterior al Consell Executiu</title>
-    <length units="seconds">3600</length>
-    <episode-num system="onscreen">266</episode-num>
+  <programme start="20261117210000 +0100" stop="20261117220500 +0100" channel="324">
+    <title lang="ca">Telenotícies vespre</title>
+    <length units="seconds">3900</length>
+    <episode-num system="onscreen">7391</episode-num>
     <category lang="ca">ACTUALITAT</category>
-    <category lang="ca">ESPECIALS INFORMATIUS</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <subtitles type="teletext"/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/3/4/1723457240743.jpg"/>
-  </programme>
-  <channel id="esport3">
-    <display-name>ESPORT3</display-name>
-  </channel>
-  <programme start="20261117112844 +0100" stop="20261117130000 +0100" channel="esport3">
-    <title lang="ca">Onze</title>
-    <sub-title lang="ca">Raphinha, sota pressió; Vinicius es confessa i 'El colegiado'</sub-title>
-    <desc lang="ca">Xavi Torres, Carles Fité, Aina Cerdà, Jordi Martí i Joaquín Maroto opinen sobre la situació de Raphinha al Brasil i la confessió de Vinicius en relació al seu estat de forma. En Joan Fàbregas analitza les jugades polèmiques de la jornada.</desc>
-    <length units="seconds">5476</length>
-    <episode-num system="onscreen">1288</episode-num>
-    <category lang="ca">ESPORTS</category>
-    <category lang="ca">MAGAZINE</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <subtitles type="teletext"/>
-    <previously-shown/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/1/1/1688543515711.jpg"/>
-  </programme>
-  <programme start="20261117130000 +0100" stop="20261117140204 +0100" channel="esport3">
-    <title lang="ca">Esport Club</title>
-    <desc lang="ca">En Jordi Sanuy i Víctor Patsi us expliquen l'última hora esportiva i l'analitzen amb el seu equip de col·laboradors. El programa és molt actiu a les xarxes socials. L''Esport Club' té presència a Twitter, a Facebook i a Instagram. L'espai dirigeix moltes accions de participació amb l'audiència a través de les xarxes socials.</desc>
-    <length units="seconds">3724</length>
-    <episode-num system="onscreen">3285</episode-num>
-    <category lang="ca">ESPORTS</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <subtitles type="teletext"/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/7/3/1698145091337.jpg"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/7/2/1758026176427.jpg"/>
+  </programme>
+  <channel id="esport3">
+    <display-name>ESPORT3</display-name>
+  </channel>
+  <programme start="20261117194000 +0100" stop="20261117213148 +0100" channel="esport3">
+    <title lang="ca">Bàsquet</title>
+    <sub-title lang="ca">FIATC Girona-Oostende / Fiba Europe Cup / J7</sub-title>
+    <desc lang="ca">Els gironins, líders del grup amb 5 victòries, reben els flamencs a la 7a jornada de la FIBA Europe Cup. En el precedent, a Oostende, els catalans van guanyar per 15 punts (76-91).</desc>
+    <length units="seconds">6708</length>
+    <episode-num system="onscreen">6</episode-num>
+    <category lang="ca">ESPORTS</category>
+    <category lang="ca">RETRANSMISSIONS ESPORTS</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <icon src="https://img.3cat.cat/multimedia/jpg/4/8/1791200744284.jpg"/>
+  </programme>
+  <programme start="20261117213148 +0100" stop="20261117221754 +0100" channel="esport3">
+    <title lang="ca">Bàsquet</title>
+    <sub-title lang="ca">Asisa Joventut-Porto / Champions League / J4</sub-title>
+    <desc lang="ca">Els badalonins volen la quarta victòria per seguir al capdavant del grup. En el precedent de Portugal, la Penya va guanyar 64-81. </desc>
+    <length units="seconds">2766</length>
+    <episode-num system="onscreen">26</episode-num>
+    <category lang="ca">ESPORTS</category>
+    <category lang="ca">RETRANSMISSIONS ESPORTS</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <icon src="https://img.3cat.cat/multimedia/jpg/1/1/1761643119911.jpg"/>
   </programme>
   <channel id="sx3">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20261117112959 +0100" stop="20261117114059 +0100" channel="sx3">
-    <title lang="ca">Els barrufets (3D)</title>
-    <sub-title lang="ca">El cavaller Barrufalot</sub-title>
-    <desc lang="ca">Després de veure una obra de teatre sobre un valent cavaller, el Barrufet Somiador decideix que vol ser un cavaller com ell per poder lluitar contra dracs ferotges i rescatar dames en perill. Perquè el somni sigui complet, recluta el Barrufet Poeta perquè vagi escrivint les seves gestes. Però quan el Forçut veu la Barrufeta tan impressionada amb l'ímpetu del Somiador, també es fa cavaller per competir contra ell.</desc>
-    <length units="seconds">660</length>
-    <episode-num system="onscreen">35</episode-num>
+  <programme start="20261117201643 +0100" stop="20261117203855 +0100" channel="sx3">
+    <title lang="ca">Henry Danger</title>
+    <sub-title lang="ca">Els globus maleïts</sub-title>
+    <desc lang="ca">El doctor Minyak segresta la reunió dels Man Fans amb un nou pla que obliga el Capità Man i en Kid Danger a intervenir.</desc>
+    <length units="seconds">1332</length>
+    <episode-num system="onscreen">63</episode-num>
     <category lang="ca">FICCIÓ</category>
-    <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
+    <category lang="ca">SÈRIE DRAMÀTICA</category>
     <rating>
       <value>INFANTIL</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20261117114059 +0100" stop="20261117115159 +0100" channel="sx3">
-    <title lang="ca">Els barrufets (3D)</title>
-    <sub-title lang="ca">No barrufeu soroll</sub-title>
-    <desc lang="ca">Per poder localitzar el poble Barrufet, el Gargamel prepara una poció que dona una oïda sobrenatural a l'Azrael. Per sort, la Flor i la Flor de Lis ho veuen i corren al poble de les noies i al dels barrufets per advertir-los de la situació. Tothom ha de fer molt de silenci per evitar que els descobreixin, però la Meteorit i el Músic no es poden resistir a tocar una estona.</desc>
-    <length units="seconds">660</length>
-    <episode-num system="onscreen">92</episode-num>
+  <programme start="20261117203855 +0100" stop="20261117205947 +0100" channel="sx3">
+    <title lang="ca">Henry Danger</title>
+    <sub-title lang="ca">Un directe perillós, primera part</sub-title>
+    <desc lang="ca">Una invitació a la festa del famós Frankini acaba convertint-se en una aventura molt més arriscada del que en Henry i en Ray esperaven.</desc>
+    <length units="seconds">1252</length>
+    <episode-num system="onscreen">64</episode-num>
     <category lang="ca">FICCIÓ</category>
-    <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
+    <category lang="ca">SÈRIE DRAMÀTICA</category>
     <rating>
       <value>INFANTIL</value>
     </rating>
@@ -145,12 +144,12 @@
   <channel id="c33">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20261117110933 +0100" stop="20261117120006 +0100" channel="c33">
-    <title lang="ca">Gent de mercats</title>
-    <sub-title lang="ca">Mercats de Santa Caterina, Vilafranca i el Clot</sub-title>
-    <desc lang="ca">La nova temporada de 'Gent de mercats i comerços' començarà visitant el mercat de Santa Caterina de Barcelona per conèixer el David, un carnisser enamorat de l'òpera. L'equip del programa també parlarà amb l'Anna, una estilista gastronòmica d'aquelles que aconsegueixen que mengem pels ulls, i serà testimoni del renaixement de la Brunells, una pastisseria emblemàtica del barri. A Vilafranca del Penedès, la docusèrie descobrirà com ha estat per a l'Àgueda convertir-se en agricultora i comerciant partint de zero. A més, coneixerà l'Oriol, el xef propietari del Cigró d'Or, situat sobre el Mercat de la Carn, i veurà com s'ha hagut d'adaptar a la crisi de la Covid-19. També sortirà a fer un tomb amb el Salvador, l'últim pastor de Vilafranca, que alhora és carnisser. 'Gent de mercats i comerços' anirà fins al mercat del Clot de Barcelona, on l'Enric, tot un expert en el món de la pasta, explicarà com el mercat va adaptar-se als pitjors moments de la pandèmia. També sortirà al carrer per conèixer la Tutu, que introduirà els espectadors a la cuina vietnamita amb un somriure, mentre, amb el restaurant tancat, prepara menjar per emportar. I, entre altres històries, coneixerà la del Ferran i la Pilar, mare i fill de la bodega Sopena, un establiment del segle XIX en ple eix comercial del Clot.</desc>
-    <length units="seconds">3033</length>
-    <episode-num system="onscreen">7</episode-num>
+  <programme start="20261117200521 +0100" stop="20261117203203 +0100" channel="c33">
+    <title lang="ca">Els hotels més remots del món</title>
+    <sub-title lang="ca">Casa de Sao Lourenco -Portugal</sub-title>
+    <desc lang="ca">La Casa de São Lourenço, situada al cim de la vall glacial de Zêzere, és un refugi de muntanya serè, dissenyat al voltant de la històrica Pousada de São Lourenço a Manteigas. Originari de la dècada de 1940, aquest establiment s'erigeix com un dels hotels pioners de Portugal. Després d'arribar a estar en un estat ruïnós, aquesta bella dorment va romandre abandonada durant anys, fins que el 2018, la Isabel Costa i el seu marit, el João Tomás, la van trobar i van decidir rescatar-la i fer-la ressorgir de les seves cendres.L'objectiu principal de la parella va ser preservar la rica història de l'estructura original i la seva perfecta integració amb el paisatge de l'entorn: un punt de vista únic situat al cor de la Reserva Natural de la Serra da Estrela, que compta amb alguns dels cims més alts del país, coberts per les nevades hivernals.Combinant un disseny contemporani i els interiors decorats per la Maria Keil, la Casa de São Lourenço ret homenatge a la llana de burell, un teixit local elaborat en una activa fàbrica propera, també recuperada per la Isabel i el João.En els darrers anys, la Isabel i el João han dedicat de tot cor tots els seus esforços al rescat i la preservació d'aquesta regió, amb una determinació decidida, un sentit de missió clarament definit i, sobretot, un profund compromís amb les estimades comunitats locals.</desc>
+    <length units="seconds">1602</length>
+    <episode-num system="onscreen">9</episode-num>
     <category lang="ca">DIVULGACIÓ</category>
     <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
     <rating>
@@ -159,14 +158,14 @@
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20261117120006 +0100" stop="20261117120705 +0100" channel="c33">
-    <title lang="ca">Cuines</title>
-    <sub-title lang="ca">Brandada de bacallà amb poma caramel·litzada</sub-title>
-    <desc lang="ca">Maria Bosch Conductora d'autocarsCuina de casaCassà de la Selva (Gironès)Dificultat: mitjana Temps d'elaboració: 40'Producte principal: bacallàTemporada: tot l'any</desc>
-    <length units="seconds">419</length>
-    <episode-num system="onscreen">3547</episode-num>
+  <programme start="20261117203203 +0100" stop="20261117205929 +0100" channel="c33">
+    <title lang="ca">Els hotels més remots del món</title>
+    <sub-title lang="ca">El Torridon - Escòcia</sub-title>
+    <desc lang="ca">Emmarcat pels turons ondulats i el paisatge indòmit de les Highlands (*) (ALT.: terres altes) escoceses, aquest hotel victorià és un niu d'amor de conte de fades on el temps sembla haver-se aturat. Una última fortalesa al peu d'una de les últimes terres verges d'Europa.Construït el 1887 per William King-Noel, 1r comte de Lovelace, El Torridon es va utilitzar com a pavelló de caça fins a la dècada dels 60, quan va obrir com a hotel.L'any 1992 els pares dels actuals directors, la Rohaise i el Dan, van comprar l'establiment, que en aquells moments oferia un allotjament molt bàsic. Amb la Rohaise i el Dan dirigint-lo, s'ha convertit en un hotel de cinc estrelles, un èxit sorprenent per una ubicació tan remota. La sostenibilitat també ha estat clau per al seu desenvolupament, perquè la majoria dels productes que fan servir es cultiven en els nombrosos hivernacles o són produïts per agricultors locals. La senzillesa i l'hospitalitat del Dan i la Rohaise contrasten amb la sofisticació de l'hotel, i fan d'aquest documental una autèntica història humana.</desc>
+    <length units="seconds">1646</length>
+    <episode-num system="onscreen">10</episode-num>
     <category lang="ca">DIVULGACIÓ</category>
-    <category lang="ca">MAGAZINE ESPECIALITZAT</category>
+    <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
@@ -176,6 +175,19 @@
   <channel id="oca1">
     <display-name>OCA1</display-name>
   </channel>
+  <programme start="20261117202000 +0100" stop="20261117222955 +0100" channel="oca1">
+    <title lang="ca">Bàsquet</title>
+    <sub-title lang="ca">- Asisa Joventut-Porto / Champions League / J4</sub-title>
+    <desc lang="ca">Els badalonins volen la quarta victòria per seguir al capdavant del grup. En el precedent de Portugal, la Penya va guanyar 64-81. </desc>
+    <length units="seconds">7495</length>
+    <episode-num system="onscreen">26</episode-num>
+    <category lang="ca">ESPORTS</category>
+    <category lang="ca">RETRANSMISSIONS ESPORTS</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <icon src="https://img.3cat.cat/multimedia/jpg/1/1/1761643119911.jpg"/>
+  </programme>
   <channel id="oca2">
     <display-name>OCA2</display-name>
   </channel>
