@@ -3,138 +3,143 @@
   <channel id="tv3uhd">
     <display-name>TV3UHD</display-name>
   </channel>
-  <programme start="20261117201506 +0100" stop="20261117210000 +0100" channel="tv3uhd">
-    <title lang="ca">Està passant</title>
-    <desc lang="ca">El Jair i el Queco parlen dels serveis mínims de Rodalies. En Magí ens explica les novetats del món de l'esport i l'Alba Segarra ens explica si s'hi posa de cap o de cul en tot de situacions estrambòtiques.</desc>
-    <length units="seconds">2694</length>
-    <episode-num system="onscreen">1853</episode-num>
-    <category lang="ca">ENTRETENIMENT</category>
-    <category lang="ca">GAGS. HUMOR</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <subtitles type="teletext"/>
-    <icon src="https://img.ccma.cat/multimedia/png/3/8/1705511272683.png"/>
-  </programme>
-  <programme start="20261117210000 +0100" stop="20261117215957 +0100" channel="tv3uhd">
-    <title lang="ca">Telenotícies vespre</title>
-    <length units="seconds">3597</length>
-    <episode-num system="onscreen">7391</episode-num>
+  <programme start="20261118021600 +0100" stop="20261118043000 +0100" channel="tv3uhd">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="seconds">8040</length>
+    <episode-num system="onscreen">11731</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <subtitles type="teletext"/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/7/2/1758026176427.jpg"/>
+    <previously-shown/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
+  </programme>
+  <programme start="20261118043000 +0100" stop="20261118050000 +0100" channel="tv3uhd">
+    <title lang="ca">Ritmes a l'aula</title>
+    <sub-title lang="ca">Doubts</sub-title>
+    <length units="seconds">1800</length>
+    <episode-num system="onscreen">1</episode-num>
+    <category lang="ca">MUSICALS</category>
+    <category lang="ca">JAZZ</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <previously-shown/>
+    <icon src="https://img.3cat.cat/multimedia/jpg/0/5/1748345445750.jpg"/>
   </programme>
   <channel id="tvi">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20261117201506 +0100" stop="20261117210000 +0100" channel="tvi">
-    <title lang="ca">Està passant</title>
-    <desc lang="ca">El Jair i el Queco parlen dels serveis mínims de Rodalies. En Magí ens explica les novetats del món de l'esport i l'Alba Segarra ens explica si s'hi posa de cap o de cul en tot de situacions estrambòtiques.</desc>
-    <length units="seconds">2694</length>
-    <episode-num system="onscreen">1853</episode-num>
-    <category lang="ca">ENTRETENIMENT</category>
-    <category lang="ca">GAGS. HUMOR</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <icon src="https://img.ccma.cat/multimedia/png/3/8/1705511272683.png"/>
-  </programme>
-  <programme start="20261117210000 +0100" stop="20261117215957 +0100" channel="tvi">
-    <title lang="ca">Telenotícies vespre</title>
-    <length units="seconds">3597</length>
-    <episode-num system="onscreen">7391</episode-num>
+  <programme start="20261118021600 +0100" stop="20261118043000 +0100" channel="tvi">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="seconds">8040</length>
+    <episode-num system="onscreen">11731</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <icon src="https://img.ccma.cat/multimedia/jpg/7/2/1758026176427.jpg"/>
+    <previously-shown/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
+  </programme>
+  <programme start="20261118043000 +0100" stop="20261118050000 +0100" channel="tvi">
+    <title lang="ca">Ritmes a l'aula</title>
+    <sub-title lang="ca">Doubts</sub-title>
+    <length units="seconds">1800</length>
+    <episode-num system="onscreen">1</episode-num>
+    <category lang="ca">MUSICALS</category>
+    <category lang="ca">JAZZ</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <previously-shown/>
+    <icon src="https://img.3cat.cat/multimedia/jpg/0/5/1748345445750.jpg"/>
   </programme>
   <channel id="324">
     <display-name>324</display-name>
   </channel>
-  <programme start="20261117200000 +0100" stop="20261117210000 +0100" channel="324">
+  <programme start="20261118010000 +0100" stop="20261118060000 +0100" channel="324">
     <title lang="ca">Notícies 3CatInfo</title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">3600</length>
-    <episode-num system="onscreen">11729</episode-num>
+    <length units="seconds">18000</length>
+    <episode-num system="onscreen">11731</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <subtitles type="teletext"/>
+    <previously-shown/>
     <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
-  <programme start="20261117210000 +0100" stop="20261117220500 +0100" channel="324">
-    <title lang="ca">Telenotícies vespre</title>
-    <length units="seconds">3900</length>
-    <episode-num system="onscreen">7391</episode-num>
+  <programme start="20261118060000 +0100" stop="20261118080000 +0100" channel="324">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="seconds">7200</length>
+    <episode-num system="onscreen">11732</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <icon src="https://img.ccma.cat/multimedia/jpg/7/2/1758026176427.jpg"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
   <channel id="esport3">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20261117194000 +0100" stop="20261117213148 +0100" channel="esport3">
-    <title lang="ca">Bàsquet</title>
-    <sub-title lang="ca">FIATC Girona-Oostende / Fiba Europe Cup / J7</sub-title>
-    <desc lang="ca">Els gironins, líders del grup amb 5 victòries, reben els flamencs a la 7a jornada de la FIBA Europe Cup. En el precedent, a Oostende, els catalans van guanyar per 15 punts (76-91).</desc>
-    <length units="seconds">6708</length>
-    <episode-num system="onscreen">6</episode-num>
+  <programme start="20261118022515 +0100" stop="20261118024737 +0100" channel="esport3">
+    <title lang="ca">3CatInfo Esports</title>
+    <desc lang="ca">Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.</desc>
+    <length units="seconds">1342</length>
+    <episode-num system="onscreen">5570</episode-num>
     <category lang="ca">ESPORTS</category>
-    <category lang="ca">RETRANSMISSIONS ESPORTS</category>
+    <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <icon src="https://img.3cat.cat/multimedia/jpg/4/8/1791200744284.jpg"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/9/7/1758888682179.jpg"/>
   </programme>
-  <programme start="20261117213148 +0100" stop="20261117221754 +0100" channel="esport3">
+  <programme start="20261118024737 +0100" stop="20261118041943 +0100" channel="esport3">
     <title lang="ca">Bàsquet</title>
     <sub-title lang="ca">Asisa Joventut-Porto / Champions League / J4</sub-title>
     <desc lang="ca">Els badalonins volen la quarta victòria per seguir al capdavant del grup. En el precedent de Portugal, la Penya va guanyar 64-81. </desc>
-    <length units="seconds">2766</length>
+    <length units="seconds">5526</length>
     <episode-num system="onscreen">26</episode-num>
     <category lang="ca">ESPORTS</category>
     <category lang="ca">RETRANSMISSIONS ESPORTS</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
+    <previously-shown/>
     <icon src="https://img.3cat.cat/multimedia/jpg/1/1/1761643119911.jpg"/>
   </programme>
   <channel id="sx3">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20261117201643 +0100" stop="20261117203855 +0100" channel="sx3">
-    <title lang="ca">Henry Danger</title>
-    <sub-title lang="ca">Els globus maleïts</sub-title>
-    <desc lang="ca">El doctor Minyak segresta la reunió dels Man Fans amb un nou pla que obliga el Capità Man i en Kid Danger a intervenir.</desc>
-    <length units="seconds">1332</length>
-    <episode-num system="onscreen">63</episode-num>
+  <programme start="20261118024234 +0100" stop="20261118030305 +0100" channel="sx3">
+    <title lang="ca">Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
+    <sub-title lang="ca">Sangsura</sub-title>
+    <desc lang="ca">Absorta en la seva doble vida, la Marinette no s'ha adonat de la importància del compromís de la seva amiga Mylène amb la causa ecologista. Li farà obrir els ulls un projecte de reforma de la plaça dels Vosges que impulsa l'alcalde Bourgeois i en contra del qual es manifesta la Mylène. La Marinette i els seus amics decideixen fer costat a la Mylène per salvar els arbres de la plaça, però l'Esfinx Fosc reacciona i reakumatitza l'alcalde i el transforma en Maledíctor. Davant d'això, Ladybug i el Gat Noir també s'hauran d'implicar en la lluita per salvar la plaça dels Vosges i tot París.</desc>
+    <length units="seconds">1231</length>
+    <episode-num system="onscreen">88</episode-num>
     <category lang="ca">FICCIÓ</category>
-    <category lang="ca">SÈRIE DRAMÀTICA</category>
+    <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
       <value>INFANTIL</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20261117203855 +0100" stop="20261117205947 +0100" channel="sx3">
-    <title lang="ca">Henry Danger</title>
-    <sub-title lang="ca">Un directe perillós, primera part</sub-title>
-    <desc lang="ca">Una invitació a la festa del famós Frankini acaba convertint-se en una aventura molt més arriscada del que en Henry i en Ray esperaven.</desc>
-    <length units="seconds">1252</length>
-    <episode-num system="onscreen">64</episode-num>
+  <programme start="20261118030305 +0100" stop="20261118032343 +0100" channel="sx3">
+    <title lang="ca">Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
+    <sub-title lang="ca">Culpabisme</sub-title>
+    <desc lang="ca">La Marinette descobreix que la Juleka amaga un secret de la Rose des de fa molt de temps. Pensant que ajudarà la Juleka, la Marinette la convenç perquè l'hi expliqui i li promet que no li dirà mai a la Rose que ho sap. Però malgrat la seva promesa, la Marinette i els companys ja no es poden comportar de manera normal amb la Rose, que de seguida s'adona que la Juleka ha xerrat més del compte. Això fa que la Juleka s'enfonsi en un abisme de culpabilitat tan profund que l'Esfinx Fosc intentarà aprofitar-ho per mirar de capturar Ladybug i el Gat Noir.</desc>
+    <length units="seconds">1238</length>
+    <episode-num system="onscreen">89</episode-num>
     <category lang="ca">FICCIÓ</category>
-    <category lang="ca">SÈRIE DRAMÀTICA</category>
+    <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
       <value>INFANTIL</value>
     </rating>
@@ -144,28 +149,28 @@
   <channel id="c33">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20261117200521 +0100" stop="20261117203203 +0100" channel="c33">
-    <title lang="ca">Els hotels més remots del món</title>
-    <sub-title lang="ca">Casa de Sao Lourenco -Portugal</sub-title>
-    <desc lang="ca">La Casa de São Lourenço, situada al cim de la vall glacial de Zêzere, és un refugi de muntanya serè, dissenyat al voltant de la històrica Pousada de São Lourenço a Manteigas. Originari de la dècada de 1940, aquest establiment s'erigeix com un dels hotels pioners de Portugal. Després d'arribar a estar en un estat ruïnós, aquesta bella dorment va romandre abandonada durant anys, fins que el 2018, la Isabel Costa i el seu marit, el João Tomás, la van trobar i van decidir rescatar-la i fer-la ressorgir de les seves cendres.L'objectiu principal de la parella va ser preservar la rica història de l'estructura original i la seva perfecta integració amb el paisatge de l'entorn: un punt de vista únic situat al cor de la Reserva Natural de la Serra da Estrela, que compta amb alguns dels cims més alts del país, coberts per les nevades hivernals.Combinant un disseny contemporani i els interiors decorats per la Maria Keil, la Casa de São Lourenço ret homenatge a la llana de burell, un teixit local elaborat en una activa fàbrica propera, també recuperada per la Isabel i el João.En els darrers anys, la Isabel i el João han dedicat de tot cor tots els seus esforços al rescat i la preservació d'aquesta regió, amb una determinació decidida, un sentit de missió clarament definit i, sobretot, un profund compromís amb les estimades comunitats locals.</desc>
-    <length units="seconds">1602</length>
-    <episode-num system="onscreen">9</episode-num>
-    <category lang="ca">DIVULGACIÓ</category>
-    <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
+  <programme start="20261118021523 +0100" stop="20261118025702 +0100" channel="c33">
+    <title lang="ca">Jo mai mai</title>
+    <sub-title lang="ca">Cavalls</sub-title>
+    <desc lang="ca">La Mai té un dia difícil a Les Guilles i ha de remar contra corrent. La Noor, sense el seu mòbil, pateix atacs d'angoixa. La Rita es venja de la Sofia i es posa tot el grup en contra. El David li diu a la Mai que vol una relació més seriosa, però ella no vol.</desc>
+    <length units="seconds">2499</length>
+    <episode-num system="onscreen">5</episode-num>
+    <category lang="ca">FICCIÓ</category>
+    <category lang="ca">SÈRIE DRAMÀTICA</category>
     <rating>
-      <value>TOTS ELS PÚBLICS</value>
+      <value>PÚBLIC ADULT</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20261117203203 +0100" stop="20261117205929 +0100" channel="c33">
-    <title lang="ca">Els hotels més remots del món</title>
-    <sub-title lang="ca">El Torridon - Escòcia</sub-title>
-    <desc lang="ca">Emmarcat pels turons ondulats i el paisatge indòmit de les Highlands (*) (ALT.: terres altes) escoceses, aquest hotel victorià és un niu d'amor de conte de fades on el temps sembla haver-se aturat. Una última fortalesa al peu d'una de les últimes terres verges d'Europa.Construït el 1887 per William King-Noel, 1r comte de Lovelace, El Torridon es va utilitzar com a pavelló de caça fins a la dècada dels 60, quan va obrir com a hotel.L'any 1992 els pares dels actuals directors, la Rohaise i el Dan, van comprar l'establiment, que en aquells moments oferia un allotjament molt bàsic. Amb la Rohaise i el Dan dirigint-lo, s'ha convertit en un hotel de cinc estrelles, un èxit sorprenent per una ubicació tan remota. La sostenibilitat també ha estat clau per al seu desenvolupament, perquè la majoria dels productes que fan servir es cultiven en els nombrosos hivernacles o són produïts per agricultors locals. La senzillesa i l'hospitalitat del Dan i la Rohaise contrasten amb la sofisticació de l'hotel, i fan d'aquest documental una autèntica història humana.</desc>
-    <length units="seconds">1646</length>
-    <episode-num system="onscreen">10</episode-num>
-    <category lang="ca">DIVULGACIÓ</category>
-    <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
+  <programme start="20261118025702 +0100" stop="20261118032204 +0100" channel="c33">
+    <title lang="ca">Òpera en texans</title>
+    <sub-title lang="ca">Porgy and Bess</sub-title>
+    <desc lang="ca">Si us agrada el jazz, els musicals de Broadway o les pel·lícules de Hollywood us agradarà 'Porgy and Bess'. Perquè aquesta és una òpera diferent, una òpera que sembla un musical i que porta els ritmes afroamericans a la sang. Escrita el 1935 per un dels genis de la música del segle XX, George Gershwin, i estrenada només una sola vegada a Barcelona, el 1955. Si Mozart fos viu, possiblement escriuria 'Porgy and Bess'.</desc>
+    <length units="seconds">1502</length>
+    <episode-num system="onscreen">12</episode-num>
+    <category lang="ca">MUSICALS</category>
+    <category lang="ca">ÒPERA</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
@@ -175,19 +180,6 @@
   <channel id="oca1">
     <display-name>OCA1</display-name>
   </channel>
-  <programme start="20261117202000 +0100" stop="20261117222955 +0100" channel="oca1">
-    <title lang="ca">Bàsquet</title>
-    <sub-title lang="ca">- Asisa Joventut-Porto / Champions League / J4</sub-title>
-    <desc lang="ca">Els badalonins volen la quarta victòria per seguir al capdavant del grup. En el precedent de Portugal, la Penya va guanyar 64-81. </desc>
-    <length units="seconds">7495</length>
-    <episode-num system="onscreen">26</episode-num>
-    <category lang="ca">ESPORTS</category>
-    <category lang="ca">RETRANSMISSIONS ESPORTS</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <icon src="https://img.3cat.cat/multimedia/jpg/1/1/1761643119911.jpg"/>
-  </programme>
   <channel id="oca2">
     <display-name>OCA2</display-name>
   </channel>
