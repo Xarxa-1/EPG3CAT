@@ -3,125 +3,127 @@
   <channel id="tv3uhd">
     <display-name>TV3UHD</display-name>
   </channel>
-  <programme start="20261118173505 +0100" stop="20261118190816 +0100" channel="tv3uhd">
-    <title lang="ca">La Selva</title>
-    <desc lang="ca">Xavier Grasset us convida a passar la tarda en una cafeteria on regna el bon ambient. El lloc on saps que sempre hi trobaràs cares conegudes i conversa interessant. A 'La selva' s'hi parla de tot i hi pot passar de tot. Amb la mirada posada a l'actualitat que marca el dia, però també a les curiositats més sorprenents. Des del recolliment d'un bar on t'hi trobes com a casa, però amb una finestra oberta al que passa en directe arreu de Catalunya i al món. Un programa amb vocació d'aparador cultural i gastronòmic del país.</desc>
-    <length units="seconds">5591</length>
-    <episode-num system="onscreen">453</episode-num>
-    <category lang="ca">ENTRETENIMENT</category>
-    <category lang="ca">MAGAZINE</category>
+  <programme start="20261119003508 +0100" stop="20261119022248 +0100" channel="tv3uhd">
+    <title lang="ca">Mésnit</title>
+    <desc lang="ca">El 'Mésnit' arriba a la desena temporada, amb Marina Romero al capdavant de l'espai i amb la voluntat de continuar sent un centre de debat d'idees i d'anàlisi de l'activitat política.</desc>
+    <length units="seconds">6460</length>
+    <episode-num system="onscreen">2202</episode-num>
+    <category lang="ca">ACTUALITAT</category>
+    <category lang="ca">DEBAT</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
-    <icon src="https://img.3cat.cat/multimedia/jpg/6/3/1725871608136.jpg"/>
+    <previously-shown/>
   </programme>
-  <programme start="20261118190816 +0100" stop="20261118201500 +0100" channel="tv3uhd">
-    <title lang="ca">Atrapa'm si pots</title>
-    <desc lang="ca">'Atrapa'm si pots' és un 'quiz show' clàssic, de preguntes i respostes, presentat per Llucià Ferrer, en què sis concursants competeixen per arribar a la fase final i guanyar el pot. 'Atrapa'm si pots' és entreteniment pur i on gairebé és més important passar-s'ho bé que els diners. És un concurs en què pesa més la intuïció que no els coneixements acadèmics, més l'estratègia en el joc que no la sort.</desc>
-    <length units="seconds">4004</length>
-    <episode-num system="onscreen">1000</episode-num>
-    <category lang="ca">ENTRETENIMENT</category>
-    <category lang="ca">CONCURS</category>
+  <programme start="20261119022248 +0100" stop="20261119043000 +0100" channel="tv3uhd">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="seconds">7632</length>
+    <episode-num system="onscreen">11740</episode-num>
+    <category lang="ca">ACTUALITAT</category>
+    <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <subtitles type="teletext"/>
+    <previously-shown/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
   <channel id="tvi">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20261118173505 +0100" stop="20261118190816 +0100" channel="tvi">
-    <title lang="ca">La Selva</title>
-    <desc lang="ca">Xavier Grasset us convida a passar la tarda en una cafeteria on regna el bon ambient. El lloc on saps que sempre hi trobaràs cares conegudes i conversa interessant. A 'La selva' s'hi parla de tot i hi pot passar de tot. Amb la mirada posada a l'actualitat que marca el dia, però també a les curiositats més sorprenents. Des del recolliment d'un bar on t'hi trobes com a casa, però amb una finestra oberta al que passa en directe arreu de Catalunya i al món. Un programa amb vocació d'aparador cultural i gastronòmic del país.</desc>
-    <length units="seconds">5591</length>
-    <episode-num system="onscreen">453</episode-num>
-    <category lang="ca">ENTRETENIMENT</category>
-    <category lang="ca">MAGAZINE</category>
+  <programme start="20261119003508 +0100" stop="20261119022248 +0100" channel="tvi">
+    <title lang="ca">Mésnit</title>
+    <desc lang="ca">El 'Mésnit' arriba a la desena temporada, amb Marina Romero al capdavant de l'espai i amb la voluntat de continuar sent un centre de debat d'idees i d'anàlisi de l'activitat política.</desc>
+    <length units="seconds">6460</length>
+    <episode-num system="onscreen">2202</episode-num>
+    <category lang="ca">ACTUALITAT</category>
+    <category lang="ca">DEBAT</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <icon src="https://img.3cat.cat/multimedia/jpg/6/3/1725871608136.jpg"/>
+    <previously-shown/>
   </programme>
-  <programme start="20261118190816 +0100" stop="20261118201500 +0100" channel="tvi">
-    <title lang="ca">Atrapa'm si pots</title>
-    <desc lang="ca">'Atrapa'm si pots' és un 'quiz show' clàssic, de preguntes i respostes, presentat per Llucià Ferrer, en què sis concursants competeixen per arribar a la fase final i guanyar el pot. 'Atrapa'm si pots' és entreteniment pur i on gairebé és més important passar-s'ho bé que els diners. És un concurs en què pesa més la intuïció que no els coneixements acadèmics, més l'estratègia en el joc que no la sort.</desc>
-    <length units="seconds">4004</length>
-    <episode-num system="onscreen">1000</episode-num>
-    <category lang="ca">ENTRETENIMENT</category>
-    <category lang="ca">CONCURS</category>
+  <programme start="20261119022248 +0100" stop="20261119043000 +0100" channel="tvi">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="seconds">7632</length>
+    <episode-num system="onscreen">11740</episode-num>
+    <category lang="ca">ACTUALITAT</category>
+    <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
+    <previously-shown/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
   <channel id="324">
     <display-name>324</display-name>
   </channel>
-  <programme start="20261118183000 +0100" stop="20261118200000 +0100" channel="324">
+  <programme start="20261119010000 +0100" stop="20261119060000 +0100" channel="324">
     <title lang="ca">Notícies 3CatInfo</title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">5400</length>
-    <episode-num system="onscreen">11737</episode-num>
+    <length units="seconds">18000</length>
+    <episode-num system="onscreen">11740</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <subtitles type="teletext"/>
+    <previously-shown/>
     <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
-  <programme start="20261118200000 +0100" stop="20261118210000 +0100" channel="324">
+  <programme start="20261119060000 +0100" stop="20261119080000 +0100" channel="324">
     <title lang="ca">Notícies 3CatInfo</title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">3600</length>
-    <episode-num system="onscreen">11738</episode-num>
+    <length units="seconds">7200</length>
+    <episode-num system="onscreen">11741</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <subtitles type="teletext"/>
     <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
   <channel id="esport3">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20261118184000 +0100" stop="20261118194833 +0100" channel="esport3">
-    <title lang="ca">Futbol</title>
-    <sub-title lang="ca">Reial Madrid CF-Inter de Milà / Champions League / J5</sub-title>
-    <desc lang="ca">Les blanques necessiten la victòria per intentar situar-se entre les quatre primeres, les places que donen accés directe als quarts de final.</desc>
-    <length units="seconds">4113</length>
-    <episode-num system="onscreen">94</episode-num>
+  <programme start="20261119005430 +0100" stop="20261119022436 +0100" channel="esport3">
+    <title lang="ca">Onze</title>
+    <desc lang="ca">Les nits d'Esport3 tornen a concentrar tota la informació, les millors opinions i l'entreteniment necessari per acabar el dia al voltant de l'actualitat esportiva. Un xou cada nit per acabar informat, saber cap on va l'actualitat i mantenir sempre un somriure.</desc>
+    <length units="seconds">5406</length>
+    <episode-num system="onscreen">1290</episode-num>
     <category lang="ca">ESPORTS</category>
-    <category lang="ca">RETRANSMISSIONS ESPORTS</category>
+    <category lang="ca">MAGAZINE</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <icon src="https://img.ccma.cat/multimedia/jpg/5/0/1702464930005.jpg"/>
+    <subtitles type="teletext"/>
+    <previously-shown/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/1/1/1688543515711.jpg"/>
   </programme>
-  <programme start="20261118194833 +0100" stop="20261118204000 +0100" channel="esport3">
-    <title lang="ca">Futbol</title>
-    <sub-title lang="ca">Reial Madrid CF-Inter de Milà / Champions League / J5</sub-title>
-    <desc lang="ca">Les blanques necessiten la victòria per intentar situar-se entre les quatre primeres, les places que donen accés directe als quarts de final.</desc>
-    <length units="seconds">3087</length>
-    <episode-num system="onscreen">94</episode-num>
+  <programme start="20261119022436 +0100" stop="20261119024703 +0100" channel="esport3">
+    <title lang="ca">3CatInfo Esports</title>
+    <desc lang="ca">Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.</desc>
+    <length units="seconds">1347</length>
+    <episode-num system="onscreen">5571</episode-num>
     <category lang="ca">ESPORTS</category>
-    <category lang="ca">RETRANSMISSIONS ESPORTS</category>
+    <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <previously-shown/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/5/0/1702464930005.jpg"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/9/7/1758888682179.jpg"/>
   </programme>
   <channel id="sx3">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20261118185619 +0100" stop="20261118191814 +0100" channel="sx3">
-    <title lang="ca">Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
-    <sub-title lang="ca">El Mussol Negre</sub-title>
-    <desc lang="ca">El senyor Damocles, el director de l'institut, té moltes ganes de ser un superheroi per poder ajudar els altres, però el pobre home no se'n surt, sinó que més aviat provoca problemes que després han de resoldre Ladybug i el Gat Noir, però l'Esfinx aprofita el desengany del senyor Damocles per crear un altre supermalvat a la ciutat de París.</desc>
-    <length units="seconds">1315</length>
-    <episode-num system="onscreen">39</episode-num>
+  <programme start="20261119010520 +0100" stop="20261119012516 +0100" channel="sx3">
+    <title lang="ca">Viatges Pokémon</title>
+    <sub-title lang="ca">Solitària i amenaçadora!</sub-title>
+    <desc lang="ca">L'Ash i el Goh visiten el Dojo Karate de Ciutat Safrà, on el Mestre Karateka acaba de patir una dura derrota a mans de la Judith, una líder de gimnàs de tipus lluita de la regió de Galar. L'Ash, que vol pujar en la classificació de la Sèrie Mundial de Coronació i continuar la seva bona ratxa de victòries, desafia la Judith a un combat oficial. Els Pokémon de l'Ash s'han entrenat molt, però la Judith i els seus Pokémon demostren ser uns rivals inesperats. Després que el Hawlucha de la Judith derroti el Farfetch'd de l'Ash, el Riolu està impacient per combatre, però l'intimidador Grapploct de la Judith el derrota amb contundència. És la primera derrota de l'Ash en la Sèrie Mundial de Coronació! </desc>
+    <length units="seconds">1196</length>
+    <episode-num system="onscreen">34</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
@@ -130,12 +132,12 @@
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20261118191814 +0100" stop="20261118193949 +0100" channel="sx3">
-    <title lang="ca">Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
-    <sub-title lang="ca">Sirena</sub-title>
-    <desc lang="ca">L'Ondine està molt enamorada del Kim i intenta fer-li saber a través d'un joc que juguen a la piscina. Però el Kim no se n'adona, i l'Esfinx aprofita el despit de l'Ondine per convertir-la en una supermalvada que deixarà París inundada sota les aigües.</desc>
-    <length units="seconds">1295</length>
-    <episode-num system="onscreen">40</episode-num>
+  <programme start="20261119012516 +0100" stop="20261119014425 +0100" channel="sx3">
+    <title lang="ca">Viatges Pokémon</title>
+    <sub-title lang="ca">He de capturar… un què?!</sub-title>
+    <desc lang="ca">El Goh ha capturat molts Pokémon fins ara, però quin serà el següent? Veient que l'Ash i el Pikachu són tan amics, decideix que també capturarà un Pikachu per ell. Precisament, el professor Cirerer vol que els nostres herois investiguin una aparició massiva de Pikachu i es posen en marxa. Quan arriben, el Goh captura una femella Pikachu, que s'ha aplegat amb els seus amics Pikachu per buscar pedres tro. Però llavors arriba el Team Rocket, que dedica a atrapar massivament els Pikachu salvatges, i també el Pikachu de l'Ash. La Pikachu del Goh decideix utilitzar una pedra tro per evolucionar en Raichu amb l'objectiu de rescatar els amics Pikachu, i tots junts ataquen amb un llampec immens que envia el Team Rocket a pastar fang.</desc>
+    <length units="seconds">1149</length>
+    <episode-num system="onscreen">35</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
@@ -147,26 +149,12 @@
   <channel id="c33">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20261118182847 +0100" stop="20261118191551 +0100" channel="c33">
-    <title lang="ca">Globus Sonda</title>
-    <sub-title lang="ca">Carme Ruscalleda - Vallès Oriental</sub-title>
-    <desc lang="ca">Avui volarem amb la nostra cuinera més universal, la Carme Ruscalleda. Aviat farà un any que va tancar el mític restaurant Sant Pau, a Sant Pol de Mar, un tres estrelles Michelin. Tinc la sensació que treballa més ara que mai. Ha estat la cuinera amb més estrelles Michelin de la galàxia gastronòmica, fins a set. Dues d'aquestes estrelles les va assolir gràcies a la rèplica del Sant Pau que hi ha a Tòquio i dues més les té a mitges amb el seu fill Raül al restaurant 'Moments', de l'hotel Mandarin de Barcelona. Sobrevolant Cardedeu i la zona del Vallès Oriental, avui obrirem boca parlant de cuina, de l'alta cuina. Un Globus sonda per llepar-se els dits. Enlairem-nos, i bon profit!</desc>
-    <length units="seconds">2824</length>
-    <episode-num system="onscreen">8</episode-num>
-    <category lang="ca">ENTRETENIMENT</category>
-    <category lang="ca">ALTRES</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <subtitles type="teletext"/>
-    <previously-shown/>
-  </programme>
-  <programme start="20261118191551 +0100" stop="20261118194137 +0100" channel="c33">
-    <title lang="ca">Volcans i homes</title>
-    <sub-title lang="ca">Els llacs volcànics en terra maori</sub-title>
-    <desc lang="ca">En aquest episodi, Arnaud Guérin, fotògraf professional i geòleg apassionat per la vulcanologia, se'n va a Nova Zelanda, amb l'interès específic de visitar els àcids llacs de cràter. L'acompanyarem en la seva visita al llac volcànic de l'illa de White Island, el llac Taupo de l'illa del Nord i el llac del volcà Ruapehu, que els maoris consideren una muntanya sagrada.Això ens permetrà veure alhora el punt de vista dels científics que analitzen l'aigua i els gasos dels llacs, i també els estrats del terreny que mostren les diferents erupcions, i el punt de vista tradicional i religiós dels maoris.</desc>
-    <length units="seconds">1546</length>
-    <episode-num system="onscreen">2</episode-num>
+  <programme start="20261119002128 +0100" stop="20261119011139 +0100" channel="c33">
+    <title lang="ca">El llop contra l'os</title>
+    <sub-title lang="ca">El llop contra l'os</sub-title>
+    <desc lang="ca">La neu que cobreix un pantà remot a Finlàndia es fon i deixa al descobert una gran quantitat d'animals congelats. Som al territori de l'os bru, que cada primavera s'afarta gràcies a aquest botí. Però ara, en una batalla per la supervivència, una mare de llop gris s'endinsa al regne de l'os. Ha de saquejar el pantà per alimentar els seus cadells, i això vol dir enfrontar-se cara a cara amb els ossos mortals.</desc>
+    <length units="seconds">3011</length>
+    <episode-num system="onscreen">1</episode-num>
     <category lang="ca">DIVULGACIÓ</category>
     <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
     <rating>
@@ -174,23 +162,26 @@
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
+    <icon src="https://img.3cat.cat/multimedia//jpg/7/1/1794819632617.jpg"/>
+  </programme>
+  <programme start="20261119011139 +0100" stop="20261119020350 +0100" channel="c33">
+    <title lang="ca">1942</title>
+    <sub-title lang="ca">Si cal matar</sub-title>
+    <desc lang="ca">SINOPSI: De què val, la prohibició de matar durant una guerra? L'any 1942, la guerra continua estenent-se arreu del planeta i implica cada vegada més països de tots els continents. De manera que persones com en George, un nadiu de les Illes Salomó, es veuen obligades a participar en un conflicte que no té res a veure amb ells. O una nena com la Walderez, del Brasil, en patirà les conseqüències.</desc>
+    <length units="seconds">3131</length>
+    <episode-num system="onscreen">5</episode-num>
+    <category lang="ca">DIVULGACIÓ</category>
+    <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <subtitles type="teletext"/>
+    <previously-shown/>
+    <icon src="https://img.3cat.cat/multimedia/jpg/9/8/1786345299589.jpg"/>
   </programme>
   <channel id="oca1">
     <display-name>OCA1</display-name>
   </channel>
-  <programme start="20261118182409 +0100" stop="20261118194404 +0100" channel="oca1">
-    <title lang="ca">Waterpolo</title>
-    <sub-title lang="ca">- CN Sabadell-Jadran Herceg Novi / Champions League / J4</sub-title>
-    <desc lang="ca">Els vallesans volen la tercera victòria en tres jornades a la fase de grups de la gran competició europea. En el partit disputat a Montenegro, es van imposar al Jadran per 16 a 17.</desc>
-    <length units="seconds">4795</length>
-    <episode-num system="onscreen">8162</episode-num>
-    <category lang="ca">ESPORTS</category>
-    <category lang="ca">RETRANSMISSIONS ESPORTS</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <icon src="https://img.ccma.cat/multimedia/jpg/7/1/1713441319517.jpg"/>
-  </programme>
   <channel id="oca2">
     <display-name>OCA2</display-name>
   </channel>
