@@ -3,26 +3,26 @@
   <channel id="tv3uhd">
     <display-name>TV3UHD</display-name>
   </channel>
-  <programme start="20261119080006 +0100" stop="20261119103000 +0100" channel="tv3uhd">
-    <title lang="ca">Matins</title>
-    <desc lang="ca">'Matins' és un dels puntals informatius de TV3. El programa matinal dona les claus del dia que comença, explica les notícies que han passat aportant-ne el context per entendre-les i analitza amb veus acreditades l'actualitat més propera i la d'arreu del món. 'Matins' comença a les 8 del matí, de dilluns a divendres, i està presentat per Ariadna Oltra.</desc>
-    <length units="seconds">8994</length>
-    <episode-num system="onscreen">4716</episode-num>
-    <category lang="ca">ACTUALITAT</category>
-    <category lang="ca">INFORMATIU DIÀRI</category>
+  <programme start="20261119173556 +0100" stop="20261119191140 +0100" channel="tv3uhd">
+    <title lang="ca">La Selva</title>
+    <desc lang="ca">Xavier Grasset us convida a passar la tarda en una cafeteria on regna el bon ambient. El lloc on saps que sempre hi trobaràs cares conegudes i conversa interessant. A 'La selva' s'hi parla de tot i hi pot passar de tot. Amb la mirada posada a l'actualitat que marca el dia, però també a les curiositats més sorprenents. Des del recolliment d'un bar on t'hi trobes com a casa, però amb una finestra oberta al que passa en directe arreu de Catalunya i al món. Un programa amb vocació d'aparador cultural i gastronòmic del país.</desc>
+    <length units="seconds">5744</length>
+    <episode-num system="onscreen">454</episode-num>
+    <category lang="ca">ENTRETENIMENT</category>
+    <category lang="ca">MAGAZINE</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/2/0/1758040151402.jpg"/>
+    <icon src="https://img.3cat.cat/multimedia/jpg/6/3/1725871608136.jpg"/>
   </programme>
-  <programme start="20261119103000 +0100" stop="20261119135500 +0100" channel="tv3uhd">
-    <title lang="ca">Tot es mou</title>
-    <desc lang="ca">El programa presentat per Helena Garcia Melero s'emet de dilluns a divendres, de 10.30 a 13.55. Un magazín d'actualitat que busca informar, analitzar i debatre sobre temes que marquen l'actualitat social, econòmica i cultural del dia, amb una àmplia presència en directe dels reporters i reporteres, repartits per tot Catalunya. A més, el 'Tot es mou' compta amb seccions diàries de gastronomia (amb els principals cuiners i cuineres del país), successos, economia, mobilitat, temes mèdics i de tecnologia, entre d'altres.</desc>
-    <length units="seconds">12300</length>
-    <episode-num system="onscreen">1853</episode-num>
-    <category lang="ca">ACTUALITAT</category>
-    <category lang="ca">MAGAZINE</category>
+  <programme start="20261119191140 +0100" stop="20261119201500 +0100" channel="tv3uhd">
+    <title lang="ca">Atrapa'm si pots</title>
+    <desc lang="ca">'Atrapa'm si pots' és un 'quiz show' clàssic, de preguntes i respostes, presentat per Llucià Ferrer, en què sis concursants competeixen per arribar a la fase final i guanyar el pot. 'Atrapa'm si pots' és entreteniment pur i on gairebé és més important passar-s'ho bé que els diners. És un concurs en què pesa més la intuïció que no els coneixements acadèmics, més l'estratègia en el joc que no la sort.</desc>
+    <length units="seconds">3800</length>
+    <episode-num system="onscreen">1001</episode-num>
+    <category lang="ca">ENTRETENIMENT</category>
+    <category lang="ca">CONCURS</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
@@ -31,25 +31,26 @@
   <channel id="tvi">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20261119080006 +0100" stop="20261119103000 +0100" channel="tvi">
-    <title lang="ca">Matins</title>
-    <desc lang="ca">'Matins' és un dels puntals informatius de TV3. El programa matinal dona les claus del dia que comença, explica les notícies que han passat aportant-ne el context per entendre-les i analitza amb veus acreditades l'actualitat més propera i la d'arreu del món. 'Matins' comença a les 8 del matí, de dilluns a divendres, i està presentat per Ariadna Oltra.</desc>
-    <length units="seconds">8994</length>
-    <episode-num system="onscreen">4716</episode-num>
-    <category lang="ca">ACTUALITAT</category>
-    <category lang="ca">INFORMATIU DIÀRI</category>
+  <programme start="20261119173556 +0100" stop="20261119191140 +0100" channel="tvi">
+    <title lang="ca">La Selva</title>
+    <desc lang="ca">Xavier Grasset us convida a passar la tarda en una cafeteria on regna el bon ambient. El lloc on saps que sempre hi trobaràs cares conegudes i conversa interessant. A 'La selva' s'hi parla de tot i hi pot passar de tot. Amb la mirada posada a l'actualitat que marca el dia, però també a les curiositats més sorprenents. Des del recolliment d'un bar on t'hi trobes com a casa, però amb una finestra oberta al que passa en directe arreu de Catalunya i al món. Un programa amb vocació d'aparador cultural i gastronòmic del país.</desc>
+    <length units="seconds">5744</length>
+    <episode-num system="onscreen">454</episode-num>
+    <category lang="ca">ENTRETENIMENT</category>
+    <category lang="ca">MAGAZINE</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <icon src="https://img.ccma.cat/multimedia/jpg/2/0/1758040151402.jpg"/>
+    <previously-shown/>
+    <icon src="https://img.3cat.cat/multimedia/jpg/6/3/1725871608136.jpg"/>
   </programme>
-  <programme start="20261119103000 +0100" stop="20261119135500 +0100" channel="tvi">
-    <title lang="ca">Tot es mou</title>
-    <desc lang="ca">El programa presentat per Helena Garcia Melero s'emet de dilluns a divendres, de 10.30 a 13.55. Un magazín d'actualitat que busca informar, analitzar i debatre sobre temes que marquen l'actualitat social, econòmica i cultural del dia, amb una àmplia presència en directe dels reporters i reporteres, repartits per tot Catalunya. A més, el 'Tot es mou' compta amb seccions diàries de gastronomia (amb els principals cuiners i cuineres del país), successos, economia, mobilitat, temes mèdics i de tecnologia, entre d'altres.</desc>
-    <length units="seconds">12300</length>
-    <episode-num system="onscreen">1853</episode-num>
-    <category lang="ca">ACTUALITAT</category>
-    <category lang="ca">MAGAZINE</category>
+  <programme start="20261119191140 +0100" stop="20261119201500 +0100" channel="tvi">
+    <title lang="ca">Atrapa'm si pots</title>
+    <desc lang="ca">'Atrapa'm si pots' és un 'quiz show' clàssic, de preguntes i respostes, presentat per Llucià Ferrer, en què sis concursants competeixen per arribar a la fase final i guanyar el pot. 'Atrapa'm si pots' és entreteniment pur i on gairebé és més important passar-s'ho bé que els diners. És un concurs en què pesa més la intuïció que no els coneixements acadèmics, més l'estratègia en el joc que no la sort.</desc>
+    <length units="seconds">3800</length>
+    <episode-num system="onscreen">1001</episode-num>
+    <category lang="ca">ENTRETENIMENT</category>
+    <category lang="ca">CONCURS</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
@@ -57,23 +58,24 @@
   <channel id="324">
     <display-name>324</display-name>
   </channel>
-  <programme start="20261119080000 +0100" stop="20261119103000 +0100" channel="324">
-    <title lang="ca">Matins</title>
-    <desc lang="ca">'Matins' és un dels puntals informatius de TV3. El programa matinal dona les claus del dia que comença, explica les notícies que han passat aportant-ne el context per entendre-les i analitza amb veus acreditades l'actualitat més propera i la d'arreu del món. 'Matins' comença a les 8 del matí, de dilluns a divendres, i està presentat per Ariadna Oltra.</desc>
-    <length units="seconds">9000</length>
-    <episode-num system="onscreen">4716</episode-num>
+  <programme start="20261119170000 +0100" stop="20261119183000 +0100" channel="324">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="seconds">5400</length>
+    <episode-num system="onscreen">11745</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <icon src="https://img.ccma.cat/multimedia/jpg/2/0/1758040151402.jpg"/>
+    <subtitles type="teletext"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
-  <programme start="20261119103000 +0100" stop="20261119120000 +0100" channel="324">
+  <programme start="20261119183000 +0100" stop="20261119200000 +0100" channel="324">
     <title lang="ca">Notícies 3CatInfo</title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <length units="seconds">5400</length>
-    <episode-num system="onscreen">11742</episode-num>
+    <episode-num system="onscreen">11746</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
@@ -85,59 +87,59 @@
   <channel id="esport3">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20261119072116 +0100" stop="20261119085203 +0100" channel="esport3">
-    <title lang="ca">Onze</title>
-    <desc lang="ca">Les nits d'Esport3 tornen a concentrar tota la informació, les millors opinions i l'entreteniment necessari per acabar el dia al voltant de l'actualitat esportiva. Un xou cada nit per acabar informat, saber cap on va l'actualitat i mantenir sempre un somriure.</desc>
-    <length units="seconds">5447</length>
-    <episode-num system="onscreen">1290</episode-num>
+  <programme start="20261119172904 +0100" stop="20261119183000 +0100" channel="esport3">
+    <title lang="ca">Esport Club</title>
+    <sub-title lang="ca">Deco, prèvia Barça-Servette, Ludovic Fàbregas i Joan Salarich</sub-title>
+    <desc lang="ca">Deco diu que Balde no està en venda. Última hora del Barça-Servette, amb Francesc Latorre. Entrevistem Ludovic Fàbregas abans del Kielce-Barça de la Champions d'handbol. L'NBA amb Jordi de Mas i Joan Salarich, director del Festival de Cinema de Muntanya de Torelló. A la tertúlia ens acompanyen Martí Molina, Joan Prats i Joanjo Pallàs.</desc>
+    <length units="seconds">3656</length>
+    <episode-num system="onscreen">3287</episode-num>
     <category lang="ca">ESPORTS</category>
-    <category lang="ca">MAGAZINE</category>
+    <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/1/1/1688543515711.jpg"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/7/3/1698145091337.jpg"/>
   </programme>
-  <programme start="20261119085203 +0100" stop="20261119100534 +0100" channel="esport3">
-    <title lang="ca">Futbol sala</title>
-    <sub-title lang="ca">Barça-Còrdova / Primera Divisió / J9</sub-title>
-    <desc lang="ca">Els blaugranes, que tenen un partit pendent, volen sumar la 6 victòria en 8 partits després de l'empat aconseguit a la pista del Pozo de Múrcia.</desc>
-    <length units="seconds">4411</length>
-    <episode-num system="onscreen">487</episode-num>
+  <programme start="20261119183000 +0100" stop="20261119202706 +0100" channel="esport3">
+    <title lang="ca">Handbol</title>
+    <sub-title lang="ca">Kielce-Barça / EHF Champions / Main Round J1</sub-title>
+    <desc lang="ca">Els blaugranes, que han passat amb dues victòries a la fase principal de la competició, defensen el liderat del grup. El conjunt polonès necessita els dos punts per estrenar el seu marcador.</desc>
+    <length units="seconds">7026</length>
+    <episode-num system="onscreen">428</episode-num>
     <category lang="ca">ESPORTS</category>
     <category lang="ca">RETRANSMISSIONS ESPORTS</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <previously-shown/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/1/5/1699004339351.jpg"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1729614070941.jpg"/>
   </programme>
   <channel id="sx3">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20261119081735 +0100" stop="20261119083115 +0100" channel="sx3">
-    <title lang="ca">Titó</title>
-    <sub-title lang="ca">Excursió al Palau de la Música Catalana</sub-title>
-    <desc lang="ca">A l'excursió d'avui anem al Palau de la Música Catalana. Aquí es fan concerts en una sala preciosa plena de vitralls, mosaics, flors, escultures... i també hi ha un orgue espectacular! Segur que ja sabeu qui el tocarà!</desc>
-    <length units="seconds">820</length>
-    <episode-num system="onscreen">107</episode-num>
-    <category lang="ca">ENTRETENIMENT</category>
-    <category lang="ca">ALTRES</category>
+  <programme start="20261119173502 +0100" stop="20261119174614 +0100" channel="sx3">
+    <title lang="ca">La Patrulla Peluda</title>
+    <sub-title lang="ca">La Patrulla i el buscador d’or</sub-title>
+    <desc lang="ca">L'oncle Otis troba una palleta d'or molt grossa i la porta amb una vagoneta per la muntanya d'en Jake, però la vagoneta descarrila i la Patrulla Peluda l'haurà d'ajudar.</desc>
+    <length units="seconds">672</length>
+    <episode-num system="onscreen">196</episode-num>
+    <category lang="ca">FICCIÓ</category>
+    <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
       <value>INFANTIL</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20261119083115 +0100" stop="20261119084104 +0100" channel="sx3">
-    <title lang="ca">A jugar! Amb en Titó i els Fa la la</title>
-    <sub-title lang="ca">A jugar a pirates</sub-title>
-    <desc lang="ca">En Titó i els Fa La La troben al mar una ampolla amb un missatge de rescat! Aquest és l'inici d'una aventura pirata que portarà la tripulació del capità Os a enfrontar-se als temibles Crancs pirates. Qui guanyarà?</desc>
-    <length units="seconds">589</length>
-    <episode-num system="onscreen">31</episode-num>
-    <category lang="ca">ENTRETENIMENT</category>
-    <category lang="ca">ALTRES</category>
+  <programme start="20261119174614 +0100" stop="20261119175647 +0100" channel="sx3">
+    <title lang="ca">La Patrulla Peluda</title>
+    <sub-title lang="ca">La Patrulla salva un dinar extrem</sub-title>
+    <desc lang="ca">En Danny l'Audaç X fa una acrobàcia menjant a sobre d'un canyó però el vent el gira de cap per avall!</desc>
+    <length units="seconds">633</length>
+    <episode-num system="onscreen">197</episode-num>
+    <category lang="ca">FICCIÓ</category>
+    <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
       <value>INFANTIL</value>
     </rating>
@@ -147,35 +149,33 @@
   <channel id="c33">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20261119080928 +0100" stop="20261119091127 +0100" channel="c33">
-    <title lang="ca">Una altra història</title>
-    <sub-title lang="ca">Universitat de Barcelona</sub-title>
-    <desc lang="ca">Des del 82 que el 'Papamòbil 'no circulava, i ho ha fet per apropar l'Albert Om a la Universitat de Barcelona on els nostres historiadors l'esperen per descobrir nous tresors amagats. 'La Central' ha viscut tot tipus de manifestacions com les Primeres Jornades Feministes que la Pilar Aymerich va retratar. Aquest cop l'equip ho té molt difícil per triar entre el cartell de la mítica Zeleste, una pistola que va participar en l'assalt a l'edifici de Telefònica o una foto de Cruyff amb una dedicatòria que va ajudar al Xavier Folch a sortir de la presó.</desc>
-    <length units="seconds">3719</length>
-    <episode-num system="onscreen">7</episode-num>
-    <category lang="ca">ENTRETENIMENT</category>
-    <category lang="ca">CONCURS</category>
+  <programme start="20261119173521 +0100" stop="20261119180046 +0100" channel="c33">
+    <title lang="ca">Quèquicom</title>
+    <sub-title lang="ca">Piscines, clor i salut</sub-title>
+    <desc lang="ca">'Quèquicom' detallarà demà les normes que s'han de seguir per fer un bon ús de les piscines. Les piscines són adequades tant per practicar-hi la natació com per fer-hi rehabilitació, però convé respectar les normes d'higiene per evitar reaccions adverses. D'això en parlarà el programa científic del 33, amb el reportatge de Pere Renom i Dani Vallvé titulat 'Piscines, clor i salut'.Una de les més importants reaccions adverses pot ser motivada pel clor. El clor de desinfecció, combinat amb matèria orgànica, com el pèl o l'orina, genera uns gasos que podrien afectar l'ADN de les cèl·lules. Per aquest motiu les piscines han d'estar ben ventilades, ja que una piscina pública és un gran recipient ple d'aigua calenta on es banyen centenars de persones cada dia. Sota els nostres peus s'amaguen les instal·lacions que garanteixen la higiene de l'aigua. Esquemàticament, en destaca la bomba hidràulica, els filtres, un panell de control i un sistema d'escalfament. La bomba xucla l'aigua de la piscina i la introdueix en un laberint de tubs. La primera parada són els filtres. Aquí s'eliminen les partícules més grosses, com cabells, borrissol, fulles o insectes. A continuació, l'aigua és desinfectada, habitualment per mitjà de clor. Una vegada desinfectada, l'aigua es condueix fins a uns intercanviadors de calor que l'escalfaran a uns 26º C abans de retornar-la a la piscina. Si no es fes així, l'elevada temperatura i l'entrada contínua de matèria orgànica a través dels banyistes convertiria la piscina en un perillós caldo de cultiu. El poder desinfectant del clorUn estudi ha detectat que quan afegim clor a l'aigua reacciona amb compostos orgànics i genera subproductes de la desinfecció com els trialomentans, el cloroform, bromoform, o els àcids cloroacètics, entre molts altres. Aquests productes són mutagènics, per tant, poden alterar el nostre DNA. Entren al cos per tres vies. Per ingesta, si ens empassem aigua, pel contacte amb la pell i per inhalació, </desc>
+    <length units="seconds">1525</length>
+    <episode-num system="onscreen">155</episode-num>
+    <category lang="ca">DIVULGACIÓ</category>
+    <category lang="ca">MAGAZINE ESPECIALITZAT</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/9/2/1698049504229.jpg"/>
   </programme>
-  <programme start="20261119091127 +0100" stop="20261119101238 +0100" channel="c33">
-    <title lang="ca">Una altra història</title>
-    <sub-title lang="ca">Castell de Gardeny a Lleida</sub-title>
-    <desc lang="ca">Avui descobrirem quins són els últims objectes que formaran part de l'exposició d'Una Altra Història al Museu d'Història de Catalunya. Acabem aquesta temporada des del Castell de Gardeny a Lleida, quarter de l'Orde del Temple a durant l'edat mitjana a Lleida. L'Albert Om i els historiadors tindran a les mans la placa que commemora el centenari del Canal d'Urgell on es pot llegir Francesc Franco, s'emocionaran amb la vida del fill d'un supervivent de Mauthausen i coneixeran quina història amaga l'escopeta d'en 'Quimet' el protagonista de la pel·lícula Alcarràs.</desc>
-    <length units="seconds">3671</length>
-    <episode-num system="onscreen">8</episode-num>
-    <category lang="ca">ENTRETENIMENT</category>
-    <category lang="ca">CONCURS</category>
+  <programme start="20261119180046 +0100" stop="20261119182714 +0100" channel="c33">
+    <title lang="ca">Quèquicom</title>
+    <sub-title lang="ca">QQC respon 1</sub-title>
+    <desc lang="ca">'Quèquicom' dedicarà dos programes a respondre preguntes que la gent es fa sobre les qüestions més habituals i quotidianes. Amb el títol genèric 'Quèquicom respon' el programa oferirà aquestes respostes en un reportatge de Míriam Martí, Cari Pardo i Dani Vallvé. En el capítol 1 responem als temes següents:Quina és la raça de gos més intel·ligent? Posar pasta de dents a les cremades va bé? Quèquicom respon de forma clara i breu aquestes i altres preguntes que els espectadors han fet arribar al programa. Hi ha qüestions tan curioses com 'Quina mena de menjar fa fer pets?' o 'Què és un ull de poll?' i totes tenen una explicació científica ben interessant.</desc>
+    <length units="seconds">1588</length>
+    <episode-num system="onscreen">156</episode-num>
+    <category lang="ca">DIVULGACIÓ</category>
+    <category lang="ca">MAGAZINE ESPECIALITZAT</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/9/2/1698049504229.jpg"/>
   </programme>
   <channel id="oca1">
     <display-name>OCA1</display-name>
