@@ -3,95 +3,92 @@
   <channel id="tv3uhd">
     <display-name>TV3UHD</display-name>
   </channel>
-  <programme start="20261119003508 +0100" stop="20261119022248 +0100" channel="tv3uhd">
-    <title lang="ca">Mésnit</title>
-    <desc lang="ca">El 'Mésnit' arriba a la desena temporada, amb Marina Romero al capdavant de l'espai i amb la voluntat de continuar sent un centre de debat d'idees i d'anàlisi de l'activitat política.</desc>
-    <length units="seconds">6460</length>
-    <episode-num system="onscreen">2202</episode-num>
+  <programme start="20261119080006 +0100" stop="20261119103000 +0100" channel="tv3uhd">
+    <title lang="ca">Matins</title>
+    <desc lang="ca">'Matins' és un dels puntals informatius de TV3. El programa matinal dona les claus del dia que comença, explica les notícies que han passat aportant-ne el context per entendre-les i analitza amb veus acreditades l'actualitat més propera i la d'arreu del món. 'Matins' comença a les 8 del matí, de dilluns a divendres, i està presentat per Ariadna Oltra.</desc>
+    <length units="seconds">8994</length>
+    <episode-num system="onscreen">4716</episode-num>
     <category lang="ca">ACTUALITAT</category>
-    <category lang="ca">DEBAT</category>
+    <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
-    <previously-shown/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/2/0/1758040151402.jpg"/>
   </programme>
-  <programme start="20261119022248 +0100" stop="20261119043000 +0100" channel="tv3uhd">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">7632</length>
-    <episode-num system="onscreen">11740</episode-num>
+  <programme start="20261119103000 +0100" stop="20261119135500 +0100" channel="tv3uhd">
+    <title lang="ca">Tot es mou</title>
+    <desc lang="ca">El programa presentat per Helena Garcia Melero s'emet de dilluns a divendres, de 10.30 a 13.55. Un magazín d'actualitat que busca informar, analitzar i debatre sobre temes que marquen l'actualitat social, econòmica i cultural del dia, amb una àmplia presència en directe dels reporters i reporteres, repartits per tot Catalunya. A més, el 'Tot es mou' compta amb seccions diàries de gastronomia (amb els principals cuiners i cuineres del país), successos, economia, mobilitat, temes mèdics i de tecnologia, entre d'altres.</desc>
+    <length units="seconds">12300</length>
+    <episode-num system="onscreen">1853</episode-num>
     <category lang="ca">ACTUALITAT</category>
-    <category lang="ca">INFORMATIU DIÀRI</category>
+    <category lang="ca">MAGAZINE</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <previously-shown/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
+    <subtitles type="teletext"/>
   </programme>
   <channel id="tvi">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20261119003508 +0100" stop="20261119022248 +0100" channel="tvi">
-    <title lang="ca">Mésnit</title>
-    <desc lang="ca">El 'Mésnit' arriba a la desena temporada, amb Marina Romero al capdavant de l'espai i amb la voluntat de continuar sent un centre de debat d'idees i d'anàlisi de l'activitat política.</desc>
-    <length units="seconds">6460</length>
-    <episode-num system="onscreen">2202</episode-num>
-    <category lang="ca">ACTUALITAT</category>
-    <category lang="ca">DEBAT</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <previously-shown/>
-  </programme>
-  <programme start="20261119022248 +0100" stop="20261119043000 +0100" channel="tvi">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">7632</length>
-    <episode-num system="onscreen">11740</episode-num>
+  <programme start="20261119080006 +0100" stop="20261119103000 +0100" channel="tvi">
+    <title lang="ca">Matins</title>
+    <desc lang="ca">'Matins' és un dels puntals informatius de TV3. El programa matinal dona les claus del dia que comença, explica les notícies que han passat aportant-ne el context per entendre-les i analitza amb veus acreditades l'actualitat més propera i la d'arreu del món. 'Matins' comença a les 8 del matí, de dilluns a divendres, i està presentat per Ariadna Oltra.</desc>
+    <length units="seconds">8994</length>
+    <episode-num system="onscreen">4716</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <previously-shown/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/2/0/1758040151402.jpg"/>
+  </programme>
+  <programme start="20261119103000 +0100" stop="20261119135500 +0100" channel="tvi">
+    <title lang="ca">Tot es mou</title>
+    <desc lang="ca">El programa presentat per Helena Garcia Melero s'emet de dilluns a divendres, de 10.30 a 13.55. Un magazín d'actualitat que busca informar, analitzar i debatre sobre temes que marquen l'actualitat social, econòmica i cultural del dia, amb una àmplia presència en directe dels reporters i reporteres, repartits per tot Catalunya. A més, el 'Tot es mou' compta amb seccions diàries de gastronomia (amb els principals cuiners i cuineres del país), successos, economia, mobilitat, temes mèdics i de tecnologia, entre d'altres.</desc>
+    <length units="seconds">12300</length>
+    <episode-num system="onscreen">1853</episode-num>
+    <category lang="ca">ACTUALITAT</category>
+    <category lang="ca">MAGAZINE</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
   </programme>
   <channel id="324">
     <display-name>324</display-name>
   </channel>
-  <programme start="20261119010000 +0100" stop="20261119060000 +0100" channel="324">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">18000</length>
-    <episode-num system="onscreen">11740</episode-num>
+  <programme start="20261119080000 +0100" stop="20261119103000 +0100" channel="324">
+    <title lang="ca">Matins</title>
+    <desc lang="ca">'Matins' és un dels puntals informatius de TV3. El programa matinal dona les claus del dia que comença, explica les notícies que han passat aportant-ne el context per entendre-les i analitza amb veus acreditades l'actualitat més propera i la d'arreu del món. 'Matins' comença a les 8 del matí, de dilluns a divendres, i està presentat per Ariadna Oltra.</desc>
+    <length units="seconds">9000</length>
+    <episode-num system="onscreen">4716</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <previously-shown/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/2/0/1758040151402.jpg"/>
   </programme>
-  <programme start="20261119060000 +0100" stop="20261119080000 +0100" channel="324">
+  <programme start="20261119103000 +0100" stop="20261119120000 +0100" channel="324">
     <title lang="ca">Notícies 3CatInfo</title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">7200</length>
-    <episode-num system="onscreen">11741</episode-num>
+    <length units="seconds">5400</length>
+    <episode-num system="onscreen">11742</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
+    <subtitles type="teletext"/>
     <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
   <channel id="esport3">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20261119005430 +0100" stop="20261119022436 +0100" channel="esport3">
+  <programme start="20261119072116 +0100" stop="20261119085203 +0100" channel="esport3">
     <title lang="ca">Onze</title>
     <desc lang="ca">Les nits d'Esport3 tornen a concentrar tota la informació, les millors opinions i l'entreteniment necessari per acabar el dia al voltant de l'actualitat esportiva. Un xou cada nit per acabar informat, saber cap on va l'actualitat i mantenir sempre un somriure.</desc>
-    <length units="seconds">5406</length>
+    <length units="seconds">5447</length>
     <episode-num system="onscreen">1290</episode-num>
     <category lang="ca">ESPORTS</category>
     <category lang="ca">MAGAZINE</category>
@@ -102,44 +99,45 @@
     <previously-shown/>
     <icon src="https://img.ccma.cat/multimedia/jpg/1/1/1688543515711.jpg"/>
   </programme>
-  <programme start="20261119022436 +0100" stop="20261119024703 +0100" channel="esport3">
-    <title lang="ca">3CatInfo Esports</title>
-    <desc lang="ca">Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.</desc>
-    <length units="seconds">1347</length>
-    <episode-num system="onscreen">5571</episode-num>
+  <programme start="20261119085203 +0100" stop="20261119100534 +0100" channel="esport3">
+    <title lang="ca">Futbol sala</title>
+    <sub-title lang="ca">Barça-Còrdova / Primera Divisió / J9</sub-title>
+    <desc lang="ca">Els blaugranes, que tenen un partit pendent, volen sumar la 6 victòria en 8 partits després de l'empat aconseguit a la pista del Pozo de Múrcia.</desc>
+    <length units="seconds">4411</length>
+    <episode-num system="onscreen">487</episode-num>
     <category lang="ca">ESPORTS</category>
-    <category lang="ca">INFORMATIU DIÀRI</category>
+    <category lang="ca">RETRANSMISSIONS ESPORTS</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <previously-shown/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/9/7/1758888682179.jpg"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/1/5/1699004339351.jpg"/>
   </programme>
   <channel id="sx3">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20261119010520 +0100" stop="20261119012516 +0100" channel="sx3">
-    <title lang="ca">Viatges Pokémon</title>
-    <sub-title lang="ca">Solitària i amenaçadora!</sub-title>
-    <desc lang="ca">L'Ash i el Goh visiten el Dojo Karate de Ciutat Safrà, on el Mestre Karateka acaba de patir una dura derrota a mans de la Judith, una líder de gimnàs de tipus lluita de la regió de Galar. L'Ash, que vol pujar en la classificació de la Sèrie Mundial de Coronació i continuar la seva bona ratxa de victòries, desafia la Judith a un combat oficial. Els Pokémon de l'Ash s'han entrenat molt, però la Judith i els seus Pokémon demostren ser uns rivals inesperats. Després que el Hawlucha de la Judith derroti el Farfetch'd de l'Ash, el Riolu està impacient per combatre, però l'intimidador Grapploct de la Judith el derrota amb contundència. És la primera derrota de l'Ash en la Sèrie Mundial de Coronació! </desc>
-    <length units="seconds">1196</length>
-    <episode-num system="onscreen">34</episode-num>
-    <category lang="ca">FICCIÓ</category>
-    <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
+  <programme start="20261119081735 +0100" stop="20261119083115 +0100" channel="sx3">
+    <title lang="ca">Titó</title>
+    <sub-title lang="ca">Excursió al Palau de la Música Catalana</sub-title>
+    <desc lang="ca">A l'excursió d'avui anem al Palau de la Música Catalana. Aquí es fan concerts en una sala preciosa plena de vitralls, mosaics, flors, escultures... i també hi ha un orgue espectacular! Segur que ja sabeu qui el tocarà!</desc>
+    <length units="seconds">820</length>
+    <episode-num system="onscreen">107</episode-num>
+    <category lang="ca">ENTRETENIMENT</category>
+    <category lang="ca">ALTRES</category>
     <rating>
       <value>INFANTIL</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20261119012516 +0100" stop="20261119014425 +0100" channel="sx3">
-    <title lang="ca">Viatges Pokémon</title>
-    <sub-title lang="ca">He de capturar… un què?!</sub-title>
-    <desc lang="ca">El Goh ha capturat molts Pokémon fins ara, però quin serà el següent? Veient que l'Ash i el Pikachu són tan amics, decideix que també capturarà un Pikachu per ell. Precisament, el professor Cirerer vol que els nostres herois investiguin una aparició massiva de Pikachu i es posen en marxa. Quan arriben, el Goh captura una femella Pikachu, que s'ha aplegat amb els seus amics Pikachu per buscar pedres tro. Però llavors arriba el Team Rocket, que dedica a atrapar massivament els Pikachu salvatges, i també el Pikachu de l'Ash. La Pikachu del Goh decideix utilitzar una pedra tro per evolucionar en Raichu amb l'objectiu de rescatar els amics Pikachu, i tots junts ataquen amb un llampec immens que envia el Team Rocket a pastar fang.</desc>
-    <length units="seconds">1149</length>
-    <episode-num system="onscreen">35</episode-num>
-    <category lang="ca">FICCIÓ</category>
-    <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
+  <programme start="20261119083115 +0100" stop="20261119084104 +0100" channel="sx3">
+    <title lang="ca">A jugar! Amb en Titó i els Fa la la</title>
+    <sub-title lang="ca">A jugar a pirates</sub-title>
+    <desc lang="ca">En Titó i els Fa La La troben al mar una ampolla amb un missatge de rescat! Aquest és l'inici d'una aventura pirata que portarà la tripulació del capità Os a enfrontar-se als temibles Crancs pirates. Qui guanyarà?</desc>
+    <length units="seconds">589</length>
+    <episode-num system="onscreen">31</episode-num>
+    <category lang="ca">ENTRETENIMENT</category>
+    <category lang="ca">ALTRES</category>
     <rating>
       <value>INFANTIL</value>
     </rating>
@@ -149,35 +147,35 @@
   <channel id="c33">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20261119002128 +0100" stop="20261119011139 +0100" channel="c33">
-    <title lang="ca">El llop contra l'os</title>
-    <sub-title lang="ca">El llop contra l'os</sub-title>
-    <desc lang="ca">La neu que cobreix un pantà remot a Finlàndia es fon i deixa al descobert una gran quantitat d'animals congelats. Som al territori de l'os bru, que cada primavera s'afarta gràcies a aquest botí. Però ara, en una batalla per la supervivència, una mare de llop gris s'endinsa al regne de l'os. Ha de saquejar el pantà per alimentar els seus cadells, i això vol dir enfrontar-se cara a cara amb els ossos mortals.</desc>
-    <length units="seconds">3011</length>
-    <episode-num system="onscreen">1</episode-num>
-    <category lang="ca">DIVULGACIÓ</category>
-    <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
+  <programme start="20261119080928 +0100" stop="20261119091127 +0100" channel="c33">
+    <title lang="ca">Una altra història</title>
+    <sub-title lang="ca">Universitat de Barcelona</sub-title>
+    <desc lang="ca">Des del 82 que el 'Papamòbil 'no circulava, i ho ha fet per apropar l'Albert Om a la Universitat de Barcelona on els nostres historiadors l'esperen per descobrir nous tresors amagats. 'La Central' ha viscut tot tipus de manifestacions com les Primeres Jornades Feministes que la Pilar Aymerich va retratar. Aquest cop l'equip ho té molt difícil per triar entre el cartell de la mítica Zeleste, una pistola que va participar en l'assalt a l'edifici de Telefònica o una foto de Cruyff amb una dedicatòria que va ajudar al Xavier Folch a sortir de la presó.</desc>
+    <length units="seconds">3719</length>
+    <episode-num system="onscreen">7</episode-num>
+    <category lang="ca">ENTRETENIMENT</category>
+    <category lang="ca">CONCURS</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
-    <icon src="https://img.3cat.cat/multimedia//jpg/7/1/1794819632617.jpg"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/9/2/1698049504229.jpg"/>
   </programme>
-  <programme start="20261119011139 +0100" stop="20261119020350 +0100" channel="c33">
-    <title lang="ca">1942</title>
-    <sub-title lang="ca">Si cal matar</sub-title>
-    <desc lang="ca">SINOPSI: De què val, la prohibició de matar durant una guerra? L'any 1942, la guerra continua estenent-se arreu del planeta i implica cada vegada més països de tots els continents. De manera que persones com en George, un nadiu de les Illes Salomó, es veuen obligades a participar en un conflicte que no té res a veure amb ells. O una nena com la Walderez, del Brasil, en patirà les conseqüències.</desc>
-    <length units="seconds">3131</length>
-    <episode-num system="onscreen">5</episode-num>
-    <category lang="ca">DIVULGACIÓ</category>
-    <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
+  <programme start="20261119091127 +0100" stop="20261119101238 +0100" channel="c33">
+    <title lang="ca">Una altra història</title>
+    <sub-title lang="ca">Castell de Gardeny a Lleida</sub-title>
+    <desc lang="ca">Avui descobrirem quins són els últims objectes que formaran part de l'exposició d'Una Altra Història al Museu d'Història de Catalunya. Acabem aquesta temporada des del Castell de Gardeny a Lleida, quarter de l'Orde del Temple a durant l'edat mitjana a Lleida. L'Albert Om i els historiadors tindran a les mans la placa que commemora el centenari del Canal d'Urgell on es pot llegir Francesc Franco, s'emocionaran amb la vida del fill d'un supervivent de Mauthausen i coneixeran quina història amaga l'escopeta d'en 'Quimet' el protagonista de la pel·lícula Alcarràs.</desc>
+    <length units="seconds">3671</length>
+    <episode-num system="onscreen">8</episode-num>
+    <category lang="ca">ENTRETENIMENT</category>
+    <category lang="ca">CONCURS</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
-    <icon src="https://img.3cat.cat/multimedia/jpg/9/8/1786345299589.jpg"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/9/2/1698049504229.jpg"/>
   </programme>
   <channel id="oca1">
     <display-name>OCA1</display-name>
