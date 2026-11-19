@@ -3,66 +3,69 @@
   <channel id="tv3uhd">
     <display-name>TV3UHD</display-name>
   </channel>
-  <programme start="20261119173556 +0100" stop="20261119191140 +0100" channel="tv3uhd">
-    <title lang="ca">La Selva</title>
-    <desc lang="ca">Xavier Grasset us convida a passar la tarda en una cafeteria on regna el bon ambient. El lloc on saps que sempre hi trobaràs cares conegudes i conversa interessant. A 'La selva' s'hi parla de tot i hi pot passar de tot. Amb la mirada posada a l'actualitat que marca el dia, però també a les curiositats més sorprenents. Des del recolliment d'un bar on t'hi trobes com a casa, però amb una finestra oberta al que passa en directe arreu de Catalunya i al món. Un programa amb vocació d'aparador cultural i gastronòmic del país.</desc>
-    <length units="seconds">5744</length>
-    <episode-num system="onscreen">454</episode-num>
+  <programme start="20261119235147 +0100" stop="20261120004102 +0100" channel="tv3uhd">
+    <title lang="ca">Nervi</title>
+    <sub-title lang="ca">Una història queer catalana amb Fades</sub-title>
+    <desc lang="ca">Qui escriu la nostra història? Quins referents obertament LGTBI tenim a Catalunya? Tenim una escena queer que reivindica els seus drets i cerca uns orígens propis, una història queer catalana. Un dels seus màxims exponents, el trio de pop catalanomallorquí Fades, té clar que s'ha de fer ballant. Hi parlem amb motiu de la publicació d''Iconique', el seu primer disc d'estudi. L'humorista Maria Rovira va a l'arrel de paraules combatives i amb glamur. Més enllà de Maria Mercè Marçal i Terenci Moix, quina és la genealogia de les dissidències sexuals en català? S'ho pregunten l'Oriol Puig Taulé i l'Emma Zafón mentre fan safareig cultural. Tanquem amb 'Les feres' de Sandra Monfort, un directe carregat de tradició i avantguarda.</desc>
+    <length units="seconds">2955</length>
+    <episode-num system="onscreen">93</episode-num>
     <category lang="ca">ENTRETENIMENT</category>
-    <category lang="ca">MAGAZINE</category>
+    <category lang="ca">ALTRES</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
-    <icon src="https://img.3cat.cat/multimedia/jpg/6/3/1725871608136.jpg"/>
+    <previously-shown/>
   </programme>
-  <programme start="20261119191140 +0100" stop="20261119201500 +0100" channel="tv3uhd">
-    <title lang="ca">Atrapa'm si pots</title>
-    <desc lang="ca">'Atrapa'm si pots' és un 'quiz show' clàssic, de preguntes i respostes, presentat per Llucià Ferrer, en què sis concursants competeixen per arribar a la fase final i guanyar el pot. 'Atrapa'm si pots' és entreteniment pur i on gairebé és més important passar-s'ho bé que els diners. És un concurs en què pesa més la intuïció que no els coneixements acadèmics, més l'estratègia en el joc que no la sort.</desc>
-    <length units="seconds">3800</length>
-    <episode-num system="onscreen">1001</episode-num>
-    <category lang="ca">ENTRETENIMENT</category>
-    <category lang="ca">CONCURS</category>
+  <programme start="20261120004102 +0100" stop="20261120021421 +0100" channel="tv3uhd">
+    <title lang="ca">Mésnit</title>
+    <desc lang="ca">El 'Mésnit' arriba a la desena temporada, amb Marina Romero al capdavant de l'espai i amb la voluntat de continuar sent un centre de debat d'idees i d'anàlisi de l'activitat política.</desc>
+    <length units="seconds">5599</length>
+    <episode-num system="onscreen">2203</episode-num>
+    <category lang="ca">ACTUALITAT</category>
+    <category lang="ca">DEBAT</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
+    <previously-shown/>
   </programme>
   <channel id="tvi">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20261119173556 +0100" stop="20261119191140 +0100" channel="tvi">
-    <title lang="ca">La Selva</title>
-    <desc lang="ca">Xavier Grasset us convida a passar la tarda en una cafeteria on regna el bon ambient. El lloc on saps que sempre hi trobaràs cares conegudes i conversa interessant. A 'La selva' s'hi parla de tot i hi pot passar de tot. Amb la mirada posada a l'actualitat que marca el dia, però també a les curiositats més sorprenents. Des del recolliment d'un bar on t'hi trobes com a casa, però amb una finestra oberta al que passa en directe arreu de Catalunya i al món. Un programa amb vocació d'aparador cultural i gastronòmic del país.</desc>
-    <length units="seconds">5744</length>
-    <episode-num system="onscreen">454</episode-num>
+  <programme start="20261119235147 +0100" stop="20261120004102 +0100" channel="tvi">
+    <title lang="ca">Nervi</title>
+    <sub-title lang="ca">Una història queer catalana amb Fades</sub-title>
+    <desc lang="ca">Qui escriu la nostra història? Quins referents obertament LGTBI tenim a Catalunya? Tenim una escena queer que reivindica els seus drets i cerca uns orígens propis, una història queer catalana. Un dels seus màxims exponents, el trio de pop catalanomallorquí Fades, té clar que s'ha de fer ballant. Hi parlem amb motiu de la publicació d''Iconique', el seu primer disc d'estudi. L'humorista Maria Rovira va a l'arrel de paraules combatives i amb glamur. Més enllà de Maria Mercè Marçal i Terenci Moix, quina és la genealogia de les dissidències sexuals en català? S'ho pregunten l'Oriol Puig Taulé i l'Emma Zafón mentre fan safareig cultural. Tanquem amb 'Les feres' de Sandra Monfort, un directe carregat de tradició i avantguarda.</desc>
+    <length units="seconds">2955</length>
+    <episode-num system="onscreen">93</episode-num>
     <category lang="ca">ENTRETENIMENT</category>
-    <category lang="ca">MAGAZINE</category>
+    <category lang="ca">ALTRES</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <previously-shown/>
-    <icon src="https://img.3cat.cat/multimedia/jpg/6/3/1725871608136.jpg"/>
   </programme>
-  <programme start="20261119191140 +0100" stop="20261119201500 +0100" channel="tvi">
-    <title lang="ca">Atrapa'm si pots</title>
-    <desc lang="ca">'Atrapa'm si pots' és un 'quiz show' clàssic, de preguntes i respostes, presentat per Llucià Ferrer, en què sis concursants competeixen per arribar a la fase final i guanyar el pot. 'Atrapa'm si pots' és entreteniment pur i on gairebé és més important passar-s'ho bé que els diners. És un concurs en què pesa més la intuïció que no els coneixements acadèmics, més l'estratègia en el joc que no la sort.</desc>
-    <length units="seconds">3800</length>
-    <episode-num system="onscreen">1001</episode-num>
-    <category lang="ca">ENTRETENIMENT</category>
-    <category lang="ca">CONCURS</category>
+  <programme start="20261120004102 +0100" stop="20261120021420 +0100" channel="tvi">
+    <title lang="ca">Mésnit</title>
+    <desc lang="ca">El 'Mésnit' arriba a la desena temporada, amb Marina Romero al capdavant de l'espai i amb la voluntat de continuar sent un centre de debat d'idees i d'anàlisi de l'activitat política.</desc>
+    <length units="seconds">5598</length>
+    <episode-num system="onscreen">2203</episode-num>
+    <category lang="ca">ACTUALITAT</category>
+    <category lang="ca">DEBAT</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
+    <previously-shown/>
   </programme>
   <channel id="324">
     <display-name>324</display-name>
   </channel>
-  <programme start="20261119170000 +0100" stop="20261119183000 +0100" channel="324">
+  <programme start="20261120000000 +0100" stop="20261120003000 +0100" channel="324">
     <title lang="ca">Notícies 3CatInfo</title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">5400</length>
-    <episode-num system="onscreen">11745</episode-num>
+    <length units="seconds">1800</length>
+    <episode-num system="onscreen">11748</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
@@ -71,11 +74,11 @@
     <subtitles type="teletext"/>
     <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
-  <programme start="20261119183000 +0100" stop="20261119200000 +0100" channel="324">
+  <programme start="20261120003000 +0100" stop="20261120010000 +0100" channel="324">
     <title lang="ca">Notícies 3CatInfo</title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">5400</length>
-    <episode-num system="onscreen">11746</episode-num>
+    <length units="seconds">1800</length>
+    <episode-num system="onscreen">11749</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
@@ -87,43 +90,41 @@
   <channel id="esport3">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20261119172904 +0100" stop="20261119183000 +0100" channel="esport3">
-    <title lang="ca">Esport Club</title>
-    <sub-title lang="ca">Deco, prèvia Barça-Servette, Ludovic Fàbregas i Joan Salarich</sub-title>
-    <desc lang="ca">Deco diu que Balde no està en venda. Última hora del Barça-Servette, amb Francesc Latorre. Entrevistem Ludovic Fàbregas abans del Kielce-Barça de la Champions d'handbol. L'NBA amb Jordi de Mas i Joan Salarich, director del Festival de Cinema de Muntanya de Torelló. A la tertúlia ens acompanyen Martí Molina, Joan Prats i Joanjo Pallàs.</desc>
-    <length units="seconds">3656</length>
-    <episode-num system="onscreen">3287</episode-num>
+  <programme start="20261119230000 +0100" stop="20261120003108 +0100" channel="esport3">
+    <title lang="ca">Onze</title>
+    <sub-title lang="ca">Els deures de Deco; post Barça-Servette i 'El consultori'</sub-title>
+    <desc lang="ca">Víctor Lozano, David Bernabeu, Gemma Mallorca i Jordi Costa comenten les carpetes pendents de Deco per aquest mercat d'hivern i el partit de la Champions femenina del Barça. En Sergi Ferrer respon a els dubtes dels espectadors de l'Onze.</desc>
+    <length units="seconds">5468</length>
+    <episode-num system="onscreen">1291</episode-num>
+    <category lang="ca">ESPORTS</category>
+    <category lang="ca">MAGAZINE</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <subtitles type="teletext"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/1/1/1688543515711.jpg"/>
+  </programme>
+  <programme start="20261120003108 +0100" stop="20261120005157 +0100" channel="esport3">
+    <title lang="ca">3CatInfo Esports</title>
+    <desc lang="ca">Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.</desc>
+    <length units="seconds">1249</length>
+    <episode-num system="onscreen">5572</episode-num>
     <category lang="ca">ESPORTS</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <subtitles type="teletext"/>
-    <previously-shown/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/7/3/1698145091337.jpg"/>
-  </programme>
-  <programme start="20261119183000 +0100" stop="20261119202706 +0100" channel="esport3">
-    <title lang="ca">Handbol</title>
-    <sub-title lang="ca">Kielce-Barça / EHF Champions / Main Round J1</sub-title>
-    <desc lang="ca">Els blaugranes, que han passat amb dues victòries a la fase principal de la competició, defensen el liderat del grup. El conjunt polonès necessita els dos punts per estrenar el seu marcador.</desc>
-    <length units="seconds">7026</length>
-    <episode-num system="onscreen">428</episode-num>
-    <category lang="ca">ESPORTS</category>
-    <category lang="ca">RETRANSMISSIONS ESPORTS</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1729614070941.jpg"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/9/7/1758888682179.jpg"/>
   </programme>
   <channel id="sx3">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20261119173502 +0100" stop="20261119174614 +0100" channel="sx3">
-    <title lang="ca">La Patrulla Peluda</title>
-    <sub-title lang="ca">La Patrulla i el buscador d’or</sub-title>
-    <desc lang="ca">L'oncle Otis troba una palleta d'or molt grossa i la porta amb una vagoneta per la muntanya d'en Jake, però la vagoneta descarrila i la Patrulla Peluda l'haurà d'ajudar.</desc>
-    <length units="seconds">672</length>
-    <episode-num system="onscreen">196</episode-num>
+  <programme start="20261120000223 +0100" stop="20261120002232 +0100" channel="sx3">
+    <title lang="ca">Els germans Kratt</title>
+    <sub-title lang="ca">Un Nadal animal (1a part)</sub-title>
+    <desc lang="ca">Són les vacances de Nadal i, per celebrar-lo, l'equip dels germans Kratt s'agafa un descans de les seves aventures, però, quan estan a punt d'obrir els regals, sona l'alarma. Resulta que els malvats, el Zach, el Gormand i la Donita, estan capturant les cries de tots els animals que coneixen per convertir-les en adorns de Nadal. La festa l'hauran de deixar per més endavant, perquè ara el que han de fer és entrar en acció per salvar els seus amics i tornar-los a casa per Nadal.</desc>
+    <length units="seconds">1209</length>
+    <episode-num system="onscreen">97</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
@@ -132,12 +133,12 @@
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20261119174614 +0100" stop="20261119175647 +0100" channel="sx3">
-    <title lang="ca">La Patrulla Peluda</title>
-    <sub-title lang="ca">La Patrulla salva un dinar extrem</sub-title>
-    <desc lang="ca">En Danny l'Audaç X fa una acrobàcia menjant a sobre d'un canyó però el vent el gira de cap per avall!</desc>
-    <length units="seconds">633</length>
-    <episode-num system="onscreen">197</episode-num>
+  <programme start="20261120002232 +0100" stop="20261120004241 +0100" channel="sx3">
+    <title lang="ca">Els germans Kratt</title>
+    <sub-title lang="ca">Un Nadal animal (2a part)</sub-title>
+    <desc lang="ca">Els germans Kratt i tot l'equip han ajornat la festa de Nadal i persegueixen els malvats Gormand, Donita i Zach per rescatar els seus amics animals. Quan sembla que ho han aconseguit, els dolents fan servir les seves males arts per enganyar-los, els prenen tots els aparells i els abandonen al mig de l'oceà Àrtic. Ara només tenen un regalet que el Martin guarda a la butxaca i els animals de l'Àrtic per intentar salvar els seus amics.</desc>
+    <length units="seconds">1209</length>
+    <episode-num system="onscreen">98</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
@@ -149,28 +150,41 @@
   <channel id="c33">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20261119173521 +0100" stop="20261119180046 +0100" channel="c33">
-    <title lang="ca">Quèquicom</title>
-    <sub-title lang="ca">Piscines, clor i salut</sub-title>
-    <desc lang="ca">'Quèquicom' detallarà demà les normes que s'han de seguir per fer un bon ús de les piscines. Les piscines són adequades tant per practicar-hi la natació com per fer-hi rehabilitació, però convé respectar les normes d'higiene per evitar reaccions adverses. D'això en parlarà el programa científic del 33, amb el reportatge de Pere Renom i Dani Vallvé titulat 'Piscines, clor i salut'.Una de les més importants reaccions adverses pot ser motivada pel clor. El clor de desinfecció, combinat amb matèria orgànica, com el pèl o l'orina, genera uns gasos que podrien afectar l'ADN de les cèl·lules. Per aquest motiu les piscines han d'estar ben ventilades, ja que una piscina pública és un gran recipient ple d'aigua calenta on es banyen centenars de persones cada dia. Sota els nostres peus s'amaguen les instal·lacions que garanteixen la higiene de l'aigua. Esquemàticament, en destaca la bomba hidràulica, els filtres, un panell de control i un sistema d'escalfament. La bomba xucla l'aigua de la piscina i la introdueix en un laberint de tubs. La primera parada són els filtres. Aquí s'eliminen les partícules més grosses, com cabells, borrissol, fulles o insectes. A continuació, l'aigua és desinfectada, habitualment per mitjà de clor. Una vegada desinfectada, l'aigua es condueix fins a uns intercanviadors de calor que l'escalfaran a uns 26º C abans de retornar-la a la piscina. Si no es fes així, l'elevada temperatura i l'entrada contínua de matèria orgànica a través dels banyistes convertiria la piscina en un perillós caldo de cultiu. El poder desinfectant del clorUn estudi ha detectat que quan afegim clor a l'aigua reacciona amb compostos orgànics i genera subproductes de la desinfecció com els trialomentans, el cloroform, bromoform, o els àcids cloroacètics, entre molts altres. Aquests productes són mutagènics, per tant, poden alterar el nostre DNA. Entren al cos per tres vies. Per ingesta, si ens empassem aigua, pel contacte amb la pell i per inhalació, </desc>
-    <length units="seconds">1525</length>
-    <episode-num system="onscreen">155</episode-num>
-    <category lang="ca">DIVULGACIÓ</category>
-    <category lang="ca">MAGAZINE ESPECIALITZAT</category>
+  <programme start="20261119233715 +0100" stop="20261120011816 +0100" channel="c33">
+    <title lang="ca">Pel·lícula</title>
+    <sub-title lang="ca">Libertad</sub-title>
+    <desc lang="ca">LIBERTADProductores: Lastor Media, Avalon PC i Bulletproof Cupid, 2021Direcció i guió: Clara RoquetDirecció de fotografia: Gris JordanaMúsica: Paul TyanIntèrprets: María Morera (Nora), Nicolle García (Libertad), Vicky Peña (Ángela), Nora Navas (Teresa) i Carol Hurtado (Rosana)La vida de la Nora canviarà quan la Libertad, la filla de la cuidadora colombiana que es fa càrrec de la seva àvia, arriba a la casa d'estiueig de la família. La nova i intensa amistat entre les dues joves, de procedència diferent, marcarà el seu despertar adolescent. </desc>
+    <credits>
+      <actor>María Morera (Nora)</actor>
+      <actor>Nicolle García (Libertad)</actor>
+      <actor>Vicky Peña (Ángela)</actor>
+      <actor>Nora Navas (Teresa)</actor>
+      <actor>Carol Hurtado (Rosana)La vida de la Nora canviarà quan la Libertad</actor>
+      <actor>la filla de la cuidadora colombiana que es fa càrrec de la seva àvia</actor>
+      <actor>arriba a la casa d'estiueig de la família. La nova</actor>
+      <actor>intensa amistat entre les dues joves</actor>
+      <actor>de procedència diferent</actor>
+      <actor>marcarà el seu despertar adolescent.</actor>
+    </credits>
+    <length units="seconds">6061</length>
+    <episode-num system="onscreen">1</episode-num>
+    <category lang="ca">FICCIÓ</category>
+    <category lang="ca">PEL·LÍCULA / TELEFILM</category>
     <rating>
-      <value>TOTS ELS PÚBLICS</value>
+      <value>PÚBLIC ADULT</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
+    <icon src="https://img.3cat.cat/multimedia/jpg/8/1/1719562392718.jpg"/>
   </programme>
-  <programme start="20261119180046 +0100" stop="20261119182714 +0100" channel="c33">
-    <title lang="ca">Quèquicom</title>
-    <sub-title lang="ca">QQC respon 1</sub-title>
-    <desc lang="ca">'Quèquicom' dedicarà dos programes a respondre preguntes que la gent es fa sobre les qüestions més habituals i quotidianes. Amb el títol genèric 'Quèquicom respon' el programa oferirà aquestes respostes en un reportatge de Míriam Martí, Cari Pardo i Dani Vallvé. En el capítol 1 responem als temes següents:Quina és la raça de gos més intel·ligent? Posar pasta de dents a les cremades va bé? Quèquicom respon de forma clara i breu aquestes i altres preguntes que els espectadors han fet arribar al programa. Hi ha qüestions tan curioses com 'Quina mena de menjar fa fer pets?' o 'Què és un ull de poll?' i totes tenen una explicació científica ben interessant.</desc>
-    <length units="seconds">1588</length>
-    <episode-num system="onscreen">156</episode-num>
-    <category lang="ca">DIVULGACIÓ</category>
-    <category lang="ca">MAGAZINE ESPECIALITZAT</category>
+  <programme start="20261120011816 +0100" stop="20261120014204 +0100" channel="c33">
+    <title lang="ca">La pell dels murs</title>
+    <sub-title lang="ca">Núria Toll-Patricia Sánchez</sub-title>
+    <desc lang="ca">Aquest episodi de La Pell dels Murs està dedicat a la Núria Toll, dissenyadora gràfica i muralista igualadina. Toll és una de les veus més sòlides i significades a l'hora de reivindicar el paper de la dona en l'art urbà. El seu estil, clarament reconeixible, combina formes geomètriques, colors plans i línies simples per el·laborar missatges que busquen incitar a la reflexió sobre problemes socials relacionats amb el feminisme, la injustícia i l'estigma.Durant diverses jornades, la realitzadora Patricia Sánchez va seguir el procés d'execució d'un mural als Jardins de Maria Baldó, de Barcelona. L'obra va ser creada conjuntament entre Núria Toll i un grup de dones vinculades al Grup ATRA, una entitat sense ànim de lucre que ofereix atenció i tractament a persones en situació de vulnerabilitat i risc d'exclusió social. El resultat és una història molt coral, tendra i, alhora, punyent sobre l'estigma que pateixen les dones amb problemes de salut mental. 'Tothom té les seves potencialitats, però quan alguna persona té un desequilibri, es considera que és diferent. Justament, volem trencar amb l'exclusió social que aquesta diferència genera', comenta una de les participants en el documental. El mural forma part del projecte 'Parets amb ànima' que impulsa el Grup ATRA i que es duu a terme a diferents espais públics del barri de Gràcia de Barcelona, amb l'objectiu d'educar i sensibilitzar en matèria d'igualtat, inclusió social, feminismes i sostenibilitat, i ha comptat amb la col·laboració de Pintures Montó i de Montana Colors.La sèrie documental La Pell dels Murs és una producció de TV3 en col·laboració amb Un Capricho de Producciones.</desc>
+    <length units="seconds">1428</length>
+    <episode-num system="onscreen">7</episode-num>
+    <category lang="ca">ENTRETENIMENT</category>
+    <category lang="ca">ALTRES</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
