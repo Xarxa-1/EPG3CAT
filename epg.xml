@@ -3,56 +3,56 @@
   <channel id="tv3uhd">
     <display-name>TV3UHD</display-name>
   </channel>
-  <programme start="20261119235147 +0100" stop="20261120004102 +0100" channel="tv3uhd">
-    <title lang="ca">Nervi</title>
-    <sub-title lang="ca">Una història queer catalana amb Fades</sub-title>
-    <desc lang="ca">Qui escriu la nostra història? Quins referents obertament LGTBI tenim a Catalunya? Tenim una escena queer que reivindica els seus drets i cerca uns orígens propis, una història queer catalana. Un dels seus màxims exponents, el trio de pop catalanomallorquí Fades, té clar que s'ha de fer ballant. Hi parlem amb motiu de la publicació d''Iconique', el seu primer disc d'estudi. L'humorista Maria Rovira va a l'arrel de paraules combatives i amb glamur. Més enllà de Maria Mercè Marçal i Terenci Moix, quina és la genealogia de les dissidències sexuals en català? S'ho pregunten l'Oriol Puig Taulé i l'Emma Zafón mentre fan safareig cultural. Tanquem amb 'Les feres' de Sandra Monfort, un directe carregat de tradició i avantguarda.</desc>
-    <length units="seconds">2955</length>
-    <episode-num system="onscreen">93</episode-num>
-    <category lang="ca">ENTRETENIMENT</category>
+  <programme start="20261120043000 +0100" stop="20261120050000 +0100" channel="tv3uhd">
+    <title lang="ca">Ritmes a l'aula</title>
+    <sub-title lang="ca">Arturo Blasco Quartet</sub-title>
+    <length units="seconds">1800</length>
+    <episode-num system="onscreen">3</episode-num>
+    <category lang="ca">MUSICALS</category>
+    <category lang="ca">JAZZ</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <previously-shown/>
+    <icon src="https://img.3cat.cat/multimedia/jpg/0/5/1748345445750.jpg"/>
+  </programme>
+  <programme start="20261120050000 +0100" stop="20261120054544 +0100" channel="tv3uhd">
+    <title lang="ca">Fusió i swing a l'estudi</title>
+    <sub-title lang="ca">Gemini</sub-title>
+    <desc lang="ca">Gemini són tres grans intèrprets a la recerca de l'evocació i el color a través de la seva música. Podríem dir que practiquen un estil influenciat per la musica laietana dels 70 i el jazz que es feia a Barcelona durant els 80. Jordi Gaspar, al baix acústic; Jordi Bonell, a la guitarra, i Roger Blavia, a la percussió.</desc>
+    <length units="seconds">2744</length>
+    <episode-num system="onscreen">15</episode-num>
+    <category lang="ca">MUSICALS</category>
     <category lang="ca">ALTRES</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <subtitles type="teletext"/>
-    <previously-shown/>
-  </programme>
-  <programme start="20261120004102 +0100" stop="20261120021421 +0100" channel="tv3uhd">
-    <title lang="ca">Mésnit</title>
-    <desc lang="ca">El 'Mésnit' arriba a la desena temporada, amb Marina Romero al capdavant de l'espai i amb la voluntat de continuar sent un centre de debat d'idees i d'anàlisi de l'activitat política.</desc>
-    <length units="seconds">5599</length>
-    <episode-num system="onscreen">2203</episode-num>
-    <category lang="ca">ACTUALITAT</category>
-    <category lang="ca">DEBAT</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
   <channel id="tvi">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20261119235147 +0100" stop="20261120004102 +0100" channel="tvi">
-    <title lang="ca">Nervi</title>
-    <sub-title lang="ca">Una història queer catalana amb Fades</sub-title>
-    <desc lang="ca">Qui escriu la nostra història? Quins referents obertament LGTBI tenim a Catalunya? Tenim una escena queer que reivindica els seus drets i cerca uns orígens propis, una història queer catalana. Un dels seus màxims exponents, el trio de pop catalanomallorquí Fades, té clar que s'ha de fer ballant. Hi parlem amb motiu de la publicació d''Iconique', el seu primer disc d'estudi. L'humorista Maria Rovira va a l'arrel de paraules combatives i amb glamur. Més enllà de Maria Mercè Marçal i Terenci Moix, quina és la genealogia de les dissidències sexuals en català? S'ho pregunten l'Oriol Puig Taulé i l'Emma Zafón mentre fan safareig cultural. Tanquem amb 'Les feres' de Sandra Monfort, un directe carregat de tradició i avantguarda.</desc>
-    <length units="seconds">2955</length>
-    <episode-num system="onscreen">93</episode-num>
-    <category lang="ca">ENTRETENIMENT</category>
-    <category lang="ca">ALTRES</category>
+  <programme start="20261120043000 +0100" stop="20261120050000 +0100" channel="tvi">
+    <title lang="ca">Ritmes a l'aula</title>
+    <sub-title lang="ca">Arturo Blasco Quartet</sub-title>
+    <length units="seconds">1800</length>
+    <episode-num system="onscreen">3</episode-num>
+    <category lang="ca">MUSICALS</category>
+    <category lang="ca">JAZZ</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <previously-shown/>
+    <icon src="https://img.3cat.cat/multimedia/jpg/0/5/1748345445750.jpg"/>
   </programme>
-  <programme start="20261120004102 +0100" stop="20261120021420 +0100" channel="tvi">
-    <title lang="ca">Mésnit</title>
-    <desc lang="ca">El 'Mésnit' arriba a la desena temporada, amb Marina Romero al capdavant de l'espai i amb la voluntat de continuar sent un centre de debat d'idees i d'anàlisi de l'activitat política.</desc>
-    <length units="seconds">5598</length>
-    <episode-num system="onscreen">2203</episode-num>
-    <category lang="ca">ACTUALITAT</category>
-    <category lang="ca">DEBAT</category>
+  <programme start="20261120050000 +0100" stop="20261120054544 +0100" channel="tvi">
+    <title lang="ca">Fusió i swing a l'estudi</title>
+    <sub-title lang="ca">Gemini</sub-title>
+    <desc lang="ca">Gemini són tres grans intèrprets a la recerca de l'evocació i el color a través de la seva música. Podríem dir que practiquen un estil influenciat per la musica laietana dels 70 i el jazz que es feia a Barcelona durant els 80. Jordi Gaspar, al baix acústic; Jordi Bonell, a la guitarra, i Roger Blavia, a la percussió.</desc>
+    <length units="seconds">2744</length>
+    <episode-num system="onscreen">15</episode-num>
+    <category lang="ca">MUSICALS</category>
+    <category lang="ca">ALTRES</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
@@ -61,70 +61,71 @@
   <channel id="324">
     <display-name>324</display-name>
   </channel>
-  <programme start="20261120000000 +0100" stop="20261120003000 +0100" channel="324">
+  <programme start="20261120010000 +0100" stop="20261120060000 +0100" channel="324">
     <title lang="ca">Notícies 3CatInfo</title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">1800</length>
-    <episode-num system="onscreen">11748</episode-num>
-    <category lang="ca">ACTUALITAT</category>
-    <category lang="ca">INFORMATIU DIÀRI</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <subtitles type="teletext"/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
-  </programme>
-  <programme start="20261120003000 +0100" stop="20261120010000 +0100" channel="324">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">1800</length>
+    <length units="seconds">18000</length>
     <episode-num system="onscreen">11749</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <subtitles type="teletext"/>
+    <previously-shown/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
+  </programme>
+  <programme start="20261120060000 +0100" stop="20261120080000 +0100" channel="324">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="seconds">7200</length>
+    <episode-num system="onscreen">11750</episode-num>
+    <category lang="ca">ACTUALITAT</category>
+    <category lang="ca">INFORMATIU DIÀRI</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
     <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
   <channel id="esport3">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20261119230000 +0100" stop="20261120003108 +0100" channel="esport3">
-    <title lang="ca">Onze</title>
-    <sub-title lang="ca">Els deures de Deco; post Barça-Servette i 'El consultori'</sub-title>
-    <desc lang="ca">Víctor Lozano, David Bernabeu, Gemma Mallorca i Jordi Costa comenten les carpetes pendents de Deco per aquest mercat d'hivern i el partit de la Champions femenina del Barça. En Sergi Ferrer respon a els dubtes dels espectadors de l'Onze.</desc>
-    <length units="seconds">5468</length>
-    <episode-num system="onscreen">1291</episode-num>
-    <category lang="ca">ESPORTS</category>
-    <category lang="ca">MAGAZINE</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <subtitles type="teletext"/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/1/1/1688543515711.jpg"/>
-  </programme>
-  <programme start="20261120003108 +0100" stop="20261120005157 +0100" channel="esport3">
-    <title lang="ca">3CatInfo Esports</title>
-    <desc lang="ca">Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.</desc>
-    <length units="seconds">1249</length>
-    <episode-num system="onscreen">5572</episode-num>
+  <programme start="20261120042723 +0100" stop="20261120060042 +0100" channel="esport3">
+    <title lang="ca">Tot Costa</title>
+    <sub-title lang="ca">Deco diu que Balde no sortirà al gener</sub-title>
+    <desc lang="ca">Analitzem l'entrevista a Deco i Bojan amb Santi Giménez, Jordi Grau i Laia Tudel. També expliquem com han tornat els blaugranes a la feina. Anem a Madrid amb el 'Boig de la Castellana', David Sánchez, i analitzem com pinta el Gran Premi de motociclisme de Portugal amb Damià Aguilar. </desc>
+    <length units="seconds">5599</length>
+    <episode-num system="onscreen">1037</episode-num>
     <category lang="ca">ESPORTS</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <icon src="https://img.ccma.cat/multimedia/jpg/9/7/1758888682179.jpg"/>
+    <previously-shown/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/0/4/1706209193140.jpg"/>
+  </programme>
+  <programme start="20261120060042 +0100" stop="20261120061351 +0100" channel="esport3">
+    <title lang="ca">Pitch&amp;Cat</title>
+    <sub-title lang="ca">La targeta virtual</sub-title>
+    <desc lang="ca">Aprenem com funciona la nova aplicació de la Targeta Virtual de la Federació Catalana de Pitch &amp; Putt (FCPP), que substitueix la tradicional targeta física. A més, ens desplacem fins al Garraf per reviure els millors moments de la Copa Catalunya de Parelles Mixtes, disputada al Pitch &amp; Putt Portal del Roc, a Vilanova i la Geltrú.</desc>
+    <length units="seconds">789</length>
+    <episode-num system="onscreen">114</episode-num>
+    <category lang="ca">ESPORTS</category>
+    <category lang="ca">REPORTATGES</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <previously-shown/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/6/8/1727969229786.jpg"/>
   </programme>
   <channel id="sx3">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20261120000223 +0100" stop="20261120002232 +0100" channel="sx3">
-    <title lang="ca">Els germans Kratt</title>
-    <sub-title lang="ca">Un Nadal animal (1a part)</sub-title>
-    <desc lang="ca">Són les vacances de Nadal i, per celebrar-lo, l'equip dels germans Kratt s'agafa un descans de les seves aventures, però, quan estan a punt d'obrir els regals, sona l'alarma. Resulta que els malvats, el Zach, el Gormand i la Donita, estan capturant les cries de tots els animals que coneixen per convertir-les en adorns de Nadal. La festa l'hauran de deixar per més endavant, perquè ara el que han de fer és entrar en acció per salvar els seus amics i tornar-los a casa per Nadal.</desc>
-    <length units="seconds">1209</length>
-    <episode-num system="onscreen">97</episode-num>
+  <programme start="20261120045603 +0100" stop="20261120050733 +0100" channel="sx3">
+    <title lang="ca">La família Teixó-Guineu</title>
+    <sub-title lang="ca">La pastanaga de la paraula</sub-title>
+    <desc lang="ca">Els pares se'n van a passar el dia a cals avis guineu, amb la Trufa. I queden amb els nens que quan tornin faran un sopar pícnic, a l'aire lliure, tota la família. Però la Guineta i en Pinxo tenen idees diferents de com ha de ser i no paren de competir i discutir-se. Tots dos volen tenir l'aprovació d'en Timbal, però no fan cap cas de les idees que té ell. I en Timbal s'enfada molt. </desc>
+    <length units="seconds">690</length>
+    <episode-num system="onscreen">20</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
@@ -133,12 +134,12 @@
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20261120002232 +0100" stop="20261120004241 +0100" channel="sx3">
-    <title lang="ca">Els germans Kratt</title>
-    <sub-title lang="ca">Un Nadal animal (2a part)</sub-title>
-    <desc lang="ca">Els germans Kratt i tot l'equip han ajornat la festa de Nadal i persegueixen els malvats Gormand, Donita i Zach per rescatar els seus amics animals. Quan sembla que ho han aconseguit, els dolents fan servir les seves males arts per enganyar-los, els prenen tots els aparells i els abandonen al mig de l'oceà Àrtic. Ara només tenen un regalet que el Martin guarda a la butxaca i els animals de l'Àrtic per intentar salvar els seus amics.</desc>
-    <length units="seconds">1209</length>
-    <episode-num system="onscreen">98</episode-num>
+  <programme start="20261120050733 +0100" stop="20261120051902 +0100" channel="sx3">
+    <title lang="ca">La família Teixó-Guineu</title>
+    <sub-title lang="ca">En Martís mana</sub-title>
+    <desc lang="ca">En Pinxo cedeix el seu lloc de cap de la colla a en Martís per anar a buscar nous a una noguera que n'és plena a vessar i evitar que els gats del poble se les quedin totes. Pel camí, en Martís s'haurà de guanyar el respecte de la Guineta i en Timbal, que en un principi se'l prenen a broma.</desc>
+    <length units="seconds">689</length>
+    <episode-num system="onscreen">21</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
@@ -150,39 +151,27 @@
   <channel id="c33">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20261119233715 +0100" stop="20261120011816 +0100" channel="c33">
-    <title lang="ca">Pel·lícula</title>
-    <sub-title lang="ca">Libertad</sub-title>
-    <desc lang="ca">LIBERTADProductores: Lastor Media, Avalon PC i Bulletproof Cupid, 2021Direcció i guió: Clara RoquetDirecció de fotografia: Gris JordanaMúsica: Paul TyanIntèrprets: María Morera (Nora), Nicolle García (Libertad), Vicky Peña (Ángela), Nora Navas (Teresa) i Carol Hurtado (Rosana)La vida de la Nora canviarà quan la Libertad, la filla de la cuidadora colombiana que es fa càrrec de la seva àvia, arriba a la casa d'estiueig de la família. La nova i intensa amistat entre les dues joves, de procedència diferent, marcarà el seu despertar adolescent. </desc>
-    <credits>
-      <actor>María Morera (Nora)</actor>
-      <actor>Nicolle García (Libertad)</actor>
-      <actor>Vicky Peña (Ángela)</actor>
-      <actor>Nora Navas (Teresa)</actor>
-      <actor>Carol Hurtado (Rosana)La vida de la Nora canviarà quan la Libertad</actor>
-      <actor>la filla de la cuidadora colombiana que es fa càrrec de la seva àvia</actor>
-      <actor>arriba a la casa d'estiueig de la família. La nova</actor>
-      <actor>intensa amistat entre les dues joves</actor>
-      <actor>de procedència diferent</actor>
-      <actor>marcarà el seu despertar adolescent.</actor>
-    </credits>
-    <length units="seconds">6061</length>
-    <episode-num system="onscreen">1</episode-num>
-    <category lang="ca">FICCIÓ</category>
-    <category lang="ca">PEL·LÍCULA / TELEFILM</category>
+  <programme start="20261120045305 +0100" stop="20261120054007 +0100" channel="c33">
+    <title lang="ca">La Renaixença</title>
+    <sub-title lang="ca">La claqueta</sub-title>
+    <desc lang="ca">Tot i que a 'La Renaixença' no fem servir la claqueta, n'hem de parlar per guanyar-nos una mica el sector. Fa ràbia quan no lliga la imatge i la veu, eh? Amb la claqueta això queda solucionat. Tenim una visita d'aquelles que fan il·lusió: la Mercè Framis i en Ferran Albiol. Els titellaires d'en Mic i en Tomàtic. No havien compartit mai espai-temps, i ens fa il·lusió que això passi a casa nostra. Trobada de referents de generacions de canalla catalana. I sortim a passejar en Sugus per la guerra de la Galleda, el 1325.</desc>
+    <length units="seconds">2822</length>
+    <episode-num system="onscreen">44</episode-num>
+    <category lang="ca">DIVULGACIÓ</category>
+    <category lang="ca">ALTRES</category>
     <rating>
-      <value>PÚBLIC ADULT</value>
+      <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
-    <icon src="https://img.3cat.cat/multimedia/jpg/8/1/1719562392718.jpg"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/3/3/1756148014833.jpg"/>
   </programme>
-  <programme start="20261120011816 +0100" stop="20261120014204 +0100" channel="c33">
-    <title lang="ca">La pell dels murs</title>
-    <sub-title lang="ca">Núria Toll-Patricia Sánchez</sub-title>
-    <desc lang="ca">Aquest episodi de La Pell dels Murs està dedicat a la Núria Toll, dissenyadora gràfica i muralista igualadina. Toll és una de les veus més sòlides i significades a l'hora de reivindicar el paper de la dona en l'art urbà. El seu estil, clarament reconeixible, combina formes geomètriques, colors plans i línies simples per el·laborar missatges que busquen incitar a la reflexió sobre problemes socials relacionats amb el feminisme, la injustícia i l'estigma.Durant diverses jornades, la realitzadora Patricia Sánchez va seguir el procés d'execució d'un mural als Jardins de Maria Baldó, de Barcelona. L'obra va ser creada conjuntament entre Núria Toll i un grup de dones vinculades al Grup ATRA, una entitat sense ànim de lucre que ofereix atenció i tractament a persones en situació de vulnerabilitat i risc d'exclusió social. El resultat és una història molt coral, tendra i, alhora, punyent sobre l'estigma que pateixen les dones amb problemes de salut mental. 'Tothom té les seves potencialitats, però quan alguna persona té un desequilibri, es considera que és diferent. Justament, volem trencar amb l'exclusió social que aquesta diferència genera', comenta una de les participants en el documental. El mural forma part del projecte 'Parets amb ànima' que impulsa el Grup ATRA i que es duu a terme a diferents espais públics del barri de Gràcia de Barcelona, amb l'objectiu d'educar i sensibilitzar en matèria d'igualtat, inclusió social, feminismes i sostenibilitat, i ha comptat amb la col·laboració de Pintures Montó i de Montana Colors.La sèrie documental La Pell dels Murs és una producció de TV3 en col·laboració amb Un Capricho de Producciones.</desc>
-    <length units="seconds">1428</length>
-    <episode-num system="onscreen">7</episode-num>
+  <programme start="20261120054007 +0100" stop="20261120054450 +0100" channel="c33">
+    <title lang="ca">Gran!</title>
+    <sub-title lang="ca">Mary Shelley: 'Frankenstein'</sub-title>
+    <desc lang="ca">Mary Wollstonecraft Godwin, més coneguda com Mary Shelley, va escriure, amb només divuit anys, un autèntic clàssic de la literatura fantàstica: 'Frankenstein o el Prometeu modern'. Va ser publicada l'any 1818 i la novel·la va projectar una ombra tan llarga que ha arribat fins als nostres dies. Personalitats de l'alçada artística de Guillermo del Toro, James Whale, Kenneth Branagh o el mateix Tim Burton amb el seu 'Frankenweenie' s'han aproximat d'una manera més fidel, lliure o trencadora al mite creat per l'escriptora britànica. </desc>
+    <length units="seconds">283</length>
+    <episode-num system="onscreen">29</episode-num>
     <category lang="ca">ENTRETENIMENT</category>
     <category lang="ca">ALTRES</category>
     <rating>
@@ -190,6 +179,7 @@
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
+    <icon src="https://img.ccma.cat/multimedia//jpg/0/1/1714397571710.jpg"/>
   </programme>
   <channel id="oca1">
     <display-name>OCA1</display-name>
