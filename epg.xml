@@ -3,129 +3,121 @@
   <channel id="tv3uhd">
     <display-name>TV3UHD</display-name>
   </channel>
-  <programme start="20261120043000 +0100" stop="20261120050000 +0100" channel="tv3uhd">
-    <title lang="ca">Ritmes a l'aula</title>
-    <sub-title lang="ca">Arturo Blasco Quartet</sub-title>
-    <length units="seconds">1800</length>
-    <episode-num system="onscreen">3</episode-num>
-    <category lang="ca">MUSICALS</category>
-    <category lang="ca">JAZZ</category>
+  <programme start="20261120103046 +0100" stop="20261120135500 +0100" channel="tv3uhd">
+    <title lang="ca">Tot es mou</title>
+    <desc lang="ca">El programa presentat per Helena Garcia Melero s'emet de dilluns a divendres, de 10.30 a 13.55. Un magazín d'actualitat que busca informar, analitzar i debatre sobre temes que marquen l'actualitat social, econòmica i cultural del dia, amb una àmplia presència en directe dels reporters i reporteres, repartits per tot Catalunya. A més, el 'Tot es mou' compta amb seccions diàries de gastronomia (amb els principals cuiners i cuineres del país), successos, economia, mobilitat, temes mèdics i de tecnologia, entre d'altres.</desc>
+    <length units="seconds">12254</length>
+    <episode-num system="onscreen">1854</episode-num>
+    <category lang="ca">ACTUALITAT</category>
+    <category lang="ca">MAGAZINE</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <previously-shown/>
-    <icon src="https://img.3cat.cat/multimedia/jpg/0/5/1748345445750.jpg"/>
+    <subtitles type="teletext"/>
   </programme>
-  <programme start="20261120050000 +0100" stop="20261120054544 +0100" channel="tv3uhd">
-    <title lang="ca">Fusió i swing a l'estudi</title>
-    <sub-title lang="ca">Gemini</sub-title>
-    <desc lang="ca">Gemini són tres grans intèrprets a la recerca de l'evocació i el color a través de la seva música. Podríem dir que practiquen un estil influenciat per la musica laietana dels 70 i el jazz que es feia a Barcelona durant els 80. Jordi Gaspar, al baix acústic; Jordi Bonell, a la guitarra, i Roger Blavia, a la percussió.</desc>
-    <length units="seconds">2744</length>
-    <episode-num system="onscreen">15</episode-num>
-    <category lang="ca">MUSICALS</category>
-    <category lang="ca">ALTRES</category>
+  <programme start="20261120135500 +0100" stop="20261120143000 +0100" channel="tv3uhd">
+    <title lang="ca">Telenotícies comarques</title>
+    <length units="seconds">2100</length>
+    <episode-num system="onscreen">7080</episode-num>
+    <category lang="ca">ACTUALITAT</category>
+    <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <previously-shown/>
+    <subtitles type="teletext"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/5/2/1758026313525.jpg"/>
   </programme>
   <channel id="tvi">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20261120043000 +0100" stop="20261120050000 +0100" channel="tvi">
-    <title lang="ca">Ritmes a l'aula</title>
-    <sub-title lang="ca">Arturo Blasco Quartet</sub-title>
-    <length units="seconds">1800</length>
-    <episode-num system="onscreen">3</episode-num>
-    <category lang="ca">MUSICALS</category>
-    <category lang="ca">JAZZ</category>
+  <programme start="20261120103046 +0100" stop="20261120135500 +0100" channel="tvi">
+    <title lang="ca">Tot es mou</title>
+    <desc lang="ca">El programa presentat per Helena Garcia Melero s'emet de dilluns a divendres, de 10.30 a 13.55. Un magazín d'actualitat que busca informar, analitzar i debatre sobre temes que marquen l'actualitat social, econòmica i cultural del dia, amb una àmplia presència en directe dels reporters i reporteres, repartits per tot Catalunya. A més, el 'Tot es mou' compta amb seccions diàries de gastronomia (amb els principals cuiners i cuineres del país), successos, economia, mobilitat, temes mèdics i de tecnologia, entre d'altres.</desc>
+    <length units="seconds">12254</length>
+    <episode-num system="onscreen">1854</episode-num>
+    <category lang="ca">ACTUALITAT</category>
+    <category lang="ca">MAGAZINE</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <previously-shown/>
-    <icon src="https://img.3cat.cat/multimedia/jpg/0/5/1748345445750.jpg"/>
   </programme>
-  <programme start="20261120050000 +0100" stop="20261120054544 +0100" channel="tvi">
-    <title lang="ca">Fusió i swing a l'estudi</title>
-    <sub-title lang="ca">Gemini</sub-title>
-    <desc lang="ca">Gemini són tres grans intèrprets a la recerca de l'evocació i el color a través de la seva música. Podríem dir que practiquen un estil influenciat per la musica laietana dels 70 i el jazz que es feia a Barcelona durant els 80. Jordi Gaspar, al baix acústic; Jordi Bonell, a la guitarra, i Roger Blavia, a la percussió.</desc>
-    <length units="seconds">2744</length>
-    <episode-num system="onscreen">15</episode-num>
-    <category lang="ca">MUSICALS</category>
-    <category lang="ca">ALTRES</category>
+  <programme start="20261120135500 +0100" stop="20261120143000 +0100" channel="tvi">
+    <title lang="ca">Telenotícies comarques</title>
+    <length units="seconds">2100</length>
+    <episode-num system="onscreen">7080</episode-num>
+    <category lang="ca">ACTUALITAT</category>
+    <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <previously-shown/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/5/2/1758026313525.jpg"/>
   </programme>
   <channel id="324">
     <display-name>324</display-name>
   </channel>
-  <programme start="20261120010000 +0100" stop="20261120060000 +0100" channel="324">
+  <programme start="20261120120000 +0100" stop="20261120135500 +0100" channel="324">
     <title lang="ca">Notícies 3CatInfo</title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">18000</length>
-    <episode-num system="onscreen">11749</episode-num>
+    <length units="seconds">6900</length>
+    <episode-num system="onscreen">11752</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <previously-shown/>
+    <subtitles type="teletext"/>
     <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
-  <programme start="20261120060000 +0100" stop="20261120080000 +0100" channel="324">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">7200</length>
-    <episode-num system="onscreen">11750</episode-num>
+  <programme start="20261120135500 +0100" stop="20261120143000 +0100" channel="324">
+    <title lang="ca">Telenotícies comarques</title>
+    <length units="seconds">2100</length>
+    <episode-num system="onscreen">7080</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
+    <subtitles type="teletext"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/5/2/1758026313525.jpg"/>
   </programme>
   <channel id="esport3">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20261120042723 +0100" stop="20261120060042 +0100" channel="esport3">
-    <title lang="ca">Tot Costa</title>
-    <sub-title lang="ca">Deco diu que Balde no sortirà al gener</sub-title>
-    <desc lang="ca">Analitzem l'entrevista a Deco i Bojan amb Santi Giménez, Jordi Grau i Laia Tudel. També expliquem com han tornat els blaugranes a la feina. Anem a Madrid amb el 'Boig de la Castellana', David Sánchez, i analitzem com pinta el Gran Premi de motociclisme de Portugal amb Damià Aguilar. </desc>
-    <length units="seconds">5599</length>
-    <episode-num system="onscreen">1037</episode-num>
+  <programme start="20261120130009 +0100" stop="20261120140206 +0100" channel="esport3">
+    <title lang="ca">Esport Club</title>
+    <desc lang="ca">En Jordi Sanuy i Víctor Patsi us expliquen l'última hora esportiva i l'analitzen amb el seu equip de col·laboradors. El programa és molt actiu a les xarxes socials. L''Esport Club' té presència a Twitter, a Facebook i a Instagram. L'espai dirigeix moltes accions de participació amb l'audiència a través de les xarxes socials.</desc>
+    <length units="seconds">3717</length>
+    <episode-num system="onscreen">3288</episode-num>
     <category lang="ca">ESPORTS</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <previously-shown/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/0/4/1706209193140.jpg"/>
+    <subtitles type="teletext"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/7/3/1698145091337.jpg"/>
   </programme>
-  <programme start="20261120060042 +0100" stop="20261120061351 +0100" channel="esport3">
-    <title lang="ca">Pitch&amp;Cat</title>
-    <sub-title lang="ca">La targeta virtual</sub-title>
-    <desc lang="ca">Aprenem com funciona la nova aplicació de la Targeta Virtual de la Federació Catalana de Pitch &amp; Putt (FCPP), que substitueix la tradicional targeta física. A més, ens desplacem fins al Garraf per reviure els millors moments de la Copa Catalunya de Parelles Mixtes, disputada al Pitch &amp; Putt Portal del Roc, a Vilanova i la Geltrú.</desc>
-    <length units="seconds">789</length>
-    <episode-num system="onscreen">114</episode-num>
+  <programme start="20261120140206 +0100" stop="20261120150510 +0100" channel="esport3">
+    <title lang="ca">Esport Club</title>
+    <desc lang="ca">En Jordi Sanuy i Víctor Patsi us expliquen l'última hora esportiva i l'analitzen amb el seu equip de col·laboradors. El programa és molt actiu a les xarxes socials. L''Esport Club' té presència a Twitter, a Facebook i a Instagram. L'espai dirigeix moltes accions de participació amb l'audiència a través de les xarxes socials.</desc>
+    <length units="seconds">3784</length>
+    <episode-num system="onscreen">3288</episode-num>
     <category lang="ca">ESPORTS</category>
-    <category lang="ca">REPORTATGES</category>
+    <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <previously-shown/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/6/8/1727969229786.jpg"/>
+    <subtitles type="teletext"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/7/3/1698145091337.jpg"/>
   </programme>
   <channel id="sx3">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20261120045603 +0100" stop="20261120050733 +0100" channel="sx3">
-    <title lang="ca">La família Teixó-Guineu</title>
-    <sub-title lang="ca">La pastanaga de la paraula</sub-title>
-    <desc lang="ca">Els pares se'n van a passar el dia a cals avis guineu, amb la Trufa. I queden amb els nens que quan tornin faran un sopar pícnic, a l'aire lliure, tota la família. Però la Guineta i en Pinxo tenen idees diferents de com ha de ser i no paren de competir i discutir-se. Tots dos volen tenir l'aprovació d'en Timbal, però no fan cap cas de les idees que té ell. I en Timbal s'enfada molt. </desc>
-    <length units="seconds">690</length>
-    <episode-num system="onscreen">20</episode-num>
+  <programme start="20261120132338 +0100" stop="20261120134313 +0100" channel="sx3">
+    <title lang="ca">El detectiu Conan</title>
+    <sub-title lang="ca">Una mansió envoltada de zombis (1a part)</sub-title>
+    <desc lang="ca">En Conan, en Kogoro i la Ran veuen una pel·lícula de zombis on hi surt la Yoko Okino. L'endemà en Kogoro porta els nois a la mansió on es va rodar la pel·lícula. Allà troben en Heiji i la Kazuha. Al cap de poc arriba un equip de rodatge per filmar el tràiler de la seqüela. Quan un dels membres de l'equip apareix mort, s'assabenten que allà hi havia tingut lloc un crim.</desc>
+    <length units="seconds">1175</length>
+    <episode-num system="onscreen">885</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
@@ -134,12 +126,12 @@
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20261120050733 +0100" stop="20261120051902 +0100" channel="sx3">
-    <title lang="ca">La família Teixó-Guineu</title>
-    <sub-title lang="ca">En Martís mana</sub-title>
-    <desc lang="ca">En Pinxo cedeix el seu lloc de cap de la colla a en Martís per anar a buscar nous a una noguera que n'és plena a vessar i evitar que els gats del poble se les quedin totes. Pel camí, en Martís s'haurà de guanyar el respecte de la Guineta i en Timbal, que en un principi se'l prenen a broma.</desc>
-    <length units="seconds">689</length>
-    <episode-num system="onscreen">21</episode-num>
+  <programme start="20261120134313 +0100" stop="20261120140530 +0100" channel="sx3">
+    <title lang="ca">El detectiu Conan</title>
+    <sub-title lang="ca">Una mansió envoltada de zombis (2a part)</sub-title>
+    <desc lang="ca">Els misteris se succeeixen a la mansió on un equip de rodatge d'un club de cinema de terror s'havia reunit per gravar la seqüela d'una pel·lícula. Després de comprovar que la mansió sí que està envoltada de zombis, apareix un segon cadàver que encara afegeix més enigmes a tota la situació. Algú està gravant els assassinats amb un mòbil per deixar pistes, però també pot ser que ho faci per afegir-hi més suspens!</desc>
+    <length units="seconds">1337</length>
+    <episode-num system="onscreen">886</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
@@ -151,12 +143,25 @@
   <channel id="c33">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20261120045305 +0100" stop="20261120054007 +0100" channel="c33">
+  <programme start="20261120130257 +0100" stop="20261120135802 +0100" channel="c33">
+    <title lang="ca">Atrapa'm si pots</title>
+    <desc lang="ca">'Atrapa'm si pots' és un 'quiz show' clàssic, de preguntes i respostes, presentat per Llucià Ferrer, en què sis concursants competeixen per arribar a la fase final i guanyar el pot. 'Atrapa'm si pots' és entreteniment pur i on gairebé és més important passar-s'ho bé que els diners. És un concurs en què pesa més la intuïció que no els coneixements acadèmics, més l'estratègia en el joc que no la sort.</desc>
+    <length units="seconds">3305</length>
+    <episode-num system="onscreen">105</episode-num>
+    <category lang="ca">ENTRETENIMENT</category>
+    <category lang="ca">CONCURS</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <subtitles type="teletext"/>
+    <previously-shown/>
+  </programme>
+  <programme start="20261120135802 +0100" stop="20261120144419 +0100" channel="c33">
     <title lang="ca">La Renaixença</title>
-    <sub-title lang="ca">La claqueta</sub-title>
-    <desc lang="ca">Tot i que a 'La Renaixença' no fem servir la claqueta, n'hem de parlar per guanyar-nos una mica el sector. Fa ràbia quan no lliga la imatge i la veu, eh? Amb la claqueta això queda solucionat. Tenim una visita d'aquelles que fan il·lusió: la Mercè Framis i en Ferran Albiol. Els titellaires d'en Mic i en Tomàtic. No havien compartit mai espai-temps, i ens fa il·lusió que això passi a casa nostra. Trobada de referents de generacions de canalla catalana. I sortim a passejar en Sugus per la guerra de la Galleda, el 1325.</desc>
-    <length units="seconds">2822</length>
-    <episode-num system="onscreen">44</episode-num>
+    <sub-title lang="ca">Millors moments - setmana 20</sub-title>
+    <desc lang="ca">Aquests últims quatre capítols els hem dedicat al croissant (sí, ja sabem que no és un objecte), el xumet, el submarí i el segell postal. I hem xerrat amb en Jordi Robirosa (periodista), la Duna Ametller (modista de roba d'època), en Joan Garriga (músic) i l'Oriol Antolí (corredor i ultrafondista). Fa 20 setmanes que ens deixen fer aquestes coses, i seguim trobant objectes i persones que volen venir a petar la xerrada. Seguim-ne gaudint!</desc>
+    <length units="seconds">2777</length>
+    <episode-num system="onscreen">100</episode-num>
     <category lang="ca">DIVULGACIÓ</category>
     <category lang="ca">ALTRES</category>
     <rating>
@@ -165,21 +170,6 @@
     <subtitles type="teletext"/>
     <previously-shown/>
     <icon src="https://img.ccma.cat/multimedia/jpg/3/3/1756148014833.jpg"/>
-  </programme>
-  <programme start="20261120054007 +0100" stop="20261120054450 +0100" channel="c33">
-    <title lang="ca">Gran!</title>
-    <sub-title lang="ca">Mary Shelley: 'Frankenstein'</sub-title>
-    <desc lang="ca">Mary Wollstonecraft Godwin, més coneguda com Mary Shelley, va escriure, amb només divuit anys, un autèntic clàssic de la literatura fantàstica: 'Frankenstein o el Prometeu modern'. Va ser publicada l'any 1818 i la novel·la va projectar una ombra tan llarga que ha arribat fins als nostres dies. Personalitats de l'alçada artística de Guillermo del Toro, James Whale, Kenneth Branagh o el mateix Tim Burton amb el seu 'Frankenweenie' s'han aproximat d'una manera més fidel, lliure o trencadora al mite creat per l'escriptora britànica. </desc>
-    <length units="seconds">283</length>
-    <episode-num system="onscreen">29</episode-num>
-    <category lang="ca">ENTRETENIMENT</category>
-    <category lang="ca">ALTRES</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <subtitles type="teletext"/>
-    <previously-shown/>
-    <icon src="https://img.ccma.cat/multimedia//jpg/0/1/1714397571710.jpg"/>
   </programme>
   <channel id="oca1">
     <display-name>OCA1</display-name>
