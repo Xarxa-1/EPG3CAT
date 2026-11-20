@@ -3,121 +3,139 @@
   <channel id="tv3uhd">
     <display-name>TV3UHD</display-name>
   </channel>
-  <programme start="20261120103046 +0100" stop="20261120135500 +0100" channel="tv3uhd">
-    <title lang="ca">Tot es mou</title>
-    <desc lang="ca">El programa presentat per Helena Garcia Melero s'emet de dilluns a divendres, de 10.30 a 13.55. Un magazín d'actualitat que busca informar, analitzar i debatre sobre temes que marquen l'actualitat social, econòmica i cultural del dia, amb una àmplia presència en directe dels reporters i reporteres, repartits per tot Catalunya. A més, el 'Tot es mou' compta amb seccions diàries de gastronomia (amb els principals cuiners i cuineres del país), successos, economia, mobilitat, temes mèdics i de tecnologia, entre d'altres.</desc>
-    <length units="seconds">12254</length>
-    <episode-num system="onscreen">1854</episode-num>
-    <category lang="ca">ACTUALITAT</category>
-    <category lang="ca">MAGAZINE</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <subtitles type="teletext"/>
-  </programme>
-  <programme start="20261120135500 +0100" stop="20261120143000 +0100" channel="tv3uhd">
-    <title lang="ca">Telenotícies comarques</title>
-    <length units="seconds">2100</length>
-    <episode-num system="onscreen">7080</episode-num>
+  <programme start="20261120210000 +0100" stop="20261120220737 +0100" channel="tv3uhd">
+    <title lang="ca">Telenotícies vespre</title>
+    <length units="seconds">4057</length>
+    <episode-num system="onscreen">7394</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/5/2/1758026313525.jpg"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/7/2/1758026176427.jpg"/>
+  </programme>
+  <programme start="20261120220737 +0100" stop="20261121000115 +0100" channel="tv3uhd">
+    <title lang="ca">La gran pel·lícula</title>
+    <sub-title lang="ca">Problemes de família</sub-title>
+    <desc lang="ca">PROBLEMES DE FAMÍLIA 'The Problem with People'Direcció: Chris CottamGuió: Wally Marzano-Lesnevich, Paul ReiserProducció: MaxfilmsAny: 2024Durada: 102País: IrlandaMúsica: Steven ArgilaFotografia: Richard Kendrick, David OddIntèrprets: Colm Meaney, Paul Reiser, Jane Levy, Eimear Morrissey, Deirdre Monaghan, Lucianne McEvoy, Bernadette Carty, Patrick Martins, Esther Ayo James Dos cosins que han viscut sempre separats i que no s'havien conegut mai, intenten resoldre disputes familiars que es van iniciar fa generacions.</desc>
+    <credits>
+      <director>Chris Cottam</director>
+      <writer>Wally Marzano-Lesnevich</writer>
+      <actor>Colm Meaney</actor>
+      <actor>Paul Reiser</actor>
+      <actor>Jane Levy</actor>
+      <actor>Eimear Morrissey</actor>
+      <actor>Deirdre Monaghan</actor>
+      <actor>Lucianne McEvoy</actor>
+      <actor>Bernadette Carty</actor>
+      <actor>Patrick Martins</actor>
+      <actor>Esther Ayo James Dos cosins que han viscut sempre separats</actor>
+      <actor>que no s'havien conegut mai</actor>
+      <actor>intenten resoldre disputes familiars que es van iniciar fa generacions.</actor>
+    </credits>
+    <length units="seconds">6818</length>
+    <episode-num system="onscreen">1</episode-num>
+    <category lang="ca">FICCIÓ</category>
+    <category lang="ca">PEL·LÍCULA / TELEFILM</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <subtitles type="teletext"/>
   </programme>
   <channel id="tvi">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20261120103046 +0100" stop="20261120135500 +0100" channel="tvi">
-    <title lang="ca">Tot es mou</title>
-    <desc lang="ca">El programa presentat per Helena Garcia Melero s'emet de dilluns a divendres, de 10.30 a 13.55. Un magazín d'actualitat que busca informar, analitzar i debatre sobre temes que marquen l'actualitat social, econòmica i cultural del dia, amb una àmplia presència en directe dels reporters i reporteres, repartits per tot Catalunya. A més, el 'Tot es mou' compta amb seccions diàries de gastronomia (amb els principals cuiners i cuineres del país), successos, economia, mobilitat, temes mèdics i de tecnologia, entre d'altres.</desc>
-    <length units="seconds">12254</length>
-    <episode-num system="onscreen">1854</episode-num>
-    <category lang="ca">ACTUALITAT</category>
-    <category lang="ca">MAGAZINE</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-  </programme>
-  <programme start="20261120135500 +0100" stop="20261120143000 +0100" channel="tvi">
-    <title lang="ca">Telenotícies comarques</title>
-    <length units="seconds">2100</length>
-    <episode-num system="onscreen">7080</episode-num>
+  <programme start="20261120210000 +0100" stop="20261120220737 +0100" channel="tvi">
+    <title lang="ca">Telenotícies vespre</title>
+    <length units="seconds">4057</length>
+    <episode-num system="onscreen">7394</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <icon src="https://img.ccma.cat/multimedia/jpg/5/2/1758026313525.jpg"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/7/2/1758026176427.jpg"/>
+  </programme>
+  <programme start="20261120220028 +0100" stop="20261120222713 +0100" channel="tvi">
+    <title lang="ca">Després de tu</title>
+    <sub-title lang="ca">Indeleble</sub-title>
+    <desc lang="ca">L'Alba es prepara per als exàmens i pren d'amagat unes pastilles del seu pare per rendir més. Les pastilles li provoquen una mala reacció i la família l'ha de dur a l'hospital. Aquest ensurt farà que la Raquel i en Pau es reconciliïn i que ell prengui una gran decisió: deixar les pastilles.</desc>
+    <length units="seconds">1605</length>
+    <episode-num system="onscreen">17</episode-num>
+    <category lang="ca">FICCIÓ</category>
+    <category lang="ca">SÈRIE DRAMÀTICA</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <subtitles type="teletext"/>
+    <previously-shown/>
   </programme>
   <channel id="324">
     <display-name>324</display-name>
   </channel>
-  <programme start="20261120120000 +0100" stop="20261120135500 +0100" channel="324">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">6900</length>
-    <episode-num system="onscreen">11752</episode-num>
+  <programme start="20261120210000 +0100" stop="20261120220500 +0100" channel="324">
+    <title lang="ca">Telenotícies vespre</title>
+    <length units="seconds">3900</length>
+    <episode-num system="onscreen">7394</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <subtitles type="teletext"/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/7/2/1758026176427.jpg"/>
   </programme>
-  <programme start="20261120135500 +0100" stop="20261120143000 +0100" channel="324">
-    <title lang="ca">Telenotícies comarques</title>
-    <length units="seconds">2100</length>
-    <episode-num system="onscreen">7080</episode-num>
+  <programme start="20261120220500 +0100" stop="20261120233000 +0100" channel="324">
+    <title lang="ca">Mésnit</title>
+    <desc lang="ca">El 'Mésnit' arriba a la desena temporada, amb Marina Romero al capdavant de l'espai i amb la voluntat de continuar sent un centre de debat d'idees i d'anàlisi de l'activitat política.</desc>
+    <length units="seconds">5100</length>
+    <episode-num system="onscreen">2204</episode-num>
     <category lang="ca">ACTUALITAT</category>
-    <category lang="ca">INFORMATIU DIÀRI</category>
+    <category lang="ca">DEBAT</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/5/2/1758026313525.jpg"/>
   </programme>
   <channel id="esport3">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20261120130009 +0100" stop="20261120140206 +0100" channel="esport3">
-    <title lang="ca">Esport Club</title>
-    <desc lang="ca">En Jordi Sanuy i Víctor Patsi us expliquen l'última hora esportiva i l'analitzen amb el seu equip de col·laboradors. El programa és molt actiu a les xarxes socials. L''Esport Club' té presència a Twitter, a Facebook i a Instagram. L'espai dirigeix moltes accions de participació amb l'audiència a través de les xarxes socials.</desc>
-    <length units="seconds">3717</length>
-    <episode-num system="onscreen">3288</episode-num>
+  <programme start="20261120205330 +0100" stop="20261120230000 +0100" channel="esport3">
+    <title lang="ca">Futbol</title>
+    <sub-title lang="ca">Vila-real B - Gimnàstic de Tarragona / Primera Federació / J13</sub-title>
+    <desc lang="ca">Els tarragonins, que ocupen la 13a posició (4 victòries, 3 empats i 5 derrotes), visiten el camp del 2n classificat.</desc>
+    <length units="seconds">7590</length>
+    <episode-num system="onscreen">210</episode-num>
     <category lang="ca">ESPORTS</category>
-    <category lang="ca">INFORMATIU DIÀRI</category>
+    <category lang="ca">RETRANSMISSIONS ESPORTS</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <subtitles type="teletext"/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/7/3/1698145091337.jpg"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/0/7/1698446098170.jpg"/>
   </programme>
-  <programme start="20261120140206 +0100" stop="20261120150510 +0100" channel="esport3">
-    <title lang="ca">Esport Club</title>
-    <desc lang="ca">En Jordi Sanuy i Víctor Patsi us expliquen l'última hora esportiva i l'analitzen amb el seu equip de col·laboradors. El programa és molt actiu a les xarxes socials. L''Esport Club' té presència a Twitter, a Facebook i a Instagram. L'espai dirigeix moltes accions de participació amb l'audiència a través de les xarxes socials.</desc>
-    <length units="seconds">3784</length>
-    <episode-num system="onscreen">3288</episode-num>
+  <programme start="20261120230000 +0100" stop="20261121003054 +0100" channel="esport3">
+    <title lang="ca">Onze</title>
+    <sub-title lang="ca">Xavi Espart 2030 + Post Athletic Club - Espanyol</sub-title>
+    <desc lang="ca">A l'Onze valorem la renovació del polivalent jugador del planter del Barça i amb l'ajuda de Lluís Carrasco, Carles Fité, Laia Tudel i Irati Vidal juguem a endevinar si tindrà un pes específic en el futur immediat de l'equip de Flick. També connectem amb l'Imma Casares des de San Mamés per analitzar el postpartit entre l'Athletic Club i el RCD Espanyol. Ens visiten al plató l'Àlex Delmàs i el Xavi Cazorla. Tot plegat presentat per la Míriam Riau. Qui deia que els divendres no hi havia res interessant de l'àmbit esportiu.</desc>
+    <length units="seconds">5454</length>
+    <episode-num system="onscreen">1292</episode-num>
     <category lang="ca">ESPORTS</category>
-    <category lang="ca">INFORMATIU DIÀRI</category>
+    <category lang="ca">MAGAZINE</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/7/3/1698145091337.jpg"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/1/1/1688543515711.jpg"/>
   </programme>
   <channel id="sx3">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20261120132338 +0100" stop="20261120134313 +0100" channel="sx3">
-    <title lang="ca">El detectiu Conan</title>
-    <sub-title lang="ca">Una mansió envoltada de zombis (1a part)</sub-title>
-    <desc lang="ca">En Conan, en Kogoro i la Ran veuen una pel·lícula de zombis on hi surt la Yoko Okino. L'endemà en Kogoro porta els nois a la mansió on es va rodar la pel·lícula. Allà troben en Heiji i la Kazuha. Al cap de poc arriba un equip de rodatge per filmar el tràiler de la seqüela. Quan un dels membres de l'equip apareix mort, s'assabenten que allà hi havia tingut lloc un crim.</desc>
-    <length units="seconds">1175</length>
-    <episode-num system="onscreen">885</episode-num>
+  <programme start="20261120214118 +0100" stop="20261120220059 +0100" channel="sx3">
+    <title lang="ca">One piece</title>
+    <sub-title lang="ca">Quina sorpresa! La veritable identitat del soldadet de joguina!</sub-title>
+    <desc lang="ca">El combat de la Rebecca continua, sota el coliseu els gladiadors vençuts van desapareixent d'un en un i el soldadet desvela el seu passat dolorós i explica als del Barret de Palla la veritat que s'amaga rere la caiguda del rei Riku!</desc>
+    <length units="seconds">1181</length>
+    <episode-num system="onscreen">655</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
@@ -126,12 +144,12 @@
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20261120134313 +0100" stop="20261120140530 +0100" channel="sx3">
+  <programme start="20261120220059 +0100" stop="20261120222211 +0100" channel="sx3">
     <title lang="ca">El detectiu Conan</title>
-    <sub-title lang="ca">Una mansió envoltada de zombis (2a part)</sub-title>
-    <desc lang="ca">Els misteris se succeeixen a la mansió on un equip de rodatge d'un club de cinema de terror s'havia reunit per gravar la seqüela d'una pel·lícula. Després de comprovar que la mansió sí que està envoltada de zombis, apareix un segon cadàver que encara afegeix més enigmes a tota la situació. Algú està gravant els assassinats amb un mòbil per deixar pistes, però també pot ser que ho faci per afegir-hi més suspens!</desc>
-    <length units="seconds">1337</length>
-    <episode-num system="onscreen">886</episode-num>
+    <sub-title lang="ca">El noi misteriós</sub-title>
+    <desc lang="ca">En Conan segueix a desgrat la colla de la Lliga de Detectius Júnior, que van a investigar uns rumors sobre ovnis i extraterrestres. Però resulta que troba un home mort sota un pont i, molt a prop seu, una pista que li recorda un lloc de la infància. Hi va de seguida per investigar més el cas i acabar de confirmar les seves hipòtesis sobre el possible autor de l'assassinat.</desc>
+    <length units="seconds">1272</length>
+    <episode-num system="onscreen">884</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
@@ -143,32 +161,32 @@
   <channel id="c33">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20261120130257 +0100" stop="20261120135802 +0100" channel="c33">
-    <title lang="ca">Atrapa'm si pots</title>
-    <desc lang="ca">'Atrapa'm si pots' és un 'quiz show' clàssic, de preguntes i respostes, presentat per Llucià Ferrer, en què sis concursants competeixen per arribar a la fase final i guanyar el pot. 'Atrapa'm si pots' és entreteniment pur i on gairebé és més important passar-s'ho bé que els diners. És un concurs en què pesa més la intuïció que no els coneixements acadèmics, més l'estratègia en el joc que no la sort.</desc>
-    <length units="seconds">3305</length>
-    <episode-num system="onscreen">105</episode-num>
-    <category lang="ca">ENTRETENIMENT</category>
-    <category lang="ca">CONCURS</category>
+  <programme start="20261120213800 +0100" stop="20261120220037 +0100" channel="c33">
+    <title lang="ca">Jet lag</title>
+    <sub-title lang="ca">Qui té por de Totó Tomàs</sub-title>
+    <desc lang="ca">La Diana decideix llogar una habitació del seu pis perquè va curta d'euros i agafa el primer llogater que passa: un home jove, que no parla i du una bossa d'esport plena de ganivets. Per la seva banda, l'Esther i l'Andreu ja tenen el seu pis arreglat... o això és el que ells creien. Tots junts viuran una veritable nit de terror.</desc>
+    <length units="seconds">1357</length>
+    <episode-num system="onscreen">28</episode-num>
+    <category lang="ca">FICCIÓ</category>
+    <category lang="ca">TELESÈRIE</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20261120135802 +0100" stop="20261120144419 +0100" channel="c33">
+  <programme start="20261120220037 +0100" stop="20261120225134 +0100" channel="c33">
     <title lang="ca">La Renaixença</title>
-    <sub-title lang="ca">Millors moments - setmana 20</sub-title>
-    <desc lang="ca">Aquests últims quatre capítols els hem dedicat al croissant (sí, ja sabem que no és un objecte), el xumet, el submarí i el segell postal. I hem xerrat amb en Jordi Robirosa (periodista), la Duna Ametller (modista de roba d'època), en Joan Garriga (músic) i l'Oriol Antolí (corredor i ultrafondista). Fa 20 setmanes que ens deixen fer aquestes coses, i seguim trobant objectes i persones que volen venir a petar la xerrada. Seguim-ne gaudint!</desc>
-    <length units="seconds">2777</length>
-    <episode-num system="onscreen">100</episode-num>
+    <sub-title lang="ca">Millors moments - setmana 12</sub-title>
+    <desc lang="ca">Amb una teula, un desodorant, un ventall i un flexòmetre pots fer… no ho sé, prendre mides, acabar la teulada, i… no fer pudor… per partida doble! Mira, sempre ens agrada trobar relació entre tots els objectes, i aquesta vegada, per difícil que fos, també ho hem aconseguit. Som els millors, les nostres famílies deuen estar orgulloses de nosaltres. Els convidats d'aquesta setmana també són els millors: són la Fàtima Llambrich, en Bernat Bardagil, en Sergi Cebriàn i Doctor Prats, que pugen al nostre escenari.</desc>
+    <length units="seconds">3057</length>
+    <episode-num system="onscreen">278</episode-num>
     <category lang="ca">DIVULGACIÓ</category>
     <category lang="ca">ALTRES</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
-    <previously-shown/>
     <icon src="https://img.ccma.cat/multimedia/jpg/3/3/1756148014833.jpg"/>
   </programme>
   <channel id="oca1">
