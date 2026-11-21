@@ -3,80 +3,79 @@
   <channel id="tv3uhd">
     <display-name>TV3UHD</display-name>
   </channel>
-  <programme start="20261121070000 +0100" stop="20261121100000 +0100" channel="tv3uhd">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">10800</length>
-    <episode-num system="onscreen">11759</episode-num>
-    <category lang="ca">ACTUALITAT</category>
-    <category lang="ca">INFORMATIU DIÀRI</category>
+  <programme start="20261121220850 +0100" stop="20261122005007 +0100" channel="tv3uhd">
+    <title lang="ca">Col·lapse</title>
+    <desc lang="ca">Entrevistem Jordi Évole , un dels periodistes i comunicadors més influents del panorama televisiu. Amb ell, que té molta experiència entrevistant líders polítics, repassem l'actualitat social política una setmana abans de les eleccions generals.Compartim amb l'actor Pedro Alonso, especialment conegut pel seu paper de Berlín a La casa de papel, una conversa on parla obertament sobre la seva intensitat, que el va portar a explorar el costat fosc de la vida. També ens explica els seus nous reptes laborals en ficció. L'egiptòloga catalana Irene Cordón que tot just acaba de publicar el llibre 'Quan els Déus caminaven pel Nil' descobrirem algunes de les coses més sorprenents i meravelloses de la civilització de l'antic Egipte. Carlos Latre i Àngel Llàcer tornen un altre cop al programa per fer de les seves. Quins intercanvis haurà fet Anna Callís amb el bolígraf que li va donar la setmana passada Jordi González? També Sergi Pàmies, Albert Montagut i les dades amb Frederic Vincent. 'Col·lapse', dissabte a les 22.05 a TV3 i 3Cat, amb Jordi González.</desc>
+    <length units="seconds">9677</length>
+    <episode-num system="onscreen">162</episode-num>
+    <category lang="ca">ENTRETENIMENT</category>
+    <category lang="ca">TALK-SHOW</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
-  <programme start="20261121100000 +0100" stop="20261121120000 +0100" channel="tv3uhd">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">7200</length>
-    <episode-num system="onscreen">11760</episode-num>
-    <category lang="ca">ACTUALITAT</category>
-    <category lang="ca">INFORMATIU DIÀRI</category>
+  <programme start="20261122005007 +0100" stop="20261122011531 +0100" channel="tv3uhd">
+    <title lang="ca">Marcians</title>
+    <sub-title lang="ca">Viatjar a una altra llengua</sub-title>
+    <desc lang="ca">Amb motiu de la celebració a Barcelona la setmana vinent del Primer Fòrum de Traductors de Literatura Catalana, organitzat per l'Institut Ramon Llull, ens hem endinsat en la vida, la feina, els problemes i la passió d'algunes traductores de novel·les catalanes a d'altres llengües.Marina Ketlerova és la traductora de literatura catalana més jove. Fa set anys es va instal·lar a Barcelona i va aconseguir el que semblava un somni: traduir al rus un best-seller com 'Canto jo i la muntanya balla', d'Irene Solà. Però la traducció fa dos anys que viu en un calaix. L'editorial russa que l'havia de publicar no s'ha atrevit a fer-ho per por de la censura. A Rússia, no es poden presentar en la literatura personatges del col·lectiu LGTBIQ+ sense afegir-hi una mirada crítica i reprovadora.I Nina Avrova Raaben ha pogut esquivar la censura russa en les traduccions de les novel·les d'Albert Sánchez-Piñol, però no ha pogut evitar que hagin estat catalogades 'per a majors de 18 anys'. I tot i això són un gran èxit. 'La pell freda' s'ha convertit en un best-seller a Rússia, amb més de 200.000 exemplars venuts. Stefania Maria Ciminelli, nascuda a Roma, va descobrir el català quan estiuejava de petita a l'Alguer. I des d'aleshores, aquella llengua estranya que parlaven els nens de la ciutat l'ha acompanyat tota la vida. Viu a Barcelona des de 1991. Ha traduït Pla, Rodoreda, Porcel. I ha portat a l'italià amb passió les grans novel·les de Jaume Cabré.Annie Bats fa més de quaranta anys que es va instal·lar a Barcelona. I des d'aleshores no ha parat de traduir. Experta en poesia, ha sabut trobar i traduir els versos alexandrins amagats en les novel·les d'Eva Baltasar. Les hem reunides totes dues per parlar-ne, uns dies abans que se sabés que 'Ocàs i fascinació' ha guanyat el premi Médicis Étranger a la millor novel·la traduïda a França aquest any.</desc>
+    <length units="seconds">1524</length>
+    <episode-num system="onscreen">104</episode-num>
+    <category lang="ca">ENTRETENIMENT</category>
+    <category lang="ca">ALTRES</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
+    <previously-shown/>
   </programme>
   <channel id="tvi">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20261121070000 +0100" stop="20261121100000 +0100" channel="tvi">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">10800</length>
-    <episode-num system="onscreen">11759</episode-num>
-    <category lang="ca">ACTUALITAT</category>
-    <category lang="ca">INFORMATIU DIÀRI</category>
+  <programme start="20261121220850 +0100" stop="20261122005007 +0100" channel="tvi">
+    <title lang="ca">Col·lapse</title>
+    <desc lang="ca">Entrevistem Jordi Évole , un dels periodistes i comunicadors més influents del panorama televisiu. Amb ell, que té molta experiència entrevistant líders polítics, repassem l'actualitat social política una setmana abans de les eleccions generals.Compartim amb l'actor Pedro Alonso, especialment conegut pel seu paper de Berlín a La casa de papel, una conversa on parla obertament sobre la seva intensitat, que el va portar a explorar el costat fosc de la vida. També ens explica els seus nous reptes laborals en ficció. L'egiptòloga catalana Irene Cordón que tot just acaba de publicar el llibre 'Quan els Déus caminaven pel Nil' descobrirem algunes de les coses més sorprenents i meravelloses de la civilització de l'antic Egipte. Carlos Latre i Àngel Llàcer tornen un altre cop al programa per fer de les seves. Quins intercanvis haurà fet Anna Callís amb el bolígraf que li va donar la setmana passada Jordi González? També Sergi Pàmies, Albert Montagut i les dades amb Frederic Vincent. 'Col·lapse', dissabte a les 22.05 a TV3 i 3Cat, amb Jordi González.</desc>
+    <length units="seconds">9677</length>
+    <episode-num system="onscreen">162</episode-num>
+    <category lang="ca">ENTRETENIMENT</category>
+    <category lang="ca">TALK-SHOW</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
-  <programme start="20261121100000 +0100" stop="20261121120000 +0100" channel="tvi">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">7200</length>
-    <episode-num system="onscreen">11760</episode-num>
-    <category lang="ca">ACTUALITAT</category>
-    <category lang="ca">INFORMATIU DIÀRI</category>
+  <programme start="20261122005007 +0100" stop="20261122011531 +0100" channel="tvi">
+    <title lang="ca">Marcians</title>
+    <sub-title lang="ca">Viatjar a una altra llengua</sub-title>
+    <desc lang="ca">Amb motiu de la celebració a Barcelona la setmana vinent del Primer Fòrum de Traductors de Literatura Catalana, organitzat per l'Institut Ramon Llull, ens hem endinsat en la vida, la feina, els problemes i la passió d'algunes traductores de novel·les catalanes a d'altres llengües.Marina Ketlerova és la traductora de literatura catalana més jove. Fa set anys es va instal·lar a Barcelona i va aconseguir el que semblava un somni: traduir al rus un best-seller com 'Canto jo i la muntanya balla', d'Irene Solà. Però la traducció fa dos anys que viu en un calaix. L'editorial russa que l'havia de publicar no s'ha atrevit a fer-ho per por de la censura. A Rússia, no es poden presentar en la literatura personatges del col·lectiu LGTBIQ+ sense afegir-hi una mirada crítica i reprovadora.I Nina Avrova Raaben ha pogut esquivar la censura russa en les traduccions de les novel·les d'Albert Sánchez-Piñol, però no ha pogut evitar que hagin estat catalogades 'per a majors de 18 anys'. I tot i això són un gran èxit. 'La pell freda' s'ha convertit en un best-seller a Rússia, amb més de 200.000 exemplars venuts. Stefania Maria Ciminelli, nascuda a Roma, va descobrir el català quan estiuejava de petita a l'Alguer. I des d'aleshores, aquella llengua estranya que parlaven els nens de la ciutat l'ha acompanyat tota la vida. Viu a Barcelona des de 1991. Ha traduït Pla, Rodoreda, Porcel. I ha portat a l'italià amb passió les grans novel·les de Jaume Cabré.Annie Bats fa més de quaranta anys que es va instal·lar a Barcelona. I des d'aleshores no ha parat de traduir. Experta en poesia, ha sabut trobar i traduir els versos alexandrins amagats en les novel·les d'Eva Baltasar. Les hem reunides totes dues per parlar-ne, uns dies abans que se sabés que 'Ocàs i fascinació' ha guanyat el premi Médicis Étranger a la millor novel·la traduïda a França aquest any.</desc>
+    <length units="seconds">1524</length>
+    <episode-num system="onscreen">104</episode-num>
+    <category lang="ca">ENTRETENIMENT</category>
+    <category lang="ca">ALTRES</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
+    <previously-shown/>
   </programme>
   <channel id="324">
     <display-name>324</display-name>
   </channel>
-  <programme start="20261121070000 +0100" stop="20261121100000 +0100" channel="324">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">10800</length>
-    <episode-num system="onscreen">11759</episode-num>
+  <programme start="20261121210000 +0100" stop="20261121230000 +0100" channel="324">
+    <title lang="ca">Telenotícies vespre</title>
+    <length units="seconds">7200</length>
+    <episode-num system="onscreen">7395</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/7/2/1758026176427.jpg"/>
   </programme>
-  <programme start="20261121100000 +0100" stop="20261121120000 +0100" channel="324">
+  <programme start="20261121230000 +0100" stop="20261122003000 +0100" channel="324">
     <title lang="ca">Notícies 3CatInfo</title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">7200</length>
-    <episode-num system="onscreen">11760</episode-num>
+    <length units="seconds">5400</length>
+    <episode-num system="onscreen">11765</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
@@ -88,80 +87,88 @@
   <channel id="esport3">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20261121092847 +0100" stop="20261121101948 +0100" channel="esport3">
-    <title lang="ca">Billar a 3 bandes</title>
-    <sub-title lang="ca">Dani Sánchez-NS Park / PBA Tour</sub-title>
-    <desc lang="ca">Partida de billar a tres bandes dins del cinquè torneig de la PBA Tour 2026-2027, el NH Nonghyup Card PBA Championship que es disputa a Goyang, a Corea del Sud. El campió català Dani Sánchez, nascut a Santa Coloma de Gramenet, s'enfronta al sudcoreà Nam-Soo Park.</desc>
-    <length units="seconds">3061</length>
-    <episode-num system="onscreen">8161</episode-num>
+  <programme start="20261121224444 +0100" stop="20261121230011 +0100" channel="esport3">
+    <title lang="ca">Sala de Premsa</title>
+    <sub-title lang="ca">Hansi Flick / Prèvia Barça - Vila-real / J13</sub-title>
+    <desc lang="ca">Esport3 t'ofereix les compareixences de dirigents, jugadors i entrenadors dels equips catalans davant els mitjans de comunicació.</desc>
+    <length units="seconds">927</length>
+    <episode-num system="onscreen">752</episode-num>
     <category lang="ca">ESPORTS</category>
-    <category lang="ca">RETRANSMISSIONS ESPORTS</category>
+    <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
-    <icon src="https://img.3cat.cat/multimedia/jpg/3/3/1766061188133.jpg"/>
+    <icon src="https://img.3cat.cat/multimedia/jpg/7/4/1778665728847.jpg"/>
   </programme>
-  <programme start="20261121101948 +0100" stop="20261121115500 +0100" channel="esport3">
-    <title lang="ca">Onze</title>
-    <sub-title lang="ca">Xavi Espart 2030 + Post Athletic Club - Espanyol</sub-title>
-    <desc lang="ca">A l'Onze valorem la renovació del polivalent jugador del planter del Barça i amb l'ajuda de Lluís Carrasco, Carles Fité, Laia Tudel i Irati Vidal juguem a endevinar si tindrà un pes específic en el futur immediat de l'equip de Flick. També connectem amb l'Imma Casares des de San Mamés per analitzar el postpartit entre l'Athletic Club i el RCD Espanyol. Ens visiten al plató l'Àlex Delmàs i el Xavi Cazorla. Tot plegat presentat per la Míriam Riau. Qui deia que els divendres no hi havia res interessant de l'àmbit esportiu.</desc>
-    <length units="seconds">5712</length>
-    <episode-num system="onscreen">1292</episode-num>
+  <programme start="20261121230011 +0100" stop="20261122003630 +0100" channel="esport3">
+    <title lang="ca">Gol a gol</title>
+    <sub-title lang="ca">Anàlisi de la jornada / J13 / Dissabte</sub-title>
+    <desc lang="ca">'Gol a gol' us ofereix els resums dels partits de futbol de Primera i Segona Divisió. Presentat per Jordi Grau a Esport3, cada dissabte i cada diumenge podeu veure les millors imatges de la jornada de Lliga amb l'anàlisi dels experts, amb especial atenció als equips catalans, sobretot el Barça, el Girona i l'Espanyol.</desc>
+    <length units="seconds">5779</length>
+    <episode-num system="onscreen">1802</episode-num>
     <category lang="ca">ESPORTS</category>
     <category lang="ca">MAGAZINE</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
-    <previously-shown/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/1/1/1688543515711.jpg"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/2/1/1698144123212.jpg"/>
   </programme>
   <channel id="sx3">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20261121094023 +0100" stop="20261121095056 +0100" channel="sx3">
-    <title lang="ca">La Patrulla Peluda</title>
-    <sub-title lang="ca">- La Patrulla salva l’Equip de Gats de Rescat</sub-title>
-    <desc lang="ca">Sense Descripció</desc>
-    <length units="seconds">633</length>
-    <episode-num system="onscreen">189</episode-num>
-    <subtitles type="teletext"/>
-  </programme>
-  <programme start="20261121095056 +0100" stop="20261121100130 +0100" channel="sx3">
-    <title lang="ca">La Patrulla Peluda</title>
-    <sub-title lang="ca">- La Patrulla salva un estruç</sub-title>
-    <desc lang="ca">Sense Descripció</desc>
-    <length units="seconds">634</length>
-    <episode-num system="onscreen">190</episode-num>
-    <subtitles type="teletext"/>
-  </programme>
-  <channel id="c33">
-    <display-name>C33</display-name>
-  </channel>
-  <programme start="20261121092149 +0100" stop="20261121100808 +0100" channel="c33">
-    <title lang="ca">Globus Sonda</title>
-    <sub-title lang="ca">Miguel Torres - Vilafranca del Penedès</sub-title>
-    <desc lang="ca">Avui puja al 'Globus sonda' un dels homes que més hi entén de vins d'aquest país, i del món en general, Miguel Torres. Ell és el president de Bodegues Torres (quarta generació familiar en l'elaboració de vins). També presideix la Federació Espanyola del vi. Un visionari preocupat pel medi ambient i ocupat en la lluita contra el canvi climàtic. Ens enlairarem a Vilafranca, al bell mig de les seves vinyes. Des de terra, la Candela Figueras, ens presentarà algú que el coneix molt bé; no en va, fa quaranta anys que comparteixen passions... Acabarem el 'Globus sonda' d'avui aixecant la copa de vi, però abans... alçarem el vol.</desc>
-    <length units="seconds">2779</length>
-    <episode-num system="onscreen">9</episode-num>
-    <category lang="ca">ENTRETENIMENT</category>
-    <category lang="ca">ALTRES</category>
+  <programme start="20261121224459 +0100" stop="20261121225547 +0100" channel="sx3">
+    <title lang="ca">La tropa del corral</title>
+    <sub-title lang="ca">Els tres treballs de la Tropa del Corral</sub-title>
+    <desc lang="ca">Un dels cadells d'en Sam ha llençat la sabatilla de l'amo al carrer, i ara l'Esther pensa que és un objecte sagrat. Diu que no els la pensa tornar fins que la Tropa no completi tres tasques inversemblants, però llavors canvia d'opinió...</desc>
+    <length units="seconds">648</length>
+    <episode-num system="onscreen">22</episode-num>
+    <category lang="ca">FICCIÓ</category>
+    <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
-      <value>TOTS ELS PÚBLICS</value>
+      <value>INFANTIL</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20261121100808 +0100" stop="20261121105147 +0100" channel="c33">
-    <title lang="ca">Batalla monumental</title>
-    <sub-title lang="ca">Batalla de monestirs: Poblet-Santes Creus</sub-title>
-    <desc lang="ca">La Batalla Monumental d'avui es lliura entre els dos monestirs cistercencs estrella: el monestir de Poblet, centre neuràlgic de la Catalunya medieval, i el monestir de Santes Creus, lloc triat per reis i nobles per al seu repòs etern.Com a cada programa, la Candela Figueras i l'Ivan Medina buscaran els millors arguments i els testimonis més convincents per aconseguir que el seu sigui el monument guanyador del capítol. Tots dos estaran disposats a fer el que calgui per decantar la balança a favor del seu monument. Aquesta vegada, l'Ivan explorarà l'art de la cal·ligrafia gòtica i l'enquadernació de llibres, i la Candela aprendrà a fer vitralls de l'orde del Cister.Roger de Gràcia és el mestre de cerimònies d'una nova batalla singular on, com sempre, serà l'audiència qui decidirà el guanyador d'aquest duel medieval. Roger de Gràcia és el mestre de cerimònies d'una nova Batalla Monumental a TV3. Avui la Candela Figueras viatja fins al Reial Monestir de Santes Creus, i, ben a prop d'allà, l'Ivan Medina visita el Reial Monestir de Santa Maria de Poblet. Un duel medieval molt renyit, on els dos monestirs s'enfrontaran cara a cara per ser el favorit de les catalanes i els catalans. Però, com sempre, serà l'audiència qui haurà de decidir quin dels dos monuments passa a la gran final. </desc>
-    <length units="seconds">2619</length>
-    <episode-num system="onscreen">5</episode-num>
-    <category lang="ca">ENTRETENIMENT</category>
-    <category lang="ca">ALTRES</category>
+  <programme start="20261121225547 +0100" stop="20261121230643 +0100" channel="sx3">
+    <title lang="ca">La tropa del corral</title>
+    <sub-title lang="ca">El príncep de la foscor</sub-title>
+    <desc lang="ca">En Prince truca la Tropa perquè l'ajudin a desfer-se d'un ratolí que ha vist a casa. Mentre part del grup l'intenta trobar, l'altra mira d'ajudar en Prince a redescobrir els seus instints felins. Serà una missió complicada.</desc>
+    <length units="seconds">656</length>
+    <episode-num system="onscreen">23</episode-num>
+    <category lang="ca">FICCIÓ</category>
+    <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
+    <rating>
+      <value>INFANTIL</value>
+    </rating>
+    <subtitles type="teletext"/>
+    <previously-shown/>
+  </programme>
+  <channel id="c33">
+    <display-name>C33</display-name>
+  </channel>
+  <programme start="20261121222708 +0100" stop="20261121235501 +0100" channel="c33">
+    <title lang="ca">El documental</title>
+    <sub-title lang="ca">Diari d'un pacifista</sub-title>
+    <length units="seconds">5273</length>
+    <episode-num system="onscreen">1</episode-num>
+    <category lang="ca">DIVULGACIÓ</category>
+    <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+  </programme>
+  <programme start="20261121235501 +0100" stop="20261122005021 +0100" channel="c33">
+    <title lang="ca">60 minuts</title>
+    <sub-title lang="ca">El rei del Sudan del Nord</sub-title>
+    <desc lang="ca">Quan la seva filla li diu que voldria ser princesa, Jeremiah Heaton, un granger dels Estats Units, busca un territori que no formi part de cap estat per instaurar-hi un regne del qual ell serà el rei i la seva filla, la princesa. Navegant per internet troba Bir Tawil, una petita franja de terreny entre Egipte i el Sudan que, per un embolic de la descolonització, no volen ni un estat ni l'altre. El Jeremiah planta la bandera del seu regne en ple desert, però amb això no en té prou i comença a buscar la manera de treure partit de l'estat que acaba de crear. Així és com entra en contacte amb tota mena d'espavilats que veuen en el regne del Sudan del Nord una oportunitat d'enriquir-se.</desc>
+    <length units="seconds">3320</length>
+    <episode-num system="onscreen">1</episode-num>
+    <category lang="ca">DIVULGACIÓ</category>
+    <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
