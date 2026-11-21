@@ -3,92 +3,10 @@
   <channel id="tv3uhd">
     <display-name>TV3UHD</display-name>
   </channel>
-  <programme start="20261120210000 +0100" stop="20261120220737 +0100" channel="tv3uhd">
-    <title lang="ca">Telenotícies vespre</title>
-    <length units="seconds">4057</length>
-    <episode-num system="onscreen">7394</episode-num>
-    <category lang="ca">ACTUALITAT</category>
-    <category lang="ca">INFORMATIU DIÀRI</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <subtitles type="teletext"/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/7/2/1758026176427.jpg"/>
-  </programme>
-  <programme start="20261120220737 +0100" stop="20261121000115 +0100" channel="tv3uhd">
-    <title lang="ca">La gran pel·lícula</title>
-    <sub-title lang="ca">Problemes de família</sub-title>
-    <desc lang="ca">PROBLEMES DE FAMÍLIA 'The Problem with People'Direcció: Chris CottamGuió: Wally Marzano-Lesnevich, Paul ReiserProducció: MaxfilmsAny: 2024Durada: 102País: IrlandaMúsica: Steven ArgilaFotografia: Richard Kendrick, David OddIntèrprets: Colm Meaney, Paul Reiser, Jane Levy, Eimear Morrissey, Deirdre Monaghan, Lucianne McEvoy, Bernadette Carty, Patrick Martins, Esther Ayo James Dos cosins que han viscut sempre separats i que no s'havien conegut mai, intenten resoldre disputes familiars que es van iniciar fa generacions.</desc>
-    <credits>
-      <director>Chris Cottam</director>
-      <writer>Wally Marzano-Lesnevich</writer>
-      <actor>Colm Meaney</actor>
-      <actor>Paul Reiser</actor>
-      <actor>Jane Levy</actor>
-      <actor>Eimear Morrissey</actor>
-      <actor>Deirdre Monaghan</actor>
-      <actor>Lucianne McEvoy</actor>
-      <actor>Bernadette Carty</actor>
-      <actor>Patrick Martins</actor>
-      <actor>Esther Ayo James Dos cosins que han viscut sempre separats</actor>
-      <actor>que no s'havien conegut mai</actor>
-      <actor>intenten resoldre disputes familiars que es van iniciar fa generacions.</actor>
-    </credits>
-    <length units="seconds">6818</length>
-    <episode-num system="onscreen">1</episode-num>
-    <category lang="ca">FICCIÓ</category>
-    <category lang="ca">PEL·LÍCULA / TELEFILM</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <subtitles type="teletext"/>
-  </programme>
-  <channel id="tvi">
-    <display-name>TVI</display-name>
-  </channel>
-  <programme start="20261120210000 +0100" stop="20261120220737 +0100" channel="tvi">
-    <title lang="ca">Telenotícies vespre</title>
-    <length units="seconds">4057</length>
-    <episode-num system="onscreen">7394</episode-num>
-    <category lang="ca">ACTUALITAT</category>
-    <category lang="ca">INFORMATIU DIÀRI</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <icon src="https://img.ccma.cat/multimedia/jpg/7/2/1758026176427.jpg"/>
-  </programme>
-  <programme start="20261120220028 +0100" stop="20261120222713 +0100" channel="tvi">
-    <title lang="ca">Després de tu</title>
-    <sub-title lang="ca">Indeleble</sub-title>
-    <desc lang="ca">L'Alba es prepara per als exàmens i pren d'amagat unes pastilles del seu pare per rendir més. Les pastilles li provoquen una mala reacció i la família l'ha de dur a l'hospital. Aquest ensurt farà que la Raquel i en Pau es reconciliïn i que ell prengui una gran decisió: deixar les pastilles.</desc>
-    <length units="seconds">1605</length>
-    <episode-num system="onscreen">17</episode-num>
-    <category lang="ca">FICCIÓ</category>
-    <category lang="ca">SÈRIE DRAMÀTICA</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <subtitles type="teletext"/>
-    <previously-shown/>
-  </programme>
-  <channel id="324">
-    <display-name>324</display-name>
-  </channel>
-  <programme start="20261120210000 +0100" stop="20261120220500 +0100" channel="324">
-    <title lang="ca">Telenotícies vespre</title>
-    <length units="seconds">3900</length>
-    <episode-num system="onscreen">7394</episode-num>
-    <category lang="ca">ACTUALITAT</category>
-    <category lang="ca">INFORMATIU DIÀRI</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <icon src="https://img.ccma.cat/multimedia/jpg/7/2/1758026176427.jpg"/>
-  </programme>
-  <programme start="20261120220500 +0100" stop="20261120233000 +0100" channel="324">
+  <programme start="20261121014729 +0100" stop="20261121030603 +0100" channel="tv3uhd">
     <title lang="ca">Mésnit</title>
     <desc lang="ca">El 'Mésnit' arriba a la desena temporada, amb Marina Romero al capdavant de l'espai i amb la voluntat de continuar sent un centre de debat d'idees i d'anàlisi de l'activitat política.</desc>
-    <length units="seconds">5100</length>
+    <length units="seconds">4714</length>
     <episode-num system="onscreen">2204</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">DEBAT</category>
@@ -96,46 +14,117 @@
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
+    <previously-shown/>
+  </programme>
+  <programme start="20261121030603 +0100" stop="20261121043000 +0100" channel="tv3uhd">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="seconds">5037</length>
+    <episode-num system="onscreen">11758</episode-num>
+    <category lang="ca">ACTUALITAT</category>
+    <category lang="ca">INFORMATIU DIÀRI</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <previously-shown/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
+  </programme>
+  <channel id="tvi">
+    <display-name>TVI</display-name>
+  </channel>
+  <programme start="20261121014729 +0100" stop="20261121030603 +0100" channel="tvi">
+    <title lang="ca">Mésnit</title>
+    <desc lang="ca">El 'Mésnit' arriba a la desena temporada, amb Marina Romero al capdavant de l'espai i amb la voluntat de continuar sent un centre de debat d'idees i d'anàlisi de l'activitat política.</desc>
+    <length units="seconds">4714</length>
+    <episode-num system="onscreen">2204</episode-num>
+    <category lang="ca">ACTUALITAT</category>
+    <category lang="ca">DEBAT</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <previously-shown/>
+  </programme>
+  <programme start="20261121030603 +0100" stop="20261121043000 +0100" channel="tvi">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="seconds">5037</length>
+    <episode-num system="onscreen">11758</episode-num>
+    <category lang="ca">ACTUALITAT</category>
+    <category lang="ca">INFORMATIU DIÀRI</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <previously-shown/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
+  </programme>
+  <channel id="324">
+    <display-name>324</display-name>
+  </channel>
+  <programme start="20261121010000 +0100" stop="20261121060000 +0100" channel="324">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="seconds">18000</length>
+    <episode-num system="onscreen">11758</episode-num>
+    <category lang="ca">ACTUALITAT</category>
+    <category lang="ca">INFORMATIU DIÀRI</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <previously-shown/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
+  </programme>
+  <programme start="20261121060000 +0100" stop="20261121070000 +0100" channel="324">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="seconds">3600</length>
+    <episode-num system="onscreen">11758</episode-num>
+    <category lang="ca">ACTUALITAT</category>
+    <category lang="ca">INFORMATIU DIÀRI</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <previously-shown/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
   <channel id="esport3">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20261120205330 +0100" stop="20261120230000 +0100" channel="esport3">
+  <programme start="20261121022842 +0100" stop="20261121024920 +0100" channel="esport3">
+    <title lang="ca">3CatInfo Esports</title>
+    <desc lang="ca">Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.</desc>
+    <length units="seconds">1238</length>
+    <episode-num system="onscreen">5573</episode-num>
+    <category lang="ca">ESPORTS</category>
+    <category lang="ca">INFORMATIU DIÀRI</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <previously-shown/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/9/7/1758888682179.jpg"/>
+  </programme>
+  <programme start="20261121024920 +0100" stop="20261121043740 +0100" channel="esport3">
     <title lang="ca">Futbol</title>
     <sub-title lang="ca">Vila-real B - Gimnàstic de Tarragona / Primera Federació / J13</sub-title>
     <desc lang="ca">Els tarragonins, que ocupen la 13a posició (4 victòries, 3 empats i 5 derrotes), visiten el camp del 2n classificat.</desc>
-    <length units="seconds">7590</length>
+    <length units="seconds">6500</length>
     <episode-num system="onscreen">210</episode-num>
     <category lang="ca">ESPORTS</category>
     <category lang="ca">RETRANSMISSIONS ESPORTS</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
+    <previously-shown/>
     <icon src="https://img.ccma.cat/multimedia/jpg/0/7/1698446098170.jpg"/>
-  </programme>
-  <programme start="20261120230000 +0100" stop="20261121003054 +0100" channel="esport3">
-    <title lang="ca">Onze</title>
-    <sub-title lang="ca">Xavi Espart 2030 + Post Athletic Club - Espanyol</sub-title>
-    <desc lang="ca">A l'Onze valorem la renovació del polivalent jugador del planter del Barça i amb l'ajuda de Lluís Carrasco, Carles Fité, Laia Tudel i Irati Vidal juguem a endevinar si tindrà un pes específic en el futur immediat de l'equip de Flick. També connectem amb l'Imma Casares des de San Mamés per analitzar el postpartit entre l'Athletic Club i el RCD Espanyol. Ens visiten al plató l'Àlex Delmàs i el Xavi Cazorla. Tot plegat presentat per la Míriam Riau. Qui deia que els divendres no hi havia res interessant de l'àmbit esportiu.</desc>
-    <length units="seconds">5454</length>
-    <episode-num system="onscreen">1292</episode-num>
-    <category lang="ca">ESPORTS</category>
-    <category lang="ca">MAGAZINE</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <subtitles type="teletext"/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/1/1/1688543515711.jpg"/>
   </programme>
   <channel id="sx3">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20261120214118 +0100" stop="20261120220059 +0100" channel="sx3">
-    <title lang="ca">One piece</title>
-    <sub-title lang="ca">Quina sorpresa! La veritable identitat del soldadet de joguina!</sub-title>
-    <desc lang="ca">El combat de la Rebecca continua, sota el coliseu els gladiadors vençuts van desapareixent d'un en un i el soldadet desvela el seu passat dolorós i explica als del Barret de Palla la veritat que s'amaga rere la caiguda del rei Riku!</desc>
-    <length units="seconds">1181</length>
-    <episode-num system="onscreen">655</episode-num>
+  <programme start="20261121022535 +0100" stop="20261121024630 +0100" channel="sx3">
+    <title lang="ca">Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
+    <sub-title lang="ca">Evolució</sub-title>
+    <desc lang="ca">Després de la seva victòria sobre Ladybug, ara el Monarca està en possessió del prodigi del conill i és capaç de fer servir el poder de viatjar en el temps. El supermalvat vol tornar a algun moment del passat en què Ladybug i el Gat Noir eren vulnerables i aprofitar-ho per apoderar-se dels seus prodigis. Els nostres herois s'han d'enfrontar amb l'enemic en una cursa a través del temps... i d'aventures del passat.</desc>
+    <length units="seconds">1255</length>
+    <episode-num system="onscreen">105</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
@@ -144,12 +133,12 @@
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20261120220059 +0100" stop="20261120222211 +0100" channel="sx3">
-    <title lang="ca">El detectiu Conan</title>
-    <sub-title lang="ca">El noi misteriós</sub-title>
-    <desc lang="ca">En Conan segueix a desgrat la colla de la Lliga de Detectius Júnior, que van a investigar uns rumors sobre ovnis i extraterrestres. Però resulta que troba un home mort sota un pont i, molt a prop seu, una pista que li recorda un lloc de la infància. Hi va de seguida per investigar més el cas i acabar de confirmar les seves hipòtesis sobre el possible autor de l'assassinat.</desc>
-    <length units="seconds">1272</length>
-    <episode-num system="onscreen">884</episode-num>
+  <programme start="20261121024630 +0100" stop="20261121030712 +0100" channel="sx3">
+    <title lang="ca">Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
+    <sub-title lang="ca">Multiplicació</sub-title>
+    <desc lang="ca">La Marinette està convençuda que els seus sentiments envers l'Adrien van ser la causa de la derrota quan es va enfrontar al Monarca com a Ladybug. Per això decideix renunciar al seu amor pel seu company d'institut. A més, com a Ladybug, es prepara per lluitar, amb l'ajuda del Gat Noir, contra un Monarca més poderós que mai. Però van passant els dies i no apareix cap akumatitzat que atemoreixi París. Podria ser que el Monarca s'hagués rendit?</desc>
+    <length units="seconds">1242</length>
+    <episode-num system="onscreen">106</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
@@ -161,33 +150,29 @@
   <channel id="c33">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20261120213800 +0100" stop="20261120220037 +0100" channel="c33">
-    <title lang="ca">Jet lag</title>
-    <sub-title lang="ca">Qui té por de Totó Tomàs</sub-title>
-    <desc lang="ca">La Diana decideix llogar una habitació del seu pis perquè va curta d'euros i agafa el primer llogater que passa: un home jove, que no parla i du una bossa d'esport plena de ganivets. Per la seva banda, l'Esther i l'Andreu ja tenen el seu pis arreglat... o això és el que ells creien. Tots junts viuran una veritable nit de terror.</desc>
-    <length units="seconds">1357</length>
-    <episode-num system="onscreen">28</episode-num>
-    <category lang="ca">FICCIÓ</category>
-    <category lang="ca">TELESÈRIE</category>
+  <programme start="20261121014858 +0100" stop="20261121025423 +0100" channel="c33">
+    <title lang="ca">Com va la vida</title>
+    <length units="seconds">3925</length>
+    <episode-num system="onscreen">1</episode-num>
+    <category lang="ca">ENTRETENIMENT</category>
+    <category lang="ca">TALK-SHOW</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20261120220037 +0100" stop="20261120225134 +0100" channel="c33">
-    <title lang="ca">La Renaixença</title>
-    <sub-title lang="ca">Millors moments - setmana 12</sub-title>
-    <desc lang="ca">Amb una teula, un desodorant, un ventall i un flexòmetre pots fer… no ho sé, prendre mides, acabar la teulada, i… no fer pudor… per partida doble! Mira, sempre ens agrada trobar relació entre tots els objectes, i aquesta vegada, per difícil que fos, també ho hem aconseguit. Som els millors, les nostres famílies deuen estar orgulloses de nosaltres. Els convidats d'aquesta setmana també són els millors: són la Fàtima Llambrich, en Bernat Bardagil, en Sergi Cebriàn i Doctor Prats, que pugen al nostre escenari.</desc>
-    <length units="seconds">3057</length>
-    <episode-num system="onscreen">278</episode-num>
-    <category lang="ca">DIVULGACIÓ</category>
-    <category lang="ca">ALTRES</category>
+  <programme start="20261121025423 +0100" stop="20261121040639 +0100" channel="c33">
+    <title lang="ca">Com va la vida</title>
+    <length units="seconds">4336</length>
+    <episode-num system="onscreen">2</episode-num>
+    <category lang="ca">ENTRETENIMENT</category>
+    <category lang="ca">TALK-SHOW</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/3/3/1756148014833.jpg"/>
+    <previously-shown/>
   </programme>
   <channel id="oca1">
     <display-name>OCA1</display-name>
