@@ -3,128 +3,180 @@
   <channel id="tv3uhd">
     <display-name>TV3UHD</display-name>
   </channel>
-  <programme start="20261121220850 +0100" stop="20261122005007 +0100" channel="tv3uhd">
-    <title lang="ca">Col·lapse</title>
-    <desc lang="ca">Entrevistem Jordi Évole , un dels periodistes i comunicadors més influents del panorama televisiu. Amb ell, que té molta experiència entrevistant líders polítics, repassem l'actualitat social política una setmana abans de les eleccions generals.Compartim amb l'actor Pedro Alonso, especialment conegut pel seu paper de Berlín a La casa de papel, una conversa on parla obertament sobre la seva intensitat, que el va portar a explorar el costat fosc de la vida. També ens explica els seus nous reptes laborals en ficció. L'egiptòloga catalana Irene Cordón que tot just acaba de publicar el llibre 'Quan els Déus caminaven pel Nil' descobrirem algunes de les coses més sorprenents i meravelloses de la civilització de l'antic Egipte. Carlos Latre i Àngel Llàcer tornen un altre cop al programa per fer de les seves. Quins intercanvis haurà fet Anna Callís amb el bolígraf que li va donar la setmana passada Jordi González? També Sergi Pàmies, Albert Montagut i les dades amb Frederic Vincent. 'Col·lapse', dissabte a les 22.05 a TV3 i 3Cat, amb Jordi González.</desc>
-    <length units="seconds">9677</length>
-    <episode-num system="onscreen">162</episode-num>
-    <category lang="ca">ENTRETENIMENT</category>
-    <category lang="ca">TALK-SHOW</category>
+  <programme start="20261122011537 +0100" stop="20261122031451 +0100" channel="tv3uhd">
+    <title lang="ca">Pel·lícula</title>
+    <sub-title lang="ca">Les lleis de la frontera</sub-title>
+    <desc lang="ca">LAS LEYES DE LA FRONTERAProducció: Ikiru Films, La Terraza Films, Atresmedia Cine, Las leyes de la frontera A.I.E.Direcció: Daniel MonzónGuió: Jorge Guerricaechevarría i Daniel MonzónBasat en la novel·la homònima de Javier CercasDirecció fotografia: Carles Gusi AECIntèrprets: Marcos Ruiz, Begoña Vargas, Chechu SalgadoSinopsi:Estiu de 1978. Nacho Cañas, un estudiant introvertit i una mica inadaptat, té disset anys i viu a Girona. Al conèixer al Zarco i a la Tere, dos joves delinqüents de barri xinès de la ciutat, es veu immers en un triangle amorós que el porta a viure una carrera imparable de furts, robatoris i atracaments que canviarà la seva vida per sempre.</desc>
+    <credits>
+      <director>Daniel Monzón</director>
+      <writer>Jorge Guerricaechevarría</writer>
+      <writer>Daniel MonzónBasat en la novel·la homònima de Javier CercasDirecció fotografia: Carles Gusi AECIntèrprets: Marcos Ruiz</writer>
+      <writer>Begoña Vargas</writer>
+      <writer>Chechu SalgadoSinopsi:Estiu de 1978. Nacho Cañas</writer>
+      <writer>un estudiant introvertit</writer>
+      <writer>una mica inadaptat</writer>
+      <writer>té disset anys</writer>
+      <writer>viu a Girona. Al conèixer al Zarco</writer>
+      <writer>a la Tere</writer>
+      <writer>dos joves delinqüents de barri xinès de la ciutat</writer>
+      <writer>es veu immers en un triangle amorós que el porta a viure una carrera imparable de furts</writer>
+      <writer>robatoris</writer>
+      <writer>atracaments que canviarà la seva vida per sempre.</writer>
+      <actor>Marcos Ruiz</actor>
+      <actor>Begoña Vargas</actor>
+      <actor>Chechu SalgadoSinopsi:Estiu de 1978. Nacho Cañas</actor>
+      <actor>un estudiant introvertit</actor>
+      <actor>una mica inadaptat</actor>
+      <actor>té disset anys</actor>
+      <actor>viu a Girona. Al conèixer al Zarco</actor>
+      <actor>a la Tere</actor>
+      <actor>dos joves delinqüents de barri xinès de la ciutat</actor>
+      <actor>es veu immers en un triangle amorós que el porta a viure una carrera imparable de furts</actor>
+      <actor>robatoris</actor>
+      <actor>atracaments que canviarà la seva vida per sempre.</actor>
+    </credits>
+    <length units="seconds">7154</length>
+    <episode-num system="onscreen">1</episode-num>
+    <category lang="ca">FICCIÓ</category>
+    <category lang="ca">PEL·LÍCULA / TELEFILM</category>
+    <rating>
+      <value>PÚBLIC ADULT</value>
+    </rating>
+    <subtitles type="teletext"/>
+    <previously-shown/>
+    <icon src="https://img.3cat.cat/multimedia/jpg/9/4/1794913931749.jpg"/>
+  </programme>
+  <programme start="20261122031451 +0100" stop="20261122043000 +0100" channel="tv3uhd">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="seconds">4509</length>
+    <episode-num system="onscreen">11766</episode-num>
+    <category lang="ca">ACTUALITAT</category>
+    <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <subtitles type="teletext"/>
+    <previously-shown/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
-  <programme start="20261122005007 +0100" stop="20261122011531 +0100" channel="tv3uhd">
-    <title lang="ca">Marcians</title>
-    <sub-title lang="ca">Viatjar a una altra llengua</sub-title>
-    <desc lang="ca">Amb motiu de la celebració a Barcelona la setmana vinent del Primer Fòrum de Traductors de Literatura Catalana, organitzat per l'Institut Ramon Llull, ens hem endinsat en la vida, la feina, els problemes i la passió d'algunes traductores de novel·les catalanes a d'altres llengües.Marina Ketlerova és la traductora de literatura catalana més jove. Fa set anys es va instal·lar a Barcelona i va aconseguir el que semblava un somni: traduir al rus un best-seller com 'Canto jo i la muntanya balla', d'Irene Solà. Però la traducció fa dos anys que viu en un calaix. L'editorial russa que l'havia de publicar no s'ha atrevit a fer-ho per por de la censura. A Rússia, no es poden presentar en la literatura personatges del col·lectiu LGTBIQ+ sense afegir-hi una mirada crítica i reprovadora.I Nina Avrova Raaben ha pogut esquivar la censura russa en les traduccions de les novel·les d'Albert Sánchez-Piñol, però no ha pogut evitar que hagin estat catalogades 'per a majors de 18 anys'. I tot i això són un gran èxit. 'La pell freda' s'ha convertit en un best-seller a Rússia, amb més de 200.000 exemplars venuts. Stefania Maria Ciminelli, nascuda a Roma, va descobrir el català quan estiuejava de petita a l'Alguer. I des d'aleshores, aquella llengua estranya que parlaven els nens de la ciutat l'ha acompanyat tota la vida. Viu a Barcelona des de 1991. Ha traduït Pla, Rodoreda, Porcel. I ha portat a l'italià amb passió les grans novel·les de Jaume Cabré.Annie Bats fa més de quaranta anys que es va instal·lar a Barcelona. I des d'aleshores no ha parat de traduir. Experta en poesia, ha sabut trobar i traduir els versos alexandrins amagats en les novel·les d'Eva Baltasar. Les hem reunides totes dues per parlar-ne, uns dies abans que se sabés que 'Ocàs i fascinació' ha guanyat el premi Médicis Étranger a la millor novel·la traduïda a França aquest any.</desc>
-    <length units="seconds">1524</length>
-    <episode-num system="onscreen">104</episode-num>
-    <category lang="ca">ENTRETENIMENT</category>
-    <category lang="ca">ALTRES</category>
+  <channel id="tvi">
+    <display-name>TVI</display-name>
+  </channel>
+  <programme start="20261122011351 +0100" stop="20261122024437 +0100" channel="tvi">
+    <title lang="ca">Pel·lícula</title>
+    <sub-title lang="ca">La innocència</sub-title>
+    <desc lang="ca">LA INNOCÈNCIAProducció:Turanga Films, Un Capricho de Producciones, Lagarto Films, 2019Direcció: Lucía AlemanyGuionistes: Laia Soler Aragonés i Lucía AlemanyDirector de fotografia: Joan BorderaIntèrprets: Carmen Arrufat (Lis), Laia Marull (Soledad), Sergi López (Catalano), Joel Bosqued (Néstor), Estelle Orient (Sara), Laura Fernández (Rocio), Lidia Moreno (La Patri), Sonia Almarcha (Remedios), Bogdan Florin Guilescu (Bogdan) i Josh Climent (el Polaco)La Lis és una adolescent que somia convertir-se en artista de circ i fugir del poble, encara que sap que, per aconseguir-ho, s'haurà d'enfrontar a l'oposició dels seus pares. És estiu i la Lis es passa el dia jugant pels carrers del poble amb les amigues i flirtejant amb el seu xicot, uns anys més gran que ella. La falta d'intimitat i la xafarderia dels veïns obliguen la Lis a mantenir aquesta relació en secret perquè els seus pares no se n'assabentin. Una relació que canviarà la seva vida per sempre.</desc>
+    <credits>
+      <director>Lucía Alemany</director>
+      <actor>Carmen Arrufat (Lis)</actor>
+      <actor>Laia Marull (Soledad)</actor>
+      <actor>Sergi López (Catalano)</actor>
+      <actor>Joel Bosqued (Néstor)</actor>
+      <actor>Estelle Orient (Sara)</actor>
+      <actor>Laura Fernández (Rocio)</actor>
+      <actor>Lidia Moreno (La Patri)</actor>
+      <actor>Sonia Almarcha (Remedios)</actor>
+      <actor>Bogdan Florin Guilescu (Bogdan)</actor>
+      <actor>Josh Climent (el Polaco)La Lis és una adolescent que somia convertir-se en artista de circ</actor>
+      <actor>fugir del poble</actor>
+      <actor>encara que sap que</actor>
+      <actor>per aconseguir-ho</actor>
+      <actor>s'haurà d'enfrontar a l'oposició dels seus pares. És estiu</actor>
+      <actor>la Lis es passa el dia jugant pels carrers del poble amb les amigues</actor>
+      <actor>flirtejant amb el seu xicot</actor>
+      <actor>uns anys més gran que ella. La falta d'intimitat</actor>
+      <actor>la xafarderia dels veïns obliguen la Lis a mantenir aquesta relació en secret perquè els seus pares no se n'assabentin. Una relació que canviarà la seva vida per sempre.</actor>
+    </credits>
+    <length units="seconds">5446</length>
+    <episode-num system="onscreen">1</episode-num>
+    <category lang="ca">FICCIÓ</category>
+    <category lang="ca">PEL·LÍCULA / TELEFILM</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <channel id="tvi">
-    <display-name>TVI</display-name>
-  </channel>
-  <programme start="20261121220850 +0100" stop="20261122005007 +0100" channel="tvi">
-    <title lang="ca">Col·lapse</title>
-    <desc lang="ca">Entrevistem Jordi Évole , un dels periodistes i comunicadors més influents del panorama televisiu. Amb ell, que té molta experiència entrevistant líders polítics, repassem l'actualitat social política una setmana abans de les eleccions generals.Compartim amb l'actor Pedro Alonso, especialment conegut pel seu paper de Berlín a La casa de papel, una conversa on parla obertament sobre la seva intensitat, que el va portar a explorar el costat fosc de la vida. També ens explica els seus nous reptes laborals en ficció. L'egiptòloga catalana Irene Cordón que tot just acaba de publicar el llibre 'Quan els Déus caminaven pel Nil' descobrirem algunes de les coses més sorprenents i meravelloses de la civilització de l'antic Egipte. Carlos Latre i Àngel Llàcer tornen un altre cop al programa per fer de les seves. Quins intercanvis haurà fet Anna Callís amb el bolígraf que li va donar la setmana passada Jordi González? També Sergi Pàmies, Albert Montagut i les dades amb Frederic Vincent. 'Col·lapse', dissabte a les 22.05 a TV3 i 3Cat, amb Jordi González.</desc>
-    <length units="seconds">9677</length>
-    <episode-num system="onscreen">162</episode-num>
-    <category lang="ca">ENTRETENIMENT</category>
-    <category lang="ca">TALK-SHOW</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-  </programme>
-  <programme start="20261122005007 +0100" stop="20261122011531 +0100" channel="tvi">
-    <title lang="ca">Marcians</title>
-    <sub-title lang="ca">Viatjar a una altra llengua</sub-title>
-    <desc lang="ca">Amb motiu de la celebració a Barcelona la setmana vinent del Primer Fòrum de Traductors de Literatura Catalana, organitzat per l'Institut Ramon Llull, ens hem endinsat en la vida, la feina, els problemes i la passió d'algunes traductores de novel·les catalanes a d'altres llengües.Marina Ketlerova és la traductora de literatura catalana més jove. Fa set anys es va instal·lar a Barcelona i va aconseguir el que semblava un somni: traduir al rus un best-seller com 'Canto jo i la muntanya balla', d'Irene Solà. Però la traducció fa dos anys que viu en un calaix. L'editorial russa que l'havia de publicar no s'ha atrevit a fer-ho per por de la censura. A Rússia, no es poden presentar en la literatura personatges del col·lectiu LGTBIQ+ sense afegir-hi una mirada crítica i reprovadora.I Nina Avrova Raaben ha pogut esquivar la censura russa en les traduccions de les novel·les d'Albert Sánchez-Piñol, però no ha pogut evitar que hagin estat catalogades 'per a majors de 18 anys'. I tot i això són un gran èxit. 'La pell freda' s'ha convertit en un best-seller a Rússia, amb més de 200.000 exemplars venuts. Stefania Maria Ciminelli, nascuda a Roma, va descobrir el català quan estiuejava de petita a l'Alguer. I des d'aleshores, aquella llengua estranya que parlaven els nens de la ciutat l'ha acompanyat tota la vida. Viu a Barcelona des de 1991. Ha traduït Pla, Rodoreda, Porcel. I ha portat a l'italià amb passió les grans novel·les de Jaume Cabré.Annie Bats fa més de quaranta anys que es va instal·lar a Barcelona. I des d'aleshores no ha parat de traduir. Experta en poesia, ha sabut trobar i traduir els versos alexandrins amagats en les novel·les d'Eva Baltasar. Les hem reunides totes dues per parlar-ne, uns dies abans que se sabés que 'Ocàs i fascinació' ha guanyat el premi Médicis Étranger a la millor novel·la traduïda a França aquest any.</desc>
-    <length units="seconds">1524</length>
-    <episode-num system="onscreen">104</episode-num>
-    <category lang="ca">ENTRETENIMENT</category>
+  <programme start="20261122024437 +0100" stop="20261122030847 +0100" channel="tvi">
+    <title lang="ca">Herois quotidians</title>
+    <desc lang="ca">'Herois quotidians', una proposta que, agafant elements de l'humor i de fals documental, fa una mirada irònica i àcida sobre allò que es considera políticament correcte.Més que no pas criticar, 'Herois quotidians' posa la realitat cap per avall i ens proposa una quotidianitat alternativa, una mirada lúcida, divertida i surrealista dels tòpics i prejudicis de la nostra societat feta per Empar Moliner, Àlex Torio i Juan Carlos Ortega.'Herois quotidians' és un programa en clau d'humor que consta de dos reportatges, que ens mostren persones de comportaments exemplars, i un consell per ser més bons ciutadans. Hi ha qui ha dit que es tracta de reportatges falsos, però els seus autors sostenen que no: les persones que hi apareixen no són actors. I els escenaris on s'han rodat les històries són de veritat. En tot cas, el programa ens farà conèixer persones admirables. Com Ramon Muñoz, el primer cantautor de dretes del món. Perquè no només han de fer poesia de les nostres preocupacions els cantautors d'esquerres. Les cançons de Muñoz ens parlen del goig de viatjar en primera classe o de l'emoció de marcar la casella de l'Església a l'hora de fer la declaració de la renda. El compositor i intèrpret de 'Corazón democristiano' serà un dels herois del primer programa. També coneixerem uns monjos de Montserrat que escolpeixen les cares de Lluís Companys, Jordi Pujol, Pasqual Maragall i José Montilla a la muntanya de Montserrat, inspirats en el Mont Rushmore de Dakota del Sud. I sabrem coses de la vida d'un petit botiguer que ha decidit fer-se passar per pakistanès, perquè s'imagina que, d'aquesta manera, podrà obrir el seu comerç les 24 hores. Serem espectadors del canvi d'orientació d'un restaurant gallec de tota la vida situat al barri gai de Barcelona: el restaurant La Parra, ara transformat en el primer restaurant gallec gai de Catalunya. També tindrem notícia d'un parapsicòleg que es dedica a recollir psicofonies només en català. O serem espectad</desc>
+    <length units="seconds">1450</length>
+    <episode-num system="onscreen">4</episode-num>
     <category lang="ca">ALTRES</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
+    <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
   <channel id="324">
     <display-name>324</display-name>
   </channel>
-  <programme start="20261121210000 +0100" stop="20261121230000 +0100" channel="324">
-    <title lang="ca">Telenotícies vespre</title>
-    <length units="seconds">7200</length>
-    <episode-num system="onscreen">7395</episode-num>
-    <category lang="ca">ACTUALITAT</category>
-    <category lang="ca">INFORMATIU DIÀRI</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <subtitles type="teletext"/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/7/2/1758026176427.jpg"/>
-  </programme>
-  <programme start="20261121230000 +0100" stop="20261122003000 +0100" channel="324">
+  <programme start="20261122010000 +0100" stop="20261122060000 +0100" channel="324">
     <title lang="ca">Notícies 3CatInfo</title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">5400</length>
-    <episode-num system="onscreen">11765</episode-num>
+    <length units="seconds">18000</length>
+    <episode-num system="onscreen">11766</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <subtitles type="teletext"/>
+    <previously-shown/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
+  </programme>
+  <programme start="20261122060000 +0100" stop="20261122070000 +0100" channel="324">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="seconds">3600</length>
+    <episode-num system="onscreen">11766</episode-num>
+    <category lang="ca">ACTUALITAT</category>
+    <category lang="ca">INFORMATIU DIÀRI</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <previously-shown/>
     <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
   <channel id="esport3">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20261121224444 +0100" stop="20261121230011 +0100" channel="esport3">
-    <title lang="ca">Sala de Premsa</title>
-    <sub-title lang="ca">Hansi Flick / Prèvia Barça - Vila-real / J13</sub-title>
-    <desc lang="ca">Esport3 t'ofereix les compareixences de dirigents, jugadors i entrenadors dels equips catalans davant els mitjans de comunicació.</desc>
-    <length units="seconds">927</length>
-    <episode-num system="onscreen">752</episode-num>
+  <programme start="20261122023749 +0100" stop="20261122030417 +0100" channel="esport3">
+    <title lang="ca">3CatInfo Esports</title>
+    <desc lang="ca">Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.</desc>
+    <length units="seconds">1588</length>
+    <episode-num system="onscreen">5574</episode-num>
     <category lang="ca">ESPORTS</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <subtitles type="teletext"/>
     <previously-shown/>
-    <icon src="https://img.3cat.cat/multimedia/jpg/7/4/1778665728847.jpg"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/9/7/1758888682179.jpg"/>
   </programme>
-  <programme start="20261121230011 +0100" stop="20261122003630 +0100" channel="esport3">
-    <title lang="ca">Gol a gol</title>
-    <sub-title lang="ca">Anàlisi de la jornada / J13 / Dissabte</sub-title>
-    <desc lang="ca">'Gol a gol' us ofereix els resums dels partits de futbol de Primera i Segona Divisió. Presentat per Jordi Grau a Esport3, cada dissabte i cada diumenge podeu veure les millors imatges de la jornada de Lliga amb l'anàlisi dels experts, amb especial atenció als equips catalans, sobretot el Barça, el Girona i l'Espanyol.</desc>
-    <length units="seconds">5779</length>
-    <episode-num system="onscreen">1802</episode-num>
+  <programme start="20261122030417 +0100" stop="20261122045151 +0100" channel="esport3">
+    <title lang="ca">Futbol</title>
+    <sub-title lang="ca">RCD Espanyol B-Barça Atlètic / Segona Federació / J12</sub-title>
+    <desc lang="ca">Els dos filials afronten aquest derbi lluitant per les primeres posicions. Els blaugranes lideren la classificació amb 25 punts, 4 més que els blanc-i-blaus.</desc>
+    <length units="seconds">6454</length>
+    <episode-num system="onscreen">77</episode-num>
     <category lang="ca">ESPORTS</category>
-    <category lang="ca">MAGAZINE</category>
+    <category lang="ca">RETRANSMISSIONS ESPORTS</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <subtitles type="teletext"/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/2/1/1698144123212.jpg"/>
+    <previously-shown/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/0/7/1698446098170.jpg"/>
   </programme>
   <channel id="sx3">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20261121224459 +0100" stop="20261121225547 +0100" channel="sx3">
-    <title lang="ca">La tropa del corral</title>
-    <sub-title lang="ca">Els tres treballs de la Tropa del Corral</sub-title>
-    <desc lang="ca">Un dels cadells d'en Sam ha llençat la sabatilla de l'amo al carrer, i ara l'Esther pensa que és un objecte sagrat. Diu que no els la pensa tornar fins que la Tropa no completi tres tasques inversemblants, però llavors canvia d'opinió...</desc>
-    <length units="seconds">648</length>
-    <episode-num system="onscreen">22</episode-num>
+  <programme start="20261122022922 +0100" stop="20261122025115 +0100" channel="sx3">
+    <title lang="ca">Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
+    <sub-title lang="ca">Deflagració, la decisió dels kwamis (2a part)</sub-title>
+    <desc lang="ca">Al Monarca se li presenta una oportunitat que no està disposat a deixar passar. El món està a punt de canviar de dalt a baix i no sembla que hi hagi ningú capaç d'impedir-ho, perquè el kwamis han pres una decisió que ha fet que la Marinette i l'Adrien es distreguin completament de les seves responsabilitats. Per bé i per mal.</desc>
+    <length units="seconds">1313</length>
+    <episode-num system="onscreen">115</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
@@ -133,12 +185,12 @@
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20261121225547 +0100" stop="20261121230643 +0100" channel="sx3">
-    <title lang="ca">La tropa del corral</title>
-    <sub-title lang="ca">El príncep de la foscor</sub-title>
-    <desc lang="ca">En Prince truca la Tropa perquè l'ajudin a desfer-se d'un ratolí que ha vist a casa. Mentre part del grup l'intenta trobar, l'altra mira d'ajudar en Prince a redescobrir els seus instints felins. Serà una missió complicada.</desc>
-    <length units="seconds">656</length>
-    <episode-num system="onscreen">23</episode-num>
+  <programme start="20261122025115 +0100" stop="20261122030145 +0100" channel="sx3">
+    <title lang="ca">Pop, la ciutat de paper</title>
+    <sub-title lang="ca">El piu-xic daurat</sub-title>
+    <desc lang="ca">A l'aventura poptàstica d'avui, la Mae-Mae i els seus amics busquen un ocell molt rar al bosc. Se'n sortirà de veure l'ocell, la Mae-Mae, i de fer que tothom s'ho passi bé?</desc>
+    <length units="seconds">630</length>
+    <episode-num system="onscreen">13</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
@@ -150,25 +202,28 @@
   <channel id="c33">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20261121222708 +0100" stop="20261121235501 +0100" channel="c33">
-    <title lang="ca">El documental</title>
-    <sub-title lang="ca">Diari d'un pacifista</sub-title>
-    <length units="seconds">5273</length>
-    <episode-num system="onscreen">1</episode-num>
-    <category lang="ca">DIVULGACIÓ</category>
-    <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
+  <programme start="20261122022726 +0100" stop="20261122032205 +0100" channel="c33">
+    <title lang="ca">El Crac</title>
+    <sub-title lang="ca">El gran comiat</sub-title>
+    <desc lang="ca">Les representacions d''El secret de la família Qong' arriben al seu final, igual que la sèrie. Un final ple de girs, sorpreses i emocions a flor de pell que de ben segur deixarà a tothom ben interpel·lat…</desc>
+    <length units="seconds">3279</length>
+    <episode-num system="onscreen">24</episode-num>
+    <category lang="ca">FICCIÓ</category>
+    <category lang="ca">SÈRIE DRAMÀTICA</category>
     <rating>
-      <value>TOTS ELS PÚBLICS</value>
+      <value>PÚBLIC ADULT</value>
     </rating>
+    <subtitles type="teletext"/>
+    <previously-shown/>
   </programme>
-  <programme start="20261121235501 +0100" stop="20261122005021 +0100" channel="c33">
-    <title lang="ca">60 minuts</title>
-    <sub-title lang="ca">El rei del Sudan del Nord</sub-title>
-    <desc lang="ca">Quan la seva filla li diu que voldria ser princesa, Jeremiah Heaton, un granger dels Estats Units, busca un territori que no formi part de cap estat per instaurar-hi un regne del qual ell serà el rei i la seva filla, la princesa. Navegant per internet troba Bir Tawil, una petita franja de terreny entre Egipte i el Sudan que, per un embolic de la descolonització, no volen ni un estat ni l'altre. El Jeremiah planta la bandera del seu regne en ple desert, però amb això no en té prou i comença a buscar la manera de treure partit de l'estat que acaba de crear. Així és com entra en contacte amb tota mena d'espavilats que veuen en el regne del Sudan del Nord una oportunitat d'enriquir-se.</desc>
-    <length units="seconds">3320</length>
-    <episode-num system="onscreen">1</episode-num>
-    <category lang="ca">DIVULGACIÓ</category>
-    <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
+  <programme start="20261122032205 +0100" stop="20261122040825 +0100" channel="c33">
+    <title lang="ca">Benvinguts a la família</title>
+    <sub-title lang="ca">En busca del Leo</sub-title>
+    <desc lang="ca">Quan l'Àngela i els seus arriben a casa, es troben amb el Marcos esperant-los juntament amb l'Ayla. Ell i la mossa d'esquadra han descobert que el DNI amb què van canviar el testament de l'Eduardo a la primera temporada era fals. La família haurà de trobar llavors el Leo, únic testimoni del que va passar, abans que ho faci la policia.</desc>
+    <length units="seconds">2780</length>
+    <episode-num system="onscreen">21</episode-num>
+    <category lang="ca">FICCIÓ</category>
+    <category lang="ca">SÈRIE DRAMÀTICA</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
