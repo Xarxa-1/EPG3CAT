@@ -3,80 +3,82 @@
   <channel id="tv3uhd">
     <display-name>TV3UHD</display-name>
   </channel>
-  <programme start="20261122225439 +0100" stop="20261122235704 +0100" channel="tv3uhd">
-    <title lang="ca">Vèrtex</title>
-    <desc lang="ca">Hi ha notícies que només s'entenen quan s'observen des de diferents perspectives. Amb aquesta premissa neix 'Vèrtex', el nou programa d'actualitat setmanal que converteix la complexitat dels grans temes en una conversa rigorosa, visual i propera. El programa ofereix una mirada transversal dels assumptes que han marcat la setmana i dels que definiran la que està a punt de començar.</desc>
-    <length units="seconds">3745</length>
-    <episode-num system="onscreen">8</episode-num>
-    <category lang="ca">DIVULGACIÓ</category>
-    <category lang="ca">ENTREVISTES</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <subtitles type="teletext"/>
-  </programme>
-  <programme start="20261122235704 +0100" stop="20261123005050 +0100" channel="tv3uhd">
-    <title lang="ca">Diades castelleres especials</title>
-    <sub-title lang="ca">Diada castellera dels Minyons de Terrassa</sub-title>
-    <desc lang="ca">La plaça Vella de Terrassa acull aquest diumenge la 48a diada dels Minyons de Terrassa, que posa punt final a la temporada. Els Minyons compartiran plaça amb els Castellers de Sants i els Castellers de Sant Cugat. La colla malva afronta la jornada amb un programa de màxims, que inclou el 3 de 10 amb folre i manilles, el 5 de 9 amb folre i el 2 de 9 amb folre i manilles. La diada arriba després d'un any de grans reptes i d'una intensa feina als assajos. Més enllà dels castells que s'hi puguin veure, la cita representa el gran aparador del treball col·lectiu de les colles. La jornada, un any més, convertirà Terrassa en el centre del món casteller i abaixarà el teló de la temporada.</desc>
-    <length units="seconds">3226</length>
-    <episode-num system="onscreen">81</episode-num>
-    <category lang="ca">DIVULGACIÓ</category>
-    <category lang="ca">MAGAZINE ESPECIALITZAT</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <subtitles type="teletext"/>
-  </programme>
-  <channel id="tvi">
-    <display-name>TVI</display-name>
-  </channel>
-  <programme start="20261122225439 +0100" stop="20261122235704 +0100" channel="tvi">
-    <title lang="ca">Vèrtex</title>
-    <desc lang="ca">Hi ha notícies que només s'entenen quan s'observen des de diferents perspectives. Amb aquesta premissa neix 'Vèrtex', el nou programa d'actualitat setmanal que converteix la complexitat dels grans temes en una conversa rigorosa, visual i propera. El programa ofereix una mirada transversal dels assumptes que han marcat la setmana i dels que definiran la que està a punt de començar.</desc>
-    <length units="seconds">3745</length>
-    <episode-num system="onscreen">8</episode-num>
-    <category lang="ca">DIVULGACIÓ</category>
-    <category lang="ca">ENTREVISTES</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <previously-shown/>
-  </programme>
-  <programme start="20261122235704 +0100" stop="20261123005050 +0100" channel="tvi">
-    <title lang="ca">Diades castelleres especials</title>
-    <sub-title lang="ca">Diada castellera dels Minyons de Terrassa</sub-title>
-    <desc lang="ca">La plaça Vella de Terrassa acull aquest diumenge la 48a diada dels Minyons de Terrassa, que posa punt final a la temporada. Els Minyons compartiran plaça amb els Castellers de Sants i els Castellers de Sant Cugat. La colla malva afronta la jornada amb un programa de màxims, que inclou el 3 de 10 amb folre i manilles, el 5 de 9 amb folre i el 2 de 9 amb folre i manilles. La diada arriba després d'un any de grans reptes i d'una intensa feina als assajos. Més enllà dels castells que s'hi puguin veure, la cita representa el gran aparador del treball col·lectiu de les colles. La jornada, un any més, convertirà Terrassa en el centre del món casteller i abaixarà el teló de la temporada.</desc>
-    <length units="seconds">3226</length>
-    <episode-num system="onscreen">81</episode-num>
-    <category lang="ca">DIVULGACIÓ</category>
-    <category lang="ca">MAGAZINE ESPECIALITZAT</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <previously-shown/>
-  </programme>
-  <channel id="324">
-    <display-name>324</display-name>
-  </channel>
-  <programme start="20261122230000 +0100" stop="20261123003000 +0100" channel="324">
+  <programme start="20261123005055 +0100" stop="20261123043000 +0100" channel="tv3uhd">
     <title lang="ca">Notícies 3CatInfo</title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">5400</length>
-    <episode-num system="onscreen">11773</episode-num>
+    <length units="seconds">13145</length>
+    <episode-num system="onscreen">11774</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <subtitles type="teletext"/>
+    <previously-shown/>
     <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
-  <programme start="20261123003000 +0100" stop="20261123010000 +0100" channel="324">
+  <programme start="20261123043000 +0100" stop="20261123050000 +0100" channel="tv3uhd">
+    <title lang="ca">Ritmes a l'aula</title>
+    <sub-title lang="ca">Catroi Quartet</sub-title>
+    <length units="seconds">1800</length>
+    <episode-num system="onscreen">6</episode-num>
+    <category lang="ca">MUSICALS</category>
+    <category lang="ca">JAZZ</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <previously-shown/>
+    <icon src="https://img.3cat.cat/multimedia/jpg/0/5/1748345445750.jpg"/>
+  </programme>
+  <channel id="tvi">
+    <display-name>TVI</display-name>
+  </channel>
+  <programme start="20261123005054 +0100" stop="20261123043000 +0100" channel="tvi">
     <title lang="ca">Notícies 3CatInfo</title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">1800</length>
+    <length units="seconds">13146</length>
     <episode-num system="onscreen">11774</episode-num>
+    <category lang="ca">ACTUALITAT</category>
+    <category lang="ca">INFORMATIU DIÀRI</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <previously-shown/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
+  </programme>
+  <programme start="20261123043000 +0100" stop="20261123050000 +0100" channel="tvi">
+    <title lang="ca">Ritmes a l'aula</title>
+    <sub-title lang="ca">Catroi Quartet</sub-title>
+    <length units="seconds">1800</length>
+    <episode-num system="onscreen">6</episode-num>
+    <category lang="ca">MUSICALS</category>
+    <category lang="ca">JAZZ</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <previously-shown/>
+    <icon src="https://img.3cat.cat/multimedia/jpg/0/5/1748345445750.jpg"/>
+  </programme>
+  <channel id="324">
+    <display-name>324</display-name>
+  </channel>
+  <programme start="20261123010000 +0100" stop="20261123060000 +0100" channel="324">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="seconds">18000</length>
+    <episode-num system="onscreen">11774</episode-num>
+    <category lang="ca">ACTUALITAT</category>
+    <category lang="ca">INFORMATIU DIÀRI</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <previously-shown/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
+  </programme>
+  <programme start="20261123060000 +0100" stop="20261123080000 +0100" channel="324">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="seconds">7200</length>
+    <episode-num system="onscreen">11775</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
@@ -88,41 +90,44 @@
   <channel id="esport3">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20261122230059 +0100" stop="20261123003211 +0100" channel="esport3">
-    <title lang="ca">Gol a gol</title>
-    <sub-title lang="ca">Anàlisi de la jornada / J13 / Diumenge</sub-title>
-    <desc lang="ca">'Gol a gol' us ofereix els resums dels partits de futbol de Primera i Segona Divisió. Presentat per Jordi Grau a Esport3, cada dissabte i cada diumenge podeu veure les millors imatges de la jornada de Lliga amb l'anàlisi dels experts, amb especial atenció als equips catalans, sobretot el Barça, el Girona i l'Espanyol.</desc>
-    <length units="seconds">5472</length>
-    <episode-num system="onscreen">1805</episode-num>
+  <programme start="20261123022853 +0100" stop="20261123041558 +0100" channel="esport3">
+    <title lang="ca">Futbol</title>
+    <sub-title lang="ca">Girona FC-SD Eibar / Lliga Hypermotion / J15</sub-title>
+    <desc lang="ca">Cara a cara entre dos aspirants a l'ascens que sumen els mateixos punts a la classificació, 24. Catalans i bascos han guanyat 7 partits i n'han empatat 3. Això sí, els gironins han disputat 1 jornada més que els guipuscoans.</desc>
+    <length units="seconds">6425</length>
+    <episode-num system="onscreen">3</episode-num>
     <category lang="ca">ESPORTS</category>
-    <category lang="ca">MAGAZINE</category>
+    <category lang="ca">RETRANSMISSIONS ESPORTS</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <previously-shown/>
+    <icon src="https://img.3cat.cat/multimedia/jpg/8/3/1791458637038.jpg"/>
+  </programme>
+  <programme start="20261123041558 +0100" stop="20261123062044 +0100" channel="esport3">
+    <title lang="ca">Futbol</title>
+    <sub-title lang="ca">FC Barcelona-Athletic Club / Lliga F / J12</sub-title>
+    <desc lang="ca">Les blaugranes lideren la classificació amb 9 victòries, 1 empat i 1 derrota. El conjunt de Bilbao també vol seguir a la zona alta. El balanç de les basques és de 5 victòries, 4 empats i 2 derrotes.</desc>
+    <length units="seconds">7486</length>
+    <episode-num system="onscreen">66</episode-num>
+    <category lang="ca">ESPORTS</category>
+    <category lang="ca">RETRANSMISSIONS ESPORTS</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/2/1/1698144123212.jpg"/>
-  </programme>
-  <programme start="20261123003211 +0100" stop="20261123004908 +0100" channel="esport3">
-    <title lang="ca">3CatInfo Esports</title>
-    <desc lang="ca">Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.</desc>
-    <length units="seconds">1017</length>
-    <episode-num system="onscreen">5575</episode-num>
-    <category lang="ca">ESPORTS</category>
-    <category lang="ca">INFORMATIU DIÀRI</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <icon src="https://img.ccma.cat/multimedia/jpg/9/7/1758888682179.jpg"/>
+    <previously-shown/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/0/8/1730389343680.jpg"/>
   </programme>
   <channel id="sx3">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20261122225530 +0100" stop="20261122230600 +0100" channel="sx3">
-    <title lang="ca">La tropa del corral</title>
-    <sub-title lang="ca">La Tropa al vent</sub-title>
-    <desc lang="ca">La Flo està fent una avaluació a la Tropa quan truca la Bertha perquè una ventada ha provocat el caos a Vilanimal. Hi ha animals en perill! La Flo ha demanat a l'equip que treballin en els seus defectes per ser més eficients, però quan les coses no surten com estava previst, s'adona que són justament aquests defectes els que fan que la Tropa sigui tan especial.</desc>
-    <length units="seconds">630</length>
-    <episode-num system="onscreen">29</episode-num>
+  <programme start="20261123033033 +0100" stop="20261123034033 +0100" channel="sx3">
+    <title lang="ca">Pop, la ciutat de paper</title>
+    <sub-title lang="ca">El gran agraïment</sub-title>
+    <desc lang="ca">En l'aventura poptàstica d'avui, els amics li fan una festa fantàstica a la Mà Amiga! Però, amb tantes coses per fer, la Phoebe sabrà treballar amb els seus amics per preparar-ho tot a temps?</desc>
+    <length units="seconds">600</length>
+    <episode-num system="onscreen">27</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
@@ -131,12 +136,12 @@
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20261122230600 +0100" stop="20261122231650 +0100" channel="sx3">
-    <title lang="ca">La tropa del corral</title>
-    <sub-title lang="ca">Ple de trampes</sub-title>
-    <desc lang="ca">És un dia de moltes trucades al corral. Avui, els nostres herois investiguen una sèrie de robatoris a Vilanimal, però aviat s'adonen que ha estat cosa d'en Frankie. Els ha parat una trampa i els ha fet anar a casa de l'Albert, que és plena de paranys, per poder robar el galliner en pau!</desc>
-    <length units="seconds">650</length>
-    <episode-num system="onscreen">30</episode-num>
+  <programme start="20261123034033 +0100" stop="20261123035033 +0100" channel="sx3">
+    <title lang="ca">Pop, la ciutat de paper</title>
+    <sub-title lang="ca">La pel·lícula d'en Zip</sub-title>
+    <desc lang="ca">A l'aventura poptàstica d'avui, els amics volen fer les seves pròpies pel·lícules, però a en Zip li costa pensar una idea. Podrà fer la pel·lícula a temps per la gran nit de cinema?</desc>
+    <length units="seconds">600</length>
+    <episode-num system="onscreen">28</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
@@ -148,28 +153,28 @@
   <channel id="c33">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20261122220823 +0100" stop="20261122230646 +0100" channel="c33">
-    <title lang="ca">Els caps de setmana llargs d'en Rick Stein</title>
-    <sub-title lang="ca">Berlín</sub-title>
-    <desc lang="ca">En Rick no ha estat mai a Berlín. El sorprèn moltíssim el seu ambient de novel·la negra i el dinamisme dels berlinesos. La gastronomia de la ciutat es caracteritza per la presència simultània de restaurants que ofereixen menjar tradicional i locals moderns amb cuiners que fan versions noves de plats clàssics. A més, hi ha cuiners innovadors i agosarats que trenquen motlles organitzant esdeveniments únics en entorns d'allò més inusuals.</desc>
-    <length units="seconds">3503</length>
-    <episode-num system="onscreen">3</episode-num>
-    <category lang="ca">DIVULGACIÓ</category>
-    <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
+  <programme start="20261123025923 +0100" stop="20261123034540 +0100" channel="c33">
+    <title lang="ca">Benvinguts a la família</title>
+    <sub-title lang="ca">La fuga</sub-title>
+    <desc lang="ca">El pla per treure el Raül de la presó es posa en marxa. Aprofitant la mort del seu company de cel·la, l'advocat haurà d'aconseguir arribar a la infermeria i amagar-se dins del taüt per sortir del presidi sense aixecar sospites. Perquè tot tingui èxit, la família haurà de convèncer la Paula, l'ex del Fran i treballadora de la funerària, perquè sigui còmplice del pla, però ella no sembla gaire disposada a col·laborar.</desc>
+    <length units="seconds">2777</length>
+    <episode-num system="onscreen">23</episode-num>
+    <category lang="ca">FICCIÓ</category>
+    <category lang="ca">SÈRIE DRAMÀTICA</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20261122230646 +0100" stop="20261123000527 +0100" channel="c33">
-    <title lang="ca">Els caps de setmana llargs d'en Rick Stein</title>
-    <sub-title lang="ca">Lisboa</sub-title>
-    <desc lang="ca">En Rick Stein visita Lisboa, a la riba del Tajo, una ciutat ideal per tastar un marisc extraordinari o el famós 'pastéis de Belém', qui sap si el millor pastisset de crema del món. S'endinsarà en el llegat històric lisboeta, les seves festes populars o el modern Mercado da Ribeira, i vibrarà amb la malenconia del 'fado'. Finalment, ens farà un plat de mar i muntanya -porc i cloïsses 'à alentejana'-; també un pastís deliciós d'ametlla amb caramel de sucre i mantega, i bunyols de bacallà amb coriandre.</desc>
-    <length units="seconds">3521</length>
-    <episode-num system="onscreen">6</episode-num>
-    <category lang="ca">DIVULGACIÓ</category>
-    <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
+  <programme start="20261123034540 +0100" stop="20261123043031 +0100" channel="c33">
+    <title lang="ca">Benvinguts a la família</title>
+    <sub-title lang="ca">El nínxol</sub-title>
+    <desc lang="ca">El Raül, enterrat viu, intenta posar-se en contacte amb la família perquè el treguin del nínxol. El que descobreixen l'Àngela i els seus és que el Leo no es deia realment Leo i que, per tant, el Raül pot estar enterrat en qualsevol lloc. La família s'haurà de dividir per intentar trobar l'advocat abans que se li acabi l'oxigen i sigui massa tard. </desc>
+    <length units="seconds">2691</length>
+    <episode-num system="onscreen">24</episode-num>
+    <category lang="ca">FICCIÓ</category>
+    <category lang="ca">SÈRIE DRAMÀTICA</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
