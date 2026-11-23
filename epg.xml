@@ -3,82 +3,63 @@
   <channel id="tv3uhd">
     <display-name>TV3UHD</display-name>
   </channel>
-  <programme start="20261123005055 +0100" stop="20261123043000 +0100" channel="tv3uhd">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">13145</length>
-    <episode-num system="onscreen">11774</episode-num>
+  <programme start="20261123102959 +0100" stop="20261123135500 +0100" channel="tv3uhd">
+    <title lang="ca">Tot es mou</title>
+    <desc lang="ca">El programa presentat per Helena Garcia Melero s'emet de dilluns a divendres, de 10.30 a 13.55. Un magazín d'actualitat que busca informar, analitzar i debatre sobre temes que marquen l'actualitat social, econòmica i cultural del dia, amb una àmplia presència en directe dels reporters i reporteres, repartits per tot Catalunya. A més, el 'Tot es mou' compta amb seccions diàries de gastronomia (amb els principals cuiners i cuineres del país), successos, economia, mobilitat, temes mèdics i de tecnologia, entre d'altres.</desc>
+    <length units="seconds">12301</length>
+    <episode-num system="onscreen">1855</episode-num>
+    <category lang="ca">ACTUALITAT</category>
+    <category lang="ca">MAGAZINE</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <subtitles type="teletext"/>
+  </programme>
+  <programme start="20261123135500 +0100" stop="20261123143000 +0100" channel="tv3uhd">
+    <title lang="ca">Telenotícies comarques</title>
+    <length units="seconds">2100</length>
+    <episode-num system="onscreen">7081</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <previously-shown/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
-  </programme>
-  <programme start="20261123043000 +0100" stop="20261123050000 +0100" channel="tv3uhd">
-    <title lang="ca">Ritmes a l'aula</title>
-    <sub-title lang="ca">Catroi Quartet</sub-title>
-    <length units="seconds">1800</length>
-    <episode-num system="onscreen">6</episode-num>
-    <category lang="ca">MUSICALS</category>
-    <category lang="ca">JAZZ</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <previously-shown/>
-    <icon src="https://img.3cat.cat/multimedia/jpg/0/5/1748345445750.jpg"/>
+    <subtitles type="teletext"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/5/2/1758026313525.jpg"/>
   </programme>
   <channel id="tvi">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20261123005054 +0100" stop="20261123043000 +0100" channel="tvi">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">13146</length>
-    <episode-num system="onscreen">11774</episode-num>
+  <programme start="20261123102959 +0100" stop="20261123135500 +0100" channel="tvi">
+    <title lang="ca">Tot es mou</title>
+    <desc lang="ca">El programa presentat per Helena Garcia Melero s'emet de dilluns a divendres, de 10.30 a 13.55. Un magazín d'actualitat que busca informar, analitzar i debatre sobre temes que marquen l'actualitat social, econòmica i cultural del dia, amb una àmplia presència en directe dels reporters i reporteres, repartits per tot Catalunya. A més, el 'Tot es mou' compta amb seccions diàries de gastronomia (amb els principals cuiners i cuineres del país), successos, economia, mobilitat, temes mèdics i de tecnologia, entre d'altres.</desc>
+    <length units="seconds">12301</length>
+    <episode-num system="onscreen">1855</episode-num>
+    <category lang="ca">ACTUALITAT</category>
+    <category lang="ca">MAGAZINE</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+  </programme>
+  <programme start="20261123135500 +0100" stop="20261123143000 +0100" channel="tvi">
+    <title lang="ca">Telenotícies comarques</title>
+    <length units="seconds">2100</length>
+    <episode-num system="onscreen">7081</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <previously-shown/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
-  </programme>
-  <programme start="20261123043000 +0100" stop="20261123050000 +0100" channel="tvi">
-    <title lang="ca">Ritmes a l'aula</title>
-    <sub-title lang="ca">Catroi Quartet</sub-title>
-    <length units="seconds">1800</length>
-    <episode-num system="onscreen">6</episode-num>
-    <category lang="ca">MUSICALS</category>
-    <category lang="ca">JAZZ</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <previously-shown/>
-    <icon src="https://img.3cat.cat/multimedia/jpg/0/5/1748345445750.jpg"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/5/2/1758026313525.jpg"/>
   </programme>
   <channel id="324">
     <display-name>324</display-name>
   </channel>
-  <programme start="20261123010000 +0100" stop="20261123060000 +0100" channel="324">
+  <programme start="20261123120000 +0100" stop="20261123135500 +0100" channel="324">
     <title lang="ca">Notícies 3CatInfo</title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">18000</length>
-    <episode-num system="onscreen">11774</episode-num>
-    <category lang="ca">ACTUALITAT</category>
-    <category lang="ca">INFORMATIU DIÀRI</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <previously-shown/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
-  </programme>
-  <programme start="20261123060000 +0100" stop="20261123080000 +0100" channel="324">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">7200</length>
-    <episode-num system="onscreen">11775</episode-num>
+    <length units="seconds">6900</length>
+    <episode-num system="onscreen">11777</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
@@ -86,48 +67,59 @@
     </rating>
     <subtitles type="teletext"/>
     <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
+  </programme>
+  <programme start="20261123135500 +0100" stop="20261123143000 +0100" channel="324">
+    <title lang="ca">Telenotícies comarques</title>
+    <length units="seconds">2100</length>
+    <episode-num system="onscreen">7081</episode-num>
+    <category lang="ca">ACTUALITAT</category>
+    <category lang="ca">INFORMATIU DIÀRI</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <subtitles type="teletext"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/5/2/1758026313525.jpg"/>
   </programme>
   <channel id="esport3">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20261123022853 +0100" stop="20261123041558 +0100" channel="esport3">
-    <title lang="ca">Futbol</title>
-    <sub-title lang="ca">Girona FC-SD Eibar / Lliga Hypermotion / J15</sub-title>
-    <desc lang="ca">Cara a cara entre dos aspirants a l'ascens que sumen els mateixos punts a la classificació, 24. Catalans i bascos han guanyat 7 partits i n'han empatat 3. Això sí, els gironins han disputat 1 jornada més que els guipuscoans.</desc>
-    <length units="seconds">6425</length>
-    <episode-num system="onscreen">3</episode-num>
+  <programme start="20261123113003 +0100" stop="20261123130000 +0100" channel="esport3">
+    <title lang="ca">Gol a gol</title>
+    <sub-title lang="ca">Anàlisi de la jornada / J13 / Diumenge</sub-title>
+    <desc lang="ca">'Gol a gol' us ofereix els resums dels partits de futbol de Primera i Segona Divisió. Presentat per Jordi Grau a Esport3, cada dissabte i cada diumenge podeu veure les millors imatges de la jornada de Lliga amb l'anàlisi dels experts, amb especial atenció als equips catalans, sobretot el Barça, el Girona i l'Espanyol.</desc>
+    <length units="seconds">5397</length>
+    <episode-num system="onscreen">1805</episode-num>
     <category lang="ca">ESPORTS</category>
-    <category lang="ca">RETRANSMISSIONS ESPORTS</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <previously-shown/>
-    <icon src="https://img.3cat.cat/multimedia/jpg/8/3/1791458637038.jpg"/>
-  </programme>
-  <programme start="20261123041558 +0100" stop="20261123062044 +0100" channel="esport3">
-    <title lang="ca">Futbol</title>
-    <sub-title lang="ca">FC Barcelona-Athletic Club / Lliga F / J12</sub-title>
-    <desc lang="ca">Les blaugranes lideren la classificació amb 9 victòries, 1 empat i 1 derrota. El conjunt de Bilbao també vol seguir a la zona alta. El balanç de les basques és de 5 victòries, 4 empats i 2 derrotes.</desc>
-    <length units="seconds">7486</length>
-    <episode-num system="onscreen">66</episode-num>
-    <category lang="ca">ESPORTS</category>
-    <category lang="ca">RETRANSMISSIONS ESPORTS</category>
+    <category lang="ca">MAGAZINE</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/0/8/1730389343680.jpg"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/2/1/1698144123212.jpg"/>
+  </programme>
+  <programme start="20261123130000 +0100" stop="20261123140141 +0100" channel="esport3">
+    <title lang="ca">Esport Club</title>
+    <desc lang="ca">En Jordi Sanuy i Víctor Patsi us expliquen l'última hora esportiva i l'analitzen amb el seu equip de col·laboradors. El programa és molt actiu a les xarxes socials. L''Esport Club' té presència a Twitter, a Facebook i a Instagram. L'espai dirigeix moltes accions de participació amb l'audiència a través de les xarxes socials.</desc>
+    <length units="seconds">3701</length>
+    <episode-num system="onscreen">3289</episode-num>
+    <category lang="ca">ESPORTS</category>
+    <category lang="ca">INFORMATIU DIÀRI</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <subtitles type="teletext"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/7/3/1698145091337.jpg"/>
   </programme>
   <channel id="sx3">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20261123033033 +0100" stop="20261123034033 +0100" channel="sx3">
-    <title lang="ca">Pop, la ciutat de paper</title>
-    <sub-title lang="ca">El gran agraïment</sub-title>
-    <desc lang="ca">En l'aventura poptàstica d'avui, els amics li fan una festa fantàstica a la Mà Amiga! Però, amb tantes coses per fer, la Phoebe sabrà treballar amb els seus amics per preparar-ho tot a temps?</desc>
-    <length units="seconds">600</length>
-    <episode-num system="onscreen">27</episode-num>
+  <programme start="20261123115315 +0100" stop="20261123121500 +0100" channel="sx3">
+    <title lang="ca">Els germans Kratt</title>
+    <sub-title lang="ca">A la càrrega, rinoceronts!</sub-title>
+    <desc lang="ca">Avui, els germans Kratt han anat de missió a la sabana africana a descobrir com és que estan desapareixent tants rinoceronts. Aviat descobriran que és cosa d'en Zach, que els està segrestant per construir l'invent més genial de tots: el rinodòzer! Però també descobriran com es defensen els rinoceronts... i potser fins i tot ho faran servir! T'ho perdràs?!</desc>
+    <length units="seconds">1305</length>
+    <episode-num system="onscreen">18</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
@@ -136,12 +128,12 @@
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20261123034033 +0100" stop="20261123035033 +0100" channel="sx3">
-    <title lang="ca">Pop, la ciutat de paper</title>
-    <sub-title lang="ca">La pel·lícula d'en Zip</sub-title>
-    <desc lang="ca">A l'aventura poptàstica d'avui, els amics volen fer les seves pròpies pel·lícules, però a en Zip li costa pensar una idea. Podrà fer la pel·lícula a temps per la gran nit de cinema?</desc>
-    <length units="seconds">600</length>
-    <episode-num system="onscreen">28</episode-num>
+  <programme start="20261123121500 +0100" stop="20261123123600 +0100" channel="sx3">
+    <title lang="ca">Els germans Kratt</title>
+    <sub-title lang="ca">La mare cocodril</sub-title>
+    <desc lang="ca">En Chris i en Martin estan decidits a demostrar a l'Aviva que el gran cocodril del Nil africà, un dels més grossos del món, a més d'espantar una mica, també sap fer altres coses. Ho faran miniaturitzant-se, disfressant-se d'ous de cocodril i ficant-se al niu de la mare cocodril! Ben aviat sabrem que no és veritat que sempre es volen cruspir tot el que troben! Oi?!</desc>
+    <length units="seconds">1260</length>
+    <episode-num system="onscreen">1</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
@@ -153,28 +145,27 @@
   <channel id="c33">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20261123025923 +0100" stop="20261123034540 +0100" channel="c33">
-    <title lang="ca">Benvinguts a la família</title>
-    <sub-title lang="ca">La fuga</sub-title>
-    <desc lang="ca">El pla per treure el Raül de la presó es posa en marxa. Aprofitant la mort del seu company de cel·la, l'advocat haurà d'aconseguir arribar a la infermeria i amagar-se dins del taüt per sortir del presidi sense aixecar sospites. Perquè tot tingui èxit, la família haurà de convèncer la Paula, l'ex del Fran i treballadora de la funerària, perquè sigui còmplice del pla, però ella no sembla gaire disposada a col·laborar.</desc>
-    <length units="seconds">2777</length>
-    <episode-num system="onscreen">23</episode-num>
-    <category lang="ca">FICCIÓ</category>
-    <category lang="ca">SÈRIE DRAMÀTICA</category>
+  <programme start="20261123120714 +0100" stop="20261123121235 +0100" channel="c33">
+    <title lang="ca">Xarxa Natura</title>
+    <sub-title lang="ca">Alta Garrotxa</sub-title>
+    <desc lang="ca">En la llista d'espais inclosos a la Xarxa Natura 2000 hi ha tots els parcs naturals, però també molts altres espais emblemàtics com ara les Guilleries, l'estany de Banyoles, l'Alta Garrotxa, la serra del Montsec o les Gavarres. La majoria d'aquests espais són autèntics desconeguts i els seus valors naturals i culturals no han estat mai objecte de cap divulgació específica. Aquesta sèrie vol donar a conèixer aquest patrimoni.</desc>
+    <length units="seconds">321</length>
+    <episode-num system="onscreen">6</episode-num>
+    <category lang="ca">ALTRES</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/4/1/1721308939614.jpg"/>
   </programme>
-  <programme start="20261123034540 +0100" stop="20261123043031 +0100" channel="c33">
-    <title lang="ca">Benvinguts a la família</title>
-    <sub-title lang="ca">El nínxol</sub-title>
-    <desc lang="ca">El Raül, enterrat viu, intenta posar-se en contacte amb la família perquè el treguin del nínxol. El que descobreixen l'Àngela i els seus és que el Leo no es deia realment Leo i que, per tant, el Raül pot estar enterrat en qualsevol lloc. La família s'haurà de dividir per intentar trobar l'advocat abans que se li acabi l'oxigen i sigui massa tard. </desc>
-    <length units="seconds">2691</length>
-    <episode-num system="onscreen">24</episode-num>
-    <category lang="ca">FICCIÓ</category>
-    <category lang="ca">SÈRIE DRAMÀTICA</category>
+  <programme start="20261123121235 +0100" stop="20261123130734 +0100" channel="c33">
+    <title lang="ca">Atrapa'm si pots</title>
+    <desc lang="ca">'Atrapa'm si pots' és un 'quiz show' clàssic, de preguntes i respostes, presentat per Llucià Ferrer, en què sis concursants competeixen per arribar a la fase final i guanyar el pot. 'Atrapa'm si pots' és entreteniment pur i on gairebé és més important passar-s'ho bé que els diners. És un concurs en què pesa més la intuïció que no els coneixements acadèmics, més l'estratègia en el joc que no la sort.</desc>
+    <length units="seconds">3299</length>
+    <episode-num system="onscreen">106</episode-num>
+    <category lang="ca">ENTRETENIMENT</category>
+    <category lang="ca">CONCURS</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
