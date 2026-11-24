@@ -3,71 +3,40 @@
   <channel id="tv3uhd">
     <display-name>TV3UHD</display-name>
   </channel>
-  <programme start="20261123231039 +0100" stop="20261124001732 +0100" channel="tv3uhd">
-    <title lang="ca">El Foraster</title>
-    <sub-title lang="ca">- Begur</sub-title>
-    <desc lang="ca">Sense Descripció</desc>
-    <length units="seconds">4013</length>
-    <episode-num system="onscreen">141</episode-num>
+  <programme start="20261124060000 +0100" stop="20261124080000 +0100" channel="tv3uhd">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="seconds">7200</length>
+    <episode-num system="onscreen">11784</episode-num>
+    <category lang="ca">ACTUALITAT</category>
+    <category lang="ca">INFORMATIU DIÀRI</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
     <subtitles type="teletext"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
-  <programme start="20261124001732 +0100" stop="20261124011445 +0100" channel="tv3uhd">
-    <title lang="ca">El Foraster</title>
-    <sub-title lang="ca">- Vall de Cardós</sub-title>
-    <desc lang="ca">Sense Descripció</desc>
-    <length units="seconds">3433</length>
-    <episode-num system="onscreen">139</episode-num>
+  <programme start="20261124080000 +0100" stop="20261124103000 +0100" channel="tv3uhd">
+    <title lang="ca">Matins</title>
+    <desc lang="ca">'Matins' és un dels puntals informatius de TV3. El programa matinal dona les claus del dia que comença, explica les notícies que han passat aportant-ne el context per entendre-les i analitza amb veus acreditades l'actualitat més propera i la d'arreu del món. 'Matins' comença a les 8 del matí, de dilluns a divendres, i està presentat per Ariadna Oltra.</desc>
+    <length units="seconds">9000</length>
+    <episode-num system="onscreen">4719</episode-num>
+    <category lang="ca">ACTUALITAT</category>
+    <category lang="ca">INFORMATIU DIÀRI</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
     <subtitles type="teletext"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/2/0/1758040151402.jpg"/>
   </programme>
   <channel id="tvi">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20261123231039 +0100" stop="20261124001732 +0100" channel="tvi">
-    <title lang="ca">El Foraster</title>
-    <sub-title lang="ca">Begur</sub-title>
-    <desc lang="ca">Begur (Baix Empordà) té un escenari privilegiat que l'ha convertit en un destí turístic de primer nivell, però més enllà del paisatge i les cales, el poble manté un esperit juganer i viu - cent per cent bacanard- que només s'explica per la seva gent.Entre aquesta gent hi ha la Leila, una sirena empordanesa que desafiarà en Quim a banyar-se en aigües gèlides; en Carlus, un vigilant incansable que 'patrulla' el poble amb un xiulet de policia, i l'Ernest, defensor apassionat d'unes escales que, segons ell, haurien de tenir reconeixement mundial. En Quim també coneixerà la Rosa i en Rogeli, una parella de jubilats que es resisteixen a deixar enrere el nen que porten dins, i en Riqui, que lidera una activitat infantil dissenyada perquè els més petits reconnectin literalment amb la natura.El viatge el durà a compartir una sortida de sol inoblidable amb un grup d'excursionistes de trajectòria incerta i a pujar a la barca de l'últim pescador del poble, en Llorenç, per acabar com només es pot fer a Begur: embarcat, batejat, i una mica més bacanard.</desc>
-    <length units="seconds">4013</length>
-    <episode-num system="onscreen">141</episode-num>
-    <category lang="ca">ENTRETENIMENT</category>
-    <category lang="ca">VARIETATS</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <previously-shown/>
-  </programme>
-  <programme start="20261124001732 +0100" stop="20261124011445 +0100" channel="tvi">
-    <title lang="ca">El Foraster</title>
-    <sub-title lang="ca">Vall de Cardós</sub-title>
-    <desc lang="ca">A Vall de Cardós (Pallars Sobirà) la vida transcorre entre muntanyes i silenci, i sota una sentència que defineix el tarannà dels que hi viuen: 'Per ser de la vall de Cardós, has d'haver nascut a la vall de Cardós, patit a la vall de Cardós i mort a la vall de Cardós.'En Quim es trobarà en Charlie, un home de ràdio peculiar que amaga un autèntic museu surrealista al traster; la Conxita, que als 91 anys ha arribat a una conclusió fonamentada i contundent sobre Déu, i la Carmen i en Clive, una parella que es van conèixer a Austràlia i que li explicaran com van reconstruir la seva vida a la vall després d'uns temps difícils.També parlarà amb el mossèn, que sembla custodiar els secrets de tots els pobles veïns, fins i tot els de Tor, i descobrirà un taller mecànic únic on en Cisco i en Juanito li explicaran una història increïble sobre el més enllà.En Quim també acompanyarà l'Anna en una ruta escolar plena de revolts, fauna i criatures, es deixarà portar per una teràpia poc convencional amb l'Enric i el seu ramat de cabres i, finalment, l'Àngel el convidarà a casa seva, al cim del Pui Tabaca, per delectar-se amb unes vistes úniques.</desc>
-    <length units="seconds">3433</length>
-    <episode-num system="onscreen">139</episode-num>
-    <category lang="ca">ENTRETENIMENT</category>
-    <category lang="ca">VARIETATS</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <previously-shown/>
-  </programme>
-  <channel id="324">
-    <display-name>324</display-name>
-  </channel>
-  <programme start="20261123220500 +0100" stop="20261124000000 +0100" channel="324">
-    <title lang="ca">Mésnit</title>
-    <desc lang="ca">El 'Mésnit' arriba a la desena temporada, amb Marina Romero al capdavant de l'espai i amb la voluntat de continuar sent un centre de debat d'idees i d'anàlisi de l'activitat política.</desc>
-    <length units="seconds">6900</length>
-    <episode-num system="onscreen">2205</episode-num>
-    <category lang="ca">ACTUALITAT</category>
-    <category lang="ca">DEBAT</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <subtitles type="teletext"/>
-  </programme>
-  <programme start="20261124000000 +0100" stop="20261124003000 +0100" channel="324">
+  <programme start="20261124060000 +0100" stop="20261124080000 +0100" channel="tvi">
     <title lang="ca">Notícies 3CatInfo</title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">1800</length>
-    <episode-num system="onscreen">11782</episode-num>
+    <length units="seconds">7200</length>
+    <episode-num system="onscreen">11784</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
@@ -75,14 +44,54 @@
     </rating>
     <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
+  <programme start="20261124080000 +0100" stop="20261124103000 +0100" channel="tvi">
+    <title lang="ca">Matins</title>
+    <desc lang="ca">'Matins' és un dels puntals informatius de TV3. El programa matinal dona les claus del dia que comença, explica les notícies que han passat aportant-ne el context per entendre-les i analitza amb veus acreditades l'actualitat més propera i la d'arreu del món. 'Matins' comença a les 8 del matí, de dilluns a divendres, i està presentat per Ariadna Oltra.</desc>
+    <length units="seconds">9000</length>
+    <episode-num system="onscreen">4719</episode-num>
+    <category lang="ca">ACTUALITAT</category>
+    <category lang="ca">INFORMATIU DIÀRI</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <icon src="https://img.ccma.cat/multimedia/jpg/2/0/1758040151402.jpg"/>
+  </programme>
+  <channel id="324">
+    <display-name>324</display-name>
+  </channel>
+  <programme start="20261124060000 +0100" stop="20261124080000 +0100" channel="324">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="seconds">7200</length>
+    <episode-num system="onscreen">11784</episode-num>
+    <category lang="ca">ACTUALITAT</category>
+    <category lang="ca">INFORMATIU DIÀRI</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <subtitles type="teletext"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
+  </programme>
+  <programme start="20261124080000 +0100" stop="20261124103000 +0100" channel="324">
+    <title lang="ca">Matins</title>
+    <desc lang="ca">'Matins' és un dels puntals informatius de TV3. El programa matinal dona les claus del dia que comença, explica les notícies que han passat aportant-ne el context per entendre-les i analitza amb veus acreditades l'actualitat més propera i la d'arreu del món. 'Matins' comença a les 8 del matí, de dilluns a divendres, i està presentat per Ariadna Oltra.</desc>
+    <length units="seconds">9000</length>
+    <episode-num system="onscreen">4719</episode-num>
+    <category lang="ca">ACTUALITAT</category>
+    <category lang="ca">INFORMATIU DIÀRI</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <icon src="https://img.ccma.cat/multimedia/jpg/2/0/1758040151402.jpg"/>
+  </programme>
   <channel id="esport3">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20261123230009 +0100" stop="20261124003147 +0100" channel="esport3">
+  <programme start="20261124070150 +0100" stop="20261124083638 +0100" channel="esport3">
     <title lang="ca">Onze</title>
     <sub-title lang="ca">Remun-team; Mayola Academy i 'El Colegiado'</sub-title>
     <desc lang="ca">Lluís Carrasco, Carles Fité, Aina Cerdà i Xavi Torres comenten l'enèsima remuntada del Barça de Flick. En Marc Mayola posa la lupa en el partit de Perdi. En Joan Fàbregas analitza les jugades polèmiques de la jornada.</desc>
-    <length units="seconds">5498</length>
+    <length units="seconds">5688</length>
     <episode-num system="onscreen">1293</episode-num>
     <category lang="ca">ESPORTS</category>
     <category lang="ca">MAGAZINE</category>
@@ -90,29 +99,32 @@
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
+    <previously-shown/>
     <icon src="https://img.ccma.cat/multimedia/jpg/1/1/1688543515711.jpg"/>
   </programme>
-  <programme start="20261124003147 +0100" stop="20261124004954 +0100" channel="esport3">
-    <title lang="ca">3CatInfo Esports</title>
-    <desc lang="ca">Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.</desc>
-    <length units="seconds">1087</length>
-    <episode-num system="onscreen">5576</episode-num>
+  <programme start="20261124083638 +0100" stop="20261124095601 +0100" channel="esport3">
+    <title lang="ca">Futbol sala</title>
+    <sub-title lang="ca">Olmissum-Barça / Champions League / Vuitens anada</sub-title>
+    <desc lang="ca">Els blaugranes juguen a Croàcia el partit d'anada dels vuitens de final a la gran competició europea.</desc>
+    <length units="seconds">4763</length>
+    <episode-num system="onscreen">15</episode-num>
     <category lang="ca">ESPORTS</category>
-    <category lang="ca">INFORMATIU DIÀRI</category>
+    <category lang="ca">RETRANSMISSIONS ESPORTS</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <icon src="https://img.ccma.cat/multimedia/jpg/9/7/1758888682179.jpg"/>
+    <previously-shown/>
+    <icon src="https://img.3cat.cat/multimedia/jpg/8/3/1793099713438.jpg"/>
   </programme>
   <channel id="sx3">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20261123232251 +0100" stop="20261123234300 +0100" channel="sx3">
-    <title lang="ca">Els germans Kratt</title>
-    <sub-title lang="ca">El rescat del panda vermell</sub-title>
-    <desc lang="ca">El Chris troba un panda vermell que s'ha perdut, però abans que els Kratt el puguin tornar a la seva mare, el Zach el roba per fer-ne un regal d'aniversari per a la Donita Donata. Els Kratt l'hauran de rescatar!</desc>
-    <length units="seconds">1209</length>
-    <episode-num system="onscreen">107</episode-num>
+  <programme start="20261124071952 +0100" stop="20261124073140 +0100" channel="sx3">
+    <title lang="ca">La Patrulla Peluda</title>
+    <sub-title lang="ca">La Patrulla salva l'abella reina</sub-title>
+    <desc lang="ca">El capità Turbot descobreix un rusc d'abelles al far i demana ajuda a la Patrulla Peluda perquè l'ajudin a buscar-los un altre lloc per viure.</desc>
+    <length units="seconds">708</length>
+    <episode-num system="onscreen">69</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
@@ -121,51 +133,44 @@
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20261123234300 +0100" stop="20261124000309 +0100" channel="sx3">
-    <title lang="ca">Els germans Kratt</title>
-    <sub-title lang="ca">L'ós de Kermode</sub-title>
-    <desc lang="ca">Els germans Kratt van a l'Illa dels Óssos per veure de prop óssos negres i l'Aviva veu un ós de color blanc. Aviat s'adonen que el que ha vist és el peculiar ós de Kermode del nord del Pacífic. Però la seva alegria queda eclipsada quan coneixen una nova malvada, la Paisley Paviment, Directora General de Pavimentem la Natura SA i descobreixen els seus plans de convertir l'illa en unes enormes instal·lacions de megamagatzems. </desc>
-    <length units="seconds">1209</length>
-    <episode-num system="onscreen">108</episode-num>
-    <category lang="ca">FICCIÓ</category>
-    <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
-    <rating>
-      <value>INFANTIL</value>
-    </rating>
+  <programme start="20261124073140 +0100" stop="20261124074332 +0100" channel="sx3">
+    <title lang="ca">La Patrulla Peluda</title>
+    <sub-title lang="ca">- La Patrulla salva l’estany dels ànecs</sub-title>
+    <desc lang="ca">Sense Descripció</desc>
+    <length units="seconds">712</length>
+    <episode-num system="onscreen">210</episode-num>
     <subtitles type="teletext"/>
-    <previously-shown/>
   </programme>
   <channel id="c33">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20261123233606 +0100" stop="20261124013435 +0100" channel="c33">
-    <title lang="ca">Festival Zoom Igualada</title>
-    <sub-title lang="ca">Gala dels XXIV Premis Zoom de la Televisió i les Plataformes Digitals</sub-title>
-    <desc lang="ca">Els Premis Zoom són un certamen internacional que reconeix els millors continguts televisius i digitals, tant de l'àmbit nacional com internacional. Nascuts a Igualada l'any 2003, s'han consolidat com un espai de trobada per als professionals del sector audiovisual i com una plataforma per posar en valor la creativitat, el talent i la innovació.El certamen compta amb una secció oficial, que inclou els premis a la millor sèrie i minisèrie de ficció, al millor programa d'entreteniment, al millor programa informatiu, al millor programa d'esports, al millor programa cultural i divulgatiu i al millor programa infantil i juvenil. També s'hi lliuraran el premi al millor format de TV en igualtat de gènere, el premi DO Catalunya al millor format de TV en català, el premi EVA i el premi showcase de talent emergent.A més, la gala reconeixerà la trajectòria dels periodistes Gemma Nierga i Albert Om, que rebran els premis d'honor, i de Joan Granados, distingit amb el premi especial del Zoom.</desc>
-    <length units="seconds">7109</length>
-    <episode-num system="onscreen">7</episode-num>
+  <programme start="20261124070031 +0100" stop="20261124072537 +0100" channel="c33">
+    <title lang="ca">Quèquicom</title>
+    <sub-title lang="ca">Potassa: viatge als fons de Catalunya</sub-title>
+    <desc lang="ca">Quèquicom divulga des de 2006 la ciència, la natura i la tecnologia d'una manera amena, clara i rigorosa amb la voluntat de fomentar l'esperit crític i la curiositat intel·lectual en l'espectador. És una producció del Departament de Documentals de TV3.</desc>
+    <length units="seconds">1506</length>
+    <episode-num system="onscreen">119</episode-num>
     <category lang="ca">DIVULGACIÓ</category>
-    <category lang="ca">ALTRES</category>
+    <category lang="ca">MAGAZINE ESPECIALITZAT</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
-    <icon src="https://img.3cat.cat/multimedia/jpg/3/0/1795091655403.jpg"/>
+    <previously-shown/>
   </programme>
-  <programme start="20261124013435 +0100" stop="20261124022819 +0100" channel="c33">
-    <title lang="ca">Montserrat Figueras, la veu de l'emoció</title>
-    <sub-title lang="ca">Montserrat Figueras, la veu de l'emoció</sub-title>
-    <desc lang="ca">Documental sobre la figura de la soprano Montserrat Figueras, que va ser la inseparable parella personal i professional de Jordi Savall, amb el qual va formar un tàndem creatiu enormement prolífic. Tots dos han estat els recuperadors de la música medieval, renaixentista i barroca, que ha estat fonamental pel patrimoni musical de Catalunya i d'Europa.Montserat Figueras va morir el 23 de novembre del 2011 víctima d'un càncer. Companys de professió (músics i cantants), crítics musicals, amics personals i el cercle familiar més íntim de la soprano ens desvelen una personalitat d'una enorme sensibilitat, que situava la música al centre de la seva activitat vital per projectar-la cap a la comunicació dels valors de la diversitat cultural, el diàleg i la pau.El documental recupera imatges de Montserrat Figueras a l'inici de la seva carrera, quan la va orientar cap a la música antiga, aixó com d'algunes actuacions destacades, sense oblidar moments de la seva vida familiar.Montserrat Figueras, la veu de l'emoció s'ha gravat a Catalunya, França i Suïssa, els llocs més importants en la vida i la carrera de la soprano. A més, fotografies del seu àlbum i alguns enregistraments familiars ajuden a conèixer molt millor la persona que Jordi Savall defineix com el meu amor, la meva amiga, la mare dels meus fills i la musa que m'ha inspirat i m'ha empès al llarg de tots aquests anys.</desc>
-    <length units="seconds">3224</length>
-    <episode-num system="onscreen">1</episode-num>
-    <category lang="ca">MUSICALS</category>
-    <category lang="ca">CLÀSSICA</category>
+  <programme start="20261124072537 +0100" stop="20261124075314 +0100" channel="c33">
+    <title lang="ca">Quèquicom</title>
+    <sub-title lang="ca">La paella al natural</sub-title>
+    <desc lang="ca">'Quèquicom descobrirem els valors nutritius de l'arròs, que té en la paella la seva expressió màxima i un paper estel·lar. Oferirem diversos reportatges que mostraran les propietats del cereal, les seves varietats i les diverses maneres de cuinar-lo. Tot, sota el títol genèric 'La paella al natural'.</desc>
+    <length units="seconds">1657</length>
+    <episode-num system="onscreen">120</episode-num>
+    <category lang="ca">DIVULGACIÓ</category>
+    <category lang="ca">MAGAZINE ESPECIALITZAT</category>
     <rating>
-      <value>PÚBLIC ADULT</value>
+      <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
-    <icon src="https://img.3cat.cat/multimedia/jpg/5/1/1755505509015.jpg"/>
   </programme>
   <channel id="oca1">
     <display-name>OCA1</display-name>
