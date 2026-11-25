@@ -3,108 +3,97 @@
   <channel id="tv3uhd">
     <display-name>TV3UHD</display-name>
   </channel>
-  <programme start="20261124173847 +0100" stop="20261124191259 +0100" channel="tv3uhd">
-    <title lang="ca">La Selva</title>
-    <desc lang="ca">Xavier Grasset us convida a passar la tarda en una cafeteria on regna el bon ambient. El lloc on saps que sempre hi trobaràs cares conegudes i conversa interessant. A 'La selva' s'hi parla de tot i hi pot passar de tot. Amb la mirada posada a l'actualitat que marca el dia, però també a les curiositats més sorprenents. Des del recolliment d'un bar on t'hi trobes com a casa, però amb una finestra oberta al que passa en directe arreu de Catalunya i al món. Un programa amb vocació d'aparador cultural i gastronòmic del país.</desc>
-    <length units="seconds">5652</length>
-    <episode-num system="onscreen">457</episode-num>
-    <category lang="ca">ENTRETENIMENT</category>
-    <category lang="ca">MAGAZINE</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <subtitles type="teletext"/>
-    <icon src="https://img.3cat.cat/multimedia/jpg/6/3/1725871608136.jpg"/>
-  </programme>
-  <programme start="20261124191259 +0100" stop="20261124201500 +0100" channel="tv3uhd">
-    <title lang="ca">Atrapa'm si pots</title>
-    <desc lang="ca">'Atrapa'm si pots' és un 'quiz show' clàssic, de preguntes i respostes, presentat per Llucià Ferrer, en què sis concursants competeixen per arribar a la fase final i guanyar el pot. 'Atrapa'm si pots' és entreteniment pur i on gairebé és més important passar-s'ho bé que els diners. És un concurs en què pesa més la intuïció que no els coneixements acadèmics, més l'estratègia en el joc que no la sort.</desc>
-    <length units="seconds">3721</length>
-    <episode-num system="onscreen">1004</episode-num>
-    <category lang="ca">ENTRETENIMENT</category>
-    <category lang="ca">CONCURS</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <subtitles type="teletext"/>
-  </programme>
-  <channel id="tvi">
-    <display-name>TVI</display-name>
-  </channel>
-  <programme start="20261124173847 +0100" stop="20261124191259 +0100" channel="tvi">
-    <title lang="ca">La Selva</title>
-    <desc lang="ca">Xavier Grasset us convida a passar la tarda en una cafeteria on regna el bon ambient. El lloc on saps que sempre hi trobaràs cares conegudes i conversa interessant. A 'La selva' s'hi parla de tot i hi pot passar de tot. Amb la mirada posada a l'actualitat que marca el dia, però també a les curiositats més sorprenents. Des del recolliment d'un bar on t'hi trobes com a casa, però amb una finestra oberta al que passa en directe arreu de Catalunya i al món. Un programa amb vocació d'aparador cultural i gastronòmic del país.</desc>
-    <length units="seconds">5652</length>
-    <episode-num system="onscreen">457</episode-num>
-    <category lang="ca">ENTRETENIMENT</category>
-    <category lang="ca">MAGAZINE</category>
+  <programme start="20261125023737 +0100" stop="20261125043000 +0100" channel="tv3uhd">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="seconds">6743</length>
+    <episode-num system="onscreen">11792</episode-num>
+    <category lang="ca">ACTUALITAT</category>
+    <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <previously-shown/>
-    <icon src="https://img.3cat.cat/multimedia/jpg/6/3/1725871608136.jpg"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
-  <programme start="20261124191259 +0100" stop="20261124201500 +0100" channel="tvi">
-    <title lang="ca">Atrapa'm si pots</title>
-    <desc lang="ca">'Atrapa'm si pots' és un 'quiz show' clàssic, de preguntes i respostes, presentat per Llucià Ferrer, en què sis concursants competeixen per arribar a la fase final i guanyar el pot. 'Atrapa'm si pots' és entreteniment pur i on gairebé és més important passar-s'ho bé que els diners. És un concurs en què pesa més la intuïció que no els coneixements acadèmics, més l'estratègia en el joc que no la sort.</desc>
-    <length units="seconds">3721</length>
-    <episode-num system="onscreen">1004</episode-num>
-    <category lang="ca">ENTRETENIMENT</category>
-    <category lang="ca">CONCURS</category>
+  <programme start="20261125043000 +0100" stop="20261125050000 +0100" channel="tv3uhd">
+    <title lang="ca">Ritmes a l'aula</title>
+    <sub-title lang="ca">Jaume Llombart Sextet</sub-title>
+    <length units="seconds">1800</length>
+    <episode-num system="onscreen">8</episode-num>
+    <category lang="ca">MUSICALS</category>
+    <category lang="ca">JAZZ</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
+    <previously-shown/>
+    <icon src="https://img.3cat.cat/multimedia/jpg/0/5/1748345445750.jpg"/>
+  </programme>
+  <channel id="tvi">
+    <display-name>TVI</display-name>
+  </channel>
+  <programme start="20261125023737 +0100" stop="20261125043000 +0100" channel="tvi">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="seconds">6743</length>
+    <episode-num system="onscreen">11792</episode-num>
+    <category lang="ca">ACTUALITAT</category>
+    <category lang="ca">INFORMATIU DIÀRI</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <previously-shown/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
+  </programme>
+  <programme start="20261125043000 +0100" stop="20261125050000 +0100" channel="tvi">
+    <title lang="ca">Ritmes a l'aula</title>
+    <sub-title lang="ca">Jaume Llombart Sextet</sub-title>
+    <length units="seconds">1800</length>
+    <episode-num system="onscreen">8</episode-num>
+    <category lang="ca">MUSICALS</category>
+    <category lang="ca">JAZZ</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <previously-shown/>
+    <icon src="https://img.3cat.cat/multimedia/jpg/0/5/1748345445750.jpg"/>
   </programme>
   <channel id="324">
     <display-name>324</display-name>
   </channel>
-  <programme start="20261124183000 +0100" stop="20261124200000 +0100" channel="324">
+  <programme start="20261125010000 +0100" stop="20261125060000 +0100" channel="324">
     <title lang="ca">Notícies 3CatInfo</title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">5400</length>
-    <episode-num system="onscreen">11789</episode-num>
+    <length units="seconds">18000</length>
+    <episode-num system="onscreen">11792</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <subtitles type="teletext"/>
+    <previously-shown/>
     <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
-  <programme start="20261124200000 +0100" stop="20261124210000 +0100" channel="324">
+  <programme start="20261125060000 +0100" stop="20261125080000 +0100" channel="324">
     <title lang="ca">Notícies 3CatInfo</title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">3600</length>
-    <episode-num system="onscreen">11790</episode-num>
+    <length units="seconds">7200</length>
+    <episode-num system="onscreen">11793</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <subtitles type="teletext"/>
     <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
   <channel id="esport3">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20261124184141 +0100" stop="20261124193925 +0100" channel="esport3">
+  <programme start="20261125025054 +0100" stop="20261125041444 +0100" channel="esport3">
     <title lang="ca">Handbol</title>
     <sub-title lang="ca">Buzau-BM Granollers / EHF European League / J5</sub-title>
     <desc lang="ca">Penúltima jornada d'aquesta fase de grups. El Fraikin juga a Rumania amb l'objectiu de sumar la 4a victòria en 5 partits. En el precedent, disputat a la capital del Vallès Oriental, el Granollers es va imposar per 37 a 31. </desc>
-    <length units="seconds">3464</length>
-    <episode-num system="onscreen">46</episode-num>
-    <category lang="ca">ESPORTS</category>
-    <category lang="ca">RETRANSMISSIONS ESPORTS</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <icon src="https://img.ccma.cat/multimedia/jpg/2/7/1729614341772.jpg"/>
-  </programme>
-  <programme start="20261124193925 +0100" stop="20261124202536 +0100" channel="esport3">
-    <title lang="ca">Handbol</title>
-    <sub-title lang="ca">Buzau-BM Granollers / EHF European League / J5</sub-title>
-    <desc lang="ca">Penúltima jornada d'aquesta fase de grups. El Fraikin juga a Rumania amb l'objectiu de sumar la 4a victòria en 5 partits. En el precedent, disputat a la capital del Vallès Oriental, el Granollers es va imposar per 37 a 31. </desc>
-    <length units="seconds">2771</length>
+    <length units="seconds">5030</length>
     <episode-num system="onscreen">46</episode-num>
     <category lang="ca">ESPORTS</category>
     <category lang="ca">RETRANSMISSIONS ESPORTS</category>
@@ -114,15 +103,28 @@
     <previously-shown/>
     <icon src="https://img.ccma.cat/multimedia/jpg/2/7/1729614341772.jpg"/>
   </programme>
+  <programme start="20261125041444 +0100" stop="20261125043907 +0100" channel="esport3">
+    <title lang="ca">3CatInfo Esports</title>
+    <desc lang="ca">Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.</desc>
+    <length units="seconds">1463</length>
+    <episode-num system="onscreen">5577</episode-num>
+    <category lang="ca">ESPORTS</category>
+    <category lang="ca">INFORMATIU DIÀRI</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <previously-shown/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/9/7/1758888682179.jpg"/>
+  </programme>
   <channel id="sx3">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20261124185242 +0100" stop="20261124190436 +0100" channel="sx3">
-    <title lang="ca">La Patrulla Peluda</title>
-    <sub-title lang="ca">La Patrulla Marina: La Patrula salva la Tilly Turbot</sub-title>
-    <desc lang="ca">La Tilly, l'àvia del capità Turbot i en François, se'n va mar endins dalt d'un dofí i la Patrulla l'ha de rescatar.</desc>
-    <length units="seconds">714</length>
-    <episode-num system="onscreen">211</episode-num>
+  <programme start="20261125024803 +0100" stop="20261125031144 +0100" channel="sx3">
+    <title lang="ca">Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
+    <sub-title lang="ca">L'últim dia (2a p): Re-creació</sub-title>
+    <desc lang="ca">El pla definitiu del Monarca ja està en marxa i sembla que no hi ha res que el pugui aturar. Sobretot tenint en compte que, mentre el món està sumit en el caos, el supermalvat acaba de capturar Ladybug en persona.</desc>
+    <length units="seconds">1421</length>
+    <episode-num system="onscreen">130</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
@@ -131,12 +133,12 @@
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20261124190436 +0100" stop="20261124192707 +0100" channel="sx3">
+  <programme start="20261125031144 +0100" stop="20261125033216 +0100" channel="sx3">
     <title lang="ca">Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
-    <sub-title lang="ca">Anansi</sub-title>
-    <desc lang="ca">Avui fan uns focs artificials a París, i els nostres amics els volen anar a veure des de la nòria de la plaça de la Concòrdia. Però la Nora, la germana gran de l'Alya, no vol deixar sortir la seva germaneta perquè diu que és perillós. Com que no li fan cas, la Nora s'enfada, i l'Esfinx ho aprofita per convertir-la en una nova supermalvada.</desc>
-    <length units="seconds">1351</length>
-    <episode-num system="onscreen">47</episode-num>
+    <sub-title lang="ca">Acció</sub-title>
+    <desc lang="ca">La Marinette i els seus amics estan molt preocupats per la creixent contaminació amb plàstics del Sena i de tots els rius i els mars del planeta. Es fabriquen masses objectes de plàstic que només es fan servir una vegada i després es llencen. Parlen amb diferents persones influents que podrien fer-hi alguna cosa però, com que ningú els fa cas, decideixen actuar pel seu compte per intentar conscienciar tothom de la necessitat de canviar d'hàbits urgentment.</desc>
+    <length units="seconds">1232</length>
+    <episode-num system="onscreen">131</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
@@ -148,30 +150,30 @@
   <channel id="c33">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20261124180902 +0100" stop="20261124185527 +0100" channel="c33">
-    <title lang="ca">Groenlàndia, supervivència als confins de la Terra</title>
-    <sub-title lang="ca">Groenlàndia, supervivència als confins de la Terra</sub-title>
-    <desc lang="ca">Al primer episodi de Groenlàndia, supervivència als confins de la Terra, caminem per la segona capa de gel més gran del món. Observem els magnífics fiords alimentats per la majestuosa glacera que tenen al darrere. A la ciutat pesquera d'Ilulissat, degustem la cuina local i veiem l'artesania antiga. Després, ens dirigim cap al llac de Tasersuatsiaq, llar del gran bou mesquer. Camí del nord amb la Kisaq, visitem mines abandonades i descobrim una tràgica història de vaixells i mariners atrapats al gel. Finalment, ens aturem a Upervanik a comprar provisions per la següent part del viatge: cap al cim del món.</desc>
-    <length units="seconds">2785</length>
-    <episode-num system="onscreen">1</episode-num>
-    <category lang="ca">DIVULGACIÓ</category>
-    <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
+  <programme start="20261125023640 +0100" stop="20261125030515 +0100" channel="c33">
+    <title lang="ca">Jo mai mai</title>
+    <sub-title lang="ca">Fràgil</sub-title>
+    <desc lang="ca">L'Èlia va a un càsting i la pressió li juga una mala passada. La Mai, al límit, comet un greu error amb la seva fisioterapeuta. La Noor organitza una festa de nit per cridar l'atenció del Manu i ella i el Guim acabaran sols als lavabos. L'Eva explica a tots els monitors que vol vendre Les Guilles i… els anuncia el seu estat de salut, davant la sorpresa de la Mai.</desc>
+    <length units="seconds">1715</length>
+    <episode-num system="onscreen">12</episode-num>
+    <category lang="ca">FICCIÓ</category>
+    <category lang="ca">SÈRIE DRAMÀTICA</category>
     <rating>
-      <value>TOTS ELS PÚBLICS</value>
+      <value>PÚBLIC ADULT</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20261124185527 +0100" stop="20261124194149 +0100" channel="c33">
-    <title lang="ca">Groenlàndia, supervivència als confins de la Terra</title>
-    <sub-title lang="ca">Groenlàndia, supervivència als confins de la Terra</sub-title>
-    <desc lang="ca">Al segon episodi de Groenlàndia, supervivència als confins de la Terra, pugem a un trineu per veure com cacen els inuits en aquest ambient tan extrem. A bord de la Kisaq travessem el mal temps, i passem pel costat de colònies de somorgollaires i gavinetes. Som testimonis del canvi climàtic quan s'esfondren a l'oceà. Pobles pesquers esquitxen la costa. Coneixem la caça de supervivència dels inuits: des de gavotins atlàntics fins als depredadors més ferotges del món, els ossos polars. En trobem un exemplar abans d'arribar a Siorapaluk, i continuem per descobrir què hi ha més enllà del regne dels homes.</desc>
-    <length units="seconds">2782</length>
-    <episode-num system="onscreen">2</episode-num>
-    <category lang="ca">DIVULGACIÓ</category>
-    <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
+  <programme start="20261125030515 +0100" stop="20261125033302 +0100" channel="c33">
+    <title lang="ca">Jo mai mai</title>
+    <sub-title lang="ca">Resistència</sub-title>
+    <desc lang="ca">Les Guilles són molt més que una casa de colònies i la Mai i el Samir li demanen a l'Eva una oportunitat per salvar-les. La Rita comença a veure el Billy d'una altra manera, vol que siguin més que amics. La Martina descobreix què va passar entre la Noor i el Guim a la festa i li demana explicacions. El Guim, acorralat, reacciona violentament.</desc>
+    <length units="seconds">1667</length>
+    <episode-num system="onscreen">13</episode-num>
+    <category lang="ca">FICCIÓ</category>
+    <category lang="ca">SÈRIE DRAMÀTICA</category>
     <rating>
-      <value>TOTS ELS PÚBLICS</value>
+      <value>PÚBLIC ADULT</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
@@ -185,18 +187,6 @@
   <channel id="oca3">
     <display-name>OCA3</display-name>
   </channel>
-  <programme start="20261124185500 +0100" stop="20261124203455 +0100" channel="oca3">
-    <title lang="ca">Tot Costa</title>
-    <desc lang="ca">Lamine no ha viatjat a Bakú. Qui ocuparà el seu lloc? Ens en donen els detalls Laia Tudel i Ramon Salmurri. Ho analitzem amb Ferran Martínez, Miguel Rico i Mireia Vera. També entrevistem Juan Cámara, ex del Barça i del Sabah. I parlem d'Abde amb José Barroso, periodista de L'Équipe.</desc>
-    <length units="seconds">5700</length>
-    <episode-num system="onscreen">1040</episode-num>
-    <category lang="ca">ESPORTS</category>
-    <category lang="ca">INFORMATIU DIÀRI</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <icon src="https://img.ccma.cat/multimedia/jpg/0/4/1706209193140.jpg"/>
-  </programme>
   <channel id="oca4">
     <display-name>OCA4</display-name>
   </channel>
