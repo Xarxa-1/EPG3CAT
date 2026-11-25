@@ -3,82 +3,76 @@
   <channel id="tv3uhd">
     <display-name>TV3UHD</display-name>
   </channel>
-  <programme start="20261125023737 +0100" stop="20261125043000 +0100" channel="tv3uhd">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">6743</length>
-    <episode-num system="onscreen">11792</episode-num>
+  <programme start="20261125103035 +0100" stop="20261125135500 +0100" channel="tv3uhd">
+    <title lang="ca">Tot es mou</title>
+    <desc lang="ca">El programa presentat per Helena Garcia Melero s'emet de dilluns a divendres, de 10.30 a 13.55. Un magazín d'actualitat que busca informar, analitzar i debatre sobre temes que marquen l'actualitat social, econòmica i cultural del dia, amb una àmplia presència en directe dels reporters i reporteres, repartits per tot Catalunya. A més, el 'Tot es mou' compta amb seccions diàries de gastronomia (amb els principals cuiners i cuineres del país), successos, economia, mobilitat, temes mèdics i de tecnologia, entre d'altres.</desc>
+    <length units="seconds">12265</length>
+    <episode-num system="onscreen">1857</episode-num>
+    <category lang="ca">ACTUALITAT</category>
+    <category lang="ca">MAGAZINE</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <subtitles type="teletext"/>
+  </programme>
+  <programme start="20261125135500 +0100" stop="20261125143000 +0100" channel="tv3uhd">
+    <title lang="ca">Telenotícies comarques</title>
+    <length units="seconds">2100</length>
+    <episode-num system="onscreen">7083</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <previously-shown/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
-  </programme>
-  <programme start="20261125043000 +0100" stop="20261125050000 +0100" channel="tv3uhd">
-    <title lang="ca">Ritmes a l'aula</title>
-    <sub-title lang="ca">Jaume Llombart Sextet</sub-title>
-    <length units="seconds">1800</length>
-    <episode-num system="onscreen">8</episode-num>
-    <category lang="ca">MUSICALS</category>
-    <category lang="ca">JAZZ</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <previously-shown/>
-    <icon src="https://img.3cat.cat/multimedia/jpg/0/5/1748345445750.jpg"/>
+    <subtitles type="teletext"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/5/2/1758026313525.jpg"/>
   </programme>
   <channel id="tvi">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20261125023737 +0100" stop="20261125043000 +0100" channel="tvi">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">6743</length>
-    <episode-num system="onscreen">11792</episode-num>
+  <programme start="20261125103035 +0100" stop="20261125135500 +0100" channel="tvi">
+    <title lang="ca">Tot es mou</title>
+    <desc lang="ca">El programa presentat per Helena Garcia Melero s'emet de dilluns a divendres, de 10.30 a 13.55. Un magazín d'actualitat que busca informar, analitzar i debatre sobre temes que marquen l'actualitat social, econòmica i cultural del dia, amb una àmplia presència en directe dels reporters i reporteres, repartits per tot Catalunya. A més, el 'Tot es mou' compta amb seccions diàries de gastronomia (amb els principals cuiners i cuineres del país), successos, economia, mobilitat, temes mèdics i de tecnologia, entre d'altres.</desc>
+    <length units="seconds">12265</length>
+    <episode-num system="onscreen">1857</episode-num>
+    <category lang="ca">ACTUALITAT</category>
+    <category lang="ca">MAGAZINE</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+  </programme>
+  <programme start="20261125135500 +0100" stop="20261125143000 +0100" channel="tvi">
+    <title lang="ca">Telenotícies comarques</title>
+    <length units="seconds">2100</length>
+    <episode-num system="onscreen">7083</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <previously-shown/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
-  </programme>
-  <programme start="20261125043000 +0100" stop="20261125050000 +0100" channel="tvi">
-    <title lang="ca">Ritmes a l'aula</title>
-    <sub-title lang="ca">Jaume Llombart Sextet</sub-title>
-    <length units="seconds">1800</length>
-    <episode-num system="onscreen">8</episode-num>
-    <category lang="ca">MUSICALS</category>
-    <category lang="ca">JAZZ</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <previously-shown/>
-    <icon src="https://img.3cat.cat/multimedia/jpg/0/5/1748345445750.jpg"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/5/2/1758026313525.jpg"/>
   </programme>
   <channel id="324">
     <display-name>324</display-name>
   </channel>
-  <programme start="20261125010000 +0100" stop="20261125060000 +0100" channel="324">
+  <programme start="20261125103000 +0100" stop="20261125120000 +0100" channel="324">
     <title lang="ca">Notícies 3CatInfo</title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">18000</length>
-    <episode-num system="onscreen">11792</episode-num>
+    <length units="seconds">5400</length>
+    <episode-num system="onscreen">11794</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <previously-shown/>
+    <subtitles type="teletext"/>
     <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
-  <programme start="20261125060000 +0100" stop="20261125080000 +0100" channel="324">
+  <programme start="20261125120000 +0100" stop="20261125135500 +0100" channel="324">
     <title lang="ca">Notícies 3CatInfo</title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">7200</length>
-    <episode-num system="onscreen">11793</episode-num>
+    <length units="seconds">6900</length>
+    <episode-num system="onscreen">11795</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
@@ -89,42 +83,43 @@
   <channel id="esport3">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20261125025054 +0100" stop="20261125041444 +0100" channel="esport3">
-    <title lang="ca">Handbol</title>
-    <sub-title lang="ca">Buzau-BM Granollers / EHF European League / J5</sub-title>
-    <desc lang="ca">Penúltima jornada d'aquesta fase de grups. El Fraikin juga a Rumania amb l'objectiu de sumar la 4a victòria en 5 partits. En el precedent, disputat a la capital del Vallès Oriental, el Granollers es va imposar per 37 a 31. </desc>
-    <length units="seconds">5030</length>
-    <episode-num system="onscreen">46</episode-num>
+  <programme start="20261125112800 +0100" stop="20261125130000 +0100" channel="esport3">
+    <title lang="ca">Onze</title>
+    <sub-title lang="ca">L'hora de Frenkie; pendents de la Champions i 'El predicador'</sub-title>
+    <desc lang="ca">Sique Rodríguez, Juvenal Edjogo, Gemma Mallorca i Fernando Polo parlen sobre el rol de Frenkie de Jong al Barça i comenten la jornada de Champions. L'Òscar Pérez-Dolz predica els manaments del bon culer.</desc>
+    <length units="seconds">5520</length>
+    <episode-num system="onscreen">1294</episode-num>
     <category lang="ca">ESPORTS</category>
-    <category lang="ca">RETRANSMISSIONS ESPORTS</category>
+    <category lang="ca">MAGAZINE</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
+    <subtitles type="teletext"/>
     <previously-shown/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/2/7/1729614341772.jpg"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/1/1/1688543515711.jpg"/>
   </programme>
-  <programme start="20261125041444 +0100" stop="20261125043907 +0100" channel="esport3">
-    <title lang="ca">3CatInfo Esports</title>
-    <desc lang="ca">Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.</desc>
-    <length units="seconds">1463</length>
-    <episode-num system="onscreen">5577</episode-num>
+  <programme start="20261125130000 +0100" stop="20261125140137 +0100" channel="esport3">
+    <title lang="ca">Esport Club</title>
+    <desc lang="ca">En Jordi Sanuy i Víctor Patsi us expliquen l'última hora esportiva i l'analitzen amb el seu equip de col·laboradors. El programa és molt actiu a les xarxes socials. L''Esport Club' té presència a Twitter, a Facebook i a Instagram. L'espai dirigeix moltes accions de participació amb l'audiència a través de les xarxes socials.</desc>
+    <length units="seconds">3697</length>
+    <episode-num system="onscreen">3291</episode-num>
     <category lang="ca">ESPORTS</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <previously-shown/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/9/7/1758888682179.jpg"/>
+    <subtitles type="teletext"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/7/3/1698145091337.jpg"/>
   </programme>
   <channel id="sx3">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20261125024803 +0100" stop="20261125031144 +0100" channel="sx3">
-    <title lang="ca">Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
-    <sub-title lang="ca">L'últim dia (2a p): Re-creació</sub-title>
-    <desc lang="ca">El pla definitiu del Monarca ja està en marxa i sembla que no hi ha res que el pugui aturar. Sobretot tenint en compte que, mentre el món està sumit en el caos, el supermalvat acaba de capturar Ladybug en persona.</desc>
-    <length units="seconds">1421</length>
-    <episode-num system="onscreen">130</episode-num>
+  <programme start="20261125114944 +0100" stop="20261125121129 +0100" channel="sx3">
+    <title lang="ca">Els germans Kratt</title>
+    <sub-title lang="ca">Delícies d'ornitorinc</sub-title>
+    <desc lang="ca">Tot fent caiac per Austràlia, en Chris i en Martin s'han trobat un dels animals més estrambòtics del món: un mamífer amb potes d'ànec, cua de castor... i que pon ous?! Només pot ser l'ornitorinc! El pitjor de tot és que en Gormand, un xef molt malvat, vol afegir els ous d'aquest animal en extinció al seu menú! Avui tenen feina, els germans Kratt!</desc>
+    <length units="seconds">1305</length>
+    <episode-num system="onscreen">6</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
@@ -133,12 +128,12 @@
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20261125031144 +0100" stop="20261125033216 +0100" channel="sx3">
-    <title lang="ca">Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
-    <sub-title lang="ca">Acció</sub-title>
-    <desc lang="ca">La Marinette i els seus amics estan molt preocupats per la creixent contaminació amb plàstics del Sena i de tots els rius i els mars del planeta. Es fabriquen masses objectes de plàstic que només es fan servir una vegada i després es llencen. Parlen amb diferents persones influents que podrien fer-hi alguna cosa però, com que ningú els fa cas, decideixen actuar pel seu compte per intentar conscienciar tothom de la necessitat de canviar d'hàbits urgentment.</desc>
-    <length units="seconds">1232</length>
-    <episode-num system="onscreen">131</episode-num>
+  <programme start="20261125121129 +0100" stop="20261125123259 +0100" channel="sx3">
+    <title lang="ca">Els germans Kratt</title>
+    <sub-title lang="ca">Els óssos polars no ballen</sub-title>
+    <desc lang="ca">En plena missió per la regió àrtica, en Chris i en Martin han vist com el malvat Zach capturava una cria de morsa i una d'ós polar per al seu nou espectacle. Per salvar-les, els nostres amics hauran d'aprendre els secrets de les morses... i moltes coses més! L'Aviva ja els té preparats, els Vestits de Poder Animal, però per activar-los primer han de tocar els animals! Que no els passi res!</desc>
+    <length units="seconds">1290</length>
+    <episode-num system="onscreen">7</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
@@ -150,33 +145,33 @@
   <channel id="c33">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20261125023640 +0100" stop="20261125030515 +0100" channel="c33">
-    <title lang="ca">Jo mai mai</title>
-    <sub-title lang="ca">Fràgil</sub-title>
-    <desc lang="ca">L'Èlia va a un càsting i la pressió li juga una mala passada. La Mai, al límit, comet un greu error amb la seva fisioterapeuta. La Noor organitza una festa de nit per cridar l'atenció del Manu i ella i el Guim acabaran sols als lavabos. L'Eva explica a tots els monitors que vol vendre Les Guilles i… els anuncia el seu estat de salut, davant la sorpresa de la Mai.</desc>
-    <length units="seconds">1715</length>
-    <episode-num system="onscreen">12</episode-num>
-    <category lang="ca">FICCIÓ</category>
-    <category lang="ca">SÈRIE DRAMÀTICA</category>
+  <programme start="20261125115406 +0100" stop="20261125120001 +0100" channel="c33">
+    <title lang="ca">Xarxa Natura</title>
+    <sub-title lang="ca">Delta de l''Ebre</sub-title>
+    <desc lang="ca">En la llista d'espais inclosos a la Xarxa Natura 2000 hi ha tots els parcs naturals, però també molts altres espais emblemàtics com ara les Guilleries, l'estany de Banyoles, l'Alta Garrotxa, la serra del Montsec o les Gavarres. La majoria d'aquests espais són autèntics desconeguts i els seus valors naturals i culturals no han estat mai objecte de cap divulgació específica. Aquesta sèrie vol donar a conèixer aquest patrimoni.</desc>
+    <length units="seconds">355</length>
+    <episode-num system="onscreen">14</episode-num>
+    <category lang="ca">ALTRES</category>
     <rating>
-      <value>PÚBLIC ADULT</value>
+      <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/4/1/1721308939614.jpg"/>
   </programme>
-  <programme start="20261125030515 +0100" stop="20261125033302 +0100" channel="c33">
-    <title lang="ca">Jo mai mai</title>
-    <sub-title lang="ca">Resistència</sub-title>
-    <desc lang="ca">Les Guilles són molt més que una casa de colònies i la Mai i el Samir li demanen a l'Eva una oportunitat per salvar-les. La Rita comença a veure el Billy d'una altra manera, vol que siguin més que amics. La Martina descobreix què va passar entre la Noor i el Guim a la festa i li demana explicacions. El Guim, acorralat, reacciona violentament.</desc>
-    <length units="seconds">1667</length>
-    <episode-num system="onscreen">13</episode-num>
-    <category lang="ca">FICCIÓ</category>
-    <category lang="ca">SÈRIE DRAMÀTICA</category>
+  <programme start="20261125120001 +0100" stop="20261125120459 +0100" channel="c33">
+    <title lang="ca">Xarxa Natura</title>
+    <sub-title lang="ca">Banyoles</sub-title>
+    <desc lang="ca">En la llista d'espais inclosos a la Xarxa Natura 2000 hi ha tots els parcs naturals, però també molts altres espais emblemàtics com ara les Guilleries, l'estany de Banyoles, l'Alta Garrotxa, la serra del Montsec o les Gavarres. La majoria d'aquests espais són autèntics desconeguts i els seus valors naturals i culturals no han estat mai objecte de cap divulgació específica. Aquesta sèrie vol donar a conèixer aquest patrimoni.</desc>
+    <length units="seconds">298</length>
+    <episode-num system="onscreen">15</episode-num>
+    <category lang="ca">ALTRES</category>
     <rating>
-      <value>PÚBLIC ADULT</value>
+      <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/4/1/1721308939614.jpg"/>
   </programme>
   <channel id="oca1">
     <display-name>OCA1</display-name>
