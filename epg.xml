@@ -3,123 +3,123 @@
   <channel id="tv3uhd">
     <display-name>TV3UHD</display-name>
   </channel>
-  <programme start="20261125103035 +0100" stop="20261125135500 +0100" channel="tv3uhd">
-    <title lang="ca">Tot es mou</title>
-    <desc lang="ca">El programa presentat per Helena Garcia Melero s'emet de dilluns a divendres, de 10.30 a 13.55. Un magazín d'actualitat que busca informar, analitzar i debatre sobre temes que marquen l'actualitat social, econòmica i cultural del dia, amb una àmplia presència en directe dels reporters i reporteres, repartits per tot Catalunya. A més, el 'Tot es mou' compta amb seccions diàries de gastronomia (amb els principals cuiners i cuineres del país), successos, economia, mobilitat, temes mèdics i de tecnologia, entre d'altres.</desc>
-    <length units="seconds">12265</length>
-    <episode-num system="onscreen">1857</episode-num>
-    <category lang="ca">ACTUALITAT</category>
-    <category lang="ca">MAGAZINE</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <subtitles type="teletext"/>
-  </programme>
-  <programme start="20261125135500 +0100" stop="20261125143000 +0100" channel="tv3uhd">
-    <title lang="ca">Telenotícies comarques</title>
-    <length units="seconds">2100</length>
-    <episode-num system="onscreen">7083</episode-num>
+  <programme start="20261125210000 +0100" stop="20261125220424 +0100" channel="tv3uhd">
+    <title lang="ca">Telenotícies vespre</title>
+    <length units="seconds">3864</length>
+    <episode-num system="onscreen">7399</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/5/2/1758026313525.jpg"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/7/2/1758026176427.jpg"/>
+  </programme>
+  <programme start="20261125220424 +0100" stop="20261125234156 +0100" channel="tv3uhd">
+    <title lang="ca">Eleccions Generals 2026 29N</title>
+    <sub-title lang="ca">E29N: El debat</sub-title>
+    <desc lang="ca">Aquest debat reuneix els representants dels partits catalans amb representació electoral a menys de 4 dies de passar per les urnes. Un debat decisiu, presentat per Ariadna Oltra i dirigit per Albert Mercadé, que tractarà els temes principals que han marcat la campanya electoral: des de l'habitatge i els cost de la vida fins les infraestructures i inversions, passant per la gestió de la immigració, el dimensionament dels serveis públics i els pactes, condicions i acords als que preveuen arribar a partir de la nit del 29N.</desc>
+    <length units="seconds">5852</length>
+    <episode-num system="onscreen">1</episode-num>
+    <category lang="ca">ACTUALITAT</category>
+    <category lang="ca">ESPECIALS INFORMATIUS</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <subtitles type="teletext"/>
   </programme>
   <channel id="tvi">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20261125103035 +0100" stop="20261125135500 +0100" channel="tvi">
-    <title lang="ca">Tot es mou</title>
-    <desc lang="ca">El programa presentat per Helena Garcia Melero s'emet de dilluns a divendres, de 10.30 a 13.55. Un magazín d'actualitat que busca informar, analitzar i debatre sobre temes que marquen l'actualitat social, econòmica i cultural del dia, amb una àmplia presència en directe dels reporters i reporteres, repartits per tot Catalunya. A més, el 'Tot es mou' compta amb seccions diàries de gastronomia (amb els principals cuiners i cuineres del país), successos, economia, mobilitat, temes mèdics i de tecnologia, entre d'altres.</desc>
-    <length units="seconds">12265</length>
-    <episode-num system="onscreen">1857</episode-num>
-    <category lang="ca">ACTUALITAT</category>
-    <category lang="ca">MAGAZINE</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-  </programme>
-  <programme start="20261125135500 +0100" stop="20261125143000 +0100" channel="tvi">
-    <title lang="ca">Telenotícies comarques</title>
-    <length units="seconds">2100</length>
-    <episode-num system="onscreen">7083</episode-num>
+  <programme start="20261125210000 +0100" stop="20261125220424 +0100" channel="tvi">
+    <title lang="ca">Telenotícies vespre</title>
+    <length units="seconds">3864</length>
+    <episode-num system="onscreen">7399</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <icon src="https://img.ccma.cat/multimedia/jpg/5/2/1758026313525.jpg"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/7/2/1758026176427.jpg"/>
+  </programme>
+  <programme start="20261125220424 +0100" stop="20261125234156 +0100" channel="tvi">
+    <title lang="ca">Eleccions Generals 2026 29N</title>
+    <sub-title lang="ca">E29N: El debat</sub-title>
+    <desc lang="ca">Aquest debat reuneix els representants dels partits catalans amb representació electoral a menys de 4 dies de passar per les urnes. Un debat decisiu, presentat per Ariadna Oltra i dirigit per Albert Mercadé, que tractarà els temes principals que han marcat la campanya electoral: des de l'habitatge i els cost de la vida fins les infraestructures i inversions, passant per la gestió de la immigració, el dimensionament dels serveis públics i els pactes, condicions i acords als que preveuen arribar a partir de la nit del 29N.</desc>
+    <length units="seconds">5852</length>
+    <episode-num system="onscreen">1</episode-num>
+    <category lang="ca">ACTUALITAT</category>
+    <category lang="ca">ESPECIALS INFORMATIUS</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
   </programme>
   <channel id="324">
     <display-name>324</display-name>
   </channel>
-  <programme start="20261125103000 +0100" stop="20261125120000 +0100" channel="324">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">5400</length>
-    <episode-num system="onscreen">11794</episode-num>
+  <programme start="20261125210000 +0100" stop="20261125220500 +0100" channel="324">
+    <title lang="ca">Telenotícies vespre</title>
+    <length units="seconds">3900</length>
+    <episode-num system="onscreen">7399</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <subtitles type="teletext"/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/7/2/1758026176427.jpg"/>
   </programme>
-  <programme start="20261125120000 +0100" stop="20261125135500 +0100" channel="324">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">6900</length>
-    <episode-num system="onscreen">11795</episode-num>
+  <programme start="20261125220500 +0100" stop="20261125233500 +0100" channel="324">
+    <title lang="ca">Eleccions Generals 2026 29N</title>
+    <sub-title lang="ca">E29N: El debat</sub-title>
+    <desc lang="ca">Aquest debat reuneix els representants dels partits catalans amb representació electoral a menys de 4 dies de passar per les urnes. Un debat decisiu, presentat per Ariadna Oltra i dirigit per Albert Mercadé, que tractarà els temes principals que han marcat la campanya electoral: des de l'habitatge i els cost de la vida fins les infraestructures i inversions, passant per la gestió de la immigració, el dimensionament dels serveis públics i els pactes, condicions i acords als que preveuen arribar a partir de la nit del 29N.</desc>
+    <length units="seconds">5400</length>
+    <episode-num system="onscreen">1</episode-num>
     <category lang="ca">ACTUALITAT</category>
-    <category lang="ca">INFORMATIU DIÀRI</category>
+    <category lang="ca">ESPECIALS INFORMATIUS</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
   <channel id="esport3">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20261125112800 +0100" stop="20261125130000 +0100" channel="esport3">
-    <title lang="ca">Onze</title>
-    <sub-title lang="ca">L'hora de Frenkie; pendents de la Champions i 'El predicador'</sub-title>
-    <desc lang="ca">Sique Rodríguez, Juvenal Edjogo, Gemma Mallorca i Fernando Polo parlen sobre el rol de Frenkie de Jong al Barça i comenten la jornada de Champions. L'Òscar Pérez-Dolz predica els manaments del bon culer.</desc>
-    <length units="seconds">5520</length>
-    <episode-num system="onscreen">1294</episode-num>
+  <programme start="20261125203617 +0100" stop="20261125212936 +0100" channel="esport3">
+    <title lang="ca">Zona Champions</title>
+    <sub-title lang="ca">Post Sabah-Barça / J5</sub-title>
+    <desc lang="ca">El bo i millor de la màxima competició de futbol continental de la mà del Departament d'Esports de Televisió de Catalunya. Viu tots els partits de la Lliga de Campions a 3Cat!</desc>
+    <length units="seconds">3199</length>
+    <episode-num system="onscreen">859</episode-num>
     <category lang="ca">ESPORTS</category>
     <category lang="ca">MAGAZINE</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
-    <previously-shown/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/1/1/1688543515711.jpg"/>
+    <icon src="https://img.3cat.cat/multimedia/jpg/2/5/1793734126552.jpg"/>
   </programme>
-  <programme start="20261125130000 +0100" stop="20261125140137 +0100" channel="esport3">
-    <title lang="ca">Esport Club</title>
-    <desc lang="ca">En Jordi Sanuy i Víctor Patsi us expliquen l'última hora esportiva i l'analitzen amb el seu equip de col·laboradors. El programa és molt actiu a les xarxes socials. L''Esport Club' té presència a Twitter, a Facebook i a Instagram. L'espai dirigeix moltes accions de participació amb l'audiència a través de les xarxes socials.</desc>
-    <length units="seconds">3697</length>
-    <episode-num system="onscreen">3291</episode-num>
+  <programme start="20261125212936 +0100" stop="20261125230000 +0100" channel="esport3">
+    <title lang="ca">Futbol</title>
+    <sub-title lang="ca">Sporting de Huelva-FC Badalona Women / Copa de la Reina / 3a eliminatòria</sub-title>
+    <desc lang="ca">Les badalonines es juguen l'accés als vuitens de final en aquesta eliminatòria a un sol partit.</desc>
+    <length units="seconds">5424</length>
+    <episode-num system="onscreen">71</episode-num>
     <category lang="ca">ESPORTS</category>
-    <category lang="ca">INFORMATIU DIÀRI</category>
+    <category lang="ca">RETRANSMISSIONS ESPORTS</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/7/3/1698145091337.jpg"/>
+    <icon src="https://img.3cat.cat/multimedia/jpg/1/6/1761902485361.jpg"/>
   </programme>
   <channel id="sx3">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20261125114944 +0100" stop="20261125121129 +0100" channel="sx3">
-    <title lang="ca">Els germans Kratt</title>
-    <sub-title lang="ca">Delícies d'ornitorinc</sub-title>
-    <desc lang="ca">Tot fent caiac per Austràlia, en Chris i en Martin s'han trobat un dels animals més estrambòtics del món: un mamífer amb potes d'ànec, cua de castor... i que pon ous?! Només pot ser l'ornitorinc! El pitjor de tot és que en Gormand, un xef molt malvat, vol afegir els ous d'aquest animal en extinció al seu menú! Avui tenen feina, els germans Kratt!</desc>
-    <length units="seconds">1305</length>
-    <episode-num system="onscreen">6</episode-num>
+  <programme start="20261125212257 +0100" stop="20261125214544 +0100" channel="sx3">
+    <title lang="ca">One piece</title>
+    <sub-title lang="ca">S'ha acabat el combat? El resultat sorprenent del grup D!</sub-title>
+    <desc lang="ca">La Rebecca sobreviu a l'atac de l'alter ego d'un dels adversaris del grup D, en Franky continua la lluita contra el Señor Pink, l'home vestit de nadó, i la Violet s'ofereix a ajudar el Ruffy a entrar al palau!</desc>
+    <length units="seconds">1367</length>
+    <episode-num system="onscreen">663</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
@@ -128,12 +128,12 @@
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20261125121129 +0100" stop="20261125123259 +0100" channel="sx3">
-    <title lang="ca">Els germans Kratt</title>
-    <sub-title lang="ca">Els óssos polars no ballen</sub-title>
-    <desc lang="ca">En plena missió per la regió àrtica, en Chris i en Martin han vist com el malvat Zach capturava una cria de morsa i una d'ós polar per al seu nou espectacle. Per salvar-les, els nostres amics hauran d'aprendre els secrets de les morses... i moltes coses més! L'Aviva ja els té preparats, els Vestits de Poder Animal, però per activar-los primer han de tocar els animals! Que no els passi res!</desc>
-    <length units="seconds">1290</length>
-    <episode-num system="onscreen">7</episode-num>
+  <programme start="20261125214544 +0100" stop="20261125220702 +0100" channel="sx3">
+    <title lang="ca">One piece</title>
+    <sub-title lang="ca">La decisió de l'almirall! En Fujitora contra en Doflamingo!</sub-title>
+    <desc lang="ca">En Franky està ocupat lluitant contra en Señor Pink i els seus sequaços a la Casa de les Joguines, la Violet porta en Ruffy fins a una entrada secreta del palau i en Fujitora llança una advertència a en Doflamingo!</desc>
+    <length units="seconds">1278</length>
+    <episode-num system="onscreen">664</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
@@ -145,37 +145,50 @@
   <channel id="c33">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20261125115406 +0100" stop="20261125120001 +0100" channel="c33">
-    <title lang="ca">Xarxa Natura</title>
-    <sub-title lang="ca">Delta de l''Ebre</sub-title>
-    <desc lang="ca">En la llista d'espais inclosos a la Xarxa Natura 2000 hi ha tots els parcs naturals, però també molts altres espais emblemàtics com ara les Guilleries, l'estany de Banyoles, l'Alta Garrotxa, la serra del Montsec o les Gavarres. La majoria d'aquests espais són autèntics desconeguts i els seus valors naturals i culturals no han estat mai objecte de cap divulgació específica. Aquesta sèrie vol donar a conèixer aquest patrimoni.</desc>
-    <length units="seconds">355</length>
-    <episode-num system="onscreen">14</episode-num>
-    <category lang="ca">ALTRES</category>
+  <programme start="20261125211216 +0100" stop="20261125213656 +0100" channel="c33">
+    <title lang="ca">Jet lag</title>
+    <sub-title lang="ca">AI, MAMA</sub-title>
+    <desc lang="ca">L'Esther va de part i tothom s'ha de posar a la seva disposició. La Carla i la Sílvia són les encarregades de comprar-li la panereta. La Diana, joguines pel nen. I la Maiona i l'Andreu de fer-li costat durant el part. Però no tot ho trobaran tan fàcil com es pensaven.</desc>
+    <length units="seconds">1480</length>
+    <episode-num system="onscreen">33</episode-num>
+    <category lang="ca">FICCIÓ</category>
+    <category lang="ca">TELESÈRIE</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/4/1/1721308939614.jpg"/>
   </programme>
-  <programme start="20261125120001 +0100" stop="20261125120459 +0100" channel="c33">
-    <title lang="ca">Xarxa Natura</title>
-    <sub-title lang="ca">Banyoles</sub-title>
-    <desc lang="ca">En la llista d'espais inclosos a la Xarxa Natura 2000 hi ha tots els parcs naturals, però també molts altres espais emblemàtics com ara les Guilleries, l'estany de Banyoles, l'Alta Garrotxa, la serra del Montsec o les Gavarres. La majoria d'aquests espais són autèntics desconeguts i els seus valors naturals i culturals no han estat mai objecte de cap divulgació específica. Aquesta sèrie vol donar a conèixer aquest patrimoni.</desc>
-    <length units="seconds">298</length>
-    <episode-num system="onscreen">15</episode-num>
-    <category lang="ca">ALTRES</category>
+  <programme start="20261125213656 +0100" stop="20261125220345 +0100" channel="c33">
+    <title lang="ca">Jet lag</title>
+    <sub-title lang="ca">1 X 2</sub-title>
+    <desc lang="ca">La Sílvia, la Diana i l'Andreu decideixen fer-se mil.lionaris, i la manera més fàcil des del seu punt de vista és fent una quiniela. La Mariona té el colesterol pels núvols i ha de fer règim. I la Carla té un nòvio que, encara que ella no ho accepti, la fa anar per on vol.</desc>
+    <length units="seconds">1609</length>
+    <episode-num system="onscreen">34</episode-num>
+    <category lang="ca">FICCIÓ</category>
+    <category lang="ca">TELESÈRIE</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/4/1/1721308939614.jpg"/>
   </programme>
   <channel id="oca1">
     <display-name>OCA1</display-name>
   </channel>
+  <programme start="20261125195500 +0100" stop="20261125215955 +0100" channel="oca1">
+    <title lang="ca">Bàsquet</title>
+    <sub-title lang="ca">- Spar Girona-BC Montana / Eurocup / J5</sub-title>
+    <desc lang="ca">El liderat del grup, en joc a la penúltima jornada. Els dos equips sumen 3 victòries i 1 derrota. En el partit de la primera volta, disputat a Bulgària, les gironines van caure per 82 a 73.</desc>
+    <length units="seconds">7495</length>
+    <episode-num system="onscreen">30</episode-num>
+    <category lang="ca">ESPORTS</category>
+    <category lang="ca">RETRANSMISSIONS ESPORTS</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <icon src="https://img.3cat.cat/multimedia/jpg/7/8/1791975943787.jpg"/>
+  </programme>
   <channel id="oca2">
     <display-name>OCA2</display-name>
   </channel>
