@@ -3,125 +3,122 @@
   <channel id="tv3uhd">
     <display-name>TV3UHD</display-name>
   </channel>
-  <programme start="20261126005929 +0100" stop="20261126043000 +0100" channel="tv3uhd">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">12631</length>
-    <episode-num system="onscreen">11802</episode-num>
+  <programme start="20261126103023 +0100" stop="20261126135500 +0100" channel="tv3uhd">
+    <title lang="ca">Tot es mou</title>
+    <desc lang="ca">El programa presentat per Helena Garcia Melero s'emet de dilluns a divendres, de 10.30 a 13.55. Un magazín d'actualitat que busca informar, analitzar i debatre sobre temes que marquen l'actualitat social, econòmica i cultural del dia, amb una àmplia presència en directe dels reporters i reporteres, repartits per tot Catalunya. A més, el 'Tot es mou' compta amb seccions diàries de gastronomia (amb els principals cuiners i cuineres del país), successos, economia, mobilitat, temes mèdics i de tecnologia, entre d'altres.</desc>
+    <length units="seconds">12277</length>
+    <episode-num system="onscreen">1858</episode-num>
+    <category lang="ca">ACTUALITAT</category>
+    <category lang="ca">MAGAZINE</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <subtitles type="teletext"/>
+  </programme>
+  <programme start="20261126135500 +0100" stop="20261126143000 +0100" channel="tv3uhd">
+    <title lang="ca">Telenotícies comarques</title>
+    <length units="seconds">2100</length>
+    <episode-num system="onscreen">7084</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
-  </programme>
-  <programme start="20261126043000 +0100" stop="20261126050000 +0100" channel="tv3uhd">
-    <title lang="ca">Ritmes a l'aula</title>
-    <sub-title lang="ca">Kibo</sub-title>
-    <length units="seconds">1800</length>
-    <episode-num system="onscreen">9</episode-num>
-    <category lang="ca">MUSICALS</category>
-    <category lang="ca">JAZZ</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <previously-shown/>
-    <icon src="https://img.3cat.cat/multimedia/jpg/0/5/1748345445750.jpg"/>
+    <subtitles type="teletext"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/5/2/1758026313525.jpg"/>
   </programme>
   <channel id="tvi">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20261126005929 +0100" stop="20261126042929 +0100" channel="tvi">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">12600</length>
-    <episode-num system="onscreen">11802</episode-num>
+  <programme start="20261126103023 +0100" stop="20261126135500 +0100" channel="tvi">
+    <title lang="ca">Tot es mou</title>
+    <desc lang="ca">El programa presentat per Helena Garcia Melero s'emet de dilluns a divendres, de 10.30 a 13.55. Un magazín d'actualitat que busca informar, analitzar i debatre sobre temes que marquen l'actualitat social, econòmica i cultural del dia, amb una àmplia presència en directe dels reporters i reporteres, repartits per tot Catalunya. A més, el 'Tot es mou' compta amb seccions diàries de gastronomia (amb els principals cuiners i cuineres del país), successos, economia, mobilitat, temes mèdics i de tecnologia, entre d'altres.</desc>
+    <length units="seconds">12277</length>
+    <episode-num system="onscreen">1858</episode-num>
+    <category lang="ca">ACTUALITAT</category>
+    <category lang="ca">MAGAZINE</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+  </programme>
+  <programme start="20261126135500 +0100" stop="20261126143000 +0100" channel="tvi">
+    <title lang="ca">Telenotícies comarques</title>
+    <length units="seconds">2100</length>
+    <episode-num system="onscreen">7084</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <previously-shown/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
-  </programme>
-  <programme start="20261126042929 +0100" stop="20261126050000 +0100" channel="tvi">
-    <title lang="ca">Ritmes a l'aula</title>
-    <sub-title lang="ca">Kibo</sub-title>
-    <length units="seconds">1831</length>
-    <episode-num system="onscreen">9</episode-num>
-    <category lang="ca">MUSICALS</category>
-    <category lang="ca">JAZZ</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <previously-shown/>
-    <icon src="https://img.3cat.cat/multimedia/jpg/0/5/1748345445750.jpg"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/5/2/1758026313525.jpg"/>
   </programme>
   <channel id="324">
     <display-name>324</display-name>
   </channel>
-  <programme start="20261126010000 +0100" stop="20261126060000 +0100" channel="324">
+  <programme start="20261126120000 +0100" stop="20261126135500 +0100" channel="324">
     <title lang="ca">Notícies 3CatInfo</title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">18000</length>
-    <episode-num system="onscreen">11803</episode-num>
+    <length units="seconds">6900</length>
+    <episode-num system="onscreen">11805</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
+    <subtitles type="teletext"/>
     <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
-  <programme start="20261126060000 +0100" stop="20261126080000 +0100" channel="324">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">7200</length>
-    <episode-num system="onscreen">11803</episode-num>
+  <programme start="20261126135500 +0100" stop="20261126143000 +0100" channel="324">
+    <title lang="ca">Telenotícies comarques</title>
+    <length units="seconds">2100</length>
+    <episode-num system="onscreen">7084</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <previously-shown/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/5/2/1758026313525.jpg"/>
   </programme>
   <channel id="esport3">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20261126025017 +0100" stop="20261126043600 +0100" channel="esport3">
-    <title lang="ca">Bàsquet</title>
-    <sub-title lang="ca">Spar Girona-BC Montana / Eurocup / J5</sub-title>
-    <desc lang="ca">El liderat del grup, en joc a la penúltima jornada. Els dos equips sumen 3 victòries i 1 derrota. En el partit de la primera volta, disputat a Bulgària, les gironines van caure per 82 a 73.</desc>
-    <length units="seconds">6343</length>
-    <episode-num system="onscreen">30</episode-num>
+  <programme start="20261126112828 +0100" stop="20261126130000 +0100" channel="esport3">
+    <title lang="ca">Zona Champions</title>
+    <sub-title lang="ca">Anàlisi de la jornada / J5</sub-title>
+    <desc lang="ca">El bo i millor de la màxima competició de futbol continental de la mà del Departament d'Esports de Televisió de Catalunya. Viu tots els partits de la Lliga de Campions a 3Cat!</desc>
+    <length units="seconds">5492</length>
+    <episode-num system="onscreen">860</episode-num>
     <category lang="ca">ESPORTS</category>
-    <category lang="ca">RETRANSMISSIONS ESPORTS</category>
+    <category lang="ca">MAGAZINE</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <icon src="https://img.3cat.cat/multimedia/jpg/7/8/1791975943787.jpg"/>
+    <subtitles type="teletext"/>
+    <previously-shown/>
+    <icon src="https://img.3cat.cat/multimedia/jpg/2/5/1793734126552.jpg"/>
   </programme>
-  <programme start="20261126043600 +0100" stop="20261126045950 +0100" channel="esport3">
-    <title lang="ca">3CatInfo Esports</title>
-    <desc lang="ca">Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.</desc>
-    <length units="seconds">1430</length>
-    <episode-num system="onscreen">5578</episode-num>
+  <programme start="20261126130000 +0100" stop="20261126140143 +0100" channel="esport3">
+    <title lang="ca">Esport Club</title>
+    <desc lang="ca">En Jordi Sanuy i Víctor Patsi us expliquen l'última hora esportiva i l'analitzen amb el seu equip de col·laboradors. El programa és molt actiu a les xarxes socials. L''Esport Club' té presència a Twitter, a Facebook i a Instagram. L'espai dirigeix moltes accions de participació amb l'audiència a través de les xarxes socials.</desc>
+    <length units="seconds">3703</length>
+    <episode-num system="onscreen">3292</episode-num>
     <category lang="ca">ESPORTS</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <icon src="https://img.ccma.cat/multimedia/jpg/9/7/1758888682179.jpg"/>
+    <subtitles type="teletext"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/7/3/1698145091337.jpg"/>
   </programme>
   <channel id="sx3">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20261126035534 +0100" stop="20261126041706 +0100" channel="sx3">
-    <title lang="ca">Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
-    <sub-title lang="ca">Vampigami</sub-title>
-    <desc lang="ca">A la Marinette li fa por que l'Adrien deixi d'estimar-la si no va al cine amb ell, i per això s'obliga a acompanyar-lo a veure una pel·lícula de terror, que és la pitjor fòbia de la Marinette. L'espera una sessió d'esgarrifances, angoixa i terror! Uh!</desc>
-    <length units="seconds">1292</length>
-    <episode-num system="onscreen">139</episode-num>
+  <programme start="20261126123712 +0100" stop="20261126125930 +0100" channel="sx3">
+    <title lang="ca">Els germans Kratt</title>
+    <sub-title lang="ca">A la recerca de la perca</sub-title>
+    <desc lang="ca">Tot provant els nous poders de perca del Vestit de Poder Animal, en Chris i en Martin han conegut en Gavin, un nen que es passa tot l'estiu pescant i que s'ha deixat enredar per en Zach de participar en un concurs de pesca que pot acabar molt malament. Els germans Kratt sempre juguen net, però d'en Zach no se'n pot pas dir el mateix! Que comenci el concurs!</desc>
+    <length units="seconds">1338</length>
+    <episode-num system="onscreen">11</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
@@ -130,12 +127,12 @@
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20261126041706 +0100" stop="20261126042901 +0100" channel="sx3">
-    <title lang="ca">La família Teixó-Guineu</title>
-    <sub-title lang="ca">La festa dels enamorats</sub-title>
-    <desc lang="ca">Al bosc és la festa dels enamorats. Mentre la Marguerite i l'Edmond rumien i preparen els regals que es faran, en Pinxo i la Guineta estan intrigats pel comportament d'en Timbal, ja que els sembla que amaga un gran secret, un secret, però, que estan disposats a descobrir. </desc>
-    <length units="seconds">715</length>
-    <episode-num system="onscreen">46</episode-num>
+  <programme start="20261126125930 +0100" stop="20261126132043 +0100" channel="sx3">
+    <title lang="ca">El detectiu Conan</title>
+    <sub-title lang="ca">La parada de bus sota la pluja</sub-title>
+    <desc lang="ca">En Kogoro i en Conan surten a sopar una nit de pluja. De sobte, senten una frenada i una topada i, quan s'acosten al lloc dels fets, es troben al mig del carrer un cotxe que acaba d'atropellar un home. El conductor està inconscient i la víctima ha mort. Casualment, tot seguit arriben l'inspector Megure i en Takagi, que inicien la investigació d'un atropellament que, segons els primers indicis, podria ser un suïcidi.</desc>
+    <length units="seconds">1273</length>
+    <episode-num system="onscreen">896</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
@@ -147,28 +144,26 @@
   <channel id="c33">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20261126033102 +0100" stop="20261126040058 +0100" channel="c33">
-    <title lang="ca">Òpera en texans</title>
-    <sub-title lang="ca">Fidelio</sub-title>
-    <desc lang="ca">Us hem de confessar que tots els membres de l'equip tenim una predilecció especial per Beethoven, un idealista, un geni amb mal geni, un creador abocat a la sordesa. Potser per això hem intentat fer un homenatge al primer romàntic de la història. Només va escriure una òpera, 'Fidelio', però com sempre a la seva vida, el resultat és universal, un cant a la llibertat. Possiblement, el nostre millor programa. Fet amb passió. Passió per Beethoven.'Fidelio', de Ludwig van Beethoven (1805)</desc>
-    <length units="seconds">1796</length>
-    <episode-num system="onscreen">24</episode-num>
-    <category lang="ca">MUSICALS</category>
-    <category lang="ca">ÒPERA</category>
+  <programme start="20261126122717 +0100" stop="20261126132213 +0100" channel="c33">
+    <title lang="ca">Atrapa'm si pots</title>
+    <desc lang="ca">'Atrapa'm si pots' és un 'quiz show' clàssic, de preguntes i respostes, presentat per Llucià Ferrer, en què sis concursants competeixen per arribar a la fase final i guanyar el pot. 'Atrapa'm si pots' és entreteniment pur i on gairebé és més important passar-s'ho bé que els diners. És un concurs en què pesa més la intuïció que no els coneixements acadèmics, més l'estratègia en el joc que no la sort.</desc>
+    <length units="seconds">3296</length>
+    <episode-num system="onscreen">112</episode-num>
+    <category lang="ca">ENTRETENIMENT</category>
+    <category lang="ca">CONCURS</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20261126040058 +0100" stop="20261126044955 +0100" channel="c33">
-    <title lang="ca">This Is Art</title>
-    <sub-title lang="ca">Enamorament</sub-title>
-    <desc lang="ca">Per què ens enamorem? L'amor és un dels sentiments més complexos que hi ha, un enigma indesxifrable per a molts. En el programa d'avui, el nostre protagonista serà l'amor a primera vista, aquell amor intens que arriba de sobte i que encara resulta més difícil d'explicar. Per mirar d'entendre'l una mica millor, ens centrarem en l'enamorament sobtat més famós de la literatura popular, el de Romeu i Julieta. Amb Ramon Gener viatjarem a Verona, bressol de l'eterna parella shakesperiana, per descobrir que l'amor és un dels grans motors de l'art. Una emoció present en la vida i obra de Sandro Botticelli o Marc Chagall, però també la protagonista d'obres icòniques com 'El bes', de Rodin. La psicoanalista Philippa Perry aportarà una mirada una mica menys romàntica i més experta, aquella que defensa que en l'amor hi ha més química de la que pensem. I és que, igual que Nemorino o Benjamin Britten, tots hem sentit alguna vegada aquelles papallones inconfusibles a l'estómac. L'amor és enorme i terriblement complex, un prodigi al qual l'art també és addicte. Per més complicat que sigui descriure'l amb paraules, com va fer Shakespeare, és una emoció única, una bogeria que no hauríem de deixar passar. </desc>
-    <length units="seconds">2937</length>
-    <episode-num system="onscreen">13</episode-num>
-    <category lang="ca">DIVULGACIÓ</category>
-    <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
+  <programme start="20261126132213 +0100" stop="20261126141628 +0100" channel="c33">
+    <title lang="ca">Atrapa'm si pots</title>
+    <desc lang="ca">'Atrapa'm si pots' és un 'quiz show' clàssic, de preguntes i respostes, presentat per Llucià Ferrer, en què sis concursants competeixen per arribar a la fase final i guanyar el pot. 'Atrapa'm si pots' és entreteniment pur i on gairebé és més important passar-s'ho bé que els diners. És un concurs en què pesa més la intuïció que no els coneixements acadèmics, més l'estratègia en el joc que no la sort.</desc>
+    <length units="seconds">3255</length>
+    <episode-num system="onscreen">113</episode-num>
+    <category lang="ca">ENTRETENIMENT</category>
+    <category lang="ca">CONCURS</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
