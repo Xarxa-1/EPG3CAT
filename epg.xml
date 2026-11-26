@@ -3,104 +3,94 @@
   <channel id="tv3uhd">
     <display-name>TV3UHD</display-name>
   </channel>
-  <programme start="20261126103023 +0100" stop="20261126135500 +0100" channel="tv3uhd">
-    <title lang="ca">Tot es mou</title>
-    <desc lang="ca">El programa presentat per Helena Garcia Melero s'emet de dilluns a divendres, de 10.30 a 13.55. Un magazín d'actualitat que busca informar, analitzar i debatre sobre temes que marquen l'actualitat social, econòmica i cultural del dia, amb una àmplia presència en directe dels reporters i reporteres, repartits per tot Catalunya. A més, el 'Tot es mou' compta amb seccions diàries de gastronomia (amb els principals cuiners i cuineres del país), successos, economia, mobilitat, temes mèdics i de tecnologia, entre d'altres.</desc>
-    <length units="seconds">12277</length>
-    <episode-num system="onscreen">1858</episode-num>
-    <category lang="ca">ACTUALITAT</category>
-    <category lang="ca">MAGAZINE</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <subtitles type="teletext"/>
-  </programme>
-  <programme start="20261126135500 +0100" stop="20261126143000 +0100" channel="tv3uhd">
-    <title lang="ca">Telenotícies comarques</title>
-    <length units="seconds">2100</length>
-    <episode-num system="onscreen">7084</episode-num>
+  <programme start="20261126210000 +0100" stop="20261126215946 +0100" channel="tv3uhd">
+    <title lang="ca">Telenotícies vespre</title>
+    <length units="seconds">3586</length>
+    <episode-num system="onscreen">7400</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/5/2/1758026313525.jpg"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/7/2/1758026176427.jpg"/>
+  </programme>
+  <programme start="20261126215946 +0100" stop="20261126220848 +0100" channel="tv3uhd">
+    <title lang="ca">Descobrint l'èxit</title>
+    <sub-title lang="ca">- Defensors d'un estil propi</sub-title>
+    <desc lang="ca">Sense Descripció</desc>
+    <length units="seconds">542</length>
+    <episode-num system="onscreen">11</episode-num>
+    <subtitles type="teletext"/>
   </programme>
   <channel id="tvi">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20261126103023 +0100" stop="20261126135500 +0100" channel="tvi">
-    <title lang="ca">Tot es mou</title>
-    <desc lang="ca">El programa presentat per Helena Garcia Melero s'emet de dilluns a divendres, de 10.30 a 13.55. Un magazín d'actualitat que busca informar, analitzar i debatre sobre temes que marquen l'actualitat social, econòmica i cultural del dia, amb una àmplia presència en directe dels reporters i reporteres, repartits per tot Catalunya. A més, el 'Tot es mou' compta amb seccions diàries de gastronomia (amb els principals cuiners i cuineres del país), successos, economia, mobilitat, temes mèdics i de tecnologia, entre d'altres.</desc>
-    <length units="seconds">12277</length>
-    <episode-num system="onscreen">1858</episode-num>
-    <category lang="ca">ACTUALITAT</category>
-    <category lang="ca">MAGAZINE</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-  </programme>
-  <programme start="20261126135500 +0100" stop="20261126143000 +0100" channel="tvi">
-    <title lang="ca">Telenotícies comarques</title>
-    <length units="seconds">2100</length>
-    <episode-num system="onscreen">7084</episode-num>
+  <programme start="20261126210000 +0100" stop="20261126215946 +0100" channel="tvi">
+    <title lang="ca">Telenotícies vespre</title>
+    <length units="seconds">3586</length>
+    <episode-num system="onscreen">7400</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <icon src="https://img.ccma.cat/multimedia/jpg/5/2/1758026313525.jpg"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/7/2/1758026176427.jpg"/>
+  </programme>
+  <programme start="20261126215946 +0100" stop="20261126220848 +0100" channel="tvi">
+    <title lang="ca">Descobrint l'èxit</title>
+    <sub-title lang="ca">- Defensors d'un estil propi</sub-title>
+    <desc lang="ca">Sense Descripció</desc>
+    <length units="seconds">542</length>
+    <episode-num system="onscreen">11</episode-num>
   </programme>
   <channel id="324">
     <display-name>324</display-name>
   </channel>
-  <programme start="20261126120000 +0100" stop="20261126135500 +0100" channel="324">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">6900</length>
-    <episode-num system="onscreen">11805</episode-num>
+  <programme start="20261126210000 +0100" stop="20261126220500 +0100" channel="324">
+    <title lang="ca">Telenotícies vespre</title>
+    <length units="seconds">3900</length>
+    <episode-num system="onscreen">7400</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <icon src="https://img.ccma.cat/multimedia/jpg/7/2/1758026176427.jpg"/>
+  </programme>
+  <programme start="20261126220500 +0100" stop="20261127000000 +0100" channel="324">
+    <title lang="ca">Mésnit</title>
+    <desc lang="ca">El 'Mésnit' arriba a la desena temporada, amb Marina Romero al capdavant de l'espai i amb la voluntat de continuar sent un centre de debat d'idees i d'anàlisi de l'activitat política.</desc>
+    <length units="seconds">6900</length>
+    <episode-num system="onscreen">2207</episode-num>
+    <category lang="ca">ACTUALITAT</category>
+    <category lang="ca">DEBAT</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
-  </programme>
-  <programme start="20261126135500 +0100" stop="20261126143000 +0100" channel="324">
-    <title lang="ca">Telenotícies comarques</title>
-    <length units="seconds">2100</length>
-    <episode-num system="onscreen">7084</episode-num>
-    <category lang="ca">ACTUALITAT</category>
-    <category lang="ca">INFORMATIU DIÀRI</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <icon src="https://img.ccma.cat/multimedia/jpg/5/2/1758026313525.jpg"/>
   </programme>
   <channel id="esport3">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20261126112828 +0100" stop="20261126130000 +0100" channel="esport3">
-    <title lang="ca">Zona Champions</title>
-    <sub-title lang="ca">Anàlisi de la jornada / J5</sub-title>
-    <desc lang="ca">El bo i millor de la màxima competició de futbol continental de la mà del Departament d'Esports de Televisió de Catalunya. Viu tots els partits de la Lliga de Campions a 3Cat!</desc>
-    <length units="seconds">5492</length>
-    <episode-num system="onscreen">860</episode-num>
+  <programme start="20261126203046 +0100" stop="20261126222731 +0100" channel="esport3">
+    <title lang="ca">Handbol</title>
+    <sub-title lang="ca">Barça-GOG / EHF Champions / Main Round J2</sub-title>
+    <desc lang="ca">Els blaugranes tenen 6 punts i necessiten la victòria per seguir al capdavant del grup. Empatarien amb el Magdeburg que ja en té 8. Per contra, els danesos encara no han puntuat en aquesta ronda principal.</desc>
+    <length units="seconds">7005</length>
+    <episode-num system="onscreen">429</episode-num>
     <category lang="ca">ESPORTS</category>
-    <category lang="ca">MAGAZINE</category>
+    <category lang="ca">RETRANSMISSIONS ESPORTS</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <subtitles type="teletext"/>
-    <previously-shown/>
-    <icon src="https://img.3cat.cat/multimedia/jpg/2/5/1793734126552.jpg"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1729614070941.jpg"/>
   </programme>
-  <programme start="20261126130000 +0100" stop="20261126140143 +0100" channel="esport3">
+  <programme start="20261126222731 +0100" stop="20261126230000 +0100" channel="esport3">
     <title lang="ca">Esport Club</title>
-    <desc lang="ca">En Jordi Sanuy i Víctor Patsi us expliquen l'última hora esportiva i l'analitzen amb el seu equip de col·laboradors. El programa és molt actiu a les xarxes socials. L''Esport Club' té presència a Twitter, a Facebook i a Instagram. L'espai dirigeix moltes accions de participació amb l'audiència a través de les xarxes socials.</desc>
-    <length units="seconds">3703</length>
+    <sub-title lang="ca">Sabah-Barça, Ian Barrufet, el partit de La Marató i tertúlia</sub-title>
+    <desc lang="ca">El Barça goleja el Sabah i ja és quart. En parlem amb l'Àlex Delmàs. Repassem la resta de la jornada de Champions. Mireia Vicente amb Ian Barrufet abans del Barça-GOG (20.45h, Esport 3). El partit de La Marató. A la tertúlia ens acompanyen Nacho Peña, Àlex Esteban i Laia Cervelló.</desc>
+    <length units="seconds">1949</length>
     <episode-num system="onscreen">3292</episode-num>
     <category lang="ca">ESPORTS</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
@@ -108,17 +98,18 @@
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
+    <previously-shown/>
     <icon src="https://img.ccma.cat/multimedia/jpg/7/3/1698145091337.jpg"/>
   </programme>
   <channel id="sx3">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20261126123712 +0100" stop="20261126125930 +0100" channel="sx3">
-    <title lang="ca">Els germans Kratt</title>
-    <sub-title lang="ca">A la recerca de la perca</sub-title>
-    <desc lang="ca">Tot provant els nous poders de perca del Vestit de Poder Animal, en Chris i en Martin han conegut en Gavin, un nen que es passa tot l'estiu pescant i que s'ha deixat enredar per en Zach de participar en un concurs de pesca que pot acabar molt malament. Els germans Kratt sempre juguen net, però d'en Zach no se'n pot pas dir el mateix! Que comenci el concurs!</desc>
-    <length units="seconds">1338</length>
-    <episode-num system="onscreen">11</episode-num>
+  <programme start="20261126212245 +0100" stop="20261126214101 +0100" channel="sx3">
+    <title lang="ca">One piece</title>
+    <sub-title lang="ca">El castell es mou! Apareix el comandant Pica!</sub-title>
+    <desc lang="ca">En Ruffy s'enfronta al comandant Pica, l'Armada ataca en Franky durant el seu combat amb en Señor Pink i els valents tontattes ideen un pla per convertir les joguines de nou en humans!</desc>
+    <length units="seconds">1096</length>
+    <episode-num system="onscreen">666</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
@@ -127,12 +118,12 @@
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20261126125930 +0100" stop="20261126132043 +0100" channel="sx3">
-    <title lang="ca">El detectiu Conan</title>
-    <sub-title lang="ca">La parada de bus sota la pluja</sub-title>
-    <desc lang="ca">En Kogoro i en Conan surten a sopar una nit de pluja. De sobte, senten una frenada i una topada i, quan s'acosten al lloc dels fets, es troben al mig del carrer un cotxe que acaba d'atropellar un home. El conductor està inconscient i la víctima ha mort. Casualment, tot seguit arriben l'inspector Megure i en Takagi, que inicien la investigació d'un atropellament que, segons els primers indicis, podria ser un suïcidi.</desc>
-    <length units="seconds">1273</length>
-    <episode-num system="onscreen">896</episode-num>
+  <programme start="20261126214101 +0100" stop="20261126215924 +0100" channel="sx3">
+    <title lang="ca">One piece</title>
+    <sub-title lang="ca">L'Estil de l'Urpa de Drac! L'atac intimidador d'en Lucy!</sub-title>
+    <desc lang="ca">El soldadet rep una pallissa d'un oficial de la família Donquixote, en Lucy mostra un poderós estil de lluita nou, i en Zoro s'enfronta a l'home de pedra!</desc>
+    <length units="seconds">1103</length>
+    <episode-num system="onscreen">667</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
@@ -144,31 +135,33 @@
   <channel id="c33">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20261126122717 +0100" stop="20261126132213 +0100" channel="c33">
-    <title lang="ca">Atrapa'm si pots</title>
-    <desc lang="ca">'Atrapa'm si pots' és un 'quiz show' clàssic, de preguntes i respostes, presentat per Llucià Ferrer, en què sis concursants competeixen per arribar a la fase final i guanyar el pot. 'Atrapa'm si pots' és entreteniment pur i on gairebé és més important passar-s'ho bé que els diners. És un concurs en què pesa més la intuïció que no els coneixements acadèmics, més l'estratègia en el joc que no la sort.</desc>
-    <length units="seconds">3296</length>
-    <episode-num system="onscreen">112</episode-num>
-    <category lang="ca">ENTRETENIMENT</category>
-    <category lang="ca">CONCURS</category>
+  <programme start="20261126213948 +0100" stop="20261126220429 +0100" channel="c33">
+    <title lang="ca">Jet lag</title>
+    <sub-title lang="ca">ACAMPADA</sub-title>
+    <desc lang="ca">Les noies estan fartes de fer el mateix cada cap de setmana, però gràcies a la Sílvia, aquest cap de setmana el passaran en una masia on podran gaudir de la vida a la muntanya. L'home del temps ha anunciat pluges torrencials, però elles esta segures que, com moltes vegades, s'equivocarà.</desc>
+    <length units="seconds">1481</length>
+    <episode-num system="onscreen">36</episode-num>
+    <category lang="ca">FICCIÓ</category>
+    <category lang="ca">TELESÈRIE</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20261126132213 +0100" stop="20261126141628 +0100" channel="c33">
-    <title lang="ca">Atrapa'm si pots</title>
-    <desc lang="ca">'Atrapa'm si pots' és un 'quiz show' clàssic, de preguntes i respostes, presentat per Llucià Ferrer, en què sis concursants competeixen per arribar a la fase final i guanyar el pot. 'Atrapa'm si pots' és entreteniment pur i on gairebé és més important passar-s'ho bé que els diners. És un concurs en què pesa més la intuïció que no els coneixements acadèmics, més l'estratègia en el joc que no la sort.</desc>
-    <length units="seconds">3255</length>
-    <episode-num system="onscreen">113</episode-num>
-    <category lang="ca">ENTRETENIMENT</category>
-    <category lang="ca">CONCURS</category>
+  <programme start="20261126220429 +0100" stop="20261126225512 +0100" channel="c33">
+    <title lang="ca">La Renaixença</title>
+    <sub-title lang="ca">Els escacs</sub-title>
+    <desc lang="ca">Els escacs, el joc de reis, el joc amb la informació perfecta: sense sort, cartes ocultes, ni daus, on els dos jugadors tenen tota la informació al tauler. En el seu moment, la campiona de Catalunya d'escacs, Alba de Lomas, ens el va definir com: una batalla de cervells. En aquest capítol ens acompanya en Xevi Vilaró, el pintor que va guanyar el Primer Premi de la Galerie Artitude de París. Acabem el programa de manera trista, passejant el gos pel misteriós l'assassinat de l'Anteo Zamboni, un nano que va intentar a matar a Mussolini.</desc>
+    <length units="seconds">3043</length>
+    <episode-num system="onscreen">282</episode-num>
+    <category lang="ca">DIVULGACIÓ</category>
+    <category lang="ca">ALTRES</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
-    <previously-shown/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/3/3/1756148014833.jpg"/>
   </programme>
   <channel id="oca1">
     <display-name>OCA1</display-name>
