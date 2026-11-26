@@ -3,123 +3,125 @@
   <channel id="tv3uhd">
     <display-name>TV3UHD</display-name>
   </channel>
-  <programme start="20261125210000 +0100" stop="20261125220424 +0100" channel="tv3uhd">
-    <title lang="ca">Telenotícies vespre</title>
-    <length units="seconds">3864</length>
-    <episode-num system="onscreen">7399</episode-num>
+  <programme start="20261126005929 +0100" stop="20261126043000 +0100" channel="tv3uhd">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="seconds">12631</length>
+    <episode-num system="onscreen">11802</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <subtitles type="teletext"/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/7/2/1758026176427.jpg"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
-  <programme start="20261125220424 +0100" stop="20261125234156 +0100" channel="tv3uhd">
-    <title lang="ca">Eleccions Generals 2026 29N</title>
-    <sub-title lang="ca">E29N: El debat</sub-title>
-    <desc lang="ca">Aquest debat reuneix els representants dels partits catalans amb representació electoral a menys de 4 dies de passar per les urnes. Un debat decisiu, presentat per Ariadna Oltra i dirigit per Albert Mercadé, que tractarà els temes principals que han marcat la campanya electoral: des de l'habitatge i els cost de la vida fins les infraestructures i inversions, passant per la gestió de la immigració, el dimensionament dels serveis públics i els pactes, condicions i acords als que preveuen arribar a partir de la nit del 29N.</desc>
-    <length units="seconds">5852</length>
-    <episode-num system="onscreen">1</episode-num>
-    <category lang="ca">ACTUALITAT</category>
-    <category lang="ca">ESPECIALS INFORMATIUS</category>
+  <programme start="20261126043000 +0100" stop="20261126050000 +0100" channel="tv3uhd">
+    <title lang="ca">Ritmes a l'aula</title>
+    <sub-title lang="ca">Kibo</sub-title>
+    <length units="seconds">1800</length>
+    <episode-num system="onscreen">9</episode-num>
+    <category lang="ca">MUSICALS</category>
+    <category lang="ca">JAZZ</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <subtitles type="teletext"/>
+    <previously-shown/>
+    <icon src="https://img.3cat.cat/multimedia/jpg/0/5/1748345445750.jpg"/>
   </programme>
   <channel id="tvi">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20261125210000 +0100" stop="20261125220424 +0100" channel="tvi">
-    <title lang="ca">Telenotícies vespre</title>
-    <length units="seconds">3864</length>
-    <episode-num system="onscreen">7399</episode-num>
+  <programme start="20261126005929 +0100" stop="20261126042929 +0100" channel="tvi">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="seconds">12600</length>
+    <episode-num system="onscreen">11802</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <icon src="https://img.ccma.cat/multimedia/jpg/7/2/1758026176427.jpg"/>
+    <previously-shown/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
-  <programme start="20261125220424 +0100" stop="20261125234156 +0100" channel="tvi">
-    <title lang="ca">Eleccions Generals 2026 29N</title>
-    <sub-title lang="ca">E29N: El debat</sub-title>
-    <desc lang="ca">Aquest debat reuneix els representants dels partits catalans amb representació electoral a menys de 4 dies de passar per les urnes. Un debat decisiu, presentat per Ariadna Oltra i dirigit per Albert Mercadé, que tractarà els temes principals que han marcat la campanya electoral: des de l'habitatge i els cost de la vida fins les infraestructures i inversions, passant per la gestió de la immigració, el dimensionament dels serveis públics i els pactes, condicions i acords als que preveuen arribar a partir de la nit del 29N.</desc>
-    <length units="seconds">5852</length>
-    <episode-num system="onscreen">1</episode-num>
-    <category lang="ca">ACTUALITAT</category>
-    <category lang="ca">ESPECIALS INFORMATIUS</category>
+  <programme start="20261126042929 +0100" stop="20261126050000 +0100" channel="tvi">
+    <title lang="ca">Ritmes a l'aula</title>
+    <sub-title lang="ca">Kibo</sub-title>
+    <length units="seconds">1831</length>
+    <episode-num system="onscreen">9</episode-num>
+    <category lang="ca">MUSICALS</category>
+    <category lang="ca">JAZZ</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
+    <previously-shown/>
+    <icon src="https://img.3cat.cat/multimedia/jpg/0/5/1748345445750.jpg"/>
   </programme>
   <channel id="324">
     <display-name>324</display-name>
   </channel>
-  <programme start="20261125210000 +0100" stop="20261125220500 +0100" channel="324">
-    <title lang="ca">Telenotícies vespre</title>
-    <length units="seconds">3900</length>
-    <episode-num system="onscreen">7399</episode-num>
+  <programme start="20261126010000 +0100" stop="20261126060000 +0100" channel="324">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="seconds">18000</length>
+    <episode-num system="onscreen">11803</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <icon src="https://img.ccma.cat/multimedia/jpg/7/2/1758026176427.jpg"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
-  <programme start="20261125220500 +0100" stop="20261125233500 +0100" channel="324">
-    <title lang="ca">Eleccions Generals 2026 29N</title>
-    <sub-title lang="ca">E29N: El debat</sub-title>
-    <desc lang="ca">Aquest debat reuneix els representants dels partits catalans amb representació electoral a menys de 4 dies de passar per les urnes. Un debat decisiu, presentat per Ariadna Oltra i dirigit per Albert Mercadé, que tractarà els temes principals que han marcat la campanya electoral: des de l'habitatge i els cost de la vida fins les infraestructures i inversions, passant per la gestió de la immigració, el dimensionament dels serveis públics i els pactes, condicions i acords als que preveuen arribar a partir de la nit del 29N.</desc>
-    <length units="seconds">5400</length>
-    <episode-num system="onscreen">1</episode-num>
+  <programme start="20261126060000 +0100" stop="20261126080000 +0100" channel="324">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="seconds">7200</length>
+    <episode-num system="onscreen">11803</episode-num>
     <category lang="ca">ACTUALITAT</category>
-    <category lang="ca">ESPECIALS INFORMATIUS</category>
+    <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
+    <previously-shown/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
   <channel id="esport3">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20261125203617 +0100" stop="20261125212936 +0100" channel="esport3">
-    <title lang="ca">Zona Champions</title>
-    <sub-title lang="ca">Post Sabah-Barça / J5</sub-title>
-    <desc lang="ca">El bo i millor de la màxima competició de futbol continental de la mà del Departament d'Esports de Televisió de Catalunya. Viu tots els partits de la Lliga de Campions a 3Cat!</desc>
-    <length units="seconds">3199</length>
-    <episode-num system="onscreen">859</episode-num>
-    <category lang="ca">ESPORTS</category>
-    <category lang="ca">MAGAZINE</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <subtitles type="teletext"/>
-    <icon src="https://img.3cat.cat/multimedia/jpg/2/5/1793734126552.jpg"/>
-  </programme>
-  <programme start="20261125212936 +0100" stop="20261125230000 +0100" channel="esport3">
-    <title lang="ca">Futbol</title>
-    <sub-title lang="ca">Sporting de Huelva-FC Badalona Women / Copa de la Reina / 3a eliminatòria</sub-title>
-    <desc lang="ca">Les badalonines es juguen l'accés als vuitens de final en aquesta eliminatòria a un sol partit.</desc>
-    <length units="seconds">5424</length>
-    <episode-num system="onscreen">71</episode-num>
+  <programme start="20261126025017 +0100" stop="20261126043600 +0100" channel="esport3">
+    <title lang="ca">Bàsquet</title>
+    <sub-title lang="ca">Spar Girona-BC Montana / Eurocup / J5</sub-title>
+    <desc lang="ca">El liderat del grup, en joc a la penúltima jornada. Els dos equips sumen 3 victòries i 1 derrota. En el partit de la primera volta, disputat a Bulgària, les gironines van caure per 82 a 73.</desc>
+    <length units="seconds">6343</length>
+    <episode-num system="onscreen">30</episode-num>
     <category lang="ca">ESPORTS</category>
     <category lang="ca">RETRANSMISSIONS ESPORTS</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <subtitles type="teletext"/>
-    <icon src="https://img.3cat.cat/multimedia/jpg/1/6/1761902485361.jpg"/>
+    <icon src="https://img.3cat.cat/multimedia/jpg/7/8/1791975943787.jpg"/>
+  </programme>
+  <programme start="20261126043600 +0100" stop="20261126045950 +0100" channel="esport3">
+    <title lang="ca">3CatInfo Esports</title>
+    <desc lang="ca">Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.</desc>
+    <length units="seconds">1430</length>
+    <episode-num system="onscreen">5578</episode-num>
+    <category lang="ca">ESPORTS</category>
+    <category lang="ca">INFORMATIU DIÀRI</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <icon src="https://img.ccma.cat/multimedia/jpg/9/7/1758888682179.jpg"/>
   </programme>
   <channel id="sx3">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20261125212257 +0100" stop="20261125214544 +0100" channel="sx3">
-    <title lang="ca">One piece</title>
-    <sub-title lang="ca">S'ha acabat el combat? El resultat sorprenent del grup D!</sub-title>
-    <desc lang="ca">La Rebecca sobreviu a l'atac de l'alter ego d'un dels adversaris del grup D, en Franky continua la lluita contra el Señor Pink, l'home vestit de nadó, i la Violet s'ofereix a ajudar el Ruffy a entrar al palau!</desc>
-    <length units="seconds">1367</length>
-    <episode-num system="onscreen">663</episode-num>
+  <programme start="20261126035534 +0100" stop="20261126041706 +0100" channel="sx3">
+    <title lang="ca">Prodigiosa: Les aventures de Ladybug i Gat Noir</title>
+    <sub-title lang="ca">Vampigami</sub-title>
+    <desc lang="ca">A la Marinette li fa por que l'Adrien deixi d'estimar-la si no va al cine amb ell, i per això s'obliga a acompanyar-lo a veure una pel·lícula de terror, que és la pitjor fòbia de la Marinette. L'espera una sessió d'esgarrifances, angoixa i terror! Uh!</desc>
+    <length units="seconds">1292</length>
+    <episode-num system="onscreen">139</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
@@ -128,12 +130,12 @@
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20261125214544 +0100" stop="20261125220702 +0100" channel="sx3">
-    <title lang="ca">One piece</title>
-    <sub-title lang="ca">La decisió de l'almirall! En Fujitora contra en Doflamingo!</sub-title>
-    <desc lang="ca">En Franky està ocupat lluitant contra en Señor Pink i els seus sequaços a la Casa de les Joguines, la Violet porta en Ruffy fins a una entrada secreta del palau i en Fujitora llança una advertència a en Doflamingo!</desc>
-    <length units="seconds">1278</length>
-    <episode-num system="onscreen">664</episode-num>
+  <programme start="20261126041706 +0100" stop="20261126042901 +0100" channel="sx3">
+    <title lang="ca">La família Teixó-Guineu</title>
+    <sub-title lang="ca">La festa dels enamorats</sub-title>
+    <desc lang="ca">Al bosc és la festa dels enamorats. Mentre la Marguerite i l'Edmond rumien i preparen els regals que es faran, en Pinxo i la Guineta estan intrigats pel comportament d'en Timbal, ja que els sembla que amaga un gran secret, un secret, però, que estan disposats a descobrir. </desc>
+    <length units="seconds">715</length>
+    <episode-num system="onscreen">46</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
@@ -145,28 +147,28 @@
   <channel id="c33">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20261125211216 +0100" stop="20261125213656 +0100" channel="c33">
-    <title lang="ca">Jet lag</title>
-    <sub-title lang="ca">AI, MAMA</sub-title>
-    <desc lang="ca">L'Esther va de part i tothom s'ha de posar a la seva disposició. La Carla i la Sílvia són les encarregades de comprar-li la panereta. La Diana, joguines pel nen. I la Maiona i l'Andreu de fer-li costat durant el part. Però no tot ho trobaran tan fàcil com es pensaven.</desc>
-    <length units="seconds">1480</length>
-    <episode-num system="onscreen">33</episode-num>
-    <category lang="ca">FICCIÓ</category>
-    <category lang="ca">TELESÈRIE</category>
+  <programme start="20261126033102 +0100" stop="20261126040058 +0100" channel="c33">
+    <title lang="ca">Òpera en texans</title>
+    <sub-title lang="ca">Fidelio</sub-title>
+    <desc lang="ca">Us hem de confessar que tots els membres de l'equip tenim una predilecció especial per Beethoven, un idealista, un geni amb mal geni, un creador abocat a la sordesa. Potser per això hem intentat fer un homenatge al primer romàntic de la història. Només va escriure una òpera, 'Fidelio', però com sempre a la seva vida, el resultat és universal, un cant a la llibertat. Possiblement, el nostre millor programa. Fet amb passió. Passió per Beethoven.'Fidelio', de Ludwig van Beethoven (1805)</desc>
+    <length units="seconds">1796</length>
+    <episode-num system="onscreen">24</episode-num>
+    <category lang="ca">MUSICALS</category>
+    <category lang="ca">ÒPERA</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20261125213656 +0100" stop="20261125220345 +0100" channel="c33">
-    <title lang="ca">Jet lag</title>
-    <sub-title lang="ca">1 X 2</sub-title>
-    <desc lang="ca">La Sílvia, la Diana i l'Andreu decideixen fer-se mil.lionaris, i la manera més fàcil des del seu punt de vista és fent una quiniela. La Mariona té el colesterol pels núvols i ha de fer règim. I la Carla té un nòvio que, encara que ella no ho accepti, la fa anar per on vol.</desc>
-    <length units="seconds">1609</length>
-    <episode-num system="onscreen">34</episode-num>
-    <category lang="ca">FICCIÓ</category>
-    <category lang="ca">TELESÈRIE</category>
+  <programme start="20261126040058 +0100" stop="20261126044955 +0100" channel="c33">
+    <title lang="ca">This Is Art</title>
+    <sub-title lang="ca">Enamorament</sub-title>
+    <desc lang="ca">Per què ens enamorem? L'amor és un dels sentiments més complexos que hi ha, un enigma indesxifrable per a molts. En el programa d'avui, el nostre protagonista serà l'amor a primera vista, aquell amor intens que arriba de sobte i que encara resulta més difícil d'explicar. Per mirar d'entendre'l una mica millor, ens centrarem en l'enamorament sobtat més famós de la literatura popular, el de Romeu i Julieta. Amb Ramon Gener viatjarem a Verona, bressol de l'eterna parella shakesperiana, per descobrir que l'amor és un dels grans motors de l'art. Una emoció present en la vida i obra de Sandro Botticelli o Marc Chagall, però també la protagonista d'obres icòniques com 'El bes', de Rodin. La psicoanalista Philippa Perry aportarà una mirada una mica menys romàntica i més experta, aquella que defensa que en l'amor hi ha més química de la que pensem. I és que, igual que Nemorino o Benjamin Britten, tots hem sentit alguna vegada aquelles papallones inconfusibles a l'estómac. L'amor és enorme i terriblement complex, un prodigi al qual l'art també és addicte. Per més complicat que sigui descriure'l amb paraules, com va fer Shakespeare, és una emoció única, una bogeria que no hauríem de deixar passar. </desc>
+    <length units="seconds">2937</length>
+    <episode-num system="onscreen">13</episode-num>
+    <category lang="ca">DIVULGACIÓ</category>
+    <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
@@ -176,19 +178,6 @@
   <channel id="oca1">
     <display-name>OCA1</display-name>
   </channel>
-  <programme start="20261125195500 +0100" stop="20261125215955 +0100" channel="oca1">
-    <title lang="ca">Bàsquet</title>
-    <sub-title lang="ca">- Spar Girona-BC Montana / Eurocup / J5</sub-title>
-    <desc lang="ca">El liderat del grup, en joc a la penúltima jornada. Els dos equips sumen 3 victòries i 1 derrota. En el partit de la primera volta, disputat a Bulgària, les gironines van caure per 82 a 73.</desc>
-    <length units="seconds">7495</length>
-    <episode-num system="onscreen">30</episode-num>
-    <category lang="ca">ESPORTS</category>
-    <category lang="ca">RETRANSMISSIONS ESPORTS</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <icon src="https://img.3cat.cat/multimedia/jpg/7/8/1791975943787.jpg"/>
-  </programme>
   <channel id="oca2">
     <display-name>OCA2</display-name>
   </channel>
