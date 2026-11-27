@@ -3,113 +3,132 @@
   <channel id="tv3uhd">
     <display-name>TV3UHD</display-name>
   </channel>
-  <programme start="20261126210000 +0100" stop="20261126215946 +0100" channel="tv3uhd">
-    <title lang="ca">Telenotícies vespre</title>
-    <length units="seconds">3586</length>
-    <episode-num system="onscreen">7400</episode-num>
+  <programme start="20261127021750 +0100" stop="20261127043000 +0100" channel="tv3uhd">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="seconds">7930</length>
+    <episode-num system="onscreen">11811</episode-num>
     <category lang="ca">ACTUALITAT</category>
-    <category lang="ca">INFORMATIU DIÀRI</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <subtitles type="teletext"/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/7/2/1758026176427.jpg"/>
-  </programme>
-  <programme start="20261126215946 +0100" stop="20261126220848 +0100" channel="tv3uhd">
-    <title lang="ca">Descobrint l'èxit</title>
-    <sub-title lang="ca">- Defensors d'un estil propi</sub-title>
-    <desc lang="ca">Sense Descripció</desc>
-    <length units="seconds">542</length>
-    <episode-num system="onscreen">11</episode-num>
-    <subtitles type="teletext"/>
-  </programme>
-  <channel id="tvi">
-    <display-name>TVI</display-name>
-  </channel>
-  <programme start="20261126210000 +0100" stop="20261126215946 +0100" channel="tvi">
-    <title lang="ca">Telenotícies vespre</title>
-    <length units="seconds">3586</length>
-    <episode-num system="onscreen">7400</episode-num>
-    <category lang="ca">ACTUALITAT</category>
-    <category lang="ca">INFORMATIU DIÀRI</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <icon src="https://img.ccma.cat/multimedia/jpg/7/2/1758026176427.jpg"/>
-  </programme>
-  <programme start="20261126215946 +0100" stop="20261126220848 +0100" channel="tvi">
-    <title lang="ca">Descobrint l'èxit</title>
-    <sub-title lang="ca">- Defensors d'un estil propi</sub-title>
-    <desc lang="ca">Sense Descripció</desc>
-    <length units="seconds">542</length>
-    <episode-num system="onscreen">11</episode-num>
-  </programme>
-  <channel id="324">
-    <display-name>324</display-name>
-  </channel>
-  <programme start="20261126210000 +0100" stop="20261126220500 +0100" channel="324">
-    <title lang="ca">Telenotícies vespre</title>
-    <length units="seconds">3900</length>
-    <episode-num system="onscreen">7400</episode-num>
-    <category lang="ca">ACTUALITAT</category>
-    <category lang="ca">INFORMATIU DIÀRI</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <icon src="https://img.ccma.cat/multimedia/jpg/7/2/1758026176427.jpg"/>
-  </programme>
-  <programme start="20261126220500 +0100" stop="20261127000000 +0100" channel="324">
-    <title lang="ca">Mésnit</title>
-    <desc lang="ca">El 'Mésnit' arriba a la desena temporada, amb Marina Romero al capdavant de l'espai i amb la voluntat de continuar sent un centre de debat d'idees i d'anàlisi de l'activitat política.</desc>
-    <length units="seconds">6900</length>
-    <episode-num system="onscreen">2207</episode-num>
-    <category lang="ca">ACTUALITAT</category>
-    <category lang="ca">DEBAT</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <subtitles type="teletext"/>
-  </programme>
-  <channel id="esport3">
-    <display-name>ESPORT3</display-name>
-  </channel>
-  <programme start="20261126203046 +0100" stop="20261126222731 +0100" channel="esport3">
-    <title lang="ca">Handbol</title>
-    <sub-title lang="ca">Barça-GOG / EHF Champions / Main Round J2</sub-title>
-    <desc lang="ca">Els blaugranes tenen 6 punts i necessiten la victòria per seguir al capdavant del grup. Empatarien amb el Magdeburg que ja en té 8. Per contra, els danesos encara no han puntuat en aquesta ronda principal.</desc>
-    <length units="seconds">7005</length>
-    <episode-num system="onscreen">429</episode-num>
-    <category lang="ca">ESPORTS</category>
-    <category lang="ca">RETRANSMISSIONS ESPORTS</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1729614070941.jpg"/>
-  </programme>
-  <programme start="20261126222731 +0100" stop="20261126230000 +0100" channel="esport3">
-    <title lang="ca">Esport Club</title>
-    <sub-title lang="ca">Sabah-Barça, Ian Barrufet, el partit de La Marató i tertúlia</sub-title>
-    <desc lang="ca">El Barça goleja el Sabah i ja és quart. En parlem amb l'Àlex Delmàs. Repassem la resta de la jornada de Champions. Mireia Vicente amb Ian Barrufet abans del Barça-GOG (20.45h, Esport 3). El partit de La Marató. A la tertúlia ens acompanyen Nacho Peña, Àlex Esteban i Laia Cervelló.</desc>
-    <length units="seconds">1949</length>
-    <episode-num system="onscreen">3292</episode-num>
-    <category lang="ca">ESPORTS</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/7/3/1698145091337.jpg"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
+  </programme>
+  <programme start="20261127043000 +0100" stop="20261127050000 +0100" channel="tv3uhd">
+    <title lang="ca">Ritmes a l'aula</title>
+    <sub-title lang="ca">Mireia Izquierdo</sub-title>
+    <length units="seconds">1800</length>
+    <episode-num system="onscreen">10</episode-num>
+    <category lang="ca">MUSICALS</category>
+    <category lang="ca">JAZZ</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <previously-shown/>
+    <icon src="https://img.3cat.cat/multimedia/jpg/0/5/1748345445750.jpg"/>
+  </programme>
+  <channel id="tvi">
+    <display-name>TVI</display-name>
+  </channel>
+  <programme start="20261127021750 +0100" stop="20261127043000 +0100" channel="tvi">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="seconds">7930</length>
+    <episode-num system="onscreen">11811</episode-num>
+    <category lang="ca">ACTUALITAT</category>
+    <category lang="ca">INFORMATIU DIÀRI</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <previously-shown/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
+  </programme>
+  <programme start="20261127043000 +0100" stop="20261127050000 +0100" channel="tvi">
+    <title lang="ca">Ritmes a l'aula</title>
+    <sub-title lang="ca">Mireia Izquierdo</sub-title>
+    <length units="seconds">1800</length>
+    <episode-num system="onscreen">10</episode-num>
+    <category lang="ca">MUSICALS</category>
+    <category lang="ca">JAZZ</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <previously-shown/>
+    <icon src="https://img.3cat.cat/multimedia/jpg/0/5/1748345445750.jpg"/>
+  </programme>
+  <channel id="324">
+    <display-name>324</display-name>
+  </channel>
+  <programme start="20261127010000 +0100" stop="20261127060000 +0100" channel="324">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="seconds">18000</length>
+    <episode-num system="onscreen">11811</episode-num>
+    <category lang="ca">ACTUALITAT</category>
+    <category lang="ca">INFORMATIU DIÀRI</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <subtitles type="teletext"/>
+    <previously-shown/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
+  </programme>
+  <programme start="20261127060000 +0100" stop="20261127080000 +0100" channel="324">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="seconds">7200</length>
+    <episode-num system="onscreen">11812</episode-num>
+    <category lang="ca">ACTUALITAT</category>
+    <category lang="ca">INFORMATIU DIÀRI</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <subtitles type="teletext"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
+  </programme>
+  <channel id="esport3">
+    <display-name>ESPORT3</display-name>
+  </channel>
+  <programme start="20261127040541 +0100" stop="20261127050051 +0100" channel="esport3">
+    <title lang="ca">Un dia inesperat</title>
+    <sub-title lang="ca">Un dia inesperat</sub-title>
+    <desc lang="ca">L'Albert i els seus amics creuen que els equips de la categoria més baixa del futbol català es mereixen ser animats un dia per una afició de Champions. Per això un dissabte a l'any es presenten per sorpresa a un camp vestits del color de l'equip i es deixen el coll amb càntics personalitzats. Durant 90 minuts aconsegueixen fer sentir els jugadors com si fossin professionals en un dia que mai oblidaran.</desc>
+    <length units="seconds">3310</length>
+    <episode-num system="onscreen">1</episode-num>
+    <category lang="ca">ESPORTS</category>
+    <category lang="ca">DOCUMENTAL</category>
+    <rating>
+      <value>PÚBLIC ADULT</value>
+    </rating>
+    <subtitles type="teletext"/>
+    <previously-shown/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/1/2/1794823780121.jpg"/>
+  </programme>
+  <programme start="20261127050051 +0100" stop="20261127051708 +0100" channel="esport3">
+    <title lang="ca">3CatInfo Esports</title>
+    <desc lang="ca">Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.</desc>
+    <length units="seconds">977</length>
+    <episode-num system="onscreen">5579</episode-num>
+    <category lang="ca">ESPORTS</category>
+    <category lang="ca">INFORMATIU DIÀRI</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <previously-shown/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/9/7/1758888682179.jpg"/>
   </programme>
   <channel id="sx3">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20261126212245 +0100" stop="20261126214101 +0100" channel="sx3">
-    <title lang="ca">One piece</title>
-    <sub-title lang="ca">El castell es mou! Apareix el comandant Pica!</sub-title>
-    <desc lang="ca">En Ruffy s'enfronta al comandant Pica, l'Armada ataca en Franky durant el seu combat amb en Señor Pink i els valents tontattes ideen un pla per convertir les joguines de nou en humans!</desc>
-    <length units="seconds">1096</length>
-    <episode-num system="onscreen">666</episode-num>
+  <programme start="20261127041111 +0100" stop="20261127042306 +0100" channel="sx3">
+    <title lang="ca">La família Teixó-Guineu</title>
+    <sub-title lang="ca">Mai sense el meu germà</sub-title>
+    <desc lang="ca">El Timbal se'n va d'acampada amb en Lludó i el seu pare. I en Pinxo se sent sol i, contra tot pronòstic, se sent estrany sense tenir el seu germà al costat. Convençut que el fet de ser bessons crea un vincle especial entre ells, en Pinxo pressent que en Timbal està en perill i el vol anar a veure per estar segur que no li passa res.</desc>
+    <length units="seconds">715</length>
+    <episode-num system="onscreen">16</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
@@ -118,12 +137,12 @@
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20261126214101 +0100" stop="20261126215924 +0100" channel="sx3">
-    <title lang="ca">One piece</title>
-    <sub-title lang="ca">L'Estil de l'Urpa de Drac! L'atac intimidador d'en Lucy!</sub-title>
-    <desc lang="ca">El soldadet rep una pallissa d'un oficial de la família Donquixote, en Lucy mostra un poderós estil de lluita nou, i en Zoro s'enfronta a l'home de pedra!</desc>
-    <length units="seconds">1103</length>
-    <episode-num system="onscreen">667</episode-num>
+  <programme start="20261127042306 +0100" stop="20261127043435 +0100" channel="sx3">
+    <title lang="ca">La família Teixó-Guineu</title>
+    <sub-title lang="ca">El peluix</sub-title>
+    <desc lang="ca">En Pinxo guarda un peluix ben amagat al seu llit. Però aquest matí la Marguerite ha tret els llençols i el cobrellit per espolsar-los, i sense adonar-se'n ha perdut el peluix d'en Pinxo. En Pinxo el vol trobar com sigui, perquè per ell és un objecte molt important, però no s'atreveix a demanar ajuda als seus amics per por que se'n riguin.</desc>
+    <length units="seconds">689</length>
+    <episode-num system="onscreen">17</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
@@ -135,32 +154,33 @@
   <channel id="c33">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20261126213948 +0100" stop="20261126220429 +0100" channel="c33">
-    <title lang="ca">Jet lag</title>
-    <sub-title lang="ca">ACAMPADA</sub-title>
-    <desc lang="ca">Les noies estan fartes de fer el mateix cada cap de setmana, però gràcies a la Sílvia, aquest cap de setmana el passaran en una masia on podran gaudir de la vida a la muntanya. L'home del temps ha anunciat pluges torrencials, però elles esta segures que, com moltes vegades, s'equivocarà.</desc>
-    <length units="seconds">1481</length>
-    <episode-num system="onscreen">36</episode-num>
-    <category lang="ca">FICCIÓ</category>
-    <category lang="ca">TELESÈRIE</category>
+  <programme start="20261127035058 +0100" stop="20261127043837 +0100" channel="c33">
+    <title lang="ca">This Is Art</title>
+    <sub-title lang="ca">Fe</sub-title>
+    <desc lang="ca">La fe mou muntanyes. I així ho van entendre al llarg de la història tots els artistes que es van posar al servei de Déu per intentar plasmar-la. En el període de la Contrareforma, per exemple, alguns van anar més enllà: tenien com a objectiu principal evangelitzar a través de l'art. En aquest capítol agafarem com a 'leitmotiv' la basílica de la Sagrada Família i la figura del constructor, Antoni Gaudí, que va veure com creixia la seva fe i, alhora, es consolidava el seu somni. Ens submergirem a l'interior d'aquest temple per ser testimonis d'un espectacle fascinant. L'arribada del sol dona llum a tots els racons en una explosió de color, calidesa i harmonia. Un espai màgic ple de corbes sinuoses, amb unes aportacions arquitectòniques que neixen de l'observació de la naturalesa. Però una de les grans inspiracions de Gaudí per a la construcció d'aquest temple van ser les catedrals gòtiques. Visitarem la catedral de Notre-Dame de Rouen, un gran exemple del gòtic. Com totes les esglésies d'aquest estil, pretenia ser una gran elevació cap a la fe i cap a Déu. També analitzarem l'obra de Vassili Kandinski, el pare de l'art abstracte i el primer artista que va abandonar el món material per entrar al món espiritual. I ho va fer relacionant música i pintura. En aquest capítol ho demostrarem, gràcies a la col·laboració d'alguns músics de l'Orquestra Simfònica del Vallès.I en un marc arquitectònic incomparable com la Universitat d'Oxford, parlarem amb Luciano Floridi, professor de Filosofia i Ètica de la Informació, sobre fe i espiritualitat.</desc>
+    <length units="seconds">2859</length>
+    <episode-num system="onscreen">14</episode-num>
+    <category lang="ca">DIVULGACIÓ</category>
+    <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20261126220429 +0100" stop="20261126225512 +0100" channel="c33">
+  <programme start="20261127043837 +0100" stop="20261127052444 +0100" channel="c33">
     <title lang="ca">La Renaixença</title>
-    <sub-title lang="ca">Els escacs</sub-title>
-    <desc lang="ca">Els escacs, el joc de reis, el joc amb la informació perfecta: sense sort, cartes ocultes, ni daus, on els dos jugadors tenen tota la informació al tauler. En el seu moment, la campiona de Catalunya d'escacs, Alba de Lomas, ens el va definir com: una batalla de cervells. En aquest capítol ens acompanya en Xevi Vilaró, el pintor que va guanyar el Primer Premi de la Galerie Artitude de París. Acabem el programa de manera trista, passejant el gos pel misteriós l'assassinat de l'Anteo Zamboni, un nano que va intentar a matar a Mussolini.</desc>
-    <length units="seconds">3043</length>
-    <episode-num system="onscreen">282</episode-num>
+    <sub-title lang="ca">La flauta dolça</sub-title>
+    <desc lang="ca">Estem tots d'acord que, si hi ha un enemic comú, aquest és... la flauta dolça. Si algú de vosaltres té per veí canalla que ha d'assajar OBLIGATÒRIAMENT cada dia aquest instrument del dimoni: ànims i escalf. No cal cap altre motiu per dedicar-li un capítol a la flauta dolça. Ens visita l'Empar Moliner, amb qui parlem de tot, creieu-nos. Heu llegit 'Cinquanta ombres d'en Grey'? Ella, sí. Un trosset. A 'Històries per passejar el gos' sortim amb en Ramon, un gos de 80?kg, pel rescat dels 33 miners de San José. </desc>
+    <length units="seconds">2767</length>
+    <episode-num system="onscreen">51</episode-num>
     <category lang="ca">DIVULGACIÓ</category>
     <category lang="ca">ALTRES</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
+    <previously-shown/>
     <icon src="https://img.ccma.cat/multimedia/jpg/3/3/1756148014833.jpg"/>
   </programme>
   <channel id="oca1">
