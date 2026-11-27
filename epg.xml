@@ -3,132 +3,120 @@
   <channel id="tv3uhd">
     <display-name>TV3UHD</display-name>
   </channel>
-  <programme start="20261127021750 +0100" stop="20261127043000 +0100" channel="tv3uhd">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">7930</length>
-    <episode-num system="onscreen">11811</episode-num>
+  <programme start="20261127103042 +0100" stop="20261127135500 +0100" channel="tv3uhd">
+    <title lang="ca">Tot es mou</title>
+    <desc lang="ca">El programa presentat per Helena Garcia Melero s'emet de dilluns a divendres, de 10.30 a 13.55. Un magazín d'actualitat que busca informar, analitzar i debatre sobre temes que marquen l'actualitat social, econòmica i cultural del dia, amb una àmplia presència en directe dels reporters i reporteres, repartits per tot Catalunya. A més, el 'Tot es mou' compta amb seccions diàries de gastronomia (amb els principals cuiners i cuineres del país), successos, economia, mobilitat, temes mèdics i de tecnologia, entre d'altres.</desc>
+    <length units="seconds">12258</length>
+    <episode-num system="onscreen">1859</episode-num>
+    <category lang="ca">ACTUALITAT</category>
+    <category lang="ca">MAGAZINE</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <subtitles type="teletext"/>
+  </programme>
+  <programme start="20261127135500 +0100" stop="20261127143000 +0100" channel="tv3uhd">
+    <title lang="ca">Telenotícies comarques</title>
+    <length units="seconds">2100</length>
+    <episode-num system="onscreen">7085</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
-    <previously-shown/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
-  </programme>
-  <programme start="20261127043000 +0100" stop="20261127050000 +0100" channel="tv3uhd">
-    <title lang="ca">Ritmes a l'aula</title>
-    <sub-title lang="ca">Mireia Izquierdo</sub-title>
-    <length units="seconds">1800</length>
-    <episode-num system="onscreen">10</episode-num>
-    <category lang="ca">MUSICALS</category>
-    <category lang="ca">JAZZ</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <previously-shown/>
-    <icon src="https://img.3cat.cat/multimedia/jpg/0/5/1748345445750.jpg"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/5/2/1758026313525.jpg"/>
   </programme>
   <channel id="tvi">
     <display-name>TVI</display-name>
   </channel>
-  <programme start="20261127021750 +0100" stop="20261127043000 +0100" channel="tvi">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">7930</length>
-    <episode-num system="onscreen">11811</episode-num>
+  <programme start="20261127103042 +0100" stop="20261127135455 +0100" channel="tvi">
+    <title lang="ca">Tot es mou</title>
+    <desc lang="ca">El programa presentat per Helena Garcia Melero s'emet de dilluns a divendres, de 10.30 a 13.55. Un magazín d'actualitat que busca informar, analitzar i debatre sobre temes que marquen l'actualitat social, econòmica i cultural del dia, amb una àmplia presència en directe dels reporters i reporteres, repartits per tot Catalunya. A més, el 'Tot es mou' compta amb seccions diàries de gastronomia (amb els principals cuiners i cuineres del país), successos, economia, mobilitat, temes mèdics i de tecnologia, entre d'altres.</desc>
+    <length units="seconds">12253</length>
+    <episode-num system="onscreen">1859</episode-num>
+    <category lang="ca">ACTUALITAT</category>
+    <category lang="ca">MAGAZINE</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+  </programme>
+  <programme start="20261127135455 +0100" stop="20261127143000 +0100" channel="tvi">
+    <title lang="ca">Telenotícies comarques</title>
+    <length units="seconds">2105</length>
+    <episode-num system="onscreen">7085</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <previously-shown/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
-  </programme>
-  <programme start="20261127043000 +0100" stop="20261127050000 +0100" channel="tvi">
-    <title lang="ca">Ritmes a l'aula</title>
-    <sub-title lang="ca">Mireia Izquierdo</sub-title>
-    <length units="seconds">1800</length>
-    <episode-num system="onscreen">10</episode-num>
-    <category lang="ca">MUSICALS</category>
-    <category lang="ca">JAZZ</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <previously-shown/>
-    <icon src="https://img.3cat.cat/multimedia/jpg/0/5/1748345445750.jpg"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/5/2/1758026313525.jpg"/>
   </programme>
   <channel id="324">
     <display-name>324</display-name>
   </channel>
-  <programme start="20261127010000 +0100" stop="20261127060000 +0100" channel="324">
+  <programme start="20261127120000 +0100" stop="20261127135500 +0100" channel="324">
     <title lang="ca">Notícies 3CatInfo</title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">18000</length>
-    <episode-num system="onscreen">11811</episode-num>
+    <length units="seconds">6900</length>
+    <episode-num system="onscreen">11814</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
-    <previously-shown/>
     <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
-  <programme start="20261127060000 +0100" stop="20261127080000 +0100" channel="324">
-    <title lang="ca">Notícies 3CatInfo</title>
-    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">7200</length>
-    <episode-num system="onscreen">11812</episode-num>
+  <programme start="20261127135500 +0100" stop="20261127143000 +0100" channel="324">
+    <title lang="ca">Telenotícies comarques</title>
+    <length units="seconds">2100</length>
+    <episode-num system="onscreen">7085</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <subtitles type="teletext"/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/5/2/1758026313525.jpg"/>
   </programme>
   <channel id="esport3">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20261127040541 +0100" stop="20261127050051 +0100" channel="esport3">
-    <title lang="ca">Un dia inesperat</title>
-    <sub-title lang="ca">Un dia inesperat</sub-title>
-    <desc lang="ca">L'Albert i els seus amics creuen que els equips de la categoria més baixa del futbol català es mereixen ser animats un dia per una afició de Champions. Per això un dissabte a l'any es presenten per sorpresa a un camp vestits del color de l'equip i es deixen el coll amb càntics personalitzats. Durant 90 minuts aconsegueixen fer sentir els jugadors com si fossin professionals en un dia que mai oblidaran.</desc>
-    <length units="seconds">3310</length>
-    <episode-num system="onscreen">1</episode-num>
-    <category lang="ca">ESPORTS</category>
-    <category lang="ca">DOCUMENTAL</category>
-    <rating>
-      <value>PÚBLIC ADULT</value>
-    </rating>
-    <subtitles type="teletext"/>
-    <previously-shown/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/1/2/1794823780121.jpg"/>
-  </programme>
-  <programme start="20261127050051 +0100" stop="20261127051708 +0100" channel="esport3">
-    <title lang="ca">3CatInfo Esports</title>
-    <desc lang="ca">Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.</desc>
-    <length units="seconds">977</length>
-    <episode-num system="onscreen">5579</episode-num>
+  <programme start="20261127121635 +0100" stop="20261127140805 +0100" channel="esport3">
+    <title lang="ca">Esport Club</title>
+    <desc lang="ca">En Jordi Sanuy i Víctor Patsi us expliquen l'última hora esportiva i l'analitzen amb el seu equip de col·laboradors. El programa és molt actiu a les xarxes socials. L''Esport Club' té presència a Twitter, a Facebook i a Instagram. L'espai dirigeix moltes accions de participació amb l'audiència a través de les xarxes socials.</desc>
+    <length units="seconds">6690</length>
+    <episode-num system="onscreen">3293</episode-num>
     <category lang="ca">ESPORTS</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <previously-shown/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/9/7/1758888682179.jpg"/>
+    <subtitles type="teletext"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/7/3/1698145091337.jpg"/>
+  </programme>
+  <programme start="20261127140805 +0100" stop="20261127151844 +0100" channel="esport3">
+    <title lang="ca">Esport Club</title>
+    <desc lang="ca">En Jordi Sanuy i Víctor Patsi us expliquen l'última hora esportiva i l'analitzen amb el seu equip de col·laboradors. El programa és molt actiu a les xarxes socials. L''Esport Club' té presència a Twitter, a Facebook i a Instagram. L'espai dirigeix moltes accions de participació amb l'audiència a través de les xarxes socials.</desc>
+    <length units="seconds">4239</length>
+    <episode-num system="onscreen">3293</episode-num>
+    <category lang="ca">ESPORTS</category>
+    <category lang="ca">INFORMATIU DIÀRI</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <subtitles type="teletext"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/7/3/1698145091337.jpg"/>
   </programme>
   <channel id="sx3">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20261127041111 +0100" stop="20261127042306 +0100" channel="sx3">
-    <title lang="ca">La família Teixó-Guineu</title>
-    <sub-title lang="ca">Mai sense el meu germà</sub-title>
-    <desc lang="ca">El Timbal se'n va d'acampada amb en Lludó i el seu pare. I en Pinxo se sent sol i, contra tot pronòstic, se sent estrany sense tenir el seu germà al costat. Convençut que el fet de ser bessons crea un vincle especial entre ells, en Pinxo pressent que en Timbal està en perill i el vol anar a veure per estar segur que no li passa res.</desc>
-    <length units="seconds">715</length>
-    <episode-num system="onscreen">16</episode-num>
+  <programme start="20261127133445 +0100" stop="20261127135621 +0100" channel="sx3">
+    <title lang="ca">El detectiu Conan</title>
+    <sub-title lang="ca">En Conan atrapat a les fosques (2a part)</sub-title>
+    <desc lang="ca">En Conan continua sense poder sortir de la mena de caixa on està tancat a les fosques, però, per sort, aconsegueix comunicar-se amb els seus amics de la Lliga de Detectius Júnior mitjançant el pin transmissor. Els diu que li sembla que l'han tancat a dins d'un taüt i que es comença a moure, com si el transportessin amb cotxe. Mentrestant, en Kogoro Mouri investiga el cas del robatori d'un testament.</desc>
+    <length units="seconds">1296</length>
+    <episode-num system="onscreen">901</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
@@ -137,12 +125,12 @@
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20261127042306 +0100" stop="20261127043435 +0100" channel="sx3">
-    <title lang="ca">La família Teixó-Guineu</title>
-    <sub-title lang="ca">El peluix</sub-title>
-    <desc lang="ca">En Pinxo guarda un peluix ben amagat al seu llit. Però aquest matí la Marguerite ha tret els llençols i el cobrellit per espolsar-los, i sense adonar-se'n ha perdut el peluix d'en Pinxo. En Pinxo el vol trobar com sigui, perquè per ell és un objecte molt important, però no s'atreveix a demanar ajuda als seus amics per por que se'n riguin.</desc>
-    <length units="seconds">689</length>
-    <episode-num system="onscreen">17</episode-num>
+  <programme start="20261127135621 +0100" stop="20261127141909 +0100" channel="sx3">
+    <title lang="ca">One piece</title>
+    <sub-title lang="ca">Derroteu la Sugar! La càrrega de l'exèrcit dels nans!</sub-title>
+    <desc lang="ca">En Zoro engega un cop rere l'altre el seu adversari de pedra, però no troba la manera de deixar el comandant fora de combat. Mentrestant, la valentia incomparable dels tontattes podria fer que acabessin transformats en joguines!</desc>
+    <length units="seconds">1368</length>
+    <episode-num system="onscreen">668</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
@@ -154,26 +142,25 @@
   <channel id="c33">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20261127035058 +0100" stop="20261127043837 +0100" channel="c33">
-    <title lang="ca">This Is Art</title>
-    <sub-title lang="ca">Fe</sub-title>
-    <desc lang="ca">La fe mou muntanyes. I així ho van entendre al llarg de la història tots els artistes que es van posar al servei de Déu per intentar plasmar-la. En el període de la Contrareforma, per exemple, alguns van anar més enllà: tenien com a objectiu principal evangelitzar a través de l'art. En aquest capítol agafarem com a 'leitmotiv' la basílica de la Sagrada Família i la figura del constructor, Antoni Gaudí, que va veure com creixia la seva fe i, alhora, es consolidava el seu somni. Ens submergirem a l'interior d'aquest temple per ser testimonis d'un espectacle fascinant. L'arribada del sol dona llum a tots els racons en una explosió de color, calidesa i harmonia. Un espai màgic ple de corbes sinuoses, amb unes aportacions arquitectòniques que neixen de l'observació de la naturalesa. Però una de les grans inspiracions de Gaudí per a la construcció d'aquest temple van ser les catedrals gòtiques. Visitarem la catedral de Notre-Dame de Rouen, un gran exemple del gòtic. Com totes les esglésies d'aquest estil, pretenia ser una gran elevació cap a la fe i cap a Déu. També analitzarem l'obra de Vassili Kandinski, el pare de l'art abstracte i el primer artista que va abandonar el món material per entrar al món espiritual. I ho va fer relacionant música i pintura. En aquest capítol ho demostrarem, gràcies a la col·laboració d'alguns músics de l'Orquestra Simfònica del Vallès.I en un marc arquitectònic incomparable com la Universitat d'Oxford, parlarem amb Luciano Floridi, professor de Filosofia i Ètica de la Informació, sobre fe i espiritualitat.</desc>
-    <length units="seconds">2859</length>
-    <episode-num system="onscreen">14</episode-num>
-    <category lang="ca">DIVULGACIÓ</category>
-    <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
+  <programme start="20261127132755 +0100" stop="20261127141828 +0100" channel="c33">
+    <title lang="ca">Atrapa'm si pots</title>
+    <desc lang="ca">'Atrapa'm si pots' és un 'quiz show' clàssic, de preguntes i respostes, presentat per Llucià Ferrer, en què sis concursants competeixen per arribar a la fase final i guanyar el pot. 'Atrapa'm si pots' és entreteniment pur i on gairebé és més important passar-s'ho bé que els diners. És un concurs en què pesa més la intuïció que no els coneixements acadèmics, més l'estratègia en el joc que no la sort.</desc>
+    <length units="seconds">3033</length>
+    <episode-num system="onscreen">115</episode-num>
+    <category lang="ca">ENTRETENIMENT</category>
+    <category lang="ca">CONCURS</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20261127043837 +0100" stop="20261127052444 +0100" channel="c33">
+  <programme start="20261127141828 +0100" stop="20261127150507 +0100" channel="c33">
     <title lang="ca">La Renaixença</title>
-    <sub-title lang="ca">La flauta dolça</sub-title>
-    <desc lang="ca">Estem tots d'acord que, si hi ha un enemic comú, aquest és... la flauta dolça. Si algú de vosaltres té per veí canalla que ha d'assajar OBLIGATÒRIAMENT cada dia aquest instrument del dimoni: ànims i escalf. No cal cap altre motiu per dedicar-li un capítol a la flauta dolça. Ens visita l'Empar Moliner, amb qui parlem de tot, creieu-nos. Heu llegit 'Cinquanta ombres d'en Grey'? Ella, sí. Un trosset. A 'Històries per passejar el gos' sortim amb en Ramon, un gos de 80?kg, pel rescat dels 33 miners de San José. </desc>
-    <length units="seconds">2767</length>
-    <episode-num system="onscreen">51</episode-num>
+    <sub-title lang="ca">Millors moments - setmana 22</sub-title>
+    <desc lang="ca">En els quatre capítols d'aquesta setmana hem parlat del paper d'alumini, la cinta americana, el cadenat i la ferradura. No és que vulguem fer cap invent estrany amb totes aquestes eines, però tenen la seva gràcia per separat. Hem rebut la visita de Ramon Madaula, Albert Batlle, Alosa i Xavier Freixas. Tenim sort amb els nostres convidats, perquè sempre ens emportem sorpreses i riures.</desc>
+    <length units="seconds">2799</length>
+    <episode-num system="onscreen">110</episode-num>
     <category lang="ca">DIVULGACIÓ</category>
     <category lang="ca">ALTRES</category>
     <rating>
@@ -186,6 +173,11 @@
   <channel id="oca1">
     <display-name>OCA1</display-name>
   </channel>
+  <programme start="20261127121427 +0100" stop="20261127121432 +0100" channel="oca1">
+    <title lang="ca">#SORTIDA#</title>
+    <desc lang="ca">Sense Descripció</desc>
+    <length units="seconds">5</length>
+  </programme>
   <channel id="oca2">
     <display-name>OCA2</display-name>
   </channel>
