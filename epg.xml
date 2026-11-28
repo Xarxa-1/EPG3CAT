@@ -3,194 +3,116 @@
   <channel id="tv3uhd">
     <display-name>TV3UHD</display-name>
   </channel>
-  <programme start="20261127220822 +0100" stop="20261128001034 +0100" channel="tv3uhd">
-    <title lang="ca">La gran pel·lícula</title>
-    <sub-title lang="ca">L'espia anglès</sub-title>
-    <desc lang="ca">L'ESPIA ANGLÈS 'The Courier'Direcció: Dominic CookeGuió: Tom O'ConnorProducció: 42, SunnyMarch, FilmNation EntertainmentAny: 2020Durada: 111País: Regne UnitMúsica: Abel KorzeniowskiFotografia: Sean BobbittIntèrprets: Benedict Cumberbatch, Merab Ninidze, Rachel Brosnahan, Jessie Buckley, Angus Wright, Kirill Pirogov, Elina Alminas, Joseph Balderrama, Russell Balogh, Deano Mitchison, Laurel Lefkow, Arthur Wilde, Andrey Kurganov, Željko Ivanek, Anton Lesser, Maria Mironova, Vladimir Chuprikov, Fred Haig, James Schofield Cox, Miles RichardsonDurant la Guerra Freda entre els Estats Units i Rússia, l'enginyer Greville Wynne s'infiltra com a espia en el MI6, servei d'intel·ligència britànic. Quan la crisi dels míssils cubans promet inclinar la balança a favor del país soviètic, Wynne començarà a treballar amb la CIA per filtrar informació sobre el pla que tenen en marxa els russos i així evitar una catàstrofe.</desc>
-    <credits>
-      <director>Dominic Cooke</director>
-      <writer>Tom O'Connor</writer>
-      <actor>Benedict Cumberbatch</actor>
-      <actor>Merab Ninidze</actor>
-      <actor>Rachel Brosnahan</actor>
-      <actor>Jessie Buckley</actor>
-      <actor>Angus Wright</actor>
-      <actor>Kirill Pirogov</actor>
-      <actor>Elina Alminas</actor>
-      <actor>Joseph Balderrama</actor>
-      <actor>Russell Balogh</actor>
-      <actor>Deano Mitchison</actor>
-      <actor>Laurel Lefkow</actor>
-      <actor>Arthur Wilde</actor>
-      <actor>Andrey Kurganov</actor>
-      <actor>Željko Ivanek</actor>
-      <actor>Anton Lesser</actor>
-      <actor>Maria Mironova</actor>
-      <actor>Vladimir Chuprikov</actor>
-      <actor>Fred Haig</actor>
-      <actor>James Schofield Cox</actor>
-      <actor>Miles RichardsonDurant la Guerra Freda entre els Estats Units</actor>
-      <actor>Rússia</actor>
-      <actor>l'enginyer Greville Wynne s'infiltra com a espia en el MI6</actor>
-      <actor>servei d'intel·ligència britànic. Quan la crisi dels míssils cubans promet inclinar la balança a favor del país soviètic</actor>
-      <actor>Wynne començarà a treballar amb la CIA per filtrar informació sobre el pla que tenen en marxa els russos</actor>
-      <actor>així evitar una catàstrofe.</actor>
-    </credits>
-    <length units="seconds">7332</length>
-    <episode-num system="onscreen">1</episode-num>
-    <category lang="ca">FICCIÓ</category>
-    <category lang="ca">PEL·LÍCULA / TELEFILM</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <subtitles type="teletext"/>
-  </programme>
-  <programme start="20261128001034 +0100" stop="20261128014546 +0100" channel="tv3uhd">
-    <title lang="ca">Pel·lícula</title>
-    <sub-title lang="ca">La vida davant teu</sub-title>
-    <desc lang="ca">LA VIDA DAVANT TEU 'La vie devant toi'Direcció: Sandrine VeyssetGuió: Françoise CharpiatProducció: Storia Télévision, France Télévisions, TV5MONDEAny: 2022Durada: 93País: FrançaMúsica: Reno IsaacFotografia: David CiccodicolaIntèrprets: Zoé Héran, Maïra Schmitt, Eléonore Bernheim, David Kammenos, Aaliyah Lexilus, Christelle Reboul, Philippe Dusseau, Julie Moulier, Linda Bouhenni, Marion Ploquin, Xavier Widhoff, Hélène Arié, Valentin Duclaux, Teïlo Azaïs, Tristan Zanchi, Aymeric FougeronLa Violette, una noia de disset anys i amb un futur brillant com a nedadora de competició, decideix acceptar la seva homosexualitat i, amb el suport dels seus pares, surt de l'armari i s'enamora de la Lisa. Tot i que a la Lisa li costa més expressar els seus sentiments, les dues adolescents descobreixen juntes l'experiència del primer amor. Però, quan la Violette pateix una agressió brutal anant pel carrer amb la Lisa, la relació fa un tomb. Quan es desperta a l'hospital, no hi ha rastre de la Lisa. Desesperada, la Violette la busca i descobreix que la seva nòvia coneix l'agressor. Podrien estar conxorxats? L'ha manipulat la Lisa per experimentar amb ella? Només hi ha una manera d'esbrinar-ho.</desc>
-    <credits>
-      <director>Sandrine Veysset</director>
-      <writer>Françoise Charpiat</writer>
-      <actor>Zoé Héran</actor>
-      <actor>Maïra Schmitt</actor>
-      <actor>Eléonore Bernheim</actor>
-      <actor>David Kammenos</actor>
-      <actor>Aaliyah Lexilus</actor>
-      <actor>Christelle Reboul</actor>
-      <actor>Philippe Dusseau</actor>
-      <actor>Julie Moulier</actor>
-      <actor>Linda Bouhenni</actor>
-      <actor>Marion Ploquin</actor>
-      <actor>Xavier Widhoff</actor>
-      <actor>Hélène Arié</actor>
-      <actor>Valentin Duclaux</actor>
-      <actor>Teïlo Azaïs</actor>
-      <actor>Tristan Zanchi</actor>
-      <actor>Aymeric FougeronLa Violette</actor>
-      <actor>una noia de disset anys</actor>
-      <actor>amb un futur brillant com a nedadora de competició</actor>
-      <actor>decideix acceptar la seva homosexualitat i</actor>
-      <actor>amb el suport dels seus pares</actor>
-      <actor>surt de l'armari</actor>
-      <actor>s'enamora de la Lisa. Tot</actor>
-      <actor>que a la Lisa li costa més expressar els seus sentiments</actor>
-      <actor>les dues adolescents descobreixen juntes l'experiència del primer amor. Però</actor>
-      <actor>quan la Violette pateix una agressió brutal anant pel carrer amb la Lisa</actor>
-      <actor>la relació fa un tomb. Quan es desperta a l'hospital</actor>
-      <actor>no hi ha rastre de la Lisa. Desesperada</actor>
-      <actor>la Violette la busca</actor>
-      <actor>descobreix que la seva nòvia coneix l'agressor. Podrien estar conxorxats? L'ha manipulat la Lisa per experimentar amb ella? Només hi ha una manera d'esbrinar-ho.</actor>
-    </credits>
-    <length units="seconds">5712</length>
-    <episode-num system="onscreen">1</episode-num>
-    <category lang="ca">FICCIÓ</category>
-    <category lang="ca">PEL·LÍCULA / TELEFILM</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <subtitles type="teletext"/>
-    <icon src="https://img.3cat.cat/multimedia/jpg/0/3/1795052744230.jpg"/>
-  </programme>
-  <channel id="tvi">
-    <display-name>TVI</display-name>
-  </channel>
-  <programme start="20261127222301 +0100" stop="20261127225438 +0100" channel="tvi">
-    <title lang="ca">L'un per l'altre</title>
-    <sub-title lang="ca">Recuperació</sub-title>
-    <desc lang="ca">L'escola Xapí rep la visita d'un inspector que certifica que el nivell de l'escola és lamentable. Tots els professors es veuen obligats a presentar-se a un examen. El Toni fa massa temps que no estudia i no es recorda de res. El Poppins diu que l'ajudarà a aprovar, encara que sigui amb mètodes poc legals.</desc>
-    <length units="seconds">1897</length>
-    <episode-num system="onscreen">37</episode-num>
-    <category lang="ca">FICCIÓ</category>
-    <category lang="ca">SITCOM (COMÈDIA DE SITUACIÓ)</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <subtitles type="teletext"/>
-    <previously-shown/>
-  </programme>
-  <programme start="20261127225438 +0100" stop="20261127231808 +0100" channel="tvi">
-    <title lang="ca">L'un per l'altre</title>
-    <sub-title lang="ca">L'avi fatxa</sub-title>
-    <desc lang="ca">En una de les fotos antigues que hi ha penjades a l'Hostal, descobreixen que un dels homes té la cara esborrada. Aquest home era l'avi matern del Toni, algú de qui mai es parla a casa seva. Investigant i remenant les golfes el Toni descobreix que el seu avi va ser un home amb un passat fosc durant la guerra civil i odiat per gairebé tothom.</desc>
-    <length units="seconds">1410</length>
-    <episode-num system="onscreen">38</episode-num>
-    <category lang="ca">FICCIÓ</category>
-    <category lang="ca">SITCOM (COMÈDIA DE SITUACIÓ)</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <subtitles type="teletext"/>
-    <previously-shown/>
-  </programme>
-  <channel id="324">
-    <display-name>324</display-name>
-  </channel>
-  <programme start="20261127220500 +0100" stop="20261127233000 +0100" channel="324">
-    <title lang="ca">Mésnit</title>
-    <desc lang="ca">El 'Mésnit' arriba a la desena temporada, amb Marina Romero al capdavant de l'espai i amb la voluntat de continuar sent un centre de debat d'idees i d'anàlisi de l'activitat política.</desc>
-    <length units="seconds">5100</length>
-    <episode-num system="onscreen">2208</episode-num>
-    <category lang="ca">ACTUALITAT</category>
-    <category lang="ca">DEBAT</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <subtitles type="teletext"/>
-  </programme>
-  <programme start="20261127233000 +0100" stop="20261128003000 +0100" channel="324">
+  <programme start="20261128014619 +0100" stop="20261128043000 +0100" channel="tv3uhd">
     <title lang="ca">Notícies 3CatInfo</title>
     <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <length units="seconds">3600</length>
-    <episode-num system="onscreen">11819</episode-num>
+    <length units="seconds">9821</length>
+    <episode-num system="onscreen">11820</episode-num>
     <category lang="ca">ACTUALITAT</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <subtitles type="teletext"/>
+    <previously-shown/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
+  </programme>
+  <programme start="20261128043000 +0100" stop="20261128050000 +0100" channel="tv3uhd">
+    <title lang="ca">Ritmes a l'aula</title>
+    <sub-title lang="ca">Tazuff</sub-title>
+    <length units="seconds">1800</length>
+    <episode-num system="onscreen">11</episode-num>
+    <category lang="ca">MUSICALS</category>
+    <category lang="ca">JAZZ</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <previously-shown/>
+    <icon src="https://img.3cat.cat/multimedia/jpg/0/5/1748345445750.jpg"/>
+  </programme>
+  <channel id="tvi">
+    <display-name>TVI</display-name>
+  </channel>
+  <programme start="20261128014619 +0100" stop="20261128043000 +0100" channel="tvi">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <desc lang="ca">Sense Descripció</desc>
+    <length units="seconds">9821</length>
+    <episode-num system="onscreen">11820</episode-num>
+  </programme>
+  <programme start="20261128043000 +0100" stop="20261128050000 +0100" channel="tvi">
+    <title lang="ca">Ritmes a l'aula</title>
+    <sub-title lang="ca">- Tazuff</sub-title>
+    <desc lang="ca">Sense Descripció</desc>
+    <length units="seconds">1800</length>
+    <episode-num system="onscreen">11</episode-num>
+  </programme>
+  <channel id="324">
+    <display-name>324</display-name>
+  </channel>
+  <programme start="20261128010000 +0100" stop="20261128060000 +0100" channel="324">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="seconds">18000</length>
+    <episode-num system="onscreen">11820</episode-num>
+    <category lang="ca">ACTUALITAT</category>
+    <category lang="ca">INFORMATIU DIÀRI</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <previously-shown/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
+  </programme>
+  <programme start="20261128060000 +0100" stop="20261128070000 +0100" channel="324">
+    <title lang="ca">Notícies 3CatInfo</title>
+    <desc lang="ca">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
+    <length units="seconds">3600</length>
+    <episode-num system="onscreen">11820</episode-num>
+    <category lang="ca">ACTUALITAT</category>
+    <category lang="ca">INFORMATIU DIÀRI</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <previously-shown/>
     <icon src="https://img.ccma.cat/multimedia/jpg/1/4/1758106759241.jpg"/>
   </programme>
   <channel id="esport3">
     <display-name>ESPORT3</display-name>
   </channel>
-  <programme start="20261127222429 +0100" stop="20261127230000 +0100" channel="esport3">
-    <title lang="ca">Esport Club</title>
-    <sub-title lang="ca">La retirada de Marc Márquez, i tertúlia</sub-title>
-    <desc lang="ca">Marc Márquez ha anunciat per sorpresa que es retira aquest cap de setmana. Ho ha fet a Xest, on correrà la seva última cursa, el Gran Premi de València. N'hem parlat amb Xavi Guillén i Montse Sogues, cap de Comunicació del Circuit de Barcelona-Catalunya. A la tertúlia ens han acompanyat Gemma Mallorca, Frederic Porta i David Sánchez</desc>
-    <length units="seconds">2131</length>
-    <episode-num system="onscreen">3293</episode-num>
+  <programme start="20261128025435 +0100" stop="20261128043434 +0100" channel="esport3">
+    <title lang="ca">Futbol</title>
+    <sub-title lang="ca">CD Leganés-CE Sabadell / Lliga Hypermotion / J16</sub-title>
+    <desc lang="ca">Els arlequinats sumen 6 jornades sense guanyar, tenen 19 punts i ocupen la 14a posició. Els madrilenys són 15ns, amb un punt menys, i han guanyat a les dues últimes jornades.</desc>
+    <length units="seconds">5999</length>
+    <episode-num system="onscreen">4</episode-num>
+    <category lang="ca">ESPORTS</category>
+    <category lang="ca">RETRANSMISSIONS ESPORTS</category>
+    <rating>
+      <value>TOTS ELS PÚBLICS</value>
+    </rating>
+    <previously-shown/>
+    <icon src="https://img.3cat.cat/multimedia/jpg/8/3/1791458637038.jpg"/>
+  </programme>
+  <programme start="20261128043434 +0100" stop="20261128045821 +0100" channel="esport3">
+    <title lang="ca">3CatInfo Esports</title>
+    <desc lang="ca">Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.</desc>
+    <length units="seconds">1427</length>
+    <episode-num system="onscreen">5580</episode-num>
     <category lang="ca">ESPORTS</category>
     <category lang="ca">INFORMATIU DIÀRI</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
-    <subtitles type="teletext"/>
     <previously-shown/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/7/3/1698145091337.jpg"/>
-  </programme>
-  <programme start="20261127230000 +0100" stop="20261128003043 +0100" channel="esport3">
-    <title lang="ca">Onze</title>
-    <desc lang="ca">Les nits d'Esport3 tornen a concentrar tota la informació, les millors opinions i l'entreteniment necessari per acabar el dia al voltant de l'actualitat esportiva. Un xou cada nit per acabar informat, saber cap on va l'actualitat i mantenir sempre un somriure.</desc>
-    <length units="seconds">5443</length>
-    <episode-num system="onscreen">1296</episode-num>
-    <category lang="ca">ESPORTS</category>
-    <category lang="ca">MAGAZINE</category>
-    <rating>
-      <value>TOTS ELS PÚBLICS</value>
-    </rating>
-    <subtitles type="teletext"/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/1/1/1688543515711.jpg"/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/9/7/1758888682179.jpg"/>
   </programme>
   <channel id="sx3">
     <display-name>SX3</display-name>
   </channel>
-  <programme start="20261127222108 +0100" stop="20261127224043 +0100" channel="sx3">
-    <title lang="ca">El detectiu Conan</title>
-    <sub-title lang="ca">En Conan atrapat a les fosques (1a part)</sub-title>
-    <desc lang="ca">En Conan veu que un lladre intenta obrir una caixa forta, però el lladre també el descobreix a ell amagat sota una taula i el deixa estabornit. Quan es desperta, es troba lligat de peus i mans, emmordassat i tancat a les fosques en un espai molt petit. Mentrestant, l'advocat que ha estat víctima del robatori li demana al detectiu Mouri que investigui el cas.</desc>
-    <length units="seconds">1175</length>
-    <episode-num system="onscreen">900</episode-num>
+  <programme start="20261128042157 +0100" stop="20261128043327 +0100" channel="sx3">
+    <title lang="ca">La família Teixó-Guineu</title>
+    <sub-title lang="ca">Un espectacle preciós</sub-title>
+    <desc lang="ca">La Guineta, en Pinxo, en Timbal i la Trufa decideixen fer un espectacle per als seus pares. Entre tots munten un petit escenari al mig del bosc, però en Pinxo vol ser el protagonista absolut de la funció, cosa que no agrada gens als seus germans, que el deixen plantat. En Pinxo assaja el seu esquetx en veu tan alta, que es queda afònic.</desc>
+    <length units="seconds">690</length>
+    <episode-num system="onscreen">23</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
@@ -199,12 +121,12 @@
     <subtitles type="teletext"/>
     <previously-shown/>
   </programme>
-  <programme start="20261127224043 +0100" stop="20261127230128 +0100" channel="sx3">
-    <title lang="ca">El detectiu Conan</title>
-    <sub-title lang="ca">En Conan atrapat a les fosques (2a part)</sub-title>
-    <desc lang="ca">En Conan continua sense poder sortir de la mena de caixa on està tancat a les fosques, però, per sort, aconsegueix comunicar-se amb els seus amics de la Lliga de Detectius Júnior mitjançant el pin transmissor. Els diu que li sembla que l'han tancat a dins d'un taüt i que es comença a moure, com si el transportessin amb cotxe. Mentrestant, en Kogoro Mouri investiga el cas del robatori d'un testament.</desc>
-    <length units="seconds">1245</length>
-    <episode-num system="onscreen">901</episode-num>
+  <programme start="20261128043327 +0100" stop="20261128044457 +0100" channel="sx3">
+    <title lang="ca">La família Teixó-Guineu</title>
+    <sub-title lang="ca">A parts iguals</sub-title>
+    <desc lang="ca">L'avi deixa a la Marguerite i a l'Edmond unes baies de saüc que ha collit perquè les donin als nens. Les ha comptat bé, perquè hi hagi les mateixes per a tots. Però l'Edmond, com que no ho sap, no pot resistir la temptació i se'n menja una. Quan els petits se les parteixen, es troben que al final en queden tres i, com que són quatre, no saben com fer-s'ho.</desc>
+    <length units="seconds">690</length>
+    <episode-num system="onscreen">24</episode-num>
     <category lang="ca">FICCIÓ</category>
     <category lang="ca">SÈRIE DIBUIXOS ANIMATS</category>
     <rating>
@@ -216,28 +138,29 @@
   <channel id="c33">
     <display-name>C33</display-name>
   </channel>
-  <programme start="20261127220459 +0100" stop="20261127225528 +0100" channel="c33">
-    <title lang="ca">La Renaixença</title>
-    <sub-title lang="ca">Millors moments - setmana 13</sub-title>
-    <desc lang="ca">Fixeu-vos quina cosa tan curiosa, aquesta setmana parlem de la forca, uns elements que (per sort) cada cop està més en desús, i del satèl·lit, dels quals cada cop n'hi ha més. També parlem del rellotge de sorra i dels escacs, elements que actualment no passen moments de glòria, però que més o menys tothom ha tingut a les mans. De convidats tenim a la Laia Sanz i la Mar Camps, i en Yung Rajola i en Xevi Vilaró. Gent de nivell, per a un programa de nivell.</desc>
-    <length units="seconds">3029</length>
-    <episode-num system="onscreen">283</episode-num>
-    <category lang="ca">DIVULGACIÓ</category>
-    <category lang="ca">ALTRES</category>
+  <programme start="20261128035657 +0100" stop="20261128050640 +0100" channel="c33">
+    <title lang="ca">Vintage</title>
+    <sub-title lang="ca">Capítol 3 i 4</sub-title>
+    <desc lang="ca">Ep.3 La Norma, la filla d'en Paco, torna amb la seva família a Barcelona i s'instal·la una temporada a casa d'ell, i això fa esclatar tot de conflictes, especialment sobre la criança d'en Gunnar, el net d'en Paco. D'altra banda, en Genís, que continua tenint molts problemes econòmics, ajuda el seu fill Teo a trobar feina d'una vegada.Ep.4 La situació entre en Genís i la Pie és insostenible. Per poder fer front a les despeses del divorci, en Genís es veurà obligat a acceptar una oferta de feina que entra en conflicte amb els seus principis. Mentrestant, en Paco vol menjar-se un bon caldo, però descobreix que els restaurants de la ciutat que li agradaven han tancat. Això i una nova trobada amb la Xusa farà que es comenci a plantejar si els temps estan canviant.</desc>
+    <length units="seconds">4183</length>
+    <episode-num system="onscreen">2</episode-num>
+    <category lang="ca">FICCIÓ</category>
+    <category lang="ca">TELESÈRIE</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
     <subtitles type="teletext"/>
-    <icon src="https://img.ccma.cat/multimedia/jpg/3/3/1756148014833.jpg"/>
+    <previously-shown/>
+    <icon src="https://img.ccma.cat/multimedia/jpg/2/0/1719470065902.jpg"/>
   </programme>
-  <programme start="20261127225528 +0100" stop="20261127232058 +0100" channel="c33">
-    <title lang="ca">Volcans i homes</title>
-    <sub-title lang="ca">Martinica. A l'ombra del mont Pelée</sub-title>
-    <desc lang="ca">Al cor del Carib, a Martinica, els homes conviuen amb un dels nombrosos volcans actius de les Petites Antilles. El 1902, una erupció del mont Pelée va provocar el desastre volcànic més mortífer del segle XX. En pocs minuts, l'erupció va causar prop de 30.000 morts. Els habitants dels pobles que hi ha al peu del volcà tenen molt present el que va passar i són conscients dels perills que els amenacen, per això fan tot el possible perquè les noves generacions no hagin de viure el trauma que va marcar el passat recent de l'illa.Página 1 de 1</desc>
-    <length units="seconds">1530</length>
-    <episode-num system="onscreen">28</episode-num>
-    <category lang="ca">DIVULGACIÓ</category>
-    <category lang="ca">DOCUMENTAL DE DIVULGACIÓ</category>
+  <programme start="20261128050640 +0100" stop="20261128053605 +0100" channel="c33">
+    <title lang="ca">Òpera en texans</title>
+    <sub-title lang="ca">Wagner i els catalans</sub-title>
+    <desc lang="ca">Per què ens sentim fascinats per 'Lohengrin', per 'Parsifal', per 'Tannhäuser'...? Per què els catalans tenim devoció per Wagner? Un viatge al passat per descobrir les pistes wagnerianes que s'amaguen per tot Barcelona, des del passeig de Gràcia fins al Palau de la Música, perquè encara avui Barcelona és la segona capital de Wagner després de Bayreuth. El bus turístic fa la ruta blava, la ruta vermella... Nosaltres us proposem la Ruta Wagner. I per acabar, el cor dels pelegrins de 'Tannhäuser' a l'òpera rock dels MiNE!</desc>
+    <length units="seconds">1765</length>
+    <episode-num system="onscreen">29</episode-num>
+    <category lang="ca">MUSICALS</category>
+    <category lang="ca">ÒPERA</category>
     <rating>
       <value>TOTS ELS PÚBLICS</value>
     </rating>
